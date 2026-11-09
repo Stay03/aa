@@ -1,0 +1,677 @@
+[
+ {
+  "article": "2011 FA Cup final",
+  "date": "2011-05-14",
+  "competition": "FA Cup",
+  "season": "2010-11",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester City",
+  "team2": "Stoke City",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/13346941",
+   "https://www.espn.co.uk/football/match/_/gameId/316112",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=316112"
+  ],
+  "core_verified": true,
+  "referee": "Martin Atkinson",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); West Riding County FA",
+  "referee_sources": [
+   "https://www.bbc.co.uk/sport/football/13129081",
+   "https://www.bbc.co.uk/sport/football/13346941",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=316112"
+  ],
+  "assistants": "Adam Watts; Simon Beck",
+  "fourth_official": "Lee Probert",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.bbc.co.uk/sport/football/13129081",
+   "https://www.bbc.co.uk/sport/football/15183267",
+   "https://www.bbc.co.uk/sport/football/23150704"
+  ],
+  "manager1": "Roberto Mancini",
+  "manager2": "Tony Pulis",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Yaya Touré",
+    "minute": "74",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Stoke City",
+    "player": "Robert Huth",
+    "minute": "40",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Stoke City",
+    "player": "Andy Wilkinson",
+    "minute": "76",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=316112"
+  ],
+  "stats": {
+   "shots1": 22,
+   "shots2": 9,
+   "sot1": 13,
+   "sot2": 1,
+   "poss1": 59,
+   "poss2": 41,
+   "fouls1": 14,
+   "fouls2": 9,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=316112",
+   "xg_source": null,
+   "note": "ESPN match data (provider not stated; likely Opta). Possession % as published by ESPN."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [
+    "https://www.bbc.co.uk/sport/football/13346941"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "early first half (minute not stated)",
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "Robert Huth caught Mario Balotelli with an elbow early on; referee Atkinson did not see it and took no action.",
+    "favoured_team": "Stoke City",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (Phil McNulty, BBC, wrote Huth was 'fortunate' the referee did not see it)",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0; any sanction (if a red card) would have left Stoke with 10 men in a match decided 1-0, but the report does not say a red card was warranted.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/13346941"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC match report (McNulty), ESPN match events; Guardian/Telegraph pages not fetchable from this environment. Only the unseen Huth elbow noted (single source).",
+  "uncertain": [
+   "Huth elbow incident documented by one reputable source only (BBC); minute not given.",
+   "Assistant referees/fourth official from BBC appointment article (Apr 2011); reserve official (Jake Collin per Wikipedia) not independently confirmed.",
+   "No key absentees identified: BBC says Tevez, Etherington and Huth all passed fitness tests; full absentee lists not found.",
+   "Pre-match odds not found in a fetchable reputable source (web search budget exhausted); odds left null.",
+   "GLT false: BBC (Oct 2011) reported IFAB would not approve any technology until after Euro 2012; first use in English football expected 2013-14."
+  ]
+ },
+ {
+  "article": "2012 FA Cup final",
+  "date": "2012-05-05",
+  "competition": "FA Cup",
+  "season": "2011-12",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Liverpool",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/17878435",
+   "http://www.rte.ie/sport/soccer/2012/0505/319795-fa-cup/",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=340950"
+  ],
+  "core_verified": true,
+  "referee": "Phil Dowd",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Staffordshire FA",
+  "referee_sources": [
+   "https://www.bbc.co.uk/sport/football/17745016",
+   "https://www.bbc.co.uk/sport/football/17878435",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=340950"
+  ],
+  "assistants": "Stuart Burt; Andrew Garratt",
+  "fourth_official": "Michael Jones",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.bbc.co.uk/sport/football/17745016",
+   "https://www.bbc.co.uk/sport/football/17878435",
+   "https://www.bbc.co.uk/sport/football/15183267",
+   "https://www.bbc.co.uk/sport/football/23150704"
+  ],
+  "manager1": "Roberto Di Matteo (interim)",
+  "manager2": "Kenny Dalglish",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Ramires",
+    "minute": "11",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "52",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Andy Carroll",
+    "minute": "64",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "John Obi Mikel",
+    "minute": "37",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Daniel Agger",
+    "minute": "45",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Luis Suárez",
+    "minute": "82",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=340950"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "ESPN feed has no team stats for this match. Wikipedia cites BBC for shots 14-18, on target 6-10, possession 45-55, fouls 5-8, but the BBC stats table is no longer displayed, so not verified; left null."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "81",
+    "score_at_time": "2-1",
+    "type": "goal disallowed",
+    "description": "Andy Carroll's header was clawed onto the bar/away by Petr Cech; Liverpool claimed the ball had crossed the line. Assistant Andrew Garratt could not signal a goal so referee Phil Dowd played on. No goal-line technology; replays described as inconclusive (BBC) / mostly supporting the officials' doubt (RTE).",
+    "favoured_team": "Chelsea",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (BBC: replays 'inconclusive'; RTE: 'massive goal-line controversy')",
+    "impact": "likely",
+    "impact_reasoning": "A goal would have equalised at 2-2 in a match decided by one goal.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/17878435",
+     "http://www.rte.ie/sport/soccer/2012/0505/319795-fa-cup/"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, RTE report, ESPN events; Guardian MBM/Dalglish quotes not fetchable. Only the Carroll goal-line incident found.",
+  "uncertain": [
+   "Card minutes from ESPN (37', 45', 82'); Wikipedia lists 36', 44', 81' - one-minute offsets, unresolved.",
+   "Minute of Carroll incident (81') from Wikipedia narrative; BBC/RTE do not give a minute in the text read.",
+   "Absences: Wikipedia says Liverpool were without Charlie Adam and Lucas Leiva (knee) and Chelsea without David Luiz and Gary Cahill (hamstring) but the underlying source was not checked - not recorded.",
+   "Fourth official named as 'Michael Jones' by BBC (Wikipedia: Mike Jones, Cheshire).",
+   "Odds not found (web search budget exhausted)."
+  ]
+ },
+ {
+  "article": "2013 FA Cup final",
+  "date": "2013-05-11",
+  "competition": "FA Cup",
+  "season": "2012-13",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester City",
+  "team2": "Wigan Athletic",
+  "score_90": "0-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Wigan Athletic",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/22409634",
+   "https://www.espn.co.uk/football/match/_/gameId/364648",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=364648"
+  ],
+  "core_verified": true,
+  "referee": "Andre Marriner",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Birmingham County FA",
+  "referee_sources": [
+   "https://www.bbc.co.uk/sport/football/22182489",
+   "https://www.bbc.co.uk/sport/football/22409634",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=364648"
+  ],
+  "assistants": "Stephen Child; Simon Long",
+  "fourth_official": "Anthony Taylor",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "http://www.thefa.com/news/2017/apr/26/anthony-taylor-to-referee-emirates-fa-cup-final-260417",
+   "https://www.bbc.co.uk/sport/football/15183267",
+   "https://www.bbc.co.uk/sport/football/23150704"
+  ],
+  "manager1": "Roberto Mancini",
+  "manager2": "Roberto Martínez",
+  "goals": [
+   {
+    "team": "Wigan Athletic",
+    "player": "Ben Watson",
+    "minute": "90+1",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester City",
+    "player": "Pablo Zabaleta",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Matija Nastasić",
+    "minute": "75",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Pablo Zabaleta",
+    "minute": "84",
+    "card": "2Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Gareth Barry",
+    "minute": "87",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Wigan Athletic",
+    "player": "Joel Robles",
+    "minute": "90+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=364648",
+   "https://www.bbc.co.uk/sport/football/22409634"
+  ],
+  "stats": {
+   "shots1": 15,
+   "shots2": 14,
+   "sot1": 12,
+   "sot2": 6,
+   "poss1": 52,
+   "poss2": 48,
+   "fouls1": 11,
+   "fouls2": 5,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=364648",
+   "xg_source": null,
+   "note": "ESPN match data; 12 of 15 City shots on target looks implausible - treat with caution."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "BBC report (calls Zabaleta's second yellow 'a simple decision'), ESPN events; Guardian MBM not fetchable. No disputed decisions found.",
+  "uncertain": [
+   "Assistants (Child, Long) only from Wikipedia; fourth official Anthony Taylor confirmed by TheFA 2017 article. Assistants unverified.",
+   "ESPN shots-on-target figure (12/15 for City) may be wrong.",
+   "Absences and odds not researched successfully (search budget exhausted).",
+   "GLT false: BBC July 2013 article says the FA had not yet signed a GLT provider for Wembley."
+  ]
+ },
+ {
+  "article": "2014 FA Cup final",
+  "date": "2014-05-17",
+  "competition": "FA Cup",
+  "season": "2013-14",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Hull City",
+  "score_90": "2-2",
+  "score_aet": "3-2",
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/27354148",
+   "http://www.thefa.com/news/the-fa-cup/2014/may/arsenal-v-hull-city-fa-cup-final-2014-match-report",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=391844"
+  ],
+  "core_verified": true,
+  "referee": "Lee Probert",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Wiltshire FA",
+  "referee_sources": [
+   "https://www.thefa.com/news/2014/apr/16/final-referee-lee-probert",
+   "https://www.bbc.co.uk/sport/football/27057630",
+   "https://www.bbc.co.uk/sport/football/27354148"
+  ],
+  "assistants": "Jake Collin; Mick McDonough",
+  "fourth_official": "Kevin Friend",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2014/apr/16/final-referee-lee-probert",
+   "http://www.thefa.com/news/the-fa-cup/2014/may/arsenal-v-hull-city-fa-cup-final-2014-match-report"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "Steve Bruce",
+  "goals": [
+   {
+    "team": "Hull City",
+    "player": "James Chester",
+    "minute": "4",
+    "type": "open play"
+   },
+   {
+    "team": "Hull City",
+    "player": "Curtis Davies",
+    "minute": "8",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Santi Cazorla",
+    "minute": "17",
+    "type": "free kick"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Laurent Koscielny",
+    "minute": "71",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Aaron Ramsey",
+    "minute": "109",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Hull City",
+    "player": "Tom Huddlestone",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Hull City",
+    "player": "David Meyler",
+    "minute": "70",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Olivier Giroud",
+    "minute": "85",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Hull City",
+    "player": "Curtis Davies",
+    "minute": "86",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=391844"
+  ],
+  "stats": {
+   "shots1": 25,
+   "shots2": 12,
+   "sot1": 7,
+   "sot2": 3,
+   "poss1": 65,
+   "poss2": 35,
+   "fouls1": 17,
+   "fouls2": 18,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=391844",
+   "xg_source": null,
+   "note": "ESPN match data incl. extra time; ESPN shows 0 corners for both sides, so feed may be incomplete."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "16-17",
+    "score_at_time": "0-2",
+    "type": "other",
+    "description": "Steve Bruce said he did not think the foul giving Arsenal the free kick from which Cazorla scored was a free kick.",
+    "favoured_team": "Arsenal",
+    "against_team": "Hull City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only",
+    "impact": "possible",
+    "impact_reasoning": "Led directly to Arsenal's first goal in a match Arsenal won by one goal, but whether the decision was wrong is unassessed.",
+    "sources": [
+     "https://bleacherreport.com/articles/2067041-fa-cup-final-2014-post-match-reaction-from-arsene-wenger-and-steve-bruce"
+    ]
+   },
+   {
+    "minute": "70-71",
+    "score_at_time": "1-2",
+    "type": "other",
+    "description": "Steve Bruce said the corner from which Koscielny equalised should have been a goal kick.",
+    "favoured_team": "Arsenal",
+    "against_team": "Hull City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only",
+    "impact": "possible",
+    "impact_reasoning": "Set-piece led to the 2-2 equaliser in a match won by one goal; correctness unassessed.",
+    "sources": [
+     "https://bleacherreport.com/articles/2067041-fa-cup-final-2014-post-match-reaction-from-arsene-wenger-and-steve-bruce"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, TheFA report, ESPN events, Wikipedia narrative/refs (Bruce quotes via Bleacher Report). Cazorla 68' penalty appeal (Wikipedia) not described as disputed by a reputable source read.",
+  "uncertain": [
+   "Bruce's complaints sourced only to Bleacher Report (quoted via Wikipedia); a second reputable source not found - single-source.",
+   "GLT: no source found stating whether goal-line technology was in operation at Wembley for this final.",
+   "Reserve assistant Simon Bennett per TheFA appointment page.",
+   "Odds/absences not found (search budget exhausted)."
+  ]
+ },
+ {
+  "article": "2015 FA Cup final",
+  "date": "2015-05-30",
+  "competition": "FA Cup",
+  "season": "2014-15",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Aston Villa",
+  "score_90": "4-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/32856754",
+   "https://www.espn.co.uk/football/match/_/gameId/419663",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=419663"
+  ],
+  "core_verified": true,
+  "referee": "Jon Moss",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); West Riding County FA",
+  "referee_sources": [
+   "https://www.bbc.co.uk/sport/football/32411536",
+   "https://www.bbc.co.uk/sport/football/32856754",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=419663"
+  ],
+  "assistants": "Darren England; Simon Bennett",
+  "fourth_official": "Craig Pawson",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2026/apr/29/emirates-fa-cup-final-2026-match-officials-appointed-20262904",
+   "https://www.thefa.com/news/2022/apr/21/craig-pawson-mens-fa-cup-final-referee-kirsty-dowle-womens-fa-cup-referee-appointment-20222104"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "Tim Sherwood",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Theo Walcott",
+    "minute": "40",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Alexis Sánchez",
+    "minute": "50",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Per Mertesacker",
+    "minute": "62",
+    "type": "header"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Olivier Giroud",
+    "minute": "90+3",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Aston Villa",
+    "player": "Tom Cleverley",
+    "minute": "14",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Alan Hutton",
+    "minute": "33",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Fabian Delph",
+    "minute": "37",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Ashley Westwood",
+    "minute": "52",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Gabriel Agbonlahor",
+    "minute": "83",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=419663"
+  ],
+  "stats": {
+   "shots1": 16,
+   "shots2": 2,
+   "sot1": 8,
+   "sot2": 0,
+   "poss1": 59,
+   "poss2": 41,
+   "fouls1": 8,
+   "fouls2": 15,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=419663",
+   "xg_source": null,
+   "note": "ESPN match data."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "BBC report (mentions only 'half-hearted' Villa penalty appeals), ESPN events, Wikipedia narrative (Agbonlahor penalty claim c.77' at 3-0). No reputable source describing a decision as wrong/controversial found. Pre-match: Mark Halsey criticised Moss's appointment (BBC) - not a match decision.",
+  "uncertain": [
+   "Assistant Simon Bennett only from Wikipedia; Darren England (AR) and Craig Pawson (4th) confirmed by later TheFA articles.",
+   "Jon Moss: BBC says 'Sunderland-born'; registered West Riding (Wikipedia) - association unverified from primary source.",
+   "GLT not confirmed by any source read.",
+   "Odds/absences not found (search budget exhausted)."
+  ]
+ }
+]

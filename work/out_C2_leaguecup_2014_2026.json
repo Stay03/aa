@@ -928,5 +928,128 @@
    "Match statistics not found for this match.",
    "GLT: no source found stating it was in operation."
   ]
+ },
+ {
+  "article": "2025 EFL Cup final",
+  "date": "2025-03-16",
+  "competition": "League Cup",
+  "season": "2024-25",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Liverpool",
+  "team2": "Newcastle United",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Newcastle United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/liverpool-vs-newcastle-united/teams/528637",
+   "https://www.skysports.com/football/news/11938/13327769/liverpool-1-2-newcastle-dan-burn-alexander-isak-goals-deliver-toon-carabao-cup-win-to-end-70-year-trophy-wait",
+   "https://www.insideworldfootball.com/2025/03/19/newcastle-win-fuels-increased-engagement-carabao-cup/"
+  ],
+  "core_verified": true,
+  "referee": "John Brooks",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.skysports.com/football/liverpool-vs-newcastle-united/teams/528637",
+   "Wikipedia citing EFL appointments (https://www.efl.com/news/2025/march/04/referee-appointments--carabao-cup-final-2025/) - EFL page not readable (JS)"
+  ],
+  "assistants": "Eddie Smart; Nick Greenhalgh (Wikipedia/EFL only)",
+  "fourth_official": "Darren England",
+  "var_officials": "VAR: Stuart Attwell; AVAR: Sian Massey-Ellis",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/liverpool-vs-newcastle-united/teams/528637"
+  ],
+  "manager1": "Arne Slot",
+  "manager2": "Eddie Howe",
+  "goals": [
+   {
+    "team": "Newcastle United",
+    "player": "Dan Burn",
+    "minute": "45",
+    "type": "header"
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Alexander Isak",
+    "minute": "52",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Federico Chiesa",
+    "minute": "90+4",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Newcastle United",
+    "player": "Nick Pope",
+    "minute": "90",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Federico Chiesa",
+    "minute": "90+8",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Sandro Tonali",
+    "minute": "90+9",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/liverpool-vs-newcastle-united/teams/528637"
+  ],
+  "stats": {
+   "shots1": 7,
+   "shots2": 17,
+   "sot1": 2,
+   "sot2": 6,
+   "poss1": 66,
+   "poss2": 34,
+   "fouls1": 14,
+   "fouls2": 10,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.nytimes.com/athletic/live-blogs/liverpool-newcastle-live-updates-carabao-cup-final-score-result/FlDSYJtTMLe8/",
+   "xg_source": null,
+   "note": "Figures from Wikipedia's table citing The Athletic live blog; The Athletic was not fetchable by this agent, so NOT independently verified. Sky stats page only shows saves (4-1) and interceptions (3-7). Yellow-card count (1-2) consistent with Sky lineup."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Anthony Gordon (suspended, red card v Brighton in FA Cup)",
+    "Lewis Hall (foot injury, out for season)",
+    "Sven Botman (knee; Wikipedia only, unverified)"
+   ],
+   "sources": [
+    "https://www.skysports.com/football/news/11095/13321132/anthony-gordon-newcastle-winger-to-miss-carabao-cup-final-after-club-decide-not-to-appeal-red-card-against-brighton",
+    "https://www.newcastleunited.com/en/news/hall-to-miss-rest-of-the-season-with-foot-injury"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "Sky Sports news report and match pages only (web-search budget exhausted mid-task; BBC, Guardian, The Athletic, Sporting News blocked). Sky report notes VAR checks: an Isak goal disallowed for offside, a first-half Trippier handball reviewed (no penalty), Chiesa's 90+4 goal initially flagged offside then allowed by VAR. None was described as wrong/controversial in the fetched source, so none recorded. Search for expert reviews (e.g. PGMOL KMI/Ref Watch) NOT completed.",
+  "uncertain": [
+   "Liverpool absentees (reportedly Trent Alexander-Arnold, injured) not verified - no accessible source fetched; team1 absences left empty for that reason, not because none existed.",
+   "Assistant referees from Wikipedia/EFL only (Sky lineup listed referee, fourth official, VAR, AVAR).",
+   "Stats from Wikipedia citing The Athletic - not independently verified.",
+   "Odds not searched (search budget exhausted).",
+   "Contested-decision search incomplete (see contested_search_done).",
+   "GLT: no source found stating it was in operation."
+  ]
  }
 ]

@@ -599,8 +599,8 @@
     "against_team": "Manchester City",
     "assessment": "genuinely debatable",
     "assessed_by": "no expert assessment found; match report (PA via ESPN) only",
-    "impact": "none",
-    "impact_reasoning": "Arsenal won 3-0; even a converted penalty at 0-0 would not plausibly have changed the outcome given the final margin (though it came at 0-0).",
+    "impact": "possible",
+    "impact_reasoning": "Came at 0-0, so a penalty could in principle have changed the course of the match, although Arsenal eventually won 3-0.",
     "sources": [
      "https://www.espn.co.uk/football/match/_/gameId/400444"
     ]
@@ -1230,6 +1230,971 @@
    "Shootout: Liverpool 4-5 (Wijnaldum saved by Bravo; City scored all five).",
    "Sergio Agüero and Ederson were on the bench (not absent) per ESPN.",
    "Odds in ESPN feed are in-play (draw 2/11) - not usable; null."
+  ]
+ },
+ {
+  "article": "2020 FA Community Shield",
+  "date": "2020-08-29",
+  "competition": "FA Community Shield",
+  "season": "2020-21",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Liverpool",
+  "score_90": "1-1",
+  "score_aet": null,
+  "shootout": "5-4",
+  "winner": "Arsenal",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/53871874",
+   "https://www.espn.co.uk/football/match/_/gameId/575921",
+   "https://www.thefa.com/news/2020/aug/29/arsenal-liverpool-mens-fa-community-shield-match-report-290820"
+  ],
+  "core_verified": true,
+  "referee": "Andre Marriner",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.thefa.com/news/2020/aug/17/referees-appointed-for-fa-community-shield-games-170820",
+   "https://www.thefa.com/news/2020/aug/27/on-the-spot-andre-marriner-2020-fa-community-shield-270820"
+  ],
+  "assistants": "Mark Scholes; Marc Perry",
+  "fourth_official": "Andrew Madley",
+  "var_officials": "VAR: David Coote; AVAR: Dan Cook",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2020/aug/17/referees-appointed-for-fa-community-shield-games-170820"
+  ],
+  "manager1": "Mikel Arteta",
+  "manager2": "Jürgen Klopp",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Pierre-Emerick Aubameyang",
+    "minute": "12",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Takumi Minamino",
+    "minute": "73",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "James Milner",
+    "minute": "57",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/575921"
+  ],
+  "stats": {
+   "shots1": 8,
+   "shots2": 15,
+   "sot1": 2,
+   "sot2": 4,
+   "poss1": 40.3,
+   "poss2": 59.7,
+   "fouls1": 8,
+   "fouls2": 10,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=575921",
+   "xg_source": null,
+   "note": "ESPN match data (Opta)"
+  },
+  "odds": {
+   "team1": 4.75,
+   "draw": 4.5,
+   "team2": 1.61,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Bet365 (via ESPN match-data API odds feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=575921",
+   "note": "American moneylines converted to decimal. Snapshot time not stated by ESPN (likely pre-match/closing); no newspaper-quoted odds found to corroborate. Other books in same feed: DraftKings 4.9/4.5/1.61, SugarHouse 5.0/4.5/1.62."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Trent Alexander-Arnold (reason not stated by BBC)",
+    "Jordan Henderson (reason not stated by BBC)"
+   ],
+   "sources": [
+    "https://www.bbc.co.uk/sport/football/53871874"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "73",
+    "score_at_time": "1-0",
+    "type": "goal allowed",
+    "description": "Minamino's equaliser came after his pass rebounded off Mohamed Salah; Arsenal protested a Salah handball. VAR checked quickly; BBC said replay showed no clear contact, ESPN said VAR replays showed no obvious foul play.",
+    "favoured_team": "Liverpool",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; match report journalists only (both said replays showed no clear handball)",
+    "impact": "likely",
+    "impact_reasoning": "Equalising goal in a match decided on penalties.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/53871874",
+     "https://www.espn.co.uk/football/match/_/gameId/575921"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, ESPN report, TheFA report/officials pages; Firmino goal ruled out for offside and Van Dijk offside (7') reported as clear, not disputed.",
+  "uncertain": [
+   "The only dispute is Arsenal players' handball protest; both reports suggest the decision was correct - 'genuinely debatable' used only because no expert assessment exists.",
+   "Played behind closed doors (attendance 0, COVID-19).",
+   "Absence reasons for Alexander-Arnold/Henderson not given in fetched sources.",
+   "Odds from ESPN data feed (snapshot timing unknown)."
+  ]
+ },
+ {
+  "article": "2021 FA Community Shield",
+  "date": "2021-08-07",
+  "competition": "FA Community Shield",
+  "season": "2021-22",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Leicester City",
+  "team2": "Manchester City",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Leicester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/58036460",
+   "https://www.espn.co.uk/football/match/_/gameId/603200",
+   "https://www.thefa.com/news/2021/aug/07/fa-community-shield-report-07082021"
+  ],
+  "core_verified": true,
+  "referee": "Paul Tierney",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.thefa.com/news/2021/jul/22/20210722-paul-tierney-to-referee-fa-community-shield-2021",
+   "https://www.thefa.com/news/2021/aug/07/fa-community-shield-report-07082021"
+  ],
+  "assistants": "Ian Hussin; Neil Davies",
+  "fourth_official": "Peter Bankes",
+  "var_officials": "VAR: Darren England; AVAR: Dan Robathan",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2021/jul/22/20210722-paul-tierney-to-referee-fa-community-shield-2021"
+  ],
+  "manager1": "Brendan Rodgers",
+  "manager2": "Pep Guardiola",
+  "goals": [
+   {
+    "team": "Leicester City",
+    "player": "Kelechi Iheanacho",
+    "minute": "89",
+    "type": "penalty"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Leicester City",
+    "player": "Ryan Bertrand",
+    "minute": "50",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Rúben Dias",
+    "minute": "88",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Fernandinho",
+    "minute": "88",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/603200",
+   "https://www.pressreader.com/uk/the-scottish-mail-on-sunday/20210808/284567360956318"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 12,
+   "sot1": 5,
+   "sot2": 3,
+   "poss1": 43.3,
+   "poss2": 56.7,
+   "fouls1": 6,
+   "fouls2": 8,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=603200",
+   "xg_source": null,
+   "note": "ESPN match data (Opta)"
+  },
+  "odds": {
+   "team1": 3.6,
+   "draw": 3.5,
+   "team2": 2.05,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Bet365 (via ESPN match-data API odds feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=603200",
+   "note": "American moneylines converted to decimal. Snapshot time not stated by ESPN (likely pre-match/closing); no newspaper-quoted odds found to corroborate. Caesars NJ 3.65/3.6/2.01 in same feed."
+  },
+  "absences": {
+   "team1": [
+    "Wesley Fofana (broken leg in friendly)"
+   ],
+   "team2": [
+    "Kevin De Bruyne (injury from Euro 2020)",
+    "Phil Foden (injury from Euro 2020)",
+    "Raheem Sterling (left out after Euro 2020)"
+   ],
+   "sources": [
+    "https://www.bbc.co.uk/sport/football/58036460",
+    "https://www.espn.co.uk/football/match/_/gameId/603200"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "88-89",
+    "score_at_time": "0-0",
+    "type": "penalty given",
+    "description": "Nathan Aké tripped/kicked out at Iheanacho in the box; Tierney gave the penalty. Fernandinho argued so strongly (that the contact was not a foul) that he was booked (Mail on Sunday). BBC simply reports Iheanacho was 'tripped by Nathan Ake'.",
+    "favoured_team": "Leicester City",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; player protests reported by Mail on Sunday only",
+    "impact": "likely",
+    "impact_reasoning": "Only goal of the game, scored from the penalty.",
+    "sources": [
+     "https://www.pressreader.com/uk/the-scottish-mail-on-sunday/20210808/284567360956318",
+     "https://www.bbc.co.uk/sport/football/58036460"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, ESPN report, TheFA pages, web search (Mail on Sunday via PressReader) on the Aké penalty; no pundit/PGMOL verdict found.",
+  "uncertain": [
+   "Dias/Fernandinho booking minute: ESPN 88', Wikipedia 87'.",
+   "A search snippet (Mail on Sunday) says Guardiola was booked for remonstrating with the fourth official over a foul given against Cole Palmer - not verified, not recorded.",
+   "Dispute rests on one reputable source describing players' protests; BBC/ESPN describe the foul without doubt.",
+   "Odds from ESPN data feed (snapshot timing unknown)."
+  ]
+ },
+ {
+  "article": "2022 FA Community Shield",
+  "date": "2022-07-30",
+  "competition": "FA Community Shield",
+  "season": "2022-23",
+  "venue": "King Power Stadium",
+  "city": "Leicester",
+  "team1": "Liverpool",
+  "team2": "Manchester City",
+  "score_90": "3-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/62275194",
+   "https://www.espn.co.uk/football/match/_/gameId/635246",
+   "https://www.skysports.com/football/news/11095/12661442/liverpool-3-1-man-city-darwin-nunezs-dramatic-late-cameo-helps-reds-to-community-shield-win"
+  ],
+  "core_verified": true,
+  "referee": "Craig Pawson",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.bbc.co.uk/sport/football/62275194",
+   "https://www.espn.co.uk/football/match/_/gameId/635246",
+   "https://www.thefa.com/news/2022/jul/05/fa-community-shield-match-officials-confirmed-20220507"
+  ],
+  "assistants": "Harry Lennard; Nick Hopton",
+  "fourth_official": "Darren England",
+  "var_officials": "VAR: John Brooks; AVAR: Lee Betts",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2022/jul/05/fa-community-shield-match-officials-confirmed-20220507"
+  ],
+  "manager1": "Jürgen Klopp",
+  "manager2": "Pep Guardiola",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "Trent Alexander-Arnold",
+    "minute": "21",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Julián Álvarez",
+    "minute": "70",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Mohamed Salah",
+    "minute": "83",
+    "type": "penalty"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Darwin Núñez",
+    "minute": "90+4",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester City",
+    "player": "Rúben Dias",
+    "minute": "83",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Darwin Núñez",
+    "minute": "90+5",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/635246"
+  ],
+  "stats": {
+   "shots1": 15,
+   "shots2": 14,
+   "sot1": 4,
+   "sot2": 8,
+   "poss1": 42.6,
+   "poss2": 57.4,
+   "fouls1": 12,
+   "fouls2": 8,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=635246",
+   "xg_source": null,
+   "note": "ESPN match data (Opta)"
+  },
+  "odds": {
+   "team1": 3.3,
+   "draw": 3.6,
+   "team2": 2.1,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Bet365 (via ESPN match-data API odds feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=635246",
+   "note": "American moneylines converted to decimal. Snapshot time not stated by ESPN (likely pre-match/closing); no newspaper-quoted odds found to corroborate. Other books in same feed ~3.25-3.45 / 3.5-3.6 / 2.05-2.06."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "82-83",
+    "score_at_time": "1-1",
+    "type": "penalty given",
+    "description": "Núñez's header struck Rúben Dias's arm; Pawson initially waved play on, then after VAR (John Brooks) advised a monitor review he awarded a penalty, converted by Salah. Former City defender Nedum Onuoha questioned the decision, arguing the ball was headed onto the arm.",
+    "favoured_team": "Liverpool",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "Nedum Onuoha (pundit, ex-City player) - via syndicated article; no PGMOL/referee-expert verdict found",
+    "impact": "likely",
+    "impact_reasoning": "Gave Liverpool a 2-1 lead in the 83rd minute of a match they won 3-1 (decisive goal).",
+    "sources": [
+     "https://inkl.com/news/former-man-city-defender-questions-liverpool-penalty-decision-after-unlucky-handball",
+     "https://www.bbc.co.uk/sport/football/62275194",
+     "https://www.skysports.com/football/news/11095/12661442/liverpool-3-1-man-city-darwin-nunezs-dramatic-late-cameo-helps-reds-to-community-shield-win"
+    ]
+   },
+   {
+    "minute": "70",
+    "score_at_time": "1-0",
+    "type": "goal allowed",
+    "description": "Álvarez's equaliser was initially flagged offside but awarded after a lengthy VAR check (overturned).",
+    "favoured_team": "Manchester City",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; match reports describe the overturn neutrally",
+    "impact": "possible",
+    "impact_reasoning": "Equalising goal at 1-0; Liverpool still won 3-1.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/62275194",
+     "https://www.espn.co.uk/football/match/_/gameId/635246",
+     "https://www.skysports.com/football/news/11095/12661442/liverpool-3-1-man-city-darwin-nunezs-dramatic-late-cameo-helps-reds-to-community-shield-win"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, ESPN report, Sky Sports report, Liverpool FC report, web search for pundit views on Dias handball and Álvarez VAR; Núñez 'foul by Ederson' moment was flagged offside (Sky) - not disputed.",
+  "uncertain": [
+   "Onuoha criticism found only via a search snippet/aggregator (inkl, originally likely Liverpool Echo); page itself returned 403. TheFA match report reportedly attributes the handball to Cancelo (conflict) - BBC, ESPN, Sky all say Dias.",
+   "Álvarez goal: a search summary mentioned reports that VAR 'overlooked' Adrián having hands on the ball when challenged by Foden - not found in a fetched reputable source; recorded only as a neutral VAR overturn, reasonably possibly not 'disputed' at all.",
+   "Odds from ESPN data feed (snapshot timing unknown).",
+   "No key absences identified."
+  ]
+ },
+ {
+  "article": "2023 FA Community Shield",
+  "date": "2023-08-06",
+  "competition": "FA Community Shield",
+  "season": "2023-24",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Manchester City",
+  "score_90": "1-1",
+  "score_aet": null,
+  "shootout": "4-1",
+  "winner": "Arsenal",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/66352143",
+   "https://www.espn.co.uk/football/match/_/gameId/670111"
+  ],
+  "core_verified": true,
+  "referee": "Stuart Attwell",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.thefa.com/news/2023/jul/14/match-officials-announced-for-fa-community-shield-20231407",
+   "https://www.espn.co.uk/football/match/_/gameId/670111"
+  ],
+  "assistants": "Tim Wood; Dan Robathan",
+  "fourth_official": "John Brooks",
+  "var_officials": "VAR: Michael Salisbury; AVAR: Neil Davies",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2023/jul/14/match-officials-announced-for-fa-community-shield-20231407"
+  ],
+  "manager1": "Mikel Arteta",
+  "manager2": "Pep Guardiola",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Cole Palmer",
+    "minute": "77",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Leandro Trossard",
+    "minute": "90+11",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Arsenal",
+    "player": "Thomas Partey",
+    "minute": "8",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Kai Havertz",
+    "minute": "27",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Julián Álvarez",
+    "minute": "31",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Gabriel Magalhães",
+    "minute": "66",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/670111"
+  ],
+  "stats": {
+   "shots1": 7,
+   "shots2": 8,
+   "sot1": 3,
+   "sot2": 4,
+   "poss1": 45.2,
+   "poss2": 54.8,
+   "fouls1": 6,
+   "fouls2": 11,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=670111",
+   "xg_source": null,
+   "note": "ESPN match data (Opta)"
+  },
+  "odds": {
+   "team1": 4.2,
+   "draw": 4.0,
+   "team2": 1.75,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Bet365 (via ESPN match-data API odds feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=670111",
+   "note": "American moneylines converted to decimal. Snapshot time not stated by ESPN (likely pre-match/closing); no newspaper-quoted odds found to corroborate. Same feed shows other books at ~3.5-3.6 / 3.5-3.7 / 2.0-2.04 (Betfair, Caesars) - Bet365 snapshot looks out of line, treat with caution."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "90+11",
+    "score_at_time": "0-1",
+    "type": "other",
+    "description": "Under the new 2023-24 added-time directive, 8 minutes of stoppage time were extended (to ~13-14) after a Walker-Partey head clash; Trossard equalised in the 101st minute. Guardiola questioned the new injury-time rules afterwards; Arteta disagreed.",
+    "favoured_team": "Arsenal",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; manager comments only (Guardiola, Arteta) as reported by Eurosport/Goal",
+    "impact": "likely",
+    "impact_reasoning": "The equaliser came only because of the extended added time, and Arsenal then won the shootout.",
+    "sources": [
+     "https://www.eurosport.com/football/community-shield/2023-2024/pep-guardiola-questions-new-injury-time-rules-after-manchester-city-s-defeat-to-arsenal-in-community_sto9733721/story.shtml",
+     "https://www.goal.com/en/news/man-city-boss-pep-guardiola-fumes-new-stoppage-time-rules-community-shield-loss-arsenal-mikel-arteta-disagrees/bltbb6d8f70e1bea161",
+     "https://www.bbc.co.uk/sport/football/66352143"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, ESPN (Reuters) report, web search for Guardiola stoppage-time complaint; no other disputed decisions found.",
+  "uncertain": [
+   "The 'contested decision' is the application of a new league-wide stoppage-time directive rather than a judgement on an incident.",
+   "Reported added time varies (Reuters: 8 stretched to 13; others 14).",
+   "Shootout 4-1 (De Bruyne hit bar, Rodri saved; Vieira scored winner).",
+   "Odds: Bet365 snapshot in ESPN feed inconsistent with other books - see note."
+  ]
+ },
+ {
+  "article": "2024 FA Community Shield",
+  "date": "2024-08-10",
+  "competition": "FA Community Shield",
+  "season": "2024-25",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester City",
+  "team2": "Manchester United",
+  "score_90": "1-1",
+  "score_aet": null,
+  "shootout": "7-6",
+  "winner": "Manchester City",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/live/c9wjkjyqpg4t",
+   "https://www.espn.co.uk/football/match/_/gameId/702836",
+   "https://www.thefa.com/news/2024/aug/10/community-shield-city-united-wrap-20240810"
+  ],
+  "core_verified": true,
+  "referee": "Jarred Gillett",
+  "referee_nationality": "Australian",
+  "referee_association": "The FA (England) - PGMOL Select Group; on FIFA list for England since 2023 (previously Football Federation Australia 2013-2019)",
+  "referee_sources": [
+   "https://www.bbc.co.uk/sport/football/live/c9wjkjyqpg4t",
+   "https://www.espn.co.uk/football/match/_/gameId/702836",
+   "https://www.fourfourtwo.com/news/late-referee-change-for-manchester-united-vs-manchester-united-wembley-showdown",
+   "https://www.goal.com/en/lists/why-referee-community-shield-man-city-man-utd-changed-explained/bltf3fc5a168a2605e7"
+  ],
+  "assistants": "Adrian Holmes; Nick Greenhalgh",
+  "fourth_official": "Sam Barrott",
+  "var_officials": "VAR: Peter Bankes; AVAR: Sian Massey-Ellis; Support VAR: Tim Robinson",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.bbc.co.uk/sport/football/live/c9wjkjyqpg4t",
+   "https://www.fourfourtwo.com/news/late-referee-change-for-manchester-united-vs-manchester-united-wembley-showdown",
+   "https://www.goal.com/en/lists/why-referee-community-shield-man-city-man-utd-changed-explained/bltf3fc5a168a2605e7"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "Erik ten Hag",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Alejandro Garnacho",
+    "minute": "82",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Bernardo Silva",
+    "minute": "89",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester City",
+    "player": "Matheus Nunes",
+    "minute": "68",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Bernardo Silva",
+    "minute": "85",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Alejandro Garnacho",
+    "minute": "85",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.bbc.co.uk/sport/football/live/c9wjkjyqpg4t",
+   "https://www.espn.co.uk/football/match/_/gameId/702836"
+  ],
+  "stats": {
+   "shots1": 9,
+   "shots2": 8,
+   "sot1": 1,
+   "sot2": 2,
+   "poss1": 56,
+   "poss2": 44,
+   "fouls1": 10,
+   "fouls2": 9,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.bbc.co.uk/sport/football/live/c9wjkjyqpg4t",
+   "xg_source": null,
+   "note": "BBC Sport match stats (Opta); identical in ESPN feed"
+  },
+  "odds": {
+   "team1": 1.91,
+   "draw": 3.8,
+   "team2": 3.6,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "ESPN BET (via ESPN match-data API odds feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=702836",
+   "note": "American moneylines converted to decimal. Snapshot time not stated by ESPN (likely pre-match/closing); no newspaper-quoted odds found to corroborate. "
+  },
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "BBC live/report, ESPN, FourFourTwo/Goal (referee change), web search on Fernandes disallowed goal: ruled out for offside, described as correct ('correctly disallowed') - not recorded as contested.",
+  "uncertain": [
+   "Original referee John Brooks withdrew injured; Gillett moved up from fourth official, Sam Barrott became fourth official.",
+   "Gillett nationality per Football Australia/Wikipedia (Australian); his association for this match is The FA/PGMOL.",
+   "Wikipedia card table omits Garnacho's 85' booking; BBC line-ups and ESPN both include it.",
+   "Shootout 7-6 (Sancho saved, Evans missed for United per reports; Akanji scored winner).",
+   "No key absences identified; odds from ESPN data feed (snapshot timing unknown)."
+  ]
+ },
+ {
+  "article": "2025 FA Community Shield",
+  "date": "2025-08-10",
+  "competition": "FA Community Shield",
+  "season": "2025-26",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Crystal Palace",
+  "team2": "Liverpool",
+  "score_90": "2-2",
+  "score_aet": null,
+  "shootout": "3-2",
+  "winner": "Crystal Palace",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/live/cy7y0p1p7ezt",
+   "https://www.espn.co.uk/football/match/_/gameId/743268",
+   "https://www.rte.ie/sport/soccer/2025/0810/1527743-shield-goes-to-plucky-palace-as-liverpool-pay-penalty",
+   "https://www.irishtimes.com/sport/soccer/2025/08/10/crystal-palace-sink-liverpool-on-penalties-to-claim-community-shield"
+  ],
+  "core_verified": true,
+  "referee": "Chris Kavanagh",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.bbc.co.uk/sport/football/live/cy7y0p1p7ezt",
+   "https://www.thefa.com/news/2025/jul/16/chris-kavanagh-appointed-as-fa-community-shield-referee-20251607",
+   "https://www.rte.ie/sport/soccer/2025/0810/1527743-shield-goes-to-plucky-palace-as-liverpool-pay-penalty"
+  ],
+  "assistants": "James Mainwaring; Wade Smith",
+  "fourth_official": "Tony Harrington",
+  "var_officials": "VAR: Paul Tierney; AVAR: Nick Hopton",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2025/jul/16/chris-kavanagh-appointed-as-fa-community-shield-referee-20251607",
+   "https://www.bbc.co.uk/sport/football/live/cy7y0p1p7ezt"
+  ],
+  "manager1": "Oliver Glasner",
+  "manager2": "Arne Slot",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "Hugo Ekitiké",
+    "minute": "4",
+    "type": "open play"
+   },
+   {
+    "team": "Crystal Palace",
+    "player": "Jean-Philippe Mateta",
+    "minute": "17",
+    "type": "penalty"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Jeremie Frimpong",
+    "minute": "21",
+    "type": "open play"
+   },
+   {
+    "team": "Crystal Palace",
+    "player": "Ismaïla Sarr",
+    "minute": "77",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Ibrahima Konaté",
+    "minute": "43",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Florian Wirtz",
+    "minute": "44",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Mohamed Salah",
+    "minute": "87",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.bbc.co.uk/sport/football/live/cy7y0p1p7ezt",
+   "https://www.espn.co.uk/football/match/_/gameId/743268"
+  ],
+  "stats": {
+   "shots1": 14,
+   "shots2": 12,
+   "sot1": 4,
+   "sot2": 5,
+   "poss1": 40.6,
+   "poss2": 59.4,
+   "fouls1": 5,
+   "fouls2": 13,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.bbc.co.uk/sport/football/live/cy7y0p1p7ezt",
+   "xg_source": null,
+   "note": "BBC Sport match stats (Opta); identical in ESPN feed"
+  },
+  "odds": {
+   "team1": 4.6,
+   "draw": 4.1,
+   "team2": 1.67,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "ESPN BET (via ESPN match-data API odds feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=743268",
+   "note": "American moneylines converted to decimal. Snapshot time not stated by ESPN (likely pre-match/closing); no newspaper-quoted odds found to corroborate. "
+  },
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Ryan Gravenberch (unavailable - partner gave birth)"
+   ],
+   "sources": [
+    "https://www.irishtimes.com/sport/soccer/2025/08/10/crystal-palace-sink-liverpool-on-penalties-to-claim-community-shield"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "BBC live text, RTE (PA) report, Irish Times (Guardian) report, ESPN, web search for Kavanagh/Van Dijk criticism: Van Dijk's foul on Sarr for the penalty described as clear ('no option'); Palace handball appeal (Mac Allister) checked by VAR, no penalty - no source calls either controversial.",
+  "uncertain": [
+   "My BBC stats parser initially read 3 Palace yellows (artefact); BBC line-ups and ESPN show Palace received none.",
+   "Shootout 3-2 (Salah, Mac Allister, Elliott missed for Liverpool; Eze saved, Sosa hit bar for Palace; Devenny scored winner).",
+   "Odds from ESPN data feed (snapshot timing unknown).",
+   "Daichi Kamada went off injured ~30' (in-match)."
+  ]
+ },
+ {
+  "article": "2026 FA Community Shield",
+  "date": "2026-08-16",
+  "competition": "FA Community Shield",
+  "season": "2026-27",
+  "venue": "Principality Stadium (Millennium Stadium)",
+  "city": "Cardiff",
+  "team1": "Arsenal",
+  "team2": "Manchester City",
+  "score_90": "3-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/live/cv4g34g19p2kt",
+   "https://www.thefa.com/news/2026/aug/16/fa-community-shield-2026-report-16082026",
+   "https://www.espn.co.uk/football/match/_/gameId/401875219",
+   "https://www.thestar.com.my/sport/football/2026/08/17/soccer-arsenal-beat-man-city-3-0-to-win-community-shield"
+  ],
+  "core_verified": true,
+  "referee": "Sam Barrott",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.thefa.com/news/2026/jul/20/match-officials-for-fa-community-shield-2026-appointed-20262007",
+   "https://www.bbc.co.uk/sport/football/live/cv4g34g19p2kt",
+   "https://www.espn.co.uk/football/match/_/gameId/401875219"
+  ],
+  "assistants": "Craig Taylor; Blake Antrobus",
+  "fourth_official": "Farai Hallam",
+  "var_officials": "VAR: James Bell; AVAR: Tim Wood",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2026/jul/20/match-officials-for-fa-community-shield-2026-appointed-20262007",
+   "https://www.bbc.co.uk/sport/football/live/cv4g34g19p2kt"
+  ],
+  "manager1": "Mikel Arteta",
+  "manager2": "Enzo Maresca",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Riccardo Calafiori",
+    "minute": "1",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Kai Havertz",
+    "minute": "28",
+    "type": "header"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Martin Ødegaard",
+    "minute": "48",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester City",
+    "player": "Phil Foden",
+    "minute": "24",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Riccardo Calafiori",
+    "minute": "38",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Joško Gvardiol",
+    "minute": "53",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Martin Ødegaard",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.bbc.co.uk/sport/football/live/cv4g34g19p2kt",
+   "https://www.espn.co.uk/football/match/_/gameId/401875219"
+  ],
+  "stats": {
+   "shots1": 9,
+   "shots2": 12,
+   "sot1": 5,
+   "sot2": 5,
+   "poss1": 41.3,
+   "poss2": 58.7,
+   "fouls1": 12,
+   "fouls2": 11,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.bbc.co.uk/sport/football/live/cv4g34g19p2kt",
+   "xg_source": null,
+   "note": "BBC Sport match stats (Opta); identical in ESPN feed. Opta Analyst published an xG chart but values not readable."
+  },
+  "odds": {
+   "team1": 2.7,
+   "draw": 3.2,
+   "team2": 2.55,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "DraftKings (via ESPN match-data API odds feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=401875219",
+   "note": "American moneylines converted to decimal. Snapshot time not stated by ESPN (likely pre-match/closing); no newspaper-quoted odds found to corroborate. "
+  },
+  "absences": {
+   "team1": [
+    "William Saliba (long-term injury)",
+    "Gabriel Martinelli (not available - squad exclusion, per Arteta)",
+    "Gabriel Jesus (not available - squad exclusion, per Arteta)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://theanalyst.com/articles/arsenal-vs-manchester-city-stats-community-shield-2026",
+    "https://www.bbc.co.uk/sport/football/live/cv4g34g19p2kt"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "BBC live/report, TheFA report, AP (ESPN) and Reuters (The Star) reports, Opta Analyst, web search for VAR/penalty disputes; none found.",
+  "uncertain": [
+   "Match postdates training knowledge; all facts taken from BBC, TheFA, ESPN, AP and Reuters reports fetched on 9 Nov 2026.",
+   "Calafiori goal timed at 23 seconds (BBC/AP), 24 (TheFA) or 30 (BBC summary) - minute '1'.",
+   "Havertz goal: Reuters text implies Donnarumma spilled the ball over the line after Tzolis's header; BBC/AP credit Havertz's downward header - credited to Havertz by all.",
+   "Venue is the Millennium Stadium, currently named Principality Stadium (Wikipedia uses the former name).",
+   "Martinelli/Jesus: Arteta referred to squad-registration limits rather than injury.",
+   "Odds: DraftKings moneyline via ESPN feed (Arsenal +170, draw +220, City +155); snapshot timing unknown."
   ]
  }
 ]
