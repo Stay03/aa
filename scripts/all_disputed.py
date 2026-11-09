@@ -44,7 +44,21 @@ for r in d.itertuples():
         category="goal cancelled" if r.type=='goal disallowed' else cat(r.type),kind='disputed/cancelled',benefiting=r.favoured_team,against=r.against_team,
         decided_by=None,reason=None,description=r.description,disputed_by=None,sources=r.sources,origin='earlier research'))
 A=pd.DataFrame(ev)
-A=A[A.final_id.isin(fe.final_id)]
+A=A[A.final_id.isin(fe.final_id)].reset_index(drop=True)
+# de-duplicate goal incidents recorded twice (e.g. as 'goal disallowed' and as a 'disputed decision'):
+# same final, same team against, minutes within 1, at least one is a goal-related category -> keep the first (goal cancelled preferred)
+drop=set()
+G=A[A.kind=='disputed/cancelled']
+for (fid,ag),g in G.groupby(['final_id','against']):
+    g=g.dropna(subset=['m']).copy(); g['pri']=(g.category!='goal cancelled').astype(int); g=g.sort_values(['m','pri'])
+    rows=list(g.itertuples())
+    for i in range(len(rows)):
+        for j in range(i+1,len(rows)):
+            a,b=rows[i],rows[j]
+            if abs(a.m-b.m)<=1 and ('goal' in a.category and 'goal' in b.category):
+                drop.add(b.Index if a.pri<=b.pri else a.Index)
+print("duplicates removed:",len(drop))
+A=A.drop(index=list(drop))
 A.to_csv(W+"analysis/all_disputed_events_english_ref_finals.csv",index=False)
 D=A[A.kind=='disputed/cancelled']; N=A[A.kind=='neutral event']
 def sign(a,b): return stats.binomtest(a,a+b).pvalue if a+b else np.nan

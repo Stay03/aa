@@ -312,10 +312,35 @@
  },
  {
   "final_id": "2013 FA Community Shield",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.sportsmole.co.uk/football/man-utd/live-commentary/united-2-0-wigan-as-it-happened_98055.html",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=366626",
+   "https://www.skysports.com/football/news/11667/8866013/robin-van-persie-scores-twice-as-manchester-united-beat-wigan-2-0-in-community-shield (search listing only)"
+  ],
+  "notes": "Sports Mole live commentary (76 entries, 0'-90+5') read; ESPN has key events only. No disallowed goal, penalty or red card.",
+  "events": [
+   {
+    "final_id": "2013 FA Community Shield",
+    "minute": "84",
+    "score_at_time": "2-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Wigan Athletic",
+    "team_against": "Manchester United",
+    "players": [
+     "Patrice Evra",
+     "Callum McManaman"
+    ],
+    "description": "'Evra wants a penalty as McManaman nips in from behind him'.",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/man-utd/live-commentary/united-2-0-wigan-as-it-happened_98055.html"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "player appeal (Evra)"
+   }
+  ]
  },
  {
   "final_id": "2014 Football League Cup final",
@@ -822,10 +847,114 @@
  },
  {
   "final_id": "2017 FA Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.sportsmole.co.uk/football/arsenal/fa-cup/live-commentary/arsenal-2-1-chelsea-as-it-happened_299105.html",
+   "https://www.thefa.com/news/2017/may/27/arsenal-chelsea-emirates-fa-cup-final-report-270517",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=478732"
+  ],
+  "notes": "Sports Mole live commentary + TheFA full report + ESPN/Opta commentary read. No VAR in use. Sanchez opener: flagged, then given by referee after consulting assistant (logged as goal awarded after review; no VAR).",
+  "events": [
+   {
+    "final_id": "2017 FA Cup final",
+    "minute": "4",
+    "score_at_time": "0-0",
+    "event_type": "goal awarded after review",
+    "reason": "offside",
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Alexis Sanchez",
+     "Aaron Ramsey"
+    ],
+    "description": "Sanchez put the ball in the net and was flagged (Ramsey in offside position); after Taylor consulted his assistant the goal was awarded. Not a VAR review (no VAR in 2017).",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/arsenal/fa-cup/live-commentary/arsenal-2-1-chelsea-as-it-happened_299105.html",
+     "https://www.thefa.com/news/2017/may/27/arsenal-chelsea-emirates-fa-cup-final-report-270517"
+    ],
+    "note": "assistant's flag overruled by referee; Sports Mole gives 5'-6', ESPN/TheFA 4'"
+   },
+   {
+    "final_id": "2017 FA Cup final",
+    "minute": "68",
+    "score_at_time": "1-0",
+    "event_type": "red card",
+    "reason": "other",
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Victor Moses",
+     "Nacho Monreal"
+    ],
+    "description": "Second yellow card for simulation after going down in the Arsenal area.",
+    "sources": [
+     "https://www.thefa.com/news/2017/may/27/arsenal-chelsea-emirates-fa-cup-final-report-270517",
+     "https://www.sportsmole.co.uk/football/arsenal/fa-cup/live-commentary/arsenal-2-1-chelsea-as-it-happened_299105.html",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=478732"
+    ]
+   },
+   {
+    "final_id": "2017 FA Cup final",
+    "minute": "4",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Alexis Sanchez",
+     "Aaron Ramsey"
+    ],
+    "description": "Sports Mole: goal 'scored in controversial circumstances'; ball 'appeared to touch his hand'; debate whether Ramsey interfered. BBC: Chelsea 'nursing a serious sense of injustice'.",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/arsenal/fa-cup/live-commentary/arsenal-2-1-chelsea-as-it-happened_299105.html",
+     "https://www.bbc.co.uk/sport/football/39984089 (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "offside not given / handball not given (goal allowed)",
+    "disputed_by": "Chelsea players/Conte; journalists"
+   },
+   {
+    "final_id": "2017 FA Cup final",
+    "minute": "52",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Diego Costa"
+    ],
+    "description": "Sports Mole: Costa 'wrong[ly] penalised in the box'.",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/arsenal/fa-cup/live-commentary/arsenal-2-1-chelsea-as-it-happened_299105.html"
+    ],
+    "decision": "foul given in box",
+    "disputed_by": "journalist (Sports Mole)"
+   },
+   {
+    "final_id": "2017 FA Cup final",
+    "minute": "68",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Victor Moses"
+    ],
+    "description": "Sports Mole: 'Anthony Taylor has made another massive call.'",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/arsenal/fa-cup/live-commentary/arsenal-2-1-chelsea-as-it-happened_299105.html"
+    ],
+    "decision": "penalty not given / second yellow for simulation",
+    "disputed_by": "journalist"
+   }
+  ]
  },
  {
   "final_id": "2017 FA Community Shield",
@@ -898,184 +1027,1499 @@
  },
  {
   "final_id": "2018 EFL Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/arsenal-vs-man-city/report/387985",
+   "https://www.tntsports.co.uk/football/league-cup/2017-2018/manchester-city-dismantle-arsenal-to-win-first-silverware-under-pep-guardiola_sto6654142/story.shtml"
+  ],
+  "notes": "Sky summary report + Eurosport/TNT full report read; no ESPN event found. No goal disallowed, no penalty, no red card, no VAR overturn.",
+  "events": [
+   {
+    "final_id": "2018 EFL Cup final",
+    "minute": "18",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Arsenal",
+    "players": [
+     "Sergio Aguero",
+     "Shkodran Mustafi"
+    ],
+    "description": "Sky: 'Arsenal players protested to referee Craig Pawson for a foul, but VAR was satisfied with the decision'.",
+    "sources": [
+     "https://www.skysports.com/football/arsenal-vs-man-city/report/387985"
+    ],
+    "decision": "foul not given (goal allowed; VAR check)",
+    "disputed_by": "Arsenal players (Wilshere)",
+    "var_check": "checked, no intervention"
+   },
+   {
+    "final_id": "2018 EFL Cup final",
+    "minute": "58",
+    "score_at_time": "0-2",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Arsenal",
+    "players": [
+     "Vincent Kompany",
+     "Leroy Sane"
+    ],
+    "description": "Wenger said Kompany's goal was '100 per cent offside' (Sane).",
+    "sources": [
+     "https://www.skysports.com/football/news/11670/11267968/arsene-wenger-insists-man-citys-second-goal-was-100-per-cent-offside-in-arsenals-carabao-cup-final-defeat (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "offside not given (goal allowed)",
+    "disputed_by": "manager (Wenger)"
+   }
+  ]
  },
  {
   "final_id": "2018 FA Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "http://www.thefa.com/news/2018/may/19/fa-cup-final-chelsea-manchester-united-190518",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=510233"
+  ],
+  "notes": "TheFA full report + ESPN/Opta commentary read; BBC blocked. VAR (Neil Swarbrick) in use. VAR confirmation of the Sanchez offside is per Wikipedia/BBC hint only; TheFA says 'flagged for offside'.",
+  "events": [
+   {
+    "final_id": "2018 FA Cup final",
+    "minute": "21",
+    "score_at_time": "0-0",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester United",
+    "players": [
+     "Eden Hazard",
+     "Phil Jones"
+    ],
+    "description": "Jones brought Hazard down; Hazard scored the penalty (22').",
+    "sources": [
+     "http://www.thefa.com/news/2018/may/19/fa-cup-final-chelsea-manchester-united-190518",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=510233"
+    ],
+    "penalty_outcome": "scored"
+   },
+   {
+    "final_id": "2018 FA Cup final",
+    "minute": "63",
+    "score_at_time": "1-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester United",
+    "players": [
+     "Alexis Sanchez"
+    ],
+    "description": "Sanchez put the ball in the net 'but the Chilean was flagged for offside' (TheFA); ESPN/Opta 63': Sanchez caught offside. Reported (Wikipedia/BBC) as confirmed by VAR check.",
+    "sources": [
+     "http://www.thefa.com/news/2018/may/19/fa-cup-final-chelsea-manchester-united-190518",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=510233"
+    ]
+   },
+   {
+    "final_id": "2018 FA Cup final",
+    "minute": "21",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Chelsea",
+    "players": [
+     "Phil Jones"
+    ],
+    "description": "Jones booked rather than sent off for the penalty foul; BBC noted debate.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/44091559 (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "yellow not red (DOGSO in box)",
+    "disputed_by": "social media/journalists"
+   },
+   {
+    "final_id": "2018 FA Cup final",
+    "minute": "second half",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Chelsea",
+    "players": [
+     "Victor Moses",
+     "Ashley Young"
+    ],
+    "description": "TheFA: 'Moses, whose cut-back hit Young's forearm but this penalty plea was dismissed.'",
+    "sources": [
+     "http://www.thefa.com/news/2018/may/19/fa-cup-final-chelsea-manchester-united-190518"
+    ],
+    "decision": "penalty not given (handball; VAR no intervention)",
+    "disputed_by": "Chelsea players"
+   },
+   {
+    "final_id": "2018 FA Cup final",
+    "minute": null,
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Chelsea",
+    "players": [
+     "Tiemoue Bakayoko"
+    ],
+    "description": "TheFA: 'Chelsea's first shout for a spot-kick came when Tiemoue Bakayoko went to ground'.",
+    "sources": [
+     "http://www.thefa.com/news/2018/may/19/fa-cup-final-chelsea-manchester-united-190518"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "Chelsea players"
+   }
+  ]
  },
  {
   "final_id": "2018 FA Community Shield",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.thefa.com/news/2018/aug/05/fa-community-shield-chelsea-manchester-city-report-050818",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=510954"
+  ],
+  "notes": "TheFA report + ESPN/Opta commentary read. No disallowed goal, VAR intervention, penalty or red card found.",
   "events": []
  },
  {
   "final_id": "2019 EFL Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/chelsea-vs-manchester-city/report/405627",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=535881"
+  ],
+  "notes": "Sky full report + ESPN/Opta commentary read.",
+  "events": [
+   {
+    "final_id": "2019 EFL Cup final",
+    "minute": "54",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester City",
+    "players": [
+     "Sergio Aguero"
+    ],
+    "description": "Aguero turned and scored but was ruled offside; Sky: 'VAR backed the linesman's initial decision.' (ESPN/Opta logs Aguero offside at 56'.)",
+    "sources": [
+     "https://www.skysports.com/football/chelsea-vs-manchester-city/report/405627",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=535881"
+    ],
+    "var_check": "checked, upheld"
+   }
+  ]
  },
  {
   "final_id": "2019 FA Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.thefa.com/news/2019/may/18/fa-cup-final-man-city-watford-180519",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=539179"
+  ],
+  "notes": "TheFA full report + ESPN/Opta read.",
+  "events": [
+   {
+    "final_id": "2019 FA Cup final",
+    "minute": "48",
+    "score_at_time": "2-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Watford",
+    "team_against": "Manchester City",
+    "players": [
+     "Gabriel Jesus",
+     "Oleksandr Zinchenko"
+    ],
+    "description": "Shortly after the restart Jesus's header from the corner/Zinchenko cross 'ruled out for offside' (TheFA). ESPN/Opta: 48' Jesus caught offside (Zinchenko pass). Whether VAR checked not stated.",
+    "sources": [
+     "https://www.thefa.com/news/2019/may/18/fa-cup-final-man-city-watford-180519",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=539179"
+    ]
+   },
+   {
+    "final_id": "2019 FA Cup final",
+    "minute": "21",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Watford",
+    "players": [
+     "Abdoulaye Doucoure",
+     "Vincent Kompany"
+    ],
+    "description": "Doucoure's shot struck Kompany's arm; 'the Yellows had claims for a penalty dismissed by referee Kevin Friend'; Doucoure booked for protests. Wikipedia says decided after consultation with VAR.",
+    "sources": [
+     "https://www.thefa.com/news/2019/may/18/fa-cup-final-man-city-watford-180519"
+    ],
+    "decision": "penalty not given (handball; VAR check)",
+    "disputed_by": "Watford players",
+    "var_check": "checked, no intervention (per Wikipedia hint)"
+   }
+  ]
  },
  {
   "final_id": "2019 FA Community Shield",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/liverpool-vs-man-city/report/407979",
+   "https://www.thefa.com/news/2019/aug/04/liverpool-man-city-community-shield-040819",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=541464"
+  ],
+  "notes": "Sky full report + TheFA report + ESPN/Opta read.",
+  "events": [
+   {
+    "final_id": "2019 FA Community Shield",
+    "minute": "57",
+    "score_at_time": "0-1",
+    "event_type": "goal disallowed",
+    "reason": "not over line",
+    "decided_by": "referee",
+    "team_benefiting": "Manchester City",
+    "team_against": "Liverpool",
+    "players": [
+     "Virgil van Dijk",
+     "Kyle Walker"
+    ],
+    "description": "Liverpool 'looked to have drawn level on 57 minutes' when Van Dijk's flick hit the bar, but 'the Goal Decision System ruled the whole of the ball had not crossed the whole of the line' (Sky). Decided via goal-line technology.",
+    "sources": [
+     "https://www.skysports.com/football/liverpool-vs-man-city/report/407979"
+    ],
+    "note": "goal-line technology decision, single source"
+   },
+   {
+    "final_id": "2019 FA Community Shield",
+    "minute": "first half",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Liverpool",
+    "team_against": "Manchester City",
+    "players": [
+     "Joe Gomez",
+     "David Silva"
+    ],
+    "description": "Guardiola booked 'for remonstrating against an unpunished Joe Gomez challenge on David Silva'.",
+    "sources": [
+     "https://www.skysports.com/football/liverpool-vs-man-city/report/407979"
+    ],
+    "decision": "foul/card not given",
+    "disputed_by": "manager (Guardiola)"
+   }
+  ]
  },
  {
   "final_id": "2020 EFL Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/a-villa-vs-man-city/report/423697",
+   "https://www.irishtimes.com/sport/soccer/english-soccer/manchester-city-complete-league-cup-three-in-a-row-1.4189702"
+  ],
+  "notes": "Sky report + Irish Times report read; no ESPN event found. No disallowed goal, VAR intervention, penalty or red card.",
+  "events": [
+   {
+    "final_id": "2020 EFL Cup final",
+    "minute": "30",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Aston Villa",
+    "players": [
+     "Rodri",
+     "Ilkay Gundogan",
+     "Jack Grealish"
+    ],
+    "description": "Sky: Rodri scored 'after a contentiously-awarded corner'; Irish Times: 'Should the kick have been awarded? The last touch seemed to be off Gundogan rather than Grealish.'",
+    "sources": [
+     "https://www.skysports.com/football/a-villa-vs-man-city/report/423697",
+     "https://www.irishtimes.com/sport/soccer/english-soccer/manchester-city-complete-league-cup-three-in-a-row-1.4189702"
+    ],
+    "decision": "corner given (led to goal)",
+    "disputed_by": "journalists"
+   }
+  ]
  },
  {
   "final_id": "2020 FA Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.thefa.com/news/2020/aug/01/heads-up-fa-cup-final-arsenal-chelsea-match-report-010820",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=574004"
+  ],
+  "notes": "TheFA full report + ESPN/Opta read; BBC blocked. Pepe disallowed-goal minute uncertain: TheFA places it before the 28' penalty (ESPN/Opta has Maitland-Niles offside at 25'); the cached Wikipedia text places it after the restart. A Chelsea FC report (search snippet only) says VAR confirmed the decision.",
+  "events": [
+   {
+    "final_id": "2020 FA Cup final",
+    "minute": "before 28 (c.25?)",
+    "score_at_time": "0-1",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Chelsea",
+    "team_against": "Arsenal",
+    "players": [
+     "Nicolas Pepe"
+    ],
+    "description": "'Nicolas Pepe had already seen a wonderful strike into the top corner ruled out for an earlier offside' (TheFA).",
+    "sources": [
+     "https://www.thefa.com/news/2020/aug/01/heads-up-fa-cup-final-arsenal-chelsea-match-report-010820",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=574004"
+    ],
+    "var_check": "reportedly confirmed by VAR (Chelsea FC report snippet)"
+   },
+   {
+    "final_id": "2020 FA Cup final",
+    "minute": "26",
+    "score_at_time": "0-1",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Pierre-Emerick Aubameyang",
+     "Cesar Azpilicueta"
+    ],
+    "description": "Azpilicueta fouled Aubameyang; Aubameyang scored (28').",
+    "sources": [
+     "https://www.thefa.com/news/2020/aug/01/heads-up-fa-cup-final-arsenal-chelsea-match-report-010820",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=574004"
+    ],
+    "penalty_outcome": "scored"
+   },
+   {
+    "final_id": "2020 FA Cup final",
+    "minute": "73",
+    "score_at_time": "2-1",
+    "event_type": "red card",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Mateo Kovacic",
+     "Granit Xhaka"
+    ],
+    "description": "Second yellow, both for fouls on Xhaka.",
+    "sources": [
+     "https://www.thefa.com/news/2020/aug/01/heads-up-fa-cup-final-arsenal-chelsea-match-report-010820",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=574004"
+    ]
+   },
+   {
+    "final_id": "2020 FA Cup final",
+    "minute": "73",
+    "score_at_time": "2-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Mateo Kovacic"
+    ],
+    "description": "BBC (McNulty): 'very harshly sent off'.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/53546100 (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "red card given (second yellow)",
+    "disputed_by": "journalist (BBC)"
+   }
+  ]
  },
  {
   "final_id": "2020 FA Community Shield",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.thefa.com/news/2020/aug/29/arsenal-liverpool-mens-fa-community-shield-match-report-290820",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=575921"
+  ],
+  "notes": "TheFA report + ESPN/Opta read.",
+  "events": [
+   {
+    "final_id": "2020 FA Community Shield",
+    "minute": "7",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Arsenal",
+    "team_against": "Liverpool",
+    "players": [
+     "Virgil van Dijk",
+     "Andrew Robertson"
+    ],
+    "description": "Van Dijk 'glanced home from Andy Robertson's free-kick... only to see it ruled out for offside' (TheFA); ESPN/Opta 7': Van Dijk caught offside (Robertson).",
+    "sources": [
+     "https://www.thefa.com/news/2020/aug/29/arsenal-liverpool-mens-fa-community-shield-match-report-290820",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=575921"
+    ]
+   },
+   {
+    "final_id": "2020 FA Community Shield",
+    "minute": "73",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Liverpool",
+    "team_against": "Arsenal",
+    "players": [
+     "Takumi Minamino",
+     "Mohamed Salah"
+    ],
+    "description": "Arsenal protested a Salah handball before Minamino's equaliser; VAR checked.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/53871874 (prior project research file (not re-fetched in this pass))",
+     "https://www.espn.co.uk/football/match/_/gameId/575921 (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "handball not given (goal allowed; VAR check)",
+    "disputed_by": "Arsenal players"
+   }
+  ]
  },
  {
   "final_id": "2021 EFL Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/report/440532"
+  ],
+  "notes": "Sky full report read; no ESPN event found. No disallowed goal, VAR intervention, penalty or red card.",
+  "events": [
+   {
+    "final_id": "2021 EFL Cup final",
+    "minute": "45",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Tottenham Hotspur",
+    "players": [
+     "Aymeric Laporte",
+     "Lucas Moura"
+    ],
+    "description": "Sky: Laporte 'perhaps lucky only to be booked for the second one' (two fouls on Moura).",
+    "sources": [
+     "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/report/440532",
+     "https://tottenhamhotspur.com/news/2021/april/late-heartbreak-in-carabao-cup-final (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "second yellow / earlier yellow not given",
+    "disputed_by": "journalist (Sky)"
+   }
+  ]
  },
  {
   "final_id": "2021 FA Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.thefa.com/news/2021/may/15/chelsea-leicester-fa-cup-final-20210515",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=601060"
+  ],
+  "notes": "TheFA full report + ESPN/Opta read.",
+  "events": [
+   {
+    "final_id": "2021 FA Cup final",
+    "minute": "89",
+    "score_at_time": "0-1",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "VAR",
+    "team_benefiting": "Leicester City",
+    "team_against": "Chelsea",
+    "players": [
+     "Ben Chilwell",
+     "Wes Morgan"
+    ],
+    "description": "Chilwell's cross deflected into the net; 'VAR ruled out Ben Chilwell's deflected effort for offside' (TheFA). ESPN/Opta: 89' Chilwell offside, 90' 'VAR Decision: No Goal'.",
+    "sources": [
+     "https://www.thefa.com/news/2021/may/15/chelsea-leicester-fa-cup-final-20210515",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=601060"
+    ]
+   },
+   {
+    "final_id": "2021 FA Cup final",
+    "minute": "63",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Leicester City",
+    "team_against": "Chelsea",
+    "players": [
+     "Youri Tielemans",
+     "Ayoze Perez"
+    ],
+    "description": "Chelsea claimed handball in the build-up to Tielemans' goal; VAR did not intervene.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/57055571 (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "handball not given (goal allowed)",
+    "disputed_by": "Chelsea players; Tuchel"
+   },
+   {
+    "final_id": "2021 FA Cup final",
+    "minute": "before 78",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Leicester City",
+    "team_against": "Chelsea",
+    "players": [
+     "Caglar Soyuncu",
+     "Mason Mount"
+    ],
+    "description": "'A Soyuncu challenge on Mount prompted Chelsea to appeal for a penalty' (TheFA).",
+    "sources": [
+     "https://www.thefa.com/news/2021/may/15/chelsea-leicester-fa-cup-final-20210515"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "Chelsea players"
+   }
+  ]
  },
  {
   "final_id": "2021 FA Community Shield",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.thefa.com/news/2021/aug/07/fa-community-shield-report-07082021",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=603200"
+  ],
+  "notes": "TheFA report + ESPN/Opta read.",
+  "events": [
+   {
+    "final_id": "2021 FA Community Shield",
+    "minute": "87",
+    "score_at_time": "0-0",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Leicester City",
+    "team_against": "Manchester City",
+    "players": [
+     "Kelechi Iheanacho",
+     "Nathan Ake"
+    ],
+    "description": "Ake brought down Iheanacho; Iheanacho scored (ESPN 89').",
+    "sources": [
+     "https://www.thefa.com/news/2021/aug/07/fa-community-shield-report-07082021",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=603200"
+    ],
+    "penalty_outcome": "scored"
+   },
+   {
+    "final_id": "2021 FA Community Shield",
+    "minute": "87",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Leicester City",
+    "team_against": "Manchester City",
+    "players": [
+     "Nathan Ake"
+    ],
+    "description": "Fernandinho protested the award and was booked.",
+    "sources": [
+     "https://www.pressreader.com/uk/the-scottish-mail-on-sunday/20210808/284567360956318 (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "penalty given",
+    "disputed_by": "player (Fernandinho)"
+   }
+  ]
  },
  {
   "final_id": "2022 EFL Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/report/462566",
+   "https://www.rte.ie/sport/soccer/2022/0227/1283368-kelleher-scores-winner-as-reds-clinch-wembley-shootout/",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=628732"
+  ],
+  "notes": "Sky full report + RTE report + ESPN/Opta commentary read. Four goals disallowed (1 Liverpool, 3 Chelsea). Minutes for the Chelsea offside goals inferred from ESPN/Opta offside entries: Havertz normal-time header = 78' (Werner offside); Lukaku first period of extra time = 94' or 98' (Opta logs Lukaku offside at both); Havertz second period of extra time = 109'. ESPN/Opta also logs Havertz offside at 35' but no source describes a goal then.",
+  "events": [
+   {
+    "final_id": "2022 EFL Cup final",
+    "minute": "67",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "referee after VAR review",
+    "team_benefiting": "Chelsea",
+    "team_against": "Liverpool",
+    "players": [
+     "Joel Matip",
+     "Virgil van Dijk",
+     "Reece James"
+    ],
+    "description": "Matip headed in; VAR (Darren England) sent Attwell to the monitor and the goal was ruled out because Van Dijk, from an offside position, impeded Reece James/Rudiger. ESPN/Opta: 'GOAL OVERTURNED BY VAR' 67', 'VAR Decision: No Goal' 69'.",
+    "sources": [
+     "https://www.skysports.com/football/chelsea-vs-liverpool/report/462566",
+     "https://www.rte.ie/sport/soccer/2022/0227/1283368-kelleher-scores-winner-as-reds-clinch-wembley-shootout/",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=628732"
+    ]
+   },
+   {
+    "final_id": "2022 EFL Cup final",
+    "minute": "78 (inferred)",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Liverpool",
+    "team_against": "Chelsea",
+    "players": [
+     "Kai Havertz",
+     "Timo Werner"
+    ],
+    "description": "RTE: 'Werner the next to be flagged offside as Havertz headed home.' Minute inferred from ESPN/Opta 78' Werner offside.",
+    "sources": [
+     "https://www.rte.ie/sport/soccer/2022/0227/1283368-kelleher-scores-winner-as-reds-clinch-wembley-shootout/",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=628732"
+    ]
+   },
+   {
+    "final_id": "2022 EFL Cup final",
+    "minute": "94 or 98 (first period of ET)",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "VAR",
+    "team_benefiting": "Liverpool",
+    "team_against": "Chelsea",
+    "players": [
+     "Romelu Lukaku"
+    ],
+    "description": "RTE: 'Lukaku had a goal ruled out in the first extra period on a tight-looking offside call'; Sky: 'VAR showed the striker was fractions offside'. Unclear whether a flag was raised first.",
+    "sources": [
+     "https://www.rte.ie/sport/soccer/2022/0227/1283368-kelleher-scores-winner-as-reds-clinch-wembley-shootout/",
+     "https://www.skysports.com/football/chelsea-vs-liverpool/report/462566",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=628732"
+    ]
+   },
+   {
+    "final_id": "2022 EFL Cup final",
+    "minute": "109",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Liverpool",
+    "team_against": "Chelsea",
+    "players": [
+     "Kai Havertz",
+     "Romelu Lukaku"
+    ],
+    "description": "Sky: 'Chelsea had the ball in the back of the net again in the second half of extra-time'; RTE: Havertz ruled out for offside 'less so' tight. ESPN/Opta 109': Havertz offside (Lukaku pass). decided_by assumed flag - not stated.",
+    "sources": [
+     "https://www.skysports.com/football/chelsea-vs-liverpool/report/462566",
+     "https://www.rte.ie/sport/soccer/2022/0227/1283368-kelleher-scores-winner-as-reds-clinch-wembley-shootout/",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=628732"
+    ]
+   },
+   {
+    "final_id": "2022 EFL Cup final",
+    "minute": null,
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Liverpool",
+    "team_against": "Chelsea",
+    "players": [
+     "Naby Keita",
+     "Trevoh Chalobah"
+    ],
+    "description": "Keita's high challenge on Chalobah went unpunished; covered in Sky Ref Watch.",
+    "sources": [
+     "https://www.skysports.com/football/news/12553889/ref-watch-dermot-gallagher-gives-verdict-on-the-controversial-penalty-appeal-for-handball-by-rodri-vs-everton (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "card not given",
+    "disputed_by": "pundit (Sky Ref Watch)"
+   },
+   {
+    "final_id": "2022 EFL Cup final",
+    "minute": "second half",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Chelsea",
+    "team_against": "Liverpool",
+    "players": [
+     "Mason Mount"
+    ],
+    "description": "RTE: 'Liverpool waited for another delayed offside flag which never came' before Mount's chance.",
+    "sources": [
+     "https://www.rte.ie/sport/soccer/2022/0227/1283368-kelleher-scores-winner-as-reds-clinch-wembley-shootout/"
+    ],
+    "decision": "offside not given",
+    "disputed_by": "Liverpool players"
+   }
+  ]
  },
  {
   "final_id": "2022 FA Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/news/11095/12612211/chelsea-0-0-liverpool-5-6-on-pens-kostas-tsimikas-clinches-fa-cup-for-reds-after-mason-mounts-penalty-saved-in-shoot-out",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=634288"
+  ],
+  "notes": "Sky report + ESPN/Opta commentary read; BBC blocked. No disallowed goal, VAR intervention, in-play penalty or red card found.",
+  "events": [
+   {
+    "final_id": "2022 FA Cup final",
+    "minute": "c.46",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Liverpool",
+    "team_against": "Chelsea",
+    "players": [
+     "Ibrahima Konate",
+     "Hakim Ziyech"
+    ],
+    "description": "Sky: 'Konate took a risk when he floored Hakim Ziyech in the box, although ref Craig Pawson waved play on.'",
+    "sources": [
+     "https://www.skysports.com/football/news/11095/12612211/chelsea-0-0-liverpool-5-6-on-pens-kostas-tsimikas-clinches-fa-cup-for-reds-after-mason-mounts-penalty-saved-in-shoot-out"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "journalist (Sky)"
+   }
+  ]
  },
  {
   "final_id": "2022 FA Community Shield",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/news/11095/12661442/liverpool-3-1-man-city-darwin-nunezs-dramatic-late-cameo-helps-reds-to-community-shield-win",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=635246"
+  ],
+  "notes": "Sky report + ESPN/Opta read; BBC blocked. Guardiola said Haaland 'had another goal disallowed because the ball was over the line' - no report describes when; logged with null minute and flagged uncertain.",
+  "events": [
+   {
+    "final_id": "2022 FA Community Shield",
+    "minute": "70",
+    "score_at_time": "1-0",
+    "event_type": "goal awarded after review",
+    "reason": "offside",
+    "decided_by": "VAR",
+    "team_benefiting": "Manchester City",
+    "team_against": "Liverpool",
+    "players": [
+     "Julian Alvarez",
+     "Phil Foden"
+    ],
+    "description": "Alvarez bundled in from close range; flagged offside, 'goal eventually given after VAR overturned' the call (Sky). ESPN/Opta: 'Goal awarded following VAR Review', 'VAR Decision: Goal' 73'.",
+    "sources": [
+     "https://www.skysports.com/football/news/11095/12661442/liverpool-3-1-man-city-darwin-nunezs-dramatic-late-cameo-helps-reds-to-community-shield-win",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=635246"
+    ]
+   },
+   {
+    "final_id": "2022 FA Community Shield",
+    "minute": "80-81",
+    "score_at_time": "1-1",
+    "event_type": "penalty awarded",
+    "reason": "handball",
+    "decided_by": "referee after VAR review",
+    "team_benefiting": "Liverpool",
+    "team_against": "Manchester City",
+    "players": [
+     "Ruben Dias",
+     "Darwin Nunez",
+     "Mohamed Salah"
+    ],
+    "description": "Nunez's header struck Dias's arm; after VAR review Pawson 'pointed to the spot'; Salah scored (83').",
+    "sources": [
+     "https://www.skysports.com/football/news/11095/12661442/liverpool-3-1-man-city-darwin-nunezs-dramatic-late-cameo-helps-reds-to-community-shield-win",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=635246"
+    ],
+    "penalty_outcome": "scored"
+   },
+   {
+    "final_id": "2022 FA Community Shield",
+    "minute": null,
+    "score_at_time": null,
+    "event_type": "goal disallowed",
+    "reason": "out of play",
+    "decided_by": "referee",
+    "team_benefiting": "Liverpool",
+    "team_against": "Manchester City",
+    "players": [
+     "Erling Haaland"
+    ],
+    "description": "Only evidence: Guardiola quoted by Sky saying Haaland 'had another goal disallowed because the ball was over the line'. Minute, score and officiating details not found. UNCERTAIN.",
+    "sources": [
+     "https://www.skysports.com/football/news/11095/12661442/liverpool-3-1-man-city-darwin-nunezs-dramatic-late-cameo-helps-reds-to-community-shield-win"
+    ],
+    "note": "uncertain - single manager quote; decided_by not reported"
+   },
+   {
+    "final_id": "2022 FA Community Shield",
+    "minute": "c.60",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Liverpool",
+    "players": [
+     "Darwin Nunez",
+     "Ederson"
+    ],
+    "description": "Nunez brought down by Ederson; 'referee Craig Pawson was spared a decision to make by an offside flag'.",
+    "sources": [
+     "https://www.skysports.com/football/news/11095/12661442/liverpool-3-1-man-city-darwin-nunezs-dramatic-late-cameo-helps-reds-to-community-shield-win"
+    ],
+    "decision": "offside flag (foul by goalkeeper not considered)",
+    "disputed_by": "journalist (Sky)"
+   },
+   {
+    "final_id": "2022 FA Community Shield",
+    "minute": "80-81",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Liverpool",
+    "team_against": "Manchester City",
+    "players": [
+     "Ruben Dias"
+    ],
+    "description": "Former City defender Nedum Onuoha questioned the handball decision.",
+    "sources": [
+     "https://inkl.com/news/former-man-city-defender-questions-liverpool-penalty-decision-after-unlucky-handball (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "penalty given (handball)",
+    "disputed_by": "pundit (Onuoha)"
+   }
+  ]
  },
  {
   "final_id": "2023 EFL Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/news/11938/12817244/man-utd-2-0-newcastle-erik-ten-hags-side-win-carabao-cup-to-end-six-year-trophy-drought",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=664857"
+  ],
+  "notes": "Sky report + ESPN/Opta read. Only VAR involvement: check on Casemiro's goal (onside, goal stood - not an intervention). No disallowed goal, penalty or red card.",
   "events": []
  },
  {
   "final_id": "2023 FA Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/man-city-vs-man-utd/report/482166",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=668583"
+  ],
+  "notes": "Sky full report + ESPN/Opta read; BBC blocked.",
+  "events": [
+   {
+    "final_id": "2023 FA Cup final",
+    "minute": "29-33",
+    "score_at_time": "1-0",
+    "event_type": "penalty awarded",
+    "reason": "handball",
+    "decided_by": "referee after VAR review",
+    "team_benefiting": "Manchester United",
+    "team_against": "Manchester City",
+    "players": [
+     "Jack Grealish",
+     "Aaron Wan-Bissaka",
+     "Bruno Fernandes"
+    ],
+    "description": "Grealish handball blocking Wan-Bissaka's header/cross 'spotted by VAR'; ESPN/Opta 31' 'VAR Decision: Penalty Manchester United'; Fernandes scored (33').",
+    "sources": [
+     "https://www.skysports.com/football/man-city-vs-man-utd/report/482166",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=668583"
+    ],
+    "penalty_outcome": "scored"
+   },
+   {
+    "final_id": "2023 FA Cup final",
+    "minute": "71",
+    "score_at_time": "2-1",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Manchester United",
+    "team_against": "Manchester City",
+    "players": [
+     "Ilkay Gundogan",
+     "Erling Haaland"
+    ],
+    "description": "'Gundogan was denied a hat-trick by an offside flag' (Sky); ESPN/Opta 71': Gundogan caught offside (Haaland).",
+    "sources": [
+     "https://www.skysports.com/football/man-city-vs-man-utd/report/482166",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=668583"
+    ]
+   },
+   {
+    "final_id": "2023 FA Cup final",
+    "minute": "29-33",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Manchester City",
+    "players": [
+     "Jack Grealish"
+    ],
+    "description": "Grealish: 'I don't even think it's a penalty'.",
+    "sources": [
+     "https://africa.espn.com/football/story/_/id/37787683/fa-cup-final-var-review-jack-grealish-handball-casemiro-red-card-fred-kevin-de-bruyne (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "penalty given (handball)",
+    "disputed_by": "player (Grealish)"
+   },
+   {
+    "final_id": "2023 FA Cup final",
+    "minute": "12",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Manchester City",
+    "players": [
+     "Casemiro",
+     "Manuel Akanji"
+    ],
+    "description": "Casemiro caught Akanji above the ankle; free kick given to United; VAR checked for red.",
+    "sources": [
+     "https://africa.espn.com/football/story/_/id/37787683/fa-cup-final-var-review-jack-grealish-handball-casemiro-red-card-fred-kevin-de-bruyne (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "red card not given / free kick wrong way",
+    "disputed_by": "journalist (ESPN VAR review)"
+   },
+   {
+    "final_id": "2023 FA Cup final",
+    "minute": "39",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Manchester City",
+    "players": [
+     "Kevin De Bruyne",
+     "Fred"
+    ],
+    "description": "De Bruyne went down under Fred's challenge; lengthy VAR check, no intervention.",
+    "sources": [
+     "https://africa.espn.com/football/story/_/id/37787683/fa-cup-final-var-review-jack-grealish-handball-casemiro-red-card-fred-kevin-de-bruyne (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "penalty not given (VAR check)",
+    "disputed_by": "journalist (ESPN VAR review)"
+   }
+  ]
  },
  {
   "final_id": "2023 FA Community Shield",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.thefa.com/news/2023/aug/06/fa-community-shield-arsenal-vs-manchester-city-report-20230806",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=670111"
+  ],
+  "notes": "TheFA report + ESPN/Opta read. No disallowed goal, VAR intervention, in-play penalty or red card.",
+  "events": [
+   {
+    "final_id": "2023 FA Community Shield",
+    "minute": "90+11",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester City",
+    "players": [
+     "Leandro Trossard"
+    ],
+    "description": "Stoppage time extended under new directive; Trossard equalised in 101st minute; Guardiola questioned the injury-time rules.",
+    "sources": [
+     "https://www.eurosport.com/football/community-shield/2023-2024/pep-guardiola-questions-new-injury-time-rules-after-manchester-city-s-defeat-to-arsenal-in-community_sto9733721/story.shtml (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "added time extended",
+    "disputed_by": "manager (Guardiola)"
+   }
+  ]
  },
  {
   "final_id": "2024 EFL Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/news/13077770/chelsea-0-1-liverpool-aet-virgil-van-dijks-late-header-seals-carabao-cup-win",
+   "https://www.irishtimes.com/sport/soccer/2024/02/25/virgil-van-dijk-and-caoimhin-kelleher-shine-in-liverpools-carabao-cup-win/",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=697787"
+  ],
+  "notes": "Sky report + Irish Times report + ESPN/Opta read.",
+  "events": [
+   {
+    "final_id": "2024 EFL Cup final",
+    "minute": "32",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Liverpool",
+    "team_against": "Chelsea",
+    "players": [
+     "Raheem Sterling",
+     "Nicolas Jackson",
+     "Cole Palmer"
+    ],
+    "description": "Sterling had the ball in the net but Jackson was offside in the build-up; Irish Times: 'the assistant's in-play decision upheld by the VAR'. ESPN/Opta 32': Jackson offside.",
+    "sources": [
+     "https://www.skysports.com/football/news/13077770/chelsea-0-1-liverpool-aet-virgil-van-dijks-late-header-seals-carabao-cup-win",
+     "https://www.irishtimes.com/sport/soccer/2024/02/25/virgil-van-dijk-and-caoimhin-kelleher-shine-in-liverpools-carabao-cup-win/",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=697787"
+    ],
+    "var_check": "checked, upheld"
+   },
+   {
+    "final_id": "2024 EFL Cup final",
+    "minute": "60",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "referee after VAR review",
+    "team_benefiting": "Chelsea",
+    "team_against": "Liverpool",
+    "players": [
+     "Virgil van Dijk",
+     "Wataru Endo",
+     "Levi Colwill"
+    ],
+    "description": "Van Dijk headed in; after a lengthy check (VAR John Brooks, on-field review by Kavanagh per prior research) the goal was ruled out as Endo, offside, blocked Colwill. ESPN/Opta: 'GOAL OVERTURNED BY VAR' 60'.",
+    "sources": [
+     "https://www.skysports.com/football/news/13077770/chelsea-0-1-liverpool-aet-virgil-van-dijks-late-header-seals-carabao-cup-win",
+     "https://www.irishtimes.com/sport/soccer/2024/02/25/virgil-van-dijk-and-caoimhin-kelleher-shine-in-liverpools-carabao-cup-win/",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=697787"
+    ]
+   },
+   {
+    "final_id": "2024 EFL Cup final",
+    "minute": "first half",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Chelsea",
+    "team_against": "Liverpool",
+    "players": [
+     "Moises Caicedo",
+     "Ryan Gravenberch"
+    ],
+    "description": "Sky: 'Was Moises Caicedo lucky to avoid a red card for this tackle on Ryan Gravenberch?'; Irish Times: Caicedo 'was fortunate it did not recommend action'.",
+    "sources": [
+     "https://www.skysports.com/football/news/13077770/chelsea-0-1-liverpool-aet-virgil-van-dijks-late-header-seals-carabao-cup-win",
+     "https://www.irishtimes.com/sport/soccer/2024/02/25/virgil-van-dijk-and-caoimhin-kelleher-shine-in-liverpools-carabao-cup-win/"
+    ],
+    "decision": "red card not given (VAR no intervention)",
+    "disputed_by": "journalists; Klopp"
+   }
+  ]
  },
  {
   "final_id": "2024 FA Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/man-city-vs-man-utd/report/504674",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=702151"
+  ],
+  "notes": "Sky full report + ESPN/Opta read; BBC live blocked. No disallowed goal, VAR intervention, penalty or red card found.",
+  "events": [
+   {
+    "final_id": "2024 FA Cup final",
+    "minute": "early first half",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Manchester City",
+    "players": [
+     "Erling Haaland",
+     "Lisandro Martinez"
+    ],
+    "description": "'Referee Andy Madley waved away the huge Manchester City appeals'; VAR check, no review.",
+    "sources": [
+     "https://www.skysports.com/football/man-city-vs-man-utd/report/504674"
+    ],
+    "decision": "penalty not given (VAR check)",
+    "disputed_by": "Manchester City players; journalist"
+   }
+  ]
  },
  {
   "final_id": "2025 EFL Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/news/11938/13327769/liverpool-1-2-newcastle-dan-burn-alexander-isak-goals-deliver-toon-carabao-cup-win-to-end-70-year-trophy-wait",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=733028"
+  ],
+  "notes": "Sky report + ESPN/Opta read. Isak disallowed goal minute: 'just before his second goal' (52'); Opta logs no Isak offside, so minute approximate.",
+  "events": [
+   {
+    "final_id": "2025 EFL Cup final",
+    "minute": "c.48-51",
+    "score_at_time": "0-1",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Liverpool",
+    "team_against": "Newcastle United",
+    "players": [
+     "Alexander Isak"
+    ],
+    "description": "Sky: Isak had 'a close-range finish ruled out for offside' shortly before his 52' goal. decided_by assumed flag - not stated.",
+    "sources": [
+     "https://www.skysports.com/football/news/11938/13327769/liverpool-1-2-newcastle-dan-burn-alexander-isak-goals-deliver-toon-carabao-cup-win-to-end-70-year-trophy-wait"
+    ]
+   },
+   {
+    "final_id": "2025 EFL Cup final",
+    "minute": "90+4",
+    "score_at_time": "0-2",
+    "event_type": "goal awarded after review",
+    "reason": "offside",
+    "decided_by": "VAR",
+    "team_benefiting": "Liverpool",
+    "team_against": "Newcastle United",
+    "players": [
+     "Federico Chiesa",
+     "Harvey Elliott"
+    ],
+    "description": "Chiesa 'was initially flagged offside'; 'VAR reviewed the incident, drew the lines and awarded the goal' (Sky). ESPN/Opta 90+6: 'VAR Decision: Goal'.",
+    "sources": [
+     "https://www.skysports.com/football/news/11938/13327769/liverpool-1-2-newcastle-dan-burn-alexander-isak-goals-deliver-toon-carabao-cup-win-to-end-70-year-trophy-wait",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=733028"
+    ]
+   },
+   {
+    "final_id": "2025 EFL Cup final",
+    "minute": "first half",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Newcastle United",
+    "team_against": "Liverpool",
+    "players": [
+     "Kieran Trippier"
+    ],
+    "description": "Possible Trippier handball; 'VAR reviewed the incident, but decided there had been no foul play'.",
+    "sources": [
+     "https://www.skysports.com/football/news/11938/13327769/liverpool-1-2-newcastle-dan-burn-alexander-isak-goals-deliver-toon-carabao-cup-win-to-end-70-year-trophy-wait"
+    ],
+    "decision": "penalty not given (handball; VAR check)",
+    "disputed_by": "Liverpool appeal"
+   }
+  ]
  },
  {
   "final_id": "2025 FA Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.cpfc.co.uk/news/match-reports/live-blog-match-report-highlights-fa-cup-final-crystal-palace-manchester-city-may-2025/",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=735531"
+  ],
+  "notes": "Crystal Palace official live blog/report + ESPN/Opta commentary read; BBC blocked, TheFA report timed out, ESPN VAR article not readable (used via prior research).",
+  "events": [
+   {
+    "final_id": "2025 FA Cup final",
+    "minute": "33",
+    "score_at_time": "1-0",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Manchester City",
+    "team_against": "Crystal Palace",
+    "players": [
+     "Tyrick Mitchell",
+     "Bernardo Silva",
+     "Omar Marmoush",
+     "Dean Henderson"
+    ],
+    "description": "Mitchell fouled Bernardo Silva; Attwell pointed to the spot; Marmoush's penalty saved by Henderson (34'/36').",
+    "sources": [
+     "https://www.cpfc.co.uk/news/match-reports/live-blog-match-report-highlights-fa-cup-final-crystal-palace-manchester-city-may-2025/",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=735531"
+    ],
+    "penalty_outcome": "missed (saved)"
+   },
+   {
+    "final_id": "2025 FA Cup final",
+    "minute": "58",
+    "score_at_time": "1-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "VAR",
+    "team_benefiting": "Manchester City",
+    "team_against": "Crystal Palace",
+    "players": [
+     "Daniel Munoz",
+     "Ismaila Sarr"
+    ],
+    "description": "Munoz scored after a scramble; 'VAR shows Sarr to be offside in build-up' (Palace report). ESPN/Opta: 'GOAL OVERTURNED BY VAR' 58', 'VAR Decision: No Goal' 61'.",
+    "sources": [
+     "https://www.cpfc.co.uk/news/match-reports/live-blog-match-report-highlights-fa-cup-final-crystal-palace-manchester-city-may-2025/",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=735531"
+    ]
+   },
+   {
+    "final_id": "2025 FA Cup final",
+    "minute": "23",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Crystal Palace",
+    "team_against": "Manchester City",
+    "players": [
+     "Dean Henderson",
+     "Erling Haaland"
+    ],
+    "description": "Henderson handled outside his area to stop Haaland; VAR checked and did not intervene. Guardiola: 'Ask the referee'.",
+    "sources": [
+     "https://www.espn.com/soccer/story/_/id/45193526/the-var-review-dean-henderson-erling-haaland-red-card-dogso (prior project research file (not re-fetched in this pass))",
+     "https://www.football365.com/news/ask-the-referee-pep-guardiola-man-city-did-everything-var-question-dodged-fa-cup-final-palace (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "red card not given (DOGSO handball outside area; VAR check)",
+    "disputed_by": "manager (Guardiola)"
+   },
+   {
+    "final_id": "2025 FA Cup final",
+    "minute": "33",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Crystal Palace",
+    "players": [
+     "Tyrick Mitchell"
+    ],
+    "description": "Penalty upheld by VAR despite Mitchell touching the ball.",
+    "sources": [
+     "https://www.espn.com/soccer/story/_/id/45193526/the-var-review-dean-henderson-erling-haaland-red-card-dogso (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "penalty given",
+    "disputed_by": "journalist (ESPN VAR review)"
+   }
+  ]
  },
  {
   "final_id": "2025 FA Community Shield",
   "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_sources": [
+   "https://www.rte.ie/sport/soccer/2025/0810/1527743-shield-goes-to-plucky-palace-as-liverpool-pay-penalty",
+   "https://www.irishtimes.com/sport/soccer/2025/08/10/crystal-palace-sink-liverpool-on-penalties-to-claim-community-shield",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=743268"
+  ],
+  "notes": "RTE + Irish Times reports read; ESPN has key events only; BBC live blocked. Irish Times line about Gakpo being denied by 'the Palace goalkeeper and the assistant's flag' is ambiguous (may not have been a ball in the net) - logged as uncertain.",
+  "events": [
+   {
+    "final_id": "2025 FA Community Shield",
+    "minute": "17",
+    "score_at_time": "1-0",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Crystal Palace",
+    "team_against": "Liverpool",
+    "players": [
+     "Virgil van Dijk",
+     "Ismaila Sarr",
+     "Jean-Philippe Mateta"
+    ],
+    "description": "Van Dijk brought down Sarr; Kavanagh 'had no hesitation in pointing to the spot'; Mateta scored.",
+    "sources": [
+     "https://www.rte.ie/sport/soccer/2025/0810/1527743-shield-goes-to-plucky-palace-as-liverpool-pay-penalty",
+     "https://www.irishtimes.com/sport/soccer/2025/08/10/crystal-palace-sink-liverpool-on-penalties-to-claim-community-shield",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=743268"
+    ],
+    "penalty_outcome": "scored"
+   },
+   {
+    "final_id": "2025 FA Community Shield",
+    "minute": "between 4 and 17",
+    "score_at_time": "1-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Crystal Palace",
+    "team_against": "Liverpool",
+    "players": [
+     "Cody Gakpo",
+     "Hugo Ekitike",
+     "Mohamed Salah"
+    ],
+    "description": "Irish Times: Gakpo set up by Ekitike and Salah, 'only for the Palace goalkeeper and the assistant's flag to deny Liverpool a second'. UNCERTAIN whether the ball entered the net; reason presumed offside (flag).",
+    "sources": [
+     "https://www.irishtimes.com/sport/soccer/2025/08/10/crystal-palace-sink-liverpool-on-penalties-to-claim-community-shield"
+    ],
+    "note": "uncertain - possible near miss"
+   },
+   {
+    "final_id": "2025 FA Community Shield",
+    "minute": null,
+    "score_at_time": null,
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Liverpool",
+    "team_against": "Crystal Palace",
+    "players": [
+     "Alexis Mac Allister",
+     "Ismaila Sarr"
+    ],
+    "description": "'Palace appealed for a penalty'; 'after Kavanagh turned to VAR, it was deemed no handball by the Argentinian' (RTE).",
+    "sources": [
+     "https://www.rte.ie/sport/soccer/2025/0810/1527743-shield-goes-to-plucky-palace-as-liverpool-pay-penalty"
+    ],
+    "decision": "penalty not given (handball; VAR check)",
+    "disputed_by": "Crystal Palace players"
+   }
+  ]
  },
  {
   "final_id": "2026 EFL Cup final",
   "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
+  "census_sources": [
+   "https://www.skysports.com/football/arsenal-vs-manchester-city/report/553923",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=401859837",
+   "https://efl.com/news/2026/march/22/carabao-cup-final-report--arsenal-0-2-man-city/ (body did not load)",
+   "https://www.skysports.com/football/arsenal-vs-manchester-city/live/553923 (live blog unavailable)"
+  ],
+  "notes": "Only a Sky summary report and the ESPN/Opta feed (89 entries, no VAR decisions logged) were readable; a web search found no report of a disallowed goal, VAR intervention, penalty or red card. Not confirmed complete.",
   "events": []
  },
  {
   "final_id": "2026 FA Cup final",
-  "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
-  "events": []
+  "census_complete": true,
+  "census_sources": [
+   "https://www.thefa.com/news/2026/may/16/emirates-fa-cup-final-chelsea-v-manchester-city-report-20261605",
+   "https://www.rte.ie/sport/soccer/2026/0516/1573668-sensational-semenyo-strike-wins-fa-cup-for-man-city/",
+   "https://www.skysports.com/football/chelsea-vs-manchester-city/report/555725",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=401867655"
+  ],
+  "notes": "TheFA, RTE and Sky reports + ESPN/Opta read; BBC blocked. Haaland goal minute from ESPN/Opta 27' Nunes offside entry (search snippet gave 26').",
+  "events": [
+   {
+    "final_id": "2026 FA Cup final",
+    "minute": "27",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester City",
+    "players": [
+     "Erling Haaland",
+     "Matheus Nunes"
+    ],
+    "description": "'Haaland did have the ball in the net but his back-post tap in was ruled out for offside' - Nunes offside before crossing (TheFA, RTE). decided_by assumed flag - not stated.",
+    "sources": [
+     "https://www.thefa.com/news/2026/may/16/emirates-fa-cup-final-chelsea-v-manchester-city-report-20261605",
+     "https://www.rte.ie/sport/soccer/2026/0516/1573668-sensational-semenyo-strike-wins-fa-cup-for-man-city/",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=401867655"
+    ]
+   },
+   {
+    "final_id": "2026 FA Cup final",
+    "minute": "29",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester City",
+    "players": [
+     "Enzo Fernandez",
+     "Bernardo Silva"
+    ],
+    "description": "RTE: 'Guardiola was unhappy that Fernandez escaped with a yellow card for what looked a two-footed challenge on Silva'.",
+    "sources": [
+     "https://www.rte.ie/sport/soccer/2026/0516/1573668-sensational-semenyo-strike-wins-fa-cup-for-man-city/"
+    ],
+    "decision": "yellow not red",
+    "disputed_by": "manager (Guardiola)"
+   },
+   {
+    "final_id": "2026 FA Cup final",
+    "minute": "second half",
+    "score_at_time": null,
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Chelsea",
+    "players": [
+     "Abdukodir Khusanov",
+     "Jorrel Hato"
+    ],
+    "description": "Sky: 'a series of penalty shouts, with Abdoukodir Khusanov's shove on Jorrel Hato picked out by interim boss Calum McFarlane'; McFarlane: 'the Hato and Khusanov collision is a penalty.'",
+    "sources": [
+     "https://www.skysports.com/football/chelsea-vs-manchester-city/report/555725"
+    ],
+    "decision": "penalty not given (VAR no intervention)",
+    "disputed_by": "manager (McFarlane)"
+   },
+   {
+    "final_id": "2026 FA Cup final",
+    "minute": "45",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Chelsea",
+    "players": [
+     "Joao Pedro",
+     "Abdukodir Khusanov"
+    ],
+    "description": "Joao Pedro and Khusanov came together in the box; no penalty, VAR checked.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/live/clypx2em7drt (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "penalty not given (VAR check)",
+    "disputed_by": "Chelsea players"
+   }
+  ]
  },
  {
   "final_id": "2026 FA Community Shield",
   "census_complete": false,
-  "census_sources": [],
-  "notes": "NOT YET RESEARCHED",
+  "census_sources": [
+   "https://www.thefa.com/news/2026/aug/16/fa-community-shield-2026-report-16082026",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=401875219"
+  ],
+  "notes": "Only a brief TheFA narrative report and ESPN key events (no full commentary) were readable; BBC live blocked. No disallowed goal, VAR intervention, penalty or red card found, but not confirmed complete.",
   "events": []
  }
 ]
