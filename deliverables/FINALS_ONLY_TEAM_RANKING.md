@@ -45,7 +45,7 @@ The other p-values for every team are in `csv/finals_only_team_ranking.csv`.
 | Final | Referee | Call | Favoured | Assessment | Final result |
 |---|---|---|---|---|---|
 | 2008 League Cup | Mark Halsey | Penalty given to Tottenham | Tottenham | debatable, single source, impact "likely" | Chelsea lost |
-| 2009 FA Cup | Howard Webb | Malouda claim not given | Everton | debatable, no impact | Chelsea won |
+| 2009 FA Cup | Howard Webb | Lampard claim (Pienaar challenge) not given; Lampard booked for diving | Everton | debatable, no impact | Chelsea won |
 | 2017 Shield | Bobby Madley | Willian penalty claim; Willian booked for diving | Arsenal | debatable | Chelsea lost on penalties |
 | 2018 FA Cup | Michael Oliver | Young handball not given | Man Utd | experts: **correct** | Chelsea won |
 | 2026 FA Cup | Darren England | Pedro claim not given | Man City | experts: **correct** | Chelsea lost |
