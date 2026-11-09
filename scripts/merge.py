@@ -17,7 +17,7 @@ WORLD = {"Intercontinental Cup", "FIFA Club World Championship/Cup"}
 
 
 def comp_of(article):
-    for k, v in [("FA Cup final", "FA Cup"), ("League Cup", "League Cup"), ("EFL Cup", "League Cup"),
+    for k, v in [("UEFA Cup final", "UEFA Cup/Europa League"), ("FA Cup final", "FA Cup"), ("League Cup", "League Cup"), ("EFL Cup", "League Cup"),
                  ("Charity Shield", "Charity/Community Shield"), ("Community Shield", "Charity/Community Shield"),
                  ("Champions League", "European Cup/Champions League"), ("UEFA Cup final", "UEFA Cup/Europa League"),
                  ("Europa League", "UEFA Cup/Europa League"), ("Winners' Cup", "Cup Winners' Cup"), ("Super Cup", "UEFA Super Cup"),
@@ -43,13 +43,17 @@ def venue_cat(venue, city):
 
 
 def load_outputs():
-    rows = []
-    for f in sorted(glob.glob(W + "out_[A-H]*.json")):
+    rows = {}
+    files = sorted(glob.glob(W + "out_[A-H]*.json"))
+    # gap-fill files (names containing "gapfill") override base entries for the same article
+    files = [f for f in files if "gapfill" not in f] + [f for f in files if "gapfill" in f]
+    for f in files:
         try:
-            rows += json.load(open(f))
+            for r in json.load(open(f)):
+                rows[r["article"]] = r
         except Exception as e:
             print("WARN cannot read", f, e)
-    return rows
+    return list(rows.values())
 
 
 def to_float(x):
