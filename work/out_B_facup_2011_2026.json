@@ -1485,5 +1485,889 @@
    "Behind closed doors (attendance 0).",
    "Absences not researched successfully."
   ]
+ },
+ {
+  "article": "2021 FA Cup final",
+  "date": "2021-05-15",
+  "competition": "FA Cup",
+  "season": "2020-21",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Leicester City",
+  "score_90": "0-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Leicester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/57055571",
+   "https://www.thefa.com/news/2021/may/15/chelsea-leicester-fa-cup-final-20210515",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=601060"
+  ],
+  "core_verified": true,
+  "referee": "Michael Oliver",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Durham County FA",
+  "referee_sources": [
+   "https://www.thefa.com/news/2021/apr/20/michael-oliver-to-referee-emirates-fa-cup-final-20210420",
+   "https://www.bbc.co.uk/sport/football/57055571"
+  ],
+  "assistants": "Stuart Burt; Simon Bennett",
+  "fourth_official": "Stuart Attwell",
+  "var_officials": "VAR: Chris Kavanagh; AVAR: Sian Massey-Ellis",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2021/apr/20/michael-oliver-to-referee-emirates-fa-cup-final-20210420"
+  ],
+  "manager1": "Thomas Tuchel",
+  "manager2": "Brendan Rodgers",
+  "goals": [
+   {
+    "team": "Leicester City",
+    "player": "Youri Tielemans",
+    "minute": "63",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Leicester City",
+    "player": "Wesley Fofana",
+    "minute": "35",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Timo Werner",
+    "minute": "40",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=601060"
+  ],
+  "stats": {
+   "shots1": 13,
+   "shots2": 6,
+   "sot1": 3,
+   "sot2": 1,
+   "poss1": 63.9,
+   "poss2": 36.1,
+   "fouls1": 13,
+   "fouls2": 9,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=601060",
+   "xg_source": null,
+   "note": "ESPN match data."
+  },
+  "odds": {
+   "team1": 1.95,
+   "draw": 3.3,
+   "team2": 4.2,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Bet365 (via ESPN data feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=601060",
+   "note": "ESPN event feed (site.api.espn.com summary 'odds' array) stores US-sportsbook moneylines; converted from American to decimal. ESPN does not timestamp them; assumed pre-match (a separate in-play 'Bet 365' entry with end-of-match fractional prices was ignored). Not a newspaper quote. Raw: Chelsea -105, draw +230, Leicester +320."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [
+    "https://www.bbc.co.uk/sport/football/57055571"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "63",
+    "score_at_time": "0-0",
+    "type": "goal allowed",
+    "description": "Chelsea players claimed the ball hit Ayoze Pérez's hand in the build-up to Tielemans' goal; VAR did not intervene. Tuchel: 'The players said straight away it was a handball ... VAR is not interfering'; BBC noted 'a suspicion of handball before Tielemans' goal'.",
+    "favoured_team": "Leicester City",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only",
+    "impact": "likely",
+    "impact_reasoning": "Directly preceded the only goal of a 1-0 final.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/57055571",
+     "https://www.chelseafc.com/en/news/2021/05/15/thomas-tuchel-reaction-to-chelsea-vs-leicester-in-the-fa-cup-fin"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, TheFA report, Chelsea FC Tuchel reaction, ESPN events. Late Wes Morgan own goal ruled out by VAR for Chilwell offside ('barest of margins', BBC) - no source read describes it as wrong; Tuchel called it 'very close'. Soyuncu-on-Mount penalty appeal (TheFA) not described as disputed.",
+  "uncertain": [
+   "Card minutes: ESPN Fofana 35' (Wikipedia 36').",
+   "Attendance 20,000-21,000 (COVID test event).",
+   "Jonny Evans started despite injury doubt and went off injured - not an absence.",
+   "Absences not otherwise found."
+  ]
+ },
+ {
+  "article": "2022 FA Cup final",
+  "date": "2022-05-14",
+  "competition": "FA Cup",
+  "season": "2021-22",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Liverpool",
+  "score_90": "0-0",
+  "score_aet": "0-0",
+  "shootout": "5-6",
+  "winner": "Liverpool",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/61429640",
+   "https://www.skysports.com/football/news/11095/12612211/chelsea-0-0-liverpool-5-6-on-pens-kostas-tsimikas-clinches-fa-cup-for-reds-after-mason-mounts-penalty-saved-in-shoot-out",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=634288"
+  ],
+  "core_verified": true,
+  "referee": "Craig Pawson",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Sheffield & Hallamshire FA",
+  "referee_sources": [
+   "https://www.thefa.com/news/2022/apr/21/craig-pawson-mens-fa-cup-final-referee-kirsty-dowle-womens-fa-cup-referee-appointment-20222104",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=634288"
+  ],
+  "assistants": "Dan Cook; Edward Smart",
+  "fourth_official": "David Coote",
+  "var_officials": "VAR: Paul Tierney; AVAR: Simon Bennett",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2022/apr/21/craig-pawson-mens-fa-cup-final-referee-kirsty-dowle-womens-fa-cup-referee-appointment-20222104"
+  ],
+  "manager1": "Thomas Tuchel",
+  "manager2": "Jürgen Klopp",
+  "goals": [],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Reece James",
+    "minute": "77",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=634288"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 17,
+   "sot1": 2,
+   "sot2": 2,
+   "poss1": 47.2,
+   "poss2": 52.8,
+   "fouls1": 13,
+   "fouls2": 12,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=634288",
+   "xg_source": null,
+   "note": "ESPN match data incl. extra time; Wikipedia table agrees."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Kai Havertz (injury)",
+    "Timo Werner (injured in warm-up)"
+   ],
+   "team2": [
+    "Fabinho (injury)"
+   ],
+   "sources": [
+    "https://www.skysports.com/football/news/11095/12612211/chelsea-0-0-liverpool-5-6-on-pens-kostas-tsimikas-clinches-fa-cup-for-reds-after-mason-mounts-penalty-saved-in-shoot-out"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "BBC report, Sky Sports report, ESPN events. No disputed refereeing decisions found.",
+  "uncertain": [
+   "Odds: ESPN feed entries are internally inconsistent about which side is favourite (home/away mapping varies by bookmaker) - not recorded.",
+   "Havertz 'out injured' per Sky; Werner injured in warm-up (Sky) - whether Werner was expected to start is unclear.",
+   "In-match injuries to Salah and Van Dijk are not absences."
+  ]
+ },
+ {
+  "article": "2023 FA Cup final",
+  "date": "2023-06-03",
+  "competition": "FA Cup",
+  "season": "2022-23",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester City",
+  "team2": "Manchester United",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/65785637",
+   "https://www.skysports.com/football/man-city-vs-man-utd/report/482166",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=668583"
+  ],
+  "core_verified": true,
+  "referee": "Paul Tierney",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Lancashire FA (Wigan-based)",
+  "referee_sources": [
+   "https://www.thefa.com/news/2023/may/17/paul-tierney-to-referee-emirates-fa-cup-final-20231705",
+   "https://africa.espn.com/football/story/_/id/37787683/fa-cup-final-var-review-jack-grealish-handball-casemiro-red-card-fred-kevin-de-bruyne",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=668583"
+  ],
+  "assistants": "Neil Davies; Scott Ledger",
+  "fourth_official": "Peter Bankes",
+  "var_officials": "VAR: David Coote; AVAR: Simon Long",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2023/may/17/paul-tierney-to-referee-emirates-fa-cup-final-20231705",
+   "https://africa.espn.com/football/story/_/id/37787683/fa-cup-final-var-review-jack-grealish-handball-casemiro-red-card-fred-kevin-de-bruyne"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "Erik ten Hag",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "İlkay Gündoğan",
+    "minute": "1",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Bruno Fernandes",
+    "minute": "33",
+    "type": "penalty"
+   },
+   {
+    "team": "Manchester City",
+    "player": "İlkay Gündoğan",
+    "minute": "51",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Aaron Wan-Bissaka",
+    "minute": "45+4",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Fred",
+    "minute": "79",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Stefan Ortega",
+    "minute": "81",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Rodri",
+    "minute": "90",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=668583"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "ESPN feed has no team stats for this match; not found elsewhere."
+  },
+  "odds": {
+   "team1": 1.61,
+   "draw": 4.0,
+   "team2": 5.5,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Bet365 (via ESPN data feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=668583",
+   "note": "ESPN event feed (site.api.espn.com summary 'odds' array) stores US-sportsbook moneylines; converted from American to decimal. ESPN does not timestamp them; assumed pre-match (a separate in-play 'Bet 365' entry with end-of-match fractional prices was ignored). Not a newspaper quote. Raw: City -163, draw +300, United +450."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Antony (injury)"
+   ],
+   "sources": [
+    "https://www.skysports.com/football/man-city-vs-man-utd/report/482166"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "29 (penalty scored 33)",
+    "score_at_time": "1-0",
+    "type": "penalty given",
+    "description": "VAR (Coote) intervened for a Jack Grealish handball from Wan-Bissaka's header; Fernandes scored. Grealish: 'I don't even think it's a penalty'. Dale Johnson: classic modern handball, arm moved up above shoulder, 'some referees will disagree' but a penalty is always likely with VAR.",
+    "favoured_team": "Manchester United",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "Dale Johnson (ESPN VAR Review): consistent with current interpretation, but subjective",
+    "impact": "likely",
+    "impact_reasoning": "Produced United's equaliser in a match decided by one goal (City still won).",
+    "sources": [
+     "https://africa.espn.com/football/story/_/id/37787683/fa-cup-final-var-review-jack-grealish-handball-casemiro-red-card-fred-kevin-de-bruyne",
+     "https://www.bbc.co.uk/sport/football/65785637",
+     "https://www.skysports.com/football/man-city-vs-man-utd/report/482166"
+    ]
+   },
+   {
+    "minute": "12",
+    "score_at_time": "1-0",
+    "type": "red card not given",
+    "description": "Casemiro caught Manuel Akanji above the ankle; referee gave the free kick the wrong way (to United). VAR checked for a red; ESPN: yellow-worthy but not a definite red, so no intervention possible.",
+    "favoured_team": "Manchester United",
+    "against_team": "Manchester City",
+    "assessment": "expert consensus correct",
+    "assessed_by": "Dale Johnson (ESPN VAR Review) - no VAR red was warranted, though the free kick was given the wrong way",
+    "impact": "possible",
+    "impact_reasoning": "A red would have left United with 10 men for ~80 minutes at 1-0.",
+    "sources": [
+     "https://africa.espn.com/football/story/_/id/37787683/fa-cup-final-var-review-jack-grealish-handball-casemiro-red-card-fred-kevin-de-bruyne"
+    ]
+   },
+   {
+    "minute": "39",
+    "score_at_time": "1-1",
+    "type": "penalty not given",
+    "description": "Kevin De Bruyne went down under a challenge from Fred; Tierney waved play on and VAR had a lengthy check without intervening. ESPN: 'a stronger claim' than a comparable incident, but did not reach the clear-and-obvious threshold.",
+    "favoured_team": "Manchester United",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "Dale Johnson (ESPN VAR Review)",
+    "impact": "possible",
+    "impact_reasoning": "At 1-1 a penalty could have restored City's lead.",
+    "sources": [
+     "https://africa.espn.com/football/story/_/id/37787683/fa-cup-final-var-review-jack-grealish-handball-casemiro-red-card-fred-kevin-de-bruyne"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, Sky report, ESPN VAR Review (Dale Johnson), ESPN events. PGMOL KMI panel does not cover FA Cup.",
+  "uncertain": [
+   "Casemiro and Fred incidents sourced to ESPN only (single source each).",
+   "Stats not found.",
+   "Other absentees (e.g. long-term injuries) not checked."
+  ]
+ },
+ {
+  "article": "2024 FA Cup final",
+  "date": "2024-05-25",
+  "competition": "FA Cup",
+  "season": "2023-24",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester City",
+  "team2": "Manchester United",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/live/c2jj8k5vym5t",
+   "https://www.skysports.com/football/man-city-vs-man-utd/report/504674",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=702151"
+  ],
+  "core_verified": true,
+  "referee": "Andy Madley",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); West Riding County FA (per Wikipedia; not stated in sources read)",
+  "referee_sources": [
+   "https://www.thefa.com/news/2024/may/08/emirates-fa-cup-final-match-officials-appointed-20240805",
+   "https://www.bbc.co.uk/sport/football/live/c2jj8k5vym5t",
+   "https://www.skysports.com/football/man-city-vs-man-utd/report/504674"
+  ],
+  "assistants": "Harry Lennard; Nick Hopton",
+  "fourth_official": "Simon Hooper",
+  "var_officials": "VAR: Michael Oliver; AVAR: Stuart Burt; Support VAR: Peter Bankes",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2024/may/08/emirates-fa-cup-final-match-officials-appointed-20240805",
+   "https://www.bbc.co.uk/sport/football/live/c2jj8k5vym5t"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "Erik ten Hag",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Alejandro Garnacho",
+    "minute": "30",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Kobbie Mainoo",
+    "minute": "39",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Jérémy Doku",
+    "minute": "87",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Kobbie Mainoo",
+    "minute": "45",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Scott McTominay",
+    "minute": "90+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Julián Álvarez",
+    "minute": "90+7",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.bbc.co.uk/sport/football/live/c2jj8k5vym5t",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=702151"
+  ],
+  "stats": {
+   "shots1": 19,
+   "shots2": 11,
+   "sot1": 4,
+   "sot2": 5,
+   "poss1": 73.6,
+   "poss2": 26.4,
+   "fouls1": 7,
+   "fouls2": 11,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.bbc.co.uk/sport/football/live/c2jj8k5vym5t",
+   "xg_source": null,
+   "note": "BBC live page match stats (Opta); ESPN identical."
+  },
+  "odds": {
+   "team1": 1.33,
+   "draw": 5.5,
+   "team2": 7.0,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "ESPN BET (via ESPN data feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=702151",
+   "note": "ESPN event feed (site.api.espn.com summary 'odds' array) stores US-sportsbook moneylines; converted from American to decimal. ESPN does not timestamp them; assumed pre-match (a separate in-play 'Bet 365' entry with end-of-match fractional prices was ignored). Not a newspaper quote. Raw: City -300, draw +450, United +600."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Harry Maguire (injury)",
+    "Luke Shaw (injury)",
+    "Casemiro (late withdrawal, injury)"
+   ],
+   "sources": [
+    "https://www.skysports.com/football/man-city-vs-man-utd/report/504674"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "early first half (minute not stated)",
+    "score_at_time": "0-0",
+    "type": "penalty not given",
+    "description": "Haaland appeared to be bundled over by Lisandro Martínez from Bernardo Silva's cross; Madley waved away 'huge' City appeals and VAR checked without a review. Sky: 'the game's first huge flashpoint'.",
+    "favoured_team": "Manchester United",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0 in a match decided by one goal.",
+    "sources": [
+     "https://www.skysports.com/football/man-city-vs-man-utd/report/504674"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports report, BBC live page (officials/stats/cards), ESPN events, Wikipedia narrative (a Rashford goal disallowed for offside - flag, not disputed).",
+  "uncertain": [
+   "Haaland/Martínez incident from one reputable source (Sky); minute unknown.",
+   "Wikipedia lineup lists McTominay booking at 90+5 and a spurious extra City card; BBC and ESPN give 90+3 and only Álvarez for City.",
+   "Madley's county FA not confirmed from a source read."
+  ]
+ },
+ {
+  "article": "2025 FA Cup final",
+  "date": "2025-05-17",
+  "competition": "FA Cup",
+  "season": "2024-25",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Crystal Palace",
+  "team2": "Manchester City",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Crystal Palace",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/live/cm23zrkn7ryt",
+   "https://www.espn.com/soccer/story/_/id/45193526/the-var-review-dean-henderson-erling-haaland-red-card-dogso",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=735531"
+  ],
+  "core_verified": true,
+  "referee": "Stuart Attwell",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Birmingham County FA",
+  "referee_sources": [
+   "https://www.thefa.com/news/2025/apr/29/fa-competitions-cup-finals-match-officials-confirmed-2024-25-20252904",
+   "https://www.bbc.co.uk/sport/football/live/cm23zrkn7ryt",
+   "https://www.espn.com/soccer/story/_/id/45193526/the-var-review-dean-henderson-erling-haaland-red-card-dogso"
+  ],
+  "assistants": "Adam Nunn; Dan Robathan",
+  "fourth_official": "Darren England",
+  "var_officials": "VAR: Jarred Gillett (Australian, registered with Liverpool FA); AVAR: Darren Cann; Support VAR: Michael Salisbury",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2025/apr/29/fa-competitions-cup-finals-match-officials-confirmed-2024-25-20252904",
+   "https://www.bbc.co.uk/sport/football/live/cm23zrkn7ryt"
+  ],
+  "manager1": "Oliver Glasner",
+  "manager2": "Pep Guardiola",
+  "goals": [
+   {
+    "team": "Crystal Palace",
+    "player": "Eberechi Eze",
+    "minute": "16",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester City",
+    "player": "Nico O'Reilly",
+    "minute": "66",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Bernardo Silva",
+    "minute": "75",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Rúben Dias",
+    "minute": "82",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Kevin De Bruyne",
+    "minute": "85",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Crystal Palace",
+    "player": "Dean Henderson",
+    "minute": "90+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Claudio Echeverri",
+    "minute": "90+4",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.bbc.co.uk/sport/football/live/cm23zrkn7ryt",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=735531"
+  ],
+  "stats": {
+   "shots1": 7,
+   "shots2": 23,
+   "sot1": 2,
+   "sot2": 6,
+   "poss1": 21.7,
+   "poss2": 78.3,
+   "fouls1": 7,
+   "fouls2": 7,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.bbc.co.uk/sport/football/live/cm23zrkn7ryt",
+   "xg_source": null,
+   "note": "BBC live page match stats (Opta)."
+  },
+  "odds": {
+   "team1": 3.9,
+   "draw": 3.7,
+   "team2": 1.87,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "ESPN BET (via ESPN data feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=735531",
+   "note": "ESPN event feed (site.api.espn.com summary 'odds' array) stores US-sportsbook moneylines; converted from American to decimal. ESPN does not timestamp them; assumed pre-match (a separate in-play 'Bet 365' entry with end-of-match fractional prices was ignored). Not a newspaper quote. Raw: Palace +290, draw +270, City -115."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "23",
+    "score_at_time": "1-0",
+    "type": "red card not given",
+    "description": "Dean Henderson, standing in his area, handled the ball outside the area to stop Erling Haaland running onto Gvardiol's long ball. No free kick; VAR (Gillett) checked for DOGSO and did not intervene, judging the chance not obvious as the ball was going away from goal. Guardiola: 'Ask the referee'.",
+    "favoured_team": "Crystal Palace",
+    "against_team": "Manchester City",
+    "assessment": "expert consensus incorrect",
+    "assessed_by": "Dale Johnson (ESPN VAR Review): 'should have been sent off ... There should have been an intervention'",
+    "impact": "likely",
+    "impact_reasoning": "A red card would have left Palace with 10 men for ~70 minutes in a 1-0 match.",
+    "sources": [
+     "https://www.espn.com/soccer/story/_/id/45193526/the-var-review-dean-henderson-erling-haaland-red-card-dogso",
+     "https://www.football365.com/news/ask-the-referee-pep-guardiola-man-city-did-everything-var-question-dodged-fa-cup-final-palace"
+    ]
+   },
+   {
+    "minute": "33-36",
+    "score_at_time": "1-0",
+    "type": "penalty given",
+    "description": "Tyrick Mitchell's sliding challenge on Bernardo Silva: penalty given and upheld by VAR despite Mitchell touching the ball; Marmoush's kick saved by Henderson.",
+    "favoured_team": "Manchester City",
+    "against_team": "Crystal Palace",
+    "assessment": "genuinely debatable",
+    "assessed_by": "Dale Johnson (ESPN VAR Review): sticking with on-field decision 'understandable'; argument Silva was going down before contact",
+    "impact": "none",
+    "impact_reasoning": "Penalty was saved, so the score was unaffected.",
+    "sources": [
+     "https://www.espn.com/soccer/story/_/id/45193526/the-var-review-dean-henderson-erling-haaland-red-card-dogso"
+    ]
+   }
+  ],
+  "contested_search_done": "ESPN VAR Review (Dale Johnson), Football365 (Guardiola reaction), BBC live page (officials/cards/stats), ESPN events; Guardian report headline 'amid drama and Henderson controversy' (not fetchable).",
+  "uncertain": [
+   "TheFA lists AVAR Darren Cann and support VAR Michael Salisbury (confirmed by BBC live page for Cann); Wikipedia has these reversed.",
+   "Jarred Gillett's Australian nationality stated from general knowledge, not from a fetched source.",
+   "Mitchell penalty minute: ESPN VAR review says 33rd minute; ESPN events log the saved kick at 36'.",
+   "Absences not researched successfully."
+  ]
+ },
+ {
+  "article": "2026 FA Cup final",
+  "date": "2026-05-16",
+  "competition": "FA Cup",
+  "season": "2025-26",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Manchester City",
+  "score_90": "0-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/articles/cj9pz9rnywzo",
+   "https://www.skysports.com/football/chelsea-vs-manchester-city/report/555725",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=401867655",
+   "https://www.espn.com/soccer/story/_/id/48785885/chelsea-man-city-live-latest-updates-fa-cup-final-commentary-score-result"
+  ],
+  "core_verified": true,
+  "referee": "Darren England",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Sheffield & Hallamshire FA",
+  "referee_sources": [
+   "https://www.thefa.com/news/2026/apr/29/emirates-fa-cup-final-2026-match-officials-appointed-20262904",
+   "https://www.bbc.co.uk/sport/live/clypx2em7drt",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=401867655"
+  ],
+  "assistants": "Tim Wood; Akil Howson",
+  "fourth_official": "Sam Barrott",
+  "var_officials": "VAR: Peter Bankes; AVAR: Nick Hopton",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2026/apr/29/emirates-fa-cup-final-2026-match-officials-appointed-20262904",
+   "https://www.bbc.co.uk/sport/live/clypx2em7drt"
+  ],
+  "manager1": "Calum McFarlane (interim)",
+  "manager2": "Pep Guardiola",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Antoine Semenyo",
+    "minute": "72",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Enzo Fernández",
+    "minute": "29",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Marc Cucurella",
+    "minute": "32",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Abdukodir Khusanov",
+    "minute": "56",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Moisés Caicedo",
+    "minute": "90+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.bbc.co.uk/sport/live/clypx2em7drt",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=401867655"
+  ],
+  "stats": {
+   "shots1": 7,
+   "shots2": 9,
+   "sot1": 1,
+   "sot2": 4,
+   "poss1": 44.1,
+   "poss2": 55.9,
+   "fouls1": 15,
+   "fouls2": 13,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.bbc.co.uk/sport/live/clypx2em7drt",
+   "xg_source": null,
+   "note": "BBC live page match stats (Opta); ESPN identical."
+  },
+  "odds": {
+   "team1": 4.5,
+   "draw": 3.95,
+   "team2": 1.77,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "DraftKings (via ESPN data feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=401867655",
+   "note": "ESPN event feed (site.api.espn.com summary 'odds' array) stores US-sportsbook moneylines; converted from American to decimal. ESPN does not timestamp them; assumed pre-match (a separate in-play 'Bet 365' entry with end-of-match fractional prices was ignored). Not a newspaper quote. Raw: Chelsea +350, draw +295, City -130."
+  },
+  "absences": {
+   "team1": [
+    "Estêvão (out)",
+    "Jesse Derry (out)",
+    "Jamie Gittens (out)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.bbc.co.uk/sport/football/articles/cdxpqgwjjy1o"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "29",
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "Enzo Fernández's heavy challenge on Bernardo Silva (foot off the ground) drew a yellow; City's bench including Guardiola called for red. BBC reporter: 'Lucky to get just a yellow...?'",
+    "favoured_team": "Chelsea",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (BBC live text)",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0; a red would have left Chelsea with 10 men for over an hour.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/live/clypx2em7drt"
+    ]
+   },
+   {
+    "minute": "45",
+    "score_at_time": "0-0",
+    "type": "penalty not given",
+    "description": "Joao Pedro burst into the box and came together with Abdukodir Khusanov; no penalty, VAR (Bankes) checked and did not recommend a review.",
+    "favoured_team": "Manchester City",
+    "against_team": "Chelsea",
+    "assessment": "expert consensus correct",
+    "assessed_by": "Darren Cann (former PL assistant referee, BBC One): 'No penalty for me ... The correct on-field decision was given' (only expert view found)",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0 in a 1-0 match.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/live/clypx2em7drt"
+    ]
+   },
+   {
+    "minute": "second half (minute not stated)",
+    "score_at_time": null,
+    "type": "penalty not given",
+    "description": "Jorrel Hato went down after a collision with Khusanov; referee waved play on and VAR did not intervene. Interim coach McFarlane: 'for me, it's a clear penalty'.",
+    "favoured_team": "Manchester City",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only",
+    "impact": "possible",
+    "impact_reasoning": "Match decided by one goal; exact score at the time not established.",
+    "sources": [
+     "https://www.skysports.com/football/chelsea-vs-manchester-city/report/555725",
+     "https://southlondon.co.uk/sport/football/chelsea/hato-to-be-chelsea-boss-rues-penalty-decision-as-blues-edged-out-by-manchester-city-in-fa-cup-final/",
+     "https://www.bbc.co.uk/sport/live/clypx2em7drt"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, BBC live text (with ex-official Darren Cann's comments), BBC preview, Sky report, South London Press, ESPN live blog/events. Haaland 'goal' (27') disallowed for Nunes offside - Cann: 'straightforward and a good decision', not disputed. O'Reilly handball appeal (2nd half) - Cann: correct; not disputed by any reputable source read. Thierry Henry/Mark Clattenburg opinions found only via low-quality aggregators/fan site - not used.",
+  "uncertain": [
+   "Post-training-cutoff match: all facts from sources fetched in this session.",
+   "Hato incident: minute and score at the time not found; VAR involvement per aggregator summaries only.",
+   "Fourth official Sam Barrott listed under West Riding FA by TheFA (Wikipedia: West Yorkshire); AR Akil Howson under Leicestershire & Rutland FA.",
+   "BBC lineup card minutes (Fernández 29') vs BBC live post 'YELLOW CARD published at 33 mins' - 29' used (ESPN agrees).",
+   "Manchester City absentees not established (Rodri was a doubt but started)."
+  ]
  }
 ]
