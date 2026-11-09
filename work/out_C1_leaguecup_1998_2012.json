@@ -1013,5 +1013,528 @@
    "Wikipedia lists Petr Čech yellow card at 120+4 which ESPN does not have; cards_complete=false.",
    "ESPN commentary at 65' also criticised a goal-kick decision (Anelka shot off King) - minor, not recorded."
   ]
+ },
+ {
+  "article": "2009 Football League Cup final",
+  "date": "2009-03-01",
+  "competition": "League Cup",
+  "season": "2008-09",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester United",
+  "team2": "Tottenham Hotspur",
+  "score_90": "0-0",
+  "score_aet": "0-0",
+  "shootout": "4-1",
+  "winner": "Manchester United",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=261331",
+   "https://www.rsssf.org/tablese/engleagcup09.html",
+   "https://www.rsssf.org/tablese/engleagcuphist.html"
+  ],
+  "core_verified": true,
+  "referee": "Chris Foy",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=261331",
+   "https://www.rsssf.org/tablese/engleagcup09.html"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Sir Alex Ferguson",
+  "manager2": "Harry Redknapp",
+  "goals": [],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "John O'Shea",
+    "minute": "57",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Cristiano Ronaldo",
+    "minute": "67",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "108",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=261331",
+   "https://www.rsssf.org/tablese/engleagcup09.html"
+  ],
+  "stats": {
+   "shots1": 23,
+   "shots2": 12,
+   "sot1": 10,
+   "sot2": 7,
+   "poss1": 53,
+   "poss2": 47,
+   "fouls1": 12,
+   "fouls2": 16,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=261331",
+   "xg_source": null,
+   "note": "ESPN (Soccernet) boxscore, 120 minutes. Possession method unknown."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [],
+   "note": "Not verified. ESPN line-ups show Rooney, Van der Sar, Vidić (bench), Giggs (bench) not starting for United - selection/rotation; Rooney absent from squad (reason not verified)."
+  },
+  "contested_decisions": [
+   {
+    "minute": "66",
+    "score_at_time": "0-0",
+    "type": "penalty not given",
+    "description": "Cristiano Ronaldo went down in the Tottenham area under a challenge from Ledley King and was booked for diving. ESPN live commentary: 'A bit harsh perhaps and the award of a penalty would have been no shock to be honest'; at full time Ronaldo was seen talking to the referee 'about the penalty that wasn't'.",
+    "favoured_team": "Tottenham Hotspur",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalist only (ESPN Soccernet live commentary)",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0 in a match decided on penalties; a penalty could have decided it in normal time. United won anyway.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=261331"
+    ]
+   }
+  ],
+  "contested_search_done": "ESPN Soccernet live commentary (ESPN API), RSSSF match details. Guardian/BBC/Football League pages blocked/dead; web search budget exhausted before dedicated searches could be run. ESPN also notes an unpunished Corluka handball claim (36') - not described as controversial beyond the commentator's aside, not recorded.",
+  "uncertain": [
+   "Ronaldo penalty/dive incident has a single source (ESPN commentary).",
+   "Assistants (Peter Kirkup, Andy Butler), fourth official (Andre Marriner) per Wikipedia only - not verified, left null.",
+   "Shootout: United scored Giggs, Tevez, Ronaldo, Anderson; Spurs O'Hara saved, Corluka scored, Bentley missed (RSSSF)."
+  ]
+ },
+ {
+  "article": "2010 Football League Cup final",
+  "date": "2010-02-28",
+  "competition": "League Cup",
+  "season": "2009-10",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Aston Villa",
+  "team2": "Manchester United",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=287675",
+   "https://www.cnn.com/2010/SPORT/football/02/28/football.manchester.utd.cup/index.html",
+   "https://www.rsssf.org/tablese/engleagcuphist.html"
+  ],
+  "core_verified": true,
+  "referee": "Phil Dowd",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=287675"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Martin O'Neill",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Aston Villa",
+    "player": "James Milner",
+    "minute": "5",
+    "type": "penalty"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Michael Owen",
+    "minute": "12",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Wayne Rooney",
+    "minute": "74",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Aston Villa",
+    "player": "James Collins",
+    "minute": "11",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Stewart Downing",
+    "minute": "18",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Patrice Evra",
+    "minute": "41",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Nemanja Vidić",
+    "minute": "68",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=287675"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 16,
+   "sot1": 3,
+   "sot2": 7,
+   "poss1": 50,
+   "poss2": 50,
+   "fouls1": 10,
+   "fouls2": 11,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=287675",
+   "xg_source": null,
+   "note": "ESPN (Soccernet) boxscore. Possession method unknown."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [
+    "https://www.cnn.com/2010/SPORT/football/02/28/football.manchester.utd.cup/index.html"
+   ],
+   "note": "No key injury/suspension absentees verified. Wayne Rooney was rested to the bench (selection, per CNN quoting Ferguson) and came on for the injured Owen (hamstring, 42')."
+  },
+  "contested_decisions": [
+   {
+    "minute": "4",
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "Gabriel Agbonlahor, through on goal, was pulled down in the box by Nemanja Vidić; Phil Dowd awarded a penalty (scored by Milner) but showed Vidić no card at all although he appeared to be the last defender (DOGSO). CNN: 'Vidic was lucky not to receive a red card as he appeared to be the last defender.' ESPN commentary: 'I think we'll be hearing a lot more about the decision not to dismiss Vidic'; Villa 'will be wondering what might have been had Phil Dowd given Vidic a red card'.",
+    "favoured_team": "Manchester United",
+    "against_team": "Aston Villa",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (CNN report; ESPN Soccernet live commentary). Wider expert/pundit commentary (e.g. BBC, Guardian) could not be reached.",
+    "impact": "likely",
+    "impact_reasoning": "Denied Villa a numerical advantage for ~85 minutes in a match United won by one goal.",
+    "sources": [
+     "https://www.cnn.com/2010/SPORT/football/02/28/football.manchester.utd.cup/index.html",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=287675"
+    ]
+   }
+  ],
+  "contested_search_done": "CNN report, ESPN Soccernet live commentary (ESPN API). BBC, Guardian, Telegraph, Manchester Evening News pages blocked; web search budget exhausted before searches for refereeing-expert assessments (e.g. Keith Hackett) or Martin O'Neill comments could be run. ESPN commentary also criticised Dowd's general leniency (18', 24', 30') - not individual contested decisions.",
+  "uncertain": [
+   "Referee Phil Dowd named by ESPN data/commentary; no second reachable non-Wikipedia source (CNN does not name him).",
+   "Martin O'Neill's post-match complaint about the Vidić decision is widely remembered but was not verified from a reachable source.",
+   "Cards from ESPN only (matches Wikipedia's 4 yellows); cards_complete=false for lack of a second source.",
+   "Penalty awarded at 4' (ESPN commentary), scored 5'."
+  ]
+ },
+ {
+  "article": "2011 Football League Cup final",
+  "date": "2011-02-27",
+  "competition": "League Cup",
+  "season": "2010-11",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Birmingham City",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Birmingham City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=312300",
+   "https://www.rsssf.org/tablese/engleagcuphist.html",
+   "https://www.independent.co.uk/sport/football/premier-league/barry-ferguson-to-play-on-with-broken-rib-for-birmingham-2236659.html"
+  ],
+  "core_verified": true,
+  "referee": "Mike Dean",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=312300"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Arsène Wenger",
+  "manager2": "Alex McLeish",
+  "goals": [
+   {
+    "team": "Birmingham City",
+    "player": "Nikola Žigić",
+    "minute": "28",
+    "type": "unknown"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Robin van Persie",
+    "minute": "39",
+    "type": "open play"
+   },
+   {
+    "team": "Birmingham City",
+    "player": "Obafemi Martins",
+    "minute": "89",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Arsenal",
+    "player": "Laurent Koscielny",
+    "minute": "37",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Birmingham City",
+    "player": "Sebastian Larsson",
+    "minute": "42",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Gaël Clichy",
+    "minute": "53",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Birmingham City",
+    "player": "Cameron Jerome",
+    "minute": "90+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Birmingham City",
+    "player": "Barry Ferguson",
+    "minute": "90+5",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=312300"
+  ],
+  "stats": {
+   "shots1": 19,
+   "shots2": 9,
+   "sot1": 11,
+   "sot2": 5,
+   "poss1": 56,
+   "poss2": 44,
+   "fouls1": 11,
+   "fouls2": 9,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=312300",
+   "xg_source": null,
+   "note": "ESPN (Soccernet) boxscore. Possession method unknown."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Cesc Fàbregas (injury; captain)",
+    "Theo Walcott (ankle injury)"
+   ],
+   "team2": [
+    "David Bentley (cup-tied)"
+   ],
+   "sources": [
+    "https://www.footballfancast.com/football-news/arsenal-v-birmingham-best-odds-and-match-prices-for-carling-cup-final/",
+    "https://www.telegraph.co.uk/sport/football/teams/arsenal/8344252/Arsenals-Theo-Walcott-ruled-out-of-Carling-Cup-final-against-Birmingham-and-Cesc-Fabregas-doubtful.html",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=312300"
+   ],
+   "note": "Fàbregas and Walcott unavailable per footballfancast preview (27 Feb 2011) and Telegraph headline/URL (article body not reachable); neither appears in ESPN's 18-man Arsenal squad. Bentley cup-tied per footballfancast only; Hleb listed as a doubt (he was not in ESPN's Birmingham squad). Footballfancast is a betting/fan-content site - low reliability."
+  },
+  "contested_decisions": [
+   {
+    "minute": "3",
+    "score_at_time": "0-0",
+    "type": "offside",
+    "description": "Lee Bowyer, sent through by Žigić, rounded Szczęsny and was brought down, but the assistant had flagged offside. ESPN live commentary: 'Huge controversy! ... a certain penalty and red card, but the flag is raised for offside and Arsenal are saved!'; at half-time: 'He was clearly onside and Arsenal are lucky to have not conceded a penalty and been down to 10 men.' (Wikipedia: replays showed the flag was incorrect.)",
+    "favoured_team": "Arsenal",
+    "against_team": "Birmingham City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalist only (ESPN Soccernet live commentary states it was clearly onside; no referee-expert assessment reached)",
+    "impact": "none",
+    "impact_reasoning": "Would have given Birmingham a penalty and Arsenal a man down at 0-0, but Birmingham won the match anyway, so the error did not change the result against them.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=312300"
+    ]
+   }
+  ],
+  "contested_search_done": "ESPN Soccernet live commentary (ESPN API); Guardian/Telegraph/BBC report pages blocked; web search budget exhausted before searching expert verdicts on the Bowyer offside.",
+  "uncertain": [
+   "Bowyer offside: single reachable source (ESPN commentary); Wikipedia (citing Guardian) agrees flag was wrong. Assessment could arguably be 'expert consensus incorrect' but no expert source reached.",
+   "Referee Mike Dean named only by ESPN among reachable non-Wikipedia sources.",
+   "Card minutes differ by 1-2 minutes between ESPN (Koscielny 37, Larsson 42, Clichy 53, Ferguson 90+5) and Wikipedia (35, 41, 52, 90+4); ESPN used. Larsson, Jerome and Ferguson yellows were for dissent per ESPN data.",
+   "Barry Ferguson broke a rib in a challenge with Nasri during the final but played on (Independent).",
+   "Odds: footballfancast (27 Feb 2011, low-reliability fan/betting site) quoted Arsenal 8/15 'to end their trophy drought' and Birmingham 11/2 as underdogs; market (90-min vs to lift) unclear, so odds left null.",
+   "Žigić goal type: ESPN data describes a right-footed shot from 6 yards; commonly remembered as a header - set to 'unknown'."
+  ]
+ },
+ {
+  "article": "2012 Football League Cup final",
+  "date": "2012-02-26",
+  "competition": "League Cup",
+  "season": "2011-12",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Cardiff City",
+  "team2": "Liverpool",
+  "score_90": "1-1",
+  "score_aet": "2-2",
+  "shootout": "2-3",
+  "winner": "Liverpool",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/17093419",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=337027",
+   "https://www.bbc.co.uk/sport/football/17174010",
+   "https://www.rsssf.org/tablese/engleagcuphist.html"
+  ],
+  "core_verified": true,
+  "referee": "Mark Clattenburg",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=337027"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Malky Mackay",
+  "manager2": "Kenny Dalglish",
+  "goals": [
+   {
+    "team": "Cardiff City",
+    "player": "Joe Mason",
+    "minute": "19",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Martin Škrtel",
+    "minute": "60",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Dirk Kuyt",
+    "minute": "108",
+    "type": "open play"
+   },
+   {
+    "team": "Cardiff City",
+    "player": "Ben Turner",
+    "minute": "118",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Jordan Henderson",
+    "minute": "52",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Cardiff City",
+    "player": "Filip Kiss",
+    "minute": "98",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Cardiff City",
+    "player": "Ben Turner",
+    "minute": "119",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=337027"
+  ],
+  "stats": {
+   "shots1": 9,
+   "shots2": 37,
+   "sot1": 5,
+   "sot2": 17,
+   "poss1": 47,
+   "poss2": 53,
+   "fouls1": 11,
+   "fouls2": 14,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=337027",
+   "xg_source": null,
+   "note": "ESPN (Soccernet) boxscore, 120 minutes. Wikipedia's table (source unknown, possibly BBC) gives shots 11-39, on target 7-19, same possession 47-53 and fouls 11-14."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [
+    "https://www.bbc.co.uk/sport/football/17092038"
+   ],
+   "note": "No key absentees verified. BBC pre-match: Bellamy and Agger expected fit (both played). Cardiff's Hudson and McPhail were fitness doubts (BBC headline); Hudson started. Lucas Leiva's long-term injury not verified from a reachable source."
+  },
+  "contested_decisions": [],
+  "contested_search_done": "BBC Sport match report (Chris Bevan) and BBC reaction pieces (Kuyt, Dalglish, Mackay), ESPN Soccernet live commentary (ESPN API). No disputed refereeing decisions reported (only a Suárez handball appeal at 52' that 'no-one else is interested' in, and routine offsides). Guardian MBM and Telegraph pages blocked.",
+  "uncertain": [
+   "Mason goal: ESPN 19', BBC report 'the 18th minute'; ESPN/Wikipedia minute used.",
+   "Referee Mark Clattenburg named only by ESPN among reachable non-Wikipedia sources (Football League announcement page dead).",
+   "Cards from ESPN only (matches Wikipedia: Henderson, Kiss, Turner); cards_complete=false for lack of second source.",
+   "Shootout per BBC: S. Gerrard saved, Adam over; Miller hit post, Cowie scored; Kuyt, Downing, Johnson scored for Liverpool; Gestede hit woodwork, Whittingham scored (implied), Anthony Gerrard missed final kick -> 2-3.",
+   "Attendance: ESPN 89,044 vs Wikipedia 89,041."
+  ]
  }
 ]
