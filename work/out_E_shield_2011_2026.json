@@ -1,0 +1,1235 @@
+[
+ {
+  "article": "2011 FA Community Shield",
+  "date": "2011-08-07",
+  "competition": "FA Community Shield",
+  "season": "2011-12",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester City",
+  "team2": "Manchester United",
+  "score_90": "2-3",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/14420151",
+   "https://www.espn.co.uk/football/match/_/gameId/323687"
+  ],
+  "core_verified": true,
+  "referee": "Phil Dowd",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.bbc.co.uk/sport/football/14420151",
+   "https://www.espn.co.uk/football/match/_/gameId/323687"
+  ],
+  "assistants": "Simon Long; Andrew Garratt",
+  "fourth_official": "Kevin Friend",
+  "var_officials": null,
+  "var_in_use": null,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/NewsAndFeatures/2011/dowd-230611 (dead link, cited by Wikipedia)"
+  ],
+  "manager1": "Roberto Mancini",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Joleon Lescott",
+    "minute": "38",
+    "type": "header"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Edin Džeko",
+    "minute": "45+1",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Chris Smalling",
+    "minute": "52",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Nani",
+    "minute": "58",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Nani",
+    "minute": "90+4",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Anderson",
+    "minute": "19",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Edin Džeko",
+    "minute": "19",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Micah Richards",
+    "minute": "22",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Yaya Touré",
+    "minute": "34",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Patrice Evra",
+    "minute": "40",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "James Milner",
+    "minute": "55",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Aleksandar Kolarov",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/323687",
+   "https://www.bbc.co.uk/sport/football/14420151"
+  ],
+  "stats": {
+   "shots1": 6,
+   "shots2": 18,
+   "sot1": 4,
+   "sot2": 9,
+   "poss1": 44,
+   "poss2": 56,
+   "fouls1": 14,
+   "fouls2": 11,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=323687",
+   "xg_source": null,
+   "note": "ESPN match data (Opta-derived feed); possession method not stated"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "BBC report (Chris Bevan), ESPN match data, web search for Dowd/Mancini complaints; only a City handball appeal discussed on a referee blog (not a reputable outlet) - no disputes recorded by reputable sources.",
+  "uncertain": [
+   "Assistants/fourth official only from Wikipedia citing a now-dead TheFA appointment page; 2012 Wikipedia article independently states Kevin Friend was 4th official at the 2011 Shield. Not otherwise verified.",
+   "Smalling's goal came from turning in Ashley Young's free-kick (set piece) - typed 'open play' as it was not a direct free kick.",
+   "VAR not in use in English football in 2011 but no match-specific source found, so var_in_use left null; GLT not verified.",
+   "Card list from ESPN event data; BBC confirms 'four City players booked early on' (Richards named) - consistent. Wikipedia lineup tables agree on all 7 cards.",
+   "No pre-match odds or key-absence info found from a reputable source."
+  ]
+ },
+ {
+  "article": "2012 FA Community Shield",
+  "date": "2012-08-12",
+  "competition": "FA Community Shield",
+  "season": "2012-13",
+  "venue": "Villa Park",
+  "city": "Birmingham",
+  "team1": "Chelsea",
+  "team2": "Manchester City",
+  "score_90": "2-3",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/19133978",
+   "https://www.espn.co.uk/football/match/_/gameId/348159",
+   "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584"
+  ],
+  "core_verified": true,
+  "referee": "Kevin Friend",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.bbc.co.uk/sport/football/19133978",
+   "https://www.espn.co.uk/football/match/_/gameId/348159",
+   "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584"
+  ],
+  "assistants": "Michael McDonough; Richard West",
+  "fourth_official": "Anthony Taylor",
+  "var_officials": null,
+  "var_in_use": null,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/competitions/fa-community-shield/2015/jul/anthony-taylor-community-shield-referee-2015 (confirms Taylor was 4th official at Villa Park 2012)",
+   "Wikipedia 2012 FA Community Shield (assistants; cites TheFA appointment of 3 July 2012)"
+  ],
+  "manager1": "Roberto Di Matteo",
+  "manager2": "Roberto Mancini",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Fernando Torres",
+    "minute": "40",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Yaya Touré",
+    "minute": "53",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Carlos Tevez",
+    "minute": "59",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Samir Nasri",
+    "minute": "65",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ryan Bertrand",
+    "minute": "80",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester City",
+    "player": "Stefan Savić",
+    "minute": "11",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ramires",
+    "minute": "32",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Branislav Ivanović",
+    "minute": "42",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "John Obi Mikel",
+    "minute": "44",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Frank Lampard",
+    "minute": "45+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Vincent Kompany",
+    "minute": "49",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ashley Cole",
+    "minute": "62",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ryan Bertrand",
+    "minute": "80",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Costel Pantilimon",
+    "minute": "80",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/348159",
+   "https://www.sportsmole.co.uk/football/chelsea/live-commentary/community-shield-chelsea-2-3-manchester-city-as-it-happened_39936.html",
+   "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584"
+  ],
+  "stats": {
+   "shots1": 7,
+   "shots2": 10,
+   "sot1": 3,
+   "sot2": 6,
+   "poss1": 46,
+   "poss2": 54,
+   "fouls1": 14,
+   "fouls2": 14,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=348159",
+   "xg_source": null,
+   "note": "ESPN match data (Opta-derived feed)"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Joe Hart (back injury)"
+   ],
+   "sources": [
+    "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "42",
+    "score_at_time": "1-0",
+    "type": "red card given",
+    "description": "Ivanović shown a straight red for a studs-up sliding challenge on Aleksandar Kolarov. Di Matteo said it was a sliding tackle that got the ball and had no intent; Irish Times report said Friend 'was justified'; BBC said Chelsea staff were furious.",
+    "favoured_team": "Manchester City",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (Irish Times: 'justified'; Di Matteo: not a red; Mancini: hard to see from bench)",
+    "impact": "likely",
+    "impact_reasoning": "Chelsea led 1-0 and played ~50 minutes with 10 men; City scored three times in 12 second-half minutes and won by one goal.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/19133978",
+     "https://www.cityam.com/?p=607585",
+     "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584"
+    ]
+   },
+   {
+    "minute": "not stated (2nd half, ~3.25pm per live text)",
+    "score_at_time": "2-3 or later",
+    "type": "red card not given",
+    "description": "Ramires (already booked) not shown a second yellow for a cynical bodycheck/foul on David Silva on the break.",
+    "favoured_team": "Chelsea",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (Irish Times: 'should have brought a second yellow'; Sports Mole live text: 'escaped a red card')",
+    "impact": "none",
+    "impact_reasoning": "City were leading and won; a Chelsea dismissal would only have helped City.",
+    "sources": [
+     "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584",
+     "https://www.sportsmole.co.uk/football/chelsea/live-commentary/community-shield-chelsea-2-3-manchester-city-as-it-happened_39936.html"
+    ]
+   },
+   {
+    "minute": "not stated (first half)",
+    "score_at_time": "0-0 or 1-0",
+    "type": "other",
+    "description": "Savić flattened Torres; Friend gave the free-kick to Savić, which the Irish Times said could plausibly have gone the other way 'with dire consequences' (implying a Chelsea free-kick/caution for Savić).",
+    "favoured_team": "Manchester City",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalist only (Irish Times)",
+    "impact": "possible",
+    "impact_reasoning": "Close first-half score; a second booking/sanction for an already-booked Savić could have reduced City to ten.",
+    "sources": [
+     "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, Sports Mole live commentary, Irish Times report, City AM (Di Matteo/Mancini quotes), The National (suspension); web search for Ivanović red card reaction.",
+  "uncertain": [
+   "Irish Times report states David Luiz was also cautioned; ESPN event data, Sports Mole live text and Wikipedia do not list a Luiz booking - not recorded; cards_complete set false.",
+   "Mikel's booking: ESPN 44', Wikipedia 45+1' - ESPN used.",
+   "Savić/Torres incident: only one source; exact minute and decision unclear.",
+   "Assistants (McDonough, West) only from Wikipedia citing TheFA; fourth official Anthony Taylor confirmed by TheFA 2015 article.",
+   "Sources conflict on whether Ivanović was suspended afterwards (The National: no ban due to rule change; Irish Times: would miss three games) - not relevant to dataset fields.",
+   "No pre-match odds found from a reputable source."
+  ]
+ },
+ {
+  "article": "2013 FA Community Shield",
+  "date": "2013-08-11",
+  "competition": "FA Community Shield",
+  "season": "2013-14",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester United",
+  "team2": "Wigan Athletic",
+  "score_90": "2-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/23565298",
+   "https://www.espn.co.uk/football/match/_/gameId/366626"
+  ],
+  "core_verified": true,
+  "referee": "Mark Clattenburg",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/366626",
+   "https://www.sportskeeda.com/football/preview-manchester-united-v-wigan-athletic-fa-community-shield-201314/2"
+  ],
+  "assistants": "Mike Mullarkey; Scott Ledger",
+  "fourth_official": "Michael Oliver",
+  "var_officials": null,
+  "var_in_use": null,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.sportskeeda.com/football/preview-manchester-united-v-wigan-athletic-fa-community-shield-201314/2",
+   "http://www.thefa.com/News/competitions/fa-community-shield/2013/jul/clattenburg-to-ref-shield.aspx (cited by Wikipedia; not fetched)"
+  ],
+  "manager1": "David Moyes",
+  "manager2": "Owen Coyle",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Robin van Persie",
+    "minute": "6",
+    "type": "header"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Robin van Persie",
+    "minute": "59",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Wigan Athletic",
+    "player": "James McArthur",
+    "minute": "50",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Wigan Athletic",
+    "player": "Roger Espinoza",
+    "minute": "88",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Tom Cleverley",
+    "minute": "90+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/366626"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No team stats in ESPN data for this match; BBC archived stats not reachable (web archive blocked)"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Wayne Rooney (shoulder injury)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.bbc.co.uk/sport/football/23565298"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "BBC report (Tom Rostance), ESPN match data/commentary; no refereeing disputes mentioned.",
+  "uncertain": [
+   "Card list only from ESPN event data (matches Wikipedia); no second independent card source fetched.",
+   "Van Persie's second goal deflected off James Perch's heel - credited to Van Persie by BBC and ESPN.",
+   "Match stats unavailable; odds not found; VAR/GLT not verified (left null)."
+  ]
+ },
+ {
+  "article": "2014 FA Community Shield",
+  "date": "2014-08-10",
+  "competition": "FA Community Shield",
+  "season": "2014-15",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Manchester City",
+  "score_90": "3-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/400444",
+   "https://www.sportsmole.co.uk/football/arsenal/result/arsenal-ease-to-community-shield-victory_170467.html",
+   "https://www.thefa.com/news/2014/aug/10/arsene-wenger-buoyant-after-community-shield-win"
+  ],
+  "core_verified": true,
+  "referee": "Michael Oliver",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/400444",
+   "http://www.thefa.com/news/competitions/fa-community-shield/2014/jul/michael-oliver-appointed-shield-referee-010714"
+  ],
+  "assistants": "Stuart Burt; Darren England",
+  "fourth_official": "Jon Moss",
+  "var_officials": null,
+  "var_in_use": null,
+  "glt_in_use": null,
+  "officials_sources": [
+   "http://www.thefa.com/news/competitions/fa-community-shield/2014/jul/michael-oliver-appointed-shield-referee-010714"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "Manuel Pellegrini",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Santi Cazorla",
+    "minute": "21",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Aaron Ramsey",
+    "minute": "42",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Olivier Giroud",
+    "minute": "60",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester City",
+    "player": "Fernando",
+    "minute": "51",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/400444"
+  ],
+  "stats": {
+   "shots1": 8,
+   "shots2": 11,
+   "sot1": 4,
+   "sot2": 1,
+   "poss1": 41,
+   "poss2": 59,
+   "fouls1": 13,
+   "fouls2": 14,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=400444",
+   "xg_source": null,
+   "note": "ESPN match data (Opta-derived feed). Wikipedia table gives possession 42%-57% and shots on/off 4+4 / 1+11 - near-identical."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Mesut Özil (post-World Cup leave, not injury)",
+    "Per Mertesacker (post-World Cup leave, not injury)",
+    "Lukas Podolski (post-World Cup leave, not injury)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.espn.co.uk/football/match/_/gameId/400444"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "14",
+    "score_at_time": "0-0",
+    "type": "penalty not given",
+    "description": "Man City claimed a penalty when Samir Nasri's shot struck Mathieu Debuchy at point-blank range; referee Oliver judged it hit his chest, not his arm.",
+    "favoured_team": "Arsenal",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; match report (PA via ESPN) only",
+    "impact": "none",
+    "impact_reasoning": "Arsenal won 3-0; even a converted penalty at 0-0 would not plausibly have changed the outcome given the final margin (though it came at 0-0).",
+    "sources": [
+     "https://www.espn.co.uk/football/match/_/gameId/400444"
+    ]
+   }
+  ],
+  "contested_search_done": "PA match report (via ESPN), Sports Mole result, TheFA post-match article, web search; only a waved-away City penalty appeal mentioned (single source).",
+  "uncertain": [
+   "Contested decision recorded from a single source (PA report on ESPN); described as a claim, not as an error.",
+   "Giroud's goal minute: ESPN/PA 60', Sports Mole match listing 61' - 60 used.",
+   "City's Fernando booking from ESPN only (matches Wikipedia stats table: Arsenal 0, City 1 yellows).",
+   "BBC report URL (28731476) returns 404; web archive unreachable.",
+   "No odds found; VAR/GLT not verified."
+  ]
+ },
+ {
+  "article": "2015 FA Community Shield",
+  "date": "2015-08-02",
+  "competition": "FA Community Shield",
+  "season": "2015-16",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/432389",
+   "https://www.thefa.com/news/2015/aug/02/chelsea-v-arsenal-fa-community-shield-match-report",
+   "https://www.aljazeera.com/sports/2015/8/2/arsenal-beat-chelsea-to-win-community-shield"
+  ],
+  "core_verified": true,
+  "referee": "Anthony Taylor",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.thefa.com/news/2015/aug/02/chelsea-v-arsenal-fa-community-shield-match-report",
+   "https://www.thefa.com/news/competitions/fa-community-shield/2015/jul/anthony-taylor-community-shield-referee-2015"
+  ],
+  "assistants": "Gary Beswick; John Brooks",
+  "fourth_official": "Roger East",
+  "var_officials": null,
+  "var_in_use": null,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/competitions/fa-community-shield/2015/jul/anthony-taylor-community-shield-referee-2015"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "José Mourinho",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Alex Oxlade-Chamberlain",
+    "minute": "24",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "César Azpilicueta",
+    "minute": "65",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Francis Coquelin",
+    "minute": "67",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/432389"
+  ],
+  "stats": {
+   "shots1": 11,
+   "shots2": 14,
+   "sot1": 5,
+   "sot2": 2,
+   "poss1": 43.5,
+   "poss2": 56.5,
+   "fouls1": 12,
+   "fouls2": 11,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=432389",
+   "xg_source": null,
+   "note": "ESPN match data (Opta). Wikipedia table: possession 43.4-56.6, shots on/off 5+6 / 2+12 - consistent."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Jack Wilshere (ankle knock in training)"
+   ],
+   "team2": [
+    "Diego Costa (hamstring tightness, withdrew)"
+   ],
+   "sources": [
+    "https://www.espn.co.uk/football/match/_/gameId/432389",
+    "https://www.thefa.com/news/2015/aug/02/chelsea-v-arsenal-fa-community-shield-match-report"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "PA report (via ESPN), TheFA match report, web search for match reports; no refereeing disputes mentioned (Mourinho post-match comments were about Arsenal's defensive approach).",
+  "uncertain": [
+   "BBC match report URL not identified (BBC not searchable/archived copies unreachable).",
+   "Cards from ESPN only (consistent with Wikipedia and its stats table).",
+   "Alexis Sánchez was also absent (extended post-Copa América break per Independent headline cited in Wikipedia) - not fetched, not recorded.",
+   "No odds found; VAR/GLT not verified."
+  ]
+ },
+ {
+  "article": "2016 FA Community Shield",
+  "date": "2016-08-07",
+  "competition": "FA Community Shield",
+  "season": "2016-17",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Leicester City",
+  "team2": "Manchester United",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/36934956",
+   "https://www.espn.co.uk/football/match/_/gameId/457291",
+   "https://www.thefa.com/news/2016/aug/07/leicester-city-manchester-united-report-070816"
+  ],
+  "core_verified": true,
+  "referee": "Craig Pawson",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.thefa.com/news/2016/aug/07/leicester-city-manchester-united-report-070816",
+   "https://www.skysports.com/football/leicester-vs-man-utd/teams/360527"
+  ],
+  "assistants": "Stephen Child; Lee Betts",
+  "fourth_official": "Bobby Madley",
+  "var_officials": null,
+  "var_in_use": null,
+  "glt_in_use": null,
+  "officials_sources": [
+   "Wikipedia 2016 FA Community Shield (no independent source fetched)"
+  ],
+  "manager1": "Claudio Ranieri",
+  "manager2": "José Mourinho",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Jesse Lingard",
+    "minute": "32",
+    "type": "open play"
+   },
+   {
+    "team": "Leicester City",
+    "player": "Jamie Vardy",
+    "minute": "52",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Zlatan Ibrahimović",
+    "minute": "83",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Leicester City",
+    "player": "Danny Simpson",
+    "minute": "40",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Leicester City",
+    "player": "Andy King",
+    "minute": "55",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Eric Bailly",
+    "minute": "71",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Leicester City",
+    "player": "Jamie Vardy",
+    "minute": "75",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/457291",
+   "https://www.thefa.com/news/2016/aug/07/leicester-city-manchester-united-report-070816"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 9,
+   "sot1": 2,
+   "sot2": 6,
+   "poss1": 41.9,
+   "poss2": 58.1,
+   "fouls1": 10,
+   "fouls2": 10,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=457291",
+   "xg_source": null,
+   "note": "ESPN match data (Opta)"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "83",
+    "score_at_time": "1-1",
+    "type": "goal allowed",
+    "description": "Ibrahimović's winning header from Valencia's cross - PA report noted 'question marks over whether he was offside'.",
+    "favoured_team": "Manchester United",
+    "against_team": "Leicester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; match report journalist only (PA via ESPN)",
+    "impact": "likely",
+    "impact_reasoning": "Winning goal in a 2-1 match.",
+    "sources": [
+     "https://www.espn.co.uk/football/match/_/gameId/457291"
+    ]
+   },
+   {
+    "minute": "not stated (after 71')",
+    "score_at_time": "1-1",
+    "type": "red card not given",
+    "description": "Eric Bailly, booked for barging over Vardy, 'could easily have had a second yellow card for another clumsy challenge' (BBC).",
+    "favoured_team": "Manchester United",
+    "against_team": "Leicester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalist only (BBC)",
+    "impact": "possible",
+    "impact_reasoning": "Game level or 2-1 in last 20 minutes; a United dismissal could have changed the outcome.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/36934956"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, PA report (ESPN), TheFA report, web search for Ibrahimović offside; each disputed incident has only one reputable source.",
+  "uncertain": [
+   "Both contested decisions rest on a single reputable source each (PA; BBC). No replay analysis found.",
+   "Danny Simpson booking minute: ESPN and Wikipedia 40', TheFA report lists 'Simpson 55, King 55' - ESPN used.",
+   "Lingard goal minute: ESPN/Wikipedia 32', TheFA report 30th minute - 32 used.",
+   "Assistants/fourth official only from Wikipedia.",
+   "No key absences identified from sources; no odds found; VAR/GLT not verified."
+  ]
+ },
+ {
+  "article": "2017 FA Community Shield",
+  "date": "2017-08-06",
+  "competition": "FA Community Shield",
+  "season": "2017-18",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_90": "1-1",
+  "score_aet": null,
+  "shootout": "4-1",
+  "winner": "Arsenal",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/40766983",
+   "https://www.espn.co.uk/football/match/_/gameId/480906",
+   "https://www.skysports.com/football/arsenal-vs-chelsea/report/373477",
+   "https://www.thefa.com/news/2017/aug/04/fa-community-shield-arsenal-chelsea-report-060817"
+  ],
+  "core_verified": true,
+  "referee": "Bobby Madley",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.bbc.co.uk/sport/football/40766983",
+   "https://www.skysports.com/football/arsenal-vs-chelsea/report/373477",
+   "http://www.thefa.com/news/2017/jun/28/community-shield-referee-280617"
+  ],
+  "assistants": "Simon Bennett; Constantine Hatzidakis",
+  "fourth_official": "Graham Scott",
+  "var_officials": null,
+  "var_in_use": null,
+  "glt_in_use": null,
+  "officials_sources": [
+   "http://www.thefa.com/news/2017/jun/28/community-shield-referee-280617"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "Antonio Conte",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Victor Moses",
+    "minute": "46",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Sead Kolašinac",
+    "minute": "82",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "César Azpilicueta",
+    "minute": "13",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Héctor Bellerín",
+    "minute": "15",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Marcos Alonso",
+    "minute": "35",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Willian",
+    "minute": "37",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Pedro",
+    "minute": "80",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/480906",
+   "https://www.bbc.co.uk/sport/football/40766983",
+   "https://www.skysports.com/football/arsenal-vs-chelsea/report/373477"
+  ],
+  "stats": {
+   "shots1": 11,
+   "shots2": 7,
+   "sot1": 4,
+   "sot2": 4,
+   "poss1": 54.4,
+   "poss2": 45.6,
+   "fouls1": 8,
+   "fouls2": 12,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=480906",
+   "xg_source": null,
+   "note": "ESPN match data (Opta)"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Alexis Sánchez (illness, not in squad)",
+    "Mesut Özil (minor knock in training, not risked)"
+   ],
+   "team2": [
+    "Eden Hazard (did not play - watched as spectator; reason not stated in sources fetched)"
+   ],
+   "sources": [
+    "https://www.bbc.co.uk/sport/football/40766983",
+    "https://www.skysports.com/football/arsenal-vs-chelsea/report/373477"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "37",
+    "score_at_time": "0-0",
+    "type": "penalty not given",
+    "description": "Willian went down under Héctor Bellerín's challenge in the box and was booked for simulation instead of a penalty. BBC: replays suggested Willian clipped his own feet but Bellerín may have made contact first; Sky: replays showed contact before he clipped his own heels. Conte said 'a lot of people told me the penalty was clear'.",
+    "favoured_team": "Arsenal",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (BBC called it 'a tricky call')",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0 in a match that finished 1-1 and went to penalties; a converted penalty could have changed the result.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/40766983",
+     "https://www.skysports.com/football/arsenal-vs-chelsea/report/373477",
+     "https://www.skysports.com/football/news/11668/10977716/antonio-conte-sees-red-over-chelsea-dismissals-against-arsenal"
+    ]
+   },
+   {
+    "minute": "80",
+    "score_at_time": "0-1",
+    "type": "red card given",
+    "description": "Pedro sent off for a late, high challenge raking Mohamed Elneny's Achilles; Arsenal equalised from the resulting free-kick 82 seconds later. Conte was 'a bit angry'; BBC called the decision 'more straightforward'.",
+    "favoured_team": "Arsenal",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (BBC: 'straightforward'; Conte: angered)",
+    "impact": "likely",
+    "impact_reasoning": "Directly produced the free-kick from which Arsenal equalised and gave Arsenal a man advantage in a match decided by penalties.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/40766983",
+     "https://www.skysports.com/football/news/11668/10977716/antonio-conte-sees-red-over-chelsea-dismissals-against-arsenal",
+     "https://www.sportsmole.co.uk/football/chelsea/news/conte-angry-with-community-shield-ref_304357.html"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, Sky Sports report and Conte reaction piece, Sports Mole, TheFA report, web search (Telegraph/Independent headlines on Conte's anger).",
+  "uncertain": [
+   "Bellerín booking minute: ESPN 15', Wikipedia 16' - ESPN used.",
+   "Pedro red: journalists largely viewed it as correct (BBC 'straightforward'), but no referee-expert verdict found, so assessment left 'genuinely debatable' per brief rule.",
+   "Shootout used ABBA format (first time in English football). Shootout score 4-1 (Arsenal: Walcott, Monreal, Oxlade-Chamberlain, Giroud scored; Chelsea: Cahill scored, Courtois and Morata missed).",
+   "Per Mertesacker went off injured ~30' (in-match), not a pre-match absence.",
+   "No odds found; VAR/GLT not verified."
+  ]
+ },
+ {
+  "article": "2018 FA Community Shield",
+  "date": "2018-08-05",
+  "competition": "FA Community Shield",
+  "season": "2018-19",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Manchester City",
+  "score_90": "0-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/44995783",
+   "https://www.espn.co.uk/football/match/_/gameId/510954"
+  ],
+  "core_verified": true,
+  "referee": "Jon Moss",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "http://www.thefa.com/news/2018/jul/10/fa-community-shield-jon-moss-100718",
+   "https://www.thefa.com/news/2018/aug/05/fa-community-shield-chelsea-manchester-city-report-050818 (cited by Wikipedia; not fetched)"
+  ],
+  "assistants": "Adam Nunn; Eddie Smart",
+  "fourth_official": "Paul Tierney",
+  "var_officials": "VAR: Stuart Attwell; AVAR: Andrew Halliday",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "http://www.thefa.com/news/2018/jul/10/fa-community-shield-jon-moss-100718"
+  ],
+  "manager1": "Maurizio Sarri",
+  "manager2": "Pep Guardiola",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Sergio Agüero",
+    "minute": "13",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Sergio Agüero",
+    "minute": "58",
+    "type": "open play"
+   }
+  ],
+  "cards": [],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/510954"
+  ],
+  "stats": {
+   "shots1": 5,
+   "shots2": 18,
+   "sot1": 2,
+   "sot2": 9,
+   "poss1": 47.2,
+   "poss2": 52.8,
+   "fouls1": 6,
+   "fouls2": 10,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=510954",
+   "xg_source": null,
+   "note": "ESPN match data (Opta). BBC text says Chelsea managed only one shot on target (ESPN: 2)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Eden Hazard (post-World Cup leave, not injury)"
+   ],
+   "team2": [
+    "Kevin De Bruyne (absent - post-World Cup)",
+    "Raheem Sterling (absent - post-World Cup)",
+    "David Silva (absent - post-World Cup)"
+   ],
+   "sources": [
+    "https://www.bbc.co.uk/sport/football/44995783"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "BBC report, ESPN report/match data; no refereeing disputes mentioned.",
+  "uncertain": [
+   "Referee confirmed by TheFA appointment; second source (TheFA match report / Wikipedia) not independently fetched - ESPN data lacks officials for this match.",
+   "VAR 'available' per TheFA appointment article (Elleray: 'Having the VAR available for Jon'); no VAR interventions reported.",
+   "Shots on target for Chelsea: ESPN 2 vs BBC text 1.",
+   "Odds in ESPN feed are in-play/closing (e.g. 1/250) - not usable; null."
+  ]
+ },
+ {
+  "article": "2019 FA Community Shield",
+  "date": "2019-08-04",
+  "competition": "FA Community Shield",
+  "season": "2019-20",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Liverpool",
+  "team2": "Manchester City",
+  "score_90": "1-1",
+  "score_aet": null,
+  "shootout": "4-5",
+  "winner": "Manchester City",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/49141690",
+   "https://www.espn.co.uk/football/match/_/gameId/541464"
+  ],
+  "core_verified": true,
+  "referee": "Martin Atkinson",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.thefa.com/news/2019/jul/11/martin-atkinson-to-referee-community-shield-110719",
+   "https://www.thefa.com/news/2019/aug/04/liverpool-man-city-community-shield-040819"
+  ],
+  "assistants": "Sian Massey-Ellis; Dan Cook",
+  "fourth_official": "Stuart Attwell",
+  "var_officials": "VAR: Anthony Taylor; AVAR: Steve Child",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.thefa.com/news/2019/jul/11/martin-atkinson-to-referee-community-shield-110719"
+  ],
+  "manager1": "Jürgen Klopp",
+  "manager2": "Pep Guardiola",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Raheem Sterling",
+    "minute": "12",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Joël Matip",
+    "minute": "77",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester City",
+    "player": "Kevin De Bruyne",
+    "minute": "33",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/541464"
+  ],
+  "stats": {
+   "shots1": 17,
+   "shots2": 8,
+   "sot1": 9,
+   "sot2": 3,
+   "poss1": 52.8,
+   "poss2": 47.2,
+   "fouls1": 4,
+   "fouls2": 8,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=541464",
+   "xg_source": null,
+   "note": "ESPN match data (Opta)"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Sadio Mané (post-Africa Cup of Nations break, not injury)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.bbc.co.uk/sport/football/49141690",
+    "https://www.espn.co.uk/football/match/_/gameId/541464"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "BBC report, ESPN report (Rob Dawson), web search for VAR/penalty disputes; none found. Guardiola was booked on the touchline for protesting (first manager yellow under new rules) - a sanction on a manager, not a disputed decision.",
+  "uncertain": [
+   "Pep Guardiola (manager) was shown a yellow card (BBC) - not in player card list.",
+   "Shootout: Liverpool 4-5 (Wijnaldum saved by Bravo; City scored all five).",
+   "Sergio Agüero and Ederson were on the bench (not absent) per ESPN.",
+   "Odds in ESPN feed are in-play (draw 2/11) - not usable; null."
+  ]
+ }
+]

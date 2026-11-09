@@ -1,0 +1,638 @@
+[
+ {
+  "article": "1998 Football League Cup final",
+  "date": "1998-03-29",
+  "competition": "League Cup",
+  "season": "1997-98",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Middlesbrough",
+  "score_90": "0-0",
+  "score_aet": "2-0",
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://www.chelseafc.com/en/news/article/the-story-of-chelsea-league-cup-final-1998-frank-sinclair-interview",
+   "https://www.gazettelive.co.uk/sport/football/football-news/boros-greatest-games-coca-cola-cup-3665696.amp",
+   "https://al.zerostem.io/~al/teletext/itv/1998-03-29-0054.1/141.html",
+   "https://www.rsssf.org/tablese/engleagcup98.html"
+  ],
+  "core_verified": true,
+  "referee": "Peter Jones",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Gianluca Vialli",
+  "manager2": "Bryan Robson",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Frank Sinclair",
+    "minute": "95",
+    "type": "header"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Roberto Di Matteo",
+    "minute": "107",
+    "type": "open play"
+   }
+  ],
+  "cards": [],
+  "cards_complete": false,
+  "cards_sources": [],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable match statistics found (BBC 1998 report host news.bbc.co.uk blocked from this environment)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [],
+   "note": "No reliable absence information found."
+  },
+  "contested_decisions": [],
+  "contested_search_done": "Chelsea FC retrospective, Teesside Gazette (Evening Gazette) contemporaneous match report, ITV Teletext archive pages (29 Mar 1998), web searches for referee controversy; no refereeing disputes documented. BBC 1998 report (news.bbc.co.uk) and web.archive.org were blocked by the network proxy.",
+  "uncertain": [
+   "Referee Peter Jones (Leicestershire/Loughborough) is taken from Wikipedia only; no independent non-Wikipedia source naming him for this match could be reached (BBC 1998 report blocked; 11v11/worldfootball blocked). Kept as the referee because no source contradicts it, but referee_sources is empty: NOT verified.",
+   "Cards: no reliable list found. A web-search snippet of 11v11.com (page itself blocked) indicated yellow cards for Middlesbrough's Paul Gascoigne and Andy Townsend; a Chelsea fan wiki (thechels.info) reportedly marks bookings for Leboeuf, Le Saux, Wise and Hughes. Neither verified, so cards left empty and cards_complete=false.",
+   "Di Matteo goal type: side-footed/close-range finish after Zola corner (set-piece situation) - recorded as open play.",
+   "Teletext source is an archive of ITV Teletext pages (contemporary, but OCR-garbled text); it confirms result and scorers (Sinclair 5 min into ET, Di Matteo 107).",
+   "Attendance 77,698 per Teesside Gazette."
+  ]
+ },
+ {
+  "article": "2001 Football League Cup final",
+  "date": "2001-02-25",
+  "competition": "League Cup",
+  "season": "2000-01",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Birmingham City",
+  "team2": "Liverpool",
+  "score_90": "1-1",
+  "score_aet": "1-1",
+  "shootout": "4-5",
+  "winner": "Liverpool",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.skysports.com/football/news/10172173/liverpools-record-breaking-league-cup-wins",
+   "https://www.espn.com/soccer/story/_/id/37441823/liverpool-five-most-memorable-league-cup-victories",
+   "https://www.lfchistory.net/SeasonArchive/Game/2302",
+   "https://www.lfchistory.net/articles/656",
+   "https://www.rsssf.org/tablese/engleagcup01.html"
+  ],
+  "core_verified": true,
+  "referee": "David Elleray",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.lfchistory.net/SeasonArchive/Game/2302",
+   "https://www.lfchistory.net/articles/656",
+   "https://www.rsssf.org/tablese/engleagcup01.html"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Trevor Francis",
+  "manager2": "Gérard Houllier",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "Robbie Fowler",
+    "minute": "30",
+    "type": "open play"
+   },
+   {
+    "team": "Birmingham City",
+    "player": "Darren Purse",
+    "minute": "90+3",
+    "type": "penalty"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Dietmar Hamann",
+    "minute": "108",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Stéphane Henchoz",
+    "minute": "109",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://www.lfchistory.net/articles/656"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable statistics found; BBC report host blocked."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [],
+   "note": "Not researched successfully; no reliable source reached."
+  },
+  "contested_decisions": [
+   {
+    "minute": "104",
+    "score_at_time": "1-1",
+    "type": "penalty not given",
+    "description": "Birmingham's Andrew Johnson bundled/hauled over in the Liverpool penalty area by Stéphane Henchoz; referee David Elleray waved play on. BBC Clockwatch: 'to the amazement of everyone connected with Birmingham referee Elleray does not award a penalty'.",
+    "favoured_team": "Liverpool",
+    "against_team": "Birmingham City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (BBC Clockwatch live text; Football Bloody Hell retrospective says 'much to the surprise of most watching on'; a liverpoolfc.com retrospective seen only as a search snippet quotes Jamie Carragher saying Liverpool were 'very fortunate to get away with that')",
+    "impact": "likely",
+    "impact_reasoning": "Came at 1-1 in extra time of a final decided on penalties; a penalty would have given Birmingham a direct chance to take the lead.",
+    "sources": [
+     "https://www.lfchistory.net/articles/656",
+     "https://footballbh.net/2022/09/13/liverpool-2001-treble/"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC Clockwatch minute-by-minute (reproduced on lfchistory.net), Sky Sports and ESPN retrospectives, Football Bloody Hell retrospective, web searches for Elleray/Henchoz/Johnson penalty controversy and Trevor Francis complaints. The 90+3 penalty for Henchoz's foul on O'Connor was described as clear-cut ('Elleray had no choice', per search summary) and is not recorded as contested.",
+  "uncertain": [
+   "Score orientation follows Wikipedia team1=Birmingham City (designated home side). lfchistory lists Liverpool first.",
+   "Purse penalty minute: BBC Clockwatch says it was awarded 'two-and-a-half minutes into stoppage time', so recorded as 90+3; Wikipedia gives 90.",
+   "Cards only from BBC Clockwatch text (as reproduced on lfchistory.net, a fan-run archive) - Hamann 108 and Henchoz 109; matches Wikipedia. No second independent source; possible other bookings not confirmed.",
+   "Contested decision sources are BBC text via a fan archive and a football blog; original BBC page and Guardian/Telegraph reports could not be reached (blocked). Carragher 'very fortunate' quote is from a search-result snippet of a liverpoolfc.com article that returned 404 when fetched.",
+   "Shootout: Liverpool scorers McAllister, Barmby, Ziege, Fowler, Carragher (Hamann saved); Birmingham scorers Purse, Marcelo, Lazaridis, Hughes (Grainger and Andy Johnson saved by Westerveld) per lfchistory/ESPN. Wikipedia's raw list includes 'A. Johnson' and 'Grainger'.",
+   "Referee nationality 'English': Elleray is an English referee registered with the FA (London); no source checked for birthplace."
+  ]
+ },
+ {
+  "article": "2003 Football League Cup final",
+  "date": "2003-03-02",
+  "competition": "League Cup",
+  "season": "2002-03",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Liverpool",
+  "team2": "Manchester United",
+  "score_90": "2-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.espn.com/soccer/match/_/gameId/80871/manchester-united-liverpool",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=80871",
+   "https://www.rte.ie/sport/soccer/2003/0302/170962-liverpool/",
+   "https://www.lfchistory.net/SeasonArchive/Game/2432",
+   "https://www.rsssf.org/tablese/engleagcup03.html"
+  ],
+  "core_verified": true,
+  "referee": "Paul Durkin",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=80871",
+   "https://www.lfchistory.net/SeasonArchive/Game/2432"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Gérard Houllier",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "Steven Gerrard",
+    "minute": "39",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Michael Owen",
+    "minute": "86",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Stéphane Henchoz",
+    "minute": "13",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=80871"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "ESPN has no team stats for this match; BBC report host blocked."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [
+    "https://www.rte.ie/sport/soccer/2003/0302/170962-liverpool/"
+   ],
+   "note": "RTE: both sides fielded strongest line-ups; Giggs, Wes Brown and Scholes passed fit for United. No key absentees identified."
+  },
+  "contested_decisions": [],
+  "contested_search_done": "ESPN (Soccernet) live commentary, RTE match report, lfchistory match page, web search for Durkin/penalty controversy and Ferguson complaints. ESPN commentary notes a Heskey penalty appeal (48') and a Scholes 'blatant dive' (79') both waved away by Durkin, but no reputable source describes either decision as disputed/wrong. None recorded.",
+  "uncertain": [
+   "Gerrard's goal took a deflection off David Beckham (RTE) - credited to Gerrard everywhere.",
+   "Only one booking (Henchoz 13') found, from ESPN commentary/data; not confirmed by a second source, so cards_complete=false.",
+   "ESPN referee listed as 'P Durkin'; lfchistory 'Durkin PA'."
+  ]
+ },
+ {
+  "article": "2005 Football League Cup final",
+  "date": "2005-02-27",
+  "competition": "League Cup",
+  "season": "2004-05",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Liverpool",
+  "team2": "Chelsea",
+  "score_90": "1-1",
+  "score_aet": "2-3",
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466",
+   "https://edition.cnn.com/2005/SPORT/football/02/27/carling.chelsea/",
+   "https://www.independent.co.uk/sport/football/premier-league/mourinhos-dismissal-mars-his-first-chelsea-triumph-13221.html",
+   "https://www.lfchistory.net/SeasonArchive/Game/4923",
+   "https://www.rsssf.org/tablese/engleagcup05.html"
+  ],
+  "core_verified": true,
+  "referee": "Steve Bennett",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://edition.cnn.com/2005/SPORT/football/02/27/carling.chelsea/",
+   "https://www.independent.co.uk/sport/football/premier-league/mourinhos-dismissal-mars-his-first-chelsea-triumph-13221.html",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466",
+   "https://www.rsssf.org/tablese/engleagcup05.html"
+  ],
+  "assistants": null,
+  "fourth_official": "Phil Crossley",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.independent.co.uk/sport/football/premier-league/mourinhos-dismissal-mars-his-first-chelsea-triumph-13221.html"
+  ],
+  "manager1": "Rafael Benítez",
+  "manager2": "José Mourinho",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "John Arne Riise",
+    "minute": "1",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Steven Gerrard",
+    "minute": "79",
+    "type": "own goal"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "107",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Mateja Kežman",
+    "minute": "112",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Antonio Núñez",
+    "minute": "113",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Sami Hyypiä",
+    "minute": "13",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Frank Lampard",
+    "minute": "27",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Djimi Traoré",
+    "minute": "35",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Dietmar Hamann",
+    "minute": "79",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Mateja Kežman",
+    "minute": "81",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "108",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Damien Duff",
+    "minute": "114",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Jamie Carragher",
+    "minute": "117",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466",
+   "https://www.rsssf.org/tablese/engleagcup05.html"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "ESPN has no team stats for this match; BBC report host blocked."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [],
+   "note": "Not verified; searches did not surface a reachable reliable team-news source."
+  },
+  "contested_decisions": [
+   {
+    "minute": "45",
+    "score_at_time": "1-0",
+    "type": "red card not given",
+    "description": "Sami Hyypiä, already booked (13'), brought down Joe Cole around half-time; Steve Bennett appeared to reach for his pocket, consulted his assistant and gave only a free-kick, so Hyypiä escaped a second yellow. CNN: Bennett 'looked set to issue another yellow card before realising what this would entail. Hyypia instead escaped'. ESPN timed it 45'; CNN 'just after the break'.",
+    "favoured_team": "Liverpool",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (CNN/Reuters-style report; ESPN Soccernet live commentary)",
+    "impact": "possible",
+    "impact_reasoning": "At 1-0 to Liverpool; a second yellow would have left Liverpool with 10 men for 75+ minutes including extra time. Chelsea nevertheless won, so it did not change the outcome against them; it could only have made Chelsea's win more likely.",
+    "sources": [
+     "https://edition.cnn.com/2005/SPORT/football/02/27/carling.chelsea/",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466"
+    ]
+   },
+   {
+    "minute": "27",
+    "score_at_time": "1-0",
+    "type": "penalty not given",
+    "description": "Steven Gerrard went down in the Chelsea area under a heavy challenge from Claude Makelele; no penalty. ESPN commentary: 'It could very easily have been given a penalty; the Frenchman was all over Gerrard.'",
+    "favoured_team": "Chelsea",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (ESPN Soccernet live commentator)",
+    "impact": "possible",
+    "impact_reasoning": "At 1-0 in a match Liverpool lost by one goal after extra time; a penalty could have produced a 2-0 lead.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466"
+    ]
+   },
+   {
+    "minute": "79",
+    "score_at_time": "1-1",
+    "type": "other",
+    "description": "Chelsea manager José Mourinho, after putting his finger to his lips towards Liverpool fans when Chelsea equalised, was removed from the touchline to the tunnel. Mourinho said he was sent off by a policeman (who told the fourth official), not the referee; Independent says fourth official Phil Crossley and Football League refereeing official Jim Ashworth took him down the tunnel; referee Bennett to include it in his report.",
+    "favoured_team": "Liverpool",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; manager comments and journalists only",
+    "impact": "none",
+    "impact_reasoning": "Did not affect the players on the pitch; Chelsea won anyway. Recorded because it was disputed by Mourinho and executed by match officials, though initiated on police advice rather than as a refereeing decision.",
+    "sources": [
+     "https://www.independent.co.uk/sport/football/premier-league/mourinhos-dismissal-mars-his-first-chelsea-triumph-13221.html",
+     "https://edition.cnn.com/2005/SPORT/football/02/27/carling.chelsea/"
+    ]
+   }
+  ],
+  "contested_search_done": "CNN report, Independent report, ESPN Soccernet live commentary (via ESPN API), lfchistory match page; web searches for Bennett controversy. Guardian MBM/BBC report hosts blocked.",
+  "uncertain": [
+   "Gerrard penalty claim (27') has only one source (ESPN live commentary).",
+   "Attendance: ESPN 78,000 vs lfchistory 71,622; not a core field.",
+   "Riise goal timed at 45 seconds (Independent)/43 seconds (CNN): minute 1.",
+   "CNN times Gerrard own goal at 78 minutes; ESPN/Wikipedia 79.",
+   "Mourinho touchline removal: whether it counts as a 'refereeing decision' is debatable (police-initiated).",
+   "Cards: ESPN data and RSSSF list the same 8 yellow cards (RSSSF gives no minutes; minutes from ESPN)."
+  ]
+ },
+ {
+  "article": "2006 Football League Cup final",
+  "date": "2006-02-26",
+  "competition": "League Cup",
+  "season": "2005-06",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Manchester United",
+  "team2": "Wigan Athletic",
+  "score_90": "4-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.espn.co.uk/football/match/_/gameId/194227",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=194227",
+   "https://www.skysports.com/football/manchester-united-vs-wigan-athletic/teams/69613",
+   "https://www.manutd.com/en/news/recalling-how-2006-league-cup-win-led-to-a-golden-era-for-man-utd",
+   "https://www.rsssf.org/tablese/engleagcup06.html"
+  ],
+  "core_verified": true,
+  "referee": "Alan Wiley",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=194227",
+   "https://www.skysports.com/football/manchester-united-vs-wigan-athletic/teams/69613",
+   "https://www.rsssf.org/tablese/engleagcup06.html"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Sir Alex Ferguson",
+  "manager2": "Paul Jewell",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Wayne Rooney",
+    "minute": "33",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Louis Saha",
+    "minute": "55",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Cristiano Ronaldo",
+    "minute": "59",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Wayne Rooney",
+    "minute": "61",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Wigan Athletic",
+    "player": "Arjan de Zeeuw",
+    "minute": "45+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Cristiano Ronaldo",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=194227"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "ESPN has no team stats for this match; BBC report host blocked."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Alan Smith (broken leg/dislocated ankle, injured v Liverpool Feb 2006)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.manutd.com/en/news/recalling-how-2006-league-cup-win-led-to-a-golden-era-for-man-utd"
+   ],
+   "note": "Alan Smith absence from a manutd.com search-result snippet (page itself blocked: Cloudflare). Ruud van Nistelrooy was fit but left on the bench (selection, not absence). Other absentees not verified."
+  },
+  "contested_decisions": [],
+  "contested_search_done": "ESPN Soccernet live commentary (via ESPN API), Sky Sports match page, web searches; no disputed refereeing decisions documented (only routine free-kick/handball appeals in live text). BBC report host blocked.",
+  "uncertain": [
+   "Sky Sports match data page lists the venue as 'Old Trafford' (evident data error); ESPN gives Cardiff (Principality/Millennium Stadium) and manutd.com/EFL search snippets confirm Cardiff.",
+   "De Zeeuw booking: ESPN data 45+1; ESPN live text at 47' says he 'was shown a yellow card a moment ago'; Wikipedia says 45.",
+   "Ronaldo booked for removing shirt in goal celebration (ESPN commentary); Wikipedia 60' matches.",
+   "Cards from ESPN only, agrees with Wikipedia; considered complete but single-provider."
+  ]
+ }
+]

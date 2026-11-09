@@ -1,0 +1,486 @@
+[
+ {
+  "article": "2022 UEFA Champions League final",
+  "date": "2022-05-28",
+  "competition": "UEFA Champions League",
+  "season": "2021-22",
+  "venue": "Stade de France",
+  "city": "Saint-Denis (Paris)",
+  "team1": "Liverpool",
+  "team2": "Real Madrid",
+  "score_90": "0-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Real Madrid",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2022/2034586_FR.pdf",
+   "https://gulfnews.com/sport/football/real-madrid-beat-liverpool-1-0-to-clinch-champions-league-title-1.88210474",
+   "https://www.skysports.com/football/news/11669/12622389/liverpool-0-1-real-madrid-thibaut-courtois-and-vinicius-jnr-star-as-mohamed-salah-and-sadio-mane-lack-decisive-touch"
+  ],
+  "core_verified": true,
+  "referee": "Clément Turpin",
+  "referee_nationality": "French",
+  "referee_association": "FFF (France)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2022/2034586_FR.pdf",
+   "https://www.uefa.com/news-media/news/0275-151e847d9f62-c7c70e5d01ff-1000/",
+   "https://www.goal.com/en/news/why-did-var-rule-out-benzema-s-goal-for-real-madrid-in-champions-/bltaf6ebb621ffea258"
+  ],
+  "assistants": "Nicolas Danos; Cyril Gringore (both French)",
+  "fourth_official": "Benoît Bastien (France)",
+  "var_officials": "VAR: Jérôme Brisard (FRA); AVAR: Willy Delajod (FRA), Massimiliano Irrati (ITA), Filippo Meli (ITA)",
+  "var_in_use": true,
+  "glt_in_use": true,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2022/2034586_FR.pdf",
+   "https://www.uefa.com/news-media/news/0275-151e847d9f62-c7c70e5d01ff-1000/",
+   "https://www.eurosport.com/football/euro-2016/2016/uefa-approve-goal-line-technology-for-euro-2016_sto5078119/story.shtml"
+  ],
+  "manager1": "Jürgen Klopp",
+  "manager2": "Carlo Ancelotti",
+  "goals": [
+   {
+    "team": "Real Madrid",
+    "player": "Vinícius Júnior",
+    "minute": "59",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Fabinho",
+    "minute": "62",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2022/2034586_FR.pdf",
+   "https://www.uefa.com/newsfiles/UCL/2022/2034586_TS.pdf",
+   "https://www.skysports.com/football/news/11669/12622389/liverpool-0-1-real-madrid-thibaut-courtois-and-vinicius-jnr-star-as-mohamed-salah-and-sadio-mane-lack-decisive-touch"
+  ],
+  "stats": {
+   "shots1": 23,
+   "shots2": 3,
+   "sot1": 9,
+   "sot2": 1,
+   "poss1": 50,
+   "poss2": 50,
+   "fouls1": 13,
+   "fouls2": 7,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2022/2034586_TS.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report / Team Statistics. A search snippet quoted xG 2.14 v 0.88 with no named provider, so not recorded."
+  },
+  "odds": {
+   "team1": 1.99,
+   "draw": 3.7,
+   "team2": 3.6,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Caesars Sportsbook via CBS Sports (Liverpool -101, draw +270, Real Madrid +260, 90-minute money line)",
+   "source": "https://www.cbssports.com/soccer/news/liverpool-vs-real-madrid-odds-live-stream-how-to-watch-2022-uefa-champions-league-final-picks",
+   "note": "Converted from American odds. Other books differed slightly (e.g. BetMGM Liverpool +105, draw +260, Madrid +250)."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [
+    "https://www.skysports.com/football/news/11669/12622389/liverpool-0-1-real-madrid-thibaut-courtois-and-vinicius-jnr-star-as-mohamed-salah-and-sadio-mane-lack-decisive-touch"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "43",
+    "score_at_time": "0-0",
+    "type": "goal disallowed",
+    "description": "Karim Benzema's goal ruled out for offside (flagged on field, upheld by VAR after a check of about 3 min 20 s). The last touch came off Fabinho, judged a deflection and not a deliberate play, so Benzema's offside position counted.",
+    "favoured_team": "Liverpool",
+    "against_team": "Real Madrid",
+    "assessment": "expert consensus correct",
+    "assessed_by": "Peter Walton (ex-PGMOL referee) and Dale Johnson (ESPN) explained the ruling as correct in law; pundits (John Terry, Rio Ferdinand, Michael Owen) questioned it",
+    "impact": "none",
+    "impact_reasoning": "Goal denied at 0-0 in a 1-0 game, but the decision went against Real Madrid, who won anyway; it cannot have changed the winner.",
+    "sources": [
+     "https://www.si.com/soccer/2022/05/28/karima-benzema-goal-ruled-offsides-champions-league-final",
+     "https://www.goal.com/en/news/why-did-var-rule-out-benzema-s-goal-for-real-madrid-in-champions-/bltaf6ebb621ffea258",
+     "https://www.inkl.com/news/peter-walton-explains-why-karim-benzema-s-goal-against-liverpool-was-disallowed",
+     "https://www.espn.co.uk/football/uefa-champions-league/story/4677421/why-karim-benzemas-goal-was-offside-for-real-madrid-in-the-champions-league-final"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA FR PDF; Sky Sports report; SI, Goal and Peter Walton on the Benzema offside; Wikipedia pointer to Dale Johnson's ESPN piece (body would not load). No other refereeing disputes found. The pre-match crowd chaos was not a refereeing matter.",
+  "uncertain": [
+   "Disallowed-goal minute is approximate: Wikipedia says 'two minutes before half-time'. UEFA's report does not record disallowed goals.",
+   "The 3 min 20 s VAR check length comes from Wikipedia citing ESPN, not seen directly.",
+   "Kick-off was delayed (UEFA report shows a 21:00 CET scheduled time); the delay did not affect the result."
+  ]
+ },
+ {
+  "article": "2023 UEFA Champions League final",
+  "date": "2023-06-10",
+  "competition": "UEFA Champions League",
+  "season": "2022-23",
+  "venue": "Atatürk Olympic Stadium",
+  "city": "Istanbul",
+  "team1": "Manchester City",
+  "team2": "Inter Milan",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2023/2037765_FR.pdf",
+   "https://www.nbcphiladelphia.com/news/sports/manchester-city-captures-elusive-champions-league-title-completes-second-ever-english-treble/",
+   "https://uk.sports.yahoo.com/news/man-city-1-0-inter-205909851.html"
+  ],
+  "core_verified": true,
+  "referee": "Szymon Marciniak",
+  "referee_nationality": "Polish",
+  "referee_association": "PZPN (Poland)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2023/2037765_FR.pdf",
+   "https://www.uefa.com/news-media/news/0281-1812baf4488c-70b9f3974d92-1000/",
+   "https://au.sports.yahoo.com/man-city-vs-inter-szymon-150315051.html"
+  ],
+  "assistants": "Paweł Sokolnicki; Tomasz Listkiewicz (both Polish)",
+  "fourth_official": "István Kovács (Romania)",
+  "var_officials": "VAR: Tomasz Kwiatkowski (POL); AVAR: Bartosz Frankowski (POL), Marco Fritz (GER)",
+  "var_in_use": true,
+  "glt_in_use": true,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2023/2037765_FR.pdf",
+   "https://www.uefa.com/news-media/news/0281-1812baf4488c-70b9f3974d92-1000/",
+   "https://www.eurosport.com/football/euro-2016/2016/uefa-approve-goal-line-technology-for-euro-2016_sto5078119/story.shtml"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "Simone Inzaghi",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Rodri",
+    "minute": "68",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Inter Milan",
+    "player": "Nicolò Barella",
+    "minute": "59",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Inter Milan",
+    "player": "Romelu Lukaku",
+    "minute": "83",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Erling Haaland",
+    "minute": "90+",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Inter Milan",
+    "player": "André Onana",
+    "minute": "90+",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Ederson",
+    "minute": "90+",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Inter Milan",
+    "player": "Simone Inzaghi (head coach)",
+    "minute": "90+",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2023/2037765_FR.pdf",
+   "https://www.uefa.com/newsfiles/UCL/2023/2037765_TS.pdf"
+  ],
+  "stats": {
+   "shots1": 7,
+   "shots2": 14,
+   "sot1": 4,
+   "sot2": 5,
+   "poss1": 57,
+   "poss2": 43,
+   "fouls1": 11,
+   "fouls2": 17,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2023/2037765_TS.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report / Team Statistics PDFs; possession = UEFA time-in-possession. No named-provider xG found."
+  },
+  "odds": {
+   "team1": null,
+   "draw": 4.4,
+   "team2": null,
+   "team1_to_lift": 1.25,
+   "team2_to_lift": 7.0,
+   "bookmaker_or_source": "Betfair, quoted by Evening Standard (draw 90 mins 17/5; City to lift 1/4; Inter to lift 6/1)",
+   "source": "https://sg.news.yahoo.com/man-city-vs-inter-milan-144840585.html",
+   "note": "Standard gave no 90-min win prices. US previews quoted moneylines (e.g. Caesars City -225, draw +320, Inter +525) that were not recorded."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [
+    "https://sg.news.yahoo.com/man-city-vs-inter-milan-144840585.html",
+    "https://uk.sports.yahoo.com/news/man-city-1-0-inter-205909851.html"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA FR PDF; Evening Standard report and preview; NBC report; searches for penalty, VAR or refereeing controversy in the final (only Marciniak's pre-match far-right-event controversy turned up, which was not a match decision). No disputed match decisions found. BBC and Guardian could not be fetched.",
+  "uncertain": [
+   "The three 90+ bookings (Haaland, Onana, Ederson) and Inzaghi's appear at the 90' stoppage marker on the UEFA report; Wikipedia gives 90+2 (Haaland, Onana) and 90+4 (Ederson), not independently confirmed.",
+   "UEFA counts Inzaghi's booking in Inter's 4 yellow cards; Wikipedia lists only 3 Inter player cards.",
+   "No key absentees found: Walker was a tactical bench choice per Guardiola, and De Bruyne went off injured at 36' (not an absence)."
+  ]
+ },
+ {
+  "article": "2026 UEFA Champions League final",
+  "date": "2026-05-30",
+  "competition": "UEFA Champions League",
+  "season": "2025-26",
+  "venue": "Puskás Aréna",
+  "city": "Budapest",
+  "team1": "Paris Saint-Germain",
+  "team2": "Arsenal",
+  "score_90": "1-1",
+  "score_aet": "1-1",
+  "shootout": "4-3",
+  "winner": "Paris Saint-Germain",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2026/2047742_FR.pdf",
+   "https://www.aljazeera.com/amp/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout",
+   "https://www.irishnews.com/sport/soccer/mikel-arteta-finds-arsenals-champions-league-loss-to-psg-very-tough-to-accept-S7XKKEPGSZLGVJEQ6ACAPBL2RM/",
+   "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/paris-saint-germain-1-1-arsenal-aet-4-3-pens-gabriels-penalty-miss-sees-luis-enriques-men-go-back-to-back-2026-05-30"
+  ],
+  "core_verified": true,
+  "referee": "Daniel Siebert",
+  "referee_nationality": "German",
+  "referee_association": "DFB (Germany)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2026/2047742_FR.pdf",
+   "https://www.aljazeera.com/amp/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout",
+   "https://africa.espn.com/football/story/_/id/48741393/daniel-siebert-referee-champions-league-final-third-arsenal-campaign"
+  ],
+  "assistants": "Rafael Foltyn; Jan Seidel (both German)",
+  "fourth_official": "Sandro Schärer (Switzerland)",
+  "var_officials": "VAR: Bastian Dankert (GER); AVAR: Robert Schröder (GER); VAR support: Carlos del Cerro Grande (ESP); reserve official: Guadalupe Porras Ayuso (ESP)",
+  "var_in_use": true,
+  "glt_in_use": true,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2026/2047742_FR.pdf",
+   "https://www.uefa.com/news-media/news/02a5-20996c0c224b-a548ec519cbe-1000/",
+   "https://www.eurosport.com/football/euro-2016/2016/uefa-approve-goal-line-technology-for-euro-2016_sto5078119/story.shtml"
+  ],
+  "manager1": "Luis Enrique",
+  "manager2": "Mikel Arteta",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Kai Havertz",
+    "minute": "6",
+    "type": "open play"
+   },
+   {
+    "team": "Paris Saint-Germain",
+    "player": "Ousmane Dembélé",
+    "minute": "65",
+    "type": "penalty"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Arsenal",
+    "player": "Cristhian Mosquera",
+    "minute": "47",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Bukayo Saka",
+    "minute": "54",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Paris Saint-Germain",
+    "player": "João Neves",
+    "minute": "90+",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Viktor Gyökeres",
+    "minute": "98",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Declan Rice",
+    "minute": "103",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Mikel Arteta (head coach)",
+    "minute": "103",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Paris Saint-Germain",
+    "player": "Nuno Mendes",
+    "minute": "118",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2026/2047742_FR.pdf",
+   "https://www.uefa.com/newsfiles/UCL/2026/2047742_TS.pdf",
+   "https://www.irishnews.com/sport/soccer/mikel-arteta-finds-arsenals-champions-league-loss-to-psg-very-tough-to-accept-S7XKKEPGSZLGVJEQ6ACAPBL2RM/"
+  ],
+  "stats": {
+   "shots1": 21,
+   "shots2": 8,
+   "sot1": 4,
+   "sot2": 1,
+   "poss1": 72,
+   "poss2": 28,
+   "fouls1": 11,
+   "fouls2": 17,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2026/2047742_TS.pdf",
+   "xg_source": null,
+   "note": "UEFA Team Statistics PDF, totals over 120 minutes (90-min split: shots PSG 18 / ARS 4, on target 3/1). Possession by UEFA time-in-possession. beIN Sports report quoted xG PSG 1.77 / Arsenal 0.44 but named no provider, so not recorded."
+  },
+  "odds": {
+   "team1": 2.4,
+   "draw": 3.4,
+   "team2": 3.25,
+   "team1_to_lift": 1.7,
+   "team2_to_lift": 2.3,
+   "bookmaker_or_source": "Oddschecker (PSG 7/5 AKBets; draw 12/5 unnamed bookmaker; Arsenal 9/4 bet365; PSG to lift 7/10 Betway; Arsenal to lift 13/10 BetMGM)",
+   "source": "https://www.oddschecker.com/insight/football/20260530-champions-league-final-odds-who-are-the-favourites-arsenal-or-psg",
+   "note": "Matchday article (30 May 2026). Prices are from different bookmakers, not one book."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Ben White (injury)"
+   ],
+   "sources": [
+    "https://www.aljazeera.com/amp/sports/2026/5/29/psg-vs-arsenal-champions-league-final-teams-start-time-lineups-kickoff",
+    "https://www.uefa.com/newsfiles/UCL/2026/2047742_FR.pdf"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "6",
+    "score_at_time": "0-0",
+    "type": "goal allowed",
+    "description": "Havertz's opening goal: in the build-up the ball (struck by Marquinhos) hit Leandro Trossard's arm before reaching Havertz; goal stood, VAR did not intervene.",
+    "favoured_team": "Arsenal",
+    "against_team": "Paris Saint-Germain",
+    "assessment": "genuinely debatable",
+    "assessed_by": "beIN Sports match report (noted the arm contact, no verdict); Archivo VAR (Spanish refereeing analysts) quoted by dailysports.net said it should have been disallowed; no UEFA statement found",
+    "impact": "none",
+    "impact_reasoning": "Goal counted in a match drawn 1-1 and decided on penalties. However the decision favoured Arsenal and PSG won anyway, so it cannot have cost PSG the trophy.",
+    "sources": [
+     "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/paris-saint-germain-1-1-arsenal-aet-4-3-pens-gabriels-penalty-miss-sees-luis-enriques-men-go-back-to-back-2026-05-30",
+     "https://dailysports.net/news/arsenals-goal-in-the-champions-league-final-should-not-have-stood-experts-deliver-their-verdict/"
+    ]
+   },
+   {
+    "minute": "first half (exact minute not found)",
+    "score_at_time": "0-1",
+    "type": "penalty not given",
+    "description": "From a PSG corner the ball struck Bukayo Saka's chest then arm in the Arsenal box; no penalty given.",
+    "favoured_team": "Arsenal",
+    "against_team": "Paris Saint-Germain",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (beIN described it as accidental)",
+    "impact": "none",
+    "impact_reasoning": "Would have been a penalty chance at 0-1 in a one-goal game. However the decision favoured Arsenal and PSG won anyway, so it cannot have cost PSG the trophy.",
+    "sources": [
+     "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/paris-saint-germain-1-1-arsenal-aet-4-3-pens-gabriels-penalty-miss-sees-luis-enriques-men-go-back-to-back-2026-05-30",
+     "https://britbrief.co.uk/sports/football/arsenal-escape-penalty-after-saka-handball-incident.html"
+    ]
+   },
+   {
+    "minute": "65",
+    "score_at_time": "0-1",
+    "type": "red card not given",
+    "description": "Cristhian Mosquera, already booked (47'), tripped Kvaratskhelia for the PSG penalty; no second yellow card shown. Penalty itself widely viewed as correct. Mosquera was substituted at 66'.",
+    "favoured_team": "Arsenal",
+    "against_team": "Paris Saint-Germain",
+    "assessment": "genuinely debatable",
+    "assessed_by": "Graham Scott (ex-Premier League referee, for The Athletic) said PSG had 'a strong case for a second yellow card'; ESPN VAR review called the penalty award correct",
+    "impact": "none",
+    "impact_reasoning": "A second yellow would have left Arsenal with ten men for about 55 minutes plus extra time in a match drawn 1-1 and lost on penalties. However the decision favoured Arsenal and PSG won anyway, so it cannot have cost PSG the trophy.",
+    "sources": [
+     "https://www.si.com/soccer/why-arsenal-werent-awarded-penalty-champions-league-final-2026",
+     "https://www.aljazeera.com/amp/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout"
+    ]
+   },
+   {
+    "minute": "c.103 (end of first half of extra time)",
+    "score_at_time": "1-1",
+    "type": "penalty not given",
+    "description": "Noni Madueke went down under a challenge from behind by Nuno Mendes in the PSG box; Siebert waved play on and VAR did not intervene. Arteta and Rice booked for protesting. Arteta said it 'easily can be a penalty'.",
+    "favoured_team": "Paris Saint-Germain",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "ESPN VAR review: 'got the call right, but it was close'; Graham Scott (The Athletic): some angles suggest an offence, others don't, VAR would not have overturned either way",
+    "impact": "likely",
+    "impact_reasoning": "A penalty at 1-1 late in extra time could directly have decided a match settled by a shootout.",
+    "sources": [
+     "https://africa.espn.com/football/story/_/id/48923039/var-review-ucl-ref-got-mendes-madueke-call-right-was-close",
+     "https://www.si.com/soccer/why-arsenal-werent-awarded-penalty-champions-league-final-2026",
+     "https://www.irishnews.com/sport/soccer/mikel-arteta-finds-arsenals-champions-league-loss-to-psg-very-tough-to-accept-S7XKKEPGSZLGVJEQ6ACAPBL2RM/"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA FR/TS PDFs; Al Jazeera, PA (Irish News), beIN reports; SI.com (citing The Athletic / Graham Scott); ESPN VAR review headline (article body would not load); searches for Trossard/Saka handball and Mosquera second yellow.",
+  "uncertain": [
+   "ESPN VAR-review body could not be fetched; its verdict is taken from its headline and search snippets.",
+   "Trossard-handball and Saka-handball incidents are backed only by beIN plus lower-tier outlets (dailysports.net, britbrief); no top-tier expert verdict found.",
+   "João Neves booking shown by UEFA at 90' in stoppage time (Wikipedia: 90+6); exact added minute not confirmed.",
+   "Penalty shootout (UEFA FR): PSG Ramos scored, Doué scored, Mendes saved, Hakimi scored, Beraldo scored; Arsenal Gyökeres scored, Eze missed, Rice scored, Martinelli scored, Gabriel missed (over the bar).",
+   "UEFA team stats count Arteta's booking in Arsenal's 5 yellow cards.",
+   "Al Jazeera's '32 attempts by half-time' figure conflicts with UEFA (PSG 6 in first half); UEFA used."
+  ]
+ }
+]

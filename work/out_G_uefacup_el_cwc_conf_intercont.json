@@ -276,6 +276,7 @@
   "winner": "Chelsea",
   "decided_by": "normal time",
   "core_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2013/2010095_FR.pdf",
    "https://www.skysports.com/football/news/8715362/where-it-was-won",
    "https://www.sportsmole.co.uk/football/benfica/europa-league/result/chelsea-crowned-europa-league-champions_84567.html",
    "https://www.uefa.com/uefaeuropaleague/match/2010095/"
@@ -285,16 +286,17 @@
   "referee_nationality": "Dutch",
   "referee_association": "KNVB (Netherlands)",
   "referee_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2013/2010095_FR.pdf",
    "https://www.uefa.com/uefaeuropaleague/news/newsid=1947750.html (UEFA preview; via search)",
    "https://bleacherreport.com/articles/1639175-benfica-vs-chelsea-live-score-highlights-recap (via search summary)"
   ],
-  "assistants": "Sander van Roekel; Erwin Zeinstra (both Dutch); additional assistant referees Pol van Boekel, Richard Liesveld (Dutch); reserve assistant Berry Simons (Dutch)",
+  "assistants": "Sander van Roekel; Erwin Zeinstra (both Dutch); additional assistant referees Pol van Boekel, Richard Liesveld (Dutch)",
   "fourth_official": "Felix Brych (German)",
   "var_officials": null,
   "var_in_use": false,
   "glt_in_use": false,
   "officials_sources": [
-   "Wikipedia (citing UEFA line-ups); not independently verified"
+   "https://www.uefa.com/newsfiles/uefacup/2013/2010095_FR.pdf"
   ],
   "manager1": "Jorge Jesus",
   "manager2": "Rafael Benítez (interim)",
@@ -341,9 +343,9 @@
     "in_shootout_or_after_whistle": false
    }
   ],
-  "cards_complete": false,
+  "cards_complete": true,
   "cards_sources": [
-   "Wikipedia line-up table (citing UEFA); UEFA stats as reproduced on Wikipedia show 2 yellows Benfica, 1 Chelsea"
+   "https://www.uefa.com/newsfiles/uefacup/2013/2010095_FR.pdf"
   ],
   "stats": {
    "shots1": 17,
@@ -356,9 +358,9 @@
    "fouls2": 18,
    "xg1": null,
    "xg2": null,
-   "source": "UEFA statistics as reproduced on Wikipedia (uefa.com match page loads stats via JS, not readable)",
+   "source": "https://www.uefa.com/newsfiles/uefacup/2013/2010095_FR.pdf",
    "xg_source": null,
-   "note": "UEFA official figures via Wikipedia; not independently verified. No named-provider xG found."
+   "note": "UEFA Full-time report (attempts total/on target, fouls committed, possession). No named-provider xG found. Note Wikipedia's 'saves 5-10' disagrees with UEFA (3-3)."
   },
   "odds": {
    "team1": 3.2,
@@ -386,11 +388,537 @@
   "contested_decisions": [],
   "contested_search_done": "Sky Sports 'Where it was won', Sports Mole report, IBTimes preview, web search for penalty/handball controversy. Azpilicueta handball penalty (68') described as correct ('rightly judged', Bleacher Report; arm raised, 'little choice', Daisy Cutter blog). Cardozo 52' goal ruled offside 'by the narrowest of margins' and a Torres penalty appeal (~76') waved away (Sports Mole) - neither explicitly described as wrong/disputed, so not recorded. Guardian/BBC/Telegraph not fetchable.",
   "uncertain": [
-   "Card minutes from Wikipedia only; no fetchable independent card list (BBC/UEFA pages not readable). cards_complete=false.",
-   "Torres goal minute 59 vs 60 between sources; 60 recorded.",
+   "Torres goal minute 59 vs 60 between some sources; UEFA report says 60.",
+   "Ivanović goal: UEFA report places it in stoppage time (after 90'); '90+3' from Wikipedia.",
+   "Garay booking in first-half stoppage time per UEFA; '45+1' from Wikipedia.",
+   "Reserve assistant Berry Simons listed on Wikipedia only (not on UEFA report).",
    "Cardozo offside goal (52') and Torres penalty appeal noted by Sports Mole but not called wrong by any source found.",
-   "Officials beyond referee from Wikipedia only.",
-   "Stats are UEFA figures as reproduced on Wikipedia."
+   "Referee sources other than UEFA PDF seen via search summaries."
+  ]
+ },
+ {
+  "article": "2016 UEFA Europa League final",
+  "date": "2016-05-18",
+  "competition": "UEFA Europa League",
+  "season": "2015-16",
+  "venue": "St. Jakob-Park",
+  "city": "Basel",
+  "team1": "Liverpool",
+  "team2": "Sevilla",
+  "score_90": "1-3",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Sevilla",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2016/2017222_FR.pdf",
+   "https://www.skysports.com/football/liverpool-vs-sevilla/355015",
+   "https://www.irishtimes.com/sport/soccer/jurgen-klopp-we-lost-faith-in-our-style-of-play-1.2652693"
+  ],
+  "core_verified": true,
+  "referee": "Jonas Eriksson",
+  "referee_nationality": "Swedish",
+  "referee_association": "SvFF (Sweden)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2016/2017222_FR.pdf",
+   "https://www.skysports.com/football/news/11669/10287474/jurgen-klopp-claims-four-decisions-went-against-liverpool-in-europa-league-final-defeat"
+  ],
+  "assistants": "Mathias Klasenius; Daniel Wärnmark (both Swedish); additional assistant referees Stefan Johannesson, Markus Strömbergsson (Swedish)",
+  "fourth_official": "Svein Oddvar Moen (Norwegian)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": true,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2016/2017222_FR.pdf",
+   "https://www.uefa.com/uefaeuropaleague/news/newsid=2365654.html"
+  ],
+  "manager1": "Jürgen Klopp",
+  "manager2": "Unai Emery",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "Daniel Sturridge",
+    "minute": "35",
+    "type": "open play"
+   },
+   {
+    "team": "Sevilla",
+    "player": "Kevin Gameiro",
+    "minute": "46",
+    "type": "open play"
+   },
+   {
+    "team": "Sevilla",
+    "player": "Coke",
+    "minute": "64",
+    "type": "open play"
+   },
+   {
+    "team": "Sevilla",
+    "player": "Coke",
+    "minute": "70",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Dejan Lovren",
+    "minute": "30",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Sevilla",
+    "player": "Vitolo",
+    "minute": "56",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Sevilla",
+    "player": "Éver Banega",
+    "minute": "57",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Martin Škrtel (substitute, on bench)",
+    "minute": "70",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Divock Origi",
+    "minute": "72",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Sevilla",
+    "player": "Adil Rami",
+    "minute": "77",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Sevilla",
+    "player": "Mariano Ferreira",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Nathaniel Clyne",
+    "minute": "90+4",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2016/2017222_FR.pdf"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 11,
+   "sot1": 4,
+   "sot2": 4,
+   "poss1": 54,
+   "poss2": 46,
+   "fouls1": 19,
+   "fouls2": 9,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/uefacup/2016/2017222_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report (attempts total/on target, fouls committed, possession). No named-provider xG found."
+  },
+  "odds": {
+   "team1": 2.4,
+   "draw": 3.3,
+   "team2": 3.2,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Oddschecker (best prices) as quoted by International Business Times",
+   "source": "https://www.ibtimes.com/europa-league-final-2016-prediction-preview-team-news-betting-odds-liverpool-vs-2370229",
+   "note": "Fractional: Liverpool 7/5, draw 23/10, Sevilla 11/5. Extratime preview quoted 7/5, 9/4, 2/1."
+  },
+  "absences": {
+   "team1": [
+    "Mamadou Sakho (suspended after failed drugs test)",
+    "Joe Gomez (knee injury)"
+   ],
+   "team2": [
+    "Benoît Trémoulinas (long-term injury)",
+    "Michael Krohn-Dehli (long-term injury)"
+   ],
+   "sources": [
+    "https://uefa.com/uefaeuropaleague/news/022d-0e9457bdef36-62ae0b981854-1000--uefa-europa-league-final-team-news",
+    "https://www.ibtimes.com/europa-league-final-2016-prediction-preview-team-news-betting-odds-liverpool-vs-2370229"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": null,
+    "score_at_time": "0-0 or 1-0 (first half)",
+    "type": "penalty not given",
+    "description": "Three first-half Liverpool appeals for handball in the Sevilla area turned down, most prominently against Daniel Carriço (Sky report: 'Liverpool should have had a penalty ... after Carrico looked to have handled'); another reportedly involved Grzegorz Krychowiak. Klopp listed these among 'four decisive, obvious decisions' against Liverpool.",
+    "favoured_team": "Sevilla",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (Sky Sports match report says penalty should have been given; Klopp)",
+    "impact": "possible",
+    "impact_reasoning": "A penalty in the first half at 0-0/1-0 could have given Liverpool a lead/2-0 lead; Sevilla eventually won by two goals.",
+    "sources": [
+     "https://www.skysports.com/football/liverpool-vs-sevilla/355015",
+     "https://www.skysports.com/football/news/11669/10287474/jurgen-klopp-claims-four-decisions-went-against-liverpool-in-europa-league-final-defeat",
+     "https://www.irishtimes.com/sport/soccer/jurgen-klopp-we-lost-faith-in-our-style-of-play-1.2652693"
+    ]
+   },
+   {
+    "minute": "39",
+    "score_at_time": "1-0",
+    "type": "goal disallowed",
+    "description": "Dejan Lovren header from a corner ruled out because Daniel Sturridge, in an offside position, was judged to interfere with goalkeeper David Soria. Sports Mole called it correctly ruled offside; Bleacher Report claimed replays showed Sturridge initially onside. Klopp counted it among decisions against Liverpool.",
+    "favoured_team": "Sevilla",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalists split (Sports Mole: correct; Bleacher Report: questionable); Guardian report (via search summary) said Klopp was wrong about the goals",
+    "impact": "possible",
+    "impact_reasoning": "Would have made it 2-0 to Liverpool before half-time; Sevilla won 3-1.",
+    "sources": [
+     "https://www.skysports.com/football/liverpool-vs-sevilla/355015",
+     "https://www.sportsmole.co.uk/football/liverpool/europa-league/result/result-sevilla-win-third-straight-el-crown_273021.html",
+     "https://bleacherreport.com/articles/2640967-liverpool-vs-sevilla-goals-highlights-from-europa-league-final"
+    ]
+   },
+   {
+    "minute": "70",
+    "score_at_time": "1-2",
+    "type": "goal allowed",
+    "description": "Coke's second goal (Sevilla's third) stood after referee Eriksson overruled his assistant's offside flag, because the last touch came from Liverpool's Philippe Coutinho. Klopp complained; Sky and IBTimes reports describe it as the right call.",
+    "favoured_team": "Sevilla",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert (referee) assessment found; match reporters (Sky Sports, IBTimes, Guardian per search summary) said the decision was correct; Klopp disputed it",
+    "impact": "possible",
+    "impact_reasoning": "Made it 3-1 with 20 minutes left; at 2-1 the result was still open.",
+    "sources": [
+     "https://www.skysports.com/football/liverpool-vs-sevilla/355015",
+     "https://www.skysports.com/football/news/11669/10287474/jurgen-klopp-claims-four-decisions-went-against-liverpool-in-europa-league-final-defeat",
+     "https://www.ibtimes.co.in/europa-league-final-liverpool-manager-klopp-blames-gameiro-goal-second-half-collapse-sevilla-679306"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA Full Time Report, Sky Sports report and Klopp-reaction article, Irish Times, web searches (Bleacher Report, Sports Mole, IBTimes, Guardian via search summary). No referee-expert (e.g. ex-referee column) assessment found. Guardian/BBC/ESPN not fetchable.",
+  "uncertain": [
+   "Wikipedia card extraction missed Škrtel's booking (70', as an unused substitute on the bench) shown in the UEFA Full Time Report; added.",
+   "Clyne booking minute: UEFA FTR shows it in stoppage time after 90'; exact '90+4' from Wikipedia.",
+   "Handball appeals: exact minutes and the number of distinct incidents (Sky: three) not confirmed; Krychowiak incident from a single search snippet (Wexford Echo/PA) only.",
+   "Lovren disallowed goal minute 39 (Sports Mole, Peninsula) vs ~29 (Shoot); 39 recorded.",
+   "Absences: only Sakho (suspension) and Gomez (injury) confirmed via UEFA team news (search summary); Danny Ings also long-term injured but not confirmed by a source here. Henderson and Origi were fit enough for the bench (not starting).",
+   "Assessments of Coke goal call as 'correct' are from journalists, not referee experts, so labelled 'genuinely debatable' per brief rule."
+  ]
+ },
+ {
+  "article": "2017 UEFA Europa League final",
+  "date": "2017-05-24",
+  "competition": "UEFA Europa League",
+  "season": "2016-17",
+  "venue": "Friends Arena",
+  "city": "Solna (Stockholm)",
+  "team1": "Ajax",
+  "team2": "Manchester United",
+  "score_90": "0-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2017/2019702_FR.pdf",
+   "https://www.fourfourtwo.com/news/ajax-0-manchester-united-2-pogba-and-mkhitaryan-seal-emotional-europa-league-triumph",
+   "https://www.eurosport.com/football/europa-league/2016-2017/paul-pogba-henrikh-mkhitaryan-lift-manchester-united-to-trophy_sto6177435/story.shtml"
+  ],
+  "core_verified": true,
+  "referee": "Damir Skomina",
+  "referee_nationality": "Slovenian",
+  "referee_association": "NZS (Slovenia)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2017/2019702_FR.pdf",
+   "https://uefa.com/uefaeuropaleague/news/0239-0e96fa16ab3b-80251dc425b2-1000--damir-skomina-to-referee-europa-league-final"
+  ],
+  "assistants": "Jure Praprotnik; Robert Vukan (both Slovenian); additional assistant referees Matej Jug, Slavko Vinčić (Slovenian)",
+  "fourth_official": "Gianluca Rocchi (Italian)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2017/2019702_FR.pdf"
+  ],
+  "manager1": "Peter Bosz",
+  "manager2": "José Mourinho",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Paul Pogba",
+    "minute": "18",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Henrikh Mkhitaryan",
+    "minute": "48",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Henrikh Mkhitaryan",
+    "minute": "31",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Marouane Fellaini",
+    "minute": "52",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Ajax",
+    "player": "Joël Veltman",
+    "minute": "58",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Ajax",
+    "player": "Amin Younes",
+    "minute": "64",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Ajax",
+    "player": "Jairo Riedewald",
+    "minute": "78",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Juan Mata",
+    "minute": "78",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2017/2019702_FR.pdf"
+  ],
+  "stats": {
+   "shots1": 17,
+   "shots2": 6,
+   "sot1": 3,
+   "sot2": 4,
+   "poss1": 67,
+   "poss2": 33,
+   "fouls1": 15,
+   "fouls2": 17,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/uefacup/2017/2019702_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report. No named-provider xG located (FotMob page exists but not checked/readable)."
+  },
+  "odds": {
+   "team1": 4.6,
+   "draw": 3.6,
+   "team2": 1.95,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Oddschecker (best prices) as quoted by Goal.com preview",
+   "source": "https://www.goal.com/en/news/ajax-vs-manchester-united-tv-channel-stream-kick-off-time-odds--match-preview/b3zfm7jxjflh10r3662glybti",
+   "note": "Fractional: Ajax 18/5, draw 13/5, Man Utd 19/20. Sporting Life: United odds-on across the board in 90-min market."
+  },
+  "absences": {
+   "team1": [
+    "Nick Viergever (suspension)",
+    "Daley Sinkgraven (not fit)"
+   ],
+   "team2": [
+    "Eric Bailly (suspension)",
+    "Zlatan Ibrahimović (knee injury)",
+    "Marcos Rojo (knee injury)",
+    "Luke Shaw (ankle injury)",
+    "Ashley Young (hamstring injury)"
+   ],
+   "sources": [
+    "https://www.uefa.com/uefaeuropaleague/news/0239-0e971114bdef-13a9f3920754-1000--europa-league-final-preview-ajax-v-manchester-united",
+    "https://www.goal.com/en/news/ajax-vs-manchester-united-tv-channel-stream-kick-off-time-odds--match-preview/b3zfm7jxjflh10r3662glybti"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA Full Time Report, FourFourTwo and Eurosport reports, web searches for Skomina controversy / offside on Mkhitaryan goal / penalty claims; no refereeing disputes found.",
+  "uncertain": [
+   "Pogba goal took a big deflection off Davinson Sánchez; credited to Pogba by UEFA (type 'open play').",
+   "GLT: no source found confirming goal-line technology at this match (UEFA used it in UEL only from 2017-18 group stage per earlier UEFA statement, decision pending); set null.",
+   "City: Friends Arena is in Solna, Stockholm metropolitan area; UEFA labels it Stockholm."
+  ]
+ },
+ {
+  "article": "2019 UEFA Europa League final",
+  "date": "2019-05-29",
+  "competition": "UEFA Europa League",
+  "season": "2018-19",
+  "venue": "Olympic Stadium (Bakı Olimpiya Stadionu)",
+  "city": "Baku",
+  "team1": "Chelsea",
+  "team2": "Arsenal",
+  "score_90": "4-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2019/2025487_FR.pdf",
+   "https://www.skysports.com/football/news/11959/11731251/chelseas-europa-league-final-win-over-arsenal-features-swathes-of-empty-seats",
+   "https://www.the42.ie/article.php?id=4659801"
+  ],
+  "core_verified": true,
+  "referee": "Gianluca Rocchi",
+  "referee_nationality": "Italian",
+  "referee_association": "FIGC (Italy)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2019/2025487_FR.pdf",
+   "https://www.uefa.com/uefaeuropaleague/news/0251-0e9ce29797eb-331e59d2ca0b-1000--referee-team-appointed-for-uefa-europa-league-final-in-baku/",
+   "https://d1dagyb1ctngx1.cloudfront.net/sport/football/1133709/Chelsea-Arsenal-Europa-League-final-Alexandre-Lacazette-penalty-BT-Sport"
+  ],
+  "assistants": "Filippo Meli; Lorenzo Manganelli (both Italian)",
+  "fourth_official": "Daniele Orsato (Italian)",
+  "var_officials": "VAR: Massimiliano Irrati (Italian); AVAR: Marco Guida (Italian), Szymon Marciniak (Polish); Offside VAR: Paweł Sokolnicki (Polish)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2019/2025487_FR.pdf",
+   "https://www.uefa.com/uefaeuropaleague/news/0251-0e9ce29797eb-331e59d2ca0b-1000--referee-team-appointed-for-uefa-europa-league-final-in-baku/"
+  ],
+  "manager1": "Maurizio Sarri",
+  "manager2": "Unai Emery",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Olivier Giroud",
+    "minute": "49",
+    "type": "header"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Pedro",
+    "minute": "60",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Eden Hazard",
+    "minute": "65",
+    "type": "penalty"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Alex Iwobi",
+    "minute": "69",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Eden Hazard",
+    "minute": "72",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Pedro",
+    "minute": "56",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Andreas Christensen",
+    "minute": "68",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2019/2025487_FR.pdf"
+  ],
+  "stats": {
+   "shots1": 14,
+   "shots2": 15,
+   "sot1": 8,
+   "sot2": 2,
+   "poss1": 48,
+   "poss2": 52,
+   "fouls1": 14,
+   "fouls2": 11,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/uefacup/2019/2025487_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report. No named-provider xG located (search budget exhausted)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Ruben Loftus-Cheek (injury)",
+    "Callum Hudson-Odoi (injury)"
+   ],
+   "team2": [
+    "Henrikh Mkhitaryan (did not travel - security/political concerns in Azerbaijan, not injury/suspension)"
+   ],
+   "sources": [
+    "https://www.the42.ie/article.php?id=4659801",
+    "Wikipedia citing BBC Sport 21 May 2019 (bbc.com/sport/football/48348207) and Guardian 26 May 2019 - not fetchable"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": null,
+    "score_at_time": "0-0",
+    "type": "penalty not given",
+    "description": "First half: Alexandre Lacazette went down after touching the ball past goalkeeper Kepa Arrizabalaga; referee Rocchi waved play on (goal kick), no penalty after VAR check. Replays showed some contact on Lacazette's shin. The42 live blog: 'Big, big shouts for an Arsenal penalty'.",
+    "favoured_team": "Chelsea",
+    "against_team": "Arsenal",
+    "assessment": "expert consensus correct",
+    "assessed_by": "BT Sport pundits Martin Keown, Eidur Gudjohnsen, Cesc Fàbregas (as reported by Daily Express) - former players, not referee experts; Keown: VAR came to 'the right conclusion'; Gudjohnsen: 'No penalty for me'",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0 a penalty could have given Arsenal the lead, though Chelsea eventually won by three goals.",
+    "sources": [
+     "https://d1dagyb1ctngx1.cloudfront.net/sport/football/1133709/Chelsea-Arsenal-Europa-League-final-Alexandre-Lacazette-penalty-BT-Sport",
+     "https://www.the42.ie/article.php?id=4659801"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA Full Time Report, UEFA referee appointment, Sky Sports, The42 live blog, Daily Express (BT Sport pundits), ESPN report (not readable). Only the Lacazette/Kepa penalty appeal found disputed. Hazard's penalty (Maitland-Niles on Giroud) not described as disputed in sources seen.",
+  "uncertain": [
+   "Minute of Lacazette/Kepa incident not confirmed (~18' suggested by one search summary of ESPN; The42 timestamp 8:20pm Irish time ~20 min). The42 wrote 'No VAR in the Europa League' which is wrong: UEFA lists a VAR team and it was the first UEL match with VAR.",
+   "Pundits who judged the decision are ex-players, not referee experts; 'expert consensus correct' is based on them.",
+   "Giroud goal type 'header' per general reporting knowledge in search summaries; not explicitly checked in a fetched report.",
+   "GLT not confirmed by a source for this match; null.",
+   "Pre-match odds not found: web-search budget was exhausted before an odds search could be run.",
+   "Chelsea absences (Loftus-Cheek, Hudson-Odoi) from Wikipedia citing The Guardian only; Kanté was a doubt but started."
   ]
  }
 ]

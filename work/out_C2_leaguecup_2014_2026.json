@@ -319,5 +319,614 @@
    "Stats taken from a search snippet of Sports Mole's result page; possession 37-63 not cross-checked.",
    "GLT: no source found stating GLT was in operation."
   ]
+ },
+ {
+  "article": "2016 Football League Cup final",
+  "date": "2016-02-28",
+  "competition": "League Cup",
+  "season": "2015-16",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Liverpool",
+  "team2": "Manchester City",
+  "score_90": "1-1",
+  "score_aet": "1-1",
+  "shootout": "1-3",
+  "winner": "Manchester City",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.skysports.com/football/liverpool-vs-man-city/report/354154",
+   "https://www.sportsmole.co.uk/football/liverpool/league-cup/result/man-city-win-league-cup-on-penalties_267425.html",
+   "https://legacy.liverpoolfc.com/news/first-team/209333-report-penalty-heartbreak-for-reds-in-capital-one-cup-final"
+  ],
+  "core_verified": true,
+  "referee": "Michael Oliver",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Northumberland FA",
+  "referee_sources": [
+   "https://www.skysports.com/football/liverpool-vs-man-city/teams/354154",
+   "https://www.the42.ie/article.php?id=2631404"
+  ],
+  "assistants": "Adrian Holmes; Simon Bennett",
+  "fourth_official": "Robert Madley",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/liverpool-vs-man-city/teams/354154"
+  ],
+  "manager1": "Jürgen Klopp",
+  "manager2": "Manuel Pellegrini",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Fernandinho",
+    "minute": "49",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Philippe Coutinho",
+    "minute": "83",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Nathaniel Clyne",
+    "minute": "53",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Alberto Moreno",
+    "minute": "65",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Fernando",
+    "minute": "76",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Philippe Coutinho",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Emre Can",
+    "minute": "85",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Vincent Kompany",
+    "minute": "87",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Nicolás Otamendi",
+    "minute": "109",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Adam Lallana",
+    "minute": "118",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Yaya Touré",
+    "minute": "118",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Fernandinho",
+    "minute": "118",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/liverpool-vs-man-city/teams/354154",
+   "https://www.sportsmole.co.uk/football/liverpool/league-cup/result/man-city-win-league-cup-on-penalties_267425.html"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No stats found in accessible sources (BBC, Guardian, FBref blocked; Sky stats page only gives saves 6-3 and interceptions 24-29)."
+  },
+  "odds": {
+   "team1": 3.0,
+   "draw": null,
+   "team2": 2.3,
+   "team1_to_lift": 2.25,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Sky Bet (quoted in Sky Sports preview)",
+   "source": "https://www.skysports.com/football/news/10180980/liverpool-v-manchester-city-preview",
+   "note": "Sky Bet: City 13/10, Liverpool 2/1 in 90 min; Liverpool 5/4 to lift trophy; draw not quoted. IBTimes UK quoted Liverpool 28/13 (3.15), draw 40/17 (3.35), City 23/17 (2.35) (https://www.ibtimes.co.uk/liverpool-vs-manchester-city-capital-one-cup-2016-final-where-watch-live-preview-betting-odds-1546466, figures from search snippet)."
+  },
+  "absences": {
+   "team1": [
+    "Martin Škrtel (injury, returned to training, not in squad)",
+    "Joe Allen and Adam Lallana returning from injury (benched)"
+   ],
+   "team2": [
+    "Kevin De Bruyne (knee injury)",
+    "Samir Nasri (injury)",
+    "Fabian Delph (injury)"
+   ],
+   "sources": [
+    "https://www.skysports.com/football/news/10180980/liverpool-v-manchester-city-preview",
+    "https://www.mancity.com/news/first-team/first-team-news/2016/february/city-v-liverpool-need-to-know-preview"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "62",
+    "score_at_time": "0-1",
+    "type": "penalty not given",
+    "description": "Agüero, running clear, appeared to be caught by Alberto Moreno's trailing leg in the box; Michael Oliver waved play on.",
+    "favoured_team": "Liverpool",
+    "against_team": "Manchester City",
+    "assessment": "expert consensus incorrect",
+    "assessed_by": "Dermot Gallagher (Sky Sports Ref Watch: 'Wrong decision... I thought it was a penalty')",
+    "impact": "likely",
+    "impact_reasoning": "At 1-0 to City; a penalty (and possibly a card for Moreno, already/nearly booked) could have given City a 2-0 lead in a match Liverpool later drew and that went to penalties.",
+    "sources": [
+     "https://www.skysports.com/football/news/11095/10186210/ref-watch-moreno-got-lucky",
+     "https://www.skysports.com/football/liverpool-vs-man-city/report/354154",
+     "https://www.the42.ie/article.php?id=2631404"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports report, Sky Ref Watch (Dermot Gallagher), the42 live blog, web search for penalty/handball claims. Gallagher judged other incidents (Coutinho celebration booking, Lallana/Touré bookings, Touré shirt removal, Caballero off line in shootout) correct. BBC/Guardian not accessible.",
+  "uncertain": [
+   "Impact rating 'likely' for the Agüero claim is per the brief's definition (would have produced a penalty kick, not guaranteed goal).",
+   "Booking minutes differ by a minute between sources (Coutinho 83/84, Fernandinho 118/119, Lallana/Touré 116/118 in the42); Sky/Sports Mole minutes used.",
+   "Wikipedia lists the referee's county as Northumberland; not independently checked.",
+   "Match statistics not found.",
+   "GLT: no source found stating it was in operation."
+  ]
+ },
+ {
+  "article": "2017 EFL Cup final",
+  "date": "2017-02-26",
+  "competition": "League Cup",
+  "season": "2016-17",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester United",
+  "team2": "Southampton",
+  "score_90": "3-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/man-utd-vs-soton/report/369891",
+   "https://sportsmole.co.uk/football/man-utd/league-cup/result/late-ibrahimovic-goal-sees-man-united-win-efl-cup_292636.html",
+   "https://itv.com/news/2017-02-26/efl-cup-final-report-manchester-united-3-2-southampton"
+  ],
+  "core_verified": true,
+  "referee": "Andre Marriner",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Birmingham/West Midlands",
+  "referee_sources": [
+   "https://www.skysports.com/football/man-utd-vs-soton/teams/369891",
+   "https://www.sportsmole.co.uk/football/man-utd/league-cup/news/andre-marriner-to-ref-efl-cup-final_291241.html"
+  ],
+  "assistants": "Richard West; Stuart Burt",
+  "fourth_official": "Kevin Friend",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/man-utd-vs-soton/teams/369891"
+  ],
+  "manager1": "José Mourinho",
+  "manager2": "Claude Puel",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Zlatan Ibrahimović",
+    "minute": "19",
+    "type": "free kick"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Jesse Lingard",
+    "minute": "38",
+    "type": "open play"
+   },
+   {
+    "team": "Southampton",
+    "player": "Manolo Gabbiadini",
+    "minute": "45+1",
+    "type": "open play"
+   },
+   {
+    "team": "Southampton",
+    "player": "Manolo Gabbiadini",
+    "minute": "48",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Zlatan Ibrahimović",
+    "minute": "87",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Southampton",
+    "player": "Oriol Romeu",
+    "minute": "18",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Ander Herrera",
+    "minute": "24",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Southampton",
+    "player": "Jack Stephens",
+    "minute": "40",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Jesse Lingard",
+    "minute": "41",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Southampton",
+    "player": "Nathan Redmond",
+    "minute": "56",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/man-utd-vs-soton/teams/369891"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 12,
+   "sot1": 6,
+   "sot2": 5,
+   "poss1": 48,
+   "poss2": 52,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://aws.fbref.com/en/matches/ea41e611/Manchester-United-Southampton-February-26-2017-EFL-Cup",
+   "xg_source": null,
+   "note": "FBref figures from search-result snippet (page itself blocked, 403); Sportskeeda also states Southampton 52% possession. Fouls not found."
+  },
+  "odds": {
+   "team1": 1.75,
+   "draw": 3.5,
+   "team2": 4.8,
+   "team1_to_lift": 1.4,
+   "team2_to_lift": 2.875,
+   "bookmaker_or_source": "Sky Bet (quoted by Sporting Life, 26 Feb 2017)",
+   "source": "https://www.sportinglife.com/football/news/efl-cup-final-preview/37348",
+   "note": "Fractional: United 3/4, Southampton 19/5, 'stalemate and extra-time' 5/2; United 2/5 and Southampton 15/8 to lift. 888sport via Evening Standard (search snippet): United 18/25, draw 13/5, Southampton 22/5."
+  },
+  "absences": {
+   "team1": [
+    "Henrikh Mkhitaryan (hamstring)",
+    "Phil Jones (injury; per search snippet only)"
+   ],
+   "team2": [
+    "Virgil van Dijk (ankle)"
+   ],
+   "sources": [
+    "https://www.sportsmole.co.uk/football/man-utd/league-cup/preview/preview-southampton-vs-manchester-united_292476.html"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "11 (approx.)",
+    "score_at_time": "0-0",
+    "type": "goal disallowed",
+    "description": "Manolo Gabbiadini's early goal was flagged offside by assistant Stuart Burt; replays showed Gabbiadini onside (Ryan Bertrand was offside but not interfering).",
+    "favoured_team": "Manchester United",
+    "against_team": "Southampton",
+    "assessment": "expert consensus incorrect",
+    "assessed_by": "Dermot Gallagher (Sky Sports Ref Watch: assistant 'acted too fast', 'unfortunate error'); Claude Puel called for video technology",
+    "impact": "likely",
+    "impact_reasoning": "A wrongly disallowed goal at 0-0 in a match decided by one goal (3-2).",
+    "sources": [
+     "https://www.skysports.com/football/news/11095/10783832/ref-watch-linesman-acted-too-fast-for-manolo-gabbiadini-offside-call-and-jesse-lingard-should-see-red",
+     "https://sportsmole.co.uk/football/southampton/league-cup/news/gallagher-assistant-made-unfortunate-error_292691.html",
+     "https://www.skysports.com/football/man-utd-vs-soton/report/369891"
+    ]
+   },
+   {
+    "minute": "second half (exact minute not found)",
+    "score_at_time": null,
+    "type": "red card not given",
+    "description": "Jesse Lingard, already booked (41'), clipped Nathan Redmond; Marriner played advantage and did not show a second yellow.",
+    "favoured_team": "Manchester United",
+    "against_team": "Southampton",
+    "assessment": "expert consensus incorrect",
+    "assessed_by": "Dermot Gallagher (Sky Sports Ref Watch: 'he's lucky'); Eurosport report said Marriner was lenient",
+    "impact": "likely",
+    "impact_reasoning": "Second-half man advantage denied in a match decided by one goal; Lingard was substituted at 77.",
+    "sources": [
+     "https://www.skysports.com/football/news/11095/10783832/ref-watch-linesman-acted-too-fast-for-manolo-gabbiadini-offside-call-and-jesse-lingard-should-see-red",
+     "https://www.eurosport.co.uk/football/league-cup/2015-2016/late-zlatan-ibrahimovic-winner-secures-efl-cup-for-manchester-united_sto6069420/story.shtml"
+    ]
+   },
+   {
+    "minute": "40",
+    "score_at_time": "2-0",
+    "type": "red card not given",
+    "description": "Jack Stephens' studs-up challenge on Antonio Valencia drew a yellow card despite United protests.",
+    "favoured_team": "Southampton",
+    "against_team": "Manchester United",
+    "assessment": "expert consensus correct",
+    "assessed_by": "Dermot Gallagher (Sky Sports Ref Watch: referee 'has done really well here', Lingard had clipped Stephens first)",
+    "impact": "possible",
+    "impact_reasoning": "At 2-0; a red would have left Southampton with ten men for 50 minutes in a one-goal match, but the decision was judged correct.",
+    "sources": [
+     "https://www.skysports.com/football/man-utd-vs-soton/report/369891",
+     "https://www.skysports.com/football/news/11095/10783832/ref-watch-linesman-acted-too-fast-for-manolo-gabbiadini-offside-call-and-jesse-lingard-should-see-red"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports report/teams, Sky Ref Watch (Gallagher), Sports Mole, Eurosport, searches for Gabbiadini offside and Lingard second yellow. BBC/Guardian not accessible.",
+  "uncertain": [
+   "Disallowed goal minute (~11') from general reporting, not confirmed by a fetched source.",
+   "Lingard/Redmond incident minute unknown; Eurosport 'lenient' comment from search snippet.",
+   "Stephens/Valencia: both Ref Watch sources are Sky Sports (not independent).",
+   "Ibrahimović's first goal is widely described as a free kick (not directly verified in fetched pages).",
+   "GLT: no source found stating it was in operation. VAR not used in English domestic football in 2016-17."
+  ]
+ },
+ {
+  "article": "2018 EFL Cup final",
+  "date": "2018-02-25",
+  "competition": "League Cup",
+  "season": "2017-18",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Manchester City",
+  "score_90": "0-3",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/arsenal-vs-man-city/report/387985",
+   "https://www.eurosport.co.uk/football/league-cup/2017-2018/manchester-city-dismantle-arsenal-to-win-first-silverware-under-pep-guardiola_sto6654142/story.shtml",
+   "https://www.expressandstar.com/sport/uk-sports/2018/02/25/carabao-cup-final-focus-on-the-managers/"
+  ],
+  "core_verified": true,
+  "referee": "Craig Pawson",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Sheffield & Hallamshire FA",
+  "referee_sources": [
+   "https://www.skysports.com/football/arsenal-vs-man-city/teams/387985",
+   "https://www.skysports.com/football/news/11670/11269182/jack-wilshere-hits-out-at-carabao-cup-final-referee-craig-pawson"
+  ],
+  "assistants": "Gary Beswick; Adam Nunn",
+  "fourth_official": "Graham Scott",
+  "var_officials": "VAR: Neil Swarbrick; AVAR: Peter Kirkup (Wikipedia only)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/arsenal-vs-man-city/teams/387985",
+   "https://www.skysports.com/football/news/11938/11263013/carabao-cup-final-supporters-to-know-if-var-being-used-via-message-on-big-screens"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "Pep Guardiola",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Sergio Agüero",
+    "minute": "18",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Vincent Kompany",
+    "minute": "58",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "David Silva",
+    "minute": "65",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Arsenal",
+    "player": "Héctor Bellerín",
+    "minute": "24",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Aaron Ramsey",
+    "minute": "32",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Fernandinho",
+    "minute": "36",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Calum Chambers",
+    "minute": "47",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Vincent Kompany",
+    "minute": "80",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Jack Wilshere",
+    "minute": "88",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/arsenal-vs-man-city/teams/387985"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Not found. Search results surfaced figures (e.g. Sky stats/553923, Coaches Voice) that appear to belong to the Premier League Arsenal 0-3 Man City match of 1 March 2018, so they were not used."
+  },
+  "odds": {
+   "team1": null,
+   "draw": null,
+   "team2": null,
+   "team1_to_lift": 3.5,
+   "team2_to_lift": 1.364,
+   "bookmaker_or_source": "Sky Bet (quoted by Sporting Life preview)",
+   "source": "https://www.sportinglife.com/football/news/carabao-cup-final-preview-and-tips/143396",
+   "note": "City 4/11, Arsenal 5/2 to lift trophy. 90-minute prices not found; another preview quoted City 4/7, Arsenal 9/2 (dabblebet, market unclear)."
+  },
+  "absences": {
+   "team1": [
+    "Alexandre Lacazette (knee)",
+    "Santi Cazorla (Achilles)",
+    "Henrikh Mkhitaryan (cup-tied)"
+   ],
+   "team2": [
+    "Raheem Sterling (muscle injury, doubtful; did not feature)",
+    "Fabian Delph (suspended)",
+    "Benjamin Mendy (knee, long-term)",
+    "Gabriel Jesus (returning from knee injury; sub)"
+   ],
+   "sources": [
+    "https://www.sportinglife.com/football/news/carabao-cup-final-preview-and-tips/143396",
+    "https://www.skysports.com/football/arsenal-vs-man-city/teams/387985"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "18",
+    "score_at_time": "0-0",
+    "type": "goal allowed",
+    "description": "Arsenal claimed Agüero fouled (pushed) Shkodran Mustafi in the build-up to the opening goal; Pawson allowed it and VAR was satisfied. Wilshere said 'it is a foul'; Wenger conceded there was no 'obvious' push.",
+    "favoured_team": "Manchester City",
+    "against_team": "Arsenal",
+    "assessment": "expert consensus correct",
+    "assessed_by": "Dermot Gallagher (Sky Sports Ref Watch: 'Correct decision, no foul'); Daily Mail headline 'Ref right to allow Agüero's opener'",
+    "impact": "none",
+    "impact_reasoning": "Judged correct; City won 3-0 so it did not change the result.",
+    "sources": [
+     "https://skysports.com/football/news/11095/11268434/ref-watch-dermot-gallaghers-verdict-on-whether-vincent-kompanys-goal-was-offside",
+     "https://www.skysports.com/football/arsenal-vs-man-city/report/387985",
+     "https://www.pressreader.com/uk/daily-mail/20180226/283330407808393"
+    ]
+   },
+   {
+    "minute": "58",
+    "score_at_time": "0-1",
+    "type": "offside",
+    "description": "Kompany's goal: Arsenal (Wenger '100 per cent offside', Wilshere) argued Leroy Sané was offside and interfering; goal stood.",
+    "favoured_team": "Manchester City",
+    "against_team": "Arsenal",
+    "assessment": "expert consensus correct",
+    "assessed_by": "Dermot Gallagher (Sky Sports Ref Watch: 'Correct decision, no offside')",
+    "impact": "none",
+    "impact_reasoning": "Judged correct; City won by three goals.",
+    "sources": [
+     "https://skysports.com/football/news/11095/11268434/ref-watch-dermot-gallaghers-verdict-on-whether-vincent-kompanys-goal-was-offside",
+     "https://www.skysports.com/football/news/11670/11267968/arsene-wenger-insists-man-citys-second-goal-was-100-per-cent-offside-in-arsenals-carabao-cup-final-defeat"
+    ]
+   },
+   {
+    "minute": "first half (unspecified)",
+    "score_at_time": null,
+    "type": "red card not given",
+    "description": "Wilshere said a City player should have received a second yellow card in the first half (player not named in the report; Fernandinho, booked 36', is the only City player booked in the first half).",
+    "favoured_team": "Manchester City",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; player comments only",
+    "impact": "possible",
+    "impact_reasoning": "If valid it would have come at 0-1 in the first half; City won 3-0.",
+    "sources": [
+     "https://www.skysports.com/football/news/11670/11269182/jack-wilshere-hits-out-at-carabao-cup-final-referee-craig-pawson"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports report/teams, Sky Ref Watch (Gallagher), Wenger and Wilshere reaction articles, Daily Mail headline via PressReader (blocked, headline only), searches for VAR/Pawson decisions.",
+  "uncertain": [
+   "Second-yellow claim: only one source (Sky, quoting Wilshere's Instagram); player not identified.",
+   "AVAR (Peter Kirkup) from Wikipedia only; Sky lineup page did not list AVAR.",
+   "Match statistics not found for this match.",
+   "GLT: no source found stating it was in operation."
+  ]
  }
 ]

@@ -1,23 +1,743 @@
 [
  {
+  "referee": "Abdulrahman Al-Jassim",
+  "nationality": "Qatari",
+  "federation_at_final": "Qatar Football Association (AFC)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Abdulrahman_Al-Jassim"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 1,
+    "W": 1,
+    "D": 0,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/920",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 21 Dec 2019 1 - 0 Flamengo Khalifa International Stadium WCC Final"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Alireza Faghani",
+  "nationality": "Iranian-born (born Kashmar, Iran, 1978); emigrated to Australia in Sept 2019; Australian-based",
+  "federation_at_final": "Football Australia (listed by FIFA as AUS); refereed for Iran (FFIRI) internationally 2008–c.2022, Football Australia since 2023 per Wikipedia",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Alireza_Faghani",
+   "https://inside.fifa.com/en/news/alireza-faghani-club-world-cup-2025-final-referee-australia",
+   "https://wtop.com/australia/2025/07/australian-alireza-faghani-to-referee-club-world-cup-final-between-chelsea-and-paris-saint-germain"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://inside.fifa.com/en/news/alireza-faghani-club-world-cup-2025-final-referee-australia",
+    "source_type": "official",
+    "note": "2025 FIFA Club World Cup quarter-final Chelsea v Palmeiras, 4 Jul 2025, Philadelphia (FIFA caption; result not taken from a fetched source); 2025 Club World Cup final Chelsea v PSG, 13 Jul 2025 (Chelsea won; see finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": [
+   "Dual identity: Iranian national/born, emigrated 2019, officiates for Football Australia since 2023 (Wikipedia); citizenship status not verified.",
+   "Chelsea partial list source: https://www.si.com/onsi/soccer/chelsea/match-coverage/confirmed-officials-chelsea-vs-psg-2025-club-world-cup-final-01jznjsj8r3y (search snippet only)"
+  ]
+ },
+ {
+  "referee": "Antonio López Nieto",
+  "nationality": "Spanish",
+  "federation_at_final": "Royal Spanish Football Federation (RFEF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Antonio_Jes%C3%BAs_L%C3%B3pez_Nieto",
+   "https://www.lfchistory.net/referees/273"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "2000 UEFA Cup final, Arsenal 0-0 Galatasaray (aet), lost 1-4 on penalties, 17 May 2000, Copenhagen (D; see finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 2,
+    "W": 2,
+    "D": 0,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/273",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 27 Feb 2003 2 - 0 Auxerre Anfield UEFA Cup 4th round 2L 17 Oct 1996 2 - 1 Sion Stade de Tourbillon ECW Cup 2nd round 1L"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "European debut was Man Utd v Kispest Honvéd, 1993-94 UCL 1st round 2nd leg (per Wikipedia 2000 UEFA Cup final article citing worldreferee.com) - pre-1996, result not sourced. Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Antonio Mateu Lahoz",
+  "nationality": "Spanish",
+  "federation_at_final": "Royal Spanish Football Federation (RFEF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Antonio_Mateu_Lahoz",
+   "https://rfef.es/es/noticias/mateu-lahoz-pitara-final-liga-campeones-manchester-city-y-chelsea"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "29 May 2021 UCL final Man City 0-1 Chelsea (W); (unverified) 2015 UCL group 2-1 loss at Porto, per reader comment on law5-theref blog. Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 5,
+    "W": 2,
+    "D": 1,
+    "L": 2,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/800",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 08 Mar 2022 0 - 1 Inter Milan Anfield CL 1st knockout r. 2nd leg 09 Apr 2019 2 - 0 FC Porto Anfield CL Quarter-final 1st leg 06 Nov 2018 0 - 2 Red Star Belgrade Crvena Zvezda Champions L. 1st Group Ph. 10 Apr 2018 2 - 1 Manchester City Etihad Stadium CL Quarter-final 2nd leg 26 Nov 2014 2 - 2 Ludogorets Razgrad Vassil Levski Champions L. 1st Group Ph."
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.lfchistory.net/referees/800",
+    "source_type": "aggregator snippet",
+    "note": "10 Apr 2018 Man City 1-2 Liverpool, UCL QF 2nd leg (L) [lfchistory]; 29 May 2021 UCL final Man City 0-1 Chelsea (L). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [
+   {
+    "date": "2018-04-10",
+    "match": "Manchester City 1-2 Liverpool (UCL QF 2nd leg)",
+    "description": "Mateu Lahoz disallowed a Leroy Sané goal for offside and sent Pep Guardiola to the stands at half-time after his protests; Guardiola later said it was 'too much to send me off'.",
+    "sources": [
+     "https://www.skysports.com/football/news/11679/12304547/pep-guardiola-man-city-boss-was-sent-off-by-champions-league-final-referee-against-liverpool-in-2018",
+     "https://www.lfchistory.net/referees/800"
+    ]
+   }
+  ],
+  "uncertain": [
+   "A reader comment on law5-theref.blogspot.com (12 May 2021) claimed Man City 3W 1L and Chelsea 1W 1L under Mateu Lahoz before the 2021 final; not a reliable source, not recorded as a record."
+  ]
+ },
+ {
+  "referee": "Benito Archundia",
+  "nationality": "Mexican",
+  "federation_at_final": "Mexican Football Federation (FMF, CONCACAF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Benito_Archundia",
+   "https://www.lfchistory.net/referees/8"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 1,
+    "W": 0,
+    "D": 0,
+    "L": 1,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/8",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 18 Dec 2005 0 - 1 Sao Paolo Yokohama International Stadium World Club Championship"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Björn Kuipers",
+  "nationality": "Dutch",
+  "federation_at_final": "Royal Dutch Football Association (KNVB)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Kuipers",
+   "https://www.uefa.com/news-media/news/0252-0cd39f27a4f7-ba575af2679a-1000--kuipers-to-referee-uefa-europa-league-final/"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "15 May 2013 UEL final Benfica 1-2 Chelsea, Amsterdam (W). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 7,
+    "W": 4,
+    "D": 2,
+    "L": 1,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/252",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 14 Apr 2021 0 - 0 Real Madrid Anfield CL Quarter-final 2nd leg 01 May 2019 0 - 3 Barcelona Nou Camp Champions L. SF 1st leg 15 Aug 2017 2 - 1 TSG 1899 Hoffenheim Rhein-Neckar-Arena Champions L. 3rd QR. 1st L 09 Dec 2014 1 - 1 FC Basel Anfield Champions L. 1st Group Ph. 21 Feb 2013 3 - 1 Zenit Saint Petersburg Anfield Europa League of 32 2nd Leg 08 Apr 2010 4 - 1 Benfica Anfield Europa League QF 2nd Leg 24 Nov 2009 1 - 0 Debrecen VSC Ferenc Puskás Champions L. 1st Group Ph."
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": [
+   "Kuipers also refereed many UCL ties involving Man Utd, Man City, Arsenal, Chelsea (e.g. 2014 UCL final was not English) - no sourced list found; search budget exhausted."
+  ]
+ },
+ {
+  "referee": "Chris Beath",
+  "nationality": "Australian",
+  "federation_at_final": "Football Australia (AFC)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Chris_Beath"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "12 Feb 2022 Club World Cup final Chelsea 2-1 Palmeiras (aet), Abu Dhabi (W). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Claus Bo Larsen",
+  "nationality": "Danish",
+  "federation_at_final": "Danish Football Union (DBU)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Claus_Bo_Larsen",
+   "https://www.lfchistory.net/referees/255"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.lfchistory.net/referees/255",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "8 Apr 2009 Liverpool 1-3 Chelsea, UCL QF 1st leg (W) [lfchistory]. Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 5,
+    "W": 0,
+    "D": 1,
+    "L": 4,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/255",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 11 Mar 2010 0 - 1 Lille Stadium Lille Métropole Europa League of 16 1st Leg 08 Apr 2009 1 - 3 Chelsea Anfield CL Quarter-final 1st leg 22 Oct 2008 1 - 1 Atletico Madrid Estadio Vicente Calderon Champions L. 1st Group Ph. 24 Oct 2007 1 - 2 Besiktas Inonu Stadium Champions L. 1st Group Ph. 23 Nov 2004 0 - 1 AS Monaco Stade Louis II Champions L. 1st Group Ph."
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "29 Aug 2008 UEFA Super Cup Man Utd 1-2 Zenit, Monaco (L). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Clément Turpin",
+  "nationality": "French",
+  "federation_at_final": "French Football Federation (FFF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Cl%C3%A9ment_Turpin",
+   "https://uefa.com/uefachampionsleague/news/0275-151e8ecbd274-6977b4d49988-1000--clement-turpin-to-referee-2022-uefa-champions-league-final"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "UCL v Napoli, Napoli 2-3 Chelsea (Turpin's 59th UCL match; penalty to Chelsea for Juan Jesus handball) - aggregator snippet, date not verified. Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 7,
+    "W": 3,
+    "D": 1,
+    "L": 3,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/826",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 04 Nov 2026 2 - 3 Fenerbahce Şükrü Saracoğlu Stadium Champions L - League Ph. 30 Sept 2025 0 - 1 Galatasaray Ali Sami Yen Champions L - League Ph. 04 Oct 2022 2 - 0 Rangers Anfield Champions L. 1st Group Ph. 28 May 2022 0 - 1 Real Madrid Stade de France Champions L. Final 10 Mar 2021 2 - 0 RasenBallsport Leipzig Puskás Aréna CL 1st knockout r. 2nd leg 26 Sept 2017 1 - 1 Spartak Moscow Otkrytiye Arena Champions L. 1st Group Ph. 25 Feb 2016 1 - 0 Augsburg Anfield Europa League of 32 2nd Leg"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.tntsports.co.uk/football/world-cup/2026/referee-thomas-tuchel-england-croatia_sto23310029/story.shtml",
+    "source_type": "newspaper",
+    "note": "Bayern Munich v Man City, UCL QF 2023 (Tuchel criticised Turpin's decisions; TNT Sports snippet); Man City 1-2 Real Madrid listed in a referee-profile snippet (aggregator snippet, date not verified). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "26 May 2021 UEL final Villarreal 1-1 Man Utd (aet), lost 10-11 on pens, Gdańsk (D). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [
+   {
+    "date": "2023-04-19",
+    "match": "Bayern Munich 1-1 Manchester City (UCL QF 2nd leg)",
+    "description": "Bayern coach Thomas Tuchel took umbrage with several of Turpin's decisions (per TNT Sports search snippet; not fetched).",
+    "sources": [
+     "https://www.tntsports.co.uk/football/world-cup/2026/referee-thomas-tuchel-england-croatia_sto23310029/story.shtml"
+    ]
+   }
+  ],
+  "uncertain": [
+   "City/Chelsea items are from search-result snippets only; date of Bayern-City match inferred as 2023 QF 2nd leg from snippet 'in 2023' - verify."
+  ]
+ },
+ {
+  "referee": "Cüneyt Çakır",
+  "nationality": "Turkish",
+  "federation_at_final": "Turkish Football Federation (TFF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/C%C3%BCneyt_%C3%87ak%C4%B1r",
+   "https://hurriyetdailynews.com/turkeys-cakir-to-officiate-big-match-36885"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://en.wikipedia.org/wiki/C%C3%BCneyt_%C3%87ak%C4%B1r",
+    "source_type": "aggregator snippet",
+    "note": "24 Apr 2012 Barcelona 2-2 Chelsea, UCL SF 2nd leg, Camp Nou (D; Chelsea advanced 3-2 agg; John Terry sent off); 16 Dec 2012 Club World Cup final Corinthians 1-0 Chelsea, Yokohama (L). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 3,
+    "W": 3,
+    "D": 0,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/828",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 07 May 2019 4 - 0 Barcelona Anfield Champions L. SF 2nd leg 18 Sept 2018 3 - 2 Paris St Germain Anfield Champions L. 1st Group Ph. 14 Apr 2016 4 - 3 Borussia Dortmund Anfield Europa League QF 2nd Leg"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [
+   {
+    "date": "2012-04-24",
+    "match": "Barcelona 2-2 Chelsea (UCL SF 2nd leg)",
+    "description": "Çakır sent off Chelsea captain John Terry in the first half for kneeing Alexis Sánchez; Terry missed the 2012 final.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/C%C3%BCneyt_%C3%87ak%C4%B1r"
+    ]
+   }
+  ],
+  "uncertain": [
+   "Çakır's 2012 Barcelona-Chelsea red card is sourced only to Wikipedia here (search budget exhausted before reputable-outlet confirmation).",
+   "Çakır refereed numerous other Man City/Man Utd/Arsenal UCL games (not sourced)."
+  ]
+ },
+ {
   "referee": "Damir Skomina",
   "nationality": "Slovenian",
   "federation_at_final": "Football Association of Slovenia (NZS)",
   "nationality_sources": [
    "https://www.eurosport.com/football/champions-league/2018-2019/slovenian-official-damir-skomina-to-referee-champions-league-final_sto7271479/story.shtml",
-   "https://www.washingtontimes.com/news/2019/may/14/skomina-picked-as-referee-for-champions-league-fin/"
+   "https://www.washingtontimes.com/news/2019/may/14/skomina-picked-as-referee-for-champions-league-fin/",
+   "https://www.lfchistory.net/referees/819"
   ],
   "records": [
    {
     "club": "Liverpool",
-    "P": 5,
-    "W": 1,
+    "P": 6,
+    "W": 2,
     "D": 0,
     "L": 4,
-    "scope": "all competitions to 14 May 2019 (before 2019 UCL final)",
-    "source": "https://www.goal.com/en/news/who-is-the-champions-league-final-2019-referee-for-tottenham-vs-liverpool/1kg312etda1tz1gfab28875w6x",
-    "source_type": "newspaper",
-    "note": "Goal.com pre-final preview. Matches: L 1-2 v Fiorentina (H, UCL 2009); W 1-0 v Napoli (H, UCL group Dec 2018); L at Besiktas (UEL R32 2015); L at Villarreal (UEL SF 2016); L 4-2 at Roma (UCL SF 2nd leg 2018). Excludes the 2019 final (Liverpool won 2-0)."
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026",
+    "source": "https://www.lfchistory.net/referees/819",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches: 01 Jun 2019 2 - 0 Tottenham Hotspur Metropolitano Stadium Champions L. Final 11 Dec 2018 1 - 0 Napoli Anfield Champions L. 1st Group Ph. 02 May 2018 2 - 4 Roma Stadio Olimpico Champions L. SF 2nd leg 28 Apr 2016 0 - 1 Villarreal Estadio El Madrigal Europa League SF 1st Leg 26 Feb 2015 0 - 1 Besiktas Ataturk Stadium Europa League of 32 1st Leg 09 Dec 2009 1 - 2 Fiorentina Anfield Champions L. 1st Group Ph. | Corroborated by Goal.com pre-final preview (May 2019): 5 games, 1W 4L before the final."
    },
    {
     "club": "Manchester United",
@@ -75,7 +795,6 @@
    }
   ],
   "uncertain": [
-   "Liverpool tally is pre-2019-final; including the final would make it 6 matches but no source states that.",
    "Goal.com is a sports-media outlet, not one of the listed papers; second source for incident not fetched (inkl/Express copy blocked)."
   ]
  },
@@ -85,7 +804,7 @@
   "federation_at_final": "German Football Association (DFB)",
   "nationality_sources": [
    "https://wtop.com/sports/2026/05/german-referee-siebert-gets-arsenal-psg-in-champions-league-final-after-missing-out-on-world-cup/",
-   "https://www.uefa.com/uefachampionsleague/news/02a5-20bb2ead6fa0-594bc3f4ff23-1000--uefa-champions-league-final-referee-siebert-ready-for-duty/"
+   "https://www.lfchistory.net/referees/893"
   ],
   "records": [
    {
@@ -97,18 +816,1055 @@
     "scope": "all competitions to 12 May 2026 (before 2026 UCL final)",
     "source": "https://www.si.com/soccer/psg-vs-arsenal-referee-2026-champions-league-final",
     "source_type": "newspaper",
-    "note": "Sports Illustrated: 'Arsenal have a 100% record with Siebert as referee, winning all four games' incl. UCL QF 1st leg at Sporting CP and UCL SF 2nd leg v Atletico Madrid (2026). Final (30 May 2026, Budapest): Arsenal 1-1 PSG, lost 3-4 on pens per search snippets, not included in tally. Earlier reports gave 2 and 3 matches at earlier dates."
+    "note": "Sports Illustrated: 'Arsenal have a 100% record with Siebert as referee, winning all four games', incl. UCL QF 1st leg at Sporting CP and UCL SF 2nd leg v Atlético Madrid (2026). Not including the final: 30 May 2026 PSG 1-1 Arsenal (aet), Arsenal lost 3-4 on pens (D). Earlier previews gave 2 and 3 matches at earlier dates."
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 2,
+    "W": 2,
+    "D": 0,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/893",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 19 Oct 2021 3 - 2 Atletico Madrid Metropolitano Stadium Champions L. 1st Group Ph. 24 Oct 2018 4 - 0 Red Star Belgrade Anfield Champions L. 1st Group Ph."
    },
    {
     "club": "Manchester City",
-    "P": 1,
-    "W": 0,
-    "D": 1,
-    "L": 0,
-    "scope": "all competitions (date of article unclear, c. 2024-25)",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
     "source": "https://cityxtra.co.uk/20563/daniel-siebert-to-referee-uefa-champions-league-clash-between-sporting-cp-and-manchester-city-in-league-phase-clash/",
     "source_type": "aggregator snippet",
-    "note": "City fan-news site (CityXtra) said City had met Siebert once: 0-0 at Atletico Madrid (UCL QF 2nd leg, April 2022). Article previewing Sporting CP v Man City (UCL league phase, Nov 2024) which Siebert then refereed (City lost 1-4, per general knowledge - not sourced here). Low-reliability source."
+    "note": "Apr 2022 Atlético Madrid 0-0 Man City, UCL QF 2nd leg (D) - described as City's only previous Siebert match in a CityXtra preview of Sporting CP v Man City (UCL league phase 2024-25) which he was appointed to (result not sourced). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": [
+   "Man City item from a City fan-news site (cityxtra.co.uk/20563/...) - pointer only.",
+   "ESPN article on Siebert/Arsenal could not be fetched."
+  ]
+ },
+ {
+  "referee": "Felix Zwayer",
+  "nationality": "German",
+  "federation_at_final": "German Football Association (DFB)",
+  "nationality_sources": [
+   "https://www.uefa.com/uefaeuropaleague/news/0299-1dcaea8b6a0a-4665e7ffa41e-1000--referee-felix-zwayer-set-for-europa-league-final",
+   "https://www.lfchistory.net/referees/837"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.uefa.com/uefaeuropaleague/news/0299-1dcaea8b6a0a-4665e7ffa41e-1000--referee-felix-zwayer-set-for-europa-league-final",
+    "source_type": "official",
+    "note": "Apr 2025 Arsenal v Real Madrid, UCL QF 1st leg (UEFA lists it among his 2024-25 matches; result not sourced here); 2025 UCL SF PSG 2-1 Arsenal (search snippet; 'without notable errors'). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 5,
+    "W": 3,
+    "D": 1,
+    "L": 1,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/837",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 09 Dec 2025 1 - 0 Inter Milan San Siro Champions L - League Ph. 21 Jan 2025 2 - 1 Lille Anfield Champions L - League Ph. 15 Mar 2023 0 - 1 Real Madrid Bernabeu Stadium CL 1st knockout r. 2nd leg 24 Nov 2021 2 - 0 FC Porto Anfield Champions L. 1st Group Ph. 06 Mar 2018 0 - 0 FC Porto Anfield CL 1st knockout r. 2nd leg"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.90min.com/man-utd-tottenham-controversial-referee-appointment-europa-league-final",
+    "source_type": "newspaper",
+    "note": "21 May 2025 UEL final Tottenham 1-0 Man Utd, Bilbao (L); (pre-final) 90min reported United 'yet to lose under Zwayer's watch'; a United fan site reported 7 yellow cards to United across 3 fixtures - counts unverified. Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [
+   {
+    "date": "2005",
+    "match": "(not a club-specific incident) Hoyzer match-fixing scandal",
+    "description": "Zwayer served a six-month ban in Germany linked to the 2005 Robert Hoyzer betting scandal; English media highlighted this before the 2025 UEL final. Not an incident with the five clubs.",
+    "sources": [
+     "https://www.90min.com/man-utd-tottenham-controversial-referee-appointment-europa-league-final",
+     "https://www.sport1.de/news/fussball/europa-league/2025/05/wird-die-geister-nicht-los-deutscher-final-schiri-sorgt-fur-unruhe-in-england"
+    ]
+   }
+  ],
+  "uncertain": [
+   "90min/unitedinfocus claims on Zwayer-United record not verified against a reputable outlet."
+  ]
+ },
+ {
+  "referee": "François Letexier",
+  "nationality": "French",
+  "federation_at_final": "French Football Federation (FFF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Letexier",
+   "https://www.lfchistory.net/referees/1994"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 4,
+    "W": 3,
+    "D": 1,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/1994",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 22 Oct 2025 5 - 1 Eintracht Frankfurt Waldstadion Champions L - League Ph. 27 Nov 2024 2 - 0 Real Madrid Anfield Champions L - League Ph. 18 Apr 2024 1 - 0 Atalanta B.C. Stadio di Bergamo Europa League QF 2nd Leg 09 Dec 2020 1 - 1 FC Midtjylland Arena Herning Champions L. 1st Group Ph."
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "16 Aug 2023 UEFA Super Cup Man City 1-1 Sevilla, won 5-4 on pens, Piraeus (D). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Gianluca Rocchi",
+  "nationality": "Italian",
+  "federation_at_final": "Italian Football Federation (FIGC/AIA)",
+  "nationality_sources": [
+   "https://figc.it/en/figc/news/gianluca-rocchi-to-referee-europa-league-final-between-chelsea-and-arsenal",
+   "https://www.lfchistory.net/referees/390"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": 4,
+    "W": 1,
+    "D": null,
+    "L": null,
+    "scope": "UEFA competitions to May 2019 (before 2019 UEL final)",
+    "source": "https://www.inkl.com/news/the-horrendous-omen-for-arsenal-ahead-of-europa-league-final-against-chelsea",
+    "source_type": "aggregator snippet",
+    "note": "Search snippet of a pre-final preview republished on inkl (original outlet not identified; page 403): Arsenal 'won just one of four matches with him in the middle', the win v Fenerbahçe in 2013-14 UCL qualifying. Another snippet: Rocchi refereed Atlético Madrid 1-0 Arsenal, UEL SF 2nd leg, 3 May 2018 (L). D/L split not given. Final 29 May 2019: Chelsea 4-1 Arsenal (L), not included."
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.inkl.com/news/the-horrendous-omen-for-arsenal-ahead-of-europa-league-final-against-chelsea",
+    "source_type": "aggregator snippet",
+    "note": "Same preview: Chelsea 'boast a 100% record' under Rocchi - W 3-1 v Rubin Kazan (2012-13 UEL) and W 1-0 v Steaua Bucharest (2013-14 UEL). Plus 29 May 2019 UEL final Chelsea 4-1 Arsenal (W). Wikipedia notes his Nov 2019 Chelsea match drew criticism (details not sourced)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 2,
+    "W": 0,
+    "D": 2,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/390",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 19 Feb 2019 0 - 0 Bayern Munich Anfield CL 1st knockout r. 1st leg 17 Mar 2011 0 - 0 Braga Anfield Europa League of 16 2nd Leg"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/sport/soccer/gianluca-rocchi-confirmed-as-europa-league-final-referee-1.3890954",
+    "source_type": "newspaper",
+    "note": "8 Aug 2017 UEFA Super Cup Real Madrid 2-1 Man Utd, Skopje (L) [Irish Times 13 May 2019]. Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": [
+   "Arsenal/Chelsea counts from an inkl-hosted preview whose original outlet is unknown; treat as provisional."
+  ]
+ },
+ {
+  "referee": "Gilles Veissière",
+  "nationality": "French",
+  "federation_at_final": "French Football Federation (FFF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Gilles_Veissi%C3%A8re",
+   "https://www.lfchistory.net/referees/474"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 2,
+    "W": 1,
+    "D": 1,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/474",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 16 May 2001 5 - 4 Alaves Westfalen Stadion UEFA Cup Final 03 Nov 1998 2 - 2 Valencia Mestalla UEFA Cup 2nd round 2L"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Hellmut Krug",
+  "nationality": "German",
+  "federation_at_final": "German Football Association (DFB)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Hellmut_Krug",
+   "https://www.lfchistory.net/referees/251"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 3,
+    "W": 0,
+    "D": 1,
+    "L": 2,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/251",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 20 Nov 2001 1 - 3 Barcelona Anfield Champions L. 2nd Group Ph. 05 Apr 2001 0 - 0 Barcelona Nou Camp UEFA Cup Semi-final 1st leg 10 Apr 1997 0 - 3 Paris St Germain Parc des Princes ECW Cup Semi-Final 1L"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "30 Nov 1999 Intercontinental Cup Man Utd 1-0 Palmeiras, Tokyo (W). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Herbert Fandel",
+  "nationality": "German",
+  "federation_at_final": "German Football Association (DFB)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Herbert_Fandel",
+   "https://www.lfchistory.net/referees/141"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.lfchistory.net/referees/141",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "6 Dec 2005 Chelsea 0-0 Liverpool, UCL group (D) [lfchistory]. Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 4,
+    "W": 0,
+    "D": 1,
+    "L": 3,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/141",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 23 May 2007 1 - 2 AC Milan Athens Olympic Stadium Champions L. Final 06 Mar 2007 0 - 1 Barcelona Anfield CL 1st knockout r. 2nd leg 06 Dec 2005 0 - 0 Chelsea Stamford Bridge Champions L. 1st Group Ph. 17 Sept 2002 0 - 2 Valencia Mestalla Champions L. 1st Group Ph."
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Irfan Peljto",
+  "nationality": "Bosnian (Bosnia and Herzegovina)",
+  "federation_at_final": "Football Association of Bosnia and Herzegovina (NFSBiH)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Irfan_Peljto",
+   "https://www.uefa.com/uefaconferenceleague/news/0299-1dbd44d483fe-a5abbf9a01e7-1000--conference-league-final-referee-irfan-peljto/"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "28 May 2025 UECL final Real Betis 1-4 Chelsea, Wrocław (W). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": [
+   "Reported six-match ban earlier in 2024-25 (ground.news headline) - not verified, not club-related."
+  ]
+ },
+ {
+  "referee": "Jonas Eriksson",
+  "nationality": "Swedish",
+  "federation_at_final": "Swedish Football Association (SvFF)",
+  "nationality_sources": [
+   "https://uefa.com/uefaeuropaleague/news/022d-0e944b9df425-e50742c1a0a0-1000--jonas-eriksson-to-referee-europa-league-final",
+   "https://www.lfchistory.net/referees/138"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "30 Aug 2013 UEFA Super Cup Bayern 2-2 Chelsea (aet), lost 4-5 on pens, Prague (D). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 3,
+    "W": 0,
+    "D": 0,
+    "L": 3,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/138",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 18 May 2016 1 - 3 Sevilla Saint Jakob Stadium Europa League Final 01 Oct 2014 0 - 1 FC Basel Saint Jakob Stadium Champions L. 1st Group Ph. 01 Apr 2010 1 - 2 Benfica Estadio da Luz Europa League QF 1st Leg"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [
+   {
+    "date": "2016-05-18",
+    "match": "Liverpool 1-3 Sevilla (UEL final)",
+    "description": "Sevilla's third goal (Coke) was allowed after the assistant initially raised his flag for offside and a lengthy consultation; Liverpool also had penalty appeals rejected. (The final itself, not a prior match.)",
+    "sources": [
+     "https://www.euronews.com/2016/05/19/sevilla-strike-back-to-beat-liverpool-for-record-third-straight-europa-league"
+    ]
+   }
+  ],
+  "uncertain": []
+ },
+ {
+  "referee": "Manuel Mejuto González",
+  "nationality": "Spanish",
+  "federation_at_final": "Royal Spanish Football Federation (RFEF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Manuel_Mejuto_Gonz%C3%A1lez",
+   "https://www.lfchistory.net/referees/301"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.lfchistory.net/referees/301",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "1 May 2007 Liverpool 1-0 Chelsea (aet), UCL SF 2nd leg; Chelsea eliminated on pens (L in 90/120) [lfchistory]. Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 4,
+    "W": 3,
+    "D": 1,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/301",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 01 May 2007 1 - 0 Chelsea Anfield Champions L. SF 2nd leg 25 May 2005 3 - 3 AC Milan Ataturk Stadium Champions L. Final 08 Dec 2004 3 - 1 Olympiacos Anfield Champions L. 1st Group Ph. 28 Nov 2002 1 - 0 Vitesse Arnhem Gelredome UEFA Cup 3rd round 1L"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Marc Batta",
+  "nationality": "French",
+  "federation_at_final": "French Football Federation (FFF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Marc_Batta"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "28 Aug 1998 UEFA Super Cup Real Madrid 0-1 Chelsea, Monaco (W). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Massimo Busacca",
+  "nationality": "Swiss",
+  "federation_at_final": "Swiss Football Association (SFV/ASF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Massimo_Busacca",
+   "https://www.lfchistory.net/referees/68"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 4,
+    "W": 3,
+    "D": 1,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/68",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 27 Aug 2008 1 - 0 Standard Liege Anfield Champions L. 3rd QR. 2nd L 12 Sept 2006 0 - 0 PSV Eindhoven Philips Stadion Champions L. 1st Group Ph. 19 Oct 2005 1 - 0 Anderlecht Constant Vanden Stock Stadium Champions L. 1st Group Ph. 26 Oct 2000 1 - 0 Slovan Liberec Anfield UEFA Cup 2nd round 1L"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "27 May 2009 UCL final Barcelona 2-0 Man Utd, Rome (L). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Milorad Mažić",
+  "nationality": "Serbian",
+  "federation_at_final": "Football Association of Serbia (FSS)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Milorad_Ma%C5%BEi%C4%87",
+   "https://www.lfchistory.net/referees/295"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 3,
+    "W": 1,
+    "D": 1,
+    "L": 1,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/295",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 26 May 2018 1 - 3 Real Madrid NSC Olimpiyskiy Stadium Champions L. Final 17 Mar 2016 1 - 1 Manchester United Old Trafford Europa League of 16 2nd Leg 24 Feb 2011 1 - 0 Sparta Prague Anfield Europa League of 32 2nd Leg"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "17 Mar 2016 Man Utd 1-1 Liverpool, UEL R16 2nd leg, Old Trafford (D) [lfchistory; also ibtimes.co.uk preview]. Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Pedro Proença",
+  "nationality": "Portuguese",
+  "federation_at_final": "Portuguese Football Federation (FPF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Pedro_Proen%C3%A7a",
+   "https://www.lfchistory.net/referees/350"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "19 May 2012 UCL final Bayern 1-1 Chelsea (aet), won 4-3 on pens, Munich (D). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 1,
+    "W": 1,
+    "D": 0,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/350",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 16 Sept 2009 1 - 0 Debrecen VSC Anfield Champions L. 1st Group Ph."
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Pierluigi Collina",
+  "nationality": "Italian",
+  "federation_at_final": "Italian Football Federation (FIGC/AIA)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Pierluigi_Collina",
+   "https://www.lfchistory.net/referees/88"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 3,
+    "W": 1,
+    "D": 1,
+    "L": 1,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/88",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 28 Sept 2004 0 - 1 Olympiacos Yorgos Karaiskakis Stadium Champions L. 1st Group Ph. 26 Sept 2001 1 - 0 Dynamo Kiev Anfield Champions L. 1st Group Ph. 08 Mar 2001 0 - 0 FC Porto Estadio Das Antas UEFA Cup 5th round 1L"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "26 May 1999 UCL final Man Utd 2-1 Bayern, Barcelona (W). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": [
+   "Collina refereed many English-club matches 1996-2005 (incl. Premier League-era European ties); no sourced tally found."
+  ]
+ },
+ {
+  "referee": "Ravshan Irmatov",
+  "nationality": "Uzbek",
+  "federation_at_final": "Uzbekistan Football Association (AFC)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Ravshan_Irmatov"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
    },
    {
     "club": "Chelsea",
@@ -133,6 +1889,423 @@
     "note": ""
    },
    {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "21 Dec 2008 Club World Cup final LDU Quito 0-1 Man Utd, Yokohama (W). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "René Temmink",
+  "nationality": "Dutch",
+  "federation_at_final": "Royal Dutch Football Association (KNVB)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Ren%C3%A9_Temmink",
+   "https://www.lfchistory.net/referees/445"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 3,
+    "W": 2,
+    "D": 1,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/445",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 26 Aug 2005 3 - 1 CSKA Moscow Stade Louis II European Super Cup 26 Feb 2004 2 - 0 Levski Sofia Anfield UEFA Cup 3rd round 1L 23 Nov 2000 2 - 2 Olympiacos Olympiako Stadio Athinas UEFA Cup 3rd round 1L"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Ryszard Wójcik",
+  "nationality": "Polish",
+  "federation_at_final": "Polish Football Association (PZPN)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Ryszard_W%C3%B3jcik"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "27 Aug 1999 UEFA Super Cup Man Utd 0-1 Lazio, Monaco (L). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Sergei Karasev",
+  "nationality": "Russian",
+  "federation_at_final": "Russian Football Union (RFU)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Sergei_Karasev",
+   "https://www.lfchistory.net/referees/2033"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "11 Aug 2021 UEFA Super Cup Chelsea 1-1 Villarreal (aet), won 6-5 on pens, Belfast (D). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 1,
+    "W": 1,
+    "D": 0,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/2033",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 28 Sept 2021 5 - 1 FC Porto Estadio da Dragao Champions L. 1st Group Ph."
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Stefano Braschi",
+  "nationality": "Italian",
+  "federation_at_final": "Italian Football Federation (FIGC/AIA)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Stefano_Braschi"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "13 May 1998 Cup Winners' Cup final Chelsea 1-0 VfB Stuttgart, Stockholm (W). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Stéphanie Frappart",
+  "nationality": "French",
+  "federation_at_final": "French Football Federation (FFF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/St%C3%A9phanie_Frappart",
+   "https://www.lfchistory.net/referees/903"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.lfchistory.net/referees/903",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "14 Aug 2019 UEFA Super Cup Liverpool 2-2 Chelsea (aet), Chelsea lost 4-5 on pens, Istanbul (D) [lfchistory]. Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 1,
+    "W": 0,
+    "D": 1,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/903",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 14 Aug 2019 2 - 2 Chelsea Beşiktaş Park European Super Cup"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Szymon Marciniak",
+  "nationality": "Polish",
+  "federation_at_final": "Polish Football Association (PZPN)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Szymon_Marciniak",
+   "https://www.lfchistory.net/referees/818"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 8,
+    "W": 6,
+    "D": 0,
+    "L": 2,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/818",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 20 Oct 2026 4 - 3 Villarreal Anfield Champions L - League Ph. 27 Apr 2022 2 - 0 Villarreal Anfield Champions L. SF 1st leg 16 Feb 2022 2 - 0 Inter Milan San Siro CL 1st knockout r. 1st leg 15 Sept 2021 3 - 2 AC Milan Anfield Champions L. 1st Group Ph. 18 Feb 2020 0 - 1 Atletico Madrid Metropolitano Stadium CL 1st knockout r. 1st leg 28 Nov 2018 1 - 2 Paris St Germain Parc des Princes Champions L. 1st Group Ph. 06 Dec 2017 7 - 0 Spartak Moscow Anfield Champions L. 1st Group Ph. 19 Feb 2015 1 - 0 Besiktas Anfield Europa League of 32 1st Leg"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/szymon-marciniak-to-referee-manchester-city-v-real-madrid",
+    "source_type": "official",
+    "note": "17 May 2023 Man City 4-0 Real Madrid, UCL SF 2nd leg (W) [realmadrid.com]; 10 Jun 2023 UCL final Man City 1-0 Inter, Istanbul (W); 22 Dec 2023 Club World Cup final Man City 4-0 Fluminense, Jeddah (W); PSG v Man City UCL at Parc des Princes (Soccerway FR snippet; date/result not verified). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
     "club": "Manchester United",
     "P": null,
     "W": null,
@@ -146,8 +2319,283 @@
   ],
   "notable_prior_incidents": [],
   "uncertain": [
-   "Arsenal record source is SI (US outlet); ESPN article on Siebert's Arsenal matches could not be fetched.",
-   "Man City record from a club fan-news site; treat as pointer only."
+   "Real Madrid's website said the 2023 SF was Marciniak's sixth Real Madrid UCL game - no equivalent City count found."
+  ]
+ },
+ {
+  "referee": "Terje Hauge",
+  "nationality": "Norwegian",
+  "federation_at_final": "Football Association of Norway (NFF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Terje_Hauge",
+   "https://www.lfchistory.net/referees/194"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "17 May 2006 UCL final Barcelona 2-1 Arsenal, Paris (L). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 6,
+    "W": 4,
+    "D": 1,
+    "L": 1,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/194",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 29 Apr 2010 2 - 1 Atletico Madrid Anfield Europa League SF 2nd Leg 11 Dec 2007 4 - 0 Marseille Stade Vélodrome Champions L. 1st Group Ph. 15 Sept 2004 2 - 0 AS Monaco Anfield Champions L. 1st Group Ph. 13 Mar 2003 1 - 1 Celtic Celtic Park UEFA Cup 5th round 1L 30 Oct 2002 0 - 1 Valencia Anfield Champions L. 1st Group Ph. 21 Aug 2001 4 - 1 Haka Anfield Champions L. 3rd QR. 2nd L"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": [
+   "Hauge sent off Arsenal goalkeeper Jens Lehmann in the 2006 final (in the final itself) - no reputable URL fetched (search budget exhausted)."
+  ]
+ },
+ {
+  "referee": "Viktor Kassai",
+  "nationality": "Hungarian",
+  "federation_at_final": "Hungarian Football Federation (MLSZ)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/Viktor_Kassai",
+   "https://www.lfchistory.net/referees/797"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 4,
+    "W": 2,
+    "D": 0,
+    "L": 2,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/797",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 03 Oct 2018 0 - 1 Napoli Stadio San Paolo Champions L. 1st Group Ph. 17 Oct 2017 7 - 0 NK Maribor Ljudski vrt Champions L. 1st Group Ph. 05 May 2016 3 - 0 Villarreal Anfield Europa League SF 2nd Leg 04 Nov 2014 0 - 1 Real Madrid Bernabeu Stadium Champions L. 1st Group Ph."
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "28 May 2011 UCL final Barcelona 3-1 Man Utd, Wembley (L). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Vítor Melo Pereira",
+  "nationality": "Portuguese",
+  "federation_at_final": "Portuguese Football Federation (FPF)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/V%C3%ADtor_Melo_Pereira",
+   "https://www.lfchistory.net/referees/302"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": 5,
+    "W": 2,
+    "D": 1,
+    "L": 2,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/302",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 09 Apr 2002 2 - 4 Bayer Leverkusen Bay Arena CL Quarter-final 2nd leg 20 Feb 2002 0 - 0 Galatasaray Anfield Champions L. 2nd Group Ph. 24 Aug 2001 3 - 2 Bayern Munich Stade Louis II European Super Cup 07 Dec 2000 2 - 0 Olympiacos Anfield UEFA Cup 3rd round 2L 21 Oct 1997 0 - 3 RC Strasbourg Stade de la Meinau UEFA Cup 2nd round 1L"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": []
+ },
+ {
+  "referee": "Ľuboš Micheľ",
+  "nationality": "Slovak",
+  "federation_at_final": "Slovak Football Association (SFZ)",
+  "nationality_sources": [
+   "https://en.wikipedia.org/wiki/%C4%BDubo%C5%A1_Miche%C4%BE",
+   "https://www.lfchistory.net/referees/308"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.lfchistory.net/referees/308",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "3 May 2005 Liverpool 1-0 Chelsea, UCL SF 2nd leg (L) [lfchistory]; 21 May 2008 UCL final Man Utd 1-1 Chelsea (aet), lost 5-6 on pens, Moscow (D). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   },
+   {
+    "club": "Liverpool",
+    "P": 2,
+    "W": 1,
+    "D": 1,
+    "L": 0,
+    "scope": "all competitions as recorded by LFChistory.net, to 9 Nov 2026 (site states referee data complete for European matches and Premier League, almost complete for domestic cups)",
+    "source": "https://www.lfchistory.net/referees/308",
+    "source_type": "aggregator (club-history database, fetched directly)",
+    "note": "Matches (Liverpool score first; D includes games decided on pens): 18 Sept 2007 1 - 1 FC Porto Estadio da Dragao Champions L. 1st Group Ph. 03 May 2005 1 - 0 Chelsea Anfield Champions L. SF 2nd leg"
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "finals dataset: /home/user/aa/work/batch_F_ucl.json | batch_G_uefacup_el_cwc_conf_intercont.json | batch_H_supercup_clubworldcup.json (Wikipedia final articles)",
+    "source_type": "encyclopedia (project finals dataset)",
+    "note": "21 May 2008 UCL final Man Utd 1-1 Chelsea (aet), won 6-5 on pens, Moscow (D). Result letters from the club's perspective; finals per finals dataset (Wikipedia-extracted, /home/user/aa/work/batch_*.json; verified separately by other agents)."
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": [
+   "Micheľ awarded Luis García's disputed 'ghost goal' in Liverpool 1-0 Chelsea (3 May 2005) - well known, but no reputable URL fetched (search budget exhausted)."
   ]
  }
 ]

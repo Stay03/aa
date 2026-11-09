@@ -1,0 +1,1331 @@
+[
+ {
+  "article": "1998 UEFA Super Cup",
+  "date": "1998-08-28",
+  "competition": "UEFA Super Cup",
+  "season": "1998-99",
+  "venue": "Stade Louis II",
+  "city": "Monaco",
+  "team1": "Real Madrid",
+  "team2": "Chelsea",
+  "score_90": "0-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=55653",
+   "https://www.irishtimes.com/sport/chelsea-ride-out-eurostars-1.187968",
+   "https://datencenter.dfb.de/en/data-center/uefa-super-cup/1998/final/chelsea-fc-real-madrid-2206322"
+  ],
+  "core_verified": true,
+  "referee": "Marc Batta",
+  "referee_nationality": "French",
+  "referee_association": "French Football Federation (France)",
+  "referee_sources": [
+   "https://www.irishtimes.com/sport/chelsea-ride-out-eurostars-1.187968",
+   "https://datencenter.dfb.de/en/data-center/uefa-super-cup/1998/final/chelsea-fc-real-madrid-2206322"
+  ],
+  "assistants": "Pierre Ufrasi (France); Jacques Mas (France)",
+  "fourth_official": "Pascal Garibian (France)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "Wikipedia 1998 UEFA Super Cup infobox only (assistants/4th official not independently confirmed)"
+  ],
+  "manager1": "Guus Hiddink",
+  "manager2": "Gianluca Vialli",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Gustavo Poyet",
+    "minute": "83",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Albert Ferrer",
+    "minute": "7",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Celestine Babayaro",
+    "minute": "32",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Real Madrid",
+    "player": "Christian Karembeu",
+    "minute": "52",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Real Madrid",
+    "player": "Fernando Morientes",
+    "minute": "86",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://match.uefa.com/v5/matches/55653/events?filter=LINEUP&offset=0&limit=100",
+   "https://matchstats.uefa.com/v2/team-statistics/55653",
+   "https://www.irishtimes.com/sport/chelsea-ride-out-eurostars-1.187968",
+   "https://datencenter.dfb.de/en/data-center/uefa-super-cup/1998/final/chelsea-fc-real-madrid-2206322"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://matchstats.uefa.com/v2/team-statistics/55653",
+   "xg_source": null,
+   "note": "UEFA team-statistics feed for this match holds only goals/yellow cards (2-2); no shots/possession data found"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA.com history page, Irish Times match report (29 Aug 1998), DFB data centre; no refereeing disputes documented (Irish Times criticises Babayaro for not retreating at a free kick - player, not referee).",
+  "uncertain": [
+   "Poyet goal minute: UEFA match data 83', UEFA history text 81', Irish Times 81', DFB 82'; recorded 83' (UEFA official feed)",
+   "Ferrer booking: UEFA event feed shows an unnamed Chelsea yellow at 8'; DFB and Wikipedia give Ferrer 7'; Irish Times confirms Ferrer was booked (no minute)",
+   "Morientes booking minute: UEFA feed 86', DFB timeline 85'",
+   "Assistant referees and fourth official from Wikipedia only; UEFA feed lists no officials for this match",
+   "Referee nationality: Marc Batta is French (well established); association inferred as French FA",
+   "VAR/GLT did not exist in 1998 (set false on that basis, not from a match source)",
+   "No BBC report reachable (news.bbc.co.uk and web.archive.org blocked); attendance 11,589 (UEFA) vs 9,762 (11v11) - not core",
+   "Odds: no reliable pre-match odds found"
+  ]
+ },
+ {
+  "article": "1999 UEFA Super Cup",
+  "date": "1999-08-27",
+  "competition": "UEFA Super Cup",
+  "season": "1999-2000",
+  "venue": "Stade Louis II",
+  "city": "Monaco",
+  "team1": "Manchester United",
+  "team2": "Lazio",
+  "score_90": "0-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Lazio",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=56891",
+   "https://www.uefa.com/uefasupercup/history/1999",
+   "https://datencenter.dfb.de/en/data-center/uefa-super-cup/1999/final/2206321"
+  ],
+  "core_verified": true,
+  "referee": "Ryszard Wójcik",
+  "referee_nationality": "Polish",
+  "referee_association": "Polish Football Association (Poland)",
+  "referee_sources": [
+   "https://datencenter.dfb.de/en/data-center/uefa-super-cup/1999/final/2206321",
+   "Wikipedia 1999 UEFA Super Cup infobox (hint only)"
+  ],
+  "assistants": "Jacek Pocięgiel (Poland); Eugeniusz Koczar (Poland)",
+  "fourth_official": "Tomasz Mikulski (Poland)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "Wikipedia 1999 UEFA Super Cup infobox only"
+  ],
+  "manager1": "Sir Alex Ferguson",
+  "manager2": "Sven-Göran Eriksson",
+  "goals": [
+   {
+    "team": "Lazio",
+    "player": "Marcelo Salas",
+    "minute": "35",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Lazio",
+    "player": "Juan Sebastián Verón",
+    "minute": "35",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "72",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://match.uefa.com/v5/matches/56891/events?filter=LINEUP&offset=0&limit=100",
+   "https://matchstats.uefa.com/v2/team-statistics/56891"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://matchstats.uefa.com/v2/team-statistics/56891",
+   "xg_source": null,
+   "note": "UEFA feed has only goals and yellow cards (1-1); no shots/possession data found"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Simone Inzaghi injured in first-half collision with Stam and replaced (in-match, not pre-match absence)"
+   ],
+   "sources": [
+    "https://www.uefa.com/uefasupercup/history/1999"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA.com history page, DFB data centre, web searches for match reports (BBC 432092.stm cited by Wikipedia not reachable). Only a Lazio fan site (laziostories.com) mentions a 47th-minute penalty claim for a foul on Salas - fan site, not a reputable source, so not recorded.",
+  "uncertain": [
+   "Cards from UEFA event feed only (Verón 35', Scholes 72'); Wikipedia lists no cards; no second source found -> cards_complete false",
+   "Referee confirmed only by DFB data centre (plus Wikipedia); UEFA feed lists no officials. Assistants/4th official Wikipedia only",
+   "Attendance: UEFA/DFB 15,000 vs Wikipedia 14,461 (not core)",
+   "UEFA history text calls Salas a substitute; lineup data suggests he started - not resolved",
+   "VAR/GLT did not exist in 1999 (false by era)",
+   "Odds: none found"
+  ]
+ },
+ {
+  "article": "2001 UEFA Super Cup",
+  "date": "2001-08-24",
+  "competition": "UEFA Super Cup",
+  "season": "2001-02",
+  "venue": "Stade Louis II",
+  "city": "Monaco",
+  "team1": "Bayern Munich",
+  "team2": "Liverpool",
+  "score_90": "2-3",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=68022",
+   "https://datencenter.dfb.de/datencenter/supercup/2001/0/bayern-muenchen-fc-liverpool-2206319",
+   "https://www.uefa.com/uefasupercup/history/2001"
+  ],
+  "core_verified": true,
+  "referee": "Vítor Melo Pereira",
+  "referee_nationality": "Portuguese",
+  "referee_association": "Portuguese Football Federation (Portugal)",
+  "referee_sources": [
+   "https://datencenter.dfb.de/datencenter/supercup/2001/0/bayern-muenchen-fc-liverpool-2206319",
+   "Wikipedia 2001 UEFA Super Cup infobox (hint only)"
+  ],
+  "assistants": "Carlos Manuel Ferreira Matos (Portugal); José Manuel Silva Cardinal (Portugal)",
+  "fourth_official": "Antonio Manuel Almeida Costa (Portugal)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "Wikipedia 2001 UEFA Super Cup infobox only"
+  ],
+  "manager1": "Ottmar Hitzfeld",
+  "manager2": "Gérard Houllier",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "John Arne Riise",
+    "minute": "23",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Emile Heskey",
+    "minute": "45",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Michael Owen",
+    "minute": "46",
+    "type": "open play"
+   },
+   {
+    "team": "Bayern Munich",
+    "player": "Hasan Salihamidžić",
+    "minute": "57",
+    "type": "open play"
+   },
+   {
+    "team": "Bayern Munich",
+    "player": "Carsten Jancker",
+    "minute": "82",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Dietmar Hamann",
+    "minute": "14",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://datencenter.dfb.de/datencenter/supercup/2001/0/bayern-muenchen-fc-liverpool-2206319"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": 3,
+   "sot2": 6,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": 5,
+   "fouls2": 4,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://matchstats.uefa.com/v2/team-statistics/68022",
+   "xg_source": null,
+   "note": "UEFA feed: on target 3/6, off target 4/1, fouls 5/4 (fouls look implausibly low - likely incomplete data); no possession. Total shots not given as such (on+off = 7/7)"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA history page, DFB data centre, searches for Guardian/BBC/Independent reports (pages not fetchable); no refereeing disputes found.",
+  "uncertain": [
+   "Hamann yellow (14') from DFB and Wikipedia only; UEFA feed shows no cards at all -> cards_complete false",
+   "UEFA stats feed for this match looks incomplete (5 v 4 fouls)",
+   "Referee named by DFB (+Wikipedia); assistants/4th official Wikipedia only",
+   "Guardian/BBC/Independent reports exist (cited by Wikipedia) but could not be fetched",
+   "VAR/GLT did not exist in 2001 (false by era)",
+   "Odds: none found"
+  ]
+ },
+ {
+  "article": "2005 UEFA Super Cup",
+  "date": "2005-08-26",
+  "competition": "UEFA Super Cup",
+  "season": "2005-06",
+  "venue": "Stade Louis II",
+  "city": "Monaco",
+  "team1": "Liverpool",
+  "team2": "CSKA Moscow",
+  "score_90": "1-1",
+  "score_aet": "3-1",
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=81041",
+   "https://www.uefa.com/newsfiles/SuperCup/2005/81041_FR.pdf",
+   "https://www.irishtimes.com/sport/cisse-lifts-liverpool-1.485180",
+   "https://www.lfchistory.net/articles/824"
+  ],
+  "core_verified": true,
+  "referee": "René Temmink",
+  "referee_nationality": "Dutch",
+  "referee_association": "KNVB (Netherlands)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2005/81041_FR.pdf",
+   "Wikipedia 2005 UEFA Super Cup (hint)"
+  ],
+  "assistants": "Adriaan Inia (Netherlands); Rob Meenhuis (Netherlands)",
+  "fourth_official": "Eric Braamhaar (Netherlands)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2005/81041_FR.pdf"
+  ],
+  "manager1": "Rafael Benítez",
+  "manager2": "Valery Gazzaev",
+  "goals": [
+   {
+    "team": "CSKA Moscow",
+    "player": "Daniel Carvalho",
+    "minute": "28",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Djibril Cissé",
+    "minute": "82",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Djibril Cissé",
+    "minute": "103",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Luis García",
+    "minute": "109",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Boudewijn Zenden",
+    "minute": "38",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Josemi",
+    "minute": "50",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Sami Hyypiä",
+    "minute": "73",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Florent Sinama Pongolle",
+    "minute": "95",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "CSKA Moscow",
+    "player": "Dudu Cearense",
+    "minute": "101",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2005/81041_FR.pdf"
+  ],
+  "stats": {
+   "shots1": 20,
+   "shots2": 9,
+   "sot1": 8,
+   "sot2": 3,
+   "poss1": 60,
+   "poss2": 40,
+   "fouls1": 24,
+   "fouls2": 15,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/SuperCup/2005/81041_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report (120 min incl. ET); possession per UEFA ball-in-play method"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA Full Time Report, Irish Times report, BBC report (as reproduced by lfchistory.net); no refereeing disputes mentioned.",
+  "uncertain": [
+   "Cards from UEFA Full Time Report PDF (names/minutes in card column; icons not in text) matching Wikipedia; UEFA JSON feed lists only Zenden - feed incomplete",
+   "Second-source referee confirmation beyond UEFA PDF not found (BBC/Irish Times do not name him); Temmink is Dutch",
+   "Steven Gerrard not in Liverpool squad per UEFA lineup; reason (injury?) not verified so not listed as absence",
+   "VAR/GLT not in use in 2005 (era)",
+   "Odds: none found"
+  ]
+ },
+ {
+  "article": "2005 FIFA Club World Championship final",
+  "date": "2005-12-18",
+  "competition": "FIFA Club World Championship",
+  "season": "2005-06",
+  "venue": "International Stadium Yokohama",
+  "city": "Yokohama",
+  "team1": "São Paulo",
+  "team2": "Liverpool",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "São Paulo",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/4735/9911/47350007?language=en",
+   "https://www.irishtimes.com/sport/liverpool-see-red-at-flagging-linesman-1.1287541",
+   "https://www.arabnews.com/node/277621"
+  ],
+  "core_verified": true,
+  "referee": "Benito Archundia",
+  "referee_nationality": "Mexican",
+  "referee_association": "Mexican Football Federation (Mexico)",
+  "referee_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/4735/9911/47350007?language=en",
+   "https://www.arabnews.com/node/277621"
+  ],
+  "assistants": "Héctor Vergara (Canada); Arturo Velázquez (Mexico)",
+  "fourth_official": "Toru Kamikawa (Japan)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/4735/9911/47350007?language=en",
+   "https://www.irishtimes.com/sport/liverpool-see-red-at-flagging-linesman-1.1287541"
+  ],
+  "manager1": "Paulo Autuori",
+  "manager2": "Rafael Benítez",
+  "goals": [
+   {
+    "team": "São Paulo",
+    "player": "Mineiro",
+    "minute": "27",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "São Paulo",
+    "player": "Diego Lugano",
+    "minute": "57",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "São Paulo",
+    "player": "Rogério Ceni",
+    "minute": "90",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/4735/9911/47350007?language=en",
+   "https://api.fifa.com/api/v3/timelines/107/4735/9911/47350007?language=en",
+   "https://www.irishtimes.com/sport/liverpool-see-red-at-flagging-linesman-1.1287541"
+  ],
+  "stats": {
+   "shots1": 4,
+   "shots2": 21,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.arabnews.com/node/277621",
+   "xg_source": null,
+   "note": "Reuters (via Arab News) and Irish Times: Liverpool 21 shots v 4, 17 corners v 0; no possession/fouls source found"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "89",
+    "score_at_time": "1-0",
+    "type": "goal disallowed",
+    "description": "Florent Sinama Pongolle's late goal ruled out after assistant Héctor Vergara flagged Luis García offside in the build-up.",
+    "favoured_team": "São Paulo",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalists only (Sports Mole retrospective says replays indicated it should have stood); Benítez said one goal was 'clear'",
+    "impact": "likely",
+    "impact_reasoning": "Would have equalised at 1-1 in the 89th minute of a 1-0 final.",
+    "sources": [
+     "https://www.irishtimes.com/sport/liverpool-see-red-at-flagging-linesman-1.1287541",
+     "https://www.arabnews.com/node/277621",
+     "https://www.sportsmole.co.uk/football/liverpool/on-this-day/feature/otd-liverpool-lose-in-club-world-championship-final_261606.html"
+    ]
+   },
+   {
+    "minute": null,
+    "score_at_time": "1-0",
+    "type": "goal disallowed",
+    "description": "Luis García headed goal (second half) ruled out for offside.",
+    "favoured_team": "São Paulo",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only",
+    "impact": "possible",
+    "impact_reasoning": "Would have equalised in a 1-0 match; no source says the call was wrong.",
+    "sources": [
+     "https://www.irishtimes.com/sport/liverpool-see-red-at-flagging-linesman-1.1287541",
+     "https://www.arabnews.com/node/277621"
+    ]
+   },
+   {
+    "minute": null,
+    "score_at_time": "1-0",
+    "type": "goal disallowed",
+    "description": "Sami Hyypiä close-range finish disallowed because Xabi Alonso's corner was judged to have gone out of play before he scored.",
+    "favoured_team": "São Paulo",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only",
+    "impact": "possible",
+    "impact_reasoning": "Would have equalised; no source states the decision was wrong.",
+    "sources": [
+     "https://www.irishtimes.com/sport/liverpool-see-red-at-flagging-linesman-1.1287541",
+     "https://www.arabnews.com/node/277621"
+    ]
+   },
+   {
+    "minute": "57",
+    "score_at_time": "1-0",
+    "type": "red card not given",
+    "description": "Diego Lugano only booked for hacking down Steven Gerrard; Benítez: 'It was unbelievable the referee didn't show the red card for that foul.'",
+    "favoured_team": "São Paulo",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only",
+    "impact": "possible",
+    "impact_reasoning": "A red would have given Liverpool a man advantage for 30+ minutes at 0-1.",
+    "sources": [
+     "https://www.irishtimes.com/sport/liverpool-see-red-at-flagging-linesman-1.1287541"
+    ]
+   },
+   {
+    "minute": null,
+    "score_at_time": "1-0",
+    "type": "penalty not given",
+    "description": "Peter Crouch appeared to be illegally blocked by two defenders; Archundia gave nothing.",
+    "favoured_team": "São Paulo",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalist only (Reuters)",
+    "impact": "possible",
+    "impact_reasoning": "Crouch came on at 85'; a penalty would have been a chance to equalise late on.",
+    "sources": [
+     "https://www.arabnews.com/node/277621"
+    ]
+   }
+  ],
+  "contested_search_done": "FIFA match data, Irish Times report, Reuters report (Arab News), Sports Mole retrospective; Liverpool had three goals disallowed and complained about officials.",
+  "uncertain": [
+   "Lugano red-card claim and Crouch penalty claim each from one source only",
+   "Exact minutes of García and Hyypiä disallowed goals not found",
+   "Minute of Lugano foul assumed to be the 57' booking (Irish Times links the yellow to the Gerrard foul)",
+   "No neutral expert (ex-referee) assessment found for any of the disallowed goals",
+   "VAR/GLT did not exist in 2005 (false by era)",
+   "Odds: none found"
+  ]
+ },
+ {
+  "article": "2008 FIFA Club World Cup final",
+  "date": "2008-12-21",
+  "competition": "FIFA Club World Cup",
+  "season": "2008-09",
+  "venue": "International Stadium Yokohama",
+  "city": "Yokohama",
+  "team1": "LDU Quito",
+  "team2": "Manchester United",
+  "score_90": "0-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/250695/252219/300073127?language=en",
+   "https://www.irishtimes.com/sport/vidic-red-card-only-united-downside-1.1275456",
+   "https://www.irishexaminer.com/sport/soccer/arid-30391451.html"
+  ],
+  "core_verified": true,
+  "referee": "Ravshan Irmatov",
+  "referee_nationality": "Uzbek",
+  "referee_association": "Uzbekistan Football Association (Uzbekistan)",
+  "referee_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/250695/252219/300073127?language=en",
+   "https://www.irishtimes.com/sport/vidic-red-card-only-united-downside-1.1275456",
+   "https://www.irishexaminer.com/sport/soccer/arid-30391451.html"
+  ],
+  "assistants": "Abdukhamidullo Rasulov (Uzbekistan); Bakhadyr Kochkarov (Kyrgyzstan)",
+  "fourth_official": "Yuichi Nishimura (Japan)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/250695/252219/300073127?language=en"
+  ],
+  "manager1": "Edgardo Bauza",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Wayne Rooney",
+    "minute": "73",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "LDU Quito",
+    "player": "Claudio Bieler",
+    "minute": "2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "LDU Quito",
+    "player": "Jairo Campos",
+    "minute": "36",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "LDU Quito",
+    "player": "José Cevallos",
+    "minute": "44",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Nemanja Vidić",
+    "minute": "49",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "LDU Quito",
+    "player": "Renán Calle",
+    "minute": "66",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Anderson",
+    "minute": "70",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "LDU Quito",
+    "player": "William Araujo",
+    "minute": "71",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/250695/252219/300073127?language=en",
+   "https://api.fifa.com/api/v3/timelines/107/250695/252219/300073127?language=en",
+   "https://www.irishtimes.com/sport/vidic-red-card-only-united-downside-1.1275456"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable shots/possession source found"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "FIFA match data/timeline, Irish Times and Irish Examiner reports. Vidić straight red (49', elbow on Bieler) described as 'needless'; TV replays showed the elbow; Ferguson: 'It was soft, but if you do that in front of the referee you give yourself no chance' - accepted, not disputed, so not recorded.",
+  "uncertain": [
+   "Assistant 2 spelled Kochkarov (FIFA) / Kochkorov (Wikipedia)",
+   "Ferguson's 'soft' remark could be read as mild criticism of the Vidić red; not recorded as contested since he accepted it",
+   "VAR/GLT not in use in 2008 (era)",
+   "Odds and stats: none found"
+  ]
+ },
+ {
+  "article": "2008 UEFA Super Cup",
+  "date": "2008-08-29",
+  "competition": "UEFA Super Cup",
+  "season": "2008-09",
+  "venue": "Stade Louis II",
+  "city": "Monaco",
+  "team1": "Manchester United",
+  "team2": "Zenit Saint Petersburg",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Zenit Saint Petersburg",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=302814",
+   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
+   "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
+  ],
+  "core_verified": true,
+  "referee": "Claus Bo Larsen",
+  "referee_nationality": "Danish",
+  "referee_association": "Danish Football Union (Denmark)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
+   "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
+  ],
+  "assistants": "Henrik Sønderby (Denmark); Anders Nørrestrand (Denmark)",
+  "fourth_official": "Nicolai Vollquartz (Denmark)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
+   "https://match.uefa.com/v5/matches?matchId=302814"
+  ],
+  "manager1": "Sir Alex Ferguson",
+  "manager2": "Dick Advocaat",
+  "goals": [
+   {
+    "team": "Zenit Saint Petersburg",
+    "player": "Pavel Pogrebnyak",
+    "minute": "44",
+    "type": "header"
+   },
+   {
+    "team": "Zenit Saint Petersburg",
+    "player": "Danny",
+    "minute": "59",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Nemanja Vidić",
+    "minute": "73",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "45+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Anderson",
+    "minute": "54",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Carlos Tevez",
+    "minute": "74",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "90",
+    "card": "2Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
+   "https://match.uefa.com/v5/matches/302814/events?filter=LINEUP&offset=0&limit=100",
+   "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
+  ],
+  "stats": {
+   "shots1": 13,
+   "shots2": 9,
+   "sot1": 6,
+   "sot2": 5,
+   "poss1": 46,
+   "poss2": 54,
+   "fouls1": 16,
+   "fouls2": 12,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Cristiano Ronaldo (injury)",
+    "Owen Hargreaves (sidelined)",
+    "Michael Carrick (sidelined)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA Full Time Report, RTÉ report, searches for BBC/Guardian; Scholes second yellow for deliberately handling into the net described as rash/unnecessary by all - no dispute; no other refereeing disputes found.",
+  "uncertain": [
+   "Tevez booking minute: UEFA PDF 74', UEFA JSON feed 79'",
+   "Scholes second yellow (handball 'goal') shown at 90' (UEFA) - RTE says 'final moments'",
+   "Hargreaves/Carrick reasons not specified by RTÉ",
+   "Attendance 18,064 (PDF) vs 18,063 (feed)",
+   "Odds: none found"
+  ]
+ },
+ {
+  "article": "2012 FIFA Club World Cup final",
+  "date": "2012-12-16",
+  "competition": "FIFA Club World Cup",
+  "season": "2012-13",
+  "venue": "International Stadium Yokohama",
+  "city": "Yokohama",
+  "team1": "Corinthians",
+  "team2": "Chelsea",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Corinthians",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en",
+   "https://www.si.com/soccer/2012/12/16/club-world-cup-final",
+   "https://www.sportsmole.co.uk/football/chelsea/match-analysis/match-analysis-chelsea-0-1-corinthians_59724.html"
+  ],
+  "core_verified": true,
+  "referee": "Cüneyt Çakır",
+  "referee_nationality": "Turkish",
+  "referee_association": "Turkish Football Federation (Turkey)",
+  "referee_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en",
+   "https://www.sportsmole.co.uk/football/chelsea/match-analysis/match-analysis-chelsea-0-1-corinthians_59724.html"
+  ],
+  "assistants": "Bahattin Duran (Turkey); Tarık Ongun (Turkey)",
+  "fourth_official": "Alireza Faghani (Iran) [then registered with Iran's federation; moved to Football Australia only in 2024]",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": true,
+  "officials_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en"
+  ],
+  "manager1": "Tite",
+  "manager2": "Rafael Benítez",
+  "goals": [
+   {
+    "team": "Corinthians",
+    "player": "Paolo Guerrero",
+    "minute": "69",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Corinthians",
+    "player": "Jorge Henrique",
+    "minute": "55",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "David Luiz",
+    "minute": "71",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Gary Cahill",
+    "minute": "89",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en",
+   "https://api.fifa.com/api/v3/timelines/107/258492/259327/300219235?language=en",
+   "https://www.si.com/soccer/2012/12/16/club-world-cup-final"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 14,
+   "sot1": 4,
+   "sot2": 9,
+   "poss1": 50,
+   "poss2": 50,
+   "fouls1": 14,
+   "fouls2": 13,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.sportsmole.co.uk/football/chelsea/match-analysis/match-analysis-chelsea-0-1-corinthians_59724.html",
+   "xg_source": null,
+   "note": "Sports Mole match analysis (provider not stated)"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "FIFA match data, SI.com (AP) report, Sports Mole match analysis, searches on Torres offside and Cahill red. Torres 90+2 header ruled offside - reports (Sports Mole, Scotsman via search snippets) say correctly; Cahill straight red for kicking Emerson - Benítez said he 'lost his temper', not disputed. Sports Mole called Çakır's display lenient/strange but cited no specific wrong decision.",
+  "uncertain": [
+   "Guerrero goal minute: FIFA 68', SI/Wikipedia 69'; recorded 69' (FIFA timeline minute field 68' may be 67:xx)",
+   "Cahill red minute: FIFA 89', SI/Wikipedia 90'",
+   "GLT: SI.com/The Upcoming state goal-line technology was available at the 2012 Club World Cup (first competitive use), so true",
+   "Fourth official Alireza Faghani was an Iranian referee at that time (FIFA lists IRN)",
+   "Second source naming Çakır beyond FIFA is Sports Mole (referee critique); Turkish nationality well established",
+   "Lampard returned from calf injury to start; no confirmed Chelsea absentee list found",
+   "Odds: none found"
+  ]
+ },
+ {
+  "article": "2012 UEFA Super Cup",
+  "date": "2012-08-31",
+  "competition": "UEFA Super Cup",
+  "season": "2012-13",
+  "venue": "Stade Louis II",
+  "city": "Monaco",
+  "team1": "Chelsea",
+  "team2": "Atlético Madrid",
+  "score_90": "1-4",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Atlético Madrid",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2007694",
+   "https://www.uefa.com/newsfiles/SuperCup/2012/2007694_FR.pdf",
+   "https://www.arabnews.com/sport/falcao-hat-trick-sees-atletico-beat-chelsea-4-1-422731"
+  ],
+  "core_verified": true,
+  "referee": "Damir Skomina",
+  "referee_nationality": "Slovenian",
+  "referee_association": "Football Association of Slovenia (Slovenia)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2012/2007694_FR.pdf",
+   "https://match.uefa.com/v5/matches?matchId=2007694"
+  ],
+  "assistants": "Primož Arhar (Slovenia); Matej Žunič (Slovenia)",
+  "fourth_official": "Bojan Ul (Slovenia)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2012/2007694_FR.pdf",
+   "https://match.uefa.com/v5/matches?matchId=2007694"
+  ],
+  "manager1": "Roberto Di Matteo",
+  "manager2": "Diego Simeone",
+  "goals": [
+   {
+    "team": "Atlético Madrid",
+    "player": "Radamel Falcao",
+    "minute": "6",
+    "type": "open play"
+   },
+   {
+    "team": "Atlético Madrid",
+    "player": "Radamel Falcao",
+    "minute": "19",
+    "type": "open play"
+   },
+   {
+    "team": "Atlético Madrid",
+    "player": "Radamel Falcao",
+    "minute": "45",
+    "type": "open play"
+   },
+   {
+    "team": "Atlético Madrid",
+    "player": "João Miranda",
+    "minute": "60",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Gary Cahill",
+    "minute": "75",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Branislav Ivanović",
+    "minute": "29",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://match.uefa.com/v5/matches/2007694/events?filter=LINEUP&offset=0&limit=100",
+   "https://matchstats.uefa.com/v2/team-statistics/2007694",
+   "https://www.uefa.com/newsfiles/SuperCup/2012/2007694_FR.pdf"
+  ],
+  "stats": {
+   "shots1": 12,
+   "shots2": 18,
+   "sot1": 7,
+   "sot2": 12,
+   "poss1": 58,
+   "poss2": 42,
+   "fouls1": 13,
+   "fouls2": 18,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://matchstats.uefa.com/v2/team-statistics/2007694",
+   "xg_source": null,
+   "note": "UEFA team statistics feed; Wikipedia shows possession 57/43 - UEFA feed now 58/42"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA match data/Full Time Report, AP report (Arab News), search for referee controversy; none found.",
+  "uncertain": [
+   "Falcao's third: UEFA 45' (45:13), AP 'first-half stoppage time'",
+   "Additional assistant referees Matej Jug and Slavko Vinčić (Slovenia) also officiated (UEFA)",
+   "Referee named only in UEFA sources (feed + PDF); not independently named by AP",
+   "Odds: none found"
+  ]
+ },
+ {
+  "article": "2013 UEFA Super Cup",
+  "date": "2013-08-30",
+  "competition": "UEFA Super Cup",
+  "season": "2013-14",
+  "venue": "Eden Arena",
+  "city": "Prague",
+  "team1": "Bayern Munich",
+  "team2": "Chelsea",
+  "score_90": "1-1",
+  "score_aet": "2-2",
+  "shootout": "5-4",
+  "winner": "Bayern Munich",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2012139",
+   "https://www.uefa.com/newsfiles/SuperCup/2013/2012139_FR.pdf",
+   "https://www.arabnews.com/node/463112",
+   "https://www.sportsmole.co.uk/football/bayern-munich/match-analysis/bayern-munich-2-2-chelsea-bayern-win-5-4-on-penalties_101803.html"
+  ],
+  "core_verified": true,
+  "referee": "Jonas Eriksson",
+  "referee_nationality": "Swedish",
+  "referee_association": "Swedish Football Association (Sweden)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2013/2012139_FR.pdf",
+   "https://www.sportsmole.co.uk/football/bayern-munich/match-analysis/bayern-munich-2-2-chelsea-bayern-win-5-4-on-penalties_101803.html"
+  ],
+  "assistants": "Mathias Klasenius (Sweden); Daniel Wärnmark (Sweden)",
+  "fourth_official": "Stefan Wittberg (Sweden)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2013/2012139_FR.pdf",
+   "https://match.uefa.com/v5/matches?matchId=2012139"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "José Mourinho",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Fernando Torres",
+    "minute": "8",
+    "type": "open play"
+   },
+   {
+    "team": "Bayern Munich",
+    "player": "Franck Ribéry",
+    "minute": "47",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Eden Hazard",
+    "minute": "93",
+    "type": "open play"
+   },
+   {
+    "team": "Bayern Munich",
+    "player": "Javi Martínez",
+    "minute": "120+1",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Bayern Munich",
+    "player": "Franck Ribéry",
+    "minute": "23",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Gary Cahill",
+    "minute": "41",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ramires",
+    "minute": "64",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "David Luiz",
+    "minute": "66",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Bayern Munich",
+    "player": "Jérôme Boateng",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ramires",
+    "minute": "85",
+    "card": "2Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Fernando Torres",
+    "minute": "90",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Romelu Lukaku",
+    "minute": "99",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ashley Cole",
+    "minute": "118",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Branislav Ivanović",
+    "minute": "120",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://match.uefa.com/v5/matches/2012139/events?filter=LINEUP&offset=0&limit=100",
+   "https://matchstats.uefa.com/v2/team-statistics/2012139",
+   "https://www.uefa.com/newsfiles/SuperCup/2013/2012139_FR.pdf"
+  ],
+  "stats": {
+   "shots1": 37,
+   "shots2": 14,
+   "sot1": 19,
+   "sot2": 9,
+   "poss1": 64,
+   "poss2": 36,
+   "fouls1": 18,
+   "fouls2": 23,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://matchstats.uefa.com/v2/team-statistics/2012139",
+   "xg_source": null,
+   "note": "UEFA team statistics (120 min). Sports Mole gives 35/14 shots, 63/37 possession, fouls 18/19"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Bastian Schweinsteiger (sprained ankle ligaments)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.arabnews.com/node/463112"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "85",
+    "score_at_time": "1-1",
+    "type": "red card given",
+    "description": "Ramires shown a second yellow for a foul on Mario Götze. Mourinho: 'I don't think so... it was not a situation where you have to show the second yellow card'; 'you don't kill a final by giving a red card like that'.",
+    "favoured_team": "Bayern Munich",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no ex-referee assessment found; Sports Mole match analysis said Eriksson 'got the sending off decision spot on' (even a possible straight red); Mourinho disputed it",
+    "impact": "likely",
+    "impact_reasoning": "Gave Bayern a man advantage for 35+ minutes (incl. extra time) at 1-1 in a match drawn 2-2 and decided on penalties.",
+    "sources": [
+     "https://www.foxsports.com/stories/soccer/mourinho-feels-best-team-lost",
+     "https://www.arabnews.com/node/463112",
+     "https://www.sportsmole.co.uk/football/bayern-munich/match-analysis/bayern-munich-2-2-chelsea-bayern-win-5-4-on-penalties_101803.html"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA data/PDF, AFP report (Arab News), Fox Sports (Mourinho Sky interview), Sports Mole analysis; only the Ramires dismissal was disputed.",
+  "uncertain": [
+   "Torres yellow: UEFA feed 90:05 (recorded '90'); Sports Mole timeline 89'",
+   "Martínez equaliser 120+1 (UEFA 120:51 with injuryMinute 1)",
+   "Assessment of Ramires red is journalist-only (Sports Mole); no ex-referee view found",
+   "Odds: none found"
+  ]
+ }
+]

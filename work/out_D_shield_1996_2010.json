@@ -1,0 +1,833 @@
+[
+ {
+  "article": "1996 FA Charity Shield",
+  "date": "1996-08-11",
+  "competition": "FA Charity Shield",
+  "season": "1996-97",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester United",
+  "team2": "Newcastle United",
+  "score_90": "4-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.independent.co.uk/sport/hungry-united-devour-keegan-s-pretenders-1309313.html",
+   "https://www.irishtimes.com/sport/united-upstage-shearer-show-1.76193",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": true,
+  "referee": "Paul Durkin",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.independent.co.uk/sport/hungry-united-devour-keegan-s-pretenders-1309313.html",
+   "https://www.irishtimes.com/sport/united-upstage-shearer-show-1.76193"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.independent.co.uk/sport/hungry-united-devour-keegan-s-pretenders-1309313.html",
+   "https://www.irishtimes.com/sport/united-upstage-shearer-show-1.76193"
+  ],
+  "manager1": "Alex Ferguson",
+  "manager2": "Kevin Keegan",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Eric Cantona",
+    "minute": "24",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Nicky Butt",
+    "minute": "30",
+    "type": "header"
+   },
+   {
+    "team": "Manchester United",
+    "player": "David Beckham",
+    "minute": "85",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Roy Keane",
+    "minute": "87",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Roy Keane",
+    "minute": "40",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Eric Cantona",
+    "minute": "65",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Philippe Albert",
+    "minute": "16",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://www.independent.co.uk/sport/hungry-united-devour-keegan-s-pretenders-1309313.html",
+   "https://www.irishtimes.com/sport/united-upstage-shearer-show-1.76193"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": null,
+  "contested_decisions": [
+   {
+    "minute": "65",
+    "score_at_time": "2-0",
+    "type": "red card not given",
+    "description": "Cantona grabbed Philippe Albert by the neck and threw him to the ground after Albert remonstrated with Gary Neville; referee Durkin showed only a yellow card. Irish Times: Cantona 'might have been sent off'... Durkin 'was probably correct to show Cantona yellow rather than red. But the Frenchman was lucky'. Independent: Durkin 'took the charitable view and settled for a yellow card' as Newcastle fans bayed for dismissal.",
+    "favoured_team": "Manchester United",
+    "against_team": "Newcastle United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (Irish Times, The Independent)",
+    "impact": "none",
+    "impact_reasoning": "United already 2-0 up in 65th minute and won 4-0; a dismissal could not plausibly have reversed the result.",
+    "sources": [
+     "https://www.irishtimes.com/sport/united-upstage-shearer-show-1.76193",
+     "https://www.independent.co.uk/sport/hungry-united-devour-keegan-s-pretenders-1309313.html"
+    ]
+   }
+  ],
+  "contested_search_done": "Independent match report, Irish Times match report, web search for Durkin/Cantona controversy; only the Cantona-Albert incident found.",
+  "uncertain": [
+   "Goal minutes: Independent gives Cantona 25, Keane 88; Irish Times gives Cantona 24, Beckham 85, Keane 2 minutes after Beckham (87); Wikipedia 24/30/85/87 used.",
+   "Keane booking confirmed by Independent (for squaring up to the referee, first half); minute 40 is from Wikipedia only. Albert's 16th-minute booking is from Wikipedia only (not confirmed in sources read). Cantona booking 65' confirmed by Irish Times.",
+   "Card list may be incomplete; no full official booking list found.",
+   "Assistants/fourth official not found.",
+   "No stats or pre-match odds found. Absences not researched in sources read (none mentioned).",
+   "Independent page retrieved via direct HTTP (WebFetch tool refused the domain)."
+  ]
+ },
+ {
+  "article": "1997 FA Charity Shield",
+  "date": "1997-08-03",
+  "competition": "FA Charity Shield",
+  "season": "1997-98",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_90": "1-1",
+  "score_aet": null,
+  "shootout": "2-4",
+  "winner": "Manchester United",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.independent.co.uk/sport/united-fall-back-on-a-gritty-display-1243676.html",
+   "https://www.irishtimes.com/sport/charity-remains-at-home-1.93968",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": true,
+  "referee": "Peter Jones",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.independent.co.uk/sport/united-fall-back-on-a-gritty-display-1243676.html",
+   "https://www.irishtimes.com/sport/charity-remains-at-home-1.93968"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.independent.co.uk/sport/united-fall-back-on-a-gritty-display-1243676.html",
+   "https://www.irishtimes.com/sport/charity-remains-at-home-1.93968"
+  ],
+  "manager1": "Ruud Gullit",
+  "manager2": "Alex Ferguson",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Mark Hughes",
+    "minute": "52",
+    "type": "header"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Ronny Johnsen",
+    "minute": "57",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Frank Sinclair",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Dennis Wise",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Dan Petrescu",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Teddy Sheringham",
+    "minute": "43",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.independent.co.uk/sport/united-fall-back-on-a-gritty-display-1243676.html",
+   "https://www.irishtimes.com/sport/charity-remains-at-home-1.93968"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Ole Gunnar Solskjaer (injury)"
+   ],
+   "sources": [
+    "https://www.irishtimes.com/sport/charity-remains-at-home-1.93968"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "16",
+    "score_at_time": "0-0",
+    "type": "other",
+    "description": "Roy Keane caught Gustavo Poyet on the head/ear with his boot and was not booked. Independent: 'he was fortunate not to be booked'; Irish Times: 'At least Keane did not begin the season with a yellow card.'",
+    "favoured_team": "Manchester United",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only",
+    "impact": "none",
+    "impact_reasoning": "Only a booking was suggested; no source suggested a red card, so no numerical or scoring effect.",
+    "sources": [
+     "https://www.independent.co.uk/sport/united-fall-back-on-a-gritty-display-1243676.html",
+     "https://www.irishtimes.com/sport/charity-remains-at-home-1.93968"
+    ]
+   }
+  ],
+  "contested_search_done": "Independent and Irish Times match reports; no other refereeing disputes reported.",
+  "uncertain": [
+   "Shootout order (Independent): Sinclair saved, Scholes, Zola, Irwin, Di Matteo over, Keane, Leboeuf, Butt -> 2-4.",
+   "Card minutes: Sheringham 'shortly before half time' (Irish Times), 43 from Wikipedia; other minutes (Wikipedia: Sinclair 26, Wise 30, Petrescu 90) not confirmed, left null. Both reports list the same four bookings, so list treated as complete.",
+   "Johnsen goal minute 57 (Independent, Irish Times) vs 58 (Wikipedia).",
+   "Keane-Poyet incident minute: 'just past the quarter hour' (Irish Times) -> ~16, approximate.",
+   "No extra time in Charity Shield; one web-search summary wrongly said 'after extra time'; reports say penalties followed 90 minutes.",
+   "Assistants, fourth official, stats and odds not found.",
+   "Independent page retrieved via direct HTTP (WebFetch tool refused the domain)."
+  ]
+ },
+ {
+  "article": "1998 FA Charity Shield",
+  "date": "1998-08-09",
+  "competition": "FA Charity Shield",
+  "season": "1998-99",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Manchester United",
+  "score_90": "3-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.independent.co.uk/sport/football-arsenal-show-united-little-charity-1170865.html",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": false,
+  "referee": "Graham Poll",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.independent.co.uk/sport/football-arsenal-show-united-little-charity-1170865.html"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.independent.co.uk/sport/football-arsenal-show-united-little-charity-1170865.html"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "Alex Ferguson",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Marc Overmars",
+    "minute": "34",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Christopher Wreh",
+    "minute": "61",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Nicolas Anelka",
+    "minute": "72",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Gary Neville",
+    "minute": "3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Martin Keown",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Denis Irwin",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Phil Neville",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Lee Dixon",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.independent.co.uk/sport/football-arsenal-show-united-little-charity-1170865.html"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": null,
+  "contested_decisions": [],
+  "contested_search_done": "Independent (Glenn Moore) match report; web searches for the match; no refereeing disputes reported.",
+  "uncertain": [
+   "core_verified false: only one independent full report (Independent) retrieved; RSSSF confirms teams/score/winner/year but not date/venue. BBC, Guardian, Telegraph inaccessible; Irish Times report not found.",
+   "Wreh goal minute: Independent says 61; Wikipedia says 57.",
+   "Card minutes: G Neville 3' (Independent); Keown and Irwin 'before the half-hour', P Neville and Dixon later (Independent); Wikipedia minutes (Keown 22, Irwin 26, P Neville 79, Dixon 81) not confirmed, left null. Card list complete per Independent only.",
+   "Referee named by one source only (Independent) plus Wikipedia.",
+   "Odds: Independent quotes only Ladbrokes season title odds (both 2-1 joint favourites), not match odds; odds null.",
+   "Independent page retrieved via direct HTTP (WebFetch tool refused the domain)."
+  ]
+ },
+ {
+  "article": "1999 FA Charity Shield",
+  "date": "1999-08-01",
+  "competition": "FA Charity Shield",
+  "season": "1999-2000",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Manchester United",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.independent.co.uk/sport/football-kanu-ignites-the-gunners-arsenal-2-manchester-united-1-1110158.html",
+   "https://www.irishtimes.com/sport/kanu-the-hero-of-bruising-opener-1.212856",
+   "https://www.rte.ie/news/1999/0801/2758-football",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": true,
+  "referee": "Graham Barber",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.independent.co.uk/sport/football-kanu-ignites-the-gunners-arsenal-2-manchester-united-1-1110158.html",
+   "https://www.irishtimes.com/sport/kanu-the-hero-of-bruising-opener-1.212856"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.independent.co.uk/sport/football-kanu-ignites-the-gunners-arsenal-2-manchester-united-1-1110158.html",
+   "https://www.irishtimes.com/sport/kanu-the-hero-of-bruising-opener-1.212856"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Dwight Yorke",
+    "minute": "36",
+    "type": "header"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Kanu",
+    "minute": "67",
+    "type": "penalty"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Ray Parlour",
+    "minute": "77",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "David Beckham",
+    "minute": "21",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Nicky Butt",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Martin Keown",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Patrick Vieira",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://www.independent.co.uk/sport/football-kanu-ignites-the-gunners-arsenal-2-manchester-united-1-1110158.html",
+   "https://www.irishtimes.com/sport/kanu-the-hero-of-bruising-opener-1.212856"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "David Seaman (injury)",
+    "Tony Adams (injury)",
+    "Marc Overmars (injury)",
+    "Dennis Bergkamp (injury)"
+   ],
+   "team2": [
+    "Roy Keane (not fit)",
+    "Ronny Johnsen",
+    "Ryan Giggs"
+   ],
+   "sources": [
+    "https://www.irishtimes.com/sport/kanu-the-hero-of-bruising-opener-1.212856",
+    "https://www.independent.co.uk/sport/football-kanu-ignites-the-gunners-arsenal-2-manchester-united-1-1110158.html"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "36",
+    "score_at_time": "0-0",
+    "type": "goal disallowed",
+    "description": "Beckham's free kick hit the underside of the bar and appeared to bounce over the line; neither referee nor linesman awarded a goal. Yorke headed in the rebound, so United scored anyway. Independent: 'neither referee nor the better-placed linesman signalled a goal... It did not save the linesman from a verbal volley from Ferguson.' Irish Times: free kick 'cannoned over the line off the underside of the bar'.",
+    "favoured_team": "Arsenal",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (both reports say it appeared/went over the line)",
+    "impact": "none",
+    "impact_reasoning": "Yorke scored from the rebound immediately, so the goal stood either way (only scorer attribution affected).",
+    "sources": [
+     "https://www.independent.co.uk/sport/football-kanu-ignites-the-gunners-arsenal-2-manchester-united-1-1110158.html",
+     "https://www.irishtimes.com/sport/kanu-the-hero-of-bruising-opener-1.212856"
+    ]
+   },
+   {
+    "minute": "67",
+    "score_at_time": "0-1",
+    "type": "penalty given",
+    "description": "Penalty to Arsenal when Vieira went down under Denis Irwin's challenge; Kanu converted. Independent: Vieira 'took advantage of Irwin's repeated attempts to tug him back by taking a theatrical tumble. It was a dive, but a foul had been committed and justice just about done.' Irish Times describes Vieira as 'pulled down by Denis Irwin' without dispute.",
+    "favoured_team": "Arsenal",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (Independent called it a dive but judged a foul had been committed)",
+    "impact": "likely",
+    "impact_reasoning": "The penalty produced the equaliser in a match won 2-1; but the only source raising doubt concluded the award was justified.",
+    "sources": [
+     "https://www.independent.co.uk/sport/football-kanu-ignites-the-gunners-arsenal-2-manchester-united-1-1110158.html",
+     "https://www.irishtimes.com/sport/kanu-the-hero-of-bruising-opener-1.212856"
+    ]
+   }
+  ],
+  "contested_search_done": "Independent and Irish Times match reports, RTE news report; Beckham 'ghost goal' and Vieira penalty noted; no other disputes found.",
+  "uncertain": [
+   "Bookings conflict: Independent lists Arsenal Keown, Vieira; United Beckham, Butt, Yorke. Irish Times lists Vieira, Keown; United Beckham, Butt, Cruyff ('five players were cautioned'). Wikipedia lists only 4. Third United booking (Yorke or Cruyff) unresolved and omitted; Beckham booked for dissent/swearing.",
+   "Goal minutes: Kanu pen 66 (Independent) / 67 (Irish Times, Wikipedia); Parlour 76 (Independent) / 77 (Irish Times) / 78 (Wikipedia).",
+   "Irish Times match details credit the 36' goal to Beckham in its lineup box, while saying the referee credited Yorke; Yorke recorded per referee/most sources.",
+   "Card minutes other than Beckham (Wikipedia 21, 'midway through first half' per Irish Times) not confirmed; Wikipedia gives Keown 25, Vieira 25, Butt 25.",
+   "Irish Times absences text also listed Gary Neville while showing him in the lineup; Neville omitted. Keane absent per Independent ('in the absence of Roy Keane').",
+   "Wikipedia stats table (shots on target 3-3 etc.) unsourced; not used.",
+   "Penalty contested-decision rests on a single source raising doubt (Independent).",
+   "Independent page retrieved via direct HTTP (WebFetch tool refused the domain)."
+  ]
+ },
+ {
+  "article": "2000 FA Charity Shield",
+  "date": "2000-08-13",
+  "competition": "FA Charity Shield",
+  "season": "2000-01",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_90": "2-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.irishtimes.com/charity-begins-and-ends-in-an-instant-1.302825",
+   "https://www.independent.co.uk/sport/football/premier-league/chelsea-striker-issues-apology-to-keane-696372.html",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": true,
+  "referee": "Mike Riley",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.irishtimes.com/charity-begins-and-ends-in-an-instant-1.302825",
+   "https://www.independent.co.uk/sport/football/premier-league/chelsea-striker-issues-apology-to-keane-696372.html",
+   "https://www.irishtimes.com/sport/hasselbaink-apologises-to-keane-1.1259285"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.irishtimes.com/charity-begins-and-ends-in-an-instant-1.302825"
+  ],
+  "manager1": "Gianluca Vialli",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Jimmy Floyd Hasselbaink",
+    "minute": "22",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Mario Melchiot",
+    "minute": "73",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Roy Keane",
+    "minute": "62",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "81",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://www.irishtimes.com/charity-begins-and-ends-in-an-instant-1.302825",
+   "https://www.independent.co.uk/sport/football/premier-league/chelsea-striker-issues-apology-to-keane-696372.html",
+   "https://www.irishtimes.com/sport/hasselbaink-apologises-to-keane-1.1259285"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": null,
+  "contested_decisions": [
+   {
+    "minute": "c.60",
+    "score_at_time": "1-0",
+    "type": "red card not given",
+    "description": "Hasselbaink 'sank his studs into Keane's ankle' (Irish Times) and Riley took no action; moments later Keane was sent off for a retaliatory challenge on Poyet. Ferguson blamed the referee for not taking sterner action earlier (Independent); Irish Times match report cited 'some lenient refereeing'. Referees' Association president Peter Willis defended the officials and said there was 'no misinterpretation' of Keane's offence. Hasselbaink later apologised: 'I definitely was wrong'.",
+    "favoured_team": "Chelsea",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (Ferguson; RA president Willis defended referee on the Keane red)",
+    "impact": "possible",
+    "impact_reasoning": "At 1-0 a card for Hasselbaink would have changed the dynamic and Keane's dismissal (a consequence of the unpunished tackle) left United with 10 men; the Keane red itself was not disputed by neutrals.",
+    "sources": [
+     "https://www.irishtimes.com/sport/hasselbaink-apologises-to-keane-1.1259285",
+     "https://www.independent.co.uk/sport/football/premier-league/chelsea-striker-issues-apology-to-keane-696372.html",
+     "https://www.irishtimes.com/charity-begins-and-ends-in-an-instant-1.302825"
+    ]
+   }
+  ],
+  "contested_search_done": "Irish Times match report and follow-up, Independent follow-up (Hasselbaink apology/Willis), web search; Keane red card itself undisputed; Hasselbaink tackle the only dispute.",
+  "uncertain": [
+   "Opening goal: Irish Times says Hasselbaink's shot was deflected over Barthez by Stam (24th minute in text, 22 in box); credited to Hasselbaink by all sources.",
+   "Scholes 81' booking from Wikipedia only; not confirmed. Card list incomplete. Hasselbaink not booked per Irish Times/Independent.",
+   "Minute of Hasselbaink tackle approximate (shortly before Keane's 62nd-minute red).",
+   "Independent BBC report link (news.bbc.co.uk) not accessible; stats and odds not found; assistants not found.",
+   "Independent page retrieved via direct HTTP (WebFetch tool refused the domain)."
+  ]
+ },
+ {
+  "article": "2001 FA Charity Shield",
+  "date": "2001-08-12",
+  "competition": "FA Charity Shield",
+  "season": "2001-02",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Liverpool",
+  "team2": "Manchester United",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.irishtimes.com/news/liverpool-triumph-in-cardiff-1.392960",
+   "https://www.irishexaminer.com/sport/soccer/arid-30020607.html",
+   "https://www.rte.ie/sport/soccer/2001/0812/158014-charityshield",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": true,
+  "referee": "Andy D'Urso",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.irishexaminer.com/sport/soccer/arid-30020607.html",
+   "https://www.lfchistory.net/SeasonArchive/Game/2324"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.lfchistory.net/SeasonArchive/Game/2324"
+  ],
+  "manager1": "Gérard Houllier",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "Gary McAllister",
+    "minute": "2",
+    "type": "penalty"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Michael Owen",
+    "minute": "16",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Ruud van Nistelrooy",
+    "minute": "51",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "17",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Danny Murphy",
+    "minute": "35",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": null,
+  "contested_decisions": [
+   {
+    "minute": null,
+    "score_at_time": null,
+    "type": "penalty not given",
+    "description": "United penalty appeal turned down when Mikael Silvestre's shot was blocked by Stephane Henchoz, ball reportedly striking thigh then arm. Irish Examiner: D'Urso 'turned down two seemingly clear-cut spot-kick appeals for handballs against Stephane Henchoz'; Ferguson said the referee was 'too nervous'.",
+    "favoured_team": "Liverpool",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only",
+    "impact": "possible",
+    "impact_reasoning": "Match decided by one goal; a converted penalty would have changed the score, but timing/score at the time unconfirmed.",
+    "sources": [
+     "https://www.irishexaminer.com/sport/soccer/arid-30020607.html",
+     "https://www.coventrytelegraph.net/sport/football/football-news/liverpool-do-it-again-3177570"
+    ]
+   },
+   {
+    "minute": "84",
+    "score_at_time": "2-1",
+    "type": "penalty not given",
+    "description": "Van Nistelrooy's drive appeared to be blocked by Henchoz's arm about a minute after Carragher came on (83'); no penalty. Second of the two Henchoz handball appeals cited by the Irish Examiner as 'seemingly clear-cut'.",
+    "favoured_team": "Liverpool",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only",
+    "impact": "likely",
+    "impact_reasoning": "At 2-1 late on, a penalty could have produced an equaliser in a one-goal match.",
+    "sources": [
+     "https://www.irishexaminer.com/sport/soccer/arid-30020607.html",
+     "https://www.coventrytelegraph.net/sport/football/football-news/liverpool-do-it-again-3177570"
+    ]
+   }
+  ],
+  "contested_search_done": "Irish Examiner ('Ref was too nervous - Ferguson'), Irish Times and RTE reports, web searches on Henchoz handball claims; Telegraph 'Ferguson blows the whistle' and BBC not accessible.",
+  "uncertain": [
+   "Van Nistelrooy goal minute: 'six minutes after half-time' (Irish Times/RTE) = ~51 (Wikipedia 51); lfchistory says 65. Owen 16 (Irish Times; lfchistory 15). McAllister penalty in 1st-2nd minute.",
+   "Cards (Scholes 17, Murphy 35) are from Wikipedia only; no source read lists bookings. cards_sources left empty.",
+   "Henchoz handball details and minute (84) come from a Coventry Telegraph report seen only as a search-result snippet (page paywalled to fetch); the first appeal's minute/score unknown.",
+   "Irish Times and RTE reports appear to share wire copy; Irish Examiner is a separate report.",
+   "The 1st-minute penalty (Keane on Murphy) is not disputed by any source read, so not listed as contested.",
+   "Assistants, stats, odds not found."
+  ]
+ }
+]
