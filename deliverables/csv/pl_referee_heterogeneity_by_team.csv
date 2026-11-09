@@ -1,0 +1,37 @@
+team,matches,pts,xpts,pts_minus_xpts,refs_10plus,heterogeneity_chi2,heterogeneity_p,worst_ref,worst_z,best_ref,best_z,q_bh
+Blackburn,418,530,516.5,13.5,18,29.1,0.0477,D Gallagher,-1.7,R Styles,3.31,0.896
+Watford,266,261,281.7,-20.7,12,18.6,0.0977,C Pawson,-2.57,L Mason,1.7,0.896
+Southampton,645,741,791.2,-50.2,28,37.4,0.1093,G Scott,-2.89,M Halsey,1.45,0.896
+Man City,960,1790,1789.1,0.9,35,44.8,0.1248,R Styles,-2.03,C Foy,2.02,0.896
+Burnley,380,371,359.7,11.3,15,20.8,0.1443,M Oliver,-1.6,M Atkinson,2.91,0.896
+Sheffield United,152,131,144.2,-13.2,1,2.1,0.1493,S Attwell,-1.44,S Attwell,-1.44,0.896
+Wigan,304,331,330.4,0.6,15,19.2,0.206,L Probert,-2.01,P Dowd,2.49,0.92
+Stoke,380,457,427.2,29.8,17,20.9,0.2322,M Dean,-1.41,L Mason,1.99,0.92
+Sunderland,580,582,632.7,-50.7,22,26.1,0.2463,R Styles,-2.22,A Taylor,1.3,0.92
+Everton,998,1388,1344.4,43.6,37,40.2,0.3306,J Winter,-2.1,R Styles,3.37,0.92
+Nott'm Forest,162,192,182.3,9.7,8,9.1,0.3315,S Hooper,-1.4,S Barrott,1.86,0.92
+Norwich,266,234,262.2,-28.2,11,12.1,0.3575,K Friend,-1.77,H Webb,1.86,0.92
+Man United,998,1954,1885.4,68.6,33,35.3,0.3601,P Bankes,-1.93,M Halsey,2.11,0.92
+Bournemouth,351,423,409.9,13.1,18,19.4,0.3681,M Atkinson,-2.02,K Friend,1.9,0.92
+Brentford,200,267,247.9,19.1,7,6.9,0.4379,J Gillett,-1.13,A Madley,1.73,0.92
+Leicester,493,610,610.7,-0.7,16,16.1,0.445,S Attwell,-1.68,M Oliver,2.1,0.92
+Leeds,314,403,415.4,-12.4,13,13.0,0.4508,P Durkin,-2.41,S Dunn,1.7,0.92
+West Brom,494,490,526.4,-36.4,20,18.1,0.5811,H Webb,-2.19,N Swarbrick,1.13,0.92
+Hull,200,182,198.7,-16.7,7,5.5,0.602,M Atkinson,-1.37,A Marriner,0.25,0.92
+West Ham,874,1069,1047.3,21.7,33,30.3,0.6036,A Marriner,-1.65,C Pawson,2.1,0.92
+Liverpool,998,1902,1886.0,16.0,34,31.1,0.6106,L Mason,-1.73,G Barber,2.35,0.92
+Chelsea,998,1909,1912.2,-3.2,35,32.0,0.6124,A Madley,-1.94,A Wiley,2.24,0.92
+Tottenham,998,1587,1577.7,9.3,40,36.4,0.6335,L Probert,-2.09,N Swarbrick,1.95,0.92
+Wolves,455,497,509.5,-12.5,19,15.4,0.6976,L Mason,-1.51,C Pawson,1.86,0.92
+Birmingham,266,301,305.7,-4.7,13,9.8,0.7082,M Clattenburg,-1.3,U Rennie,1.12,0.92
+Bolton,418,506,495.0,11.0,16,12.1,0.7394,M Jones,-1.28,U Rennie,2.36,0.92
+Fulham,731,855,856.2,-1.2,29,23.7,0.7416,J Moss,-1.36,P Bankes,1.63,0.92
+Aston Villa,884,1158,1137.2,20.8,35,28.9,0.756,C Pawson,-1.28,D Coote,1.9,0.92
+Swansea,266,312,307.3,4.7,15,10.8,0.7672,L Mason,-1.17,A Marriner,1.78,0.92
+Crystal Palace,541,633,612.2,20.8,22,16.8,0.7723,M Clattenburg,-1.69,L Mason,1.76,0.92
+Arsenal,998,1962,1887.2,74.8,35,27.8,0.8023,U Rennie,-1.42,C Foy,2.12,0.92
+Brighton,352,455,459.8,-4.8,17,11.7,0.8176,M Atkinson,-1.4,A Madley,1.4,0.92
+Charlton,266,325,311.2,13.8,11,5.9,0.8781,M Halsey,-1.24,G Poll,1.18,0.958
+Portsmouth,266,302,308.0,-6.0,12,6.0,0.9174,H Webb,-0.95,M Halsey,1.28,0.971
+Newcastle,922,1231,1205.7,25.3,33,20.6,0.9551,M Jones,-1.69,K Friend,1.88,0.982
+Middlesbrough,380,432,464.1,-32.1,17,7.1,0.9825,C Foy,-1.44,R Styles,0.95,0.982
