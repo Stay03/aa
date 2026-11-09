@@ -1,0 +1,573 @@
+[
+ {
+  "article": "1996 FA Cup final",
+  "date": "1996-05-11",
+  "competition": "FA Cup",
+  "season": "1995-96",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Liverpool",
+  "team2": "Manchester United",
+  "score_90": "0-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.rsssf.org/tablese/engcuphistfinal.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=259040",
+   "https://www.lfchistory.net/SeasonArchive/Game/2068"
+  ],
+  "core_verified": true,
+  "referee": "Dermot Gallagher",
+  "referee_nationality": null,
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.rsssf.org/tablese/engcuphistfinal.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=259040",
+   "https://www.lfchistory.net/SeasonArchive/Game/2068"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Roy Evans",
+  "manager2": "Alex Ferguson",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Eric Cantona",
+    "minute": "85",
+    "type": "open play"
+   }
+  ],
+  "cards": [],
+  "cards_complete": false,
+  "cards_sources": [],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No match statistics found in non-Wikipedia sources reachable."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "RSSSF, Soccerbase, LFChistory match page, Independent aftermath article (spitting incident); no refereeing dispute documented in any source found. BBC/Guardian archives were not reachable and web-search budget ran out, so no contemporaneous full match report was read.",
+  "uncertain": [
+   "Cards: Wikipedia lineup lists Jamie Redknapp Y40, Phil Babb Y60 (Liverpool) and Phil Neville Y69 (Man Utd); not confirmed by any non-Wikipedia source found, so cards left empty and cards_complete=false.",
+   "Referee nationality left null: Gallagher refereed for The FA (Wikipedia lists him under Oxfordshire FA); some sources describe him as Irish-born - not verified here.",
+   "Goal type 'open play' (volley after a cleared corner) based on search-result summaries of several reports, not a fetched primary report.",
+   "Absences not researched successfully (no source found).",
+   "Assistant referees / fourth official not found in any source."
+  ]
+ },
+ {
+  "article": "1997 FA Cup final",
+  "date": "1997-05-17",
+  "competition": "FA Cup",
+  "season": "1996-97",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Middlesbrough",
+  "score_90": "2-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.rsssf.org/tablese/engcuphistfinal.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=259037",
+   "https://www.chelseafc.com/en/news/article/fa-cup-final-memories-1997"
+  ],
+  "core_verified": true,
+  "referee": "Stephen Lodge",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.rsssf.org/tablese/engcuphistfinal.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=259037"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Ruud Gullit",
+  "manager2": "Bryan Robson",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Roberto Di Matteo",
+    "minute": "1",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Eddie Newton",
+    "minute": "83",
+    "type": "open play"
+   }
+  ],
+  "cards": [],
+  "cards_complete": false,
+  "cards_sources": [],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable non-Wikipedia match statistics found."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "RSSSF, Soccerbase, Chelsea FC official retrospective, Gazette (Teesside) retrospective; no refereeing dispute documented. No contemporaneous full match report reachable (BBC/Guardian blocked; web-search budget exhausted).",
+  "uncertain": [
+   "Di Matteo goal timed at 43 seconds by Chelsea FC (42 seconds per some other sites); recorded as minute 1.",
+   "Referee nationality 'English' assumed from FA registration (Wikipedia: South Yorkshire); no source explicitly states nationality.",
+   "No bookings listed by Wikipedia and none confirmed or denied by other sources; cards_complete=false.",
+   "Chelsea official site describes Wise as captain and Chelsea as favourites ('we were the favourites') but no bookmaker odds found."
+  ]
+ },
+ {
+  "article": "1998 FA Cup final",
+  "date": "1998-05-16",
+  "competition": "FA Cup",
+  "season": "1997-98",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Newcastle United",
+  "score_90": "2-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.independent.co.uk/sport/football-cup-final-the-double-cream-team-1158947.html",
+   "https://www.rsssf.org/tablese/engcuphistfinal.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=259036"
+  ],
+  "core_verified": true,
+  "referee": "Paul Durkin",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.rsssf.org/tablese/engcuphistfinal.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=259036"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Arsène Wenger",
+  "manager2": "Kenny Dalglish",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Marc Overmars",
+    "minute": "23",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Nicolas Anelka",
+    "minute": "69",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Newcastle United",
+    "player": "Alan Shearer",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Warren Barton",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Nikos Dabizas",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Steve Howey",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Nigel Winterburn",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.independent.co.uk/sport/football-cup-final-the-double-cream-team-1158947.html"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Wikipedia infobox stats table (Arsenal-Newcastle: possession 48%-52%, attempts 13-10, on target 3-1, fouls 18-14) not verified against a non-Wikipedia source; left null."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Dennis Bergkamp (hamstring injury)"
+   ],
+   "team2": [
+    "Keith Gillespie (ankle ligament injury)"
+   ],
+   "sources": [
+    "https://www.independent.co.uk/sport/football-cup-final-the-double-cream-team-1158947.html"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "Independent match report (Glenn Moore) and Independent quotes piece read in full; Shearer post, Dabizas header on bar noted but no refereeing decision described as disputed. RSSSF, Soccerbase checked.",
+  "uncertain": [
+   "Card minutes unknown from the Independent narrative (Shearer at end of first half; Barton and Dabizas soon after half-time; Howey later; Winterburn after those). Wikipedia gives Shearer 45, Barton 48, Winterburn 51, Dabizas 53, Howey 70 - not independently verified, so minutes left null.",
+   "Overmars goal: Independent header says 24th minute; RSSSF/Soccerbase/Wikipedia say 23. Recorded 23.",
+   "Durkin's nationality 'English' assumed from FA registration (Wikipedia: Dorset)."
+  ]
+ },
+ {
+  "article": "1999 FA Cup final",
+  "date": "1999-05-22",
+  "competition": "FA Cup",
+  "season": "1998-99",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester United",
+  "team2": "Newcastle United",
+  "score_90": "2-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.rsssf.org/tablese/engcuphistfinal.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=258905",
+   "https://www.skysports.com/football/news/11667/11724746/manchester-uniteds-199899-treble-how-teddy-sheringhams-frustration-turned-to-joy"
+  ],
+  "core_verified": true,
+  "referee": "Peter Jones",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.rsssf.org/tablese/engcuphistfinal.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=258905"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Alex Ferguson",
+  "manager2": "Ruud Gullit",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Teddy Sheringham",
+    "minute": "11",
+    "type": "unknown"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "53",
+    "type": "unknown"
+   }
+  ],
+  "cards": [],
+  "cards_complete": false,
+  "cards_sources": [],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable non-Wikipedia match statistics found."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "RSSSF, Soccerbase, Sky Sports treble retrospective; no refereeing dispute documented. No contemporaneous full match report reachable (BBC/Guardian blocked; web-search budget exhausted).",
+  "uncertain": [
+   "Cards: Wikipedia lists Dietmar Hamann (Newcastle) Y5 only; not confirmed elsewhere, so not recorded; cards_complete=false.",
+   "Goal types not confirmed from a fetched report (recorded 'unknown').",
+   "Absences not verified from any source found. Note (RSSSF line-up): Keane started but was replaced by Sheringham early on (injury per common accounts, not verified here).",
+   "Referee nationality 'English' assumed from FA registration (Wikipedia: Leicestershire)."
+  ]
+ },
+ {
+  "article": "2000 FA Cup final",
+  "date": "2000-05-20",
+  "competition": "FA Cup",
+  "season": "1999-2000",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Aston Villa",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.rte.ie/sport/soccer/2000/0520/149476-soccer1/",
+   "https://lasvegassun.com/news/2000/may/21/chelsea-1-aston-villa-0/",
+   "https://www.rsssf.org/tablese/engcuphistfinal.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=283617"
+  ],
+  "core_verified": true,
+  "referee": "Graham Poll",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.rsssf.org/tablese/engcuphistfinal.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=283617"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Gianluca Vialli",
+  "manager2": "John Gregory",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Roberto Di Matteo",
+    "minute": "73",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Dennis Wise",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://www.rte.ie/sport/soccer/2000/0520/149476-soccer1/"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable non-Wikipedia match statistics found."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Albert Ferrer (twisted ankle)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.chelseafc.com/en/news/article/chelsea-fa-cup-final-memories-2000-seeing-wembley-off-in-style"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "RTÉ match report, AP report (Las Vegas Sun), Chelsea FC official retrospective. Wise 'goal' on 53' ruled out for Weah offside, but RTÉ explicitly says 'correctly ruled offside' - not a contested decision. No other dispute found.",
+  "uncertain": [
+   "Di Matteo goal minute: Soccerbase/RSSSF/Wikipedia 73; AP says 72nd minute; Chelsea FC '17 minutes remaining'. Recorded 73. Goal was a scramble after David James failed to hold Zola's free-kick (recorded as open play).",
+   "Cards: only Wise's booking (around 20 min after a Boateng tackle on him) confirmed by RTÉ. Wikipedia also lists Melchiot Y18, Wise Y28, Poyet Y90 (Chelsea) and Barry Y16, Boateng Y90 (Villa) - unverified.",
+   "Referee nationality 'English' assumed from FA registration (Wikipedia: Hertfordshire)."
+  ]
+ },
+ {
+  "article": "2000 UEFA Cup final",
+  "date": "2000-05-17",
+  "competition": "UEFA Cup",
+  "season": "1999-2000",
+  "venue": "Parken Stadium",
+  "city": "Copenhagen",
+  "team1": "Galatasaray",
+  "team2": "Arsenal",
+  "score_90": "0-0",
+  "score_aet": "0-0",
+  "shootout": "4-1",
+  "winner": "Galatasaray",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=64414 (UEFA.com match data API)",
+   "https://www.rsssf.org/ec/ec199900.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=301788",
+   "https://www.rte.ie/sport/soccer/2000/0517/149442-euro1/"
+  ],
+  "core_verified": true,
+  "referee": "Antonio Jesús López Nieto",
+  "referee_nationality": "Spanish",
+  "referee_association": "RFEF (Spain)",
+  "referee_sources": [
+   "https://www.rsssf.org/ec/ec199900.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=301788"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Fatih Terim",
+  "manager2": "Arsène Wenger",
+  "goals": [],
+  "cards": [
+   {
+    "team": "Galatasaray",
+    "player": "Gheorghe Hagi",
+    "minute": "94",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Tony Adams",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://match.uefa.com/v5/matches?matchId=64414 (UEFA.com match data API)",
+   "https://www.rsssf.org/ec/ec199900.html",
+   "https://www.albawaba.net/news/penalty-shoot-out-crowned-galatasaray-uefa-cup"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable non-Wikipedia match statistics found."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Freddie Ljungberg (rib injury)"
+   ],
+   "sources": [
+    "http://www.cbc.ca/sports/soccer/gunners-favoured-over-galatasaray-in-uefa-cup-final-1.210706"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "94",
+    "score_at_time": "0-0",
+    "type": "red card given",
+    "description": "Hagi sent off early in extra time after a tussle with Tony Adams (Adams only booked). RTÉ: Galatasaray 'slightly unfortunate to have Hagi sent-off when involved in a tussle with Tony Adams, who was lucky to stay on the pitch'. Hagi called it 'a very important decision'; Wenger said it was not a huge advantage.",
+    "favoured_team": "Arsenal",
+    "against_team": "Galatasaray",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager/player comments only (RTÉ report; Hagi and Wenger quotes)",
+    "impact": "possible",
+    "impact_reasoning": "Man advantage for Arsenal for ~26 minutes of extra time (golden goal) at 0-0; Galatasaray still won on penalties, so it did not change the outcome, but it could have.",
+    "sources": [
+     "https://www.rte.ie/sport/soccer/2000/0517/149442-euro1/",
+     "https://www.albawaba.net/news/penalty-shoot-out-crowned-galatasaray-uefa-cup"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA match data, RSSSF, Soccerbase, RTÉ report, Al Bawaba (agency) report, CBC preview. Only dispute found: Hagi dismissal / Adams not dismissed.",
+  "uncertain": [
+   "This final is not an FA Cup final (batch input mislabelled competition as 'FA Cup'); it may also appear in another batch (UEFA Cup) - possible duplicate.",
+   "Hagi red-card minute: UEFA 94, RSSSF 94, Soccerbase 93. Recorded 94. Type of red (straight vs second yellow) inferred as straight red (UEFA lists redCards; RSSSF 'Red card: Hagi 94'); Wikipedia also says R.",
+   "Adams booking minute not given by sources (same incident, ~94).",
+   "Other yellow cards listed by Wikipedia (Capone 71, Popescu 63, Bülent 18, Okan 12, Arif 48, Hasan Şaş 119; Keown 40, Vieira 23) not verified - cards_complete=false.",
+   "Shootout: Galatasaray scored Ergün, Hakan Şükür, Ümit Davala, Popescu; Arsenal: Parlour scored, Suker (post) and Vieira (bar) missed (UEFA data, Al Bawaba, RTÉ).",
+   "Assistants (Wikipedia: Fernando Tresaco Gracia, Victoriano Giráldez Carrasco) and fourth official (Arturo Daudén Ibáñez) not verified by a second source - left null.",
+   "CBC preview calls Arsenal 'the favourite' but gives no odds.",
+   "Referee also known as Antonio López Nieto; RSSSF prints 'Jesús López Nieto'."
+  ]
+ }
+]

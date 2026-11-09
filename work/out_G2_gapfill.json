@@ -1,0 +1,527 @@
+[
+ {
+  "article": "2021 UEFA Europa League final",
+  "date": "2021-05-26",
+  "competition": "UEFA Europa League",
+  "season": "2020-21",
+  "venue": "Stadion Energa Gdańsk (Arena Gdańsk)",
+  "city": "Gdańsk",
+  "team1": "Villarreal",
+  "team2": "Manchester United",
+  "score_90": "1-1",
+  "score_aet": "1-1",
+  "shootout": "11-10",
+  "winner": "Villarreal",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2021/2029909_FR.pdf",
+   "https://www.rsssf.org/ec/ec202021.html",
+   "https://www.uefa.com/uefaeuropaleague/news/0269-125f1aaaeb0d-c59e8a06ac14-1000--villarreal-1-1-manchester-united-aet-11-10-pens-spanish-side/"
+  ],
+  "core_verified": true,
+  "referee": "Clément Turpin",
+  "referee_nationality": "French",
+  "referee_association": "FFF (France)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2021/2029909_FR.pdf",
+   "https://www.rsssf.org/ec/ec202021.html"
+  ],
+  "assistants": "Nicolas Danos; Cyril Gringore (both French)",
+  "fourth_official": "Slavko Vinčić (Slovenian)",
+  "var_officials": "VAR: François Letexier (French); AVAR: Jérôme Brisard (French), Benjamin Pagès (French), Pol van Boekel (Dutch)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2021/2029909_FR.pdf"
+  ],
+  "manager1": "Unai Emery",
+  "manager2": "Ole Gunnar Solskjær",
+  "goals": [
+   {
+    "team": "Villarreal",
+    "player": "Gerard Moreno",
+    "minute": "29",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Edinson Cavani",
+    "minute": "55",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Villarreal",
+    "player": "Étienne Capoue",
+    "minute": "54",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Eric Bailly",
+    "minute": "82",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Villarreal",
+    "player": "Juan Foyth",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Edinson Cavani",
+    "minute": "113",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2021/2029909_FR.pdf"
+  ],
+  "stats": {
+   "shots1": 12,
+   "shots2": 14,
+   "sot1": 1,
+   "sot2": 2,
+   "poss1": 43,
+   "poss2": 57,
+   "fouls1": 10,
+   "fouls2": 15,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/uefacup/2021/2029909_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report totals INCLUDING extra time (120 min). 90-minute figures from the same report: attempts 8-13, on target 1-2, fouls 9-11. No named-provider xG located. xG: Coaches' Voice match analysis lists 1.07 (Villarreal) v 1.45 (Man Utd) but credits no provider, so not recorded."
+  },
+  "odds": {
+   "team1": 5.0,
+   "draw": 3.6,
+   "team2": 1.91,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Betfair, quoted in Evening Standard preview (George Flood, 26 May 2021)",
+   "source": "https://sg.finance.yahoo.com/news/villarreal-vs-manchester-united-europa-173510338.html",
+   "note": "Fractional 4/1 Villarreal, 13/5 draw, 10/11 Man Utd (90 min), 'subject to change'; matchday snapshot. Cross-check: Meridianbet via MaltaToday 4.30 / 3.45 / 1.93 (https://www.maltatoday.com.mt/sports/football/109867/villarreal_greet_united_for_a_highpressure_final_ , not opened directly, seen in search snippet)."
+  },
+  "absences": {
+   "team1": [
+    "Vicente Iborra (knee injury)",
+    "Samuel Chukwueze (quad/hamstring injury; not in matchday squad)"
+   ],
+   "team2": [
+    "Anthony Martial (knee injury)",
+    "Phil Jones (knee injury)",
+    "Harry Maguire (ankle ligament injury; named as unused substitute, not fit to start)"
+   ],
+   "sources": [
+    "https://www.sportsmole.co.uk/football/villarreal/europa-league/team-news/villarreal-vs-man-utd-injury-suspension-list-predicted-xis_448847.html",
+    "https://www.skysports.com/football/news/11667/12316094/harry-maguire-named-in-manchester-united-squad-for-europa-league-final-against-villarreal",
+    "https://www.uefa.com/newsfiles/uefacup/2021/2029909_FR.pdf"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA Full Time Report; UEFA match report; Sky Sports match report; The42 live blog (Gavin Cooney); Irish Times report; web searches for VAR/offside/penalty controversy and Turpin criticism. VAR checks found: Greenwood penalty appeal after Pedraza challenge (~50', no penalty, VAR backed referee; Sky called it 'a faint penalty appeal'), offside check on Cavani's 55' equaliser (goal stood; Sky: Cavani 'had done extremely well to get back onside'), and an extra-time handball check on Fred (no penalty, The42). Moreno's goal described as 'well onside' (The42). No source found describing any of these as wrong or controversial; no ESPN/Dale Johnson or UEFA statement on the match found. Guardian/BBC not consulted (blocked for WebFetch). Recorded none.",
+  "uncertain": [
+   "Gerard Moreno goal came from a Parejo free kick delivered into the box (flick/finish); recorded type 'open play' as it was not a direct free kick.",
+   "Shootout: all first 21 kicks scored; De Gea (Man Utd 11th) saved by Rulli (UEFA FTR, RSSSF).",
+   "Attendance 9,412 (UEFA) vs 9,400 (RSSSF); reduced capacity due to COVID-19.",
+   "GLT not confirmed by a source for this match; null.",
+   "Greenwood/Pedraza penalty appeal (~50', 1-0) checked by VAR and not given; only described as 'faint' (Sky) / 'not sufficiently wrong' (The42), not as an error, so not recorded as contested.",
+   "Fred handball VAR check in extra time (no penalty) reported only by The42 live blog; not described as disputed; not recorded.",
+   "Chukwueze/Foyth were listed as doubts pre-match (Sports Mole); Foyth started; Chukwueze absent from UEFA team sheet (reason inferred from pre-match injury reports).",
+   "Guardian/BBC reports not consulted (domain blocked for WebFetch)."
+  ]
+ },
+ {
+  "article": "2025 UEFA Europa League final",
+  "date": "2025-05-21",
+  "competition": "UEFA Europa League",
+  "season": "2024-25",
+  "venue": "San Mamés",
+  "city": "Bilbao",
+  "team1": "Tottenham Hotspur",
+  "team2": "Manchester United",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Tottenham Hotspur",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2025/2044465_FR.pdf",
+   "https://www.rsssf.org/ec/ec202425.html",
+   "https://www.skysports.com/football/news/11675/13372221/tottenham-win-the-europa-league-ange-postecoglou-says-first-trophy-in-17-years-will-help-to-change-club"
+  ],
+  "core_verified": true,
+  "referee": "Felix Zwayer",
+  "referee_nationality": "German",
+  "referee_association": "DFB (Germany)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2025/2044465_FR.pdf",
+   "https://www.rsssf.org/ec/ec202425.html"
+  ],
+  "assistants": "Robert Kempter; Christian Dietz (both German)",
+  "fourth_official": "Maurizio Mariani (Italian); reserve official Daniele Bindoni (Italian)",
+  "var_officials": "VAR: Bastian Dankert (German); AVAR: Benjamin Brand (German); VAR support: Carlos del Cerro Grande (Spanish)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2025/2044465_FR.pdf"
+  ],
+  "manager1": "Ange Postecoglou",
+  "manager2": "Ruben Amorim",
+  "goals": [
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Brennan Johnson",
+    "minute": "42",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Amad Diallo",
+    "minute": "35",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Micky van de Ven",
+    "minute": "49",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Richarlison",
+    "minute": "58",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Yves Bissouma",
+    "minute": "68",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Joshua Zirkzee",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Harry Maguire",
+    "minute": "88",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Jonny Evans (unused substitute)",
+    "minute": "90+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/uefacup/2025/2044465_FR.pdf",
+   "https://www.uefa.com/newsfiles/uefacup/2025/2044465_TS.pdf"
+  ],
+  "stats": {
+   "shots1": 3,
+   "shots2": 15,
+   "sot1": 1,
+   "sot2": 4,
+   "poss1": 35,
+   "poss2": 65,
+   "fouls1": 22,
+   "fouls2": 10,
+   "xg1": null,
+   "xg2": 0.97,
+   "source": "https://www.uefa.com/newsfiles/uefacup/2025/2044465_TS.pdf",
+   "xg_source": "https://theanalyst.com/2025/05/tottenham-man-utd-europa-league-final-debrief",
+   "note": "UEFA Full Time Report / Team Statistics. UEFA TS PDF has no xG; no other named-provider xG located. xG: Opta (The Analyst debrief) gives Man Utd 0.97 xG from 16 shots; Spurs xG not stated by Opta, so xg1 null. Conflicting figures: FotMob article says Man Utd 0.85; Sports Mole says Spurs 1.01 v Man Utd 0.85 (no provider credited)."
+  },
+  "odds": {
+   "team1": 3.3,
+   "draw": 3.2,
+   "team2": 2.2,
+   "team1_to_lift": 1.91,
+   "team2_to_lift": 1.8,
+   "bookmaker_or_source": "1X2: CBS Sports preview (US moneyline, sportsbook not named), 21 May 2025; to lift: Sky Bet via Sky Sports betting preview, 21 May 2025",
+   "source": "https://www.cbssports.com/soccer/news/man-united-vs-tottenham-odds-free-2025-uefa-europa-league-final-picks-prediction-for-wednesday-may-21",
+   "note": "CBS: Spurs +230, draw +220, Man Utd +120. Sky Bet (https://www.skysports.com/share/13370157): Man Utd 4/5, Spurs 10/11 to lift. The same Sky piece quotes 90-min odds 'United at 7/4 and Spurs at 29/20', which conflicts with both its own lift prices and CBS; not used. Opta supercomputer had the final 50/50."
+  },
+  "absences": {
+   "team1": [
+    "Dejan Kulusevski (knee injury)",
+    "James Maddison (knee injury)",
+    "Lucas Bergvall (ankle injury)",
+    "Radu Drăgușin (ACL injury)",
+    "Timo Werner (hamstring injury)"
+   ],
+   "team2": [
+    "Lisandro Martínez (knee injury)",
+    "Matthijs de Ligt (knee injury)"
+   ],
+   "sources": [
+    "https://www.sportsmole.co.uk/football/spurs/europa-league/team-news/spurs-vs-man-utd-injury-suspension-list-predicted-xis_572991.html",
+    "https://www.uefa.com/newsfiles/uefacup/2025/2044465_FR.pdf"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "90+6",
+    "score_at_time": "1-0",
+    "type": "penalty not given",
+    "description": "Late Man Utd penalty appeal in a goalmouth scramble (Virgilio: Casemiro went down in the box, 96'); Zwayer waved it away, no VAR intervention reported.",
+    "favoured_team": "Tottenham Hotspur",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/live-blog comments only (Sporza live blog; Fabrizio Piccolo, Virgilio Sport moviola)",
+    "impact": "possible",
+    "impact_reasoning": "Came at 1-0 in stoppage time; a penalty could have taken the final to extra time, but no source says the decision was clearly wrong.",
+    "sources": [
+     "https://sporza.be/nl/sport/voetbal/~3330276/",
+     "https://sport.virgilio.it/tottenham-manchester-united-moviola-zwayer-vede-solo-quel-che-gli-pare-quante-sviste-909637"
+    ]
+   },
+   {
+    "minute": "84",
+    "score_at_time": "1-0",
+    "type": "other",
+    "description": "Joshua Zirkzee booked for a challenge on Destiny Udogie; Sky Sport Germany live blog: 'unlucky and wrong decision by Zwayer'.",
+    "favoured_team": "Tottenham Hotspur",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (Sky Sport Germany live blog)",
+    "impact": "none",
+    "impact_reasoning": "A yellow card with no follow-on effect on play or the result.",
+    "sources": [
+     "https://sport.sky.de/fussball/tottenham-vs-man-united/live/528776"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA Full Time Report/Team Statistics/match report; Sky Sports report; Sky Sport Germany live blog (says VAR 'was not needed at all'; Zwayer 'not error-free'); Sporza live blog; Virgilio Sport moviola; The Analyst; FotMob; web searches for handball on the goal, penalty claims, Zwayer criticism, ESPN Dale Johnson. No source reports a VAR check or handball issue on Johnson's goal. English pre-match criticism of Zwayer's appointment (Hoyzer scandal) concerned his past, not decisions in this match. Guardian/BBC not consulted (blocked).",
+  "uncertain": [
+   "Jonny Evans booked as an unused substitute in stoppage time (UEFA FTR); '90+2' minute from Wikipedia.",
+   "Johnson goal: UEFA credits Johnson; ball deflected off Luke Shaw before Johnson's final touch.",
+   "GLT not confirmed for this match; null.",
+   "No VAR check on the goal found; Sky Germany says VAR was not needed at all in the match.",
+   "Contested decisions are minor and from single/non-English journalist sources; no English expert review found. Not recorded (single source, implied criticism only): Virgilio implied missed penalty for Porro challenge on Shaw (77'), no card for Van de Ven's late foul on Højlund (39'), and missed fouls; Sky Germany said a 3' Spurs corner and 63' missed free-kick for Johnson were wrong.",
+   "Late Man Utd penalty appeal: Sporza gives 90+6 without naming the player; Virgilio names Casemiro at 96'; assumed same incident.",
+   "Pape Matar Sarr listed doubtful (back) pre-match but started. Absences from one pre-match source (Sports Mole), checked against UEFA team sheet (none in matchday squad)."
+  ]
+ },
+ {
+  "article": "2025 UEFA Conference League final",
+  "date": "2025-05-28",
+  "competition": "UEFA Conference League",
+  "season": "2024-25",
+  "venue": "Stadion Wrocław (Tarczyński Arena)",
+  "city": "Wrocław",
+  "team1": "Real Betis",
+  "team2": "Chelsea",
+  "score_90": "1-4",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2025/2044464_FR.pdf",
+   "https://www.rsssf.org/ec/ec202425.html",
+   "https://www.uefa.com/uefaconferenceleague/news/0299-1dde1ba33803-6370dd142717-1000/"
+  ],
+  "core_verified": true,
+  "referee": "Irfan Peljto",
+  "referee_nationality": "Bosnian (Bosnia and Herzegovina)",
+  "referee_association": "NFSBiH (Bosnia and Herzegovina)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2025/2044464_FR.pdf",
+   "https://www.rsssf.org/ec/ec202425.html"
+  ],
+  "assistants": "Davor Beljo; Senad Ibrišimbegović (both Bosnia and Herzegovina)",
+  "fourth_official": "Halil Umut Meler (Turkish); reserve official Kerem Ersoy (Turkish)",
+  "var_officials": "VAR: Jérôme Brisard (French); AVAR: Willy Delajod (French); VAR support: Marco Di Bello (Italian)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2025/2044464_FR.pdf"
+  ],
+  "manager1": "Manuel Pellegrini",
+  "manager2": "Enzo Maresca",
+  "goals": [
+   {
+    "team": "Real Betis",
+    "player": "Abde Ezzalzouli",
+    "minute": "9",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Enzo Fernández",
+    "minute": "65",
+    "type": "header"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Nicolas Jackson",
+    "minute": "70",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Jadon Sancho",
+    "minute": "83",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Moisés Caicedo",
+    "minute": "90+1",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Benoît Badiashile",
+    "minute": "55",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Cole Palmer",
+    "minute": "79",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Jadon Sancho",
+    "minute": "85",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Real Betis",
+    "player": "Antony",
+    "minute": "88",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Real Betis",
+    "player": "Romain Perraud",
+    "minute": "90+5",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2025/2044464_FR.pdf",
+   "https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2025/2044464_TS.pdf"
+  ],
+  "stats": {
+   "shots1": 13,
+   "shots2": 11,
+   "sot1": 3,
+   "sot2": 7,
+   "poss1": 36,
+   "poss2": 64,
+   "fouls1": 16,
+   "fouls2": 12,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2025/2044464_TS.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report / Team Statistics. UEFA TS PDF has no xG; no other named-provider xG located."
+  },
+  "odds": {
+   "team1": 4.3,
+   "draw": 3.15,
+   "team2": 1.83,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "CBS Sports preview (US moneyline; sportsbook not named), 28 May 2025",
+   "source": "https://www.cbssports.com/soccer/news/real-betis-vs-chelsea-odds-prediction-time-free-2025-uefa-europa-conference-league-final-expert-picks",
+   "note": "Betis +330, draw +215, Chelsea -120 (90 min). Snapshot uncertainty: a search snippet of an earlier CBS version showed +320 / +225 / -120; bet365 quoted Chelsea 4/5 (1.80) to win in 90 min (Flashscore https://www.flashscore.co.uk/news/football-conference-league-chelsea-v-betis-conference-league-final-betting-predictions-and-best-bets/AJcckEL0/). Opta supercomputer (not odds): Chelsea 51.1%, Betis 25.4%, ET 23.5% (theanalyst.com)."
+  },
+  "absences": {
+   "team1": [
+    "Héctor Bellerín (hamstring injury)",
+    "Marc Roca (foot injury)",
+    "Diego Llorente (hamstring injury)",
+    "Chimy Ávila (hamstring injury)"
+   ],
+   "team2": [
+    "Wesley Fofana (hamstring injury; also not registered for UECL)",
+    "Romeo Lavia (not registered for UECL)",
+    "Aaron Anselmino (injury; not registered for UECL)",
+    "Mykhailo Mudryk (provisionally suspended)",
+    "Omari Kellyman (hamstring injury)"
+   ],
+   "sources": [
+    "https://www.sportsmole.co.uk/football/chelsea/europa-conference-league/team-news/betis-vs-chelsea-injury-suspension-list-predicted-xis_573579.html",
+    "https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2025/2044464_FR.pdf"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "56",
+    "score_at_time": "1-0",
+    "type": "penalty not given",
+    "description": "Challenge by Betis goalkeeper Adrián on Nicolas Jackson in the box; VAR check, no penalty (corner given). Virgilio calls it an 'intervento dubbio' (dubious challenge); a Chelsea fan live blog called no penalty 'probably correct'.",
+    "favoured_team": "Real Betis",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (Fabrizio Piccolo, Virgilio Sport moviola)",
+    "impact": "none",
+    "impact_reasoning": "Came at 1-0 to Betis and could in principle have mattered, but Chelsea went on to win 4-1, so the non-award did not change the result.",
+    "sources": [
+     "https://www.virgilio.it/sport/betis-chelsea-moviola-manca-un-rigore-che-poteva-cambiare-tutto-nei-25-di-follia-della-ripresa-910670"
+    ]
+   },
+   {
+    "minute": "87",
+    "score_at_time": "1-3",
+    "type": "penalty not given",
+    "description": "Betis protested a handball by Reece James in the Chelsea area; play continued. Virgilio's moviola headline says a missed penalty 'could have changed everything' but does not clearly say which incident.",
+    "favoured_team": "Chelsea",
+    "against_team": "Real Betis",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (Virgilio Sport moviola)",
+    "impact": "none",
+    "impact_reasoning": "Chelsea led 3-1 at 87'; a converted penalty would still have left Betis behind.",
+    "sources": [
+     "https://www.virgilio.it/sport/betis-chelsea-moviola-manca-un-rigore-che-poteva-cambiare-tutto-nei-25-di-follia-della-ripresa-910670"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA Full Time Report and match report; Virgilio Sport moviola (referee review); Sports Mole, Flashscore, CBS previews; web searches for Peljto/VAR/penalty controversy. Guardian MBM (seen only as a search snippet via inkl; Guardian blocked for WebFetch) noted a Betis player going down after 'contact from behind' with no penalty and no VAR intervention ('who knows what referees think any more'), minute/player unknown, so not recorded separately. No ESPN Dale Johnson piece, UEFA statement, or manager complaint (Pellegrini) about refereeing found.",
+  "uncertain": [
+   "Jackson goal minute: UEFA FTR 70', UEFA report article says 71'; 70 recorded.",
+   "Perraud booking in stoppage time (UEFA FTR shows after 90'); '90+5' from Wikipedia.",
+   "GLT not confirmed for this match; null.",
+   "Ezzalzouli went off injured (ankle sprain) at 53' per UEFA.",
+   "Both contested decisions come from a single source (Virgilio Sport, Italian portal); no English-language expert review found.",
+   "Unidentified Betis penalty appeal mentioned in Guardian MBM (search snippet only) not recorded; may or may not be the 87' James handball claim.",
+   "Absences from one pre-match source (Sports Mole), checked against the UEFA team sheet (none of them is in the matchday squad). Lo Celso (doubtful) was on the bench; Nkunku (doubtful) on bench.",
+   "xG: no named-provider match total found (365scores shows 0.15 xG for Ezzalzouli's goal only)."
+  ]
+ }
+]
