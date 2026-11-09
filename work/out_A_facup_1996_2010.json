@@ -569,5 +569,1438 @@
    "CBC preview calls Arsenal 'the favourite' but gives no odds.",
    "Referee also known as Antonio López Nieto; RSSSF prints 'Jesús López Nieto'."
   ]
+ },
+ {
+  "article": "2001 FA Cup final",
+  "date": "2001-05-12",
+  "competition": "FA Cup",
+  "season": "2000-01",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Arsenal",
+  "team2": "Liverpool",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.rte.ie/sport/soccer/2001/0512/155935-cupfinal/",
+   "https://www.rsssf.org/tablese/engcup01.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=307178",
+   "https://bootroom.liverpoolfc.com/history/timeline/1996-present/owen-wins-cup-against-arsenal"
+  ],
+  "core_verified": true,
+  "referee": "Steve Dunn",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.rsssf.org/tablese/engcup01.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=307178"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Arsène Wenger",
+  "manager2": "Gérard Houllier",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Freddie Ljungberg",
+    "minute": "72",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Michael Owen",
+    "minute": "83",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Michael Owen",
+    "minute": "88",
+    "type": "open play"
+   }
+  ],
+  "cards": [],
+  "cards_complete": false,
+  "cards_sources": [],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Wikipedia stats table (possession 47-53, on target 7-4, fouls 18-17) not verified against a non-Wikipedia source; left null."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "17",
+    "score_at_time": "0-0",
+    "type": "penalty not given",
+    "description": "Thierry Henry's goalbound shot (from Ljungberg's pass) was handled at the near post by Stéphane Henchoz; referee and assistant missed it - no penalty, not even a corner. Under the laws of the time a deliberate handball denying a goal would also have meant a red card.",
+    "favoured_team": "Liverpool",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/player comments only (RTÉ report: 'should have been awarded a spot-kick'; Planet Football: Henchoz 'lucky to escape a red card'; Liverpool's Emile Heskey: 'they would have had a penalty and we may have had a sending off')",
+    "impact": "likely",
+    "impact_reasoning": "At 0-0 in a match Liverpool won by one goal, the decision denied Arsenal a penalty and probably a man advantage for ~73 minutes.",
+    "sources": [
+     "https://www.rte.ie/sport/soccer/2001/0512/155935-cupfinal/",
+     "https://www.planetfootball.com/in-depth/emile-heskey-liverpool-were-very-lucky-to-beat-arsenal-in-2001-cup-final"
+    ]
+   }
+  ],
+  "contested_search_done": "RTÉ match report, Planet Football (Heskey interview), FourFourTwo (Babbel interview), LFC official timeline, RSSSF, Soccerbase. Henchoz handball is the only dispute found (Wikipedia also cites a Mirror piece 'Wenger: Ref Dunn us right in', not reachable).",
+  "uncertain": [
+   "Cards: Wikipedia lists Ljungberg Y62 (Arsenal) and Hamann Y57 (Liverpool); not confirmed by any reachable source; cards_complete=false.",
+   "No refereeing-expert assessment of the Henchoz handball found; 'genuinely debatable' used per brief, although every source found says it should have been a penalty.",
+   "Owen's 83' equaliser came from a McAllister free-kick knocked down by Babbel (RTÉ) - recorded as open play.",
+   "Referee nationality 'English' per RSSSF 'Steve Dunn (England)'."
+  ]
+ },
+ {
+  "article": "2001 UEFA Cup final",
+  "date": "2001-05-16",
+  "competition": "UEFA Cup",
+  "season": "2000-01",
+  "venue": "Westfalenstadion",
+  "city": "Dortmund",
+  "team1": "Liverpool",
+  "team2": "Alavés",
+  "score_90": "4-4",
+  "score_aet": "5-4",
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=67741 (UEFA.com match data API)",
+   "https://www.rsssf.org/ec/ec200001.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=307280",
+   "https://www.the42.ie/2001-uefa-cup-final-liverpool-alaves-dietmar-hamann-2773027-May2016/"
+  ],
+  "core_verified": true,
+  "referee": "Gilles Veissière",
+  "referee_nationality": "French",
+  "referee_association": "FFF (France)",
+  "referee_sources": [
+   "https://www.rsssf.org/ec/ec200001.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=307280"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Gérard Houllier",
+  "manager2": "José Manuel Esnal (Mané)",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "Markus Babbel",
+    "minute": "3",
+    "type": "header"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Steven Gerrard",
+    "minute": "16",
+    "type": "open play"
+   },
+   {
+    "team": "Alavés",
+    "player": "Iván Alonso",
+    "minute": "26",
+    "type": "header"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Gary McAllister",
+    "minute": "40",
+    "type": "penalty"
+   },
+   {
+    "team": "Alavés",
+    "player": "Javi Moreno",
+    "minute": "47",
+    "type": "header"
+   },
+   {
+    "team": "Alavés",
+    "player": "Javi Moreno",
+    "minute": "49",
+    "type": "free kick"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Robbie Fowler",
+    "minute": "72",
+    "type": "open play"
+   },
+   {
+    "team": "Alavés",
+    "player": "Jordi Cruyff",
+    "minute": "88",
+    "type": "header"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Delfí Geli (Alavés, own goal)",
+    "minute": "116",
+    "type": "own goal"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Alavés",
+    "player": "Martín Herrera",
+    "minute": "40",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Alavés",
+    "player": "Magno Mocelin",
+    "minute": "98",
+    "card": "2Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Alavés",
+    "player": "Antonio Karmona",
+    "minute": "116",
+    "card": "2Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://match.uefa.com/v5/matches?matchId=67741 (UEFA.com match data API)",
+   "https://www.rsssf.org/ec/ec200001.html",
+   "https://www.sportsmole.co.uk/football/liverpool/on-this-day/feature/on-this-day-liverpool-win-uefa-cup_155305.html"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable non-Wikipedia match statistics found."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "40",
+    "score_at_time": "2-1",
+    "type": "red card not given",
+    "description": "Alavés goalkeeper Martín Herrera hauled down Michael Owen, who had been played through on goal; penalty given (McAllister scored) but Herrera only cautioned. Sports Mole: 'the referee adjudged that it only warranted a caution... on another day they would have headed into the break a man to the good'.",
+    "favoured_team": "Alavés",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comment only (Sports Mole retrospective)",
+    "impact": "possible",
+    "impact_reasoning": "A dismissal would have left Alavés with ten men for 50+ minutes in a match Liverpool won 5-4 by a golden goal; Liverpool won anyway.",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/liverpool/on-this-day/feature/on-this-day-liverpool-win-uefa-cup_155305.html"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA match data, RSSSF, Soccerbase, the42.ie (Hamann retrospective), Sports Mole retrospective, Football España piece. Alonso (ET) and Fowler (ET) 'golden goals' ruled out for offside per Football España - not described as wrong. Only Herrera non-dismissal noted as debatable (single source).",
+  "uncertain": [
+   "This final is not an FA Cup final (batch input mislabelled competition as 'FA Cup'); it may duplicate a record in the UEFA batch.",
+   "Goal minutes follow UEFA data (3,16,26,40,47,49,72,88,116); RSSSF/Soccerbase use rounded-up minutes (4,16,27,41,48,51,73,89,116/117).",
+   "Herrera contested decision rests on a single, non-contemporaneous source (Sports Mole); flagged accordingly.",
+   "Cards: only Herrera Y (Sports Mole), Magno and Karmona second-yellow dismissals (UEFA, RSSSF 'both for 2nd yellow card') confirmed. Wikipedia also lists McAllister Y11, Babbel Y106 (Liverpool); Contra Y49, Astudillo Y11, Téllez Y95, Magno's first Y82, Karmona's first Y58 - not verified; cards_complete=false.",
+   "Magno dismissal minute: UEFA 98, RSSSF/Soccerbase 99.",
+   "Alonso/Moreno header types and Moreno free-kick per Sports Mole description; Babbel header per Sports Mole and the42.",
+   "No odds or absence information found."
+  ]
+ },
+ {
+  "article": "2002 FA Cup final",
+  "date": "2002-05-04",
+  "competition": "FA Cup",
+  "season": "2001-02",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_90": "2-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=48399 (ESPN match data/commentary, gameId 48399)",
+   "https://www.rsssf.org/tablese/engcup02.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=360965"
+  ],
+  "core_verified": true,
+  "referee": "Mike Riley",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=48399 (ESPN match data/commentary, gameId 48399)",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=360965"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Arsène Wenger",
+  "manager2": "Claudio Ranieri",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Ray Parlour",
+    "minute": "70",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Freddie Ljungberg",
+    "minute": "80",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Graeme Le Saux",
+    "minute": "2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Patrick Vieira",
+    "minute": "26",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Thierry Henry",
+    "minute": "76",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "John Terry",
+    "minute": "76",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Eiður Guðjohnsen",
+    "minute": "90",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=48399 (ESPN match data/commentary, gameId 48399)"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Wikipedia stats table (possession 56-44, on target 4-5, fouls 15-14) not verified against a non-Wikipedia source; ESPN has no boxscore for this match."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "44",
+    "score_at_time": "0-0",
+    "type": "offside",
+    "description": "Eiður Guðjohnsen, apparently through on goal, stopped by what ESPN's live commentator called 'a questionable offside flag'.",
+    "favoured_team": "Arsenal",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comment only (ESPN live commentary)",
+    "impact": "possible",
+    "impact_reasoning": "Came at 0-0 and could have produced a goalscoring chance; Arsenal eventually won 2-0, so impact on the result is at most possible.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=48399 (ESPN match data/commentary, gameId 48399)"
+    ]
+   }
+  ],
+  "contested_search_done": "ESPN live commentary (full), RSSSF, Soccerbase. Only a minor 'questionable offside' remark found; no post-match controversy found. BBC/Guardian not reachable.",
+  "uncertain": [
+   "Card minutes from ESPN roster data (Vieira 27', Henry/Terry 76' in ESPN roster; commentary gives 26' and 76'); Wikipedia gives Le Saux 2, Vieira 26, Henry 75, Terry 75, Gudjohnsen 90+1. Card set agrees across ESPN and Wikipedia; card list relies on one provider (ESPN).",
+   "Henry and Terry booked together 'after a brief flare-up' (ESPN commentary).",
+   "Gudjohnsen offside dispute rests on one source (ESPN commentary) only.",
+   "RSSSF lists the date as 'Sun May 4' - 4 May 2002 was a Saturday; RSSSF attendance 73,965 vs ESPN 73,963.",
+   "No odds or absences found."
+  ]
+ },
+ {
+  "article": "2003 FA Cup final",
+  "date": "2003-05-17",
+  "competition": "FA Cup",
+  "season": "2002-03",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Arsenal",
+  "team2": "Southampton",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=97947 (ESPN match data/commentary, gameId 97947)",
+   "http://www.gazettelive.co.uk/north-east-sport/football/latest-football-news/2003/05/17/arsenal-1-southampton-0-84229-12973208/",
+   "https://www.rsssf.org/tablese/engcup03.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=390182"
+  ],
+  "core_verified": true,
+  "referee": "Graham Barber",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=97947 (ESPN match data/commentary, gameId 97947)",
+   "http://www.gazettelive.co.uk/north-east-sport/football/latest-football-news/2003/05/17/arsenal-1-southampton-0-84229-12973208/",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=390182"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Arsène Wenger",
+  "manager2": "Gordon Strachan",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Robert Pires",
+    "minute": "38",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Arsenal",
+    "player": "Martin Keown",
+    "minute": "30",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Southampton",
+    "player": "James Beattie",
+    "minute": "31",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Southampton",
+    "player": "Paul Telfer",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Thierry Henry",
+    "minute": "68",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Southampton",
+    "player": "Chris Marsden",
+    "minute": "76",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Southampton",
+    "player": "Michael Svensson",
+    "minute": "90+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=97947 (ESPN match data/commentary, gameId 97947)",
+   "http://www.gazettelive.co.uk/north-east-sport/football/latest-football-news/2003/05/17/arsenal-1-southampton-0-84229-12973208/"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Wikipedia stats table (possession 59-41, on target 7-4, fouls 10-18) not verified; ESPN has no boxscore for this match."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Patrick Vieira (injury)",
+    "Sol Campbell (suspension)"
+   ],
+   "team2": [],
+   "sources": [
+    "http://www.gazettelive.co.uk/north-east-sport/football/latest-football-news/2003/05/17/arsenal-1-southampton-0-84229-12973208/"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "67",
+    "score_at_time": "1-0",
+    "type": "penalty not given",
+    "description": "Henry went down in the box over Michael Svensson's leg; Barber gave Southampton a free-kick and booked Henry for diving. Gazette (PA) report: 'There was controversy when Henry went down in the box...'. ESPN commentary describes it as a dive ('performs a pike to twist').",
+    "favoured_team": "Southampton",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only",
+    "impact": "none",
+    "impact_reasoning": "If wrong, it denied Arsenal (already leading 1-0) a penalty that could have made it 2-0; Arsenal won anyway, so the decision could not have changed the winner.",
+    "sources": [
+     "http://www.gazettelive.co.uk/north-east-sport/football/latest-football-news/2003/05/17/arsenal-1-southampton-0-84229-12973208/",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=97947 (ESPN match data/commentary, gameId 97947)"
+    ]
+   }
+  ],
+  "contested_search_done": "Teesside Gazette/PA live-style match report, ESPN commentary, RSSSF, Soccerbase. Also noted: Beattie goal ruled offside 20' ('offside. Just.' - ESPN) and Gazette remark that a Lundekvam foul on Henry early would have been 'an indisputable penalty' had Henry gone down - neither described as a wrong decision. Henry dive booking is the only 'controversy' found.",
+  "uncertain": [
+   "ESPN live commentary says 'Pires booked for a foul on Telfer' at 59', but ESPN roster data and Wikipedia have Telfer booked at 60 and no Pires booking; unresolved, so cards_complete=false.",
+   "Card minutes from ESPN roster data; Wikipedia: Keown 30, Beattie 31, Telfer 60, Henry 66, Marsden 77, Svensson 90.",
+   "Henry dive incident minute ~67-68 (ESPN commentary 67', booking 68').",
+   "Southampton: Paul Jones replaced the injured Antti Niemi mid-match (not an absence).",
+   "No odds found."
+  ]
+ },
+ {
+  "article": "2004 FA Cup final",
+  "date": "2004-05-22",
+  "competition": "FA Cup",
+  "season": "2003-04",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Manchester United",
+  "team2": "Millwall",
+  "score_90": "3-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=151346 (ESPN match data/commentary, gameId 151346)",
+   "https://www.rsssf.org/tablese/engcup04.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=422255"
+  ],
+  "core_verified": true,
+  "referee": "Jeff Winter",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=151346 (ESPN match data/commentary, gameId 151346)",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=422255"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Alex Ferguson",
+  "manager2": "Dennis Wise (player-manager)",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Cristiano Ronaldo",
+    "minute": "44",
+    "type": "header"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Ruud van Nistelrooy",
+    "minute": "65",
+    "type": "penalty"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Ruud van Nistelrooy",
+    "minute": "81",
+    "type": "unknown"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Millwall",
+    "player": "Dennis Wise",
+    "minute": "49",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=151346 (ESPN match data/commentary, gameId 151346)"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "ESPN has no boxscore for this match; no other stats source found."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "ESPN live commentary (full), RSSSF, Soccerbase. Penalty (Livermore on Giggs) described by ESPN as clear ('referee has no alternative'); Harris offside 9' 'tight but the right one'. No disputes found.",
+  "uncertain": [
+   "Card list relies on ESPN only (roster data + commentary: Wise booked 48', 'first yellow of the afternoon'); Wikipedia line-up extraction failed for this article so no cross-check.",
+   "Van Nistelrooy's 81' goal type not described in fetched sources (recorded 'unknown').",
+   "Manager2: Dennis Wise was Millwall player-manager (RSSSF 'Manager - Wise').",
+   "No odds or absence information found."
+  ]
+ },
+ {
+  "article": "2005 FA Cup final",
+  "date": "2005-05-21",
+  "competition": "FA Cup",
+  "season": "2004-05",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Arsenal",
+  "team2": "Manchester United",
+  "score_90": "0-0",
+  "score_aet": "0-0",
+  "shootout": "5-4",
+  "winner": "Arsenal",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://mg.co.za/2005-05-21-arsenal-win-thrilling-fa-cup-final/",
+   "https://www.taipeitimes.com/News/sport/archives/2005/05/23/2003256358",
+   "https://www.arabnews.com/node/267303",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=182632 (ESPN match data/commentary, gameId 182632)",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=452114",
+   "https://www.rsssf.org/tablese/engcup05.html"
+  ],
+  "core_verified": true,
+  "referee": "Rob Styles",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.mirror.co.uk/news/world-news/sent-off-reyes-will-get-medal-1608080",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=182632 (ESPN match data/commentary, gameId 182632)",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=452114"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Arsène Wenger",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [],
+  "cards": [
+   {
+    "team": "Arsenal",
+    "player": "Ashley Cole",
+    "minute": "17",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Mikaël Silvestre",
+    "minute": "22",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Lauren",
+    "minute": "62",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "José Antonio Reyes",
+    "minute": "76",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "113",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Patrick Vieira",
+    "minute": "118",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "José Antonio Reyes",
+    "minute": "120+2",
+    "card": "2Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=182632 (ESPN match data/commentary, gameId 182632)",
+   "https://mg.co.za/2005-05-21-arsenal-win-thrilling-fa-cup-final/",
+   "https://www.mirror.co.uk/news/world-news/sent-off-reyes-will-get-medal-1608080",
+   "https://www.taipeitimes.com/News/sport/archives/2005/05/23/2003256358"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Wikipedia stats (on target 1-8, shots off 4-12, corners 1-12, fouls 30-23, possession 56-44) not verified. AP (Taipei Times) says United had eight shots on target to Arsenal's none in the first 90 minutes."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Thierry Henry (Achilles injury)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://mg.co.za/2005-05-21-arsenal-win-thrilling-fa-cup-final/",
+    "https://www.arabnews.com/node/267303"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "28",
+    "score_at_time": "0-0",
+    "type": "goal disallowed",
+    "description": "Rio Ferdinand put in the rebound after Lehmann blocked Rooney's shot, but was ruled offside. ESPN live commentary: 'a very tight decision'; United players accepted it.",
+    "favoured_team": "Arsenal",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comment only (ESPN commentary); AFP/Reuters simply report it as ruled out for offside",
+    "impact": "likely",
+    "impact_reasoning": "Denied (if wrong) a goal at 0-0 in a match that finished 0-0 and was lost on penalties.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=182632 (ESPN match data/commentary, gameId 182632)",
+     "https://mg.co.za/2005-05-21-arsenal-win-thrilling-fa-cup-final/"
+    ]
+   },
+   {
+    "minute": "118",
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "Ferguson said 'The referee could have maybe sent off Vieira but Patrick has some kind of immunity'; Vieira received one yellow (118') and then scored the winning penalty.",
+    "favoured_team": "Arsenal",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; manager comment only (Ferguson, via AP)",
+    "impact": "possible",
+    "impact_reasoning": "No specific incident identified; a dismissal would have removed Arsenal's eventual decisive penalty taker, but this is speculative.",
+    "sources": [
+     "https://www.taipeitimes.com/News/sport/archives/2005/05/23/2003256358"
+    ]
+   },
+   {
+    "minute": "120+2",
+    "score_at_time": "0-0",
+    "type": "red card given",
+    "description": "Reyes sent off for a second yellow after fouling Cristiano Ronaldo at the end of extra time; Wenger: 'I thought his sending off was harsh'. AFP: 'it was not a costly exit'; ESPN commentary: 'Needless, senseless'.",
+    "favoured_team": "Manchester United",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; manager comment only (Wenger, via Mirror); journalists considered it deserved/needless",
+    "impact": "none",
+    "impact_reasoning": "Came at the very end of extra time immediately before the shoot-out, which Arsenal won.",
+    "sources": [
+     "https://www.mirror.co.uk/news/world-news/sent-off-reyes-will-get-medal-1608080",
+     "https://mg.co.za/2005-05-21-arsenal-win-thrilling-fa-cup-final/"
+    ]
+   }
+  ],
+  "contested_search_done": "AFP report (Mail & Guardian), AP report (Taipei Times), Reuters report (Arab News), Mirror (Reyes medal), ESPN live commentary (full), RSSSF, Soccerbase. Also ESPN noted half-hearted United penalty appeals at 100' and 103' (ball hitting Touré's forearm: 'would have been very tough') - not recorded as contested.",
+  "uncertain": [
+   "Card minutes from ESPN roster data; Wikipedia: Cole 16, Silvestre 21, Lauren 59, Reyes 75 & 120, Scholes 112, Vieira 118. ESPN commentary minutes: Cole 16, Silvestre 21, Lauren 61, Reyes 75, Scholes 112. Reyes 2nd yellow came in extra-time stoppage time (AFP), recorded 120+2 (ESPN).",
+   "Ferdinand disallowed goal minute ~28 (AFP '28th-minute run'); offside call described only as 'very tight' - no source says it was wrong.",
+   "Shootout: Arsenal - Lauren, Ljungberg, Van Persie, Cole, Vieira all scored; United - Van Nistelrooy, Ronaldo, Rooney, Keane scored, Scholes saved by Lehmann (AP).",
+   "Gary Neville (groin) and Sol Campbell (returning from ankle injury) were on the benches, not absent; Giggs dropped to bench (AFP).",
+   "No odds found."
+  ]
+ },
+ {
+  "article": "2006 FA Cup final",
+  "date": "2006-05-13",
+  "competition": "FA Cup",
+  "season": "2005-06",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Liverpool",
+  "team2": "West Ham United",
+  "score_90": "3-3",
+  "score_aet": "3-3",
+  "shootout": "3-1",
+  "winner": "Liverpool",
+  "decided_by": "penalties",
+  "core_sources": [
+   "http://edition.cnn.com/2006/SPORT/football/05/13/england.cup/",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=197065 (ESPN match data/commentary, gameId 197065)",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=484894",
+   "https://www.rsssf.org/tablese/engcup06.html"
+  ],
+  "core_verified": true,
+  "referee": "Alan Wiley",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=197065 (ESPN match data/commentary, gameId 197065)",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=484894"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Rafael Benítez",
+  "manager2": "Alan Pardew",
+  "goals": [
+   {
+    "team": "West Ham United",
+    "player": "Jamie Carragher (Liverpool, own goal)",
+    "minute": "21",
+    "type": "own goal"
+   },
+   {
+    "team": "West Ham United",
+    "player": "Dean Ashton",
+    "minute": "28",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Djibril Cissé",
+    "minute": "32",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Steven Gerrard",
+    "minute": "54",
+    "type": "open play"
+   },
+   {
+    "team": "West Ham United",
+    "player": "Paul Konchesky",
+    "minute": "64",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Steven Gerrard",
+    "minute": "90+1",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "West Ham United",
+    "player": "Dean Ashton",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Jamie Carragher",
+    "minute": "63",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Dietmar Hamann",
+    "minute": "119",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=197065 (ESPN match data/commentary, gameId 197065)"
+  ],
+  "stats": {
+   "shots1": 19,
+   "shots2": 15,
+   "sot1": 7,
+   "sot2": 9,
+   "poss1": 54,
+   "poss2": 46,
+   "fouls1": 12,
+   "fouls2": 22,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=197065 (ESPN match data/commentary, gameId 197065)",
+   "xg_source": null,
+   "note": "ESPN boxscore (provider not stated; likely Opta/ESPN data feed). xG not available for this era. Figures cover 120 minutes."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "CNN/Reuters report, ESPN live commentary (full), RSSSF, Soccerbase. No refereeing dispute found (ESPN notes one foul on Cissé by Scaloni with play waved on, not described as wrong).",
+  "uncertain": [
+   "Attendance: ESPN 74,000 vs Wikipedia 71,140 (not a required field).",
+   "Card set (Ashton, Carragher, Hamann) from ESPN roster data and ESPN team totals (Liverpool 2, West Ham 1); agrees with Wikipedia (Ashton 59, Carragher 62, Hamann 118). Single provider.",
+   "Shootout per CNN: Reina saved from Zamora, Konchesky and Anton Ferdinand; Sheringham scored. Liverpool: Hamann, Gerrard, Riise scored; Hyypiä saved.",
+   "Carragher own goal: CNN says 'after 20 minutes', ESPN/Wikipedia 21.",
+   "ESPN shots figures (19-15, on target 7-9) differ in definition from other providers; no BBC stats reachable.",
+   "No odds or absence information found."
+  ]
+ },
+ {
+  "article": "2007 FA Cup final",
+  "date": "2007-05-19",
+  "competition": "FA Cup",
+  "season": "2006-07",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_90": "0-0",
+  "score_aet": "1-0",
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=216319 (ESPN match data/commentary, gameId 216319)",
+   "https://www.gazettelive.co.uk/news/local-news/goal-good---giggs-3746527",
+   "https://www.rsssf.org/tablese/engcup07.html",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=523823"
+  ],
+  "core_verified": true,
+  "referee": "Steve Bennett",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=216319 (ESPN match data/commentary, gameId 216319)",
+   "https://www.gazettelive.co.uk/news/local-news/goal-good---giggs-3746527",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=523823"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "José Mourinho",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "116",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "59",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Claude Makélélé",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Nemanja Vidić",
+    "minute": "85",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Alan Smith",
+    "minute": "105",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Salomon Kalou",
+    "minute": "120",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Paulo Ferreira",
+    "minute": "120+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ashley Cole",
+    "minute": "120+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=216319 (ESPN match data/commentary, gameId 216319)"
+  ],
+  "stats": {
+   "shots1": 18,
+   "shots2": 12,
+   "sot1": 4,
+   "sot2": 4,
+   "poss1": 50,
+   "poss2": 50,
+   "fouls1": 18,
+   "fouls2": 18,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=216319 (ESPN match data/commentary, gameId 216319)",
+   "xg_source": null,
+   "note": "ESPN boxscore (provider not stated; likely Opta/ESPN data feed). xG not available for this era. Figures cover 120 minutes."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "104",
+    "score_at_time": "0-0",
+    "type": "other",
+    "description": "Giggs slid in at Rooney's cross; Čech saved and was carried back over the line by Giggs's momentum. Assistant did not flag a goal and Bennett waved play on. Giggs: 'You saw it go over and the linesman saw it go over'. ESPN commentary: ball was over 'only because Giggs' momentum forced Cech back across the line. Probably a foul rather than a goal.'",
+    "favoured_team": "Chelsea",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/player comments only (ESPN commentary; Giggs via Gazette/PA)",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0 in extra time of a 1-0 final, a goal would likely have decided the match; but the sole neutral comment found considered it a foul on Čech, so the decision may well have been correct.",
+    "sources": [
+     "https://www.gazettelive.co.uk/news/local-news/goal-good---giggs-3746527",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=216319 (ESPN match data/commentary, gameId 216319)"
+    ]
+   },
+   {
+    "minute": "83",
+    "score_at_time": "0-0",
+    "type": "other",
+    "description": "Bennett stopped play to book Makélélé for a foul on Scholes; 'The United players are angry that play was halted by the ref so he could give the booking - they were poised to break' (ESPN commentary).",
+    "favoured_team": "Chelsea",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comment only (ESPN commentary)",
+    "impact": "possible",
+    "impact_reasoning": "Halted a potential United counter-attack at 0-0 late in normal time; no goal chance can be inferred.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=216319 (ESPN match data/commentary, gameId 216319)"
+    ]
+   }
+  ],
+  "contested_search_done": "ESPN live commentary (full), Gazette/PA Giggs story, RSSSF, Soccerbase. Wikipedia/other summaries mention Ferguson claiming Giggs was fouled by Essien before the shot and Ronaldo alleging pressure on officials - could not be read in a reachable reputable source (web-search budget exhausted), not recorded.",
+  "uncertain": [
+   "Giggs incident minute: ESPN commentary 104'; other accounts place it ~108' (first half of extra time per Gazette). Recorded 104.",
+   "Makélélé booking dispute rests on one source (ESPN commentary).",
+   "Card minutes from ESPN roster data; Wikipedia: Scholes 58, Makélélé 83, Vidić 84, Smith 105, Kalou 119, Ferreira 120, A. Cole 120. Team totals ESPN: Chelsea 4, United 3.",
+   "Soccerbase lists referee as 'S Bennett (do not use)' (database artefact).",
+   "No odds or absence information found."
+  ]
+ },
+ {
+  "article": "2009 FA Cup final",
+  "date": "2009-05-30",
+  "competition": "FA Cup",
+  "season": "2008-09",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Everton",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/chelsea-vs-everton/report/19860",
+   "https://myjoyonline.com/classy-chelsea-hit-back-to-win-fa-cup",
+   "https://www.wembleystadium.com/events/00s/2009/the-fa-cup-final",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN match data/commentary, gameId 266543)",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=585028",
+   "https://www.rsssf.org/tablese/engcup09.html"
+  ],
+  "core_verified": true,
+  "referee": "Howard Webb",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.skysports.com/football/chelsea-vs-everton/report/19860",
+   "https://www.wembleystadium.com/events/00s/2009/the-fa-cup-final",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN match data/commentary, gameId 266543)",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=585028"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Guus Hiddink",
+  "manager2": "David Moyes",
+  "goals": [
+   {
+    "team": "Everton",
+    "player": "Louis Saha",
+    "minute": "1",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "21",
+    "type": "header"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Frank Lampard",
+    "minute": "72",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Everton",
+    "player": "Tony Hibbert",
+    "minute": "8",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Everton",
+    "player": "Phil Neville",
+    "minute": "48",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "John Obi Mikel",
+    "minute": "63",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Frank Lampard",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Everton",
+    "player": "Leighton Baines",
+    "minute": "90+4",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN match data/commentary, gameId 266543)",
+   "https://www.skysports.com/football/chelsea-vs-everton/report/19860",
+   "https://myjoyonline.com/classy-chelsea-hit-back-to-win-fa-cup"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 5,
+   "sot1": 2,
+   "sot2": 1,
+   "poss1": 58,
+   "poss2": 42,
+   "fouls1": 12,
+   "fouls2": 17,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN match data/commentary, gameId 266543)",
+   "xg_source": null,
+   "note": "ESPN boxscore (provider not stated; likely Opta/ESPN data feed). xG not available for this era. "
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "1",
+    "score_at_time": "0-0",
+    "type": "offside",
+    "description": "Saha's 25-second opener: ESPN live commentary 'Television has just showed that Pienaar was offside in the build-up to the goal.'",
+    "favoured_team": "Everton",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comment only (ESPN commentary)",
+    "impact": "none",
+    "impact_reasoning": "Goal stood for Everton but Chelsea won 2-1, so it did not change the winner.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN match data/commentary, gameId 266543)"
+    ]
+   },
+   {
+    "minute": "77",
+    "score_at_time": "2-1",
+    "type": "goal disallowed",
+    "description": "Malouda's 30-yard shot hit the underside of the bar and bounced down over the line; not given (assistant 'in no position to make a decision', play waved on). TV replays showed it had crossed the line (Sky Sports, Wembley Stadium, PA-style report).",
+    "favoured_team": "Everton",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (all reports say replays showed the ball crossed the line)",
+    "impact": "none",
+    "impact_reasoning": "Chelsea were already leading 2-1 and won; a third goal would not have changed the result.",
+    "sources": [
+     "https://www.skysports.com/football/chelsea-vs-everton/report/19860",
+     "https://myjoyonline.com/classy-chelsea-hit-back-to-win-fa-cup",
+     "https://www.wembleystadium.com/events/00s/2009/the-fa-cup-final"
+    ]
+   },
+   {
+    "minute": "84",
+    "score_at_time": "2-1",
+    "type": "penalty not given",
+    "description": "Lampard went down under a challenge from Pienaar in the box and was booked for diving; Sky Sports: 'controversially... booked Lampard for diving when Stephen Pienaar had stuck out a leg for him to fall over'.",
+    "favoured_team": "Everton",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only",
+    "impact": "none",
+    "impact_reasoning": "Chelsea led 2-1 and won; a penalty could not have changed the winner.",
+    "sources": [
+     "https://www.skysports.com/football/chelsea-vs-everton/report/19860",
+     "https://www.soccernews.com/fa-cup-final-chelsea-2-1-everton/331653/"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports match report, MyJoyOnline (agency) report, Wembley Stadium official report, SoccerNews, ESPN live commentary (full), RSSSF, Soccerbase. ESPN also called Mikel's 63' booking 'harsh' and Webb 'not consistent' with cards - not recorded as a contested decision.",
+  "uncertain": [
+   "Malouda incident minute approximate (~77-78; 'five minutes later' after the 72' goal, 'moments later'); recorded 77.",
+   "Saha-goal offside claim rests on one source (ESPN commentary).",
+   "ESPN shots (Chelsea 10, Everton 5) look low versus match descriptions; provider definitions unknown.",
+   "Card minutes from ESPN roster; Wikipedia: Hibbert 8, Neville 47, Mikel 63, Lampard 84, Baines 90+4.",
+   "Everton absentees (e.g. Arteta, Yakubu, Jagielka - widely reported) not verified from a fetched source; absences left empty.",
+   "No odds found."
+  ]
+ },
+ {
+  "article": "2010 FA Cup final",
+  "date": "2010-05-15",
+  "competition": "FA Cup",
+  "season": "2009-10",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Portsmouth",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.heraldnet.com/?p=181701",
+   "https://www.wembleystadium.com/events/10s/2010/the-fa-cup-final",
+   "https://www.camdennewjournal.co.uk/article/new-journal-wembley-chelsea-1-portsmouth-0",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=290832 (ESPN match data/commentary, gameId 290832)",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=616597"
+  ],
+  "core_verified": true,
+  "referee": "Chris Foy",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.wembleystadium.com/events/10s/2010/the-fa-cup-final",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=290832 (ESPN match data/commentary, gameId 290832)",
+   "https://www.soccerbase.com/matches/additional_information.sd?id_game=616597"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Carlo Ancelotti",
+  "manager2": "Avram Grant",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "59",
+    "type": "free kick"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Portsmouth",
+    "player": "Kevin-Prince Boateng",
+    "minute": "36",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Portsmouth",
+    "player": "Ricardo Rocha",
+    "minute": "90+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Portsmouth",
+    "player": "Jamie O'Hara",
+    "minute": "90+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=290832 (ESPN match data/commentary, gameId 290832)"
+  ],
+  "stats": {
+   "shots1": 23,
+   "shots2": 2,
+   "sot1": 9,
+   "sot2": 1,
+   "poss1": 56,
+   "poss2": 44,
+   "fouls1": 16,
+   "fouls2": 14,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=290832 (ESPN match data/commentary, gameId 290832)",
+   "xg_source": null,
+   "note": "ESPN boxscore (provider not stated; likely Opta/ESPN data feed). xG not available for this era. Portsmouth total of 2 shots looks implausibly low (reports describe Boateng and Piquionne efforts plus a penalty); treat with caution."
+  },
+  "odds": {
+   "team1": null,
+   "draw": null,
+   "team2": null,
+   "team1_to_lift": 1.1,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "unnamed bookmakers quoted in ESPN live commentary ('miserly odds of 1-10')",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=290832 (ESPN match data/commentary, gameId 290832)",
+   "note": "Fractional 1/10 converted to decimal 1.10; outright 'to lift the trophy' price, bookmaker not named; no 90-minute 1X2 odds found."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "AP report (HeraldNet), Wembley Stadium official report, Camden New Journal report, ESPN live commentary (full), Soccerbase. Both penalties (Belletti on Dindane 54-55', 'clear penalty' per ESPN; Brown on Lampard 87') were not described as disputed. No contested decisions found.",
+  "uncertain": [
+   "Missed penalties (not goals): Boateng (Portsmouth) saved by Čech ~54'; Lampard (Chelsea) dragged wide ~87'.",
+   "Drogba goal minute: ESPN commentary 58', roster/Wikipedia/AP 59.",
+   "Boateng booking: ESPN roster 36', commentary 35'. Rocha booked for dissent (ESPN).",
+   "Ballack went off injured after a late Boateng challenge (AP) - in-match injury, not an absence.",
+   "Odds are an unnamed-bookmaker outright price from ESPN commentary only."
+  ]
  }
 ]

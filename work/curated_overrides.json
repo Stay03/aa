@@ -1,0 +1,54 @@
+{
+ "_note": "Manual corrections applied on top of agent outputs during merge. Each entry: field -> value, plus reason and sources.",
+ "1996 FA Cup final": {
+  "referee_nationality": "Irish (born Dublin 1957; registered with The FA)",
+  "_reason": "Birthplace Dublin per Wikipedia and newstalk.com interview; WorldFootball lists 'England' (federation). Recorded as Irish; federation The FA.",
+  "_sources": [
+   "https://en.wikipedia.org/wiki/Dermot_Gallagher",
+   "https://www.newstalk.com/sport/dermot-gallagher-referee-interview-553629"
+  ]
+ },
+ "2025 FIFA Club World Cup final": {
+  "referee_nationality": "Iranian-born; officiates for Football Australia (Australian citizenship not verified)"
+ },
+ "2011 FA Community Shield": {
+  "var_in_use": false,
+  "_reason": "VAR not yet used in English football; first competitive use in England was the FA Cup third round, 8 Jan 2018 (Brighton v Crystal Palace)."
+ },
+ "2012 FA Community Shield": {
+  "var_in_use": false,
+  "_reason": "as above"
+ },
+ "2013 FA Community Shield": {
+  "var_in_use": false,
+  "_reason": "as above"
+ },
+ "2014 FA Community Shield": {
+  "var_in_use": false,
+  "_reason": "as above"
+ },
+ "2015 FA Community Shield": {
+  "var_in_use": false,
+  "_reason": "as above"
+ },
+ "2016 FA Community Shield": {
+  "var_in_use": false,
+  "_reason": "as above"
+ },
+ "2017 FA Community Shield": {
+  "var_in_use": false,
+  "_reason": "as above"
+ },
+ "2019 FIFA Club World Cup final": {
+  "_decision_overrides": {
+   "0": {
+    "type": "penalty given (overturned by VAR)",
+    "favoured_team": "Liverpool",
+    "against_team": "Flamengo",
+    "impact": "none",
+    "impact_reasoning": "The on-field error favoured Liverpool but was corrected by VAR before the kick; the decision that stood (no penalty) is not reported as wrong. Recoded by project lead from agent output (agent had listed Flamengo as favoured)."
+   }
+  },
+  "_reason": "Decision on Rafinha/Mane recoded: the acknowledged (on-field) error favoured Liverpool and was corrected by VAR; impact none."
+ }
+}

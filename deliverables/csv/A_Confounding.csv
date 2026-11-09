@@ -1,0 +1,40 @@
+confounding_crosstabs
+== referee_english x competition_type
+competition_type  European  domestic  world
+referee_english                            
+False                   35         2      8
+True                     0        83      0
+""
+== referee_english x venue_category
+venue_category   Millennium Stadium (Cardiff)  Neutral venue abroad  Other venue in England  Wembley (London)
+referee_english                                                                                              
+False                                       0                    42                       0                 3
+True                                       18                     0                       2                63
+""
+== referee_english x has_foreign_opponent
+has_foreign_opponent  False  True 
+referee_english                   
+False                     8     37
+True                     83      0
+""
+== var_in_use x era
+date        1996-2005  2006-2015  2016-2026
+var_in_use                                 
+False              35         40         10
+True                0          0         43
+""
+== competition x var_in_use
+var_in_use                        False  True
+competition                                  
+Charity/Community Shield             22     9
+Conference League                     0     1
+Cup Winners' Cup                      1     0
+European Cup/Champions League         9     5
+FA Cup                               21     9
+FIFA Club World Championship/Cup      3     4
+Intercontinental Cup                  1     0
+League Cup                           15     9
+UEFA Cup/Europa League                5     3
+UEFA Super Cup                        8     3
+""
+""

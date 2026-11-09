@@ -1,0 +1,245 @@
+{{Featured article}}
+{{Use British English|date=December 2017}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox football match
+| title                   = 1999 Football League Second Division play-off final
+| event                   = 
+| team1                   = [[Manchester City F.C.|Manchester City]]
+| team1score              = 2
+| team2                   = [[Gillingham F.C.|Gillingham]]
+| team2score              = 2
+| image                   = Wembley Stadium Twin Towers.jpg
+| image_size              = 
+| caption                 = The final took place at Wembley Stadium (pictured in  2002).
+| alt                     = Wembley Stadium
+| details                 = Manchester City won 3–1 on [[Penalty shoot-out (association football)|penalties]]
+| date                    = 30 May 1999
+| stadium                 = [[Wembley Stadium (1923)|Wembley Stadium]]
+| city                    = London
+| referee                 = [[Mark Halsey]] ([[Welwyn Garden City]])
+| attendance              = 76,935
+| previous                = [[1998 Football League Second Division play-off final|1998]]
+| next                    = [[2000 Football League Second Division play-off final|2000]]
+}}
+The '''1999 Football League Second Division play-off final''' was an [[association football]] match which was played on 30 May 1999 at [[Wembley Stadium (1923)|Wembley Stadium]], London, between [[Manchester City F.C.|Manchester City]] and [[Gillingham F.C.|Gillingham]].  The match was to determine the third and final team to gain [[Promotion and relegation|promotion]] from the [[Football League Second Division]], the third tier of [[English football league system|English football]], to the [[Football League First Division|First Division]].  The top two teams of the [[1998–99 Football League Second Division]] season gained automatic promotion to the First Division, while the clubs placed from third to sixth in the table took part in play-offs.  Manchester City ended the season in third position while Gillingham  were fourth.  The winners of these semi-finals competed for the final place in the First Division for the [[1999–2000 Football League First Division|1999–2000 season]].  In the semi-finals, Gillingham defeated [[Preston North End F.C.|Preston North End]] and Manchester City beat [[Wigan Athletic F.C.|Wigan Athletic]].
+
+It was Gillingham's first match at Wembley Stadium, although Manchester City had played there on eleven previous occasions.   The final drew a crowd of just under 77,000, the largest crowd to ever witness a Gillingham match, and was refereed by [[Mark Halsey]].  The match was scoreless until the 81st minute, when [[Carl Asaba]] gave Gillingham the lead. [[Robert Taylor (footballer, born 1971)|Robert Taylor]] added a second goal five minutes later.  [[Kevin Horlock]] scored for City in the 90th minute to halve the deficit and, in the fifth minute of [[injury time]], [[Paul Dickov]] scored an equaliser to make the score 2&ndash;2 and send the game into [[Overtime (sports)|extra time]].  With no further goals being scored, the match was decided by a [[Penalty shoot-out (association football)|penalty shoot-out]], which City won 3&ndash;1 to gain promotion.
+
+Manchester City's [[1999–2000 Manchester City F.C. season|next season]] saw them secure automatic promotion to the [[2000–01 FA Premier League|FA Premier League]] after ending their campaign as runners-up. Gillingham finished their [[1999–2000 Gillingham F.C. season|following season]] in third place in the Second Division and qualified for [[2000 Football League play-offs|the play-offs]] again, where they secured promotion to the First Division with a 3–2 victory against Wigan Athletic in [[2000 Football League Second Division play-off final|the final]].
+
+==Route to the final==
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+|float=right
+|teamwidth=auto
+|title=Football League Second Division final table, leading positions
+
+|team1=FUL|name_FUL=[[Fulham F.C.|Fulham]]
+|team2=WAL|name_WAL=[[Walsall F.C.|Walsall]]
+|team3=MCI|name_MCI='''[[Manchester City F.C.|Manchester City]]'''
+|team4=GIL|name_GIL='''[[Gillingham F.C.|Gillingham]]'''
+|team5=PNE|name_PNE=[[Preston North End F.C.|Preston North End]]
+|team6=WIG|name_WIG=[[Wigan Athletic F.C.|Wigan Athletic]]
+
+|win_FUL=31|draw_FUL=8|loss_FUL=7|gf_FUL=79|ga_FUL=32
+|win_WAL=26|draw_WAL=9|loss_WAL=11|gf_WAL=63|ga_WAL=47
+|win_MCI=22|draw_MCI=16|loss_MCI=8|gf_MCI=69|ga_MCI=33
+|win_GIL=22|draw_GIL=14|loss_GIL=10|gf_GIL=75|ga_GIL=44
+|win_PNE=22|draw_PNE=13|loss_PNE=11|gf_PNE=77|ga_PNE=50
+|win_WIG=22|draw_WIG=10|loss_WIG=14|gf_WIG=75|ga_WIG=48
+
+|update=complete|title_source=<ref name=soccerway>{{Cite web | url = https://uk.soccerway.com/national/england/league-one/1998-1999/regular-season/r1957/ | website = Soccerway | access-date = 28 February 2021 | title = League One – 1998/1999 – Regular season | publisher = Perform Group | archive-date = 17 October 2015 | archive-url = https://web.archive.org/web/20151017181530/http://uk.soccerway.com/national/england/league-one/1998-1999/regular-season/r1957/ | url-status = live }}</ref>
+}}
+The teams finishing in the top two positions in the [[Football League Second Division|Second Division]], the third tier of the [[English football league system]], in the [[1998–99 Football League|1998–99 Football League season]] gained automatic [[Promotion and relegation|promotion]] to the [[Football League First Division|First Division]].<ref name=RS>{{cite web|url=https://www.rsssf.org/tablese/eng99.html|title=England 1998/99|website=[[RSSSF]]|date=20 December 1999|access-date=10 April 2021|archive-date=23 October 2018|archive-url=https://web.archive.org/web/20181023130001/http://www.rsssf.com/tablese/eng99.html|url-status=live}}</ref>  The teams finishing between third and sixth inclusive competed in the [[1999 Football League play-offs|play-offs]] for the third and final promotion place.<ref name=RS />  [[Manchester City F.C.|Manchester City]] finished the regular season in third place, two points ahead of fourth-placed [[Gillingham F.C.|Gillingham]].<ref name=RS />  Both therefore missed out on the two automatic places for promotion to the First Division and instead took part in the play-offs, along with [[Preston North End F.C.|Preston North End]] and [[Wigan Athletic F.C.|Wigan Athletic]], to determine the third promoted team.  Manchester City finished five points behind [[Walsall F.C.|Walsall]] (who were promoted in second place) and nineteen behind league winners [[Fulham F.C.|Fulham]].<ref name=soccerway/>
+
+Gillingham's opponents for their play-off semi-final were Preston North End, with the first match of the [[two-legged tie]] taking place at [[Deepdale]] in Preston on 16 May 1999. After a goalless first half, [[David Eyres]] put Preston ahead in the 54th minute.  [[Robert Taylor (footballer, born 1971)|Robert Taylor]] equalised with 11 minutes to go and the match ended 1–1.<ref>{{Cite web | url = https://theguardian.newspapers.com/clip/74999770/the-guardian/ | work = [[The Guardian]] | access-date = 3 April 2021 | via = [[Newspapers.com]] | title = Gills equal to the task | date = 17 May 1999 | page = 28 | first = Ian | last = Winrow}}</ref>  The second leg was held three days later at [[Priestfield Stadium]] in Gillingham.  Within two minutes of the start of the match, Gillingham took the lead through [[Andy Hessenthaler]]: [[Barry Ashby]] passed to [[Carl Asaba]] who guided the ball to Hessenthaler to score.<ref name=guardian />  Gillingham dominated the remainder of the half and, despite pressure from Preston after the interval, they held onto their lead; [[Vince Bartram]], the Gillingham [[goalkeeper (association football)|goalkeeper]], dived full-length across his goal to keep out a strike from [[Jon Macken]].  The match ended 1–0 and Gillingham progressed to the final with a 2–1 [[aggregate score|aggregate victory]].<ref name=guardian>{{Cite web | url = https://theguardian.newspapers.com/clip/74999870/the-guardian/ |  work = [[The Guardian]] | access-date = 3 April 2021 | via = [[Newspapers.com]] | title = Hessenthaler leads men of Kent to Wembley | first = Trevor |last = Haylett | page = 32 | date = 20 May 1999}}</ref>
+
+Manchester City faced Wigan Athletic in their semi-final and the first leg was played at [[Springfield Park (Wigan)|Springfield Park]] in Wigan on 15 May 1999.  Within 20 seconds, the home side had taken the lead: a misunderstanding between Manchester City goalkeeper [[Nicky Weaver]] and his team-mate [[Gerard Wiekens]] allowed [[Stuart Barlow]] to score from {{convert|15|yd}}.  [[Paul Dickov]] equalised with 13 minutes of the match remaining and the game ended 1–1.<ref>{{Cite web | url = https://theguardian.newspapers.com/clip/259580455/the-guardian/ | work = [[The Guardian]] | access-date = 3 April 2021 | via = [[Newspapers.com]] | title = Dickov quells fear of the faithful | date = 17 May 1999 | page = 28 | first = Ian | last = Whittell }}{{Dead link|date=April 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>  The second leg took place four days later at [[Maine Road]] in Manchester.  City dominated the early stages and took the lead in the 27th minute through [[Shaun Goater]], who put the ball past [[Roy Carroll]] in the Wigan goal with his chest from a [[Michael Brown (footballer, born 1977)|Michael Brown]] [[Cross (association football)|cross]].  With four minutes remaining, a shot by Wigan's [[Graeme Jones]] struck the crossbar.  The match ended 1–0 and Manchester City progressed to the final 2–1 on aggregate.<ref name=ashley>{{Cite web | url = https://theguardian.newspapers.com/clip/74999840/the-guardian/ |  work = [[The Guardian]] | access-date = 3 April 2021 | via = [[Newspapers.com]] | title = Goater's goal makes City slicker | date = 20 May 1999 | page = 32 | first = Richard |last= Ashley}}</ref>
+
+{| width="100%" bgcolor=white
+|- valign=top bgcolor=#99ccff
+!colspan=3 style="width:1*"|Manchester City
+!
+!colspan=3 style="width:1*"|Gillingham
+|- valign=top align="center" bgcolor=#c1e0ff
+|Opponent
+|Result
+|Legs
+|Round
+|Opponent
+|Result
+|Legs
+|- align="center"
+|[[Wigan Athletic F.C.|Wigan Athletic]]
+|2–1
+|1–1 away; 1–0 home
+|Semi-finals
+|[[Preston North End F.C.|Preston North End]]
+|2–1
+|1–1 away; 1–0 home
+|}
+
+==Match==
+===Background===
+The match was Gillingham's first appearance at [[Wembley Stadium]], the country's [[List of national stadiums|national stadium]] and the venue reserved for major tournament finals since 1923.<ref name=ellig>{{cite book  | last =  Elligate  | first = David  | title = Gillingham FC On This Day  | publisher = Pitch Publishing  | year = 2009  | isbn = 9781905411450|location=[[Durrington, West Sussex|Durrington]] |page=97 }}</ref>  Manchester City, by comparison, had played there on eleven previous occasions in [[FA Cup]] and [[EFL Cup|League Cup]] finals.<ref>{{Cite book|title=Nationwide Football Annual 2013–2014|date=2014|publisher=SportsBooks Limited|isbn=9781907524387|editor1-first=Stuart|editor1-last=Barnes|location=[[Cheltenham]]| pages=150, 155}}</ref>  Gillingham were aiming to reach the second tier of English football for the first time in their history,<ref name="ind">{{cite news|page=31|first=Pete|last=Lansley|title=Football: Taylor believes Gills will pass character test|newspaper=[[The Independent]]|date=27 May 2000|url=https://www.proquest.com/docview/311630440|url-access=subscription|access-date=11 February 2021|archive-date=30 March 2021|archive-url=https://web.archive.org/web/20210330110946/https://www.proquest.com/docview/311630440/D6C4786F02BE4D3CPQ/1|id={{ProQuest|311630440}} |url-status=live}}</ref> whereas their opponents had spent more than 100 seasons in the top two tiers and had played in the top-level [[FA Premier League]] as recently as the [[1995–96 in English football|1995–96]] season.<ref>{{cite book|title=The History of English Football Clubs|page=181|first1=Colin|last1=Mitchell|first2=Jon |last2=Reeves|first3=Daniel|last3=Tyler|publisher=[[New Holland Publishers]]|location=London|date=2013|isbn=9781780094496}}</ref>  At the end of the [[1997–98 in English football|1997–98]] season, City had been [[promotion and relegation|relegated]] to the third tier of English football for the first time.<ref>{{cite web|url=https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-1998-relegation-side-18179348|title=What happened to the Man City team relegated from the First Division in 1998?|first=Carrie|last=Dunn|work=[[Manchester Evening News]]|date=2 May 2020|access-date=1 April 2021|archive-date=26 April 2021|archive-url=https://web.archive.org/web/20210426143321/https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-1998-relegation-side-18179348|url-status=live}}</ref>
+
+This season saw the first competitive matches between the sides: the first game, at Maine Road in November 1998, ended in a goalless [[Tie (draw)|draw]] while the return match played at Priestfield the following April ended in a 2–0 victory for Manchester City.<ref>{{Cite web | url = https://www.11v11.com/teams/manchester-city/tab/opposingTeams/opposition/Gillingham/ | website = 11v11 | publisher = AFS Enterprises | access-date = 3 April 2021 | title = Manchester City football club: record v Gillingham | archive-date = 26 September 2019 | archive-url = https://web.archive.org/web/20190926195949/https://www.11v11.com/teams/manchester-city/tab/opposingTeams/opposition/Gillingham/ | url-status = live }}</ref>  Asaba was the season's top scorer for Gillingham with 22 goals (20 in the league and 2 in the [[1998–99 Football League Trophy|Football League Trophy]]) followed by Taylor, who scored 19 goals in the regular season (16 in the league and 3 in the Football League Trophy).<ref>{{Cite web | url = https://www.soccerbase.com/teams/team.sd?team_id=1098&teamTabs=stats&season_id=128 | website = Soccerbase | publisher = Centurycomm | access-date = 3 April 2021 | title = Gillingham squad details – 1998/99 – Player appearances}}</ref>  Manchester City's Goater was leading scorer for his side, with 20 goals (17 in the league, 1 in the [[1998–99 FA Cup|FA Cup]] and 2 in the [[1998–99 Football League Cup|League Cup]]) followed by Dickov on 13 (10 in the league, 1 in the FA Cup and 2 in the League Cup) and [[Kevin Horlock]] with 10 (all in the league).<ref>{{Cite web | url = https://www.soccerbase.com/teams/team.sd?team_id=1718&teamTabs=stats&season_id=128 | website = Soccerbase | publisher = Centurycomm | access-date = 3 April 2021 | title = Man City squad details – 1998/99 – Player appearances | archive-date = 27 July 2021 | archive-url = https://web.archive.org/web/20210727150723/https://www.soccerbase.com/teams/team.sd?team_id=1718&teamTabs=stats&season_id=128 | url-status = live }}</ref>
+
+Gillingham [[manager (association football)|manager]] [[Tony Pulis]] picked the same eleven players in his starting line-up as in the second leg of the semi-final.<ref name=guardian/>  His opposite number, [[Joe Royle]], made one change, selecting [[Andy Morrison]] in place of [[Tony Vaughan (footballer)|Tony Vaughan]], who was instead named as one of the [[substitute (association football)|substitute]]s.<ref name=ashley />  The [[Referee (association football)|referee]] for the match was [[Mark Halsey]], from [[Welwyn Garden City]].<ref name=elevrep>{{Cite web | url = https://www.11v11.com/matches/gillingham-v-manchester-city-30-may-1999-307136/ | website = 11v11 | publisher = AFS Enterprises | access-date = 3 April 2021 | title = Gillingham v Manchester City, 30 May 1999 | archive-date = 27 July 2021 | archive-url = https://web.archive.org/web/20210727150711/https://www.11v11.com/matches/gillingham-v-manchester-city-30-may-1999-307136/ | url-status = live }}</ref><ref name=guardrep/>  The play-off final drew an attendance of 76,935, the largest crowd ever to watch a Gillingham match.<ref name=ellig />  It was a new record attendance for the third-tier play-off final and a larger attendance than that for [[1999 Football League First Division play-off final|the First Division play-off final]] the following day.<ref>{{cite book|pages=45–46|first=Stuart|last=Barnes|date=2009|title=Nationwide Football Annual 2009–2010|publisher=[[SportsBooks Limited]]|location=[[Cheltenham]] |isbn=9781899807819}}</ref>  [[Liam Gallagher|Liam]] and [[Noel Gallagher]] of the rock band [[Oasis (band)|Oasis]] were among the Manchester City fans in attendance.<ref name=BBC>{{cite web|url=https://news.bbc.co.uk/2/hi/sport/football/356672.stm|title=Sport: Football: Shoot-out success for City|publisher=[[BBC News]]|date=30 May 1999|access-date=4 April 2021|archive-date=2 April 2021|archive-url=https://web.archive.org/web/20210402082849/http://news.bbc.co.uk/2/hi/sport/football/356672.stm|url-status=live}}</ref>
+
+===Summary===
+[[File:Paul Dickov (cropped).png|thumb|right|upright|alt=Footballer Paul Dickov|[[Paul Dickov]] ''(pictured in 2008)'' scored the equalising goal five minutes into injury time.]]
+The match [[Kick-off (association football)|kicked off]] at around 3.00{{nbsp}}p.m. on 30 May 1999.<ref name=elevrep/><ref>{{Cite web | url = https://theguardian.newspapers.com/clip/82279156/the-observer/ | via = [[Newspapers.com]]| work = [[The Observer]] | title = Royle's antidote for Cityitis bug| access-date = 27 July 2021 | page = 74 | first = Amy | last = Lawrence | date = 30 May 1999}}</ref> In the first minute, Dickov's [[bicycle kick|overhead kick]] struck Ashby's hand in the Gillingham [[penalty area]] but referee Halsey did not award a [[penalty kick (association football)|penalty kick]].  Goater then saw his shot hit the Gillingham goalpost.  Gillingham's first goal-scoring chance came from [[Mick Galloway]], who had a shot from close range saved by a diving Weaver.<ref name=indept>{{Cite web | url = https://link.gale.com/apps/doc/A66592371/STND?u=wikipedia&sid=bookmark-STND&xid=9833beb6 | work = [[The Independent]] | access-date = 19 July 2021 | via = [[Gale (publisher)|Gale]] | title = Football: Royle's Blues rival United; Gillingham 2 Manchester City 2 (aet; Manchester City win 3–1 on penalties) | first = Conrad | last = Leach | date = 31 May 1999 | url-access = subscription | archive-date = 27 July 2021 | archive-url = https://web.archive.org/web/20210727150713/https://go.gale.com/ps/i.do?p=STND&u=wikipedia&id=GALE%7CA66592371&v=2.1&it=r&sid=bookmark-STND&asid=9833beb6 | url-status = live }}</ref>  After 26 minutes, City's [[Terry Cooke]] crossed the ball into the penalty area, where Horlock headed it towards goal, but it was saved by Gillingham's Bartram.<ref name=indept />  Both teams had further goal-scoring opportunities in the second half.  For Gillingham, [[Nicky Southall]] crossed the ball to [[Mark Saunders (footballer)|Mark Saunders]], but his shot went wide of the goal, and Asaba was [[Tackle (football move)|tackled]] by City's [[Ian Bishop (footballer)|Ian Bishop]] when in a potential scoring position.<ref name=indept />  After 70 minutes, Weaver saved a strongly-hit shot from Gillingham's [[Paul Smith (footballer, born 1971)|Paul Smith]], and five minutes later Cooke was again involved for City, as he set up Goater, whose shot went past Bartram but hit the goalpost.<ref name=indept />  The [[BBC]] characterised much of the match as "ordinary" and suggested that both teams were somewhat overawed by the high-profile setting.<ref name=BBC />
+
+The match remained scoreless until the 81st minute, when Asaba gave Gillingham the lead.  He played a [[push and run|one-two]] with Smith before shooting past Weaver from around {{convert|15|yd}}.  Taylor added a second goal five minutes later: he found Asaba with a [[Header (association football)|header]] and received a backheeled return pass before scoring with a shot.<ref name=timesrep/>  With only a minute of normal time left, and two goals behind in the game, many City fans considered that the game had been lost and began to make their way to the exits.<ref name=BBC />   However, after [[Darren Carr]] had tackled Goater to deny him a goal-scoring opportunity, Horlock scored from the rebound for City to halve the deficit in the 90th minute.  In the fifth minute of [[injury time]], Wiekens punted the ball forward, Horlock and Goater helped it on to Dickov who scored an equalising goal.  The regulation 90 minutes ended moments later, and with the scores level the game went into [[Overtime (sports)|extra time]].<ref name=timesrep/>  Dickov saw his header gathered by Bartram and although Hodge's cross was blocked by [[Jeff Whitley]]'s hand, no penalty was awarded.  With no goals being scored in the additional 30 minutes, the match and promotion to the First Division would be decided by a [[Penalty shoot-out (association football)|penalty shoot-out]].<ref name=BBC />
+
+Horlock scored the opening penalty for Manchester City before Weaver saved Smith's spot kick.  Dickov missed his penalty after it struck both posts, but [[Adrian Pennock]] then missed for Gillingham.  Cooke made it 2–0 to City before [[John Hodge (English footballer)|John Hodge]] scored for Gillingham. [[Richard Edghill]] scored for City to make the score 3–1, meaning that City would win if [[Guy Butters]] failed to score with Gillingham's fourth penalty.  Weaver saved the defender's kick to give Manchester City victory and secure promotion to the First Division.<ref name=guardrep>{{Cite web | url = https://theguardian.newspapers.com/clip/74999921/the-guardian/ | work = [[The Guardian]] | via = [[Newspapers.com]] | access-date = 3 April 2021 | title = Now City turn lost cause into a triumph | first = Trevor | last = Haylett | date = 31 May 1999 | page = 25 | archive-date = 27 July 2021 | archive-url = https://web.archive.org/web/20210727150752/https://theguardian.newspapers.com/clip/74999921/the-guardian/ | url-status = live }}</ref><ref name=timesrep>{{Cite news | url = https://link.gale.com/apps/doc/IF0500231797/TTDA?u=wikipedia&sid=TTDA&xid=5f472bb6 | work = [[The Times]] | via = [[Gale (publisher)|Gale]] | title = City stage another Manchester late show | page = 31 | date = 31 May 1999 | first = Keith | last = Pike | url-access = subscription | access-date = 3 April 2021 | archive-date = 27 July 2021 | archive-url = https://web.archive.org/web/20210727150804/https://go.gale.com/ps/i.do?p=TTDA&u=wikipedia&id=GALE%7CIF0500231797&v=2.1&it=r&sid=TTDA&asid=5f472bb6 | url-status = live }}</ref>
+
+===Details===
+{{Football box
+| date         = 30 May 1999
+| time         = 15:00 [[British Summer Time|BST]]
+| team1        = [[Manchester City F.C.|Manchester City]]
+| team2        = [[Gillingham F.C.|Gillingham]]
+| score        = 2–2
+| aet          = yes
+| goals1       = [[Kevin Horlock|Horlock]] {{goal|90}}<br />[[Paul Dickov|Dickov]] {{goal|90+5}}
+| goals2       = [[Carl Asaba|Asaba]] {{goal|81}}<br />[[Robert Taylor (footballer, born 1971)|Taylor]] {{goal|87}}
+| stadium      = [[Wembley Stadium (1923)|Wembley Stadium]], London
+| attendance   = 76,935
+| referee      = [[Mark Halsey]] ([[Lancashire County Football Association|Lancashire]])
+| report       = [https://news.bbc.co.uk/2/hi/sport/football/356672.stm Report]
+| penalties1   = [[Kevin Horlock|Horlock]] {{pengoal}}<br />[[Paul Dickov|Dickov]] {{penmiss}}<br />[[Terry Cooke|Cooke]] {{pengoal}}<br />[[Richard Edghill|Edghill]] {{pengoal}}
+| penaltyscore = 3–1
+| penalties2   = {{penmiss}} [[Paul Smith (footballer, born 1971)|Smith]]<br />{{penmiss}} [[Adrian Pennock|Pennock]]<br />{{pengoal}} [[John Hodge (English footballer)|Hodge]]<br />{{penmiss}} [[Guy Butters|Butters]]
+}}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _mcfc_away_98-99
+ | pattern_b  = _mcfc_away_98-99
+ | pattern_ra = _mcfc_away_98-99
+ | pattern_sh = _mcfc_away_98-99
+ | pattern_so = _mcfc_away_98-99
+ | title      = Manchester City
+}}
+|{{Football kit
+ | pattern_la = _black_stripes
+ | pattern_b  = _blackstripes
+ | pattern_ra = _black_stripes
+ | leftarm    = 0000ff
+ | body       = 0000ff
+ | rightarm   = 0000ff
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Gillingham
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||[[Nicky Weaver]]
+|-
+|RB ||'''2'''||[[Lee Crooks]] || || {{suboff|85}}
+|-
+|LB ||'''3'''||[[Richard Edghill]]
+|-
+|CB ||'''4'''||[[Gerard Wiekens]] || {{yel}}
+|-
+|CB ||'''5''' ||[[Andy Morrison]] ([[Captain (association football)|c]]) || || {{suboff|61}}
+|-
+|LM||'''6'''||[[Kevin Horlock]]
+|-
+|CM||'''7'''||[[Michael Brown (footballer, born 1977)|Michael Brown]] || || {{suboff|61}}
+|-
+|CM ||'''8''' ||[[Jeff Whitley]]
+|-
+|CF ||'''9''' ||[[Paul Dickov]] 
+|-
+|CF ||'''10'''||[[Shaun Goater]]
+|-
+|RM||'''11''' ||[[Terry Cooke]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''12''' ||[[Gareth Taylor]] || {{yel}} || {{subon|85}}
+|-
+|DF||'''13''' ||[[Tony Vaughan (footballer)|Tony Vaughan]] || || {{subon|61}}
+|-
+|MF ||'''14'''||[[Ian Bishop (footballer)|Ian Bishop]] || || {{subon|61}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Joe Royle]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||[[Vince Bartram]]
+|-
+|RWB ||'''2''' ||[[Nicky Southall]]
+|-
+|CB ||'''3''' ||[[Barry Ashby]]
+|-
+|CM ||'''4'''||[[Paul Smith (footballer, born 1971)|Paul Smith]]
+|-
+|CB ||'''5''' ||[[Guy Butters]]
+|-
+|CB||'''6'''||[[Adrian Pennock]]
+|-
+|LWB ||'''7'''||[[Mark Patterson (footballer, born 1968)|Mark Patterson]] || || {{suboff|105}}
+|-
+|CM ||'''8''' ||[[Andy Hessenthaler]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||[[Carl Asaba]] || || {{suboff|87}}
+|-
+|CM ||'''10'''||[[Mick Galloway]] || || {{suboff|56}}
+|-
+|CF ||'''11'''||[[Robert Taylor (footballer, born 1971)|Robert Taylor]] || {{yel}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''12'''||[[John Hodge (English footballer)|John Hodge]] || || {{subon|105}}
+|-
+|MF ||'''13'''||[[Mark Saunders (footballer)|Mark Saunders]] || || {{subon|56}}
+|-
+|DF ||'''14''' ||[[Darren Carr]] || {{yel}} || {{subon|87}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|[[Tony Pulis]]
+|}
+|}
+
+==Post-match==
+[[File:Tony_pulis_2014.jpg|thumb|right|upright|alt=Football manager Tony Pulis|Gillingham manager [[Tony Pulis]] ''(pictured in 2014)'' was dismissed from his job in controversial circumstances one month after the final.]]
+Gillingham manager Pulis was bemused by the amount of time added on by referee Halsey, stating that he "could not believe" the decision to add an additional five minutes.<ref name=timesrep />  One month after the 1999 final, Pulis was dismissed from his job at Gillingham, amid accusations of gross misconduct on his part, a decision which led to a lengthy and acrimonious court case between Pulis and club owner [[Paul Scally]].<ref>{{Cite web|url=https://www.theguardian.com/football/2001/apr/26/newsstory.sport1|title=Pulis 'drank champagne' after sacking|work=[[The Guardian]]|first=Jon|last=Brodkin|date=26 April 2001|access-date=1 April 2021}}</ref>  Scally was charged with misconduct by [[the Football Association]] (the FA), the governing body of the sport in England, after it emerged that he had placed a series of bets on the play-off final in contravention of the rules governing individuals gambling on matches in which they had a vested interest.  He appeared at an FA tribunal the following year and was fined £10,000.<ref name=ellig2>{{cite book  | last =  Elligate  | first = David  | title = Gillingham FC On This Day  | publisher = Pitch Publishing  | year = 2009  | isbn = 9781905411450|location=[[Durrington, West Sussex|Durrington]] |page=116 }}</ref>
+
+Manchester City's [[1999–2000 Manchester City F.C. season|next season]] saw them secure automatic promotion to the FA Premier League after ending their campaign as runners-up.<ref>{{Cite web | url = https://uk.soccerway.com/national/england/championship/1999-2000/regular-season/r533/ | website = Soccerway | publisher = Perform Group | access-date = 3 April 2021 | title = Championship – 1999/2000 – Regular season | archive-date = 27 July 2021 | archive-url = https://web.archive.org/web/20210727150728/https://uk.soccerway.com/national/england/championship/1999-2000/regular-season/r533/ | url-status = live }}</ref>   Gillingham, under new manager [[Peter Taylor (footballer, born 1953)|Peter Taylor]], returned to [[2000 Football League play-offs|the play-offs]] in their [[1999–2000 Gillingham F.C. season|following season]], finishing in third place in the Second Division.  They secured promotion to the First Division with a 3–2 victory against Wigan Athletic in [[2000 Football League Second Division play-off final|the final]].<ref>{{Cite web | url = https://www.11v11.com/league-tables/league-division-2/2000/ | website = 11v11 | publisher = AFS Enterprises | access-date = 3 April 2021 | title = League Division 2 end of season table for 1999–00 season | archive-date = 27 September 2018 | archive-url = https://web.archive.org/web/20180927050225/https://www.11v11.com/league-tables/league-division-2/2000/ | url-status = live }}</ref><ref>{{cite web|url=https://news.bbc.co.uk/2/hi/sport/football/767702.stm|title=Second time lucky for Gills|publisher=[[BBC Sport]]|date=28 May 2000|access-date=4 July 2021|archive-date=3 March 2003|archive-url=https://web.archive.org/web/20030303203928/http://news.bbc.co.uk/1/hi/sport/football/767702.stm|url-status=live}}</ref>
+
+Looking back on the match in 2011, Pulis stated that "[Gillingham] didn't deserve to lose that game{{nbsp}}... But it made me a much stronger person. You take things out of defeat as well as victory".<ref>{{Cite web|url=https://www.manchestereveningnews.co.uk/sport/football/football-news/stoke-boss-tony-pulis-out-858693|title=Stoke boss Tony Pulis out for Wembley revenge on Manchester City|work=[[Manchester Evening News]]|date=18 April 2011|access-date=10 April 2021|
+archive-date=10 April 2021|archive-url=https://web.archive.org/web/20210410185815/https://www.manchestereveningnews.co.uk/sport/football/football-news/stoke-boss-tony-pulis-out-858693|url-status=live}}</ref>  Manchester City's 1999 [[captain (association football)|captain]], Morrison, contended in 2018 that the club was at risk of going out of business within a year, if not for their match-winning promotion out of the Second Division.<ref>{{cite web|url=https://www.telegraph.co.uk/football/2018/09/04/mark-halsey-denied-gillingham-manchester-citys-riches-dark-day/|title=How Mark Halsey denied Gillingham Manchester City's riches on a dark day in 1999|work=[[The Daily Telegraph]]|first=Daniel|last=Schofield|date=4 September 2018|access-date=4 April 2021|archive-date=8 September 2018|archive-url=https://web.archive.org/web/20180908202313/https://www.telegraph.co.uk/football/2018/09/04/mark-halsey-denied-gillingham-manchester-citys-riches-dark-day/|url-status=live}}</ref>  Twenty years after the match, Dickov recalled scoring the equalising goal past his friend and the [[Groomsman|best man]] at his wedding, Gillingham goalkeeper Bartram: "There is nothing better than getting one over your mate or reminding him of it a few years later".<ref>{{Cite web | url = https://www.theguardian.com/football/2019/may/29/paul-dickov-manchester-city-1999-play-off-final-gillingham | work = [[The Guardian]] | access-date = 5 April 2021 | title = Twenty years after: Paul Dickov and Manchester City's 1999 play-off win | first = Jamie | last = Jackson | date = 29 May 2019 | archive-date = 31 March 2021 | archive-url = https://web.archive.org/web/20210331190130/https://www.theguardian.com/football/2019/may/29/paul-dickov-manchester-city-1999-play-off-final-gillingham | url-status = live }}</ref>  As a result of the subsequent success of the club, the ''[[Manchester Evening News]]'' described the match as "legendary in City's history" and Dickov's celebration of his goal as "iconic".<ref>{{Cite web | url = https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-gillingham-wembley-1999-16347459 | work = [[Manchester Evening News]] | title = Man City's dramatic 1999 play-off victory keeps getting bigger | date = 30 May 2019 | access-date = 5 April 2021 | first = Simon | last = Bajkowski | archive-date = 29 May 2021 | archive-url = https://web.archive.org/web/20210529081801/https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-gillingham-wembley-1999-16347459 | url-status = live }}</ref>  In 2017, the [[English Football League]] (formerly The Football League) described the 1999 final as a "play-off classic".<ref>{{Cite news | url = https://www.efl.com/news/2017/may/play-off-classics-gillingham-v-manchester-city/ | publisher = [[English Football League]] | title = Play-Off Classics: Gillingham v Manchester City | date = 18 May 2017 | access-date = 5 April 2021 | archive-date = 24 January 2021 | archive-url = https://web.archive.org/web/20210124060937/https://www.efl.com/news/2017/may/play-off-classics-gillingham-v-manchester-city/ | url-status = live }}</ref>  Manchester City fans and other commentators regard the game as a crucial first step in the club's revival from the third tier of English football to yearly contenders for the Premier League championship.<ref>{{cite news |url=https://www.theguardian.com/football/blog/2013/may/24/joy-of-six-play-off-finals |first=Barry |last=Glendenning |author-link=Barry Glendenning |title=The Joy of Six: Football League play-off finals |work=[[The Guardian]] |access-date=30 October 2013 |date=24 May 2013 |archive-date=2 November 2013 |archive-url=https://web.archive.org/web/20131102204817/http://www.theguardian.com/football/blog/2013/may/24/joy-of-six-play-off-finals |url-status=live }}</ref>
+{{clear}}
+
+==References==
+{{reflist}}
+
+{{EFL League One play-offs}}
+{{1998–99 in English football}}
+{{Gillingham F.C.}}
+{{Manchester City F.C. matches}}
+
+[[Category:Football League Second Division play-off finals]]
+[[Category:EFL League One play-off finals]]
+[[Category:1998–99 Football League Second Division|play]]
+[[Category:Gillingham F.C. matches|Play-off Final 1999]]
+[[Category:Manchester City F.C. matches|Play-off Final 1999]]
+[[Category:1999 Football League play-offs]]
+[[Category:1999 in sport in London|Football League Second Division play-off final]]
+[[Category:May 1999 sports events in the United Kingdom|Football League Second Division play-off final]]

@@ -1,0 +1,905 @@
+[
+ {
+  "article": "2019 EFL Cup final",
+  "date": "2019-02-24",
+  "competition": "League Cup",
+  "season": "2018-19",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Manchester City",
+  "score_90": "0-0",
+  "score_aet": "0-0",
+  "shootout": "3-4",
+  "winner": "Manchester City",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.skysports.com/football/chelsea-vs-manchester-city/405627",
+   "https://www.skysports.com/football/chelsea-vs-manchester-city/report/405627",
+   "https://www.tntsports.co.uk/football/league-cup/2018-2019/football-news-man-city-lift-cup-on-penalties-after-astonishing-drama-between-kepa-and-sarri_sto7159154/story.shtml",
+   "https://www.espn.co.uk/football/report/_/gameId/535881 (search-result listing only: 'Man City 0-0 Chelsea (24 Feb, 2019)'; page body not readable)"
+  ],
+  "core_verified": true,
+  "referee": "Jon Moss",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - West Riding County FA",
+  "referee_sources": [
+   "https://www.skysports.com/football/chelsea-vs-manchester-city/teams/405627",
+   "https://www.tntsports.co.uk/football/league-cup/2018-2019/football-news-man-city-lift-cup-on-penalties-after-astonishing-drama-between-kepa-and-sarri_sto7159154/story.shtml"
+  ],
+  "assistants": "Andy Halliday; Marc Perry",
+  "fourth_official": "Paul Tierney",
+  "var_officials": "VAR: Martin Atkinson; AVAR: Steve Child (AVAR per Wikipedia only; Sky lists no AVAR)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/chelsea-vs-manchester-city/teams/405627",
+   "https://www.skysports.com/football/chelsea-vs-manchester-city/report/405627"
+  ],
+  "manager1": "Maurizio Sarri",
+  "manager2": "Pep Guardiola",
+  "goals": [],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "David Luiz",
+    "minute": "30",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Fernandinho",
+    "minute": "58",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Antonio Rüdiger",
+    "minute": "72",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Jorginho",
+    "minute": "88",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Nicolás Otamendi",
+    "minute": "90+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/chelsea-vs-manchester-city/teams/405627"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.skysports.com/football/chelsea-vs-manchester-city/405627",
+   "xg_source": null,
+   "note": "Shots/possession/fouls not obtainable: Sky stats page shows only interceptions (Chelsea 7, City 15); ESPN pages render empty; BBC/Guardian blocked. Sky: first shot 22', first shot on target 43'."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Marcos Alonso (not in matchday squad; reason not given)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.skysports.com/football/chelsea-vs-manchester-city/report/405627"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "Sky Sports report/teams/match page, TNT Sports report; WebSearch on Sky/ESPN. Aguero's 54'(Sky; TNT 56') goal ruled out for offside after VAR upheld the flag; Sky says replays showed it was 'closer than it looked' but no outlet called it wrong, so not recorded. Kepa's refusal to be substituted is not a refereeing decision (excluded). No Ref Watch/ESPN VAR review for this final found. No disputes recorded.",
+  "uncertain": [
+   "AVAR Steve Child from Wikipedia only (Sky teams page lists referee, ARs, 4th official, VAR only).",
+   "Aguero disallowed-goal minute: Sky 54', TNT 56'.",
+   "Shootout per Sky: Chelsea - Jorginho saved (Ederson), Azpilicueta, Emerson scored, David Luiz hit post, Hazard scored; City - Gundogan, Aguero scored, Sane saved (Kepa), Bernardo Silva, Sterling scored.",
+   "Man City absences: Guardiola mentioned injuries but no names in fetched sources; Kompany came on at half-time (Sky). Lists not exhaustive.",
+   "Odds not found (no reputable preview fetchable).",
+   "GLT: no source found."
+  ]
+ },
+ {
+  "article": "2020 EFL Cup final",
+  "date": "2020-03-01",
+  "competition": "League Cup",
+  "season": "2019-20",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Aston Villa",
+  "team2": "Manchester City",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/a-villa-vs-man-city/report/423697",
+   "https://www.irishtimes.com/sport/soccer/english-soccer/manchester-city-complete-league-cup-three-in-a-row-1.4189702",
+   "https://www.cbssports.com/soccer/news/manchester-city-vs-aston-villa-score-pep-guardiola-man-city-secure-third-consecutive-efl-cup-title/"
+  ],
+  "core_verified": true,
+  "referee": "Lee Mason",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Lancashire FA",
+  "referee_sources": [
+   "https://www.skysports.com/football/a-villa-vs-man-city/teams/423697",
+   "Wikipedia citing EFL / the-ra.org appointments (not readable)"
+  ],
+  "assistants": "Ian Hussin; Harry Lennard",
+  "fourth_official": "David Coote",
+  "var_officials": "VAR: Mike Dean; AVAR: Neil Davies",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/a-villa-vs-man-city/teams/423697"
+  ],
+  "manager1": "Dean Smith",
+  "manager2": "Pep Guardiola",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Sergio Agüero",
+    "minute": "20",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Rodri",
+    "minute": "30",
+    "type": "header"
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Mbwana Samatta",
+    "minute": "41",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester City",
+    "player": "Raheem Sterling",
+    "minute": "57",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Rodri",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Ahmed Elmohamady",
+    "minute": "68",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Marvelous Nakamba",
+    "minute": "72",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Tyrone Mings",
+    "minute": "90+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/a-villa-vs-man-city/teams/423697"
+  ],
+  "stats": {
+   "shots1": 5,
+   "shots2": 22,
+   "sot1": null,
+   "sot2": null,
+   "poss1": 30,
+   "poss2": 70,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.cbssports.com/soccer/news/manchester-city-vs-aston-villa-score-pep-guardiola-man-city-secure-third-consecutive-efl-cup-title/",
+   "xg_source": null,
+   "note": "Shots (Villa 5, City 22) and possession (City 70%) from CBS Sports report only (single source; provider not named). Sky stats page gives saves 2-2, interceptions 12-7."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [
+    "https://www.skysports.com/football/a-villa-vs-man-city/report/423697",
+    "https://www.irishtimes.com/sport/soccer/english-soccer/manchester-city-complete-league-cup-three-in-a-row-1.4189702"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "30",
+    "score_at_time": "0-1",
+    "type": "other",
+    "description": "Corner from which Rodri headed City's second goal: Sky's report calls it 'contentiously-awarded'; the Irish Times report questions whether the corner should have been given, as the last touch 'seemed to be off Gundogan rather than Grealish'.",
+    "favoured_team": "Manchester City",
+    "against_team": "Aston Villa",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (Sky Sports and Irish Times match reports)",
+    "impact": "possible",
+    "impact_reasoning": "A goal came directly from the corner in a match won 2-1; but a corner award is a restart decision and the goal still had to be scored, so rated possible rather than likely.",
+    "sources": [
+     "https://www.skysports.com/football/a-villa-vs-man-city/report/423697",
+     "https://www.irishtimes.com/sport/soccer/english-soccer/manchester-city-complete-league-cup-three-in-a-row-1.4189702"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports report/teams, Irish Times report, CBS Sports report; WebSearch (Sky/ESPN/EFL/Irish Times/CBS). No VAR interventions or penalty/red-card disputes reported. Only issue found: contentious corner before Rodri's goal. ESPN/BBC/Guardian/EFL pages not readable.",
+  "uncertain": [
+   "Agüero goal minute: Sky header 20', Sky body text 19'; Irish Times says his shot flicked off Tyrone Mings (still credited to Agüero).",
+   "Attendance: 82,145 (Sky/ESPN) vs 82,149 (EFL/CBS).",
+   "Absences not verified (e.g. Villa keepers Heaton/Reina situation, Wesley injury) - nothing recorded; empty lists mean 'not found'.",
+   "Stats single-source (CBS).",
+   "Odds not found.",
+   "GLT: no source found."
+  ]
+ },
+ {
+  "article": "2021 EFL Cup final",
+  "date": "2021-04-25",
+  "competition": "League Cup",
+  "season": "2020-21",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester City",
+  "team2": "Tottenham Hotspur",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/report/440532",
+   "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/teams/440532",
+   "https://tottenhamhotspur.com/news/2021/april/late-heartbreak-in-carabao-cup-final"
+  ],
+  "core_verified": true,
+  "referee": "Paul Tierney",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Lancashire FA",
+  "referee_sources": [
+   "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/teams/440532",
+   "https://tottenhamhotspur.com/news/2021/april/late-heartbreak-in-carabao-cup-final"
+  ],
+  "assistants": "Lee Betts; Constantine Hatzidakis",
+  "fourth_official": "Peter Bankes",
+  "var_officials": "VAR: Andre Marriner; AVAR: Adrian Holmes",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/teams/440532"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "Ryan Mason (interim)",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Aymeric Laporte",
+    "minute": "82",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Sergio Reguilón",
+    "minute": "27",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Aymeric Laporte",
+    "minute": "45",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Fernandinho",
+    "minute": "59",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/teams/440532",
+   "https://tottenhamhotspur.com/news/2021/april/late-heartbreak-in-carabao-cup-final"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.skysports.com/football/news/11938/12286576/man-city-1-0-tottenham-aymeric-laporte-heads-winner-in-carabao-cup-final",
+   "xg_source": null,
+   "note": "Sky Sports quotes xG Man City 3.63 - Tottenham 0.06 but does not name the provider, so not entered in xg fields. Spurs official report: first half City 10 attempts (1 on target), Spurs 1. Sky: City 29 first-half touches in Spurs box vs 1."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [
+    "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/report/440532",
+    "https://tottenhamhotspur.com/news/2021/april/late-heartbreak-in-carabao-cup-final"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "45",
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "Laporte fouled Lucas Moura twice to stop counter-attacks (c.24', not booked; just before half-time, booked). Sky's report says he was 'perhaps lucky only to be booked' for the second; Tottenham's official report notes Tierney did not book the first foul, meaning the second could otherwise have been a second yellow/red. Laporte scored the 82' winner.",
+    "favoured_team": "Manchester City",
+    "against_team": "Tottenham Hotspur",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comment (Sky Sports report) and Tottenham Hotspur official report only",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0 in a 1-0 match; a red card for the eventual match-winner would have been significant, but the source only hints at it.",
+    "sources": [
+     "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/report/440532",
+     "https://www.skysports.com/football/news/11938/12286576/man-city-1-0-tottenham-aymeric-laporte-heads-winner-in-carabao-cup-final",
+     "https://tottenhamhotspur.com/news/2021/april/late-heartbreak-in-carabao-cup-final"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports report, news report and teams page; Tottenham official match report; WebSearch (Sky, Irish Times, RTE, CBS, club sites). No VAR controversy found. Only Laporte booking issue recorded.",
+  "uncertain": [
+   "Laporte incident: no referee-expert view found; one source is the losing club's site.",
+   "Tottenham article says TV coverage briefly showed a booking for the first Laporte foul, which was incorrect.",
+   "Absences: none verified (Spurs made two changes - Kane and Winks in for Bale and Ndombele - tactical). Empty lists mean 'not found'.",
+   "Odds not found.",
+   "Attendance 7,773 (Covid pilot event).",
+   "GLT: no source found."
+  ]
+ },
+ {
+  "article": "2022 EFL Cup final",
+  "date": "2022-02-27",
+  "competition": "League Cup",
+  "season": "2021-22",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Liverpool",
+  "score_90": "0-0",
+  "score_aet": "0-0",
+  "shootout": "10-11",
+  "winner": "Liverpool",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/report/462566",
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/462566",
+   "https://www.rte.ie/sport/soccer/2022/0227/1283368-kelleher-scores-winner-as-reds-clinch-wembley-shootout/",
+   "https://www.cbssports.com/soccer/news/chelsea-vs-liverpool-score-kepa-gamble-by-tuchel-fails-as-league-cup-final-goes-to-reds-in-penalty-thriller/live/"
+  ],
+  "core_verified": true,
+  "referee": "Stuart Attwell",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Birmingham County FA",
+  "referee_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/462566",
+   "https://www.rte.ie/sport/soccer/2022/0227/1283368-kelleher-scores-winner-as-reds-clinch-wembley-shootout/",
+   "https://www.cbssports.com/soccer/news/chelsea-vs-liverpool-score-kepa-gamble-by-tuchel-fails-as-league-cup-final-goes-to-reds-in-penalty-thriller/live/"
+  ],
+  "assistants": "Dan Cook; Dan Robathan",
+  "fourth_official": "Andy Madley",
+  "var_officials": "VAR: Darren England; AVAR: Simon Bennett",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/462566",
+   "https://www.skysports.com/football/news/12553889/ref-watch-dermot-gallagher-gives-verdict-on-the-controversial-penalty-appeal-for-handball-by-rodri-vs-everton"
+  ],
+  "manager1": "Thomas Tuchel",
+  "manager2": "Jürgen Klopp",
+  "goals": [],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Mateo Kovačić",
+    "minute": "90",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "N'Golo Kanté",
+    "minute": "99",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Kai Havertz",
+    "minute": "105+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Trent Alexander-Arnold",
+    "minute": "105+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/462566"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Shots/possession/fouls not found; Sky stats page only gives saves (6-4) and interceptions (23-10). A 2024 Sky Sports article states Chelsea had 1.83 xG in the 2022 final (Sky's 'League Cup xG' data, provider not named) - not entered. CBS: Chelsea caught offside 7 times."
+  },
+  "odds": {
+   "team1": 3.3,
+   "draw": 3.1,
+   "team2": 2.3,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Caesars Sportsbook via CBS Sports",
+   "source": "https://www.cbssports.com/soccer/news/chelsea-vs-liverpool-score-kepa-gamble-by-tuchel-fails-as-league-cup-final-goes-to-reds-in-penalty-thriller/live/",
+   "note": "Quoted as American odds Chelsea +230, Draw +210, Liverpool +130 on CBS Sports' match page; converted to decimal. Snapshot time not stated (presumably pre-match); US bookmaker."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Thiago Alcântara (injured in warm-up; replaced by Naby Keïta)"
+   ],
+   "sources": [
+    "https://www.skysports.com/football/chelsea-vs-liverpool/report/462566",
+    "https://www.rte.ie/sport/soccer/2022/0227/1283368-kelleher-scores-winner-as-reds-clinch-wembley-shootout/",
+    "https://www.cbssports.com/soccer/news/chelsea-vs-liverpool-score-kepa-gamble-by-tuchel-fails-as-league-cup-final-goes-to-reds-in-penalty-thriller/live/"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "67",
+    "score_at_time": "0-0",
+    "type": "goal disallowed",
+    "description": "Joel Matip's header from a free-kick routine (Mané headed across) ruled out after referee Stuart Attwell was sent to the monitor by VAR Darren England: Virgil van Dijk, starting from an offside position, was judged to have impeded Reece James.",
+    "favoured_team": "Chelsea",
+    "against_team": "Liverpool",
+    "assessment": "expert consensus correct",
+    "assessed_by": "Dermot Gallagher (Sky Sports Ref Watch): 'It's the right call. James gets impeded.' Van Dijk publicly disagreed. A former PL referee reportedly called the law 'not fit for purpose' (NationalWorld/LiverpoolWorld; page not fetchable).",
+    "impact": "likely",
+    "impact_reasoning": "Directly denied a goal at 0-0 in a match decided on penalties; Liverpool won anyway, so the decision did not change the eventual winner.",
+    "sources": [
+     "https://www.skysports.com/football/news/12553889/ref-watch-dermot-gallagher-gives-verdict-on-the-controversial-penalty-appeal-for-handball-by-rodri-vs-everton",
+     "https://www.skysports.com/football/chelsea-vs-liverpool/report/462566",
+     "https://www.rte.ie/sport/soccer/2022/0227/1283368-kelleher-scores-winner-as-reds-clinch-wembley-shootout/",
+     "https://www.cbssports.com/soccer/news/chelsea-vs-liverpool-score-kepa-gamble-by-tuchel-fails-as-league-cup-final-goes-to-reds-in-penalty-thriller/live/",
+     "https://www.goal.com/en-om/news/why-was-joel-matip-goal-liverpool-vs-chelsea-carabao-cup-final-ruled-out-var/blt4f7a1898b01d778b"
+    ]
+   },
+   {
+    "minute": null,
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "Naby Keïta's high challenge on Trevoh Chalobah (caught in the groin area) - no card. Covered in Sky's Ref Watch.",
+    "favoured_team": "Liverpool",
+    "against_team": "Chelsea",
+    "assessment": "expert consensus correct",
+    "assessed_by": "Dermot Gallagher (Sky Sports Ref Watch): not malicious, 'both players were as high as each other'; Attwell 'could have yellow carded Keita' - i.e. no red warranted, yellow arguably missed",
+    "impact": "none",
+    "impact_reasoning": "Expert view is that at most a yellow was warranted; no man-advantage would have resulted.",
+    "sources": [
+     "https://www.skysports.com/football/news/12553889/ref-watch-dermot-gallagher-gives-verdict-on-the-controversial-penalty-appeal-for-handball-by-rodri-vs-everton"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports report/teams, Sky Ref Watch (28 Feb 2022), RTE (match report), CBS Sports live report, Goal.com explainer; WebSearch for Matip/VAR/Gallagher/ESPN. ESPN VAR Review pages render empty; BBC/Guardian/web.archive blocked; EFL statement on Matip goal exists (reported via inkl) but not readable. Lukaku (marginal) and Havertz goals ruled out for offside - described as tight but not as wrong, so not recorded.",
+  "uncertain": [
+   "Matip goal minute: Goal.com 67'; earlier pass recorded 69'.",
+   "Player impeded by Van Dijk: Sky/Gallagher/Goal say Reece James; RTE says Antonio Rüdiger.",
+   "Keïta-Chalobah challenge: single source (Sky Ref Watch); minute not given.",
+   "Chelsea: Azpilicueta went off injured 57' (in-match, not an absence).",
+   "Odds: CBS/Caesars only; snapshot time unknown.",
+   "Havertz and Kanté booking minutes: Sky gives Havertz 107 (105+2).",
+   "GLT: no source found."
+  ]
+ },
+ {
+  "article": "2023 EFL Cup final",
+  "date": "2023-02-26",
+  "competition": "League Cup",
+  "season": "2022-23",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester United",
+  "team2": "Newcastle United",
+  "score_90": "2-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/news/11938/12817244/man-utd-2-0-newcastle-erik-ten-hags-side-win-carabao-cup-to-end-six-year-trophy-drought",
+   "https://www.skysports.com/football/manchester-united-vs-newcastle-united/teams/481140",
+   "https://www.rte.ie/sport/soccer/2023/0226/1358968-casemiro-inspires-manchester-united-to-win-carabao-cup/"
+  ],
+  "core_verified": true,
+  "referee": "David Coote",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Nottinghamshire FA",
+  "referee_sources": [
+   "https://www.skysports.com/football/manchester-united-vs-newcastle-united/teams/481140",
+   "Wikipedia citing EFL appointments (not readable)"
+  ],
+  "assistants": "Nick Hopton; Tim Wood",
+  "fourth_official": "Simon Hooper",
+  "var_officials": "VAR: Peter Bankes; AVAR: Eddie Smart",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/manchester-united-vs-newcastle-united/teams/481140"
+  ],
+  "manager1": "Erik ten Hag",
+  "manager2": "Eddie Howe",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Casemiro",
+    "minute": "33",
+    "type": "header"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Marcus Rashford",
+    "minute": "39",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Diogo Dalot",
+    "minute": "9",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Fred",
+    "minute": "37",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Joelinton",
+    "minute": "45+6",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Sven Botman",
+    "minute": "67",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "David de Gea",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Casemiro",
+    "minute": "87",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Luke Shaw",
+    "minute": "90+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Lisandro Martínez",
+    "minute": "90+6",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Fabian Schär",
+    "minute": "90+6",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/manchester-united-vs-newcastle-united/teams/481140"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Not found; Sky stats page only gives saves (2-8) and interceptions (11-5)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Anthony Martial (ruled out; reason not given)"
+   ],
+   "team2": [
+    "Nick Pope (suspended - red card v Liverpool)",
+    "Martin Dubravka (cup-tied; played for Man Utd earlier in the competition)"
+   ],
+   "sources": [
+    "https://www.skysports.com/football/news/12818751/ten-hag-uncertain-on-rashford-fitness-newcastle-try-to-annoy-you"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "Sky Sports report/teams, RTE (PA) report, Sky preview; WebSearch for Ref Watch/Casemiro offside. Only VAR check: Casemiro's 33' header, ruled narrowly onside - not described as disputed. No Ref Watch item on this final found. No disputes recorded.",
+  "uncertain": [
+   "Second goal: RTE (PA, on the day) gives it as a Sven Botman own goal from Rashford's shot; Sky and Man Utd (headline: 'Marcus Rashford officially credited...') credit Rashford - kept as Rashford.",
+   "Referee David Coote confirmed by Sky only (plus Wikipedia/EFL citation not readable).",
+   "Christian Eriksen reportedly injured (ankle) - not verified, not listed. Rashford was a pre-match doubt but played.",
+   "Stats not found (Sky stats page: saves 2-8, interceptions 11-5 only).",
+   "Odds not found.",
+   "GLT: no source found."
+  ]
+ },
+ {
+  "article": "2024 EFL Cup final",
+  "date": "2024-02-25",
+  "competition": "League Cup",
+  "season": "2023-24",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Liverpool",
+  "score_90": "0-0",
+  "score_aet": "0-1",
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/503090",
+   "https://www.skysports.com/football/news/13077770/chelsea-0-1-liverpool-aet-virgil-van-dijks-late-header-seals-carabao-cup-win",
+   "https://www.irishtimes.com/sport/soccer/2024/02/25/virgil-van-dijk-and-caoimhin-kelleher-shine-in-liverpools-carabao-cup-win/"
+  ],
+  "core_verified": true,
+  "referee": "Chris Kavanagh",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/503090",
+   "https://www.skysports.com/football/news/12040/13081453/ref-watch-dermot-gallagher-reveals-why-virgil-van-dijk-goal-for-liverpool-in-carabao-cup-final-was-ruled-out",
+   "https://uk.sports.yahoo.com/news/carabao-cup-final-why-virgil-164211894.html"
+  ],
+  "assistants": "Mark Scholes; James Mainwaring (Mainwaring per Wikipedia only)",
+  "fourth_official": "Tim Robinson",
+  "var_officials": "VAR: John Brooks; AVAR: Wade Smith (per Sky teams page; Wikipedia says Marc Perry)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/503090",
+   "https://www.skysports.com/football/news/12040/13081453/ref-watch-dermot-gallagher-reveals-why-virgil-van-dijk-goal-for-liverpool-in-carabao-cup-final-was-ruled-out"
+  ],
+  "manager1": "Mauricio Pochettino",
+  "manager2": "Jürgen Klopp",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "Virgil van Dijk",
+    "minute": "118",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Ben Chilwell",
+    "minute": "45+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Conor Bradley",
+    "minute": "45+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Alexis Mac Allister",
+    "minute": "81",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Ibrahima Konaté",
+    "minute": "82",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "James McConnell",
+    "minute": "107",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Cole Palmer",
+    "minute": "120+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Joe Gomez",
+    "minute": "120+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/503090"
+  ],
+  "stats": {
+   "shots1": 19,
+   "shots2": 24,
+   "sot1": 9,
+   "sot2": 11,
+   "poss1": 46,
+   "poss2": 54,
+   "fouls1": 14,
+   "fouls2": 21,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://skysports.com/amp/football/news/11095/13081405/carabao-cup-final-five-stats-from-liverpool-s-win-over-chelsea-which-you-might-have-missed",
+   "xg_source": null,
+   "note": "Shots (19-24) and fouls (14-21) confirmed by Sky Sports stats article; shots on target and possession only from Wikipedia citing The Athletic (unverified). Sky gives Chelsea xG 2.28 and match total ~4.06 (Sky 'League Cup xG' data, provider not named) - not entered. Passes 587-689. Includes extra time."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Reece James (injury)",
+    "Thiago Silva (absent; reason not given)"
+   ],
+   "team2": [
+    "Alisson (muscle)",
+    "Trent Alexander-Arnold (injury)",
+    "Joël Matip (ACL)",
+    "Diogo Jota (knee)",
+    "Curtis Jones (ankle)",
+    "Thiago Alcântara (muscle)",
+    "Stefan Bajčetić (injury)",
+    "Ben Doak (injury)",
+    "Mohamed Salah (doubt pre-match; did not play per Wikipedia)",
+    "Darwin Núñez (doubt pre-match; did not play per Wikipedia)",
+    "Dominik Szoboszlai (doubt pre-match; did not play per Wikipedia)"
+   ],
+   "sources": [
+    "https://www.skysports.com/football/news/13077770/chelsea-0-1-liverpool-aet-virgil-van-dijks-late-header-seals-carabao-cup-win",
+    "https://www.irishtimes.com/sport/soccer/2024/02/25/virgil-van-dijk-and-caoimhin-kelleher-shine-in-liverpools-carabao-cup-win/",
+    "https://www.skysports.com/football/news/13078902/liverpool-injury-list-mounts-as-trio-face-last-minute-tests-for-final",
+    "https://www.90min.com/posts/liverpool-injuries-every-player-out-of-carabao-cup-final-vs-chelsea"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "60",
+    "score_at_time": "0-0",
+    "type": "goal disallowed",
+    "description": "Van Dijk headed in Robertson's free-kick; after a lengthy check VAR John Brooks sent referee Chris Kavanagh to the monitor and the goal was ruled out because Wataru Endo, in an offside position, blocked Levi Colwill from challenging.",
+    "favoured_team": "Chelsea",
+    "against_team": "Liverpool",
+    "assessment": "expert consensus correct",
+    "assessed_by": "Dermot Gallagher (Sky Ref Watch): 'the right decision', 'a good spot from VAR'; Mike Dean (Sky): 'subjective offside', Endo may have blocked Colwill; Jamie Redknapp: correct by the letter of the law but inconsistent; Neville/Carragher called it harsh; Evening Standard's Dan Kilpatrick questioned the precedent. ESPN VAR Review (Dale Johnson) exists but unreadable.",
+    "impact": "likely",
+    "impact_reasoning": "Directly denied a goal at 0-0 in a match won 1-0 aet; Liverpool still won, so the eventual winner was unchanged.",
+    "sources": [
+     "https://www.skysports.com/football/news/12040/13081453/ref-watch-dermot-gallagher-reveals-why-virgil-van-dijk-goal-for-liverpool-in-carabao-cup-final-was-ruled-out",
+     "https://www.skysports.com/football/news/13866/13081037/why-van-dijks-carabao-cup-final-goal-was-ruled-out",
+     "https://uk.sports.yahoo.com/news/carabao-cup-final-why-virgil-164211894.html",
+     "https://www.irishtimes.com/sport/soccer/2024/02/25/virgil-van-dijk-and-caoimhin-kelleher-shine-in-liverpools-carabao-cup-win/",
+     "https://www.skysports.com/football/news/13077770/chelsea-0-1-liverpool-aet-virgil-van-dijks-late-header-seals-carabao-cup-win"
+    ]
+   },
+   {
+    "minute": null,
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "First-half challenge by Moisés Caicedo on Ryan Gravenberch's ankle; Gravenberch stretchered off. No card, no VAR intervention; Klopp reported furious.",
+    "favoured_team": "Chelsea",
+    "against_team": "Liverpool",
+    "assessment": "expert consensus correct",
+    "assessed_by": "Dermot Gallagher (Sky Ref Watch): Caicedo 'slightly lucky' to avoid a card, a yellow would have been understandable (not a red); Sue Smith: yellow not red. Guardian (via Irish Times) and Sky caption suggest he was fortunate.",
+    "impact": "none",
+    "impact_reasoning": "Experts judged at most a yellow card; no man-advantage would have followed.",
+    "sources": [
+     "https://www.skysports.com/football/news/12040/13081453/ref-watch-dermot-gallagher-reveals-why-virgil-van-dijk-goal-for-liverpool-in-carabao-cup-final-was-ruled-out",
+     "https://www.skysports.com/football/news/13866/13081037/why-van-dijks-carabao-cup-final-goal-was-ruled-out",
+     "https://www.irishtimes.com/sport/soccer/2024/02/25/virgil-van-dijk-and-caoimhin-kelleher-shine-in-liverpools-carabao-cup-win/",
+     "https://www.skysports.com/football/news/13077770/chelsea-0-1-liverpool-aet-virgil-van-dijks-late-header-seals-carabao-cup-win"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Ref Watch, Sky explainer, Sky report/teams/stats article, Evening Standard (Yahoo), Irish Times (Guardian report); WebSearch for VAR/Gallagher/Mic'd Up. No Howard Webb Mic'd Up item found for this incident. Sterling's first-half goal ruled out (Jackson offside) - Gallagher: correct; not described as disputed, so not recorded. ESPN VAR Review unreadable.",
+  "uncertain": [
+   "AVAR conflict: Sky teams page Wade Smith vs Wikipedia Marc Perry. AR James Mainwaring from Wikipedia only.",
+   "Van Dijk disallowed goal minute approximate ('on the hour', Sky).",
+   "Caicedo-Gravenberch minute not given ('midway through the first half').",
+   "Liverpool absentee list partly from 90min/Sky preview; Salah, Núñez, Alexander-Arnold confirmed out by Sky/Guardian; Szoboszlai's status not independently confirmed.",
+   "Odds not found.",
+   "Attendance 88,868 (Sky).",
+   "GLT: no source found."
+  ]
+ }
+]

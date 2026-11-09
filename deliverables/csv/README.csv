@@ -1,0 +1,11 @@
+README
+"Finals of Arsenal, Chelsea, Liverpool, Manchester City, Manchester United (men), 1 Jan 1996 - 9 Nov 2026."
+"See METHODOLOGY.md, FINDINGS.md and UNCERTAIN.md in the deliverables folder."
+Tabs: Finals (1 row per final) | Club_Appearances (1 row per club per final; finals between two of the five appear twice) |
+"Contested_Decisions (1 row per disputed decision, with assessment + sources) | Referees (1 row per referee) |"
+"Referee_PL_Records (PL record of each English referee with each club, 2000-01+) | Excluded_OneOffs | Uncertain |"
+"A_* tabs: statistical analysis outputs (win rates by factor, observed vs expected, shootouts, decision direction, multiple testing, confounding)."
+Sources: every row carries source URLs in *_sources columns. Wikipedia was used only as a starting point and is not counted as an independent source.
+"core_verified = True means date, venue, teams, score and winner were confirmed by >=2 independent non-Wikipedia sources."
+Odds-implied probabilities remove the bookmaker margin; for 1X2 odds the draw is split between the teams in proportion to their win probabilities (assumption).
+"own_elo_* columns are NOT ClubElo: they are Elo ratings computed by this project from English league results only (top two tiers), available only for finals between two English clubs."

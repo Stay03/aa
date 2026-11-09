@@ -1,0 +1,122 @@
+family,test,p_raw,p_holm_all,q_bh_all
+win rate by factor,Arsenal: Venue,0.0082,0.9982,0.5604
+win rate by factor,Arsenal: Referee English (vs foreign),0.0139,1.0,0.5604
+win rate by factor,Arsenal: Competition type,0.0139,1.0,0.5604
+win rate by factor,Arsenal: Opponent English vs foreign,0.0452,1.0,0.9127
+contested decisions by referee group (decision-level sign test),Liverpool: referee_english=False,0.049,1.0,0.9127
+O-E difference by factor (p_lift_odds),Chelsea: referee_english,0.0702,1.0,0.9127
+O-E difference by factor (p_lift_odds),Chelsea: opponent_type,0.0712,1.0,0.9127
+win rate by factor,Manchester United: Competition type,0.0883,1.0,0.9127
+observed vs expected (p_lift_ownelo),Arsenal: all finals with estimate,0.0927,1.0,0.9127
+observed vs expected (p_lift_odds),Manchester City: all finals with estimate,0.1042,1.0,0.9127
+contested decisions by referee group (decision-level sign test),ALL FIVE: referee_english=False,0.1214,1.0,0.9127
+win rate by factor,Chelsea: Era (decade blocks),0.1216,1.0,0.9127
+O-E difference by factor (p_lift_odds),Manchester United: referee_english,0.1424,1.0,0.9127
+O-E difference by factor (p_lift_odds),Chelsea: var_in_use,0.1425,1.0,0.9127
+shootout win rate vs 50%,Chelsea,0.146,1.0,0.9127
+O-E difference by factor (p_lift_ownelo),Arsenal: referee_english,0.1536,1.0,0.9127
+O-E difference by factor (p_lift_ownelo),Arsenal: competition_type,0.1566,1.0,0.9127
+O-E difference by factor (p_lift_odds),Arsenal: competition_type,0.1637,1.0,0.9127
+O-E difference by factor (p_lift_odds),Arsenal: opponent_type,0.1646,1.0,0.9127
+O-E difference by factor (p_lift_odds),Arsenal: referee_english,0.1675,1.0,0.9127
+win rate by factor,Chelsea: Opponent English vs foreign,0.1681,1.0,0.9127
+O-E difference by factor (p_lift_odds),Manchester City: referee_english,0.1835,1.0,0.9127
+observed vs expected (p_lift_odds),Arsenal: all finals with estimate,0.1849,1.0,0.9127
+net direction of contested decisions (sign test),Arsenal,0.1996,1.0,0.9127
+contested decisions by referee group (decision-level sign test),Arsenal: referee_english=True,0.2005,1.0,0.9127
+win rate by factor,Manchester United: VAR in use,0.2115,1.0,0.9127
+win rate by factor,Chelsea: Referee English (vs foreign),0.2124,1.0,0.9127
+O-E difference by factor (p_lift_ownelo),ALL FIVE (pooled): var_in_use,0.2174,1.0,0.9127
+shootout win rate vs 50%,Manchester City,0.2188,1.0,0.9127
+O-E difference by factor (p_lift_ownelo),Manchester City: competition_type,0.2401,1.0,0.939
+observed vs expected (p_lift_odds),Liverpool: all finals with estimate,0.2406,1.0,0.939
+observed vs expected (p_lift_ownelo),Manchester City: all finals with estimate,0.2488,1.0,0.9406
+O-E difference by factor (p_lift_odds),ALL FIVE (pooled): var_in_use,0.2596,1.0,0.9448
+win rate by factor,Liverpool: Venue,0.2655,1.0,0.9448
+contested decisions by referee group (match-level sign test),Liverpool: referee_english=True,0.2891,1.0,0.9477
+observed vs expected (p_lift_odds),ALL FIVE (pooled): all finals with estimate,0.2943,1.0,0.9477
+win rate by factor,Manchester United: Opponent English vs foreign,0.2952,1.0,0.9477
+O-E difference by factor (p_lift_odds),Manchester United: competition_type,0.3161,1.0,0.9477
+win rate by factor,ALL FIVE (pooled): Competition type,0.3172,1.0,0.9477
+win rate by factor,Manchester United: Referee English (vs foreign),0.3289,1.0,0.9477
+O-E difference by factor (p_lift_odds),Manchester United: var_in_use,0.3297,1.0,0.9477
+contested decisions by referee group (match-level sign test),Arsenal: referee_english=True,0.3323,1.0,0.9477
+contested decisions by referee group (decision-level sign test),Chelsea: referee_english=True,0.3368,1.0,0.9477
+win rate by factor,Chelsea: Venue,0.3559,1.0,0.9788
+net direction of contested decisions (sign test),Chelsea,0.3713,1.0,0.9984
+O-E difference by factor (p_lift_ownelo),Liverpool: var_in_use,0.4134,1.0,1.0
+win rate by factor,Chelsea: Competition type,0.4183,1.0,1.0
+win rate by factor,Arsenal: VAR in use,0.4327,1.0,1.0
+net direction of contested decisions (sign test),ALL FIVE vs non-five,0.457,1.0,1.0
+O-E difference by factor (p_lift_ownelo),Chelsea: referee_english,0.4703,1.0,1.0
+O-E difference by factor (p_lift_ownelo),Chelsea: competition_type,0.4754,1.0,1.0
+win rate by factor,Manchester United: Venue,0.4779,1.0,1.0
+win rate by factor,ALL FIVE (pooled): Era (decade blocks),0.478,1.0,1.0
+contested decisions by referee group (decision-level sign test),Liverpool: referee_english=True,0.4807,1.0,1.0
+O-E difference by factor (p_lift_ownelo),Liverpool: competition_type,0.4959,1.0,1.0
+net direction of contested decisions (sign test),Liverpool,0.4996,1.0,1.0
+contested decisions by referee group (match-level sign test),Chelsea: referee_english=True,0.5034,1.0,1.0
+win rate by factor,ALL FIVE (pooled): Referee English (vs foreign),0.5078,1.0,1.0
+win rate by factor,ALL FIVE (pooled): VAR in use,0.5289,1.0,1.0
+win rate by factor,Manchester City: Opponent English vs foreign,0.533,1.0,1.0
+win rate by factor,Chelsea: VAR in use,0.5469,1.0,1.0
+shootout win rate vs 50%,Liverpool,0.5488,1.0,1.0
+win rate by factor,Manchester United: Era (decade blocks),0.5899,1.0,1.0
+observed vs expected (p_lift_ownelo),Chelsea: all finals with estimate,0.5963,1.0,1.0
+O-E difference by factor (p_lift_odds),Manchester United: opponent_type,0.6177,1.0,1.0
+win rate by factor,Manchester City: Referee English (vs foreign),0.6264,1.0,1.0
+contested decisions by referee group (match-level sign test),ALL FIVE: referee_english=False,0.6291,1.0,1.0
+O-E difference by factor (p_lift_ownelo),Manchester City: referee_english,0.6305,1.0,1.0
+win rate by factor,Manchester City: Era (decade blocks),0.6345,1.0,1.0
+O-E difference by factor (p_lift_ownelo),Chelsea: var_in_use,0.6413,1.0,1.0
+contested decisions by referee group (match-level sign test),ALL FIVE: referee_english=True,0.6476,1.0,1.0
+win rate by factor,Manchester City: VAR in use,0.6744,1.0,1.0
+win rate by factor,Manchester City: Venue,0.6769,1.0,1.0
+O-E difference by factor (p_lift_odds),Liverpool: opponent_type,0.6885,1.0,1.0
+O-E difference by factor (p_lift_odds),Liverpool: referee_english,0.6913,1.0,1.0
+observed vs expected (p_lift_odds),Chelsea: all finals with estimate,0.6995,1.0,1.0
+net direction of contested decisions (sign test),Manchester City,0.7011,1.0,1.0
+win rate by factor,Liverpool: Opponent English vs foreign,0.712,1.0,1.0
+win rate by factor,ALL FIVE (pooled): Opponent English vs foreign,0.7123,1.0,1.0
+win rate by factor,Liverpool: Era (decade blocks),0.7131,1.0,1.0
+contested decisions by referee group (decision-level sign test),ALL FIVE: referee_english=True,0.7201,1.0,1.0
+contested decisions by referee group (match-level sign test),Liverpool: referee_english=False,0.7266,1.0,1.0
+O-E difference by factor (p_lift_ownelo),Manchester United: var_in_use,0.7414,1.0,1.0
+shootout win rate vs 50%,Manchester United,0.7539,1.0,1.0
+contested decisions by referee group (match-level sign test),Manchester City: referee_english=True,0.7905,1.0,1.0
+O-E difference by factor (p_lift_odds),Manchester City: competition_type,0.8355,1.0,1.0
+O-E difference by factor (p_lift_odds),Manchester City: opponent_type,0.8356,1.0,1.0
+contested decisions by referee group (decision-level sign test),Manchester City: referee_english=True,0.845,1.0,1.0
+observed vs expected (p_lift_ownelo),Manchester United: all finals with estimate,0.8501,1.0,1.0
+O-E difference by factor (p_lift_ownelo),Manchester United: referee_english,0.8529,1.0,1.0
+O-E difference by factor (p_lift_ownelo),ALL FIVE (pooled): competition_type,0.8551,1.0,1.0
+observed vs expected (p_lift_ownelo),ALL FIVE (pooled): all finals with estimate,0.8552,1.0,1.0
+O-E difference by factor (p_lift_ownelo),ALL FIVE (pooled): referee_english,0.8626,1.0,1.0
+O-E difference by factor (p_lift_odds),ALL FIVE (pooled): referee_english,0.8817,1.0,1.0
+O-E difference by factor (p_lift_ownelo),Liverpool: referee_english,0.9007,1.0,1.0
+O-E difference by factor (p_lift_odds),Manchester City: var_in_use,0.9179,1.0,1.0
+O-E difference by factor (p_lift_ownelo),Manchester United: competition_type,0.9646,1.0,1.0
+win rate by factor,ALL FIVE (pooled): Venue,0.9698,1.0,1.0
+O-E difference by factor (p_lift_ownelo),Manchester City: var_in_use,0.9735,1.0,1.0
+O-E difference by factor (p_lift_odds),ALL FIVE (pooled): opponent_type,0.9813,1.0,1.0
+O-E difference by factor (p_lift_ownelo),Arsenal: var_in_use,0.9888,1.0,1.0
+win rate by factor,Liverpool: VAR in use,1.0,1.0,1.0
+win rate by factor,Manchester City: Competition type,1.0,1.0,1.0
+win rate by factor,Liverpool: Competition type,1.0,1.0,1.0
+observed vs expected (p_lift_odds),Manchester United: all finals with estimate,1.0,1.0,1.0
+O-E difference by factor (p_lift_odds),Liverpool: var_in_use,1.0,1.0,1.0
+win rate by factor,Liverpool: Referee English (vs foreign),1.0,1.0,1.0
+win rate by factor,Arsenal: Era (decade blocks),1.0,1.0,1.0
+net direction of contested decisions (sign test),Manchester United,1.0,1.0,1.0
+shootout win rate vs 50%,Arsenal,1.0,1.0,1.0
+observed vs expected (p_lift_ownelo),Liverpool: all finals with estimate,1.0,1.0,1.0
+contested decisions by referee group (decision-level sign test),Arsenal: referee_english=False,1.0,1.0,1.0
+contested decisions by referee group (match-level sign test),Manchester City: referee_english=False,1.0,1.0,1.0
+contested decisions by referee group (decision-level sign test),Manchester City: referee_english=False,1.0,1.0,1.0
+contested decisions by referee group (decision-level sign test),Chelsea: referee_english=False,1.0,1.0,1.0
+contested decisions by referee group (match-level sign test),Chelsea: referee_english=False,1.0,1.0,1.0
+contested decisions by referee group (match-level sign test),Arsenal: referee_english=False,1.0,1.0,1.0
+contested decisions by referee group (decision-level sign test),Manchester United: referee_english=True,1.0,1.0,1.0
+contested decisions by referee group (decision-level sign test),Manchester United: referee_english=False,1.0,1.0,1.0
+contested decisions by referee group (match-level sign test),Manchester United: referee_english=False,1.0,1.0,1.0
+contested decisions by referee group (match-level sign test),Manchester United: referee_english=True,1.0,1.0,1.0

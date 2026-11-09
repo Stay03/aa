@@ -1,13 +1,13 @@
-club,referee_english,favouring,against,net
-Arsenal,False,3,2,1
-Arsenal,True,15,8,7
-Chelsea,False,1,2,-1
-Chelsea,True,10,15,-5
-Liverpool,False,1,9,-8
-Liverpool,True,9,4,5
-Manchester City,False,0,0,0
-Manchester City,True,8,8,0
-Manchester United,False,1,1,0
-Manchester United,True,10,11,-1
-ALL FIVE,False,5,13,-8
-ALL FIVE,True,13,7,6
+club,referee_english,favouring,against,net,sign_test_p_decision_level,finals_net_favouring,finals_net_against,sign_test_p_match_level
+Arsenal,False,5,4,1,1.0,2,2,1.0
+Arsenal,True,19,11,8,0.2005,11,6,0.3323
+Chelsea,False,3,3,0,1.0,2,2,1.0
+Chelsea,True,16,23,-7,0.3368,8,12,0.5034
+Liverpool,False,4,13,-9,0.049,3,5,0.7266
+Liverpool,True,11,7,4,0.4807,6,2,0.2891
+Manchester City,False,0,1,-1,1.0,0,1,1.0
+Manchester City,True,12,14,-2,0.845,6,8,0.7905
+Manchester United,False,2,3,-1,1.0,2,2,1.0
+Manchester United,True,16,16,0,1.0,9,9,1.0
+ALL FIVE,False,12,22,-10,0.1214,7,10,0.6291
+ALL FIVE,True,17,14,3,0.7201,11,8,0.6476

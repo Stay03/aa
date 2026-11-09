@@ -198,7 +198,25 @@ def decision_direction(dec, app):
                 agn = int(g.against_team.isin(CLUBS).sum() - (g.favoured_team.isin(CLUBS) & g.against_team.isin(CLUBS)).sum())
             else:
                 fav = int((g.favoured_team == c).sum()); agn = int((g.against_team == c).sum())
-            rows.append({"club": c, "referee_english": bool(e), "favouring": fav, "against": agn, "net": fav - agn})
+            n = fav + agn
+            p = stats.binomtest(fav, n, 0.5).pvalue if n else None
+            # match-level (cluster) version: finals with net-positive vs net-negative decisions for the club
+            if c == "ALL FIVE":
+                gg = g[g.favoured_team.isin(CLUBS) ^ g.against_team.isin(CLUBS)]
+                netf = gg.groupby("final_id").apply(lambda x: int(x.favoured_team.isin(CLUBS).sum() - x.against_team.isin(CLUBS).sum()))
+            else:
+                gg = g[(g.favoured_team == c) | (g.against_team == c)]
+                netf = gg.groupby("final_id").apply(lambda x: int((x.favoured_team == c).sum() - (x.against_team == c).sum()))
+            pos, neg = int((netf > 0).sum()), int((netf < 0).sum())
+            pm = stats.binomtest(pos, pos + neg, 0.5).pvalue if pos + neg else None
+            rows.append({"club": c, "referee_english": bool(e), "favouring": fav, "against": agn, "net": fav - agn,
+                         "sign_test_p_decision_level": None if p is None else round(p, 4),
+                         "finals_net_favouring": pos, "finals_net_against": neg,
+                         "sign_test_p_match_level": None if pm is None else round(pm, 4)})
+            if p is not None:
+                TESTS.append(("contested decisions by referee group (decision-level sign test)", f"{c}: referee_english={bool(e)}", p))
+            if pm is not None:
+                TESTS.append(("contested decisions by referee group (match-level sign test)", f"{c}: referee_english={bool(e)}", pm))
     by_nat = pd.DataFrame(rows)
     return by_club, by_ref, by_nat
 

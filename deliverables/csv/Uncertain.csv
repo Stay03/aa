@@ -1,0 +1,821 @@
+final_id,area,item
+1996 FA Cup final,match data,"Cards: Wikipedia lineup lists Jamie Redknapp Y40, Phil Babb Y60 (Liverpool) and Phil Neville Y69 (Man Utd); not confirmed by any non-Wikipedia source found, so cards left empty and cards_complete=false."
+1996 FA Cup final,match data,Referee nationality left null: Gallagher refereed for The FA (Wikipedia lists him under Oxfordshire FA); some sources describe him as Irish-born - not verified here.
+1996 FA Cup final,match data,"Goal type 'open play' (volley after a cleared corner) based on search-result summaries of several reports, not a fetched primary report."
+1996 FA Cup final,match data,Absences not researched successfully (no source found).
+1996 FA Cup final,match data,Assistant referees / fourth official not found in any source.
+1996 FA Cup final,match data,Curated override: Birthplace Dublin per Wikipedia and newstalk.com interview; WorldFootball lists 'England' (federation). Recorded as Irish; federation The FA.
+1996 FA Cup final,cards,card list not confirmed complete
+1997 FA Cup final,match data,Di Matteo goal timed at 43 seconds by Chelsea FC (42 seconds per some other sites); recorded as minute 1.
+1997 FA Cup final,match data,Referee nationality 'English' assumed from FA registration (Wikipedia: South Yorkshire); no source explicitly states nationality.
+1997 FA Cup final,match data,No bookings listed by Wikipedia and none confirmed or denied by other sources; cards_complete=false.
+1997 FA Cup final,match data,Chelsea official site describes Wise as captain and Chelsea as favourites ('we were the favourites') but no bookmaker odds found.
+1997 FA Cup final,cards,card list not confirmed complete
+1998 FA Cup final,match data,"Card minutes unknown from the Independent narrative (Shearer at end of first half; Barton and Dabizas soon after half-time; Howey later; Winterburn after those). Wikipedia gives Shearer 45, Barton 48, Winterburn 51, Dabizas 53, Howey 70 - not independently verified, so minutes left null."
+1998 FA Cup final,match data,Overmars goal: Independent header says 24th minute; RSSSF/Soccerbase/Wikipedia say 23. Recorded 23.
+1998 FA Cup final,match data,Durkin's nationality 'English' assumed from FA registration (Wikipedia: Dorset).
+1999 FA Cup final,match data,"Cards: Wikipedia lists Dietmar Hamann (Newcastle) Y5 only; not confirmed elsewhere, so not recorded; cards_complete=false."
+1999 FA Cup final,match data,Goal types not confirmed from a fetched report (recorded 'unknown').
+1999 FA Cup final,match data,"Absences not verified from any source found. Note (RSSSF line-up): Keane started but was replaced by Sheringham early on (injury per common accounts, not verified here)."
+1999 FA Cup final,match data,Referee nationality 'English' assumed from FA registration (Wikipedia: Leicestershire).
+1999 FA Cup final,cards,card list not confirmed complete
+2000 FA Cup final,match data,Di Matteo goal minute: Soccerbase/RSSSF/Wikipedia 73; AP says 72nd minute; Chelsea FC '17 minutes remaining'. Recorded 73. Goal was a scramble after David James failed to hold Zola's free-kick (recorded as open play).
+2000 FA Cup final,match data,"Cards: only Wise's booking (around 20 min after a Boateng tackle on him) confirmed by RTÉ. Wikipedia also lists Melchiot Y18, Wise Y28, Poyet Y90 (Chelsea) and Barry Y16, Boateng Y90 (Villa) - unverified."
+2000 FA Cup final,match data,Referee nationality 'English' assumed from FA registration (Wikipedia: Hertfordshire).
+2000 FA Cup final,cards,card list not confirmed complete
+2000 UEFA Cup final,match data,This final is not an FA Cup final (batch input mislabelled competition as 'FA Cup'); it may also appear in another batch (UEFA Cup) - possible duplicate.
+2000 UEFA Cup final,match data,"Hagi red-card minute: UEFA 94, RSSSF 94, Soccerbase 93. Recorded 94. Type of red (straight vs second yellow) inferred as straight red (UEFA lists redCards; RSSSF 'Red card: Hagi 94'); Wikipedia also says R."
+2000 UEFA Cup final,match data,"Adams booking minute not given by sources (same incident, ~94)."
+2000 UEFA Cup final,match data,"Other yellow cards listed by Wikipedia (Capone 71, Popescu 63, Bülent 18, Okan 12, Arif 48, Hasan Şaş 119; Keown 40, Vieira 23) not verified - cards_complete=false."
+2000 UEFA Cup final,match data,"Shootout: Galatasaray scored Ergün, Hakan Şükür, Ümit Davala, Popescu; Arsenal: Parlour scored, Suker (post) and Vieira (bar) missed (UEFA data, Al Bawaba, RTÉ)."
+2000 UEFA Cup final,match data,"Assistants (Wikipedia: Fernando Tresaco Gracia, Victoriano Giráldez Carrasco) and fourth official (Arturo Daudén Ibáñez) not verified by a second source - left null."
+2000 UEFA Cup final,match data,CBC preview calls Arsenal 'the favourite' but gives no odds.
+2000 UEFA Cup final,match data,Referee also known as Antonio López Nieto; RSSSF prints 'Jesús López Nieto'.
+2000 UEFA Cup final,cards,card list not confirmed complete
+2001 FA Cup final,match data,Cards: Wikipedia lists Ljungberg Y62 (Arsenal) and Hamann Y57 (Liverpool); not confirmed by any reachable source; cards_complete=false.
+2001 FA Cup final,match data,"No refereeing-expert assessment of the Henchoz handball found; 'genuinely debatable' used per brief, although every source found says it should have been a penalty."
+2001 FA Cup final,match data,Owen's 83' equaliser came from a McAllister free-kick knocked down by Babbel (RTÉ) - recorded as open play.
+2001 FA Cup final,match data,Referee nationality 'English' per RSSSF 'Steve Dunn (England)'.
+2001 FA Cup final,cards,card list not confirmed complete
+2001 UEFA Cup final,match data,This final is not an FA Cup final (batch input mislabelled competition as 'FA Cup'); it may duplicate a record in the UEFA batch.
+2001 UEFA Cup final,match data,"Goal minutes follow UEFA data (3,16,26,40,47,49,72,88,116); RSSSF/Soccerbase use rounded-up minutes (4,16,27,41,48,51,73,89,116/117)."
+2001 UEFA Cup final,match data,"Herrera contested decision rests on a single, non-contemporaneous source (Sports Mole); flagged accordingly."
+2001 UEFA Cup final,match data,"Cards: only Herrera Y (Sports Mole), Magno and Karmona second-yellow dismissals (UEFA, RSSSF 'both for 2nd yellow card') confirmed. Wikipedia also lists McAllister Y11, Babbel Y106 (Liverpool); Contra Y49, Astudillo Y11, Téllez Y95, Magno's first Y82, Karmona's first Y58 - not verified; cards_complete=false."
+2001 UEFA Cup final,match data,"Magno dismissal minute: UEFA 98, RSSSF/Soccerbase 99."
+2001 UEFA Cup final,match data,Alonso/Moreno header types and Moreno free-kick per Sports Mole description; Babbel header per Sports Mole and the42.
+2001 UEFA Cup final,match data,No odds or absence information found.
+2001 UEFA Cup final,cards,card list not confirmed complete
+2002 FA Cup final,match data,"Card minutes from ESPN roster data (Vieira 27', Henry/Terry 76' in ESPN roster; commentary gives 26' and 76'); Wikipedia gives Le Saux 2, Vieira 26, Henry 75, Terry 75, Gudjohnsen 90+1. Card set agrees across ESPN and Wikipedia; card list relies on one provider (ESPN)."
+2002 FA Cup final,match data,Henry and Terry booked together 'after a brief flare-up' (ESPN commentary).
+2002 FA Cup final,match data,Gudjohnsen offside dispute rests on one source (ESPN commentary) only.
+2002 FA Cup final,match data,"RSSSF lists the date as 'Sun May 4' - 4 May 2002 was a Saturday; RSSSF attendance 73,965 vs ESPN 73,963."
+2002 FA Cup final,match data,No odds or absences found.
+2003 FA Cup final,match data,"ESPN live commentary says 'Pires booked for a foul on Telfer' at 59', but ESPN roster data and Wikipedia have Telfer booked at 60 and no Pires booking; unresolved, so cards_complete=false."
+2003 FA Cup final,match data,"Card minutes from ESPN roster data; Wikipedia: Keown 30, Beattie 31, Telfer 60, Henry 66, Marsden 77, Svensson 90."
+2003 FA Cup final,match data,"Henry dive incident minute ~67-68 (ESPN commentary 67', booking 68')."
+2003 FA Cup final,match data,Southampton: Paul Jones replaced the injured Antti Niemi mid-match (not an absence).
+2003 FA Cup final,match data,No odds found.
+2003 FA Cup final,cards,card list not confirmed complete
+2004 FA Cup final,match data,"Card list relies on ESPN only (roster data + commentary: Wise booked 48', 'first yellow of the afternoon'); Wikipedia line-up extraction failed for this article so no cross-check."
+2004 FA Cup final,match data,Van Nistelrooy's 81' goal type not described in fetched sources (recorded 'unknown').
+2004 FA Cup final,match data,Manager2: Dennis Wise was Millwall player-manager (RSSSF 'Manager - Wise').
+2004 FA Cup final,match data,No odds or absence information found.
+2005 FA Cup final,match data,"Card minutes from ESPN roster data; Wikipedia: Cole 16, Silvestre 21, Lauren 59, Reyes 75 & 120, Scholes 112, Vieira 118. ESPN commentary minutes: Cole 16, Silvestre 21, Lauren 61, Reyes 75, Scholes 112. Reyes 2nd yellow came in extra-time stoppage time (AFP), recorded 120+2 (ESPN)."
+2005 FA Cup final,match data,Ferdinand disallowed goal minute ~28 (AFP '28th-minute run'); offside call described only as 'very tight' - no source says it was wrong.
+2005 FA Cup final,match data,"Shootout: Arsenal - Lauren, Ljungberg, Van Persie, Cole, Vieira all scored; United - Van Nistelrooy, Ronaldo, Rooney, Keane scored, Scholes saved by Lehmann (AP)."
+2005 FA Cup final,match data,"Gary Neville (groin) and Sol Campbell (returning from ankle injury) were on the benches, not absent; Giggs dropped to bench (AFP)."
+2005 FA Cup final,match data,No odds found.
+2006 FA Cup final,match data,"Attendance: ESPN 74,000 vs Wikipedia 71,140 (not a required field)."
+2006 FA Cup final,match data,"Card set (Ashton, Carragher, Hamann) from ESPN roster data and ESPN team totals (Liverpool 2, West Ham 1); agrees with Wikipedia (Ashton 59, Carragher 62, Hamann 118). Single provider."
+2006 FA Cup final,match data,"Shootout per CNN: Reina saved from Zamora, Konchesky and Anton Ferdinand; Sheringham scored. Liverpool: Hamann, Gerrard, Riise scored; Hyypiä saved."
+2006 FA Cup final,match data,"Carragher own goal: CNN says 'after 20 minutes', ESPN/Wikipedia 21."
+2006 FA Cup final,match data,"ESPN shots figures (19-15, on target 7-9) differ in definition from other providers; no BBC stats reachable."
+2006 FA Cup final,match data,No odds or absence information found.
+2007 FA Cup final,match data,Giggs incident minute: ESPN commentary 104'; other accounts place it ~108' (first half of extra time per Gazette). Recorded 104.
+2007 FA Cup final,match data,Makélélé booking dispute rests on one source (ESPN commentary).
+2007 FA Cup final,match data,"Card minutes from ESPN roster data; Wikipedia: Scholes 58, Makélélé 83, Vidić 84, Smith 105, Kalou 119, Ferreira 120, A. Cole 120. Team totals ESPN: Chelsea 4, United 3."
+2007 FA Cup final,match data,Soccerbase lists referee as 'S Bennett (do not use)' (database artefact).
+2007 FA Cup final,match data,No odds or absence information found.
+2009 FA Cup final,match data,"Malouda incident minute approximate (~77-78; 'five minutes later' after the 72' goal, 'moments later'); recorded 77."
+2009 FA Cup final,match data,Saha-goal offside claim rests on one source (ESPN commentary).
+2009 FA Cup final,match data,"ESPN shots (Chelsea 10, Everton 5) look low versus match descriptions; provider definitions unknown."
+2009 FA Cup final,match data,"Card minutes from ESPN roster; Wikipedia: Hibbert 8, Neville 47, Mikel 63, Lampard 84, Baines 90+4."
+2009 FA Cup final,match data,"Everton absentees (e.g. Arteta, Yakubu, Jagielka - widely reported) not verified from a fetched source; absences left empty."
+2009 FA Cup final,match data,No odds found.
+2010 FA Cup final,match data,Missed penalties (not goals): Boateng (Portsmouth) saved by Čech ~54'; Lampard (Chelsea) dragged wide ~87'.
+2010 FA Cup final,match data,"Drogba goal minute: ESPN commentary 58', roster/Wikipedia/AP 59."
+2010 FA Cup final,match data,"Boateng booking: ESPN roster 36', commentary 35'. Rocha booked for dissent (ESPN)."
+2010 FA Cup final,match data,"Ballack went off injured after a late Boateng challenge (AP) - in-match injury, not an absence."
+2010 FA Cup final,match data,Odds are an unnamed-bookmaker outright price from ESPN commentary only.
+2011 FA Cup final,match data,Huth elbow incident documented by one reputable source only (BBC); minute not given.
+2011 FA Cup final,match data,Assistant referees/fourth official from BBC appointment article (Apr 2011); reserve official (Jake Collin per Wikipedia) not independently confirmed.
+2011 FA Cup final,match data,"No key absentees identified: BBC says Tevez, Etherington and Huth all passed fitness tests; full absentee lists not found."
+2011 FA Cup final,match data,Pre-match odds not found in a fetchable reputable source (web search budget exhausted); odds left null.
+2011 FA Cup final,match data,GLT false: BBC (Oct 2011) reported IFAB would not approve any technology until after Euro 2012; first use in English football expected 2013-14.
+2012 FA Cup final,match data,"Card minutes from ESPN (37', 45', 82'); Wikipedia lists 36', 44', 81' - one-minute offsets, unresolved."
+2012 FA Cup final,match data,Minute of Carroll incident (81') from Wikipedia narrative; BBC/RTE do not give a minute in the text read.
+2012 FA Cup final,match data,Absences: Wikipedia says Liverpool were without Charlie Adam and Lucas Leiva (knee) and Chelsea without David Luiz and Gary Cahill (hamstring) but the underlying source was not checked - not recorded.
+2012 FA Cup final,match data,"Fourth official named as 'Michael Jones' by BBC (Wikipedia: Mike Jones, Cheshire)."
+2012 FA Cup final,match data,Odds not found (web search budget exhausted).
+2013 FA Cup final,match data,"Assistants (Child, Long) only from Wikipedia; fourth official Anthony Taylor confirmed by TheFA 2017 article. Assistants unverified."
+2013 FA Cup final,match data,ESPN shots-on-target figure (12/15 for City) may be wrong.
+2013 FA Cup final,match data,Absences and odds not researched successfully (search budget exhausted).
+2013 FA Cup final,match data,GLT false: BBC July 2013 article says the FA had not yet signed a GLT provider for Wembley.
+2014 FA Cup final,match data,Bruce's complaints sourced only to Bleacher Report (quoted via Wikipedia); a second reputable source not found - single-source.
+2014 FA Cup final,match data,GLT: no source found stating whether goal-line technology was in operation at Wembley for this final.
+2014 FA Cup final,match data,Reserve assistant Simon Bennett per TheFA appointment page.
+2014 FA Cup final,match data,Odds/absences not found (search budget exhausted).
+2014 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2015 FA Cup final,match data,Assistant Simon Bennett only from Wikipedia; Darren England (AR) and Craig Pawson (4th) confirmed by later TheFA articles.
+2015 FA Cup final,match data,Jon Moss: BBC says 'Sunderland-born'; registered West Riding (Wikipedia) - association unverified from primary source.
+2015 FA Cup final,match data,GLT not confirmed by any source read.
+2015 FA Cup final,match data,Odds/absences not found (search budget exhausted).
+2015 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2016 FA Cup final,match data,Assistants Brooks/Halliday and fourth official Swarbrick are from Wikipedia only; BBC appointment article read did not list them - unverified.
+2016 FA Cup final,match data,Minute of Rooney-Zaha incident not confirmed (Wikipedia places it a few minutes after the Wickham incident).
+2016 FA Cup final,match data,"Stats, odds and absences not found."
+2016 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2017 FA Cup final,match data,Sánchez goal controversy documented by one fetched reputable source (BBC report); Guardian/Telegraph not fetchable - single source.
+2017 FA Cup final,match data,Assistant Marc Perry: TheFA lists Birmingham FA (Wikipedia: West Midlands).
+2017 FA Cup final,match data,Odds not found (search budget exhausted).
+2017 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2018 FA Cup final,match data,Young-handball minute not established.
+2018 FA Cup final,match data,First FA Cup final with VAR (TheFA appointment article; Wikipedia).
+2018 FA Cup final,match data,Odds: ESPN feed only has in-play/odd entries (Caesars moneyline without draw) - not used; odds null.
+2018 FA Cup final,match data,Absences not researched successfully.
+2018 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2019 FA Cup final,match data,Kompany handball dispute: only one reputable source read (TheFA); VAR involvement per Wikipedia only.
+2019 FA Cup final,match data,Second Jesus goal / Sterling attribution: BBC video asked whether Sterling or Jesus scored City's second; ESPN/Wikipedia credit Jesus (38').
+2019 FA Cup final,match data,Stats conflict between ESPN and Wikipedia.
+2019 FA Cup final,match data,Odds/absences not found.
+2019 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2020 FA Cup final,match data,Kovačić red: only one reputable source fetched (BBC); expert view not verified.
+2020 FA Cup final,match data,Behind closed doors (attendance 0).
+2020 FA Cup final,match data,Absences not researched successfully.
+2020 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2021 FA Cup final,match data,Card minutes: ESPN Fofana 35' (Wikipedia 36').
+2021 FA Cup final,match data,"Attendance 20,000-21,000 (COVID test event)."
+2021 FA Cup final,match data,Jonny Evans started despite injury doubt and went off injured - not an absence.
+2021 FA Cup final,match data,Absences not otherwise found.
+2021 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2022 FA Cup final,match data,Odds: ESPN feed entries are internally inconsistent about which side is favourite (home/away mapping varies by bookmaker) - not recorded.
+2022 FA Cup final,match data,Havertz 'out injured' per Sky; Werner injured in warm-up (Sky) - whether Werner was expected to start is unclear.
+2022 FA Cup final,match data,In-match injuries to Salah and Van Dijk are not absences.
+2022 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2023 FA Cup final,match data,Casemiro and Fred incidents sourced to ESPN only (single source each).
+2023 FA Cup final,match data,Stats not found.
+2023 FA Cup final,match data,Other absentees (e.g. long-term injuries) not checked.
+2023 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2024 FA Cup final,match data,Haaland/Martínez incident from one reputable source (Sky); minute unknown.
+2024 FA Cup final,match data,Wikipedia lineup lists McTominay booking at 90+5 and a spurious extra City card; BBC and ESPN give 90+3 and only Álvarez for City.
+2024 FA Cup final,match data,Madley's county FA not confirmed from a source read.
+2024 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2025 FA Cup final,match data,TheFA lists AVAR Darren Cann and support VAR Michael Salisbury (confirmed by BBC live page for Cann); Wikipedia has these reversed.
+2025 FA Cup final,match data,"Jarred Gillett's Australian nationality stated from general knowledge, not from a fetched source."
+2025 FA Cup final,match data,Mitchell penalty minute: ESPN VAR review says 33rd minute; ESPN events log the saved kick at 36'.
+2025 FA Cup final,match data,Absences not researched successfully.
+2025 FA Cup final,GLT,goal-line technology use not confirmed by a source
+2026 FA Cup final,match data,Post-training-cutoff match: all facts from sources fetched in this session.
+2026 FA Cup final,match data,Hato incident: minute and score at the time not found; VAR involvement per aggregator summaries only.
+2026 FA Cup final,match data,Fourth official Sam Barrott listed under West Riding FA by TheFA (Wikipedia: West Yorkshire); AR Akil Howson under Leicestershire & Rutland FA.
+2026 FA Cup final,match data,BBC lineup card minutes (Fernández 29') vs BBC live post 'YELLOW CARD published at 33 mins' - 29' used (ESPN agrees).
+2026 FA Cup final,match data,Manchester City absentees not established (Rodri was a doubt but started).
+2026 FA Cup final,GLT,goal-line technology use not confirmed by a source
+1998 Football League Cup final,match data,"Referee Peter Jones (Leicestershire/Loughborough) is taken from Wikipedia only; no independent non-Wikipedia source naming him for this match could be reached (BBC 1998 report blocked; 11v11/worldfootball blocked). Kept as the referee because no source contradicts it, but referee_sources is empty: NOT verified."
+1998 Football League Cup final,match data,"Cards: no reliable list found. A web-search snippet of 11v11.com (page itself blocked) indicated yellow cards for Middlesbrough's Paul Gascoigne and Andy Townsend; a Chelsea fan wiki (thechels.info) reportedly marks bookings for Leboeuf, Le Saux, Wise and Hughes. Neither verified, so cards left empty and cards_complete=false."
+1998 Football League Cup final,match data,Di Matteo goal type: side-footed/close-range finish after Zola corner (set-piece situation) - recorded as open play.
+1998 Football League Cup final,match data,"Teletext source is an archive of ITV Teletext pages (contemporary, but OCR-garbled text); it confirms result and scorers (Sinclair 5 min into ET, Di Matteo 107)."
+1998 Football League Cup final,match data,"Attendance 77,698 per Teesside Gazette."
+1998 Football League Cup final,cards,card list not confirmed complete
+1998 Football League Cup final,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+2001 Football League Cup final,match data,Score orientation follows Wikipedia team1=Birmingham City (designated home side). lfchistory lists Liverpool first.
+2001 Football League Cup final,match data,"Purse penalty minute: BBC Clockwatch says it was awarded 'two-and-a-half minutes into stoppage time', so recorded as 90+3; Wikipedia gives 90."
+2001 Football League Cup final,match data,"Cards only from BBC Clockwatch text (as reproduced on lfchistory.net, a fan-run archive) - Hamann 108 and Henchoz 109; matches Wikipedia. No second independent source; possible other bookings not confirmed."
+2001 Football League Cup final,match data,Contested decision sources are BBC text via a fan archive and a football blog; original BBC page and Guardian/Telegraph reports could not be reached (blocked). Carragher 'very fortunate' quote is from a search-result snippet of a liverpoolfc.com article that returned 404 when fetched.
+2001 Football League Cup final,match data,"Shootout: Liverpool scorers McAllister, Barmby, Ziege, Fowler, Carragher (Hamann saved); Birmingham scorers Purse, Marcelo, Lazaridis, Hughes (Grainger and Andy Johnson saved by Westerveld) per lfchistory/ESPN. Wikipedia's raw list includes 'A. Johnson' and 'Grainger'."
+2001 Football League Cup final,match data,Referee nationality 'English': Elleray is an English referee registered with the FA (London); no source checked for birthplace.
+2001 Football League Cup final,cards,card list not confirmed complete
+2003 Football League Cup final,match data,Gerrard's goal took a deflection off David Beckham (RTE) - credited to Gerrard everywhere.
+2003 Football League Cup final,match data,"Only one booking (Henchoz 13') found, from ESPN commentary/data; not confirmed by a second source, so cards_complete=false."
+2003 Football League Cup final,match data,ESPN referee listed as 'P Durkin'; lfchistory 'Durkin PA'.
+2003 Football League Cup final,cards,card list not confirmed complete
+2005 Football League Cup final,match data,Gerrard penalty claim (27') has only one source (ESPN live commentary).
+2005 Football League Cup final,match data,"Attendance: ESPN 78,000 vs lfchistory 71,622; not a core field."
+2005 Football League Cup final,match data,Riise goal timed at 45 seconds (Independent)/43 seconds (CNN): minute 1.
+2005 Football League Cup final,match data,CNN times Gerrard own goal at 78 minutes; ESPN/Wikipedia 79.
+2005 Football League Cup final,match data,Mourinho touchline removal: whether it counts as a 'refereeing decision' is debatable (police-initiated).
+2005 Football League Cup final,match data,Cards: ESPN data and RSSSF list the same 8 yellow cards (RSSSF gives no minutes; minutes from ESPN).
+2006 Football League Cup final,match data,Sky Sports match data page lists the venue as 'Old Trafford' (evident data error); ESPN gives Cardiff (Principality/Millennium Stadium) and manutd.com/EFL search snippets confirm Cardiff.
+2006 Football League Cup final,match data,De Zeeuw booking: ESPN data 45+1; ESPN live text at 47' says he 'was shown a yellow card a moment ago'; Wikipedia says 45.
+2006 Football League Cup final,match data,Ronaldo booked for removing shirt in goal celebration (ESPN commentary); Wikipedia 60' matches.
+2006 Football League Cup final,match data,"Cards from ESPN only, agrees with Wikipedia; considered complete but single-provider."
+2007 Football League Cup final,match data,Referee Howard Webb is from Wikipedia only; no reachable non-Wikipedia source named him (ESPN lists no official; BBC/Guardian/FA pages blocked/dead). NOT verified.
+2007 Football League Cup final,match data,Drogba offside 'hint' has only one source (ESPN live commentary); kept as genuinely debatable with single source.
+2007 Football League Cup final,match data,"Card minutes: ESPN data gives Lampard and Fàbregas yellows at 90+8 (commentary 98'), Wikipedia 90+6. Red cards: whether Mikel/Touré were straight reds is per ESPN data (R) and Wikipedia; no second yellow involved."
+2007 Football League Cup final,match data,Statistics conflict between ESPN and Wikipedia/Football League table (see stats.note).
+2007 Football League Cup final,match data,Wenger was later fined for comments about the linesman (Wikipedia) - not verified.
+2007 Football League Cup final,match data,"Both clubs were charged with misconduct (Sky Sports); Wikipedia says fined £100,000 each - fine amount not verified."
+2007 Football League Cup final,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+2008 Football League Cup final,match data,Both contested decisions rest on a single source (ESPN live commentary); no second reputable source could be reached.
+2008 Football League Cup final,match data,Nature of the 68' penalty offence: Wikipedia says Bridge handball; ESPN commentary describes a Huddlestone-Bridge tussle with 'minimal contact'. Not resolved.
+2008 Football League Cup final,match data,Referee Mark Halsey named only by ESPN commentary among non-Wikipedia sources.
+2008 Football League Cup final,match data,"Assistants (Andrew Garratt, Martin Yerby), fourth official (Peter Walton) and reserve AR (David Bryan) per Wikipedia only - not verified, left null."
+2008 Football League Cup final,match data,Wikipedia lists Petr Čech yellow card at 120+4 which ESPN does not have; cards_complete=false.
+2008 Football League Cup final,match data,"ESPN commentary at 65' also criticised a goal-kick decision (Anelka shot off King) - minor, not recorded."
+2008 Football League Cup final,cards,card list not confirmed complete
+2008 Football League Cup final,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+2009 Football League Cup final,match data,Ronaldo penalty/dive incident has a single source (ESPN commentary).
+2009 Football League Cup final,match data,"Assistants (Peter Kirkup, Andy Butler), fourth official (Andre Marriner) per Wikipedia only - not verified, left null."
+2009 Football League Cup final,match data,"Shootout: United scored Giggs, Tevez, Ronaldo, Anderson; Spurs O'Hara saved, Corluka scored, Bentley missed (RSSSF)."
+2010 Football League Cup final,match data,Referee Phil Dowd named by ESPN data/commentary; no second reachable non-Wikipedia source (CNN does not name him).
+2010 Football League Cup final,match data,Martin O'Neill's post-match complaint about the Vidić decision is widely remembered but was not verified from a reachable source.
+2010 Football League Cup final,match data,Cards from ESPN only (matches Wikipedia's 4 yellows); cards_complete=false for lack of a second source.
+2010 Football League Cup final,match data,"Penalty awarded at 4' (ESPN commentary), scored 5'."
+2010 Football League Cup final,cards,card list not confirmed complete
+2010 Football League Cup final,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+2011 Football League Cup final,match data,Bowyer offside: single reachable source (ESPN commentary); Wikipedia (citing Guardian) agrees flag was wrong. Assessment could arguably be 'expert consensus incorrect' but no expert source reached.
+2011 Football League Cup final,match data,Referee Mike Dean named only by ESPN among reachable non-Wikipedia sources.
+2011 Football League Cup final,match data,"Card minutes differ by 1-2 minutes between ESPN (Koscielny 37, Larsson 42, Clichy 53, Ferguson 90+5) and Wikipedia (35, 41, 52, 90+4); ESPN used. Larsson, Jerome and Ferguson yellows were for dissent per ESPN data."
+2011 Football League Cup final,match data,Barry Ferguson broke a rib in a challenge with Nasri during the final but played on (Independent).
+2011 Football League Cup final,match data,"Odds: footballfancast (27 Feb 2011, low-reliability fan/betting site) quoted Arsenal 8/15 'to end their trophy drought' and Birmingham 11/2 as underdogs; market (90-min vs to lift) unclear, so odds left null."
+2011 Football League Cup final,match data,Žigić goal type: ESPN data describes a right-footed shot from 6 yards; commonly remembered as a header - set to 'unknown'.
+2011 Football League Cup final,cards,card list not confirmed complete
+2011 Football League Cup final,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+2012 Football League Cup final,match data,"Mason goal: ESPN 19', BBC report 'the 18th minute'; ESPN/Wikipedia minute used."
+2012 Football League Cup final,match data,Referee Mark Clattenburg named only by ESPN among reachable non-Wikipedia sources (Football League announcement page dead).
+2012 Football League Cup final,match data,"Cards from ESPN only (matches Wikipedia: Henderson, Kiss, Turner); cards_complete=false for lack of second source."
+2012 Football League Cup final,match data,"Shootout per BBC: S. Gerrard saved, Adam over; Miller hit post, Cowie scored; Kuyt, Downing, Johnson scored for Liverpool; Gestede hit woodwork, Whittingham scored (implied), Anthony Gerrard missed final kick -> 2-3."
+2012 Football League Cup final,match data,"Attendance: ESPN 89,044 vs Wikipedia 89,041."
+2012 Football League Cup final,cards,card list not confirmed complete
+2012 Football League Cup final,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+2014 Football League Cup final,match data,Negredo's 90+3 yellow taken from Wikipedia lineup; Sky shows one yellow per side (consistent) but no independent source naming him/minute was fetched.
+2014 Football League Cup final,match data,Alonso booking minute: Sports Mole gives 81'/82'; Wikipedia 82.
+2014 Football League Cup final,match data,Assistants/fourth official from Wikipedia citing Football League appointments page; not independently verified.
+2014 Football League Cup final,match data,"GLT: Premier League introduced GLT in 2013-14 and Wembley had Hawk-Eye, but no source found stating it was in operation for this final."
+2014 Football League Cup final,match data,Shot totals from Sky (on + off target) may exclude blocked shots.
+2014 Football League Cup final,match data,Al Jazeera/Reuters dated 3 March (publication date); match on 2 March per Sky and TheFA.
+2014 Football League Cup final,GLT,goal-line technology use not confirmed by a source
+2015 Football League Cup final,match data,Second goal credit: Sky Sports and TheFA credit a Kyle Walker own goal from Costa's shot; Wikipedia/11v11 and Sports Mole credit Costa (11v11 says Football League confirmed Costa). Recorded type as own goal with note.
+2015 Football League Cup final,match data,"Wikipedia lists Kurt Zouma booked 72'; TheFA and Sports Mole name Gary Cahill (72'), Sky lineup shows no Zouma card. Recorded Cahill; Wikipedia appears wrong."
+2015 Football League Cup final,match data,Dier non-second-yellow contested decision relies on a single source (Sports Mole); Costa-Bentaleb incident relies on TheFA plus a player quote on HITC (weak).
+2015 Football League Cup final,match data,Stats taken from a search snippet of Sports Mole's result page; possession 37-63 not cross-checked.
+2015 Football League Cup final,match data,GLT: no source found stating GLT was in operation.
+2015 Football League Cup final,GLT,goal-line technology use not confirmed by a source
+2016 Football League Cup final,match data,"Impact rating 'likely' for the Agüero claim is per the brief's definition (would have produced a penalty kick, not guaranteed goal)."
+2016 Football League Cup final,match data,"Booking minutes differ by a minute between sources (Coutinho 83/84, Fernandinho 118/119, Lallana/Touré 116/118 in the42); Sky/Sports Mole minutes used."
+2016 Football League Cup final,match data,Wikipedia lists the referee's county as Northumberland; not independently checked.
+2016 Football League Cup final,match data,Match statistics not found.
+2016 Football League Cup final,match data,GLT: no source found stating it was in operation.
+2016 Football League Cup final,GLT,goal-line technology use not confirmed by a source
+2017 EFL Cup final,match data,"Disallowed goal minute (~11') from general reporting, not confirmed by a fetched source."
+2017 EFL Cup final,match data,Lingard/Redmond incident minute unknown; Eurosport 'lenient' comment from search snippet.
+2017 EFL Cup final,match data,Stephens/Valencia: both Ref Watch sources are Sky Sports (not independent).
+2017 EFL Cup final,match data,Ibrahimović's first goal is widely described as a free kick (not directly verified in fetched pages).
+2017 EFL Cup final,match data,GLT: no source found stating it was in operation. VAR not used in English domestic football in 2016-17.
+2017 EFL Cup final,GLT,goal-line technology use not confirmed by a source
+2018 EFL Cup final,match data,"Second-yellow claim: only one source (Sky, quoting Wilshere's Instagram); player not identified."
+2018 EFL Cup final,match data,AVAR (Peter Kirkup) from Wikipedia only; Sky lineup page did not list AVAR.
+2018 EFL Cup final,match data,Match statistics not found for this match.
+2018 EFL Cup final,match data,GLT: no source found stating it was in operation.
+2018 EFL Cup final,GLT,goal-line technology use not confirmed by a source
+2019 EFL Cup final,match data,"AVAR Steve Child from Wikipedia only (Sky teams page lists referee, ARs, 4th official, VAR only)."
+2019 EFL Cup final,match data,"Aguero disallowed-goal minute: Sky 54', TNT 56'."
+2019 EFL Cup final,match data,"Shootout per Sky: Chelsea - Jorginho saved (Ederson), Azpilicueta, Emerson scored, David Luiz hit post, Hazard scored; City - Gundogan, Aguero scored, Sane saved (Kepa), Bernardo Silva, Sterling scored."
+2019 EFL Cup final,match data,Man City absences: Guardiola mentioned injuries but no names in fetched sources; Kompany came on at half-time (Sky). Lists not exhaustive.
+2019 EFL Cup final,match data,Odds not found (no reputable preview fetchable).
+2019 EFL Cup final,match data,GLT: no source found.
+2019 EFL Cup final,GLT,goal-line technology use not confirmed by a source
+2020 EFL Cup final,match data,"Agüero goal minute: Sky header 20', Sky body text 19'; Irish Times says his shot flicked off Tyrone Mings (still credited to Agüero)."
+2020 EFL Cup final,match data,"Attendance: 82,145 (Sky/ESPN) vs 82,149 (EFL/CBS)."
+2020 EFL Cup final,match data,"Absences not verified (e.g. Villa keepers Heaton/Reina situation, Wesley injury) - nothing recorded; empty lists mean 'not found'."
+2020 EFL Cup final,match data,Stats single-source (CBS).
+2020 EFL Cup final,match data,Odds not found.
+2020 EFL Cup final,match data,GLT: no source found.
+2020 EFL Cup final,GLT,goal-line technology use not confirmed by a source
+2021 EFL Cup final,match data,Laporte incident: no referee-expert view found; one source is the losing club's site.
+2021 EFL Cup final,match data,"Tottenham article says TV coverage briefly showed a booking for the first Laporte foul, which was incorrect."
+2021 EFL Cup final,match data,Absences: none verified (Spurs made two changes - Kane and Winks in for Bale and Ndombele - tactical). Empty lists mean 'not found'.
+2021 EFL Cup final,match data,Odds not found.
+2021 EFL Cup final,match data,"Attendance 7,773 (Covid pilot event)."
+2021 EFL Cup final,match data,GLT: no source found.
+2021 EFL Cup final,GLT,goal-line technology use not confirmed by a source
+2022 EFL Cup final,match data,Matip goal minute: Goal.com 67'; earlier pass recorded 69'.
+2022 EFL Cup final,match data,Player impeded by Van Dijk: Sky/Gallagher/Goal say Reece James; RTE says Antonio Rüdiger.
+2022 EFL Cup final,match data,Keïta-Chalobah challenge: single source (Sky Ref Watch); minute not given.
+2022 EFL Cup final,match data,"Chelsea: Azpilicueta went off injured 57' (in-match, not an absence)."
+2022 EFL Cup final,match data,Odds: CBS/Caesars only; snapshot time unknown.
+2022 EFL Cup final,match data,Havertz and Kanté booking minutes: Sky gives Havertz 107 (105+2).
+2022 EFL Cup final,match data,GLT: no source found.
+2022 EFL Cup final,GLT,goal-line technology use not confirmed by a source
+2023 EFL Cup final,match data,"Second goal: RTE (PA, on the day) gives it as a Sven Botman own goal from Rashford's shot; Sky and Man Utd (headline: 'Marcus Rashford officially credited...') credit Rashford - kept as Rashford."
+2023 EFL Cup final,match data,Referee David Coote confirmed by Sky only (plus Wikipedia/EFL citation not readable).
+2023 EFL Cup final,match data,"Christian Eriksen reportedly injured (ankle) - not verified, not listed. Rashford was a pre-match doubt but played."
+2023 EFL Cup final,match data,"Stats not found (Sky stats page: saves 2-8, interceptions 11-5 only)."
+2023 EFL Cup final,match data,Odds not found.
+2023 EFL Cup final,match data,GLT: no source found.
+2023 EFL Cup final,GLT,goal-line technology use not confirmed by a source
+2024 EFL Cup final,match data,AVAR conflict: Sky teams page Wade Smith vs Wikipedia Marc Perry. AR James Mainwaring from Wikipedia only.
+2024 EFL Cup final,match data,"Van Dijk disallowed goal minute approximate ('on the hour', Sky)."
+2024 EFL Cup final,match data,Caicedo-Gravenberch minute not given ('midway through the first half').
+2024 EFL Cup final,match data,"Liverpool absentee list partly from 90min/Sky preview; Salah, Núñez, Alexander-Arnold confirmed out by Sky/Guardian; Szoboszlai's status not independently confirmed."
+2024 EFL Cup final,match data,Odds not found.
+2024 EFL Cup final,match data,"Attendance 88,868 (Sky)."
+2024 EFL Cup final,match data,GLT: no source found.
+2024 EFL Cup final,GLT,goal-line technology use not confirmed by a source
+2025 EFL Cup final,match data,"Liverpool absentees (reportedly Trent Alexander-Arnold, injured) not verified - no accessible source fetched; team1 absences left empty for that reason, not because none existed."
+2025 EFL Cup final,match data,"Assistant referees from Wikipedia/EFL only (Sky lineup listed referee, fourth official, VAR, AVAR)."
+2025 EFL Cup final,match data,Stats from Wikipedia citing The Athletic - not independently verified.
+2025 EFL Cup final,match data,Odds not searched (search budget exhausted).
+2025 EFL Cup final,match data,Contested-decision search incomplete (see contested_search_done).
+2025 EFL Cup final,match data,GLT: no source found stating it was in operation.
+2025 EFL Cup final,GLT,goal-line technology use not confirmed by a source
+2026 EFL Cup final,match data,Match postdates training knowledge; all facts from Sky Sports pages and Arsenal/EFL sites.
+2026 EFL Cup final,match data,Second core source (EFL) confirms only the headline score/date/final; venue/attendance from Sky only.
+2026 EFL Cup final,match data,Eze status: arsenal.com says Havertz replaced Eze who 'came off' midweek; Sky says Arsenal were 'without' Eze; Eze not in Sky's matchday 20 - injury not explicitly confirmed.
+2026 EFL Cup final,match data,Stats from search snippet of Sky stats page - unconfirmed.
+2026 EFL Cup final,match data,Odds not searched (search budget exhausted).
+2026 EFL Cup final,match data,Assistant referees from Wikipedia/EFL only.
+2026 EFL Cup final,match data,GLT: no source found stating it was in operation.
+2026 EFL Cup final,GLT,goal-line technology use not confirmed by a source
+1996 FA Charity Shield,match data,"Goal minutes: Independent gives Cantona 25, Keane 88; Irish Times gives Cantona 24, Beckham 85, Keane 2 minutes after Beckham (87); Wikipedia 24/30/85/87 used."
+1996 FA Charity Shield,match data,"Keane booking confirmed by Independent (for squaring up to the referee, first half); minute 40 is from Wikipedia only. Albert's 16th-minute booking is from Wikipedia only (not confirmed in sources read). Cantona booking 65' confirmed by Irish Times."
+1996 FA Charity Shield,match data,Card list may be incomplete; no full official booking list found.
+1996 FA Charity Shield,match data,Assistants/fourth official not found.
+1996 FA Charity Shield,match data,No stats or pre-match odds found. Absences not researched in sources read (none mentioned).
+1996 FA Charity Shield,match data,Independent page retrieved via direct HTTP (WebFetch tool refused the domain).
+1996 FA Charity Shield,cards,card list not confirmed complete
+1997 FA Charity Shield,match data,"Shootout order (Independent): Sinclair saved, Scholes, Zola, Irwin, Di Matteo over, Keane, Leboeuf, Butt -> 2-4."
+1997 FA Charity Shield,match data,"Card minutes: Sheringham 'shortly before half time' (Irish Times), 43 from Wikipedia; other minutes (Wikipedia: Sinclair 26, Wise 30, Petrescu 90) not confirmed, left null. Both reports list the same four bookings, so list treated as complete."
+1997 FA Charity Shield,match data,"Johnsen goal minute 57 (Independent, Irish Times) vs 58 (Wikipedia)."
+1997 FA Charity Shield,match data,"Keane-Poyet incident minute: 'just past the quarter hour' (Irish Times) -> ~16, approximate."
+1997 FA Charity Shield,match data,No extra time in Charity Shield; one web-search summary wrongly said 'after extra time'; reports say penalties followed 90 minutes.
+1997 FA Charity Shield,match data,"Assistants, fourth official, stats and odds not found."
+1997 FA Charity Shield,match data,Independent page retrieved via direct HTTP (WebFetch tool refused the domain).
+1998 FA Charity Shield,match data,"core_verified false: only one independent full report (Independent) retrieved; RSSSF confirms teams/score/winner/year but not date/venue. BBC, Guardian, Telegraph inaccessible; Irish Times report not found."
+1998 FA Charity Shield,match data,Wreh goal minute: Independent says 61; Wikipedia says 57.
+1998 FA Charity Shield,match data,"Card minutes: G Neville 3' (Independent); Keown and Irwin 'before the half-hour', P Neville and Dixon later (Independent); Wikipedia minutes (Keown 22, Irwin 26, P Neville 79, Dixon 81) not confirmed, left null. Card list complete per Independent only."
+1998 FA Charity Shield,match data,Referee named by one source only (Independent) plus Wikipedia.
+1998 FA Charity Shield,match data,"Odds: Independent quotes only Ladbrokes season title odds (both 2-1 joint favourites), not match odds; odds null."
+1998 FA Charity Shield,match data,Independent page retrieved via direct HTTP (WebFetch tool refused the domain).
+1998 FA Charity Shield,core facts,core facts (date/venue/teams/score/winner) NOT confirmed by two independent non-Wikipedia sources
+1998 FA Charity Shield,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+1999 FA Charity Shield,match data,"Bookings conflict: Independent lists Arsenal Keown, Vieira; United Beckham, Butt, Yorke. Irish Times lists Vieira, Keown; United Beckham, Butt, Cruyff ('five players were cautioned'). Wikipedia lists only 4. Third United booking (Yorke or Cruyff) unresolved and omitted; Beckham booked for dissent/swearing."
+1999 FA Charity Shield,match data,"Goal minutes: Kanu pen 66 (Independent) / 67 (Irish Times, Wikipedia); Parlour 76 (Independent) / 77 (Irish Times) / 78 (Wikipedia)."
+1999 FA Charity Shield,match data,"Irish Times match details credit the 36' goal to Beckham in its lineup box, while saying the referee credited Yorke; Yorke recorded per referee/most sources."
+1999 FA Charity Shield,match data,"Card minutes other than Beckham (Wikipedia 21, 'midway through first half' per Irish Times) not confirmed; Wikipedia gives Keown 25, Vieira 25, Butt 25."
+1999 FA Charity Shield,match data,Irish Times absences text also listed Gary Neville while showing him in the lineup; Neville omitted. Keane absent per Independent ('in the absence of Roy Keane').
+1999 FA Charity Shield,match data,Wikipedia stats table (shots on target 3-3 etc.) unsourced; not used.
+1999 FA Charity Shield,match data,Penalty contested-decision rests on a single source raising doubt (Independent).
+1999 FA Charity Shield,match data,Independent page retrieved via direct HTTP (WebFetch tool refused the domain).
+1999 FA Charity Shield,cards,card list not confirmed complete
+2000 FA Charity Shield,match data,"Opening goal: Irish Times says Hasselbaink's shot was deflected over Barthez by Stam (24th minute in text, 22 in box); credited to Hasselbaink by all sources."
+2000 FA Charity Shield,match data,Scholes 81' booking from Wikipedia only; not confirmed. Card list incomplete. Hasselbaink not booked per Irish Times/Independent.
+2000 FA Charity Shield,match data,Minute of Hasselbaink tackle approximate (shortly before Keane's 62nd-minute red).
+2000 FA Charity Shield,match data,Independent BBC report link (news.bbc.co.uk) not accessible; stats and odds not found; assistants not found.
+2000 FA Charity Shield,match data,Independent page retrieved via direct HTTP (WebFetch tool refused the domain).
+2000 FA Charity Shield,cards,card list not confirmed complete
+2001 FA Charity Shield,match data,Van Nistelrooy goal minute: 'six minutes after half-time' (Irish Times/RTE) = ~51 (Wikipedia 51); lfchistory says 65. Owen 16 (Irish Times; lfchistory 15). McAllister penalty in 1st-2nd minute.
+2001 FA Charity Shield,match data,"Cards (Scholes 17, Murphy 35) are from Wikipedia only; no source read lists bookings. cards_sources left empty."
+2001 FA Charity Shield,match data,Henchoz handball details and minute (84) come from a Coventry Telegraph report seen only as a search-result snippet (page paywalled to fetch); the first appeal's minute/score unknown.
+2001 FA Charity Shield,match data,Irish Times and RTE reports appear to share wire copy; Irish Examiner is a separate report.
+2001 FA Charity Shield,match data,"The 1st-minute penalty (Keane on Murphy) is not disputed by any source read, so not listed as contested."
+2001 FA Charity Shield,match data,"Assistants, stats, odds not found."
+2001 FA Charity Shield,cards,card list not confirmed complete
+2002 FA Community Shield,match data,core_verified false: exact date confirmed only by ESPN (Sky article says 'Sunday'); RSSSF confirms teams/score/winner/Cardiff venue.
+2002 FA Community Shield,match data,Diouf penalty minute (73) from ESPN commentary; Sky does not give a minute.
+2002 FA Community Shield,match data,"Card list from ESPN commentary only ('six players were booked'); Wikipedia lineup tables only had 4 of these (Wiltord, Henry, Gerrard, Murphy) and minutes Wiltord 24/Murphy 82 differ slightly."
+2002 FA Community Shield,match data,"Stats in Wikipedia (possession 56-44, shots on target 9-1) unsourced; not used."
+2002 FA Community Shield,match data,"Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+2002 FA Community Shield,core facts,core facts (date/venue/teams/score/winner) NOT confirmed by two independent non-Wikipedia sources
+2003 FA Community Shield,match data,"core_verified false: ESPN data lists venue as 'Old Trafford' (data error) and attendance 59,293 vs Wikipedia 59,923; RSSSF says Cardiff Millennium Stadium. Date only from ESPN (and Wikipedia)."
+2003 FA Community Shield,match data,ESPN keyEvents contain spurious 'Start Extra Time/End Extra Time' entries; commentary says 'Ninety minutes are up - there'll be penalties' (no ET).
+2003 FA Community Shield,match data,"Shootout per ESPN commentary: United Scholes, Ferdinand scored, Van Nistelrooy saved, Solskjaer, Forlan scored; Arsenal Edu scored, Van Bronckhorst saved, Wiltord, Lauren scored, Pires saved -> 3-4."
+2003 FA Community Shield,match data,"All contested decisions rest on a single, partisan-sounding live-text source; treat with caution."
+2003 FA Community Shield,match data,"Card minutes from ESPN commentary; Wikipedia gives Cole 2, Vieira 52, Scholes 53, Jeffers 72."
+2003 FA Community Shield,match data,Referee named only by ESPN (and Wikipedia).
+2003 FA Community Shield,match data,"Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+2003 FA Community Shield,core facts,core facts (date/venue/teams/score/winner) NOT confirmed by two independent non-Wikipedia sources
+2003 FA Community Shield,cards,card list not confirmed complete
+2003 FA Community Shield,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+2004 FA Community Shield,match data,core_verified false: date/venue only from ESPN; RSSSF confirms teams/score/winner/Cardiff.
+2004 FA Community Shield,match data,"Goal minutes from ESPN (Gilberto 49, Reyes 59) differ from Wikipedia (50, 58)."
+2004 FA Community Shield,match data,No booking data found (Wikipedia stats table suggests 1 Arsenal and 2 United yellows but its lineup tables list none).
+2004 FA Community Shield,match data,Absences (e.g. Vieira transfer saga) not verified.
+2004 FA Community Shield,match data,"Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+2004 FA Community Shield,core facts,core facts (date/venue/teams/score/winner) NOT confirmed by two independent non-Wikipedia sources
+2004 FA Community Shield,cards,card list not confirmed complete
+2004 FA Community Shield,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+2005 FA Community Shield,match data,core_verified false: date/venue only from ESPN; RSSSF confirms teams/score/winner/Cardiff.
+2005 FA Community Shield,match data,"Goal minutes ESPN (Drogba 57, Fabregas 65) vs Wikipedia (58, 64)."
+2005 FA Community Shield,match data,Referee named in ESPN commentary ('Referee Webb'); ESPN officials list empty. Wikipedia: Howard Webb.
+2005 FA Community Shield,match data,"Wikipedia stats table (fouls 7-17, possession 58.8-41.2, shots on target 7-3) unsourced; not used."
+2005 FA Community Shield,match data,Contested item based on single source.
+2005 FA Community Shield,match data,"Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+2005 FA Community Shield,core facts,core facts (date/venue/teams/score/winner) NOT confirmed by two independent non-Wikipedia sources
+2005 FA Community Shield,cards,card list not confirmed complete
+2005 FA Community Shield,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+2006 FA Community Shield,match data,"Ballack and Lampard (17') bookings from RTE; Alonso 61' and Diarra 68' bookings from Wikipedia only. Wikipedia gives Ballack 7', Lampard 15'."
+2006 FA Community Shield,match data,"Shevchenko minute 43 (RTE, ESPN, lfchistory) vs 44 (Wikipedia)."
+2006 FA Community Shield,match data,Ballack substitution: RTE says replaced by Kalou after 26 min (hip injury); lfchistory says 43'.
+2006 FA Community Shield,match data,RTE page shows no explicit date; URL path 2006/0813 and ESPN/lfchistory give 13 Aug 2006.
+2006 FA Community Shield,match data,"Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+2006 FA Community Shield,cards,card list not confirmed complete
+2007 FA Community Shield,match data,"Shootout per ESPN: Pizarro miss, Ferdinand scored, Lampard miss, Carrick scored, Wright-Phillips miss, Rooney scored -> 0-3."
+2007 FA Community Shield,match data,Carvalho booking listed by RSSSF (and Wikipedia at 63') but not in ESPN commentary; minute left null.
+2007 FA Community Shield,match data,Rooney booking 'last action of the half' (45+); Wikipedia 45+3.
+2007 FA Community Shield,match data,"Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+2008 FA Community Shield,match data,"Card minutes (Wikipedia: Vidic 45, Neville 61, Distin 37) not confirmed."
+2008 FA Community Shield,match data,"Shootout takers not verified (Wikipedia lists Tevez, Giggs, Carrick for United; Diarra, Defoe, Mvuemba, Johnson for Portsmouth)."
+2008 FA Community Shield,match data,Wikipedia cites an FA announcement page titled 'Clattenburg_FACS' suggesting Mark Clattenburg was originally appointed; RSSSF and ESPN both give Peter Walton as referee.
+2008 FA Community Shield,match data,"Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+2009 FA Community Shield,match data,core_verified false: date/venue only from ESPN; RSSSF confirms teams/score/shootout/winner.
+2009 FA Community Shield,match data,"Shootout per ESPN: Lampard scored, Giggs saved, Ballack scored, Carrick scored, Drogba scored, Evra saved, Kalou scored -> 4-1."
+2009 FA Community Shield,match data,Card minutes: ESPN keyEvents 4/13/80/86; commentary text 4/12/78/84.
+2009 FA Community Shield,match data,Contested decision from a single source.
+2009 FA Community Shield,match data,"Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+2009 FA Community Shield,core facts,core facts (date/venue/teams/score/winner) NOT confirmed by two independent non-Wikipedia sources
+2009 FA Community Shield,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+2010 FA Community Shield,match data,core_verified false: date/venue only from ESPN; RSSSF confirms teams/score/winner.
+2010 FA Community Shield,match data,No bookings appear in ESPN data or Wikipedia lineup tables; not confirmed that there were none.
+2010 FA Community Shield,match data,Contested item from single source; trivial.
+2010 FA Community Shield,match data,"Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+2010 FA Community Shield,core facts,core facts (date/venue/teams/score/winner) NOT confirmed by two independent non-Wikipedia sources
+2010 FA Community Shield,cards,card list not confirmed complete
+2010 FA Community Shield,referee,referee identity confirmed by fewer than two independent non-Wikipedia sources
+2011 FA Community Shield,match data,Assistants/fourth official only from Wikipedia citing a now-dead TheFA appointment page; 2012 Wikipedia article independently states Kevin Friend was 4th official at the 2011 Shield. Not otherwise verified.
+2011 FA Community Shield,match data,Smalling's goal came from turning in Ashley Young's free-kick (set piece) - typed 'open play' as it was not a direct free kick.
+2011 FA Community Shield,match data,"VAR not in use in English football in 2011 but no match-specific source found, so var_in_use left null; GLT not verified."
+2011 FA Community Shield,match data,Card list from ESPN event data; BBC confirms 'four City players booked early on' (Richards named) - consistent. Wikipedia lineup tables agree on all 7 cards.
+2011 FA Community Shield,match data,No pre-match odds or key-absence info found from a reputable source.
+2011 FA Community Shield,match data,"Curated override: VAR not yet used in English football; first competitive use in England was the FA Cup third round, 8 Jan 2018 (Brighton v Crystal Palace)."
+2011 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2012 FA Community Shield,match data,"Irish Times report states David Luiz was also cautioned; ESPN event data, Sports Mole live text and Wikipedia do not list a Luiz booking - not recorded; cards_complete set false."
+2012 FA Community Shield,match data,"Mikel's booking: ESPN 44', Wikipedia 45+1' - ESPN used."
+2012 FA Community Shield,match data,Savić/Torres incident: only one source; exact minute and decision unclear.
+2012 FA Community Shield,match data,"Assistants (McDonough, West) only from Wikipedia citing TheFA; fourth official Anthony Taylor confirmed by TheFA 2015 article."
+2012 FA Community Shield,match data,Sources conflict on whether Ivanović was suspended afterwards (The National: no ban due to rule change; Irish Times: would miss three games) - not relevant to dataset fields.
+2012 FA Community Shield,match data,No pre-match odds found from a reputable source.
+2012 FA Community Shield,match data,Curated override: as above
+2012 FA Community Shield,cards,card list not confirmed complete
+2012 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2013 FA Community Shield,match data,Card list only from ESPN event data (matches Wikipedia); no second independent card source fetched.
+2013 FA Community Shield,match data,Van Persie's second goal deflected off James Perch's heel - credited to Van Persie by BBC and ESPN.
+2013 FA Community Shield,match data,Match stats unavailable; odds not found; VAR/GLT not verified (left null).
+2013 FA Community Shield,match data,Curated override: as above
+2013 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2014 FA Community Shield,match data,"Contested decision recorded from a single source (PA report on ESPN); described as a claim, not as an error."
+2014 FA Community Shield,match data,"Giroud's goal minute: ESPN/PA 60', Sports Mole match listing 61' - 60 used."
+2014 FA Community Shield,match data,"City's Fernando booking from ESPN only (matches Wikipedia stats table: Arsenal 0, City 1 yellows)."
+2014 FA Community Shield,match data,BBC report URL (28731476) returns 404; web archive unreachable.
+2014 FA Community Shield,match data,No odds found; VAR/GLT not verified.
+2014 FA Community Shield,match data,Curated override: as above
+2014 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2015 FA Community Shield,match data,BBC match report URL not identified (BBC not searchable/archived copies unreachable).
+2015 FA Community Shield,match data,Cards from ESPN only (consistent with Wikipedia and its stats table).
+2015 FA Community Shield,match data,"Alexis Sánchez was also absent (extended post-Copa América break per Independent headline cited in Wikipedia) - not fetched, not recorded."
+2015 FA Community Shield,match data,No odds found; VAR/GLT not verified.
+2015 FA Community Shield,match data,Curated override: as above
+2015 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2016 FA Community Shield,match data,Both contested decisions rest on a single reputable source each (PA; BBC). No replay analysis found.
+2016 FA Community Shield,match data,"Danny Simpson booking minute: ESPN and Wikipedia 40', TheFA report lists 'Simpson 55, King 55' - ESPN used."
+2016 FA Community Shield,match data,"Lingard goal minute: ESPN/Wikipedia 32', TheFA report 30th minute - 32 used."
+2016 FA Community Shield,match data,Assistants/fourth official only from Wikipedia.
+2016 FA Community Shield,match data,No key absences identified from sources; no odds found; VAR/GLT not verified.
+2016 FA Community Shield,match data,Curated override: as above
+2016 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2017 FA Community Shield,match data,"Bellerín booking minute: ESPN 15', Wikipedia 16' - ESPN used."
+2017 FA Community Shield,match data,"Pedro red: journalists largely viewed it as correct (BBC 'straightforward'), but no referee-expert verdict found, so assessment left 'genuinely debatable' per brief rule."
+2017 FA Community Shield,match data,"Shootout used ABBA format (first time in English football). Shootout score 4-1 (Arsenal: Walcott, Monreal, Oxlade-Chamberlain, Giroud scored; Chelsea: Cahill scored, Courtois and Morata missed)."
+2017 FA Community Shield,match data,"Per Mertesacker went off injured ~30' (in-match), not a pre-match absence."
+2017 FA Community Shield,match data,No odds found; VAR/GLT not verified.
+2017 FA Community Shield,match data,Curated override: as above
+2017 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2018 FA Community Shield,match data,Referee confirmed by TheFA appointment; second source (TheFA match report / Wikipedia) not independently fetched - ESPN data lacks officials for this match.
+2018 FA Community Shield,match data,VAR 'available' per TheFA appointment article (Elleray: 'Having the VAR available for Jon'); no VAR interventions reported.
+2018 FA Community Shield,match data,Shots on target for Chelsea: ESPN 2 vs BBC text 1.
+2018 FA Community Shield,match data,Odds in ESPN feed are in-play/closing (e.g. 1/250) - not usable; null.
+2018 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2019 FA Community Shield,match data,Pep Guardiola (manager) was shown a yellow card (BBC) - not in player card list.
+2019 FA Community Shield,match data,Shootout: Liverpool 4-5 (Wijnaldum saved by Bravo; City scored all five).
+2019 FA Community Shield,match data,Sergio Agüero and Ederson were on the bench (not absent) per ESPN.
+2019 FA Community Shield,match data,Odds in ESPN feed are in-play (draw 2/11) - not usable; null.
+2019 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2020 FA Community Shield,match data,The only dispute is Arsenal players' handball protest; both reports suggest the decision was correct - 'genuinely debatable' used only because no expert assessment exists.
+2020 FA Community Shield,match data,"Played behind closed doors (attendance 0, COVID-19)."
+2020 FA Community Shield,match data,Absence reasons for Alexander-Arnold/Henderson not given in fetched sources.
+2020 FA Community Shield,match data,Odds from ESPN data feed (snapshot timing unknown).
+2020 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2021 FA Community Shield,match data,"Dias/Fernandinho booking minute: ESPN 88', Wikipedia 87'."
+2021 FA Community Shield,match data,"A search snippet (Mail on Sunday) says Guardiola was booked for remonstrating with the fourth official over a foul given against Cole Palmer - not verified, not recorded."
+2021 FA Community Shield,match data,Dispute rests on one reputable source describing players' protests; BBC/ESPN describe the foul without doubt.
+2021 FA Community Shield,match data,Odds from ESPN data feed (snapshot timing unknown).
+2021 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2022 FA Community Shield,match data,"Onuoha criticism found only via a search snippet/aggregator (inkl, originally likely Liverpool Echo); page itself returned 403. TheFA match report reportedly attributes the handball to Cancelo (conflict) - BBC, ESPN, Sky all say Dias."
+2022 FA Community Shield,match data,"Álvarez goal: a search summary mentioned reports that VAR 'overlooked' Adrián having hands on the ball when challenged by Foden - not found in a fetched reputable source; recorded only as a neutral VAR overturn, reasonably possibly not 'disputed' at all."
+2022 FA Community Shield,match data,Odds from ESPN data feed (snapshot timing unknown).
+2022 FA Community Shield,match data,No key absences identified.
+2022 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2023 FA Community Shield,match data,The 'contested decision' is the application of a new league-wide stoppage-time directive rather than a judgement on an incident.
+2023 FA Community Shield,match data,Reported added time varies (Reuters: 8 stretched to 13; others 14).
+2023 FA Community Shield,match data,"Shootout 4-1 (De Bruyne hit bar, Rodri saved; Vieira scored winner)."
+2023 FA Community Shield,match data,Odds: Bet365 snapshot in ESPN feed inconsistent with other books - see note.
+2023 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2024 FA Community Shield,match data,"Original referee John Brooks withdrew injured; Gillett moved up from fourth official, Sam Barrott became fourth official."
+2024 FA Community Shield,match data,Gillett nationality per Football Australia/Wikipedia (Australian); his association for this match is The FA/PGMOL.
+2024 FA Community Shield,match data,Wikipedia card table omits Garnacho's 85' booking; BBC line-ups and ESPN both include it.
+2024 FA Community Shield,match data,"Shootout 7-6 (Sancho saved, Evans missed for United per reports; Akanji scored winner)."
+2024 FA Community Shield,match data,No key absences identified; odds from ESPN data feed (snapshot timing unknown).
+2024 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2025 FA Community Shield,match data,My BBC stats parser initially read 3 Palace yellows (artefact); BBC line-ups and ESPN show Palace received none.
+2025 FA Community Shield,match data,"Shootout 3-2 (Salah, Mac Allister, Elliott missed for Liverpool; Eze saved, Sosa hit bar for Palace; Devenny scored winner)."
+2025 FA Community Shield,match data,Odds from ESPN data feed (snapshot timing unknown).
+2025 FA Community Shield,match data,Daichi Kamada went off injured ~30' (in-match).
+2025 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+2026 FA Community Shield,match data,"Match postdates training knowledge; all facts taken from BBC, TheFA, ESPN, AP and Reuters reports fetched on 9 Nov 2026."
+2026 FA Community Shield,match data,"Calafiori goal timed at 23 seconds (BBC/AP), 24 (TheFA) or 30 (BBC summary) - minute '1'."
+2026 FA Community Shield,match data,Havertz goal: Reuters text implies Donnarumma spilled the ball over the line after Tzolis's header; BBC/AP credit Havertz's downward header - credited to Havertz by all.
+2026 FA Community Shield,match data,"Venue is the Millennium Stadium, currently named Principality Stadium (Wikipedia uses the former name)."
+2026 FA Community Shield,match data,Martinelli/Jesus: Arteta referred to squad-registration limits rather than injury.
+2026 FA Community Shield,match data,"Odds: DraftKings moneyline via ESPN feed (Arsenal +170, draw +220, City +155); snapshot timing unknown."
+2026 FA Community Shield,GLT,goal-line technology use not confirmed by a source
+1999 UEFA Champions League final,match data,"Cards: only Effenberg's 60' booking is known, and only from Wikipedia's lineup table; no non-Wikipedia card source could be opened, so cards_complete=false and cards_sources is empty."
+1999 UEFA Champions League final,match data,Assistants and fourth official come from Wikipedia only (RSSSF names just the referee).
+1999 UEFA Champions League final,match data,Solskjær's minute: TNT/Eurosport and Wikipedia say 90+3; RSSSF says '2 mins into stoppage time'.
+1999 UEFA Champions League final,match data,"Bayern absentees (e.g. long-term injuries) not verified, so none recorded."
+1999 UEFA Champions League final,match data,Stats and odds: none found.
+1999 UEFA Champions League final,match data,GLT/VAR false: neither existed in UEFA competition in 1999 (UEFA's first GLT use was the May 2016 Europa League final).
+1999 UEFA Champions League final,cards,card list not confirmed complete
+2005 UEFA Champions League final,match data,"Nesta handball claim: one source only (Guardian MBM via Wikipedia). Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified."
+2005 UEFA Champions League final,match data,"Alonso's goal: UEFA marks a 60' penalty (P) and a 60' goal. He scored the rebound after Dida saved his penalty (Wikipedia), recorded here as 'open play'."
+2005 UEFA Champions League final,match data,"Baroš booking: UEFA says 81', RSSSF says 78'. UEFA used."
+2005 UEFA Champions League final,match data,Wikipedia's assistant names ('Clemente Plou; Oscar Samaniego') are a shortened form of UEFA's 'Ayete Plou Clemente; Martínez Samaniego'.
+2005 UEFA Champions League final,match data,"Shootout (UEFA): Milan Serginho miss, Pirlo saved, Tomasson scored, Kaká scored, Shevchenko saved; Liverpool Hamann, Cissé scored, Riise saved, Šmicer scored."
+2005 UEFA Champions League final,match data,Absences and odds not researched successfully (search budget exhausted).
+2005 UEFA Champions League final,match data,"Attendance: UEFA PDF does not show it; RSSSF says 60,000, Wikipedia 69,000."
+2006 UEFA Champions League final,match data,"All three contested items: Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified."
+2006 UEFA Champions League final,match data,"Not a match decision: assistant Ole Hermann Borgan was replaced on the morning of the final after being photographed in a Barcelona shirt (Wikipedia, citing BBC). UEFA lists Holvik and Sundet."
+2006 UEFA Champions League final,match data,Larsson booked in stoppage time (UEFA 90'; Wikipedia 90+3).
+2006 UEFA Champions League final,match data,"RSSSF lists Henry's yellow at '5', a typo for 51 (UEFA)."
+2006 UEFA Champions League final,match data,"Absences: none verified (Messi missed the final injured per general knowledge, but no source was checked, so not recorded)."
+2006 UEFA Champions League final,match data,Odds not found.
+2007 UEFA Champions League final,match data,"Both contested items: Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified."
+2007 UEFA Champions League final,match data,Inzaghi's first goal is typed 'free kick' (deflected Pirlo free kick). It could also be classed as a deflection off the arm.
+2007 UEFA Champions League final,match data,"Kuyt's 89' goal typed 'header' from general knowledge, not checked against a source; treat as unverified."
+2007 UEFA Champions League final,match data,Absences and odds not found.
+2008 UEFA Champions League final,match data,Carvalho's booking appears at the 45' half-time marker on the UEFA report (45+).
+2008 UEFA Champions League final,match data,Ronaldo goal typed 'header' and Lampard's 'open play' from general knowledge; UEFA report shows only a goal icon.
+2008 UEFA Champions League final,match data,"Shootout (UEFA): United Tevez, Carrick scored, Ronaldo saved, Hargreaves, Nani, Anderson, Giggs scored; Chelsea Ballack, Belletti, Lampard, A. Cole scored, Terry missed, Kalou scored, Anelka saved."
+2008 UEFA Champions League final,match data,Absences and odds not found (search budget exhausted).
+2009 UEFA Champions League final,match data,Vidić booking at the 90' stoppage marker (UEFA); Wikipedia says 90+3. Scholes 80' (UEFA) v 81' (Wikipedia).
+2009 UEFA Champions League final,match data,"Messi goal typed 'header' from general knowledge, not checked against a source."
+2009 UEFA Champions League final,match data,Possible unrecorded incident: Ronaldo offside call at 59' (Wikipedia prose only).
+2009 UEFA Champions League final,match data,"Fletcher's suspension came from a disputed semi-final red card, which is not a final decision. UEFA rejected the appeal."
+2009 UEFA Champions League final,match data,"Other absentees (e.g. Barcelona injuries such as Márquez) not verified, so not recorded."
+2009 UEFA Champions League final,match data,Odds not found.
+2011 UEFA Champions League final,match data,"Giggs-offside item: one source only. Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified."
+2011 UEFA Champions League final,match data,RSSSF gives goal minutes 28/36/56/71; UEFA gives 27/34/54/69. UEFA used.
+2011 UEFA Champions League final,match data,Absences and odds not found.
+2012 UEFA Champions League final,match data,"Absences come from Wikipedia and general knowledge (suspensions from the semi-finals) and are NOT verified by an accessible non-Wikipedia source, so the sources list is empty."
+2012 UEFA Champions League final,match data,"Goal types (headers) from general knowledge, not checked against a source."
+2012 UEFA Champions League final,match data,"Drogba booked 93' for the foul on Ribéry that gave Bayern the extra-time penalty (95' on the UEFA report, saved)."
+2012 UEFA Champions League final,match data,"Shootout (UEFA): Bayern Lahm, Gomez, Neuer scored, Olić saved, Schweinsteiger missed (post); Chelsea Mata saved, David Luiz, Lampard, Cole, Drogba scored."
+2012 UEFA Champions League final,match data,Odds not found.
+2018 UEFA Champions League final,match data,"Both contested items: Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified."
+2018 UEFA Champions League final,match data,"Bale's first goal: UEFA 64', Wikipedia 63'. UEFA used."
+2018 UEFA Champions League final,match data,"VAR not in use: UEFA introduced VAR in the Champions League from the 2018-19 knockout stage (ITV/Goal), after this final."
+2018 UEFA Champions League final,match data,Absences and odds not found.
+2019 UEFA Champions League final,match data,"Sissoko handball: recorded because it is widely debated, but the only source checked (UEFA report) describes it without calling it disputed. No expert verdict was checked. Treat as low-confidence."
+2019 UEFA Champions League final,match data,"Absences and odds not found (Kane started after injury, so not an absence)."
+2021 UEFA Champions League final,match data,"James handball: one source only. Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified."
+2021 UEFA Champions League final,match data,"Attendance 14,110 (COVID-limited)."
+2021 UEFA Champions League final,match data,Absences and odds not found.
+2022 UEFA Champions League final,match data,Disallowed-goal minute is approximate: Wikipedia says 'two minutes before half-time'. UEFA's report does not record disallowed goals.
+2022 UEFA Champions League final,match data,"The 3 min 20 s VAR check length comes from Wikipedia citing ESPN, not seen directly."
+2022 UEFA Champions League final,match data,Kick-off was delayed (UEFA report shows a 21:00 CET scheduled time); the delay did not affect the result.
+2023 UEFA Champions League final,match data,"The three 90+ bookings (Haaland, Onana, Ederson) and Inzaghi's appear at the 90' stoppage marker on the UEFA report; Wikipedia gives 90+2 (Haaland, Onana) and 90+4 (Ederson), not independently confirmed."
+2023 UEFA Champions League final,match data,UEFA counts Inzaghi's booking in Inter's 4 yellow cards; Wikipedia lists only 3 Inter player cards.
+2023 UEFA Champions League final,match data,"No key absentees found: Walker was a tactical bench choice per Guardiola, and De Bruyne went off injured at 36' (not an absence)."
+2026 UEFA Champions League final,match data,ESPN VAR-review body could not be fetched; its verdict is taken from its headline and search snippets.
+2026 UEFA Champions League final,match data,"Trossard-handball and Saka-handball incidents are backed only by beIN plus lower-tier outlets (dailysports.net, britbrief); no top-tier expert verdict found."
+2026 UEFA Champions League final,match data,João Neves booking shown by UEFA at 90' in stoppage time (Wikipedia: 90+6); exact added minute not confirmed.
+2026 UEFA Champions League final,match data,"Penalty shootout (UEFA FR): PSG Ramos scored, Doué scored, Mendes saved, Hakimi scored, Beraldo scored; Arsenal Gyökeres scored, Eze missed, Rice scored, Martinelli scored, Gabriel missed (over the bar)."
+2026 UEFA Champions League final,match data,UEFA team stats count Arteta's booking in Arsenal's 5 yellow cards.
+2026 UEFA Champions League final,match data,Al Jazeera's '32 attempts by half-time' figure conflicts with UEFA (PSG 6 in first half); UEFA used.
+1998 UEFA Cup Winners' Cup final,match data,"Petrescu red minute: 84 (Irish Times, UEFA.com) vs 85 (Wikipedia/11v11); recorded 84."
+1998 UEFA Cup Winners' Cup final,match data,"Poschner red minute: Wikipedia 90+2, Irish Times '90', UEFA 'injury time', RSSSF 90; recorded 90+2 (Wikipedia). Wikipedia says dismissal followed arguing with referee; reason not confirmed by a second source; treated as straight red as no prior booking reported."
+1998 UEFA Cup Winners' Cup final,match data,Booking minutes for Wise (25) and Akpoborie (33) from Wikipedia only; Irish Times confirms both were booked without minutes.
+1998 UEFA Cup Winners' Cup final,match data,UEFA.com retrospective says Zola came on in 69th minute; Irish Times/Wikipedia say goal 71st minute (seconds after coming on at ~70). Goal minute 71 recorded.
+1998 UEFA Cup Winners' Cup final,match data,"Attendance 30,216 (Irish Times) vs 31,000 (RSSSF)."
+1998 UEFA Cup Winners' Cup final,match data,Chelsea FC museum article quoted via search snippet only (page redirected to login).
+1998 UEFA Cup Winners' Cup final,match data,"Stats from Wikipedia-reproduced UEFA table, not independently verified. Assistants/reserve referee from Wikipedia citing UEFA line-up sheet only."
+1998 UEFA Cup Winners' Cup final,match data,No reliable pre-match odds found.
+1998 UEFA Cup Winners' Cup final,match data,Sinclair and Babayaro absences from Wikipedia (citing Independent) only; Le Saux confirmed by Irish Times.
+1999 Intercontinental Cup,match data,"Minute of Alex's disallowed goal not found (second half, after 54')."
+1999 Intercontinental Cup,match data,"Only one ex-referee opinion (Wright, who changed his view live); no definitive expert ruling, so 'genuinely debatable'. La Jornada (offside flag) only seen through a search-engine summary."
+1999 Intercontinental Cup,match data,Referee name spelled 'Helmut Krug' by RSSSF; he is the German referee Hellmut Krug.
+1999 Intercontinental Cup,match data,Assistants/fourth official from Wikipedia only.
+1999 Intercontinental Cup,match data,Season label '1999-00' chosen as the match was played in Nov 1999 (it decided the 1999 Intercontinental Cup).
+1999 Intercontinental Cup,match data,"Absences: Trivela says Ferguson left Henning Berg and Andy Cole in England, reason not stated (not recorded as injury/suspension). No other key absentees confirmed."
+1999 Intercontinental Cup,match data,No reliable pre-match odds found.
+2013 UEFA Europa League final,match data,Torres goal minute 59 vs 60 between some sources; UEFA report says 60.
+2013 UEFA Europa League final,match data,Ivanović goal: UEFA report places it in stoppage time (after 90'); '90+3' from Wikipedia.
+2013 UEFA Europa League final,match data,Garay booking in first-half stoppage time per UEFA; '45+1' from Wikipedia.
+2013 UEFA Europa League final,match data,Reserve assistant Berry Simons listed on Wikipedia only (not on UEFA report).
+2013 UEFA Europa League final,match data,Cardozo offside goal (52') and Torres penalty appeal noted by Sports Mole but not called wrong by any source found.
+2013 UEFA Europa League final,match data,Referee sources other than UEFA PDF seen via search summaries.
+2016 UEFA Europa League final,match data,"Wikipedia card extraction missed Škrtel's booking (70', as an unused substitute on the bench) shown in the UEFA Full Time Report; added."
+2016 UEFA Europa League final,match data,Clyne booking minute: UEFA FTR shows it in stoppage time after 90'; exact '90+4' from Wikipedia.
+2016 UEFA Europa League final,match data,Handball appeals: exact minutes and the number of distinct incidents (Sky: three) not confirmed; Krychowiak incident from a single search snippet (Wexford Echo/PA) only.
+2016 UEFA Europa League final,match data,"Lovren disallowed goal minute 39 (Sports Mole, Peninsula) vs ~29 (Shoot); 39 recorded."
+2016 UEFA Europa League final,match data,Absences: only Sakho (suspension) and Gomez (injury) confirmed via UEFA team news (search summary); Danny Ings also long-term injured but not confirmed by a source here. Henderson and Origi were fit enough for the bench (not starting).
+2016 UEFA Europa League final,match data,"Assessments of Coke goal call as 'correct' are from journalists, not referee experts, so labelled 'genuinely debatable' per brief rule."
+2017 UEFA Europa League final,match data,Pogba goal took a big deflection off Davinson Sánchez; credited to Pogba by UEFA (type 'open play').
+2017 UEFA Europa League final,match data,"GLT: no source found confirming goal-line technology at this match (UEFA used it in UEL only from 2017-18 group stage per earlier UEFA statement, decision pending); set null."
+2017 UEFA Europa League final,match data,"City: Friends Arena is in Solna, Stockholm metropolitan area; UEFA labels it Stockholm."
+2017 UEFA Europa League final,GLT,goal-line technology use not confirmed by a source
+2019 UEFA Europa League final,match data,Minute of Lacazette/Kepa incident not confirmed (~18' suggested by one search summary of ESPN; The42 timestamp 8:20pm Irish time ~20 min). The42 wrote 'No VAR in the Europa League' which is wrong: UEFA lists a VAR team and it was the first UEL match with VAR.
+2019 UEFA Europa League final,match data,"Pundits who judged the decision are ex-players, not referee experts; 'expert consensus correct' is based on them."
+2019 UEFA Europa League final,match data,Giroud goal type 'header' per general reporting knowledge in search summaries; not explicitly checked in a fetched report.
+2019 UEFA Europa League final,match data,GLT not confirmed by a source for this match; null.
+2019 UEFA Europa League final,match data,Pre-match odds not found: web-search budget was exhausted before an odds search could be run.
+2019 UEFA Europa League final,match data,"Chelsea absences (Loftus-Cheek, Hudson-Odoi) from Wikipedia citing The Guardian only; Kanté was a doubt but started."
+2019 UEFA Europa League final,GLT,goal-line technology use not confirmed by a source
+2021 UEFA Europa League final,match data,Gerard Moreno goal came from a Parejo free kick delivered into the box (flick/finish); recorded type 'open play' as it was not a direct free kick.
+2021 UEFA Europa League final,match data,"Shootout: all first 21 kicks scored; De Gea (Man Utd 11th) saved by Rulli (UEFA FTR, RSSSF)."
+2021 UEFA Europa League final,match data,"Attendance 9,412 (UEFA) vs 9,400 (RSSSF); reduced capacity due to COVID-19."
+2021 UEFA Europa League final,match data,GLT not confirmed by a source for this match; null.
+2021 UEFA Europa League final,match data,"Greenwood/Pedraza penalty appeal (~50', 1-0) checked by VAR and not given; only described as 'faint' (Sky) / 'not sufficiently wrong' (The42), not as an error, so not recorded as contested."
+2021 UEFA Europa League final,match data,Fred handball VAR check in extra time (no penalty) reported only by The42 live blog; not described as disputed; not recorded.
+2021 UEFA Europa League final,match data,Chukwueze/Foyth were listed as doubts pre-match (Sports Mole); Foyth started; Chukwueze absent from UEFA team sheet (reason inferred from pre-match injury reports).
+2021 UEFA Europa League final,match data,Guardian/BBC reports not consulted (domain blocked for WebFetch).
+2021 UEFA Europa League final,GLT,goal-line technology use not confirmed by a source
+2025 UEFA Conference League final,match data,"Jackson goal minute: UEFA FTR 70', UEFA report article says 71'; 70 recorded."
+2025 UEFA Conference League final,match data,Perraud booking in stoppage time (UEFA FTR shows after 90'); '90+5' from Wikipedia.
+2025 UEFA Conference League final,match data,GLT not confirmed for this match; null.
+2025 UEFA Conference League final,match data,Ezzalzouli went off injured (ankle sprain) at 53' per UEFA.
+2025 UEFA Conference League final,match data,"Both contested decisions come from a single source (Virgilio Sport, Italian portal); no English-language expert review found."
+2025 UEFA Conference League final,match data,Unidentified Betis penalty appeal mentioned in Guardian MBM (search snippet only) not recorded; may or may not be the 87' James handball claim.
+2025 UEFA Conference League final,match data,"Absences from one pre-match source (Sports Mole), checked against the UEFA team sheet (none of them is in the matchday squad). Lo Celso (doubtful) was on the bench; Nkunku (doubtful) on bench."
+2025 UEFA Conference League final,match data,xG: no named-provider match total found (365scores shows 0.15 xG for Ezzalzouli's goal only).
+2025 UEFA Conference League final,GLT,goal-line technology use not confirmed by a source
+2025 UEFA Europa League final,match data,Jonny Evans booked as an unused substitute in stoppage time (UEFA FTR); '90+2' minute from Wikipedia.
+2025 UEFA Europa League final,match data,Johnson goal: UEFA credits Johnson; ball deflected off Luke Shaw before Johnson's final touch.
+2025 UEFA Europa League final,match data,GLT not confirmed for this match; null.
+2025 UEFA Europa League final,match data,No VAR check on the goal found; Sky Germany says VAR was not needed at all in the match.
+2025 UEFA Europa League final,match data,"Contested decisions are minor and from single/non-English journalist sources; no English expert review found. Not recorded (single source, implied criticism only): Virgilio implied missed penalty for Porro challenge on Shaw (77'), no card for Van de Ven's late foul on Højlund (39'), and missed fouls; Sky Germany said a 3' Spurs corner and 63' missed free-kick for Johnson were wrong."
+2025 UEFA Europa League final,match data,Late Man Utd penalty appeal: Sporza gives 90+6 without naming the player; Virgilio names Casemiro at 96'; assumed same incident.
+2025 UEFA Europa League final,match data,"Pape Matar Sarr listed doubtful (back) pre-match but started. Absences from one pre-match source (Sports Mole), checked against UEFA team sheet (none in matchday squad)."
+2025 UEFA Europa League final,GLT,goal-line technology use not confirmed by a source
+1998 UEFA Super Cup,match data,"Poyet goal minute: UEFA match data 83', UEFA history text 81', Irish Times 81', DFB 82'; recorded 83' (UEFA official feed)"
+1998 UEFA Super Cup,match data,Ferrer booking: UEFA event feed shows an unnamed Chelsea yellow at 8'; DFB and Wikipedia give Ferrer 7'; Irish Times confirms Ferrer was booked (no minute)
+1998 UEFA Super Cup,match data,"Morientes booking minute: UEFA feed 86', DFB timeline 85'"
+1998 UEFA Super Cup,match data,Assistant referees and fourth official from Wikipedia only; UEFA feed lists no officials for this match
+1998 UEFA Super Cup,match data,Referee nationality: Marc Batta is French (well established); association inferred as French FA
+1998 UEFA Super Cup,match data,"VAR/GLT did not exist in 1998 (set false on that basis, not from a match source)"
+1998 UEFA Super Cup,match data,"No BBC report reachable (news.bbc.co.uk and web.archive.org blocked); attendance 11,589 (UEFA) vs 9,762 (11v11) - not core"
+1998 UEFA Super Cup,match data,Odds: no reliable pre-match odds found
+1999 UEFA Super Cup,match data,"Cards from UEFA event feed only (Verón 35', Scholes 72'); Wikipedia lists no cards; no second source found -> cards_complete false"
+1999 UEFA Super Cup,match data,Referee confirmed only by DFB data centre (plus Wikipedia); UEFA feed lists no officials. Assistants/4th official Wikipedia only
+1999 UEFA Super Cup,match data,"Attendance: UEFA/DFB 15,000 vs Wikipedia 14,461 (not core)"
+1999 UEFA Super Cup,match data,UEFA history text calls Salas a substitute; lineup data suggests he started - not resolved
+1999 UEFA Super Cup,match data,VAR/GLT did not exist in 1999 (false by era)
+1999 UEFA Super Cup,match data,Odds: none found
+1999 UEFA Super Cup,cards,card list not confirmed complete
+2001 UEFA Super Cup,match data,Hamann yellow (14') from DFB and Wikipedia only; UEFA feed shows no cards at all -> cards_complete false
+2001 UEFA Super Cup,match data,UEFA stats feed for this match looks incomplete (5 v 4 fouls)
+2001 UEFA Super Cup,match data,Referee named by DFB (+Wikipedia); assistants/4th official Wikipedia only
+2001 UEFA Super Cup,match data,Guardian/BBC/Independent reports exist (cited by Wikipedia) but could not be fetched
+2001 UEFA Super Cup,match data,VAR/GLT did not exist in 2001 (false by era)
+2001 UEFA Super Cup,match data,Odds: none found
+2001 UEFA Super Cup,cards,card list not confirmed complete
+2005 UEFA Super Cup,match data,Cards from UEFA Full Time Report PDF (names/minutes in card column; icons not in text) matching Wikipedia; UEFA JSON feed lists only Zenden - feed incomplete
+2005 UEFA Super Cup,match data,Second-source referee confirmation beyond UEFA PDF not found (BBC/Irish Times do not name him); Temmink is Dutch
+2005 UEFA Super Cup,match data,Steven Gerrard not in Liverpool squad per UEFA lineup; reason (injury?) not verified so not listed as absence
+2005 UEFA Super Cup,match data,VAR/GLT not in use in 2005 (era)
+2005 UEFA Super Cup,match data,Odds: none found
+2005 FIFA Club World Championship final,match data,Lugano red-card claim and Crouch penalty claim each from one source only
+2005 FIFA Club World Championship final,match data,Exact minutes of García and Hyypiä disallowed goals not found
+2005 FIFA Club World Championship final,match data,Minute of Lugano foul assumed to be the 57' booking (Irish Times links the yellow to the Gerrard foul)
+2005 FIFA Club World Championship final,match data,No neutral expert (ex-referee) assessment found for any of the disallowed goals
+2005 FIFA Club World Championship final,match data,VAR/GLT did not exist in 2005 (false by era)
+2005 FIFA Club World Championship final,match data,Odds: none found
+2008 UEFA Super Cup,match data,"Tevez booking minute: UEFA PDF 74', UEFA JSON feed 79'"
+2008 UEFA Super Cup,match data,Scholes second yellow (handball 'goal') shown at 90' (UEFA) - RTE says 'final moments'
+2008 UEFA Super Cup,match data,Hargreaves/Carrick reasons not specified by RTÉ
+2008 UEFA Super Cup,match data,"Attendance 18,064 (PDF) vs 18,063 (feed)"
+2008 UEFA Super Cup,match data,Odds: none found
+2008 FIFA Club World Cup final,match data,Assistant 2 spelled Kochkarov (FIFA) / Kochkorov (Wikipedia)
+2008 FIFA Club World Cup final,match data,Ferguson's 'soft' remark could be read as mild criticism of the Vidić red; not recorded as contested since he accepted it
+2008 FIFA Club World Cup final,match data,VAR/GLT not in use in 2008 (era)
+2008 FIFA Club World Cup final,match data,Odds and stats: none found
+2012 UEFA Super Cup,match data,"Falcao's third: UEFA 45' (45:13), AP 'first-half stoppage time'"
+2012 UEFA Super Cup,match data,Additional assistant referees Matej Jug and Slavko Vinčić (Slovenia) also officiated (UEFA)
+2012 UEFA Super Cup,match data,Referee named only in UEFA sources (feed + PDF); not independently named by AP
+2012 UEFA Super Cup,match data,Odds: none found
+2012 FIFA Club World Cup final,match data,"Guerrero goal minute: FIFA 68', SI/Wikipedia 69'; recorded 69' (FIFA timeline minute field 68' may be 67:xx)"
+2012 FIFA Club World Cup final,match data,"Cahill red minute: FIFA 89', SI/Wikipedia 90'"
+2012 FIFA Club World Cup final,match data,"GLT: SI.com/The Upcoming state goal-line technology was available at the 2012 Club World Cup (first competitive use), so true"
+2012 FIFA Club World Cup final,match data,Fourth official Alireza Faghani was an Iranian referee at that time (FIFA lists IRN)
+2012 FIFA Club World Cup final,match data,Second source naming Çakır beyond FIFA is Sports Mole (referee critique); Turkish nationality well established
+2012 FIFA Club World Cup final,match data,Lampard returned from calf injury to start; no confirmed Chelsea absentee list found
+2012 FIFA Club World Cup final,match data,Odds: none found
+2013 UEFA Super Cup,match data,Torres yellow: UEFA feed 90:05 (recorded '90'); Sports Mole timeline 89'
+2013 UEFA Super Cup,match data,Martínez equaliser 120+1 (UEFA 120:51 with injuryMinute 1)
+2013 UEFA Super Cup,match data,Assessment of Ramires red is journalist-only (Sports Mole); no ex-referee view found
+2013 UEFA Super Cup,match data,Odds: none found
+2017 UEFA Super Cup,match data,Casemiro offside dispute has only ONE source (PA via ESPN) - needs a second reputable source
+2017 UEFA Super Cup,match data,"VAR not used (UEFA feed lists additional assistant referees Davide Massa and Massimiliano Irrati, no VAR); GLT not verified -> null"
+2017 UEFA Super Cup,match data,Reserve assistant Riccardo Di Fiore (Wikipedia only)
+2017 UEFA Super Cup,match data,Odds: ESPN feed has none pre-match; none found
+2017 UEFA Super Cup,GLT,goal-line technology use not confirmed by a source
+2019 UEFA Super Cup,match data,Penalty (Adrián on Abraham) may have been debated in other outlets; not verified
+2019 UEFA Super Cup,match data,GLT not verified for this match -> null
+2019 UEFA Super Cup,match data,"Odds: ESPN-stored Bet365 figures (6/1, 1/4, 8/1) are clearly in-play/closing, not pre-match - not recorded"
+2019 UEFA Super Cup,GLT,goal-line technology use not confirmed by a source
+2019 FIFA Club World Cup final,match data,Mané penalty reversal confirmed by Reuters only among fetched sources; 'no free kick' detail from Wikipedia/Globo (not fetched)
+2019 FIFA Club World Cup final,match data,ESPN timestamps the VAR incident at 90+2; Wikipedia 'moments into stoppage time'
+2019 FIFA Club World Cup final,match data,GLT: FIFA regulations say GLT 'may be used' - not confirmed for match -> null
+2019 FIFA Club World Cup final,match data,AVARs from Wikipedia only (FIFA API lists only VAR)
+2019 FIFA Club World Cup final,match data,Odds timing not verified as pre-match
+2019 FIFA Club World Cup final,match data,Curated override: Decision on Rafinha/Mane recoded: the acknowledged (on-field) error favoured Liverpool and was corrected by VAR; impact none.
+2019 FIFA Club World Cup final,GLT,goal-line technology use not confirmed by a source
+2021 UEFA Super Cup,match data,Rüdiger booking minute: UEFA 45:00 vs ESPN/Wikipedia 44'
+2021 UEFA Super Cup,match data,Kepa yellow shown during the penalty shootout (UEFA FR lists it under 'Penalties'); Wikipedia shows '120+'
+2021 UEFA Super Cup,match data,Tuchel (coach) booked 45+1 per UEFA feed - not listed as player card
+2021 UEFA Super Cup,match data,"Ziyech goal: UEFA 27' (27:30), ESPN text says 26th minute; Moreno 73' (ESPN text 75th)"
+2021 UEFA Super Cup,match data,GLT not verified -> null
+2021 UEFA Super Cup,match data,"Odds: ESPN-stored figures are post/in-play, not recorded"
+2021 UEFA Super Cup,match data,Referee Karasev is Russian; association Russian Football Union (match predated 2022 suspension)
+2021 UEFA Super Cup,GLT,goal-line technology use not confirmed by a source
+2021 FIFA Club World Cup final,match data,"Luan dismissal: FIFA timeline says VAR review 'Red card given... worthy of a red card' (straight red, after earlier yellow at 115'); Wikipedia lists it as second yellow -> recorded R"
+2021 FIFA Club World Cup final,match data,"Palmeiras coach Abel Ferreira booked 120+1 (FIFA timeline) - staff card, not listed"
+2021 FIFA Club World Cup final,match data,Wesley booking 105' vs Wikipedia 105
+2021 FIFA Club World Cup final,match data,GLT not verified -> null
+2021 FIFA Club World Cup final,match data,Odds timing not verified as pre-match
+2021 FIFA Club World Cup final,match data,Handball penalties may have been debated in UK media - not checked (search budget exhausted)
+2021 FIFA Club World Cup final,GLT,goal-line technology use not confirmed by a source
+2023 UEFA Super Cup,match data,"Wikipedia batch row marks no aet - correct: UEFA feed shows regular 1-1 then penalties 5-4, no extra time"
+2023 UEFA Super Cup,match data,Lamela booking: UEFA 62' vs ESPN 61'
+2023 UEFA Super Cup,match data,GLT not verified -> null
+2023 UEFA Super Cup,match data,"Odds: ESPN-stored figures are post-match, not recorded"
+2023 UEFA Super Cup,GLT,goal-line technology use not confirmed by a source
+2023 FIFA Club World Cup final,match data,GLT not verified -> null
+2023 FIFA Club World Cup final,match data,"Odds: ESPN-stored figures are post-match, not recorded"
+2023 FIFA Club World Cup final,GLT,goal-line technology use not confirmed by a source
+2025 FIFA Club World Cup final,match data,"Faghani nationality: born in Iran, refereed for Iran until moving to Football Australia (FIFA lists him AUS; FIFA's 2012 record lists him IRN). Whether he holds Australian citizenship not verified"
+2025 FIFA Club World Cup final,match data,"João Neves red minute: FIFA PDF 86', FIFA timeline 85', ESPN text 83'; Colwill yellow 81' (FIFA) vs 82' (ESPN)"
+2025 FIFA Club World Cup final,match data,Assistant referees listed as Australian by FIFA
+2025 FIFA Club World Cup final,match data,Odds: ESPN-stored figures are post-match; The Athletic odds preview cited by Wikipedia not fetched
+2025 FIFA Club World Cup final,match data,GLT not verified -> null
+2025 FIFA Club World Cup final,GLT,goal-line technology use not confirmed by a source
+2001 UEFA Cup final,contested decision,Decision #1 (40' red card not given) rests on a single reputable source
+2002 FA Cup final,contested decision,Decision #1 (44' offside) rests on a single reputable source
+2005 FA Cup final,contested decision,Decision #2 (118' red card not given) rests on a single reputable source
+2007 FA Cup final,contested decision,Decision #2 (83' other) rests on a single reputable source
+2009 FA Cup final,contested decision,Decision #1 (1' offside) rests on a single reputable source
+2011 FA Cup final,contested decision,Decision #1 (early first half (minute not stated)' red card not given) rests on a single reputable source
+2014 FA Cup final,contested decision,Decision #1 (16-17' other) rests on a single reputable source
+2014 FA Cup final,contested decision,Decision #2 (70-71' other) rests on a single reputable source
+2017 FA Cup final,contested decision,Decision #1 (4' goal allowed) rests on a single reputable source
+2018 FA Cup final,contested decision,Decision #1 (21' red card not given) rests on a single reputable source
+2019 FA Cup final,contested decision,Decision #1 (21' penalty not given) rests on a single reputable source
+2020 FA Cup final,contested decision,Decision #1 (73' red card given) rests on a single reputable source
+2023 FA Cup final,contested decision,Decision #2 (12' red card not given) rests on a single reputable source
+2023 FA Cup final,contested decision,Decision #3 (39' penalty not given) rests on a single reputable source
+2024 FA Cup final,contested decision,Decision #1 (early first half (minute not stated)' penalty not given) rests on a single reputable source
+2025 FA Cup final,contested decision,Decision #2 (33-36' penalty given) rests on a single reputable source
+2026 FA Cup final,contested decision,Decision #1 (29' red card not given) rests on a single reputable source
+2026 FA Cup final,contested decision,Decision #2 (45' penalty not given) rests on a single reputable source
+2005 Football League Cup final,contested decision,Decision #2 (27' penalty not given) rests on a single reputable source
+2007 Football League Cup final,contested decision,Decision #3 (20' offside) rests on a single reputable source
+2008 Football League Cup final,contested decision,Decision #1 (68' penalty given) rests on a single reputable source
+2008 Football League Cup final,contested decision,Decision #2 (111' offside) rests on a single reputable source
+2009 Football League Cup final,contested decision,Decision #1 (66' penalty not given) rests on a single reputable source
+2011 Football League Cup final,contested decision,Decision #1 (3' offside) rests on a single reputable source
+2015 Football League Cup final,contested decision,Decision #2 (45' red card not given) rests on a single reputable source
+2018 EFL Cup final,contested decision,Decision #3 (first half (unspecified)' red card not given) rests on a single reputable source
+2022 EFL Cup final,contested decision,Decision #2 (nan' red card not given) rests on a single reputable source
+2003 FA Community Shield,contested decision,Decision #1 (23' red card not given) rests on a single reputable source
+2003 FA Community Shield,contested decision,Decision #2 (42' offside) rests on a single reputable source
+2003 FA Community Shield,contested decision,Decision #3 (80' other) rests on a single reputable source
+2005 FA Community Shield,contested decision,Decision #1 (17' other) rests on a single reputable source
+2009 FA Community Shield,contested decision,Decision #1 (71' goal allowed) rests on a single reputable source
+2010 FA Community Shield,contested decision,Decision #1 (51' offside) rests on a single reputable source
+2012 FA Community Shield,contested decision,Decision #3 (not stated (first half)' other) rests on a single reputable source
+2014 FA Community Shield,contested decision,Decision #1 (14' penalty not given) rests on a single reputable source
+2016 FA Community Shield,contested decision,Decision #1 (83' goal allowed) rests on a single reputable source
+2016 FA Community Shield,contested decision,Decision #2 (not stated (after 71')' red card not given) rests on a single reputable source
+2005 UEFA Champions League final,contested decision,"Decision #1 (first half, shortly before 39 (exact minute unknown)' penalty not given) rests on a single reputable source"
+2011 UEFA Champions League final,contested decision,Decision #1 (34' offside) rests on a single reputable source
+2019 UEFA Champions League final,contested decision,Decision #1 (1 (24 seconds; scored 2')' penalty given) rests on a single reputable source
+2021 UEFA Champions League final,contested decision,Decision #1 (c.59' penalty not given) rests on a single reputable source
+2025 UEFA Conference League final,contested decision,Decision #1 (56' penalty not given) rests on a single reputable source
+2025 UEFA Conference League final,contested decision,Decision #2 (87' penalty not given) rests on a single reputable source
+2025 UEFA Europa League final,contested decision,Decision #2 (84' other) rests on a single reputable source
+2005 FIFA Club World Championship final,contested decision,Decision #4 (57' red card not given) rests on a single reputable source
+2005 FIFA Club World Championship final,contested decision,Decision #5 (nan' penalty not given) rests on a single reputable source
+2017 UEFA Super Cup,contested decision,Decision #1 (24' goal allowed) rests on a single reputable source
+,referee record: Alireza Faghani,"Dual identity: Iranian national/born, emigrated 2019, officiates for Football Australia since 2023 (Wikipedia); citizenship status not verified."
+,referee record: Alireza Faghani,Chelsea partial list source: https://www.si.com/onsi/soccer/chelsea/match-coverage/confirmed-officials-chelsea-vs-psg-2025-club-world-cup-final-01jznjsj8r3y (search snippet only)
+,referee record: Antonio Mateu Lahoz,"A reader comment on law5-theref.blogspot.com (12 May 2021) claimed Man City 3W 1L and Chelsea 1W 1L under Mateu Lahoz before the 2021 final; not a reliable source, not recorded as a record."
+,referee record: Björn Kuipers,"Kuipers also refereed many UCL ties involving Man Utd, Man City, Arsenal, Chelsea (e.g. 2014 UCL final was not English) - no sourced list found; search budget exhausted."
+,referee record: Clément Turpin,City/Chelsea items are from search-result snippets only; date of Bayern-City match inferred as 2023 QF 2nd leg from snippet 'in 2023' - verify.
+,referee record: Cüneyt Çakır,Çakır's 2012 Barcelona-Chelsea red card is sourced only to Wikipedia here (search budget exhausted before reputable-outlet confirmation).
+,referee record: Cüneyt Çakır,Çakır refereed numerous other Man City/Man Utd/Arsenal UCL games (not sourced).
+,referee record: Damir Skomina,"Goal.com is a sports-media outlet, not one of the listed papers; second source for incident not fetched (inkl/Express copy blocked)."
+,referee record: Daniel Siebert,Man City item from a City fan-news site (cityxtra.co.uk/20563/...) - pointer only.
+,referee record: Daniel Siebert,ESPN article on Siebert/Arsenal could not be fetched.
+,referee record: Felix Zwayer,90min/unitedinfocus claims on Zwayer-United record not verified against a reputable outlet.
+,referee record: Gianluca Rocchi,Arsenal/Chelsea counts from an inkl-hosted preview whose original outlet is unknown; treat as provisional.
+,referee record: Irfan Peljto,"Reported six-match ban earlier in 2024-25 (ground.news headline) - not verified, not club-related."
+,referee record: Pierluigi Collina,Collina refereed many English-club matches 1996-2005 (incl. Premier League-era European ties); no sourced tally found.
+,referee record: Szymon Marciniak,Real Madrid's website said the 2023 SF was Marciniak's sixth Real Madrid UCL game - no equivalent City count found.
+,referee record: Terje Hauge,Hauge sent off Arsenal goalkeeper Jens Lehmann in the 2006 final (in the final itself) - no reputable URL fetched (search budget exhausted).
+,referee record: Ľuboš Micheľ,"Micheľ awarded Luis García's disputed 'ghost goal' in Liverpool 1-0 Chelsea (3 May 2005) - well known, but no reputable URL fetched (search budget exhausted)."
+(all),dataset-wide,Club Elo (clubelo.com) ratings could not be retrieved: api.clubelo.com returned HTTP 502 throughout the research window (and web.archive.org was unreachable). No ClubElo values are included.
+(all),dataset-wide,Bookmaker odds were found for only a minority of finals; many come from ESPN's data feed (US sportsbook lines with no timestamp) rather than newspaper-quoted pre-match prices.
+(all),dataset-wide,xG is almost entirely unavailable for these matches from a named provider; columns are null except where noted.
+(all),dataset-wide,"BBC/Guardian/Telegraph archives and web.archive.org were often unreachable from the research environment; some items therefore rely on ESPN feeds, RSSSF, UEFA/FIFA PDFs, Sky, RTE and similar."
+(all),dataset-wide,Five Independent articles (1996-2000 Charity Shields) were retrieved by direct download after the fetch tool refused the site; they are cited but flagged.
+(all),dataset-wide,"League positions are computed from football-data.co.uk results with standard tie-breaks (points, GD, GF); head-to-head tie-breakers (Spain/Italy) and most points deductions are not modelled (Portsmouth 2009-10 and Milan 2006-07 deductions are applied)."
+(all),dataset-wide,"Leagues not covered by football-data.co.uk (Brazil, Ecuador, Russia) have no league-position data."

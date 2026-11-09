@@ -37,7 +37,7 @@ def venue_cat(venue, city):
         return "Wembley (London)"
     if "Millennium" in v or "Cardiff" in v:
         return "Millennium Stadium (Cardiff)"
-    if any(x in v for x in ["Villa Park", "Old Trafford", "Birmingham", "Manchester", "Liverpool"]):
+    if any(x in v for x in ["Villa Park", "Old Trafford", "Birmingham", "Manchester", "Liverpool", "Leicester", "King Power"]):
         return "Other venue in England"
     return "Neutral venue abroad"
 
@@ -53,6 +53,16 @@ def load_outputs():
                 rows[r["article"]] = r
         except Exception as e:
             print("WARN cannot read", f, e)
+    ov = json.load(open(W + "curated_overrides.json")) if os.path.exists(W + "curated_overrides.json") else {}
+    for art, o in ov.items():
+        if art in rows:
+            for k, v in o.items():
+                if not k.startswith("_"):
+                    rows[art][k] = v
+            for i, dv in (o.get("_decision_overrides") or {}).items():
+                rows[art]["contested_decisions"][int(i)].update(dv)
+            if o.get("_reason"):
+                rows[art].setdefault("uncertain", []).append("Curated override: " + o["_reason"])
     return list(rows.values())
 
 
@@ -209,6 +219,7 @@ def build():
                 "competition": comp, "competition_type": comp_type(comp), "venue_category": venue_cat(venue, r.get("city")),
                 "referee": r.get("referee"), "referee_nationality": refnat,
                 "referee_english": (refnat or "").strip().lower() in ("english", "england"),
+                "referee_fa_registered": "FA" in (r.get("referee_association") or "") or "PGMOL" in (r.get("referee_association") or "") or "England" in (r.get("referee_association") or ""),
                 "var_in_use": r.get("var_in_use"), "era": era(r.get("date")),
                 "won": won, "result_90": res90, "decided_by": r.get("decided_by"),
                 "shootout": r.get("decided_by") == "penalties",
