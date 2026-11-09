@@ -1,31 +1,38 @@
 == referee_english x competition_type
 competition_type  European  domestic  world
 referee_english                            
-False                    2         0      1
-True                     0         2      0
+False                   22         1      8
+True                     0        55      0
 
 == referee_english x venue_category
-venue_category   Neutral venue abroad  Wembley (London)
-referee_english                                        
-False                               3                 0
-True                                0                 2
+venue_category   Millennium Stadium (Cardiff)  Neutral venue abroad  Other venue in England  Wembley (London)
+referee_english                                                                                              
+False                                       0                    30                       0                 1
+True                                       12                     1                       1                41
 
 == referee_english x has_foreign_opponent
 has_foreign_opponent  False  True 
 referee_english                   
-False                     0      3
-True                      2      0
+False                     4     27
+True                     55      0
 
 == var_in_use x era
-date        1996-2005  2006-2015
-var_in_use                      
-False               2          3
+date        1996-2005  2006-2015  2016-2026
+var_in_use                                 
+False              21         21          7
+True                0          0         30
 
 == competition x var_in_use
-var_in_use              False
-competition                  
-Cup Winners' Cup            1
-Intercontinental Cup        1
-League Cup                  2
-UEFA Cup/Europa League      1
+var_in_use                        False  True
+competition                                  
+Charity/Community Shield             15     9
+Conference League                     0     1
+Cup Winners' Cup                      1     0
+European Cup/Champions League         0     3
+FA Cup                                7     3
+FIFA Club World Championship/Cup      3     4
+Intercontinental Cup                  1     0
+League Cup                           11     4
+UEFA Cup/Europa League                3     3
+UEFA Super Cup                        8     3
 

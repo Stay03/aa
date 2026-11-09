@@ -1,19 +1,19 @@
 scope,club,favouring_club,against_club,net,sign_test_p,finals_with_any
-all disputed decisions,Arsenal,0,0,0,,0
-all disputed decisions,Chelsea,1,2,-1,1.0,2
-all disputed decisions,Liverpool,0,0,0,,0
-all disputed decisions,Manchester City,0,1,-1,1.0,1
-all disputed decisions,Manchester United,1,0,1,1.0,1
-all disputed decisions,ALL FIVE vs non-five opponents,2,3,-1,1.0,4
-assessed errors only,Arsenal,0,0,0,,0
-assessed errors only,Chelsea,0,0,0,,0
-assessed errors only,Liverpool,0,0,0,,0
-assessed errors only,Manchester City,0,0,0,,0
-assessed errors only,Manchester United,0,0,0,,0
-assessed errors only,ALL FIVE vs non-five opponents,0,0,0,,0
-disputed excl. 'expert consensus correct',Arsenal,0,0,0,,0
-disputed excl. 'expert consensus correct',Chelsea,1,2,-1,1.0,2
-disputed excl. 'expert consensus correct',Liverpool,0,0,0,,0
-disputed excl. 'expert consensus correct',Manchester City,0,1,-1,1.0,1
-disputed excl. 'expert consensus correct',Manchester United,1,0,1,1.0,1
-disputed excl. 'expert consensus correct',ALL FIVE vs non-five opponents,2,3,-1,1.0,4
+all disputed decisions,Arsenal,18,10,8,0.1849,15
+all disputed decisions,Chelsea,11,17,-6,0.3449,18
+all disputed decisions,Liverpool,10,13,-3,0.6776,12
+all disputed decisions,Manchester City,8,8,0,1.0,11
+all disputed decisions,Manchester United,11,12,-1,1.0,14
+all disputed decisions,ALL FIVE vs non-five opponents,18,20,-2,0.8714,22
+assessed errors only,Arsenal,1,0,1,1.0,1
+assessed errors only,Chelsea,0,1,-1,1.0,1
+assessed errors only,Liverpool,1,1,0,1.0,2
+assessed errors only,Manchester City,0,1,-1,1.0,1
+assessed errors only,Manchester United,3,0,3,0.25,2
+assessed errors only,ALL FIVE vs non-five opponents,3,1,2,0.625,3
+disputed excl. 'expert consensus correct',Arsenal,18,7,11,0.0433,14
+disputed excl. 'expert consensus correct',Chelsea,10,15,-5,0.4244,16
+disputed excl. 'expert consensus correct',Liverpool,9,13,-4,0.5235,11
+disputed excl. 'expert consensus correct',Manchester City,6,8,-2,0.7905,11
+disputed excl. 'expert consensus correct',Manchester United,9,11,-2,0.8238,13
+disputed excl. 'expert consensus correct',ALL FIVE vs non-five opponents,17,19,-2,0.8679,21

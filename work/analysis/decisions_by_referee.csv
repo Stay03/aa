@@ -1,5 +1,60 @@
 referee,nationality,club,favouring,against,net,of_which_errors_favouring,of_which_errors_against,finals
-Anthony Taylor,English,Chelsea,1,1,0,0,0,2015 Football League Cup final
+Abdulrahman Al-Jassim,Qatari,Liverpool,0,1,-1,0,1,2019 FIFA Club World Cup final
+Alan Wiley,English,Arsenal,1,1,0,0,0,2002 FA Community Shield
+Alan Wiley,English,Liverpool,1,1,0,0,0,2002 FA Community Shield
+Andre Marriner,English,Arsenal,0,1,-1,0,0,2010 FA Community Shield; 2017 EFL Cup final; 2020 FA Community Shield
+Andre Marriner,English,Chelsea,1,0,1,0,0,2010 FA Community Shield; 2017 EFL Cup final; 2020 FA Community Shield
+Andre Marriner,English,Liverpool,1,0,1,0,0,2010 FA Community Shield; 2017 EFL Cup final; 2020 FA Community Shield
+Andre Marriner,English,Manchester United,2,2,0,2,0,2010 FA Community Shield; 2017 EFL Cup final; 2020 FA Community Shield
+Andy D'Urso,English,Liverpool,2,0,2,0,0,2001 FA Charity Shield
+Andy D'Urso,English,Manchester United,0,2,-2,0,0,2001 FA Charity Shield
+Anthony Taylor,English,Arsenal,2,0,2,0,0,2015 Football League Cup final; 2017 FA Cup final; 2020 FA Cup final
+Anthony Taylor,English,Chelsea,1,3,-2,0,0,2015 Football League Cup final; 2017 FA Cup final; 2020 FA Cup final
+Benito Archundia,Mexican,Liverpool,0,5,-5,0,0,2005 FIFA Club World Championship final
+Bobby Madley,English,Arsenal,2,0,2,0,0,2017 FA Community Shield
+Bobby Madley,English,Chelsea,0,2,-2,0,0,2017 FA Community Shield
+Chris Foy,English,Chelsea,1,0,1,0,0,2009 FA Community Shield
+Chris Foy,English,Manchester United,0,1,-1,0,0,2009 FA Community Shield
+Clément Turpin,French,Liverpool,1,0,1,0,0,2022 UEFA Champions League final
+Craig Pawson,English,Arsenal,0,3,-3,0,0,2016 FA Community Shield; 2018 EFL Cup final; 2022 FA Community Shield
+Craig Pawson,English,Liverpool,1,1,0,0,0,2016 FA Community Shield; 2018 EFL Cup final; 2022 FA Community Shield
+Craig Pawson,English,Manchester City,4,1,3,0,0,2016 FA Community Shield; 2018 EFL Cup final; 2022 FA Community Shield
+Craig Pawson,English,Manchester United,2,0,2,0,0,2016 FA Community Shield; 2018 EFL Cup final; 2022 FA Community Shield
+Daniel Siebert,German,Arsenal,3,1,2,0,0,2026 UEFA Champions League final
+David Elleray,English,Liverpool,1,0,1,0,0,2001 Football League Cup final
+Gianluca Rocchi,Italian,Arsenal,0,1,-1,0,0,2017 UEFA Super Cup; 2019 UEFA Europa League final
+Gianluca Rocchi,Italian,Chelsea,1,0,1,0,0,2017 UEFA Super Cup; 2019 UEFA Europa League final
+Gianluca Rocchi,Italian,Manchester United,0,1,-1,0,0,2017 UEFA Super Cup; 2019 UEFA Europa League final
+Graham Barber,English,Arsenal,2,0,2,0,0,1999 FA Charity Shield
+Graham Barber,English,Manchester United,0,2,-2,0,0,1999 FA Charity Shield
 Hellmut Krug,German,Manchester United,1,0,1,0,0,1999 Intercontinental Cup
-Martin Atkinson,English,Manchester City,0,1,-1,0,0,2014 Football League Cup final
+Howard Webb,English,Arsenal,1,3,-2,1,0,2005 FA Community Shield; 2007 Football League Cup final
+Howard Webb,English,Chelsea,3,1,2,0,1,2005 FA Community Shield; 2007 Football League Cup final
+Jonas Eriksson,Swedish,Chelsea,0,1,-1,0,0,2013 UEFA Super Cup; 2016 UEFA Europa League final
+Jonas Eriksson,Swedish,Liverpool,0,3,-3,0,0,2013 UEFA Super Cup; 2016 UEFA Europa League final
+Kevin Friend,English,Chelsea,1,2,-1,0,0,2012 FA Community Shield; 2019 FA Cup final
+Kevin Friend,English,Manchester City,3,1,2,0,0,2012 FA Community Shield; 2019 FA Cup final
+Lee Probert,English,Arsenal,2,0,2,0,0,2014 FA Cup final
+Mark Clattenburg,English,Manchester United,2,0,2,1,0,2016 FA Cup final
+Mark Halsey,English,Chelsea,0,2,-2,0,0,2008 Football League Cup final
+Martin Atkinson,English,Manchester City,0,2,-2,0,0,2011 FA Cup final; 2014 Football League Cup final
+Michael Oliver,English,Arsenal,1,0,1,0,0,2014 FA Community Shield; 2016 Football League Cup final; 2018 FA Cup final
+Michael Oliver,English,Chelsea,0,2,-2,0,0,2014 FA Community Shield; 2016 Football League Cup final; 2018 FA Cup final
+Michael Oliver,English,Liverpool,1,0,1,1,0,2014 FA Community Shield; 2016 Football League Cup final; 2018 FA Cup final
+Michael Oliver,English,Manchester City,0,2,-2,0,1,2014 FA Community Shield; 2016 Football League Cup final; 2018 FA Cup final
+Michael Oliver,English,Manchester United,2,0,2,0,0,2014 FA Community Shield; 2016 Football League Cup final; 2018 FA Cup final
+Mike Riley,English,Chelsea,1,0,1,0,0,2000 FA Charity Shield
+Mike Riley,English,Manchester United,0,1,-1,0,0,2000 FA Charity Shield
+Paul Durkin,English,Manchester United,1,0,1,0,0,1996 FA Charity Shield
+Paul Tierney,English,Manchester City,1,1,0,0,0,2021 EFL Cup final; 2021 FA Community Shield
+Peter Jones,English,Chelsea,0,1,-1,0,0,1997 FA Charity Shield
+Peter Jones,English,Manchester United,1,0,1,0,0,1997 FA Charity Shield
+Phil Dowd,English,Chelsea,1,0,1,0,0,2012 FA Cup final
+Phil Dowd,English,Liverpool,0,1,-1,0,0,2012 FA Cup final
 Stefano Braschi,Italian,Chelsea,0,1,-1,0,0,1998 UEFA Cup Winners' Cup final
+Steve Bennett,English,Arsenal,3,0,3,0,0,2003 FA Community Shield; 2005 Football League Cup final
+Steve Bennett,English,Chelsea,1,2,-1,0,0,2003 FA Community Shield; 2005 Football League Cup final
+Steve Bennett,English,Liverpool,2,1,1,0,0,2003 FA Community Shield; 2005 Football League Cup final
+Steve Bennett,English,Manchester United,0,3,-3,0,0,2003 FA Community Shield; 2005 Football League Cup final
+Stuart Attwell,English,Arsenal,1,0,1,0,0,2023 FA Community Shield
+Stuart Attwell,English,Manchester City,0,1,-1,0,0,2023 FA Community Shield

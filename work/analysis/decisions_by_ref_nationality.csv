@@ -1,13 +1,13 @@
 club,referee_english,favouring,against,net
-Arsenal,False,0,0,0
-Arsenal,True,0,0,0
-Chelsea,False,0,1,-1
-Chelsea,True,1,1,0
-Liverpool,False,0,0,0
-Liverpool,True,0,0,0
+Arsenal,False,3,2,1
+Arsenal,True,15,8,7
+Chelsea,False,1,2,-1
+Chelsea,True,10,15,-5
+Liverpool,False,1,9,-8
+Liverpool,True,9,4,5
 Manchester City,False,0,0,0
-Manchester City,True,0,1,-1
-Manchester United,False,1,0,1
-Manchester United,True,0,0,0
-ALL FIVE,False,1,1,0
-ALL FIVE,True,1,2,-1
+Manchester City,True,8,8,0
+Manchester United,False,1,1,0
+Manchester United,True,10,11,-1
+ALL FIVE,False,5,13,-8
+ALL FIVE,True,13,7,6

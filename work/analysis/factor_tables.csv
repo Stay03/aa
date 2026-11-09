@@ -1,45 +1,144 @@
 club,factor,level,finals,wins,win_pct,ci95_lo,ci95_hi,test,p_value
-Chelsea,Referee English (vs foreign),False,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
-Chelsea,Referee English (vs foreign),True,1,1,100.0,20.7,100.0,Fisher exact (two-sided),1.0
-Chelsea,Referee nationality,Dutch,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
-Chelsea,Referee nationality,English,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
-Chelsea,Referee nationality,Italian,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
-Chelsea,Competition type,European,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
-Chelsea,Competition type,domestic,1,1,100.0,20.7,100.0,Fisher exact (two-sided),1.0
-Chelsea,Venue,Neutral venue abroad,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
-Chelsea,Venue,Wembley (London),1,1,100.0,20.7,100.0,Fisher exact (two-sided),1.0
-Chelsea,VAR in use,False,3,3,100.0,43.9,100.0,,
-Chelsea,Era (decade blocks),1996-2005,1,1,100.0,20.7,100.0,Fisher exact (two-sided),1.0
-Chelsea,Era (decade blocks),2006-2015,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
-Chelsea,Opponent English vs foreign,English,1,1,100.0,20.7,100.0,Fisher exact (two-sided),1.0
-Chelsea,Opponent English vs foreign,foreign,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
-Manchester City,Referee English (vs foreign),True,1,1,100.0,20.7,100.0,,
-Manchester City,Referee nationality,English,1,1,100.0,20.7,100.0,,
-Manchester City,Competition type,domestic,1,1,100.0,20.7,100.0,,
-Manchester City,Venue,Wembley (London),1,1,100.0,20.7,100.0,,
-Manchester City,VAR in use,False,1,1,100.0,20.7,100.0,,
-Manchester City,Era (decade blocks),2006-2015,1,1,100.0,20.7,100.0,,
-Manchester City,Opponent English vs foreign,English,1,1,100.0,20.7,100.0,,
-Manchester United,Referee English (vs foreign),False,1,1,100.0,20.7,100.0,,
-Manchester United,Referee nationality,German,1,1,100.0,20.7,100.0,,
-Manchester United,Competition type,world,1,1,100.0,20.7,100.0,,
-Manchester United,Venue,Neutral venue abroad,1,1,100.0,20.7,100.0,,
-Manchester United,VAR in use,False,1,1,100.0,20.7,100.0,,
-Manchester United,Era (decade blocks),1996-2005,1,1,100.0,20.7,100.0,,
-Manchester United,Opponent English vs foreign,foreign,1,1,100.0,20.7,100.0,,
-ALL FIVE (pooled),Referee English (vs foreign),False,3,3,100.0,43.9,100.0,Fisher exact (two-sided),1.0
-ALL FIVE (pooled),Referee English (vs foreign),True,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
-ALL FIVE (pooled),Referee nationality,Dutch,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
-ALL FIVE (pooled),Referee nationality,English,2,2,100.0,34.2,100.0,"permutation chi-square (20,000 perms)",1.0
-ALL FIVE (pooled),Referee nationality,German,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
-ALL FIVE (pooled),Referee nationality,Italian,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
-ALL FIVE (pooled),Competition type,European,2,2,100.0,34.2,100.0,"permutation chi-square (20,000 perms)",1.0
-ALL FIVE (pooled),Competition type,domestic,2,2,100.0,34.2,100.0,"permutation chi-square (20,000 perms)",1.0
-ALL FIVE (pooled),Competition type,world,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
-ALL FIVE (pooled),Venue,Neutral venue abroad,3,3,100.0,43.9,100.0,Fisher exact (two-sided),1.0
-ALL FIVE (pooled),Venue,Wembley (London),2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
-ALL FIVE (pooled),VAR in use,False,5,5,100.0,56.6,100.0,,
-ALL FIVE (pooled),Era (decade blocks),1996-2005,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
-ALL FIVE (pooled),Era (decade blocks),2006-2015,3,3,100.0,43.9,100.0,Fisher exact (two-sided),1.0
-ALL FIVE (pooled),Opponent English vs foreign,English,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
-ALL FIVE (pooled),Opponent English vs foreign,foreign,3,3,100.0,43.9,100.0,Fisher exact (two-sided),1.0
+Arsenal,Referee English (vs foreign),False,2,0,0.0,0.0,65.8,Fisher exact (two-sided),0.1
+Arsenal,Referee English (vs foreign),True,19,14,73.7,51.2,88.2,Fisher exact (two-sided),0.1
+Arsenal,Referee nationality,English,19,14,73.7,51.2,88.2,"permutation chi-square (20,000 perms)",0.1022
+Arsenal,Referee nationality,German,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.1022
+Arsenal,Referee nationality,Italian,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.1022
+Arsenal,Competition type,European,2,0,0.0,0.0,65.8,Fisher exact (two-sided),0.1
+Arsenal,Competition type,domestic,19,14,73.7,51.2,88.2,Fisher exact (two-sided),0.1
+Arsenal,Venue,Millennium Stadium (Cardiff),6,3,50.0,18.8,81.2,"permutation chi-square (20,000 perms)",0.0328
+Arsenal,Venue,Neutral venue abroad,2,0,0.0,0.0,65.8,"permutation chi-square (20,000 perms)",0.0328
+Arsenal,Venue,Wembley (London),13,11,84.6,57.8,95.7,"permutation chi-square (20,000 perms)",0.0328
+Arsenal,VAR in use,False,10,7,70.0,39.7,89.2,Fisher exact (two-sided),0.6305
+Arsenal,VAR in use,True,8,4,50.0,21.5,78.5,Fisher exact (two-sided),0.6305
+Arsenal,Era (decade blocks),1996-2005,6,4,66.7,30.0,90.3,"permutation chi-square (20,000 perms)",0.8488
+Arsenal,Era (decade blocks),2006-2015,5,4,80.0,37.6,96.4,"permutation chi-square (20,000 perms)",0.8488
+Arsenal,Era (decade blocks),2016-2026,10,6,60.0,31.3,83.2,"permutation chi-square (20,000 perms)",0.8488
+Arsenal,Opponent English vs foreign,English,20,14,70.0,48.1,85.5,Fisher exact (two-sided),0.3333
+Arsenal,Opponent English vs foreign,foreign,1,0,0.0,0.0,79.3,Fisher exact (two-sided),0.3333
+Chelsea,Referee English (vs foreign),False,12,8,66.7,39.1,86.2,Fisher exact (two-sided),0.2907
+Chelsea,Referee English (vs foreign),True,20,9,45.0,25.8,65.8,Fisher exact (two-sided),0.2907
+Chelsea,Referee nationality,Australian,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.6129
+Chelsea,Referee nationality,Bosnian (Bosnia and Herzegovina),1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.6129
+Chelsea,Referee nationality,Dutch,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.6129
+Chelsea,Referee nationality,English,20,9,45.0,25.8,65.8,"permutation chi-square (20,000 perms)",0.6129
+Chelsea,Referee nationality,French,2,1,50.0,9.5,90.5,"permutation chi-square (20,000 perms)",0.6129
+Chelsea,Referee nationality,Iranian-born (Iranian); any Australian citizenship not verified,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.6129
+Chelsea,Referee nationality,Italian,2,2,100.0,34.2,100.0,"permutation chi-square (20,000 perms)",0.6129
+Chelsea,Referee nationality,Russian,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.6129
+Chelsea,Referee nationality,Slovenian,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.6129
+Chelsea,Referee nationality,Swedish,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.6129
+Chelsea,Referee nationality,Turkish,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.6129
+Chelsea,Competition type,European,9,6,66.7,35.4,87.9,"permutation chi-square (20,000 perms)",0.4918
+Chelsea,Competition type,domestic,20,9,45.0,25.8,65.8,"permutation chi-square (20,000 perms)",0.4918
+Chelsea,Competition type,world,3,2,66.7,20.8,93.9,"permutation chi-square (20,000 perms)",0.4918
+Chelsea,Venue,Millennium Stadium (Cardiff),4,3,75.0,30.1,95.4,"permutation chi-square (20,000 perms)",0.2764
+Chelsea,Venue,Neutral venue abroad,12,8,66.7,39.1,86.2,"permutation chi-square (20,000 perms)",0.2764
+Chelsea,Venue,Other venue in England,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.2764
+Chelsea,Venue,Wembley (London),15,6,40.0,19.8,64.3,"permutation chi-square (20,000 perms)",0.2764
+Chelsea,VAR in use,False,20,11,55.0,34.2,74.2,Fisher exact (two-sided),0.6942
+Chelsea,VAR in use,True,9,6,66.7,35.4,87.9,Fisher exact (two-sided),0.6942
+Chelsea,Era (decade blocks),1996-2005,7,6,85.7,48.7,97.4,"permutation chi-square (20,000 perms)",0.1043
+Chelsea,Era (decade blocks),2006-2015,14,5,35.7,16.3,61.2,"permutation chi-square (20,000 perms)",0.1043
+Chelsea,Era (decade blocks),2016-2026,11,6,54.5,28.0,78.7,"permutation chi-square (20,000 perms)",0.1043
+Chelsea,Opponent English vs foreign,English,22,10,45.5,26.9,65.3,Fisher exact (two-sided),0.2654
+Chelsea,Opponent English vs foreign,foreign,10,7,70.0,39.7,89.2,Fisher exact (two-sided),0.2654
+Liverpool,Referee English (vs foreign),False,7,4,57.1,25.0,84.2,Fisher exact (two-sided),0.6424
+Liverpool,Referee English (vs foreign),True,13,5,38.5,17.7,64.5,Fisher exact (two-sided),0.6424
+Liverpool,Referee nationality,Dutch,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.6927
+Liverpool,Referee nationality,English,13,5,38.5,17.7,64.5,"permutation chi-square (20,000 perms)",0.6927
+Liverpool,Referee nationality,French,2,1,50.0,9.5,90.5,"permutation chi-square (20,000 perms)",0.6927
+Liverpool,Referee nationality,Mexican,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.6927
+Liverpool,Referee nationality,Portuguese,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.6927
+Liverpool,Referee nationality,Qatari,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.6927
+Liverpool,Referee nationality,Swedish,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.6927
+Liverpool,Competition type,European,5,3,60.0,23.1,88.2,"permutation chi-square (20,000 perms)",0.7931
+Liverpool,Competition type,domestic,13,5,38.5,17.7,64.5,"permutation chi-square (20,000 perms)",0.7931
+Liverpool,Competition type,world,2,1,50.0,9.5,90.5,"permutation chi-square (20,000 perms)",0.7931
+Liverpool,Venue,Millennium Stadium (Cardiff),6,4,66.7,30.0,90.3,"permutation chi-square (20,000 perms)",0.0431
+Liverpool,Venue,Neutral venue abroad,8,5,62.5,30.6,86.3,"permutation chi-square (20,000 perms)",0.0431
+Liverpool,Venue,Wembley (London),6,0,0.0,0.0,39.0,"permutation chi-square (20,000 perms)",0.0431
+Liverpool,VAR in use,False,12,6,50.0,25.4,74.6,Fisher exact (two-sided),0.6699
+Liverpool,VAR in use,True,8,3,37.5,13.7,69.4,Fisher exact (two-sided),0.6699
+Liverpool,Era (decade blocks),1996-2005,8,5,62.5,30.6,86.3,"permutation chi-square (20,000 perms)",0.5492
+Liverpool,Era (decade blocks),2006-2015,2,1,50.0,9.5,90.5,"permutation chi-square (20,000 perms)",0.5492
+Liverpool,Era (decade blocks),2016-2026,10,3,30.0,10.8,60.3,"permutation chi-square (20,000 perms)",0.5492
+Liverpool,Opponent English vs foreign,English,14,6,42.9,21.4,67.4,Fisher exact (two-sided),1.0
+Liverpool,Opponent English vs foreign,foreign,6,3,50.0,18.8,81.2,Fisher exact (two-sided),1.0
+Manchester City,Referee English (vs foreign),False,4,4,100.0,51.0,100.0,Fisher exact (two-sided),0.255
+Manchester City,Referee English (vs foreign),True,17,10,58.8,36.0,78.4,Fisher exact (two-sided),0.255
+Manchester City,Referee nationality,Australian,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.7877
+Manchester City,Referee nationality,English,17,10,58.8,36.0,78.4,"permutation chi-square (20,000 perms)",0.7877
+Manchester City,Referee nationality,French,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.7877
+Manchester City,Referee nationality,Polish,2,2,100.0,34.2,100.0,"permutation chi-square (20,000 perms)",0.7877
+Manchester City,Competition type,European,2,2,100.0,34.2,100.0,"permutation chi-square (20,000 perms)",0.6852
+Manchester City,Competition type,domestic,18,11,61.1,38.6,79.7,"permutation chi-square (20,000 perms)",0.6852
+Manchester City,Competition type,world,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.6852
+Manchester City,Venue,Millennium Stadium (Cardiff),1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.6685
+Manchester City,Venue,Neutral venue abroad,4,3,75.0,30.1,95.4,"permutation chi-square (20,000 perms)",0.6685
+Manchester City,Venue,Other venue in England,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.6685
+Manchester City,Venue,Wembley (London),15,10,66.7,41.7,84.8,"permutation chi-square (20,000 perms)",0.6685
+Manchester City,VAR in use,False,4,3,75.0,30.1,95.4,Fisher exact (two-sided),1.0
+Manchester City,VAR in use,True,14,10,71.4,45.4,88.3,Fisher exact (two-sided),1.0
+Manchester City,Era (decade blocks),2006-2015,6,3,50.0,18.8,81.2,Fisher exact (two-sided),0.3544
+Manchester City,Era (decade blocks),2016-2026,15,11,73.3,48.0,89.1,Fisher exact (two-sided),0.3544
+Manchester City,Opponent English vs foreign,English,18,11,61.1,38.6,79.7,Fisher exact (two-sided),0.5211
+Manchester City,Opponent English vs foreign,foreign,3,3,100.0,43.9,100.0,Fisher exact (two-sided),0.5211
+Manchester United,Referee English (vs foreign),False,9,3,33.3,12.1,64.6,Fisher exact (two-sided),0.2451
+Manchester United,Referee English (vs foreign),True,20,12,60.0,38.7,78.1,Fisher exact (two-sided),0.2451
+Manchester United,Referee nationality,Australian,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.5957
+Manchester United,Referee nationality,Danish,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.5957
+Manchester United,Referee nationality,English,20,12,60.0,38.7,78.1,"permutation chi-square (20,000 perms)",0.5957
+Manchester United,Referee nationality,French,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.5957
+Manchester United,Referee nationality,German,2,1,50.0,9.5,90.5,"permutation chi-square (20,000 perms)",0.5957
+Manchester United,Referee nationality,Italian,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.5957
+Manchester United,Referee nationality,Polish,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.5957
+Manchester United,Referee nationality,Slovenian,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.5957
+Manchester United,Referee nationality,Uzbek,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.5957
+Manchester United,Competition type,European,6,1,16.7,3.0,56.4,"permutation chi-square (20,000 perms)",0.0643
+Manchester United,Competition type,domestic,21,12,57.1,36.5,75.5,"permutation chi-square (20,000 perms)",0.0643
+Manchester United,Competition type,world,2,2,100.0,34.2,100.0,"permutation chi-square (20,000 perms)",0.0643
+Manchester United,Venue,Millennium Stadium (Cardiff),5,2,40.0,11.8,76.9,"permutation chi-square (20,000 perms)",0.5254
+Manchester United,Venue,Neutral venue abroad,8,3,37.5,13.7,69.4,"permutation chi-square (20,000 perms)",0.5254
+Manchester United,Venue,Wembley (London),16,10,62.5,38.6,81.5,"permutation chi-square (20,000 perms)",0.5254
+Manchester United,VAR in use,False,22,12,54.5,34.7,73.1,Fisher exact (two-sided),0.1001
+Manchester United,VAR in use,True,4,0,0.0,0.0,49.0,Fisher exact (two-sided),0.1001
+Manchester United,Era (decade blocks),1996-2005,11,4,36.4,15.2,64.6,"permutation chi-square (20,000 perms)",0.2169
+Manchester United,Era (decade blocks),2006-2015,9,7,77.8,45.3,93.7,"permutation chi-square (20,000 perms)",0.2169
+Manchester United,Era (decade blocks),2016-2026,9,4,44.4,18.9,73.3,"permutation chi-square (20,000 perms)",0.2169
+Manchester United,Opponent English vs foreign,English,22,12,54.5,34.7,73.1,Fisher exact (two-sided),0.6817
+Manchester United,Opponent English vs foreign,foreign,7,3,42.9,15.8,75.0,Fisher exact (two-sided),0.6817
+ALL FIVE (pooled),Referee English (vs foreign),False,34,19,55.9,39.5,71.1,Fisher exact (two-sided),1.0
+ALL FIVE (pooled),Referee English (vs foreign),True,89,50,56.2,45.8,66.0,Fisher exact (two-sided),1.0
+ALL FIVE (pooled),Referee nationality,Australian,3,2,66.7,20.8,93.9,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Bosnian (Bosnia and Herzegovina),1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Danish,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Dutch,2,2,100.0,34.2,100.0,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,English,89,50,56.2,45.8,66.0,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,French,6,3,50.0,18.8,81.2,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,German,3,1,33.3,6.1,79.2,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Iranian-born (Iranian); any Australian citizenship not verified,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Italian,4,2,50.0,15.0,85.0,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Mexican,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Polish,3,2,66.7,20.8,93.9,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Portuguese,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Qatari,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Russian,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Slovenian,2,1,50.0,9.5,90.5,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Swedish,2,0,0.0,0.0,65.8,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Turkish,1,0,0.0,0.0,79.3,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Referee nationality,Uzbek,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",0.8486
+ALL FIVE (pooled),Competition type,European,24,12,50.0,31.4,68.6,"permutation chi-square (20,000 perms)",0.4893
+ALL FIVE (pooled),Competition type,domestic,91,51,56.0,45.8,65.8,"permutation chi-square (20,000 perms)",0.4893
+ALL FIVE (pooled),Competition type,world,8,6,75.0,40.9,92.9,"permutation chi-square (20,000 perms)",0.4893
+ALL FIVE (pooled),Venue,Millennium Stadium (Cardiff),22,12,54.5,34.7,73.1,"permutation chi-square (20,000 perms)",1.0
+ALL FIVE (pooled),Venue,Neutral venue abroad,34,19,55.9,39.5,71.1,"permutation chi-square (20,000 perms)",1.0
+ALL FIVE (pooled),Venue,Other venue in England,2,1,50.0,9.5,90.5,"permutation chi-square (20,000 perms)",1.0
+ALL FIVE (pooled),Venue,Wembley (London),65,37,56.9,44.8,68.2,"permutation chi-square (20,000 perms)",1.0
+ALL FIVE (pooled),VAR in use,False,68,39,57.4,45.5,68.4,Fisher exact (two-sided),0.6999
+ALL FIVE (pooled),VAR in use,True,43,23,53.5,38.9,67.5,Fisher exact (two-sided),0.6999
+ALL FIVE (pooled),Era (decade blocks),1996-2005,32,19,59.4,42.3,74.5,"permutation chi-square (20,000 perms)",0.9194
+ALL FIVE (pooled),Era (decade blocks),2006-2015,36,20,55.6,39.6,70.5,"permutation chi-square (20,000 perms)",0.9194
+ALL FIVE (pooled),Era (decade blocks),2016-2026,55,30,54.5,41.5,67.0,"permutation chi-square (20,000 perms)",0.9194
+ALL FIVE (pooled),Opponent English vs foreign,English,96,53,55.2,45.3,64.8,Fisher exact (two-sided),0.8271
+ALL FIVE (pooled),Opponent English vs foreign,foreign,27,16,59.3,40.7,75.5,Fisher exact (two-sided),0.8271

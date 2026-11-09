@@ -231,6 +231,7 @@ if __name__ == "__main__":
     app["p_best"] = app.p_lift_odds.where(app.p_lift_odds.notna(), app.p_lift_elo)
     app["p_source"] = np.where(app.p_lift_odds.notna(), "odds", np.where(app.p_lift_elo.notna(), "Elo", None))
     res["expected_vs_actual_odds"] = expected_vs_actual(app, "p_lift_odds")
+    res["expected_vs_actual_ownelo"] = expected_vs_actual(app, "p_lift_ownelo")
     if app.p_lift_elo.notna().any():
         res["expected_vs_actual_elo"] = expected_vs_actual(app, "p_lift_elo")
     res["shootouts"] = shootouts(app)

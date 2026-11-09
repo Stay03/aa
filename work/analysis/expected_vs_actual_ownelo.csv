@@ -1,0 +1,86 @@
+club,subset,n,wins_observed,wins_expected,obs_minus_exp,sd_under_null,exact_p_two_sided
+Arsenal,all finals with estimate,20,14.0,9.58,4.42,2.11,0.0557
+Arsenal,referee_english=False,1,0.0,0.47,-0.47,0.5,1.0
+Arsenal,referee_english=True,19,14.0,9.11,4.89,2.05,0.0261
+Arsenal,DIFF in mean(O-E): referee_english=False minus referee_english=True,20,,,-0.726,,0.0982
+Arsenal,competition_type=European,1,0.0,0.47,-0.47,0.5,1.0
+Arsenal,competition_type=domestic,19,14.0,9.11,4.89,2.05,0.0261
+Arsenal,DIFF in mean(O-E): competition_type=European minus competition_type=domestic,20,,,-0.726,,0.1002
+Arsenal,var_in_use=False,10,7.0,5.55,1.45,1.48,0.4987
+Arsenal,var_in_use=True,7,4.0,2.84,1.16,1.26,0.4363
+Arsenal,DIFF in mean(O-E): var_in_use=False minus var_in_use=True,17,,,-0.02,,0.9393
+Arsenal,opponent_type=English,20,14.0,9.58,4.42,2.11,0.0557
+Arsenal,venue_category=Millennium Stadium (Cardiff),6,3.0,3.0,-0.0,1.21,1.0
+Arsenal,venue_category=Neutral venue abroad,1,0.0,0.47,-0.47,0.5,1.0
+Arsenal,venue_category=Wembley (London),13,11.0,6.11,4.89,1.66,0.005
+Chelsea,all finals with estimate,22,10.0,11.34,-1.34,2.23,0.6552
+Chelsea,referee_english=False,2,1.0,0.78,0.22,0.66,1.0
+Chelsea,referee_english=True,20,9.0,10.56,-1.56,2.13,0.4902
+Chelsea,DIFF in mean(O-E): referee_english=False minus referee_english=True,22,,,0.186,,0.5481
+Chelsea,competition_type=European,2,1.0,0.78,0.22,0.66,1.0
+Chelsea,competition_type=domestic,20,9.0,10.56,-1.56,2.13,0.4902
+Chelsea,DIFF in mean(O-E): competition_type=European minus competition_type=domestic,22,,,0.186,,0.5372
+Chelsea,var_in_use=False,14,8.0,7.87,0.13,1.78,1.0
+Chelsea,var_in_use=True,5,2.0,1.99,0.01,1.06,1.0
+Chelsea,DIFF in mean(O-E): var_in_use=False minus var_in_use=True,19,,,0.007,,0.9828
+Chelsea,opponent_type=English,22,10.0,11.34,-1.34,2.23,0.6552
+Chelsea,venue_category=Millennium Stadium (Cardiff),4,3.0,2.55,0.45,0.95,1.0
+Chelsea,venue_category=Neutral venue abroad,2,1.0,0.78,0.22,0.66,1.0
+Chelsea,venue_category=Other venue in England,1,0.0,0.32,-0.32,0.46,1.0
+Chelsea,venue_category=Wembley (London),15,6.0,7.69,-1.69,1.85,0.4236
+Liverpool,all finals with estimate,14,6.0,7.32,-1.32,1.73,0.5654
+Liverpool,referee_english=False,1,1.0,0.75,0.25,0.43,1.0
+Liverpool,referee_english=True,13,5.0,6.57,-1.57,1.68,0.3859
+Liverpool,DIFF in mean(O-E): referee_english=False minus referee_english=True,14,,,0.373,,0.6425
+Liverpool,competition_type=European,1,1.0,0.75,0.25,0.43,1.0
+Liverpool,competition_type=domestic,13,5.0,6.57,-1.57,1.68,0.3859
+Liverpool,DIFF in mean(O-E): competition_type=European minus competition_type=domestic,14,,,0.373,,0.6476
+Liverpool,var_in_use=False,8,4.0,3.37,0.63,1.34,0.7153
+Liverpool,var_in_use=True,6,2.0,3.95,-1.95,1.1,0.163
+Liverpool,DIFF in mean(O-E): var_in_use=False minus var_in_use=True,14,,,0.404,,0.1931
+Liverpool,opponent_type=English,14,6.0,7.32,-1.32,1.73,0.5654
+Liverpool,venue_category=Millennium Stadium (Cardiff),6,4.0,2.64,1.36,1.15,0.3852
+Liverpool,venue_category=Neutral venue abroad,2,2.0,1.23,0.77,0.66,0.4911
+Liverpool,venue_category=Wembley (London),6,0.0,3.45,-3.45,1.11,0.0029
+Manchester City,all finals with estimate,18,11.0,12.15,-1.15,1.88,0.5963
+Manchester City,referee_english=False,1,1.0,0.83,0.17,0.37,1.0
+Manchester City,referee_english=True,17,10.0,11.31,-1.31,1.84,0.5865
+Manchester City,DIFF in mean(O-E): referee_english=False minus referee_english=True,18,,,0.245,,0.8888
+Manchester City,competition_type=domestic,18,11.0,12.15,-1.15,1.88,0.5963
+Manchester City,var_in_use=False,4,3.0,3.03,-0.03,0.83,1.0
+Manchester City,var_in_use=True,11,7.0,7.45,-0.45,1.47,0.7435
+Manchester City,DIFF in mean(O-E): var_in_use=False minus var_in_use=True,15,,,0.033,,0.9266
+Manchester City,opponent_type=English,18,11.0,12.15,-1.15,1.88,0.5963
+Manchester City,venue_category=Millennium Stadium (Cardiff),1,0.0,0.47,-0.47,0.5,1.0
+Manchester City,venue_category=Neutral venue abroad,1,0.0,0.52,-0.52,0.5,0.482
+Manchester City,venue_category=Other venue in England,1,1.0,0.68,0.32,0.46,1.0
+Manchester City,venue_category=Wembley (London),15,10.0,10.48,-0.48,1.68,0.7701
+Manchester United,all finals with estimate,22,12.0,13.01,-1.01,2.18,0.6529
+Manchester United,referee_english=False,2,0.0,0.64,-0.64,0.62,0.5199
+Manchester United,referee_english=True,20,12.0,12.37,-0.37,2.09,1.0
+Manchester United,DIFF in mean(O-E): referee_english=False minus referee_english=True,22,,,-0.3,,0.4394
+Manchester United,competition_type=European,1,0.0,0.47,-0.47,0.5,1.0
+Manchester United,competition_type=domestic,21,12.0,12.54,-0.54,2.13,0.8169
+Manchester United,DIFF in mean(O-E): competition_type=European minus competition_type=domestic,22,,,-0.444,,0.5829
+Manchester United,var_in_use=False,16,9.0,9.8,-0.8,1.88,0.7915
+Manchester United,var_in_use=True,3,0.0,1.22,-1.22,0.8,0.2314
+Manchester United,DIFF in mean(O-E): var_in_use=False minus var_in_use=True,19,,,0.356,,0.2089
+Manchester United,opponent_type=English,22,12.0,13.01,-1.01,2.18,0.6529
+Manchester United,venue_category=Millennium Stadium (Cardiff),5,2.0,2.89,-0.89,1.06,0.6405
+Manchester United,venue_category=Neutral venue abroad,1,0.0,0.47,-0.47,0.5,1.0
+Manchester United,venue_category=Wembley (London),16,10.0,9.64,0.36,1.84,1.0
+ALL FIVE (pooled),all finals with estimate,96,53.0,53.4,-0.4,4.56,1.0
+ALL FIVE (pooled),referee_english=False,7,3.0,3.47,-0.47,1.18,1.0
+ALL FIVE (pooled),referee_english=True,89,50.0,49.93,0.07,4.4,1.0
+ALL FIVE (pooled),DIFF in mean(O-E): referee_english=False minus referee_english=True,96,,,-0.068,,0.7282
+ALL FIVE (pooled),competition_type=European,5,2.0,2.47,-0.47,1.06,1.0
+ALL FIVE (pooled),competition_type=domestic,91,51.0,50.93,0.07,4.43,1.0
+ALL FIVE (pooled),DIFF in mean(O-E): competition_type=European minus competition_type=domestic,96,,,-0.095,,0.6861
+ALL FIVE (pooled),var_in_use=False,52,31.0,29.62,1.38,3.37,0.7672
+ALL FIVE (pooled),var_in_use=True,32,15.0,17.45,-2.45,2.59,0.4396
+ALL FIVE (pooled),DIFF in mean(O-E): var_in_use=False minus var_in_use=True,84,,,0.103,,0.3442
+ALL FIVE (pooled),opponent_type=English,96,53.0,53.4,-0.4,4.56,1.0
+ALL FIVE (pooled),venue_category=Millennium Stadium (Cardiff),22,12.0,11.56,0.44,2.25,1.0
+ALL FIVE (pooled),venue_category=Neutral venue abroad,7,3.0,3.47,-0.47,1.27,1.0
+ALL FIVE (pooled),venue_category=Other venue in England,2,1.0,1.0,0.0,0.66,1.0
+ALL FIVE (pooled),venue_category=Wembley (London),65,37.0,37.37,-0.37,3.69,1.0

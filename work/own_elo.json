@@ -1,0 +1,457 @@
+{
+ "1998 Football League Cup final": {
+  "own_elo1": 1556,
+  "own_elo2": 1497,
+  "own_elo_p_team1": 0.584
+ },
+ "2001 Football League Cup final": {
+  "own_elo1": 1466,
+  "own_elo2": 1672,
+  "own_elo_p_team1": 0.234
+ },
+ "2003 Football League Cup final": {
+  "own_elo1": 1698,
+  "own_elo2": 1762,
+  "own_elo_p_team1": 0.409
+ },
+ "2005 Football League Cup final": {
+  "own_elo1": 1661,
+  "own_elo2": 1844,
+  "own_elo_p_team1": 0.259
+ },
+ "2006 Football League Cup final": {
+  "own_elo1": 1780,
+  "own_elo2": 1549,
+  "own_elo_p_team1": 0.791
+ },
+ "2007 Football League Cup final": {
+  "own_elo1": 1855,
+  "own_elo2": 1770,
+  "own_elo_p_team1": 0.62
+ },
+ "2008 Football League Cup final": {
+  "own_elo1": 1833,
+  "own_elo2": 1639,
+  "own_elo_p_team1": 0.753
+ },
+ "2009 Football League Cup final": {
+  "own_elo1": 1906,
+  "own_elo2": 1567,
+  "own_elo_p_team1": 0.876
+ },
+ "2010 Football League Cup final": {
+  "own_elo1": 1697,
+  "own_elo2": 1849,
+  "own_elo_p_team1": 0.294
+ },
+ "2011 Football League Cup final": {
+  "own_elo1": 1809,
+  "own_elo2": 1549,
+  "own_elo_p_team1": 0.816
+ },
+ "2012 Football League Cup final": {
+  "own_elo1": 1444,
+  "own_elo2": 1700,
+  "own_elo_p_team1": 0.186
+ },
+ "2019 UEFA Super Cup": {
+  "own_elo1": 1932,
+  "own_elo2": 1743,
+  "own_elo_p_team1": 0.748
+ },
+ "2008 UEFA Champions League final": {
+  "own_elo1": 1878,
+  "own_elo2": 1864,
+  "own_elo_p_team1": 0.52
+ },
+ "2019 UEFA Champions League final": {
+  "own_elo1": 1772,
+  "own_elo2": 1930,
+  "own_elo_p_team1": 0.287
+ },
+ "2021 UEFA Champions League final": {
+  "own_elo1": 1916,
+  "own_elo2": 1749,
+  "own_elo_p_team1": 0.723
+ },
+ "1996 FA Charity Shield": {
+  "own_elo1": 1713,
+  "own_elo2": 1634,
+  "own_elo_p_team1": 0.612
+ },
+ "1997 FA Charity Shield": {
+  "own_elo1": 1531,
+  "own_elo2": 1715,
+  "own_elo_p_team1": 0.257
+ },
+ "1998 FA Charity Shield": {
+  "own_elo1": 1683,
+  "own_elo2": 1719,
+  "own_elo_p_team1": 0.449
+ },
+ "1999 FA Charity Shield": {
+  "own_elo1": 1750,
+  "own_elo2": 1751,
+  "own_elo_p_team1": 0.497
+ },
+ "2000 FA Charity Shield": {
+  "own_elo1": 1664,
+  "own_elo2": 1809,
+  "own_elo_p_team1": 0.302
+ },
+ "2001 FA Charity Shield": {
+  "own_elo1": 1708,
+  "own_elo2": 1772,
+  "own_elo_p_team1": 0.409
+ },
+ "2002 FA Community Shield": {
+  "own_elo1": 1810,
+  "own_elo2": 1774,
+  "own_elo_p_team1": 0.551
+ },
+ "2003 FA Community Shield": {
+  "own_elo1": 1794,
+  "own_elo2": 1831,
+  "own_elo_p_team1": 0.448
+ },
+ "2004 FA Community Shield": {
+  "own_elo1": 1856,
+  "own_elo2": 1763,
+  "own_elo_p_team1": 0.631
+ },
+ "2005 FA Community Shield": {
+  "own_elo1": 1840,
+  "own_elo2": 1868,
+  "own_elo_p_team1": 0.46
+ },
+ "2006 FA Community Shield": {
+  "own_elo1": 1761,
+  "own_elo2": 1867,
+  "own_elo_p_team1": 0.352
+ },
+ "2007 FA Community Shield": {
+  "own_elo1": 1853,
+  "own_elo2": 1854,
+  "own_elo_p_team1": 0.499
+ },
+ "2008 FA Community Shield": {
+  "own_elo1": 1878,
+  "own_elo2": 1595,
+  "own_elo_p_team1": 0.836
+ },
+ "2009 FA Community Shield": {
+  "own_elo1": 1865,
+  "own_elo2": 1882,
+  "own_elo_p_team1": 0.476
+ },
+ "2010 FA Community Shield": {
+  "own_elo1": 1877,
+  "own_elo2": 1872,
+  "own_elo_p_team1": 0.507
+ },
+ "2019 UEFA Europa League final": {
+  "own_elo1": 1760,
+  "own_elo2": 1739,
+  "own_elo_p_team1": 0.531
+ },
+ "2025 UEFA Europa League final": {
+  "own_elo1": 1620,
+  "own_elo2": 1599,
+  "own_elo_p_team1": 0.53
+ },
+ "2014 Football League Cup final": {
+  "own_elo1": 1857,
+  "own_elo2": 1514,
+  "own_elo_p_team1": 0.878
+ },
+ "2015 Football League Cup final": {
+  "own_elo1": 1867,
+  "own_elo2": 1712,
+  "own_elo_p_team1": 0.71
+ },
+ "2016 Football League Cup final": {
+  "own_elo1": 1674,
+  "own_elo2": 1778,
+  "own_elo_p_team1": 0.354
+ },
+ "2017 EFL Cup final": {
+  "own_elo1": 1778,
+  "own_elo2": 1638,
+  "own_elo_p_team1": 0.692
+ },
+ "2018 EFL Cup final": {
+  "own_elo1": 1755,
+  "own_elo2": 1912,
+  "own_elo_p_team1": 0.288
+ },
+ "2019 EFL Cup final": {
+  "own_elo1": 1755,
+  "own_elo2": 1950,
+  "own_elo_p_team1": 0.246
+ },
+ "2020 EFL Cup final": {
+  "own_elo1": 1495,
+  "own_elo2": 1924,
+  "own_elo_p_team1": 0.078
+ },
+ "2021 EFL Cup final": {
+  "own_elo1": 1936,
+  "own_elo2": 1729,
+  "own_elo_p_team1": 0.767
+ },
+ "2022 EFL Cup final": {
+  "own_elo1": 1818,
+  "own_elo2": 1908,
+  "own_elo_p_team1": 0.374
+ },
+ "2023 EFL Cup final": {
+  "own_elo1": 1776,
+  "own_elo2": 1729,
+  "own_elo_p_team1": 0.567
+ },
+ "2024 EFL Cup final": {
+  "own_elo1": 1664,
+  "own_elo2": 1897,
+  "own_elo_p_team1": 0.207
+ },
+ "2025 EFL Cup final": {
+  "own_elo1": 1948,
+  "own_elo2": 1735,
+  "own_elo_p_team1": 0.773
+ },
+ "2026 EFL Cup final": {
+  "own_elo1": 1922,
+  "own_elo2": 1880,
+  "own_elo_p_team1": 0.56
+ },
+ "2011 FA Community Shield": {
+  "own_elo1": 1736,
+  "own_elo2": 1849,
+  "own_elo_p_team1": 0.343
+ },
+ "2012 FA Community Shield": {
+  "own_elo1": 1715,
+  "own_elo2": 1849,
+  "own_elo_p_team1": 0.316
+ },
+ "2013 FA Community Shield": {
+  "own_elo1": 1880,
+  "own_elo2": 1536,
+  "own_elo_p_team1": 0.878
+ },
+ "2014 FA Community Shield": {
+  "own_elo1": 1785,
+  "own_elo2": 1886,
+  "own_elo_p_team1": 0.359
+ },
+ "2015 FA Community Shield": {
+  "own_elo1": 1812,
+  "own_elo2": 1855,
+  "own_elo_p_team1": 0.438
+ },
+ "2016 FA Community Shield": {
+  "own_elo1": 1764,
+  "own_elo2": 1735,
+  "own_elo_p_team1": 0.542
+ },
+ "2017 FA Community Shield": {
+  "own_elo1": 1792,
+  "own_elo2": 1866,
+  "own_elo_p_team1": 0.396
+ },
+ "2018 FA Community Shield": {
+  "own_elo1": 1768,
+  "own_elo2": 1944,
+  "own_elo_p_team1": 0.267
+ },
+ "2019 FA Community Shield": {
+  "own_elo1": 1930,
+  "own_elo2": 1986,
+  "own_elo_p_team1": 0.42
+ },
+ "2020 FA Community Shield": {
+  "own_elo1": 1721,
+  "own_elo2": 1953,
+  "own_elo_p_team1": 0.208
+ },
+ "2021 FA Community Shield": {
+  "own_elo1": 1693,
+  "own_elo2": 1916,
+  "own_elo_p_team1": 0.217
+ },
+ "2022 FA Community Shield": {
+  "own_elo1": 1949,
+  "own_elo2": 1962,
+  "own_elo_p_team1": 0.482
+ },
+ "2023 FA Community Shield": {
+  "own_elo1": 1826,
+  "own_elo2": 1970,
+  "own_elo_p_team1": 0.304
+ },
+ "2024 FA Community Shield": {
+  "own_elo1": 1996,
+  "own_elo2": 1718,
+  "own_elo_p_team1": 0.832
+ },
+ "2025 FA Community Shield": {
+  "own_elo1": 1719,
+  "own_elo2": 1897,
+  "own_elo_p_team1": 0.263
+ },
+ "2026 FA Community Shield": {
+  "own_elo1": 1915,
+  "own_elo2": 1893,
+  "own_elo_p_team1": 0.532
+ },
+ "1996 FA Cup final": {
+  "own_elo1": 1660,
+  "own_elo2": 1713,
+  "own_elo_p_team1": 0.425
+ },
+ "1997 FA Cup final": {
+  "own_elo1": 1531,
+  "own_elo2": 1470,
+  "own_elo_p_team1": 0.586
+ },
+ "1998 FA Cup final": {
+  "own_elo1": 1683,
+  "own_elo2": 1525,
+  "own_elo_p_team1": 0.713
+ },
+ "1999 FA Cup final": {
+  "own_elo1": 1751,
+  "own_elo2": 1495,
+  "own_elo_p_team1": 0.814
+ },
+ "2000 FA Cup final": {
+  "own_elo1": 1664,
+  "own_elo2": 1588,
+  "own_elo_p_team1": 0.607
+ },
+ "2001 FA Cup final": {
+  "own_elo1": 1709,
+  "own_elo2": 1694,
+  "own_elo_p_team1": 0.522
+ },
+ "2002 FA Cup final": {
+  "own_elo1": 1796,
+  "own_elo2": 1696,
+  "own_elo_p_team1": 0.639
+ },
+ "2003 FA Cup final": {
+  "own_elo1": 1794,
+  "own_elo2": 1571,
+  "own_elo_p_team1": 0.784
+ },
+ "2004 FA Cup final": {
+  "own_elo1": 1763,
+  "own_elo2": 1381,
+  "own_elo_p_team1": 0.901
+ },
+ "2005 FA Cup final": {
+  "own_elo1": 1840,
+  "own_elo2": 1775,
+  "own_elo_p_team1": 0.592
+ },
+ "2006 FA Cup final": {
+  "own_elo1": 1761,
+  "own_elo2": 1526,
+  "own_elo_p_team1": 0.794
+ },
+ "2007 FA Cup final": {
+  "own_elo1": 1853,
+  "own_elo2": 1854,
+  "own_elo_p_team1": 0.499
+ },
+ "2009 FA Cup final": {
+  "own_elo1": 1865,
+  "own_elo2": 1714,
+  "own_elo_p_team1": 0.704
+ },
+ "2010 FA Cup final": {
+  "own_elo1": 1877,
+  "own_elo2": 1472,
+  "own_elo_p_team1": 0.912
+ },
+ "2011 FA Cup final": {
+  "own_elo1": 1717,
+  "own_elo2": 1600,
+  "own_elo_p_team1": 0.662
+ },
+ "2012 FA Cup final": {
+  "own_elo1": 1731,
+  "own_elo2": 1639,
+  "own_elo_p_team1": 0.629
+ },
+ "2013 FA Cup final": {
+  "own_elo1": 1826,
+  "own_elo2": 1531,
+  "own_elo_p_team1": 0.846
+ },
+ "2014 FA Cup final": {
+  "own_elo1": 1785,
+  "own_elo2": 1454,
+  "own_elo_p_team1": 0.871
+ },
+ "2015 FA Cup final": {
+  "own_elo1": 1812,
+  "own_elo2": 1492,
+  "own_elo_p_team1": 0.863
+ },
+ "2016 FA Cup final": {
+  "own_elo1": 1542,
+  "own_elo2": 1735,
+  "own_elo_p_team1": 0.248
+ },
+ "2017 FA Cup final": {
+  "own_elo1": 1792,
+  "own_elo2": 1866,
+  "own_elo_p_team1": 0.396
+ },
+ "2018 FA Cup final": {
+  "own_elo1": 1768,
+  "own_elo2": 1824,
+  "own_elo_p_team1": 0.421
+ },
+ "2019 FA Cup final": {
+  "own_elo1": 1986,
+  "own_elo2": 1568,
+  "own_elo_p_team1": 0.917
+ },
+ "2020 FA Cup final": {
+  "own_elo1": 1721,
+  "own_elo2": 1733,
+  "own_elo_p_team1": 0.482
+ },
+ "2021 FA Cup final": {
+  "own_elo1": 1755,
+  "own_elo2": 1718,
+  "own_elo_p_team1": 0.552
+ },
+ "2022 FA Cup final": {
+  "own_elo1": 1791,
+  "own_elo2": 1944,
+  "own_elo_p_team1": 0.293
+ },
+ "2023 FA Cup final": {
+  "own_elo1": 1970,
+  "own_elo2": 1772,
+  "own_elo_p_team1": 0.757
+ },
+ "2024 FA Cup final": {
+  "own_elo1": 1996,
+  "own_elo2": 1718,
+  "own_elo_p_team1": 0.832
+ },
+ "2025 FA Cup final": {
+  "own_elo1": 1704,
+  "own_elo2": 1877,
+  "own_elo_p_team1": 0.27
+ },
+ "2026 FA Cup final": {
+  "own_elo1": 1699,
+  "own_elo2": 1912,
+  "own_elo_p_team1": 0.227
+ }
+}

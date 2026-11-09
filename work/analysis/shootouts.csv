@@ -1,7 +1,7 @@
 club,shootouts,shootout_wins,shootout_win_pct,shootout_ci95,binomial_p_vs_50pct,decided_in_play,in_play_wins,in_play_win_pct,in_play_ci95
-Arsenal,0,0,,"(None, None)",,0,0,,"(None, None)"
-Chelsea,0,0,,"(None, None)",,3,3,100.0,"(43.9, 100.0)"
-Liverpool,0,0,,"(None, None)",,0,0,,"(None, None)"
-Manchester City,0,0,,"(None, None)",,1,1,100.0,"(20.7, 100.0)"
-Manchester United,0,0,,"(None, None)",,1,1,100.0,"(20.7, 100.0)"
-ALL FIVE (pooled),0,0,,"(None, None)",,5,5,100.0,"(56.6, 100.0)"
+Arsenal,5,3,60.0,"(23.1, 88.2)",1.0,16,11,68.8,"(44.4, 85.8)"
+Chelsea,7,2,28.6,"(8.2, 64.1)",0.4531,25,15,60.0,"(40.7, 76.6)"
+Liverpool,6,2,33.3,"(9.7, 70.0)",0.6875,14,7,50.0,"(26.8, 73.2)"
+Manchester City,5,4,80.0,"(37.6, 96.4)",0.375,16,10,62.5,"(38.6, 81.5)"
+Manchester United,7,4,57.1,"(25.0, 84.2)",1.0,22,11,50.0,"(30.7, 69.3)"
+ALL FIVE (pooled),30,15,50.0,"(33.2, 66.8)",1.0,93,54,58.1,"(47.9, 67.6)"

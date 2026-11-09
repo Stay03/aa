@@ -106,6 +106,7 @@ def build():
     wiki = {r["article"]: r for r in json.load(open(W + "wiki_extract.json"))}
     stand = json.load(open(W + "standings.json")) if os.path.exists(W + "standings.json") else {}
     elo = json.load(open(W + "elo.json")) if os.path.exists(W + "elo.json") else {}
+    own = json.load(open(W + "own_elo.json")) if os.path.exists(W + "own_elo.json") else {}
     finals, apps, decs = [], [], []
     for r in outs:
         art = r["article"]
@@ -151,6 +152,8 @@ def build():
             "implied_p_team1_lifts": round(p1, 3) if p1 is not None else None, "implied_p_method": pmethod,
             "clubelo_team1": e1, "clubelo_team2": e2, "elo_p_team1": round(pe, 3) if pe is not None else None,
             "elo_source": e.get("source"),
+            "own_elo_team1": own.get(art, {}).get("own_elo1"), "own_elo_team2": own.get(art, {}).get("own_elo2"),
+            "own_elo_p_team1": own.get(art, {}).get("own_elo_p_team1"),
             "absences_team1": "; ".join(ab.get("team1") or []), "absences_team2": "; ".join(ab.get("team2") or []),
             "absences_sources": " | ".join(ab.get("sources") or []),
             "n_contested_decisions": len(r.get("contested_decisions") or []),
@@ -210,6 +213,7 @@ def build():
                 "won": won, "result_90": res90, "decided_by": r.get("decided_by"),
                 "shootout": r.get("decided_by") == "penalties",
                 "p_lift_odds": round(pc, 3) if pc is not None else None, "p_lift_elo": round(pce, 3) if pce is not None else None,
+                "p_lift_ownelo": (None if art not in own else round(own[art]["own_elo_p_team1"] if side == 1 else 1 - own[art]["own_elo_p_team1"], 3)),
                 "league_pos": (st.get(club) or {}).get("pos"), "opp_league_pos": (st.get(opp) or {}).get("pos"),
                 "decisions_favouring": fav, "decisions_against": agn,
                 "error_decisions_favouring": fav_err, "error_decisions_against": agn_err,
