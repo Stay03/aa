@@ -634,5 +634,384 @@
    "Ronaldo booked for removing shirt in goal celebration (ESPN commentary); Wikipedia 60' matches.",
    "Cards from ESPN only, agrees with Wikipedia; considered complete but single-provider."
   ]
+ },
+ {
+  "article": "2007 Football League Cup final",
+  "date": "2007-02-25",
+  "competition": "League Cup",
+  "season": "2006-07",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Chelsea",
+  "team2": "Arsenal",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=213572",
+   "https://www.rsssf.org/tablese/engleagcup07.html",
+   "https://www.rsssf.org/tablese/engleagcuphist.html",
+   "http://www1.skysports.com/football/news/11670/2406492/wenger-impressed-with-walcott",
+   "http://www1.skysports.com/football/news/11668/2407074/cole-i-feel-a-part-of-it-now"
+  ],
+  "core_verified": true,
+  "referee": "Howard Webb",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "José Mourinho",
+  "manager2": "Arsène Wenger",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Theo Walcott",
+    "minute": "12",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "20",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "84",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Arsenal",
+    "player": "Denílson",
+    "minute": "29",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Michael Essien",
+    "minute": "36",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ricardo Carvalho",
+    "minute": "49",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Lassana Diarra",
+    "minute": "52",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Emmanuel Eboué",
+    "minute": "88",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "John Obi Mikel",
+    "minute": "90+6",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Kolo Touré",
+    "minute": "90+6",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Emmanuel Adebayor",
+    "minute": "90+6",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Frank Lampard",
+    "minute": "90+8",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Cesc Fàbregas",
+    "minute": "90+8",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=213572",
+   "http://www1.skysports.com/football/news/11668/2406825/wenger-adebayor-is-innocent",
+   "http://www.breakingnews.ie/sport/soccer/mourinho-praises-arsenal-youngsters-299612.html"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 16,
+   "sot1": 7,
+   "sot2": 10,
+   "poss1": 50,
+   "poss2": 50,
+   "fouls1": 15,
+   "fouls2": 13,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=213572",
+   "xg_source": null,
+   "note": "ESPN (Soccernet) boxscore. Conflicts with the Wikipedia statistics table (possession 49-51, shots on target 3-6, off target 6-4, offsides 9-1, corners 2-6), whose source is the Football League match report. Provider/possession method unknown."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [],
+   "note": "Not verified. John Terry started but was knocked unconscious (Diaby challenge) and replaced at 63'; Diaby also injured in that incident (Sky Sports)."
+  },
+  "contested_decisions": [
+   {
+    "minute": "90+6",
+    "score_at_time": "2-1",
+    "type": "red card given",
+    "description": "In the stoppage-time brawl (sparked by a Touré-Mikel tussle) Mikel and Kolo Touré were sent off, then Emmanuel Adebayor after the referee consulted an assistant, who reported Adebayor punched (Wenger: 'the linesman said that Adebayor punched Lampard'). Wenger called the match report 'a complete lie' and said Adebayor was innocent; Adebayor was charged by the FA (acting aggressively, failing to leave the field) and received a three-match ban.",
+    "favoured_team": "Chelsea",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; manager comments only (Wenger via Sky Sports). The FA disciplinary process upheld action against Adebayor (three-match ban per Sky Sports); Wikipedia cites an FA statement rejecting wrongful-dismissal claims (thefa.com page not reachable).",
+    "impact": "none",
+    "impact_reasoning": "Occurred around 90+6 with Chelsea leading 2-1 and Chelsea also losing Mikel; only a few minutes remained. Could at most marginally reduce Arsenal's chance of an equaliser.",
+    "sources": [
+     "http://www1.skysports.com/football/news/11668/2406825/wenger-adebayor-is-innocent",
+     "http://www1.skysports.com/football/news/11668/2407074/cole-i-feel-a-part-of-it-now"
+    ]
+   },
+   {
+    "minute": "90+6",
+    "score_at_time": "2-1",
+    "type": "red card not given",
+    "description": "Emmanuel Eboué's violent conduct against Wayne Bridge during the brawl was not punished on the day; the FA charged Eboué with violent conduct and he received a three-match ban (retrospective action), implying the officials missed it.",
+    "favoured_team": "Arsenal",
+    "against_team": "Chelsea",
+    "assessment": "officially acknowledged error",
+    "assessed_by": "FA retrospective disciplinary charge/ban (reported by Sky Sports); no explicit statement that the referee erred",
+    "impact": "none",
+    "impact_reasoning": "Stoppage time with Chelsea leading; Chelsea won.",
+    "sources": [
+     "http://www1.skysports.com/football/news/11668/2406825/wenger-adebayor-is-innocent",
+     "http://www1.skysports.com/football/news/11668/2407074/cole-i-feel-a-part-of-it-now"
+    ]
+   },
+   {
+    "minute": "20",
+    "score_at_time": "0-1",
+    "type": "offside",
+    "description": "Drogba's equaliser from Ballack's pass: ESPN live commentary noted 'there was a hint of offside'. Goal allowed.",
+    "favoured_team": "Chelsea",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalist only (ESPN Soccernet live commentary)",
+    "impact": "likely",
+    "impact_reasoning": "Goal allowed in a match decided by one goal; if wrongly allowed it directly produced a goal.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=213572"
+    ]
+   }
+  ],
+  "contested_search_done": "ESPN Soccernet live commentary (ESPN API), Sky Sports news articles (Wenger: Adebayor is innocent; Cole; Wenger on Walcott), Irish Examiner/breakingnews.ie Mourinho reaction, RSSSF. Guardian/Telegraph/BBC/FA statement pages blocked or dead. Web search budget exhausted before a dedicated 2007 search could be run.",
+  "uncertain": [
+   "Referee Howard Webb is from Wikipedia only; no reachable non-Wikipedia source named him (ESPN lists no official; BBC/Guardian/FA pages blocked/dead). NOT verified.",
+   "Drogba offside 'hint' has only one source (ESPN live commentary); kept as genuinely debatable with single source.",
+   "Card minutes: ESPN data gives Lampard and Fàbregas yellows at 90+8 (commentary 98'), Wikipedia 90+6. Red cards: whether Mikel/Touré were straight reds is per ESPN data (R) and Wikipedia; no second yellow involved.",
+   "Statistics conflict between ESPN and Wikipedia/Football League table (see stats.note).",
+   "Wenger was later fined for comments about the linesman (Wikipedia) - not verified.",
+   "Both clubs were charged with misconduct (Sky Sports); Wikipedia says fined £100,000 each - fine amount not verified."
+  ]
+ },
+ {
+  "article": "2008 Football League Cup final",
+  "date": "2008-02-24",
+  "competition": "League Cup",
+  "season": "2007-08",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Tottenham Hotspur",
+  "score_90": "1-1",
+  "score_aet": "1-2",
+  "shootout": null,
+  "winner": "Tottenham Hotspur",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283",
+   "https://www.rsssf.org/tablese/engleagcup08.html",
+   "https://www.rsssf.org/tablese/engleagcuphist.html"
+  ],
+  "core_verified": true,
+  "referee": "Mark Halsey",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [],
+  "manager1": "Avram Grant",
+  "manager2": "Juande Ramos",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "39",
+    "type": "free kick"
+   },
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Dimitar Berbatov",
+    "minute": "70",
+    "type": "penalty"
+   },
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Jonathan Woodgate",
+    "minute": "94",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Didier Zokora",
+    "minute": "38",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "John Obi Mikel",
+    "minute": "96",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ricardo Carvalho",
+    "minute": "104",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Teemu Tainio",
+    "minute": "116",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Aaron Lennon",
+    "minute": "120+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Jermaine Jenas",
+    "minute": "120+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283"
+  ],
+  "stats": {
+   "shots1": 17,
+   "shots2": 14,
+   "sot1": 11,
+   "sot2": 7,
+   "poss1": 52,
+   "poss2": 48,
+   "fouls1": 17,
+   "fouls2": 20,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283",
+   "xg_source": null,
+   "note": "ESPN (Soccernet) boxscore, covers 120 minutes; ESPN lists Tottenham as home side, values re-ordered to team1=Chelsea. Possession method unknown."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [],
+   "note": "Not verified."
+  },
+  "contested_decisions": [
+   {
+    "minute": "68",
+    "score_at_time": "1-0",
+    "type": "penalty given",
+    "description": "Tottenham awarded a penalty after a long look by the assistant referee at an incident between Tom Huddlestone and Wayne Bridge (Wikipedia: Bridge handball). ESPN live commentary: 'contact was minimal'. Berbatov scored (70').",
+    "favoured_team": "Tottenham Hotspur",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalist only (ESPN Soccernet live commentary)",
+    "impact": "likely",
+    "impact_reasoning": "Directly produced the equaliser in a match Chelsea lost by one goal.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283"
+    ]
+   },
+   {
+    "minute": "111",
+    "score_at_time": "1-2",
+    "type": "offside",
+    "description": "Chelsea attack in the box; Mark Halsey gave offside before Jonathan Woodgate wrestled Drogba to the ground. ESPN: 'I thought Chelsea had been awarded a penalty there ... Lucky for the former Boro man.'",
+    "favoured_team": "Tottenham Hotspur",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalist only (ESPN Soccernet live commentary)",
+    "impact": "possible",
+    "impact_reasoning": "At 1-2 in extra time; a penalty could have produced an equaliser - but offside, if correct, precedes the foul.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283"
+    ]
+   }
+  ],
+  "contested_search_done": "ESPN Soccernet live commentary (ESPN API), RSSSF. BBC (news.bbc.co.uk) report and Football League pages blocked/dead; web search budget exhausted before dedicated searches for 2008 refereeing controversy (e.g. Grant/Chelsea complaints) could be run.",
+  "uncertain": [
+   "Both contested decisions rest on a single source (ESPN live commentary); no second reputable source could be reached.",
+   "Nature of the 68' penalty offence: Wikipedia says Bridge handball; ESPN commentary describes a Huddlestone-Bridge tussle with 'minimal contact'. Not resolved.",
+   "Referee Mark Halsey named only by ESPN commentary among non-Wikipedia sources.",
+   "Assistants (Andrew Garratt, Martin Yerby), fourth official (Peter Walton) and reserve AR (David Bryan) per Wikipedia only - not verified, left null.",
+   "Wikipedia lists Petr Čech yellow card at 120+4 which ESPN does not have; cards_complete=false.",
+   "ESPN commentary at 65' also criticised a goal-kick decision (Anelka shot off King) - minor, not recorded."
+  ]
  }
 ]

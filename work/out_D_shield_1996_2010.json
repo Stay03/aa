@@ -829,5 +829,1137 @@
    "The 1st-minute penalty (Keane on Murphy) is not disputed by any source read, so not listed as contested.",
    "Assistants, stats, odds not found."
   ]
+ },
+ {
+  "article": "2002 FA Community Shield",
+  "date": "2002-08-11",
+  "competition": "FA Community Shield",
+  "season": "2002-03",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Arsenal",
+  "team2": "Liverpool",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=54230",
+   "https://www.rsssf.org/tablese/engsupcuphist.html",
+   "https://www.skysports.com/football/news/11669/2242749/Wenger-Gerrard-should-have-gone"
+  ],
+  "core_verified": false,
+  "referee": "Alan Wiley",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=54230",
+   "https://www.skysports.com/football/news/11669/2242749/Wenger-Gerrard-should-have-gone"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=54230"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "Gérard Houllier",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Gilberto Silva",
+    "minute": "69",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Steven Gerrard",
+    "minute": "6",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Sylvain Wiltord",
+    "minute": "23",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Patrick Vieira",
+    "minute": "32",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Thierry Henry",
+    "minute": "44",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Gilberto Silva",
+    "minute": "75",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Danny Murphy",
+    "minute": "80",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=54230"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": null,
+  "contested_decisions": [
+   {
+    "minute": "6",
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "Gerrard booked for a challenge on Vieira; Wenger said he 'should normally have seen red for that kind of tackle', calling it 'reckless and dangerous'. ESPN commentary: 'Gerrard clatters Vieira and gets a yellow card'.",
+    "favoured_team": "Liverpool",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (Wenger via Sky Sports)",
+    "impact": "none",
+    "impact_reasoning": "The decision favoured Liverpool, who lost 1-0; Arsenal won anyway, so it cannot have changed the result.",
+    "sources": [
+     "https://www.skysports.com/football/news/11669/2242749/Wenger-Gerrard-should-have-gone",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=54230"
+    ]
+   },
+   {
+    "minute": "73",
+    "score_at_time": "1-0",
+    "type": "penalty not given",
+    "description": "Liverpool appealed for a penalty when El Hadji Diouf went down under Vieira's challenge; Wiley waved play on. Diouf insisted he did not dive and said the referee should review the video; Vieira reportedly berated Diouf. ESPN commentary: 'No penalty says the ref and Vieira is furious with the Diouf.'",
+    "favoured_team": "Arsenal",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/player comments only",
+    "impact": "likely",
+    "impact_reasoning": "At 1-0 in a one-goal match, a converted penalty would have equalised.",
+    "sources": [
+     "https://www.skysports.com/football/news/11669/2242749/Wenger-Gerrard-should-have-gone",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=54230"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports 'Wenger: Gerrard should have gone' article and ESPN live commentary; Guardian/BBC/Telegraph reports not accessible.",
+  "uncertain": [
+   "core_verified false: exact date confirmed only by ESPN (Sky article says 'Sunday'); RSSSF confirms teams/score/winner/Cardiff venue.",
+   "Diouf penalty minute (73) from ESPN commentary; Sky does not give a minute.",
+   "Card list from ESPN commentary only ('six players were booked'); Wikipedia lineup tables only had 4 of these (Wiltord, Henry, Gerrard, Murphy) and minutes Wiltord 24/Murphy 82 differ slightly.",
+   "Stats in Wikipedia (possession 56-44, shots on target 9-1) unsourced; not used.",
+   "Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+  ]
+ },
+ {
+  "article": "2003 FA Community Shield",
+  "date": "2003-08-10",
+  "competition": "FA Community Shield",
+  "season": "2003-04",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Arsenal",
+  "team2": "Manchester United",
+  "score_90": "1-1",
+  "score_aet": null,
+  "shootout": "3-4",
+  "winner": "Manchester United",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": false,
+  "referee": "Steve Bennett",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Mikaël Silvestre",
+    "minute": "15",
+    "type": "header"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Thierry Henry",
+    "minute": "20",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Phil Neville",
+    "minute": "1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Ashley Cole",
+    "minute": "1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Patrick Vieira",
+    "minute": "51",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "52",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Quinton Fortune",
+    "minute": "59",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Francis Jeffers",
+    "minute": "73",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": null,
+  "contested_decisions": [
+   {
+    "minute": "23",
+    "score_at_time": "1-1",
+    "type": "red card not given",
+    "description": "Ashley Cole, already booked, 'lashes at Solskjaer with a kick... should have walked' (ESPN live commentary); no second yellow.",
+    "favoured_team": "Arsenal",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; ESPN live commentator only (commentary written from a United-leaning perspective)",
+    "impact": "none",
+    "impact_reasoning": "Decision favoured Arsenal, who lost the shootout; United won anyway.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317"
+    ]
+   },
+   {
+    "minute": "42",
+    "score_at_time": "1-1",
+    "type": "offside",
+    "description": "Giggs flagged offside after link with Van Nistelrooy; ESPN commentary: 'Offside given - but Giggs wasn't offside.'",
+    "favoured_team": "Arsenal",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "ESPN live commentator only",
+    "impact": "none",
+    "impact_reasoning": "Went against United, who won the shootout.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317"
+    ]
+   },
+   {
+    "minute": "80",
+    "score_at_time": "1-1",
+    "type": "other",
+    "description": "Sol Campbell 'clearly kicked Djemba' without punishment; commentator called Bennett's refereeing 'risible'.",
+    "favoured_team": "Arsenal",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "ESPN live commentator only",
+    "impact": "none",
+    "impact_reasoning": "Went against United, who won the shootout.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317"
+    ]
+   }
+  ],
+  "contested_search_done": "ESPN live commentary only; BBC/Guardian/Telegraph/FA reports not accessible and web-search quota exhausted. Jeffers red (kick at Phil Neville) described as 'rightly sent off'.",
+  "uncertain": [
+   "core_verified false: ESPN data lists venue as 'Old Trafford' (data error) and attendance 59,293 vs Wikipedia 59,923; RSSSF says Cardiff Millennium Stadium. Date only from ESPN (and Wikipedia).",
+   "ESPN keyEvents contain spurious 'Start Extra Time/End Extra Time' entries; commentary says 'Ninety minutes are up - there'll be penalties' (no ET).",
+   "Shootout per ESPN commentary: United Scholes, Ferdinand scored, Van Nistelrooy saved, Solskjaer, Forlan scored; Arsenal Edu scored, Van Bronckhorst saved, Wiltord, Lauren scored, Pires saved -> 3-4.",
+   "All contested decisions rest on a single, partisan-sounding live-text source; treat with caution.",
+   "Card minutes from ESPN commentary; Wikipedia gives Cole 2, Vieira 52, Scholes 53, Jeffers 72.",
+   "Referee named only by ESPN (and Wikipedia).",
+   "Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+  ]
+ },
+ {
+  "article": "2004 FA Community Shield",
+  "date": "2004-08-08",
+  "competition": "FA Community Shield",
+  "season": "2004-05",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Arsenal",
+  "team2": "Manchester United",
+  "score_90": "3-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=152313",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": false,
+  "referee": "Mike Dean",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=152313"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=152313"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Gilberto Silva",
+    "minute": "49",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Alan Smith",
+    "minute": "55",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "José Antonio Reyes",
+    "minute": "59",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Mikaël Silvestre (own goal)",
+    "minute": "79",
+    "type": "own goal"
+   }
+  ],
+  "cards": [],
+  "cards_complete": false,
+  "cards_sources": [],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": null,
+  "contested_decisions": [],
+  "contested_search_done": "Only ESPN match data (no commentary) available; no report text read, so disputes could not be checked.",
+  "uncertain": [
+   "core_verified false: date/venue only from ESPN; RSSSF confirms teams/score/winner/Cardiff.",
+   "Goal minutes from ESPN (Gilberto 49, Reyes 59) differ from Wikipedia (50, 58).",
+   "No booking data found (Wikipedia stats table suggests 1 Arsenal and 2 United yellows but its lineup tables list none).",
+   "Absences (e.g. Vieira transfer saga) not verified.",
+   "Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+  ]
+ },
+ {
+  "article": "2005 FA Community Shield",
+  "date": "2005-08-07",
+  "competition": "FA Community Shield",
+  "season": "2005-06",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=187788",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": false,
+  "referee": "Howard Webb",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=187788"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=187788"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "José Mourinho",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "8",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "57",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Cesc Fàbregas",
+    "minute": "65",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Claude Makélélé",
+    "minute": "24",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Cesc Fàbregas",
+    "minute": "24",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Frank Lampard",
+    "minute": "82",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=187788"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": null,
+  "contested_decisions": [
+   {
+    "minute": "17",
+    "score_at_time": "0-1",
+    "type": "other",
+    "description": "Terry brought down Pires near the edge of the Chelsea area; Webb ruled Terry got something on the ball. ESPN commentary: 'Terry is lucky not to give away a free-kick on the edge of the area'.",
+    "favoured_team": "Chelsea",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "ESPN live commentator only",
+    "impact": "possible",
+    "impact_reasoning": "Only a free-kick on the edge of the box at 0-1 in a match lost by one goal; low likelihood of changing the result.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=187788"
+    ]
+   }
+  ],
+  "contested_search_done": "ESPN live commentary only (Robben advantage complaint at 63' noted but not described as wrong); other reports inaccessible.",
+  "uncertain": [
+   "core_verified false: date/venue only from ESPN; RSSSF confirms teams/score/winner/Cardiff.",
+   "Goal minutes ESPN (Drogba 57, Fabregas 65) vs Wikipedia (58, 64).",
+   "Referee named in ESPN commentary ('Referee Webb'); ESPN officials list empty. Wikipedia: Howard Webb.",
+   "Wikipedia stats table (fouls 7-17, possession 58.8-41.2, shots on target 7-3) unsourced; not used.",
+   "Contested item based on single source.",
+   "Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+  ]
+ },
+ {
+  "article": "2006 FA Community Shield",
+  "date": "2006-08-13",
+  "competition": "FA Community Shield",
+  "season": "2006-07",
+  "venue": "Millennium Stadium",
+  "city": "Cardiff",
+  "team1": "Liverpool",
+  "team2": "Chelsea",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.rte.ie/sport/soccer/2006/0813/207875-communityshield/",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=205341",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": true,
+  "referee": "Martin Atkinson",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=205341",
+   "https://www.lfchistory.net/SeasonArchive/Game/4992"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=205341"
+  ],
+  "manager1": "Rafael Benítez",
+  "manager2": "José Mourinho",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "John Arne Riise",
+    "minute": "9",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Andriy Shevchenko",
+    "minute": "43",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Peter Crouch",
+    "minute": "80",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Michael Ballack",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Frank Lampard",
+    "minute": "17",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Xabi Alonso",
+    "minute": "61",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Lassana Diarra",
+    "minute": "68",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://www.rte.ie/sport/soccer/2006/0813/207875-communityshield/"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Robbie Fowler (ruled out)"
+   ],
+   "team2": [
+    "Joe Cole (knee injury)",
+    "Petr Cech (shoulder injury)",
+    "William Gallas (not in squad)",
+    "Claude Makelele (post-World Cup rest)"
+   ],
+   "sources": [
+    "https://www.rte.ie/sport/soccer/2006/0812/207820-chelsea/",
+    "https://www.rte.ie/sport/soccer/2006/0813/207875-communityshield/"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "RTE match report and ESPN match data (no commentary); no disputes mentioned.",
+  "uncertain": [
+   "Ballack and Lampard (17') bookings from RTE; Alonso 61' and Diarra 68' bookings from Wikipedia only. Wikipedia gives Ballack 7', Lampard 15'.",
+   "Shevchenko minute 43 (RTE, ESPN, lfchistory) vs 44 (Wikipedia).",
+   "Ballack substitution: RTE says replaced by Kalou after 26 min (hip injury); lfchistory says 43'.",
+   "RTE page shows no explicit date; URL path 2006/0813 and ESPN/lfchistory give 13 Aug 2006.",
+   "Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+  ]
+ },
+ {
+  "article": "2007 FA Community Shield",
+  "date": "2007-08-05",
+  "competition": "FA Community Shield",
+  "season": "2007-08",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_90": "1-1",
+  "score_aet": null,
+  "shootout": "0-3",
+  "winner": "Manchester United",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.rsssf.org/tablese/engcup07.html",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=223506"
+  ],
+  "core_verified": true,
+  "referee": "Mark Halsey",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.rsssf.org/tablese/engcup07.html",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=223506"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.rsssf.org/tablese/engcup07.html",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=223506"
+  ],
+  "manager1": "José Mourinho",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Ryan Giggs",
+    "minute": "35",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Florent Malouda",
+    "minute": "45",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Tal Ben Haim",
+    "minute": "33",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Wayne Rooney",
+    "minute": "45",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ricardo Carvalho",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "John Obi Mikel",
+    "minute": "90+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.rsssf.org/tablese/engcup07.html",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=223506"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": null,
+  "contested_decisions": [],
+  "contested_search_done": "ESPN live commentary and RSSSF; only a 'half-hearted' Vidic penalty appeal (73') noted, not described as wrong.",
+  "uncertain": [
+   "Shootout per ESPN: Pizarro miss, Ferdinand scored, Lampard miss, Carrick scored, Wright-Phillips miss, Rooney scored -> 0-3.",
+   "Carvalho booking listed by RSSSF (and Wikipedia at 63') but not in ESPN commentary; minute left null.",
+   "Rooney booking 'last action of the half' (45+); Wikipedia 45+3.",
+   "Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+  ]
+ },
+ {
+  "article": "2008 FA Community Shield",
+  "date": "2008-08-10",
+  "competition": "FA Community Shield",
+  "season": "2008-09",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester United",
+  "team2": "Portsmouth",
+  "score_90": "0-0",
+  "score_aet": null,
+  "shootout": "3-1",
+  "winner": "Manchester United",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.rsssf.org/tablese/engcup08.html",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=248084"
+  ],
+  "core_verified": true,
+  "referee": "Peter Walton",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.rsssf.org/tablese/engcup08.html",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=248084"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.rsssf.org/tablese/engcup08.html"
+  ],
+  "manager1": "Sir Alex Ferguson",
+  "manager2": "Harry Redknapp",
+  "goals": [],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Nemanja Vidić",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Gary Neville",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Portsmouth",
+    "player": "Sylvain Distin",
+    "minute": null,
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.rsssf.org/tablese/engcup08.html"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": null,
+  "contested_decisions": [],
+  "contested_search_done": "Only RSSSF and ESPN match data (no commentary) available; Guardian/Telegraph/BBC reports inaccessible. No disputes found in sources read.",
+  "uncertain": [
+   "Card minutes (Wikipedia: Vidic 45, Neville 61, Distin 37) not confirmed.",
+   "Shootout takers not verified (Wikipedia lists Tevez, Giggs, Carrick for United; Diarra, Defoe, Mvuemba, Johnson for Portsmouth).",
+   "Wikipedia cites an FA announcement page titled 'Clattenburg_FACS' suggesting Mark Clattenburg was originally appointed; RSSSF and ESPN both give Peter Walton as referee.",
+   "Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+  ]
+ },
+ {
+  "article": "2009 FA Community Shield",
+  "date": "2009-08-09",
+  "competition": "FA Community Shield",
+  "season": "2009-10",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_90": "2-2",
+  "score_aet": null,
+  "shootout": "4-1",
+  "winner": "Chelsea",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=275374",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": false,
+  "referee": "Chris Foy",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=275374"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=275374"
+  ],
+  "manager1": "Carlo Ancelotti",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Nani",
+    "minute": "10",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ricardo Carvalho",
+    "minute": "52",
+    "type": "header"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Frank Lampard",
+    "minute": "71",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Wayne Rooney",
+    "minute": "90+2",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Dimitar Berbatov",
+    "minute": "4",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Branislav Ivanović",
+    "minute": "13",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Patrice Evra",
+    "minute": "80",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Michael Owen",
+    "minute": "86",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=275374"
+  ],
+  "stats": {
+   "shots1": 17,
+   "shots2": 11,
+   "sot1": 12,
+   "sot2": 9,
+   "poss1": 57,
+   "poss2": 43,
+   "fouls1": 13,
+   "fouls2": 11,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.espn.com/soccer/match/_/gameId/275374",
+   "xg_source": null,
+   "note": "ESPN match stats (data feed, likely Opta/PA); shots-on-target figures look high and are unverified against a second provider; possession method unknown."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Yuri Zhirkov (injury)"
+   ],
+   "team2": [
+    "Edwin van der Sar (injury)"
+   ],
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=275374"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "71",
+    "score_at_time": "1-1",
+    "type": "goal allowed",
+    "description": "Ballack shouldered/body-checked Evra in the face; play continued and Lampard scored from Drogba's pass. ESPN commentary: Lampard 'scores on contentious circumstances... United are furious that the game was not stopped. The TV replay shows that Ballack purposefully body-checked Evra... Debate will rage over that goal.'",
+    "favoured_team": "Chelsea",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; ESPN live commentator only",
+    "impact": "likely",
+    "impact_reasoning": "The goal gave Chelsea a 2-1 lead in a match that finished 2-2 and was decided on penalties; without it United would have led/won in normal time if other events unchanged.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=275374"
+    ]
+   }
+  ],
+  "contested_search_done": "ESPN live commentary; Guardian/BBC/Telegraph not accessible, web-search quota exhausted, so manager reaction (Ferguson) not verified.",
+  "uncertain": [
+   "core_verified false: date/venue only from ESPN; RSSSF confirms teams/score/shootout/winner.",
+   "Shootout per ESPN: Lampard scored, Giggs saved, Ballack scored, Carrick scored, Drogba scored, Evra saved, Kalou scored -> 4-1.",
+   "Card minutes: ESPN keyEvents 4/13/80/86; commentary text 4/12/78/84.",
+   "Contested decision from a single source.",
+   "Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+  ]
+ },
+ {
+  "article": "2010 FA Community Shield",
+  "date": "2010-08-08",
+  "competition": "FA Community Shield",
+  "season": "2010-11",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_90": "1-3",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=296926",
+   "https://www.rsssf.org/tablese/engsupcuphist.html"
+  ],
+  "core_verified": false,
+  "referee": "Andre Marriner",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=296926"
+  ],
+  "assistants": null,
+  "fourth_official": null,
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=296926"
+  ],
+  "manager1": "Carlo Ancelotti",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Antonio Valencia",
+    "minute": "41",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Javier Hernández",
+    "minute": "76",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Salomon Kalou",
+    "minute": "83",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Dimitar Berbatov",
+    "minute": "90+2",
+    "type": "open play"
+   }
+  ],
+  "cards": [],
+  "cards_complete": false,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=296926"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No reliable stats source retrieved (BBC/Guardian/Telegraph blocked to this agent)."
+  },
+  "odds": null,
+  "absences": null,
+  "contested_decisions": [
+   {
+    "minute": "51",
+    "score_at_time": "0-1",
+    "type": "offside",
+    "description": "Hernández played in Berbatov, 'who is wrongly flagged offside' (ESPN live commentary).",
+    "favoured_team": "Chelsea",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "ESPN live commentator only",
+    "impact": "none",
+    "impact_reasoning": "Decision went against the eventual 3-1 winners.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=296926"
+    ]
+   }
+  ],
+  "contested_search_done": "ESPN live commentary; other reports inaccessible.",
+  "uncertain": [
+   "core_verified false: date/venue only from ESPN; RSSSF confirms teams/score/winner.",
+   "No bookings appear in ESPN data or Wikipedia lineup tables; not confirmed that there were none.",
+   "Contested item from single source; trivial.",
+   "Searches limited: BBC, Guardian, Telegraph, Times and FA archive pages inaccessible to this agent; web-search quota was exhausted after 2001, so only already-known URLs could be fetched."
+  ]
  }
 ]

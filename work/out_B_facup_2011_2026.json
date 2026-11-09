@@ -673,5 +673,817 @@
    "GLT not confirmed by any source read.",
    "Odds/absences not found (search budget exhausted)."
   ]
+ },
+ {
+  "article": "2016 FA Cup final",
+  "date": "2016-05-21",
+  "competition": "FA Cup",
+  "season": "2015-16",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Crystal Palace",
+  "team2": "Manchester United",
+  "score_90": "1-1",
+  "score_aet": "1-2",
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/36292265",
+   "https://www.espn.co.uk/football/match/_/gameId/447968",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=447968"
+  ],
+  "core_verified": true,
+  "referee": "Mark Clattenburg",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Durham County FA",
+  "referee_sources": [
+   "https://www.bbc.co.uk/sport/football/36159237",
+   "https://www.bbc.co.uk/sport/football/36292265",
+   "https://www.irishexaminer.com/sport/soccer/arid-20437360.html"
+  ],
+  "assistants": "John Brooks; Andrew Halliday",
+  "fourth_official": "Neil Swarbrick",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": null,
+  "officials_sources": [],
+  "manager1": "Alan Pardew",
+  "manager2": "Louis van Gaal",
+  "goals": [
+   {
+    "team": "Crystal Palace",
+    "player": "Jason Puncheon",
+    "minute": "78",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Juan Mata",
+    "minute": "81",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Jesse Lingard",
+    "minute": "110",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Chris Smalling",
+    "minute": "18",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Marcos Rojo",
+    "minute": "40",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Juan Mata",
+    "minute": "45",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Crystal Palace",
+    "player": "Scott Dann",
+    "minute": "47",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Crystal Palace",
+    "player": "Damien Delaney",
+    "minute": "62",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Wayne Rooney",
+    "minute": "87",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Marouane Fellaini",
+    "minute": "101",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Chris Smalling",
+    "minute": "105",
+    "card": "2Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Crystal Palace",
+    "player": "James McArthur",
+    "minute": "108",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Jesse Lingard",
+    "minute": "111",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=447968",
+   "https://www.bbc.co.uk/sport/football/36292265"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "ESPN feed has no team stats for this match; BBC stats table not displayed. Not found."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "17",
+    "score_at_time": "0-0",
+    "type": "goal disallowed",
+    "description": "Smalling fouled Connor Wickham; Wickham got up, ran on and scored, but Clattenburg had already blown for the free kick instead of playing advantage (Smalling booked). Pardew: 'really harsh'. Clattenburg later said he 'should have played an advantage' and 'made a couple of errors'.",
+    "favoured_team": "Manchester United",
+    "against_team": "Crystal Palace",
+    "assessment": "officially acknowledged error",
+    "assessed_by": "Mark Clattenburg himself (Irish Examiner interview, 2017); also criticised by BBC (McNulty) and pundits (Keown, Shearer, Ferdinand per reports)",
+    "impact": "likely",
+    "impact_reasoning": "Advantage would have stood a goal at 0-0 in a match decided by one goal in extra time.",
+    "sources": [
+     "https://www.irishexaminer.com/sport/soccer/arid-20437360.html",
+     "https://www.bbc.co.uk/sport/football/36292265",
+     "https://sportsmole.co.uk/football/man-utd/fa-cup/news/pardew-disappointed-by-referee-display_273226.html",
+     "https://fourfourtwo.com/news/pardew-questions-clattenburg-calls"
+    ]
+   },
+   {
+    "minute": "first half (c. 20-25; minute not confirmed)",
+    "score_at_time": "0-0",
+    "type": "penalty not given",
+    "description": "Wayne Rooney's tackle on Wilfried Zaha in the area; Clattenburg waved away Palace's penalty appeal. Pardew: 'I do think the Rooney tackle on Wilf was a penalty'.",
+    "favoured_team": "Manchester United",
+    "against_team": "Crystal Palace",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0 in a one-goal match.",
+    "sources": [
+     "https://sportsmole.co.uk/football/man-utd/fa-cup/news/pardew-disappointed-by-referee-display_273226.html",
+     "https://fourfourtwo.com/news/pardew-questions-clattenburg-calls",
+     "https://www.bbc.co.uk/sport/football/36292265"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, Sports Mole and FourFourTwo (Pardew reaction), Irish Examiner Clattenburg interview, Wikipedia narrative. Smalling's red (105') described by BBC as beyond doubt. Zaha ET penalty appeal (91', Blind) mentioned only by Wikipedia - not recorded.",
+  "uncertain": [
+   "Assistants Brooks/Halliday and fourth official Swarbrick are from Wikipedia only; BBC appointment article read did not list them - unverified.",
+   "Minute of Rooney-Zaha incident not confirmed (Wikipedia places it a few minutes after the Wickham incident).",
+   "Stats, odds and absences not found."
+  ]
+ },
+ {
+  "article": "2017 FA Cup final",
+  "date": "2017-05-27",
+  "competition": "FA Cup",
+  "season": "2016-17",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/39984089",
+   "https://www.espn.co.uk/football/match/_/gameId/478732",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=478732"
+  ],
+  "core_verified": true,
+  "referee": "Anthony Taylor",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Cheshire FA",
+  "referee_sources": [
+   "http://www.thefa.com/news/2017/apr/26/anthony-taylor-to-referee-emirates-fa-cup-final-260417",
+   "https://www.bbc.co.uk/sport/football/39984089"
+  ],
+  "assistants": "Gary Beswick; Marc Perry",
+  "fourth_official": "Bobby (Robert) Madley",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": null,
+  "officials_sources": [
+   "http://www.thefa.com/news/2017/apr/26/anthony-taylor-to-referee-emirates-fa-cup-final-260417"
+  ],
+  "manager1": "Arsène Wenger",
+  "manager2": "Antonio Conte",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Alexis Sánchez",
+    "minute": "4",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Diego Costa",
+    "minute": "76",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Aaron Ramsey",
+    "minute": "79",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Arsenal",
+    "player": "Aaron Ramsey",
+    "minute": "9",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Rob Holding",
+    "minute": "53",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Victor Moses",
+    "minute": "57",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "N'Golo Kanté",
+    "minute": "59",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Victor Moses",
+    "minute": "68",
+    "card": "2Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Granit Xhaka",
+    "minute": "81",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Francis Coquelin",
+    "minute": "83",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=478732",
+   "https://www.bbc.co.uk/sport/football/39984089"
+  ],
+  "stats": {
+   "shots1": 16,
+   "shots2": 18,
+   "sot1": 6,
+   "sot2": 5,
+   "poss1": 52.4,
+   "poss2": 47.6,
+   "fouls1": 15,
+   "fouls2": 11,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=478732",
+   "xg_source": null,
+   "note": "ESPN match data."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Laurent Koscielny (suspended)",
+    "Gabriel Paulista (injury)",
+    "Shkodran Mustafi (concussion)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.bbc.co.uk/sport/football/39984089"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "4",
+    "score_at_time": "0-0",
+    "type": "goal allowed",
+    "description": "Sánchez's opener: assistant flagged Ramsey offside but Taylor overruled him (Ramsey judged not interfering); Chelsea also claimed Sánchez handled in the build-up. BBC: Chelsea 'left nursing a serious sense of injustice'; Conte called the goal 'very strange'.",
+    "favoured_team": "Arsenal",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (BBC's McNulty implied the offside call was a decision of 'conviction'; handball left open)",
+    "impact": "likely",
+    "impact_reasoning": "Directly produced a goal in a match decided by one goal.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/39984089"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report (referee section), ESPN events, Wikipedia narrative. Moses' second yellow for diving (68') described by BBC as clearly correct - not recorded as contested.",
+  "uncertain": [
+   "Sánchez goal controversy documented by one fetched reputable source (BBC report); Guardian/Telegraph not fetchable - single source.",
+   "Assistant Marc Perry: TheFA lists Birmingham FA (Wikipedia: West Midlands).",
+   "Odds not found (search budget exhausted)."
+  ]
+ },
+ {
+  "article": "2018 FA Cup final",
+  "date": "2018-05-19",
+  "competition": "FA Cup",
+  "season": "2017-18",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/44091559",
+   "http://www.thefa.com/news/2018/may/19/fa-cup-final-chelsea-manchester-united-190518",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=510233"
+  ],
+  "core_verified": true,
+  "referee": "Michael Oliver",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Durham County FA",
+  "referee_sources": [
+   "http://www.thefa.com/news/2018/apr/24/michael-oliver-fa-cup-final-240418",
+   "https://www.bbc.co.uk/sport/football/44091559"
+  ],
+  "assistants": "Ian Hussin; Lee Betts",
+  "fourth_official": "Lee Mason",
+  "var_officials": "VAR: Neil Swarbrick; AVAR: Mick McDonough",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "http://www.thefa.com/news/2018/apr/24/michael-oliver-fa-cup-final-240418",
+   "https://www.bbc.co.uk/sport/football/44091559"
+  ],
+  "manager1": "Antonio Conte",
+  "manager2": "José Mourinho",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Eden Hazard",
+    "minute": "22",
+    "type": "penalty"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Phil Jones",
+    "minute": "21",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Antonio Valencia",
+    "minute": "58",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Thibaut Courtois",
+    "minute": "90+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=510233"
+  ],
+  "stats": {
+   "shots1": 6,
+   "shots2": 18,
+   "sot1": 3,
+   "sot2": 5,
+   "poss1": 33.5,
+   "poss2": 66.5,
+   "fouls1": 11,
+   "fouls2": 13,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=510233",
+   "xg_source": null,
+   "note": "ESPN match data; Wikipedia figures agree (possession given as 33/67)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "21",
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "Phil Jones fouled Hazard for the penalty and was booked rather than sent off. BBC explainer: under the 2016 Law 12 change a DOGSO foul in the area that is an attempt to play the ball is a caution, so yellow was correct; BBC noted 'plenty of debate on social media'.",
+    "favoured_team": "Manchester United",
+    "against_team": "Chelsea",
+    "assessment": "expert consensus correct",
+    "assessed_by": "BBC Sport law explainer (journalist citing Law 12); no referee-expert column found",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0 (penalty given); a red would have left United with 10 men for ~70 minutes in a 1-0 match.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/44091559"
+    ]
+   },
+   {
+    "minute": "second half (minute not stated)",
+    "score_at_time": "1-0",
+    "type": "penalty not given",
+    "description": "Moses' cut-back struck Ashley Young's forearm in the United area; penalty plea dismissed and VAR did not intervene. Shearer and Wright (BBC MOTD) said the referee was right not to use VAR as it was not 'clear and obvious'.",
+    "favoured_team": "Manchester United",
+    "against_team": "Chelsea",
+    "assessment": "expert consensus correct",
+    "assessed_by": "Alan Shearer and Ian Wright (BBC Match of the Day pundits, not referees)",
+    "impact": "possible",
+    "impact_reasoning": "A penalty at 1-0 could have made it 2-0, but Chelsea won anyway; impact on result limited.",
+    "sources": [
+     "http://www.thefa.com/news/2018/may/19/fa-cup-final-chelsea-manchester-united-190518",
+     "https://www.bbc.co.uk/sport/av/football/44184610"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report and Jones explainer, TheFA report, BBC MOTD clip page, ESPN events. Sánchez goal ruled out for offside (VAR confirmed) - BBC calls it 'just offside', not disputed. Bakayoko penalty shout (TheFA) not described as disputed.",
+  "uncertain": [
+   "Young-handball minute not established.",
+   "First FA Cup final with VAR (TheFA appointment article; Wikipedia).",
+   "Odds: ESPN feed only has in-play/odd entries (Caesars moneyline without draw) - not used; odds null.",
+   "Absences not researched successfully."
+  ]
+ },
+ {
+  "article": "2019 FA Cup final",
+  "date": "2019-05-18",
+  "competition": "FA Cup",
+  "season": "2018-19",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester City",
+  "team2": "Watford",
+  "score_90": "6-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.thefa.com/news/2019/may/18/fa-cup-final-man-city-watford-180519",
+   "https://www.espn.co.uk/football/match/_/gameId/539179",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=539179"
+  ],
+  "core_verified": true,
+  "referee": "Kevin Friend",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Leicestershire & Rutland FA",
+  "referee_sources": [
+   "http://www.thefa.com/news/2019/apr/29/fa-cup-final-referee-kevin-friend-290419",
+   "https://www.thefa.com/news/2019/may/18/fa-cup-final-man-city-watford-180519"
+  ],
+  "assistants": "Constantine Hatzidakis; Matthew Wilkes",
+  "fourth_official": "Graham Scott",
+  "var_officials": "VAR: Andre Marriner; AVAR: Harry Lennard",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "http://www.thefa.com/news/2019/apr/29/fa-cup-final-referee-kevin-friend-290419"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "Javi Gracia",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "David Silva",
+    "minute": "26",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Gabriel Jesus",
+    "minute": "38",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Kevin De Bruyne",
+    "minute": "61",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Gabriel Jesus",
+    "minute": "68",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Raheem Sterling",
+    "minute": "81",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Raheem Sterling",
+    "minute": "87",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Watford",
+    "player": "Abdoulaye Doucouré",
+    "minute": "21",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "David Silva",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Watford",
+    "player": "Kiko Femenía",
+    "minute": "80",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=539179"
+  ],
+  "stats": {
+   "shots1": 23,
+   "shots2": 11,
+   "sot1": 11,
+   "sot2": 2,
+   "poss1": 69.7,
+   "poss2": 30.3,
+   "fouls1": 8,
+   "fouls2": 6,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=539179",
+   "xg_source": null,
+   "note": "ESPN match data. Wikipedia table gives on target 12-2, possession 66-34, fouls 8-5 (source unverified) - conflict noted."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "21",
+    "score_at_time": "0-0",
+    "type": "penalty not given",
+    "description": "Doucouré's shot struck Vincent Kompany's arm in the City area; Friend (after VAR check per Wikipedia) gave no penalty and booked Doucouré for protesting.",
+    "favoured_team": "Manchester City",
+    "against_team": "Watford",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (TheFA report records Watford's claims being dismissed)",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0 a penalty could have put Watford ahead, though City went on to win 6-0.",
+    "sources": [
+     "https://www.thefa.com/news/2019/may/18/fa-cup-final-man-city-watford-180519"
+    ]
+   }
+  ],
+  "contested_search_done": "TheFA match report, ESPN events, Wikipedia narrative; BBC/Guardian match reports not located/fetchable (search budget exhausted). Only the Kompany handball appeal found.",
+  "uncertain": [
+   "Kompany handball dispute: only one reputable source read (TheFA); VAR involvement per Wikipedia only.",
+   "Second Jesus goal / Sterling attribution: BBC video asked whether Sterling or Jesus scored City's second; ESPN/Wikipedia credit Jesus (38').",
+   "Stats conflict between ESPN and Wikipedia.",
+   "Odds/absences not found."
+  ]
+ },
+ {
+  "article": "2020 FA Cup final",
+  "date": "2020-08-01",
+  "competition": "FA Cup",
+  "season": "2019-20",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Arsenal",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.bbc.co.uk/sport/football/53546100",
+   "https://www.espn.co.uk/football/match/_/gameId/574004",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=574004"
+  ],
+  "core_verified": true,
+  "referee": "Anthony Taylor",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England); Cheshire FA",
+  "referee_sources": [
+   "http://www.thefa.com/news/2020/jul/22/heads-up-fa-cup-final-match-officials-confirmed-220720",
+   "https://www.bbc.co.uk/sport/football/53546100"
+  ],
+  "assistants": "Gary Beswick; Adam Nunn",
+  "fourth_official": "Chris Kavanagh",
+  "var_officials": "VAR: Stuart Attwell; AVAR: Steve Child",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "http://www.thefa.com/news/2020/jul/22/heads-up-fa-cup-final-match-officials-confirmed-220720"
+  ],
+  "manager1": "Mikel Arteta",
+  "manager2": "Frank Lampard",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Christian Pulisic",
+    "minute": "5",
+    "type": "open play"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Pierre-Emerick Aubameyang",
+    "minute": "28",
+    "type": "penalty"
+   },
+   {
+    "team": "Arsenal",
+    "player": "Pierre-Emerick Aubameyang",
+    "minute": "67",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Mateo Kovačić",
+    "minute": "14",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "César Azpilicueta",
+    "minute": "26",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Mason Mount",
+    "minute": "45+4",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Dani Ceballos",
+    "minute": "73",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Mateo Kovačić",
+    "minute": "73",
+    "card": "2Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Antonio Rüdiger",
+    "minute": "75",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ross Barkley",
+    "minute": "89",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=574004",
+   "https://www.bbc.co.uk/sport/football/53546100"
+  ],
+  "stats": {
+   "shots1": 11,
+   "shots2": 9,
+   "sot1": 3,
+   "sot2": 3,
+   "poss1": 40.3,
+   "poss2": 59.7,
+   "fouls1": 2,
+   "fouls2": 14,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=574004",
+   "xg_source": null,
+   "note": "ESPN match data; Arsenal fouls=2 looks implausibly low - treat with caution."
+  },
+  "odds": {
+   "team1": 3.6,
+   "draw": 3.5,
+   "team2": 2.05,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Bet365 (via ESPN data feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=574004",
+   "note": "ESPN event feed (site.api.espn.com summary 'odds' array) stores US-sportsbook moneylines; converted from American to decimal. ESPN does not timestamp them; assumed pre-match (a separate in-play 'Bet 365' entry with end-of-match fractional prices was ignored). Not a newspaper quote. Raw: Arsenal +260, draw +250, Chelsea +105."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "73",
+    "score_at_time": "2-1",
+    "type": "red card given",
+    "description": "Kovačić shown a second yellow for a challenge on Granit Xhaka. BBC (McNulty): 'very harshly sent off ... for the most innocuous of challenges'; questioned whether it was a foul at all.",
+    "favoured_team": "Arsenal",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/manager comments only (BBC's chief football writer)",
+    "impact": "possible",
+    "impact_reasoning": "Chelsea, one goal down, played the last ~20 minutes with 10 men.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/53546100"
+    ]
+   }
+  ],
+  "contested_search_done": "BBC report, ESPN events, Wikipedia narrative. Azpilicueta foul for 28' penalty not described as disputed; 44' Arsenal claim (Christensen on Pépé) ruled outside the area - not described as disputed. A fan site (Chelsea Chronicle) reportedly quoted an ex-referee saying Kovačić should not have been sent off - pointer only, not used.",
+  "uncertain": [
+   "Kovačić red: only one reputable source fetched (BBC); expert view not verified.",
+   "Behind closed doors (attendance 0).",
+   "Absences not researched successfully."
+  ]
  }
 ]

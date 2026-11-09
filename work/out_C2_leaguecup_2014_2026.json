@@ -930,6 +930,128 @@
   ]
  },
  {
+  "article": "2021 EFL Cup final",
+  "date": "2021-04-25",
+  "competition": "League Cup",
+  "season": "2020-21",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester City",
+  "team2": "Tottenham Hotspur",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/teams/440532",
+   "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/report/440532"
+  ],
+  "core_verified": false,
+  "referee": "Paul Tierney",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Lancashire FA",
+  "referee_sources": [
+   "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/teams/440532",
+   "Wikipedia citing EFL/PGMOL appointments (https://www.efl.com/news/2021/april/carabao-cup-final-match-officials-confirmed/) - not readable"
+  ],
+  "assistants": "Lee Betts; Constantine Hatzidakis",
+  "fourth_official": "Peter Bankes",
+  "var_officials": "VAR: Andre Marriner; AVAR: Adrian Holmes",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/teams/440532"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "Ryan Mason (interim)",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Aymeric Laporte",
+    "minute": "82",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Sergio Reguilón",
+    "minute": "27",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Aymeric Laporte",
+    "minute": "45",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Fernandinho",
+    "minute": "59",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/teams/440532"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": 3.63,
+   "xg2": 0.06,
+   "source": "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/report/440532",
+   "xg_source": "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/report/440532",
+   "note": "xG as quoted in the Sky Sports report (provider not named on page; Sky typically uses Opta). Shots/possession/fouls not found. Sky stats page: saves 1-3, interceptions 3-7."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [
+    "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/report/440532"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "45",
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "Laporte twice fouled Lucas Moura to stop counter-attacks; Sky's report says he was 'perhaps lucky only to be booked' for the second foul. Laporte later scored the only goal.",
+    "favoured_team": "Manchester City",
+    "against_team": "Tottenham Hotspur",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comment only (Sky Sports match report)",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0 in a 1-0 match; a red card for the eventual match-winner would have been significant, but the source only hints at it.",
+    "sources": [
+     "https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/report/440532"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports report/teams only (web-search budget exhausted; BBC/Guardian/Telegraph/talkSPORT blocked; EFL pages JS-only). No VAR controversy mentioned in Sky report.",
+  "uncertain": [
+   "core_verified=false: only Sky Sports (one outlet) could be fetched for the result; facts match Wikipedia but a second independent source was not obtained.",
+   "Laporte incident: single source only.",
+   "Absences not researched (search budget exhausted); empty lists mean 'not found', not 'none'. Kane and De Bruyne passed fit per Sky.",
+   "xG figures 3.63-0.06 from Sky report text; provider not stated.",
+   "Odds not searched.",
+   "Attendance 7,773 (Covid pilot event) per Sky.",
+   "GLT: no source found."
+  ]
+ },
+ {
   "article": "2025 EFL Cup final",
   "date": "2025-03-16",
   "competition": "League Cup",
@@ -1049,6 +1171,133 @@
    "Stats from Wikipedia citing The Athletic - not independently verified.",
    "Odds not searched (search budget exhausted).",
    "Contested-decision search incomplete (see contested_search_done).",
+   "GLT: no source found stating it was in operation."
+  ]
+ },
+ {
+  "article": "2026 EFL Cup final",
+  "date": "2026-03-22",
+  "competition": "League Cup",
+  "season": "2025-26",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Arsenal",
+  "team2": "Manchester City",
+  "score_90": "0-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/arsenal-vs-manchester-city/teams/553923",
+   "https://www.skysports.com/football/arsenal-vs-manchester-city/report/553923",
+   "https://efl.com/news/2026/march/22/carabao-cup-final-report--arsenal-0-2-man-city/"
+  ],
+  "core_verified": true,
+  "referee": "Peter Bankes",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "https://www.skysports.com/football/arsenal-vs-manchester-city/teams/553923",
+   "Wikipedia citing EFL appointments (https://www.efl.com/news/2026/march/11/referee-appointments--carabao-cup-final-2026/) - EFL page not readable"
+  ],
+  "assistants": "Neil Davies; Steve Meredith (Wikipedia/EFL only)",
+  "fourth_official": "Tom Bramall",
+  "var_officials": "VAR: John Brooks; AVAR: Dan Robathan",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/arsenal-vs-manchester-city/teams/553923"
+  ],
+  "manager1": "Mikel Arteta",
+  "manager2": "Pep Guardiola",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Nico O'Reilly",
+    "minute": "60",
+    "type": "header"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Nico O'Reilly",
+    "minute": "64",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Arsenal",
+    "player": "Piero Hincapié",
+    "minute": "16",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Abdukodir Khusanov",
+    "minute": "32",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Kepa Arrizabalaga",
+    "minute": "50",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Ben White",
+    "minute": "69",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/arsenal-vs-manchester-city/teams/553923"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 10,
+   "sot1": 4,
+   "sot2": 2,
+   "poss1": 38,
+   "poss2": 62,
+   "fouls1": 12,
+   "fouls2": 10,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.skysports.com/football/arsenal-vs-manchester-city/stats/553923",
+   "xg_source": null,
+   "note": "Sky Sports stats page as surfaced in a web-search snippet; a direct fetch of the page later returned no stats, so figures are unconfirmed. Possession method unknown."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Martin Ødegaard (unfit)",
+    "Jurriën Timber (unfit)",
+    "Eberechi Eze (came off in previous match; did not start/feature - Sky lists him among absentees)"
+   ],
+   "team2": [
+    "Rúben Dias (not in squad; reason not given)"
+   ],
+   "sources": [
+    "https://www.arsenal.com/news/team-news-havertz-and-kepa-start-wembley",
+    "https://www.skysports.com/football/arsenal-vs-manchester-city/report/553923"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "Sky Sports report and match pages only (web-search budget exhausted; BBC/Guardian/Athletic blocked). Sky report mentions no refereeing/VAR controversy; Kepa's error for the first goal is a player error, not an officiating decision. Expert-review search (Ref Watch/KMI) NOT completed.",
+  "uncertain": [
+   "Match postdates training knowledge; all facts from Sky Sports pages and Arsenal/EFL sites.",
+   "Second core source (EFL) confirms only the headline score/date/final; venue/attendance from Sky only.",
+   "Eze status: arsenal.com says Havertz replaced Eze who 'came off' midweek; Sky says Arsenal were 'without' Eze; Eze not in Sky's matchday 20 - injury not explicitly confirmed.",
+   "Stats from search snippet of Sky stats page - unconfirmed.",
+   "Odds not searched (search budget exhausted).",
+   "Assistant referees from Wikipedia/EFL only.",
    "GLT: no source found stating it was in operation."
   ]
  }

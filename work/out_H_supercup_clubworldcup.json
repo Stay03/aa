@@ -648,6 +648,137 @@
   ]
  },
  {
+  "article": "2008 UEFA Super Cup",
+  "date": "2008-08-29",
+  "competition": "UEFA Super Cup",
+  "season": "2008-09",
+  "venue": "Stade Louis II",
+  "city": "Monaco",
+  "team1": "Manchester United",
+  "team2": "Zenit Saint Petersburg",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Zenit Saint Petersburg",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=302814",
+   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
+   "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
+  ],
+  "core_verified": true,
+  "referee": "Claus Bo Larsen",
+  "referee_nationality": "Danish",
+  "referee_association": "Danish Football Union (Denmark)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
+   "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
+  ],
+  "assistants": "Henrik Sønderby (Denmark); Anders Nørrestrand (Denmark)",
+  "fourth_official": "Nicolai Vollquartz (Denmark)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
+   "https://match.uefa.com/v5/matches?matchId=302814"
+  ],
+  "manager1": "Sir Alex Ferguson",
+  "manager2": "Dick Advocaat",
+  "goals": [
+   {
+    "team": "Zenit Saint Petersburg",
+    "player": "Pavel Pogrebnyak",
+    "minute": "44",
+    "type": "header"
+   },
+   {
+    "team": "Zenit Saint Petersburg",
+    "player": "Danny",
+    "minute": "59",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Nemanja Vidić",
+    "minute": "73",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "45+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Anderson",
+    "minute": "54",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Carlos Tevez",
+    "minute": "74",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "90",
+    "card": "2Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
+   "https://match.uefa.com/v5/matches/302814/events?filter=LINEUP&offset=0&limit=100",
+   "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
+  ],
+  "stats": {
+   "shots1": 13,
+   "shots2": 9,
+   "sot1": 6,
+   "sot2": 5,
+   "poss1": 46,
+   "poss2": 54,
+   "fouls1": 16,
+   "fouls2": 12,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Cristiano Ronaldo (injury)",
+    "Owen Hargreaves (sidelined)",
+    "Michael Carrick (sidelined)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA Full Time Report, RTÉ report, searches for BBC/Guardian; Scholes second yellow for deliberately handling into the net described as rash/unnecessary by all - no dispute; no other refereeing disputes found.",
+  "uncertain": [
+   "Tevez booking minute: UEFA PDF 74', UEFA JSON feed 79'",
+   "Scholes second yellow (handball 'goal') shown at 90' (UEFA) - RTE says 'final moments'",
+   "Hargreaves/Carrick reasons not specified by RTÉ",
+   "Attendance 18,064 (PDF) vs 18,063 (feed)",
+   "Odds: none found"
+  ]
+ },
+ {
   "article": "2008 FIFA Club World Cup final",
   "date": "2008-12-21",
   "competition": "FIFA Club World Cup",
@@ -781,244 +912,6 @@
   ]
  },
  {
-  "article": "2008 UEFA Super Cup",
-  "date": "2008-08-29",
-  "competition": "UEFA Super Cup",
-  "season": "2008-09",
-  "venue": "Stade Louis II",
-  "city": "Monaco",
-  "team1": "Manchester United",
-  "team2": "Zenit Saint Petersburg",
-  "score_90": "1-2",
-  "score_aet": null,
-  "shootout": null,
-  "winner": "Zenit Saint Petersburg",
-  "decided_by": "normal time",
-  "core_sources": [
-   "https://match.uefa.com/v5/matches?matchId=302814",
-   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
-   "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
-  ],
-  "core_verified": true,
-  "referee": "Claus Bo Larsen",
-  "referee_nationality": "Danish",
-  "referee_association": "Danish Football Union (Denmark)",
-  "referee_sources": [
-   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
-   "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
-  ],
-  "assistants": "Henrik Sønderby (Denmark); Anders Nørrestrand (Denmark)",
-  "fourth_official": "Nicolai Vollquartz (Denmark)",
-  "var_officials": null,
-  "var_in_use": false,
-  "glt_in_use": false,
-  "officials_sources": [
-   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
-   "https://match.uefa.com/v5/matches?matchId=302814"
-  ],
-  "manager1": "Sir Alex Ferguson",
-  "manager2": "Dick Advocaat",
-  "goals": [
-   {
-    "team": "Zenit Saint Petersburg",
-    "player": "Pavel Pogrebnyak",
-    "minute": "44",
-    "type": "header"
-   },
-   {
-    "team": "Zenit Saint Petersburg",
-    "player": "Danny",
-    "minute": "59",
-    "type": "open play"
-   },
-   {
-    "team": "Manchester United",
-    "player": "Nemanja Vidić",
-    "minute": "73",
-    "type": "open play"
-   }
-  ],
-  "cards": [
-   {
-    "team": "Manchester United",
-    "player": "Paul Scholes",
-    "minute": "45+1",
-    "card": "Y",
-    "in_shootout_or_after_whistle": false
-   },
-   {
-    "team": "Manchester United",
-    "player": "Anderson",
-    "minute": "54",
-    "card": "Y",
-    "in_shootout_or_after_whistle": false
-   },
-   {
-    "team": "Manchester United",
-    "player": "Carlos Tevez",
-    "minute": "74",
-    "card": "Y",
-    "in_shootout_or_after_whistle": false
-   },
-   {
-    "team": "Manchester United",
-    "player": "Paul Scholes",
-    "minute": "90",
-    "card": "2Y",
-    "in_shootout_or_after_whistle": false
-   }
-  ],
-  "cards_complete": true,
-  "cards_sources": [
-   "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
-   "https://match.uefa.com/v5/matches/302814/events?filter=LINEUP&offset=0&limit=100",
-   "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
-  ],
-  "stats": {
-   "shots1": 13,
-   "shots2": 9,
-   "sot1": 6,
-   "sot2": 5,
-   "poss1": 46,
-   "poss2": 54,
-   "fouls1": 16,
-   "fouls2": 12,
-   "xg1": null,
-   "xg2": null,
-   "source": "https://www.uefa.com/newsfiles/SuperCup/2008/302814_FR.pdf",
-   "xg_source": null,
-   "note": "UEFA Full Time Report"
-  },
-  "odds": null,
-  "absences": {
-   "team1": [
-    "Cristiano Ronaldo (injury)",
-    "Owen Hargreaves (sidelined)",
-    "Michael Carrick (sidelined)"
-   ],
-   "team2": [],
-   "sources": [
-    "https://www.rte.ie/sport/soccer/2008/0829/237320-manunited_zenit/"
-   ]
-  },
-  "contested_decisions": [],
-  "contested_search_done": "UEFA Full Time Report, RTÉ report, searches for BBC/Guardian; Scholes second yellow for deliberately handling into the net described as rash/unnecessary by all - no dispute; no other refereeing disputes found.",
-  "uncertain": [
-   "Tevez booking minute: UEFA PDF 74', UEFA JSON feed 79'",
-   "Scholes second yellow (handball 'goal') shown at 90' (UEFA) - RTE says 'final moments'",
-   "Hargreaves/Carrick reasons not specified by RTÉ",
-   "Attendance 18,064 (PDF) vs 18,063 (feed)",
-   "Odds: none found"
-  ]
- },
- {
-  "article": "2012 FIFA Club World Cup final",
-  "date": "2012-12-16",
-  "competition": "FIFA Club World Cup",
-  "season": "2012-13",
-  "venue": "International Stadium Yokohama",
-  "city": "Yokohama",
-  "team1": "Corinthians",
-  "team2": "Chelsea",
-  "score_90": "1-0",
-  "score_aet": null,
-  "shootout": null,
-  "winner": "Corinthians",
-  "decided_by": "normal time",
-  "core_sources": [
-   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en",
-   "https://www.si.com/soccer/2012/12/16/club-world-cup-final",
-   "https://www.sportsmole.co.uk/football/chelsea/match-analysis/match-analysis-chelsea-0-1-corinthians_59724.html"
-  ],
-  "core_verified": true,
-  "referee": "Cüneyt Çakır",
-  "referee_nationality": "Turkish",
-  "referee_association": "Turkish Football Federation (Turkey)",
-  "referee_sources": [
-   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en",
-   "https://www.sportsmole.co.uk/football/chelsea/match-analysis/match-analysis-chelsea-0-1-corinthians_59724.html"
-  ],
-  "assistants": "Bahattin Duran (Turkey); Tarık Ongun (Turkey)",
-  "fourth_official": "Alireza Faghani (Iran) [then registered with Iran's federation; moved to Football Australia only in 2024]",
-  "var_officials": null,
-  "var_in_use": false,
-  "glt_in_use": true,
-  "officials_sources": [
-   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en"
-  ],
-  "manager1": "Tite",
-  "manager2": "Rafael Benítez",
-  "goals": [
-   {
-    "team": "Corinthians",
-    "player": "Paolo Guerrero",
-    "minute": "69",
-    "type": "header"
-   }
-  ],
-  "cards": [
-   {
-    "team": "Corinthians",
-    "player": "Jorge Henrique",
-    "minute": "55",
-    "card": "Y",
-    "in_shootout_or_after_whistle": false
-   },
-   {
-    "team": "Chelsea",
-    "player": "David Luiz",
-    "minute": "71",
-    "card": "Y",
-    "in_shootout_or_after_whistle": false
-   },
-   {
-    "team": "Chelsea",
-    "player": "Gary Cahill",
-    "minute": "89",
-    "card": "R",
-    "in_shootout_or_after_whistle": false
-   }
-  ],
-  "cards_complete": true,
-  "cards_sources": [
-   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en",
-   "https://api.fifa.com/api/v3/timelines/107/258492/259327/300219235?language=en",
-   "https://www.si.com/soccer/2012/12/16/club-world-cup-final"
-  ],
-  "stats": {
-   "shots1": 10,
-   "shots2": 14,
-   "sot1": 4,
-   "sot2": 9,
-   "poss1": 50,
-   "poss2": 50,
-   "fouls1": 14,
-   "fouls2": 13,
-   "xg1": null,
-   "xg2": null,
-   "source": "https://www.sportsmole.co.uk/football/chelsea/match-analysis/match-analysis-chelsea-0-1-corinthians_59724.html",
-   "xg_source": null,
-   "note": "Sports Mole match analysis (provider not stated)"
-  },
-  "odds": null,
-  "absences": {
-   "team1": [],
-   "team2": [],
-   "sources": []
-  },
-  "contested_decisions": [],
-  "contested_search_done": "FIFA match data, SI.com (AP) report, Sports Mole match analysis, searches on Torres offside and Cahill red. Torres 90+2 header ruled offside - reports (Sports Mole, Scotsman via search snippets) say correctly; Cahill straight red for kicking Emerson - Benítez said he 'lost his temper', not disputed. Sports Mole called Çakır's display lenient/strange but cited no specific wrong decision.",
-  "uncertain": [
-   "Guerrero goal minute: FIFA 68', SI/Wikipedia 69'; recorded 69' (FIFA timeline minute field 68' may be 67:xx)",
-   "Cahill red minute: FIFA 89', SI/Wikipedia 90'",
-   "GLT: SI.com/The Upcoming state goal-line technology was available at the 2012 Club World Cup (first competitive use), so true",
-   "Fourth official Alireza Faghani was an Iranian referee at that time (FIFA lists IRN)",
-   "Second source naming Çakır beyond FIFA is Sports Mole (referee critique); Turkish nationality well established",
-   "Lampard returned from calf injury to start; no confirmed Chelsea absentee list found",
-   "Odds: none found"
-  ]
- },
- {
   "article": "2012 UEFA Super Cup",
   "date": "2012-08-31",
   "competition": "UEFA Super Cup",
@@ -1130,6 +1023,113 @@
    "Falcao's third: UEFA 45' (45:13), AP 'first-half stoppage time'",
    "Additional assistant referees Matej Jug and Slavko Vinčić (Slovenia) also officiated (UEFA)",
    "Referee named only in UEFA sources (feed + PDF); not independently named by AP",
+   "Odds: none found"
+  ]
+ },
+ {
+  "article": "2012 FIFA Club World Cup final",
+  "date": "2012-12-16",
+  "competition": "FIFA Club World Cup",
+  "season": "2012-13",
+  "venue": "International Stadium Yokohama",
+  "city": "Yokohama",
+  "team1": "Corinthians",
+  "team2": "Chelsea",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Corinthians",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en",
+   "https://www.si.com/soccer/2012/12/16/club-world-cup-final",
+   "https://www.sportsmole.co.uk/football/chelsea/match-analysis/match-analysis-chelsea-0-1-corinthians_59724.html"
+  ],
+  "core_verified": true,
+  "referee": "Cüneyt Çakır",
+  "referee_nationality": "Turkish",
+  "referee_association": "Turkish Football Federation (Turkey)",
+  "referee_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en",
+   "https://www.sportsmole.co.uk/football/chelsea/match-analysis/match-analysis-chelsea-0-1-corinthians_59724.html"
+  ],
+  "assistants": "Bahattin Duran (Turkey); Tarık Ongun (Turkey)",
+  "fourth_official": "Alireza Faghani (Iran) [then registered with Iran's federation; moved to Football Australia only in 2024]",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": true,
+  "officials_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en"
+  ],
+  "manager1": "Tite",
+  "manager2": "Rafael Benítez",
+  "goals": [
+   {
+    "team": "Corinthians",
+    "player": "Paolo Guerrero",
+    "minute": "69",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Corinthians",
+    "player": "Jorge Henrique",
+    "minute": "55",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "David Luiz",
+    "minute": "71",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Gary Cahill",
+    "minute": "89",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/258492/259327/300219235?language=en",
+   "https://api.fifa.com/api/v3/timelines/107/258492/259327/300219235?language=en",
+   "https://www.si.com/soccer/2012/12/16/club-world-cup-final"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 14,
+   "sot1": 4,
+   "sot2": 9,
+   "poss1": 50,
+   "poss2": 50,
+   "fouls1": 14,
+   "fouls2": 13,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.sportsmole.co.uk/football/chelsea/match-analysis/match-analysis-chelsea-0-1-corinthians_59724.html",
+   "xg_source": null,
+   "note": "Sports Mole match analysis (provider not stated)"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "FIFA match data, SI.com (AP) report, Sports Mole match analysis, searches on Torres offside and Cahill red. Torres 90+2 header ruled offside - reports (Sports Mole, Scotsman via search snippets) say correctly; Cahill straight red for kicking Emerson - Benítez said he 'lost his temper', not disputed. Sports Mole called Çakır's display lenient/strange but cited no specific wrong decision.",
+  "uncertain": [
+   "Guerrero goal minute: FIFA 68', SI/Wikipedia 69'; recorded 69' (FIFA timeline minute field 68' may be 67:xx)",
+   "Cahill red minute: FIFA 89', SI/Wikipedia 90'",
+   "GLT: SI.com/The Upcoming state goal-line technology was available at the 2012 Club World Cup (first competitive use), so true",
+   "Fourth official Alireza Faghani was an Iranian referee at that time (FIFA lists IRN)",
+   "Second source naming Çakır beyond FIFA is Sports Mole (referee critique); Turkish nationality well established",
+   "Lampard returned from calf injury to start; no confirmed Chelsea absentee list found",
    "Odds: none found"
   ]
  },
@@ -1326,6 +1326,1077 @@
    "Martínez equaliser 120+1 (UEFA 120:51 with injuryMinute 1)",
    "Assessment of Ramires red is journalist-only (Sports Mole); no ex-referee view found",
    "Odds: none found"
+  ]
+ },
+ {
+  "article": "2017 UEFA Super Cup",
+  "date": "2017-08-08",
+  "competition": "UEFA Super Cup",
+  "season": "2017-18",
+  "venue": "Philip II Arena (National Arena Toše Proeski)",
+  "city": "Skopje",
+  "team1": "Real Madrid",
+  "team2": "Manchester United",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Real Madrid",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2022539",
+   "https://www.uefa.com/newsfiles/SuperCup/2017/2022539_FR.pdf",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=479569 (ESPN match data + article)"
+  ],
+  "core_verified": true,
+  "referee": "Gianluca Rocchi",
+  "referee_nationality": "Italian",
+  "referee_association": "Italian Football Federation (Italy)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/SuperCup/2017/2022539_FR.pdf",
+   "https://match.uefa.com/v5/matches?matchId=2022539",
+   "https://www.uefa.com/uefasupercup/news/0250-0c5116e81b24-dad91879f9a9-1000--rocchi-to-referee-2017-uefa-super-cup/ (cited, not fetched)"
+  ],
+  "assistants": "Elenito Di Liberatore (Italy); Mauro Tonolini (Italy)",
+  "fourth_official": "Clément Turpin (France)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2022539",
+   "https://www.uefa.com/newsfiles/SuperCup/2017/2022539_FR.pdf"
+  ],
+  "manager1": "Zinedine Zidane",
+  "manager2": "José Mourinho",
+  "goals": [
+   {
+    "team": "Real Madrid",
+    "player": "Casemiro",
+    "minute": "24",
+    "type": "open play"
+   },
+   {
+    "team": "Real Madrid",
+    "player": "Isco",
+    "minute": "52",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Romelu Lukaku",
+    "minute": "62",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Jesse Lingard",
+    "minute": "42",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Real Madrid",
+    "player": "Dani Carvajal",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Real Madrid",
+    "player": "Sergio Ramos",
+    "minute": "86",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Marcus Rashford",
+    "minute": "90+4",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://match.uefa.com/v5/matches/2022539/events?filter=LINEUP&offset=0&limit=100",
+   "https://matchstats.uefa.com/v2/team-statistics/2022539",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=479569 (ESPN match data + article)"
+  ],
+  "stats": {
+   "shots1": 16,
+   "shots2": 13,
+   "sot1": 6,
+   "sot2": 6,
+   "poss1": 59,
+   "poss2": 41,
+   "fouls1": 10,
+   "fouls2": 17,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://matchstats.uefa.com/v2/team-statistics/2022539",
+   "xg_source": null,
+   "note": "UEFA team statistics (shots = on+off+blocked). ESPN/Opta feed: possession 63.5/36.5, shots 16/13, on target 6/6"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [
+    "unnamed 'defensive absentees' (PA report via ESPN) - names not verified"
+   ],
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=479569 (ESPN match data + article)"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "24",
+    "score_at_time": "0-0",
+    "type": "goal allowed",
+    "description": "Casemiro's opener from Carvajal's pass stood 'as offside appeals were ignored'; 'No offside was called despite a glance to the linesman'.",
+    "favoured_team": "Real Madrid",
+    "against_team": "Manchester United",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalist only (PA Sport report on ESPN); no expert/replay verdict found",
+    "impact": "likely",
+    "impact_reasoning": "Opening goal in a match won by one goal; if offside it directly produced a goal.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=479569 (ESPN match data + article)"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA data/PDF and PA report (ESPN). Web search budget was exhausted before a second source (e.g. Guardian/BBC/Telegraph) on the Casemiro offside could be checked.",
+  "uncertain": [
+   "Casemiro offside dispute has only ONE source (PA via ESPN) - needs a second reputable source",
+   "VAR not used (UEFA feed lists additional assistant referees Davide Massa and Massimiliano Irrati, no VAR); GLT not verified -> null",
+   "Reserve assistant Riccardo Di Fiore (Wikipedia only)",
+   "Odds: ESPN feed has none pre-match; none found"
+  ]
+ },
+ {
+  "article": "2019 UEFA Super Cup",
+  "date": "2019-08-14",
+  "competition": "UEFA Super Cup",
+  "season": "2019-20",
+  "venue": "Vodafone Park (Beşiktaş Stadium)",
+  "city": "Istanbul",
+  "team1": "Liverpool",
+  "team2": "Chelsea",
+  "score_90": "1-1",
+  "score_aet": "2-2",
+  "shootout": "5-4",
+  "winner": "Liverpool",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2025638",
+   "https://www.uefa.com/newsfiles/SuperCup/2019/2025638_FR.pdf",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=540609 (ESPN match data + article)"
+  ],
+  "core_verified": true,
+  "referee": "Stéphanie Frappart",
+  "referee_nationality": "French",
+  "referee_association": "French Football Federation (France)",
+  "referee_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2025638",
+   "https://www.uefa.com/newsfiles/SuperCup/2019/2025638_FR.pdf"
+  ],
+  "assistants": "Manuela Nicolosi (France); Michelle O'Neill (Republic of Ireland)",
+  "fourth_official": "Cüneyt Çakır (Turkey)",
+  "var_officials": "VAR: Clément Turpin (France); AVAR: François Letexier (France), Massimiliano Irrati (Italy), Mark Borsch (Germany)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2025638",
+   "https://www.uefa.com/newsfiles/SuperCup/2019/2025638_FR.pdf"
+  ],
+  "manager1": "Jürgen Klopp",
+  "manager2": "Frank Lampard",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Olivier Giroud",
+    "minute": "36",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Sadio Mané",
+    "minute": "48",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Sadio Mané",
+    "minute": "95",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Jorginho",
+    "minute": "101",
+    "type": "penalty"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "César Azpilicueta",
+    "minute": "79",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Jordan Henderson",
+    "minute": "85",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Trent Alexander-Arnold",
+    "minute": "107",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://match.uefa.com/v5/matches/2025638/events?filter=LINEUP&offset=0&limit=100",
+   "https://matchstats.uefa.com/v2/team-statistics/2025638",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=540609 (ESPN match data + article)"
+  ],
+  "stats": {
+   "shots1": 20,
+   "shots2": 21,
+   "sot1": 11,
+   "sot2": 6,
+   "poss1": 52,
+   "poss2": 48,
+   "fouls1": 10,
+   "fouls2": 12,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://matchstats.uefa.com/v2/team-statistics/2025638",
+   "xg_source": null,
+   "note": "UEFA team statistics (shots = on+off+blocked: Liv 11+4+5, Che 6+9+6). ESPN/Opta: shots 21/20, possession 52.5/47.5. Wikipedia 20/20"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Alisson Becker (calf injury)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=540609 (ESPN match data + article)"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA data/PDF, ESPN report. Pulisic first-half goal ruled out for offside (reported without dispute). Jorginho's 101' penalty for Adrián's challenge on Abraham: Adrián said 'I touched him... but he was looking for that' - a player's remark, no reputable outlet found describing it as disputed (search budget exhausted before Guardian/BBC could be checked).",
+  "uncertain": [
+   "Penalty (Adrián on Abraham) may have been debated in other outlets; not verified",
+   "GLT not verified for this match -> null",
+   "Odds: ESPN-stored Bet365 figures (6/1, 1/4, 8/1) are clearly in-play/closing, not pre-match - not recorded"
+  ]
+ },
+ {
+  "article": "2019 FIFA Club World Cup final",
+  "date": "2019-12-21",
+  "competition": "FIFA Club World Cup",
+  "season": "2019-20",
+  "venue": "Khalifa International Stadium",
+  "city": "Al Rayyan (Doha)",
+  "team1": "Liverpool",
+  "team2": "Flamengo",
+  "score_90": "0-0",
+  "score_aet": "1-0",
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/283878/283884/400089362?language=en",
+   "https://digitalhub.fifa.com/m/26c3eacca0b2750f/original/ynmqgvq64zq9tsdp1taq-pdf.pdf",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=557725 (ESPN match data + article)"
+  ],
+  "core_verified": true,
+  "referee": "Abdulrahman Al-Jassim",
+  "referee_nationality": "Qatari",
+  "referee_association": "Qatar Football Association (Qatar)",
+  "referee_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/283878/283884/400089362?language=en",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=557725 (ESPN match data + article)"
+  ],
+  "assistants": "Taleb Al-Marri (Qatar); Saoud Al-Maqaleh (Qatar)",
+  "fourth_official": "Mustapha Ghorbal (Algeria)",
+  "var_officials": "VAR: Juan Martínez Munuera (Spain); AVAR (Wikipedia only): Esteban Ostojich (Uruguay), Kyle Atkins (United States), Bakary Gassama (Gambia)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/283878/283884/400089362?language=en"
+  ],
+  "manager1": "Jürgen Klopp",
+  "manager2": "Jorge Jesus",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "Roberto Firmino",
+    "minute": "99",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Sadio Mané",
+    "minute": "45+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Mohamed Salah",
+    "minute": "81",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Flamengo",
+    "player": "Vitinho",
+    "minute": "90",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Roberto Firmino",
+    "minute": "100",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "James Milner",
+    "minute": "105",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Flamengo",
+    "player": "Diego",
+    "minute": "112",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://digitalhub.fifa.com/m/26c3eacca0b2750f/original/ynmqgvq64zq9tsdp1taq-pdf.pdf",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=557725 (ESPN match data + article)"
+  ],
+  "stats": {
+   "shots1": 18,
+   "shots2": 14,
+   "sot1": 6,
+   "sot2": 2,
+   "poss1": 47.3,
+   "poss2": 52.7,
+   "fouls1": 22,
+   "fouls2": 16,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://digitalhub.fifa.com/m/26c3eacca0b2750f/original/ynmqgvq64zq9tsdp1taq-pdf.pdf",
+   "xg_source": null,
+   "note": "FIFA match statistics PDF for shots/on goal/fouls (120 min); possession from ESPN/Opta feed. ESPN gives Flamengo 15 shots/3 on target"
+  },
+  "odds": {
+   "team1": 1.4,
+   "draw": 5.25,
+   "team2": 6.5,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Bet365 (as stored in ESPN match feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=557725 (ESPN match data + article)",
+   "note": "American moneyline LIV -250 / draw +425 / FLA +550 converted to decimal; timing of the line not stated (assumed pre-match)"
+  },
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "90+2",
+    "score_at_time": "0-0",
+    "type": "penalty given",
+    "description": "Referee Al-Jassim awarded Liverpool a penalty for Rafinha's sliding challenge on Mané, then after an on-field VAR review reversed it, ruling the contact was outside the area; play restarted without a free kick (Wikipedia, citing Globo Esporte, notes the foul was waved off entirely).",
+    "favoured_team": "Flamengo",
+    "against_team": "Liverpool",
+    "assessment": "officially acknowledged error",
+    "assessed_by": "VAR review overturned the on-field penalty (on-field decision acknowledged wrong); whether a free kick should have followed is not assessed by any source fetched",
+    "impact": "possible",
+    "impact_reasoning": "0-0 in stoppage time: a penalty would likely have won it in normal time; a free kick on the edge of the box was also a chance. Liverpool won in extra time anyway.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=557725 (ESPN match data + article)",
+     "https://globoesporte.globo.com/futebol/mundial-de-clubes/jogo/21-12-2019/Liverpool-flamengo.ghtml (cited by Wikipedia, not fetched)"
+    ]
+   }
+  ],
+  "contested_search_done": "FIFA match data/PDF, Reuters report (ESPN). Salah 76' goal 'rightly ruled out for offside' (not disputed). Mané penalty reversed by VAR recorded. Search budget exhausted before Guardian/BBC checks.",
+  "uncertain": [
+   "Mané penalty reversal confirmed by Reuters only among fetched sources; 'no free kick' detail from Wikipedia/Globo (not fetched)",
+   "ESPN timestamps the VAR incident at 90+2; Wikipedia 'moments into stoppage time'",
+   "GLT: FIFA regulations say GLT 'may be used' - not confirmed for match -> null",
+   "AVARs from Wikipedia only (FIFA API lists only VAR)",
+   "Odds timing not verified as pre-match"
+  ]
+ },
+ {
+  "article": "2021 UEFA Super Cup",
+  "date": "2021-08-11",
+  "competition": "UEFA Super Cup",
+  "season": "2021-22",
+  "venue": "Windsor Park",
+  "city": "Belfast",
+  "team1": "Chelsea",
+  "team2": "Villarreal",
+  "score_90": "1-1",
+  "score_aet": "1-1",
+  "shootout": "6-5",
+  "winner": "Chelsea",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2030316",
+   "https://www.uefa.com/newsfiles/SuperCup/2021/2030316_FR.pdf",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=602914 (ESPN match data + article)"
+  ],
+  "core_verified": true,
+  "referee": "Sergei Karasev",
+  "referee_nationality": "Russian",
+  "referee_association": "Russian Football Union (Russia)",
+  "referee_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2030316",
+   "https://www.uefa.com/newsfiles/SuperCup/2021/2030316_FR.pdf",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=602914 (ESPN match data + article)"
+  ],
+  "assistants": "Igor Demeshko (Russia); Maksim Gavrilin (Russia)",
+  "fourth_official": "Aleksei Kulbakov (Belarus)",
+  "var_officials": "VAR: Marco Fritz (Germany); AVAR: Paweł Gil (Poland), Massimiliano Irrati (Italy)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2030316",
+   "https://www.uefa.com/newsfiles/SuperCup/2021/2030316_FR.pdf"
+  ],
+  "manager1": "Thomas Tuchel",
+  "manager2": "Unai Emery",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Hakim Ziyech",
+    "minute": "27",
+    "type": "open play"
+   },
+   {
+    "team": "Villarreal",
+    "player": "Gerard Moreno",
+    "minute": "73",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Antonio Rüdiger",
+    "minute": "45",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Villarreal",
+    "player": "Yéremy Pino",
+    "minute": "61",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Villarreal",
+    "player": "Dani Raba",
+    "minute": "119",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Kepa Arrizabalaga",
+    "minute": "shootout",
+    "card": "Y",
+    "in_shootout_or_after_whistle": true
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://match.uefa.com/v5/matches/2030316/events?filter=LINEUP&offset=0&limit=100",
+   "https://matchstats.uefa.com/v2/team-statistics/2030316",
+   "https://www.uefa.com/newsfiles/SuperCup/2021/2030316_FR.pdf",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=602914 (ESPN match data + article)"
+  ],
+  "stats": {
+   "shots1": 21,
+   "shots2": 12,
+   "sot1": 7,
+   "sot2": 4,
+   "poss1": 57,
+   "poss2": 43,
+   "fouls1": 10,
+   "fouls2": 15,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://matchstats.uefa.com/v2/team-statistics/2030316",
+   "xg_source": null,
+   "note": "UEFA team statistics (shots = on+off+blocked). ESPN/Opta: possession 61.5/38.5, shots 20/12"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA data/PDF, ESPN report. ESPN calls Rüdiger's booked tackle on Pino 'seemingly innocent' (Tuchel also booked, 45+1) - a yellow card, no wider dispute found; not recorded as a contested decision.",
+  "uncertain": [
+   "Rüdiger booking minute: UEFA 45:00 vs ESPN/Wikipedia 44'",
+   "Kepa yellow shown during the penalty shootout (UEFA FR lists it under 'Penalties'); Wikipedia shows '120+'",
+   "Tuchel (coach) booked 45+1 per UEFA feed - not listed as player card",
+   "Ziyech goal: UEFA 27' (27:30), ESPN text says 26th minute; Moreno 73' (ESPN text 75th)",
+   "GLT not verified -> null",
+   "Odds: ESPN-stored figures are post/in-play, not recorded",
+   "Referee Karasev is Russian; association Russian Football Union (match predated 2022 suspension)"
+  ]
+ },
+ {
+  "article": "2021 FIFA Club World Cup final",
+  "date": "2022-02-12",
+  "competition": "FIFA Club World Cup",
+  "season": "2021-22",
+  "venue": "Mohammed bin Zayed Stadium",
+  "city": "Abu Dhabi",
+  "team1": "Chelsea",
+  "team2": "Palmeiras",
+  "score_90": "1-1",
+  "score_aet": "2-1",
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/285345/285351/400213182?language=en",
+   "https://api.fifa.com/api/v3/timelines/107/285345/285351/400213182?language=en",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=622401 (ESPN match data + article)"
+  ],
+  "core_verified": true,
+  "referee": "Chris Beath",
+  "referee_nationality": "Australian",
+  "referee_association": "Football Australia (Australia)",
+  "referee_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/285345/285351/400213182?language=en",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=622401 (ESPN match data + article)"
+  ],
+  "assistants": "Anton Shchetinin (Australia); Ashley Beecham (Australia)",
+  "fourth_official": "Mustapha Ghorbal (Algeria)",
+  "var_officials": "VAR: Massimiliano Irrati (Italy); AVAR: Nicolás Gallo (Colombia) [Wikipedia also lists Mokrane Gourari (Algeria), Ammar Al-Jeneibi (UAE)]",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/285345/285351/400213182?language=en"
+  ],
+  "manager1": "Thomas Tuchel",
+  "manager2": "Abel Ferreira",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Romelu Lukaku",
+    "minute": "54",
+    "type": "header"
+   },
+   {
+    "team": "Palmeiras",
+    "player": "Raphael Veiga",
+    "minute": "64",
+    "type": "penalty"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Kai Havertz",
+    "minute": "117",
+    "type": "penalty"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Palmeiras",
+    "player": "Wesley",
+    "minute": "105",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Palmeiras",
+    "player": "Luan",
+    "minute": "115",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Palmeiras",
+    "player": "Eduard Atuesta",
+    "minute": "116",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Kai Havertz",
+    "minute": "118",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Palmeiras",
+    "player": "Luan",
+    "minute": "120+6",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/285345/285351/400213182?language=en",
+   "https://api.fifa.com/api/v3/timelines/107/285345/285351/400213182?language=en",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=622401 (ESPN match data + article)"
+  ],
+  "stats": {
+   "shots1": 22,
+   "shots2": 11,
+   "sot1": 3,
+   "sot2": 3,
+   "poss1": 70.5,
+   "poss2": 29.5,
+   "fouls1": 22,
+   "fouls2": 19,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=622401 (ESPN match data + article)",
+   "xg_source": null,
+   "note": "ESPN/Opta feed (120 min)"
+  },
+  "odds": {
+   "team1": 1.5,
+   "draw": 4.33,
+   "team2": 6.0,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Bet365 (as stored in ESPN match feed)",
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=622401 (ESPN match data + article)",
+   "note": "American moneyline CHE -200 / draw +333 / PAL +500 converted to decimal; timing not stated (assumed pre-match)"
+  },
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "FIFA match data/timeline, Reuters report (ESPN). Both penalties were VAR handball decisions (Thiago Silva 62-64'; Luan 114-117') and Luan's 120+6 red was VAR-reviewed; fetched sources report them neutrally. Search budget exhausted before Guardian/BBC/Sky checks, so possible debate about the handballs is unverified.",
+  "uncertain": [
+   "Luan dismissal: FIFA timeline says VAR review 'Red card given... worthy of a red card' (straight red, after earlier yellow at 115'); Wikipedia lists it as second yellow -> recorded R",
+   "Palmeiras coach Abel Ferreira booked 120+1 (FIFA timeline) - staff card, not listed",
+   "Wesley booking 105' vs Wikipedia 105",
+   "GLT not verified -> null",
+   "Odds timing not verified as pre-match",
+   "Handball penalties may have been debated in UK media - not checked (search budget exhausted)"
+  ]
+ },
+ {
+  "article": "2023 UEFA Super Cup",
+  "date": "2023-08-16",
+  "competition": "UEFA Super Cup",
+  "season": "2023-24",
+  "venue": "Karaiskakis Stadium",
+  "city": "Piraeus",
+  "team1": "Manchester City",
+  "team2": "Sevilla",
+  "score_90": "1-1",
+  "score_aet": null,
+  "shootout": "5-4",
+  "winner": "Manchester City",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2037792",
+   "https://www.uefa.com/newsfiles/SuperCup/2023/2037792_FR.pdf",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=670084 (ESPN match data + article)"
+  ],
+  "core_verified": true,
+  "referee": "François Letexier",
+  "referee_nationality": "French",
+  "referee_association": "French Football Federation (France)",
+  "referee_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2037792",
+   "https://www.uefa.com/newsfiles/SuperCup/2023/2037792_FR.pdf",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=670084 (ESPN match data + article)"
+  ],
+  "assistants": "Cyril Mugnier (France); Mehdi Rahmouni (France)",
+  "fourth_official": "Espen Eskås (Norway)",
+  "var_officials": "VAR: Jérôme Brisard (France); AVAR: Eric Wattellier (France), Fedayi San (Switzerland)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://match.uefa.com/v5/matches?matchId=2037792",
+   "https://www.uefa.com/newsfiles/SuperCup/2023/2037792_FR.pdf"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "José Luis Mendilibar",
+  "goals": [
+   {
+    "team": "Sevilla",
+    "player": "Youssef En-Nesyri",
+    "minute": "25",
+    "type": "header"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Cole Palmer",
+    "minute": "63",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Sevilla",
+    "player": "Loïc Badé",
+    "minute": "33",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Sevilla",
+    "player": "Erik Lamela",
+    "minute": "62",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Sevilla",
+    "player": "Juanlu Sánchez",
+    "minute": "90",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://match.uefa.com/v5/matches/2037792/events?filter=LINEUP&offset=0&limit=100",
+   "https://matchstats.uefa.com/v2/team-statistics/2037792",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=670084 (ESPN match data + article)"
+  ],
+  "stats": {
+   "shots1": 23,
+   "shots2": 8,
+   "sot1": 7,
+   "sot2": 4,
+   "poss1": 69,
+   "poss2": 31,
+   "fouls1": 5,
+   "fouls2": 14,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://matchstats.uefa.com/v2/team-statistics/2037792",
+   "xg_source": null,
+   "note": "UEFA team statistics. ESPN/Opta possession 73.8/26.2; Wikipedia 71/29"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA data/PDF, Reuters report (ESPN); no refereeing disputes reported. No extra time was played (straight to penalties under Super Cup rules from 2023).",
+  "uncertain": [
+   "Wikipedia batch row marks no aet - correct: UEFA feed shows regular 1-1 then penalties 5-4, no extra time",
+   "Lamela booking: UEFA 62' vs ESPN 61'",
+   "GLT not verified -> null",
+   "Odds: ESPN-stored figures are post-match, not recorded"
+  ]
+ },
+ {
+  "article": "2023 FIFA Club World Cup final",
+  "date": "2023-12-22",
+  "competition": "FIFA Club World Cup",
+  "season": "2023-24",
+  "venue": "King Abdullah Sports City Stadium",
+  "city": "Jeddah",
+  "team1": "Manchester City",
+  "team2": "Fluminense",
+  "score_90": "4-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/287833/287839/400017372?language=en",
+   "https://api.fifa.com/api/v3/timelines/107/287833/287839/400017372?language=en",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=687851 (ESPN match data + article)"
+  ],
+  "core_verified": true,
+  "referee": "Szymon Marciniak",
+  "referee_nationality": "Polish",
+  "referee_association": "Polish Football Association (Poland)",
+  "referee_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/287833/287839/400017372?language=en",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=687851 (ESPN match data + article)"
+  ],
+  "assistants": "Tomasz Listkiewicz (Poland); Adam Kupsik (Poland)",
+  "fourth_official": "Jesús Valenzuela (Venezuela)",
+  "var_officials": "VAR: Tomasz Kwiatkowski (Poland); AVAR: Juan Soto (Venezuela); Offside VAR: Jorge Urrego (Venezuela); Support VAR: Juan Lara (Chile)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/287833/287839/400017372?language=en"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "Fernando Diniz",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Julián Álvarez",
+    "minute": "1",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Nino (own goal)",
+    "minute": "27",
+    "type": "own goal"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Phil Foden",
+    "minute": "72",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Julián Álvarez",
+    "minute": "88",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Fluminense",
+    "player": "Marcelo",
+    "minute": "57",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Fluminense",
+    "player": "Alexsander",
+    "minute": "68",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Fluminense",
+    "player": "John Kennedy",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://api.fifa.com/api/v3/live/football/107/287833/287839/400017372?language=en",
+   "https://api.fifa.com/api/v3/timelines/107/287833/287839/400017372?language=en",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=687851 (ESPN match data + article)"
+  ],
+  "stats": {
+   "shots1": 15,
+   "shots2": 5,
+   "sot1": 8,
+   "sot2": 2,
+   "poss1": 54.4,
+   "poss2": 45.6,
+   "fouls1": 11,
+   "fouls2": 13,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=687851 (ESPN match data + article)",
+   "xg_source": null,
+   "note": "ESPN/Opta feed"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Erling Haaland (injury)",
+    "Kevin De Bruyne (injury)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=687851 (ESPN match data + article)"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "FIFA match data/timeline, Reuters report (ESPN); no refereeing disputes reported (4-0).",
+  "uncertain": [
+   "GLT not verified -> null",
+   "Odds: ESPN-stored figures are post-match, not recorded"
+  ]
+ },
+ {
+  "article": "2025 FIFA Club World Cup final",
+  "date": "2025-07-13",
+  "competition": "FIFA Club World Cup",
+  "season": "2025-26",
+  "venue": "MetLife Stadium",
+  "city": "East Rutherford, New Jersey",
+  "team1": "Chelsea",
+  "team2": "Paris Saint-Germain",
+  "score_90": "3-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://api.fifa.com/api/v3/live/football/10005/289175/289190/400019210?language=en",
+   "https://fdp.fifa.org/assetspublic/ce233/r10594/pdf/FullTimeMatchReport-English.pdf",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=735958 (ESPN match data + article)"
+  ],
+  "core_verified": true,
+  "referee": "Alireza Faghani",
+  "referee_nationality": "Iranian-born (Iranian); any Australian citizenship not verified",
+  "referee_association": "Football Australia (Australia)",
+  "referee_sources": [
+   "https://fdp.fifa.org/assetspublic/ce233/r10594/pdf/FullTimeMatchReport-English.pdf",
+   "https://inside.fifa.com/refereeing/news/alireza-faghani-club-world-cup-2025-final-referee-australia",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=735958 (ESPN match data + article)"
+  ],
+  "assistants": "Anton Shchetinin (Australia); Ashley Beecham (Australia)",
+  "fourth_official": "Facundo Tello (Argentina)",
+  "var_officials": "VAR: Bastian Dankert (Germany); AVAR: Tatiana Guzmán (Nicaragua); Support VAR: Ivan Bebek (Croatia)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://fdp.fifa.org/assetspublic/ce233/r10594/pdf/FullTimeMatchReport-English.pdf",
+   "https://inside.fifa.com/refereeing/news/alireza-faghani-club-world-cup-2025-final-referee-australia"
+  ],
+  "manager1": "Enzo Maresca",
+  "manager2": "Luis Enrique",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Cole Palmer",
+    "minute": "22",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Cole Palmer",
+    "minute": "30",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "João Pedro",
+    "minute": "43",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Pedro Neto",
+    "minute": "34",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Moisés Caicedo",
+    "minute": "36",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Malo Gusto",
+    "minute": "40",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Levi Colwill",
+    "minute": "81",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Paris Saint-Germain",
+    "player": "João Neves",
+    "minute": "86",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Paris Saint-Germain",
+    "player": "Ousmane Dembélé",
+    "minute": "87",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Paris Saint-Germain",
+    "player": "Nuno Mendes",
+    "minute": "90+4",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://fdp.fifa.org/assetspublic/ce233/r10594/pdf/FullTimeMatchReport-English.pdf",
+   "https://api.fifa.com/api/v3/live/football/10005/289175/289190/400019210?language=en",
+   "https://api.fifa.com/api/v3/timelines/10005/289175/289190/400019210?language=en",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=735958 (ESPN match data + article)"
+  ],
+  "stats": {
+   "shots1": 9,
+   "shots2": 9,
+   "sot1": 5,
+   "sot2": 6,
+   "poss1": 34,
+   "poss2": 66,
+   "fouls1": 15,
+   "fouls2": 12,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://fdp.fifa.org/assetspublic/ce233/r10594/pdf/FullTimeMatchReport-English.pdf",
+   "xg_source": null,
+   "note": "FIFA Full Time Match Report (attempts total/on target; fouls against)"
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "FIFA match report PDF and timeline, FIFA referee appointment article, Reuters report (ESPN). João Neves straight red for pulling Cucurella's hair after VAR review - reported without dispute. Post-match scuffle not a refereeing decision. Search budget exhausted before UK media checks.",
+  "uncertain": [
+   "Faghani nationality: born in Iran, refereed for Iran until moving to Football Australia (FIFA lists him AUS; FIFA's 2012 record lists him IRN). Whether he holds Australian citizenship not verified",
+   "João Neves red minute: FIFA PDF 86', FIFA timeline 85', ESPN text 83'; Colwill yellow 81' (FIFA) vs 82' (ESPN)",
+   "Assistant referees listed as Australian by FIFA",
+   "Odds: ESPN-stored figures are post-match; The Athletic odds preview cited by Wikipedia not fetched",
+   "GLT not verified -> null"
   ]
  }
 ]
