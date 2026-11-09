@@ -1,0 +1,358 @@
+{{Use dmy dates|date=May 2025}}
+{{Infobox football match
+| title              = 2025 FIFA Intercontinental Cup final
+| other_titles       =
+| image              = File:Ahmed-bin-Ali-Stadium.jpg
+| alt                =
+| caption            = The [[Ahmad bin Ali Stadium]] in [[Al Rayyan (city)|Al Rayyan]] hosted the final.
+| event              = [[2025 FIFA Intercontinental Cup]]
+| team1              = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| team1association   = {{fbaicon|FRA|size=30px}}
+| team1score         = 1
+| team2              = [[CR Flamengo|Flamengo]]
+| team2association   = {{fbaicon|BRA|size=30px}}
+| team2score         = 1
+| details            = After [[Overtime (sports)#Association football|extra time]]<br />Paris Saint-Germain won 2–1 on [[Penalty shoot-out (association football)|penalties]]
+| date               = {{Start date|2025|12|17|df=y}}
+| stadium            = [[Ahmad bin Ali Stadium]]
+| city               = [[Al Rayyan (city)|Al Rayyan]]
+| man_of_the_match1a = [[Matvey Safonov]] {{nowrap|(Paris Saint-Germain)}}<ref name="summary">{{cite web |url=https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2025/articles/paris-saint-germain-flamengo-match-report |title=PSG topple Flamengo to win Intercontinental Cup |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=17 December 2025 |access-date=17 December 2025}}</ref>
+| referee            = [[Ismail Elfath]] {{nowrap|([[United States Soccer Federation|United States]])}}<ref name="lineups"/>
+| attendance         = 42,150<ref name="FT report"/>
+| weather            = Clear<br />{{convert|20|°C|°F|abbr=on}}<br />68% [[humidity]]<ref>{{cite web |url=https://www.wunderground.com/history/daily/qa/doha/OTBD/date/2025-12-17 |title=Doha, Qatar Weather History |publisher=[[Weather Underground (weather service)|Weather Underground]] |date=17 December 2025 |access-date=24 December 2025}}</ref>
+| previous           = [[2024 FIFA Intercontinental Cup final|2024]]
+| next               = ''[[2026 FIFA Intercontinental Cup final|2026]]''
+}}
+The '''2025 FIFA Intercontinental Cup final''', also known simply as the '''2025 FIFA Intercontinental Cup''', was the final match of the [[2025 FIFA Intercontinental Cup]], an international club [[association football|football]] tournament featuring the club champions from each of the six continental confederations. The match took place on 17 December 2025 at the [[Ahmad bin Ali Stadium]] in [[Al Rayyan (city)|Al Rayyan]], Qatar, between French club [[Paris Saint-Germain FC|Paris Saint-Germain]], winners of the [[2024–25 UEFA Champions League]], and Brazilian club [[CR Flamengo|Flamengo]], the winners of play-offs contested by the other five confederations.<ref>{{cite web |url=https://inside.fifa.com/organisation/fifa-council/media-releases/council-approves-unprecedented-prize-money-pot-club-world-cup-key-decisions-womens-competitions |title=FIFA Council approves unprecedented prize money pot for the FIFA Club World Cup 2025 and takes key decisions on women's competitions |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=5 March 2025 |access-date=31 May 2025}}</ref><ref>{{cite web |last=Lopez Vega |first=Alejandro |url=https://bolavip.com/en/soccer/luis-enrique-leads-psg-to-champions-league-ligue-1-and-french-cup-titles-which-other-coaches-have-won-the-treble |title=Luis Enrique leads PSG to Champions League, Ligue 1 and French Cup titles: Which other coaches have won the treble? |work=Bolavip |date=31 May 2025 |access-date=31 May 2025}}</ref>
+
+Paris Saint-Germain won the match 2–1 on [[Penalty shoot-out (association football)|penalties]], following a 1–1 draw after [[Overtime (sports)#Association football|extra time]], for their first [[List of world champion football clubs|club world championship title]].<ref name="summary"/><ref>{{cite web|url= https://www.bbc.com/sport/football/live/c17xzryxyllt|title=Paris Saint Germain 1 Falmengo 1 (2-1 on penalties)|date=17 December 2025|work=BBC Sport|accessdate=9 January 2026}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification for tournament
+!Previous annual club world championship finals<br />(bold indicates winners)
+!Previous quadrennial club world championship finals<br />(bold indicates winners)
+|-
+|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|[[UEFA]]
+|Winners of the [[2024–25 UEFA Champions League]]
+|None
+|1 ([[2025 FIFA Club World Cup final|2025]])
+|-
+|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|[[CONMEBOL]]
+|Winners of the [[2025 Copa Libertadores]]
+|IC: 1 ('''[[1981 Intercontinental Cup|1981]]''')<br>FCWC: 1 ([[2019 FIFA Club World Cup final|2019]])
+|None
+|}
+
+Note: On 27 October 2017, [[FIFA]] officially recognised all the champions of the Intercontinental Cup as [[List of world champion football clubs|club world champions]], in equal status to the FIFA Club World Cup.<ref name="FIFA2022">{{cite press release |date=27 October 2017 |title=FIFA Council approves key organisational elements of the FIFA World Cup |url=https://www.fifa.com/about-fifa/news/y=2022/m=10/news=fifa-council-approves-key-organisational-elements-of-the-fifa-world-cu-2917722.html |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=27 October 2017}}</ref>
+*IC: [[Intercontinental Cup (1960–2004)|Intercontinental Cup]] (1960–2004)
+*FCWC: [[List of FIFA Club World Cup finals|FIFA Club World Cup finals]] (annual tournament; 2000, 2005–2023)
+
+==Route to the final==
+As the winners of the [[2024–25 UEFA Champions League]], [[Paris Saint-Germain FC|Paris Saint-Germain]] qualified directly for the final of the tournament. [[CR Flamengo|Flamengo]] advanced as the winners of the play-off match, known as the FIFA Challenger Cup, played on 13 December 2025.
+
+{| class="wikitable"
+|-
+!width=350 colspan=2|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+!Team
+!width=350 colspan=2|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|- style="background:#C1E0FF"
+|align=center|Opponent
+|align=center|Result
+|align=center|[[2025 FIFA Intercontinental Cup]]
+|align=center|Opponent
+|align=center|Result
+|-
+|colspan=2 rowspan=2 align=center|Bye
+|align=center style="background:#C1E0FF"|Second round
+|{{fbaicon|MEX}} [[Cruz Azul]]
+|align=center|[[2025 FIFA Intercontinental Cup#Derby of the Americas|2–1]]
+|-
+|align=center style="background:#C1E0FF"|Play-off
+|{{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+|align=center|[[2025 FIFA Intercontinental Cup#Challenger Cup|2–0]]
+|}
+
+==Match==
+===Summary===
+In the 38th minute, [[Khvicha Kvaratskhelia]] scored when he finished at the back post from close range after a low cross from the right by [[Désiré Doué]] which Flamengo goalkeeper [[Agustín Rossi (footballer)|Agustín Rossi]] got a hand to but couldn't prevent it reaching Kvaratskhelia. In the 62nd minute, Flamengo were awarded a penalty when [[Giorgian de Arrascaeta]] was fouled by [[Marquinhos]], [[Jorginho (footballer, born December 1991)|Jorginho]] scored with a low finish to the right. The match went to extra-time and eventually a penalty shoot-out. PSG goalkeeper [[Matvey Safonov]] saved four penalties in a row as PSG won the match 2-1 on penalties.<ref>{{cite web|url= https://www.bbc.com/sport/football/live/c17xzryxyllt|title=Paris St-Germain 1 Flamengo 1 (2-1 on pens)|date=17 December 2025|work=BBC Sport|accessdate=13 August 2026}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2025|12|17|df=y}}
+|time       = 20:00 [[Arabia Standard Time|AST]]
+|team1      = [[Paris Saint-Germain FC|Paris Saint-Germain]] {{fbaicon|FRA}}
+|score      = 1–1
+|aet        = yes
+|team2      = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|goals1     =
+*[[Khvicha Kvaratskhelia|Kvaratskhelia]] {{goal|38}}
+|goals2     =
+*[[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|62|pen.}}
+|stadium    = [[Ahmad bin Ali Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance = 42,150<ref name="FT report">{{cite web |url=https://fdp.fifa.org/assetspublic/ce241/r11075/pdf/FullTimeMatchReport-English.pdf |title=Match Report: Paris Saint-Germain v. CR Flamengo |website=FIFA.com|publisher=Fédération Internationale de Football Association |date=17 December 2025 |access-date=17 December 2025}}</ref>
+|referee    = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|penalties1 =
+*[[Vitinha (footballer, born February 2000)|Vitinha]] {{pengoal}}
+*[[Ousmane Dembélé|Dembélé]] {{penmiss}}
+*[[Nuno Mendes (footballer, born 2002)|Mendes]] {{pengoal}}
+*[[Bradley Barcola|Barcola]] {{penmiss}}
+|penaltyscore = 2–1
+|penalties2 =
+*{{pengoal}} [[Nicolás de la Cruz|De la Cruz]]
+*{{penmiss}} [[Saúl (footballer, born 1994)|Saúl]]
+*{{penmiss}} [[Pedro (footballer, born 1997)|Pedro]]
+*{{penmiss}} [[Léo Pereira (footballer, born 1996)|Pereira]]
+*{{penmiss}} [[Luiz Araújo (footballer)|L. Araújo]]
+|report     = https://www.fifa.com/en/match-centre/match/107/292073/292078/400020952
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _psg2526h
+ |pattern_b  = _psg2526H
+ |pattern_ra = _psg2526h
+ |pattern_sh = _psg2526h
+ |pattern_so = _psg2526hl
+ |leftarm    = 0A1254
+ |body       = 0A1254
+ |rightarm   = 0A1254
+ |shorts     = 0A1254
+ |socks      = 0A1254
+ |title      = {{nowrap|Paris Saint-Germain}}<ref name="lineups">{{cite web |url=https://fdp.fifa.org/assetspublic/ce241/r11075/pdf/TacticalLineup-English.pdf |title=Tactical Line-up: Paris Saint-Germain v. CR Flamengo |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=December 17, 2025 |access-date=December 17, 2025}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _flamengo25a
+ |pattern_b  = _flamengo25A
+ |pattern_ra = _flamengo25a
+ |pattern_sh = _flamengo25h
+ |pattern_so = _flamengo25al
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Flamengo<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''39'''||{{flagicon|RUS}} [[Matvey Safonov]]
+|-
+|RB ||'''33'''||{{flagicon|FRA}} [[Warren Zaïre-Emery]]
+|-
+|CB ||'''5''' ||{{flagicon|BRA}} [[Marquinhos]] ([[Captain (association football)|c]])
+|-
+|CB ||'''51'''||{{flagicon|ECU}} [[Willian Pacho]] || {{yel|85}}
+|-
+|LB ||'''25'''||{{flagicon|POR}} [[Nuno Mendes (footballer, born 2002)|Nuno Mendes]]
+|-
+|CM ||'''87'''||{{flagicon|POR}} [[João Neves]]
+|-
+|CM ||'''17'''||{{flagicon|POR}} [[Vitinha (footballer, born February 2000)|Vitinha]] || {{yel|44}}
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Fabián Ruiz]] || {{yel|32}} || {{suboff|106}}
+|-
+|RF ||'''14'''||{{flagicon|FRA}} [[Désiré Doué]] || || {{suboff|78}}
+|-
+|CF ||'''19'''||{{flagicon|KOR}} [[Lee Kang-in]] || || {{suboff|35}}
+|-
+|LF ||'''7''' ||{{flagicon|GEO}} [[Khvicha Kvaratskhelia]] || || {{suboff|91}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''30'''||{{flagicon|FRA}} [[Lucas Chevalier]]
+|-
+|GK ||'''89'''||{{flagicon|ITA}} [[Renato Marin]]
+|-
+|DF ||'''4''' ||{{flagicon|BRA}} [[Lucas Beraldo]]
+|-
+|DF ||'''6''' ||{{flagicon|UKR}} [[Illia Zabarnyi]]
+|-
+|DF ||'''21'''||{{flagicon|FRA}} [[Lucas Hernandez]]
+|-
+|MF ||'''24'''||{{flagicon|FRA}} [[Senny Mayulu]] || || {{subon|35}} {{suboff|64}}
+|-
+|FW ||'''9''' ||{{flagicon|POR}} [[Gonçalo Ramos]]
+|-
+|FW ||'''10'''||{{flagicon|FRA}} [[Ousmane Dembélé]] || || {{subon|78}}
+|-
+|FW ||'''29'''||{{flagicon|FRA}} [[Bradley Barcola]] || || {{subon|64}}
+|-
+|FW ||'''47'''||{{flagicon|FRA}} [[Quentin Ndjantou]] || || {{subon|106}}
+|-
+|FW ||'''49'''||{{flagicon|SEN}} [[Ibrahim Mbaye]] || || {{subon|91}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Luis Enrique]]
+|}
+|valign="top"|[[File:Paris Saint-Germain vs Flamengo 2025-12-17.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Agustín Rossi (footballer)|Agustín Rossi]]
+|-
+|RB ||'''2''' ||{{flagicon|URU}} [[Guillermo Varela]]
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Léo Ortiz]]
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Léo Pereira (footballer, born 1996)|Léo Pereira]]
+|-
+|LB ||'''26'''||{{flagicon|BRA}} [[Alex Sandro]] || {{yel|23}}
+|-
+|CM ||'''5''' ||{{flagicon|CHI}} [[Erick Pulgar]] || {{yel|64}} || {{suboff|74}}
+|-
+|CM ||'''21'''||{{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]] || {{yel|20}} || {{suboff|74}}
+|-
+|RW ||'''50'''||{{flagicon|ECU}} [[Gonzalo Plata]] || {{yel|90+5}} || {{suboff|108}}
+|-
+|AM ||'''10'''||{{flagicon|URU}} [[Giorgian de Arrascaeta]] || || {{suboff|74}}
+|-
+|LW ||'''15'''||{{flagicon|COL}} [[Jorge Carrascal]] || || {{suboff|56}}
+|-
+|CF ||'''27'''||{{flagicon|BRA}} [[Bruno Henrique (footballer, born 1990)|Bruno Henrique]] ([[Captain (association football)|c]]) || || {{suboff|90+2}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''49'''||{{flagicon|BRA}} [[Dyogo Alves]]
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Ayrton Lucas]]
+|-
+|DF ||'''13'''||{{flagicon|BRA}} [[Danilo (footballer, born July 1991)|Danilo]]
+|-
+|DF ||'''22'''||{{flagicon|BRA}} [[Emerson Royal]]
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Saúl (footballer, born 1994)|Saúl]] || {{yel|96}} || {{subon|74}}
+|-
+|MF ||'''18'''||{{flagicon|URU}} [[Nicolás de la Cruz]] || || {{subon|74}}
+|-
+|MF ||'''52'''||{{flagicon|BRA}} [[Evertton Araújo]]
+|-
+|MF ||'''64'''||{{flagicon|BRA}} [[Wallace Yan]]
+|-
+|FW ||'''7''' ||{{flagicon|BRA}} [[Luiz Araújo (footballer)|Luiz Araújo]] || || {{subon|90+2}}
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Pedro (footballer, born 1997)|Pedro]] || || {{subon|56}}
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Everton Soares|Everton]] || || {{subon|74}}
+|-
+|FW ||'''16'''||{{flagicon|BRA}} [[Samuel Lino]] || || {{subon|108}}
+|-
+|FW ||'''23'''||{{flagicon|BRA}} [[Juninho (footballer, born 1996)|Juninho]] || {{yel|120}}
+|-
+|FW ||'''30'''||{{flagicon|BRA}} [[Michael (footballer, born March 1996)|Michael]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BRA}} [[Filipe Luís]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Matvey Safonov]] (Paris Saint-Germain)<ref name="summary"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="lineups"/>
+<br />Corey Parker ([[United States Soccer Federation|United States]])
+<br />Kyle Atkins ([[United States Soccer Federation|United States]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="lineups"/>
+<br />[[Amin Mohamed Omar]] ([[Egyptian Football Association|Egypt]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="lineups"/>
+<br />Mahmoud Abouelregal ([[Egyptian Football Association|Egypt]])
+<br />'''[[Video assistant referee]]:'''<ref name="lineups"/>
+<br />[[Allen Chapman]] ([[United States Soccer Federation|United States]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="lineups"/>
+<br />[[Jarred Gillett]] ([[The Football Association|England]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="lineups"/>
+<br />Antonio García ([[Uruguayan Football Association|Uruguay]])
+|style="width:60%; vertical-align:top;"|
+{{Match rules
+|ref               = <ref>{{cite web |url=https://digitalhub.fifa.com/m/41ca9a261eb3f7d8/original/FIC2025_regulations_EN.pdf |title=Regulations for the FIFA Intercontinental Cup Qatar 2025 |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=10 December 2025}}</ref>
+|extra time        = y
+|penalties         = y
+|named subs        = 15
+|additional sub ET = y
+|subs allowed      = 5
+|sub opportunities = y
+|concussion sub    = y
+}}
+|}
+
+===Statistics===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="FT report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Flamengo
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|23
+|12
+|-
+!scope=row|Shots on target
+|9
+|2
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|10
+|3
+|-
+!scope=row|Fouls committed
+|15
+|16
+|-
+!scope=row|Offsides
+|2
+|2
+|-
+!scope=row|Yellow cards
+|3
+|6
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+
+==References==
+{{Reflist}}
+
+{{FIFA Intercontinental Cup}}
+{{Paris Saint-Germain FC matches}}
+{{CR Flamengo matches}}
+
+{{DEFAULTSORT:Fifa Intercontinental Cup final}}
+[[Category:2025 FIFA Intercontinental Cup|Final]]
+[[Category:FIFA Intercontinental Cup finals|2025]]
+[[Category:2025–26 in Qatari football]]
+[[Category:2025–26 in French men's football]]
+[[Category:2025 in Brazilian football]]
+[[Category:Paris Saint-Germain FC matches]]
+[[Category:CR Flamengo matches]]
+[[Category:December 2025 sports events in Qatar]]
+[[Category:Sport in Al Rayyan]]
+[[Category:Football matches in Qatar]]

@@ -1,0 +1,444 @@
+{{one source|date=June 2013}}
+{{Use dmy dates|date=December 2022}}
+{{Infobox international football competition
+| tourney_name = FIFA Club World Championship Toyota Cup
+| year = 2005
+| other_titles = FIFA Club World Championship Toyota Cup Japan 2005<br />FIFAクラブワールドチャンピオンシップトヨタカップジャパン2005
+| image = 2005 FIFA Club World Championship.svg
+| caption = FIFA CWCTC 2005 official logo
+| country = Japan
+| dates = 11–18 December
+| num_teams = 6
+| confederations = 6
+| venues = 3
+| cities = 3
+| champion_other = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+| count = 1
+| second_other = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+| third_other = {{fbaicon|CRC}} [[Deportivo Saprissa|Saprissa]]
+| fourth_other = {{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+| matches = 7
+| goals = 19
+| attendance = 261456
+| top_scorer = {{nowrap|[[Márcio Amoroso|Amoroso]] (São Paulo)<br />[[Mohammed Noor]] (Al-Ittihad)<br />[[Peter Crouch]] (Liverpool)<br />[[Álvaro Saborío]] (Saprissa)<br />2 goals each}}
+| player = [[Rogério Ceni]] (São Paulo)
+| fair_play = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+| prevseason = [[2000 FIFA Club World Championship|2000]]<br><s>[[2001 FIFA Club World Championship|2001]]</s>
+| nextseason = [[2006 FIFA Club World Cup|2006]]
+}}
+The '''2005 FIFA Club World Championship''' (officially known as the '''FIFA Club World Championship Toyota Cup Japan 2005''' for sponsorship reasons) was the second [[FIFA Club World Championship]], a [[association football|football]] competition organised by [[FIFA]] for the champion clubs of the six continental confederations. It was the first to be held after by the merger between the [[Intercontinental Cup (1960–2004)|Intercontinental Cup]] and the FIFA Club World Championship (which had been played in a first edition in 2000).
+
+The tournament was held in Japan from 11 to 18 December 2005 and won by Brazilian club [[São Paulo FC|São Paulo]], who defeated English side [[Liverpool F.C.|Liverpool]] 1–0 in the [[2005 FIFA Club World Championship Final|final]].
+
+This would be the only edition of the tournament until the [[2022 FIFA Club World Cup|2022 edition]] where the [[CONCACAF]] representative didn't come from [[Mexico]].
+
+==Background==
+The 2005 tournament was created as a merger between the [[Intercontinental Cup (1960–2004)|Intercontinental Cup]] and the earlier [[FIFA Club World Championship]]s. The previous of these had been running as an annual tournament between the champions of Europe and South America since 1960; the latter had undergone just one tournament, the [[2000 FIFA Club World Championship]]. The [[2001 FIFA Club World Championship|2001]] tournament had been cancelled when FIFA's marketing partner [[International Sport and Leisure|ISL]] went bankrupt. To celebrate the marriage between the two competitions, a new trophy was introduced by [[FIFA]].
+
+As a result of this merger, the tournament was conceived as being smaller than the original Club World Championship, which had lasted two weeks, yet building on the one game format of the Intercontinental Cup. Six clubs were invited to take part in the tournament, one representing each regional football confederation. The competition's name, which was the simple union between the name of the two previous merging competitions, was evidently too long, and was going to be reduced the following year, becoming the [[FIFA Club World Cup]].
+
+==Format==
+The competition was a [[Single-elimination tournament|knockout tournament]] so each team played two or three matches. The champions of the four "weaker" confederations played in the quarter-finals; the losers played in a fifth place play-off. The winners were then joined by the European and South American champions in the semi-finals; the losers played in a third place play-off.
+
+The matches were held in Tokyo's National (Olympic) Stadium, Toyota Stadium in [[Toyota, Aichi|Toyota]], [[Aichi]], near [[Nagoya, Aichi|Nagoya]] and the [[International Stadium Yokohama|International Stadium]] in [[Yokohama]], where the final was played. For marketing purposes it was known as the ''FIFA Club World Championship Toyota Cup''.
+
+==Qualified teams==
+It was all six clubs' first appearance in the FIFA Club World Championship.
+
+{{Location map+|World|width=600|float=right
+|caption=Location of teams of the 2005 FIFA Club World Championship
+|places=
+<!--CAF-->
+{{Location map~|World|lat=30.069114|long=31.312333|label_size=80|label=[[Al Ahly SC|Al Ahly]]|position=right}}
+<!--AFC-->
+{{Location map~|World|lat=21.763222|long=39.164167|label_size=80|label=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=53.430819|long=-2.960828|label_size=80|label=[[Liverpool F.C.|Liverpool]]|position=left}}
+<!--CONCACAF-->
+{{Location map~|World|lat=9.965427|long=-84.075455|label_size=80|label=[[Deportivo Saprissa|Saprissa]]|position=left}}
+<!--OFC-->
+{{Location map~|World|lat=-33.889167|long=151.225278|label_size=80|label=[[Sydney FC]]|position=left}}
+<!--CONMEBOL-->
+{{Location map~|World|lat=-23.600125|long=-46.720156|label_size=80|label=[[São Paulo FC|São Paulo]]|position=right}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Participation
+|-
+!colspan=4|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|[[UEFA]]
+|[[2004–05 UEFA Champions League]] winners
+|Debut
+|-
+|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|[[CONMEBOL]]
+|[[2005 Copa Libertadores]] winners
+|Debut
+|-
+!colspan=4|Entering in the [[#Quarter-finals|quarter-finals]]
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|[[Confederation of African Football|CAF]]
+|[[2005 CAF Champions League]] winners
+|Debut
+|-
+|{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|[[Asian Football Confederation|AFC]]
+|[[2005 AFC Champions League]] winners
+|Debut
+|-
+|{{fbaicon|CRC}} [[Deportivo Saprissa|Saprissa]]
+|[[CONCACAF]]
+|[[2005 CONCACAF Champions' Cup]] winners
+|Debut
+|-
+|{{fbaicon|AUS}} [[Sydney FC]]
+|[[Oceania Football Confederation|OFC]]
+|[[2005 Oceania Club Championship]] winners
+|Debut
+|}
+
+==Venues==
+Tokyo, Yokohama and Toyota were the three cities to serve as venues for the 2005 FIFA Club World Cup.
+
+{| class="wikitable" style="text-align:center"
+|-
+![[Yokohama]]
+![[Tokyo]]
+![[Toyota, Aichi|Toyota]]
+|-
+| [[International Stadium Yokohama]]
+| [[National Stadium (Tokyo, 1958)|National Stadium]]
+| [[Toyota Stadium (Japan)|Toyota Stadium]]
+|-
+| <small>{{Coord|35|30|36.16|N|139|36|22.49|E|type:landmark|display=inline|name=International Stadium Yokohama}}</small>
+| <small>{{Coord|35|40|41.00|N|139|42|53.00|E|type:landmark_source:dewiki|display=inline|name=National Olympic Stadium}}</small>
+| <small>{{Coord|35|05|04.02|N|137|10|14.02|E|type:landmark_source:dewiki|display=inline|name=Toyota Stadium}}</small>
+|-
+| Capacity: '''72,327'''
+| Capacity: '''57,363'''
+| Capacity: '''45,000'''
+|-
+| [[File:NISSANSTADIUM20080608.JPG|200px]]
+| [[File:KokuritshuKasumigaoka-5.JPG|200px]]
+| [[File:Toyota sta 0313 2.JPG|200px]]
+|-
+! colspan="5"|{{location map+ |Japan |float=center |width=400 |places=
+{{location map~ |Japan |lat=35.510044 |long=139.606247 |label=[[Yokohama]]|position=bottom}}
+{{location map~ |Japan |lat=35.678056 |long=139.714722 |label=[[Tokyo]]|position=top}}
+{{location map~ |Japan |lat=35.084500 |long=137.170611 |label=[[Toyota, Aichi|Toyota]] |position=left}}}}
+|}
+
+==Squads==
+{{main|2005 FIFA Club World Championship squads}}
+
+==Match officials==
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+|-
+|[[Asian Football Confederation|AFC]]
+|{{fbaicon|JPN}} [[Toru Kamikawa]]
+|{{fbaicon|JPN}} Yoshikazu Hiroshima <br> {{fbaicon|KOR|1997}} Kim Dae-Young
+|-
+|[[Confederation of African Football|CAF]]
+|{{fbaicon|MAR}} [[Mohamed Guezzaz]]
+|{{fbaicon|CMR}} Jean Marie Endeng Zogo
+|-
+|[[CONCACAF]]
+|{{fbaicon|MEX}} [[Benito Archundia]]
+|{{fbaicon|MEX}} Arturo Velázquez <br> {{fbaicon|CAN}} [[Héctor Vergara]]
+|-
+|[[CONMEBOL]]
+|{{fbaicon|BRA}} [[Carlos Eugênio Simon]] <br> {{fbaicon|CHI}} [[Carlos Chandia]]
+|{{fbaicon|CHI}} Cristian Julio <br> {{fbaicon|CHI}} Mario Vargas
+|-
+|rowspan=2|[[UEFA]]
+|{{fbaicon|ENG}} [[Graham Poll]]
+|{{fbaicon|ENG}} Glenn Turner <br> {{fbaicon|ENG}} [[Philip Sharp (football referee)|Philip Sharp]]
+|-
+|{{fbaicon|FRA}} [[Alain Sars]]
+|{{fbaicon|FRA}} Frédéric Arnault <br> {{fbaicon|FRA}} Vincent Texier
+|}
+
+==Matches==
+{{6TeamBracket-Info
+| style       = 3
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#Quarter-finals|Quarter-finals]]
+| RD2         = [[#Semi-finals|Semi-finals]]
+| RD3         = [[#Final|Final]]
+| RD2b        = [[#Match for fifth place|Match for fifth place]]
+| RD3b        = [[#Match for third place|Match for third place]]
+
+<!-- Quarter-finals -->
+| RD1-text1    = 11 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD1-team1    = {{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+| RD1-score1   = 1
+| RD1-team2    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD1-score2   = 0
+
+| RD1-text2    = 12 December – [[Toyota Stadium (Japan)|Toyota]]
+| RD1-team3    = {{fbaicon|AUS}} [[Sydney FC]]
+| RD1-score3   = 0
+| RD1-team4    = {{fbaicon|CRC}} [[Deportivo Saprissa|Saprissa]]
+| RD1-score4   = 1
+
+<!-- Semi-finals -->
+| RD2-text1    = 14 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD2-team1    = {{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+| RD2-score1   = 2
+| RD2-team2    = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+| RD2-score2   = 3
+
+| RD2-text2    = 15 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD2-team3    = {{fbaicon|CRC}} [[Deportivo Saprissa|Saprissa]]
+| RD2-score3   = 0
+| RD2-team4    = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+| RD2-score4   = 3
+
+<!-- Final -->
+| RD3-text1    = 18 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD3-team1    = {{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+| RD3-score1   = 1
+| RD3-team2    = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+| RD3-score2   = 0
+
+<!-- Match for fifth place -->
+| RD2-text3    = 16 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD2-team5    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD2-score5   = 1
+| RD2-team6    = {{fbaicon|AUS}} [[Sydney FC]]
+| RD2-score6   = 2
+
+<!-- Match for third place -->
+| RD3-text2    = 18 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD3-team3    = {{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+| RD3-score3   = 2
+| RD3-team4    = {{fbaicon|CRC}} [[Deportivo Saprissa|Saprissa]]
+| RD3-score4   = 3
+}}
+
+===Quarter-finals===
+{{football box
+|date=11 December 2005
+|time=19:20
+|team1=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]] {{fbaicon|KSA}}
+|score=1–0
+|report=https://www.fifa.com/clubworldcup/matches/round=47350300/match=47350001/report.html
+|team2={{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|goals1=[[Mohammed Noor|Noor]] {{goal|78}}
+|stadium=[[National Stadium (Tokyo, 1958)|Olympic Stadium]], [[Tokyo]]
+|attendance=28,281
+|referee=[[Graham Poll]] ([[The Football Association|England]])
+}}
+----
+{{football box
+|date=12 December 2005
+|time=19:20
+|team1=[[Sydney FC]] {{fbaicon|AUS}}
+|score=0–1
+|report=https://www.fifa.com/clubworldcup/matches/round=47350300/match=47350002/report.html
+|team2={{fbaicon|CRC}} [[Deportivo Saprissa|Saprissa]]
+|goals2=[[Christian Bolaños|Bolaños]] {{goal|47}}
+|stadium=[[Toyota Stadium (Japan)|Toyota Stadium]], [[Toyota, Aichi|Toyota]]
+|attendance=28,538
+|referee=[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+}}
+
+===Semi-finals===
+{{football box
+|date=14 December 2005
+|time=19:20
+|team1=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]] {{fbaicon|KSA}}
+|score=2–3
+|report=https://www.fifa.com/clubworldcup/matches/round=47350400/match=47350003/report.html
+|team2={{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|goals1=[[Mohammed Noor|Noor]] {{goal|33}}<br />[[Hamad Al-Montashari|Al-Montashari]] {{goal|68}}
+|goals2=[[Márcio Amoroso|Amoroso]] {{goal|16||47}}<br />[[Rogério Ceni|Ceni]] {{goal|57|pen.}}
+|stadium=[[National Stadium (Tokyo, 1958)|Olympic Stadium]], [[Tokyo]]
+|attendance=31,510
+|referee=[[Alain Sars]] ([[French Football Federation|France]])
+}}
+----
+{{football box
+|date=15 December 2005
+|time=19:20
+|team1=[[Deportivo Saprissa|Saprissa]] {{fbaicon|CRC}}
+|score=0–3
+|report=https://www.fifa.com/clubworldcup/matches/round=47350400/match=47350004/report.html
+|team2={{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals2=[[Peter Crouch|Crouch]] {{goal|3||58}}<br />[[Steven Gerrard|Gerrard]] {{goal|32}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=43,902
+|referee=[[Carlos Chandia]] ([[Chilean Football Federation|Chile]])
+}}
+
+===Match for fifth place===
+{{football box
+|date=16 December 2005
+|time=19:20
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=1–2
+|report=https://www.fifa.com/clubworldcup/matches/round=47350700/match=47350005/report.html
+|team2={{fbaicon|AUS}} [[Sydney FC]]
+|goals1=[[Emad Moteab|Moteab]] {{goal|45}}
+|goals2=[[Dwight Yorke|Yorke]] {{goal|35}}<br />[[David Carney|Carney]] {{goal|66}}
+|stadium=[[National Stadium (Tokyo, 1958)|Olympic Stadium]], [[Tokyo]]
+|attendance=15,951
+|referee=[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+}}
+
+===Match for third place===
+{{football box
+|date=18 December 2005
+|time=16:20
+|team1=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]] {{fbaicon|KSA}}
+|score=2–3
+|report=https://www.fifa.com/clubworldcup/matches/round=47350500/match=47350006/report.html
+|team2={{fbaicon|CRC}} [[Deportivo Saprissa|Saprissa]]
+|goals1=[[Mohammed Kallon|Kallon]] {{goal|28}}<br />[[Joseph-Désiré Job|Job]] {{goal|53|pen.}}
+|goals2=[[Álvaro Saborío|Saborío]] {{goal|13||85|pen.}}<br />[[Rónald Gómez|Gómez]] {{goal|89}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=46,453
+|referee=[[Mohamed Guezzaz]] ([[Royal Moroccan Football Federation|Morocco]])
+}}
+
+===Final===
+{{main|2005 FIFA Club World Championship final}}
+{{football box
+|date=18 December 2005
+|time=19:20
+|team1=[[São Paulo FC|São Paulo]] {{fbaicon|BRA}}
+|score=1–0
+|report=https://www.fifa.com/clubworldcup/matches/round=47350600/match=47350007/report.html
+|team2={{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1=[[Mineiro (footballer, born 1975)|Mineiro]] {{goal|27}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=66,821
+|referee=[[Benito Archundia]] ([[Mexican Football Federation|Mexico]])
+}}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|rowspan=4|1
+|style="text-align:left"|{{flagicon|BRA}} [[Márcio Amoroso|Amoroso]]
+|style="text-align:left"|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|rowspan=4|2
+|-
+|style="text-align:left"|{{flagicon|ENG}} [[Peter Crouch]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|-
+|style="text-align:left"|{{flagicon|KSA}} [[Mohammed Noor]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|-
+|style="text-align:left"|{{flagicon|CRC}} [[Álvaro Saborío]]
+|style="text-align:left"|{{fbaicon|CRC}} [[Deportivo Saprissa|Saprissa]]
+|-
+|rowspan=11|5
+|style="text-align:left"|{{flagicon|KSA}} [[Hamad Al-Montashari]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|rowspan=11|1
+|-
+|style="text-align:left"|{{flagicon|CRC}} [[Christian Bolaños]]
+|style="text-align:left"|{{fbaicon|CRC}} [[Deportivo Saprissa|Saprissa]]
+|-
+|style="text-align:left"|{{flagicon|AUS}} [[David Carney]]
+|style="text-align:left"|{{fbaicon|AUS}} [[Sydney FC]]
+|-
+|style="text-align:left"|{{flagicon|ENG}} [[Steven Gerrard]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|-
+|style="text-align:left"|{{flagicon|CRC}} [[Rónald Gómez]]
+|style="text-align:left"|{{fbaicon|CRC}} [[Deportivo Saprissa|Saprissa]]
+|-
+|style="text-align:left"|{{flagicon|CMR}} [[Joseph-Désiré Job]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|-
+|style="text-align:left"|{{flagicon|SLE}} [[Mohammed Kallon]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Mineiro (footballer, born 1975)|Mineiro]]
+|style="text-align:left"|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Emad Moteab]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Rogério Ceni]]
+|style="text-align:left"|{{fbaicon|BRA}} [[São Paulo FC|São Paulo]]
+|-
+|style="text-align:left"|{{flagicon|TRI}} [[Dwight Yorke]]
+|style="text-align:left"|{{fbaicon|AUS}} [[Sydney FC]]
+|}
+
+==Reaction==
+The tournament was quite well received, although some commentators have stated that, excluding São Paulo and Liverpool, the quality of football was quite poor leading to a view that it might have been better retaining the two continent format of the [[Intercontinental Cup (1960–2004)|European/South American Cup]].<ref>{{cite web |url=http://edition.cnn.com/2005/SPORT/football/12/18/soccer.japan/ |title=CNN.com – Sao Paulo lift World Clubs trophy – Dec 19, 2005 |publisher=CNN |date= |access-date=28 May 2022}}</ref>
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Toyota]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+! style="background:#c96; width:33%;"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|BRA}} [[Rogério Ceni]]<br />([[São Paulo FC|São Paulo]])
+|{{flagicon|ENG}} [[Steven Gerrard]]<br />([[Liverpool F.C.|Liverpool]])
+|{{flagicon|CRC}} [[Christian Bolaños]]<br />([[Deportivo Saprissa|Saprissa]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+{{Wikivoyage}}
+*[https://www.fifa.com/tournaments/mens/clubworldcup/japan2005 FIFA Club World Championship Toyota Cup Japan 2005], FIFA.com
+*[https://web.archive.org/web/20051220002741/http://www.fifa.com/en/comp/index/0%2C2442%2CCWC2005%2C00.html?comp=CWC&year=2005 2005 FIFA Club World Championship Official Site] (Archived)
+*[https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/04/37/cwc_05_japan_tr_148.pdf FIFA Technical Report] {{Webarchive|url=https://web.archive.org/web/20170808140128/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/04/37/cwc%5f05%5fjapan%5ftr%5f148.pdf |date=8 August 2017 }}
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Championship}}
+[[Category:2005 FIFA Club World Championship| ]]
+[[Category:FIFA Club World Cup tournaments|2005]]
+[[Category:2005 in Japanese men's football]]
+[[Category:Football club competitions in Japan]]
+[[Category:2005 in men's association football]]
+[[Category:2005 in Brazilian football]]
+[[Category:2005–06 in Costa Rican football]]
+[[Category:2005–06 in Australian men's soccer]]
+[[Category:2005–06 in English men's football]]
+[[Category:2005–06 in Saudi Arabian football]]
+[[Category:December 2005 sports events in Japan]]
+[[Category:2005–06 in Egyptian football]]
+[[Category:Sports competitions in Aichi Prefecture]]
+[[Category:Sport in Toyota, Aichi]]
+[[Category:Football competitions in Tokyo]]
+[[Category:2005 in Tokyo]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:Football in Yokohama]]
+[[Category:2000s in Yokohama]]

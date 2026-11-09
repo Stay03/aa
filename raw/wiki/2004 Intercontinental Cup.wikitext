@@ -1,0 +1,221 @@
+{{for|the cricket tournament|2004 ICC Intercontinental Cup}}
+{{Infobox football match
+| title = 2004 Intercontinental Cup
+| image = ToyotaCup2004.jpg
+| caption = Match programme cover
+| team1 = [[FC Porto|Porto]]
+| team1association = {{flagicon|POR|size=30px}}
+| team1score = 0
+| team2 = [[Once Caldas]]
+| team2association = {{flagicon|COL|size=30px}}
+| team2score = 0
+| details = After [[Overtime (sports)#Association football|extra time]]<br>Porto won 8–7 on [[Penalty shoot-out (association football)|penalties]]
+| date = 12 December 2004
+| stadium = [[Nissan Stadium (Yokohama)|International Stadium Yokohama]]
+| city = [[Yokohama]]
+| man_of_the_match1a = [[Maniche]] (Porto)
+| referee = [[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+| attendance = 45,748
+| weather = Cloudy<br />{{convert|7.8|°C|°F}}<br />76% [[humidity]]
+| previous = [[2003 Intercontinental Cup|2003]]
+}}
+The '''2004 Intercontinental Cup''' was an [[association football]] match that took place on 12 December 2004 between [[FC Porto|Porto]] of Portugal, winners of the [[2003–04 UEFA Champions League]], and [[Once Caldas]] of Colombia, winners of the [[2004 Copa Libertadores]]. The match was played at the [[Nissan Stadium (Yokohama)|International Stadium]] in [[Yokohama]], Japan in front of 45,748 fans and ended 0–0 after [[Overtime (sports)#Association football|extra time]], where Porto eventually won 8–7 in the [[Penalty shoot-out (association football)|penalty shoot-out]]. [[Maniche]] of Porto, despite being the only Porto player to miss his penalty kick, was named as [[man of the match]].<ref>{{cite web|url=https://www.rsssf.org/tablest/toyotamvp.html |title=Toyota Cup – Most Valuable Player of the Match Award |first=Marcelo |last=Leme de Arruda |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=2 January 2009 |access-date=14 January 2009 |archive-url=https://web.archive.org/web/20081224143201/http://www.rsssf.com/tablest/toyotamvp.html |archive-date=24 December 2008 |url-status=live }}</ref>
+
+This was the last Intercontinental Cup final as the competition was subsequently expanded from a single game between European and South American champions into the [[FIFA Club World Cup]], also including [[CONCACAF Champions League|North, Central American and Caribbean]], [[AFC Champions League|Asian]], [[CAF Champions League|African]] and [[OFC Champions League|Oceanian]] continental champions.
+
+The match was the 43rd Intercontinental Cup, an annual football competition organized by the Union of European Football Associations (UEFA) and the South American Football Confederation (CONMEBOL).
+
+{{clear}}
+
+==Match details== 
+{{football box
+|date = 12 December 2004
+|time = 19:10 [[Japan Standard Time|JST]]
+|team1 = [[FC Porto|Porto]] {{flagicon|POR}}
+|score = 0–0
+|aet = yes
+|report=https://www.uefa.com/uefachampionsleague/match/79186/
+|team2 = {{flagicon|COL}} [[Once Caldas]]
+|stadium = [[Nissan Stadium (Yokohama)|International Stadium Yokohama]], [[Yokohama]]
+|attendance = 45,748<ref>{{cite web |url=http://www.uefa.com/Competitions/EUSA/AllTimeStatistics/index.html |title=European-South American Cup – All-Time statistics |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=29 August 2014 |archive-url=https://web.archive.org/web/20050127064242/http://www.uefa.com/Competitions/EUSA/AllTimeStatistics/index.html |archive-date=27 January 2005}}</ref>
+|referee = [[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])<ref name="officials">{{cite web|url=http://www.toyotacup.com/html/news/news_e1212t.html |title=The 25th Toyota European / South American Cup – Team lists of the match |work=Toyota Cup |date=12 December 2004 |access-date=24 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20050422041639/http://www.toyotacup.com/html/news/news_e1212t.html |archive-date=April 22, 2005 }}</ref>
+|penalties1 = [[Diego (footballer, born 1985)|Diego]] {{pengoal}}<br />[[Carlos Alberto (footballer, born December 1984)|Carlos Alberto]] {{pengoal}}<br />[[Ricardo Quaresma|Quaresma]] {{pengoal}}<br />[[Maniche]] {{penmiss}}<br />[[Benni McCarthy|McCarthy]] {{pengoal}}<br />[[Costinha]] {{pengoal}}<br />[[Jorge Costa (footballer)|Jorge Costa]] {{pengoal}}<br />[[Ricardo Costa (footballer, born 1981)|Ricardo Costa]] {{pengoal}}<br />[[Pedro Emanuel]] {{pengoal}}
+|penaltyscore = 8–7
+|penalties2 = {{pengoal}} [[Samuel Vanegas|Vanegas]]<br />{{pengoal}} [[Herly Alcázar|Alcázar]]<br />{{pengoal}} [[Jhon Viáfara|Viáfara]]<br />{{pengoal}} [[Antonio de Nigris|De Nigris]]<br />{{penmiss}} [[Jonathan Fabbro|Fabbro]]<br />{{pengoal}} [[Rubén Darío Velázquez|Velázquez]]<br />{{pengoal}} [[Jeffrey Díaz|Díaz]]<br />{{pengoal}} [[Édgar Cataño|Cataño]]<br />{{penmiss}} [[Edwin García|García]]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la=_thinwhiteborder
+|pattern_b=_porto0405H
+|pattern_ra=_porto0405H
+|pattern_sh=
+|pattern_so=_bluehorizontal
+|leftarm=0000FF
+|body=FFFFFF
+|rightarm=FFFFFF
+|shorts=0000FF
+|socks=FFFFFF
+|title = Porto
+}}
+|{{Football kit
+ | pattern_la = _thinwhiteborder
+ | pattern_b  = _oncecaldas04t
+ | pattern_ra = _thinwhiteborder
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Once Caldas
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''99'''||{{flagicon|POR}} [[Vítor Baía]] || || {{suboff|104}}
+|-
+|RB ||'''3''' ||{{flagicon|POR}} [[Pedro Emanuel]]
+|-
+|CB ||'''2''' ||{{flagicon|POR}} [[Jorge Costa (footballer)|Jorge Costa]] ([[Captain (association football)|c]]) || {{yel|79}}
+|-
+|CB ||'''6''' ||{{flagicon|POR}} [[Costinha]]
+|-
+|LB ||'''5''' ||{{flagicon|POR}} [[Ricardo Costa (footballer, born 1981)|Ricardo Costa]]
+|-
+|CM ||'''22'''||{{flagicon|GRE}} [[Giourkas Seitaridis]] || {{yel|85}}
+|-
+|CM ||'''18'''||{{flagicon|POR}} [[Maniche]]
+|-
+|CM ||'''11'''||{{flagicon|BRA}} [[Derlei]] || || {{suboff|70}}
+|-
+|AM ||'''16'''||{{flagicon|BRA}} [[Diego (footballer, born 1985)|Diego]] || {{sent off|2|50|PSO}}
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Luís Fabiano]] || || {{suboff|78}}
+|-
+|CF ||'''77'''||{{flagicon|RSA}} [[Benni McCarthy]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|POR}} [[Nuno Espírito Santo|Nuno]] || || {{subon|104}}
+|-
+|DF ||'''7''' ||{{flagicon|POR}} [[Pepe (footballer, born February 1983)|Pepe]]
+|-
+|DF ||'''17'''||{{flagicon|POR}} [[José Bosingwa]]
+|-
+|MF ||'''12'''||{{flagicon|POR}} [[César Peixoto]]
+|-
+|MF ||'''19'''||{{flagicon|BRA}} [[Carlos Alberto (footballer, born December 1984)|Carlos Alberto]] || || {{subon|70}}
+|-
+|FW ||'''10'''||{{flagicon|POR}} [[Ricardo Quaresma]] || || {{subon|78}}
+|-
+|FW ||'''41'''||{{flagicon|POR}} [[Hélder Postiga]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Víctor Fernández]]
+|}
+|valign="top"|[[File:Porto vs Once Caldas 2004-12-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|COL}} [[Juan Carlos Henao]]
+|-
+|RB ||'''5''' ||{{flagicon|COL}} [[Rubén Darío Velázquez|Rubén Velázquez]]
+|-
+|CB ||'''6''' ||{{flagicon|COL}} [[Roller Cambindo]] || || {{suboff|46}}
+|-
+|CB ||'''24'''||{{flagicon|COL}} [[Samuel Vanegas]] ([[Captain (association football)|c]])
+|-
+|LB ||'''14'''||{{flagicon|COL}} [[Diego Arango]] || {{yel|33}} || {{suboff|61}}
+|-
+|DM ||'''3''' ||{{flagicon|COL}} [[Jhon Viáfara]]
+|-
+|RM ||'''2''' ||{{flagicon|COL}} [[Miguel Rojas (footballer)|Miguel Rojas]]
+|-
+|CM ||'''16'''||{{flagicon|COL}} [[Elkin Soto]] || || {{suboff|98}}
+|-
+|LM ||'''22'''||{{flagicon|COL}} [[Edwin García]]
+|-
+|CF ||'''10'''||{{flagicon|ARG}} [[Jonathan Fabbro]] || {{yel|59}}
+|-
+|CF ||'''9''' ||{{flagicon|MEX}} [[Antonio de Nigris]] || {{yel|117}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|COL}} [[Juan Carlos González (Colombian footballer)|Juan Carlos González]]
+|-
+|DF ||'''13'''||{{flagicon|COL}} [[Édgar Cataño]] || || {{subon|46}}
+|-
+|MF ||'''8''' ||{{flagicon|VEN|1930}} [[Leopoldo Jiménez]]
+|-
+|MF ||'''21'''||{{flagicon|COL}} [[Javier Araújo]]
+|-
+|FW ||'''7''' ||{{flagicon|COL}} [[Jeffrey Díaz]] || || {{subon|61}}
+|-
+|FW ||'''15'''||{{flagicon|COL}} [[Herly Alcázar]] || || {{subon|98}}
+|-
+|FW ||'''17'''||{{flagicon|COL}} [[Dayro Moreno]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|COL}} [[Luis Fernando Montoya]]
+|}
+|}
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Maniche]] (Porto)
+
+'''Assistant referees:'''
+<br />Amelio Andino ([[Paraguayan Football Association|Paraguay]])<ref name="officials"/>
+<br />Winston Reategui ([[Peruvian Football Federation|Peru]])<ref name="officials"/>
+<br />'''Fourth official:'''
+<br />[[Toshimitsu Yoshida]] ([[Japan Football Association|Japan]])<ref name="officials"/>
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutes
+|}
+
+==See also==
+*[[Intercontinental Cup (1960–2004)|Intercontinental Cup]]
+*[[UEFA Champions League]]
+*[[Copa Libertadores]]
+*[[FIFA Club World Cup]]
+*[[FC Porto in international football competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.rsssf.org/tablest/toyota04.html 2004 Intercontinental Cup] at [[Rec.Sport.Soccer Statistics Foundation]]
+
+{{Intercontinental Cup (football)}}
+{{FC Porto matches}}
+
+[[Category:2004–05 in European men's continental football|Intercontinental Cup]]
+[[Category:2004 in South American men's continental football|Intercontinental Cup]]
+[[Category:2004 in Japanese football|Intercontinental Cup]]
+[[Category:Intercontinental Cup (1960–2004)]]
+[[Category:FC Porto matches|Intercontinental Cup 2004]]
+[[Category:Once Caldas matches|Intercontinental Cup 2004]]
+[[Category:Intercontinental Cup (football) matches hosted by Japan]]
+[[Category:December 2004 sports events in Japan]]
+[[Category:2000s in Yokohama]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:Football in Yokohama]]
+[[Category:2004 in Colombian football]]
+[[Category:2004–05 in Portuguese football]]
+[[Category:Colombia–Portugal sports relations]]
+[[Category:2004 in association football]]

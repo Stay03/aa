@@ -1,0 +1,352 @@
+{{Short description|2nd edition of the FIFA Intercontinental Cup}}
+{{Use dmy dates|date = May 2025}}
+{{Not to be confused with|2025 FIBA Intercontinental Cup| 2025 FIFA Club World Cup}}
+{{for|the final match branded simply as "2025 FIFA Intercontinental Cup"|2025 FIFA Intercontinental Cup final}}
+{{Infobox international football competition
+| tourney_name   = FIFA Intercontinental Cup
+| year           = 2025
+| image          = 2025 FIFA Intercontinental Cup logo.svg
+| size           =230 
+| country        = ''Final stages:''<br/>Qatar
+| dates          = 14 September – 17 December
+| num_teams      = 6
+| confederations = 6
+| venues         = 3
+| cities         = 3
+| champion_other = {{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| count          = 1
+| second_other   = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+| matches        = 5
+| goals          = 14
+| attendance     = {{#expr: <!--First round-->+ 4157 <!--Second round-->+ 49284 + 7108 <!--Play-off-->+ 8368 <!--Final-->+ 42150}}
+| top_scorer     = {{flagicon|COD}} [[Fiston Mayele]] ([[Pyramids FC|Pyramids]])<br />3 goals
+| player         = {{flagicon|POR}} [[Vitinha (footballer, born February 2000)|Vitinha]] {{nowrap|(Paris Saint-Germain)}}<ref>{{cite web |url=https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2025/articles/vitinha-named-aramco-player-of-the-tournament |title=Vitinha named Aramco Player of the Tournament |website=FIFA.com |publisher=Fédération Internationale de Football Association|date=18 December 2025 |access-date=18 December 2025}}</ref>
+| prevseason     = [[2024 FIFA Intercontinental Cup|2024]]
+| nextseason     = [[2026 FIFA Intercontinental Cup|2026]]
+}}
+The '''2025 FIFA Intercontinental Cup''' (officially known as the '''FIFA Intercontinental Cup Qatar 2025 presented by Aramco''' for sponsorship reasons) was the second edition of the [[FIFA Intercontinental Cup]], an annual club [[association football]] tournament organised by [[FIFA]]. The tournament comprised the six teams that won the previous edition of the continental championships in each FIFA confederation, playing each other in a [[single-elimination]] bracket, and took place from 14 September to 17 December 2025.<ref>{{cite web |url=https://inside.fifa.com/organisation/fifa-council/media-releases/council-approves-unprecedented-prize-money-pot-club-world-cup-key-decisions-womens-competitions |title=FIFA Council approves unprecedented prize money pot for the FIFA Club World Cup 2025 and takes key decisions on women's competitions |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=5 March 2025 |access-date=31 May 2025}}</ref>
+
+The tournament broadly maintained the format of the previous annual versions of the [[FIFA Club World Cup]], which was expanded and reorganised into a quadrennial tournament with more entrants, with the exception of changes to venues for the initial rounds.<ref name="FIFA">{{cite press release |date=17 December 2023 |title=FIFA Council confirms key details for FIFA Club World Cup 2025 |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-confirms-key-details-for-fifa-club-world-cup-2025-tm |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=17 December 2023}}</ref> The last three matches took place in [[Ahmad bin Ali Stadium]] in [[Al Rayyan (city)|Al Rayyan]], Qatar.<ref>{{cite web|url=https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2025/articles/intercontinental-cup-qatar-2025-aramco-ticket-sales-visa|title=Visa presale for final three FIFA Intercontinental Cup showdowns launched|website=FIFA.com |publisher=Fédération Internationale de Football Association|access-date=15 November 2025|date=14 November 2025|quote=Ahmad bin Ali Stadium to host trio of contests}}</ref>
+
+[[Real Madrid CF|Real Madrid]] were the defending champions, but they were not able to defend their title after being eliminated by [[Arsenal F.C.|Arsenal]] in the [[2024–25 UEFA Champions League knockout phase#Quarter-finals|quarter-finals]] of the [[2024–25 UEFA Champions League]]. The eventual winners of that competition [[Paris Saint-Germain FC|Paris Saint-Germain]] went on to win the Intercontinental Cup for the first time in their history after beating [[CR Flamengo|Flamengo]] marking their first [[List of world champion football clubs|club world champions]] title.
+
+==Format==
+The details were approved by the [[FIFA Council]] on 17 December 2023, with the format formally confirmed on 20 September 2024.<ref name="SportingNews">{{cite news |last=Bonn |first=Kyle |date=17 December 2023 |title=Club World Cup 2025 in USA: Confirmed teams, format, schedule, dates for FIFA tournament with expanded field |url=https://www.sportingnews.com/us/soccer/news/club-world-cup-2025-usa-teams-format-dates-schedule-fifa/d5370f31621951fc1e4499e7 |work=[[The Sporting News]] |access-date=17 December 2023}}</ref><ref>{{cite news |last=Nair |first=Rohith |date=17 December 2023 |title=Club World Cup set for June–July 2025, new Intercontinental Cup in 2024 –FIFA |url=https://www.reuters.com/sports/soccer/club-world-cup-set-june-july-2025-new-intercontinental-cup-2024-fifa-2023-12-17/ |agency=[[Reuters]] |access-date=17 December 2023}}</ref><ref name="key info">{{cite news |date=20 September 2024 |title=FIFA Intercontinental Cup: Key information|url=https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2024/articles/information-tournament-details|website=FIFA.com |publisher=Fédération Internationale de Football Association|access-date=20 September 2024}}</ref><ref>{{cite web |url=https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2024/articles/bureau-council-update |title=Bureau of the Council update on FIFA Intercontinental Cup 2024 |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=19 September 2024 |access-date=21 September 2024}}</ref>
+
+* '''First round''': The winners of the [[2024–25 CAF Champions League]]{{efn|name="rounddraw"|As per the rotation policy between AFC and CAF.}} played the winners of the [[2025 OFC Men's Champions League]] in the "FIFA African–Asian–Pacific Cup play-off".<ref name="Dates">{{cite news |date=10 September 2025 |title=FIFA Intercontinental Cup 2025: Dates and venues for first match-ups confirmed|website=FIFA.com |publisher=Fédération Internationale de Football Association |url=https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2025/articles/intercontinental-cup-dates-venues-confirmed|access-date=10 September 2025}}</ref> The match was hosted by the club from the country with the higher ranking in the [[FIFA Men's World Ranking]].
+* '''Second round''': The winners of the [[2024–25 AFC Champions League Elite]] played the winners of the first round for the title of the "FIFA African–Asian–Pacific Cup". The match was hosted by the club from the country with the higher ranking in the FIFA Men's World Ranking. In parallel, the winners of the [[2025 Copa Libertadores]] and the winners of the [[2025 CONCACAF Champions Cup]] played each other at a neutral venue in a match that was denominated the "FIFA Derby of the Americas".
+* '''Play-off''': The winners of the second round matches played each other in the "FIFA Challenger Cup".
+* '''Final''': The winners of the play-off (FIFA Challenger Cup) played the winners of the [[2024–25 UEFA Champions League]].
+
+== Venues ==
+{| class="wikitable" style="text-align:center;margin:1em auto;"
+!{{Flagu|Egypt}}
+!{{Flagu|Saudi Arabia}}
+!{{Flagu|Qatar}}
+|-
+![[Cairo]]
+![[Jeddah]]
+![[Al Rayyan (city)|Al Rayyan]]
+|-
+|[[30 June Stadium]]
+|[[King Abdullah Sports City]]
+|[[Ahmad bin Ali Stadium]]
+|-
+|Capacity: '''30,000'''
+|Capacity: '''62,345'''
+|Capacity: '''45,032'''
+|-
+|[[File:30 June Stadium Cairo.jpg|178x178px]]
+|[[File:Jawhara Stadium.jpg|192x192px]]
+| [[File:Ahmad bin Ali Stadium.jpg|200x200px]]
+|-
+!{{location map+|Egypt|width=285|float=center|caption=Location of the host city of the 2025 FIFA Intercontinental Cup in Egypt.|places={{Location map~|Egypt|lat=30.044444|long=31.235833|label=[[Cairo]]|position=bottom}}}}
+!{{location map+|Saudi Arabia|width=285|float=center|caption=Location of the host city of the 2025 FIFA Intercontinental Cup in Saudi Arabia.|places={{Location map~|Saudi Arabia|lat=21.543333|long=39.172778|label=[[Jeddah]]|position=left}}}}
+!{{location map+|Qatar|width=285|float=center|caption=Location of the host city of the 2025 FIFA Intercontinental Cup in Qatar.|places={{Location map~|Qatar|lat=25.25|long=51.4|label=[[Al Rayyan (city)|Al Rayyan]]|position=left}}}}
+|}
+
+==Qualified teams==
+{{Location map+ |World
+|width=600|float=right
+|caption=Location of the teams participating in the 2025 FIFA Intercontinental Cup.
+|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-22.912147|long=-43.230187|label_size=80|label=[[CR Flamengo|Flamengo]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=48.84139|long=2.25306|label_size=80|label={{nowrap|[[Paris Saint-Germain FC|Paris Saint-Germain]]}}|position=left}}
+<!--AFC-->
+{{Location map~|World|lat=21.45476|long=39.951|label_size=90|label={{nowrap|[[Al-Ahli Saudi FC|Al-Ahli]]}}|position=right}}
+<!--CAF-->
+{{Location map~|World|lat=30.02|long=31.3737|label_size=80|label=[[Pyramids FC|Pyramids]]|position=left}}
+<!--CONCACAF-->
+{{Location map~|World|lat=19.332066|long=-99.1924747|label_size=80|label=[[Cruz Azul]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-36.898155|long=174.736487|label_size=80|label={{nowrap|[[Auckland City FC|Auckland City]]}}|position=left}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Qualified date
+!Participation
+|-
+!colspan=5|Entering in the final
+|-
+|{{nowrap|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]}}
+|[[UEFA]]
+|Winners of the [[2024–25 UEFA Champions League]]
+|31 May 2025
+|1st
+|-
+!colspan=5|Entering in the second round
+|-
+|{{fbaicon|KSA}} [[Al-Ahli Saudi FC|Al-Ahli]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2024–25 AFC Champions League Elite]]
+|3 May 2025
+|1st
+|-
+|{{fbaicon|MEX}} [[Cruz Azul]]
+|[[CONCACAF]]
+|Winners of the [[2025 CONCACAF Champions Cup]]
+|1 June 2025
+|1st
+|-
+|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|[[CONMEBOL]]
+|Winners of the [[2025 Copa Libertadores]]
+|29 November 2025
+|1st
+|-
+!colspan=5|Entering in the first round
+|-
+|{{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2024–25 CAF Champions League]]
+|1 June 2025
+|1st
+|-
+|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2025 OFC Men's Champions League]]
+|12 April 2025
+|2nd {{small|(Previous: [[2024 FIFA Intercontinental Cup|2024]])}}
+|}
+
+==Matches==
+The match schedule was confirmed on 9 September 2025.<ref name="Dates"/><ref>{{cite web |url=https://digitalhub.fifa.com/m/18d32b5e71e584f0/original/FIFA-Intercontinental-Cup-Qatar-2025-Match-Schedule.pdf |title=Match Schedule FIFA Intercontinental Cup Qatar 2025 |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=10 December 2025}}</ref> If a match was tied after normal playing time, 30 minutes of [[Overtime (sports)#Association football|extra time]] were played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] was held to determine the winner.<ref>{{cite web |url=https://digitalhub.fifa.com/m/41ca9a261eb3f7d8/original/FIC2025_regulations_EN.pdf |title=Regulations for the FIFA Intercontinental Cup Qatar 2025 |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=10 December 2025}}</ref>
+
+===Bracket===
+{{6TeamBracket-StepladderToQF
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+
+<!-- First round -->
+| RD1-text1    = 14 September – [[30 June Stadium|Cairo]]
+| RD1-team1    = {{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+| RD1-score1   = 3
+| RD1-team2    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD1-score2   = 0
+
+<!-- Second round -->
+| RD2-text1    = 10 December – [[Ahmad bin Ali Stadium|Al Rayyan]]
+| RD2-team1    = {{fbaicon|MEX}} [[Cruz Azul]]
+| RD2-score1   = 1
+| RD2-team2    = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+| RD2-score2   = 2
+
+| RD2-text2    = 23 September – [[King Abdullah Sports City|Jeddah]]
+| RD2-team3    = {{fbaicon|KSA}} [[Al-Ahli Saudi FC|Al-Ahli]]
+| RD2-score3   = 1
+| RD2-team4    = {{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+| RD2-score4   = 3
+
+<!-- Play-off -->
+| RD3-text1    = 13 December – [[Ahmad bin Ali Stadium|Al Rayyan]]
+| RD3-team1    = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+| RD3-score1   = 2
+| RD3-team2    = {{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+| RD3-score2   = 0
+
+<!-- Final -->
+| RD4-text1    = 17 December – [[Ahmad bin Ali Stadium|Al Rayyan]]
+| RD4-team1    = {{fbaicon|FRA}} '''[[Paris Saint-Germain FC|Paris Saint-Germain]]''' {{pso}}
+| RD4-score1   = '''1 (2)'''
+| RD4-team2    = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+| RD4-score2   = 1 (1)
+}}
+
+===First round===
+{{Football box|id=event
+|event      = African–Asian–Pacific Cup play-off
+|date       = {{Start date|2025|09|14|df=y}}
+|time       = 21:00 [[Egypt Standard Time|EGY]]
+|team1      = [[Pyramids FC|Pyramids]] {{fbaicon|EGY}}
+|score      = 3–0
+|team2      = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|goals1     =
+*[[Walid El Karti|El Karti]] {{goal|14}}
+*[[Marwan Hamdy|Hamdy]] {{goal|74}}
+*[[Mostafa Ziko|Ziko]] {{goal|85}}
+|goals2     =
+|stadium    = [[30 June Stadium]]
+|location   = [[Cairo]]
+|attendance = 4,157
+|referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+|report     = https://www.fifa.com/en/match-centre/match/107/292073/292076/400020951
+}}
+
+===Second round===
+{{Football box|id=event
+|event      = African–Asian–Pacific Cup 
+|date       = {{Start date|2025|9|23|df=y}}
+|time       = 21:00 [[Arabia Standard Time|AST]]
+|team1      = [[Al-Ahli Saudi FC|Al-Ahli]] {{fbaicon|KSA}}
+|score      = 1–3
+|team2      = {{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+|goals1     =
+*[[Ivan Toney|Toney]] {{goal|45|pen.}}
+|goals2     =
+*[[Fiston Mayele|Mayele]] {{goal|21||71||75}}
+|stadium    = [[King Abdullah Sports City]]
+|location   = [[Jeddah]]
+|attendance = 49,284
+|referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.fifa.com/en/match-centre/match/107/292073/292075/400020950
+}}
+----
+{{Football box|id=event
+|event      = Derby of the Americas
+|date       = {{Start date|2025|12|10|df=y}}
+|time       = 20:00 [[Arabia Standard Time|AST]]
+|team1      = [[Cruz Azul]] {{fbaicon|MEX}}
+|score      = 1–2
+|team2      = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|goals1     =
+*[[Jorge Sánchez (footballer, born 1997)|Sánchez]] {{goal|44}}
+|goals2     =
+*[[Giorgian de Arrascaeta|De Arrascaeta]] {{goal|15||71}}
+|stadium    = [[Ahmad bin Ali Stadium]]
+|location   = [[Al Rayyan (city)|Al Rayyan]]
+|attendance = 7,108
+|referee    = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|report     = https://www.fifa.com/en/match-centre/match/107/292073/292080/400020954
+}}
+
+===Play-off===
+{{Football box|id=event
+|event      = Challenger Cup
+|date       = {{Start date|2025|12|13|df=y}}
+|time       = 20:00 [[Arabia Standard Time|AST]]
+|team1      = [[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score      = 2–0
+|team2      = {{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+|goals1     =
+*[[Léo Pereira (footballer, born 1996)|Pereira]] {{goal|24}}
+*[[Danilo (footballer, born July 1991)|Danilo]] {{goal|52}}
+|goals2     =
+|stadium    = [[Ahmad bin Ali Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance = 8,368
+|referee    = [[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+|report     = https://www.fifa.com/en/match-centre/match/107/292073/292079/400020953
+}}
+
+===Final===
+{{main|2025 FIFA Intercontinental Cup final}}
+{{:2025 FIFA Intercontinental Cup final}}
+
+==Goalscorers==
+{|class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|1
+|align=left|{{flagicon|COD}} [[Fiston Mayele]]
+|align=left|{{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+|3
+|-
+|2
+|align=left|{{flagicon|URU}} [[Giorgian de Arrascaeta]]
+|align=left|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|2
+|-
+|rowspan="9"|3
+|align=left|{{flagicon|BRA}} [[Danilo (footballer, born July 1991)|Danilo]]
+|align=left|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|rowspan="9"|1
+|-
+|align=left|{{flagicon|MAR}} [[Walid El Karti]]
+|align=left|{{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+|-
+|align=left|{{flagicon|EGY}} [[Mohamed Hamdy (footballer, born 1995)|Mohamed Hamdy]]
+|align=left|{{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+|-
+|align=left|{{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+|align=left|{{fbaicon|BRA}} [[Flamengo]]
+|-
+|align=left|{{flagicon|GEO}} [[Khvicha Kvaratskhelia]]
+|align=left|{{fbaicon|FRA}} [[Paris Saint-Germain]]
+|-
+|align=left|{{flagicon|BRA}} [[Léo Pereira (footballer, born 1996)|Léo Pereira]]
+|align=left|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|-
+|align=left|{{flagicon|MEX}} [[Jorge Sánchez (footballer, born 1997)|Jorge Sánchez]]
+|align=left|{{fbaicon|MEX}} [[Cruz Azul]]
+|-
+|align=left|{{flagicon|ENG}} [[Ivan Toney]]
+|align=left|{{fbaicon|KSA}} [[Al-Ahli Saudi FC|Al-Ahli]]
+|-
+|align=left|{{flagicon|EGY}} [[Mostafa Ziko]]
+|align=left|{{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+|}
+
+==Trophies awarded==
+Multiple trophies were awarded to winning teams in the competition. In addition to an updated trophy given to the winners of the Intercontinental Cup [[2025 FIFA Intercontinental Cup final|final]], trophies were awarded to the winning teams of the African–Asian–Pacific Cup (contested by the AFC, CAF and OFC representatives), Derby of the Americas (contested by the CONCACAF and CONMEBOL representatives) and Challenger Cup (contested by the winners of the two aforementioned matches). These trophies were similar to each other, but with different coloured globes.<ref name="key info"/>
+* '''Intercontinental Cup:''' {{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+* '''Challenger Cup:''' {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+* '''Derby of the Americas:''' {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+* '''African–Asian–Pacific Cup:''' {{fbaicon|EGY}} [[Pyramids FC|Pyramids]]
+
+==See also==
+*[[2025 FIFA Club World Cup]]
+*[[2026 FIFA Women's Champions Cup]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2025}}
+
+{{FIFA Intercontinental Cup}}
+
+{{DEFAULTSORT:FIFA Intercontinental Cup}}
+[[Category:2025 FIFA Intercontinental Cup| ]]
+[[Category:2025 in men's association football|Intercontinental Cup]]
+[[Category:2025 in men's international association football|Intercontinental Cup]]
+[[Category:December 2025 sports events in Qatar|FIFA]]
+[[Category:September 2025 sports events in Africa]]
+[[Category:Football matches in Cairo]]
+[[Category:2020s in Cairo]]
+[[Category:Sport in Al Rayyan]]
+[[Category:September 2025 sports events in Asia]]
+[[Category:Football matches in Saudi Arabia]]
+[[Category:Sport in Jeddah]]
+[[Category:2025–26 in Saudi Arabian men's football]]
+[[Category:2025–26 in Qatari football]]
+[[Category:2025–26 in Egyptian football]]
+[[Category:2025 in New Zealand association football]]
+[[Category:2025 in Brazilian football]]
+[[Category:2025–26 in French men's football]]
+[[Category:2025–26 in Mexican football]]
+[[Category:Football matches in Qatar]]
+[[Category:FIFA Intercontinental Cup]]

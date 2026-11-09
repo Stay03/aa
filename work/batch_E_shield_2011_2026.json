@@ -1,0 +1,1078 @@
+[
+ {
+  "article": "2011 FA Community Shield",
+  "fb_date": "7 August 2011",
+  "team1": "Manchester City",
+  "team2": "Manchester United",
+  "score_raw": "2–3",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Lescott",
+    "minute": "38",
+    "note": ""
+   },
+   {
+    "player": "Džeko",
+    "minute": "45+1",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Smalling",
+    "minute": "52",
+    "note": ""
+   },
+   {
+    "player": "Nani",
+    "minute": "58",
+    "note": ""
+   },
+   {
+    "player": "Nani",
+    "minute": "90+4",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "77,169",
+  "referee": "Phil Dowd (Staffordshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/FAMatchCentre/2011/ManchesterCityvManchesterUnited/Match-Report Report]",
+  "manager1": "Roberto Mancini",
+  "cards1": [
+   {
+    "player": "Micah Richards",
+    "type": "Y",
+    "minute": "22"
+   },
+   {
+    "player": "Aleksandar Kolarov",
+    "type": "Y",
+    "minute": "60"
+   },
+   {
+    "player": "James Milner",
+    "type": "Y",
+    "minute": "55"
+   },
+   {
+    "player": "Yaya Touré",
+    "type": "Y",
+    "minute": "34"
+   },
+   {
+    "player": "Edin Džeko",
+    "type": "Y",
+    "minute": "19"
+   }
+  ],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Patrice Evra",
+    "type": "Y",
+    "minute": "40"
+   },
+   {
+    "player": "Anderson",
+    "type": "Y",
+    "minute": "19"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2012 FA Community Shield",
+  "fb_date": "12 August 2012",
+  "team1": "Chelsea",
+  "team2": "Manchester City",
+  "score_raw": "2–3",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Torres",
+    "minute": "40",
+    "note": ""
+   },
+   {
+    "player": "Bertrand",
+    "minute": "80",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Y. Touré",
+    "minute": "53",
+    "note": ""
+   },
+   {
+    "player": "Tevez",
+    "minute": "59",
+    "note": ""
+   },
+   {
+    "player": "Nasri",
+    "minute": "65",
+    "note": ""
+   }
+  ],
+  "stadium": "Villa Park, Birmingham",
+  "attendance": "36,394",
+  "referee": "Kevin Friend (Leicestershire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://www.thefa.com/Competitions/FACompetitions/TheFACommunityShield/FAMatchCentre/2012/chelsea-manchester-city/report-120812 Report]",
+  "manager1": "Roberto Di Matteo",
+  "cards1": [
+   {
+    "player": "Branislav Ivanović",
+    "type": "R",
+    "minute": "42"
+   },
+   {
+    "player": "Ashley Cole",
+    "type": "Y",
+    "minute": "62"
+   },
+   {
+    "player": "Frank Lampard",
+    "type": "Y",
+    "minute": "45+1"
+   },
+   {
+    "player": "Mikel John Obi",
+    "type": "Y",
+    "minute": "45+1"
+   },
+   {
+    "player": "Ramires",
+    "type": "Y",
+    "minute": "32"
+   },
+   {
+    "player": "Ryan Bertrand",
+    "type": "Y",
+    "minute": "80"
+   }
+  ],
+  "manager2": "Roberto Mancini",
+  "cards2": [
+   {
+    "player": "Costel Pantilimon",
+    "type": "Y",
+    "minute": "80"
+   },
+   {
+    "player": "Stefan Savić",
+    "type": "Y",
+    "minute": "11"
+   },
+   {
+    "player": "Vincent Kompany",
+    "type": "Y",
+    "minute": "49"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Michael McDonough (Northumberland); Richard West (East Riding of Yorkshire)",
+   "Fourth official": "Anthony Taylor (Cheshire)",
+   "Reserve official": "Charles Breakspear (Surrey) |style"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2013 FA Community Shield",
+  "fb_date": "11 August 2013",
+  "team1": "Manchester United",
+  "team2": "Wigan Athletic",
+  "score_raw": "2–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Van Persie",
+    "minute": "6",
+    "note": ""
+   },
+   {
+    "player": "Van Persie",
+    "minute": "59",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "80,235",
+  "referee": "Mark Clattenburg (County Durham)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/0/football/23565298",
+  "manager1": "David Moyes",
+  "cards1": [
+   {
+    "player": "Tom Cleverley",
+    "type": "Y",
+    "minute": "90+1"
+   }
+  ],
+  "manager2": "Owen Coyle",
+  "cards2": [
+   {
+    "player": "James McArthur",
+    "type": "Y",
+    "minute": "50"
+   },
+   {
+    "player": "Roger Espinoza",
+    "type": "Y",
+    "minute": "88"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2014 FA Community Shield",
+  "fb_date": "10 August 2014",
+  "team1": "Arsenal",
+  "team2": "Manchester City",
+  "score_raw": "3–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Cazorla",
+    "minute": "21",
+    "note": ""
+   },
+   {
+    "player": "Ramsey",
+    "minute": "42",
+    "note": ""
+   },
+   {
+    "player": "Giroud",
+    "minute": "60",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "71,523",
+  "referee": "Michael Oliver (Northumberland)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "{{Deprecated archive|url=https://archive.today/20140811163009/http://www.thefa.com/news/competitions/fa-community-shield/2014/aug/arsenal-v-manchester-city-the-fa-community-shield-wembley-match-report-100814|title=Report}}",
+  "manager1": "Arsène Wenger",
+  "cards1": [],
+  "manager2": "Manuel Pellegrini",
+  "cards2": [
+   {
+    "player": "Fernando",
+    "type": "Y",
+    "minute": "51"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "3",
+    "0"
+   ],
+   "Possession": [
+    "42%",
+    "57%"
+   ],
+   "Shots on target": [
+    "4",
+    "1"
+   ],
+   "Shots off target": [
+    "4",
+    "11"
+   ],
+   "Corner kicks": [
+    "3",
+    "7"
+   ],
+   "Fouls": [
+    "13",
+    "15"
+   ],
+   "Yellow cards": [
+    "0",
+    "1"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2015 FA Community Shield",
+  "fb_date": "2 August 2015",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Oxlade-Chamberlain",
+    "minute": "24",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "85,437",
+  "referee": "Anthony Taylor (Cheshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://www.thefa.com/news/competitions/fa-community-shield/2015/aug/chelsea-v-arsenal-fa-community-shield-match-report Report]",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Francis Coquelin",
+    "type": "Y",
+    "minute": "67"
+   }
+  ],
+  "manager2": "José Mourinho",
+  "cards2": [
+   {
+    "player": "César Azpilicueta",
+    "type": "Y",
+    "minute": "65"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "1",
+    "0"
+   ],
+   "Possession": [
+    "43.4%",
+    "56.6%"
+   ],
+   "Shots on target": [
+    "5",
+    "2"
+   ],
+   "Shots off target": [
+    "6",
+    "12"
+   ],
+   "Corner kicks": [
+    "4",
+    "4"
+   ],
+   "Fouls": [
+    "12",
+    "11"
+   ],
+   "Interceptions": [
+    "21",
+    "13"
+   ],
+   "Offsides": [
+    "0",
+    "6"
+   ],
+   "Yellow cards": [
+    "1",
+    "1"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2016 FA Community Shield",
+  "fb_date": "",
+  "team1": "Leicester City",
+  "team2": "Manchester United",
+  "score_raw": "1–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Vardy",
+    "minute": "52",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Lingard",
+    "minute": "32",
+    "note": ""
+   },
+   {
+    "player": "Ibrahimović",
+    "minute": "83",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "85,437",
+  "referee": "Craig Pawson (South Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.com/sport/football/36934956",
+  "manager1": "Claudio Ranieri",
+  "cards1": [
+   {
+    "player": "Danny Simpson",
+    "type": "Y",
+    "minute": "40"
+   },
+   {
+    "player": "Andy King",
+    "type": "Y",
+    "minute": "55"
+   },
+   {
+    "player": "Jamie Vardy",
+    "type": "Y",
+    "minute": "75"
+   }
+  ],
+  "manager2": "José Mourinho",
+  "cards2": [
+   {
+    "player": "Eric Bailly",
+    "type": "Y",
+    "minute": "71"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Stephen Child (Kent); Lee Betts (Norfolk)",
+   "Fourth official": "Bobby Madley (West Yorkshire) |style"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2017 FA Community Shield",
+  "fb_date": "",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_raw": "1–1",
+  "aet": "",
+  "penaltyscore": "4–1",
+  "goals1": [
+   {
+    "player": "Kolašinac",
+    "minute": "82",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Moses",
+    "minute": "46",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "83,325",
+  "referee": "Bobby Madley (West Yorkshire)",
+  "penalties1": "Walcott Monreal Oxlade-Chamberlain Giroud",
+  "penalties2": "Cahill Courtois Morata",
+  "report": "http://www.thefa.com/news/2017/aug/04/fa-community-shield-arsenal-chelsea-report-060817",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Héctor Bellerín",
+    "type": "Y",
+    "minute": "16"
+   }
+  ],
+  "manager2": "Antonio Conte",
+  "cards2": [
+   {
+    "player": "César Azpilicueta",
+    "type": "Y",
+    "minute": "13"
+   },
+   {
+    "player": "Marcos Alonso",
+    "type": "Y",
+    "minute": "35"
+   },
+   {
+    "player": "Willian",
+    "type": "Y",
+    "minute": "37"
+   },
+   {
+    "player": "Pedro",
+    "type": "R",
+    "minute": "80"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Simon Bennett (Staffordshire); Constantine Hatzidakis (Kent)",
+   "Fourth official": "Graham Scott (Berks & Bucks)",
+   "Fifth official": "Edward Smart (Birmingham) |style"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2018 FA Community Shield",
+  "fb_date": "",
+  "team1": "Chelsea",
+  "team2": "Manchester City",
+  "score_raw": "0–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Agüero",
+    "minute": "13",
+    "note": ""
+   },
+   {
+    "player": "Agüero",
+    "minute": "58",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "72,724",
+  "referee": "Jon Moss (West Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "http://www.thefa.com/news/2018/aug/05/fa-community-shield-chelsea-manchester-city-report-050818",
+  "manager1": "Maurizio Sarri",
+  "cards1": [],
+  "manager2": "Pep Guardiola",
+  "cards2": [],
+  "officials": {
+   "Assistant referees": "Adam Nunn (Wiltshire); Eddie Smart (West Midlands)",
+   "Fourth official": "Paul Tierney (Lancashire)",
+   "Reserve assistant referee": "Dan Cook (Hampshire)",
+   "Video assistant referee": "Stuart Attwell (West Midlands)",
+   "Assistant video assistant referee": "Andrew Halliday (Army) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2019 FA Community Shield",
+  "fb_date": "",
+  "team1": "Liverpool",
+  "team2": "Manchester City",
+  "score_raw": "1–1",
+  "aet": "",
+  "penaltyscore": "4–5",
+  "goals1": [
+   {
+    "player": "Matip",
+    "minute": "77",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Sterling",
+    "minute": "12",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "77,565",
+  "referee": "Martin Atkinson (West Yorkshire)",
+  "penalties1": "Shaqiri Wijnaldum Lallana Oxlade-Chamberlain Salah",
+  "penalties2": "Gündoğan B. Silva Foden Zinchenko Gabriel Jesus",
+  "report": "https://www.bbc.co.uk/sport/football/49141690",
+  "manager1": "Jürgen Klopp",
+  "cards1": [],
+  "manager2": "Pep Guardiola",
+  "cards2": [
+   {
+    "player": "Kevin De Bruyne",
+    "type": "Y",
+    "minute": "33"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Sian Massey-Ellis (Birmingham); Dan Cook (Hampshire)",
+   "Fourth official": "Stuart Attwell (Birmingham)",
+   "Reserve assistant referee": "Neil Davies (London)",
+   "Video assistant referee": "Anthony Taylor (Cheshire)",
+   "Assistant video assistant referee": "Steve Child (London) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2020 FA Community Shield",
+  "fb_date": "",
+  "team1": "Arsenal",
+  "team2": "Liverpool",
+  "score_raw": "1–1",
+  "aet": "",
+  "penaltyscore": "5–4",
+  "goals1": [
+   {
+    "player": "Aubameyang",
+    "minute": "12",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Minamino",
+    "minute": "73",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "0",
+  "referee": "Andre Marriner (Birmingham)",
+  "penalties1": "Nelson Maitland-Niles Cédric David Luiz Aubameyang",
+  "penalties2": "Salah Fabinho Brewster Minamino Jones",
+  "report": "https://www.bbc.co.uk/sport/football/53871874",
+  "manager1": "Mikel Arteta",
+  "cards1": [],
+  "manager2": "Jürgen Klopp",
+  "cards2": [
+   {
+    "player": "James Milner",
+    "type": "Y",
+    "minute": "57"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Mark Scholes (Berks & Bucks); Marc Perry (Birmingham)",
+   "Fourth official": "Andrew Madley (West Riding)",
+   "Reserve assistant referee": "Dan Robathan (Norfolk)",
+   "Video assistant referee": "David Coote (Nottinghamshire)",
+   "Assistant video assistant referee": "Dan Cook (Hampshire) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2021 FA Community Shield",
+  "fb_date": "",
+  "team1": "Leicester City",
+  "team2": "Manchester City",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Iheanacho",
+    "minute": "89",
+    "note": "pen."
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "45,602",
+  "referee": "Paul Tierney (Lancashire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/58036460",
+  "manager1": "Brendan Rodgers",
+  "cards1": [
+   {
+    "player": "Ryan Bertrand",
+    "type": "Y",
+    "minute": "50"
+   }
+  ],
+  "manager2": "Pep Guardiola",
+  "cards2": [
+   {
+    "player": "Rúben Dias",
+    "type": "Y",
+    "minute": "87"
+   },
+   {
+    "player": "Fernandinho",
+    "type": "Y",
+    "minute": "87"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Ian Hussin (Liverpool); Neil Davies (London)",
+   "Fourth official": "Peter Bankes (Liverpool)",
+   "Reserve assistant referee": "Nick Hopton (Derbyshire)",
+   "Video assistant referee": "Darren England (Sheffield & Hallamshire)",
+   "Assistant video assistant referee": "Dan Robathan (Norfolk) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2022 FA Community Shield",
+  "fb_date": "",
+  "team1": "Liverpool",
+  "team2": "Manchester City",
+  "score_raw": "3–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Alexander-Arnold",
+    "minute": "21",
+    "note": ""
+   },
+   {
+    "player": "Salah",
+    "minute": "83",
+    "note": "pen."
+   },
+   {
+    "player": "Núñez",
+    "minute": "90+4",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Alvarez",
+    "minute": "70",
+    "note": ""
+   }
+  ],
+  "stadium": "King Power Stadium, Leicester",
+  "attendance": "28,545",
+  "referee": "Craig Pawson (Sheffield & Hallamshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/62275194",
+  "manager1": "Jürgen Klopp",
+  "cards1": [
+   {
+    "player": "Darwin Núñez",
+    "type": "Y",
+    "minute": "90+5"
+   }
+  ],
+  "manager2": "Pep Guardiola",
+  "cards2": [
+   {
+    "player": "Rúben Dias",
+    "type": "Y",
+    "minute": "83"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Harry Lennard (Sussex); Nick Hopton (Derbyshire)",
+   "Fourth official": "Darren England (Sheffield & Hallamshire)",
+   "Reserve assistant referee": "Tim Wood (Gloucestershire)",
+   "Video assistant referee": "John Brooks (Leicestershire)",
+   "Assistant video assistant referee": "Lee Betts (Norfolk) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2023 FA Community Shield",
+  "fb_date": "",
+  "team1": "Arsenal",
+  "team2": "Manchester City",
+  "score_raw": "1–1",
+  "aet": "",
+  "penaltyscore": "4–1",
+  "goals1": [
+   {
+    "player": "Trossard",
+    "minute": "90+11",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Palmer",
+    "minute": "77",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "81,145",
+  "referee": "Stuart Attwell (Birmingham)",
+  "penalties1": "Ødegaard Trossard Saka Vieira",
+  "penalties2": "De Bruyne Silva Rodri",
+  "report": "https://www.bbc.co.uk/sport/football/66352143",
+  "manager1": "Mikel Arteta",
+  "cards1": [
+   {
+    "player": "Gabriel Magalhães",
+    "type": "Y",
+    "minute": "66"
+   },
+   {
+    "player": "Thomas Partey",
+    "type": "Y",
+    "minute": "8"
+   },
+   {
+    "player": "Kai Havertz",
+    "type": "Y",
+    "minute": "27"
+   }
+  ],
+  "manager2": "Pep Guardiola",
+  "cards2": [
+   {
+    "player": "Julián Alvarez",
+    "type": "Y",
+    "minute": "31"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Tim Wood (Gloucestershire); Dan Robathan (Norfolk)",
+   "Fourth official": "John Brooks (Leicestershire)",
+   "Reserve assistant referee": "Steve Meredith (Nottinghamshire)",
+   "Video assistant referee": "Michael Salisbury (Lancashire)",
+   "Assistant video assistant referee": "Neil Davies (London) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2024 FA Community Shield",
+  "fb_date": "10 August 2024",
+  "team1": "Manchester City",
+  "team2": "Manchester United",
+  "score_raw": "1–1",
+  "aet": "",
+  "penaltyscore": "7–6",
+  "goals1": [
+   {
+    "player": "Silva",
+    "minute": "89",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Garnacho",
+    "minute": "82",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "78,146",
+  "referee": "Jarred Gillett",
+  "penalties1": "Silva De Bruyne Haaland Savinho Ederson Nunes Dias Akanji",
+  "penalties2": "Fernandes Dalot Garnacho Sancho Casemiro McTominay Martínez Evans",
+  "report": "https://www.bbc.co.uk/sport/football/live/c9wjkjyqpg4t",
+  "manager1": "Pep Guardiola",
+  "cards1": [
+   {
+    "player": "Bernardo Silva",
+    "type": "Y",
+    "minute": "85"
+   },
+   {
+    "player": "Matheus Nunes",
+    "type": "Y",
+    "minute": "68"
+   }
+  ],
+  "manager2": "Erik ten Hag",
+  "cards2": [],
+  "officials": {
+   "Assistant referees": "Adrian Holmes; Nick Greenhalgh",
+   "Fourth official": "Sam Barrott Reserve Assistant Referee:; Craig Taylor",
+   "Video assistant referee": "Peter Bankes",
+   "Assistant video assistant referee": "Sian Massey-Ellis",
+   "Support video assistant referee": "Tim Robinson |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2025 FA Community Shield",
+  "fb_date": "10 August 2025",
+  "team1": "Crystal Palace",
+  "team2": "Liverpool",
+  "score_raw": "2–2",
+  "aet": "",
+  "penaltyscore": "3–2",
+  "goals1": [
+   {
+    "player": "Mateta",
+    "minute": "17",
+    "note": "pen."
+   },
+   {
+    "player": "Sarr",
+    "minute": "77",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Ekitike",
+    "minute": "4",
+    "note": ""
+   },
+   {
+    "player": "Frimpong",
+    "minute": "21",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "82,645",
+  "referee": "Chris Kavanagh (Manchester)",
+  "penalties1": "Mateta Eze Sarr Sosa Devenny",
+  "penalties2": "Salah Mac Allister Gakpo Elliott Szoboszlai",
+  "report": "https://www.bbc.co.uk/sport/football/live/cy7y0p1p7ezt",
+  "manager1": "Oliver Glasner",
+  "cards1": [],
+  "manager2": "Arne Slot",
+  "cards2": [
+   {
+    "player": "Ibrahima Konaté",
+    "type": "Y",
+    "minute": "43"
+   },
+   {
+    "player": "Mohamed Salah",
+    "type": "Y",
+    "minute": "87"
+   },
+   {
+    "player": "Florian Wirtz",
+    "type": "Y",
+    "minute": "44"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "James Mainwaring (Lancashire); Wade Smith (Manchester)",
+   "Fourth official": "Tony Harrington (Durham)",
+   "Reserve assistant referee": "Akil Howson (Leicestershire and Rutland)",
+   "Video assistant referee": "Paul Tierney (Lancashire)",
+   "Assistant video assistant referee": "Nick Hopton (Derbyshire) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2026 FA Community Shield",
+  "fb_date": "16 August 2026",
+  "team1": "Arsenal",
+  "team2": "Manchester City",
+  "score_raw": "3–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Calafiori",
+    "minute": "1",
+    "note": ""
+   },
+   {
+    "player": "Havertz",
+    "minute": "28",
+    "note": ""
+   },
+   {
+    "player": "Ødegaard",
+    "minute": "48",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "58,056",
+  "referee": "Sam Barrott (West Riding of Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.com/sport/football/live/cv4g34g19p2kt",
+  "manager1": "Mikel Arteta",
+  "cards1": [
+   {
+    "player": "Riccardo Calafiori",
+    "type": "Y",
+    "minute": "38"
+   },
+   {
+    "player": "Martin Ødegaard",
+    "type": "Y",
+    "minute": "84"
+   }
+  ],
+  "manager2": "Enzo Maresca",
+  "cards2": [
+   {
+    "player": "Joško Gvardiol",
+    "type": "Y",
+    "minute": "53"
+   },
+   {
+    "player": "Phil Foden",
+    "type": "Y",
+    "minute": "24"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Craig Taylor (Staffordshire); Blake Antrobus (Manchester)",
+   "Fourth official": "Farai Hallam (Surrey)",
+   "Reserve assistant referee": "Alistair Nelson (Nottinghamshire)",
+   "Video assistant referee": "James Bell (Sheffield & Hallamshire)",
+   "Assistant video assistant referee": "Tim Wood (Gloucestershire) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ }
+]

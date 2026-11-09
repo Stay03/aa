@@ -1,0 +1,304 @@
+{{For|the women's event|2023 Women's FA Cup final}}
+{{Infobox football match
+| title      = 2023 FA Cup final
+| image      = London Wembley.jpg
+| caption    = The match took place at [[Wembley Stadium]]
+| event      = [[2022–23 FA Cup]]
+| date       = {{Start date|2023|6|3|df=y}}
+| team1      = [[Manchester City F.C.|Manchester City]]
+| team1score = 2
+| team2      = [[Manchester United F.C.|Manchester United]]
+| team2score = 1
+| details    =
+| stadium    = [[Wembley Stadium]]
+| city       = [[London]]
+| man_of_the_match1a = [[İlkay Gündoğan]] {{nowrap|(Manchester City)}}<ref name="MOTM">{{cite web|url=https://www.skysports.com/football/manchester-city-vs-manchester-united/482166|title=Man City 2–1 Man Utd: Ilkay Gundogan's double puts City on the brink of treble with FA Cup win|website=Sky Sports.com|date=3 June 2023|access-date=3 June 2023}}</ref>
+| referee    = [[Paul Tierney (referee)|Paul Tierney]] ([[Lancashire County Football Association|Lancashire]])<ref name="officials">{{cite news |title=Paul Tierney to referee 2023 Emirates FA Cup Final |url=https://www.thefa.com/news/2023/may/17/paul-tierney-to-referee-emirates-fa-cup-final-20231705 |publisher=[[The Football Association]] |date=17 May 2023 |accessdate=17 May 2023 }}</ref>
+| attendance = 83,179
+| weather    = Partly cloudy
+| previous   = [[2022 FA Cup final|2022]]
+| next       = [[2024 FA Cup final|2024]]
+}}
+The '''2023 FA Cup final''' was the final match of the [[2022–23 FA Cup]], the 142nd season of the oldest [[Association football|football]] tournament in the world, the [[FA Cup|Football Association Challenge Cup]]. It was played at [[Wembley Stadium]] in London on 3 June 2023 between [[Manchester City F.C.|Manchester City]] and [[Manchester United F.C.|Manchester United]], making it the first time the [[Manchester derby]] was contested in a cup final.
+
+Manchester City won the match 2–1 for their seventh FA Cup title and second [[Double (association football)|double]]. [[İlkay Gündoğan]] broke the record for the fastest goal ever in an FA Cup final, scoring after just 12 seconds.
+
+As winners Manchester City qualified for the [[2023–24 UEFA Champions League|UEFA Champions League]] tournament via their position in the [[2022–23 Premier League]], the [[2023–24 UEFA Europa League]] position went to the sixth-placed Premier League team ([[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]), while the [[2023–24 UEFA Europa Conference League qualifying phase and play-off round#Play-off round|2023–24 UEFA Europa Conference League play-off round]] spot allocated to the team that finished sixth in the Premier League was awarded to the seventh-placed team ([[Aston Villa F.C.|Aston Villa]]).
+
+As winners of both the Premier League and FA Cup, Manchester City qualified for the [[2023 FA Community Shield]], which they lost [[Penalty shoot-out (association football)|on penalties]] to Premier League runners-up [[Arsenal F.C.|Arsenal]].
+
+==Background==
+The 2023 final marked the 100th anniversary of the first FA Cup final to be played at the original [[Wembley Stadium (1923)|Wembley Stadium]], the venue replaced by the [[Wembley Stadium|current stadium]] in 2007.<ref>{{cite news |title=The 1923 FA Cup final: 100 years of lessons learned and absolutely not learned |url=https://www.football365.com/news/opinion-1923-fa-cup-final-100-years-of-lessons-learned-lessons-not-learned-west-ham-bolton |website=Football365 |date=22 April 2023 |accessdate=24 April 2023 }}</ref> It was Manchester United's 21st appearance in the FA Cup final, tying the record set by Arsenal on their last appearance in [[2020 FA Cup final|2020]], and their first since [[2018 FA Cup final|2018]]. Manchester City made their 12th FA Cup final appearance and their first since [[2019 FA Cup final|2019]].
+
+It was the first time that the two Manchester clubs met in the FA Cup final, but the tenth such meeting at any stage of the competition and the 190th [[Manchester derby]] in total. The two clubs split the results between them in the Premier League during the season; City won the first match 6–3 at the [[City of Manchester Stadium]] in October 2022,<ref>{{cite news |first=Phil |last=McNulty |title=Man City 6–3 Man Utd: Erling Haaland and Phil Foden score hat-tricks |url=https://www.bbc.co.uk/sport/football/63024245 |website=BBC Sport |date=2 October 2022 |accessdate=24 April 2023 }}</ref> while United won 2–1 at [[Old Trafford]] in January 2023.<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 2–1 Man City: Marcus Rashford scores winner in Manchester derby |url=https://www.bbc.co.uk/sport/football/64195236 |website=BBC Sport |date=14 January 2023 |accessdate=24 April 2023 }}</ref>
+
+Manchester City were seeking to win the [[Treble (association football)#Continental trebles|continental treble]] of the Premier League, FA Cup and [[2022–23 UEFA Champions League|UEFA Champions League]], attempting to emulate the feat managed by Manchester United in [[1998–99 Manchester United F.C. season|1998–99]]; they faced [[Inter Milan]] in the [[2023 UEFA Champions League final]] a week after the FA Cup final, winning 1–0 and completing the treble. Manchester United were looking to secure their second trophy under manager [[Erik ten Hag]], having won the [[2022–23 EFL Cup|EFL Cup]] in February 2023, aiming for their first ever domestic cup double. They also had once successfully denied an opponent of a continental treble chase before – in [[1977 FA Cup final|1977]] at the expense of [[Liverpool F.C.|Liverpool]].
+
+A UK-wide [[2022–present United Kingdom railway strikes|train strike]] took place on the day of the final.<ref>{{cite news |first=Charley |last=Adams |title=Train strikes hit FA Cup final and Beyoncé concert |url=https://www.bbc.co.uk/news/uk-65797033 |website=BBC News |date=3 June 2024 |accessdate=28 April 2024 }}</ref>
+
+==Route to the final==
+{{main|2022–23 FA Cup}}
+
+<div class="thumb floatright">
+{{Table alignment|defaultleft}}
+{| class="wikitable plainrowheaders" style="text-align:center;margin:0"
+|-
+!colspan="2"|Manchester City
+!rowspan="2" style="width:25px"|Round
+!colspan="2"|Manchester United
+|-
+!scope="col" style="width:180px"|Opposition
+!scope="col" style="width:70px"|Score
+!scope="col" style="width:180px"|Opposition
+!scope="col" style="width:70px"|Score
+|-
+|[[Chelsea F.C.|Chelsea]] ([[City of Manchester Stadium|H]])
+|4–0
+!scope=row style="text-align:center"|3rd
+|[[Everton F.C.|Everton]] ([[Old Trafford|H]])
+|3–1
+|-
+|[[Arsenal F.C.|Arsenal]] (H)
+|1–0
+!scope=row style="text-align:center"|4th
+|[[Reading F.C.|Reading]] (H)
+|3–1
+|-
+|[[Bristol City F.C.|Bristol City]] ([[Ashton Gate Stadium|A]])
+|3–0
+!scope=row style="text-align:center"|5th
+|[[West Ham United F.C.|West Ham United]] (H)
+|3–1
+|-
+|[[Burnley F.C.|Burnley]] (H)
+|6–0
+!scope=row style="text-align:center"|QF
+|[[Fulham F.C.|Fulham]] (H)
+|3–1
+|-
+|[[Sheffield United F.C.|Sheffield United]] ([[Wembley Stadium|N]])
+|3–0
+!scope=row style="text-align:center"|SF
+|[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] ([[Wembley Stadium|N]])
+|0–0 {{aet}}<br />{{pso|7–6}}
+|-
+|colspan="5"|<small>'''Key:''' (H) = Home venue; (A) = Away venue; (N) = [[Neutral venue]]</small>
+|}
+</div>
+As Premier League clubs, both Manchester City and Manchester United entered the FA Cup in the third round. City began with a 4–0 home victory over [[2022 FA Cup final|2022 finalists]] [[Chelsea F.C.|Chelsea]] at the City of Manchester Stadium,<ref>{{Cite news |last=McNulty |first=Phil |date=8 January 2023 |title=Manchester City 4–0 Chelsea |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64193420 |access-date=23 April 2023}}</ref> while United beat [[Everton F.C.|Everton]] 3–1 at Old Trafford.<ref>{{Cite news |last=Stone |first=Simon |date=6 January 2023 |title=Manchester United 3–1 Everton |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64182366 |access-date=23 April 2023}}</ref> In the fourth round, City again played at home, where they beat 14-time FA Cup winners Arsenal 1–0.<ref>{{Cite news |last=McNulty |first=Phil |date=27 January 2023 |title=Manchester City 1–0 Arsenal |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64417476 |access-date=23 April 2023}}</ref> United also faced another home tie in the fourth round, claiming another 3–1 victory over [[Reading F.C.|Reading]].<ref>{{Cite news |last=Sutcliffe |first=Steve |title=Manchester United 3–1 Reading |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64429931 |date=28 January 2023 |access-date=23 April 2023}}</ref> They managed yet another 3–1 home win in the fifth round, this time against [[West Ham United F.C.|West Ham United]],<ref>{{Cite news |last=Emons |first=Michael |date=1 March 2023 |title=Manchester United 3–1 West Ham |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64799759 |access-date=23 April 2023}}</ref> while City beat [[Bristol City F.C.|Bristol City]] 3–0 at [[Ashton Gate Stadium]].<ref>{{Cite news |last=Begley |first=Emlyn |date=28 February 2023 |title=Bristol City 0–3 Manchester City |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64788956 |access-date=23 April 2023}}</ref>
+
+In the quarter-finals, Manchester City returned to the City of Manchester Stadium, where they recorded a 6–0 win over [[Burnley F.C.|Burnley]],<ref>{{Cite news |last=Stone |first=Simon |date=18 March 2023 |title=Manchester City 6–0 Burnley |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64984170 |access-date=23 April 2023}}</ref> while United won 3–1 at Old Trafford for the fourth game in a row, Fulham this time the team on the receiving end.<ref>{{Cite news |last=Stone |first=Simon |date=19 March 2023 |title=Manchester United 3–1 Fulham |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64984201 |access-date=23 April 2023}}</ref> The semi-finals were both played at Wembley Stadium, with City facing [[Sheffield United F.C.|Sheffield United]] on 22 April and United taking on [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] the next day. City won their tie 3–0,<ref>{{Cite news |last=McNulty |first=Phil |date=22 April 2023 |title=Manchester City 3–0 Sheffield United |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/65347141 |access-date=23 April 2023}}</ref> while United and Brighton played out a goalless draw [[Overtime (sports)#Association football|after extra time]] that had to be decided on penalties; United won the shoot-out 7–6.<ref>{{Cite news |last=McNulty |first=Phil |date=23 April 2023 |title=Brighton 0–0 Man Utd (6–7 on pens) |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/65347158 |access-date=23 April 2023}}</ref>
+{{Clear}}
+
+==Match==
+===Summary===
+[[File:City vs United FA Cup final 2023.jpg|thumb|upright|260px|The [[Wembley Stadium]] during the 2023 FA Cup final between [[Manchester City F.C.|Manchester City]] and [[Manchester United F.C.|Manchester United]]]]
+
+====First half====
+Just 12 seconds into the match, [[İlkay Gündoğan]] opened the scoring for Manchester City with a right-footed volley from just outside the penalty area, making it the fastest goal in FA Cup Final history.<ref>{{cite web|url=https://www.skysports.com/football/man-city-vs-man-utd/report/482166 |title=Man City 2-1 Man Utd: Ilkay Gundogan's double puts City on the brink of treble with FA Cup win|date=3 June 2023|work=Sky Sports|accessdate=3 June 2023}}</ref> The previous fastest goal was [[Louis Saha]]'s in the [[2009 FA Cup final|2009 final]] for [[Everton F.C.|Everton]] which came after 25 seconds.<ref>{{cite news |first=Caroline |last=Cheese |title=Live text – FA Cup final |url=https://news.bbc.co.uk/sport1/hi/football/fa_cup/8075105.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=30 May 2009 |access-date=30 May 2009 | archive-url= https://web.archive.org/web/20090531012146/http://news.bbc.co.uk/sport1/hi/football/fa_cup/8075105.stm| archive-date= 31 May 2009 | url-status= live}}</ref> City pushed for a second goal soon after, as a free-kick into the United penalty area by [[Kevin De Bruyne]] was narrowly headed wide by [[Rodri (footballer, born 1996)|Rodri]]. [[Erling Haaland]] also had a chance to double City's lead, but an effort from him ended up drifting over the goal. United soon began to develop a spell of possession themselves, and they were rewarded for their forays into the City half as the [[Video assistant referee|VAR]] concluded that the ball had struck [[Jack Grealish]]'s hand inside the penalty area. [[Bruno Fernandes]] converted the penalty for United, to make it 1–1 after 33 minutes. United did not let up in their spell of dominance in the final minutes of the first half, as [[Raphaël Varane]] had a chance from a corner to slot the ball into the net but hit his effort over the bar.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/65785637 |title=Manchester City 2-1 Manchester United: Ilkay Gundogan double settles 2023 FA Cup final|date=3 June 2023|work=BBC Sport|accessdate=3 June 2023}}</ref>
+
+====Second half====
+In the 51st minute, De Bruyne whipped in a free-kick towards the United penalty area which fell to Gündoğan from just outside the area who then struck the ball first time with his left foot into the bottom left hand corner of the net, with [[David de Gea]] unable to keep out, for his second of the match and regain City's lead early in the second half. City kept up their pressure on United as the second half progressed, as De Bruyne found himself with a good chance running towards goal but his resulting effort was saved by de Gea's foot. United then began to pile more pressure themselves, as an effort from just outside the City penalty area from [[Marcus Rashford]] flew over the bar. At the other end of the field, City thought they had scored a third after an effort from Haaland was saved by de Gea before Gündoğan put the ball in the net from the rebound for what would have been his hat-trick. However, the goal was immediately disallowed by the referee after Gündoğan was shown to have been in an offside position when Haaland tried the initial shot. City did come close again to scoring a third, as a ball across the face of the United goal from [[Bernardo Silva]] was nearly tapped in at the back post by [[Manuel Akanji]]. Into the latter stages of the match, United's desperate search for an equaliser nearly earned them a goal as [[Alejandro Garnacho]] fired narrowly wide of the far post from the left hand side of the penalty area, before substitute [[Scott McTominay]] controlled the ball down inside the City penalty area, where Varane attempted to slot the ball into the net but was thwarted by [[Stefan Ortega]]. The ball bounced up off the crossbar, and was headed narrowly over courtesy of desperate defending from City. The match ended after six minutes of stoppage time, with City winning 2–1.<ref>{{cite web|url= https://www.theguardian.com/football/2023/jun/03/manchester-city-manchester-united-fa-cup-final-match-report|title=
+Manchester City hold off Manchester United to win FA Cup and strike Double|date=3 June 2023|work=Guardian|accessdate=3 June 2023}}</ref>
+
+===Details===
+Because the match was deemed "high risk" by the police, it was moved to a 15:00 start, the first FA Cup final to kick-off at that time since [[2011 FA Cup final|2011]].<ref>{{cite news|url=https://www.telegraph.co.uk/football/2023/05/31/fa-cup-final-2023-date-time-manchester-city-vs-man-utd-kick-off/|title=FA Cup final 2023, Manchester City vs Manchester United: What time is it and what TV channel is it on?|work=The Telegraph|date=31 May 2023|access-date=31 May 2023|archive-url=https://web.archive.org/web/20230531230328/https://www.telegraph.co.uk/football/2023/05/31/fa-cup-final-2023-date-time-manchester-city-vs-man-utd-kick-off/|archive-date=31 May 2023}}</ref>
+
+<onlyinclude>{{#invoke:football box|main
+|date       = {{Start date|2023|6|3|df=y}}
+|time       = 15:00 [[British Summer Time|BST]]
+|team1      = [[Manchester City F.C.|Manchester City]]
+|score      = 2–1
+|team2      = [[Manchester United F.C.|Manchester United]]
+|goals1     =
+*[[İlkay Gündoğan|Gündoğan]] {{goal|1||51}}
+|goals2     =
+*[[Bruno Fernandes|Fernandes]] {{goal|33|pen.}}
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 83,179
+|referee    = [[Paul Tierney (referee)|Paul Tierney]] ([[Lancashire County Football Association|Lancashire]])
+|report     = https://www.bbc.co.uk/sport/football/65785637
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mancity2223H
+ |pattern_b  = _mancity2223H
+ |pattern_ra = _mancity2223H
+ |pattern_sh = _mancity2223h
+ |pattern_so = _mancity2223hl
+ |leftarm    = 77BBFF
+ |body       = 77BBFF
+ |rightarm   = 77BBFF
+ |shorts     = FFFFFF
+ |socks      = 77BBFF
+ |title      = {{nowrap|Manchester City}}
+}}
+
+|{{Football kit
+ |pattern_la = _mufc2223h
+ |pattern_b  = _mufc2223h
+ |pattern_ra = _mufc2223h
+ |pattern_sh = _mufc2223h2
+ |pattern_so = _mufc2223h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = {{nowrap|Manchester United}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''18'''||{{#invoke:flag|icon|GER}} [[Stefan Ortega]] || {{yel|81}}
+|-
+|CB ||'''2''' ||{{#invoke:flag|icon|ENG}} [[Kyle Walker]] || || {{suboff|90+5}}
+|-
+|CB ||'''3''' ||{{#invoke:flag|icon|POR}} [[Rúben Dias]]
+|-
+|CB ||'''25'''||{{#invoke:flag|icon|SUI}} [[Manuel Akanji]]
+|-
+|DM ||'''5''' ||{{#invoke:flag|icon|ENG}} [[John Stones]]
+|-
+|DM ||'''16'''||{{#invoke:flag|icon|ESP}} [[Rodri (footballer, born 1996)|Rodri]] || {{yel|90}}
+|-
+|RW ||'''20'''||{{#invoke:flag|icon|POR}} [[Bernardo Silva]]
+|-
+|AM ||'''17'''||{{#invoke:flag|icon|BEL}} [[Kevin De Bruyne]] || || {{suboff|76}}
+|-
+|AM ||'''8''' ||{{#invoke:flag|icon|GER}} [[İlkay Gündoğan]] ([[Captain (association football)|c]])
+|-
+|LW ||'''10'''||{{#invoke:flag|icon|ENG}} [[Jack Grealish]] || || {{suboff|89}}
+|-
+|CF ||'''9''' ||{{#invoke:flag|icon|NOR}} [[Erling Haaland]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{#invoke:flag|icon|BRA}} [[Ederson (footballer, born 1993)|Ederson]]
+|-
+|DF ||'''6''' ||{{#invoke:flag|icon|NED}} [[Nathan Aké]] || || {{subon|89}}
+|-
+|DF ||'''14'''||{{#invoke:flag|icon|ESP}} [[Aymeric Laporte]] || || {{subon|90+5}}
+|-
+|DF ||'''82'''||{{#invoke:flag|icon|ENG}} [[Rico Lewis]]
+|-
+|MF ||'''4''' ||{{#invoke:flag|icon|ENG}} [[Kalvin Phillips]]
+|-
+|MF ||'''47'''||{{#invoke:flag|icon|ENG}} [[Phil Foden]] || || {{subon|76}}
+|-
+|MF ||'''80'''||{{#invoke:flag|icon|ENG}} [[Cole Palmer]]
+|-
+|FW ||'''19'''||{{#invoke:flag|icon|ARG}} [[Julián Álvarez]]
+|-
+|FW ||'''26'''||{{#invoke:flag|icon|ALG}} [[Riyad Mahrez]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ESP}} [[Pep Guardiola]]
+|}
+|valign="top"|[[File:Manchester City vs Manchester United 2023-06-03.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|ESP}} [[David de Gea]]
+|-
+|RB ||'''29'''||{{#invoke:flag|icon|ENG}} [[Aaron Wan-Bissaka]] || {{yel|45+4}}
+|-
+|CB ||'''19'''||{{#invoke:flag|icon|FRA}} [[Raphaël Varane]]
+|-
+|CB ||'''2''' ||{{#invoke:flag|icon|SWE}} [[Victor Lindelöf]] || || {{suboff|83}}
+|-
+|LB ||'''23'''||{{#invoke:flag|icon|ENG}} [[Luke Shaw]]
+|-
+|CM ||'''18'''||{{#invoke:flag|icon|BRA}} [[Casemiro]]
+|-
+|CM ||'''17'''||{{#invoke:flag|icon|BRA}} [[Fred (footballer, born 1993)|Fred]] || {{yel|79}}
+|-
+|RW ||'''8''' ||{{#invoke:flag|icon|POR}} [[Bruno Fernandes]] ([[Captain (association football)|c]])
+|-
+|AM ||'''14'''||{{#invoke:flag|icon|DEN}} [[Christian Eriksen]] || || {{suboff|62}}
+|-
+|LW ||'''25'''||{{#invoke:flag|icon|ENG}} [[Jadon Sancho]] || || {{suboff|78}}
+|-
+|CF ||'''10'''||{{#invoke:flag|icon|ENG}} [[Marcus Rashford]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{#invoke:flag|icon|ENG}} [[Jack Butland]]
+|-
+|DF ||'''5''' ||{{#invoke:flag|icon|ENG}} [[Harry Maguire]]
+|-
+|DF ||'''12'''||{{#invoke:flag|icon|NED}} [[Tyrell Malacia]]
+|-
+|DF ||'''20'''||{{#invoke:flag|icon|POR}} [[Diogo Dalot]]
+|-
+|MF ||'''39'''||{{#invoke:flag|icon|SCO}} [[Scott McTominay]] || || {{subon|83}}
+|-
+|FW ||'''27'''||{{#invoke:flag|icon|NED}} [[Wout Weghorst]] || || {{subon|78}}
+|-
+|FW ||'''28'''||{{#invoke:flag|icon|URU}} [[Facundo Pellistri]]
+|-
+|FW ||'''36'''||{{#invoke:flag|icon|SWE}} [[Anthony Elanga]]
+|-
+|FW ||'''49'''||{{#invoke:flag|icon|ARG}} [[Alejandro Garnacho]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|NED}} [[Erik ten Hag]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|style="width:40%;vertical-align:top"|
+'''Man of the Match:'''
+<br />[[İlkay Gündoğan]] (Manchester City)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Neil Davies ([[London Football Association|London]])
+<br />Scott Ledger ([[Sheffield & Hallamshire County Football Association|South Yorkshire]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Peter Bankes]] ([[Liverpool County Football Association|Merseyside]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Adrian Holmes ([[West Riding County Football Association|West Yorkshire]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[David Coote (referee)|David Coote]] ([[Nottinghamshire County Football Association|Nottinghamshire]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />Simon Long ([[Cornwall County Football Association|Cornwall]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+* 90 minutes
+* 30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+* [[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+* Nine named substitutes
+* Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+<references />
+
+{{FA Cup}}
+{{2022–23 in English men's football}}
+{{Manchester City F.C. matches}}
+{{Manchester United F.C. matches}}
+
+[[Category:2022–23 FA Cup]]
+[[Category:FA Cup finals]]
+[[Category:Sports events at Wembley Stadium|2023 FA Cup final]]
+[[Category:2023 in sport in London|FA Cup final]]
+[[Category:June 2023 sports events in the United Kingdom|FA Cup final]]
+[[Category:Manchester City F.C. matches|FA Cup final 2023]]
+[[Category:Manchester United F.C. matches|FA Cup final 2023]]
+[[Category:Manchester derby matches|FA Cup final 2023]]
+[[Category:Football matches in London]]

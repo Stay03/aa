@@ -1,0 +1,204 @@
+{{no footnotes|date=January 2015}}
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox football match
+| title              = 1998 Football League Cup final
+| image              = 1998 Football League Cup Final programme.jpg
+| image_size         = 200px
+| caption            = Match programme cover
+| event              = [[1997–98 Football League Cup]]
+| team1              = [[Chelsea F.C.|Chelsea]]
+| team1score         = 2
+| team2              = [[Middlesbrough F.C.|Middlesbrough]]
+| team2score         = 0
+| details            = After [[Overtime (sports)#Association football|extra time]]
+| date               = 29 March 1998
+| stadium            = [[Wembley Stadium (1923)|Wembley Stadium]]
+| city               = London
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Dennis Wise]] (Chelsea)
+| referee            = [[Peter Jones (referee)|Peter Jones]] ([[Leicestershire and Rutland County Football Association|Leicestershire]])
+| attendance         = 77,698
+| weather            = 
+| previous           = [[1997 Football League Cup final|1997]]
+| next               = [[1999 Football League Cup final|1999]]
+}}
+The '''1998 Football League Cup final''' was a [[association football|football]] match played between [[Chelsea F.C.|Chelsea]] and [[Middlesbrough F.C.|Middlesbrough]] on 29 March 1998 at [[Wembley Stadium (1923)|Wembley Stadium]]. Chelsea, under new manager [[Gianluca Vialli]], won with two [[extra time]] goals and won the [[UEFA Cup Winners' Cup]] later that season. Middlesbrough's second consecutive defeat in the final was followed by promotion back to the [[Premier League]] after just one season.
+
+Both teams were restricted to shots from distance. This all changed in extra time when Chelsea took control. [[Frank Sinclair]], a villain in the [[1994 FA Cup final]] defeat when conceding a penalty and slipping to allow [[Mark Hughes]] to score, became the hero in this match. He started the move that ended with his header finding the corner of the Middlesbrough net to open the scoring. Chelsea's second goal came from [[Roberto Di Matteo]]. A corner played into the near post was not cleared by the Boro defence and Di Matteo was able to side foot the ball into the net on the half-volley. Di Matteo had come back to haunt Middlesbrough as he had scored the opening goal when the same sides met in the [[1997 FA Cup final]] the previous season. Once again Chelsea had won 2–0.
+
+==Road to Wembley==
+{|width=100%
+|width=50% valign=top|
+
+===Chelsea===
+:&nbsp;
+:&nbsp;
+'''Round 3:''' Chelsea 1–1 [[Blackburn Rovers F.C.|Blackburn Rovers]] 
+:''(Chelsea won 4–1 on penalties)''
+
+'''Round 4:''' Chelsea 2–1 [[Southampton F.C.|Southampton]]
+
+'''Quarter-final:''' [[Ipswich Town F.C.|Ipswich Town]] 2–2 Chelsea 
+:''(Chelsea won 4–1 on penalties)''
+
+'''Semi-final, 1st leg:''' [[Arsenal F.C.|Arsenal]] 2–1 Chelsea
+
+'''Semi-final, 2nd leg:''' Chelsea 3–1 Arsenal
+|width=50% valign=top|
+
+===Middlesbrough===
+'''Round 2, 1st leg:''' Middlesbrough 1–0 [[Barnet F.C.|Barnet]]
+
+'''Round 2, 2nd leg:''' Barnet 0–2 Middlesbrough
+
+'''Round 3:''' Middlesbrough 2–0 [[Sunderland A.F.C.|Sunderland]]
+:&nbsp;
+'''Round 4:''' Middlesbrough 2–1 [[Bolton Wanderers F.C.|Bolton Wanderers]] a.e.t.
+
+'''Quarter-final:''' [[Reading F.C.|Reading]] 0–1 Middlesbrough
+:&nbsp;
+'''Semi-final, 1st leg:''' [[Liverpool F.C.|Liverpool]] 2–1 Middlesbrough
+
+'''Semi-final, 2nd leg:''' Middlesbrough 2–0 Liverpool
+|}
+
+==Match facts==
+{{football box
+|date=29 March 1998
+|time=15:00
+|team1=[[Chelsea F.C.|Chelsea]]
+|score=2–0
+|aet=yes
+|report=[http://news.bbc.co.uk/2/hi/sport/football/71179.stm Report]
+|team2=[[Middlesbrough F.C.|Middlesbrough]]
+|goals1=[[Frank Sinclair|Sinclair]] {{goal|95}}<br />[[Roberto Di Matteo|Di Matteo]] {{goal|107}}
+|goals2=
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], London
+|attendance=77,698
+|referee=[[Peter Jones (referee)|Peter Jones]] ([[Leicestershire and Rutland County Football Association|Leicestershire]]) }}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _chelsea1997h
+ | pattern_b  = _chelsea1997h
+ | pattern_ra = _chelsea1997h
+ | pattern_sh = _chelsea1997h
+ | pattern_so = _bluetop
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | title      = Chelsea
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _whitehorizontal
+ | pattern_ra = _whiteborder
+ | pattern_sh = _redsides
+ | pattern_so = _white_bands
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Middlesbrough
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|NED}} [[Ed de Goey]]
+|-
+|RWB||'''2''' ||{{flagicon|ROM}} [[Dan Petrescu]] || || {{suboff|75}}
+|-
+|CB ||'''5''' ||{{flagicon|FRA}} [[Frank Leboeuf]] || {{yel}}
+|-
+|CB ||'''12'''||{{flagicon|ENG}} [[Michael Duberry]]
+|-
+|CB ||'''20'''||{{flagicon|JAM}} [[Frank Sinclair]]
+|-
+|LWB||'''14'''||{{flagicon|ENG}} [[Graeme Le Saux]] || {{yel}}
+|-
+|CM ||'''16'''||{{flagicon|ITA}} [[Roberto Di Matteo]]
+|-
+|CM ||'''11'''||{{flagicon|ENG}} [[Dennis Wise]] ([[Captain (association football)|c]]) || {{yel}} 
+|-
+|CM ||'''24'''||{{flagicon|ENG}} [[Eddie Newton]]
+|-
+|CF ||'''25'''||{{flagicon|ITA}} [[Gianfranco Zola]]
+|-
+|CF ||'''10'''||{{flagicon|WAL}} [[Mark Hughes]] || {{yel}} || {{suboff|83}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ENG}} [[Kevin Hitchcock]]
+|-
+|DF ||'''6''' ||{{flagicon|SCO}} [[Steve Clarke]] || || {{subon|75}}
+|-
+|FW ||'''19'''||{{flagicon|NOR}} [[Tore André Flo]] || || {{subon|83}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ITA}} [[Gianluca Vialli]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|AUS}} [[Mark Schwarzer]]
+|-
+|RB ||'''2''' ||{{flagicon|ITA}} [[Gianluca Festa]]
+|-
+|CB ||'''4''' ||{{flagicon|ENG}} [[Steve Vickers (footballer)|Steve Vickers]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Nigel Pearson]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||{{flagicon|SVK}} [[Vladimír Kinder]]
+|-
+|RM ||'''10'''||{{flagicon|ENG}} [[Paul Merson]]
+|-
+|CM ||'''6''' ||{{flagicon|ENG}} [[Robbie Mustoe]]
+|-
+|CM ||'''7''' ||{{flagicon|ENG}} [[Neil Maddison]] || || {{suboff|102}}
+|-
+|LM ||'''11'''||{{flagicon|IRL}} [[Andy Townsend]] || {{yel}}
+|-
+|CF ||'''8''' ||{{flagicon|COL}} [[Hamilton Ricard]] || || {{suboff|65}}
+|-
+|CF ||'''9''' ||{{flagicon|ITA}} [[Marco Branca]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|DF ||'''12'''||{{flagicon|IRL}} [[Curtis Fleming]]
+|-
+|FW ||'''13'''||{{flagicon|DEN}} [[Mikkel Beck]] || || {{subon|102}}
+|-
+|MF ||'''14'''||{{flagicon|ENG}} [[Paul Gascoigne]] || {{yel}} || {{subon|65}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Bryan Robson]]
+|}
+|}
+
+{{EFL Cup}}
+{{1997–98 in English football}}
+{{Chelsea F.C. matches}}
+{{Middlesbrough F.C. matches}}
+
+{{DEFAULTSORT:Football League Cup final 1998}}
+[[Category:EFL Cup finals|1998]]
+[[Category:Chelsea F.C. matches|League Cup final 1998]]
+[[Category:Middlesbrough F.C. matches|League Cup final 1998]]
+[[Category:1997–98 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:March 1998 sports events in the United Kingdom]]
+[[Category:1998 in sport in London]]

@@ -1,0 +1,321 @@
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+| title              = 1998 UEFA Cup final
+| image              = 1998 UEFA Cup Final Programme.jpg
+| image_size         = 200
+| caption            = Match programme cover
+| event              = [[1997–98 UEFA Cup]]
+| team1              = [[SS Lazio|Lazio]]
+| team1association   = {{flagicon|ITA|size=30px}}
+| team1score         = 0
+| team2              = [[Inter Milan|Internazionale]]
+| team2association   = {{flagicon|ITA|size=30px}}
+| team2score         = 3
+| details            =
+| date               = 6 May 1998
+| stadium            = [[Parc des Princes]]
+| city               = [[Paris]]
+| man_of_the_match1a = [[Ronaldo (Brazilian footballer)|Ronaldo]] {{nowrap|(Inter Milan)}}<ref name="man_of_the_match">{{cite news |first=Jerry |last=Langdon |title=South Americans provide goals, Italy’s Inter Milan wins UEFA Cup. |url=http://www.soccertimes.com/international/1998/may06.htm |work=Gannett News Service |publisher=Soccer Times |date=6 May 1998 |access-date=28 July 2014 |archive-url=https://web.archive.org/web/20140812021810/http://www.soccertimes.com/international/1998/may06.htm |archive-date=12 August 2014 |url-status=dead |df=dmy-all }}</ref>
+| referee            = [[Antonio López Nieto]] ([[Royal Spanish Football Federation|Spain]])
+| attendance         = 44,412<ref name="handbook"/>
+| weather            =
+| previous           = [[1997 UEFA Cup final|1997]]
+| next               = [[1999 UEFA Cup final|1999]]
+}}
+The '''1998 UEFA Cup final''' was a [[Association football|football]] match played at [[Parc des Princes]] in [[Paris]], France on 6 May 1998 as the conclusion to the [[1997–98 UEFA Cup]]. It was the first time that the UEFA Cup final was played as a single leg at a neutral venue.
+
+The match was played between two Italian teams – [[SS Lazio|Lazio]] and [[Inter Milan|Internazionale]], commonly known as Inter. Inter won the match 3–0 to win the UEFA Cup for the third time – a joint record with [[Juventus FC|Juventus]] at the time.
+
+==Background==
+[[Inter Milan|Internazionale]] were one of the most successful Italian football teams. They had won the [[UEFA Champions League|European Cup]] twice in [[1963–64 European Cup|1964]] and [[1964–65 European Cup|1965]] and the [[UEFA Europa League|UEFA Cup]] twice in [[1990–91 UEFA Cup|1991]] and [[1993–94 UEFA Cup|1994]].<ref name="UEFACup">{{cite web |last=Stokkermans |first=Karel |title=UEFA Cup/Europa League |url=https://www.rsssf.org/tablese/ec3b.html |publisher=RSSSF |access-date=20 April 2025 |date=14 June 2024}}</ref><ref name="EuropeanCup">{{cite web |last=Stokkermans |first=Karel |title=European Champions' Cup/Champions League |url=https://www.rsssf.org/tablese/ec1.html |publisher=RSSSF |access-date=20 April 2025 |date=14 June 2024}}</ref>
+
+[[SS Lazio|Lazio]] had never played in a European final before. Their previous best run was to the quarter-finals of the [[1994–95 UEFA Cup]].<ref name="UEFACup"/><ref name="EuropeanCup"/><ref>{{cite web |last=Ross |first=James M. |title=European Competitions 1994-95 |url=https://www.rsssf.org/tablese/ec3b.html |publisher=RSSSF |access-date=20 April 2025 |date=5 June 2015}}</ref>
+
+Since the inaugural edition in [[1971–72 UEFA Cup|1971–72]], the UEFA Cup final had been played over two legs on a home and away basis. From the 1997–98 season, the final would be played as a single leg at a neutral venue.<ref name="UEFACup"/>
+
+==Route to the final==
+{{main|1997–98 UEFA Cup}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|[[SS Lazio|Lazio]]
+!Round
+!colspan=4|[[Inter Milan|Internazionale]]
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|POR}} [[Vitória S.C.|Vitória de Guimarães]]
+|6–1
+|4–0 (A)
+|2–1 (H)
+|style="background:#c1e0ff"|[[1997–98 UEFA Cup#First round|First round]]
+|align=left|{{fbaicon|SUI}} [[Neuchâtel Xamax FCS|Neuchâtel Xamax]]
+|4–0
+|2–0 (H)
+|2–0 (A)
+|-
+|align=left|{{fbaicon|RUS}} [[FC Rotor Volgograd|Rotor Volgograd]]
+|3–0
+|0–0 (A)
+|3–0 (H)
+|style="background:#c1e0ff"|[[1997–98 UEFA Cup#Second round|Second round]]
+|align=left|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|4–3
+|1–2 (H)
+|3–1 (A)
+|-
+|align=left|{{fbaicon|AUT}} [[SK Rapid Wien|Rapid Wien]]
+|3–0
+|2–0 (A)
+|1–0 (H)
+|style="background:#c1e0ff"|[[1997–98 UEFA Cup#Third round|Third round]]
+|align=left|{{fbaicon|FRA|1974}} [[RC Strasbourg Alsace|Strasbourg]]
+|3–2
+|0–2 (A)
+|3–0 (H)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[AJ Auxerre|Auxerre]]
+|3–2
+|1–0 (H)
+|2–2 (A)
+|style="background:#c1e0ff"|[[1997–98 UEFA Cup#Quarter-finals|Quarter-finals]]
+|align=left|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|2–1 ([[Overtime (sports)#Association football|a.e.t.]])
+|1–0 (H)
+|1–1 ([[Overtime (sports)#Association football|a.e.t.]]) (A)
+|-
+|align=left|{{fbaicon|ESP}} [[Atlético Madrid]]
+|1–0
+|1–0 (A)
+|0–0 (H)
+|style="background:#c1e0ff"|[[1997–98 UEFA Cup#Semi-finals|Semi-finals]]
+|align=left|{{fbaicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|4–2
+|2–1 (H)
+|2–1 (A)
+|}
+
+===Lazio===
+Lazio qualified for the [[1997–98 UEFA Cup]] by finishing fourth in the [[1996–97 Serie A]].<ref name="SerieA">{{cite web |last=Mariani |first=Maurizio |title=Italy Championship 1996/97 |url=https://www.rsssf.org/tablesi/ital97.html |publisher=RSSSF |access-date=20 April 2025 |date=31 January 2000}}</ref>
+
+In the first round, Lazio faced Portuguese side [[Vitória S.C.|Vitória de Guimarães]]. They won 4–0 in the first leg at the [[Estádio D. Afonso Henriques]] in [[Guimarães]] on 16 September 1997 and 2–1 in the second leg at the [[Stadio Olimpico]] in [[Rome]] two weeks later to progress 6–1 on aggregate.<ref name="Route">{{cite web |last1=Stokkermans |first1=Karel |last2=Ross |first2=James M. |title=European Competitions 1997-98 |url=https://www.rsssf.org/ec/ec199798.html#uefa |publisher=RSSSF |access-date=20 April 2025 |date=4 June 2015}}</ref>
+
+Lazio faced Russian side [[FC Rotor Volgograd|Rotor Volgograd]] in the second round. After a 0–0 draw in the first leg at the [[Central Stadium (Volgograd)|Central Stadium]] in [[Volgograd]] on 21 October 1997, Lazio progressed with a 3–0 win (3–0 on aggregate) in the second leg at the Stadio Olimpico two weeks later.<ref name="Route"/>
+
+In round three, Lazio faced Austrian side [[SK Rapid Wien|Rapid Wien]]. Lazio won the first leg 2–0 at the [[Ernst-Happel-Stadion]] in [[Vienna]] on 25 November 1997 and progressed to the quarter-finals 3–0 on aggregate after winning the second leg 1–0 at the Stadio Olimpico two weeks later.<ref name="Route"/>
+
+French club [[AJ Auxerre]] were Lazio's opponents in the quarter-finals. After winning the first leg 1–0 at the Stadio Olimpico on 3 March 1998, Lazio advanced to the semi-finals following a 2–2 draw (3–2 on aggregate) in the second leg at the [[Stade de l'Abbé-Deschamps]] in [[Auxerre]] two weeks later.<ref name="Route"/>
+
+Lazio faced [[Atlético Madrid]] of Spain in the semi-finals. Lazio won the first leg 1–0 at the [[Vicente Calderón Stadium]] in [[Madrid]] on 31 March 1998 and progressed to the final after a goalless draw (1–0 on aggregate) in the second leg at the Stadio Olimpico two weeks later.<ref name="Route"/>
+
+===Internazionale===
+Internazionale qualified for the [[1997–98 UEFA Cup]] by finishing third in the [[1996–97 Serie A]].<ref name="SerieA"/>
+
+[[Neuchâtel Xamax FCS|Neuchâtel Xamax]] of Switzerland were Inter's opponents in the first round. Inter won the first leg at the [[San Siro|Stadio Giuseppe Meazza]] in [[Milan]] 2–0 on 16 September 1997 before winning the second leg at the [[Stade de la Maladière]] in [[Neuchâtel]] two weeks later by the same scoreline (4–0 on aggregate).<ref name="Route"/>
+
+In the second round, Inter faced French club [[Olympique Lyonnais|Lyon]]. After losing the first leg 2–1 at the Giuseppe Meazza on 21 October 1997, Inter came back to win the second leg 3–1 at the [[Stade de Gerland]] in [[Lyon]] two weeks later to progress 4–3 on aggregate.<ref name="Route"/>
+
+They would return to France in the third round to play [[RC Strasbourg Alsace|Strasbourg]]. Again, Inter lost the first leg – 2–0 at the [[Stade de la Meinau]] in [[Strasbourg]] on 25 November 1997 – and again they came back to win the second leg at the Giuseppe Meazza 3–0 (3–2 on aggregate) two weeks later to progress to the quarter-finals.<ref name="Route"/>
+
+In the quarter-finals, Inter faced German club [[FC Schalke 04|Schalke 04]]. After winning the first leg 1–0 at the Giuseppe Meazza on 3 March 1998, the second leg at [[Parkstadion]] in [[Gelsenkirchen]] two weeks later went to [[Overtime (sports)#Association football|extra time]] after finishing 1–0 to Schalke 04 (1–1 on aggregate) in 90 minutes. Inter scored the only goal of extra time to progress to the semi-finals 2–1 on aggregate.<ref name="Route"/>
+
+Russian side [[FC Spartak Moscow|Spartak Moscow]] were Inter's opponents in the semi-finals. After winning the first leg at the Giuseppe Meazza 2–1 on 31 March 1998, Inter won the second leg at the [[Central Dynamo Stadium]] in [[Moscow]] two weeks later by the same scoreline (4–2 on aggregate) to reach the final.<ref name="Route"/>
+
+==Match==
+
+===Details===
+<onlyinclude>{{football box
+| date = 6 May 1998
+| time = 20:45 [[Central European Summer Time|CEST]]
+| team1 = [[SS Lazio|Lazio]] {{fbaicon|ITA}}
+| score = 0–3
+| team2 = {{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+| report=[https://www.uefa.com/uefaeuropaleague/match/54858--lazio-vs-internazionale/?iv=true Report]
+| goals1 =
+| goals2 = [[Iván Zamorano|Zamorano]] {{goal|5}}<br />[[Javier Zanetti|Zanetti]] {{goal|60}}<br />[[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|70}}
+| stadium = [[Parc des Princes]], [[Paris]]
+| attendance = 44,412<ref name="handbook">{{cite book |location=Nyon |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |chapter=4. UEFA Cup Finals |title=UEFA Europa League Statistics Handbook 2012/13 |publisher=Union of European Football Associations |page=70 |date=28 May 2013 |access-date=27 September 2024 |url-status=dead |archive-url=https://web.archive.org/web/20130604201547/https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |archive-date=4 June 2013}}</ref>
+| referee = [[Antonio López Nieto]] ([[Royal Spanish Football Federation|Spain]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _lazio199798
+ | pattern_b  = _lazio199798
+ | pattern_ra = _lazio199798
+ | pattern_sh = _lazio199798
+ | pattern_so  = _lazio199798
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = 000000
+ | title      = Lazio
+}}
+|{{Football kit
+ | pattern_la = _black_hoops
+ | pattern_b  = _inter199798
+ | pattern_ra = _black_hoops
+ | pattern_sh = _inter9798t
+ | pattern_so = _inter9798t
+ | leftarm    = 404050
+ | body       = 404050
+ | rightarm   = 404050
+ | shorts     = 080810
+ | socks      = 000000
+ | title      = Internazionale
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Luca Marchegiani]]
+|-
+|RB ||'''20'''||{{flagicon|ITA}} [[Alessandro Grandoni]] || || {{suboff|55}}
+|-
+|CB ||'''13'''||{{flagicon|ITA}} [[Alessandro Nesta]]
+|-
+|CB ||'''2''' ||{{flagicon|ITA}} [[Paolo Negro]] || {{yel|70}}
+|-
+|LB ||'''5''' ||{{flagicon|ITA}} [[Giuseppe Favalli]]
+|-
+|RM ||'''14'''||{{flagicon|ITA}} [[Diego Fuser]] ([[Captain (association football)|c]])
+|-
+|CM ||'''23'''||{{flagicon|ITA}} [[Giorgio Venturin]] || || {{suboff|49}}
+|-
+|CM ||'''21'''||{{flagicon|FRY}} [[Vladimir Jugović]] || {{yel|59}}
+|-
+|LM ||'''18'''||{{flagicon|CZE}} [[Pavel Nedvěd]]
+|-
+|CF ||'''9''' ||{{flagicon|ITA}} [[Pierluigi Casiraghi]]
+|-
+|CF ||'''10'''||{{flagicon|ITA}} [[Roberto Mancini]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|ITA}} [[Marco Ballotta]]
+|-
+|DF ||'''3''' ||{{flagicon|ITA}} [[Giovanni Lopez]]
+|-
+|DF ||'''17'''||{{flagicon|ITA}} [[Guerino Gottardi]] || || {{subon|55}}
+|-
+|MF ||'''4''' ||{{flagicon|ITA}} [[Dario Marcolin]]
+|-
+|MF ||'''25'''||{{flagicon|ARG}} [[Matías Almeyda]] || {{sent off|1|63|88}} || {{subon|49}}
+|-
+|FW ||'''7''' ||{{flagicon|ITA}} [[Roberto Rambaudi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|valign="top"|[[File:Lazio vs Internazionale 1998-05-06.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Gianluca Pagliuca]] ([[Captain (association football)|c]])
+|-
+|SW ||'''7''' ||{{flagicon|ITA}} [[Salvatore Fresi]] || {{yel|18}}
+|-
+|RB ||'''33'''||{{flagicon|ITA}} [[Francesco Colonnese]]
+|-
+|CB ||'''16'''||{{flagicon|NGA}} [[Taribo West]] || {{sent off|0|82}}
+|-
+|LB ||'''4''' ||{{flagicon|ARG}} [[Javier Zanetti]] || {{yel|63}}
+|-
+|RM ||'''8''' ||{{flagicon|NED}} [[Aron Winter]] || || {{suboff|69}}
+|-
+|CM ||'''13'''||{{flagicon|BRA}} [[Zé Elias]]
+|-
+|LM ||'''14'''||{{flagicon|ARG}} [[Diego Simeone]]
+|-
+|AM ||'''6''' ||{{flagicon|FRA}} [[Youri Djorkaeff]] || || {{suboff|69}}
+|-
+|CF ||'''9''' ||{{flagicon|CHI}} [[Iván Zamorano]] || || {{suboff|74}}
+|-
+|CF ||'''10'''||{{flagicon|BRA}} [[Ronaldo (Brazilian footballer)|Ronaldo]] || {{yel|74}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA}} [[Andrea Mazzantini]]
+|-
+|DF ||'''5''' ||{{flagicon|ITA}} [[Fabio Galante]]
+|-
+|DF ||'''24'''||{{flagicon|ITA}} [[Luigi Sartor]] || || {{subon|74}}
+|-
+|MF ||'''15'''||{{flagicon|FRA}} [[Benoît Cauet]] || || {{subon|69}}
+|-
+|MF ||'''17'''||{{flagicon|ITA}} [[Francesco Moriero]] || || {{subon|69}}
+|-
+|FW ||'''11'''||{{flagicon|NGA}} [[Nwankwo Kanu]]
+|-
+|FW ||'''20'''||{{flagicon|URU}} [[Álvaro Recoba]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Luigi Simoni]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Ronaldo (Brazilian footballer)|Ronaldo]] (Inter)<ref name="man_of_the_match"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Fernando Tresaco Gracia ([[Royal Spanish Football Federation|Spain]])
+<br />Victoriano Giráldez Carrasco ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Arturo Daudén Ibáñez ([[Royal Spanish Football Federation|Spain]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+==See also==
+*[[1998 UEFA Champions League final]]
+*[[1998 UEFA Cup Winners' Cup final]]
+*[[Italian football clubs in international competitions]]
+*[[Inter Milan in international football]]
+*[[SS Lazio in European football]]
+*[[1997–98 Inter Milan season]]
+*[[1997–98 SS Lazio season]]
+
+==References==
+{{Reflist}}
+
+{{UEFA Europa League seasons}}
+{{1997–98 in European football (UEFA)}}
+{{Inter Milan matches}}
+{{S.S. Lazio matches}}
+
+{{DEFAULTSORT:Uefa Cup final 1998}}
+[[Category:1997–98 UEFA Cup|Final]]
+[[Category:Football in Paris]]
+[[Category:Football matches in France]]
+[[Category:Inter Milan matches|UEFA Cup Final 1998]]
+[[Category:SS Lazio matches|UEFA Cup Final 1998]]
+[[Category:UEFA Europa League finals|1998]]
+[[Category:1997–98 in French men's football|UEFA]]
+[[Category:1997–98 in Italian football|UEFA Cup]]
+[[Category:May 1998 sports events in France|UEFA Cup Final]]
+[[Category:1998 in Paris|UEFA Cup Final]]
+[[Category:Italian football clubs in international competitions]]

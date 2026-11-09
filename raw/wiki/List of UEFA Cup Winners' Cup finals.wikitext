@@ -1,0 +1,836 @@
+{{Short description|European football matches}}
+{{Use British English|date=May 2020}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox football tournament
+| logo = [[File:Recopa de Europa Real Zaragoza.jpg|150px]]
+| founded = 1960
+| abolished = 1999
+| region = Europe ([[UEFA]])
+| number of teams = 32 (first round)<br>2 (finalists)
+| current champions = {{fbaicon|ITA}} [[SS Lazio|Lazio]]<br>(1st title)
+| most successful team = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]<br>(4 titles)
+}}
+The [[UEFA Cup Winners' Cup]] (called European Cup Winners' Cup prior to [[1994–95 UEFA Cup Winners' Cup|1994–95]]) was a [[Season (sports)|seasonal]] [[association football]] competition contested between member associations of European football's governing body, the [[UEFA|Union of European Football Associations]] (UEFA). It was open to winners of domestic cup competitions, such as the English [[FA Cup]] champions. Throughout its 39-year history, the UEFA Cup Winners' Cup was always a knock-out tournament with [[Two-legged match|two-legged]] home and away ties until the single match final staged at a neutral venue, the only exception to this being the two-legged final in the competition's first year. The first competition was won by [[ACF Fiorentina|Fiorentina]], from Italy, who defeated Scotland's [[Rangers F.C.|Rangers]] 4–1 over two legs to win the [[1961 European Cup Winners' Cup final|1961 final]]. The competition was abolished in 1999; Italian team [[SS Lazio|Lazio]] were the last team to win the competition when they beat [[RCD Mallorca|Mallorca]] 2–1.<ref name="history"/>
+
+[[FC Barcelona|Barcelona]] are the most successful club in the competition's history, having won it on four occasions,<ref name="history">{{cite web |url=http://en.archive.uefa.com/competitions/ecwc/history/index.html |title=History |publisher=UEFA |access-date=28 February 2012 |archive-url=https://web.archive.org/web/20110131062024/http://en.archive.uefa.com/competitions/ecwc/history/index.html |archive-date=31 January 2011}}</ref> followed by [[RSC Anderlecht|Anderlecht]] (Belgium), [[AC Milan|Milan]] (Italy), [[Chelsea F.C.|Chelsea]] (England) and [[FC Dynamo Kyiv|Dynamo Kyiv]] (USSR / Ukraine) with two victories each. Barcelona, [[Atlético Madrid]], [[Real Madrid CF|Real Madrid]] (all from Spain), Anderlecht (Belgium), Rangers (Scotland), [[Arsenal F.C.|Arsenal]] (England) and [[SK Rapid Wien|Rapid Wien]] (Austria) hold the record for being runners-up the most times, with each team losing the final twice. Teams from England won the competition eight times, more than any other country. Additionally, England provided nine different teams in the finals, seven of which went on to win the trophy at least once, both also records.<ref name=venue/>
+
+==List of finals==
+{|class="wikitable"
+|+Key
+|-
+| width="40px" bgcolor="#FBCEB1" align="center"|{{dagger}}
+| Match went to [[Overtime (sports)#Association football|extra time]]
+|-
+| width="40px" bgcolor="#cedff2" align="center"|*
+| Match won on a [[Penalty shoot-out (association football)|penalty shoot-out]]
+|-
+| width="40px" bgcolor="#d1f7a5" align="center"|&
+| Match won after a [[Replay (sports)#Association football|replay]]
+|}
+
+{|class="sortable plainrowheaders wikitable"
+|+ UEFA Cup Winners' Cup finals<ref>{{cite web |url=https://www.rsssf.org/tablese/ec2.html |title=European Cup Winners' Cup |date=26 January 2000 |access-date=8 July 2010 |first=Karel |website=[[RSSSF]] |last=Stokkermans}}</ref><ref>{{cite web |url=http://en.archive.uefa.com/competitions/ecwc/index.html |title=UEFA Cup Winners' Cup |publisher=UEFA |access-date=8 July 2010 |archive-url=https://web.archive.org/web/20100501123433/http://en.archive.uefa.com/competitions/ecwc/index.html |archive-date=1 May 2010}}</ref>
+!scope=col|Season
+!scope=col|Nation
+!scope=col|Winners<ref name="RSSSF">{{cite web |url=https://www.rsssf.org/tablese/ec2.html |title=European Cup Winners' Cup |date=26 January 2000 |access-date=8 July 2010 |first=Karel |last=Stokkermans |archive-date=16 March 2016 |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20160316075529/http://www.rsssf.com/tablese/ec2.html |url-status=live }}</ref>
+!scope=col|Score<ref name="RSSSF" />
+!scope=col|Runners-up<ref name="RSSSF" />
+!scope=col|Nation
+!scope=col|Venue<ref name="venue">{{cite web |url=https://www.rsssf.org/ec/ec2stats.html |title=European Cup Winners' Cup Finals 1961–99 |date=31 May 1999 |access-date=8 July 2010 |first=James M. |last=Ross |archive-date=5 March 2016 |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20160305015406/http://www.rsssf.com/ec/ec2stats.html |url-status=live }}</ref>
+!scope=col|Attendance<ref>{{cite web |title=UEFA Cup Winners' Cup: All-time finals |url=http://www.uefa.com/uefa/news/kind=1/newsid=2577.html |archive-url=https://web.archive.org/web/20021027163011/http://www.uefa.com/uefa/news/kind=1/newsid=2577.html |url-status=dead |archive-date=27 October 2002 |date=30 June 2005 |publisher=UEFA |access-date=10 August 2014}}</ref>
+|-
+!scope=row rowspan=2 style="text-align:center"|[[1960–61 European Cup Winners' Cup|1960–61]]{{efn|Only the final of the first season of the Cup Winners' Cup was played as a [[two-legged tie]].}}
+|rowspan=2|{{fba|ITA}}
+|rowspan=2|[[ACF Fiorentina|Fiorentina]]
+|align=center|[[1961 European Cup Winners' Cup final#First leg|2–0]]
+|rowspan=2|[[Rangers F.C.|Rangers]]
+|rowspan=2|{{fba|SCO}}
+|[[Ibrox Stadium]], Glasgow, Scotland
+|align=center|80,000
+|-
+|align=center|[[1961 European Cup Winners' Cup final#Second leg|2–1]]
+|[[Stadio Artemio Franchi|Stadio Comunale]], Florence, Italy
+|align=center|50,000
+|-
+!scope=row rowspan="2" style="text-align:center"|[[1961–62 European Cup Winners' Cup|1961–62]]
+|rowspan="2"|{{fba|ESP|1945}}
+|rowspan="2"|[[Atlético Madrid]]
+|align=center|[[1962 European Cup Winners' Cup final|1–1]]
+|rowspan="2"|[[ACF Fiorentina|Fiorentina]]
+|rowspan="2"|{{fba|ITA}}
+|[[Hampden Park]], Glasgow, Scotland
+|align=center|29,066
+|-
+|align=center bgcolor=d1f7a5|[[1962 European Cup Winners' Cup final|3–0]]<sup>&</sup>
+|[[MHPArena|Neckarstadion]], Stuttgart, West Germany
+|align=center|38,120
+|-
+!scope=row style="text-align:center"|[[1962–63 European Cup Winners' Cup|1962–63]]
+|{{fba|ENG}}
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|align=center|[[1963 European Cup Winners' Cup final|5–1]]
+|[[Atlético Madrid]]
+|{{fba|ESP|1945}}
+|[[De Kuip]], Rotterdam, Netherlands
+|align=center|49,143
+|-
+!scope=row rowspan="2" style="text-align:center"|[[1963–64 European Cup Winners' Cup|1963–64]]
+|rowspan="2"|{{fba|POR}}
+|rowspan="2"|[[Sporting CP]]
+|align=center|[[1964 European Cup Winners' Cup final|3–3]]
+|rowspan="2"|[[MTK Budapest FC|MTK Budapest]]
+|rowspan="2"|{{fba|HUN}}
+|[[King Baudouin Stadium|Heysel Stadium]], [[Brussels]], Belgium
+|align=center|3,208
+|-
+|align=center bgcolor=d1f7a5|[[1964 European Cup Winners' Cup final|1–0]]<sup>&</sup>
+|[[Bosuilstadion|Bosuil Stadium]], [[Antwerp]], Belgium
+|align=center|13,924
+|-
+!scope=row style="text-align:center"|[[1964–65 European Cup Winners' Cup|1964–65]]
+|{{fba|ENG}}
+|[[West Ham United F.C.|West Ham United]]
+|align=center|[[1965 European Cup Winners' Cup final|2–0]]
+|[[TSV 1860 Munich|1860 Munich]]
+|{{fba|FRG}}
+|[[Wembley Stadium (1923)|Wembley Stadium]], London, England
+|align=center|97,974
+|-
+!scope=row style="text-align:center"|[[1965–66 European Cup Winners' Cup|1965–66]]
+|{{fba|FRG}}
+|[[Borussia Dortmund]]
+|align=center bgcolor=FBCEB1|[[1966 European Cup Winners' Cup final|2–1]]<sup>{{dagger}}</sup>
+|[[Liverpool F.C.|Liverpool]]
+|{{fba|ENG}}
+|[[Hampden Park]], Glasgow, Scotland
+|align=center|41,657
+|-
+!scope=row style="text-align:center"|[[1966–67 European Cup Winners' Cup|1966–67]]
+|{{fba|FRG}}
+|[[FC Bayern Munich|Bayern Munich]]
+|align=center bgcolor=FBCEB1|[[1967 European Cup Winners' Cup final|1–0]]<sup>{{dagger}}</sup>
+|[[Rangers F.C.|Rangers]]
+|{{fba|SCO}}
+|[[Max-Morlock-Stadion|Städtisches Stadion]], Nuremberg, West Germany
+|align=center|69,480
+|-
+!scope=row style="text-align:center"|[[1967–68 European Cup Winners' Cup|1967–68]]
+|{{fba|ITA}}
+|[[AC Milan|Milan]]
+|align=center|[[1968 European Cup Winners' Cup final|2–0]]
+|[[Hamburger SV]]
+|{{fba|FRG}}
+|[[De Kuip]], Rotterdam, Netherlands
+|align=center|53,276
+|-
+!scope=row style="text-align:center"|[[1968–69 European Cup Winners' Cup|1968–69]]
+|{{fba|CSK}}
+|[[ŠK Slovan Bratislava|Slovan Bratislava]]
+|align=center|[[1969 European Cup Winners' Cup final|3–2]]
+|[[FC Barcelona|Barcelona]]
+|{{fba|ESP|1945}}
+|[[St. Jakob Stadium]], Basel, Switzerland
+|align=center|19,478
+|-
+!scope=row style="text-align:center"|[[1969–70 European Cup Winners' Cup|1969–70]]
+|{{fba|ENG}}
+|[[Manchester City F.C.|Manchester City]]
+|align=center|[[1970 European Cup Winners' Cup final|2–1]]
+|[[Górnik Zabrze]]
+|{{fba|POL|1928}}
+|[[Ernst-Happel-Stadion|Prater Stadium]], Vienna, Austria
+|align=center|{{sort|07|7,968}}
+|-
+!scope=row rowspan="2" style="text-align:center"|[[1970–71 European Cup Winners' Cup|1970–71]]
+|rowspan="2"|{{fba|ENG}}
+|rowspan="2"|[[Chelsea F.C.|Chelsea]]
+|align=center|[[1971 European Cup Winners' Cup final|1–1]]
+|rowspan="2"|[[Real Madrid CF|Real Madrid]]
+|rowspan="2"|{{fba|ESP|1945}}
+|rowspan="2"|[[Karaiskakis Stadium]], Piraeus, Greece
+|align=center|42,000
+|-
+|align=center bgcolor=d1f7a5|[[1971 European Cup Winners' Cup final|2–1]]<sup>&</sup>
+|align=center|19,917
+|-
+!scope=row style="text-align:center"|[[1971–72 European Cup Winners' Cup|1971–72]]
+|{{fba|SCO}}
+|[[Rangers F.C.|Rangers]]
+|align=center|[[1972 European Cup Winners' Cup final|3–2]]
+|[[FC Dynamo Moscow|Dynamo Moscow]]
+|{{fba|URS|1955}}
+|[[Camp Nou]], Barcelona, Spain
+|align=center|24,701
+|-
+!scope=row style="text-align:center"|[[1972–73 European Cup Winners' Cup|1972–73]]
+|{{fba|ITA}}
+|[[AC Milan|Milan]]
+|align=center|[[1973 European Cup Winners' Cup final|1–0]]
+|[[Leeds United F.C.|Leeds United]]
+|{{fba|ENG}}
+|[[Kaftanzoglio Stadium]], Thessaloniki, Greece
+|align=center|40,154
+|-
+!scope=row style="text-align:center"|[[1973–74 European Cup Winners' Cup|1973–74]]
+|{{fba|GDR}}
+|[[1. FC Magdeburg]]
+|align=center|[[1974 European Cup Winners' Cup final|2–0]]
+|[[AC Milan|Milan]]
+|{{fba|ITA}}
+|[[De Kuip]], Rotterdam, Netherlands
+|align=center|{{sort|04|6,461}}
+|-
+!scope=row style="text-align:center"|[[1974–75 European Cup Winners' Cup|1974–75]]
+|{{fba|URS|1955}}
+|[[FC Dynamo Kyiv|Dynamo Kyiv]]
+|align=center|[[1975 European Cup Winners' Cup final|3–0]]
+|[[Ferencvárosi TC|Ferencváros]]
+|{{fba|HUN}}
+|[[St. Jakob Stadium]], Basel, Switzerland
+|align=center|10,897
+|-
+!scope=row style="text-align:center"|[[1975–76 European Cup Winners' Cup|1975–76]]
+|{{fba|BEL}}
+|[[RSC Anderlecht|Anderlecht]]
+|align=center|[[1976 European Cup Winners' Cup final|4–2]]
+|[[West Ham United F.C.|West Ham United]]
+|{{fba|ENG}}
+|[[King Baudouin Stadium|Heysel Stadium]], Brussels, Belgium
+|align=center|58,000
+|-
+!scope=row style="text-align:center"|[[1976–77 European Cup Winners' Cup|1976–77]]
+|{{fba|FRG}}
+|[[Hamburger SV]]
+|align=center|[[1977 European Cup Winners' Cup final|2–0]]
+|[[RSC Anderlecht|Anderlecht]]
+|{{fba|BEL}}
+|[[Olympic Stadium (Amsterdam)|Olympisch Stadion]], Amsterdam, Netherlands
+|align=center|66,000
+|-
+!scope=row style="text-align:center"|[[1977–78 European Cup Winners' Cup|1977–78]]
+|{{fba|BEL}}
+|[[RSC Anderlecht|Anderlecht]]
+|align=center|[[1978 European Cup Winners' Cup final|4–0]]
+|[[FK Austria Wien|Austria Wien]]
+|{{fba|AUT}}
+|[[Parc des Princes]], Paris, France
+|align=center|48,769
+|-
+!scope=row style="text-align:center"|[[1978–79 European Cup Winners' Cup|1978–79]]
+|{{fba|ESP|1977}}
+|[[FC Barcelona|Barcelona]]
+|align=center bgcolor=FBCEB1|[[1979 European Cup Winners' Cup final|4–3]]<sup>{{dagger}}</sup>
+|[[Fortuna Düsseldorf]]
+|{{fba|FRG}}
+|[[St. Jakob Stadium]], Basel, Switzerland
+|align=center|58,000
+|-
+!scope=row style="text-align:center"|[[1979–80 European Cup Winners' Cup|1979–80]]
+|{{fba|ESP|1977}}
+|[[Valencia CF|Valencia]]
+|align=center bgcolor=cedff2|[[1980 European Cup Winners' Cup final|0–0]]*{{efn|Score was 0–0 after 90 minutes and extra time. Valencia won the penalty-shootout 5–4.<ref>{{cite web |url=https://www.rsssf.org/ec/ec197980.html |title=Cup Winners' Cup 1979–80 |date=9 January 2008 |access-date=28 February 2012 |first=Karel |last=Stokkermans |archive-date=26 September 2017 |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20170926151830/http://rsssf.com/ec/ec197980.html#cwc |url-status=live }}</ref>}}
+|[[Arsenal F.C.|Arsenal]]
+|{{fba|ENG}}
+|[[King Baudouin Stadium|Heysel Stadium]], Brussels, Belgium
+|align=center|40,000
+|-
+!scope=row style="text-align:center"|[[1980–81 European Cup Winners' Cup|1980–81]]
+|{{fba|URS}}
+|[[FC Dinamo Tbilisi|Dinamo Tbilisi]]
+|align=center|[[1981 European Cup Winners' Cup final|2–1]]
+|[[FC Carl Zeiss Jena|Carl Zeiss Jena]]
+|{{fba|GDR}}
+|[[Rheinstadion]], Düsseldorf, West Germany
+|align=center|{{sort|04|8,000}}
+|-
+!scope=row style="text-align:center"|[[1981–82 European Cup Winners' Cup|1981–82]]
+|{{fba|ESP}}
+|[[FC Barcelona|Barcelona]]
+|align=center|[[1982 European Cup Winners' Cup final|2–1]]
+|[[Standard Liège]]
+|{{fba|BEL}}
+|[[Camp Nou]], Barcelona, Spain
+|align=center|100,000
+|-
+!scope=row style="text-align:center"|[[1982–83 European Cup Winners' Cup|1982–83]]
+|{{fba|SCO}}
+|[[Aberdeen F.C.|Aberdeen]]
+|align=center bgcolor=FBCEB1|[[1983 European Cup Winners' Cup final|2–1]]<sup>{{dagger}}</sup>
+|[[Real Madrid CF|Real Madrid]]
+|{{fba|ESP}}
+|[[Ullevi|Nya Ullevi]], Gothenburg, Sweden
+|align=center|17,804
+|-
+!scope=row style="text-align:center"|[[1983–84 European Cup Winners' Cup|1983–84]]
+|{{fba|ITA}}
+|[[Juventus FC|Juventus]]
+|align=center|[[1984 European Cup Winners' Cup final|2–1]]
+|[[FC Porto|Porto]]
+|{{fba|POR}}
+|[[St. Jakob Stadium]], Basel, Switzerland
+|align=center|60,000
+|-
+!scope=row style="text-align:center"|[[1984–85 European Cup Winners' Cup|1984–85]]
+|{{fba|ENG}}
+|[[Everton F.C.|Everton]]
+|align=center|[[1985 European Cup Winners' Cup final|3–1]]
+|[[SK Rapid Wien|Rapid Wien]]
+|{{fba|AUT}}
+|[[De Kuip]], Rotterdam, Netherlands
+|align=center|38,500
+|-
+!scope=row style="text-align:center"|[[1985–86 European Cup Winners' Cup|1985–86]]
+|{{fba|URS}}
+|[[FC Dynamo Kyiv|Dynamo Kyiv]]
+|align=center|[[1986 European Cup Winners' Cup final|3–0]]
+|[[Atlético Madrid]]
+|{{fba|ESP}}
+|[[Stade de Gerland]], Lyon, France
+|align=center|39,300
+|-
+!scope=row style="text-align:center"|[[1986–87 European Cup Winners' Cup|1986–87]]
+|{{fba|NED}}
+|[[AFC Ajax|Ajax]]
+|align=center|[[1987 European Cup Winners' Cup final|1–0]]
+|[[1. FC Lokomotive Leipzig]]
+|{{fba|GDR}}
+|[[Olympic Stadium (Athens)|Spyros Louis Stadium]], Athens, Greece
+|align=center|35,000
+|-
+!scope=row style="text-align:center"|[[1987–88 European Cup Winners' Cup|1987–88]]
+|{{fba|BEL}}
+|[[KV Mechelen]]
+|align=center|[[1988 European Cup Winners' Cup final|1–0]]
+|[[AFC Ajax|Ajax]]
+|{{fba|NED}}
+|[[Stade de la Meinau]], Strasbourg, France
+|align=center|39,446
+|-
+!scope=row style="text-align:center"|[[1988–89 European Cup Winners' Cup|1988–89]]
+|{{fba|ESP}}
+|[[FC Barcelona|Barcelona]]
+|align=center|[[1989 European Cup Winners' Cup final|2–0]]
+|[[UC Sampdoria|Sampdoria]]
+|{{fba|ITA}}
+|[[Wankdorf Stadium]], Bern, Switzerland
+|align=center|45,000
+|-
+!scope=row style="text-align:center"|[[1989–90 European Cup Winners' Cup|1989–90]]
+|{{fba|ITA}}
+|[[UC Sampdoria|Sampdoria]]
+|align=center bgcolor=FBCEB1|[[1990 European Cup Winners' Cup final|2–0]]<sup>{{dagger}}</sup>
+|[[RSC Anderlecht|Anderlecht]]
+|{{fba|BEL}}
+|[[Ullevi|Nya Ullevi]], Gothenburg, Sweden
+|align=center|20,103
+|-
+!scope=row style="text-align:center"|[[1990–91 European Cup Winners' Cup|1990–91]]
+|{{fba|ENG}}
+|[[Manchester United F.C.|Manchester United]]
+|align=center|[[1991 European Cup Winners' Cup final|2–1]]
+|[[FC Barcelona|Barcelona]]
+|{{fba|ESP}}
+|[[De Kuip]], Rotterdam, Netherlands
+|align=center|45,000
+|-
+!scope=row style="text-align:center"|[[1991–92 European Cup Winners' Cup|1991–92]]
+|{{fba|GER}}
+|[[SV Werder Bremen|Werder Bremen]]
+|align=center|[[1992 European Cup Winners' Cup final|2–0]]
+|[[AS Monaco FC|Monaco]]
+|{{fba|FRA|1974}}
+|[[Estádio da Luz (1954)|Estádio da Luz]], Lisbon, Portugal
+|align=center|16,000
+|-
+!scope=row style="text-align:center"|[[1992–93 European Cup Winners' Cup|1992–93]]
+|{{fba|ITA}}
+|[[Parma Calcio 1913|Parma]]
+|align=center|[[1993 European Cup Winners' Cup final|3–1]]
+|[[Royal Antwerp FC|Antwerp]]
+|{{fba|BEL}}
+|[[Wembley Stadium (1923)|Wembley Stadium]], London, England
+|align=center|37,393
+|-
+!scope=row style="text-align:center"|[[1993–94 European Cup Winners' Cup|1993–94]]
+|{{fba|ENG}}
+|[[Arsenal F.C.|Arsenal]]
+|align=center|[[1994 European Cup Winners' Cup final|1–0]]
+|[[Parma Calcio 1913|Parma]]
+|{{fba|ITA}}
+|[[Parken Stadium]], Copenhagen, Denmark
+|align=center|33,765
+|-
+!scope=row style="text-align:center"|[[1994–95 UEFA Cup Winners' Cup|1994–95]]
+|{{fba|ESP}}
+|[[Real Zaragoza|Zaragoza]]
+|align=center bgcolor=FBCEB1|[[1995 UEFA Cup Winners' Cup final|2–1]]<sup>{{dagger}}</sup>
+|[[Arsenal F.C.|Arsenal]]
+|{{fba|ENG}}
+|[[Parc des Princes]], Paris, France
+|align=center|42,424
+|-
+!scope=row style="text-align:center"|[[1995–96 UEFA Cup Winners' Cup|1995–96]]
+|{{fba|FRA|1974}}
+|[[Paris Saint-Germain FC|Paris Saint-Germain]]
+|align=center|[[1996 UEFA Cup Winners' Cup final|1–0]]
+|[[SK Rapid Wien|Rapid Wien]]
+|{{fba|AUT}}
+|[[King Baudouin Stadium]], Brussels, Belgium
+|align=center|37,500
+|-
+!scope=row style="text-align:center"|[[1996–97 UEFA Cup Winners' Cup|1996–97]]
+|{{fba|ESP}}
+|[[FC Barcelona|Barcelona]]
+|align=center|[[1997 UEFA Cup Winners' Cup final|1–0]]
+|[[Paris Saint-Germain FC|Paris Saint-Germain]]
+|{{fba|FRA|1974}}
+|[[De Kuip]], Rotterdam, Netherlands
+|align=center|36,802
+|-
+!scope=row style="text-align:center"|[[1997–98 UEFA Cup Winners' Cup|1997–98]]
+|{{fba|ENG}}
+|[[Chelsea F.C.|Chelsea]]
+|align=center|[[1998 UEFA Cup Winners' Cup final|1–0]]
+|[[VfB Stuttgart]]
+|{{fba|GER}}
+|[[Råsunda Stadium]], Stockholm, Sweden
+|align=center|30,216
+|-
+!scope=row style="text-align:center"|[[1998–99 UEFA Cup Winners' Cup|1998–99]]
+|{{fba|ITA}}
+|[[SS Lazio|Lazio]]
+|align=center|[[1999 UEFA Cup Winners' Cup final|2–1]]
+|[[RCD Mallorca|Mallorca]]
+|{{fba|ESP}}
+|[[Villa Park]], Birmingham, England
+|align=center|33,000
+|}
+
+==Performances==
+===By club===
+{| class="wikitable plainrowheaders sortable"
+|+Performance in the UEFA Cup Winners' Cup by club
+|-
+!scope=col|Club
+!scope=col|Titles
+!scope=col|Runners-up
+!scope=col class="unsortable"|Years won
+!scope=col class="unsortable"|Years runner-up
+|-
+!scope=row|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|align=center|4
+|align=center|2
+|[[1978–79 European Cup Winners' Cup|1979]], [[1981–82 European Cup Winners' Cup|1982]], [[1988–89 European Cup Winners' Cup|1989]], [[1996–97 UEFA Cup Winners' Cup|1997]]
+|[[1968–69 European Cup Winners' Cup|1969]], [[1990–91 European Cup Winners' Cup|1991]]
+|-
+!scope=row|{{fbaicon|BEL}} [[RSC Anderlecht|Anderlecht]]
+|align=center|2
+|align=center|2
+|[[1975–76 European Cup Winners' Cup|1976]], [[1977–78 European Cup Winners' Cup|1978]]
+|[[1976–77 European Cup Winners' Cup|1977]], [[1989–90 European Cup Winners' Cup|1990]]
+|-
+!scope=row|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|align=center|2
+|align=center|1
+|[[1967–68 European Cup Winners' Cup|1968]], [[1972–73 European Cup Winners' Cup|1973]]
+|[[1973–74 European Cup Winners' Cup|1974]]
+|-
+!scope=row|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|align=center|2
+|align=center|0
+|[[1970–71 European Cup Winners' Cup|1971]], [[1997–98 UEFA Cup Winners' Cup|1998]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|URS}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|align=center|2
+|align=center|0
+|[[1974–75 European Cup Winners' Cup|1975]], [[1985–86 European Cup Winners' Cup|1986]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ESP}} [[Atlético Madrid]]
+|align=center|1
+|align=center|2
+|[[1961–62 European Cup Winners' Cup|1962]]
+|[[1962–63 European Cup Winners' Cup|1963]], [[1985–86 UEFA Cup Winners' Cup|1986]]
+|-
+!scope=row|{{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|align=center|1
+|align=center|2
+|[[1971–72 European Cup Winners' Cup|1972]]
+|[[1960–61 European Cup Winners' Cup|1961]], [[1966–67 European Cup Winners' Cup|1967]]
+|-
+!scope=row|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|align=center|1
+|align=center|2
+|[[1993–94 European Cup Winners' Cup|1994]]
+|[[1979–80 European Cup Winners' Cup|1980]], [[1994–95 UEFA Cup Winners' Cup|1995]]
+|-
+!scope=row|{{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|align=center|1
+|align=center|1
+|[[1960–61 European Cup Winners' Cup|1961]]
+|[[1961–62 European Cup Winners' Cup|1962]]
+|-
+!scope=row|{{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|align=center|1
+|align=center|1
+|[[1964–65 European Cup Winners' Cup|1965]]
+|[[1975–76 European Cup Winners' Cup|1976]]
+|-
+!scope=row|{{fbaicon|GER}} [[Hamburger SV]]
+|align=center|1
+|align=center|1
+|[[1976–77 European Cup Winners' Cup|1977]]
+|[[1967–68 European Cup Winners' Cup|1968]]
+|-
+!scope=row|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|align=center|1
+|align=center|1
+|[[1986–87 European Cup Winners' Cup|1987]]
+|[[1987–88 European Cup Winners' Cup|1988]]
+|-
+!scope=row|{{fbaicon|ITA}} [[UC Sampdoria|Sampdoria]]
+|align=center|1
+|align=center|1
+|[[1989–90 European Cup Winners' Cup|1990]]
+|[[1988–89 European Cup Winners' Cup|1989]]
+|-
+!scope=row|{{fbaicon|ITA}} [[Parma Calcio 1913|Parma]]
+|align=center|1
+|align=center|1
+|[[1992–93 European Cup Winners' Cup|1993]]
+|[[1993–94 European Cup Winners' Cup|1994]]
+|-
+!scope=row|{{fbaicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|align=center|1
+|align=center|1
+|[[1995–96 UEFA Cup Winners' Cup|1996]]
+|[[1996–97 UEFA Cup Winners' Cup|1997]]
+|-
+!scope=row|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|align=center|1
+|align=center|0
+|[[1962–63 European Cup Winners' Cup|1963]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|POR}} [[Sporting CP]]
+|align=center|1
+|align=center|0
+|[[1963–64 European Cup Winners' Cup|1964]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|GER}} [[Borussia Dortmund]]
+|align=center|1
+|align=center|0
+|[[1965–66 European Cup Winners' Cup|1966]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|align=center|1
+|align=center|0
+|[[1966–67 European Cup Winners' Cup|1967]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|TCH}} [[ŠK Slovan Bratislava|Slovan Bratislava]]
+|align=center|1
+|align=center|0
+|[[1968–69 European Cup Winners' Cup|1969]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|align=center|1
+|align=center|0
+|[[1969–70 European Cup Winners' Cup|1970]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|GDR}} [[1. FC Magdeburg]]
+|align=center|1
+|align=center|0
+|[[1973–74 European Cup Winners' Cup|1974]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|align=center|1
+|align=center|0
+|[[1979–80 European Cup Winners' Cup|1980]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|URS}} [[FC Dinamo Tbilisi|Dinamo Tbilisi]]
+|align=center|1
+|align=center|0
+|[[1980–81 European Cup Winners' Cup|1981]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|SCO}} [[Aberdeen F.C.|Aberdeen]]
+|align=center|1
+|align=center|0
+|[[1982–83 European Cup Winners' Cup|1983]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|align=center|1
+|align=center|0
+|[[1983–84 European Cup Winners' Cup|1984]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ENG}} [[Everton F.C.|Everton]]
+|align=center|1
+|align=center|0
+|[[1984–85 European Cup Winners' Cup|1985]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|BEL}} [[KV Mechelen]]
+|align=center|1
+|align=center|0
+|[[1987–88 European Cup Winners' Cup|1988]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|align=center|1
+|align=center|0
+|[[1990–91 European Cup Winners' Cup|1991]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|align=center|1
+|align=center|0
+|[[1991–92 European Cup Winners' Cup|1992]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ESP}} [[Real Zaragoza|Zaragoza]]
+|align=center|1
+|align=center|0
+|[[1994–95 UEFA Cup Winners' Cup|1995]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ITA}} [[SS Lazio|Lazio]]
+|align=center|1
+|align=center|0
+|[[1998–99 UEFA Cup Winners' Cup|1999]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|align=center|0
+|align=center|2
+|align=center|—
+|[[1970–71 European Cup Winners' Cup|1971]], [[1982–83 European Cup Winners' Cup|1983]]
+|-
+!scope=row|{{fbaicon|AUT}} [[SK Rapid Wien|Rapid Wien]]
+|align=center|0
+|align=center|2
+|align=center|—
+|[[1984–85 European Cup Winners' Cup|1985]], [[1995–96 UEFA Cup Winners' Cup|1996]]
+|-
+!scope=row|{{fbaicon|HUN}} [[MTK Budapest FC|MTK Budapest]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1963–64 European Cup Winners' Cup|1964]]
+|-
+!scope=row|{{fbaicon|GER}} [[TSV 1860 Munich|1860 Munich]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1964–65 European Cup Winners' Cup|1965]]
+|-
+!scope=row|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1965–66 European Cup Winners' Cup|1966]]
+|-
+!scope=row|{{fbaicon|POL}} [[Górnik Zabrze]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1969–70 European Cup Winners' Cup|1970]]
+|-
+!scope=row|{{fbaicon|URS}} [[FC Dynamo Moscow|Dynamo Moscow]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1971–72 European Cup Winners' Cup|1972]]
+|-
+!scope=row|{{fbaicon|ENG}} [[Leeds United F.C.|Leeds United]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1972–73 European Cup Winners' Cup|1973]]
+|-
+!scope=row|{{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1974–75 European Cup Winners' Cup|1975]]
+|-
+!scope=row|{{fbaicon|AUT}} [[FK Austria Wien|Austria Wien]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1977–78 European Cup Winners' Cup|1978]]
+|-	
+!scope=row|{{fbaicon|GER}} [[Fortuna Düsseldorf]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1978–79 European Cup Winners' Cup|1979]]
+|-
+!scope=row|{{fbaicon|GDR}} [[FC Carl Zeiss Jena|Carl Zeiss Jena]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1980–81 European Cup Winners' Cup|1981]]
+|-
+!scope=row|{{fbaicon|BEL}} [[Standard Liège]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1981–82 European Cup Winners' Cup|1982]]
+|-
+!scope=row|{{fbaicon|POR}} [[FC Porto|Porto]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1983–84 European Cup Winners' Cup|1984]]
+|-
+!scope=row|{{fbaicon|GDR}} [[1. FC Lokomotive Leipzig]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1986–87 European Cup Winners' Cup|1987]]
+|-
+!scope=row|{{fbaicon|FRA|1974}} [[AS Monaco FC|Monaco]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1991–92 European Cup Winners' Cup|1992]]
+|-
+!scope=row|{{fbaicon|BEL}} [[Royal Antwerp FC|Antwerp]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1992–93 European Cup Winners' Cup|1993]]
+|-
+!scope=row|{{fbaicon|GER}} [[VfB Stuttgart]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1997–98 UEFA Cup Winners' Cup|1998]]
+|-
+!scope=row|{{fbaicon|ESP}} [[RCD Mallorca|Mallorca]]
+|align=center|0
+|align=center|1
+|align=center|—
+|[[1998–99 UEFA Cup Winners' Cup|1999]]
+|}
+
+===By nation===
+{| class="wikitable plainrowheaders sortable"
+|+Performance in finals by nation<ref name="venue"/>
+|-
+!scope=col| Nation
+!scope=col| Titles
+!scope=col| Runners-up
+!scope=col| Total
+|-
+!scope=row|{{fba|ENG}}
+|align=center| 8
+|align=center| 5
+|align=center| 13
+|-
+!scope=row|{{fba|ESP}}
+|align=center| 7
+|align=center| 7
+|align=center| 14
+|-
+!scope=row|{{fba|ITA}}
+|align=center| 7
+|align=center| 4
+|align=center| 11
+|-
+!scope=row|{{fba|GER}}{{efn|Includes clubs representing [[West Germany]].}}
+|align=center| 4
+|align=center| 4
+|align=center| 8
+|-
+!scope=row|{{fba|BEL}}
+|align=center| 3
+|align=center| 4
+|align=center| 7
+|-
+!scope=row|{{fba|URS}}{{efn|Two Soviet final appearances were by a [[Ukrainian Soviet Socialist Republic|Ukrainian SSR]] club (both won), one was by a [[Georgian Soviet Socialist Republic|Georgian SSR]] club (won) and one was by a [[Russian Soviet Federative Socialist Republic|Russian SFSR]] club (lost).}}
+|align=center| 3
+|align=center| 1
+|align=center| 4
+|-
+!scope=row|{{fba|SCO}}
+|align=center| 2
+|align=center| 2
+|align=center| 4
+|-
+!scope=row|{{fba|FRA|1974}}
+|align=center| 1
+|align=center| 2
+|align=center| 3
+|-
+!scope=row|{{fba|GDR}}
+|align=center| 1
+|align=center| 2
+|align=center| 3
+|-
+!scope=row|{{fba|NED}}
+|align=center| 1
+|align=center| 1
+|align=center| 2
+|-
+!scope=row|{{fba|POR}}
+|align=center| 1
+|align=center| 1
+|align=center| 2
+|-
+!scope=row|{{fba|TCH}}{{efn|The Czechoslovak final appearance was by a [[Slovak Socialist Republic|Slovak SR]] club.}}
+|align=center| 1
+|align=center| 0
+|align=center| 1
+|-
+!scope=row|{{fba|AUT}}
+|align=center| 0
+|align=center| 3
+|align=center| 3
+|-
+!scope=row|{{fba|HUN}}
+|align=center| 0
+|align=center| 2
+|align=center| 2
+|-
+!scope=row|{{fba|POL}}
+|align=center| 0
+|align=center| 1
+|align=center| 1
+|}
+
+== See also ==
+* [[List of European Cup and UEFA Champions League finals]]
+* [[List of UEFA Cup Winners' Cup winning managers]]
+* [[List of UEFA Cup and Europa League finals]]
+* [[List of UEFA Conference League finals]]
+* [[List of UEFA Super Cup matches]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110131062024/http://en.archive.uefa.com/competitions/ecwc/history/index.html UEFA Cup Winners' Cup official history]
+
+{{UEFA Cup Winners' Cup seasons}}
+{{UEFA Cup Winners' Cup winners}}
+{{UEFA club competition winners}}
+
+{{featured list}}
+
+[[Category:UEFA Cup Winners' Cup]]
+[[Category:UEFA Cup Winners' Cup finals| ]]
+[[Category:List of UEFA-sanctioned competition finals|Cup Winners' Cup]]

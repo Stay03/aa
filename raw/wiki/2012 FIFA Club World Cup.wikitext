@@ -1,0 +1,478 @@
+{{Use dmy dates|date=December 2016}}
+{{See also|2012 FIFA U-20 Women's World Cup}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2012
+| other_titles   = FIFA Club World Cup Japan 2012<br />presented by Toyota<br />Toyota プレゼンツ<br />FIFAクラブワールドカップ ジャパン2012
+| image          = 2012 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA canvas}}
+| country        = Japan
+| dates          = 6–16 December
+| num_teams      = 7
+| confederations = 6
+| venues         = 2
+| cities         = 2
+| champion_other = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| count          = 2
+| second_other   = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| third_other    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| fourth_other   = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| matches        = 8
+| goals          = 21
+| attendance     = {{#expr: 25174 + 20353 + 27314 + 17581 + 31417 + 36648 + 56301 + 68275}}
+| top_scorer     = {{nowrap|[[César Delgado]] (Monterrey)<br />[[Hisato Satō]] (Sanfrecce Hiroshima)<br />3 goals each}}
+| player         = [[Cássio (footballer, born 1987)|Cássio]] (Corinthians)
+| fair_play      = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| prevseason     = [[2011 FIFA Club World Cup|2011]]
+| nextseason     = [[2013 FIFA Club World Cup|2013]]
+}}
+The '''2012 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup Japan 2012 presented by Toyota''' for sponsorship reasons) was a [[Association football|football]] tournament that was played from 6 to 16 December 2012.<ref name="schedule">{{cite web |title=Match Schedule – FIFA Club World Cup Japan 2012 |url=https://www.fifa.com/mm/document/tournament/competition/01/64/54/28/fcwc2012_matchschedule.pdf |archive-url=https://web.archive.org/web/20120813135144/http://www.fifa.com/mm/document/tournament/competition/01/64/54/28/fcwc2012%5fmatchschedule.pdf |url-status=dead |archive-date=13 August 2012 |publisher=FIFA }}</ref> It was the ninth edition of the [[FIFA Club World Cup]], a [[FIFA]]-organised tournament between the winners of the six continental confederations as well as the host nation's league champions. The tournament was hosted by Japan.<ref name="host">{{cite news |url=https://www.fifa.com/clubworldcup/organisation/media/newsid=779200.html |title=Unanimous support for 6+5, FIFA Club World Cup hosts revealed |date=27 May 2008 |access-date=1 April 2010 |publisher=FIFA |quote=Another major decision taken by the Executive Committee was to award the organisation of the 2009 and 2010 editions of the FIFA Club World Cup for the first time to the United Arab Emirates (UAE) and the following two events, in 2011 and 2012, to Japan, where it has been played since 2005 and will be again in December this year. |url-status = dead|archive-url=https://web.archive.org/web/20091014213232/http://www.fifa.com/clubworldcup/organisation/media/newsid%3D779200.html |archive-date=14 October 2009 }}</ref><ref name="ESPN">{{cite news |url=http://soccernet.espn.go.com/news/story?id=539272&cc=5739 |title=FIFA moves Club World Cup to UAE from Japan |date=27 May 2008 |access-date=2 April 2010 |publisher=ESPN |quote=Japan were given some consolation for their loss when they awarded the tournament in 2011 and 2012 while Australia, which had been hoping to use the event to boost their chances of staging the World Cup in 2018, were overlooked altogether. |archive-date=8 November 2012 |archive-url=https://web.archive.org/web/20121108105217/http://soccernet.espn.go.com/news/story?id=539272 |url-status=dead }}</ref>
+
+Defending champions [[FC Barcelona|Barcelona]] did not qualify as they were eliminated in the semi-finals of the [[2011–12 UEFA Champions League]] by eventual champions [[Chelsea F.C.|Chelsea]].
+
+[[Sport Club Corinthians Paulista|Corinthians]] won the title for the second time (also becoming the last South American and non-European team to win the tournament), winning 1–0 in the semi-finals against [[Al Ahly SC|Al Ahly]] before beating Chelsea by the same margin in the [[2012 FIFA Club World Cup Final|final]].<ref>{{cite web |title=World is lost for Chelsea |url=http://espnfc.com/uk/en/report/358021/report.html?soccernet=true&cc=5739 |work=ESPNFC.com |date=16 December 2012 |access-date=17 December 2012 }}</ref><ref>{{cite web |title= Chelsea 0 Corinthians 1 |url=https://www.telegraph.co.uk/sport/football/teams/chelsea/9748418/Chelsea-0-Corinthians-1-Club-World-Cup-final-match-report.html |work=Daily Telegraph |date=16 December 2012 |access-date=17 December 2012 }}</ref>
+
+==Host bids==
+The [[FIFA Executive Committee]] appointed Japan as hosts for the [[2011 FIFA Club World Cup|2011]] and 2012 tournaments on 27 May 2008 during their meeting in [[Sydney]], Australia.<ref name="host"/><ref name="ESPN"/>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of teams of the 2012 FIFA Club World Cup|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-23.54553|long=-46.47337|label_size=80|label=[[Sport Club Corinthians Paulista|Corinthians]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=51.48167|long=-0.191111|label_size=80|label=[[Chelsea F.C.|Chelsea]]|position=right}}
+<!--AFC-->
+{{Location map~|World|lat=35.53528|long=129.25944|label_size=80|label=[[Ulsan Hyundai FC|Ulsan Hyundai]]|position=left}}
+<!--CAF-->
+{{Location map~|World|lat=30.06911|long=31.31233|label_size=80|label=[[Al Ahly SC|Al Ahly]]|position=right}}
+<!--CONCACAF-->
+{{Location map~|World|lat=25.65225|long=-100.28642|label_size=80|label=[[C.F. Monterrey|Monterrey]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-36.89780|long=174.73643|label_size=80|label=[[Auckland City FC|Auckland City]]|position=left}}
+<!--Host-->
+{{Location map~|World|lat=34.44078|long=132.39425|label_size=80|label=[[Sanfrecce Hiroshima]]|position=right}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Participation (bold indicates winners)
+|-
+!colspan=4|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|[[CONMEBOL]]
+|Winners of the [[2012 Copa Libertadores]]
+|2nd <small>(Previous: '''[[2000 FIFA Club World Championship|2000]]''')</small>
+|-
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|[[UEFA]]
+|Winners of the [[2011–12 UEFA Champions League]]
+|Debut
+|-
+!colspan=4|Entering in the [[#Quarter-finals|quarter-finals]]
+|-
+|{{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2012 AFC Champions League]]
+|Debut
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2012 CAF Champions League]]
+|4th <small>(Previous: [[2005 FIFA Club World Cup|2005]], [[2006 FIFA Club World Cup|2006]], [[2008 FIFA Club World Cup|2008]]) </small>
+|-
+|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|[[CONCACAF]]
+|Winners of the [[2011–12 CONCACAF Champions League]]
+|2nd <small>(Previous: [[2011 FIFA Club World Cup|2011]])</small>
+|-
+!colspan=4|Entering in the [[#Play-off for quarter-finals|play-off for quarter-finals]]
+|-
+|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2011–12 OFC Champions League]]
+|4th <small>(Previous: [[2006 FIFA Club World Cup|2006]], [[2009 FIFA Club World Cup|2009]], [[2011 FIFA Club World Cup|2011]])</small>
+|-
+|{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|[[Asian Football Confederation|AFC]] ([[Japan Football Association|host]])
+|Winners of the [[2012 J. League Division 1]]
+|Debut
+|}
+
+==Match officials==
+The appointed referees are:<ref>{{cite web|url=https://www.fifa.com/mm/document/tournament/competition/01/81/67/16//refereesappointmentsfifacwcjap2012_oct12.pdf|archive-url=https://web.archive.org/web/20121222195141/http://www.fifa.com/mm/document/tournament/competition/01/81/67/16/refereesappointmentsfifacwcjap2012%5Foct12.pdf|url-status=dead|archive-date=22 December 2012|title=FIFA Club World Cup Japan 2012 – Appointment of Match Officials|publisher=FIFA}}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+|-
+|rowspan=2|[[Asian Football Confederation|AFC]]
+|{{fbaicon|BHR}} [[Nawaf Shukralla]]
+|{{fbaicon|BHR}} Ebrahim Saleh<br />{{fbaicon|BHR}} Yaser Tulefat
+|-
+|{{fbaicon|IRN}} [[Alireza Faghani]] ''(reserve)''
+|{{fbaicon|IRN}} Hassan Kamranifar ''(reserve)''<br />{{fbaicon|IRN}} Reza Sokhandan ''(reserve)''
+|-
+|[[Confederation of African Football|CAF]]
+|{{fbaicon|ALG}} [[Djamel Haimoudi]]
+|{{fbaicon|ALG}} Abdelhak Etchiali<br />{{fbaicon|MAR}} Redouane Achik
+|-
+|[[CONCACAF]]
+|{{fbaicon|MEX}} [[Marco Antonio Rodríguez]]
+|{{fbaicon|MEX}} Marvin Torrentera<br />{{fbaicon|MEX}} Marcos Quintero
+|-
+|[[CONMEBOL]]
+|{{fbaicon|ECU}} [[Carlos Vera]]
+|{{fbaicon|ECU}} Christian Lescano<br />{{fbaicon|ECU}} Byron Romero
+|-
+|[[Oceania Football Confederation|OFC]]
+|{{fbaicon|NZL}} [[Peter O'Leary (referee)|Peter O'Leary]]
+|{{fbaicon|NZL}} Mark Rule<br />{{fbaicon|FIJ}} Ravinesh Kumar
+|-
+|[[UEFA]]
+|{{fbaicon|TUR}} [[Cüneyt Çakır]]
+|{{fbaicon|TUR}} Bahattin Duran<br />{{fbaicon|TUR}} Tarık Ongun
+|}
+
+==Squads==
+{{main|2012 FIFA Club World Cup squads}}
+
+Each team submitted a squad of 23 players, three of them goalkeepers.<ref>{{cite web|url=http://www.fifadata.com/document/FCWC/2012/pdf/FCWC_2012_SquadLists.pdf|title=FIFA Club World Cup Japan 2012 presented by TOYOTA – List of Players|publisher=FIFA|date=29 November 2012|access-date=29 November 2012|archive-url=https://web.archive.org/web/20121207065034/http://www.fifadata.com/document/FCWC/2012/pdf/FCWC_2012_SquadLists.pdf|archive-date=7 December 2012|url-status=dead}}</ref> The squads were announced on 29 November 2012.<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/newsid=1959409/index.html |archive-url=https://web.archive.org/web/20121203085810/http://www.fifa.com/clubworldcup/news/newsid=1959409/index.html |url-status=dead |archive-date=3 December 2012 |title=Continents’ finest prepare for Japan |publisher=FIFA |date=29 November 2012 }}</ref>
+
+==Venues==
+The venues for the 2012 FIFA Club World Cup were Yokohama and Toyota.<ref name="schedule"/>
+
+{| class="wikitable" style="text-align:center"
+|-
+! [[Toyota, Aichi|Toyota]]
+!rowspan=5|{{location map+ |Japan |float=center |width=250 |caption= |places=
+{{location map~ |Japan |lat=35.084500 |long=137.170611 |label=[[Toyota, Aichi|Toyota]] |position=left}}
+{{location map~ |Japan |lat=35.510044 |long=139.606247 |label=[[Yokohama]]|position=top}}}}
+! [[Yokohama]]
+|-
+| [[Toyota Stadium (Japan)]]
+| [[Nissan Stadium (Yokohama)]]
+|-
+| <small>{{Coord|35|05|05|N|137|10|15|E|type:landmark_source:dewiki|display=inline|name=Toyota Stadium}}</small>
+| <small>{{Coord|35|30|35|N|139|36|20|E|type:landmark|display=inline|name=International Stadium Yokohama}}</small>
+|-
+| Capacity: '''45,000''' 
+| Capacity: '''72,327'''
+|-
+| [[File:Toyota sta 0313 2.JPG|200px]]
+| [[File:NISSANSTADIUM20080608.JPG|200px]]
+|}
+
+==Goal-line technology==
+The 2012 FIFA Club World Cup was the first FIFA tournament to use [[goal-line technology]] following its approval by the [[International Football Association Board]] (IFAB) in July 2012.<ref>{{cite web|url=http://www.supersport.com/football/article.aspx?Id=1464991|title=Goal-line tech to debut at Club World Cup|publisher=supersport.com|date=5 July 2012}}</ref> The two systems approved by FIFA, [[GoalRef]] (installed in Yokohama) and [[Hawk-Eye]] (installed in Toyota), were used in the two stadiums.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=1954433/index.html|archive-url=https://web.archive.org/web/20130122114749/http://www.fifa.com/clubworldcup/news/newsid=1954433/index.html|url-status=dead|archive-date=22 January 2013|title=FIFA Club World Cup: GLT project agreements signed|publisher=FIFA|date=27 November 2012}}</ref>
+
+==Matches==
+The draw for the 2012 FIFA Club World Cup was held at the FIFA headquarters in [[Zürich]], [[Switzerland]], on 24 September 2012 at 11:30 [[Central European Summer Time|CEST]] ([[UTC+02:00]]).<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=1705222/index.html|archive-url=https://web.archive.org/web/20120925235828/http://www.fifa.com/clubworldcup/news/newsid=1705222/index.html|url-status=dead|archive-date=25 September 2012|title=Follow the draw LIVE on FIFA.com|publisher=FIFA|date=23 September 2012}}</ref> The draw decided the "positions" in the bracket for the three representatives which entered the quarter-finals (AFC/CAF/CONCACAF).<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=1707178/index.html|archive-url=https://web.archive.org/web/20120926233032/http://www.fifa.com/clubworldcup/news/newsid=1707178/index.html|url-status=dead|archive-date=26 September 2012|title=Intriguing quarter-final pairings drawn|publisher=FIFA|date=24 September 2012}}</ref>
+
+If a match was tied after normal playing time:<ref name="regulations">{{cite web|url=https://www.fifa.com/mm/document/tournament/competition/01/95/45/34/regulationsfcwc2012_e.pdf|archive-url=https://web.archive.org/web/20130328220018/http://www.fifa.com/mm/document/tournament/competition/01/95/45/34/regulationsfcwc2012%5fe.pdf|url-status=dead|archive-date=28 March 2013|title=Regulations – FIFA Club World Cup Japan 2012|publisher=FIFA}}</ref>
+*For elimination matches, [[Overtime (sports)#Association football|extra time]] was played. If still tied after extra time, a [[Penalty shoot-out (association football)|penalty shoot-out]] was held to determine the winner.
+*For the matches for fifth place and third place, no extra time was played, and a penalty shoot-out was held to determine the winner.
+
+<onlyinclude>{{7TeamBracket-StepladderToSF
+| style       = 3
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#Play-off for quarter-finals|Play-off for quarter-finals]]
+| RD2         = [[#Quarter-finals|Quarter-finals]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD3b        = [[#Match for fifth place|Match for fifth place]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- Play-off for quarter-finals -->
+| RD1-text1    = 6 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD1-team1    = {{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+| RD1-score1   = 1
+| RD1-team2    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD1-score2   = 0
+
+<!-- Quarter-finals -->
+| RD2-text1    = 9 December – [[Toyota Stadium (Japan)|Toyota]]
+| RD2-team1    = {{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+| RD2-score1   = 1
+| RD2-team2    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD2-score2   = 2
+
+| RD2-text2    = 9 December – [[Toyota Stadium (Japan)|Toyota]]
+| RD2-team3    = {{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+| RD2-score3   = 1
+| RD2-team4    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| RD2-score4   = 3
+
+<!-- Semi-finals -->
+| RD3-text1    = 12 December – [[Toyota Stadium (Japan)|Toyota]]
+| RD3-team1    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD3-score1   = 0
+| RD3-team2    = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| RD3-score2   = 1
+
+| RD3-text2    = 13 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD3-team3    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| RD3-score3   = 1
+| RD3-team4    = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| RD3-score4   = 3
+
+<!-- Final -->
+| RD4-text1    = 16 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD4-team1    = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| RD4-score1   = 1
+| RD4-team2    = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| RD4-score2   = 0
+
+<!-- Match for fifth place -->
+| RD3-text3    = 12 December – [[Toyota Stadium (Japan)|Toyota]]
+| RD3-team5    = {{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+| RD3-score5   = 2
+| RD3-team6    = {{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+| RD3-score6   = 3
+
+<!-- Match for third place -->
+| RD4-text2    = 16 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD4-team3    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD4-score3   = 0
+| RD4-team4    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| RD4-score4   = 2
+}}</onlyinclude>
+
+''All times [[Japan Standard Time]] ([[UTC+09:00]]).''
+
+===Play-off for quarter-finals===
+{{football box
+|date=6 December 2012
+|time=19:45
+|team1=[[Sanfrecce Hiroshima]] {{fbaicon|JPN}}
+|score=1–0
+|report=https://www.fifa.com/clubworldcup/matches/round=259321/match=300219238/report.html
+|team2={{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|goals1=[[Toshihiro Aoyama|Aoyama]] {{goal|66}}
+|goals2=
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=25,174
+|referee=[[Djamel Haimoudi]] ([[Algerian Football Federation|Algeria]])
+}}
+A minute's silence was held before the match to commemorate [[Netherlands|Dutch]] linesman [[Death of Richard Nieuwenhuizen|Richard Nieuwenhuizen]], who had died following a violent incident at a youth competition four days before the match.<ref>[https://web.archive.org/web/20160112050803/http://in.reuters.com/article/soccer-netherlands-blatter-idINDEE8B505I20121206 Blatter shocked at Dutch linesman death], Reuters (6 December 2012)</ref>
+
+===Quarter-finals===
+{{football box
+|date=9 December 2012
+|time=16:00
+|team1=[[Ulsan Hyundai FC|Ulsan Hyundai]] {{fbaicon|KOR}} 
+|score=1–3
+|report=https://www.fifa.com/clubworldcup/matches/round=259319/match=300219239/report.html
+|team2={{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|goals1=[[Lee Keun-ho (footballer, born 1985)|Lee Keun-ho]] {{goal|88}}
+|goals2=[[Jesús Manuel Corona|Corona]] {{goal|9}}<br />[[César Delgado|Delgado]] {{goal|77||84}}
+|stadium=[[Toyota Stadium (Japan)|Toyota Stadium]], [[Toyota, Aichi|Toyota]]
+|attendance=20,353
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+----
+{{football box
+|date=9 December 2012
+|time=19:30
+|team1=[[Sanfrecce Hiroshima]] {{fbaicon|JPN}}
+|score=1–2
+|report=https://www.fifa.com/clubworldcup/matches/round=259319/match=300219237/report.html
+|team2={{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|goals1=[[Hisato Satō|Satō]] {{goal|32}}
+|goals2=[[Al-Sayed Hamdy|Hamdy]] {{goal|15}}<br />[[Mohamed Aboutrika|Aboutrika]] {{goal|56}}
+|stadium=[[Toyota Stadium (Japan)|Toyota Stadium]], [[Toyota, Aichi|Toyota]]
+|attendance=27,314
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+
+===Match for fifth place===
+{{football box
+|date=12 December 2012
+|time=16:30
+|team1=[[Ulsan Hyundai FC|Ulsan Hyundai]] {{fbaicon|KOR}}
+|score=2–3
+|report=https://www.fifa.com/clubworldcup/matches/round=259331/match=300219236/report.html
+|team2={{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|goals1=[[Hiroki Mizumoto|Mizumoto]] {{goal|17|o.g.}}<br />[[Lee Yong (footballer, born 1986)|Lee Yong]] {{goal|90+5}}
+|goals2=[[Satoru Yamagishi|Yamagishi]] {{goal|35}}<br />[[Hisato Satō|Satō]] {{goal|56||72}}
+|stadium=[[Toyota Stadium (Japan)|Toyota Stadium]], [[Toyota, Aichi|Toyota]]
+|attendance=17,581
+|referee=[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+}}
+
+===Semi-finals===
+{{football box
+|date=12 December 2012
+|time=19:30
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=0–1
+|report=https://www.fifa.com/clubworldcup/matches/round=259325/match=300219242/report.html
+|team2={{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1=
+|goals2=[[Paolo Guerrero|Guerrero]] {{goal|30}}
+|stadium=[[Toyota Stadium (Japan)|Toyota Stadium]], [[Toyota, Aichi|Toyota]]
+|attendance=31,417
+|referee=[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+}}
+----
+{{football box
+|date=13 December 2012
+|time=19:30
+|team1=[[C.F. Monterrey|Monterrey]] {{fbaicon|MEX}}
+|score=1–3
+|report=https://www.fifa.com/clubworldcup/matches/round=259325/match=300219240/report.html
+|team2={{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Aldo de Nigris|De Nigris]] {{goal|90+1}}
+|goals2=[[Juan Mata|Mata]] {{goal|17}}<br />[[Fernando Torres|Torres]] {{goal|46}}<br />[[Dárvin Chávez|Chávez]] {{goal|48|o.g.}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=36,648
+|referee=[[Carlos Vera]] ([[Ecuadorian Football Federation|Ecuador]])
+}}
+
+===Match for third place===
+{{football box
+|date=16 December 2012
+|time=16:30
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=0–2
+|report=https://www.fifa.com/clubworldcup/matches/round=259329/match=300219241/report.html
+|team2={{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|goals1=
+|goals2=[[Jesús Manuel Corona|Corona]] {{goal|3}}<br />[[César Delgado|Delgado]] {{goal|66}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=56,301
+|referee=[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]])
+}}
+
+===Final===
+{{main|2012 FIFA Club World Cup final}}
+
+{{football box
+|date=16 December 2012
+|time=19:30
+|team1=[[Sport Club Corinthians Paulista|Corinthians]] {{fbaicon|BRA}}
+|score=1–0
+|report=https://www.fifa.com/clubworldcup/matches/round=259327/match=300219235/report.html
+|team2={{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Paolo Guerrero|Guerrero]] {{goal|69}}
+|goals2=
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=68,275
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+}}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|rowspan=2|1
+|style="text-align:left"|{{flagicon|ARG}} [[César Delgado]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|rowspan=2|3
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Hisato Satō]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|-
+|rowspan=2|3
+|style="text-align:left"|{{flagicon|PER|football}} [[Paolo Guerrero]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|rowspan=2|2
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Jesús Manuel Corona|Jesús Corona]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|rowspan=9|5
+|style="text-align:left"|{{flagicon|EGY}} [[Mohamed Aboutrika]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|rowspan=9|1
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Al-Sayed Hamdy]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|ESP}} [[Juan Mata]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|-
+|style="text-align:left"|{{flagicon|ESP}} [[Fernando Torres]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Aldo de Nigris]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Toshihiro Aoyama]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Satoru Yamagishi]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|-
+|style="text-align:left"|{{flagicon|KOR}} [[Lee Keun-ho (footballer, born 1985)|Lee Keun-Ho]]
+|style="text-align:left"|{{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+|-
+|style="text-align:left"|{{flagicon|KOR}} [[Lee Yong (footballer born 1986)|Lee Yong]]
+|style="text-align:left"|{{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+|}
+
+'''1 own goal'''
+*{{flagicon|MEX}} [[Dárvin Chávez]] ([[C.F. Monterrey|Monterrey]], against [[Chelsea F.C.|Chelsea]])
+*{{flagicon|JPN}} [[Hiroki Mizumoto]] ([[Sanfrecce Hiroshima]], against [[Ulsan Hyundai FC|Ulsan Hyundai]])
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+The following awards were given for the tournament.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=1972809/index.html|archive-url=https://web.archive.org/web/20121219000222/http://www.fifa.com/clubworldcup/news/newsid=1972809/index.html|url-status=dead|archive-date=19 December 2012|title=Double joy for Corinthians stars|publisher=FIFA|date=16 December 2012}}</ref>
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Toyota]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|BRA}} [[Cássio (footballer, born 1987)|Cássio]]<br />([[Sport Club Corinthians Paulista|Corinthians]])
+|{{flagicon|BRA}} [[David Luiz]]<br />([[Chelsea F.C.|Chelsea]])
+|{{flagicon|PER|football}} [[Paolo Guerrero]]<br />([[Sport Club Corinthians Paulista|Corinthians]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+*[https://www.fifa.com/tournaments/mens/clubworldcup/japan2012 FIFA Club World Cup Japan 2012], FIFA.com
+*[https://web.archive.org/web/20130116031009/http://www.fifa.com/clubworldcup/index.html?intcmp=fifacom_hp_module_tournaments 2012 FIFA Club World Cup Official Site] (Archived)
+*[https://web.archive.org/web/20130629080027/http://www.fifa.com/mm/document/footballdevelopment/technicalsupport/02/01/25/90/fcwcreportwebv2.pdf FIFA Technical Report]
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2012 FIFA Club World Cup| ]]
+[[Category:Football club competitions in Japan]]
+[[Category:2012 in men's association football]]
+[[Category:2012 in Japanese men's football]]
+[[Category:December 2012 sports events in Japan]]
+[[Category:FIFA Club World Cup tournaments|2012]]
+[[Category:2012–13 in Mexican football]]
+[[Category:2012 in Brazilian football]]
+[[Category:2012–13 in English men's football]]
+[[Category:Sport in Toyota, Aichi]]
+[[Category:Sports competitions in Aichi Prefecture]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:Football in Yokohama]]
+[[Category:21st century in Yokohama]]
+[[Category:2012–13 in Egyptian football]]
+[[Category:2012–13 in New Zealand association football]]
+[[Category:2012 in South Korean football]]

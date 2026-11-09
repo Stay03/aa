@@ -1,0 +1,457 @@
+{{Use dmy dates|date=February 2020}}
+{{Infobox football match
+| title              = 2023 UEFA Super Cup
+| image              = 2023 UEFA Super Cup programme.png
+| image_size         = frameless
+| caption            = Match programme cover
+| team1              = [[Manchester City F.C.|Manchester City]]
+| team1association   = {{#invoke:flag|fbaicon|ENG|size=30px}}
+| team1score         = 1
+| team2              = [[Sevilla FC|Sevilla]]
+| team2association   = {{#invoke:flag|fbaicon|ESP|size=30px}}
+| team2score         = 1
+| details            = Manchester City won 5–4 on [[Penalty shoot-out (association football)|penalties]]
+| date               = {{Start date|2023|8|16|df=y}}
+| stadium            = [[Karaiskakis Stadium]]
+| city               = [[Piraeus]]
+| man_of_the_match1a = [[Cole Palmer]] {{nowrap|(Manchester City)}}<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefasupercup/news/0284-18c087a8a3cc-1bb27189a893-1000/ |title=Cole Palmer named 2023 UEFA Super Cup Player of the Match |website=[[UEFA]] |publisher=Union of European Football Associations |date=16 August 2023 |access-date=16 August 2023}}</ref>
+| referee            = [[François Letexier]] ([[French Football Federation|France]])<ref name="referees">{{cite web |url=https://www.uefa.com/uefasupercup/match/2037792--man-city-vs-sevilla/matchinfo/ |title=Manchester City v Sevilla – Match info |website=[[UEFA]] |publisher=Union of European Football Associations |date=14 August 2023 |access-date=14 August 2023}}</ref>
+| attendance         = 29,207<ref name="full_time"/>
+| weather            = Clear night<br />{{convert|28|°C|°F}}<br />47% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2023/2037792_LU.pdf |title=Tactical line-ups |website=[[UEFA]] |publisher=Union of European Football Associations |date=16 August 2023 |access-date=16 August 2023 |archive-url=https://web.archive.org/web/20230816222448/https://www.uefa.com/newsfiles/SuperCup/2023/2037792_LU.pdf |archive-date=16 August 2023 |url-status=dead}}</ref>
+| previous           = [[2022 UEFA Super Cup|2022]]
+| next               = [[2024 UEFA Super Cup|2024]]
+}}
+The '''2023 UEFA Super Cup''' was the 48th edition of the [[UEFA Super Cup]], an annual [[association football|football]] match organised by [[UEFA]] and contested by the reigning champions of the top two European club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. The match featured English club [[Manchester City F.C.|Manchester City]], winners of the [[2022–23 UEFA Champions League]], and Spanish club [[Sevilla FC|Sevilla]], winners of the [[2022–23 UEFA Europa League]]. It was played at the [[Karaiskakis Stadium]] in [[Piraeus]], Greece, on 16 August 2023.<ref>{{cite magazine |url=https://editorial.uefa.com/resources/0279-163596ae271e-e04faa20e08e-1000/20220926_circular_2022_65_en.zip |title=International match calendar and access list for the 2023/24 season |number=65/2022 |magazine=UEFA Circular Letter |publisher=[[UEFA|Union of European Football Associations]] |date=26 September 2022 |access-date=27 September 2022}}</ref>
+
+The match was originally scheduled to be played at the [[Ak Bars Arena]] in [[Kazan]], Russia. However, due to the [[Russian invasion of Ukraine]], it was moved on 25 January 2023 to Athens.
+
+Manchester City won the match 5–4 on [[Penalty shoot-out (association football)|penalties]]  following a 1–1 draw after 90 minutes for their first UEFA Super Cup title.<ref>{{cite web |url=https://www.uefa.com/uefasupercup/news/0284-18c07e15b0ff-af3118a0e297-1000/ |title=Manchester City 1–1 Sevilla (5–4 pens): City claim first Super Cup in shoot-out drama |website=[[UEFA]] |publisher=Union of European Football Associations |date=16 August 2023 |access-date=16 August 2023}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participations<br>(bold indicates winners)
+|-
+|{{#invoke:flag|fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|Winners of the [[2022–23 UEFA Champions League]]
+|None
+|-
+|{{#invoke:flag|fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|Winners of the [[2022–23 UEFA Europa League]]
+|6 ('''[[2006 UEFA Super Cup|2006]]''', [[2007 UEFA Super Cup|2007]], [[2014 UEFA Super Cup|2014]], [[2015 UEFA Super Cup|2015]], [[2016 UEFA Super Cup|2016]], [[2020 UEFA Super Cup|2020]])
+|}
+
+==Venue==
+[[File:Karaiskakis Stadium Piraeus Olympiacos-Arsenal.jpg|thumb|right|275px|The [[Karaiskakis Stadium]] in [[Piraeus]] hosted the match.]]
+
+===Original host selection===
+The [[Ak Bars Arena]] in [[Kazan]], Russia, was originally selected as the final host by the UEFA Executive Committee during their meeting in [[Amsterdam]], Netherlands, on 2 March 2020.<ref>{{cite news |url=https://www.uefa.com/news-media/news/025a-0f8e7599aae5-eab7d48ee1f2-1000--uefa-executive-committee-agenda-for-amsterdam-meeting/ |title=UEFA Executive Committee agenda for Amsterdam meeting |website=[[UEFA]] |publisher=Union of European Football Associations |date=27 February 2020 |access-date=27 February 2020}}</ref> The [[Albanian Football Association]] also had bid for the match to be hosted in [[Tirana]], but withdrew the candidature prior to the vote.<ref name="ExCo">{{cite news |url=https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2640217.html |archive-url=https://web.archive.org/web/20200322125102/https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2640217.html |url-status=dead |archive-date=22 March 2020 |title=Budapest to host 2022 UEFA Europa League Final |website=[[UEFA]] |publisher=Union of European Football Associations |date=2 March 2020 |access-date=2 March 2020}}</ref>
+
+The match would have been the first UEFA Super Cup to be held in Russia, and the second UEFA club competition final to be held in the city after the [[2009 UEFA Women's Cup final]]. The stadium was previously a venue for the [[2017 FIFA Confederations Cup]], where it hosted three group stage matches and a semi-final, and the [[2018 FIFA World Cup]], where it hosted four group stage matches, a round of 16 fixture and a quarter-final.<ref>{{cite news |url=https://www.uefa.com/uefasupercup/news/025b-0ed522ae0bce-a8e0f2fd983d-1000/ |title=UEFA Super Cup bound for Helsinki and Kazan |website=[[UEFA]] |publisher=Union of European Football Associations |date=2 March 2020 |access-date=2 March 2020}}</ref>
+
+===Relocation to Piraeus===
+After the [[Russian invasion of Ukraine]], it was uncertain whether the match would be played in Kazan. Russia was suspended from UEFA and FIFA competitions in February 2022, and the [[2022 UEFA Champions League final]], scheduled to take place in [[Saint Petersburg]], was also relocated to [[Paris]].<ref name="ESPN">{{cite web |title=Champions League in seismic overhaul with tennis-style knockout change |url=https://global.espn.com/football/uefa-champions-league/story/4668539/champions-league-in-seismic-overhaul-with-tennis-style-knockout-change |date=20 May 2022 }}</ref> [[Tatarstan]] officials had called for UEFA to keep the competition in Kazan.<ref>{{Cite web |title=Kazan still the host city for 2023 UEFA Super Cup — RealnoeVremya.com |url=https://realnoevremya.com/articles/6749-kazan-still-the-host-city-for-2023-uefa-super-cup |access-date=27 November 2022 |website=realnoevremya.com }}</ref><ref>{{Cite web |title=UEFA will transfer 2023 European Super Cup from Kazan |url=https://apa.az/en/football/uefa-will-transfer-2023-european-super-cup-from-kazan-376496 |access-date=27 November 2022 |website=Apa.az }}</ref><ref>{{Cite web |last=Michaelis |first=Lee |date=18 November 2022 |title=Ministry of Sports of Tatarstan: we hope UEFA will meet, and the Super Cup-2023 will be held in Kazan |url=https://www.gamingdeputy.com/ministry-of-sports-of-tatarstan-we-hope-uefa-will-meet-and-the-super-cup-2023-will-be-held-in-kazan/ |access-date=27 November 2022 |website=GAMINGDEPUTY }}</ref>
+
+This would be the second time a UEFA club competition final is hosted at the [[Karaiskakis Stadium]] in Athens after the [[1971 European Cup Winners' Cup final]]. Prior to the relocation, Athens had been selected as one of the hosts for the [[2024 UEFA Europa Conference League final]] at [[Agia Sophia Stadium]].<ref>{{Cite web |title=Δύο ευρωπαϊκοί τελικοί για την Ελλάδα σε Γ. Καραϊσκάκης και OPAP Arena |url=https://www.sport24.gr/football/dyo-eyropaikoi-telikoi-gia-tin-ellada-se-g-karaiskakis-kai-opap-arena.9916501.html |access-date=2023-01-26 |website=www.sport24.gr |language=el |archive-date=25 January 2023 |archive-url=https://web.archive.org/web/20230125172447/https://www.sport24.gr/football/dyo-eyropaikoi-telikoi-gia-tin-ellada-se-g-karaiskakis-kai-opap-arena.9916501.html |url-status=live }}</ref>
+
+On 25 January 2023, the UEFA Executive Committee stripped Kazan of hosting rights and relocated the match to the [[Karaiskakis Stadium]] in [[Piraeus]], Greece.<ref>{{cite web |url=https://www.uefa.com/news-media/news/027d-1727b3b1e199-61019185e2c8-1000/ |title=New formats for UEFA men's national team competitions approved |publisher=[[UEFA]] |date=25 January 2023 |access-date=25 January 2023}}</ref>
+
+==Pre-match==
+===Officials===
+On 14 August 2023, UEFA named French official [[François Letexier]] as the referee for the match. Letexier had been a [[FIFA]] referee since 2017 and previously worked as one of the assistant video assistant referees for the [[2019 UEFA Super Cup]]. He was accompanied by fellow countrymen Cyril Mugnier and Mehdi Rahmouni as assistant referees, while Espen Eskås of Norway served as the fourth official. Compatriot [[Jérôme Brisard]] was selected as the [[video assistant referee]] (VAR), with fellow countrymen Eric Wattellier and Fedayi San of Switzerland serving as the assistant VAR officials.<ref name="referees"/>
+
+==Match==
+===Summary===
+[[Manchester City F.C.|Manchester City]] came close to opening the scoring in the 8th minute after a header from [[Nathan Aké]] was saved by [[Yassine Bounou]]. [[Jack Grealish]] also had an effort from outside the penalty area saved by Bounou in the 17th minute. In the 25th minute, [[Sevilla FC|Sevilla]] took the lead after a cross into the penalty area by [[Marcos Acuña]] found its way on to the head of [[Youssef En-Nesyri]], who managed to head the ball into the bottom left-hand corner of the net.<ref>{{cite web|url=https://www.theguardian.com/football/2023/aug/16/manchester-city-sevilla-uefa-super-cup-match-report|title=Manchester City secure Uefa Super Cup with shootout win over Sevilla|work=The Guardian|date=16 August 2023|access-date=17 August 2023}}</ref> In the second half, En-Nesyri was put through on goal by [[Lucas Ocampos]] before his resulting effort was saved by [[Ederson (footballer, born 1993)|Ederson]]. [[Cole Palmer]] made it 1–1 in the 63rd minute after heading the ball past Bounou via a cross in by [[Rodri (footballer, born 1996)|Rodri]].<ref>{{cite web|url=https://www.bbc.com/sport/football/66513883|title=Manchester City 1-1 Sevilla: Pep Guardiola's side win Super Cup on penalties|work=BBC Sport|date=16 August 2023|access-date=17 August 2023}}</ref> In the 64th minute, En-Nesyri was put through on goal again by Ocampos but was again denied by Ederson. Palmer also had a curling effort saved by Bounou in the 69th minute. Constant pressure from City eventually lead to Aké having a header end up being tipped over by Bounou. The match finished 1–1 after 90 minutes and so went to a penalty shoot-out.<ref>{{cite web |title=2023 UEFA Super Cup: Date, location, format change & teams involved |url=https://www.90min.com/posts/2023-uefa-super-cup-date-location-format-change-teams-involved |website=90min.com |access-date=16 August 2023 |date=30 June 2023}}</ref> With both teams scoring their first four penalties, City captain [[Kyle Walker]] scored their fifth penalty before [[Nemanja Gudelj]] missed the crucial penalty for Sevilla by hitting the crossbar which meant Manchester City won the Super Cup 5–4 on penalties.
+
+===Details===
+The Champions League winners were designated as the "home" team for administrative purposes.
+
+<onlyinclude>{{#invoke:football box|main
+|date         = {{Start date|2023|8|16|df=y}}
+|time         = {{CEST|21:00|localtz=EEST}}<!--21:00 CEST, 22:00 EEST-->
+|team1        = [[Manchester City F.C.|Manchester City]] {{#invoke:flag|fbaicon|ENG}}
+|score        = 1–1
+|team2        = {{#invoke:flag|fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1       =
+*[[Cole Palmer|Palmer]] {{goal|63}}
+|goals2       =
+*[[Youssef En-Nesyri|En-Nesyri]] {{goal|25}}
+|stadium      = [[Karaiskakis Stadium]], [[Piraeus]]
+|attendance   = 29,207<ref name="full_time">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2023/2037792_FR.pdf |title=Full Time Report Final – Manchester City v Sevilla |website=[[UEFA]] |publisher=Union of European Football Associations |date=16 August 2023 |access-date=16 August 2023 |archive-url=https://web.archive.org/web/20230816213222/https://www.uefa.com/newsfiles/supercup/2023/2037792_fr.pdf |archive-date=16 August 2023 |url-status=dead}}</ref>
+|referee      = [[François Letexier]] ([[French Football Federation|France]])
+|penalties1   =
+*[[Erling Haaland|Haaland]] {{pengoal}}
+*[[Julián Álvarez|Álvarez]] {{pengoal}}
+*[[Mateo Kovačić|Kovačić]] {{pengoal}}
+*[[Jack Grealish|Grealish]] {{pengoal}}
+*[[Kyle Walker|Walker]] {{pengoal}}
+|penaltyscore = 5–4
+|penalties2   =
+*{{pengoal}} [[Lucas Ocampos|Ocampos]]
+*{{pengoal}} [[Rafa Mir|Mir]]
+*{{pengoal}} [[Ivan Rakitić|Rakitić]]
+*{{pengoal}} [[Gonzalo Montiel|Montiel]]
+*{{penmiss}} [[Nemanja Gudelj|Gudelj]]
+|report       = https://www.uefa.com/uefasupercup/match/2037792/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mancity2324H
+ |pattern_b  = _mancity2324H
+ |pattern_ra = _mancity2324H
+ |pattern_sh = _mancity2324h
+ |pattern_so = _mancity2324hl
+ |leftarm    = 98C5E9
+ |body       = 98C5E9
+ |rightarm   = 98C5E9
+ |shorts     = FFFFFF
+ |socks      = 98C5E9
+ |title      = {{nowrap|Manchester City}}<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _sevilla2324a
+ |pattern_b  = _sevilla2324a
+ |pattern_ra = _sevilla2324a
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    =
+ |body       =
+ |rightarm   =
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Sevilla<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''31'''||{{#invoke:flag|icon|BRA}} [[Ederson (footballer, born 1993)|Ederson]]
+|-
+|RB ||'''2''' ||{{#invoke:flag|icon|ENG}} [[Kyle Walker]] ([[Captain (association football)|c]])
+|-
+|CB ||'''25'''||{{#invoke:flag|icon|SUI}} [[Manuel Akanji]]
+|-
+|CB ||'''24'''||{{#invoke:flag|icon|CRO}} [[Joško Gvardiol]]
+|-
+|LB ||'''6''' ||{{#invoke:flag|icon|NED}} [[Nathan Aké]]
+|-
+|CM ||'''8''' ||{{#invoke:flag|icon|CRO}} [[Mateo Kovačić]]
+|-
+|CM ||'''16'''||{{#invoke:flag|icon|ESP}} [[Rodri (footballer, born 1996)|Rodri]]
+|-
+|RW ||'''80'''||{{#invoke:flag|icon|ENG}} [[Cole Palmer]] || || {{suboff|85}}
+|-
+|AM ||'''47'''||{{#invoke:flag|icon|ENG}} [[Phil Foden]]
+|-
+|LW ||'''10'''||{{#invoke:flag|icon|ENG}} [[Jack Grealish]]
+|-
+|CF ||'''9''' ||{{#invoke:flag|icon|NOR}} [[Erling Haaland]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''18'''||{{#invoke:flag|icon|GER}} [[Stefan Ortega]]
+|-
+|GK ||'''33'''||{{#invoke:flag|icon|ENG}} [[Scott Carson]]
+|-
+|DF ||'''3''' ||{{#invoke:flag|icon|POR}} [[Rúben Dias]]
+|-
+|DF ||'''5''' ||{{#invoke:flag|icon|ENG}} [[John Stones]]
+|-
+|DF ||'''14'''||{{#invoke:flag|icon|ESP}} [[Aymeric Laporte]]
+|-
+|DF ||'''21'''||{{#invoke:flag|icon|ESP}} [[Sergio Gómez (footballer, born 2000)|Sergio Gómez]]
+|-
+|DF ||'''82'''||{{#invoke:flag|icon|ENG}} [[Rico Lewis]]
+|-
+|MF ||'''4''' ||{{#invoke:flag|icon|ENG}} [[Kalvin Phillips]]
+|-
+|MF ||'''32'''||{{#invoke:flag|icon|ARG}} [[Máximo Perrone]]
+|-
+|MF ||'''87'''||{{#invoke:flag|icon|ENG}} [[James McAtee]]
+|-
+|FW ||'''19'''||{{#invoke:flag|icon|ARG}} [[Julián Álvarez]] || || {{subon|85}}
+|-
+|FW ||'''52'''||{{#invoke:flag|icon|NOR}} [[Oscar Bobb]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ESP}} [[Pep Guardiola]]
+|}
+|valign="top"|[[File:Manchester City vs Sevilla 2023-08-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{#invoke:flag|icon|MAR}} [[Yassine Bounou]]
+|-
+|RB ||'''16'''||{{#invoke:flag|icon|ESP}} [[Jesús Navas]] ([[Captain (association football)|c]]) || || {{suboff|83}}
+|-
+|CB ||'''22'''||{{#invoke:flag|icon|FRA}} [[Loïc Badé]] || {{yel|33}}
+|-
+|CB ||'''6''' ||{{#invoke:flag|icon|SRB}} [[Nemanja Gudelj]]
+|-
+|LB ||'''19'''||{{#invoke:flag|icon|ARG}} [[Marcos Acuña]]
+|-
+|CM ||'''8''' ||{{#invoke:flag|icon|ESP}} [[Joan Jordán]]
+|-
+|CM ||'''10'''||{{#invoke:flag|icon|CRO}} [[Ivan Rakitić]]
+|-
+|RW ||'''5''' ||{{#invoke:flag|icon|ARG}} [[Lucas Ocampos]]
+|-
+|AM ||'''21'''||{{#invoke:flag|icon|ESP}} [[Óliver Torres]] || || {{suboff|74}}
+|-
+|LW ||'''17'''||{{#invoke:flag|icon|ARG}} [[Erik Lamela]] || {{yel|62}} || {{suboff|90+3}}
+|-
+|CF ||'''15'''||{{#invoke:flag|icon|MAR}} [[Youssef En-Nesyri]] || || {{suboff|90+3}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|SRB}} [[Marko Dmitrović]]
+|-
+|DF ||'''2''' ||{{#invoke:flag|icon|ARG}} [[Federico Gattoni]]
+|-
+|DF ||'''3''' ||{{#invoke:flag|icon|ESP}} [[Adrià Pedrosa]]
+|-
+|DF ||'''4''' ||{{#invoke:flag|icon|ARG}} [[Gonzalo Montiel]] || || {{subon|83}}
+|-
+|DF ||'''27'''||{{#invoke:flag|icon|ESP}} [[Kike Salas]]
+|-
+|MF ||'''18'''||{{#invoke:flag|icon|SUI}} [[Djibril Sow]]
+|-
+|MF ||'''24'''||{{#invoke:flag|icon|ARG}} [[Papu Gómez|Alejandro Gómez]]
+|-
+|MF ||'''26'''||{{#invoke:flag|icon|ESP}} [[Juanlu Sánchez|Juanlu]] || {{yel|90}} || {{subon|74}}
+|-
+|MF ||'''28'''||{{#invoke:flag|icon|ESP}} [[Manu Bueno]]
+|-
+|FW ||'''7''' ||{{#invoke:flag|icon|ESP}} [[Suso (footballer)|Suso]] || || {{subon|90+3}}
+|-
+|FW ||'''9''' ||{{#invoke:flag|icon|ESP}} [[Rafa Mir]] || || {{subon|90+3}}
+|-
+|FW ||'''11'''||{{#invoke:flag|icon|MEX}} [[Jesús Manuel Corona|Jesús Corona]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ESP}} [[José Luis Mendilibar]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Cole Palmer]] (Manchester City)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br /> Cyril Mugnier ([[French Football Federation|France]])
+<br /> Mehdi Rahmouni ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referees"/>
+<br /> Espen Eskås ([[Norwegian Football Federation|Norway]])
+<br />'''[[Video assistant referee]]:'''<ref name="referees"/>
+<br /> [[Jérôme Brisard]] ([[French Football Federation|France]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''<ref name="referees"/>
+<br /> Eric Wattellier ([[French Football Federation|France]])
+<br /> Fedayi San ([[Swiss Football Association|Switzerland]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref>{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Super-Cup-2023-Online |title=Regulations of the UEFA Super Cup: 2023 |website=[[UEFA]] |publisher=Union of European Football Associations |date=1 May 2023 |access-date=15 June 2023 |url-status=live |archive-url=https://web.archive.org/web/20230615213833/https://documents.uefa.com/api/khub/maps/9WBDtiIft_aH0KEeJ~NQ7Q/attachments/erd_YTRqsrwNAafR3c6xHQ/content?filename=20230501_Regulations_SCUP_2023_EN.pdf |archive-date=15 June 2023}}</ref>
+*90 minutes, no [[Overtime (sports)#Association football|extra time]] was played
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores level
+*Twelve named substitutes
+*Maximum of five substitutions{{refn|group=note|Each team was given only three opportunities to make substitutions, excluding substitutions made at half-time.}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2023/2037792_TS.pdf |title=Team statistics |website=[[UEFA]] |publisher=Union of European Football Associations |date=16 August 2023 |access-date=16 August 2023 |archive-url=https://web.archive.org/web/20240617053748/https://www.uefa.com/newsfiles/SuperCup/2023/2037792_TS.pdf |archive-date=17 June 2024 |url-status=dead}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Manchester City
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|9
+|4
+|-
+!scope=row|Shots on target
+|3
+|1
+|-
+!scope=row|Saves
+|0
+|3
+|-
+!scope=row|Ball possession
+|72%
+|28%
+|-
+!scope=row|Corner kicks
+|4
+|0
+|-
+!scope=row|Fouls committed
+|1
+|9
+|-
+!scope=row|Offsides
+|0
+|3
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Manchester City
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|14
+|4
+|-
+!scope=row|Shots on target
+|4
+|3
+|-
+!scope=row|Saves
+|3
+|3
+|-
+!scope=row|Ball possession
+|69%
+|31%
+|-
+!scope=row|Corner kicks
+|4
+|0
+|-
+!scope=row|Fouls committed
+|4
+|5
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|0
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Manchester City
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|23
+|8
+|-
+!scope=row|Shots on target
+|7
+|4
+|-
+!scope=row|Saves
+|3
+|6
+|-
+!scope=row|Ball possession
+|71%
+|29%
+|-
+!scope=row|Corner kicks
+|8
+|0
+|-
+!scope=row|Fouls committed
+|5
+|14
+|-
+!scope=row|Offsides
+|0
+|3
+|-
+!scope=row|Yellow cards
+|0
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2023 UEFA Champions League final]]
+*[[2023 UEFA Europa League final]]
+*[[2023–24 UEFA Champions League]]
+*[[2023–24 UEFA Europa League]] 
+*[[2023–24 Manchester City F.C. season]]
+*[[2023–24 Sevilla FC season]]
+*[[Manchester City F.C. in international football]] 
+*[[Sevilla FC in European football]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+<references />
+
+==External links==
+*{{Official website|https://www.uefa.com/uefasupercup/}}
+
+{{UEFA Super Cup}}
+{{2023–24 in European football (UEFA)}}
+{{2023–24 European club competitions}}
+{{Manchester City F.C. matches}}
+{{Sevilla FC matches}}
+
+{{DEFAULTSORT:Uefa Super Cup 2023}}
+[[Category:UEFA Super Cup matches|2023]]
+[[Category:August 2023 sports events in Europe]]
+[[Category:2023–24 in Greek football]]
+[[Category:Manchester City F.C. matches]]
+[[Category:2023–24 in English men's football]]
+[[Category:Sevilla FC matches]]
+[[Category:2023–24 in Spanish men's football]]
+[[Category:Sports competitions in Piraeus]]
+[[Category:Football competitions in Greece]]
+[[Category:Sports events affected by the Russian invasion of Ukraine]]
+[[Category:Spain–United Kingdom sports relations]]
+[[Category:2023–24 in European men's continental football]]

@@ -1,0 +1,617 @@
+{{Use dmy dates|date=October 2020}}
+{{Infobox football match
+| title              = 2010 UEFA Europa League final
+| image              = [[File:2010 UEFA Europa League Final programme.jpg|frameless]]
+| caption            = Match programme cover
+| event              = [[2009–10 UEFA Europa League]]
+| team1              = [[Atlético Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 2
+| team2              = [[Fulham F.C.|Fulham]]
+| team2association   = {{fbaicon|ENG|size=30px}}
+| team2score         = 1
+| details            = After [[Overtime (sports)#Association football|extra time]]
+| date               = 12 May 2010
+| stadium            = [[Volksparkstadion]]
+| city               = [[Hamburg]]
+| man_of_the_match1a = [[Diego Forlán]] {{nowrap|(Atlético Madrid)}}<ref name="forlan">{{Cite news|first=Gonzalo |last=Aguado |title=Forlán relieved to find key to victory |url=https://www.uefa.com/uefaeuropaleague/news/0250-0c50f4f3febf-7b12bbdf0c93-1000--forlan-relieved-to-find-key-to-victory/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=13 May 2010 |access-date=13 May 2010 }}</ref>
+| referee            = [[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])<ref name="referee">{{Cite news|title=Rizzoli to referee Hamburg showdown |url=https://www.uefa.com/uefaeuropaleague/news/01e5-0e747c6da857-ef4570b76359-1000--rizzoli-to-referee-hamburg-showdown/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=10 May 2010 |access-date=10 May 2010 |archive-url=https://web.archive.org/web/20100511104509/http://www.uefa.com/uefaeuropaleague/news/newsid%3D1486668.html |archive-date=11 May 2010 |url-status=live }}</ref>
+| attendance         = 49,000<ref name="full_time"/>
+| weather            = Cloudy night<br />{{convert|8|°C|°F}}<br />60% [[humidity]]<ref name="lineups">{{Cite web |title=Line-ups |url=https://www.uefa.com/newsfiles/uefacup/2010/2000967_LU.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=12 May 2010 |access-date=12 May 2010 |archive-date=10 April 2020 |archive-url=https://web.archive.org/web/20200410224156/https://www.uefa.com/newsfiles/uefacup/2010/2000967_LU.pdf |url-status=dead }}</ref>
+| previous           = [[2009 UEFA Cup final|2009]] ''(UEFA Cup)''
+| next               = [[2011 UEFA Europa League final|2011]]
+}}
+The '''2010 UEFA Europa League final''' was the final match of the [[2009–10 UEFA Europa League]], the first season of the revamped European [[association football|football]] competition formerly known as the UEFA Cup. Played at the [[Volksparkstadion]] in [[Hamburg]], Germany, on 12 May 2010,<ref name="exec_meet">{{Cite news|title=Madrid and Hamburg awarded 2010 finals |url=https://www.uefa.com/news-media/news/01cb-0f84d3be8863-01dcdabe82b3-1000--madrid-and-hamburg-awarded-2010-finals/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=28 March 2008 |access-date=9 March 2010 |archive-url=https://web.archive.org/web/20100323040748/http://www.uefa.com/uefa/aboutuefa/organisation/executivecommittee/news/newsid%3D676743.html |archive-date=23 March 2010 |url-status=live }}</ref> the match was won by [[Spain]]'s [[Atlético Madrid]], who, after extra time, beat [[England]]'s [[Fulham F.C.|Fulham]] 2–1.<ref name="bbc_report">{{Cite news|first=Phil |last=McNulty |title=Atletico Madrid 2–1 Fulham |url=https://news.bbc.co.uk/sport2/hi/football/europe/8675486.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=12 May 2010 |access-date=13 May 2010 |archive-url=https://web.archive.org/web/20100513033124/http://news.bbc.co.uk/sport1/hi/football/europe/8675486.stm |archive-date=13 May 2010 |url-status=live }}</ref>
+
+The win gave Atlético their second major European title, following the [[1961–62 European Cup Winners' Cup]]. Having beaten defending champions [[FC Shakhtar Donetsk|Shakhtar Donetsk]] on the way, Fulham were playing in their first final in only their second season of European football, and their second major final overall in the club's history.
+
+As the winners, Atlético qualified automatically for the [[2010–11 UEFA Europa League]]. They also played in the [[2010 UEFA Super Cup]] in [[Monaco]] on 27 August 2010, where they took on Italy's [[Inter Milan]], the winners of the [[2009–10 UEFA Champions League]]; Atlético won 2–0.
+
+==Background==
+Atlético Madrid and Fulham had never played against each other before this match, and Atlético were Fulham's first ever Spanish opponents. Atlético, on the other hand, had played 19 previous matches against English opposition, winning six and losing five; the most recent of these was against [[Liverpool F.C.|Liverpool]] in the semi-finals.<ref name="background">{{Cite news|title=Hamburg showdown awaits Atlético and Fulham |url=https://www.uefa.com/uefaeuropaleague/news/01e5-0e7474a8d8ff-a850d87e6549-1000--hamburg-showdown-awaits-atletico-and-fulham/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=3 May 2010 |access-date=13 May 2010 |archive-url=https://web.archive.org/web/20100511194133/http://en.uefa.com/uefaeuropaleague/matches/season%3D2010/round%3D2000042/match%3D2000967/prematch/background/index.html |archive-date=11 May 2010 |url-status=live }}</ref>
+
+Fulham were playing in only their second season of European football; in 2002–03, they won the [[2002 UEFA Intertoto Cup|Intertoto Cup]] and reached the third round of the [[2002–03 UEFA Cup|UEFA Cup]] before being knocked out by [[Hertha BSC]]. Atlético, however, had played in four previous European finals, including the [[1974 European Cup Final]], which they lost to [[FC Bayern Munich|Bayern Munich]], and three [[UEFA Cup Winners' Cup|Cup Winners' Cup]] finals. Their only European title came in [[1962 European Cup Winners' Cup Final|1962]], when they beat [[ACF Fiorentina|Fiorentina]] 3–0 in a replay at [[Neckarstadion]], [[Stuttgart]], after the original match at [[Hampden Park]], [[Glasgow]], finished as a 1–1 draw.<ref name="background"/>
+
+The final was Fulham's last chance at qualification for European football in the following season. The [[2009–10 Premier League|Premier League]] season had finished the previous weekend with Fulham finishing in 12th place, 17 points away from the Europa League places. Earlier in the season, they had been knocked out of the [[2009–10 Football League Cup|League Cup]] in the third round and in the sixth round of the [[2009–10 FA Cup|FA Cup]]. Atlético were also unable to qualify for Europe via the league; they went into the match in ninth place in the [[2009–10 La Liga|Priméra División]], eight points away from the league's Europa League places with one game left to play. However, they had a chance at qualification through the [[2009–10 Copa del Rey|Copa del Rey]]; they played against [[Sevilla FC|Sevilla]] in the [[2010 Copa del Rey Final|final]] on 19 May, but lost 2–0.<ref>{{Cite news|title=Sevilla rain on Atlético's cup parade |url=http://en.uefa.com/memberassociations/association=esp/news/newsid=1490220.html |work=[[UEFA]] |publisher=Union of European Football Associations |date=19 May 2010 |access-date=21 May 2010 |archive-url=https://web.archive.org/web/20100524163726/http://en.uefa.com/memberassociations/association%3Desp/news/newsid%3D1490220.html |archive-date=24 May 2010 |url-status=dead }}</ref>
+
+==Venue==
+[[File:AOL-Arena.jpg|thumb|The [[Volksparkstadion]], renamed to "Hamburg Arena" for the match, was selected as the venue for the 2010 final in March 2008.]]
+The [[Volksparkstadion]] was chosen as the venue for the 2010 UEFA Europa League Final at a meeting of the UEFA Executive Committee in [[Vaduz]], [[Liechtenstein]], on 28 March 2008. The committee – who selected the venue for the [[2010 UEFA Champions League Final]] at the same meeting – based their decision on a number of key criteria, including stadium capacity, facilities and security.<ref name="exec_meet"/>
+
+Before 2010, only two European cup finals had ever been played in the city of [[Hamburg]], both of them at the ''Volksparkstadion'' ({{langx|en|the People's Park Stadium}}), when the finals of certain competitions were played over two legs on a home-and-away basis. The first was the [[1982 UEFA Cup Final]] second leg where hosts [[Hamburger SV]] lost 3–0 to hand the UEFA Cup to [[IFK Göteborg]] of Sweden following a 1–0 defeat in the first leg at [[Ullevi]] in [[Gothenburg]]. The second one was the [[1983 European Super Cup]] first leg where the [[1983 European Cup Final|1983 European Cup]] winners Hamburg drew 0–0 with the [[1983 European Cup Winners' Cup Final|1983 European Cup Winners' Cup]] winners [[Aberdeen F.C.|Aberdeen]].
+
+A total of six [[List of European Cup and UEFA Champions League winners|European Cup/UEFA Champions League finals]] and three [[List of UEFA Cup Winners' Cup winners|UEFA Cup Winners' Cup finals]] have been played in German cities, as well as one [[List of UEFA Cup and Europa League winners|UEFA Cup final]] since it became a single-legged match.<ref name="background" />
+
+The Volksparkstadion was opened in 2000 on the site of Hamburg's previous stadia: the Bahrenfelder Stadium and the original Volksparkstadion. The Bahrenfelder Stadium was built in 1925, but after a two-year renovation, it was replaced by the 75,000-capacity Volksparkstadion in 1953. [[Hamburger SV]] moved into the Volksparkstadion from their previous home at [[Sportplatz at Rothenbaum|Rothenbaum]] in 1963. The stadium then played host to three Group 1 matches at the [[1974 FIFA World Cup]] in [[West Germany]]. 14 years later, [[UEFA Euro 1988]] was held in West Germany and the Volksparkstadion was chosen to host the semi-final between [[Germany national football team|West Germany]] and the [[Netherlands national football team|Netherlands]]. By the late 1990s, plans were laid down for a complete renovation of the stadium; the playing surface was rotated by 90 degrees to take advantage of the natural angle of sunlight and the stadium was rebuilt to hold more than 57,000 spectators. Building work began in 1998 and Hamburger SV returned to the ground in 2000. The stadium was used as a venue for the [[2006 FIFA World Cup]], playing host to four group stage matches and the quarter-final between [[Italy national football team|Italy]] and [[Ukraine national football team|Ukraine]].<ref>{{Cite web |title=Hamburg Arena |url=http://www.uefa.com/uefaeuropaleague/final/stadium/index.html |work=[[UEFA]] |publisher=Union of European Football Associations |date=18 January 2010 |access-date=23 March 2010 |archive-url=https://web.archive.org/web/20100328075718/http://www.uefa.com/uefaeuropaleague/final/stadium/index.html |archive-date= 28 March 2010 |url-status= dead}}</ref><ref>{{Cite web |title=Previous finals in the city |url=http://www.uefa.com/uefaeuropaleague/final/previousfinalsincity/index.html |work=[[UEFA]] |publisher=Union of European Football Associations |date=12 December 2009 |access-date=23 March 2010 |archive-url=https://web.archive.org/web/20100326060124/http://www.uefa.com/uefaeuropaleague/final/previousfinalsincity/index.html |archive-date= 26 March 2010 |url-status= dead}}</ref>
+
+The 'hosts' for the final, Hamburger SV were only eliminated from the tournament by Fulham at the semi-final stage. The disappointment of coming so close to playing a final at home was doubled for the Hamburg fans as this was the second consecutive year in which they had been knocked out at the same stage in the UEFA Cup/Europa League – in 2008–09, they lost out to local rivals [[SV Werder Bremen|Werder Bremen]]. Two recent finals had involved a team playing at their usual stadium: [[Feyenoord]] defeated [[Borussia Dortmund]] in Rotterdam in 2002, while [[Sporting CP]] lost to [[PFC CSKA Moscow|CSKA Moscow]] in [[Lisbon]] in 2005.
+
+==Route to the final==
+{{See also|2009–10 UEFA Europa League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|ESP}} [[Atlético Madrid]]
+!Round
+!colspan="4"|{{fbaicon|ENG}} [[Fulham F.C.|Fulham]]
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2009–10 UEFA Champions League|Champions League]]'''
+|
+|colspan="4"|'''[[2009–10 UEFA Europa League|Europa League]]'''
+|-
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|style="background:#C1E0FF"|Qualifying phase ([[2009–10 UEFA Champions League qualifying phase and play-off round|CL]], [[2009–10 UEFA Europa League qualifying phase and play-off round|EL]])
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|-
+|colspan="4"|Bye
+|style="background:#C1E0FF"|Third qualifying round
+|style="text-align:left"|{{fbaicon|LTU}} [[FK Vėtra|Vėtra]]
+|6–0
+|3–0 (A)
+|3–0 (H)
+|-
+|style="text-align:left"|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|5–2
+|2–0 (A)
+|3–2 (H)
+|style="background:#C1E0FF"|Play-off round
+|style="text-align:left"|{{fbaicon|RUS}} [[FC Amkar Perm|Amkar Perm]]
+|3–2
+|3–1 (H)
+|0–1 (A)
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|Group stage ([[2009–10 UEFA Champions League group stage|CL]], [[2009–10 UEFA Europa League group stage|EL]])
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|CYP}} [[APOEL FC|APOEL]]
+|colspan="3"|0–0 (H)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|BUL}} [[PFC CSKA Sofia|CSKA Sofia]]
+|colspan="3"|1–1 (A)
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan="3"|0–2 (A)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|colspan="3"|1–0 (H)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|colspan="3"|0–4 (A)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|colspan="3"|1–1 (H)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|colspan="3"|2–2 (H)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|colspan="3"|1–2 (A)
+|-
+|style="text-align:left"|{{fbaicon|CYP}} [[APOEL FC|APOEL]]
+|colspan="3"|1–1 (A)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|BUL}} [[PFC CSKA Sofia|CSKA Sofia]]
+|colspan="3"|1–0 (H)
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan="3"|0–3 (H)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|colspan="3"|3–2 (A)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2009–10 UEFA Champions League group stage#Group D|Group D]] third place'''
+<div class="center">{{:2009–10 UEFA Champions League group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=no|showteam=ATM}}</div>
+|style="background:#C1E0FF"|Final standings
+|colspan="4" rowspan="2" style="vertical-align:top"|'''[[2009–10 UEFA Europa League group stage#Group E|Group E]] runners-up'''
+<div class="center">{{:2009–10 UEFA Europa League group stage|transcludesection=Group E|only_pld_pts=yes|show_matches=no|showteam=FUL}}</div>
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2009–10 UEFA Europa League|Europa League]]'''
+|
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2009–10 UEFA Europa League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|3–2
+|1–1 (H)
+|2–1 (A)
+|style="background:#C1E0FF"|Round of 32
+|style="text-align:left"|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|3–2
+|2–1 (H)
+|1–1 (A)
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[Sporting CP]]
+|2–2 ([[away goals rule|a]])
+|0–0 (H)
+|2–2 (A)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|5–4
+|1–3 (A)
+|4–1 (H)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|2–2 ([[Away goals rule|a]])
+|2–2 (A)
+|0–0 (H)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|GER}} [[VfL Wolfsburg]]
+|3–1
+|2–1 (H)
+|1–0 (A)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|2–2 ([[Away goals rule|a]])
+|1–0 (H)
+|1–2 {{aet}} (A)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|GER}} [[Hamburger SV]]
+|2–1
+|0–0 (A)
+|2–1 (H)
+|}
+
+==Pre-match==
+[[File:Avropa Liqası Muzeyi Bakıda 34.jpg|thumb|left|Match ball]]
+
+===Identity===
+Like the recent finals of the UEFA Champions League and UEFA Cup, the 2010 Europa League final was given its own unique visual identity. The design concept is intended to give the public a distinctive impression of the host city and will be used on all media associated with the event. The logo for the 2010 final was revealed at the EAST Hotel Cinema in Hamburg on 30 November 2009 – to coincide with the opening of ticket sales for German residents on 1 December – and the ceremony was attended by Karin Von Welck, the regional officer for sport and culture, [[German Football Association]] general secretary [[Wolfgang Niersbach]], Hamburger SV chairman [[Bernd Hoffmann]] and [[Germany national under-19 football team|Germany Under-19]] coach [[Horst Hrubesch]]. The logo features an artistic impression of two footballers competing for a ball, set against a modern drawing of various elements of the Hamburg skyline.<ref name="logo_launch">{{Cite news|title=Logo launch heralds Hamburg final |url=https://www.uefa.com/uefaeuropaleague/news/01df-0e73689134dc-76740ac0e86a-1000--logo-launch-heralds-hamburg-final/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=30 November 2009 |access-date=23 March 2010 |archive-url=https://web.archive.org/web/20100331000406/http://www.uefa.com/uefaeuropaleague/news/newsid%3D925815.html |archive-date=31 March 2010 |url-status=live }}</ref>
+
+===Related events===
+A trophy handover ceremony was held at the ''Fischauktionshalle'' in Hamburg on 13 April 2010, at which a delegation from holders [[FC Shakhtar Donetsk|Shakhtar Donetsk]] – including chief executive [[Serhiy Palkin]], coach [[Mircea Lucescu]], defender [[Mariusz Lewandowski]] and midfielder [[Jádson]] – returned the trophy to UEFA President [[Michel Platini]]. Platini then presented the trophy to the mayor of Hamburg, [[Ole von Beust]], for it to be put on display in the city until the day of the final. Also present at the ceremony were the presidents of Hamburger SV and the German Football Association: Bernd Hoffmann and [[Theo Zwanziger]].<ref>{{Cite news|title=Hamburg ready for trophy handover ceremony |url=http://www.uefa.com/uefa/mediaservices/newsid=1474540.html |work=[[UEFA]] |publisher=Union of European Football Associations |date=8 April 2010 |access-date=9 April 2010 |archive-url=https://web.archive.org/web/20100410033050/http://www.uefa.com/uefa/mediaservices/newsid%3D1474540.html |archive-date=10 April 2010 |url-status=dead }}</ref><ref>{{Cite news|first=Tim |last=Vollmer |title=Trophy handover in Hamburg |url=https://www.uefa.com/uefaeuropaleague/news/01e4-0e7456ae7971-bc4f67a9cc9f-1000--handover-starts-hamburg-final-countdown/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=13 April 2010 |access-date=15 April 2010 |archive-url=https://web.archive.org/web/20100416183226/http://www.uefa.com/uefaeuropaleague/news/newsid%3D1476306.html |archive-date=16 April 2010 |url-status=live }}</ref>
+
+===Ambassador===
+Former Hamburg player [[Uwe Seeler]] was appointed as ambassador of the final.
+
+===Ticketing===
+The regular capacity of the Volksparkstadion was just over 57,000; however, for the 2010 Europa League final and other international matches, the standing area in the north stand was converted to seating, reducing the capacity to around 51,500. Approximately 25% of the available tickets were allocated to each club for distribution to their own fans,<ref>{{Cite web|title=UEFA Europa League Final 2010 – FAQ |url=https://www.uefa.com/MultimediaFiles/Download/Publications/competitions/Ticketing/01/44/80/00/1448000_DOWNLOAD.pdf|work=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 March 2010 |archive-url=https://web.archive.org/web/20100331005506/http://www.uefa.com/MultimediaFiles/Download/Publications/competitions/Ticketing/01/44/80/00/1448000_DOWNLOAD.pdf |archive-date=31 March 2010 |url-status=dead }}</ref> while approximately 5,100 tickets were retained for the international general public. Following the ticket application process for German residents – which ran from 1 December 2009 to 15 January 2010<ref name="logo_launch"/><ref>{{Cite news|first=Lars |last=Wellbrock |title=Hamburg hosts hold on to final promise |url=https://www.uefa.com/uefaeuropaleague/news/01e0-0e736dcb4e98-4f1f359c3aec-1000--hamburg-hosts-hold-on-to-final-promise/ |work=[[UEFA]] |publisher=Union of European Football Association |date=1 December 2009 |access-date=23 March 2010 |archive-url=https://web.archive.org/web/20100301040234/http://www.uefa.com/uefaeuropaleague/news/newsid%3D926961.html |archive-date=1 March 2010 |url-status=live }}</ref> – applications were opened to the international general public on 24 February 2010 and closed on 19 March. As demand exceeded the number of tickets available, successful applications were determined by a ballot at the end of March.<ref>{{Cite news|title=Europa League final tickets on sale |url=https://www.uefa.com/uefaeuropaleague/news/01e2-0e73e2caa23b-09c71b7f07bb-1000--europa-league-final-tickets-on-sale/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=24 February 2010 |access-date=23 March 2010 |archive-url=https://web.archive.org/web/20100408215518/http://www.uefa.com/uefaeuropaleague/news/newsid%3D1453147.html |archive-date=8 April 2010 |url-status=live }}</ref><ref>{{Cite news|title=Europa League final ticket sales close |url=https://www.uefa.com/uefaeuropaleague/news/01e3-0e741f91eabe-f4b4cfdb9e1a-1000--europa-league-final-ticket-sales-close/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=19 March 2010 |access-date=23 March 2010 |archive-url=https://web.archive.org/web/20100322202010/http://www.uefa.com/uefaeuropaleague/news/newsid%3D1465025.html |archive-date=22 March 2010 |url-status=live }}</ref>
+
+===Officials===
+The referee for the 2010 UEFA Europa League Final was [[Nicola Rizzoli]], representing the [[Italian Football Federation]].<ref name="referee"/> Rizzoli had been an international referee since 2007, and took charge of his first [[UEFA Champions League]] match in the August of that year, even before his first UEFA Cup match.<ref name="referee"/> Since then, he refereed a further 10 Champions League matches and nine UEFA Cup/Europa League matches. His only Europa League assignment in 2009–10 – other than the final – was the second leg of [[Liverpool F.C.|Liverpool]]'s round of 16 tie against [[Lille OSC|Lille]] at [[Anfield]] on 18 March 2010. Rizzoli had previously refereed quarter-finals in both the Champions League and the UEFA Cup.<ref>{{Cite news|first=Phil |last=McNulty |title=Man Utd 3–2 Bayern Munich (agg 4–4) |url=https://news.bbc.co.uk/sport2/hi/football/europe/8604742.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=7 April 2010 |access-date=10 May 2010 |archive-url= https://web.archive.org/web/20100424071429/http://news.bbc.co.uk/sport1/hi/football/europe/8604742.stm |archive-date=24 April 2010 |url-status=live }}</ref><ref>{{Cite news|first=Nabil |last=Hassan |title=Man City 2–1 Hamburg (3–4) |url=https://news.bbc.co.uk/sport2/hi/football/europe/7977083.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=16 April 2009 |access-date=10 May 2010 }}</ref>
+
+The refereeing team was entirely made up of officials from the same country; Rizzoli was joined by assistant referees Cristiano Copelli and Luca Maggiani, and the fourth official was Gianluca Rocchi.<ref name="referee"/> As part of an ongoing experiment throughout the entire 2009–10 UEFA Europa League, there were also two additional assistant referees with the task of monitoring each penalty area; the extra officials for the 2010 final were Paolo Tagliavento and Andrea De Marco.<ref name="referee"/>
+
+===Team selection===
+[[File:Fulham vs Athletico Madrid (pre-match ceremony 1).jpg|thumb|The opening ceremony took place immediately before the teams emerged.]]
+
+For Atlético, only [[Sergio Asenjo]] was unavailable through injury; the Spanish back-up goalkeeper started Atlético's match away to [[Sporting de Gijón]] on 8 May after manager [[Quique Sánchez Flores]] rested his regular number 1, [[David de Gea]], ahead of the Europa League final, but he tore ligaments in his right knee after 13 minutes and was ruled out for six months. As well as De Gea, Flores rested a further six regular first-team players for their penultimate league match: [[Luis Amaranto Perea|Luis Perea]], [[Paulo Assunção]], [[Simão Sabrosa|Simão]], [[Raúl García (footballer, born 1986)|Raúl García]], [[Diego Forlán]], and [[Sergio Agüero]].<ref name="match_facts">{{Cite news |title=Match facts: Atlético v Fulham |url=http://en.uefa.com/uefaeuropaleague/news/newsid=1486021.html |archive-url=https://archive.today/20130205040630/http://en.uefa.com/uefaeuropaleague/news/newsid=1486021.html |url-status=dead |archive-date=5 February 2013 |work=[[UEFA]] |publisher=Union of European Football Associations |date=9 May 2010 |access-date=14 May 2010 }}</ref>
+
+In the Fulham camp, the most severe injury concerns related to top-scorer [[Bobby Zamora]] and winger [[Damien Duff]]; Zamora strained his Achilles tendon in the second leg of Fulham's semi-final against [[Hamburger SV]] on 29 April and missed the last three league games of the season, while Duff picked up a calf injury in the penultimate league game against [[Stoke City F.C.|Stoke City]] on 5 May. Other players with minor injuries included [[Paul Konchesky]] (ankle), [[Brede Hangeland]] (knee), [[Aaron Hughes]] (groin), [[John Paintsil]] (muscle strain), and [[Bjørn Helge Riise]] (stomach cramps).<ref>{{cite web |url=https://www.rte.ie/sport/soccer/2010/0510/264893-hodgsonr/ |title=Hodgson hoping Fulham issues will ease |work=[[RTÉ]] |date=10 May 2010 |access-date=10 February 2025}}</ref><ref>{{cite web |url=https://www.rte.ie/sport/soccer/2010/0511/264954-fulham/ |title=Cottagers sweating over Zamora and Duff |work=[[RTÉ]] |date=11 May 2010 |access-date=10 February 2025}}</ref>
+
+Neither team had any players missing through suspension, so the final team selections were largely as expected; the biggest surprise was from Fulham manager [[Roy Hodgson]], who named [[Chris Baird]] at right-back ahead of Ghanaian international [[John Paintsil]].<ref>{{Cite news|first=Paul |last=Hayward |url=https://www.theguardian.com/football/blog/2010/may/12/roy-hodgson-fulham-europa-league |title=Fulham's Roy Hodgson flies the flag for the radical English coach |work=[[The Guardian]] |date=12 May 2010 }}</ref>
+
+==Match==
+
+===Summary===
+[[File:Atlético Madrid Europa League 2010 Pennant.jpg|thumb|Atlético's pre-match pennant]]
+Atlético started the stronger side and had a chance to take the lead in the 12th minute when [[Sergio Agüero]] latched onto a backpass from [[Danny Murphy (footballer, born 1977)|Danny Murphy]] and played the ball into [[Diego Forlán]], whose shot struck the post.<ref name="uefa_report">{{Cite web|first=John |last=Atkin |title=Forlán double gives Atlético glory |url=https://www.uefa.com/uefaeuropaleague/news/0250-0c50f4f42d9b-b99f75c54493-1000--forlan-double-gives-atletico-glory/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=12 May 2010 |access-date=13 May 2010 |archive-url=https://web.archive.org/web/20100515035225/http://www.uefa.com/uefaeuropaleague/matches/season%3D2010/round%3D2000042/match%3D2000967/postmatch/report/index.html |archive-date=15 May 2010 |url-status=live }}</ref> The sustained pressure from the Spanish club was eventually rewarded when a mistimed shot from Agüero fell to Forlán, who struck the ball past [[Mark Schwarzer]] to give Atlético a 1–0 lead. The lead, however, only lasted for five minutes, before [[Simon Davies (footballer, born 1979)|Simon Davies]] struck [[Zoltán Gera]]'s cross into the net on the [[Volley (football)|half-volley]] to level the scores at 1–1.<ref name="bbc_report"/>
+
+In the second half, Fulham began to gain a foothold in the game and went close to taking the lead after an hour when Simon Davies struck a shot following a poor clearance, which required a save from Atlético goalkeeper [[David de Gea]]. In the 55th minute, [[Bobby Zamora]], who had been a fitness doubt prior to the game, was replaced by [[Clint Dempsey]], who became the first American to appear in a major European football final.<ref>{{Cite web|first=Stuart |last=Condie |title=Atletico wins Europa League; Dempsey in final |url=https://www.google.com/hostednews/ap/article/ALeqM5iNrsHmlLb_BtMSS2GuT_xFJK_HvQD9FLHTI05 |publisher=[[Associated Press]] |access-date=13 May 2010 |archive-url=https://web.archive.org/web/20100518042616/https://www.google.com/hostednews/ap/article/ALeqM5iNrsHmlLb_BtMSS2GuT_xFJK_HvQD9FLHTI05 |archive-date=18 May 2010 |url-status=dead }}</ref> Atlético finished the 90 minutes as the stronger side, but with neither team able to score, the game went into extra time.<ref name="uefa_report"/> In extra time, it was again Atlético who looked the more likely to score, with both Forlán and Agüero having opportunities to hit the net. As the tie approached 120 minutes, however, the Spanish side scored a winner, when Agüero turned Fulham defender [[Aaron Hughes]] and crossed the ball to Forlán, who flicked the ball into the goal.<ref name="bbc_report"/> Forlán was subsequently named man of the match for his performance.<ref name="forlan"/>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2010|5|12|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Atlético Madrid]] {{fbaicon|ESP}}
+|score      = 2–1
+|aet        = yes
+|team2      = {{fbaicon|ENG}} [[Fulham F.C.|Fulham]]
+|goals1     =
+*[[Diego Forlán|Forlán]] {{goal|32||116}}
+|goals2     =
+*[[Simon Davies (footballer, born 1979)|Davies]] {{goal|37}}
+|stadium    = [[Volksparkstadion]], [[Hamburg]]
+|attendance = 49,000<ref name="full_time">{{Cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/uefacup/2010/2000967_FR.pdf |work=[[UEFA]] |publisher=Union of European Football Association |date=12 May 2010 |access-date=12 May 2010 |archive-date=10 April 2020 |archive-url=https://web.archive.org/web/20200410224151/https://www.uefa.com/newsfiles/uefacup/2010/2000967_FR.pdf |url-status=dead }}</ref>
+|referee    = [[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2000967/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _atlmadrid0910h
+ |pattern_b  = _atlmadrid0910h
+ |pattern_ra = _atlmadrid0910h
+ |pattern_sh = _redstripes
+ |pattern_so = _atlmadrid0910hl
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = {{nowrap|Atlético Madrid}}<ref name="tactical">{{cite web |url=https://www.uefa.com/news-media/mediaservices/informationkits/competitions/uefaeuropaleague/2010/match/2000967/lineups/ |title=Information kits – Atlético Madrid v Fulham – Line-ups |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=4 June 2022}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _whiteshoulders
+ |pattern_b  = _fulham0910t
+ |pattern_ra = _whiteshoulders
+ |leftarm    = 000060
+ |body       = 000060
+ |rightarm   = 000060
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Fulham<ref name="tactical"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''43'''||{{flagicon|ESP}} [[David de Gea]]
+|-
+|RB ||'''17'''||{{flagicon|CZE}} [[Tomáš Ujfaluši]]
+|-
+|CB ||'''21'''||{{flagicon|COL}} [[Luis Amaranto Perea|Luis Perea]]
+|-
+|CB ||'''18'''||{{flagicon|ESP}} [[Álvaro Domínguez (footballer, born 1989)|Álvaro Domínguez]]
+|-
+|LB ||'''3''' ||{{flagicon|ESP}} [[Antonio López (footballer, born 1981)|Antonio López]] ([[Captain (association football)|c]])
+|-
+|RM ||'''19'''||{{flagicon|ESP}} [[José Antonio Reyes]] || || {{suboff|78}}
+|-
+|CM ||'''12'''||{{flagicon|BRA}} [[Paulo Assunção]]
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Raúl García (footballer, born 1986)|Raúl García]] || {{yel|114}}
+|-
+|LM ||'''20'''||{{flagicon|POR}} [[Simão Sabrosa|Simão]] || || {{suboff|68}}
+|-
+|CF ||'''7''' ||{{flagicon|URU}} [[Diego Forlán]] || {{yel|117}}
+|-
+|CF ||'''10'''||{{flagicon|ARG}} [[Sergio Agüero]] || || {{suboff|119}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''42'''||{{flagicon|ESP}} [[Joel Robles]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Juan Valera (footballer)|Juan Valera]] || || {{subon|119}}
+|-
+|DF ||'''16'''||{{flagicon|ESP}} [[Juanito (footballer, born 1976)|Juanito]]
+|-
+|DF ||'''24'''||{{flagicon|URU}} [[Leandro Cabrera]]
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Ignacio Camacho]]
+|-
+|MF ||'''9''' ||{{flagicon|ESP}} [[José Manuel Jurado]] || || {{subon|68}}
+|-
+|FW ||'''14'''||{{flagicon|ARG}} [[Eduardo Salvio]] || {{yel|107}} || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Quique Sánchez Flores]]
+|}
+|valign="top"|[[File:Atletico Madrid-Fulham 2010-05-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|AUS}} [[Mark Schwarzer]]
+|-
+|RB ||'''6''' ||{{flagicon|NIR}} [[Chris Baird]]
+|-
+|CB ||'''18'''||{{flagicon|NIR}} [[Aaron Hughes]]
+|-
+|CB ||'''5''' ||{{flagicon|NOR}} [[Brede Hangeland]] || {{yel|63}}
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Paul Konchesky]]
+|-
+|RM ||'''16'''||{{flagicon|IRL}} [[Damien Duff]] || || {{suboff|84}}
+|-
+|CM ||'''20'''||{{flagicon|NGA}} [[Dickson Etuhu]]
+|-
+|CM ||'''13'''||{{flagicon|ENG}} [[Danny Murphy (footballer, born 1977)|Danny Murphy]] ([[Captain (association football)|c]]) || || {{suboff|118}}
+|-
+|LM ||'''29'''||{{flagicon|WAL}} [[Simon Davies (footballer, born 1979)|Simon Davies]]
+|-
+|AM ||'''11'''||{{flagicon|HUN}} [[Zoltán Gera]]
+|-
+|CF ||'''25'''||{{flagicon|ENG}} [[Bobby Zamora]] || || {{suboff|55}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''19'''||{{flagicon|SUI}} [[Pascal Zuberbühler]]
+|-
+|DF ||'''4''' ||{{flagicon|GHA}} [[John Paintsil]]
+|-
+|MF ||'''17'''||{{flagicon|NOR}} [[Bjørn Helge Riise]]
+|-
+|MF ||'''23'''||{{flagicon|USA}} [[Clint Dempsey]] || || {{subon|55}}
+|-
+|MF ||'''27'''||{{flagicon|ENG}} [[Jonathan Greening]] || || {{subon|118}}
+|-
+|MF ||'''34'''||{{flagicon|RSA}} [[Kagisho Dikgacoi]]
+|-
+|FW ||'''10'''||{{flagicon|NOR}} [[Erik Nevland]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ENG}} [[Roy Hodgson]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Diego Forlán]] (Atlético Madrid)<ref name="forlan"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee">{{Cite news|title=Rizzoli to referee Hamburg showdown |url=https://www.uefa.com/uefaeuropaleague/news/01e5-0e747c6da857-ef4570b76359-1000--rizzoli-to-referee-hamburg-showdown/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=10 May 2010 |access-date=10 May 2010 |archive-url=https://web.archive.org/web/20100511104509/http://www.uefa.com/uefaeuropaleague/news/newsid%3D1486668.html |archive-date=11 May 2010 |url-status=live }}</ref>
+<br />Cristiano Copelli ([[Italian Football Federation|Italy]])
+<br />Luca Maggiani ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="referee"/>
+<br />[[Paolo Tagliavento]] ([[Italian Football Federation|Italy]])
+<br />[[Andrea De Marco]] ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fifth official|Reserve assistant referee]]:'''<ref name="referee"/>
+<br />Nicola Nicoletti ([[Italian Football Federation|Italy]])
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2010/2000967_TS.pdf |title=Team statistics: Full time |website=[[UEFA]] |publisher=Union of European Football Associations |date=12 May 2010 |access-date=12 May 2010}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Atlético Madrid
+!scope="col" style="width:70px"|Fulham
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|12
+|4
+|-
+!scope=row|Shots on target
+|7
+|2
+|-
+!scope=row|Saves
+|1
+|5
+|-
+!scope=row|Ball possession
+|52%
+|48%
+|-
+!scope=row|Corner kicks
+|7
+|0
+|-
+!scope=row|Fouls committed
+|5
+|7
+|-
+!scope=row|Offsides
+|0
+|3
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Atlético Madrid
+!scope="col" style="width:70px"|Fulham
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|8
+|4
+|-
+!scope=row|Shots on target
+|1
+|1
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|55%
+|45%
+|-
+!scope=row|Corner kicks
+|1
+|1
+|-
+!scope=row|Fouls committed
+|3
+|7
+|-
+!scope=row|Offsides
+|0
+|5
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Atlético Madrid
+!scope="col" style="width:70px"|Fulham
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|7
+|3
+|-
+!scope=row|Shots on target
+|2
+|0
+|-
+!scope=row|Saves
+|0
+|1
+|-
+!scope=row|Ball possession
+|56%
+|44%
+|-
+!scope=row|Corner kicks
+|1
+|1
+|-
+!scope=row|Fouls committed
+|7
+|3
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|3
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Atlético Madrid
+!scope="col" style="width:70px"|Fulham
+|-
+!scope=row|Goals scored
+|2
+|1
+|-
+!scope=row|Total shots
+|27
+|11
+|-
+!scope=row|Shots on target
+|10
+|3
+|-
+!scope=row|Saves
+|2
+|7
+|-
+!scope=row|Ball possession
+|54%
+|46%
+|-
+!scope=row|Corner kicks
+|9
+|2
+|-
+!scope=row|Fouls committed
+|15
+|17
+|-
+!scope=row|Offsides
+|0
+|9
+|-
+!scope=row|Yellow cards
+|3
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2010 UEFA Champions League final]]
+*[[2010 UEFA Super Cup]]
+*[[Atlético Madrid in European football]]
+*[[Fulham F.C. in European football]]
+*[[2009–10 Atlético Madrid season]]
+*[[2009–10 Fulham F.C. season]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110625111001/http://www.uefa.com/uefaeuropaleague/season=2010/index.html 2009–10 UEFA Europa League], UEFA.com
+
+{{UEFA Europa League seasons}}
+{{2009–10 in European Football (UEFA)}}
+{{Atlético Madrid matches}}
+{{Fulham F.C. matches}}
+
+{{DEFAULTSORT:Uefa Europa League Final 2010}}
+[[Category:2009–10 UEFA Europa League|Final]]
+[[Category:2010s in Hamburg]]
+[[Category:UEFA Europa League finals|2010]]
+[[Category:Football finals in Germany|Uefa Cup Final 2010]]
+[[Category:Atlético Madrid matches|Uefa Cup Final 2010]]
+[[Category:Fulham F.C. matches|Uefa Cup Final 2010]]
+[[Category:2009–10 in Spanish men's football|UEFA]]
+[[Category:2009–10 in English men's football|UEFA]]
+[[Category:2009–10 in German football|UEFA]]
+[[Category:May 2010 sports events in Germany]]
+[[Category:Football competitions in Hamburg]]
+[[Category:Spain–United Kingdom sports relations|2010]]

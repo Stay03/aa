@@ -1,0 +1,307 @@
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox football match
+|              title = 2014 Football League Cup final 
+|              image = 2014 League Cup cover.jpg
+|         image_size = 200
+|            caption = Match programme cover
+|              event = [[2013–14 Football League Cup]]
+|              team1 = [[Manchester City F.C.|Manchester City]]
+|         team1score = 3
+|              team2 = [[Sunderland A.F.C.|Sunderland]]
+|         team2score = 1
+|            details = 
+|               date = {{Start date|2014|3|2|df=y}}
+|            stadium = [[Wembley Stadium]]
+|               city = London
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Samir Nasri]] (Manchester City)<ref name="motm"/>
+|            referee = [[Martin Atkinson]] ([[West Riding County Football Association|West Riding of Yorkshire]])<ref name="referee"/>
+|         attendance = 84,697
+|            weather = Light rain<br />{{convert|8|°C|°F}}
+|           previous = [[2013 Football League Cup final|2013]]
+|               next = [[2015 Football League Cup final|2015]]
+}}
+The '''2014 Football League Cup final''' was a [[association football|football]] match that took place on 2 March 2014 at [[Wembley Stadium]], London. It was the final match of the [[2013–14 Football League Cup]], the 54th season of the [[EFL Cup|Football League Cup]], a football competition for the 92 teams in the [[Premier League]] and [[English Football League|The Football League]].
+
+The match was contested by Premier League clubs [[Manchester City F.C.|Manchester City]] and [[Sunderland A.F.C|Sunderland]]. Manchester City appeared in their fourth League Cup final, and made their sixth Wembley visit since 2011.<ref>{{cite news |title=West Ham 0–3 Man City |url=https://www.bbc.co.uk/sport/football/25723655 |publisher=BBC Sport (British Broadcasting Corporation) |date=21 January 2014 |access-date=21 January 2014 }}</ref><ref>{{cite news|title=League Cup Past Winners |url=http://www.football-league.co.uk/page/LeagueCupPastWinners/0,,10794~1354853,00.html |work=The Football League |date=24 February 2013 |access-date=21 January 2014 |url-status=dead |archive-url=https://web.archive.org/web/20131203092702/http://www.football-league.co.uk/page/LeagueCupPastWinners/0%2C%2C10794~1354853%2C00.html |archive-date=3 December 2013 }}</ref> Sunderland appeared in their second League Cup final, their first visit to Wembley since 1998 when they lost to [[Charlton Athletic F.C.|Charlton Athletic]] in the First Division play-off final.
+
+By winning the final, Manchester City would have qualified for the third qualifying round of the [[2014–15 UEFA Europa League|2014–15 Europa League]], but they qualified for the Champions League via their [[2013–14 Premier League|league]] position. Thus, the Europa League berth was given to [[Tottenham Hotspur F.C.|Tottenham Hotspur]], the team that finished sixth in the Premier League.<ref>{{cite news |title=Manchester City win League Cup as Touré wonder goal sparks comeback |url=https://www.theguardian.com/football/2014/mar/02/manchester-city-sunderland-capital-one-cup-final-match-report |work=The Guardian |publisher=Guardian News and Media |date=2 March 2014 |access-date=3 March 2014 }}</ref>
+
+==Route to the final==
+{{Main|2013–14 Football League Cup}}
+
+===Manchester City===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+<!-- |+ '''Bradford''' -->
+! scope="col" style="width:25px"|Round
+! scope="col" style="width:125px"|Opponents
+! scope="col" style="width:90px"|Score
+! scope="col" style="width:50px"|Report
+|-
+!scope=row style="text-align:center"|3rd
+|[[Wigan Athletic F.C.|Wigan Athletic]] (H)
+|5–0
+|[https://www.bbc.co.uk/sport/football/24122130 Report]
+|-
+!scope=row style="text-align:center"|4th
+|[[Newcastle United F.C.|Newcastle United]] (A)
+|0–2 {{aet}}
+|[https://www.bbc.co.uk/sport/football/24633792 Report]
+|-
+!scope=row style="text-align:center"|5th
+|[[Leicester City F.C.|Leicester City]] (A)
+|1–3
+|[https://www.bbc.co.uk/sport/football/25312546 Report]
+|-
+!scope=row style="text-align:center" rowspan="2"|SF
+|[[West Ham United F.C.|West Ham United]] (H)
+|6–0
+|[https://www.bbc.co.uk/sport/football/25565606 Report]
+|-
+|[[West Ham United F.C.|West Ham United]] (A)
+|0–3
+|[https://www.bbc.co.uk/sport/football/25723655 Report]
+|}
+Manchester City began their League Cup campaign in the Third Round due to their involvement in the [[UEFA Champions League]]. In that round, they were drawn against [[EFL Championship|Football League Championship]] team and [[FA Cup]] holders, [[Wigan Athletic F.C.|Wigan Athletic]], who had defeated them 1–0 in the previous season's [[2013 FA Cup final|FA Cup final]]. This time, Manchester City won 5–0 at their [[City of Manchester Stadium]], in a game played on 24 September 2013. [[Edin Džeko]]'s goal, set up by a flick over the defence from [[Fernandinho (footballer, born May 1985)|Fernandinho]], gave City a lead to take into the half-time interval. Debutant [[Stevan Jovetić]] then scored on the rebound in the 60th minute, after which Wigan collapsed, with [[Jesús Navas]] also scoring his first goal for the club, followed by [[Yaya Touré]] and a second goal for Jovetić to complete the scoring.<ref>{{cite news |title=Manchester City 5–0 Wigan |url=https://www.bbc.co.uk/sport/football/24122130 |publisher=BBC Sport (British Broadcasting Corporation) |date=24 September 2013 |access-date=21 January 2014 }}</ref>
+
+In the Fourth Round, Manchester City were drawn away to fellow Premier League team [[Newcastle United F.C.|Newcastle United]] on 30 October 2013. With the scores level at 0–0 after 90 minutes, the tie went to extra time, where City managed to score twice – the first a tap-in for [[Álvaro Negredo]], before [[James Milner]] played Džeko into space as he rounded the 'keeper for City's second.<ref>{{cite news |first=Alistair |last=Magowan |title=Capital One Cup: Newcastle United 0–2 Manchester City (aet) |url=https://www.bbc.co.uk/sport/football/24633792 |publisher=BBC Sport (British Broadcasting Corporation) |date=30 October 2013 |access-date=21 January 2014}}</ref>
+
+The Fifth Round saw Manchester City drawn away to Championship team [[Leicester City F.C.|Leicester City]] on 17 December 2013. With City coming off the back of a poor run of away form, they sought to take control of the game early and established a lead through [[Aleksandar Kolarov]]'s free kick in the eighth minute. Two goals from Džeko gave City a strong lead by the hour mark, although a [[Lloyd Dyer]] goal restored some pride for the home team.<ref>{{cite news |first=Saj |last=Chowdhury |title=Leicester City 1–3 Manchester City |url=https://www.bbc.co.uk/sport/football/25312546 |publisher=BBC Sport (British Broadcasting Corporation) |date=17 December 2013 |access-date=21 January 2014 }}</ref>
+
+In the two-legged semi-final, Manchester City were drawn with fellow Premier League team [[West Ham United F.C.|West Ham United]], although the fixtures saw the two teams on opposite runs of form. While City had become a free-scoring unit, not having lost away in six weeks, West Ham came into the first leg on the back of a humiliating 5–0 defeat in the [[FA Cup]] against Championship team [[Nottingham Forest F.C.|Nottingham Forest]],<ref>{{cite news |title=Nottm Forest 5–0 West Ham |url=https://www.bbc.co.uk/sport/football/25539803 |publisher=BBC Sport (British Broadcasting Corporation) |date=5 January 2014 |access-date=21 January 2014}}</ref> in the [[Premier League]] relegation zone, and with their strikers struggling for goals. City, on the other hand, had recently regained second spot in the league, were still in all competitions and close to setting the record for the fewest games taken to 100 goals in all competitions in English top flight history, a landmark subsequently achieved between the two legs.<ref>{{cite web |url=http://news.sky.com/story/1197041/man-city-achieve-historic-100-goal-tally |title=Man City Achieve Historic 100-Goal Tally |publisher=Sky Sports |date=18 January 2014 |access-date=21 January 2014}}</ref>
+
+The pace was set early in the first leg, as Touré lofted a ball from his own half all the way to Negredo in the London club's penalty area; the Spanish striker scored with a single touch, to give City the lead in the 12th minute. Negredo earned his second after playing a neat one-two with Džeko through West Ham's defence, while Touré dribbled half the length of the pitch to record his first of the game and give City a three-goal cushion at the half-way mark. Negredo completed his hat-trick at the start of the second half after a series of passes in the West Ham area, while Džeko completed the rout with two goals in the final half-hour, both powerful placed shots resulting from crosses from the by-line.<ref>{{cite news |first=Phil |last=McNulty |title=Manchester City 6–0 West Ham United |url=https://www.bbc.co.uk/sport/football/25565606 |publisher=BBC Sport (British Broadcasting Corporation) |date=8 January 2014 |access-date=21 January 2014 }}</ref> As a consequence of this result, West Ham United reduced children's ticket prices to the second leg at the [[Boleyn Ground]].<ref>{{cite web |title=Ticket discounts announced |url=http://www.whufc.com/articles/20140109/ticket-discounts-announced_2236884_3613609 |website=whufc.com |publisher=West Ham United FC |date=9 January 2014 |access-date=22 January 2014 }}</ref>
+
+Manchester City secured their place in the final after a 3–0 victory in the second leg at Upton Park on 21 January 2014. Seeking to take any bite out of the game, City put the result out of question with a third-minute goal from Negredo, before [[Sergio Agüero]], returning from injury in his first start since December, scored in the 24th minute to put them 8–0 up on aggregate. The game was sealed in the 59th minute as Negredo weaved through the Hammers' defence before clipping the ball over the keeper even as the angle appeared to have been narrowed too far.<ref>{{cite news |title=West Ham 0–3 West Ham United |url=https://www.bbc.co.uk/sport/football/25723655 |publisher=BBC Sport (British Broadcasting Corporation) |date=21 January 2014 |access-date=21 January 2014 }}</ref> The goal meant Negredo and Džeko went into the final as the competition's joint top scorers on six goals each. The 9–0 aggregate victory was both a competition record for the highest winning margin in the semi-final (a record previously held by West Ham themselves), and a club record for the highest aggregate win in all competitions.<ref>{{cite news |title=West Ham v Manchester City – As it happened |url=https://www.bbc.co.uk/sport/0/football/25832393 |archive-url=https://web.archive.org/web/20140124142843/http://www.bbc.co.uk/sport/0/football/25832393 |url-status=dead |archive-date=24 January 2014 |publisher=BBC Sport (British Broadcasting Corporation) |date=21 January 2014 |access-date=21 January 2014 }}</ref>
+
+===Sunderland===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+<!-- |+ '''Bradford''' -->
+! scope="col" style="width:25px"|Round
+! scope="col" style="width:125px"|Opponents
+! scope="col" style="width:90px"|Score
+! scope="col" style="width:50px"|Report
+|-
+!scope=row style="text-align:center"|2nd
+|[[Milton Keynes Dons F.C.|MK Dons]] (H)
+|4–2
+|[https://www.bbc.co.uk/sport/football/23764127 Report]
+|-
+!scope=row style="text-align:center"|3rd
+|[[Peterborough United F.C.|Peterborough United]] (H)
+|2–0
+|[https://www.bbc.co.uk/sport/football/24122228 Report]
+|-
+!scope=row style="text-align:center"|4th
+|[[Southampton F.C.|Southampton]] (H)
+|2–1
+|[https://www.bbc.co.uk/sport/football/24739094 Report]
+|-
+!scope=row style="text-align:center"|5th
+|[[Chelsea F.C.|Chelsea]] (H)
+|2–1 {{aet}}
+|[https://www.bbc.co.uk/sport/football/25312545 Report]
+|-
+!scope=row style="text-align:center" rowspan="2"|SF
+|[[Manchester United F.C.|Manchester United]] (H)
+|2–1
+|[https://www.bbc.com/sport/0/football/25556245 Report]
+|-
+|[[Manchester United F.C.|Manchester United]] (A)
+|2–1 {{aet}}<br>1–2 ([[Penalty shoot-out (association football)|pen.]])
+|[https://www.bbc.com/sport/0/football/25740123 Report]
+|}
+Sunderland made their way to the final after starting in the Second Round, as they were a [[Premier League]] team not involved in either the [[UEFA Champions League]] or the [[UEFA Europa League]]. In that round, they defeated [[EFL League One|Football League One]] side [[Milton Keynes Dons F.C.|Milton Keynes Dons]] 4–2 at Sunderland's [[Stadium of Light]]. Trailing 2–0 with 15 minutes remaining, [[Jozy Altidore]], [[Connor Wickham]] (2) and [[Adam Johnson (footballer)|Adam Johnson]] scoring late goals to secure the win for Sunderland.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/23764127 |title=Sunderland 4–2 MK Dons |publisher=BBC Sport (British Broadcasting Corporation) |date=27 August 2013 |access-date=22 January 2014 }}</ref> In the Third Round, they drew League One side [[Peterborough United F.C.|Peterborough United]], whom they defeated 2–0 at the Stadium of Light. This game marked [[Kevin Ball]]'s first win while in temporary charge of the Black Cats, following [[Paolo Di Canio]]'s sacking.<ref>{{cite news |title=Sunderland 2–0 Peterborough |url=https://www.bbc.co.uk/sport/football/24122228 |publisher=BBC Sport (British Broadcasting Corporation) |date=24 September 2013 |access-date=22 January 2014 }}</ref> In the Fourth Round, Sunderland (now managed by [[Gus Poyet]]) defeated fellow Premier League team [[Southampton F.C.|Southampton]], again at the Stadium of Light, 2–1.<ref>{{cite web |first=Saj |last=Chowdhury |title=Sunderland 2–1 Southampton |url=https://www.bbc.co.uk/sport/football/24739094 |publisher=BBC Sport (British Broadcasting Corporation) |date=6 November 2013 |access-date=22 January 2014 }}</ref>
+
+In the Fifth Round, they were drawn against fellow Premier League team [[Chelsea F.C.|Chelsea]], once again at the Stadium of Light. The Black Cats found themselves 1–0 down after a [[Frank Lampard]] shot deflected in off [[Lee Cattermole]] a minute after half time. However, former Chelsea striker [[Fabio Borini]] equalised in the 88th minute to take the game to [[Overtime (sports)#Association football|extra time]]. With penalties looming, [[Ki Sung-yueng]] scored two minutes from the final whistle to give Sunderland a 2–1 win and passage to the semi-finals.<ref>{{cite news |first=Aimee |last=Lewis |title=Sunderland 2–1 Chelsea |url=https://www.bbc.co.uk/sport/football/25312545 |publisher=BBC Sport (British Broadcasting Corporation) |date=17 December 2013 |access-date=22 January 2014 }}</ref>
+
+In the semi-final, they were drawn with reigning Premier League champions [[Manchester United F.C.|Manchester United]]. In the first leg, the Black Cats battled to a 2–1 victory at the Stadium of Light; a [[Ryan Giggs]] own goal gave the home side the lead on the stroke of half time, [[Nemanja Vidić]] levelled for the visitors in the second half before [[Tom Cleverley]] fouled Adam Johnson in the box, and Borini converted the penalty.<ref>{{cite news |last1=Cryer |first1=Andy |title=Sunderland 2-1 Manchester United |url=https://www.bbc.com/sport/football/25556245 |access-date=22 September 2020 |work=BBC Sport |date=7 January 2014}}</ref> Almost 9,000 Sunderland fans travelled to Manchester for the second leg on 22 January, with the club providing free coaches for their supporters.<ref>{{cite news |last1=Walker |first1=Michael |title=David Moyes is a proven manager who doesn't deserve the daily scrutiny and mockery |url=https://www.irishtimes.com/sport/soccer/english-soccer/david-moyes-is-a-proven-manager-who-doesn-t-deserve-the-daily-scrutiny-and-mockery-1.1667388 |access-date=22 September 2020 |work=The Irish Times |date=25 January 2014}}</ref> In the second leg at [[Old Trafford]], Sunderland secured their place in the final in dramatic fashion. United led 1–0 after 90 minutes thanks to a headed goal from former Sunderland loanee [[Jonny Evans]] to take the tie to extra time. Due to the away goals rule becoming active, Sunderland needed to score to avoid elimination. In the 119th minute, a shot from [[Phil Bardsley]] (six years to the day after he joined Sunderland from United) was pushed into his own goal by United's goalkeeper [[David de Gea]], sparking celebrations from the Sunderland players and fans. However, United immediately attacked down the other end, where [[Javier Hernández]] scored to make the score 2–1 on the night and 3–3 on aggregate, sending the game to a penalty shoot-out, which Sunderland won 2–1. [[Vito Mannone]] saved two penalties, including the decisive one from [[Rafael (footballer, born 1990)|Rafael]], to send the Black Cats to the new [[Wembley Stadium|Wembley]] for the first time.<ref>{{cite news |title=Sunderland beat Manchester United in dramatic shootout to reach final |url=https://www.theguardian.com/football/2014/jan/22/manchester-united-sunderland-capital-one-cup-match-report |work=The Guardian |publisher=Guardian News and Media |date=22 January 2014 |access-date=23 January 2014 }}</ref>
+
+==Build-up==
+[[File:Zabaleta Negredo league cup.JPG|thumb|Manchester City's [[Pablo Zabaleta]] and [[Álvaro Negredo]] holding the trophy after the final]]
+Sunderland were appearing in their first League Cup final since [[1985 Football League Cup final|1985]], when they lost 1–0 to [[Norwich City F.C.|Norwich City]].<ref>{{cite news |first=Simon |last=Turnbull |title=Sunderland rue another year of dashed dreams |url=https://www.independent.co.uk/sport/football-sunderland-rue-another-year-of-dashed-dreams-1157578.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football-sunderland-rue-another-year-of-dashed-dreams-1157578.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |work=The Independent |publisher=Independent Print |date=27 May 1998 |access-date=22 January 2014}}{{cbignore}}</ref>
+
+Each club received an allocation of 31,580 tickets for the match, priced between £40 and £100.<ref>{{cite web |title=League Cup Final |url=http://www.wembleystadium.com/Events/2014/League-Cup-Final/2-March-2014 |publisher=The Football Association |access-date=26 January 2014 |archive-date=21 January 2014 |archive-url=https://web.archive.org/web/20140121191313/http://www.wembleystadium.com/Events/2014/League-Cup-Final/2-March-2014 |url-status=dead }}</ref>
+
+==Match==
+[[File:2014 Capital One Cup - before the game.jpg|thumb|Before kick-off]]
+
+===Summary===
+Sunderland took the lead in the 10th minute, when a ball over the top from [[Adam Johnson (footballer)|Adam Johnson]] found [[Fabio Borini]], who held off the challenge of [[Vincent Kompany]] before slotting the ball into the bottom right corner of [[Costel Pantilimon]]'s goal. Borini was played through again later in the first half, but Kompany made amends with a successful last-ditch sliding challenge. Sunderland held their lead until half time; however, they were undone by two City goals after the break. In the 55th minute, [[Yaya Touré]] curled the ball into the top-left corner of [[Vito Mannone]]'s goal from 25 yards out, and almost immediately from kick off City attacked again, with [[Samir Nasri]] firing home from the outside of his boot from a deflected [[Aleksandar Kolarov]] cross, leaving Mannone standing. Sunderland pressed for an equaliser, with substitute [[Steven Fletcher (footballer)|Steven Fletcher]] wasting a last-minute chance by failing to control the ball, before [[Jesús Navas]] finished off a swift City counter-attack in stoppage time to seal their first League Cup win since 1976.<ref>{{cite news |first=Phil |last=McNulty |title=Man City 3-1 Sunderland |url=https://www.bbc.co.uk/sport/football/26311649 |publisher=BBC Sport (British Broadcasting Corporation) |date=2 March 2014 |access-date=23 April 2015 }}</ref>
+
+===Details===
+{{football box
+|date=2 March 2014
+|time=14:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Manchester City F.C.|Manchester City]]
+|score=3–1
+|report=[https://www.bbc.co.uk/sport/football/26311649 Report]
+|team2=[[Sunderland A.F.C.|Sunderland]]
+|goals1=[[Yaya Touré|Touré]] {{goal|55}}<br />[[Samir Nasri|Nasri]] {{goal|56}}<br />[[Jesús Navas|Navas]] {{goal|90}}
+|goals2=[[Fabio Borini|Borini]] {{goal|10}}
+|stadium=[[Wembley Stadium]], London
+|attendance=84,697
+|referee=[[Martin Atkinson]] ([[West Riding County Football Association|West Yorkshire]])<ref name="referee">{{cite web |title=Martin Atkinson to referee Final |url=http://www.capitalonecup.co.uk/news/article/cup-final-appointments-1314-1313725.aspx |work=capitalonecup.co.uk |publisher=The Football League |date=24 January 2014 |access-date=26 January 2014 |archive-url=https://web.archive.org/web/20140126224349/http://www.capitalonecup.co.uk/news/article/cup-final-appointments-1314-1313725.aspx |archive-date=26 January 2014 |url-status=dead |df=dmy-all }}</ref>
+}}
+
+{| style="width:92%"
+|-
+|{{Football kit
+| pattern_la = _mancity1314h
+| pattern_b  = _mcfc1314h
+| pattern_ra = _mancity1314h
+| pattern_sh = _mcfc_home_13-14v3
+| pattern_so = _mancity1314h
+| title      = Manchester City
+}}
+|{{Football kit
+| pattern_la = _sunderland1314h
+| pattern_b  = _sunderland1314h
+| pattern_ra = _sunderland1314h
+| pattern_sh = _wba1314a
+| pattern_so = _color_3_stripes_red
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = 000000
+| socks      = 000000
+| title      = Sunderland
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''30'''||{{flagicon|ROU}} [[Costel Pantilimon]]
+|-
+|RB ||'''5''' ||{{flagicon|ARG}} [[Pablo Zabaleta]]
+|-
+|CB ||'''4''' ||{{flagicon|BEL}} [[Vincent Kompany]] ([[Captain (association football)|c]])
+|-
+|CB ||'''26'''||{{flagicon|ARG}} [[Martín Demichelis]]
+|-
+|LB ||'''13'''||{{flagicon|SRB}} [[Aleksandar Kolarov]]
+|-
+|RM ||'''8''' ||{{flagicon|FRA}} [[Samir Nasri]]
+|-
+|CM ||'''42'''||{{flagicon|CIV}} [[Yaya Touré]]
+|-
+|CM ||'''25'''||{{flagicon|BRA}} [[Fernandinho (footballer, born May 1985)|Fernandinho]]
+|-
+|LM ||'''21'''||{{flagicon|ESP}} [[David Silva]] || || {{suboff|77}}
+|-
+|CF ||'''10'''||{{flagicon|BIH}} [[Edin Džeko]] || || {{suboff|88}}
+|-
+|CF ||'''16'''||{{flagicon|ARG}} [[Sergio Agüero]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Joe Hart]]
+|-
+|DF ||'''6''' ||{{flagicon|ENG}} [[Joleon Lescott]]
+|-
+|DF ||'''22'''||{{flagicon|FRA}} [[Gaël Clichy]]
+|-
+|MF ||'''7''' ||{{flagicon|ENG}} [[James Milner]]
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Javi García]] || || {{subon|77}}
+|-
+|MF ||'''15'''||{{flagicon|ESP}} [[Jesús Navas]] || || {{subon|58}}
+|-
+|FW ||'''9''' ||{{flagicon|ESP}} [[Álvaro Negredo]] || {{yel|90+3}} || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|CHI}} [[Manuel Pellegrini]]
+|}
+|style="vertical-align:top|[[File:Man City vs Sunderland 2014-03-02.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|ITA}} [[Vito Mannone]]
+|-
+|RB ||'''2''' ||{{flagicon|SCO}} [[Phil Bardsley]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Wes Brown]]
+|-
+|CB ||'''16'''||{{flagicon|IRL}} [[John O'Shea]] ([[Captain (association football)|c]])
+|-
+|LB ||'''28'''||{{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]] || {{yel|82}}
+|-
+|DM ||'''7''' ||{{flagicon|SWE}} [[Sebastian Larsson]] || || {{suboff|60}}
+|-
+|DM ||'''33'''||{{flagicon|ENG}} [[Lee Cattermole]] || || {{suboff|77}}
+|-
+|CM ||'''4''' ||{{flagicon|KOR}} [[Ki Sung-Yueng]]
+|-
+|RW ||'''11'''||{{flagicon|ENG}} [[Adam Johnson (footballer)|Adam Johnson]] || || {{suboff|60}}
+|-
+|LW ||'''14'''||{{flagicon|ENG}} [[Jack Colback]]
+|-
+|CF ||'''31'''||{{flagicon|ITA}} [[Fabio Borini]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''32'''||{{flagicon|ARG}} [[Oscar Ustari]]
+|-
+|DF ||'''12'''||{{flagicon|CZE}} [[Ondřej Čelůstka]]
+|-
+|DF ||'''27'''||{{flagicon|ARG}} [[Santiago Vergini]]
+|-
+|MF ||'''8''' ||{{flagicon|ENG}} [[Craig Gardner]] || || {{subon|60}}
+|-
+|MF ||'''23'''||{{flagicon|ITA}} [[Emanuele Giaccherini]] || || {{subon|77}}
+|-
+|FW ||'''9''' ||{{flagicon|SCO}} [[Steven Fletcher (footballer)|Steven Fletcher]] || || {{subon|60}}
+|-
+|FW ||'''30'''||{{flagicon|ARG}} [[Ignacio Scocco]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|URU}} [[Gus Poyet]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|-
+|style="width:50%;vertical-align:top"|
+'''Man of the Match'''
+*[[Samir Nasri]] (Manchester City)<ref name="motm">{{cite news |first=Mark |last=Ogden |title=Manchester City manager Manuel Pellegrini eyes historic quadruple after Capital One Cup win over Sunderland |url=https://www.telegraph.co.uk/sport/football/teams/manchester-city/10671705/Manchester-City-manager-Manuel-Pellegrini-eyes-historic-quadruple-after-Capital-One-Cup-win-over-Sunderland.html |work=Telegraph.co.uk |publisher=Telegraph Media Group |date=2 March 2014 |access-date=2 March 2014 }}</ref>
+'''Match officials'''
+*Assistant referees:
+**Steve Child<ref name="referee"/>
+**Simon Long<ref name="referee"/>
+*Fourth official: [[Neil Swarbrick]]<ref name="referee"/>
+*Reserve assistant referee: Harry Lennard<ref name="referee"/>
+|style="width:50%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra time if necessary
+*Penalty shootout if scores still level
+*Seven named substitutes, of which three may be used
+|}
+
+==References==
+{{reflist}}
+{{commons category}}
+
+{{EFL Cup seasons}}
+{{2013–14 in English football}}
+{{Manchester City F.C. matches}}
+{{Sunderland A.F.C. matches}}
+
+{{DEFAULTSORT:Football League Cup final 2014}}
+[[Category:EFL Cup finals|2014]]
+[[Category:2013–14 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:2014 in sport in London]]
+[[Category:Manchester City F.C. matches|League Cup final 2014]]
+[[Category:Sunderland A.F.C. matches|League Cup final 2014]]
+[[Category:March 2014 sports events in the United Kingdom]]

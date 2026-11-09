@@ -1,0 +1,314 @@
+{{good article}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox football match
+| title                   = 1999 UEFA Cup Winners' Cup final
+| image                   = 1999 UEFA Cup Winners' Cup Final programme.jpg
+| caption                 = Match programme cover
+| event                   = [[1998–99 UEFA Cup Winners' Cup]]
+| team1                   = [[RCD Mallorca|Mallorca]]
+| team1association        = {{flagicon|ESP|size=30px}}
+| team1score              = 1
+| team2                   = [[S.S. Lazio|Lazio]]
+| team2association        = {{flagicon|ITA|size=30px}}
+| team2score              = 2
+| details                 = 
+| date                    = 19 May 1999
+| stadium                 = [[Villa Park]]
+| city                    = [[Birmingham]]
+| man_of_the_match1a      = [[Christian Vieri]] (Lazio)<ref name=reuters>{{cite news|url=https://reuters.screenocean.com/record/636878 |title=UK: Reactions to Lazio's Cup Winners' Cup final win over Real Mallorca |agency=Reuters|date=20 May 1999 |access-date=10 May 2020 }}</ref>
+| man_of_the_match1atitle =
+| man_of_the_match1b      =
+| man_of_the_match1btitle =
+| referee                 = [[Günter Benkö]] ([[Austrian Football Association|Austria]])<ref name=guardian>{{cite news|url=https://www.theguardian.com/football/1999/may/20/newsstory.sport1 |title=Nedved volley gives Lazio a famous first |work=The Guardian |date=20 May 1999 |access-date=1 May 2020 |first=Russell |last=Thomas }}</ref>
+| attendance              = 33,021
+| weather                 =
+| previous                = [[1998 UEFA Cup Winners' Cup final|1998]]
+| next                    = 
+}}
+The '''1999 UEFA Cup Winners' Cup final''' was a [[Association football|football]] match between [[RCD Mallorca|Mallorca]] of Spain and [[S.S. Lazio|Lazio]] of Italy played on 19 May 1999 at [[Villa Park]], [[Birmingham]], England. It was the final match of the [[1998–99 UEFA Cup Winners' Cup|1998–99 season]] of the [[UEFA Cup Winners' Cup]] and the culmination of the competition before it was absorbed into the [[UEFA Europa League|UEFA Cup]] the following season. Mallorca were appearing in their first final in their first season in European competition, while Lazio were also appearing in their first Cup Winners' Cup final. It was their second European final in succession after reaching the [[1998 UEFA Cup Final|final]] of the UEFA Cup the previous season.
+
+Each club needed to progress through four rounds to reach the final, which were contested over two legs, with a match at each team's home ground. Mallorca's ties were all close affairs. They beat [[K.R.C. Genk|Genk]] of Belgium on the [[away goals rule]] after the tie finished 1–1 on aggregate. They beat defending champions [[Chelsea F.C.|Chelsea]] of England by a single goal. The majority of Lazio's ties were close affairs, two of which were decided on the away goals rule. The exception was their quarter-final tie against Greek team [[Panionios F.C.|Panionios]], which they won 7–0 on aggregate.
+
+Watched by a crowd of 33,021, Lazio took the lead in the final when striker [[Christian Vieri]] scored in the 7th minute. They were not ahead for long as Mallorca equalised four minutes later when striker [[Dani García (footballer, born 1974)|Dani]] scored. The match remained level for the majority of the match until the 81st minute when Lazio midfielder [[Pavel Nedvěd]] scored. With no further goals, Lazio won the match 2–1 to win the last Cup Winners' Cup and their first European trophy.
+
+==Route to the final==
+{{main|1998–99 UEFA Cup Winners' Cup}}
+
+===Mallorca===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+|+Mallorca's route to the final
+!scope=col|Round
+! scope="col" style="width:130px;"| Opposition
+! scope="col" style="width:50px;"| First leg
+! scope="col" style="width:50px;"| Second leg
+! scope="col" style="width:50px;"|Aggregate score
+|-
+!scope=row style="text-align:center"| 1st
+|align="left"| [[Heart of Midlothian F.C.|Heart of Midlothian]]
+| 1–0 (a)
+| 1–1 (h)
+| 2–1
+|-
+!scope=row style="text-align:center"| 2nd
+|align="left"| [[K.R.C. Genk|Genk]]
+| 1–1 (a)
+| 0–0 (h)
+| 1–1 
+|-
+!scope=row style="text-align:center"| Quarter-final
+|align="left"| [[NK Varaždin (1931–2015)|Varteks]]
+| 0–0 (a)
+| 3–1 (h)
+| 3–1
+|-
+!scope=row style="text-align:center"| Semi-final
+|align="left"| [[Chelsea F.C.|Chelsea]]
+| 1–1 (a)
+| 1–0 (h)
+| 2–1
+|}
+[[RCD Mallorca|Mallorca]] qualified for the [[UEFA Cup Winners' Cup]] by finishing as runners-up in the Spanish [[Copa del Rey]]. They lost to [[FC Barcelona|Barcelona]] 5–4 in a [[Penalty shoot-out (association football)|penalty shootout]], but as Barcelona finished first in the [[1997–98 La Liga]], they qualified for the [[1998–99 UEFA Champions League]] and Mallorca were awarded their spot in the Cup Winners' Cup.<ref>{{cite web|url=https://www.rsssf.org/tabless/span98.html |title=Spain 1997/98 |date=26 January 2000 |access-date=3 May 2020 |first=Juan Pedro |website=[[RSSSF]] |last=Adrados }}</ref> Mallorca's opponents in the first round were Scottish team [[Heart of Midlothian F.C.|Heart of Midlothian]] (Hearts). They won the first leg, held at Hearts' home ground [[Tynecastle Park|Tynecastle]], 1–0.<ref>{{cite news|url=https://www.theguardian.com/football/1998/sep/30/newsstory.sport3 |title=Celtic may find reasons to be careful |work=The Guardian |date=30 September 1998 |access-date=3 May 2020 |first=Patrick |last=Glenn }}</ref> The second leg was held at Mallorca's home ground, the [[Lluís Sitjar Stadium|Estadio Lluís Sitjar]]. Before the match, Hearts players protested that the goalposts at the same did not meet regulations. An inspection revealed there was a {{convert|10|cm|in|adj=on}} difference between one post and the other at both ends of the ground, this was due to the undulation of the pitch. Despite the issue, the match went ahead and finished 1–1. This meant Mallorca progressed to the second round 2–1 on aggregate.<ref>{{cite news|url=https://news.bbc.co.uk/2/hi/sport/football/184956.stm |title=Sport: Football Hearts get appeal date |website=BBC News |date=2 October 1998 |access-date=3 May 2020 }}</ref> [[K.R.C. Genk|Genk]] of Belgium were the opposition in the second round. The first leg held at the [[King Baudouin Stadium]] in Belgium finished 1–1. The second leg ended in a 0–0 draw, which meant Mallorca won the tie on the [[away goals rule]] to progress to the quarter-finals.<ref name=rsssf>{{cite web|url=https://www.rsssf.org/ec/ec199899.html |title=Cup Winners' Cup 1998–99 |date=4 June 2015 |access-date=3 May 2020 |first1=James M. |last=Ross |first2=Karel |website=[[RSSSF]] |last2=Stokkermans }}</ref>
+
+Mallorca faced Croatian team [[NK Varaždin (1931–2015)|Varteks]] in the quarter-finals. The first leg, held at Varteks home ground, [[Stadion Varteks|Gradski Stadion]], finished 0–0.<ref>{{cite news|url=https://elpais.com/diario/1999/03/05/deportes/920588401_850215.html |title=El Mallorca negocia un buen resultado |work=El País |date=4 March 1999 |access-date=3 May 2020 |language=es |first=Patricio |last=Candia }}</ref> Three goals from [[Ariel Ibagaza]], [[Veljko Paunović]], and [[Dani García (footballer, born 1974)|Dani]], despite a late goal from Varteks defender, [[Andrija Balajić]], were enough to secure a 3–1 victory and their progression to the semi-finals.<ref>{{cite news|url=https://elpais.com/diario/1999/03/19/deportes/921798005_850215.html |title=El Mallorca logra una hazaña histórica |work=El País |date=18 March 1999 |access-date=3 May 2020 |language=es |first=Patricio |last=Candia }}</ref> Their opponents in the semi-finals were English team, [[Chelsea F.C.|Chelsea]], who had won the competition the [[1997–98 UEFA Cup Winners' Cup|previous season]] and were looking to become the first team to retain the competition.<ref>{{cite news|url=https://www.theguardian.com/football/these-football-times/2019/apr/11/cup-winners-cup-competition-retained |title=In praise of the Cup Winners' Cup, the competition that was never retained |work=The Guardian |date=11 April 2019 |access-date=3 May 2020 |first=Sam |last=Carney }}</ref> Mallorca went ahead in the first leg at Chelsea's home ground, [[Stamford Bridge (stadium)|Stamford Bridge]], when Dani went past Chelsea goalkeeper [[Ed de Goey]] to score. Chelsea equalised in the 50th minute when striker [[Tore André Flo]] scored.<ref>{{cite news|url=https://www.theguardian.com/football/1999/apr/08/newsstory.sport10 |title=Chelsea 1–1 Mallorca |work=The Guardian |date=8 April 1999 |access-date=3 May 2020 }}</ref> Mallorca took an early lead in the second leg when [[Leonardo Biagini]] scored. Chelsea midfielder [[Roberto Di Matteo]] hit the crossbar 20 minutes from the end of the match and fellow midfielder [[Dennis Wise]] missed a header to equalise. They were unable to score and Mallorca won the match 1–0 to win 2–1 on aggregate and progress to the final in their first season in European competition.<ref name=biagini>{{cite news|url=https://www.independent.co.uk/sport/football-chelsea-fall-to-biaginis-early-strike-1089074.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football-chelsea-fall-to-biaginis-early-strike-1089074.html |archive-date=1 May 2022 |url-access=subscription |title=Football: Chelsea fall to Biagini's early strike |work=The Independent |date=23 April 1999 |access-date=3 May 2020 |first=Steve |last=Tongue }}{{cbignore}}</ref>
+
+===Lazio===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+|+ Lazio's route to the final
+!scope=col|Round
+! scope="col" style="width:130px;"| Opposition
+! scope="col" style="width:50px;"| First leg
+! scope="col" style="width:50px;"| Second leg
+! scope="col" style="width:50px;"|Aggregate score
+|-
+!scope=row style="text-align:center"| 1st
+|align="left"| [[FC Lausanne-Sport|Lausanne-Sport]]
+| 1–1 (h)
+| 2–2 (a)
+| 3–3
+|-
+!scope=row style="text-align:center"| 2nd
+|align="left"| [[FK Partizan|Partizan]]
+| 0–0 (h)
+| 3–2 (a)
+| 3–2 
+|-
+!scope=row style="text-align:center"| Quarter-final
+|align="left"| [[Panionios F.C.|Panionios]]
+| 4–0 (a)
+| 3–0 (h)
+| 7–0
+|-
+!scope=row style="text-align:center"| Semi-final
+|align="left"| [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+| 1–1 (a)
+| 0–0 (h)
+| 1–1
+|}
+Lazio qualified for the Cup Winners' Cup after they won the [[1997–98 Coppa Italia]].<ref>{{cite web|url=https://www.rsssf.org/tablesi/ital98.html |title=Italy Championship 1997/98 |date=27 April 2017 |access-date=4 May 2020 |first=Maurizio |website=[[RSSSF]] |last=Mariani }}</ref> They beat [[A.C. Milan|Milan]] 3–2 on aggregate in the [[1998 Coppa Italia Final|final]].<ref>{{cite web|url=https://www.rsssf.org/tablesi/italcup98.html |title=Coppa Italia 1997/98 |date=25 June 2005 |access-date=4 May 2020 |first=Roberto |website=[[RSSSF]] |last=Di Maggio }}</ref> Their opponents in the first round were Swiss team, [[FC Lausanne-Sport|Lausanne-Sport]]. The first leg finished in a 1–1 draw. The second leg also finished in a draw, this time the scores were 2–2. This meant that Lazio progressed to the second round due to the away goals rule. [[FK Partizan|Partizan]] of Yugoslavia were the opposition in the second round. The first leg ended in a 0–0 draw and Lazio won the second leg 3–2 to progress to the quarter-finals.<ref name=rsssf />
+
+They faced Greek team [[Panionios F.C.|Panionios]], Lazio won the first leg 4–0 and were able to rest some of their first-team players in the second leg. Midfielders [[Pavel Nedvěd]] and [[Dejan Stanković]] both scored before fellow midfielder, [[Iván de la Peña]] secured a 3–0 victory to secure Lazio's progression to the semi-finals.<ref>{{cite news|url=https://www.independent.co.uk/sport/football-lazio-subdue-whelans-men-1081624.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football-lazio-subdue-whelans-men-1081624.html |archive-date=1 May 2022 |url-access=subscription |title=Football: Lazio subdue Whelan's men |work=The Independent |date=19 March 1999 |access-date=4 May 2020 |first=John |last=Nisbet }}{{cbignore}}</ref> Their opponents were [[FC Lokomotiv Moscow|Lokomotiv Moscow]] of Russia. The Russian side went ahead in the first leg, at the [[RZD Arena|Lokomotiv Stadium]], when striker, [[Zaza Janashia]], scored in the 61st minute. Lazio equalised in the 77th minute when substitute [[Alen Bokšić]] scored. They almost won the match three minutes from full-time, but a shot by Stanković was saved by Lokomotiv goalkeeper [[Ruslan Nigmatullin]], the match finished 1–1.<ref>{{cite news |url=https://www.independent.co.uk/sport/football-boksic-boosts-lazio-1086102.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football-boksic-boosts-lazio-1086102.html |archive-date=1 May 2022 |url-access=subscription |title=Football: Boksic boosts Lazio |work=The Independent |date=9 April 1999 |access-date=4 May 2020 }}{{cbignore}}</ref> The second leg was ended in a 0–0 draw, which meant Lazio progressed to the final on the away goals rule after the tie finished 1–1 on aggregate.<ref name=biagini />
+
+==Match==
+===Background===
+[[File: Villa Park.jpg|left|thumb|250px|Villa Park hosted the final of the Cup Winners' Cup.]]
+Mallorca were appearing in their first Cup Winners' Cup final in their first season in European competition. Lazio were also appearing in their first final in the competition, however, they had reached the final of the [[UEFA Europa League|UEFA Cup]] the [[1997–98 UEFA Cup|previous season]], a [[1998 UEFA Cup Final|match]] they lost 3–0 to fellow Italian team, [[Inter Milan|Internazionale]].<ref>{{cite news|url=https://www.fourfourtwo.com/features/ronaldo-inter-milan-brazilian-italy-serie-a-europa-league-lazio-juventus-uefa-cup-final-injury-knee |title=When unplayable Ronaldo won the UEFA Cup with Inter Milan – but bad luck broke his shot at further glory |work=FourFourTwo |date=27 February 2020 |access-date=4 May 2020 }}</ref> The final was the last in the history of the competition. Founded in 1961, the Cup Winners' Cup was to be disbanded and incorporated into the UEFA Cup the following season.<ref>{{cite news|url=https://apnews.com/b20e1db8d8fb8a56c1e721ad49b435bd |title=Lazio Wins Cup Winners' Cup |agency=Associated Press|date=19 May 1999 |access-date=10 May 2020 }}</ref>
+
+Mallorca's last match before the final was against [[Racing de Santander|Racing Santander]] in the [[1998–99 La Liga]], they lost 1–0.<ref>{{cite web|url=https://www.rsssf.org/tabless/span99.html |title=Spain 1998/99 |publisher=Rec. Sport. Soccer Statistics Foundation |date=26 January 2000 |access-date=5 May 2020 |first=Juan Pedro |last=Adrados }}</ref> Mallorca's record of 25 goals conceded in 33 games was the best in La Liga.<ref name=ellis>{{cite news|url=https://www.independent.co.uk/sport/football-ellis-at-home-with-his-holiday-villa-1093887.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football-ellis-at-home-with-his-holiday-villa-1093887.html |archive-date=1 May 2022 |url-access=subscription |title=Football: Ellis at home with his holiday Villa |work=The Independent |date=5 May 2020 |access-date=10 May 2020 |first=Steve |last=Tongue }}{{cbignore}}</ref> Lazio's final match before the final was a 1–1 draw with [[ACF Fiorentina|Fiorentina]].<ref>{{cite web|url=https://www.rsssf.org/tablesi/ital99.html |title=Italy 1998/99 |date=9 July 2001 |access-date=5 May 2020 |first1=Davide |last1=Rota |first2=Sorin |last2=Arotaritei |first3=Misha |website=[[RSSSF]] |last3=Miladinovich }}</ref> The result meant they slipped behind into second with a game left to play in the [[1998–99 Serie A]] season.<ref>{{cite news |url=https://www.theblizzard.co.uk/article/journeys-end |title=Journey's End |work=The Blizzard |date=8 December 2019 |access-date=5 May 2020 |first=Thore |last=Haugstad |archive-date=1 September 2020 |archive-url=https://web.archive.org/web/20200901082824/https://www.theblizzard.co.uk/article/journeys-end |url-status=dead }}</ref> The Cup Winners' Cup final was held at the home of [[Aston Villa F.C.|Aston Villa]], [[Villa Park]] in Birmingham. The chairman of Aston Villa, [[Doug Ellis]], considered Lazio to be the favourites: "Lazio are favourites if you listen to the bookmakers, but Mallorca have some very, very good players."<ref name=ellis />
+
+Lazio manager, [[Sven-Göran Eriksson]], was adamant his side were eager to win the Cup Winners' Cup despite the possibility of winning Serie A the weekend after the final: "This is not a secondary objective. We must find the grit and determination, the courage and the energy, to win the cup." The difference in the two teams was emphasised before the final. Lazio had spent £73 million on new players the previous summer, while Mallorca were considered "an unfashionable island side" by ''[[The Guardian]]''. This did not bother Mallorca striker Dani, who was adamant they could compete with Lazio: "We are conscious of the huge difference between the squads{{nbsp}}... but we make up for that with concentration and teamwork to get results."<ref name=guardianpreview>{{cite news|url=https://www.theguardian.com/football/1999/may/19/newsstory.sport3 |title=Lazio out to raise their stock |work=The Guardian |date=19 May 1999 |access-date=1 May 2020 |first=Russell |last=Thomas }}</ref>
+
+The choice of Austrian, [[Günter Benkö]], as referee concerned the Italian media. ''[[Corriere dello Sport]]'' called him a "scandalous referee." They referred to him as "a sworn enemy of Italian squads," after he had [[Fouls and misconduct (association football)#Red card (dismissal)|sent off]] two Italian players in a UEFA under-21 international in 1996.<ref name=guardianpreview />
+
+===Summary===
+[[File:Christian Vieri (cropped).jpg|upright|thumb|[[Christian Vieri]] scored the opening goal and was named man of the match.]]
+Both teams lined up in a [[Formation (association football)#4–4–2|4-4-2 formation]] with four defenders, four midfielders and two strikers.<ref name=shaw>{{cite news|url=https://www.independent.co.uk/sport/football-nedved-wins-final-prize-for-lazio-1094779.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football-nedved-wins-final-prize-for-lazio-1094779.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |title=Football: Nedved wins final prize for Lazio |work=The Independent |date=20 May 1999 |access-date=9 May 2020 |first=Phil |last=Shaw }}{{cbignore}}</ref> The opening minutes of the match were "breathtakingly open", according to ''The Guardian.'' A Vieri shot from {{convert|25|yd|m}} was saved by Mallorca goalkeeper, [[Carlos Roa]].<ref name=guardian /> The first goal was scored in the seventh minute when striker [[Christian Vieri]] headed a pass from [[Giuseppe Favalli]] past Roa.<ref name=shaw /> Four minutes later, Mallorca had equalised. [[Miquel Soler]] passed to [[Jovan Stanković]] who [[Cross (association football)|crossed]] from the right-hand side of the pitch which was converted past Lazio goalkeeper, [[Luca Marchegiani]], by Dani.<ref name=guardian /> Vieri was injured when Roa's hand caught him in the head.<ref name=guardian /> He was carried off the field midway through the first half and his head bandaged before he returned.<ref name=shaw /> A long-range shot from Vieri was saved by Roa, while a Mallorca [[Free kick (association football)|free-kick]] taken by Jovan Stanković passed through the Lazio penalty area without anyone touching the ball. A [[bicycle kick]] by Lazio striker [[Marcelo Salas]], which Roa saved, was the last chance before the first half came to an end with the scores at 1–1.<ref name=shaw />
+
+According to Phil Shaw, writing in ''[[The Independent]]'', "the open play which had characterised the start of the contest was markedly absent as the second period unfolded."<ref name=shaw /> Mallorca started the better of the two teams with [[Lauren (Cameroonian footballer)|Lauren]] causing problems down the right-hand side of the pitch.<ref name=irish>{{cite news|url=https://www.irishtimes.com/sport/lazio-the-last-of-the-cup-winners-1.186896? |title=Lazio the last of the cup winners |work=The Irish Times |date=20 May 1999 |access-date=1 May 2020 }}</ref> Dejan Stanković was caught in the face by Mallorca defender, [[Gustavo Siviero]] as he made an overhead clearance. Siviero was shown a [[Penalty card#Yellow card|yellow card]] and Dejan Stanković was replaced by [[Sérgio Conceição]] following the incident.<ref name=guardian /> Lazio had the best chance of the second half in the 60th minute when a free-kick by defender [[Siniša Mihajlović]], from {{convert|32|yd|m}} went just wide of the Mallorca goal. Minutes later, [[Roberto Mancini]] had a chance to score, but his shot hit the crossbar and he was deemed to be offside.<ref name=irish /> A shot by Lauren was saved by Lazio goalkeeper, Marchegiani, minutes later.<ref name=shaw /> Mallorca had another chance to score as Jovan Stanković made his way into the Lazio penalty area. His shot went over the head of Marchegiani, but [[Alessandro Nesta]] headed the ball away from the Lazio goal.<ref name=irish /> With nine minutes left to play, Lazio scored. Nedvěd volleyed a clearance past Roa in the Mallorca from {{convert|20|yd|m}}.<ref>{{cite news|url=https://www.theguardian.com/sport/blog/2017/dec/08/the-joy-of-six-cup-winners-cup-memories |title=The Joy of Six: Cup Winners' Cup memories |work=The Guardian |date=8 December 2017 |access-date=10 May 2020 |first1=Michael |last1=Butler |first2=Daniel |last2=Harris |first3=Jacob |last3=Steinberg }}</ref> Nedvěd was substituted after the goal and with no further goals scored, Lazio won the match 2–1 to win the last ever Cup Winners' Cup.<ref name=irish />
+
+===Details===
+{{football box
+|date = 19 May 1999
+|time = 19:45 [[British Summer Time|BST]]
+|team1 = [[RCD Mallorca|Mallorca]] {{flagicon|ESP}}
+|score = 1–2
+|report = https://www.uefa.com/uefaeuropaleague/season=0/matches/round=1195/match=56380/lineups/index.html
+|team2 = {{flagicon|ITA}} [[S.S. Lazio|Lazio]]
+|goals1 = [[Dani García (footballer, born 1974)|Dani]] {{goal|11}}
+|goals2 = [[Christian Vieri|Vieri]] {{goal|7}}<br />[[Pavel Nedvěd|Nedvěd]] {{goal|81}}
+|stadium = [[Villa Park]], [[Birmingham]]
+|attendance = 33,021
+|referee = [[Günter Benkö]] ([[Austrian Football Association|Austria]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _mallorca99
+ | pattern_b  = _mallorca99
+ | pattern_ra = _mallorca99
+ | pattern_sh = _mallorca99
+ | pattern_s  = 
+ | leftarm    = FF0000
+ | body       = FFFFFF
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = 00003E
+ | title      = Mallorca
+}}
+|{{Football kit
+ | pattern_la = _lazio99a
+ | pattern_b  = _lazio99a
+ | pattern_ra = _lazio99a
+ | pattern_sh = _clubbrugge20122013away
+ | leftarm    = 4169E1
+ | body       = 4169E1
+ | rightarm   = 4169E1
+ | shorts     = 4169E1
+ | socks      = FFFF00
+ | title      = Lazio
+}}
+|}
+
+{| width=100%
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|ARG}} [[Carlos Roa]]
+|-
+|RB ||'''14'''||{{flagicon|ESP}} [[Javier Olaizola]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||{{flagicon|ESP}} [[Marcelino Elena|Marcelino]]
+|-
+|CB ||'''4''' ||{{flagicon|ARG}} [[Gustavo Siviero]] || {{yel|54}}
+|-
+|LB ||'''3''' ||{{flagicon|ESP}} [[Miquel Soler]]
+|-
+|DM ||'''23'''||{{flagicon|ESP}} [[Vicente Engonga]]
+|-
+|RM ||'''12'''||{{flagicon|CMR}} [[Lauren (Cameroonian footballer)|Lauren]]
+|-
+|LM ||'''11'''||{{flagicon|FR Yugoslavia}} [[Jovan Stanković]]
+|-
+|AM ||'''10'''||{{flagicon|ARG}} [[Ariel Ibagaza]]
+|-
+|CF ||'''9''' ||{{flagicon|ESP}} [[Dani García (footballer, born 1974)|Dani]]
+|-
+|CF ||'''22'''||{{flagicon|ARG}} [[Leonardo Biagini]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} César Gálvez
+|-
+|DF ||'''7''' ||{{flagicon|ESP}} [[Lluís Carreras]]
+|-
+|DF ||'''20'''||{{flagicon|ESP}} [[Fernando Niño (footballer, born 1974)|Fernando Niño]]
+|-
+|MF ||'''15'''||{{flagicon|ESP}} [[Paco Soler]]
+|-
+|FW ||'''8''' ||{{flagicon|ESP}} [[Carlitos (footballer, born 1976)|Carlitos]]
+|-
+|FW ||'''21'''||{{flagicon|FR Yugoslavia}} [[Veljko Paunović]] || || {{subon|73}}
+|-
+|FW ||'''24'''||{{flagicon|ARG}} [[Ariel López (footballer, born 1974)|Ariel López]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Héctor Cúper]]
+|}
+|valign="top"|[[File:Lazio vs Mallorca 1999-05-19.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Luca Marchegiani]] || {{yel|90+1}}
+|-
+|RB ||'''15'''||{{flagicon|ITA}} [[Giuseppe Pancaro]]
+|-
+|CB ||'''13'''||{{flagicon|ITA}} [[Alessandro Nesta]] ([[Captain (association football)|c]])
+|-
+|CB ||'''11'''||{{flagicon|FR Yugoslavia}} [[Siniša Mihajlović]] || {{yel|23}}
+|-
+|LB ||'''5''' ||{{flagicon|ITA}} [[Giuseppe Favalli]]
+|-
+|RM ||'''20'''||{{flagicon|FR Yugoslavia}} [[Dejan Stanković]] || || {{suboff|56}}
+|-
+|CM ||'''10'''||{{flagicon|ITA}} [[Roberto Mancini]] || || {{suboff|90+1}}
+|-
+|CM ||'''25'''||{{flagicon|ARG}} [[Matías Almeyda]]
+|-
+|LM ||'''18'''||{{flagicon|CZE}} [[Pavel Nedvěd]] || || {{suboff|84}}
+|-
+|CF ||'''9''' ||{{flagicon|CHI}} [[Marcelo Salas]]
+|-
+|CF ||'''32'''||{{flagicon|ITA}} [[Christian Vieri]] || {{yel|39}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|ITA}} [[Marco Ballotta]]
+|-
+|DF ||'''2''' ||{{flagicon|ITA}} [[Paolo Negro]]
+|-
+|DF ||'''17'''||{{flagicon|SWI}} [[Guerino Gottardi]]
+|-
+|DF ||'''24'''||{{flagicon|POR}} [[Fernando Couto]] || || {{subon|90+1}}
+|-
+|MF ||'''7''' ||{{flagicon|ITA}} [[Attilio Lombardo]] || || {{subon|84}}
+|-
+|MF ||'''21'''||{{flagicon|ESP}} [[Iván de la Peña]]
+|-
+|FW ||'''14'''||{{flagicon|POR}} [[Sérgio Conceição]] || || {{subon|56}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />{{flagicon|ITA}} [[Christian Vieri]] (Lazio)<ref name=reuters />
+
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of extra time if necessary.
+*Penalty shoot-out if scores still level.
+*Seven named substitutes.
+*Maximum of three substitutions.
+|}
+
+==Post match==
+Lazio manager, Eriksson, was delighted with the result: "I feel very happy, This is Lazio's first win in Europe. This is also the last Cup Winners' Cup so the trophy is ours forever. No-one can take it away from us. It was a very good game. Mallorca are a very good team but we deserved it. We've only lost one match in Europe in the last two seasons and that was last year's UEFA Cup final against Inter." He went to say that the victory would be a consolation if his team failed to win Serie A the following weekend: "We'll try to beat Parma and see if it's enough for us to be champions of Italy, whatever happens, we've had an extremely good season. We're undefeated in Europe, we won the Italian Super Cup and we're fighting for the league title to the end."<ref name=reuters />
+
+Mallorca manager, [[Héctor Cúper]], was proud of his team despite the loss: "Nothing is consolation when we did not get the victory. We all feel the same way at this moment in time in my team. No words that can describe how we feel. We have a team that is really strong. No-one could imagine how we are feeling at the moment. when you go into a game you go into it with a certain mindset, a clear mind. I can only repeat there are no words to describe now we feel at the moment. We cannot even fathom it. Maybe tomorrow we will understand how we feel. But today I am very proud of my team and how they played."<ref name=reuters />
+
+Lazio's final match in Serie A was against [[Parma FC|Parma]], while Milan faced [[A.C. Perugia Calcio|Perugia]]. Lazio needed to win and Milan to drop points if they were to win finish the season as champions.<ref name=reuters /> Despite victory against Parma courtesy of two goals by Salas, Milan beat Perugia, this meant Milan won Serie A with Lazio second.<ref>{{cite news|url=https://www.theguardian.com/football/these-football-times/2015/mar/30/sven-goran-eriksson-lazio-serie-a-1999-2000-mancini-milan |title=How Sven-Goran Eriksson’s Lazio won the Serie A title race of 1999–2000 |work=The Guardian |date=30 March 2015 |access-date=10 May 2020 |first=Blair |last=Newman }}</ref> They qualified for the [[1999–2000 UEFA Champions League]] as a result of their final position.<ref>{{cite web|url=https://www.rsssf.org/tablesi/ital99.html |title=Italy 1998/99 |date=9 July 2001 |access-date=10 May 2020 |first1=Davide |last1=Rota |first2=Sorin |last2=Arotaritei |first3=Misha |website=[[RSSSF]] |last3=Miladinovich }}</ref> Lazio's victory in the Cup Winners' Cup entitled them to play in the [[UEFA Super Cup]]. They faced the winners of the 1998–99 UEFA Champions League, [[Manchester United]], a [[1999 UEFA Super Cup|match]] they won 1–0.<ref>{{cite news|url=https://news.bbc.co.uk/2/hi/sport/football/432092.stm |title=Sport: Football Man Utd lose to Super Lazio |website=BBC News |date=27 August 1999 |access-date=10 May 2020 }}</ref>
+
+Mallorca had four matches left to play in La Liga. They won two and lost two to finish in third position behind champions, Barcelona and runners-up, [[Real Madrid C.F.|Real Madrid]].<ref>{{cite news|url=https://www.rsssf.org/tabless/span99.html |title=Spain 1998/99 |date=26 January 2000 |access-date=10 May 2020 |first=Juan Pedro |website=[[RSSSF]] |last=Adrados }}</ref> Their third-place finish meant they would enter the Champions League in the third qualifying round. At the end of the season, Cúper left to become manager of [[Valencia CF|Valencia]].<ref>{{cite news|url=https://www.worldsoccer.com/news/cuper-resigns-at-mallorca-80416 |title=Cuper resigns at Mallorca |work=World Soccer |date=14 February 2006 |access-date=10 May 2020 }}</ref>
+
+==References==
+{{reflist}}
+
+{{UEFA Cup Winners' Cup seasons}}
+{{1998–99 in European football (UEFA)}}
+{{RCD Mallorca matches}}
+{{S.S. Lazio matches}}
+
+{{DEFAULTSORT:1999 Uefa Cup Winners Cup Final}}
+[[Category:1998–99 UEFA Cup Winners' Cup|Final]]
+[[Category:RCD Mallorca matches|Cup Winners Cup Final 1999]]
+[[Category:SS Lazio matches|Cup Winners Cup Final 1999]]
+[[Category:UEFA Cup Winners' Cup finals|1999]]
+[[Category:Men's football finals in England|Cup Winners Cup Final 1999]]
+[[Category:1998–99 in English men's football|Uefa Cup Winners Cup Final 1999]]
+[[Category:1998–99 in Spanish football|Cup]]
+[[Category:1998–99 in Italian football|Cup]]
+[[Category:International sports competitions in Birmingham, West Midlands]]
+[[Category:1990s in Birmingham, West Midlands]]
+[[Category:May 1999 sports events in the United Kingdom]]
+[[Category:Football in the West Midlands (county)]]
+[[Category:Italy–Spain sports relations]]

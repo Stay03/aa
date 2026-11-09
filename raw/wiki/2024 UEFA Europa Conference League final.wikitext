@@ -1,0 +1,648 @@
+{{Use dmy dates|date=June 2022}}
+{{Infobox football match
+| title              = 2024 UEFA Europa Conference League final
+| image              = 2024 UEFA Europa Conference League Final programme.png
+| image_size         = frameless
+| caption            = Final's official match programme
+| event              = [[2023–24 UEFA Europa Conference League]]
+| team1              = [[Olympiacos F.C.|Olympiacos]]
+| team1association   = {{fbaicon|GRE|size=30px}}
+| team1score         = 1
+| team2              = [[ACF Fiorentina|Fiorentina]]
+| team2association   = {{fbaicon|ITA|size=30px}}
+| team2score         = 0
+| details            = After [[Overtime (sports)#Association football|extra time]]
+| date               = {{Start date|2024|5|29|df=y}}
+| stadium            = [[Agia Sophia Stadium]]
+| city               = [[Athens]]
+| man_of_the_match1a = [[Ayoub El Kaabi]] (Olympiacos)<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefaconferenceleague/news/028d-1b01e9951bde-59f69d826926-1000/ |title=El Kaabi named official UEFA Europa Conference League final Player of the Match |website=UEFA.com|publisher=Union of European Football Associations |date=29 May 2024 |access-date=29 May 2024}}</ref>
+| referee            = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])<ref name="officials">{{cite web |url=https://www.uefa.com/news-media/news/028d-1ae109919f08-661e0d65ffdb-1000/ |title=Referee teams for 2024 UEFA club competition finals announced |website=UEFA.com|publisher=Union of European Football Associations |date=13 May 2024 |access-date=13 May 2024}}</ref>
+| attendance         = 26,842<ref name="report 29 May"/>
+| weather            = Partly cloudy night<br />{{convert|21|°C|°F}}<br />51% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2024/2039972_LU.pdf |title=Tactical Lineups – Final – Wednesday 29 May 2024 |website=UEFA.com|publisher=Union of European Football Associations |date=29 May 2024 |access-date=29 May 2024}}</ref>
+| previous           = [[2023 UEFA Europa Conference League final|2023]]
+| next               = [[2025 UEFA Conference League final|2025]]
+}}
+
+The '''2024 UEFA Europa Conference League final''' was the final match of the [[2023–24 UEFA Europa Conference League]], the third season of Europe's tertiary club [[association football|football]] tournament organised by [[UEFA]]. It was held at the [[Agia Sophia Stadium]] in [[Athens]], Greece, on 29 May 2024,<ref name="invitation to bid"/><ref>{{cite magazine |url=https://editorial.uefa.com/resources/0279-163596ae271e-e04faa20e08e-1000/20220926_circular_2022_65_en.zip |title=International match calendar and access list for the 2023/24 season |number=65/2022 |magazine=UEFA Circular Letter |publisher=Union of European Football Associations |date=26 September 2022 |access-date=27 September 2022}}</ref> between Greek club [[Olympiacos F.C.|Olympiacos]] and Italian club [[ACF Fiorentina|Fiorentina]].
+
+Olympiacos won the match 1–0 after [[Overtime (sports)#Association football|extra time]] courtesy of a header by [[Ayoub El Kaabi]]<ref>{{cite web|url=https://www.skysports.com/football/olympiakos-fc-vs-fiorentina/report/504411|title=Olympiakos 1–0 Fiorentina: Ayoub El Kaabi scores winner in extra-time to secure Europa Conference League title|date=29 May 2024|work=Sky Sports|accessdate=30 May 2024}}</ref> for their first European title, also becoming the first Greek club to win a European trophy.<ref name="summary">{{cite web |url=https://www.uefa.com/uefaconferenceleague/news/028d-1b01e5ec31a5-144c1f00e4f3-1000/ |title=Olympiacos 1–0 Fiorentina (aet): El Kaabi swoops in to secure Greece's first major European title |website=UEFA.com|publisher=Union of European Football Associations |date=29 May 2024 |access-date=29 May 2024}}</ref> As winners, they qualified for the league phase of the [[2024–25 UEFA Europa League]]. Meanwhile, Fiorentina lost their second consecutive final, becoming the first team to lose European finals in consecutive seasons since [[S.L. Benfica|Benfica]] in the [[2013 UEFA Europa League final|2013]] and [[2014 UEFA Europa League final|2014]] Europa League finals.
+
+==Background==
+This was [[Olympiacos F.C.|Olympiacos]]' first European final and only the second to feature a Greek team, the other coming in the [[1971 European Cup final]] which [[Panathinaikos F.C.|Panathinaikos]] lost to [[AFC Ajax|Ajax]]. Five weeks prior to this final, [[Olympiacos F.C. Youth Academy|Olympiacos' under-19 team]] had won the [[2023–24 UEFA Youth League]], the first UEFA competition win for a Greek club at any level. [[ACF Fiorentina|Fiorentina]] became the first club to play in two UEFA Europa Conference League finals and the first to contest them consecutively.<ref>{{cite web|url= https://www.uefa.com/uefaconferenceleague/news/028d-1ae54d707d6e-e6b99e9bb410-1000/|title=Olympiacos vs Fiorentina Europa Conference League final preview: Where to watch, kick-off time, possible line-ups|date=29 May 2024|website=UEFA.com |publisher=Union of European Football Associations|access-date=29 May 2024}}</ref> Fiorentina were looking to win their first major trophy since winning the [[2000–01 Coppa Italia]], and their first European title since winning the [[1960–61 European Cup Winners' Cup]].
+
+Both managers were seeking their first Europa Conference League title, with Olympiacos' [[José Luis Mendilibar]] the more experienced in winning a European trophy, having won the [[2023 UEFA Europa League final|previous year's Europa League final]] with [[Sevilla FC|Sevilla]]. With a win, Mendilibar would become the first manager to win two different major European trophies in consecutive seasons since fellow Spaniard [[Rafael Benítez]] won the [[2003–04 UEFA Cup]] with [[Valencia CF|Valencia]] and the [[2004–05 UEFA Champions League]] with [[Liverpool F.C.|Liverpool]], the sixth manager ever to achieve that, and the second to do it with different clubs.{{refn|group=note|They are [[Nereo Rocco]] ([[1967–68 European Cup Winners' Cup]] and [[1968–69 European Cup]], both with [[AC Milan|Milan]]), [[Bob Paisley]] ([[1975–76 UEFA Cup]] and [[1976–77 European Cup]], both with [[Liverpool F.C.|Liverpool]]), [[Giovanni Trapattoni]] ([[1983–84 European Cup Winners' Cup]] and [[1984–85 European Cup]], both with [[Juventus FC|Juventus]]), [[José Mourinho]] ([[2002–03 UEFA Cup]] and [[2003–04 UEFA Champions League]], both with [[FC Porto|Porto]]), and Benítez.}}
+
+===Previous finals===
+{| class="wikitable plainrowheaders"
+|-
+!scope="col"|Team
+!scope="col"|Previous final appearances (bold indicates winners)
+|-
+|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|None
+|-
+|{{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|1 ([[2023 UEFA Europa Conference League final|2023]])
+|}
+
+==Venue==
+[[File:AEK fans during AEK-Marseille game.jpg|thumb|275px|The [[Agia Sophia Stadium]] in [[Athens]] hosted the final.]]
+The [[Agia Sophia Stadium]] in [[Athens]], known as the OPAP Arena for sponsorship reasons, is the home of [[AEK Athens F.C.|AEK Athens]], one of Olympiacos' local rivals. The stadium opened in September 2022,<ref>{{cite news |url=https://www.ethnos.gr/sports/article/226435/haekepestrepsespitithslamperaegkainiasthnypersygxronhopaparenaolaosaeginansthgiorththsenoshs |title=Η ΑΕΚ επέστρεψε σπίτι της! Λαμπερά εγκαινία στην υπερσύγχρονη OPAP Arena - Όλα όσα έγιναν στη γιορτή της Ένωσης |trans-title=AEK returned home! Sparkling opening at the state-of-the-art OPAP Arena – All that happened at the Union's celebration |work=[[Ethnos (newspaper)|Ethnos]] |date=30 September 2022 |access-date=30 September 2022 |language=el}}</ref> and had a capacity of 31,100.<ref>{{cite web |url=https://www.aekfc.gr/stp/opap-arena-42938.htm?lang=en |title=OPAP Arena |publisher=AEK Athens F.C. |access-date=29 June 2023}}</ref> The match was the eighth single-leg UEFA club final to be played in Greece, having hosted three European Cup/Champions League finals (in [[1983 European Cup final|1983]], [[1994 UEFA Champions League final|1994]] and [[2007 UEFA Champions League final|2007]]), three [[UEFA Cup Winners' Cup|Cup Winners' Cup]] finals (in [[1971 European Cup Winners' Cup final|1971]], [[1973 European Cup Winners' Cup final|1973]] and [[1987 European Cup Winners' Cup final|1987]]) and the [[2023 UEFA Super Cup]].
+
+===Host selection===
+On 21 June 2022, UEFA opened the bidding process for the final, which was held in parallel with that of the [[2025 UEFA Conference League final|2025 final]]. Interested bidders could bid for either one or both of the finals. The proposed venues had to include natural grass and be ranked as a [[UEFA stadium categories|UEFA category four stadium]], with a gross capacity of between 30,000 and 50,000 preferred. The bidding timeline was as follows:<ref name="invitation to bid">{{cite magazine |url=https://editorial.uefa.com/resources/0276-157279a17ca3-262ebb8e502e-1000/20220621_circular_2022_40_en.zip |title=Invitation to bid for the 2023/24 and 2024/25 UEFA Europa Conference League finals and the 2024/25 UEFA Women's Champions League final|magazine=UEFA Circular Letter |publisher=Union of European Football Associations|number=40/2022 |date=21 June 2022 |access-date=28 June 2022}}</ref>
+
+*21 June 2022: Applications formally invited
+*31 August 2022: Closing date for registering intention to bid
+*7 September 2022: Bid requirements made available to bidders
+*3 November 2022: Submission of preliminary bid dossier
+*23 February 2023: Submission of final bid dossier
+*28 June 2023: Appointment of host
+
+The UEFA Executive Committee appointed the Agia Sophia Stadium as the host during their meeting in [[Nyon]], Switzerland, on 28 June 2023. As the stadium was new and had never been operated by the club for international competitions, it was subject to an observation period until November 2023 for matches played in UEFA club competitions and [[UEFA Euro 2024 qualifying]]. A date of December 2023 was set for official confirmation that the venue met the requirements.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0282-185d513bd18e-32f59d9c7dea-1000/ |title=Lisbon to host UEFA Women's Champions League final in 2025 |work=UEFA.com|publisher=Union of European Football Associations |date=28 June 2023 |access-date=28 June 2023}}</ref>
+
+==Route to the final==
+{{Further|2023–24 UEFA Europa Conference League|2023–24 UEFA Europa League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+!Round
+!colspan="4"|{{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|- style="background:#C1E0FF"
+|colspan="4" |'''[[2023–24 UEFA Europa League|Europa League]]'''
+|
+|colspan="4" |'''[[2023–24 UEFA Europa Conference League|Europa Conference League]]'''
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|style="background:#C1E0FF"|Qualifying phase ([[2023–24 UEFA Europa League qualifying phase and play-off round|EL]], [[2023–24 UEFA Europa Conference League qualifying phase and play-off round|ECL]])
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left" |{{fbaicon|BEL}} [[KRC Genk|Genk]]
+|2–1
+|[[2023–24 UEFA Europa League qualifying phase and play-off round#Q LP1.1|1–0]] (H)
+|[[2023–24 UEFA Europa League qualifying phase and play-off round#Q LP1.2|1–1]] (A)
+|style="background:#C1E0FF" |Third qualifying round
+|colspan="4"|Bye
+|-
+|style="text-align:left" |{{fbaicon|SRB}} [[FK Čukarički|Čukarički]]
+|6–1
+|[[2023–24 UEFA Europa League qualifying phase and play-off round#PO 2.1|3–1]] (H)
+|[[2023–24 UEFA Europa League qualifying phase and play-off round#PO 2.2|3–0]] (A)
+|style="background:#C1E0FF" |Play-off round
+|style="text-align:left" |{{fbaicon|AUT}} [[SK Rapid Wien|Rapid Wien]]
+|2–1
+|[[2023–24 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#PO 13.1|0–1]] (A)
+|[[2023–24 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#PO 13.2|2–0]] (H)
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|Group stage ([[2023–24 UEFA Europa League group stage|EL]], [[2023–24 UEFA Europa Conference League group stage|ECL]])
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left" |{{fbaicon|GER}} [[SC Freiburg]]
+|colspan="3" |[[2023–24 UEFA Europa League group stage#Olympiacos v SC Freiburg|2–3]] (H)
+|style="background:#C1E0FF" |Matchday 1
+|style="text-align:left" |{{fbaicon|BEL}} [[KRC Genk|Genk]]
+|colspan="3" |[[2023–24 UEFA Europa Conference League group stage#Genk v Fiorentina|2–2]] (A)
+|-
+|style="text-align:left" |{{fbaicon|SRB}} [[FK TSC|TSC]]
+|colspan="3" |[[2023–24 UEFA Europa League group stage#TSC v Olympiacos|2–2]] (A)
+|style="background:#C1E0FF" |Matchday 2
+|style="text-align:left" |{{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|colspan="3" |[[2023–24 UEFA Europa Conference League group stage#Fiorentina v Ferencváros|2–2]] (H)
+|-
+|style="text-align:left" |{{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|colspan="3" |[[2023–24 UEFA Europa League group stage#Olympiacos v West Ham United|2–1]] (H)
+|style="background:#C1E0FF" |Matchday 3
+|style="text-align:left" |{{fbaicon|SRB}} [[FK Čukarički|Čukarički]]
+|colspan="3" |[[2023–24 UEFA Europa Conference League group stage#Fiorentina v Čukarički|6–0]] (H)
+|-
+|style="text-align:left" |{{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|colspan="3" |[[2023–24 UEFA Europa League group stage#West Ham United v Olympiacos|0–1]] (A)
+|style="background:#C1E0FF" |Matchday 4
+|style="text-align:left" |{{fbaicon|SRB}} [[FK Čukarički|Čukarički]]
+|colspan="3" |[[2023–24 UEFA Europa Conference League group stage#Čukarički v Fiorentina|1–0]] (A)
+|-
+|style="text-align:left" |{{fbaicon|GER}} [[SC Freiburg]]
+|colspan="3" |[[2023–24 UEFA Europa League group stage#SC Freiburg v Olympiacos|0–5]] (A)
+|style="background:#C1E0FF" |Matchday 5
+|style="text-align:left" |{{fbaicon|BEL}} [[KRC Genk|Genk]]
+|colspan="3" |[[2023–24 UEFA Europa Conference League group stage#Fiorentina v Genk|2–1]] (H)
+|-
+|style="text-align:left" |{{fbaicon|SRB}} [[FK TSC|TSC]]
+|colspan="3" |[[2023–24 UEFA Europa League group stage#Olympiacos v TSC|5–2]] (H)
+|style="background:#C1E0FF" |Matchday 6
+|style="text-align:left" |{{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|colspan="3" |[[2023–24 UEFA Europa Conference League group stage#Ferencváros v Fiorentina|1–1]] (A)
+|-
+|colspan="4" style="vertical-align:top" |'''[[2023–24 UEFA Europa League group stage#Group A|Group A]] third place'''
+<div class="center">{{2023–24 UEFA Europa League group tables|Group A|only_pld_pts=yes|show_matches=no|showteam=OLY}}</div>
+|style="background:#C1E0FF" |Final standings
+| colspan="4" rowspan="2" style="vertical-align:top" |'''[[2023–24 UEFA Europa Conference League group stage#Group F|Group F]] winners'''
+<div class="center">{{2023–24 UEFA Europa Conference League group tables|Group F|only_pld_pts=yes|show_matches=no|showteam=FIO}}</div>
+|- style="background:#C1E0FF"
+| colspan="4" |'''[[2023–24 UEFA Europa Conference League|Europa Conference League]]'''
+|
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2022–23 UEFA Europa Conference League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align="left"|{{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|2–0
+|[[2023–24 UEFA Europa Conference League knockout phase#Olympiacos v Ferencváros|1–0]] (H)
+|[[2023–24 UEFA Europa Conference League knockout phase#Ferencváros v Olympiacos|1–0]] (A)
+|style="background:#C1E0FF"|Knockout round play-offs
+|colspan="4"|Bye
+|-
+|align="left"|{{fbaicon|ISR}} [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+|7–5
+|[[2023–24 UEFA Europa Conference League knockout phase#Olympiacos v Maccabi Tel Aviv|1–4]] (H)
+|[[2023–24 UEFA Europa Conference League knockout phase#Maccabi Tel Aviv v Olympiacos|6–1]] {{aet}} (A)
+|style="background:#C1E0FF"|Round of 16
+|align="left"|{{fbaicon|ISR}} [[Maccabi Haifa F.C.|Maccabi Haifa]]
+|5–4
+|[[2023–24 UEFA Europa Conference League knockout phase#Maccabi Haifa v Fiorentina|4–3]] (A)
+|[[2023–24 UEFA Europa Conference League knockout phase#Fiorentina v Maccabi Haifa|1–1]] (H)
+|-
+|align="left"|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|3–3 {{pen|3–2}}
+|[[2023–24 UEFA Europa Conference League knockout phase#Olympiacos v Fenerbahçe|3–2]] (H)
+|[[2023–24 UEFA Europa Conference League knockout phase#Fenerbahçe v Olympiacos|0–1]] {{aet}} (A)
+|style="background:#C1E0FF"|Quarter-finals
+|align="left"|{{fbaicon|CZE}} [[FC Viktoria Plzeň|Viktoria Plzeň]]
+|2–0
+|[[2023–24 UEFA Europa Conference League knockout phase#Viktoria Plzeň v Fiorentina|0–0]] (A)
+|[[2023–24 UEFA Europa Conference League knockout phase#Fiorentina v Viktoria Plzeň|2–0]] {{aet}} (H)
+|-
+|align="left"|{{fbaicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+|6–2
+|[[2023–24 UEFA Europa Conference League knockout phase#Aston Villa v Olympiacos|4–2]] (A)
+|[[2023–24 UEFA Europa Conference League knockout phase#Olympiacos v Aston Villa|2–0]] (H)
+|style="background:#C1E0FF"|Semi-finals
+|align="left"|{{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|4–3
+|[[2023–24 UEFA Europa Conference League knockout phase#Fiorentina v Club Brugge|3–2]] (H)
+|[[2023–24 UEFA Europa Conference League knockout phase#Club Brugge v Fiorentina|1–1]] (A)
+|}
+
+==Pre-match==
+
+===Identity===
+The original identity of the 2024 UEFA Europa Conference League final was unveiled at the group stage draw on 1 September 2023.<ref>{{Cite web |date=1 September 2023|title=2024 UEFA Europa League and UEFA Europa Conference League final identities revealed |url=https://www.uefa.com/news-media/news/0285-18df8e6abdf2-f54ceb925270-1000--2024-uefa-europa-league-and-uefa-europa-conference-league-fi/ |access-date=2 September 2023|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+===Ticketing===
+The stadium has a capacity of 32,500, and 27,100 were made available of which 21,000 were on sale to the general public. Each club in the final received an allocation of 9,000 tickets each.<ref>{{cite web | last=Calcutt | first=Robert | title=12k fans for each side in Europa League final and 25k fans at 90k Wembley | website=talkSPORT | date=9 April 2024 | url=https://talksport.com/football/1820311/uefa-tickets-prices-allocation-champions-league-europa-league-europa-conference-league-finals/ | access-date=27 May 2024}}</ref>
+
+==Match==
+===Summary===
+After a goalless ninety minutes, the match went into extra-time. In the 116th minute Olympiacos went in front when [[Ayoub El Kaabi]] got the only goal of the match when he stooped low to head the ball into the left corner of the net after a cross from the left by [[Santiago Hezze]].<ref>{{cite web|url= https://www.theguardian.com/football/article/2024/may/29/olympiakos-fiorentina-europa-conference-league-final-match-report|title=Olympiakos win Europa Conference League after El Kaabi floors Fiorentina|date=29 May 2024|work=The Guardian|accessdate=30 May 2024}}</ref> After a lengthy [[Video assistant referee|VAR]] check the goal was eventually awarded and Olympiacos went on to win their first European trophy.<ref>{{cite web|url= https://www.bbc.com/sport/football/live/c988jy177gqt|title=Olympiakos 1 Fiorentina 0|date=29 May 2024|work=BBC Sport|accessdate=30 May 2024}}</ref>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the quarter-final and semi-final draws.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2024|5|29|df=y}}
+|time       = {{CEST|21:00|localtz=EEST}}
+|team1      = [[Olympiacos F.C.|Olympiacos]] {{fbaicon|GRE}}
+|score      = 1–0
+|aet        = yes
+|team2      = {{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|goals1     =
+*[[Ayoub El Kaabi|El Kaabi]] {{goal|116}}
+|goals2     =
+|stadium    = [[Agia Sophia Stadium]], [[Athens]]
+|attendance = 26,842<ref name="report 29 May">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2024/2039972_FR.pdf |title=Full Time Report Final – Olympiacos v Fiorentina |website=UEFA.com|publisher=Union of European Football Associations |date=29 May 2024 |access-date=29 May 2024}}</ref>
+|referee    = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.uefa.com/uefaconferenceleague/match/2039972/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _standard2324h
+ |pattern_b  = _olympiacosfc2324H
+ |pattern_ra = _standard2324h
+ |pattern_sh = _standard2324h
+ |pattern_so = _3_stripes_white
+ |leftarm    = E60000
+ |body       = E60000
+ |rightarm   = E60000
+ |shorts     = E60000
+ |socks      = E60000
+ |title      = Olympiacos<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _fiorentina2324A
+ |pattern_b  = _fiorentina2324A
+ |pattern_ra = _fiorentina2324A
+ |pattern_sh = _fiorentina2324a
+ |pattern_so = _fiorentina2324a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Fiorentina<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''88'''||{{flagicon|GRE}} [[Konstantinos Tzolakis]]
+|-
+|RB ||'''23'''||{{flagicon|BRA}} [[Rodinei]]
+|-
+|CB ||'''45'''||{{flagicon|GRE}} [[Panagiotis Retsos]]
+|-
+|CB ||'''16'''||{{flagicon|ANG}} [[David Carmo]]
+|-
+|LB ||'''3''' ||{{flagicon|ARG}} [[Francisco Ortega (footballer, born 1999)|Francisco Ortega]] || || {{suboff|91}}
+|-
+|CM ||'''32'''||{{flagicon|ARG}} [[Santiago Hezze]]
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Vicente Iborra]]
+|-
+|RW ||'''56'''||{{flagicon|POR}} [[Daniel Podence]] || {{yel|28}} || {{suboff|106}}
+|-
+|AM ||'''6''' ||{{flagicon|POR}} [[Chiquinho (footballer, born 1995)|Chiquinho]] || || {{suboff|77}}
+|-
+|LW ||'''7''' ||{{flagicon|GRE}} [[Kostas Fortounis]] ([[Captain (association football)|c]]) || || {{suboff|73}}
+|-
+|CF ||'''9''' ||{{flagicon|MAR}} [[Ayoub El Kaabi]] || {{yel|117}} || {{suboff|120+2}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|GRE}} [[Alexandros Paschalakis]] || {{yel|95}}
+|-
+|GK ||'''99'''||{{flagicon|GRE}} [[Athanasios Papadoudis]]
+|-
+|DF ||'''18'''||{{flagicon|ESP}} [[Quini (footballer, born 1989)|Quini]] || || {{subon|91}}
+|-
+|DF ||'''27'''||{{flagicon|ENG}} [[Omar Richards]]
+|-
+|DF ||'''65'''||{{flagicon|GRE}} [[Apostolos Apostolopoulos]]
+|-
+|DF ||'''74'''||{{flagicon|GRE}} [[Andreas Ntoi]]
+|-
+|MF ||'''5''' ||{{flagicon|POR}} [[André Horta]] || || {{subon|77}}
+|-
+|MF ||'''15'''||{{flagicon|GRE}} [[Sotiris Alexandropoulos]]
+|-
+|MF ||'''19'''||{{flagicon|GRE}} [[Georgios Masouras]] || || {{subon|106}}
+|-
+|MF ||'''20'''||{{flagicon|POR}} [[João Carvalho (footballer, born 1997)|João Carvalho]]
+|-
+|FW ||'''11'''||{{flagicon|MAR}} [[Youssef El-Arabi]] || || {{subon|120+2}}
+|-
+|FW ||'''22'''||{{flagicon|MNE}} [[Stevan Jovetić]] || {{yel|94}} || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[José Luis Mendilibar]]
+|}
+|valign="top"|[[File:Olympiacos vs Fiorentina 2024-05-29.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Pietro Terracciano]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Dodô (footballer, born 1998)|Dodô]]
+|-
+|CB ||'''4''' ||{{flagicon|SRB}} [[Nikola Milenković]]
+|-
+|CB ||'''28'''||{{flagicon|ARG}} [[Lucas Martínez Quarta]] || {{yel|42}}
+|-
+|LB ||'''3''' ||{{flagicon|ITA}} [[Cristiano Biraghi]] ([[Captain (association football)|c]]) || {{yel|99}} || {{suboff|106}}
+|-
+|CM ||'''6''' ||{{flagicon|BRA}} [[Arthur Melo|Arthur]] || || {{suboff|74}}
+|-
+|CM ||'''38'''||{{flagicon|ITA}} [[Rolando Mandragora]]
+|-
+|RW ||'''10'''||{{flagicon|ARG}} [[Nicolás González (footballer, born 1998)|Nicolás González]] || || {{suboff|106}}
+|-
+|AM ||'''5''' ||{{flagicon|ITA}} [[Giacomo Bonaventura]] || || {{suboff|82}}
+|-
+|LW ||'''99'''||{{flagicon|CIV}} [[Christian Kouamé]] || {{yel|79}} || {{suboff|82}}
+|-
+|CF ||'''20'''||{{flagicon|ITA}} [[Andrea Belotti]] || || {{suboff|59}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''53'''||{{flagicon|DEN}} [[Oliver Christensen]]
+|-
+|DF ||'''16'''||{{flagicon|ITA}} [[Luca Ranieri]] || || {{subon|106}}
+|-
+|DF ||'''22'''||{{flagicon|ITA}} [[Davide Faraoni]]
+|-
+|DF ||'''33'''||{{flagicon|ITA}} [[Michael Kayode]]
+|-
+|DF ||'''65'''||{{flagicon|ITA}} [[Fabiano Parisi]]
+|-
+|MF ||'''8''' ||{{flagicon|FRA}} [[Maxime Lopez]]
+|-
+|MF ||'''19'''||{{flagicon|ARG}} [[Gino Infantino]]
+|-
+|MF ||'''32'''||{{flagicon|GHA}} [[Alfred Duncan]] || || {{subon|74}}
+|-
+|MF ||'''72'''||{{flagicon|CZE}} [[Antonín Barák]] || || {{subon|82}}
+|-
+|FW ||'''9''' ||{{flagicon|ARG}} [[Lucas Beltrán]] || || {{subon|106}}
+|-
+|FW ||'''11'''||{{flagicon|FRA}} [[Jonathan Ikoné]] || || {{subon|82}}
+|-
+|FW ||'''18'''||{{flagicon|ANG}} [[M'Bala Nzola]] || || {{subon|59}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Vincenzo Italiano]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Ayoub El Kaabi]] (Olympiacos)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Paulo Soares ([[Portuguese Football Federation|Portugal]])
+<br />Pedro Ribeiro ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Mahbod Beigi ([[Swedish Football Association|Sweden]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />[[Christian Dingert]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="officials"/>
+<br />[[Marco Fritz]] ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+{{Match rules
+|ref               = <ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Europa-Conference-League-2023/24-Online |title=Regulations of the UEFA Europa Conference League, 2023/24 Season |website=UEFA.com|publisher=Union of European Football Associations |date=1 May 2022 |access-date=10 May 2022}}</ref>
+|extra time        = y
+|penalties         = y
+|named subs        = 12
+|additional sub ET = y
+|subs allowed      = 5
+|sub opportunities = y
+}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2024/2039972_TS.pdf |title=Team statistics |website=UEFA.com|publisher=Union of European Football Associations |date=29 May 2024 |access-date=29 May 2024 |url-status=live |archive-url=https://web.archive.org/web/20240617222241/https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2024/2039972_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Olympiacos
+!scope="col" style="width:70px"|Fiorentina
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|2
+|9
+|-
+!scope=row|Shots on target
+|2
+|2
+|-
+!scope=row|Saves
+|2
+|2
+|-
+!scope=row|Ball possession
+|49%
+|51%
+|-
+!scope=row|Corner kicks
+|2
+|2
+|-
+!scope=row|Fouls committed
+|6
+|5
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Olympiacos
+!scope="col" style="width:70px"|Fiorentina
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|1
+|3
+|-
+!scope=row|Shots on target
+|0
+|1
+|-
+!scope=row|Saves
+|1
+|0
+|-
+!scope=row|Ball possession
+|49%
+|51%
+|-
+!scope=row|Corner kicks
+|1
+|3
+|-
+!scope=row|Fouls committed
+|4
+|9
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Olympiacos
+!scope="col" style="width:70px"|Fiorentina
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|3
+|5
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|41%
+|59%
+|-
+!scope=row|Corner kicks
+|2
+|1
+|-
+!scope=row|Fouls committed
+|0
+|3
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|3
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Olympiacos
+!scope="col" style="width:70px"|Fiorentina
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|6
+|17
+|-
+!scope=row|Shots on target
+|4
+|4
+|-
+!scope=row|Saves
+|4
+|3
+|-
+!scope=row|Ball possession
+|47%
+|53%
+|-
+!scope=row|Corner kicks
+|5
+|6
+|-
+!scope=row|Fouls committed
+|10
+|17
+|-
+!scope=row|Offsides
+|4
+|3
+|-
+!scope=row|Yellow cards
+|4
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+After the match Prime Minister of Greece [[Kyriakos Mitsotakis]] made a post on social media platform [[Twitter|X]], describing Olympiacos as "a true legend". This win caused a big celebration with several thousand Olympiacos fans gathered in [[Piraeus]], Greece.<ref>{{cite web|url=https://www.reuters.com/sports/soccer/passionate-olympiakos-fans-celebrate-historic-victory-2024-05-29/|title=Passionate Olympiakos fans celebrate historic victory|date=30 May 2024|work=Reuters|accessdate=30 May 2024}}</ref>
+
+==Notes==
+{{reflist|group=note}}
+
+==See also==
+*[[2024 UEFA Champions League final]]
+*[[2024 UEFA Europa League final]]
+*[[2024 UEFA Women's Champions League final]]
+*[[2024 UEFA Super Cup]]
+*[[Olympiacos F.C. in European football]]
+*[[ACF Fiorentina in European football]]
+*[[2023–24 ACF Fiorentina season]]
+*[[2023–24 Olympiacos F.C. season]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefaeuropaconferenceleague/}}
+
+{{UEFA Europa Conference League}}
+{{2023–24 in European football (UEFA)}}
+{{Olympiacos F.C. matches}}
+{{ACF Fiorentina matches}}
+
+{{DEFAULTSORT:Uefa Europa Conference League Final 2024}}
+[[Category:UEFA Conference League finals|2024]]
+[[Category:2023–24 UEFA Europa Conference League|Final]]
+[[Category:May 2024 sports events in Europe]]
+[[Category:2023–24 in Greek football]]
+[[Category:Olympiacos F.C. matches]]
+[[Category:ACF Fiorentina matches]]
+[[Category:2023–24 in Italian football]]
+[[Category:Football matches in Greece]]
+[[Category:Football matches in Athens]]
+[[Category:2020s in Athens]]
+[[Category:May 2024 in Greece]]
+[[Category:Greece–Italy sports relations|2024]]

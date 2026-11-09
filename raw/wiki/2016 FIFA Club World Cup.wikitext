@@ -1,0 +1,573 @@
+{{Use dmy dates|date=January 2017}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2016
+| other_titles   = FIFA Club World Cup Japan 2016<br>presented by Alibaba YunOS Auto<br>Alibaba YunOS Auto プレゼンツ<br>FIFAクラブワールドカップ ジャパン2016
+| image          = 2016 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA trophy}}
+| country        = Japan
+| dates          = 8–18 December
+| num_teams      = 7
+| confederations = 6
+| venues         = 2
+| cities         = 2
+| champion_other = {{nowrap|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]}}
+| count          = 2
+| second_other   = {{fbaicon|JPN}} [[Kashima Antlers]]
+| third_other    = {{fbaicon|COL}} [[Atlético Nacional]]
+| fourth_other   = {{fbaicon|MEX}} [[Club América|América]]
+| matches        = 8
+| goals          = 28
+| attendance     = {{#expr: <!--First round-->17667 <!--Second round-->+ 14587 + 21702 <!--5th place match-->+ 5938 <!--Semi-finals-->+ 15050 + 50117 <!--3rd place match-->+ 44625 <!--Final-->+ 68742}}
+| top_scorer     = {{flagicon|POR}} [[Cristiano Ronaldo]] {{nowrap|(4 goals)}}
+| player         = {{flagicon|POR}} [[Cristiano Ronaldo]]<ref name="Awards">{{cite web|url=https://www.fifa.com/clubworldcup/awards/index.html |title=2016 FIFA Club World Cup awards |work=[[FIFA|Fédération Internationale de Football Association]] |access-date=18 December 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160112045127/http://www.fifa.com/clubworldcup/awards/index.html |archive-date=12 January 2016 }}</ref>
+| fair_play      = {{fbaicon|JPN}} [[Kashima Antlers]]<ref name="Awards"/>
+| prevseason     = [[2015 FIFA Club World Cup|2015]]
+| nextseason     = [[2017 FIFA Club World Cup|2017]]
+}}
+
+The '''2016 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup Japan 2016 presented by Alibaba YunOS Auto''' for sponsorship reasons)<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2015/m=12/news=alibaba-e-auto-signs-as-presenting-partner-of-the-fifa-club-world-cup-2743056.html|archive-url=https://web.archive.org/web/20151211021029/http://www.fifa.com/clubworldcup/news/y=2015/m=12/news=alibaba-e-auto-signs-as-presenting-partner-of-the-fifa-club-world-cup-2743056.html|url-status=dead|archive-date=11 December 2015|title=Alibaba E-Auto signs as Presenting Partner of the FIFA Club World Cup|publisher=FIFA.com|date=9 December 2015}}</ref> was the 13th edition of the [[FIFA Club World Cup]], a [[FIFA]]-organised international club [[association football|football]] tournament between the winners of the six continental confederations, as well as the host nation's league champions.<ref name="regulations">{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/82/33/70/fcwcreg2016eee_neutral.pdf|title=Regulations – FIFA Club World Cup Japan 2016|publisher=FIFA|access-date=21 September 2016|archive-date=11 December 2018|archive-url=https://web.archive.org/web/20181211154313/https://resources.fifa.com/mm/document/tournament/competition/02/82/33/70/fcwcreg2016eee_neutral.pdf|url-status=dead}}</ref> The tournament was hosted by [[Japan]].<ref name="hosts">{{cite web|url=https://www.fifa.com/about-fifa/news/y=2015/m=4/news=japan-set-to-host-continental-champions-in-2015-and-2016-2593526.html|archive-url=https://web.archive.org/web/20150425065733/http://www.fifa.com/about-fifa/news/y=2015/m=4/news=japan-set-to-host-continental-champions-in-2015-and-2016-2593526.html|url-status=dead|archive-date=25 April 2015|title=Japan set to host continental champions in 2015 and 2016|publisher=FIFA.com|date=23 April 2015}}</ref>
+
+This edition marked the second time and first since [[2008 FIFA Club World Cup|2008]] in which the CONMEBOL representative did not feature any clubs from Argentina or Brazil. 
+
+[[FC Barcelona|Barcelona]] could not defend their title as they were eliminated in the [[2015–16 UEFA Champions League]] quarter-finals.
+
+[[Real Madrid CF|Real Madrid]] won their second Club World Cup, defeating hosts [[Kashima Antlers]] 4–2 after [[Overtime (sports)#Association football|extra time]] in the [[2016 FIFA Club World Cup Final|final]].
+
+==Host bids==
+The application process for the 2015–16 as well as the 2017–18 editions, i.e. two hosts, each hosting two years, began in February 2014.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=2248101/index.html|archive-url=https://web.archive.org/web/20131219233246/http://www.fifa.com//clubworldcup/news/newsid=2248101/index.html|url-status=dead|archive-date=19 December 2013|title=Blatter: A legacy for the future|publisher=FIFA.com|date=19 December 2013}}</ref> Member associations interested in hosting had to submit a declaration of interest by 30 March 2014, and provide the complete set of bidding documents by 25 August 2014.<ref>{{cite web|url=https://www.fifa.com/aboutfifa/organisation/news/newsid=2293621/index.html|archive-url=https://web.archive.org/web/20140306142058/http://www.fifa.com/aboutfifa/organisation/news/newsid=2293621/index.html|url-status=dead|archive-date=6 March 2014|title=Bidding process opened for eight FIFA competitions|publisher=FIFA.com|date=19 December 2013}}</ref> The [[FIFA Executive Committee]] was to select the hosts at their meeting in [[Morocco]] in December 2014.<ref>{{cite web|url=http://zeenews.india.com/sports/football/india-may-get-to-host-fifa-club-world-cup_1485299.html|title=India may get to host FIFA Club World Cup|publisher=India.com|date=15 October 2014}}</ref> However, no such decision regarding the 2015–2016 host was made until 2015.
+
+The following countries expressed an interest in bidding to host the tournament:<ref>{{cite web |title=High interest in hosting FIFA competitions |url=https://www.fifa.com/aboutfifa/organisation/news/newsid=2336227/index.html |archive-url=https://web.archive.org/web/20140510175305/http://www.fifa.com/aboutfifa/organisation/news/newsid=2336227/index.html |url-status=dead |archive-date=10 May 2014 |publisher=FIFA.com |date=9 May 2014 }}</ref>
+* {{fba|India}} (withdrew interest in November 2014)<ref>{{cite web |title=India not bidding for 2015 and 2016 Fifa Club World Cups |url=http://timesofindia.indiatimes.com/sports/football/top-stories/India-not-bidding-for-2015-and-2016-Fifa-Club-World-Cups/articleshow/45136849.cms |work=The Times of India |date=13 November 2014 |access-date=20 January 2015 }}</ref>
+* {{fba|Japan}}
+Japan was officially confirmed as hosts of the [[2015 FIFA Club World Cup|2015]] and 2016 tournaments on 23 April 2015.<ref name="hosts"/>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of teams of the '''2016 FIFA Club World Cup'''.|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=6.256|long=-75.590|label_size=80|label={{nowrap|[[Atlético Nacional]]}}|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=40.45306|long=-3.68835|label_size=80|label=[[Real Madrid CF|Real Madrid]]|position=left}}
+<!--AFC-->
+{{Location map~|World|lat=35.8242|long=127.1480|label_size=80|label={{nowrap|[[Jeonbuk Hyundai Motors]]}}|position=left}}
+<!--CAF-->
+{{Location map~|World|lat=-25.746111|long=28.188056|label_size=80|label={{nowrap|[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]}}|position=left}}
+<!--CONCACAF-->
+{{Location map~|World|lat=19.302911|long=-99.150442|label_size=80|label=[[Club América|América]]|position=left}}
+<!--OFC-->
+{{Location map~|World|lat=-36.898155|long=174.736487|label_size=80|label={{nowrap|[[Auckland City FC|Auckland City]]}}|position=left}}
+<!--Host-->
+{{Location map~|World|lat=35.991744|long=140.640525|label_size=80|label=[[Kashima Antlers]]|position=right}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Qualified date
+!Participation (bold indicates winners)
+|-
+!colspan=5|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|COL}} [[Atlético Nacional]]
+|[[CONMEBOL]]
+|Winners of the [[2016 Copa Libertadores]]
+|27 July 2016
+|Debut
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[UEFA]]
+|Winners of the [[2015–16 UEFA Champions League]]
+|28 May 2016
+|3rd {{small|(Previous: [[2000 FIFA Club World Championship|2000]], '''[[2014 FIFA Club World Cup|2014]]''')}}
+|-
+!colspan=5|Entering in the [[#Second round|second round]]
+|-
+|{{nowrap|{{fbaicon|KOR}} [[Jeonbuk Hyundai Motors]]}}
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2016 AFC Champions League]]
+|{{nowrap|26 November 2016}}
+|2nd {{small|(Previous: [[2006 FIFA Club World Cup|2006]])}}
+|-
+|{{fbaicon|RSA}} [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2016 CAF Champions League]]
+|23 October 2016
+|Debut
+|-
+|{{fbaicon|MEX}} [[Club América|América]]
+|[[CONCACAF]]
+|{{nowrap|Winners of the [[2015–16 CONCACAF Champions League]]}}
+|27 April 2016
+|3rd {{small|(Previous: [[2006 FIFA Club World Cup|2006]], [[2015 FIFA Club World Cup|2015]])}}
+|-
+!colspan=5|Entering in the [[#First round|first round]]
+|-
+|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2016 OFC Champions League]]
+|23 April 2016
+|8th {{small|(Previous: [[2006 FIFA Club World Cup|2006]], [[2009 FIFA Club World Cup|2009]], [[2011 FIFA Club World Cup|2011]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]], [[2014 FIFA Club World Cup|2014]], [[2015 FIFA Club World Cup|2015]])}}
+|-
+|{{fbaicon|JPN}} [[Kashima Antlers]]
+|[[Asian Football Confederation|AFC]] ([[Japan Football Association|host]])
+|Winners of the [[2016 J1 League]]
+|3 December 2016
+|Debut
+|}
+
+==Venues==
+On 9 June 2016, [[Suita City Football Stadium]] in [[Suita, Osaka|Osaka]] and [[International Stadium Yokohama]] in [[Yokohama]] were named as the two venues of the tournament.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2016/m=6/news=innovative-suita-city-football-stadium-to-make-fifa-club-world-cup-deb-2800532.html|archive-url=https://web.archive.org/web/20160611155214/http://www.fifa.com/clubworldcup/news/y=2016/m=6/news=innovative-suita-city-football-stadium-to-make-fifa-club-world-cup-deb-2800532.html|url-status=dead|archive-date=11 June 2016|title=Innovative Suita City Football Stadium to make FIFA Club World Cup debut|publisher=FIFA.com|date=9 June 2016}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! [[Suita, Osaka|Osaka]]
+!rowspan=5|{{location map+ |Japan |float=center |width=250 |caption= |places=
+{{location map~ |Japan |lat=34.8114 |long=135.5409 |label=[[Suita, Osaka|Osaka]] |position=left}}
+{{location map~ |Japan |lat=35.510044 |long=139.606247 |label=[[Yokohama]] |position=top}}}}
+! [[Yokohama]]
+|-
+| [[Suita City Football Stadium]]
+| [[International Stadium Yokohama]]
+|-
+| <small>{{Coord|34|48|41.04|N|135|32|27.24|E|type:landmark_source:dewiki|display=inline|name=Suita City Football Stadium}}</small>
+| <small>{{Coord|35|30|35|N|139|36|20|E|type:landmark|display=inline|name=International Stadium Yokohama}}</small>
+|-
+| Capacity: '''39,694'''
+| Capacity: '''72,327'''
+|-
+| [[File:Municipal_Suita_Stadium.JPG|200px]]
+| [[File:NISSANSTADIUM20080608.JPG|200px]]
+|}
+
+==Match officials==
+The appointed match officials were:<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2016/m=11/news=match-officials-for-the-fifa-club-world-japan-2016-appointed-2850571.html|archive-url=https://web.archive.org/web/20161116153712/http://www.fifa.com/clubworldcup/news/y=2016/m=11/news=match-officials-for-the-fifa-club-world-japan-2016-appointed-2850571.html|url-status=dead|archive-date=16 November 2016|title=Match officials for the FIFA Club World Japan 2016 appointed|publisher=15 November 2016}}</ref><ref>{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/85/08/16/referees_fcwcjpn2016_neutral.pdf|title=FIFA Club World Cup Japan 2016 Appointment of Match Officials|publisher=FIFA.com|access-date=14 December 2016|archive-date=20 December 2016|archive-url=https://web.archive.org/web/20161220141439/http://resources.fifa.com/mm/document/tournament/competition/02/85/08/16/referees_fcwcjpn2016_neutral.pdf|url-status=dead}}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+!Video assistant referee
+|-
+|[[Asian Football Confederation|AFC]]
+|{{fbaicon|BHR}} [[Nawaf Shukralla]]
+|{{fbaicon|BHR}} Yaser Tulefat<br />{{fbaicon|QAT}} Taleb Al Marri
+|{{fbaicon|UZB}} [[Ravshan Irmatov]]
+|-
+|[[Confederation of African Football|CAF]]
+|{{fbaicon|ZAM}} [[Janny Sikazwe]]
+|{{fbaicon|ANG}} Jerson dos Santos<br />{{fbaicon|KEN}} [[Marwa Range]]
+|{{fbaicon|GAM}} [[Bakary Gassama]]
+|-
+|[[CONCACAF]]
+|{{fbaicon|MEX}} [[Roberto García Orozco|Roberto García]]
+|{{fbaicon|MEX}} José Camargo<br />{{fbaicon|MEX}} Alberto Morín
+|{{fbaicon|USA}} [[Mark Geiger]]
+|-
+|[[CONMEBOL]]
+|{{fbaicon|PAR}} [[Enrique Cáceres]]
+|{{fbaicon|PAR}} Eduardo Cardozo<br />{{fbaicon|PAR}} Juan Zorrilla
+|{{fbaicon|URU}} [[Andrés Cunha]]
+|-
+|[[Oceania Football Confederation|OFC]]
+|{{fbaicon|TAH}} [[Abdelkader Zitouni]]
+|{{fbaicon|TAH}} Philippe Revel
+|{{fbaicon|NZL}} Nick Waldron
+|-
+|[[UEFA]]
+|{{fbaicon|HUN}} [[Viktor Kassai]]
+|{{fbaicon|HUN}} György Ring<br />{{fbaicon|HUN}} Vencel Tóth
+|{{fbaicon|SVN}} [[Damir Skomina]]<br />{{fbaicon|NED}} [[Danny Makkelie]]
+|}
+
+[[Video assistant referee]]s were tested during the tournament.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2016/m=12/news=video-assistant-referees-to-be-tested-at-fifa-club-world-cup-japan-201-2858889.html|archive-url=https://web.archive.org/web/20161208215137/http://www.fifa.com/clubworldcup/news/y=2016/m=12/news=video-assistant-referees-to-be-tested-at-fifa-club-world-cup-japan-201-2858889.html|url-status=dead|archive-date=8 December 2016|title=Video Assistant Referees to be tested at FIFA Club World Cup Japan 2016|publisher=FIFA.com|date=7 December 2016}}</ref> The system was used for the first time when a penalty was awarded by referee [[Viktor Kassai]] in the first half of the semi-final between Atlético Nacional and Kashima Antlers after a review of video replay.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2016/m=12/news=video-review-used-for-penalty-decision-in-fifa-club-world-cup-japan-20-2860247.html|archive-url=https://web.archive.org/web/20161216131636/http://www.fifa.com/clubworldcup/news/y=2016/m=12/news=video-review-used-for-penalty-decision-in-fifa-club-world-cup-japan-20-2860247.html|url-status=dead|archive-date=16 December 2016|title=Video review used for penalty decision in FIFA Club World Cup Japan 2016 semi-final|publisher=FIFA.com|date=14 December 2016}}</ref>
+
+==Squads==
+{{main|2016 FIFA Club World Cup squads}}
+
+Each team had to name a 23-man squad (three of whom must be goalkeepers). Injury replacements were allowed until 24 hours before the team's first match.<ref name="regulations"/> The official squads (excluding the host team, who was yet to be determined{{citation needed|date=December 2016}}) were announced on 1 December 2016.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2016/m=11/news=official-fifa-club-world-cup-squad-lists-announced-2857198.html|archive-url=https://web.archive.org/web/20161201143654/http://www.fifa.com/clubworldcup/news/y=2016/m=11/news=official-fifa-club-world-cup-squad-lists-announced-2857198.html|url-status=dead|archive-date=1 December 2016|title=Official FIFA Club World Cup squad lists announced|publisher=FIFA.com|date=1 December 2016}}</ref>
+
+==Matches==
+The schedule of the tournament was announced on 15 July 2016.<ref>{{cite news|url=https://www.fifa.com/clubworldcup/news/y=2016/m=7/news=fifa-club-world-cup-schedule-announced-2811968.html|archive-url=https://web.archive.org/web/20160716123132/http://www.fifa.com/clubworldcup/news/y=2016/m=7/news=fifa-club-world-cup-schedule-announced-2811968.html|url-status=dead|archive-date=16 July 2016|title=FIFA Club World Cup schedule announced|publisher=FIFA|date=15 July 2016}}</ref>
+
+A draw was held on 21 September 2016, 11:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]), at the FIFA headquarters in [[Zürich]], [[Switzerland]], to determine the positions in the bracket for the three teams which enter the second round.<ref>{{cite news|url=https://www.fifa.com/clubworldcup/news/y=2016/m=9/news=official-draw-for-the-fifa-club-world-cup-japan-2016-2833741.html|archive-url=https://web.archive.org/web/20160919030553/http://www.fifa.com/clubworldcup/news/y=2016/m=9/news=official-draw-for-the-fifa-club-world-cup-japan-2016-2833741.html|url-status=dead|archive-date=19 September 2016|title=Official Draw for the FIFA Club World Cup Japan 2016|publisher=FIFA|date=15 September 2016}}</ref><ref>{{cite news|url=https://www.fifa.com/clubworldcup/news/y=2016/m=9/news=follow-the-fifa-club-world-cup-draw-live-on-fifa-com-2835278.html|archive-url=https://web.archive.org/web/20160921185019/http://www.fifa.com/clubworldcup/news/y=2016/m=9/news=follow-the-fifa-club-world-cup-draw-live-on-fifa-com-2835278.html|url-status=dead|archive-date=21 September 2016|title=Relive the FIFA Club World Cup draw|publisher=FIFA|date=20 September 2016}}</ref><ref>{{cite news|url=https://www.fifa.com/clubworldcup/news/y=2016/m=9/news=route-to-global-glory-revealed-2835282.html|archive-url=https://web.archive.org/web/20160922130755/http://www.fifa.com/clubworldcup/news/y=2016/m=9/news=route-to-global-glory-revealed-2835282.html|url-status=dead|archive-date=22 September 2016|title=Route to global glory revealed|publisher=FIFA|date=21 September 2016}}</ref>
+
+If a match was tied after normal playing time:<ref name="regulations"/>
+*For elimination matches, [[Overtime (sports)#Association football|extra time]] would be played. If still tied after extra time, a [[Penalty shoot-out (association football)|penalty shoot-out]] would be held to determine the winner.
+*For the matches for fifth place and third place, no extra time would be played, and a penalty shoot-out would be held to determine the winner.
+
+On 18 March 2016, the FIFA Executive Committee agreed that the competition would be part of the [[International Football Association Board]]'s trial to allow a [[Substitute (association football)|fourth substitute]] to be made during extra time.<ref>{{cite web|title=FIFA Executive Committee approves key priorities to restore trust in FIFA|url=https://www.fifa.com/about-fifa/news/y=2016/m=3/news=fifa-executive-committee-approves-key-priorities-to-restore-trust-in-f-2771049.html|archive-url=https://web.archive.org/web/20160320190647/http://www.fifa.com/about-fifa/news/y=2016/m=3/news=fifa-executive-committee-approves-key-priorities-to-restore-trust-in-f-2771049.html|url-status=dead|archive-date=20 March 2016|publisher=FIFA|date=18 March 2016}}</ref>
+
+{{7TeamBracket-StepladderToSF
+| style       = 4
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#First round|First round]]
+| RD2         = [[#Second round|Second round]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD3b        = [[#Match for fifth place|Match for fifth place]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- First round -->
+| RD1-text1    = 8 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD1-team1    = {{fbaicon|JPN}} [[Kashima Antlers]]
+| RD1-score1   = 2
+| RD1-team2    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD1-score2   = 1
+
+<!-- Second round -->
+| RD2-text1    = 11 December – [[Suita City Football Stadium|Osaka]]
+| RD2-team1    = {{fbaicon|KOR}} [[Jeonbuk Hyundai Motors]]
+| RD2-score1   = 1
+| RD2-team2    = {{fbaicon|MEX}} [[Club América|América]]
+| RD2-score2   = 2
+
+| RD2-text2    = 11 December – [[Suita City Football Stadium|Osaka]]
+| RD2-team3    = {{fbaicon|RSA}} [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+| RD2-score3   = 0
+| RD2-team4    = {{fbaicon|JPN}} [[Kashima Antlers]]
+| RD2-score4   = 2
+
+<!-- Semi-finals -->
+| RD3-text1    = 15 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD3-team1    = {{fbaicon|MEX}} [[Club América|América]]
+| RD3-score1   = 0
+| RD3-team2    = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| RD3-score2   = 2
+
+| RD3-text2    = 14 December – [[Suita City Football Stadium|Osaka]]
+| RD3-team3    = {{fbaicon|COL}} [[Atlético Nacional]]
+| RD3-score3   = 0
+| RD3-team4    = {{fbaicon|JPN}} [[Kashima Antlers]]
+| RD3-score4   = 3
+
+<!-- Final -->
+| RD4-text1    = 18 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD4-team1    = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]] {{aet}}
+| RD4-score1   = 4
+| RD4-team2    = {{fbaicon|JPN}} [[Kashima Antlers]]
+| RD4-score2   = 2
+
+<!-- Match for fifth place -->
+| RD3-text3    = 14 December – [[Suita City Football Stadium|Osaka]]
+| RD3-team5    = {{fbaicon|KOR}} [[Jeonbuk Hyundai Motors]]
+| RD3-score5   = 4
+| RD3-team6    = {{fbaicon|RSA}} [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+| RD3-score6   = 1
+
+<!-- Match for third place -->
+| RD4-text2    = 18 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD4-team3    = {{fbaicon|MEX}} [[Club América|América]]
+| RD4-score3   = 2 (3)
+| RD4-team4    = {{fbaicon|COL}} '''[[Atlético Nacional]]''' {{pso}}
+| RD4-score4   = '''2 (4)'''
+}}
+
+All times are local, [[Japan Standard Time|JST]] ([[UTC+09:00|UTC+9]]).<ref>{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/81/20/44/fcwc2016_matchschedule_newformat_04122016_neutral.pdf|title=Match Schedule – FIFA Club World Cup Japan 2016|publisher=FIFA.com|access-date=8 December 2016|archive-date=20 December 2016|archive-url=https://web.archive.org/web/20161220141156/http://resources.fifa.com/mm/document/tournament/competition/02/81/20/44/fcwc2016_matchschedule_newformat_04122016_neutral.pdf|url-status=dead}}</ref>
+
+===First round===
+{{Football box
+|id=Kashima Antlers v Auckland City
+|date={{Start date|2016|12|8|df=y}}
+|time=19:30
+|team1=[[Kashima Antlers]] {{fbaicon|JPN}}
+|score=2–1
+|report=https://www.fifa.com/en/match-centre/match/107/276100/276106/300364978
+|team2={{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|goals1=
+*[[Shuhei Akasaki|Akasaki]] {{goal|67}}
+*[[Mu Kanazaki|Kanazaki]] {{goal|88}}
+|goals2=
+*[[Kim Dae-wook]] {{goal|50}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=17,667<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/85/91/24/eng_01_1208_kas-akl_fulltime.pdf |title=Match report – First round – Kashima Antlers v Auckland City |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=8 December 2016 |access-date=8 December 2016 |archive-date=9 December 2016 |archive-url=https://web.archive.org/web/20161209064723/http://resources.fifa.com/mm/document/tournament/competition/02/85/91/24/eng_01_1208_kas-akl_fulltime.pdf |url-status=dead }}</ref>
+|referee=[[Janny Sikazwe]] ([[Football Association of Zambia|Zambia]])
+}}
+
+===Second round===
+{{Football box
+|id=Jeonbuk Hyundai Motors v América
+|date={{Start date|2016|12|11|df=y}}
+|time=16:00
+|team1=[[Jeonbuk Hyundai Motors]] {{fbaicon|KOR}}
+|score=1–2
+|report=https://www.fifa.com/en/match-centre/match/107/276100/276104/300364981
+|team2={{fbaicon|MEX}} [[Club América|América]]
+|goals1=
+*[[Kim Bo-kyung]] {{goal|23}}
+|goals2=
+*[[Silvio Romero (footballer)|Romero]] {{goal|58||74}}
+|stadium=[[Suita City Football Stadium]], [[Suita, Osaka|Osaka]]
+|attendance=14,587<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/85/94/37/eng_02_1211_jbf-cfa_fulltime.pdf |title=Match report – Second round – Jeonbuk Hyundai v Club América |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=11 December 2016 |access-date=11 December 2016 |archive-date=4 August 2019 |archive-url=https://web.archive.org/web/20190804172113/https://resources.fifa.com/mm/document/tournament/competition/02/85/94/37/eng_02_1211_jbf-cfa_fulltime.pdf |url-status=dead }}</ref>
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+}}
+----
+{{Football box
+|id=Mamelodi Sundowns v Kashima Antlers
+|date={{Start date|2016|12|11|df=y}}
+|time=19:30
+|team1=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]] {{fbaicon|RSA}}
+|score=0–2
+|report=https://www.fifa.com/en/match-centre/match/107/276100/276104/300364977
+|team2={{fbaicon|JPN}} [[Kashima Antlers]]
+|goals1=
+|goals2=
+*[[Yasushi Endo|Endo]] {{goal|63}}
+*[[Mu Kanazaki|Kanazaki]] {{goal|88}}
+|stadium=[[Suita City Football Stadium]], [[Suita, Osaka|Osaka]]
+|attendance=21,702<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/85/95/19/eng_03_1211_zsc-kas_fulltime.pdf |title=Match report – Second round – Mamelodi Sundowns v Kashima Antlers |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=11 December 2016 |access-date=11 December 2016 |archive-date=20 December 2016 |archive-url=https://web.archive.org/web/20161220161356/http://resources.fifa.com/mm/document/tournament/competition/02/85/95/19/eng_03_1211_zsc-kas_fulltime.pdf |url-status=dead }}</ref>
+|referee=[[Roberto García Orozco|Roberto García]] ([[Mexican Football Federation|Mexico]])
+}}
+
+===Match for fifth place===
+{{Football box
+|id=Jeonbuk Hyundai Motors v Mamelodi Sundowns
+|date={{Start date|2016|12|14|df=y}}
+|time=16:30
+|team1=[[Jeonbuk Hyundai Motors]] {{fbaicon|KOR}}
+|score=4–1
+|report=https://www.fifa.com/en/match-centre/match/107/276100/276116/300364979
+|team2={{fbaicon|RSA}} [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+|goals1=
+*[[Kim Bo-kyung]] {{goal|18}}
+*[[Lee Jong-ho (footballer, born 1992)|Lee Jong-ho]] {{goal|29}}
+*[[Ricardo Nascimento (Brazilian footballer)|Nascimento]] {{goal|41|o.g.}}
+*[[Kim Shin-wook]] {{goal|89}}
+|goals2=
+*[[Percy Tau|Tau]] {{goal|48}}
+|stadium=[[Suita City Football Stadium]], [[Suita, Osaka|Osaka]]
+|attendance=5,938<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/86/01/62/eng_04_1214_jbf-msu_fulltime.pdf |title=Match report – Match for fifth place – Jeonbuk Hyundai v Mamelodi Sundowns |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=14 December 2016 |access-date=14 December 2016 |archive-date=4 August 2019 |archive-url=https://web.archive.org/web/20190804172359/https://resources.fifa.com/mm/document/tournament/competition/02/86/01/62/eng_04_1214_jbf-msu_fulltime.pdf |url-status=dead }}</ref>
+|referee=[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+}}
+
+===Semi-finals===
+{{Football box
+|id=Atlético Nacional v Kashima Antlers
+|date={{Start date|2016|12|14|df=y}}
+|time=19:30
+|team1=[[Atlético Nacional]] {{fbaicon|COL}}
+|score=0–3
+|report=https://www.fifa.com/en/match-centre/match/107/276100/276110/300364980
+|team2={{fbaicon|JPN}} [[Kashima Antlers]]
+|goals1=
+|goals2=
+*[[Shoma Doi|Doi]] {{goal|33|pen.}}
+*[[Yasushi Endo|Endo]] {{goal|83}}
+*[[Yuma Suzuki|Suzuki]] {{goal|85}}
+|stadium=[[Suita City Football Stadium]], [[Suita, Osaka|Osaka]]
+|attendance=15,050<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/86/02/25/eng_05_1214_atn-kas_fulltime.pdf |title=Match report – Semi-final – Atlético Nacional v Kashima Antlers |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=14 December 2016 |access-date=14 December 2016 |archive-date=13 December 2017 |archive-url=https://web.archive.org/web/20171213160341/http://resources.fifa.com/mm/document/tournament/competition/02/86/02/25/eng_05_1214_atn-kas_fulltime.pdf |url-status=dead }}</ref>
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+}}
+----
+{{Football box
+|id=América v Real Madrid
+|date={{Start date|2016|12|15|df=y}}
+|time=19:30
+|team1=[[Club América|América]] {{fbaicon|MEX}}
+|score=0–2
+|report=https://www.fifa.com/en/match-centre/match/107/276100/276110/300364982
+|team2={{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1=
+|goals2=
+*[[Karim Benzema|Benzema]] {{goal|45+2}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|90+3}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=50,117<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/86/04/23/eng_06_1215_cfa-rmc_fulltime.pdf |title=Match report – Semi-final – Club América v Real Madrid, C.F. |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=15 December 2016 |access-date=15 December 2016 |archive-date=20 December 2016 |archive-url=https://web.archive.org/web/20161220191258/http://resources.fifa.com/mm/document/tournament/competition/02/86/04/23/eng_06_1215_cfa-rmc_fulltime.pdf |url-status=dead }}</ref>
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+}}
+
+===Match for third place===
+{{Football box
+|id=América v Atlético Nacional
+|date={{Start date|2016|12|18|df=y}}
+|time=16:00
+|team1=[[Club América|América]] {{fbaicon|MEX}}
+|score=2–2
+|report=https://www.fifa.com/en/match-centre/match/107/276100/276114/300364983
+|team2={{fbaicon|COL}} [[Atlético Nacional]]
+|goals1=
+*[[Michael Arroyo|Arroyo]] {{goal|38}}
+*[[Oribe Peralta|Peralta]] {{goal|66|pen.}}
+|goals2=
+*[[Miguel Samudio|Samudio]] {{goal|6|o.g.}}
+*[[Alejandro Guerra|Guerra]] {{goal|26}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=44,625<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/86/10/25/eng_07_1218_cfa-atn_fulltime.pdf |title=Match report – Match for third place – Club América v Atlético Nacional |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 December 2016 |access-date=18 December 2016 |archive-date=20 December 2016 |archive-url=https://web.archive.org/web/20161220202104/http://resources.fifa.com/mm/document/tournament/competition/02/86/10/25/eng_07_1218_cfa-atn_fulltime.pdf |url-status=dead }}</ref>
+|referee=[[Nawaf Shukralla]] ([[Bahrain Football Association|Bahrain]])
+|penalties1=
+*[[Osvaldo Martínez|Martínez]] {{penmiss}}
+*[[Miguel Samudio|Samudio]] {{penmiss}}
+*[[Darwin Quintero|Quintero]] {{pengoal}}
+*[[Oribe Peralta|Peralta]] {{pengoal}}
+*[[Michael Arroyo|Arroyo]] {{pengoal}}
+|penaltyscore=3–4
+|penalties2=
+*{{pengoal}} [[Jhon Mosquera (footballer, born 1990)|Mosquera]]
+*{{penmiss}} [[Juan Pablo Nieto|Nieto]]
+*{{pengoal}} [[Daniel Bocanegra|Bocanegra]]
+*{{pengoal}} [[Macnelly Torres|Torres]]
+*{{pengoal}} [[Miguel Borja|Borja]]
+}}
+
+===Final===
+{{main|2016 FIFA Club World Cup final}}
+{{:2016 FIFA Club World Cup final}}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|1
+|style="text-align:left"|{{flagicon|POR}} [[Cristiano Ronaldo]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|4
+|-
+|rowspan=6|2
+|style="text-align:left"|{{flagicon|ARG}} [[Silvio Romero (footballer)|Silvio Romero]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club América|América]]
+|rowspan=6|2
+|-
+|style="text-align:left"|{{flagicon|KOR}} [[Kim Bo-kyung]]
+|style="text-align:left"|{{fbaicon|KOR}} [[Jeonbuk Hyundai Motors]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Yasushi Endo]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Mu Kanazaki]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Gaku Shibasaki]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+|style="text-align:left"|{{flagicon|FRA}} [[Karim Benzema]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|rowspan=10|8
+|style="text-align:left"|{{flagicon|ECU}} [[Michael Arroyo]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club América|América]]
+|rowspan=10|1
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Oribe Peralta]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club América|América]]
+|-
+|style="text-align:left"|{{flagicon|VEN}} [[Alejandro Guerra]]
+|style="text-align:left"|{{fbaicon|COL}} [[Atlético Nacional]]
+|-
+|style="text-align:left"|{{flagicon|KOR}} [[Kim Dae-wook]]
+|style="text-align:left"|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|-
+|style="text-align:left"|{{flagicon|KOR}} [[Kim Shin-wook]]
+|style="text-align:left"|{{fbaicon|KOR}} [[Jeonbuk Hyundai Motors]]
+|-
+|style="text-align:left"|{{flagicon|KOR}} [[Lee Jong-ho (footballer, born 1992)|Lee Jong-ho]]
+|style="text-align:left"|{{fbaicon|KOR}} [[Jeonbuk Hyundai Motors]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Shuhei Akasaki]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Shoma Doi]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Yuma Suzuki]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+|style="text-align:left"|{{flagicon|RSA}} [[Percy Tau]]
+|style="text-align:left"|{{fbaicon|RSA}} [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+|}
+
+'''1 own goal'''
+*{{flagicon|BRA}} [[Ricardo Nascimento (Brazilian footballer)|Ricardo Nascimento]] ([[Mamelodi Sundowns F.C.|Mamelodi Sundowns]], against [[Jeonbuk Hyundai Motors]])
+*{{flagicon|PAR}} [[Miguel Samudio]] ([[Club América|América]], against [[Atlético Nacional]])
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+The following awards were given at the conclusion of the tournament.<ref name="Awards"/>
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Alibaba Group|Alibaba]] [[AliOS|YunOS]] Auto Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|POR}} [[Cristiano Ronaldo]]<br />([[Real Madrid CF|Real Madrid]])
+|{{flagicon|CRO}} [[Luka Modrić]]<br />([[Real Madrid CF|Real Madrid]])
+|{{flagicon|JPN}} [[Gaku Shibasaki]]<br />([[Kashima Antlers]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|JPN}} [[Kashima Antlers]]
+|}
+
+FIFA also named a [[man of the match]] for the best player in each game at the tournament.<ref name="2016 TR">{{cite web |url=https://digitalhub.fifa.com/m/29ca62100f970a3a/original/pxqk2z6jyhfowzfqibys-pdf.pdf |title=FIFA Club World Cup Japan 2016: Technical report and statistics |work=[[FIFA]] |access-date=12 February 2021}}</ref>
+
+{| class="wikitable sortable"
+|+ [[Alibaba Group|Alibaba]] [[AliOS|YunOS]] Auto Match Award
+|-
+! Match
+! Man of the match
+! Club
+! Opponent
+|-
+!1
+|{{flagicon|JPN}} [[Ryota Nagaki]]||{{fbaicon|JPN}} [[Kashima Antlers]]||{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|-
+!2
+|{{flagicon|ARG}} [[Silvio Romero (footballer)|Silvio Romero]]||{{fbaicon|MEX}} [[Club América|América]]||{{fbaicon|KOR}} [[Jeonbuk Hyundai Motors]]
+|-
+!3
+|{{flagicon|JPN}} [[Mu Kanazaki]]||{{fbaicon|JPN}} [[Kashima Antlers]]||{{fbaicon|RSA}} [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+|-
+!4
+|{{flagicon|KOR}} [[Lee Jae-sung (footballer, born 1992)|Lee Jae-sung]]||{{fbaicon|KOR}} [[Jeonbuk Hyundai Motors]]||{{fbaicon|RSA}} [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+|-
+!5
+|{{flagicon|JPN}} [[Hitoshi Sogahata]]||{{fbaicon|JPN}} [[Kashima Antlers]]||{{fbaicon|COL}} [[Atlético Nacional]]
+|-
+!6
+|{{flagicon|CRO}} [[Luka Modrić]]||{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]||{{fbaicon|MEX}} [[Club América|América]]
+|-
+!7
+|{{flagicon|COL}} [[Orlando Berrío]]||{{fbaicon|COL}} [[Atlético Nacional]]||{{fbaicon|MEX}} [[Club América|América]]
+|-
+!8
+|{{flagicon|POR}} [[Cristiano Ronaldo]]||{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]||{{fbaicon|JPN}} [[Kashima Antlers]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.fifa.com/tournaments/mens/clubworldcup/japan2016 FIFA Club World Cup Japan 2016], FIFA.com
+*[https://web.archive.org/web/20171007112430/http://resources.fifa.com/mm/document/footballdevelopment/technicalsupport/02/87/48/09/fcwc2016_neutral.pdf FIFA Technical Report]
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2016 FIFA Club World Cup| ]]
+[[Category:2016 in men's association football|Club World Cup]]
+[[Category:Football club competitions in Japan]]
+[[Category:2016 in Japanese men's football]]
+[[Category:Sports competitions in Osaka]]
+[[Category:21st century in Osaka]]
+[[Category:Football in Yokohama]]
+[[Category:December 2016 sports events in Japan]]
+[[Category:FIFA Club World Cup tournaments|2016]]
+[[Category:Football in Osaka]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:2010s in Yokohama]]
+[[Category:2015–16 in Spanish men's football]]
+[[Category:2015–16 in Mexican football]]
+[[Category:2016 in Colombian football]]
+[[Category:2016 in South Korean football]]
+[[Category:2015–16 in South African soccer]]
+[[Category:2015–16 in New Zealand association football]]

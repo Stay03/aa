@@ -1,0 +1,1191 @@
+[
+ {
+  "article": "1996 FA Cup final",
+  "fb_date": "11 May 1996",
+  "team1": "Liverpool",
+  "team2": "Manchester United",
+  "score_raw": "0–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Cantona",
+    "minute": "85",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "79,007",
+  "referee": "Dermot Gallagher (Oxfordshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://www.thefreelibrary.com/FORMI-DOUBLE!%3b+King+Cantona+does+it+again.-a061162028 Report]",
+  "manager1": "Roy Evans",
+  "cards1": [
+   {
+    "player": "Phil Babb",
+    "type": "Y",
+    "minute": "60"
+   },
+   {
+    "player": "Jamie Redknapp",
+    "type": "Y",
+    "minute": "40"
+   }
+  ],
+  "manager2": "Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Phil Neville",
+    "type": "Y",
+    "minute": "69"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "1997 FA Cup final",
+  "fb_date": "17 May 1997",
+  "team1": "Chelsea",
+  "team2": "Middlesbrough",
+  "score_raw": "2–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Di Matteo",
+    "minute": "1",
+    "note": ""
+   },
+   {
+    "player": "Newton",
+    "minute": "83",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "79,160",
+  "referee": "Stephen Lodge (South Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://web.archive.org/web/20110717033658/http://www.fa-cupfinals.co.uk/1997.htm Report]",
+  "manager1": "Ruud Gullit",
+  "cards1": [],
+  "manager2": "Bryan Robson",
+  "cards2": [],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "1998 FA Cup final",
+  "fb_date": "16 May 1998",
+  "team1": "Arsenal",
+  "team2": "Newcastle United",
+  "score_raw": "2–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Overmars",
+    "minute": "23",
+    "note": ""
+   },
+   {
+    "player": "Anelka",
+    "minute": "69",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "79,183",
+  "referee": "Paul Durkin (Dorset)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://news.bbc.co.uk/1/hi/sport/football/94885.stm Report]",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Nigel Winterburn",
+    "type": "Y",
+    "minute": "51"
+   }
+  ],
+  "manager2": "Kenny Dalglish",
+  "cards2": [
+   {
+    "player": "Nikos Dabizas",
+    "type": "Y",
+    "minute": "53"
+   },
+   {
+    "player": "Steve Howey",
+    "type": "Y",
+    "minute": "70"
+   },
+   {
+    "player": "Warren Barton",
+    "type": "Y",
+    "minute": "48"
+   },
+   {
+    "player": "Alan Shearer",
+    "type": "Y",
+    "minute": "45"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "2",
+    "0"
+   ],
+   "Possession": [
+    "48%",
+    "52%"
+   ],
+   "Attempts at goal": [
+    "13",
+    "10"
+   ],
+   "Shots on target": [
+    "3",
+    "1"
+   ],
+   "Corner kicks": [
+    "4",
+    "2"
+   ],
+   "Fouls": [
+    "18",
+    "14"
+   ],
+   "Offsides": [
+    "5",
+    "3"
+   ],
+   "Yellow cards": [
+    "1",
+    "4"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "1999 FA Cup final",
+  "fb_date": "22 May 1999",
+  "team1": "Manchester United",
+  "team2": "Newcastle United",
+  "score_raw": "2–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Sheringham",
+    "minute": "11",
+    "note": ""
+   },
+   {
+    "player": "Scholes",
+    "minute": "53",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "79,101",
+  "referee": "Peter Jones (Leicestershire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://news.bbc.co.uk/2/hi/sport/football/fa_cup/350192.stm Report]",
+  "manager1": "Alex Ferguson",
+  "cards1": [],
+  "manager2": "Ruud Gullit",
+  "cards2": [
+   {
+    "player": "Dietmar Hamann",
+    "type": "Y",
+    "minute": "5"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Red cards": [
+    "0||0",
+    "}"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2000 FA Cup final",
+  "fb_date": "20 May 2000",
+  "team1": "Chelsea",
+  "team2": "Aston Villa",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Di Matteo",
+    "minute": "73",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "78,217",
+  "referee": "Graham Poll (Hertfordshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://news.bbc.co.uk/2/hi/sport/football/fa_cup/756784.stm Report]",
+  "manager1": "Gianluca Vialli",
+  "cards1": [
+   {
+    "player": "Mario Melchiot",
+    "type": "Y",
+    "minute": "18"
+   },
+   {
+    "player": "Dennis Wise",
+    "type": "Y",
+    "minute": "28"
+   },
+   {
+    "player": "Gus Poyet",
+    "type": "Y",
+    "minute": "90"
+   }
+  ],
+  "manager2": "John Gregory",
+  "cards2": [
+   {
+    "player": "Gareth Barry",
+    "type": "Y",
+    "minute": "16"
+   },
+   {
+    "player": "George Boateng",
+    "type": "Y",
+    "minute": "90"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2000 UEFA Cup final",
+  "fb_date": "",
+  "team1": "Galatasaray",
+  "team2": "Arsenal",
+  "score_raw": "0–0",
+  "aet": "yes",
+  "penaltyscore": "4–1",
+  "goals1": [],
+  "goals2": [],
+  "stadium": "Parken Stadium, Copenhagen",
+  "attendance": "38,919",
+  "referee": "Antonio López Nieto (Spain)",
+  "penalties1": "Ergün Şükür Davala Popescu",
+  "penalties2": "Šuker Parlour Vieira",
+  "report": "https://www.uefa.com/uefaeuropaleague/match/64414/",
+  "manager1": "Fatih Terim",
+  "cards1": [
+   {
+    "player": "Capone",
+    "type": "Y",
+    "minute": "71"
+   },
+   {
+    "player": "Gheorghe Popescu",
+    "type": "Y",
+    "minute": "63"
+   },
+   {
+    "player": "Bülent Korkmaz",
+    "type": "Y",
+    "minute": "18"
+   },
+   {
+    "player": "Okan Buruk",
+    "type": "Y",
+    "minute": "12"
+   },
+   {
+    "player": "Gheorghe Hagi",
+    "type": "R",
+    "minute": "94"
+   },
+   {
+    "player": "Arif Erdem",
+    "type": "Y",
+    "minute": "48"
+   },
+   {
+    "player": "Hasan Şaş",
+    "type": "Y",
+    "minute": "119"
+   }
+  ],
+  "manager2": "Arsène Wenger",
+  "cards2": [
+   {
+    "player": "Tony Adams",
+    "type": "Y",
+    "minute": "94"
+   },
+   {
+    "player": "Martin Keown",
+    "type": "Y",
+    "minute": "40"
+   },
+   {
+    "player": "Patrick Vieira",
+    "type": "Y",
+    "minute": "23"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Fernando Tresaco Gracia (Spain); Victoriano Giráldez Carrasco (Spain)",
+   "Fourth official": "Arturo Daudén Ibáñez (Spain) |style"
+  },
+  "stats": {
+   "Red cards": [
+    "1||0",
+    "}"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2001 FA Cup final",
+  "fb_date": "12 May 2001",
+  "team1": "Arsenal",
+  "team2": "Liverpool",
+  "score_raw": "1–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Ljungberg",
+    "minute": "72",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Owen",
+    "minute": "83",
+    "note": ""
+   },
+   {
+    "player": "Owen",
+    "minute": "88",
+    "note": ""
+   }
+  ],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "72,500",
+  "referee": "Steve Dunn (Gloucestershire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://web.archive.org/web/20120428153056/https://www.thefa.com/competitions/facompetitions/thefacup/history/cupfinalresults/2001arsenalliverpool Report]",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Freddie Ljungberg",
+    "type": "Y",
+    "minute": "62"
+   }
+  ],
+  "manager2": "Gérard Houllier",
+  "cards2": [
+   {
+    "player": "Dietmar Hamann",
+    "type": "Y",
+    "minute": "57"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "1",
+    "2"
+   ],
+   "Possession": [
+    "47%",
+    "53%"
+   ],
+   "Shots on target": [
+    "7",
+    "4"
+   ],
+   "Shots off target": [
+    "4",
+    "2"
+   ],
+   "Corner kicks": [
+    "4",
+    "5"
+   ],
+   "Offsides": [
+    "6",
+    "2"
+   ],
+   "Fouls": [
+    "18",
+    "17"
+   ],
+   "Yellow cards": [
+    "1",
+    "1"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2001 UEFA Cup final",
+  "fb_date": "",
+  "team1": "Liverpool",
+  "team2": "Alavés",
+  "score_raw": "5–4",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Babbel",
+    "minute": "3",
+    "note": ""
+   },
+   {
+    "player": "Gerrard",
+    "minute": "16",
+    "note": ""
+   },
+   {
+    "player": "McAllister",
+    "minute": "40",
+    "note": "pen."
+   },
+   {
+    "player": "Fowler",
+    "minute": "72",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Alonso",
+    "minute": "26",
+    "note": ""
+   },
+   {
+    "player": "Moreno",
+    "minute": "47",
+    "note": ""
+   },
+   {
+    "player": "Moreno",
+    "minute": "49",
+    "note": ""
+   },
+   {
+    "player": "Cruyff",
+    "minute": "88",
+    "note": ""
+   }
+  ],
+  "stadium": "Westfalenstadion, Dortmund",
+  "attendance": "48,050",
+  "referee": "Gilles Veissière (France)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefaeuropaleague/match/67741/",
+  "manager1": "Gérard Houllier",
+  "cards1": [
+   {
+    "player": "Markus Babbel",
+    "type": "Y",
+    "minute": "106"
+   },
+   {
+    "player": "Gary McAllister",
+    "type": "Y",
+    "minute": "11"
+   }
+  ],
+  "manager2": "Mané",
+  "cards2": [
+   {
+    "player": "Martín Herrera",
+    "type": "Y",
+    "minute": "40"
+   },
+   {
+    "player": "Antonio Karmona",
+    "type": "2Y",
+    "minute": "58,116"
+   },
+   {
+    "player": "Óscar Téllez",
+    "type": "Y",
+    "minute": "95"
+   },
+   {
+    "player": "Cosmin Contra",
+    "type": "Y",
+    "minute": "49"
+   },
+   {
+    "player": "Martín Astudillo",
+    "type": "Y",
+    "minute": "11"
+   },
+   {
+    "player": "Magno",
+    "type": "2Y",
+    "minute": "82,98"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2002 FA Cup final",
+  "fb_date": "4 May 2002",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_raw": "2–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Parlour",
+    "minute": "70",
+    "note": ""
+   },
+   {
+    "player": "Ljungberg",
+    "minute": "80",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "73,963",
+  "referee": "Mike Riley (West Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://web.archive.org/web/20120428153039/https://www.thefa.com/competitions/facompetitions/thefacup/history/cupfinalresults/2002chelseaarsenal Report]",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Patrick Vieira",
+    "type": "Y",
+    "minute": "26"
+   },
+   {
+    "player": "Thierry Henry",
+    "type": "Y",
+    "minute": "75"
+   }
+  ],
+  "manager2": "Claudio Ranieri",
+  "cards2": [
+   {
+    "player": "Graeme Le Saux",
+    "type": "Y",
+    "minute": "2"
+   },
+   {
+    "player": "Eiður Guðjohnsen",
+    "type": "Y",
+    "minute": "90+1"
+   },
+   {
+    "player": "John Terry",
+    "type": "Y",
+    "minute": "75"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "2",
+    "0"
+   ],
+   "Possession": [
+    "56%",
+    "44%"
+   ],
+   "Shots on target": [
+    "4",
+    "5"
+   ],
+   "Shots off target": [
+    "6",
+    "3"
+   ],
+   "Blocked shots": [
+    "2",
+    "1"
+   ],
+   "Corner kicks": [
+    "5",
+    "4"
+   ],
+   "Fouls": [
+    "15",
+    "14"
+   ],
+   "Offsides": [
+    "5",
+    "2"
+   ],
+   "Yellow cards": [
+    "2",
+    "3"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2003 FA Cup final",
+  "fb_date": "17 May 2003",
+  "team1": "Arsenal",
+  "team2": "Southampton",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Pires",
+    "minute": "38",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "73,726",
+  "referee": "Graham Barber (Hertfordshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://news.bbc.co.uk/sport2/hi/football/fa_cup/3025589.stm Report]",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Martin Keown",
+    "type": "Y",
+    "minute": "30"
+   },
+   {
+    "player": "Thierry Henry",
+    "type": "Y",
+    "minute": "66"
+   }
+  ],
+  "manager2": "Gordon Strachan",
+  "cards2": [
+   {
+    "player": "Michael Svensson",
+    "type": "Y",
+    "minute": "90"
+   },
+   {
+    "player": "Paul Telfer",
+    "type": "Y",
+    "minute": "60"
+   },
+   {
+    "player": "Chris Marsden",
+    "type": "Y",
+    "minute": "77"
+   },
+   {
+    "player": "James Beattie",
+    "type": "Y",
+    "minute": "31"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "1",
+    "0"
+   ],
+   "Possession": [
+    "59%",
+    "41%"
+   ],
+   "Shots on target": [
+    "7",
+    "4"
+   ],
+   "Shots off target": [
+    "5",
+    "10"
+   ],
+   "Corner kicks": [
+    "4",
+    "8"
+   ],
+   "Fouls": [
+    "10",
+    "18"
+   ],
+   "Offsides": [
+    "3",
+    "3"
+   ],
+   "Yellow cards": [
+    "2",
+    "4"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2004 FA Cup final",
+  "fb_date": "22 May 2004",
+  "team1": "Manchester United",
+  "team2": "Millwall",
+  "score_raw": "3–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Ronaldo",
+    "minute": "44",
+    "note": ""
+   },
+   {
+    "player": "Van Nistelrooy",
+    "minute": "65",
+    "note": "pen."
+   },
+   {
+    "player": "Van Nistelrooy",
+    "minute": "81",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "71,350",
+  "referee": "Jeff Winter (North Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://web.archive.org/web/20120530135502/http://www.thefa.com/Competitions/FACompetitions/TheFACup/History/CupFinalResults/2004ManUnitedMillwall Report]",
+  "lineup_error": "found 1 tables",
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2005 FA Cup final",
+  "fb_date": "21 May 2005",
+  "team1": "Arsenal",
+  "team2": "Manchester United",
+  "score_raw": "0–0",
+  "aet": "yes",
+  "penaltyscore": "5–4",
+  "goals1": [],
+  "goals2": [],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "71,876",
+  "referee": "Rob Styles (Hampshire)",
+  "penalties1": "Lauren Ljungberg Van Persie Cole Vieira",
+  "penalties2": "Van Nistelrooy Scholes Ronaldo Rooney Keane",
+  "report": "[https://news.bbc.co.uk/sport1/hi/football/fa_cup/4558271.stm Report]",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Lauren",
+    "type": "Y",
+    "minute": "59"
+   },
+   {
+    "player": "Ashley Cole",
+    "type": "Y",
+    "minute": "16"
+   },
+   {
+    "player": "Patrick Vieira",
+    "type": "Y",
+    "minute": "118"
+   },
+   {
+    "player": "José Antonio Reyes",
+    "type": "2Y",
+    "minute": "75,120"
+   }
+  ],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Mikaël Silvestre",
+    "type": "Y",
+    "minute": "21"
+   },
+   {
+    "player": "Paul Scholes",
+    "type": "Y",
+    "minute": "112"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "0",
+    "0"
+   ],
+   "Possession": [
+    "56%",
+    "44%"
+   ],
+   "Shots on target": [
+    "1",
+    "8"
+   ],
+   "Shots off target": [
+    "4",
+    "12"
+   ],
+   "Corner kicks": [
+    "1",
+    "12"
+   ],
+   "Offsides": [
+    "3",
+    "6"
+   ],
+   "Fouls": [
+    "30",
+    "23"
+   ],
+   "Yellow cards": [
+    "3",
+    "1"
+   ],
+   "Red cards": [
+    "1",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2006 FA Cup final",
+  "fb_date": "13 May 2006",
+  "team1": "Liverpool",
+  "team2": "West Ham United",
+  "score_raw": "3–3",
+  "aet": "yes",
+  "penaltyscore": "3–1",
+  "goals1": [
+   {
+    "player": "Cissé",
+    "minute": "32",
+    "note": ""
+   },
+   {
+    "player": "Gerrard",
+    "minute": "54",
+    "note": ""
+   },
+   {
+    "player": "Gerrard",
+    "minute": "90+1",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Carragher",
+    "minute": "21",
+    "note": "o.g."
+   },
+   {
+    "player": "Ashton",
+    "minute": "28",
+    "note": ""
+   },
+   {
+    "player": "Konchesky",
+    "minute": "64",
+    "note": ""
+   }
+  ],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "71,140",
+  "referee": "Alan Wiley (Staffordshire)",
+  "penalties1": "Hamann Hyypiä Gerrard Riise",
+  "penalties2": "Zamora Sheringham Konchesky Ferdinand",
+  "report": "[https://news.bbc.co.uk/sport2/hi/football/fa_cup/4756045.stm Report]",
+  "manager1": "Rafael Benítez",
+  "cards1": [
+   {
+    "player": "Jamie Carragher",
+    "type": "Y",
+    "minute": "62"
+   },
+   {
+    "player": "Dietmar Hamann",
+    "type": "Y",
+    "minute": "118"
+   }
+  ],
+  "manager2": "Alan Pardew",
+  "cards2": [
+   {
+    "player": "Dean Ashton",
+    "type": "Y",
+    "minute": "59"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Red cards": [
+    "0||0",
+    "}"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2007 FA Cup final",
+  "fb_date": "19 May 2007",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_raw": "1–0",
+  "aet": "yes",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Drogba",
+    "minute": "116",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "89,826",
+  "referee": "Steve Bennett (Kent)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://web.archive.org/web/20080216062557/https://www.thefa.com/TheFACup/TheFACup/NewsAndFeatures/Postings/2007/03/CupFinal_Report.htm (Report)]",
+  "manager1": "José Mourinho",
+  "cards1": [
+   {
+    "player": "Paulo Ferreira",
+    "type": "Y",
+    "minute": "120"
+   },
+   {
+    "player": "Claude Makélélé",
+    "type": "Y",
+    "minute": "83"
+   },
+   {
+    "player": "Ashley Cole",
+    "type": "Y",
+    "minute": "120"
+   },
+   {
+    "player": "Salomon Kalou",
+    "type": "Y",
+    "minute": "119"
+   }
+  ],
+  "manager2": "Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Nemanja Vidić",
+    "type": "Y",
+    "minute": "84"
+   },
+   {
+    "player": "Paul Scholes",
+    "type": "Y",
+    "minute": "58"
+   },
+   {
+    "player": "Alan Smith",
+    "type": "Y",
+    "minute": "105"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2009 FA Cup final",
+  "fb_date": "30 May 2009",
+  "team1": "Chelsea",
+  "team2": "Everton",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Drogba",
+    "minute": "21",
+    "note": ""
+   },
+   {
+    "player": "Lampard",
+    "minute": "72",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Saha",
+    "minute": "1",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "89,391",
+  "referee": "Howard Webb (South Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://www.telegraph.co.uk/sport/football/teams/chelsea/5412736/Chelsea-2-Everton-1-Match-report.html Report]",
+  "manager1": "Guus Hiddink",
+  "cards1": [
+   {
+    "player": "Mikel John Obi",
+    "type": "Y",
+    "minute": "63"
+   },
+   {
+    "player": "Frank Lampard",
+    "type": "Y",
+    "minute": "84"
+   }
+  ],
+  "manager2": "David Moyes",
+  "cards2": [
+   {
+    "player": "Tony Hibbert",
+    "type": "Y",
+    "minute": "8"
+   },
+   {
+    "player": "Leighton Baines",
+    "type": "Y",
+    "minute": "90+4"
+   },
+   {
+    "player": "Phil Neville",
+    "type": "Y",
+    "minute": "47"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2010 FA Cup final",
+  "fb_date": "15 May 2010",
+  "team1": "Chelsea",
+  "team2": "Portsmouth",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Drogba",
+    "minute": "59",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "88,335",
+  "referee": "Chris Foy (Merseyside)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://news.bbc.co.uk/sport2/hi/football/fa_cup/8680493.stm Report]",
+  "manager1": "Carlo Ancelotti",
+  "cards1": [],
+  "manager2": "Avram Grant",
+  "cards2": [
+   {
+    "player": "Ricardo Rocha",
+    "type": "Y",
+    "minute": "90+1"
+   },
+   {
+    "player": "Kevin-Prince Boateng",
+    "type": "Y",
+    "minute": "36"
+   },
+   {
+    "player": "Jamie O'Hara",
+    "type": "Y",
+    "minute": "90+1"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ }
+]

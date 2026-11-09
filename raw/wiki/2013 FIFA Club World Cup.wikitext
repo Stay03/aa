@@ -1,0 +1,546 @@
+{{Use dmy dates|date=October 2020}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2013
+| other_titles   = FIFA Club World Cup Morocco 2013<br />presented by Toyota<br />كأس العالم للأندية لكرة القدم<br />المغرب 2013
+| image          = 2013 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA trophy}}
+| country        = Morocco
+| dates          = 11–21 December
+| num_teams      = 7
+| confederations = 6
+| venues         = 2
+| cities         = 3
+| champion_other = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| count          = 1
+| second_other   = {{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+| third_other    = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| fourth_other   = {{nowrap|{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]}}
+| matches        = 8
+| goals          = 28
+| attendance     = {{#expr: 34875 + 34579 + 34579 + 27311 + 35219 + 35219 + 37774 + 37774}}
+| top_scorer     = {{nowrap|[[Darío Conca]] (Guangzhou Evergrande)<br/>[[César Delgado]] (Monterrey)<br/>[[Mouhcine Iajour]] (Raja Casablanca)<br/>[[Ronaldinho]] (Atlético Mineiro)<br/>2 goals each}}
+| player         = [[Franck Ribéry]] (Bayern Munich)
+| fair_play      = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| prevseason     = [[2012 FIFA Club World Cup|2012]]
+| nextseason     = [[2014 FIFA Club World Cup|2014]]
+}}
+
+The '''2013 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup Morocco 2013 presented by Toyota''' for sponsorship reasons)<ref name="schedule">{{cite web|url=https://www.fifa.com/mm/document/tournament/competition/02/09/75/34/fcwc2013_matchschedule_17122013_neutral.pdf |title=Match Schedule – FIFA Club World Cup Morocco 2013 |publisher=FIFA.com |url-status=dead |archive-url=https://web.archive.org/web/20131219035954/http://www.fifa.com/mm/document/tournament/competition/02/09/75/34/fcwc2013_matchschedule_17122013_neutral.pdf |archive-date=19 December 2013 }}</ref> was the 10th edition of the [[FIFA Club World Cup]], a [[FIFA]]-organised world club [[association football|football]] tournament between the winners of the six continental confederations as well as the host nation's league champions.<ref name="regulations">{{cite web|url=https://www.fifa.com/mm/document/tournament/competition/02/16/81/19/fcwc2013_regulations_en_neutral.pdf|archive-url=https://web.archive.org/web/20131008070859/http://www.fifa.com/mm/document/tournament/competition/02/16/81/19/fcwc2013_regulations_en_neutral.pdf|url-status=dead|archive-date=8 October 2013|title=Regulations – FIFA Club World Cup Morocco 2013|publisher=FIFA}}</ref> It was hosted by [[Morocco]],<ref>{{cite news | url = https://www.google.com/hostednews/afp/article/ALeqM5j8XZ6B1erRErqNmo04nPMLK4CMvQ?docId=CNG.cc0deb74231895b25c32fdd9a671f34f.4a1 | archive-url = https://web.archive.org/web/20140218222622/http://www.google.com/hostednews/afp/article/ALeqM5j8XZ6B1erRErqNmo04nPMLK4CMvQ?docId=CNG.cc0deb74231895b25c32fdd9a671f34f.4a1 | url-status = dead | archive-date = 18 February 2014 | title = Morocco to host 2013-2014 Club World Cup | publisher = Google News | agency = Agence France-Presse| date = 17 December 2011 }}</ref> and played from 11 to 21 December 2013.<ref name="schedule"/><ref name=clubwc13>{{cite web |url=https://www.rsssf.org/tablesf/fifa-wcc2013.html|title=FIFA Club World Cup 2013|author=Marcelo Leme de Arruda |publisher=[[Rec.Sport.Soccer Statistics Foundation]]|date=8 September 2016 |access-date=16 December 2018}}</ref>
+
+Defending champions [[Sport Club Corinthians Paulista|Corinthians]] did not qualify as they were eliminated in the round of 16 of the [[2013 Copa Libertadores]]. The eventual winners of that competition, [[Clube Atlético Mineiro|Atlético Mineiro]], were beaten in the semi-finals of the Club World Cup by Moroccan side [[Raja CA|Raja Casablanca]], whose appearance in the [[2013 FIFA Club World Cup Final|final]] made them the first club to appear in all four rounds of the competition, having entered in the play-off for the quarter-finals; however, they were unable to make history by winning the title, as European champions [[FC Bayern Munich|Bayern Munich]] won the final 2–0 for their first Club World Cup title.
+
+==Host bids==
+There were four countries bidding to host the 2013 and [[2014 FIFA Club World Cup|2014]] tournaments (same host for both tournaments):<ref>{{cite news | url = https://www.usatoday.com/sports/soccer/2011-05-17-iran-morocco-south-africa-uae-fifa-club-world-cup-bids_N.htm | title = Iran among four bidders to host 2013-14 FIFA Club World Cups | publisher = USA Today | agency = Associated Press| date = 17 May 2011}}</ref>
+
+*{{fba|Iran}}
+*{{fba|Morocco}}
+*{{fba|South Africa}}
+*{{fba|United Arab Emirates}} (which hosted the [[2009 FIFA Club World Cup|2009]] and [[2010 FIFA Club World Cup|2010]] editions in [[Abu Dhabi]])
+
+In October 2011, [[FIFA]] said that Iran, South Africa and the United Arab Emirates all withdrew their bids, leaving Morocco as the only bidder.<ref>{{cite news | url = http://msn.foxsports.com/foxsoccer/soccer/story/Morocco-set-to-host-Club-World-Cup-in-2013-14-99039620 | title = Morocco set to host Club World Cup in 2013, '14 | publisher = FoxSports.com | agency = Associated Press| date = 17 October 2011 }}</ref> The [[FIFA Executive Committee]] officially confirmed Morocco as host on 17 December 2011 during their meeting in [[Tokyo]], Japan.<ref>{{cite web|title=Reform road map speeds up|url=https://www.fifa.com/aboutfifa/organisation/bodies/news/newsid=1558624/index.html|archive-url=https://web.archive.org/web/20120104113830/http://www.fifa.com/aboutfifa/organisation/bodies/news/newsid=1558624/index.html|url-status=dead|archive-date=4 January 2012|publisher=FIFA|date=17 December 2011}}</ref>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of teams of the 2013 FIFA Club World Cup|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-19.908|long=-43.917|label_size=80|label=[[Clube Atlético Mineiro|Atlético Mineiro]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=48.218775|long=11.624753|label_size=80|label=[[FC Bayern Munich|Bayern Munich]]|position=right}}
+<!--AFC-->
+{{Location map~|World|lat=23.140439|long=113.319297|label_size=80|label=[[Guangzhou F.C.|Guangzhou Evergrande]]|position=right}}
+<!--CAF-->
+{{Location map~|World|lat=30.069103|long=31.312288|label_size=80|label=[[Al Ahly SC|Al Ahly]]|position=right}}
+<!--CONCACAF-->
+{{Location map~|World|lat=25.666667|long=-100.3|label_size=80|label=[[C.F. Monterrey|Monterrey]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-36.898155|long=174.736487|label_size=80|label=[[Auckland City FC|Auckland City]]|position=left}}
+<!--Host-->
+{{Location map~|World|lat=33.533333|long=-7.583333|label_size=80|label=[[Raja CA|Raja Casablanca]]|position=left}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Participation
+|-
+!colspan=4|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|[[CONMEBOL]]
+|Winners of the [[2013 Copa Libertadores]]
+|Debut
+|-
+|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|[[UEFA]]
+|Winners of the [[2012–13 UEFA Champions League]]
+|Debut
+|-
+!colspan=4|Entering in the [[#Quarter-finals|quarter-finals]]
+|-
+|{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2013 AFC Champions League]]
+|Debut
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2013 CAF Champions League]]
+|5th {{small|(Previous: [[2005 FIFA Club World Cup|2005]], [[2006 FIFA Club World Cup|2006]], [[2008 FIFA Club World Cup|2008]], [[2012 FIFA Club World Cup|2012]])}}
+|-
+|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|[[CONCACAF]]
+|Winners of the [[2012–13 CONCACAF Champions League]]
+|3rd {{small|(Previous: [[2011 FIFA Club World Cup|2011]], [[2012 FIFA Club World Cup|2012]])}}
+|-
+!colspan=4|Entering in the [[#Play-off for quarter-finals|play-off for quarter-finals]]
+|-
+|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2012–13 OFC Champions League]]
+|5th {{small|(Previous: [[2006 FIFA Club World Cup|2006]], [[2009 FIFA Club World Cup|2009]], [[2011 FIFA Club World Cup|2011]], [[2012 FIFA Club World Cup|2012]])}}
+|-
+|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|[[Confederation of African Football|CAF]] ([[Royal Moroccan Football Federation|host]])
+|Winners of the [[2012–13 Botola]]
+|2nd {{small|(Previous: [[2000 FIFA Club World Championship|2000]])}}
+|}
+
+==Venues==
+The venues for the 2013 FIFA Club World Cup were in [[Marrakesh]] and [[Agadir]].<ref>{{cite web|url=https://www.fifa.com/aboutfifa/organisation/news/newsid=1711131/index.html|archive-url=https://web.archive.org/web/20121001021803/http://www.fifa.com/aboutfifa/organisation/news/newsid=1711131/index.html|url-status=dead|archive-date=1 October 2012|title=FIFA calls for solidarity to eradicate match-fixing|publisher=FIFA.com|date=28 September 2012}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="5" |{{Location map+|Morocco|width=250|float=center|caption=|places=
+{{Location map~|lat_deg=31|lat_min=42|lat_sec=24|lat_dir=N|lon_deg=7|lon_min=58|lon_sec=50|lon_dir=W|Morocco|label=[[Marrakesh]]|position=right}}
+{{Location map~|lat_deg=30|lat_min=25|lat_sec=38|lat_dir=N|lon_deg=9|lon_min=32|lon_sec=26|lon_dir=W|Morocco|label=[[Agadir]]|position=left}}}}
+![[Marrakesh]]
+![[Agadir]]
+|-
+|[[Stade de Marrakech]]
+|[[Stade Adrar]]
+|-
+|{{small|{{Coord|31|42|24|N|7|58|50|W|type:landmark_source:dewiki|display=inline|name=Stade de Marrakech}}}}
+|{{small|{{Coord|30|25|38|N|9|32|26|W|type:landmark|display=inline|name=Stade Adrar}}}}
+|-
+|Capacity: '''41,356'''
+|Capacity: '''45,480'''
+|-
+|[[Image:Stade de marrakech.jpg|200px]]
+|[[File:Stade-Adrar2019.png|200px]]
+|}
+
+==Organisation==
+
+===Emblem===
+The official emblem of the tournament was unveiled in [[Casablanca]] on 2 September 2013.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/organisation/media/newsid=2166433/index.html|archive-url=https://web.archive.org/web/20130904230017/http://www.fifa.com/clubworldcup/organisation/media/newsid=2166433/index.html|url-status=dead|archive-date=4 September 2013|title=Official emblem unveiled|publisher=FIFA.com|date=2 September 2013}}</ref>
+
+===Ticketing===
+Pre-sale tickets were available from 14 to 27 October 2013, while the open sales phase began on 28 October 2013.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=2190904/index.html|archive-url=https://web.archive.org/web/20131005101324/http://www.fifa.com/clubworldcup/news/newsid=2190904/index.html|url-status=dead|archive-date=5 October 2013|title=Ticketing details announced for Morocco 2013|publisher=FIFA.com|date=5 October 2013}}</ref>
+
+===Trophy tour===
+A tour of the [[FIFA Club World Cup#Trophy|FIFA Club World Cup Trophy]] took place from October to December 2013, starting from [[Yokohama]], the site of the [[2012 FIFA Club World Cup Final]], before visiting the cities of each participating team, and ending at [[Casablanca]] before the start of the tournament.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/organisation/media/newsid=2198810/index.html|archive-url=https://web.archive.org/web/20131021035229/http://www.fifa.com/clubworldcup/organisation/media/newsid=2198810/index.html|url-status=dead|archive-date=21 October 2013|title=FIFA Club World Cup Welcome Tour kicks off in Yokohama|publisher=FIFA.com|date=18 October 2013}}</ref>
+
+==Refereeing==
+
+===Match officials===
+The appointed match officials were:<ref>{{cite web|url=https://www.fifa.com/mm/document/tournament/competition/02/22/25/89/appointmentmatchofficials_cwcmorocco2013_neutral.pdf|archive-url=https://web.archive.org/web/20131206082350/http://www.fifa.com/mm/document/tournament/competition/02/22/25/89/appointmentmatchofficials%5fcwcmorocco2013%5fneutral.pdf|url-status=dead|archive-date=6 December 2013|title=FIFA Club World Cup Morocco 2013 presented by TOYOTA Appointments of Match Officials|publisher=FIFA.com}}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+|-
+|rowspan=2|[[Asian Football Confederation|AFC]]
+|{{fbaicon|UAE}} [[Ali Al-Badwawi]] ''(injured)''
+|{{fbaicon|UAE}} Saleh Al Marzouqi ''(withdrew)''<br />{{fbaicon|UAE}} Mohamed Al Mehairi ''(withdrew)''
+|-
+|{{fbaicon|IRN}} [[Alireza Faghani]]
+|{{fbaicon|IRN}} Hassan Kamranifar<br />{{fbaicon|IRN}} Reza Sokhandan
+|-
+|rowspan=2|[[Confederation of African Football|CAF]]
+|{{fbaicon|GAM}} [[Bakary Gassama]]
+|{{fbaicon|ERI}} Angesom Ogbamariam<br />{{fbaicon|RWA}} Felicien Kabanda ''(injured)''
+|-
+|{{fbaicon|CMR}} [[Néant Alioum]] ''(reserve)''
+|{{fbaicon|CMR}} Evarist Menkouande ''(reserve)''<br />{{fbaicon|NGA}} Peter Edibi ''(reserve)''
+|-
+|[[CONCACAF]]
+|{{fbaicon|USA}} [[Mark Geiger]]
+|{{fbaicon|USA}} Sean Hurd<br />{{fbaicon|CAN}} Joe Fletcher
+|-
+|[[CONMEBOL]]
+|{{fbaicon|BRA}} [[Sandro Ricci]]
+|{{fbaicon|BRA}} Emerson De Carvalho<br />{{fbaicon|BRA}} Marcelo Van Gasse
+|-
+|[[UEFA]]
+|{{fbaicon|ESP}} [[Carlos Velasco Carballo]]
+|{{fbaicon|ESP}} Roberto Alonso Fernández<br />{{fbaicon|ESP}} Juan Carlos Yuste Jiménez
+|}
+
+===Goal-line technology===
+For the second year in a row, [[goal-line technology]] was used for the tournament.<ref name="draw">{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=2193035/index.html|archive-url=https://web.archive.org/web/20131009190722/http://www.fifa.com/clubworldcup/news/newsid=2193035/index.html|url-status=dead|archive-date=9 October 2013|title=Morocco awaits continental champions, confirms goal-line technology|publisher=FIFA.com|date=9 October 2013}}</ref> GoalControl GmbH was chosen as the official goal-line technology provider.<ref>{{cite web|url=https://www.fifa.com/aboutfifa/organisation/marketing/qualityprogramme/news/newsid=2193485/index.html|archive-url=https://web.archive.org/web/20131010172618/http://www.fifa.com/aboutfifa/organisation/marketing/qualityprogramme/news/newsid=2193485/index.html|url-status=dead|archive-date=10 October 2013|title=GoalControl confirmed as goal-line technology provider for Brazil 2014|publisher=FIFA.com|date=10 October 2013}}</ref>
+
+===Vanishing spray===
+Following successful trials at the [[2013 FIFA U-20 World Cup]] and [[2013 FIFA U-17 World Cup]], FIFA approved the [[vanishing spray]] to be used by the tournament referees to mark the ten-yard line for the defending team during a free kick.<ref>{{cite web|url=https://www.fifa.com/aboutfifa/footballdevelopment/technicalsupport/refereeing/news/newsid=2226962/index.html|archive-url=https://web.archive.org/web/20131122063300/http://www.fifa.com/aboutfifa/footballdevelopment/technicalsupport/refereeing/news/newsid=2226962/index.html|url-status=dead|archive-date=22 November 2013|title=Largely positive experience with the use of vanishing spray in FIFA competitions|publisher=FIFA.com|date=20 November 2013}}</ref>
+
+==Squads==
+{{main|2013 FIFA Club World Cup squads}}
+
+Each team named a 23-man squad (three of whom must be goalkeepers) by the FIFA deadline of 29 November 2013. Injury replacements were allowed until 24 hours before the team's first match.<ref name="regulations"/>
+
+A total of 31 nationalities were represented in the squads of the seven teams.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=2239340/index.html|archive-url=https://web.archive.org/web/20131205115308/http://www.fifa.com//clubworldcup/news/newsid=2239340/index.html|url-status=dead|archive-date=5 December 2013|title=Cosmopolitan cast list promises much|publisher=FIFA.com|date=5 December 2013}}</ref>
+
+==Matches==
+[[File:QF Play off, 2013 FIFA CWC.jpg|thumb|Quarter final playoff in Agadir]]
+The draw was held on 9 October 2013 at 19:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]]), at the La Mamounia Hotel in [[Marrakesh]], to decide the "positions" in the bracket for the three teams which entered the quarter-finals (champions of AFC, CAF, and CONCACAF).<ref name="draw"/><ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=2192800/index.html|archive-url=https://web.archive.org/web/20131011235521/http://www.fifa.com/clubworldcup/news/newsid=2192800/index.html|url-status=dead|archive-date=11 October 2013|title=Relive the Morocco 2013 draw|publisher=FIFA.com|date=9 October 2013}}</ref><ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=2192706/index.html|archive-url=https://web.archive.org/web/20131012030109/http://www.fifa.com/clubworldcup/news/newsid=2192706/index.html|url-status=dead|archive-date=12 October 2013|title=Draw paves the way in Marrakech|publisher=FIFA.com|date=9 October 2013}}</ref>
+
+If a match was tied after normal playing time:<ref name="regulations"/>
+*For elimination matches, [[Overtime (sports)#Association football|extra time]] was played. If still tied after extra time, a [[Penalty shoot-out (association football)|penalty shoot-out]] was held to determine the winner.
+*For the matches for fifth place and third place, no extra time was played, and a penalty shoot-out was held to determine the winner.
+<onlyinclude>{{7TeamBracket-StepladderToSF
+| style       = 2
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#Play-off for quarter-finals|Play-off for quarter-finals]]
+| RD2         = [[#Quarter-finals|Quarter-finals]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD3b        = [[#Match for fifth place|Match for fifth place]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- Play-off for quarter-finals -->
+| RD1-text1    = 11 December – [[Stade Adrar|Agadir]]
+| RD1-team1    = {{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+| RD1-score1   = 2
+| RD1-team2    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD1-score2   = 1
+
+<!-- Quarter-finals -->
+| RD2-text1    = 14 December – [[Stade Adrar|Agadir]]
+| RD2-team1    = {{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+| RD2-score1   = 2
+| RD2-team2    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD2-score2   = 0
+
+| RD2-text2    = 14 December – [[Stade Adrar|Agadir]]
+| RD2-team3    = {{fbaicon|MAR}} [[Raja CA|Raja Casablanca]] {{aet}}
+| RD2-score3   = 2
+| RD2-team4    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| RD2-score4   = 1
+
+<!-- Semi-finals -->
+| RD3-text1    = 17 December – [[Stade Adrar|Agadir]]
+| RD3-team1    = {{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+| RD3-score1   = 0
+| RD3-team2    = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| RD3-score2   = 3
+
+| RD3-text2    = 18 December – [[Stade de Marrakech|Marrakesh]]
+| RD3-team3    = {{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+| RD3-score3   = 3
+| RD3-team4    = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| RD3-score4   = 1
+
+<!-- Final -->
+| RD4-text1    = 21 December – [[Stade de Marrakech|Marrakesh]]
+| RD4-team1    = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| RD4-score1   = 2
+| RD4-team2    = {{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+| RD4-score2   = 0
+
+<!-- Match for fifth place -->
+| RD3-text3    = 18 December – [[Stade de Marrakech|Marrakesh]]
+| RD3-team5    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD3-score5   = 1
+| RD3-team6    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| RD3-score6   = 5
+
+<!-- Match for third place -->
+| RD4-text2    = 21 December – [[Stade de Marrakech|Marrakesh]]
+| RD4-team3    = {{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+| RD4-score3   = 2
+| RD4-team4    = {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| RD4-score4   = 3
+}}</onlyinclude>
+
+All times are local, [[Western European Time|WET]] ([[UTC±00:00|UTC±0]]).
+
+===Play-off for quarter-finals===
+{{Football box
+|date=11 December 2013
+|time=19:30
+|team1=[[Raja CA|Raja Casablanca]] {{fbaicon|MAR}}
+|score=2–1
+|report=https://www.fifa.com/clubworldcup/matches/round=259711/match=300260482/report.html
+|team2={{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|goals1=[[Mouhcine Iajour|Iajour]] {{goal|39}}<br />[[Abdelilah Hafidi|Hafidi]] {{goal|90+2}}
+|goals2=[[Roy Krishna|Krishna]] {{goal|63}}
+|stadium=[[Stade Adrar]], [[Agadir]]
+|attendance=34,875
+|referee=[[Bakary Gassama]] ([[Gambia Football Association|Gambia]])
+}}
+
+===Quarter-finals===
+{{Football box
+|date=14 December 2013
+|time=16:00
+|team1=[[Guangzhou F.C.|Guangzhou Evergrande]] {{fbaicon|CHN}}
+|score=2–0
+|report=https://www.fifa.com/clubworldcup/matches/round=259709/match=300260479/report.html
+|team2={{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|goals1=[[Elkeson]] {{goal|49}}<br />[[Darío Conca|Conca]] {{goal|67}}
+|goals2=
+|stadium=[[Stade Adrar]], [[Agadir]]
+|attendance=34,579
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}
+----
+{{Football box
+|date=14 December 2013
+|time=19:30
+|team1=[[Raja CA|Raja Casablanca]] {{fbaicon|MAR}}
+|score=2–1
+|aet=yes
+|report=https://www.fifa.com/clubworldcup/matches/round=259709/match=300260486/report.html
+|team2={{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|goals1=[[Chemseddine Chtibi|Chtibi]] {{goal|24}}<br />[[Kouko Guehi|Guehi]] {{goal|95}}
+|goals2=[[José María Basanta|Basanta]] {{goal|53}}
+|stadium=[[Stade Adrar]], [[Agadir]]
+|attendance=34,579
+|referee=[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+}}
+
+===Semi-finals===
+{{Football box
+|date=17 December 2013
+|time=19:30
+|team1=[[Guangzhou F.C.|Guangzhou Evergrande]] {{fbaicon|CHN}}
+|score=0–3
+|report=https://www.fifa.com/clubworldcup/matches/round=259715/match=300260484/report.html
+|team2={{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1=
+|goals2=[[Franck Ribéry|Ribéry]] {{goal|40}}<br />[[Mario Mandžukić|Mandžukić]] {{goal|44}}<br />[[Mario Götze|Götze]] {{goal|47}}
+|stadium=[[Stade Adrar]], [[Agadir]]
+|attendance=27,311
+|referee=[[Bakary Gassama]] ([[Gambia Football Association|Gambia]])
+}}
+----
+{{Football box
+|date=18 December 2013
+|time=19:30
+|team1=[[Raja CA|Raja Casablanca]] {{fbaicon|MAR}}
+|score=3–1
+|report=https://www.fifa.com/clubworldcup/matches/round=259715/match=300260480/report.html
+|team2={{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=[[Mouhcine Iajour|Iajour]] {{goal|51}}<br />[[Mouhcine Moutouali|Moutouali]] {{goal|84|pen.}}<br />[[Vianney Mabidé|Mabidé]] {{goal|90+4}}
+|goals2=[[Ronaldinho]] {{goal|63}}
+|stadium=[[Stade de Marrakech]], [[Marrakesh]]
+|attendance=35,219
+|referee=[[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+}}
+
+===Match for fifth place===
+{{Football box
+|date=18 December 2013
+|time=16:30
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=1–5
+|report=https://www.fifa.com/clubworldcup/matches/round=259721/match=300260485/report.html
+|team2={{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|goals1=[[Emad Moteab|Emad Meteab]] {{goal|8}}
+|goals2=[[Neri Cardozo|Cardozo]] {{goal|3}}<br />[[César Delgado|Delgado]] {{goal|22||65}}<br />[[Leobardo López|López]] {{goal|27}}<br />[[Humberto Suazo|Suazo]] {{goal|45|pen.}}
+|stadium=[[Stade de Marrakech]], [[Marrakesh]]
+|attendance=35,219
+|referee=[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+}}
+
+===Match for third place===
+{{Football box
+|date=21 December 2013
+|time=16:30
+|team1=[[Guangzhou F.C.|Guangzhou Evergrande]] {{fbaicon|CHN}}
+|score=2–3
+|report=https://www.fifa.com/clubworldcup/matches/round=259719/match=300260481/report.html
+|team2={{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|goals1=[[Muriqui (footballer)|Muriqui]] {{goal|9}}<br />[[Darío Conca|Conca]] {{goal|15|pen.}}
+|goals2=[[Diego Tardelli]] {{goal|2}}<br />[[Ronaldinho]] {{goal|45+1}}<br />[[Luan Madson Gedeão de Paiva|Luan]] {{goal|90+1}}
+|stadium=[[Stade de Marrakech]], [[Marrakesh]]
+|attendance=37,774
+|referee=[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+}}
+
+===Final===
+{{main|2013 FIFA Club World Cup Final}}
+
+{{:2013 FIFA Club World Cup Final}}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|rowspan=4|1
+|style="text-align:left"|{{flagicon|BRA}} [[Ronaldinho]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|rowspan=4|2
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Darío Conca]]
+|style="text-align:left"|{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[César Delgado]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|MAR}} [[Mouhcine Iajour]]
+|style="text-align:left"|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|-
+|rowspan=20|5
+|style="text-align:left"|{{flagicon|EGY}} [[Emad Moteab]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|rowspan=20|1
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Diego Tardelli]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Luan Madson Gedeão de Paiva|Luan]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|-
+|style="text-align:left"|{{flagicon|FIJ}} [[Roy Krishna]]
+|style="text-align:left"|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Dante (footballer)|Dante]]
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|-
+|style="text-align:left"|{{flagicon|GER}} [[Mario Götze]]
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|-
+|style="text-align:left"|{{flagicon|CRO}} [[Mario Mandžukić]]
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|-
+|style="text-align:left"|{{flagicon|FRA}} [[Franck Ribéry]]
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|-
+|style="text-align:left"|{{flagicon|ESP}} [[Thiago Alcântara|Thiago]]
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Elkeson]]
+|style="text-align:left"|{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Muriqui (footballer)|Muriqui]]
+|style="text-align:left"|{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[José María Basanta]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Neri Cardozo]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Leobardo López]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|CHI}} [[Humberto Suazo]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|MAR}} [[Chemseddine Chtibi]]
+|style="text-align:left"|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|-
+|style="text-align:left"|{{flagicon|CIV}} [[Kouko Guehi]]
+|style="text-align:left"|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|-
+|style="text-align:left"|{{flagicon|MAR}} [[Abdelilah Hafidi]]
+|style="text-align:left"|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|-
+|style="text-align:left"|{{flagicon|CTA}} [[Vianney Mabidé]]
+|style="text-align:left"|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|-
+|style="text-align:left"|{{flagicon|MAR}} [[Mouhcine Moutouali]]
+|style="text-align:left"|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|}
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Toyota]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|FRA}} [[Franck Ribéry]]<br />([[FC Bayern Munich|Bayern Munich]])
+|{{flagicon|GER}} [[Philipp Lahm]]<br />([[FC Bayern Munich|Bayern Munich]])
+|{{flagicon|MAR}} [[Mouhcine Iajour]]<br />([[Raja CA|Raja Casablanca]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|}
+
+FIFA also named a [[man of the match]] for the best player in each game at the tournament.<ref name="2013 TR">{{cite web |url=https://digitalhub.fifa.com/m/30a001a836bb7639/original/t1vaqvekczlwcu05ivyc-pdf.pdf |title=FIFA Club World Cup Morocco 2013: Technical report and statistics |work=[[FIFA]] |access-date=12 February 2021}}</ref>
+
+{| class="wikitable sortable"
+|+ [[Toyota]] Match Award
+|-
+! Match
+! Man of the match
+! Club
+! Opponent
+|-
+!1
+|{{flagicon|MAR}} [[Mouhcine Moutouali]]||{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]||{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|-
+!2
+|{{flagicon|ARG}} [[Darío Conca]]||{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+!3
+|{{flagicon|MAR}} [[Khalid Askri]]||{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]||{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+!4
+|{{flagicon|GER}} [[Philipp Lahm]]||{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]||{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|-
+!5
+|{{flagicon|ARG}} [[César Delgado]]||{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+!6
+|{{flagicon|MAR}} [[Mouhcine Iajour]]||{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]||{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|-
+!7
+|{{flagicon|BRA}} [[Diego Tardelli]]||{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]||{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|-
+!8
+|{{flagicon|FRA}} [[Franck Ribéry]]||{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]||{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.fifa.com/tournaments/mens/clubworldcup/morocco2013 FIFA Club World Cup Morocco 2013], FIFA.com
+*[https://web.archive.org/web/20131225213942/http://www.fifa.com/clubworldcup/index.html?intcmp=fifacom_hp_module_tournaments Official Site] (Archived)
+*[https://web.archive.org/web/20140712134756/http://www.fifa.com/mm/document/footballdevelopment/technicalsupport/02/29/36/32/fcwc2013report%5fneutral.pdf FIFA Technical Report]
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2013 FIFA Club World Cup| ]]
+[[Category:FIFA Club World Cup tournaments|2013]]
+[[Category:Men's football competitions in Morocco]]
+[[Category:Football club competitions in Morocco]]
+[[Category:2013 in men's association football]]
+[[Category:2013–14 in Moroccan football]]
+[[Category:December 2013 sports events in Africa]]
+[[Category:Sports competitions in Marrakesh]]
+[[Category:Sport in Agadir]]
+[[Category:21st century in Marrakesh]]
+[[Category:2013–14 in New Zealand association football]]
+[[Category:2013–14 in Egyptian football]]
+[[Category:2013–14 in German football]]
+[[Category:2013 in Chinese men's football]]
+[[Category:2013–14 in Mexican football]]
+[[Category:2013 in Brazilian football]]

@@ -1,0 +1,776 @@
+[
+ {
+  "article": "1998 Football League Cup final",
+  "fb_date": "29 March 1998",
+  "team1": "Chelsea",
+  "team2": "Middlesbrough",
+  "score_raw": "2–0",
+  "aet": "yes",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Sinclair",
+    "minute": "95",
+    "note": ""
+   },
+   {
+    "player": "Di Matteo",
+    "minute": "107",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "77,698",
+  "referee": "Peter Jones (Leicestershire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://news.bbc.co.uk/2/hi/sport/football/71179.stm Report]",
+  "manager1": "Gianluca Vialli",
+  "cards1": [],
+  "manager2": "Bryan Robson",
+  "cards2": [],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2001 Football League Cup final",
+  "fb_date": "25 February 2001",
+  "team1": "Birmingham City",
+  "team2": "Liverpool",
+  "score_raw": "1–1 (a.e.t.)",
+  "aet": "",
+  "penaltyscore": "4–5",
+  "goals1": [
+   {
+    "player": "Purse",
+    "minute": "90",
+    "note": "pen."
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Fowler",
+    "minute": "30",
+    "note": ""
+   }
+  ],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "73,500",
+  "referee": "David Elleray (London)",
+  "penalties1": "Grainger Purse Marcelo Lazaridis Hughes A. Johnson",
+  "penalties2": "McAllister Barmby Ziege Hamann Fowler Carragher",
+  "report": "[https://news.bbc.co.uk/sport2/hi/football/worthington_cup/1187654.stm Report]",
+  "manager1": "Trevor Francis",
+  "cards1": [],
+  "manager2": "Gérard Houllier",
+  "cards2": [
+   {
+    "player": "Stéphane Henchoz",
+    "type": "Y",
+    "minute": "109"
+   },
+   {
+    "player": "Dietmar Hamann",
+    "type": "Y",
+    "minute": "108"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2003 Football League Cup final",
+  "fb_date": "2 March 2003",
+  "team1": "Liverpool",
+  "team2": "Manchester United",
+  "score_raw": "2–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Gerrard",
+    "minute": "39",
+    "note": ""
+   },
+   {
+    "player": "Owen",
+    "minute": "86",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "74,500",
+  "referee": "Paul Durkin (Dorset)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://news.bbc.co.uk/sport1/hi/football/2811805.stm Report]",
+  "manager1": "Gérard Houllier",
+  "cards1": [
+   {
+    "player": "Stéphane Henchoz",
+    "type": "Y",
+    "minute": "13"
+   }
+  ],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2005 Football League Cup final",
+  "fb_date": "27 February 2005",
+  "team1": "Liverpool",
+  "team2": "Chelsea",
+  "score_raw": "2–3",
+  "aet": "yes",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Riise",
+    "minute": "1",
+    "note": ""
+   },
+   {
+    "player": "Núñez",
+    "minute": "113",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Gerrard",
+    "minute": "79",
+    "note": "o.g."
+   },
+   {
+    "player": "Drogba",
+    "minute": "107",
+    "note": ""
+   },
+   {
+    "player": "Kežman",
+    "minute": "112",
+    "note": ""
+   }
+  ],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "78,000",
+  "referee": "Steve Bennett (Kent)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://news.bbc.co.uk/sport1/hi/football/league_cup/4279679.stm Report]",
+  "manager1": "Rafael Benítez",
+  "cards1": [
+   {
+    "player": "Jamie Carragher",
+    "type": "Y",
+    "minute": "117"
+   },
+   {
+    "player": "Sami Hyypiä",
+    "type": "Y",
+    "minute": "13"
+   },
+   {
+    "player": "Djimi Traoré",
+    "type": "Y",
+    "minute": "35"
+   },
+   {
+    "player": "Dietmar Hamann",
+    "type": "Y",
+    "minute": "79"
+   }
+  ],
+  "manager2": "José Mourinho",
+  "cards2": [
+   {
+    "player": "Frank Lampard",
+    "type": "Y",
+    "minute": "27"
+   },
+   {
+    "player": "Damien Duff",
+    "type": "Y",
+    "minute": "114"
+   },
+   {
+    "player": "Didier Drogba",
+    "type": "Y",
+    "minute": "108"
+   },
+   {
+    "player": "Mateja Kežman",
+    "type": "Y",
+    "minute": "81"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2006 Football League Cup final",
+  "fb_date": "26 February 2006",
+  "team1": "Manchester United",
+  "team2": "Wigan Athletic",
+  "score_raw": "4–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Rooney",
+    "minute": "33",
+    "note": ""
+   },
+   {
+    "player": "Rooney",
+    "minute": "61",
+    "note": ""
+   },
+   {
+    "player": "Saha",
+    "minute": "55",
+    "note": ""
+   },
+   {
+    "player": "Ronaldo",
+    "minute": "59",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "66,866",
+  "referee": "Alan Wiley (Staffordshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://news.bbc.co.uk/sport2/hi/football/league_cup/4727118.stm Report]",
+  "manager1": "Sir Alex Ferguson",
+  "cards1": [
+   {
+    "player": "Cristiano Ronaldo",
+    "type": "Y",
+    "minute": "60"
+   }
+  ],
+  "manager2": "Paul Jewell",
+  "cards2": [
+   {
+    "player": "Arjan de Zeeuw",
+    "type": "Y",
+    "minute": "45"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2007 Football League Cup final",
+  "fb_date": "25 February 2007",
+  "team1": "Chelsea",
+  "team2": "Arsenal",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Drogba",
+    "minute": "20",
+    "note": ""
+   },
+   {
+    "player": "Drogba",
+    "minute": "84",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Walcott",
+    "minute": "12",
+    "note": ""
+   }
+  ],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "70,073",
+  "referee": "Howard Webb (South Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://web.archive.org/web/20070307140449/http://www.carlingcup.premiumtv.co.uk/page/News/0%2C%2C11995~987309%2C00.html Report]",
+  "manager1": "José Mourinho",
+  "cards1": [
+   {
+    "player": "Lassana Diarra",
+    "type": "Y",
+    "minute": "52"
+   },
+   {
+    "player": "Ricardo Carvalho",
+    "type": "Y",
+    "minute": "49"
+   },
+   {
+    "player": "Frank Lampard",
+    "type": "Y",
+    "minute": "90+6"
+   },
+   {
+    "player": "Michael Essien",
+    "type": "Y",
+    "minute": "36"
+   },
+   {
+    "player": "Mikel John Obi",
+    "type": "R",
+    "minute": "90+6"
+   }
+  ],
+  "manager2": "Arsène Wenger",
+  "cards2": [
+   {
+    "player": "Kolo Touré",
+    "type": "R",
+    "minute": "90+6"
+   },
+   {
+    "player": "Cesc Fàbregas",
+    "type": "Y",
+    "minute": "90+6"
+   },
+   {
+    "player": "Denílson",
+    "type": "Y",
+    "minute": "29"
+   },
+   {
+    "player": "Emmanuel Eboué",
+    "type": "Y",
+    "minute": "88"
+   },
+   {
+    "player": "Emmanuel Adebayor",
+    "type": "R",
+    "minute": "90+6"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "2",
+    "1"
+   ],
+   "Possession": [
+    "49%",
+    "51%"
+   ],
+   "Shots on target": [
+    "3",
+    "6"
+   ],
+   "Shots off target": [
+    "6",
+    "4"
+   ],
+   "Corner kicks": [
+    "2",
+    "6"
+   ],
+   "Offsides": [
+    "9",
+    "1"
+   ],
+   "Yellow cards": [
+    "4",
+    "3"
+   ],
+   "Red cards": [
+    "1",
+    "2"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2008 Football League Cup final",
+  "fb_date": "24 February 2008",
+  "team1": "Chelsea",
+  "team2": "Tottenham Hotspur",
+  "score_raw": "1–2 (a.e.t.)",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Drogba",
+    "minute": "39",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Berbatov",
+    "minute": "70",
+    "note": "pen."
+   },
+   {
+    "player": "Woodgate",
+    "minute": "94",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "87,660",
+  "referee": "Mark Halsey (Lancashire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://news.bbc.co.uk/sport2/hi/football/7256729.stm Report]",
+  "manager1": "Avram Grant",
+  "cards1": [
+   {
+    "player": "Petr Čech",
+    "type": "Y",
+    "minute": "120+4"
+   },
+   {
+    "player": "Ricardo Carvalho",
+    "type": "Y",
+    "minute": "104"
+   },
+   {
+    "player": "Mikel John Obi",
+    "type": "Y",
+    "minute": "96"
+   }
+  ],
+  "manager2": "Juande Ramos",
+  "cards2": [
+   {
+    "player": "Aaron Lennon",
+    "type": "Y",
+    "minute": "120+1"
+   },
+   {
+    "player": "Jermaine Jenas",
+    "type": "Y",
+    "minute": "120+3"
+   },
+   {
+    "player": "Didier Zokora",
+    "type": "Y",
+    "minute": "38"
+   },
+   {
+    "player": "Teemu Tainio",
+    "type": "Y",
+    "minute": "116"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Andrew Garratt (West Midlands); Martin Yerby (Kent)",
+   "Fourth official": "Peter Walton (Northamptonshire)",
+   "Reserve assistant referee": "David Bryan (Lincolnshire)"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2009 Football League Cup final",
+  "fb_date": "1 March 2009",
+  "team1": "Manchester United",
+  "team2": "Tottenham Hotspur",
+  "score_raw": "0–0",
+  "aet": "yes",
+  "penaltyscore": "4–1",
+  "goals1": [],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "88,217",
+  "referee": "Chris Foy (Merseyside)",
+  "penalties1": "Giggs Tevez Ronaldo Anderson",
+  "penalties2": "O'Hara Ćorluka Bentley",
+  "report": "{{Deprecated archive|url=https://archive.today/20120802154617/http://www.football-league.co.uk/carlingcup/news/20090301/carling-cup-final-match-report_2293330_1573891|title=Report}}",
+  "manager1": "Sir Alex Ferguson",
+  "cards1": [
+   {
+    "player": "John O'Shea",
+    "type": "Y",
+    "minute": "57"
+   },
+   {
+    "player": "Cristiano Ronaldo",
+    "type": "Y",
+    "minute": "67"
+   },
+   {
+    "player": "Paul Scholes",
+    "type": "Y",
+    "minute": "108"
+   }
+  ],
+  "manager2": "Harry Redknapp",
+  "cards2": [],
+  "officials": {
+   "Assistant referees": "Peter Kirkup (Northamptonshire); Andy Butler (Lancashire)",
+   "Fourth official": "Andre Marriner (West Midlands)",
+   "Reserve assistant referee": "Robert Pollock (Merseyside) |style"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2010 Football League Cup final",
+  "fb_date": "28 February 2010",
+  "team1": "Aston Villa",
+  "team2": "Manchester United",
+  "score_raw": "1–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Milner",
+    "minute": "5",
+    "note": "pen."
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Owen",
+    "minute": "12",
+    "note": ""
+   },
+   {
+    "player": "Rooney",
+    "minute": "74",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "88,596",
+  "referee": "Phil Dowd (Staffordshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://news.bbc.co.uk/sport2/hi/football/league_cup/8531179.stm Report]",
+  "manager1": "Martin O'Neill",
+  "cards1": [
+   {
+    "player": "James Collins",
+    "type": "Y",
+    "minute": "11"
+   },
+   {
+    "player": "Stewart Downing",
+    "type": "Y",
+    "minute": "18"
+   }
+  ],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Nemanja Vidić",
+    "type": "Y",
+    "minute": "68"
+   },
+   {
+    "player": "Patrice Evra",
+    "type": "Y",
+    "minute": "41"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2011 Football League Cup final",
+  "fb_date": "27 February 2011",
+  "team1": "Arsenal",
+  "team2": "Birmingham City",
+  "score_raw": "1–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Van Persie",
+    "minute": "39",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Žigić",
+    "minute": "28",
+    "note": ""
+   },
+   {
+    "player": "Martins",
+    "minute": "89",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "88,851",
+  "referee": "Mike Dean (Cheshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://web.archive.org/web/20120928111137/http://www.football-league.co.uk/capitalonecup/news/20110227/carling-cup-final-match-report_2293330_2301371 Report]",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Laurent Koscielny",
+    "type": "Y",
+    "minute": "35"
+   },
+   {
+    "player": "Gaël Clichy",
+    "type": "Y",
+    "minute": "52"
+   }
+  ],
+  "manager2": "Alex McLeish",
+  "cards2": [
+   {
+    "player": "Sebastian Larsson",
+    "type": "Y",
+    "minute": "41"
+   },
+   {
+    "player": "Barry Ferguson",
+    "type": "Y",
+    "minute": "90+4"
+   },
+   {
+    "player": "Cameron Jerome",
+    "type": "Y",
+    "minute": "90+3"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2012 Football League Cup final",
+  "fb_date": "26 February 2012",
+  "team1": "Cardiff City",
+  "team2": "Liverpool",
+  "score_raw": "2–2",
+  "aet": "yes",
+  "penaltyscore": "2–3",
+  "goals1": [
+   {
+    "player": "Mason",
+    "minute": "19",
+    "note": ""
+   },
+   {
+    "player": "Turner",
+    "minute": "118",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Škrtel",
+    "minute": "60",
+    "note": ""
+   },
+   {
+    "player": "Kuyt",
+    "minute": "108",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "89,041",
+  "referee": "Mark Clattenburg (County Durham)",
+  "penalties1": "Miller Cowie Gestede Whittingham A. Gerrard",
+  "penalties2": "S. Gerrard Adam Kuyt Downing Johnson",
+  "report": "{{Deprecated archive|url=https://archive.today/20130114015951/http://www.football-league.co.uk/carlingcup/news/20120226/carling-cup-final-match-report_2293330_2621707|title=Report}}<br><ref name=\"bbc\" />",
+  "manager1": "Malky Mackay",
+  "cards1": [
+   {
+    "player": "Ben Turner",
+    "type": "Y",
+    "minute": "119"
+   },
+   {
+    "player": "Filip Kiss",
+    "type": "Y",
+    "minute": "98"
+   }
+  ],
+  "manager2": "Kenny Dalglish",
+  "cards2": [
+   {
+    "player": "Jordan Henderson",
+    "type": "Y",
+    "minute": "52"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Total shots": [
+    "11",
+    "39"
+   ],
+   "Shots on target": [
+    "7",
+    "19"
+   ],
+   "Ball possession": [
+    "47%",
+    "53%"
+   ],
+   "Corner kicks": [
+    "3",
+    "19"
+   ],
+   "Fouls committed": [
+    "11",
+    "14"
+   ],
+   "Offsides": [
+    "1",
+    "5"
+   ],
+   "Yellow cards": [
+    "2",
+    "1"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ }
+]

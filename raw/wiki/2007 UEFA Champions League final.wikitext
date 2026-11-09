@@ -1,0 +1,573 @@
+{{Short description|Football match in Athens, Greece}}
+{{pp-move}}
+{{Good article}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox football match
+|              title = 2007 UEFA Champions League final
+|              image = champat2007.jpg
+|         image_size = 200
+|            caption = Match programme cover
+|              event = [[2006–07 UEFA Champions League]]
+|              team1 = [[AC Milan|Milan]]
+|   team1association = {{fbaicon|ITA|size=30px}}
+|         team1score = 2
+|              team2 = [[Liverpool F.C.|Liverpool]]
+|   team2association = {{fbaicon|ENG|size=30px}}
+|         team2score = 1
+|               date = 23 May 2007
+|            stadium = [[Olympic Stadium (Athens)|Olympic Stadium]]
+|               city = [[Athens]]
+| man_of_the_match1a = [[Filippo Inzaghi]] (Milan)<ref name="attendance"/>
+|            referee = [[Herbert Fandel]] ([[German Football Association|Germany]])<ref name="referee">{{cite news |title=Fandel to keep order in Athens |url=https://www.uefa.com/uefachampionsleague/news/01c1-0ea8c0ee021d-cc40f19f957e-1000--fandel-to-keep-order-in-athens/ |website=UEFA.com|publisher=Union of European Football Associations |date=22 May 2007 |access-date=12 September 2011 |archive-date=4 November 2012 |archive-url=https://web.archive.org/web/20121104021346/http://www.uefa.com/uefachampionsleague/news/newsid=540619.html |url-status=live }}</ref>
+|         attendance = 63,000<ref name="attendance"/>
+|            weather = Partly cloudy<br />{{convert|24|°C|°F}}<br />46% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2006/300099_LU.pdf |title=Tactical Line-ups – Final – Wednesday 23 May 2007 |website=UEFA.com|publisher=Union of European Football Associations |date=23 May 2007 |access-date=12 September 2011 |archive-date=5 November 2015 |archive-url=https://web.archive.org/web/20151105190712/http://www.uefa.com/newsfiles/UCL/2006/300099_LU.pdf |url-status=live }}</ref>
+|           previous = [[2006 UEFA Champions League final|2006]]
+|               next = [[2008 UEFA Champions League final|2008]]
+}}
+The '''2007 UEFA Champions League final''' was the final match of the [[2006–07 UEFA Champions League|2006–07]] season of the [[UEFA Champions League]], Europe's primary club [[Association football|football]] competition. The showpiece event was contested between [[Liverpool F.C.|Liverpool]] of England and [[AC Milan|Milan]] of Italy at the [[Olympic Stadium (Athens)|Olympic Stadium]] in [[Athens]], Greece, on 23 May 2007. Liverpool, who had won the competition five times, were appearing in their seventh final. Milan, who had won the competition six times, were appearing in their eleventh final.
+
+The final was a rematch of the [[2005 UEFA Champions League final|2005 final]] which Liverpool won 3–2 in a penalty shootout, after recovering from a three-goal deficit at half-time to level the score at 3–3 after full-time and extra time. Both teams had to pass through five rounds before they reached the final.<ref name="background"/> They both entered in the third qualifying round and won their respective groups before they reached the knockout stage, where matches were contested over two legs, with a match at each team's home ground. Milan's victories varied from close affairs to comfortable victories. They defeated [[Celtic F.C.|Celtic]] by a single goal over two legs, while they beat [[Manchester United F.C.|Manchester United]] 5–3 on aggregate in the semi-final. Liverpool's matches were mainly all close affairs; they beat defending champions [[FC Barcelona|Barcelona]] on the [[away goals rule]] in the first knockout round and beat [[Chelsea F.C.|Chelsea]] in a penalty shootout in the semi-finals, although they did record a 4–0 aggregate win over [[PSV Eindhoven]] in the quarter-finals.
+
+Before the match there were ticketing problems because many fans gained entry to the stadium without valid tickets. After the match, a UEFA spokesman accused Liverpool of having the worst [[Association football culture#Fans|fans]] in Europe,<ref>{{cite web |title=Uefa condemns Liverpool fans as 'worst behaved in Europe' |url=https://www.theguardian.com/football/2007/jun/04/newsstory.sport18 |work=[[The Guardian]] |date=4 June 2007 |archive-url=https://web.archive.org/web/20191030163823/https://www.theguardian.com/football/2007/jun/04/newsstory.sport18 |archive-date=30 October 2019}}</ref> a claim later denied by UEFA president [[Michel Platini]].<ref>{{cite news |first=Darren |last=Ennis |title=Platini says no blame for Liverpool fans |url=https://uk.reuters.com/article/uk-soccer-liverpool-uefa/platini-says-no-blame-for-liverpool-fans-idUKL0586007220070605 |work=Reuters |date=5 June 2007 |access-date=30 October 2019 |archive-date=30 October 2019 |archive-url=https://web.archive.org/web/20191030173009/https://uk.reuters.com/article/uk-soccer-liverpool-uefa/platini-says-no-blame-for-liverpool-fans-idUKL0586007220070605 |url-status=dead }}</ref> Watched by a crowd of 63,000,<ref name="attendance"/> Milan took the lead when [[Andrea Pirlo]]'s [[Direct free kick|free-kick]] deflected off [[Filippo Inzaghi]] in the first half. Milan extended their lead in the second half when Inzaghi scored a second goal. Liverpool scored a late goal through [[Dirk Kuyt]], but were unable to equalise before the end of the match. Milan won the match 2–1 to win their seventh Champions League.
+
+==Background==
+The match was Milan's eleventh appearance in the final, and the third since 2003. They had won on six occasions ([[1963 European Cup final|1963]], [[1969 European Cup final|1969]], [[1989 European Cup final|1989]], [[1990 European Cup final|1990]], [[1994 UEFA Champions League final|1994]], [[2003 UEFA Champions League final|2003]]), and lost four times ([[1958 European Cup final|1958]], [[1993 UEFA Champions League final|1993]], [[1995 UEFA Champions League final|1995]], [[2005 UEFA Champions League final|2005]]).<ref name="background">{{cite news|title=Athens all set for Europe's finest |url=http://en.archive.uefa.com/competitions/ucl/history/season=2006/round=2361/match=300099/report=mb.html |archive-url=https://archive.today/20130105115901/http://en.archive.uefa.com/competitions/ucl/history/season=2006/round=2361/match=300099/report=mb.html |url-status=dead |archive-date=5 January 2013 |website=UEFA.com|publisher=Union of European Football Associations |access-date=5 July 2011 }}</ref> Liverpool were appearing in their seventh final. They had previously won the competition five times ([[1977 European Cup final|1977]], [[1978 European Cup final|1978]], [[1981 European Cup final|1981]], [[1984 European Cup final|1984]], [[2005 UEFA Champions League final|2005]]), while they lost the [[1985 European Cup final|1985 final]] to [[Juventus FC|Juventus]].
+
+==Venue==
+The [[Olympic Stadium (Athens)|Olympic Stadium]] in [[Athens]], Greece was selected as the venue for the 2007 UEFA Champions League final at the April 2005 meeting of the UEFA Executive Committee in [[Tallinn]], [[Estonia]]. The meeting also determined the venues for the [[2006 UEFA Champions League final|2006 final]] and the [[2006 UEFA Cup final|2006]] and [[2007 UEFA Cup final|2007]] [[UEFA Europa League|UEFA Cup]] finals.<ref>{{cite web |title=Executive Committee decisions from Tallinn meeting |url=https://www.uefa.com/newsfiles/296808.pdf |website=UEFA.com|publisher=Union of European Football Associations |date=19 April 2005 |access-date=21 June 2010 |archive-date=25 September 2005 |archive-url=https://web.archive.org/web/20050925081241/http://en.uefa.com/newsfiles/296808.pdf |url-status=live }}</ref> Shortly before the final, the UEFA Champions League trophy was returned to UEFA by [[Ludovic Giuly]], representing the 2006 winners, [[FC Barcelona|Barcelona]]. UEFA president [[Michel Platini]] then presented the trophy to the [[List of mayors of Athens|Mayor of Athens]], [[Nikitas Kaklamanis]], so that it might be put on display in and around the city.<ref>{{cite news |title=English flavour to final four |url=https://www.uefa.com/uefachampionsleague/news/01c0-0e6e42b0b626-42af49baf5a1-1000--english-flavour-to-final-four/ |website=UEFA.com|publisher=Union of European Football Associations |date=24 April 2007 |access-date=21 June 2010 |archive-date=24 November 2020 |archive-url=https://web.archive.org/web/20201124143843/https://www.uefa.com/uefachampionsleague/news/01c0-0e6e42b0b626-42af49baf5a1-1000--english-flavour-to-final-four/?referrer=%2fuefachampionsleague%2fnews%2fnewsid%3d453555 |url-status=live }}</ref> The stadium had hosted the showpiece event before. The most recent was the 1994 final. Coincidentally Milan were the winners, beating [[FC Barcelona|Barcelona]] 4–0. The other final held at the ground was in [[1983 European Cup final|1983]], when [[Hamburger SV]] beat Juventus 1–0. The ground had also played host to the [[UEFA Cup Winners' Cup]] final in [[1987 European Cup Winners' Cup Final|1987]], when [[AFC Ajax|Ajax]] beat [[1. FC Lokomotive Leipzig|Lokomotiv Leipzig]] 1–0.<ref>{{cite web |title=2006/07 UEFA Champions League Matchweek Stats Pack – Matchweek 13 |url=https://www.uefa.com/printoutfiles/competitions/ucl/2006/e/e_13_md.pdf |website=UEFA.com|publisher=Union of European Football Associations |page=2 |date=21 May 2007 |access-date=5 July 2011 |archive-date=4 November 2012 |archive-url=https://web.archive.org/web/20121104021427/http://www.uefa.com/printoutfiles/competitions/ucl/2006/e/e_13_md.pdf |url-status=dead }}</ref>
+
+==Route to the final==
+{{Main|2006–07 UEFA Champions League}}
+
+{|class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ITA}} [[AC Milan|Milan]]
+!Round
+!colspan=4|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2004–05 UEFA Champions League qualifying rounds|Qualifying phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|SRB|2004}} [[Red Star Belgrade]]
+|3–1
+|[[2006–07 UEFA Champions League qualifying rounds|1–0]] (H)
+|[[2006–07 UEFA Champions League qualifying rounds|2–1]] (A)
+|bgcolor=#c1e0ff|Third qualifying round
+|align=left|{{fbaicon|ISR}} [[Maccabi Haifa F.C.|Maccabi Haifa]]
+|3–2
+|[[2006–07 UEFA Champions League qualifying rounds#Liverpool v Macabi Haifa|2–1]] (H)
+|[[2006–07 UEFA Champions League qualifying rounds#Macabi Haifa v Liverpool|1–1]] (A)
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[2006–07 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|GRE}} [[AEK Athens F.C.|AEK Athens]]
+|colspan=3|[[2006–07 UEFA Champions League group stage#Milan v AEK Athens|3–0]] (H)
+|style="background:#c1e0ff"|Matchday 1
+|align=left|{{fbaicon|NED}} [[PSV Eindhoven]]
+|colspan=3|[[2004–05 UEFA Champions League group stage#PSV Eindhoven v Liveroll|0–0]] (A)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[Lille OSC|Lille]]
+|colspan=3|[[2006–07 UEFA Champions League group stage#Lille v Milan|0–0]] (A)
+|style="background:#c1e0ff"|Matchday 2
+|align=left|{{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|colspan=3|[[2006–07 UEFA Champions League group stage#Liverpool v Galatasaray|3–2]] (H)
+|-
+|align=left|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|colspan=3|[[2006–07 UEFA Champions League group stage#Anderlecht v Milan|1–0]] (A)
+|style="background:#c1e0ff"|Matchday 3
+|align=left|{{fbaicon|FRA|1974}} [[FC Girondins de Bordeaux|Bordeaux]]
+|colspan=3|[[2006–07 UEFA Champions League group stage#Bordeaux v Liverpool|1–0]] (A)
+|-
+|align=left|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|colspan=3|[[2006–07 UEFA Champions League group stage#Milan v Anderlecht|4–1]] (H)
+|style="background:#c1e0ff"|Matchday 4
+|align=left|{{fbaicon|FRA|1974}} [[FC Girondins de Bordeaux|Bordeaux]]
+|colspan=3|[[2006–07 UEFA Champions League group stage#Liverpool v Bordeaux|3–0]] (H)
+|-
+|align=left|{{fbaicon|GRE}} [[AEK Athens F.C.|AEK Athens]]
+|colspan=3|[[2006–07 UEFA Champions League group stage#AEK Athens v Milan|0–1]] (A)
+|style="background:#c1e0ff"|Matchday 5
+|align=left|{{fbaicon|NED}} [[PSV Eindhoven]]
+|colspan=3|[[2006–07 UEFA Champions League group stage#Liverpool v PSV Eindhoven|2–0]] (H)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[Lille OSC|Lille]]
+|colspan=3|[[2006–07 UEFA Champions League group stage#Milan v Lille|0–2]] (H)
+|style="background:#c1e0ff"|Matchday 6
+|align=left|{{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|colspan=3|[[2006–07 UEFA Champions League group stage#Galatasaray v Liverpool|2–3]] (A)
+|-
+|colspan="4" style="text-align:center;vertical-align:top"|'''[[2006–07 UEFA Champions League group stage#Group H|Group H]] winner'''
+{{:2006–07 UEFA Champions League group stage|transcludesection=Group H|only_pld_pts=yes|show_matches=no|showteam=MIL}}
+|style="background:#c1e0ff"|Final standings
+|colspan="4" style="text-align:center;vertical-align:top"|'''[[2006–07 UEFA Champions League group stage#Group C|Group C]] winner'''
+{{:2006–07 UEFA Champions League group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=LIV}}
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2006–07 UEFA Champions League knockout stage|Knockout stage]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|SCO}} [[Celtic F.C.|Celtic]]
+|1–0
+|[[2006–07 UEFA Champions League knockout stage#Celtic v Milan|0–0]] (A)
+|[[2006–07 UEFA Champions League knockout stage#Milan v Celtic|1–0]] {{aet}} (H)
+|style="background:#c1e0ff"|First knockout round
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|2–2 ([[away goals rule|a]])
+|[[2006–07 UEFA Champions League knockout stage#Barcelona v Liverpool|2–1]] (A)
+|[[2006–07 UEFA Champions League knockout stage#Liverpool v Barcelona|0–1]] (H)
+|-
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|4–2
+|[[2006–07 UEFA Champions League knockout stage#Milan v Bayern Munich|2–2]] (H)
+|[[2006–07 UEFA Champions League knockout stage#Bayern Munich v Milan|2–0]] (A)
+|style="background:#c1e0ff"|Quarter-finals
+|align=left|{{fbaicon|NED}} [[PSV Eindhoven]]
+|4–0
+|[[2006–07 UEFA Champions League knockout stage#PSV Eindhoven v Liverpool|3–0]] (A)
+|[[2006–07 UEFA Champions League knockout stage#Liverpool v PSV Eindhoven|1–0]] (H)
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|5–3
+|[[2006–07 UEFA Champions League knockout stage#Manchester United v Milan|2–3]] (A)
+|[[2006–07 UEFA Champions League knockout stage#Milan v Manchester United|3–0]] (H)
+|style="background:#c1e0ff"|Semi-finals
+|align=left|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|1–1 (4–1 [[Penalty shoot-out (association football)|p]])
+|[[2006–07 UEFA Champions League knockout stage#Chelsea v Liverpool|0–1]] (A)
+|[[2006–07 UEFA Champions League knockout stage#Liverpool v Chelsea|1–0]] (H)
+|}
+
+===Milan===
+[[File:Milan lille.jpg|thumb|left|The players of Milan and Lille before their group stage match at the San Siro]]
+
+[[AC Milan|Milan]] qualified for the competition by finishing third in the [[2005–06 Serie A]].<ref name="bbc_ita_scandal"/> Milan had originally finished second in Serie A, but were docked 30 points for their part in a [[Calciopoli|match-fixing scandal]].<ref name="bbc_ita_scandal">{{cite news |title=Milan to play in Champions League |url=https://news.bbc.co.uk/sport2/hi/football/europe/5233430.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=2 August 2006 |access-date=16 July 2008 |archive-date=24 November 2020 |archive-url=https://web.archive.org/web/20201124143911/http://news.bbc.co.uk/sport2/hi/football/europe/5233430.stm |url-status=live }}</ref><ref name="iht"/> The original punishment, reduced on appeal, would have barred them from the Champions League altogether.<ref name="iht">{{cite news |first=Rob |last=Hughes |title=Soccer: Europeans are facing tough calls: UEFA must rule on safety of teams and integrity of league |url=http://www.iht.com/articles/2006/07/30/sports/soccer.php |work=International Herald Tribune |date=30 July 2006 |access-date=12 July 2011 |archive-date=8 October 2012 |archive-url=https://web.archive.org/web/20121008084255/http://www.iht.com/articles/2006/07/30/sports/soccer.php |url-status=live }}</ref> Their opponents in the third qualifying round were Serbian team [[Red Star Belgrade]]. Two victories, 1–0 at home and 2–1 away, ensured Milan's passage to the group stage of the Champions League. They were drawn in Group H alongside [[AEK Athens F.C.|AEK Athens]] of Greece, [[R.S.C. Anderlecht|Anderlecht]] of Belgium and French team [[Lille OSC|Lille]]. Milan won three matches, drew one and lost two to finish top of the group with 10 points and progress to the knockout stage.<ref name="Stats">{{cite web |title=2006/07 UEFA Champions League Matchweek Stats Pack – Matchweek 7 |url=https://www.uefa.com/printoutfiles/competitions/ucl/2006/e/e_07_md.pdf |website=UEFA.com|publisher=Union of European Football Associations |pages=13–24 |date=15 February 2007 |access-date=5 July 2011 |archive-date=13 October 2012 |archive-url=https://web.archive.org/web/20121013043111/http://www.uefa.com/printoutfiles/competitions/UCL/2006/E/E_07_MD.pdf |url-status=dead }}</ref>
+
+They were drawn against Scottish team [[Celtic F.C.|Celtic]]. The first leg at Celtic's home ground [[Celtic Park]] finished 0–0. The return leg at Milan's home ground the [[San Siro]] also finished 0–0 after 90 minutes with Celtic managing to limit the goalscoring opportunities Milan had. However, three minutes into [[extra time]] Milan scored when [[Kaká]] curled a shot past Celtic goalkeeper [[Artur Boruc]]. Celtic were unable to score the away goal they needed to beat Milan, ensuring the Italians progressed to the quarter finals after a 1–0 aggregate victory.<ref>{{cite news |first=Colin |last=Moffat |title=AC Milan 1–0 Celtic (agg 1–0) |url=https://news.bbc.co.uk/sport1/hi/football/europe/6414945.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=7 March 2007 |access-date=28 June 2011 |archive-date=29 July 2017 |archive-url=https://web.archive.org/web/20170729100247/http://news.bbc.co.uk/sport1/hi/football/europe/6414945.stm |url-status=live }}</ref>
+
+Milan were drawn against German team [[FC Bayern Munich|Bayern Munich]] in the quarter-finals. The first leg at the San Siro ended in a 2–2 draw after Bayern had scored an equaliser three minutes into stoppage time.<ref>{{cite news |first=Phil |last=McNulty |title=AC Milan 2–2 Bayern Munich |url=https://news.bbc.co.uk/sport2/hi/football/europe/6517189.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=3 April 2007 |access-date=28 June 2011 |archive-date=17 September 2007 |archive-url=https://web.archive.org/web/20070917233546/http://news.bbc.co.uk/sport1/hi/football/europe/6517189.stm |url-status=live }}</ref> The second leg at Bayern's home ground the [[Allianz Arena]] was more comfortable for Milan, as they scored two first half goals to win the match 2–0 and win the tie 4–2 on aggregate. Milan were drawn against English team [[Manchester United F.C.|Manchester United]] in the semi-finals. The first leg at United's home ground [[Old Trafford]], Kaka scored twice to give Milan a 2–1 lead after [[Cristiano Ronaldo]] had scored an early goal. However, two goals from [[Wayne Rooney]] in the second half meant United won the first leg 3–2.<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 3–2 Milan |url=https://news.bbc.co.uk/sport2/hi/football/europe/6582631.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=24 April 2007 |access-date=28 June 2011 |archive-date=10 November 2012 |archive-url=https://web.archive.org/web/20121110191952/http://news.bbc.co.uk/sport2/hi/football/europe/6582631.stm |url-status=live }}</ref> The second leg at the San Siro saw Milan win 3–0 to progress to the final after a 5–3 aggregate victory.<ref>{{cite news |first=Caroline |last=Cheese |title=AC Milan 3–0 Man Utd (Agg 5–3) |url=https://news.bbc.co.uk/sport2/hi/football/europe/6603095.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=2 May 2007 |access-date=28 June 2011 |archive-date=13 March 2012 |archive-url=https://web.archive.org/web/20120313211751/http://news.bbc.co.uk/sport1/hi/football/europe/6603095.stm |url-status=live }}</ref>
+
+===Liverpool===
+[[Liverpool F.C.|Liverpool]] gained entry to the competition after finishing third in the [[2005–06 FA Premier League]]. As a result of that league position, Liverpool entered the Champions League in the third qualifying round, where their opponents were [[Maccabi Haifa F.C.|Maccabi Haifa]] of Israel. Liverpool won the first leg 2–1 at their home ground [[Anfield]] and a 1–1 draw in the away leg in [[Kyiv]]{{refn|group=note|name=Maccabi|Due to the [[2006 Lebanon War|armed conflict]] going on in Israel, UEFA decided that no European matches could be staged in the country until further notice.<ref>{{cite news|title=UEFA decision on Israel |url=http://www.uefa.com/uefa/Keytopics/kind=64/newsId=442693.html |publisher=UEFA |date=7 August 2006 |access-date=8 August 2006 |archive-url=https://web.archive.org/web/20071013175135/http://www.uefa.com/uefa/Keytopics/kind%3D64/newsId%3D442693.html |archive-date=13 October 2007 |url-status=dead }}</ref> The match was played at [[Valeriy Lobanovskyi Dynamo Stadium]] in [[Kyiv]], Ukraine, instead of Maccabi Haifa regular home venue [[Kiryat Eliezer Stadium]] in [[Haifa]].<ref>{{cite news|title=Liverpool to play Haifa in Kyiv |url=https://news.bbc.co.uk/sport2/hi/football/europe/4791507.stm |work=BBC Sport|date=14 August 2006 |access-date=8 August 2006 |archive-url=https://web.archive.org/web/20060826044044/http://news.bbc.co.uk/sport1/hi/football/europe/4791507.stm |archive-date=26 August 2006 |url-status=live}}</ref>}} ensured Liverpool progressed to the group stage of the competition. Liverpool were drawn in Group C alongside French team [[FC Girondins de Bordeaux|Bordeaux]], Dutch team [[PSV Eindhoven]] and [[Galatasaray S.K. (football)|Galatasaray]] of Turkey. After six games including four wins, one draw and one defeat, Liverpool finished top of the group with 13 points to qualify for the knockout stage.<ref name="Stats"/>
+
+[[File:Barcelona-Liverpool 21-02-07.jpg|thumb|right|The Liverpool and Barcelona players entering the pitch before their first leg tie at the [[Camp Nou]]]]
+
+Liverpool were drawn against defending champions [[FC Barcelona|Barcelona]] in the first knockout round. Before the first leg in Barcelona, there had been a training ground fracas between [[Craig Bellamy]] and [[John Arne Riise]].<ref>{{cite news |title=Benitez accepts players' apology |url=https://news.bbc.co.uk/sport2/hi/football/teams/l/liverpool/6373689.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=21 February 2007 |access-date=28 June 2011 |archive-date=7 March 2007 |archive-url=https://web.archive.org/web/20070307222615/http://news.bbc.co.uk/sport1/hi/football/teams/l/liverpool/6373689.stm |url-status=live }}</ref> Coincidentally, it was Bellamy and Riise who secured a 2–1 victory for Liverpool, completing a comeback after [[Deco]] had given Barcelona the lead.<ref>{{cite news |first=Chris |last=Bevan |title=Barcelona 1–2 Liverpool |url=https://news.bbc.co.uk/sport2/hi/football/europe/6371395.stm |work=BBC Sport |date=21 February 2007 |access-date=28 June 2011 |archive-date=14 April 2009 |archive-url=https://web.archive.org/web/20090414021057/http://news.bbc.co.uk/sport1/hi/football/europe/6371395.stm |url-status=live }}</ref> The second leg at Anfield was won 1–0 by Barcelona, however Liverpool progressed to the quarter-finals on the away goals rule, having scored more goals away from home than their opponents.<ref>{{Cite news|last=McCarra|first=Kevin|date=7 March 2007|title=Benítez master plan too shrewd for Barca|work=The Guardian|publisher=Guardian News and Media|url=https://www.theguardian.com/football/2007/mar/07/match.sport1|url-status=live|access-date=24 November 2020|archive-date=2 October 2014|archive-url=https://web.archive.org/web/20141002233818/http://www.theguardian.com/football/2007/mar/07/match.sport1}}</ref>
+
+Their opponents in the quarter-finals were PSV Eindhoven, who they had played in the group stage. The first leg at PSV's home ground the [[Philips Stadion]] was won 3–0 by Liverpool all but securing their progression to the semi-finals.<ref>{{Cite news|last=Sanghera|first=Mandeep|date=3 April 2007|title=PSV Eindhoven 0–3 Liverpool|work=BBC Sport|publisher=British Broadcasting Corporation|url=https://news.bbc.co.uk/sport1/hi/football/europe/6517163.stm|url-status=live|access-date=24 November 2020|archive-date=13 February 2009|archive-url=https://web.archive.org/web/20090213182857/http://news.bbc.co.uk/sport1/hi/football/europe/6517163.stm}}</ref> The second leg at Anfield was not as one-sided, a 1–0 victory for Liverpool ensured they would progress to the semi-finals courtesy of a 4–0 aggregate victory.<ref>{{Cite web|last=Bevan|first=Chris|date=11 April 2007|title=Liverpool 1–0 PSV (agg 4–0)|url=https://news.bbc.co.uk/sport2/hi/football/europe/6534993.stm|url-status=live|archive-url=https://web.archive.org/web/20070714153701/http://news.bbc.co.uk/sport1/hi/football/europe/6534993.stm|archive-date=14 July 2007|access-date=24 November 2020|website=BBC Sport|publisher=British Broadcasting Corporation}}</ref> Their opponents in the semi-finals were fellow English team [[Chelsea F.C.|Chelsea]]. The first leg at Chelsea's home ground [[Stamford Bridge (stadium)|Stamford Bridge]] was a close affair with Chelsea winning 1–0 courtesy of a first half [[Joe Cole]] goal.<ref>{{Cite web|last=McNulty|first=Phil|date=25 April 2007|title=Chelsea 1–0 Liverpool|url=https://news.bbc.co.uk/sport2/hi/football/europe/6582695.stm|url-status=live|archive-url=https://web.archive.org/web/20081227224955/http://news.bbc.co.uk/sport1/hi/football/europe/6582695.stm|archive-date=27 December 2008|access-date=24 November 2020|website=BBC Sport|publisher=British Broadcasting Corporation}}</ref> The second leg at Anfield was similar, however it was Liverpool who won 1–0 courtesy to a [[Daniel Agger]] goal. With the teams tied at 1–1 aggregate after 90 minutes and extra time the tie went to a [[penalty shootout (association football)|penalty shootout]], which Liverpool won 4–1 to progress to the final.<ref>{{Cite web|date=1 May 2007|title=Liverpool 1–0 Chelsea (Liverpool 4–1 on penalties)|url=https://www.rte.ie/sport/soccer/2007/0501/217341-liverpool1/|url-status=live|archive-url=https://web.archive.org/web/20201124143841/https://www.rte.ie/sport/soccer/2007/0501/217341-liverpool1/|archive-date=24 November 2020|access-date=24 November 2020|website=RTÉ Sport|publisher=Raidió Teilifís Éireann}}</ref>
+
+=== Broadcasting ===
+
+The match was broadcast live in the United Kingdom on ITV, attracting an average audience of 9.6 million viewers for the full 90 minutes and peaking at 10.3 million. A further 1.2 million viewers watched on Sky Sports. These figures were lower than those for recent previous finals featuring English teams: the 2005 final (Liverpool vs Milan) averaged 10.8 million on ITV, while the 2006 final (Barcelona vs Arsenal) averaged 11.2 million.<ref name="GuardianTV">{{cite news |last=Gibson |first=Owen |title=Viewers not turned on by final |url=https://www.theguardian.com/football/2007/may/25/championsleague |work=The Guardian |date=24 May 2007 |access-date=2026-04-20}}</ref>
+
+==Pre-match==
+
+===Match ball===
+[[Adidas]], the official match ball supplier to all major UEFA, FIFA and IOC tournaments, unveiled the official match ball for the 2007 UEFA Champions League final on 9 March 2007, presenting the Adidas Finale Athens. The design of the Adidas Finale Athens was based on the widely recognisable UEFA Champions League Starball logo and was blue and white, representing the colours of the [[Flag of Greece|Greek national flag]].<ref>{{cite web |title=Match Ball |url=http://en.archive.uefa.com/competitions/ucl/finals/newsid=511837.html |archive-url=https://archive.today/20120708111101/http://en.archive.uefa.com/competitions/ucl/finals/newsid=511837.html |url-status=dead |archive-date=8 July 2012 |date=9 March 2007 |access-date=24 May 2011 |website=UEFA.com|publisher=Union of European Football Associations }}</ref> The final matched two of the top goal-scorers in the competition that season. Milan's [[Kaká]] finished on top of the scoring charts with ten goals, and Liverpool's [[Peter Crouch]] entered the game tied for third with six goals in total.<ref>{{cite web |title=UEFA Champions League - Top Scorers - 2006 |url=http://soccernet.espn.go.com/stats/topscorers?league=uefa.champions&year=2006&cc=5901 |publisher=ESPN Soccernet |access-date=24 April 2008 |archive-date=28 October 2010 |archive-url=https://web.archive.org/web/20101028082712/http://soccernet.espn.go.com/stats/topscorers?league=uefa.champions&year=2006&cc=5901 |url-status=dead }}</ref>
+
+===Kits===
+Despite being drawn as the "home" team for the match, Milan chose to wear their all-white away strip for the final; they consider that strip to be their "lucky kit" ({{langx|it|maglia fortunata}}), having won the European Cup five times in those colours. However, Milan had also lost two finals wearing all-white, most recently against Liverpool in 2005.<ref>{{cite web |title=All white for Milan in Athens |url=https://www.uefa.com/uefachampionsleague/news/0254-0d7ba0af9470-9a761830b60f-1000--all-white-for-milan-in-athens/ |website=UEFA.com|publisher=Union of European Football Associations |date=4 May 2007 |access-date=21 June 2010 |archive-date=24 November 2020 |archive-url=https://web.archive.org/web/20201124143843/https://www.uefa.com/uefachampionsleague/news/0254-0d7ba0af9470-9a761830b60f-1000--all-white-for-milan-in-athens/?referrer=%2fuefachampionsleague%2fnews%2fnewsid%3d535523 |url-status=live }}</ref> This decision by Milan meant that Liverpool played the final in their traditional home kit of red shirts, red shorts and red socks. Each of Liverpool's five European Cup titles were won in their all-red strip, and two of these came when they were playing against Italian teams who played in all-white.<ref name="background"/>
+
+===Officials===
+In May 2007, [[Herbert Fandel]], the German [[referee (association football)|referee]] was chosen to oversee the final. He was joined by compatriots Carsten Kadach and Volker Wezel as [[assistant referee (association football)|assistant referees]], and [[Florian Meyer (referee)|Florian Meyer]] as [[assistant referee (association football)#Fourth official|fourth official]].<ref name="referee"/>
+
+===Team selection===
+Milan fielded the oldest starting eleven ever in a Champions League final, with the average age at 31 years, 34 days, while [[Paolo Maldini]] was the oldest outfield player ever to play in the final, in what was his eighth final, at 38 years and 331 days.<ref name="bbcminute">{{cite news |first=Charlie |last=Henderson |title=AC Milan 2–1 Liverpool – As It Happened |url=https://news.bbc.co.uk/sport1/hi/football/europe/6685231.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=23 May 2007 |access-date=6 July 2011 |archive-date=22 September 2007 |archive-url=https://web.archive.org/web/20070922044732/http://news.bbc.co.uk/sport1/hi/football/europe/6685231.stm |url-status=live }}</ref> Milan manager [[Carlo Ancelotti]] opted to start striker [[Filippo Inzaghi]], who had missed the 2005 final ahead of [[Hernán Crespo]]. Liverpool manager [[Rafael Benítez]] opted to field a five-man midfield with [[Jermaine Pennant]] and [[Boudewijn Zenden]] on the wings, while Steven Gerrard was deployed behind lone striker [[Dirk Kuyt]]. Liverpool fielded five of the players that started the 2005 final: Xabi Alonso, [[Jamie Carragher]], [[Steve Finnan]], Steven Gerrard and John Arne Riise.<ref name="final">{{cite news |first=Michael |last=Harrold |title=Inzaghi inspires Milan to glory |url=https://www.uefa.com/uefachampionsleague/news/01c1-0e6e500c2c66-db2412e7ba39-1000--inzaghi-inspires-milan-to-glory/ |website=UEFA.com|publisher=Union of European Football Associations |date=24 May 2007 |access-date=5 July 2011 |archive-date=5 April 2012 |archive-url=https://web.archive.org/web/20120405223213/http://www.uefa.com/uefachampionsleague/season%3D2006/matches/round%3D2361/match%3D300099/postmatch/report/index.html |url-status=live }}</ref>
+
+===Problems before the match===
+Out of 63,800 tickets, only 9,000 tickets for the final went on general sale; the remainder were shared between the two teams, who got 17,000 each, and the [[UEFA]] family and sponsors, who received 20,800 tickets.<ref>{{cite web |title=The Stadium |url=http://www.fsf.org.uk/news/news0036-athens-stadium.html |work=The FSF Champions League Final Guide to Athens |publisher=The Football Supporters' Federation |year=2007 |access-date=26 July 2007 |archive-url=https://web.archive.org/web/20070627083252/http://www.fsf.org.uk/news/news0036-athens-stadium.html |archive-date=27 June 2007 |url-status=dead}}</ref><ref>{{cite web |title=Deadline passes for ticket applications |url=https://www.uefa.com/uefachampionsleague/news/01be-0e6e2616d935-332806098fa6-1000--deadline-passes-for-ticket-applications/ |website=UEFA.com|publisher=Union of European Football Associations |date=19 February 2007 |access-date=12 September 2011 |archive-date=30 September 2015 |archive-url=https://web.archive.org/web/20150930125122/http://www.uefa.com/uefachampionsleague/news/newsid=503059.html |url-status=live }}</ref> This led to some of the problems before the match.<ref name="Hicks"/> While fans were still queuing to gain entry to the stadium, the Greek police informed them that the stadium was full and denied entry to a number of fans who had genuine tickets.<ref name="tickets">{{Cite web |title=Liverpool Fans Return After Defeat |url=http://www.sportinglife.com/football/premiership/liverpool/news/story_get.cgi?STORY_NAME=soccer/07/05/24/SOCCER_Liverpool_Police.html&TEAMHD=liverpool&DIV=prem&TEAM=LIVERPOOL&RH=Liverpool&PREV_SEASON= |publisher=SportingLife |date=24 May 2007 |access-date=28 May 2007 |archive-date=30 September 2007 |archive-url=https://web.archive.org/web/20070930044329/http://www.sportinglife.com/football/premiership/liverpool/news/story_get.cgi?STORY_NAME=soccer%2F07%2F05%2F24%2FSOCCER_Liverpool_Police.html&TEAMHD=liverpool&DIV=prem&TEAM=LIVERPOOL&RH=Liverpool&PREV_SEASON= |url-status=live }}</ref> UEFA sources said that as many as 5,000 fans either without tickets or brandishing fakes had entered the 74,000-capacity [[Olympic Stadium (Athens)|Olympic Stadium]]. Simultaneously, thousands of fans with genuine tickets were refused entry as police closed the entrance to the ground amid fears that allowing any more to enter could have led to a disaster.<ref>{{Cite news |first=David |last=Bond |title=Uefa blame English fans for ticket chaos |url=https://www.telegraph.co.uk/sport/main.jhtml?view=DETAILS&grid=A1YourView&xml=/sport/2007/05/25/sfnbon25.xml |work=The Daily Telegraph |location=London |date=24 May 2007 |access-date=4 September 2007 |archive-date=21 October 2007 |archive-url=https://web.archive.org/web/20071021004951/http://www.telegraph.co.uk/sport/main.jhtml?view=DETAILS&grid=A1YourView&xml=%2Fsport%2F2007%2F05%2F25%2Fsfnbon25.xml |url-status=dead }}</ref> The resulting situation became disorderly, with some Liverpool fans attempting to break through checkpoints, set up by the Greek police. Greek [[riot police]] used [[tear gas]] and [[club (weapon)|baton]]s to disperse the crowd.<ref name="tickets"/> UEFA spokesman [[William Gaillard]] blamed Liverpool fans for causing the problems, stating, "Milan supporters didn't face the same problems because they didn't behave in the same way".<ref>{{cite news |title=Uefa blames Reds fans for chaos |url=https://news.bbc.co.uk/sport2/hi/football/teams/l/liverpool/6686867.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=24 May 2007 |access-date=24 May 2007 |archive-date=15 September 2007 |archive-url=https://web.archive.org/web/20070915075030/http://news.bbc.co.uk/sport1/hi/football/teams/l/liverpool/6686867.stm |url-status=live }}</ref>
+
+A UEFA report released soon after the final branded Liverpool supporters "the worst fans in Europe", with Gaillard stating: "What other set of fans steal tickets from their fellow supporters or out of the hands of children?"<ref>{{Cite news |first=Andy |last=Hunter |title=Liverpool are 'the worst fans in Europe' says Uefa report |url=http://sport.independent.co.uk/football/european/article2611680.ece |work=The Independent on Sunday |publisher=Independent Print |location=London |date=4 June 2007 |access-date=24 May 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070904174534/http://sport.independent.co.uk/football/european/article2611680.ece |archive-date=4 September 2007}}</ref> However, UEFA President [[Michel Platini]] later denied that Liverpool fans were the worst behaved in Europe.<ref>{{cite news |title=Uefa backtracks on Liverpool fans |url=https://news.bbc.co.uk/sport1/hi/football/teams/l/liverpool/6721545.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=5 June 2007 |access-date=29 July 2007 |archive-url=https://web.archive.org/web/20070708201258/http://news.bbc.co.uk/sport1/hi/football/teams/l/liverpool/6721545.stm |archive-date=8 July 2007 |url-status=live }}</ref> UEFA was itself criticised for poor ticket-checking procedures and for implementing insufficient measures to deal with the large number of fans. [[Simon Gass]], the British ambassador to Greece, said, "Clearly there was some element of breakdown where those fake tickets appeared to be legitimate – that's something UEFA must look at."<ref>{{cite news |title=Sports minister to quiz Platini over ticket debacle |url=http://soccernet.espn.go.com/news/story?id=433335&cc=5739 |work=ESPN Soccernet |publisher=ESPN Internet Ventures |date=24 May 2007 |access-date=28 May 2007 |archive-date=2 October 2012 |archive-url=https://web.archive.org/web/20121002213152/http://soccernet.espn.go.com/news/story?id=433335&cc=5739 |url-status=dead }}</ref> Meanwhile, Liverpool co-owner [[Tom Hicks]] described UEFA's allocation of 17,000 tickets to each team, knowing that Liverpool would be bringing 40,000 supporters, as "insane" and accused Gaillard of blaming Liverpool fans in order to cover up for his own mistakes.<ref name="Hicks">{{cite news |title=Caborn & Platini hold Reds talks |url=https://news.bbc.co.uk/sport1/hi/football/teams/l/liverpool/6721545.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=5 June 2007 |access-date=5 June 2007 |archive-url=https://web.archive.org/web/20070708201258/http://news.bbc.co.uk/sport1/hi/football/teams/l/liverpool/6721545.stm |archive-date=8 July 2007 |url-status=live }}</ref> UEFA was further criticised by Milan and Liverpool for their lack of provision for the clubs' disabled fans, providing the clubs with only sixteen disabled tickets each.<ref>{{cite news|first=Luke |last=Traynor |title=UEFA: Athens stadium wasn't built for football |url=http://icliverpool.icnetwork.co.uk/0100news/0100regionalnews/tm_headline=uefa--athens-stadium-wasn--8217-t-built-for-football&method=full&objectid=19087163&siteid=50061-name_page.html |work=icLiverpool.co.uk |publisher=Liverpool Echo |date=11 May 2007 |access-date=26 June 2007 |archive-url=https://web.archive.org/web/20070513030911/http://icliverpool.icnetwork.co.uk/0100news/0100regionalnews/tm_headline%3Duefa--athens-stadium-wasn--8217-t-built-for-football%26method%3Dfull%26objectid%3D19087163%26siteid%3D50061-name_page.html |archive-date=13 May 2007 |url-status=live }}</ref>
+
+==Match==
+
+===Summary===
+
+====First half====
+Milan won the toss and Liverpool kicked off.<ref name="guardianminute" /> Playing in a 4–2–3–1 formation, Liverpool had the first attack of the match, but Jermaine Pennant could not reach Steven Gerrard's cross-field pass.<ref name="bbcminute"/> Milan responded with two low attempts on the Liverpool goal, but Jamie Carragher was able to clear them both. The second clearance led to a corner, from which Milan failed to score.<ref name="guardianminute">{{cite news |first=Mike |last=Adamson |title=Milan 2–1 Liverpool |url=https://www.theguardian.com/football/2007/may/23/minutebyminute.sport?INTCMP=SRCH |work=The Guardian |location=London |date=23 May 2007 |access-date=6 July 2011 |archive-date=8 October 2014 |archive-url=https://web.archive.org/web/20141008204958/http://www.theguardian.com/football/2007/may/23/minutebyminute.sport?INTCMP=SRCH |url-status=live }}</ref> Liverpool had the first chance of the match in the ninth minute. A slip from Milan defender [[Marek Jankulovski]] allowed Pennant to run into space; he passed the ball to [[Dirk Kuyt]] who passed it back to him. Pennant's subsequent shot was saved by Milan goalkeeper [[Dida (footballer, born 1973)|Dida]].<ref name="guardianminute"/> Minutes later Gerrard won a header which found Pennant, however Gerrard was unable to make decent contact with the ball following Pennant's pass.<ref name="bbcminute"/> Milan had their first shot of the match a few minutes later. Kaká received the ball outside the area and moved to his right before shooting, however Liverpool goalkeeper [[Pepe Reina]] saved the shot.<ref name="bbcminute"/> Liverpool continued to exert pressure leading Milan defender [[Massimo Oddo]] to mis-read a cross from Pennant, the ball reached Gerrard whose shot went over the goal.<ref name="bbcminute"/>
+
+Liverpool had another chance in the 27th minute. Frantic defending from Milan to deny the Liverpool forwards a scoring opportunity, led to the ball being passed to [[Xabi Alonso]], whose shot went wide of the Milan goal.<ref name="guardianminute"/> A mistake from Jankulovski allowed Gerrard to pass the ball to Kuyt in the [[penalty area]], however Kuyt's shot was blocked by Milan defender [[Alessandro Nesta]].<ref name="guardianminute"/> Milan midfielder [[Gennaro Gattuso]] was the first player to receive a [[Penalty card#Yellow card|yellow card]], when he was cautioned in the 40th minute for a foul on Alonso.<ref name="uefaminute">{{cite web |title=Minute-by-minute |url=https://www.uefa.com/uefachampionsleague/match/300099--milan-vs-liverpool/ |website=UEFA.com|publisher=Union of European Football Associations |access-date=6 July 2011 |archive-date=12 April 2015 |archive-url=https://web.archive.org/web/20150412163613/http://www.uefa.com/uefachampionsleague/season=2006/matches/round=2361/match=300099/postmatch/commentary/index.html |url-status=live }}</ref> Minutes later, Alonso fouled Kaká on the edge of the Liverpool penalty area, giving away a free-kick. The subsequent free-kick taken by [[Andrea Pirlo]] deflected off the shoulder of Milan striker [[Filippo Inzaghi]], and into the Liverpool goal. The deflection resulted in the ball being diverted past Liverpool [[Goalkeeper (association football)|goalkeeper]] Pepe Reina, who had dived the other way in anticipation of the ball's original trajectory.<ref name="final"/> Replays showed that the ball struck Inzaghi's upper arm on its way to the goal, but the referee did not judge this to have been a [[Foul (association football)#Direct free kick offences|handball]].<ref>{{cite news |first=David |last=Lacey |title=Technocrat to blame for Athens anti-climax |url=http://blogs.guardian.co.uk/sport/2007/05/26/technocrat_to_blame_for_athens.html |work=The Guardian|publisher=Guardian News and Media |location=London |date=26 May 2007 |access-date=28 May 2007 |archive-url=https://web.archive.org/web/20070528093456/http://blogs.guardian.co.uk/sport/2007/05/26/technocrat_to_blame_for_athens.html |archive-date=28 May 2007 |url-status=dead }}</ref> Inzaghi later said that while the deflection was intended, he did not intend for the ball to hit his arm.<ref>{{cite news |first=Matt |last=Dickinson |title=Deflected glory goes to Inzaghi with no comeback |url=http://www.timesonline.co.uk/tol/sport/football/european_football/article1832550.ece |work=The Times |publisher=Times Newspapers |location=London |date=24 May 2007 |access-date=28 May 2007 |archive-date=26 July 2008 |archive-url=https://web.archive.org/web/20080726130924/http://www.timesonline.co.uk/tol/sport/football/european_football/article1832550.ece |url-status=dead }}</ref> With no further action in the first half, Milan went into half-time leading 1–0.<ref name="bbcminute" />
+
+====Second half====
+Milan kicked off the second half. Two minutes into the half, Liverpool had the first attack, but Nesta tackled Gerrard before he could reach Kuyt's pass.<ref name="bbcminute"/> Jankulovski received a yellow card in the 54th minute when he brought Pennant down.<ref name="guardianminute"/> Immediately afterwards, Milan had an attack. Pirlo received the ball from a header by [[Clarence Seedorf]], Pirlo played a high pass to Kaká who was ruled to be offside by the assistant referee, despite being behind the defence when the ball was played.<ref name="bbcminute"/> Milan had another attack straight after the offside, but Liverpool defender [[Daniel Agger]] tackled Inzaghi before he could shoot.<ref name="bbcminute"/> Liverpool had their first yellow card in the 59th minute when [[Javier Mascherano]] received one for bringing down Pirlo.<ref name="guardianminute"/> After the yellow card, Liverpool decided to replace [[Boudewijn Zenden]] with [[Harry Kewell]].<ref name="uefaminute"/> Liverpool's best goalscoring chance of the match occurred minutes later. Gerrard capitalised on an error by Gattuso to be one-on-one with Dida, but his shot did not possess enough power to beat the Milan goalkeeper.<ref name="guardianminute"/>
+
+Liverpool began to exert more pressure, although all their play was in front of the Milan penalty area, while Milan were unable to keep possession of the ball.<ref name="bbcminute"/> In an attempt to bring about an equalising goal, Liverpool manager [[Rafael Benítez]] substituted Mascherano for striker [[Peter Crouch]].<ref name="final"/> Milan had an attack minutes later, but Inzaghi was unable to control the ball. Inzaghi made amends minutes later when he scored Milan's second goal. With Mascherano substituted, Kaká had the space to pick out a pass to Inzaghi, who took the ball to the side of the Liverpool goalkeeper Reina and rolled it into the net to make the score 2–0 to Milan.<ref name="guardianminute"/> Liverpool managed to pull one goal back in the 88th minute when Kuyt scored with a header after Agger had flicked on Pennant's corner from the left.<ref name="bbcminute"/> However, they were unable to find a second goal and the referee blew for full-time with the score 2–1 to Milan.<ref name="final"/>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2007|5|23|df=y}}
+|time       = {{CEST|20:45|localtz=EEST}}<!--20:45 CEST, 21:45 EEST-->
+|team1      = [[AC Milan|Milan]] {{fbaicon|ITA}}
+|score      = 2–1
+|team2      = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+*[[Filippo Inzaghi|Inzaghi]] {{goal|45||82}}
+|goals2     =
+*[[Dirk Kuyt|Kuyt]] {{goal|89}}
+|stadium    = [[Olympic Stadium (Athens)|Olympic Stadium]], [[Athens]]
+|attendance = 63,000<ref name="attendance">{{cite book |location=Nyon |chapter-url=https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |chapter=2. Finals |title=UEFA Champions League Statistics Handbook 2022/23 |publisher=Union of European Football Associations |page=3 |date=4 June 2023 |access-date=17 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20230821082639/https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |archive-date=21 August 2023}}</ref>
+|referee    = [[Herbert Fandel]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/300099/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _acm0607a
+ |pattern_b  = _acm0607a
+ |pattern_ra = _acm0607a
+ |pattern_sh = _acm0607h
+ |pattern_so = _acmilan
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Milan<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _livfc0607h
+ |pattern_b  = _livfc0607h
+ |pattern_ra = _livfc0607h
+ |pattern_sh = _liverpool0607h
+ |pattern_so = _3_stripes_white
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = Liverpool<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Dida (footballer, born 1973)|Dida]]
+|-
+|RB ||'''44'''||{{flagicon|ITA}} [[Massimo Oddo]]
+|-
+|CB ||'''13'''||{{flagicon|ITA}} [[Alessandro Nesta]]
+|-
+|CB ||'''3''' ||{{flagicon|ITA}} [[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|LB ||'''18'''||{{flagicon|CZE}} [[Marek Jankulovski]] || {{yel|54}} || {{suboff|80}}
+|-
+|RM ||'''8''' ||{{flagicon|ITA}} [[Gennaro Gattuso]] || {{yel|40}}
+|-
+|CM ||'''21'''||{{flagicon|ITA}} [[Andrea Pirlo]]
+|-
+|CM ||'''23'''||{{flagicon|ITA}} [[Massimo Ambrosini]]
+|-
+|LM ||'''10'''||{{flagicon|NED}} [[Clarence Seedorf]] || || {{suboff|90+2}}
+|-
+|SS ||'''22'''||{{flagicon|BRA}} [[Kaká]]
+|-
+|CF ||'''9''' ||{{flagicon|ITA}} [[Filippo Inzaghi]] || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|AUS}} [[Zeljko Kalac]]
+|-
+|DF ||'''2''' ||{{flagicon|BRA}} [[Cafu]]
+|-
+|DF ||'''4''' ||{{flagicon|GEO}} [[Kakha Kaladze]] || || {{subon|80}}
+|-
+|DF ||'''19'''||{{flagicon|ITA}} [[Giuseppe Favalli]] || || {{subon|90+2}}
+|-
+|DF ||'''27'''||{{flagicon|BRA}} [[Serginho (footballer, born 1971)|Serginho]]
+|-
+|MF ||'''32'''||{{flagicon|ITA}} [[Cristian Brocchi]]
+|-
+|FW ||'''11'''||{{flagicon|ITA}} [[Alberto Gilardino]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Carlo Ancelotti]]
+|}
+|valign="top"|[[File:Milan vs Liverpool 2007-05-23.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Pepe Reina]]
+|-
+|RB ||'''3''' ||{{flagicon|IRL}} [[Steve Finnan]] || || {{suboff|88}}
+|-
+|CB ||'''23'''||{{flagicon|ENG}} [[Jamie Carragher]] || {{yel|60}}
+|-
+|CB ||'''5''' ||{{flagicon|DEN}} [[Daniel Agger]]
+|-
+|LB ||'''6''' ||{{flagicon|NOR}} [[John Arne Riise]]
+|-
+|DM ||'''14'''||{{flagicon|ESP}} [[Xabi Alonso]]
+|-
+|DM ||'''20'''||{{flagicon|ARG}} [[Javier Mascherano]] || {{yel|58}} || {{suboff|78}}
+|-
+|RM ||'''16'''||{{flagicon|ENG}} [[Jermaine Pennant]]
+|-
+|LM ||'''32'''||{{flagicon|NED}} [[Boudewijn Zenden]] || || {{suboff|59}}
+|-
+|AM ||'''8''' ||{{flagicon|ENG}} [[Steven Gerrard]] ([[Captain (association football)|c]])
+|-
+|CF ||'''18'''||{{flagicon|NED}} [[Dirk Kuyt]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|POL}} [[Jerzy Dudek]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Álvaro Arbeloa]] || || {{subon|88}}
+|-
+|DF ||'''4''' ||{{flagicon|FIN}} [[Sami Hyypiä]]
+|-
+|MF ||'''11'''||{{flagicon|CHI}} [[Mark González]]
+|-
+|FW ||'''7''' ||{{flagicon|AUS}} [[Harry Kewell]] || || {{subon|59}}
+|-
+|FW ||'''15'''||{{flagicon|ENG}} [[Peter Crouch]] || || {{subon|78}}
+|-
+|FW ||'''17'''||{{flagicon|WAL}} [[Craig Bellamy]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Rafael Benítez]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Filippo Inzaghi]] (Milan)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Carsten Kadach ([[German Football Association|Germany]])<ref name="referee"/>
+<br />Volker Wezel ([[German Football Association|Germany]])<ref name="referee"/>
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Florian Meyer (referee)|Florian Meyer]] ([[German Football Association|Germany]])<ref name="referee"/>
+|width=50% valign=top|
+<br />'''Match rules'''
+*90 minutes
+*30 minutes of extra time if necessary
+*Penalty shoot-out if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="full time">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/UCL/2006/300099_FR.pdf |website=UEFA.com|publisher=Union of European Football Associations |date=23 May 2011 |access-date=29 June 2011 |archive-date=4 November 2012 |archive-url=https://web.archive.org/web/20121104021619/http://www.uefa.com/newsfiles/UCL/2006/300099_FR.pdf |url-status=live }}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Milan
+!scope="col" style="width:70px"|Liverpool
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|2
+|5
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|58%
+|42%
+|-
+!scope=row|Corner kicks
+|1
+|1
+|-
+!scope=row|Fouls committed
+|7
+|16
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Milan
+!scope="col" style="width:70px"|Liverpool
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|3
+|7
+|-
+!scope=row|Shots on target
+|1
+|3
+|-
+!scope=row|Saves
+|2
+|0
+|-
+!scope=row|Ball possession
+|48%
+|52%
+|-
+!scope=row|Corner kicks
+|3
+|5
+|-
+!scope=row|Fouls committed
+|8
+|11
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|1
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Milan
+!scope="col" style="width:70px"|Liverpool
+|-
+!scope=row|Goals scored
+|2
+|1
+|-
+!scope=row|Total shots
+|5
+|12
+|-
+!scope=row|Shots on target
+|3
+|4
+|-
+!scope=row|Saves
+|3
+|1
+|-
+!scope=row|Ball possession
+|53%
+|47%
+|-
+!scope=row|Corner kicks
+|4
+|6
+|-
+!scope=row|Fouls committed
+|15
+|27
+|-
+!scope=row|Offsides
+|3
+|3
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+[[File:AC Milan team celebrate.jpg|thumb|Milan players celebrate with the trophy.]]
+
+The [[European Champion Clubs' Cup]] was presented to Milan captain [[Paolo Maldini]] in the Guest of Honour's box, as UEFA President [[Michel Platini]] favoured a return to the past tradition of the winning captain receiving the trophy among the fans. It had become customary in recent years to have the presentation on a hastily constructed podium in the centre of the pitch. This was the first time that the trophy was presented to a winning captain by a UEFA president who had actually played against him in the past; during Michel Platini's final seasons with [[Juventus FC|Juventus]], the then-teenager Paolo Maldini was making his professional debut with Milan.<ref name="background"/>
+
+Milan manager [[Carlo Ancelotti]] was delighted with his team after their success. Ancelotti's job had been under threat after a run of poor results in December, therefore the victory had extra significance for Ancelotti: "When I think back to December, we had to overcome so many hurdles so that makes it a very special victory."<ref name="Uefareaction">{{cite news |title=Ancelotti savours 'greatest night' |url=https://www.uefa.com/uefachampionsleague/match/300099--milan-vs-liverpool/ |website=UEFA.com|publisher=Union of European Football Associations |date=23 May 2007 |access-date=12 September 2011 |archive-date=2 October 2015 |archive-url=https://web.archive.org/web/20151002034109/http://www.uefa.com/uefachampionsleague/season=2006/matches/round=2361/match=300099/postmatch/quotes/ |url-status=live }}</ref> Milan midfielder [[Clarence Seedorf]], who had his fourth victory in the competition following Milan's triumph was equally proud in the team's achievement: "I am so proud to be part of this team. We worked hard this year, a very difficult year."<ref name="Milan">{{cite news |title=AC Milan 2–1 Liverpool – Milan Reaction |url=https://news.bbc.co.uk/sport2/hi/football/europe/6677489.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=23 May 2007 |access-date=10 July 2011 |archive-date=1 June 2009 |archive-url=https://web.archive.org/web/20090601065821/http://news.bbc.co.uk/sport1/hi/football/europe/6677489.stm |url-status=live }}</ref>
+[[File:The champions league coppa Casa Milan.jpg|thumb|270x270px|The UEFA Champions League trophy is on display in Casa Milan.]]
+A number of Milan players who had played in the 2005 final were delighted with the victory after they lost two years previous. [[Kaká]] claimed victory was all the sweeter as a result: "What happened then was strange, just six minutes when we played not so good and we paid for that." Milan midfielder [[Gennaro Gattuso]] echoed his teammates sentiments: "The defeat two years ago will stay me for a lifetime, but this is a different story. It's our turn to celebrate now." Striker [[Filippo Inzaghi]], who missed the final in 2005, was delighted to have scored the goals that won the final for Milan: "I've scored quite a few times in Europe, but scoring in the Champions League final is something special." Milan President and owner [[Silvio Berlusconi]] was equally delighted about the success, adding that "the fortune we lacked in Istanbul we had with us tonight."<ref name="Milan" />
+
+Liverpool manager [[Rafael Benítez]] was disappointed that his team were unable to match their exploits of 2005, when they beat Milan in a penalty shootout. Despite this he was still proud of his players efforts: "Thank you to our supporters, my staff and players who worked really hard and deserved a bit more." Benítez was already thinking of making transfers in the aftermath of the match, hinting that his team lacked the same calibre of players that Milan had: "You could see the quality they had, and we need to start thinking how we can improve our team."<ref name="Uefareaction"/>
+
+Liverpool captain [[Steven Gerrard]] was adamant that despite the defeat Liverpool would come back stronger next season: "We've got to pick ourselves up, have a good rest in the summer and then go again next season." Gerrard thought that although Liverpool controlled the first half, they did not control the match as much in the second half as they would have liked. Gerrard echoed his manager's sentiments in regards to new players joining the club: "We need to strengthen and bring some quality into the club. The manager and the people in charge of the club know that and it will be an interesting summer."<ref>{{cite news |title=AC Milan 2–1 – Reds Reaction |url=https://news.bbc.co.uk/sport2/hi/football/europe/6676931.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=23 May 2007 |access-date=12 July 2011 |archive-date=14 September 2007 |archive-url=https://web.archive.org/web/20070914083226/http://news.bbc.co.uk/sport1/hi/football/europe/6676931.stm |url-status=live }}</ref>
+
+Winning the Champions League entitled Milan to compete in the [[2007 UEFA Super Cup]] against UEFA Cup winners [[Sevilla FC|Sevilla]]. The match was overshadowed by the death of Sevilla player [[Antonio Puerta]], which raised the possibility that the Super Cup might not go ahead. It did however, Milan beat Sevilla 3–1 to secure their fifth Super Cup victory.<ref>{{cite news |title=Milan beat Sevilla in Super Cup |url=https://news.bbc.co.uk/sport2/hi/football/europe/6973445.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=1 September 2007 |access-date=12 July 2011 |archive-date=5 August 2017 |archive-url=https://web.archive.org/web/20170805061626/http://news.bbc.co.uk/sport1/hi/football/europe/6973445.stm |url-status=live }}</ref> Milan's success also entitled them to compete in the [[2007 FIFA Club World Cup]]. They entered the competition in the semi-finals, defeating Japanese team [[Urawa Red Diamonds]] 1–0 to progress to the final where they faced Argentine team [[Boca Juniors]]. Milan won the match 4–2 to secure their first FIFA Club World Cup triumph.<ref>{{cite news |title=AC Milan 4–2 Boca Juniors |url=https://news.bbc.co.uk/sport1/hi/football/7145975.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=16 December 2007 |access-date=12 July 2011 |archive-date=17 December 2007 |archive-url=https://web.archive.org/web/20071217083827/http://news.bbc.co.uk/sport1/hi/football/7145975.stm |url-status=live }}</ref>
+
+==See also==
+*[[2005 UEFA Champions League final]] – contested by same teams
+*[[2007 UEFA Cup final]]
+*[[2007 UEFA Women's Cup final]]
+*[[2006–07 AC Milan season]]
+*[[2006–07 Liverpool F.C. season]]
+*[[AC Milan in international football]]
+*[[Liverpool F.C. in international football]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.uefa.com/uefachampionsleague/history/seasons/2006/ 2006–07 season at UEFA website]
+
+{{UEFA Champions League seasons}}
+{{2006–07 in European football (UEFA)}}
+{{A.C. Milan matches}}
+{{Liverpool F.C. matches}}
+
+[[Category:Football matches in Greece|Uefa Champions League final 2007]]
+[[Category:UEFA Champions League finals]]
+[[Category:2006–07 UEFA Champions League|Final]]
+[[Category:Liverpool F.C. matches|European Cup 2007 R6]]
+[[Category:AC Milan matches|European Cup Final 2007]]
+[[Category:2006–07 in Greek football|Champions League final]]
+[[Category:May 2007 sports events in Europe]]
+[[Category:2000s in Athens]]
+[[Category:Football matches in Athens]]
+[[Category:Italy–United Kingdom sports relations|2007]]
+[[Category:2006–07 in English men's football]]
+[[Category:2006–07 in Italian football]]

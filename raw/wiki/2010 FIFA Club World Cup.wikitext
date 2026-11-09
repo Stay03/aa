@@ -1,0 +1,489 @@
+{{Use dmy dates|date=December 2016}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2010
+| other_titles   = FIFA Club World Cup UAE 2010<br />presented by Toyota<br />كأس العالم للأندية لكرة القدم<br />الإمارات العربية المتحدة 2010
+| image          = 2010 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA badge}}
+| country        = United Arab Emirates
+| dates          = 8–18 December
+| num_teams      = 7
+| confederations = 6
+| venues         = 2
+| cities         = 1
+| champion_other = {{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+| count          = 1
+| second_other   = {{fbaicon|COD}} [[TP Mazembe]]
+| third_other    = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+| fourth_other   = {{fbaicon|KOR|1997}} [[Seongnam FC|Seongnam Ilhwa Chunma]]
+| matches        = 8
+| goals          = 27
+| attendance     = 200251
+| top_scorer     = {{nowrap|[[Mauricio Molina]] (Seongnam Ilhwa Chunma)<br />3 goals}}
+| player         = [[Samuel Eto'o]] (Internazionale)
+| fair_play      = {{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+| updated        = 
+| prevseason     = [[2009 FIFA Club World Cup|2009]]
+| nextseason     = [[2011 FIFA Club World Cup|2011]]
+}}
+The '''2010 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup UAE 2010 presented by Toyota''' for sponsorship reasons) was a [[association football|football]] tournament that was played from 8 to 18 December 2010. It was the seventh [[FIFA Club World Cup]] and was hosted by the [[United Arab Emirates]].
+
+Defending champions [[FC Barcelona|Barcelona]] did not qualify as they were eliminated in the semi-finals of the [[2009–10 UEFA Champions League]] by eventual champions [[Inter Milan|Internazionale]]. African representatives [[TP Mazembe]] of DR Congo defeated South America's [[Sport Club Internacional|Internacional]] of Brazil in the semi-finals to become the first team from outside Europe or South America to reach a Club World Cup final.<ref>{{cite news |title=TP Mazembe make history to reach Club World Cup final |url=http://news.bbc.co.uk/sport1/hi/football/africa/9287537.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=14 December 2010 |access-date=10 January 2011 | archive-url= https://web.archive.org/web/20160112050955/http://news.bbc.co.uk/sport1/hi/football/africa/9287537.stm| archive-date=12 January 2016|url-status = live}}</ref> However, Mazembe were unable to pass the final hurdle, as they lost 3–0 to Internazionale in the final.<ref name="bbc_final">{{cite news |title=Inter Milan beat TP Mazembe to take World Club crown |url=http://news.bbc.co.uk/sport1/hi/football/9301760.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=18 December 2010 |access-date=10 January 2011 | archive-url= https://web.archive.org/web/20160112051002/http://news.bbc.co.uk/sport1/hi/football/9301760.stm| archive-date=12 January 2016|url-status = live}}</ref> It was Inter's third world title, having won the Club World Cup's predecessor – the [[Intercontinental Cup (1960–2004)|Intercontinental Cup]] – in [[1964 Intercontinental Cup|1964]] and [[1965 Intercontinental Cup|1965]].<ref name="bbc_final"/>
+
+==Host bids==
+The [[FIFA Executive Committee]] appointed the United Arab Emirates as hosts for the [[2009 FIFA Club World Cup|2009]] and 2010 tournaments on 27 May 2008 during their meeting in [[Sydney]], Australia.<ref>{{cite news |url=http://www.gulfnews.com/sport/Football/10216474.html |title=UAE to stage World Club Cup in 2009 and 2010 |date=27 May 2008|access-date=27 May 2008 |publisher=Gulfnews.com|archive-url=https://web.archive.org/web/20080529151302/http://www.gulfnews.com/sport/Football/10216474.html|archive-date=29 May 2008|url-status = dead}}</ref><ref>{{cite news |url=https://www.fifa.com/clubworldcup/organisation/media/newsid=779200.html |title=Unanimous support for 6+5, FIFA Club World Cup hosts revealed |date=27 May 2008 |access-date=1 April 2010 |publisher=FIFA |quote=Another major decision taken by the Executive Committee was to award the organisation of the 2009 and 2010 editions of the FIFA Club World Cup for the first time to the United Arab Emirates (UAE) and the following two events, in 2011 and 2012, to Japan, where it has been played since 2005 and will be again in December this year. |url-status = dead|archive-url=https://web.archive.org/web/20091014213232/http://www.fifa.com/clubworldcup/organisation/media/newsid%3D779200.html |archive-date=14 October 2009 }}</ref> Other countries that placed bids were [[Australia]] and [[Japan]]. [[Portugal]] had initially placed a bid, but later withdrew from the process.<ref name="Announcement">{{cite web |url=https://www.fifa.com/clubworldcup/organisation/media/newsid=711059.html |title=Organising committee approves tournament format with reintroduction of match for fifth place |date=12 March 2008 |access-date=20 March 2008 |archive-url=https://web.archive.org/web/20080314224518/http://www.fifa.com/clubworldcup/organisation/media/newsid%3D711059.html |archive-date=14 March 2008 |url-status = dead}}</ref>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of teams of the 2010 FIFA Club World Cup|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-30.06561|long=-51.23609|label_size=80|label=[[Sport Club Internacional|Internacional]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=45.47808|long=9.12400|label_size=80|label=[[Inter Milan|Internazionale]]|position=right}}
+<!--AFC-->
+{{Location map~|World|lat=37.41015|long=127.12132|label_size=80|label=[[Seongnam FC|Seongnam Ilhwa Chunma]]|position=right}}
+<!--CAF-->
+{{Location map~|World|lat=-11.67837|long=27.48924|label_size=80|label=[[TP Mazembe]]|position=right}}
+<!--CONCACAF-->
+{{Location map~|World|lat=20.10514|long=-98.75611|label_size=80|label=[[C.F. Pachuca|Pachuca]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-9.46833|long=147.19833|label_size=80|label=[[Hekari United F.C.|Hekari United]]|position=right}}
+<!--Host-->
+{{Location map~|World|lat=24.46940|long=54.37525|label_size=80|label=[[Al Wahda FC|Al-Wahda]]|position=right}}
+}}
+
+[[Sport Club Internacional|Internacional]] were the first previous winners to participate in another season of the Club World Cup.
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Participation (bold indicates winners)
+|-
+!colspan=4|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|[[CONMEBOL]]
+|Winners of the [[2010 Copa Libertadores]]
+|2nd <small>(Previous: '''[[2006 FIFA Club World Cup|2006]]''')</small>
+|-
+|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|[[UEFA]]
+|Winners of the [[2009–10 UEFA Champions League]]
+|Debut
+|-
+!colspan=4|Entering in the [[#Quarter-finals|quarter-finals]]
+|-
+|{{fbaicon|KOR|1997}} [[Seongnam FC|Seongnam Ilhwa Chunma]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2010 AFC Champions League]]
+|Debut
+|-
+|{{fbaicon|COD}} [[TP Mazembe]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2010 CAF Champions League]]
+|2nd <small>(Previous: [[2009 FIFA Club World Cup|2009]])</small>
+|-
+|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|[[CONCACAF]] 
+|Winners of the [[2009–10 CONCACAF Champions League]]
+|3rd <small>(Previous: [[2007 FIFA Club World Cup|2007]], [[2008 FIFA Club World Cup|2008]])</small>
+|-
+!colspan=4|Entering in the [[#Play-off for quarter-finals|play-off for quarter-finals]]
+|-
+|{{fbaicon|PNG}} [[Hekari United F.C.|Hekari United]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2009–10 OFC Champions League]]
+|Debut
+|-
+|{{fbaicon|UAE}} [[Al Wahda FC|Al-Wahda]]
+|[[Asian Football Confederation|AFC]] ([[United Arab Emirates Football Association|host]])
+|Winners of the [[2009–10 UAE Pro-League]]
+|Debut
+|}
+
+==Match officials==
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+|-
+|rowspan=2|[[Asian Football Confederation|AFC]]
+|{{fbaicon|AUS}} [[Ben Williams (referee)|Ben Williams]]
+|{{fbaicon|AUS}} Rodney Allen<br />{{fbaicon|IRN}} Mohammadreza Abolfazli
+|-
+|{{fbaicon|JPN}} [[Yuichi Nishimura]]
+|{{fbaicon|JPN}} Toshiyuki Nagi<br />{{fbaicon|JPN}} Toru Sagara
+|-
+|[[Confederation of African Football|CAF]]
+|{{fbaicon|RSA}} [[Daniel Bennett (referee)|Daniel Bennett]]
+|{{fbaicon|CMR}} Evarist Menkouande<br />{{fbaicon|MAR}} Redouane Achik
+|-
+|[[CONCACAF]]
+|{{fbaicon|PAN}} [[Roberto Moreno (referee)|Roberto Moreno]]
+|{{fbaicon|CRC}} Leonel Leal<br />{{fbaicon|PAN}} Daniel Williamson
+|-
+|[[CONMEBOL]]
+|{{fbaicon|PER}} [[Víctor Hugo Carrillo]]
+|{{fbaicon|PER}} Jonny Bossio<br />{{fbaicon|PER}} Jorge Yupanqui
+|-
+|[[Oceania Football Confederation|OFC]]
+|{{fbaicon|NZL}} [[Michael Hester]]
+|{{fbaicon|NZL}} Jan-Hendrik Hintz<br />{{fbaicon|TGA}} Tevita Makasini
+|-
+|[[UEFA]]
+|{{fbaicon|NED}} [[Björn Kuipers]]
+|{{fbaicon|NED}} Berry Simons<br />{{fbaicon|NED}} Sander van Roekel
+|}
+
+==Squads==
+{{Main|2010 FIFA Club World Cup squads}}
+
+==Venues==
+Abu Dhabi was the only city to serve as a venue for the 2010 FIFA Club World Cup.<ref>{{cite web |url=https://www.fifa.com/clubworldcup/destination/cities/index.html |archive-url=https://web.archive.org/web/20071025032547/http://www.fifa.com/clubworldcup/destination/cities/index.html |url-status=dead |archive-date=25 October 2007 |title=Host City |access-date=16 July 2009 |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 July 2008}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="2"| [[Abu Dhabi]]
+|-
+| [[Al Jazira Mohammed bin Zayed Stadium|Mohammed Bin Zayed Stadium]]
+| [[Zayed Sports City Stadium]]
+|-
+| <small>{{Coord|24|27|09.95|N|54|23|31.27|E|type:landmark|display=inline|name=Mohammed Bin Zayed Stadium}}</small>
+| <small>{{Coord|24|24|57.92|N|54|27|12.93|E|type:landmark_source:dewiki|display=inline|name=Sheikh Zayed Stadium}}</small>
+|-
+| Capacity: '''42,056'''
+| Capacity: '''50,000'''
+|-
+| [[File:IRN-YMN_20190107_Asian_Cup_4.jpg|200x200px]]
+| [[File:Gulf_Cup_(36).jpg|200x200px]]
+|-
+!rowspan=1 colspan=5|{{location map+ |United Arab Emirates |float=center |width=400 |places=
+{{location map~ |United Arab Emirates |lat=24.466667 |long=54.366667 |label=[[Abu Dhabi]]|position=left}}|caption=Location of the host city of the 2010 FIFA Club World Cup.}}
+|}
+
+== Matches ==
+A draw was held on 27 October 2010 at the FIFA Headquarters in [[Zurich]], [[Switzerland]] to decide the matchups for the two quarter-finals.<ref>{{cite news |title=Draw finalises UAE 2010 schedule |url=https://www.fifa.com/clubworldcup/news/newsid=1324848.html |archive-url=https://web.archive.org/web/20101030210941/http://www.fifa.com/clubworldcup/news/newsid=1324848.html |url-status=dead |archive-date=30 October 2010 |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=27 October 2010 |access-date=10 January 2011}}</ref>
+
+If a match was tied after normal playing time, 30 minutes of [[Overtime (sports)#Association football|extra time]] would be played. If still tied after extra time, a [[Penalty shoot-out (association football)|penalty shoot-out]] would be held to determine the winner. However, for the fifth-place and third-place matches, no extra time would be played, and if tied the match would go straight to a penalty shoot-out to determine the winner.<ref name="regulations">{{cite web |url=https://www.fifa.com/mm/document/tournament/competition/01/30/25/39/regulationsfcwc2010_en_082010.pdf |archive-url=https://web.archive.org/web/20111122160253/http://www.fifa.com/mm/document/tournament/competition/01/30/25/39/regulationsfcwc2010%5fen%5f082010.pdf |url-status=dead |archive-date=22 November 2011 |title=Regulations – FIFA Club World Cup UAE 2010 |work=FIFA.com |publisher=FIFA | access-date= 14 October 2011}}</ref>
+
+{{7TeamBracket-StepladderToSF
+| style       = 2
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#Play-off for quarter-finals|Play-off for quarter-finals]]
+| RD2         = [[#Quarter-finals|Quarter-finals]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD3b        = [[#Match for fifth place|Match for fifth place]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- Play-off for quarter-finals -->
+| RD1-text1    = 8 December – [[Mohammed bin Zayed Stadium|Abu Dhabi (MBZ)]]
+| RD1-team1    = {{fbaicon|UAE}} [[Al Wahda FC|Al-Wahda]]
+| RD1-score1   = 3
+| RD1-team2    = {{fbaicon|PNG}} [[Hekari United F.C.|Hekari United]]
+| RD1-score2   = 0
+
+<!-- Quarter-finals -->
+| RD2-text1    = 10 December – [[Mohammed bin Zayed Stadium|Abu Dhabi (MBZ)]]
+| RD2-team1    = {{fbaicon|COD}} [[TP Mazembe]]
+| RD2-score1   = 1
+| RD2-team2    = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+| RD2-score2   = 0
+
+| RD2-text2    = 11 December – [[Zayed Sports City Stadium|Abu Dhabi (ZSC)]]
+| RD2-team3    = {{fbaicon|UAE}} [[Al Wahda FC|Al-Wahda]]
+| RD2-score3   = 1
+| RD2-team4    = {{fbaicon|KOR|1997}} [[Seongnam FC|Seongnam Ilhwa Chunma]]
+| RD2-score4   = 4
+
+<!-- Semi-finals -->
+| RD3-text1    = 14 December – [[Mohammed bin Zayed Stadium|Abu Dhabi (MBZ)]]
+| RD3-team1    = {{fbaicon|COD}} [[TP Mazembe]]
+| RD3-score1   = 2
+| RD3-team2    = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+| RD3-score2   = 0
+
+| RD3-text2    = 15 December – [[Zayed Sports City Stadium|Abu Dhabi (ZSC)]]
+| RD3-team3    = {{fbaicon|KOR|1997}} [[Seongnam FC|Seongnam Ilhwa Chunma]]
+| RD3-score3   = 0
+| RD3-team4    = {{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+| RD3-score4   = 3
+
+<!-- Final -->
+| RD4-text1    = 18 December – [[Zayed Sports City Stadium|Abu Dhabi (ZSC)]]
+| RD4-team1    = {{fbaicon|COD}} [[TP Mazembe]]
+| RD4-score1   = 0
+| RD4-team2    = {{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+| RD4-score2   = 3
+
+<!-- Match for fifth place -->
+| RD3-text3    = 15 December – [[Zayed Sports City Stadium|Abu Dhabi (ZSC)]]
+| RD3-team5    = {{fbaicon|MEX}} '''[[C.F. Pachuca|Pachuca]]''' {{pso}}
+| RD3-score5   = '''2 (4)'''
+| RD3-team6    = {{fbaicon|UAE}} [[Al Wahda FC|Al-Wahda]]
+| RD3-score6   = 2 (2)
+
+<!-- Match for third place -->
+| RD4-text2    = 18 December – [[Zayed Sports City Stadium|Abu Dhabi (ZSC)]]
+| RD4-team3    = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+| RD4-score3   = 4
+| RD4-team4    = {{fbaicon|KOR|1997}} [[Seongnam FC|Seongnam Ilhwa Chunma]]
+| RD4-score4   = 2
+}}
+
+All times are local, [[Gulf Standard Time|GST]] ([[UTC+04:00|UTC+4]]).
+
+=== Play-off for quarter-finals ===
+{{football box
+|date=8 December 2010
+|time=20:00
+|team1=[[Al Wahda FC|Al-Wahda]] {{fbaicon|UAE}}
+|score=3–0
+|report=https://www.fifa.com/clubworldcup/matches/round=254482/match=300140541/report.html
+|team2={{fbaicon|PNG}} [[Hekari United F.C.|Hekari United]]
+|goals1=[[Hugo Henrique Assis do Nascimento|Hugo]] {{goal|40}}<br />[[Fernando Baiano|Baiano]] {{goal|44}}<br />[[Abdulrahim Jumaa|Jumaa]] {{goal|71}}
+|goals2=
+|stadium=[[Al Jazira Mohammed bin Zayed Stadium|Mohammed Bin Zayed Stadium]], [[Abu Dhabi]]
+|attendance=23,895
+|referee=[[Daniel Bennett (referee)|Daniel Bennett]] ([[South African Football Association|South Africa]]) }}
+
+=== Quarter-finals ===
+{{football box
+| date = 10 December 2010
+| time = 20:00
+| team1 = [[TP Mazembe]] {{fbaicon|COD}}
+| score = 1–0
+| report = https://www.fifa.com/clubworldcup/matches/round=254480/match=300140537/report.html
+| team2 = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+| goals1 = [[Mbenza Bedi|Bedi]] {{goal|21}}
+| goals2 = 
+| stadium = [[Al Jazira Mohammed bin Zayed Stadium|Mohammed Bin Zayed Stadium]], [[Abu Dhabi]]
+| attendance = 17,960
+| referee = [[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+}}
+----
+{{football box
+| date = 11 December 2010
+| time = 20:00
+| team1 = [[Al Wahda FC|Al-Wahda]] {{fbaicon|UAE}}
+| score = 1–4
+| report = https://www.fifa.com/clubworldcup/matches/round=254480/match=300140536/report.html
+| team2 = {{fbaicon|KOR|1997}} [[Seongnam FC|Seongnam Ilhwa Chunma]]
+| goals1 = [[Fernando Baiano|Baiano]] {{goal|27}}
+| goals2 = [[Mauricio Molina|Molina]] {{goal|4}}<br />[[Saša Ognenovski|Ognenovski]] {{goal|30}}<br />[[Choi Sung-Kuk]] {{goal|71}}<br />[[Cho Dong-Geon]] {{goal|81}}
+| stadium = [[Zayed Sports City Stadium]], [[Abu Dhabi]]
+| attendance = 30,625
+| referee = [[Víctor Hugo Carrillo]] ([[Peruvian Football Federation|Peru]])
+}}
+
+=== Semi-finals ===
+{{football box
+| date = 14 December 2010
+| time = 20:00
+| team1 = [[TP Mazembe]] {{fbaicon|COD}}
+| score = 2–0
+| report = https://www.fifa.com/clubworldcup/matches/round=254486/match=300140539/report.html
+| team2 = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+| goals1 = [[Mulota Kabangu|Kabangu]] {{goal|53}}<br />[[Dioko Kaluyituka|Kaluyituka]] {{goal|85}}
+| goals2 = 
+| stadium = [[Al Jazira Mohammed bin Zayed Stadium|Mohammed Bin Zayed Stadium]], [[Abu Dhabi]]
+| attendance = 22,131
+| referee = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+----
+{{football box
+| date = 15 December 2010
+| time = 21:00
+| team1 = [[Seongnam FC|Seongnam Ilhwa Chunma]] {{fbaicon|KOR|1997}}
+| score = 0–3
+| report = https://www.fifa.com/clubworldcup/matches/round=254486/match=300140535/report.html
+| team2 = {{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+| goals1 = 
+| goals2 = [[Dejan Stanković|Stanković]] {{goal|3}}<br />[[Javier Zanetti|Zanetti]] {{goal|32}}<br />[[Diego Milito|Milito]] {{goal|73}}
+| stadium = [[Zayed Sports City Stadium]], [[Abu Dhabi]]
+| attendance = 35,995
+| referee = [[Roberto Moreno (referee)|Roberto Moreno]] ([[Panamanian Football Federation|Panama]])
+}}
+
+=== Match for fifth place ===
+{{football box
+| date = 15 December 2010
+| time = 18:00
+| team1 = [[C.F. Pachuca|Pachuca]] {{fbaicon|MEX}}
+| score = 2–2
+| report = https://www.fifa.com/clubworldcup/matches/round=254492/match=300140540/report.html
+| team2 = {{fbaicon|UAE}} [[Al Wahda FC|Al-Wahda]]
+| goals1 = [[Darío Cvitanich|Cvitanich]] {{goal|82||89}}
+| goals2 = [[Ismail Matar|Matar]] {{goal|44}}<br />[[Mahmoud Khamees|Khamees]] {{goal|77}}
+| stadium = [[Zayed Sports City Stadium]], [[Abu Dhabi]]
+| attendance = 10,908
+| referee = [[Daniel Bennett (referee)|Daniel Bennett]] ([[South African Football Association|South Africa]])
+| penalties1 = [[Darío Cvitanich|Cvitanich]] {{pengoal}}<br />[[Leobardo López|López]] {{pengoal}}<br />[[Javier Muñoz (Argentine footballer)|Muñoz]] {{pengoal}}<br />[[Braulio Luna|Luna]] {{pengoal}}
+| penaltyscore = 4–2
+| penalties2 = {{pengoal}} [[Hugo Henrique Assis do Nascimento|Hugo]]<br />{{pengoal}} [[Bashir Saeed|Saeed]]<br />{{penmiss}} [[Abdulrahim Jumaa|Jumaa]]<br />{{penmiss}} [[Modibo Diarra|Diarra]]
+}}
+
+=== Match for third place ===
+{{football box
+| date = 18 December 2010
+| time = 18:00
+| team1 = [[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+| score = 4–2
+| report = https://www.fifa.com/clubworldcup/matches/round=254490/match=300140538/report.html
+| team2 = {{fbaicon|KOR|1997}} [[Seongnam FC|Seongnam Ilhwa Chunma]]
+| goals1 = [[Paulo César Fonseca do Nascimento|Tinga]] {{goal|15}}<br />[[Alecsandro]] {{goal|27||71}}<br />[[Andrés D'Alessandro|D'Alessandro]] {{goal|52}}
+| goals2 = [[Mauricio Molina|Molina]] {{goal|84||90+3}}
+| stadium = [[Zayed Sports City Stadium]], [[Abu Dhabi]]
+| attendance = 16,563
+| referee = [[Michael Hester]] ([[New Zealand Football|New Zealand]])
+}}
+
+=== Final ===
+{{main|2010 FIFA Club World Cup Final}}
+
+{{football box
+| date = 18 December 2010
+| time = 21:00
+| team1 = [[TP Mazembe]] {{fbaicon|COD}}
+| score = 0–3
+| report = https://www.fifa.com/clubworldcup/matches/round=254488/match=300140542/report.html
+| team2 = {{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+| goals1 = 
+| goals2 = [[Goran Pandev|Pandev]] {{goal|13}}<br />[[Samuel Eto'o|Eto'o]] {{goal|17}}<br />[[Jonathan Biabiany|Biabiany]] {{goal|85}}
+| stadium = [[Zayed Sports City Stadium]], [[Abu Dhabi]]
+| attendance = 42,174
+| referee = [[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+}}
+
+==Goalscorers==
+[[File:Samuel Eto'o - Inter Mailand (1).jpg|thumb|right|[[Samuel Eto'o]], Golden Ball winner of the Club World Cup]]
+
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|1
+|style="text-align:left"|{{flagicon|COL}} [[Mauricio Molina]]
+|style="text-align:left"|{{fbaicon|KOR|1997}} [[Seongnam FC|Seongnam Ilhwa Chunma]]
+|3
+|-
+|rowspan=3|2
+|style="text-align:left"|{{flagicon|BRA}} [[Fernando Baiano]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Wahda FC|Al-Wahda]]
+|rowspan=3|2
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Alecsandro]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Darío Cvitanich]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|-
+|rowspan=18|5
+|style="text-align:left"|{{flagicon|BRA}} [[Hugo Henrique Assis do Nascimento|Hugo]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Wahda FC|Al-Wahda]]
+|rowspan=18|1
+|-
+|style="text-align:left"|{{flagicon|UAE}} [[Abdulrahim Jumaa]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Wahda FC|Al-Wahda]]
+|-
+|style="text-align:left"|{{flagicon|UAE}} [[Mahmoud Khamees]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Wahda FC|Al-Wahda]]
+|-
+|style="text-align:left"|{{flagicon|UAE}} [[Ismail Matar]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Wahda FC|Al-Wahda]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Andrés D'Alessandro]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Paulo César Fonseca do Nascimento|Tinga]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|-
+|style="text-align:left"|{{flagicon|FRA}} [[Jonathan Biabiany]]
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|-
+|style="text-align:left"|{{flagicon|CMR}} [[Samuel Eto'o]]
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Diego Milito]]
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|-
+|style="text-align:left"|{{flagicon|MKD}} [[Goran Pandev]]
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|-
+|style="text-align:left"|{{flagicon|SRB}} [[Dejan Stanković]]
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Javier Zanetti]]
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|-
+|style="text-align:left"|{{flagicon|KOR|1997}} [[Cho Dong-Geon]]
+|style="text-align:left"|{{fbaicon|KOR|1997}} [[Seongnam FC|Seongnam Ilhwa Chunma]]
+|-
+|style="text-align:left"|{{flagicon|KOR|1997}} [[Choi Sung-Kuk]]
+|style="text-align:left"|{{fbaicon|KOR|1997}} [[Seongnam FC|Seongnam Ilhwa Chunma]]
+|-
+|style="text-align:left"|{{flagicon|AUS}} [[Saša Ognenovski]]
+|style="text-align:left"|{{fbaicon|KOR|1997}} [[Seongnam FC|Seongnam Ilhwa Chunma]]
+|-
+|style="text-align:left"|{{flagicon|COD}} [[Mbenza Bedi]]
+|style="text-align:left"|{{fbaicon|COD}} [[TP Mazembe]]
+|-
+|style="text-align:left"|{{flagicon|COD}} [[Mulota Kabangu]]
+|style="text-align:left"|{{fbaicon|COD}} [[TP Mazembe]]
+|-
+|style="text-align:left"|{{flagicon|COD}} [[Dioko Kaluyituka]]
+|style="text-align:left"|{{fbaicon|COD}} [[TP Mazembe]]
+|}
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Toyota]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|CMR}} [[Samuel Eto'o]]<br />([[Inter Milan|Internazionale]])
+|{{flagicon|COD}} [[Dioko Kaluyituka]]<br />([[TP Mazembe]])
+|{{flagicon|ARG}} [[Andrés D'Alessandro]]<br />([[Sport Club Internacional|Internacional]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.fifa.com/tournaments/mens/clubworldcup/uae2010 FIFA Club World Cup UAE 2010], FIFA.com
+*[https://web.archive.org/web/20101223141254/http://www.fifa.com/clubworldcup/index.html 2010 FIFA Club World Cup Official Site] (Archived)
+*[https://web.archive.org/web/20111220065836/http://www.fifa.com/mm/document/footballdevelopment/technicalsupport/01/49/54/70/reportuaeinhalt2010internet.pdf FIFA Technical Report]
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2010 FIFA Club World Cup| ]]
+[[Category:FIFA Club World Cup tournaments|2010]]
+[[Category:Men's football competitions in the United Arab Emirates]]
+[[Category:Football club competitions in the United Arab Emirates]]
+[[Category:Football competitions in Abu Dhabi]]
+[[Category:2010 in men's association football]]
+[[Category:2010–11 in Emirati football]]
+[[Category:2010–11 in Italian football]]
+[[Category:2010 in South Korean football]]
+[[Category:2010 in Brazilian football]]
+[[Category:2010 in Democratic Republic of the Congo sport]]
+[[Category:2010 in Papua New Guinean sport]]
+[[Category:2010–11 in Mexican football]]
+[[Category:2010s in sport in Abu Dhabi]]
+[[Category:December 2010 sports events in Asia]]

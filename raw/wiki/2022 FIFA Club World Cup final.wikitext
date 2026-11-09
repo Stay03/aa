@@ -1,0 +1,454 @@
+{{EngvarB|date=February 2023}}
+{{Use dmy dates|date=February 2023}}
+{{Infobox football match
+| title              = 2022 FIFA Club World Cup final
+| event              = [[2022 FIFA Club World Cup]]
+| image              = Stade Prince Moulay Abdellah.jpg
+| imagesize          = 250
+| caption            = The Prince Moulay Abdellah Stadium in Rabat hosted the final.
+| team1              = [[Real Madrid CF|Real Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 5
+| team2              = [[Al-Hilal Saudi FC|Al-Hilal]]
+| team2association   = {{fbaicon|KSA|size=30px}}
+| team2score         = 3
+| date               = {{Start date|2023|2|11|df=y}}
+| stadium            = [[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]]
+| city               = [[Rabat]]
+| man_of_the_match1a = [[Vinícius Júnior]] {{nowrap|(Real Madrid)}}<ref name="report"/>
+| referee            = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+| attendance         = 44,439
+| weather            = Clear night<br />{{convert|16|°C|°F|abbr=on}}<br />52% [[humidity]]<ref>{{cite web |url=https://www.wunderground.com/history/daily/ma/sal%C3%A9/GMME |title=Salé, Rabat-Salé-Kénitra, Morocco Weather History |publisher=[[Weather Underground (weather service)|Weather Underground]] |date=11 February 2023 |access-date=11 February 2023}}</ref>
+| previous           = [[2021 FIFA Club World Cup final|2021]]
+| next               = [[2023 FIFA Club World Cup final|2023]]
+}}
+The '''2022 FIFA Club World Cup final''' was the final match of the [[2022 FIFA Club World Cup]], an international club [[association football|football]] tournament hosted by [[Morocco]]. It was the 19th final of the [[FIFA Club World Cup]], a [[FIFA]]-organised tournament between the club champions from each of the six continental confederations, as well as the host nation's league champions.
+
+The match was played at the [[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]] in [[Rabat]] on 11 February 2023.<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/draw-sets-fixtures-for-fifa-club-world-cup-morocco-2022 |title=Draw determines seven sides' paths to Club World Cup glory |publisher=[[FIFA]] |date=13 January 2023 |access-date=13 January 2023}}</ref> It was contested by Spanish club [[Real Madrid CF|Real Madrid]], representing [[UEFA]] as the reigning champions of the [[UEFA Champions League]], and Saudi Arabian club [[Al-Hilal Saudi FC|Al-Hilal]], representing the [[Asian Football Confederation|AFC]].{{refn|group=note|name=AFC}}
+
+Real Madrid won the match 5–3 for their fifth FIFA Club World Cup title and eighth [[List of world champion football clubs|club world championship]].<ref name="report">{{cite web |url=https://www.fifa.com/fifaplus/en/articles/real-madrid-al-hilal-final-report-review-vinicius-junior-federico-valverde-club-world-cup-morocco-2022 |title=Vinicius and Valverde dazzle as five-star Madrid conquer |publisher=[[FIFA]] |date=11 February 2023 |access-date=11 February 2023}}</ref> With eight goals, the match was the highest scoring final in Club World Cup history.<ref name="RSSSF"/><ref>{{cite web|url= https://www.bbc.com/sport/football/64612995|title=Real Madrid5 Al-Hilal 3|date=11 February 2023|work=BBC Sport|accessdate=21 February 2023}}</ref>
+
+==Teams==
+''In the following table, the finals until 2005 were in the FIFA Club World Championship era, and since 2006 in the FIFA Club World Cup era.''
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification for tournament
+!Previous club world championship finals<br />(bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[UEFA]]
+|Winners of the [[2021–22 UEFA Champions League]]
+|IC: 5 ('''[[1960 Intercontinental Cup|1960]]''', [[1966 Intercontinental Cup|1966]], '''[[1998 Intercontinental Cup|1998]]''', [[2000 Intercontinental Cup|2000]], '''[[2002 Intercontinental Cup|2002]]''')<br />FCWC: 4 ('''[[2014 FIFA Club World Cup final|2014]]''', '''[[2016 FIFA Club World Cup final|2016]]''', '''[[2017 FIFA Club World Cup final|2017]]''', '''[[2018 FIFA Club World Cup final|2018]]''')
+|-
+|{{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+|[[Asian Football Confederation|AFC]]
+|Nominated by AFC{{refn|group=note|name=AFC|Due to scheduling issues, it was confirmed that the final of the [[2022 AFC Champions League]], originally scheduled for October 2022, would not be completed until May 2023.<ref name="AFC latest update">{{cite web |url=https://www.the-afc.com/en/more/afc_news/news/latest_update_on_the_afc_champions_league_2022%E2%84%A2.html |title=Latest update on the AFC Champions League 2022 |publisher=[[Asian Football Confederation]] |date=9 December 2022 |access-date=23 December 2022}}</ref> As the 2022 FIFA Club World Cup would already be held by that time, the AFC confirmed on 23 December 2022 that Al-Hilal would be their representative at the 2022 FIFA Club World Cup as the reigning champions from the [[2021 AFC Champions League]].<ref name="AFC nomination">{{cite web |url=https://www.the-afc.com/en/national/afc_u17_asian_cup/news/thailand_recommended_as_host_of_the_afc_u17_asian_cup_2023.html |title=Thailand recommended as host of the AFC U17 Asian Cup 2023 |publisher=[[Asian Football Confederation]] |date=23 December 2022 |access-date=23 December 2022}}</ref>}}
+|None
+|}
+
+[[Al-Hilal Saudi FC|Al-Hilal]] became the third Asian club to reach the Club World Cup final in the 19th edition of the tournament. They are also the first [[Asian Football Confederation|AFC]] nominee to do so, as the Asian appearances in the [[2016 FIFA Club World Cup final|2016]] and [[2018 FIFA Club World Cup final|2018]] finals were both the club of the host association.<ref name="RSSSF">{{cite web |url=https://www.rsssf.org/tablesf/fifawcc.html |title=FIFA Club World Cup |date=27 January 2023 |access-date=8 February 2023 |last1=Leme de Arruda |first1=Marcelo |last2=Di Maggio |website=[[RSSSF]] |first2=Roberto}}</ref>
+
+Note: On 27 October 2017, [[FIFA]] officially recognised all the champions of the Intercontinental Cup as club world champions, in equal status to the FIFA Club World Cup.<ref name="FIFA2022">{{cite press release |date=27 October 2017 |title=FIFA Council approves key organisational elements of the FIFA World Cup |url=https://www.fifa.com/about-fifa/news/y=2022/m=10/news=fifa-council-approves-key-organisational-elements-of-the-fifa-world-cu-2917722.html |publisher=FIFA |access-date=27 October 2017}}</ref>
+*IC: [[Intercontinental Cup (1960–2004)|Intercontinental Cup]] (1960–2004)
+*FCWC: [[List of FIFA Club World Cup finals|FIFA Club World Cup finals]] (2000, 2005–present)
+
+==Route to the final==
+{| class="wikitable"
+|-
+!width=350 colspan=2|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+!Team
+!width=350 colspan=2|{{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+|- style="background:#C1E0FF"
+|align=center|Opponent
+|align=center|Result
+|align=center|[[2022 FIFA Club World Cup]]
+|align=center|Opponent
+|align=center|Result
+|-
+|colspan=2 align=center|Bye
+|align=center style="background:#C1E0FF"|Second round
+|{{fbaicon|MAR}} [[Wydad AC|Wydad Casablanca]]
+|align=center|[[2022 FIFA Club World Cup#Match 3|1–1]] {{aet}} {{pso|5–3}}
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|align=center|[[2022 FIFA Club World Cup#Match 5|4–1]]
+|align=center style="background:#C1E0FF"|Semi-finals
+|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|align=center|[[2022 FIFA Club World Cup#Match 4|3–2]]
+|}
+
+==Match==
+
+===Details===
+<onlyinclude>{{Football box
+|date={{Start date|2023|2|11|df=y}}
+|time=20:00
+|team1=[[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score=5–3
+|report=https://www.fifa.com/fifaplus/en/match-centre/match/107/286466/286472/400015630
+|team2={{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+|goals1=
+*[[Vinícius Júnior|Vinícius]] {{goal|13||69}}
+*[[Federico Valverde|Valverde]] {{goal|18||58}}
+*[[Karim Benzema|Benzema]] {{goal|54}}
+|goals2=
+*[[Moussa Marega|Marega]] {{goal|26}}
+*[[Luciano Vietto|Vietto]] {{goal|63||79}}
+|stadium=[[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]], [[Rabat]]
+|attendance=44,439
+|referee=[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _realmadridcf2223h
+ |pattern_b  = _realmadridcf2223H
+ |pattern_ra = _realmadridcf2223h
+ |pattern_sh = _realmadridcf2223h
+ |pattern_so = _realmadridcf2223h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Real Madrid}}
+}}
+|{{Football kit
+ |pattern_la = _alhilal2223H
+ |pattern_b  = _alhilal2223home
+ |pattern_ra = _alhilal2223H
+ |pattern_sh = _alhilal2223h
+ |pattern_so = _whitetopl
+ |leftarm    = 0023CF
+ |body       = 0023CF
+ |rightarm   = 0023CF
+ |shorts     = 0023CF
+ |socks      = 0023CF
+ |title      = {{nowrap|Al Hilal}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|UKR}} [[Andriy Lunin]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Dani Carvajal]]|| || {{suboff|79}}
+|-
+|CB ||'''22'''||{{flagicon|GER}} [[Antonio Rüdiger]]
+|-
+|CB ||'''4''' ||{{flagicon|AUT}} [[David Alaba]]
+|-
+|LB ||'''12'''||{{flagicon|FRA}} [[Eduardo Camavinga]]
+|-
+|DM ||'''18'''||{{flagicon|FRA}} [[Aurélien Tchouaméni]] || || {{suboff|62}}
+|-
+|CM ||'''10'''||{{flagicon|CRO}} [[Luka Modrić]] || || {{suboff|74}}
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]] || || {{suboff|74}}
+|-
+|RF ||'''15'''||{{flagicon|URU}} [[Federico Valverde]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA}} [[Karim Benzema]] ([[Captain (association football)|c]]) || || {{suboff|62}}
+|-
+|LF ||'''20'''||{{flagicon|BRA}} [[Vinícius Júnior]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''26'''||{{flagicon|ESP}} [[Luis López (footballer, born 2001)|Luis López]]
+|-
+|GK ||'''30'''||{{flagicon|ESP}} [[Lucas Cañizares]]
+|-
+|DF ||'''3''' ||{{flagicon|BRA}} [[Éder Militão]]
+|-
+|DF ||'''5''' ||{{flagicon|ESP}} [[Jesús Vallejo]] || || {{subon|79}}
+|-
+|DF ||'''6''' ||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]] || || {{subon|74}}
+|-
+|DF ||'''16'''||{{flagicon|ESP}} [[Álvaro Odriozola]]
+|-
+|MF ||'''19'''||{{flagicon|ESP}} [[Dani Ceballos]] || || {{subon|62}}
+|-
+|MF ||'''31'''||{{flagicon|ESP}} [[Mario Martín]]
+|-
+|MF ||'''33'''||{{flagicon|ESP}} [[Sergio Arribas (footballer, born 2001)|Sergio Arribas]]
+|-
+|FW ||'''11'''||{{flagicon|ESP}} [[Marco Asensio]] || || {{subon|74}}
+|-
+|FW ||'''21'''||{{flagicon|BRA}} [[Rodrygo]] || || {{subon|62}}
+|-
+|FW ||'''24'''||{{flagicon|DOM}} [[Mariano Díaz|Mariano]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Carlo Ancelotti]]
+|}
+|valign="top"|[[File:Real Madrid vs Al-Hilal 2023-02-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|KSA}} [[Abdullah Al-Mayouf]] ([[Captain (association football)|c]])
+|-
+|RB ||'''66'''||{{flagicon|KSA}} [[Saud Abdulhamid]]
+|-
+|CB ||'''20'''||{{flagicon|KOR}} [[Jang Hyun-soo]]
+|-
+|CB ||'''5''' ||{{flagicon|KSA}} [[Ali Al-Bulaihi]]
+|-
+|LB ||'''4''' ||{{flagicon|KSA}} [[Khalifah Al-Dawsari]]
+|-
+|CM ||'''28'''||{{flagicon|KSA}} [[Mohamed Kanno]]
+|-
+|CM ||'''6''' ||{{flagicon|COL}} [[Gustavo Cuéllar]]
+|-
+|RW ||'''19'''||{{flagicon|PER|football}} [[André Carrillo]] || || {{suboff|74}}
+|-
+|AM ||'''10'''||{{flagicon|ARG}} [[Luciano Vietto]] || || {{suboff|86}}
+|-
+|LW ||'''29'''||{{flagicon|KSA}} [[Salem Al-Dawsari]] || || {{suboff|74}}
+|-
+|CF ||'''17'''||{{flagicon|MLI}} [[Moussa Marega]] || || {{suboff|86}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''21'''||{{flagicon|KSA}} [[Mohammed Al-Owais]]
+|-
+|GK ||'''31'''||{{flagicon|KSA}} [[Habib Al-Wotayan]]
+|-
+|DF ||'''42'''||{{flagicon|KSA}} [[Muath Faqihi]]
+|-
+|DF ||'''67'''||{{flagicon|KSA}} Mohammed Al-Khaibari
+|-
+|DF ||'''70'''||{{flagicon|KSA}} [[Mohammed Jahfali]]
+|-
+|MF ||'''8''' ||{{flagicon|KSA}} [[Abdullah Otayf]]
+|-
+|MF ||'''16'''||{{flagicon|KSA}} [[Nasser Al-Dawsari]] || || {{subon|74}}
+|-
+|MF ||'''43'''||{{flagicon|KSA}} [[Musab Al-Juwayr]]
+|-
+|MF ||'''96'''||{{flagicon|BRA}} [[Michael (footballer, born March 1996)|Michael]] || || {{subon|74}}
+|-
+|FW ||'''9''' ||{{flagicon|NGA}} [[Odion Ighalo]] || || {{subon|86}}
+|-
+|FW ||'''11'''||{{flagicon|KSA}} [[Saleh Al-Shehri]]
+|-
+|FW ||'''14'''||{{flagicon|KSA}} [[Abdullah Al-Hamdan]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Ramón Díaz]]
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Vinícius Júnior]] (Real Madrid)<ref name="report"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Gary Beswick ([[The Football Association|England]])
+<br />Adam Nunn ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ma Ning (referee)|Ma Ning]] ([[Chinese Football Association|China]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Zhou Fei ([[Chinese Football Association|China]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Fu Ming]] ([[Chinese Football Association|China]])
+<br />Kathryn Nesbitt ([[United States Soccer Federation|United States]])
+<br />[[Rédouane Jiyed]] ([[Royal Moroccan Football Federation|Morocco]])
+| style="width:60%; vertical-align:top" |
+'''Match rules'''<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/cc55b7738d0beb6/original/Regulations-for-the-FIFA-Club-World-Cup-2022.pdf |title=Regulations for the FIFA Club World Cup 2022 |publisher=[[FIFA]] |date=23 December 2022 |access-date=24 December 2022}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Maximum of twelve named substitutes.
+*Maximum of five substitutions, with a sixth allowed in extra time.{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="statistics">{{cite web |url=https://www.sofascore.com/real-madrid-al-hilal-saudi/EgbsVMi |title=Real Madrid – Al-Hilal Saudi |website=SofaScore |date=11 February 2023 |access-date=11 February 2023}}</ref>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Real Madrid
+! scope="col" style="width:70px"|Al Hilal
+|-
+!scope=row|Goals scored
+|2
+|1
+|-
+!scope=row|Total shots
+|6
+|4
+|-
+!scope=row|Shots on target
+|4
+|1
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|64%
+|36%
+|-
+!scope=row|Corner kicks
+|3
+|0
+|-
+!scope=row|Fouls committed
+|—
+|—
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="statistics"/>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Real Madrid
+! scope="col" style="width:70px"|Al Hilal
+|-
+!scope=row|Goals scored
+|3
+|2
+|-
+!scope=row|Total shots
+|11
+|5
+|-
+!scope=row|Shots on target
+|7
+|2
+|-
+!scope=row|Saves
+|0
+|4
+|-
+!scope=row|Ball possession
+|69%
+|31%
+|-
+!scope=row|Corner kicks
+|3
+|0
+|-
+!scope=row|Fouls committed
+|—
+|—
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="statistics"/>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Real Madrid
+! scope="col" style="width:70px"|Al Hilal
+|-
+!scope=row|Goals scored
+|5
+|3
+|-
+!scope=row|Total shots
+|17
+|9
+|-
+!scope=row|Shots on target
+|11
+|3
+|-
+!scope=row|Saves
+|0
+|6
+|-
+!scope=row|Ball possession
+|66%
+|34%
+|-
+!scope=row|Corner kicks
+|6
+|0
+|-
+!scope=row|Fouls committed
+|10
+|8
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+*{{Official website|https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/morocco-2022}}
+
+{{FIFA Club World Cup}}
+{{Real Madrid CF matches}}
+{{Al-Hilal FC matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2022}}
+[[Category:2022 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2022]]
+[[Category:Real Madrid CF matches]]
+[[Category:Al Hilal SFC matches]]
+[[Category:2022–23 in Spanish men's football]]
+[[Category:2022–23 in Saudi Arabian football]]
+[[Category:2022–23 in Moroccan football]]
+[[Category:Football competitions in Rabat]]
+[[Category:21st century in Rabat]]
+[[Category:Men's association football finals in Africa]]
+[[Category:February 2023 sports events in Africa]]
+[[Category:Saudi Arabia–Spain relations|2022]]

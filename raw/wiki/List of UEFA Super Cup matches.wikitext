@@ -1,0 +1,856 @@
+{{Short description|None}}
+{{Infobox football tournament
+| logo                 =
+| founded              = {{Start date and age|df=yes|1972}}<br />{{nowrap|(official since 1973)}}
+| number of teams      = 2
+| region               = Europe ([[UEFA]])
+| current champions    = {{nowrap|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]<br>(2nd title)}}
+| most successful club = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]<br>(6 titles)
+| current              = [[2026 UEFA Super Cup]]
+| image                = 2015 UEFA Super Cup 54.jpg
+| caption              = The UEFA Super Cup trophy used since [[2006 UEFA Super Cup|2006]]
+}}
+The [[UEFA Super Cup]] is an annual [[association football]] match contested between the winners of the [[UEFA Champions League]] and the [[UEFA Europa League]]. Established in 1972, it was contested between the winners of the European Cup (renamed the UEFA Champions League in 1993) and the [[UEFA Cup Winners' Cup|European/UEFA Cup Winners' Cup]] until 1999, when the latter was discontinued and merged with the UEFA Cup (renamed the Europa League in 2009) by [[UEFA]]. The last Super Cup contested in this format was the [[1999 UEFA Super Cup]] between [[SS Lazio|Lazio]] and [[Manchester United F.C.|Manchester United]], which Lazio won 1–0. The competition was originally played over [[Two-legged tie|two legs]], one at each participating club's stadium in the winter months, but since the [[1998 UEFA Super Cup|1998 edition]], it consists of a single match played at a neutral venue in August.<ref name="format">{{cite web|title=Competition format|url=https://www.uefa.com/uefasupercup/competitionformat/|website=UEFA.com|publisher=Union of European Football Associations|access-date=28 February 2012}}</ref> Between 1998 and [[2012 UEFA Super Cup|2012]], the [[Stade Louis II]] in [[Monaco]] hosted the Super Cup, but since [[2013 UEFA Super Cup|2013]], it has taken place every year at a different stadium across Europe.<ref>{{cite web|last=Josef|first=Ladislav|title=Prague celebrates 2013 Super Cup honour|url=https://www.uefa.com/uefasupercup/news/0250-0c50f41ca710-696a44dbb39d-1000--prague-celebrates-2013-super-cup-honour/|website=UEFA.com|publisher=Union of European Football Associations|access-date=31 May 2013|date=17 June 2011}}</ref><ref>{{cite web|title=UEFA EURO 2020, UEFA Super Cup decisions |url=https://www.uefa.com/uefasupercup/news/0250-0c50fb8f7dbe-0d15b1a19f6c-1000--uefa-euro-2020-uefa-super-cup-decisions/ |website=UEFA.com |publisher=Union of European Football Associations |access-date=31 May 2013 |date=30 June 2012 |url-status=live |archive-url=https://web.archive.org/web/20130601100042/http://www.uefa.com/uefa/aboutuefa/organisation/executivecommittee/news/newsid%3D1836837.html |archive-date=1 June 2013 }}</ref>
+
+[[Real Madrid CF|Real Madrid]] hold the record for the most victories, having won the competition six times since its inception. [[Paris Saint-Germain]] are the current title holders, having beaten [[Aston Villa F.C.|Aston Villa]] 2–1 in the [[2026 UEFA Super Cup|2026 edition]].
+
+==Winners==
+{| class="wikitable"
+|+Key
+|-
+|width="40px" style="background-color:#FBCEB1" align=center|
+|Winner won after [[Overtime (sports)#Association football|extra time]], [[Golden goal#Association football|golden goal]] or [[Penalty shoot-out (association football)|penalty shoot-out]]
+|-
+|width="40px" style="background-color:#cedff2" align=center|
+|Winner of [[UEFA Champions League|European Cup / UEFA Champions League]]
+|-
+|width="40px" style="background-color:#FFFF99" align=center|
+|Winner of [[UEFA Cup Winners' Cup|European / UEFA Cup Winners' Cup]]
+|-
+|width="40px" style="background-color:#cfffaf" align=center|
+|Winner of [[UEFA Europa League|UEFA Cup / Europa League]]
+|}
+
+*The [[Two-legged tie|two-legged finals]] are listed in the order they were played.
+
+{| class="sortable plainrowheaders wikitable"
+|+UEFA Super Cup matches<ref>{{cite web |url=https://www.rsssf.org/tabless/sup.html |title=European Super Cup |publisher=[[RSSSF]]|date=11 August 2022 |access-date=10 November 2022 |first=Karel |last=Stokkermans }}</ref><ref>{{cite web |url=https://www.uefa.com/uefasupercup/history/ |title=UEFA Super Cup History|website=UEFA.com|publisher=Union of European Football Associations|access-date=10 November 2022 }}</ref>
+|-
+!scope=col|Year
+!scope=col|Country
+!scope=col|Winner
+!scope=col|Score
+!scope=col|Runner-up
+!scope=col|Country
+!scope=col|Venue
+!scope=col|Attendance
+|-
+!scope=row rowspan=3 style=text-align:center|[[1973 European Super Cup|1973]]{{efn|name=fnB|Took place in January 1974 rather than at the start of the season, as it has been thereafter.}}
+| rowspan="2" |{{fba|NED}}
+| rowspan="2" bgcolor="cedff2" |[[AFC Ajax|Ajax]]
+|align=center|0–1
+| rowspan="2" bgcolor="FFFF99" |[[AC Milan|Milan]]
+| rowspan="2" |{{fba|ITA}}
+|[[San Siro]], [[Milan]], Italy
+|align=center|{{sort|015|15,000}}
+|-
+|align=center|6–0
+|[[Olympic Stadium (Amsterdam)|Olympic Stadium]], [[Amsterdam]], Netherlands
+|align=center|{{sort|025|25,000}}
+|-
+|colspan=7 align="center"| Ajax won 6–1 on aggregate.
+|-
+!scope=row style=text-align:center|1974{{efn|name=fnC|Competition was abandoned because [[FC Bayern Munich|Bayern Munich]] and [[1. FC Magdeburg]] could not find a mutually convenient date for the match.<ref name="history">{{cite web|url=https://www.uefa.com/uefasupercup/history/ |title=Club competition winners do battle |website=UEFA.com|publisher=Union of European Football Associations|access-date=28 February 2012 }}</ref>}}
+|align=center colspan=7|''Not held''
+|-
+!scope=row rowspan=3 style=text-align:center|[[1975 European Super Cup|1975]]
+| rowspan="2" |{{fba|URS|1955}}
+| rowspan="2" bgcolor="FFFF99" |[[FC Dynamo Kyiv|Dynamo Kyiv]]
+|align=center|1–0
+| rowspan="2" bgcolor="cedff2" |[[FC Bayern Munich|Bayern Munich]]
+| rowspan="2" |{{FRG}}
+|[[Olympiastadion (Munich)|Olympiastadion]], [[Munich]], West Germany
+|align=center|{{sort|030|30,000}}
+|-
+|align=center|2–0
+|[[Olimpiysky National Sports Complex|Central Stadium]], [[Kyiv]], Soviet Union
+|align=center|{{sort|110|110,000}}
+|-
+|colspan=7 align="center"| Dynamo Kyiv won 3–0 on aggregate.
+|-
+!scope=row rowspan=3 style=text-align:center|[[1976 European Super Cup|1976]]
+| rowspan="2" |{{BEL}}
+| rowspan="2" bgcolor="FFFF99" |[[RSC Anderlecht|Anderlecht]]
+|align=center|1–2
+| rowspan="2" bgcolor="cedff2" |[[FC Bayern Munich|Bayern Munich]]
+| rowspan="2" |{{FRG}}
+|[[Olympiastadion (Munich)|Olympiastadion]], [[Munich]], West Germany
+|align=center|{{sort|040|40,000}}
+|-
+|align=center|4–1
+|[[Constant Vanden Stock Stadium|Parc Astrid]], [[Anderlecht]], Belgium
+|align=center|{{sort|032|32,000}}
+|-
+|colspan=7 align="center"| Anderlecht won 5–3 on aggregate.
+|-
+!scope=row rowspan=3 style=text-align:center|[[1977 European Super Cup|1977]]
+| rowspan="2" |{{fba|ENG}}
+| rowspan="2" bgcolor="cedff2" |[[Liverpool F.C.|Liverpool]]
+|align=center|1–1
+| rowspan="2" bgcolor="FFFF99" |[[Hamburger SV]]
+| rowspan="2" |{{FRG}}
+|[[Volksparkstadion]], [[Hamburg]], West Germany
+|align=center|{{sort|016|16,000}}
+|-
+|align=center|6–0
+|[[Anfield]], [[Liverpool]], England
+|align=center|{{sort|034|34,931}}
+|-
+|colspan=7 align="center"| Liverpool won 7–1 on aggregate.
+|-
+!scope=row rowspan=3 style=text-align:center|[[1978 European Super Cup|1978]]
+| rowspan="2" |{{BEL}}
+| rowspan="2" bgcolor="FFFF99" |[[RSC Anderlecht|Anderlecht]]
+|align=center|3–1
+| rowspan="2" bgcolor="cedff2" |[[Liverpool F.C.|Liverpool]]
+| rowspan="2" |{{fba|ENG}}
+|[[Constant Vanden Stock Stadium|Parc Astrid]], [[Anderlecht]], Belgium
+|align=center|{{sort|035|35,000}}
+|-
+|align=center|1–2
+|[[Anfield]], [[Liverpool]], England
+|align=center|{{sort|023|23,598}}
+|-
+|colspan=7 align="center"| Anderlecht won 4–3 on aggregate. 
+|-
+!scope=row rowspan=3 style=text-align:center|[[1979 European Super Cup|1979]]
+| rowspan="2" |{{fba|ENG}}
+| rowspan="2" bgcolor="cedff2" |[[Nottingham Forest F.C.|Nottingham Forest]]
+|align=center|1–0
+| rowspan="2" bgcolor="FFFF99" |[[FC Barcelona|Barcelona]]
+| rowspan="2" |{{fba|ESP|1977}}
+|[[City Ground]], [[Nottingham]], England
+|align=center|{{sort|023|23,807}}
+|-
+|align=center|1–1
+|[[Camp Nou]], [[Barcelona]], Spain
+|align=center|{{sort|080|80,000}}
+|-
+|colspan=7 align="center"| Nottingham Forest won 2–1 on aggregate.
+|-
+!scope=row rowspan=3 style=text-align:center|[[1980 European Super Cup|1980]]
+| rowspan="2" |{{fba|ESP|1977}}
+| rowspan="2" bgcolor="FFFF99" |[[Valencia CF|Valencia]]
+|align=center|1–2
+| rowspan="2" bgcolor="cedff2" |[[Nottingham Forest F.C.|Nottingham Forest]]
+| rowspan="2" |{{fba|ENG}}
+|[[City Ground]], [[Nottingham]], England
+|align=center|{{sort|012|12,463}}
+|-
+|align=center|1–0
+|[[Estadio Mestalla|Estadio Luis Casanova]], [[Valencia]], Spain
+|align=center|{{sort|029|29,038}}
+|-
+|colspan=7 align="center"| 2–2 on aggregate; Valencia won on the [[away goals rule]].
+|-
+!scope=row style=text-align:center|1981{{efn|name=fnD|Competition was not played because Liverpool could not find a suitable date to play [[FC Dinamo Tbilisi|Dinamo Tbilisi]] due to fixture congestion.<ref name="history" />}}
+|align=center colspan=7|''Not held''
+|-
+!scope=row rowspan=3 style=text-align:center|[[1982 European Super Cup|1982]]
+| rowspan="2" |{{fba|ENG}}
+| rowspan="2" bgcolor="cedff2" |[[Aston Villa F.C.|Aston Villa]]
+|align=center|0–1
+| rowspan="2" bgcolor="FFFF99" |[[FC Barcelona|Barcelona]]
+| rowspan="2" |{{fba|ESP}}
+|[[Camp Nou]], [[Barcelona]], Spain
+|align=center|{{sort|040|40,000}}
+|-
+|bgcolor=FBCEB1 align=center|3–0 {{aet}}
+|[[Villa Park]], [[Birmingham]], England
+|align=center|{{sort|031|31,750}}
+|-
+|colspan=7 align="center"| Aston Villa won 3–1 on aggregate. 
+|-
+!scope=row rowspan=3 style=text-align:center|[[1983 European Super Cup|1983]]
+| rowspan="2" |{{fba|SCO}}
+| rowspan="2" bgcolor="FFFF99" |[[Aberdeen F.C.|Aberdeen]]
+|align=center|0–0
+| rowspan="2" bgcolor="cedff2" |[[Hamburger SV]]
+| rowspan="2" |{{FRG}}
+|[[Volksparkstadion]], [[Hamburg]], West Germany
+|align=center|{{sort|015|15,000}}
+|-
+|align=center|2–0
+|[[Pittodrie Stadium|Pittodrie]], [[Aberdeen]], Scotland
+|align=center|{{sort|022|22,500}}
+|-
+|colspan=7 align="center"| Aberdeen won 2–0 on aggregate. 
+|-
+!scope=row style=text-align:center|[[1984 European Super Cup|1984]]{{efn|name=fnE|One match was played in 1984 by agreement between [[Liverpool F.C.|Liverpool]] and [[Juventus FC|Juventus]] managers due to both clubs experiencing fixture congestion.<ref>{{cite news|language=it|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,13/articleid,1359_02_1985_0015_0013_19429333/|title=Stasera la Supercoppa, poi quella dei Campioni per fare un bel "poker"|publisher=[[La Stampa|Stampa Sera]]|author=Angelo Caroli|date=16 January 1985|page=13}}</ref>}}
+|{{fba|ITA}}
+|bgcolor=FFFF99|[[Juventus FC|Juventus]]
+|align=center|2–0
+|bgcolor=cedff2|[[Liverpool F.C.|Liverpool]] 
+|{{fba|ENG}}
+|[[Stadio Olimpico di Torino|Stadio Comunale]], [[Turin]], Italy
+|align=center|{{sort|055|55,834}}
+|-
+!scope=row style=text-align:center|1985{{efn|name=fnF|Competition was abandoned as [[Everton F.C.|Everton]] could not play, due to [[Heysel Stadium disaster#Ban|a ban on English clubs' participation]] in European football competitions.<ref>{{cite news |url=https://www.liverpoolecho.co.uk/incoming/everton-fc-forgotten-game-198586-10443502 |title=Everton FC: The forgotten game of the 1985/86 UEFA Super Cup |first=Tom |last=Woods |work=[[Liverpool Echo]] |date=14 November 2015 |access-date=4 May 2018}}</ref>}}
+|align=center colspan=7|''Not held''
+|-
+!scope=row style=text-align:center|[[1986 European Super Cup|1986]]{{efn|name=fnG|Due to political circumstances, [[CSA Steaua București (football)|Steaua București]] and [[FC Dynamo Kyiv|Dynamo Kyiv]] agreed to contest the 1986 competition on a one-off basis.<ref>{{cite web|url=https://www.uefa.com/uefasupercup/history/1986/ |title=1986: Hagi style stirs Steaua |website=UEFA.com|publisher=Union of European Football Associations |access-date=13 May 2020 }}</ref>|group=}}
+|{{fba|ROU|1965}}
+|bgcolor=cedff2|[[CSA Steaua București (football)|Steaua București]]
+|align=center|1–0
+|bgcolor=FFFF99|[[FC Dynamo Kyiv|Dynamo Kyiv]]
+|{{URS}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|008|8,456}}
+|-
+!scope=row rowspan=3 style=text-align:center|[[1987 European Super Cup|1987]]
+| rowspan="2" |{{fba|POR}}
+| rowspan="2" bgcolor="cedff2" |[[FC Porto|Porto]]
+|align=center|1–0
+| rowspan="2" bgcolor="FFFF99" |[[AFC Ajax|Ajax]]
+| rowspan="2" |{{fba|NED}}
+|[[Olympic Stadium (Amsterdam)|Olympic Stadium]], [[Amsterdam]], Netherlands
+|align=center|{{sort|027|27,000}}
+|-
+|align=center|1–0
+|[[Estádio das Antas]], [[Porto]], Portugal
+|align=center|{{sort|050|50,000}}
+|-
+|colspan=7 align="center"| Porto won 2–0 on aggregate.
+|-
+!scope=row rowspan=3 style=text-align:center|[[1988 European Super Cup|1988]]
+| rowspan="2" |{{BEL}}
+| rowspan="2" bgcolor="FFFF99" |[[KV Mechelen|KV Mechelen]]
+|align=center|3–0
+| rowspan="2" bgcolor="cedff2" |[[PSV Eindhoven]]
+| rowspan="2" |{{fba|NED}}
+|[[Argosstadion Achter de Kazerne|Achter de Kazerne]], [[Mechelen]], Belgium
+|align=center|{{sort|007|7,000}}
+|-
+|align=center|0–1
+|[[Philips Stadion]], [[Eindhoven]], Netherlands
+|align=center|{{sort|017|17,100}}
+|-
+|colspan=7 align="center"| Mechelen won 3–1 on aggregate.
+|-
+!scope=row rowspan=3 style=text-align:center|[[1989 European Super Cup|1989]]
+| rowspan="2" |{{fba|ITA}}
+| rowspan="2" bgcolor="cedff2" |[[AC Milan|Milan]]
+|align=center|1–1
+| rowspan="2" bgcolor="FFFF99" |[[FC Barcelona|Barcelona]]
+| rowspan="2" |{{fba|ESP}}
+|[[Camp Nou]], [[Barcelona]], Spain
+|align=center|{{sort|050|50,000}}
+|-
+|align=center|1–0
+|[[San Siro]], [[Milan]], Italy
+|align=center|{{sort|050|50,000}}
+|-
+|colspan=7 align="center"| Milan won 2–1 on aggregate.
+|-
+!scope=row rowspan=3 style=text-align:center|[[1990 European Super Cup|1990]]
+| rowspan="2" |{{fba|ITA}}
+| rowspan="2" bgcolor="cedff2" |[[AC Milan|Milan]]
+|align=center|1–1
+| rowspan="2" bgcolor="FFFF99" |[[UC Sampdoria|Sampdoria]]
+| rowspan="2" |{{fba|ITA}}
+|[[Stadio Luigi Ferraris]], [[Genoa]], Italy
+|align=center|{{sort|025|25,000}}
+|-
+|align=center|2–0
+|[[Stadio Renato Dall'Ara]], [[Bologna]], Italy
+|align=center|{{sort|025|25,000}}
+|-
+|colspan=7 align="center"| Milan won 3–1 on aggregate. 
+|-
+!scope=row style=text-align:center|[[1991 European Super Cup|1991]]{{efn|name=fnH|One match was played in 1991 due to [[Breakup of Yugoslavia|political circumstances]] in [[Socialist Federal Republic of Yugoslavia|Yugoslavia]].<ref>{{cite web|url=https://www.uefa.com/uefasupercup/history/1991/ |title=1991: McClair makes United's day |website=UEFA.com|publisher=Union of European Football Associations|access-date=13 May 2020}}</ref>|group=}}
+|{{fba|ENG}}
+|bgcolor=FFFF99|[[Manchester United F.C.|Manchester United]]
+|align=center|1–0
+|bgcolor=cedff2|[[Red Star Belgrade]] 
+|{{YUG}}
+|[[Old Trafford]], [[Manchester]], England
+|align=center|{{sort|022|22,110}}
+|-
+!scope=row rowspan=3 style=text-align:center|[[1992 European Super Cup|1992]]
+| rowspan="2" |{{fba|ESP}}
+| rowspan="2" bgcolor="cedff2" |[[FC Barcelona|Barcelona]]
+|align=center|1–1
+| rowspan="2" bgcolor="FFFF99" |[[SV Werder Bremen|Werder Bremen]]
+| rowspan="2" |{{fba|GER}}
+|[[Weserstadion]], [[Bremen]], Germany
+|align=center|{{sort|022|22,098}}
+|-
+|align=center|2–1
+|[[Camp Nou]], [[Barcelona]], Spain
+|align=center|{{sort|075|75,000}}
+|-
+|colspan=7 align="center"| Barcelona won 3–2 on aggregate. 
+|-
+!scope=row rowspan=3 style=text-align:center|[[1993 European Super Cup|1993]]
+| rowspan="2" |{{fba|ITA}}
+| rowspan="2" bgcolor="FFFF99" |[[Parma Calcio 1913|Parma]]
+|align=center|0–1
+| rowspan="2" bgcolor="cedff2" |[[AC Milan|Milan]]{{efn|name=fnI|European champions [[Olympique de Marseille|Marseille]] were suspended due to a [[French football bribery scandal|bribery scandal]], so [[AC Milan|Milan]] took their place as runner-up in the European Cup.<ref>{{cite web|url=https://www.uefa.com/uefasupercup/history/1993/ |title=1993: Crippa wins it for Parma |website=UEFA.com|publisher=Union of European Football Associations |access-date=13 May 2020 }}</ref>|group=}}
+| rowspan="2" |{{fba|ITA}}
+|[[Stadio Ennio Tardini]], [[Parma]], Italy
+|align=center|{{sort|008|8,083}}
+|-
+|align=center bgcolor=FBCEB1|2–0 {{aet}}
+|[[San Siro]], [[Milan]], Italy
+|align=center|{{sort|024|24,074}}
+|-
+|colspan=7 align="center"| Parma won 2–1 on aggregate.
+|-
+!scope=row rowspan=3 style=text-align:center|[[1994 European Super Cup|1994]]
+| rowspan="2" |{{fba|ITA}}
+| rowspan="2" bgcolor="cedff2" |[[AC Milan|Milan]]
+|align=center|0–0
+| rowspan="2" bgcolor="FFFF99" |[[Arsenal F.C.|Arsenal]]
+| rowspan="2" |{{fba|ENG}}
+|[[Arsenal Stadium|Highbury]], [[London]], England
+|align=center|{{sort|038|38,044}}
+|-
+|align=center|2–0
+|[[San Siro]], [[Milan]], Italy
+|align=center|{{sort|023|23,953}}
+|-
+|colspan=7 align="center"| Milan won 2–0 on aggregate. 
+|-
+!scope=row rowspan=3 style=text-align:center|[[1995 UEFA Super Cup|1995]]
+| rowspan="2" |{{fba|NED}}
+| rowspan="2" bgcolor="cedff2" |[[AFC Ajax|Ajax]]
+|align=center|1–1
+| rowspan="2" bgcolor="FFFF99" |[[Real Zaragoza|Zaragoza]]
+| rowspan="2" |{{fba|ESP}}
+|[[La Romareda]], [[Zaragoza]], Spain
+|align=center|{{sort|017|17,500}}
+|-
+|align=center|4–0
+|[[Olympic Stadium (Amsterdam)|Olympic Stadium]], [[Amsterdam]], Netherlands
+|align=center|{{sort|023|23,000}}
+|-
+|colspan=7 align="center"| Ajax won 5–1 on aggregate.
+|-
+!scope=row rowspan=3 style=text-align:center|[[1996 UEFA Super Cup|1996]]
+| rowspan="2" |{{fba|ITA}}
+| rowspan="2" bgcolor="cedff2" |[[Juventus FC|Juventus]]
+|align=center|6–1
+| rowspan="2" bgcolor="FFFF99" |[[Paris Saint-Germain FC|Paris Saint-Germain]]
+| rowspan="2" |{{fba|FRA|1974}}
+| [[Parc des Princes]], [[Paris]], France
+|align=center|{{sort|029|29,519}}
+|-
+|align=center|3–1
+|[[Stadio Renzo Barbera|Stadio La Favorita]], [[Palermo]], Italy
+|align=center|{{sort|035|35,100}}
+|-
+|colspan=7 align="center"| Juventus won 9–2 on aggregate. 
+|-
+!scope=row rowspan=3 style=text-align:center|[[1997 UEFA Super Cup|1997]]
+| rowspan="2" |{{fba|ESP}}
+| rowspan="2" bgcolor="FFFF99" |[[FC Barcelona|Barcelona]]
+|align=center|2–0
+| rowspan="2" bgcolor="cedff2" |[[Borussia Dortmund]]
+| rowspan="2" |{{fba|GER}}
+|[[Camp Nou]], [[Barcelona]], Spain
+|align=center|{{sort|050|50,000}}
+|-
+|align=center|1–1
+|[[Westfalenstadion]], [[Dortmund]], Germany
+|align=center|{{sort|032|32,500}}
+|-
+|colspan=7 align="center"| Barcelona won 3–1 on aggregate. 
+|-
+!scope=row style="text-align:center"|[[1998 UEFA Super Cup|1998]]
+|{{fba|ENG}}
+|bgcolor=FFFF99|[[Chelsea F.C.|Chelsea]]
+|align=center|1–0
+|bgcolor=cedff2|[[Real Madrid CF|Real Madrid]]
+|{{fba|ESP}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|010|10,000}}
+|-
+!scope=row style="text-align:center"|[[1999 UEFA Super Cup|1999]]
+|{{fba|ITA}} 
+|bgcolor=FFFF99|[[SS Lazio|Lazio]]
+|align=center|1–0
+|bgcolor=cedff2|[[Manchester United F.C.|Manchester United]] 
+|{{fba|ENG}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|012|12,000}}
+|-
+!scope=row style="text-align:center"|[[2000 UEFA Super Cup|2000]]
+|{{TUR}}
+|bgcolor=cfffaf|[[Galatasaray S.K. (football)|Galatasaray]]
+|align=center bgcolor=FBCEB1|2–1 ([[Golden goal#Association football|g.g.]])
+|bgcolor=cedff2|[[Real Madrid CF|Real Madrid]] 
+|{{fba|ESP}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|015|15,000}}
+|-
+!scope=row style="text-align:center"|[[2001 UEFA Super Cup|2001]]
+|{{fba|ENG}}
+|bgcolor=cfffaf|[[Liverpool F.C.|Liverpool]]
+|align=center|3–2
+|bgcolor=cedff2|[[FC Bayern Munich|Bayern Munich]] 
+|{{fba|GER}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|013|13,824}}
+|-
+!scope=row style="text-align:center"|[[2002 UEFA Super Cup|2002]]
+|{{fba|ESP}}
+|bgcolor=cedff2|[[Real Madrid CF|Real Madrid]] 
+|align=center|3–1
+|bgcolor=cfffaf|[[Feyenoord]]
+|{{fba|NED}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|018|18,284}}
+|-
+!scope=row style="text-align:center"|[[2003 UEFA Super Cup|2003]]
+|{{fba|ITA|2003}}
+|bgcolor=cedff2|[[AC Milan|Milan]] 
+|align=center|1–0
+|bgcolor=cfffaf|[[FC Porto|Porto]]
+|{{fba|POR}} 
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|016|16,885}}
+|-
+!scope=row style="text-align:center"|[[2004 UEFA Super Cup|2004]]
+|{{fba|ESP}}
+|bgcolor=cfffaf|[[Valencia CF|Valencia]]
+|align=center|2–1
+|bgcolor=cedff2|[[FC Porto|Porto]] 
+|{{fba|POR}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|017|17,292}}
+|-
+!scope=row style="text-align:center"|[[2005 UEFA Super Cup|2005]]
+|{{fba|ENG}}
+|bgcolor=cedff2|[[Liverpool F.C.|Liverpool]] 
+|align=center bgcolor=FBCEB1|3–1 {{aet}}
+|bgcolor=cfffaf|[[PFC CSKA Moscow|CSKA Moscow]]
+|{{fba|RUS}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|017|17,042}}
+|-
+!scope=row style="text-align:center"|[[2006 UEFA Super Cup|2006]]
+|{{fba|ESP}}
+|bgcolor=cfffaf|[[Sevilla FC|Sevilla]]
+|align=center|3–0
+|bgcolor=cedff2|[[FC Barcelona|Barcelona]] 
+|{{fba|ESP}} 
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|017|17,480}}
+|-
+!scope=row style="text-align:center"|[[2007 UEFA Super Cup|2007]]
+|{{fba|ITA}}
+|bgcolor=cedff2|[[AC Milan|Milan]] 
+|align=center|3–1
+|bgcolor=cfffaf|[[Sevilla FC|Sevilla]]
+|{{fba|ESP}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|017|17,822}}
+|-
+!scope=row style="text-align:center"|[[2008 UEFA Super Cup|2008]]
+|{{fba|RUS}}
+|bgcolor=cfffaf|[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|align=center|2–1
+|bgcolor=cedff2|[[Manchester United F.C.|Manchester United]] 
+|{{fba|ENG}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|018|18,064}}
+|-
+!scope=row style="text-align:center"|[[2009 UEFA Super Cup|2009]]
+|{{fba|ESP}}
+|bgcolor=cedff2|[[FC Barcelona|Barcelona]] 
+|align=center bgcolor=FBCEB1|1–0 {{aet}}
+|bgcolor=cfffaf|[[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|{{fba|UKR}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|017|17,738}}
+|-
+!scope=row style="text-align:center"|[[2010 UEFA Super Cup|2010]]
+|{{fba|ESP}}
+|bgcolor=cfffaf|[[Atlético Madrid]]
+|align=center|2–0
+|bgcolor=cedff2|[[Inter Milan]] 
+|{{fba|ITA}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|017|17,265}}
+|-
+!scope=row style="text-align:center"|[[2011 UEFA Super Cup|2011]]
+|{{fba|ESP}}
+|bgcolor=cedff2|[[FC Barcelona|Barcelona]] 
+|align=center|2–0
+|bgcolor=cfffaf|[[FC Porto|Porto]]
+|{{fba|POR}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|018|18,048}}
+|-
+!scope=row style="text-align:center"|[[2012 UEFA Super Cup|2012]]
+|{{fba|ESP}}
+|bgcolor=cfffaf|[[Atlético Madrid]]
+|align=center|4–1
+|bgcolor=cedff2|[[Chelsea F.C.|Chelsea]] 
+|{{fba|ENG}}
+|[[Stade Louis II]], [[Monaco]]
+|align=center|{{sort|014|14,312}}
+|-
+!scope="row" style="text-align:center"|[[2013 UEFA Super Cup|2013]]
+|{{fba|GER}}
+|bgcolor=cedff2|[[FC Bayern Munich|Bayern Munich]]
+|align=center bgcolor=FBCEB1|2–2 {{aet}}{{efn|name=fnJ|Score was 1–1 after 90 minutes and 2–2 after extra time. Bayern Munich won the penalty shoot-out 5–4.<ref>{{cite news |first=Andy |last=James |title=Bayern defeat Chelsea on penalties in Super Cup |url=https://www.uefa.com/uefasupercup/news/0250-0c50fe0e2a8d-c4abb6a01a86-1000--bayern-defeat-chelsea-on-penalties-in-super-cup/ |website=UEFA.com|publisher=Union of European Football Associations |date=30 August 2013 |access-date=31 August 2013}}</ref>}}
+|bgcolor=cfffaf|[[Chelsea F.C.|Chelsea]] 
+|{{fba|ENG}}
+|[[Sinobo Stadium|Eden Aréna]], [[Prague]], Czech Republic
+|align=center|{{sort|017|17,686}}
+|-
+!scope="row" style="text-align:center"|[[2014 UEFA Super Cup|2014]]
+|{{fba|ESP}}
+|bgcolor=cedff2|[[Real Madrid CF|Real Madrid]]
+|align=center|2–0
+|bgcolor=cfffaf|[[Sevilla FC|Sevilla]]
+|{{fba|ESP}}
+|[[Cardiff City Stadium]], [[Cardiff]], Wales
+|align=center|30,854
+|-
+!scope="row" style="text-align:center"|[[2015 UEFA Super Cup|2015]]
+|{{fba|ESP}}
+|bgcolor=cedff2|[[FC Barcelona|Barcelona]]
+|align=center bgcolor=FBCEB1|5–4 {{aet}}
+|bgcolor=cfffaf|[[Sevilla FC|Sevilla]]
+|{{fba|ESP}}
+|[[Boris Paichadze Dinamo Arena]], [[Tbilisi]], Georgia
+|align=center|51,940
+|-
+!scope="row" style="text-align:center"|[[2016 UEFA Super Cup|2016]]
+|{{fba|ESP}}
+|bgcolor=cedff2|[[Real Madrid CF|Real Madrid]]
+|align=center bgcolor=FBCEB1|3–2 {{aet}}
+|bgcolor=cfffaf|[[Sevilla FC|Sevilla]]
+|{{fba|ESP}}
+|[[Lerkendal Stadion]], [[Trondheim]], Norway
+|align=center|17,939
+|-
+!scope="row" style="text-align:center"|[[2017 UEFA Super Cup|2017]]
+|{{fba|ESP}}
+|bgcolor=cedff2|[[Real Madrid CF|Real Madrid]]
+|align=center |2–1
+|bgcolor=cfffaf|[[Manchester United F.C.|Manchester United]]
+|{{fba|ENG}}
+|[[Toše Proeski Arena|Philip II Arena]], [[Skopje]], <!--DO NOT ADD "NORTH", NOT THE NAME OF THE COUNTRY AT THE TIME-->Macedonia
+|align=center|30,421
+|-
+!scope="row" style="text-align:center"|[[2018 UEFA Super Cup|2018]]
+|{{fba|ESP}}
+|bgcolor=cfffaf|[[Atlético Madrid]]
+|align=center bgcolor=FBCEB1|4–2 {{aet}}
+|bgcolor=cedff2|[[Real Madrid CF|Real Madrid]]
+|{{fba|ESP}}
+|[[A. Le Coq Arena]], [[Tallinn]], Estonia
+|align=center|12,424
+|-
+!scope="row" style="text-align:center"|[[2019 UEFA Super Cup|2019]]
+|{{fba|ENG}}
+|bgcolor=cedff2|[[Liverpool F.C.|Liverpool]]
+|align=center bgcolor=FBCEB1|2–2 {{aet}}{{efn|Score was 1–1 after 90 minutes and 2–2 after extra time. Liverpool won the penalty shoot-out 5–4.}}
+|bgcolor=cfffaf|[[Chelsea F.C.|Chelsea]]
+|{{fba|ENG}}
+|[[Vodafone Park]], [[Istanbul]], Turkey
+|align=center|38,434
+|-
+!scope="row" style="text-align:center"|[[2020 UEFA Super Cup|2020]]
+|{{fba|GER}}
+|bgcolor=cedff2|[[FC Bayern Munich|Bayern Munich]]
+|align=center bgcolor=FBCEB1|2–1 {{aet}}
+|bgcolor=cfffaf|[[Sevilla FC|Sevilla]]
+|{{fba|ESP}}
+|[[Puskás Aréna]], [[Budapest]], Hungary
+|align=center|15,180{{Efn|The 2020 and 2021 editions were played with limited capacity due to the [[COVID-19 pandemic in Europe]].<ref>{{cite news |url=https://www.uefa.com/news-media/news/0260-103712e48c82-4059778ef426-1000--uefa-super-cup-to-test-partial-return-of-spectators/ |title=UEFA Super Cup to test partial return of spectators |website=UEFA.com |publisher=Union of European Football Associations |date=25 August 2020 |access-date=16 June 2026}}</ref><ref>{{Cite web |date=11 August 2021 |title=2021 UEFA Super Cup all you need to know: Chelsea vs Villarreal |url=https://www.uefa.com/uefasupercup/news/026a-129cb77e0721-de04db1e9f72-1000--2021-uefa-super-cup-all-you-need-to-know-chelsea-vs-villa/ |access-date=16 June 2026|website=UEFA.com |publisher=Union of European Football Associations}}</ref>|name=Limitation|group=}}
+|-
+!scope="row" style="text-align:center"|[[2021 UEFA Super Cup|2021]]
+|{{fba|ENG}}
+|bgcolor=cedff2|[[Chelsea F.C.|Chelsea]]
+|align=center bgcolor=FBCEB1|1–1 {{aet}}{{efn|Score was 1–1 after 90 minutes and extra time. Chelsea won the penalty shoot-out 6–5.}}
+|bgcolor=cfffaf|[[Villarreal CF|Villarreal]]
+|{{fba|ESP}}
+|[[Windsor Park]], [[Belfast]], Northern Ireland
+|align=center|10,435{{Efn|name=Limitation|group=}}
+|-
+!scope="row" style="text-align:center"|[[2022 UEFA Super Cup|2022]]
+|{{fba|ESP}}
+|bgcolor=cedff2|[[Real Madrid CF|Real Madrid]]
+|align=center |2–0
+|bgcolor=cfffaf|[[Eintracht Frankfurt]]
+|{{fba|GER}}
+|[[Helsinki Olympic Stadium|Olympic Stadium]], [[Helsinki]], Finland
+|align=center|31,042
+|-
+!scope="row" style="text-align:center"|[[2023 UEFA Super Cup|2023]]
+|{{fba|ENG}}
+|bgcolor=cedff2|[[Manchester City F.C.|Manchester City]]
+|align=center bgcolor=FBCEB1|1–1{{efn|Score was 1–1 after 90 minutes. Manchester City won the penalty shoot-out 5–4.}}
+|bgcolor=cfffaf|[[Sevilla FC|Sevilla]]
+|{{fba|ESP}}
+|[[Karaiskakis Stadium]], [[Athens]], Greece
+|align=center|29,207
+|-
+!scope="row" style="text-align:center"|[[2024 UEFA Super Cup|2024]]
+|{{fba|ESP}}
+|bgcolor=cedff2|[[Real Madrid CF|Real Madrid]]
+|align=center |2–0
+|bgcolor=cfffaf|[[Atalanta BC|Atalanta]]
+|{{fba|ITA}}
+|[[Stadion Narodowy]], [[Warsaw]], Poland<ref>{{cite web|title=Warsaw to host 2024 UEFA Super Cup|url=https://www.uefa.com/news-media/news/0285-191247fad23e-824e6cf31d48-1000--warsaw-to-host-2024-uefa-super-cup/|website=UEFA.com|publisher=Union of European Football Associations|access-date=26 September 2023|date=26 September 2023}}</ref>
+|align=center|56,042
+|-
+!scope="row" style="text-align:center"|[[2025 UEFA Super Cup|2025]]
+|{{fba|FRA}}
+|bgcolor=cedff2|[[Paris Saint-Germain FC|Paris Saint-Germain]]
+|align=center bgcolor=FBCEB1 | 2–2{{efn|Score was 2–2 after 90 minutes. Paris Saint-Germain won the penalty shoot-out 4–3.}}
+|bgcolor=cfffaf| [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|{{fba|ENG}}
+|[[Stadio Friuli]], [[Udine]], Italy
+|align=center|21,025
+|-
+!scope="row" style="text-align:center"|[[2026 UEFA Super Cup|2026]]
+|{{fba|FRA}}
+|bgcolor=cedff2|[[Paris Saint-Germain FC|Paris Saint-Germain]]
+|align=center |2–1
+|bgcolor=cfffaf| [[Aston Villa F.C|Aston Villa]]
+|{{fba|ENG}}
+|[[Red Bull Arena (Salzburg)|Red Bull Arena]], [[Salzburg]], Austria
+|align=center|27,681
+|}
+
+==Performances==
+
+===By club===
+{|class="wikitable sortable"
+|+Performance in the UEFA Super Cup by club
+!Club
+!Winners
+!Runners-up
+! class="unsortable"|Years won{{efn|No competitions were held in 1974, 1981 and 1985.}}
+! class="unsortable"|Years runners-up
+|-
+|{{flagicon|ESP}} [[Real Madrid CF|Real Madrid]]||align=center|6||align=center|3||[[2002 UEFA Super Cup|2002]], [[2014 UEFA Super Cup|2014]], [[2016 UEFA Super Cup|2016]], [[2017 UEFA Super Cup|2017]], [[2022 UEFA Super Cup|2022]], [[2024 UEFA Super Cup|2024]]||[[1998 UEFA Super Cup|1998]], [[2000 UEFA Super Cup|2000]], [[2018 UEFA Super Cup|2018]]
+|-
+|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]||align=center|5||align=center|4||[[1992 European Super Cup|1992]], [[1997 UEFA Super Cup|1997]], [[2009 UEFA Super Cup|2009]], [[2011 UEFA Super Cup|2011]], [[2015 UEFA Super Cup|2015]]||[[1979 European Super Cup|1979]], [[1982 European Super Cup|1982]], [[1989 European Super Cup|1989]], [[2006 UEFA Super Cup|2006]]
+|-
+|{{flagicon|ITA}} [[AC Milan|Milan]]||align=center|5||align=center|2||[[1989 European Super Cup|1989]], [[1990 European Super Cup|1990]], [[1994 European Super Cup|1994]], [[2003 UEFA Super Cup|2003]], [[2007 UEFA Super Cup|2007]]||[[1973 European Super Cup|1973]], [[1993 European Super Cup|1993]]
+|-
+|{{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]||align=center|4||align=center|2||[[1977 European Super Cup|1977]], [[2001 UEFA Super Cup|2001]], [[2005 UEFA Super Cup|2005]], [[2019 UEFA Super Cup|2019]]||[[1978 European Super Cup|1978]], [[1984 European Super Cup|1984]]
+|-
+|{{flagicon|ESP}} [[Atlético Madrid]]||align=center|3||align=center|0||[[2010 UEFA Super Cup|2010]], [[2012 UEFA Super Cup|2012]], [[2018 UEFA Super Cup|2018]] ||—
+|-
+|{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]||align=center|2||align=center|3||[[1998 UEFA Super Cup|1998]], [[2021 UEFA Super Cup|2021]]||[[2012 UEFA Super Cup|2012]], [[2013 UEFA Super Cup|2013]], [[2019 UEFA Super Cup|2019]]
+|-
+|{{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]||align=center|2||align=center|3||[[2013 UEFA Super Cup|2013]], [[2020 UEFA Super Cup|2020]]||[[1975 European Super Cup|1975]], [[1976 European Super Cup|1976]], [[2001 UEFA Super Cup|2001]]
+|-
+|{{flagicon|NED}} [[AFC Ajax|Ajax]]{{efn|name=Ajax 1972|Excludes the [[1972 European Super Cup]], not organised nor recognised by UEFA as an official title.}}||align=center|2||align=center|1||[[1973 European Super Cup|1973]], [[1995 UEFA Super Cup|1995]]||[[1987 European Super Cup|1987]]
+|-
+|{{flagicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]||align=center|2||align=center|1||[[2025 UEFA Super Cup|2025]], [[2026 UEFA Super Cup|2026]]||[[1996 UEFA Super Cup|1996]]
+|-
+|{{flagicon|BEL}} [[RSC Anderlecht|Anderlecht]]||align=center|2||align=center|0||[[1976 European Super Cup|1976]], [[1978 European Super Cup|1978]]||—
+|-
+|{{flagicon|ESP}} [[Valencia CF|Valencia]]||align=center|2||align=center|0||[[1980 European Super Cup|1980]], [[2004 UEFA Super Cup|2004]]||—
+|-
+|{{flagicon|ITA}} [[Juventus FC|Juventus]]||align=center|2||align=center|0||[[1984 European Super Cup|1984]], [[1996 UEFA Super Cup|1996]]||—
+|-
+|{{flagicon|ESP}} [[Sevilla FC|Sevilla]]||align=center|1||align=center|6||[[2006 UEFA Super Cup|2006]]||[[2007 UEFA Super Cup|2007]], [[2014 UEFA Super Cup|2014]], [[2015 UEFA Super Cup|2015]], [[2016 UEFA Super Cup|2016]], [[2020 UEFA Super Cup|2020]], [[2023 UEFA Super Cup|2023]]
+|-
+|{{flagicon|POR}} [[FC Porto|Porto]]||align=center|1||align=center|3||[[1987 European Super Cup|1987]]||[[2003 UEFA Super Cup|2003]], [[2004 UEFA Super Cup|2004]], [[2011 UEFA Super Cup|2011]]
+|-
+|{{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]||align=center|1||align=center|3||[[1991 European Super Cup|1991]]||[[1999 UEFA Super Cup|1999]], [[2008 UEFA Super Cup|2008]], [[2017 UEFA Super Cup|2017]]
+|-
+|{{flagicon|URS}} [[FC Dynamo Kyiv|Dynamo Kyiv]]||align=center|1||align=center|1||[[1975 European Super Cup|1975]]||[[1986 European Super Cup|1986]]
+|-
+|{{flagicon|ENG}} [[Nottingham Forest F.C.|Nottingham Forest]]||align=center|1||align=center|1||[[1979 European Super Cup|1979]]||[[1980 European Super Cup|1980]]
+|-
+|{{flagicon|ENG}} [[Aston Villa F.C.|Aston Villa]]||align=center|1||align=center|1||[[1982 European Super Cup|1982]]||[[2026 UEFA Super Cup|2026]]
+|-
+|{{flagicon|SCO}} [[Aberdeen F.C.|Aberdeen]]||align=center|1||align=center|0||[[1983 European Super Cup|1983]]||—
+|-
+|{{flagicon|ROU}} [[CSA Steaua București (football)|Steaua București]]||align=center|1||align=center|0||[[1986 European Super Cup|1986]]||—
+|-
+|{{flagicon|BEL}} [[KV Mechelen|KV Mechelen]]||align=center|1||align=center|0||[[1988 European Super Cup|1988]]||—
+|-
+|{{flagicon|ITA}} [[Parma Calcio 1913|Parma]]||align=center|1||align=center|0||[[1993 European Super Cup|1993]]||—
+|-
+|{{flagicon|ITA}} [[SS Lazio|Lazio]]||align=center|1||align=center|0||[[1999 UEFA Super Cup|1999]]||—
+|-
+|{{flagicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]||align=center|1||align=center|0||[[2000 UEFA Super Cup|2000]]||—
+|-
+|{{flagicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]||align=center|1||align=center|0||[[2008 UEFA Super Cup|2008]]||—
+|-
+|{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]||align=center|1||align=center|0||[[2023 UEFA Super Cup|2023]]||—
+|-
+|{{flagicon|GER}} [[Hamburger SV]]||align=center|0||align=center|2||—||[[1977 European Super Cup|1977]], [[1983 European Super Cup|1983]]
+|-
+|{{flagicon|NED}} [[PSV Eindhoven]]||align=center|0||align=center|1||—||[[1988 European Super Cup|1988]]
+|-
+|{{flagicon|ITA}} [[UC Sampdoria|Sampdoria]]||align=center|0||align=center|1||—||[[1990 European Super Cup|1990]]
+|-
+|{{flagicon|YUG}} [[Red Star Belgrade]]||align=center|0||align=center|1||—||[[1991 European Super Cup|1991]]
+|-
+|{{flagicon|GER}} [[SV Werder Bremen|Werder Bremen]]||align=center|0||align=center|1||—||[[1992 European Super Cup|1992]]
+|-
+|{{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]||align=center|0||align=center|1||—||[[1994 European Super Cup|1994]]
+|-
+|{{flagicon|ESP}} [[Real Zaragoza|Zaragoza]]||align=center|0||align=center|1||—||[[1995 UEFA Super Cup|1995]]
+|-
+|{{flagicon|GER}} [[Borussia Dortmund]]||align=center|0||align=center|1||—||[[1997 UEFA Super Cup|1997]]
+|-
+|{{flagicon|NED}} [[Feyenoord]]||align=center|0||align=center|1||—||[[2002 UEFA Super Cup|2002]]
+|-
+|{{flagicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]||align=center|0||align=center|1||—||[[2005 UEFA Super Cup|2005]]
+|-
+|{{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]||align=center|0||align=center|1||—||[[2009 UEFA Super Cup|2009]]
+|-
+|{{flagicon|ITA}} [[Inter Milan]]||align=center|0||align=center|1||—||[[2010 UEFA Super Cup|2010]]
+|-
+|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]||align=center|0||align=center|1||—||[[2021 UEFA Super Cup|2021]]
+|-
+|{{fbaicon|GER}} [[Eintracht Frankfurt]]||align=center|0||align=center|1||—||[[2022 UEFA Super Cup|2022]]
+|-
+|{{fbaicon|ITA}} [[Atalanta BC|Atalanta]]||align=center|0||align=center|1||—||[[2024 UEFA Super Cup|2024]]
+|-
+|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]||align=center|0||align=center|1||—||[[2025 UEFA Super Cup|2025]]
+|}
+
+===By nation===
+{| class="wikitable plainrowheaders sortable" style="text-align:center;"
+|+Performance by nation
+|-
+!scope="col"|Nation
+!scope="col"|Winners
+!scope="col"|Runners-up
+!scope="col"|Total
+|-
+!scope="row"|{{fba|ESP}}
+|17
+|15
+|32
+|-
+!scope="row"|{{fba|ENG}}
+|10
+|12
+|22
+|-
+!scope="row"|{{fba|ITA}}
+|9
+|5
+|14
+|-
+!scope="row"|{{fba|BEL}}
+|3
+|0
+|3
+|-
+!scope="row"|{{fba|GER}}{{efn|Includes clubs representing [[West Germany]]. No clubs representing [[East Germany]] appeared in a match.}}
+|2
+|8
+|10
+|-
+!scope="row"|{{fba|NED}}{{efn|name=Ajax 1972}}
+|2
+|3
+|5
+|-
+!scope="row"|{{fba|FRA}}
+|2
+|1
+|3
+|-
+!scope="row"|{{fba|POR}}
+|1
+|3
+|4
+|-
+!scope="row"|{{fba|RUS}}
+|1
+|1
+|2
+|-
+!scope="row"|{{fba|URS}}{{efn|Both Soviet appearances were made by a [[Ukrainian Soviet Socialist Republic|Ukrainian SSR]] club.}}
+|1
+|1
+|2
+|-
+!scope="row"|{{fba|ROU}}
+|1
+|0
+|1
+|-
+!scope="row"|{{fba|SCO}}{{efn|name=Ajax 1972}}
+|1
+|0
+|1
+|-
+!scope="row"|{{fba|TUR}}
+|1
+|0
+|1
+|-
+!scope="row"|{{fba|UKR}}
+|0
+|1
+|1
+|-
+!scope="row"|{{fba|YUG}}{{efn|The Yugoslav appearance was made by a club from [[Socialist Republic of Serbia|SR Serbia]].}}
+|0
+|1
+|1
+|}
+
+===By method of qualification===
+{| class="wikitable plainrowheaders sortable"
+|+UEFA Super Cup winners by method of qualification
+|-
+!scope=col| Cup
+!scope=col| Winners
+!scope=col| Runners-up
+|-
+!scope=row|[[UEFA Champions League]]{{efn|Known as the European Cup from 1956 to 1992.}}
+|align=center|31
+|align=center|20
+|-
+!scope=row|[[UEFA Cup Winners' Cup]]{{efn|Discontinued and merged into the UEFA Cup in 1999, past winners are kept separate.}}
+|align=center|12
+|align=center|12
+|-
+!scope=row|[[UEFA Europa League]]{{efn|Known as the UEFA Cup from 1971 to 2009.}}
+|align=center|8
+|align=center|19
+|}
+
+== See also ==
+* [[List of European Cup and UEFA Champions League finals]]
+* [[List of UEFA Cup and Europa League finals]]
+* [[List of UEFA Super Cup winning managers]]
+* [[List of UEFA Cup Winners' Cup finals]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.uefa.com/uefasupercup/ UEFA Super Cup] official website
+
+{{UEFA Super Cup}}
+{{UEFA Super Cup winners}}
+{{UEFA club competition winners}}
+
+{{featured list}}
+
+{{DEFAULTSORT:UEFA Super Cup matches}}
+[[Category:UEFA Super Cup|Matches]]
+[[Category:List of UEFA-sanctioned competition finals|Super Cup]]

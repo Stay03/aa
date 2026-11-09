@@ -1,0 +1,376 @@
+{{Use dmy dates|date=December 2021}}
+{{Infobox football match
+| title                   = 1998 UEFA Super Cup
+| image                   = 1998 UEFA Super Cup match programme.jpg
+| caption                 = Match programme cover
+| event                   =
+| team1                   = [[Real Madrid CF|Real Madrid]]
+| team1association        = {{flagicon|ESP|size=30px}}
+| team1score              = 0
+| team2                   = [[Chelsea F.C.|Chelsea]]
+| team2association        = {{flagicon|ENG|size=30px}}
+| team2score              = 1
+| date                    = 28 August 1998
+| stadium                 = [[Stade Louis II]]
+| city                    = [[Monaco]]
+| man_of_the_match1a      = [[Gus Poyet]] (Chelsea)<ref name="pk-09">{{cite web|url=http://en.archive.uefa.com/printoutfiles/competitions/supercup/2009/e/e_2001219_pk.pdf |title=Match Press Kit (2009) |publisher=Union of European Football Associations (UEFA) |page=18 |access-date=1 June 2012 |url-status=dead |archive-url=https://web.archive.org/web/20160303232520/http://en.archive.uefa.com/printoutfiles/competitions/supercup/2009/e/e_2001219_pk.pdf |archive-date=3 March 2016 }}</ref>
+| referee                 = [[Marc Batta]] ([[French Football Federation|France]])<ref name="referee"/>
+| attendance              = 11,589<ref name="pk-09"/>
+| previous                = [[1997 UEFA Super Cup|1997]]
+| next                    = [[1999 UEFA Super Cup|1999]]
+}}
+The '''1998 UEFA Super Cup''' was a [[Association football|football]] match that was played on 28 August 1998 at [[Stade Louis II]], [[Monaco]], contested between [[1997–98 UEFA Champions League|Champions League]] winners [[Real Madrid CF|Real Madrid]] and [[1997–98 UEFA Cup Winners' Cup|Cup Winners' Cup]] holders [[Chelsea F.C.|Chelsea]]. Neither team had previously won the trophy. Chelsea won the match 1–0 with a late goal from [[Gus Poyet]].
+
+This was the first [[UEFA Super Cup|Super Cup]] to be played as a one-off match at a neutral venue. Previously it was played over two legs, although on some occasions, only one match was played, due to special circumstances.
+
+==Venue==
+The [[Stade Louis II]] in [[Monaco]] was the venue for the UEFA Super Cup for the second time.<ref name="pk-09"/> It was built in 1985, and is also the home of [[AS Monaco FC|AS Monaco]], who play in the French league system. The [[1986 European Super Cup]] match between Steaua București, then holders of the European Cup and Dynamo Kyiv, holders of the UEFA Cup Winners' Cup, took place at the same stadium, in one-leg format.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation
+|-
+|{{flagicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[1997–98 UEFA Champions League]] winners
+|None
+|-
+|{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|[[1997–98 UEFA Cup Winners' Cup]] winners
+|None
+|}
+
+{{clear}}
+
+==Match==
+===Summary===
+Chelsea's [[Gus Poyet]] scored the only goal of the game in the 83rd minute with a right-footed finish from the edge of the penalty area to the right corner of the net after a pass from the left by [[Gianfranco Zola]].
+
+===Details===
+{{Football box
+|date = 28 August 1998
+|time = 20:45 [[Central European Summer Time|CEST]]
+|team1 = [[Real Madrid CF|Real Madrid]] {{flagicon|ESP}}
+|score = 0–1
+|report = https://www.uefa.com/uefasupercup/match/round=1223/match=55653/
+|team2 = {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1 =
+|goals2 = [[Gus Poyet|Poyet]] {{goal|83}}
+|stadium = [[Stade Louis II]], [[Monaco]]
+|attendance = 11,589<ref name="pk-09"/>
+|referee = [[Marc Batta]] ([[French Football Federation|France]])<ref name="referee">{{cite web |title=Match details / line-up: Chelsea – Real Madrid (UEFA-Supercup 1998) |url=https://www.worldfootball.net/match-report/ma1897727/lineup/ |work=worldfootball.net|access-date=7 February 2014}}</ref>
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rmcf9899h
+ | pattern_b  = _real9899home
+ | pattern_ra = _rmcf9899h
+ | pattern_sh = _rmcf9899h
+ | leftarm    = FF1493
+ | body       = FF1493
+ | rightarm   = FFFFFF
+ | shorts     = FF1493
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|{{Football kit
+ | pattern_la = _chelsea1997h
+ | pattern_b  = _chelsea1997h
+ | pattern_ra = _chelsea1997h
+ | pattern_sh = _chelsea1997h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Chelsea
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Bodo Illgner]]
+|-
+|RB ||'''2''' ||{{flagicon|ITA}} [[Christian Panucci]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]]
+|-
+|CB ||'''5''' ||{{flagicon|ESP}} [[Manolo Sanchís]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Roberto Carlos]]
+|-
+|RM ||'''22'''||{{flagicon|FRA|1974}} [[Christian Karembeu]] || {{yel|52}} || {{suboff|58}}
+|-
+|CM ||'''10'''||{{flagicon|NED}} [[Clarence Seedorf]]
+|-
+|CM ||'''6''' ||{{flagicon|ARG}} [[Fernando Redondo]]
+|-
+|LM ||'''11'''||{{flagicon|BRA}} [[Sávio (footballer, born 1974)|Sávio]]
+|-
+|CF ||'''8''' ||{{flagicon|FRY}} [[Predrag Mijatović]] || || {{suboff|73}}
+|-
+|CF ||'''7''' ||{{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Pedro Contreras]]
+|-
+|DF ||'''12'''||{{flagicon|ESP}} [[Iván Campo]]
+|-
+|DF ||'''19'''||{{flagicon|ESP}} [[Fernando Sanz]]
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Guti]]
+|-
+|MF ||'''16'''||{{flagicon|ESP}} [[Jaime Sánchez Fernández|Jaime]]
+|-
+|MF ||'''17'''||{{flagicon|CRO}} [[Robert Jarni]] || || {{subon|73}}
+|-
+|FW ||'''15'''||{{flagicon|ESP}} [[Fernando Morientes]] || {{yel|86}} || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|NED}} [[Guus Hiddink]]
+|}
+|valign="top"|[[File:Real Madrid vs Chelsea 1998-08-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|NED}} [[Ed de Goey]]
+|-
+|RB ||'''17'''||{{flagicon|ESP}} [[Albert Ferrer]] || {{yel|7}}
+|-
+|CB ||'''6''' ||{{flagicon|FRA|1974}} [[Marcel Desailly]]
+|-
+|CB ||'''5''' ||{{flagicon|FRA|1974}} [[Frank Leboeuf]]
+|-
+|LB ||'''14'''||{{flagicon|ENG}} [[Graeme Le Saux]]
+|-
+|RM ||'''12'''||{{flagicon|ENG}} [[Michael Duberry]]
+|-
+|CM ||'''11'''||{{flagicon|ENG}} [[Dennis Wise]] ([[Captain (association football)|c]])
+|-
+|CM ||'''16'''||{{flagicon|ITA}} [[Roberto Di Matteo]] || || {{suboff|63}}
+|-
+|LM ||'''3''' ||{{flagicon|NGA}} [[Celestine Babayaro]] || {{yel|32}}
+|-
+|CF ||'''25'''||{{flagicon|ITA}} [[Gianfranco Zola]] || || {{suboff|83}}
+|-
+|CF ||'''10'''||{{flagicon|ITA}} [[Pierluigi Casiraghi]] || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ENG}} [[Kevin Hitchcock]]
+|-
+|DF ||'''21'''||{{flagicon|FRA|1974}} [[Bernard Lambourde]]
+|-
+|MF ||'''7''' ||{{flagicon|DEN}} [[Brian Laudrup]] || || {{subon|83}}
+|-
+|MF ||'''8''' ||{{flagicon|URU}} [[Gus Poyet]] || || {{subon|63}}
+|-
+|MF ||'''24'''||{{flagicon|ENG}} [[Eddie Newton]]
+|-
+|MF ||'''28'''||{{flagicon|ENG}} [[Jody Morris]]
+|-
+|FW ||'''19'''||{{flagicon|NOR}} [[Tore André Flo]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Gianluca Vialli]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Gus Poyet]] (Chelsea)<ref name="pk-09"/>
+
+'''[[Assistant referee (association football)|Assistant referee]]s:'''
+<br />Pierre Ufrasi ([[French Football Federation|France]])<ref name="referee"/>
+<br />Jacques Mas ([[French Football Federation|France]])<ref name="referee"/>
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Pascal Garibian ([[French Football Federation|France]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes, of which up to three may be used
+|}<!--
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half
+|-
+! scope="col" style="width:100px"|
+! scope="col" style="width:70px"| {{nowrap|Real Madrid}}
+! scope="col" style="width:70px"| Chelsea
+|-
+!scope=row|Goals scored
+| 0
+| 0
+|-
+!scope=row|Total shots
+| 4
+| 3
+|-
+!scope=row|Shots on target
+| 2
+| 0
+|-
+!scope=row|Ball possession
+| 61%
+| 39%
+|-
+!scope=row|Corner kicks
+| 1
+| 2
+|-
+!scope=row|{{nowrap|Fouls committed}}
+| 10
+| 8
+|-
+!scope=row|Offsides
+| 2
+| 2
+|-
+!scope=row|Yellow cards
+| 0
+| 2
+|-
+!scope=row|Red cards
+| 0
+| 0
+|}
+
+{{col-3}}
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|+Second half
+|-
+! scope="col" style="width:100px"|
+! scope="col" style="width:70px"| Real Madrid
+! scope="col" style="width:70px"| Chelsea
+|-
+!scope=row|Goals scored
+| 0
+| 1
+|-
+!scope=row|Total shots
+|
+|
+|-
+!scope=row|Shots on target
+|
+|
+|-
+!scope=row|Ball possession
+|
+|
+|-
+!scope=row|Corner kicks
+|
+|
+|-
+!scope=row|Fouls committed
+|
+|
+|-
+!scope=row|Offsides
+|
+|
+|-
+!scope=row|Yellow cards
+| 2
+| 0
+|-
+!scope=row|Red cards
+| 0
+| 0
+|}
+
+{{col-3}}
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|+Overall
+|-
+! scope="col" style="width:100px"|
+! scope="col" style="width:70px"| Real Madrid
+! scope="col" style="width:70px"| Chelsea
+|-
+!scope=row|Goals scored
+| 0
+| 1
+|-
+!scope=row|Total shots
+|
+|
+|-
+!scope=row|Shots on target
+|
+|
+|-
+!scope=row|Ball possession
+|
+|
+|-
+!scope=row|Corner kicks
+|
+|
+|-
+!scope=row|Fouls committed
+|
+|
+|-
+!scope=row|Offsides
+|
+|
+|-
+!scope=row|Yellow cards
+| 2
+| 2
+|-
+!scope=row|Red cards
+| 0
+| 0
+|}
+{{Col-end}}
+-->
+
+==See also==
+*[[1998–99 UEFA Champions League]]
+*[[1998–99 UEFA Cup Winners' Cup]]
+*[[1998–99 Chelsea F.C. season]]
+*[[1998–99 Real Madrid CF season]]
+*[[1971 European Cup Winners' Cup final]] – contested between same teams
+*[[Chelsea F.C. in international football]]
+*[[Real Madrid CF in international football]]
+
+==References==
+{{Reflist}}
+
+{{UEFA Super Cup}}
+{{1998–99 in European football (UEFA)}}
+{{Real Madrid CF matches}}
+{{Chelsea F.C. matches}}
+
+[[Category:1998–99 in European men's continental football|Super Cup]]
+[[Category:Chelsea F.C. matches|Super Cup 1998]]
+[[Category:UEFA Super Cup matches]]
+[[Category:Real Madrid CF matches|UEFA Super Cup 1998]]
+[[Category:1998–99 in Spanish football|Supercup]]
+[[Category:1998 in Monégasque sport]]
+[[Category:August 1998 sports events in Europe]]
+[[Category:Football matches in Monaco]]
+[[Category:1998–99 in English men's football]]
+[[Category:Spain–United Kingdom sports relations]]

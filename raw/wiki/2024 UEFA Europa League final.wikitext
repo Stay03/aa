@@ -1,0 +1,590 @@
+{{Use dmy dates|date=July 2021}}
+{{Infobox football match
+| title = 2024 UEFA Europa League final
+| image = 2024 UEFA Europa League Final programme.png
+| image_size = frameless
+| caption = Match programme cover
+| event = [[2023–24 UEFA Europa League]]
+| team1 = [[Atalanta BC|Atalanta]]
+| team1association = {{fbaicon|ITA|size=30px}}
+| team1score = 3
+| team2 = [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| team2association = {{fbaicon|GER|size=30px}}
+| team2score = 0
+| details = 
+| date = {{Start date|2024|5|22|df=y}}
+| stadium = [[Aviva Stadium]]
+| city = [[Dublin]]
+| man_of_the_match1a = [[Ademola Lookman]] (Atalanta)<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefaeuropaleague/news/028d-1af3bee34caf-f14807486088-1000/ |title=Atalanta's Ademola Lookman named official UEFA Europa League final Player of the Match |website=UEFA.com|publisher=Union of European Football Associations |date=22 May 2024 |access-date=22 May 2024}}</ref>
+| referee = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])<ref name="officials">{{cite web |url=https://www.uefa.com/news-media/news/028d-1ae109919f08-661e0d65ffdb-1000/ |title=Referee teams for 2024 UEFA club competition finals announced |website=UEFA.com|publisher=Union of European Football Associations |date=13 May 2024 |access-date=13 May 2024}}</ref>
+| attendance = 47,135<ref name="report 22 May"/>
+| weather = Cloudy<br />{{convert|14|°C|°F}}<br />77% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2024/2039971_LU.pdf |title=Tactical Lineups – Final – Wednesday 22 May 2024 |website=UEFA.com|publisher=Union of European Football Associations |date=22 May 2024 |access-date=22 May 2024}}</ref>
+| previous = [[2023 UEFA Europa League final|2023]]
+| next = [[2025 UEFA Europa League final|2025]]
+}}
+The '''2024 UEFA Europa League final''' was the final match of the [[2023–24 UEFA Europa League]], the 53rd season of Europe's secondary club [[association football|football]] tournament organised by [[UEFA]], and the 15th season since it was renamed from the UEFA Cup to the [[UEFA Europa League]]. It was held at the [[Aviva Stadium]] in [[Dublin]], Ireland, on 22 May 2024, between Italian club [[Atalanta BC|Atalanta]] and German club [[Bayer 04 Leverkusen|Bayer Leverkusen]].<ref name="ExCo">{{cite news |url=https://www.uefa.com/news-media/news/026b-12c542441355-1c2040c5e54b-1000/ |title=Venues appointed for club competition finals |website=UEFA.com|publisher=Union of European Football Associations |date=16 July 2021 |access-date=16 July 2021}}</ref><ref>{{cite magazine |url=https://editorial.uefa.com/resources/0279-163596ae271e-e04faa20e08e-1000/20220926_circular_2022_65_en.zip |title=International match calendar and access list for the 2023/24 season |number=65/2022 |magazine=UEFA Circular Letter |publisher=Union of European Football Associations |date=26 September 2022 |access-date=27 September 2022}}</ref>
+
+[[Atalanta BC|Atalanta]] won the match 3–0 for their first European trophy and their first trophy in 61 years courtesy of a hat-trick by [[Ademola Lookman]].<ref>{{cite web |url=https://www.uefa.com/uefaeuropaleague/news/028d-1af3bf5e7e68-7d9202792002-1000/ |title=Atalanta 3–0 Leverkusen: Lookman treble brings UEFA Europa League glory to Bergamo |website=UEFA.com|publisher=Union of European Football Associations |date=22 May 2024 |access-date=22 May 2024}}</ref> In doing so, he became the first hat-trick scorer in a Europa League final, the first in a major European final since [[Jupp Heynckes]] in the [[1975 UEFA Cup final#Second leg|1975 UEFA Cup final second leg]] and the first in a single-match major European final since [[Pierino Prati]] in the [[1969 European Cup final]].<ref>{{cite web|url=https://iffhs.com/en/news/ademola-lookman-in-the-top-10-3636 |title=Ademola Lookman in the Top 10 !|date=23 May 2024|publisher=[[IFFHS]]|work=IFFHS.com|access-date=23 May 2024}}</ref> Atalanta also became the 30th different club to win the UEFA Cup/Europa League, the first Italian club since [[Parma Calcio 1913|Parma]] in [[1999 UEFA Cup final|1999]] to win the trophy and the first Italian side to win the competition since its rebranding before the [[2009–10 UEFA Europa League|2009–10 season]]. Leverkusen, who had been [[European association football club records and statistics#Longest unbeaten run across all competitions|unbeaten in 51 matches across all competitions]] in the season, became the first German side to lose a UEFA Cup/Europa League final since [[SV Werder Bremen|Werder Bremen]] in [[2009 UEFA Cup final|2009]].
+
+As winners, Atalanta earned the right to play against [[Real Madrid CF|Real Madrid]], the winners of the [[2023–24 UEFA Champions League]], in the [[2024 UEFA Super Cup]]. Since Atalanta had already qualified to enter the league phase of the [[2024–25 UEFA Champions League]] through their league performance, the access list was rebalanced.
+
+==Background==
+This was [[Atalanta BC|Atalanta]]'s first ever European final. Having lost the [[2024 Coppa Italia final]], Atalanta failed to win a [[Double (association football)#European cup double|cup double]], but were still seeking a first major title since winning the [[1962–63 Coppa Italia]]. For [[Bayer 04 Leverkusen|Bayer Leverkusen]], this was their third ever European showpiece match,  the first European final since losing the [[2002 UEFA Champions League final]], and the first UEFA Cup/Europa League final since winning it in [[1988 UEFA Cup final|1988]]. Having won the [[2023–24 Bundesliga]] title and secured passage to the [[2024 DFB-Pokal final]], Leverkusen were aiming for a [[Treble (association football)|treble]].<ref name="UEL final preview">{{cite web|url= https://www.uefa.com/uefaeuropaleague/news/028d-1ae2c2237b23-23b2339ec1ea-1000--europa-league-final-preview-atalanta-vs-leverkusen-where-t/|title=Europa League final preview: Atalanta vs Leverkusen – where to watch, kick-off time, possible line-ups, form guide|date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations|access-date=22 May 2024}}</ref>
+
+The final was only the third time the teams had met. Their first two matches were in the [[2021–22 UEFA Europa League knockout phase#Round of 16|2021–22 UEFA Europa League round of 16]]. Atalanta won both legs, [[2021–22 UEFA Europa League knockout phase#Atalanta v Bayer Leverkusen|3–2]] at home and [[2021–22 UEFA Europa League knockout phase#Bayer Leverkusen v Atalanta|1–0]] in the away game.<ref name="UEL final preview"/>
+
+===Previous finals===
+''In the following table, the finals until 2009 were in the UEFA Cup era, and since 2010 in the UEFA Europa League era.''
+
+{| class="wikitable plainrowheaders"
+|-
+!scope="col"|Team
+!scope="col"|Previous final appearances (bold indicates winners)
+|-
+|{{fbaicon|ITA}} [[Atalanta BC|Atalanta]]
+|None
+|-
+|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|1 ('''[[1988 UEFA Cup final|1988]]''')
+|}
+
+==Venue==
+[[File:Aviva Stadium. View from the North Stand - panoramio.jpg|thumb|275x275px|[[Aviva Stadium]] in [[Dublin]] hosted the final.]]
+
+===Host selection===
+On 16 July 2021, the UEFA Executive Committee announced that due to the withdrawal of hosting rights for [[UEFA Euro 2020]], the [[Aviva Stadium]] in [[Dublin]] was given hosting rights for the 2024 final. This was part of a settlement agreement by UEFA to recognise the efforts and financial investment made to host UEFA Euro 2020.<ref name="ExCo"/>
+
+It was the second time that the Europa League final has been held in the Aviva Stadium, having previously hosted the [[2011 UEFA Europa League final|2011 final]].
+
+==Route to the final==
+{{Further|2023–24 UEFA Europa League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|ITA}} [[Atalanta BC|Atalanta]]
+!Round
+!colspan="4"|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2023–24 UEFA Europa League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|POL}} [[Raków Częstochowa]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#Atalanta v Raków Częstochowa|2–0]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|SWE}} [[BK Häcken]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#Bayer Leverkusen v BK Häcken|4–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[Sporting CP]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#Sporting CP v Atalanta|2–1]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|NOR}} [[Molde FK|Molde]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#Molde v Bayer Leverkusen|2–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|AUT}} [[SK Sturm Graz|Sturm Graz]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#Sturm Graz v Atalanta|2–2]] (A)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#Bayer Leverkusen v Qarabağ|5–1]] (H)
+|-
+|style="text-align:left"|{{fbaicon|AUT}} [[SK Sturm Graz|Sturm Graz]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#Atalanta v Sturm Graz|1–0]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#Qarabağ v Bayer Leverkusen|1–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[Sporting CP]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#Atalanta v Sporting CP|1–1]] (H)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|SWE}} [[BK Häcken]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#BK Häcken v Bayer Leverkusen|2–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|POL}} [[Raków Częstochowa]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#Raków Częstochowa v Atalanta|4–0]] (A)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|NOR}} [[Molde FK|Molde]]
+|colspan="3"|[[2023–24 UEFA Europa League group stage#Bayer Leverkusen v Molde|5–1]] (H)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2023–24 UEFA Europa League group stage#Group D|Group D]] winners'''
+<div class="center">{{2023–24 UEFA Europa League group tables|Group D|only_pld_pts=yes|show_matches=no|showteam=ATA}}</div>
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2023–24 UEFA Europa League group stage#Group H|Group H]] winners'''
+<div class="center">{{2023–24 UEFA Europa League group tables|Group H|only_pld_pts=yes|show_matches=no|showteam=LEV}}</div>
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2023–24 UEFA Europa League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[Sporting CP]]
+|3–2
+|[[2023–24 UEFA Europa League knockout phase#Sporting CP v Atalanta|1–1]] (A)
+|[[2023–24 UEFA Europa League knockout phase#Atalanta v Sporting CP|2–1]] (H)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|5–4
+|[[2023–24 UEFA Europa League knockout phase#Qarabağ v Bayer Leverkusen|2–2]] (A)
+|[[2023–24 UEFA Europa League knockout phase#Bayer Leverkusen v Qarabağ|3–2]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|3–1
+|[[2023–24 UEFA Europa League knockout phase#Liverpool v Atalanta|3–0]] (A)
+|[[2023–24 UEFA Europa League knockout phase#Atalanta v Liverpool|0–1]] (H)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|3–1
+|[[2023–24 UEFA Europa League knockout phase#Bayer Leverkusen v West Ham United|2–0]] (H)
+|[[2023–24 UEFA Europa League knockout phase#West Ham United v Bayer Leverkusen|1–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|FRA}} [[Olympique de Marseille|Marseille]]
+|4–1
+|[[2023–24 UEFA Europa League knockout phase#Marseille v Atalanta|1–1]] (A)
+|[[2023–24 UEFA Europa League knockout phase#Atalanta v Marseille|3–0]] (H)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|4–2
+|[[2023–24 UEFA Europa League knockout phase#Roma v Bayer Leverkusen|2–0]] (A)
+|[[2023–24 UEFA Europa League knockout phase#Bayer Leverkusen v Roma|2–2]] (H)
+|}
+
+===Atalanta===
+{{see also|2023–24 Atalanta BC season}}
+[[File:Scamacca (cropped).jpeg|thumb|upright=.8|[[Atalanta BC|Atalanta]] forward [[Gianluca Scamacca]] was the top scorer in the competition for his club with 6 goals leading up to the final.]] 
+
+Atalanta qualified for the Europa League group stage by finishing 5th in the [[2022–23 Serie A]]. They were drawn into Group D alongside [[2022–23 Primeira Liga|Primeira Liga]] fourth-place team [[Sporting CP]], [[2022–23 Austrian Football Bundesliga|Austrian Football Bundesliga]] second-place team [[SK Sturm Graz|Sturm Graz]], and reigning [[2022–23 Ekstraklasa|Ekstraklasa]] champions [[Raków Częstochowa]].<ref name="GS draw">{{cite web|title=UEFA Europa League group stage draw|url=https://www.uefa.com/uefaeuropaleague/draws/2024/2001762/|date=1 September 2023|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+In Atalanta's opener of the group stage, they faced Raków Częstochowa at the [[Stadio Atleti Azzurri d'Italia|Stadio di Bergamo]] and won 2–0, with goals from [[Charles De Ketelaere]] and [[Éderson (footballer, born 1999)|Éderson]].<ref>{{cite web|title=Atalanta-Raków|url=https://www.uefa.com/uefaeuropaleague/match/2039208/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> On matchday 2, Atalanta defeated Sporting CP away from home at the [[Estádio José Alvalade]] 2–1, with goals by [[Giorgio Scalvini]] and [[Matteo Ruggeri]], and a goal from [[Viktor Gyökeres]] for the hosts.<ref>{{cite web|title=Sporting CP-Atalanta|url=https://www.uefa.com/uefaeuropaleague/match/2039216/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> On matchday 3, Atalanta drew in a 2–2 stalemate at the [[Liebenauer Stadium|Stadion Graz Liebenau]] against Sturm Graz.<ref>{{cite web|title=Sturm Graz-Atalanta|url=https://www.uefa.com/uefaeuropaleague/match/2039231/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> On matchday 4, Atalanta defeated Sturm Graz in the reverse fixture at the Stadio di Bergamo, with a goal from [[Berat Djimsiti]].<ref>{{cite web|title=Atalanta-Sturm Graz|url=https://www.uefa.com/uefaeuropaleague/match/2039255/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> On matchday 5, Atalanta drew 1–1 with Sporting CP at home, with a goal from [[Gianluca Scamacca]] and [[Marcus Edwards]] for the visitors.<ref>{{cite web|title=Atalanta-Sporting CP|url=https://www.uefa.com/uefaeuropaleague/match/2039262/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> On matchday 6 at the [[Zagłębiowski Park Sportowy]], Atalanta grabbed a 4–0 away win against Raków Częstochowa, with two goals from [[Luis Muriel]], and goals by [[Giovanni Bonfanti]] and Charles De Ketelaere.<ref>{{cite web|title=Raków-Atalanta|url=https://www.uefa.com/uefaeuropaleague/match/2039289/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+In the round of 16, Atalanta were drawn against Sporting CP, a rematch from the group stage clash. In the first leg at the Estádio José Alvalade, Atalanta drew 1–1, with goals from Gianluca Scamacca and [[Paulinho (footballer, born November 1992)|Paulinho]].<ref>{{cite web|title=Sporting CP-Atalanta|url=https://www.uefa.com/uefaeuropaleague/match/2040315/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> In the second leg, Atalanta defeated Sporting CP 2–1, with goals from [[Ademola Lookman]] and Gianluca Scamacca cancelling out [[Pedro Gonçalves]]' opener to win 3–2 on aggregate and advance to the quarter-finals.<ref>{{cite web|title=Atalanta-Sporting CP|url=https://www.uefa.com/uefaeuropaleague/match/2040323/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+In the quarter-finals, Atalanta were drawn against English club and tournament favourites [[Liverpool F.C.|Liverpool]]. In the first leg, Atalanta upset the English team 3–0 away at [[Anfield]], with a brace from Gianluca Scamacca and a goal from [[Mario Pašalić]], ending Liverpool's 34-game unbeaten run at home across all competitions.<ref>{{cite web|title=Liverpool-Atalanta|url=https://www.uefa.com/uefaeuropaleague/match/2040517/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> In the second leg, Atalanta lost 1–0 with a goal from [[Mohamed Salah]], but the win in the second leg allowed Atalanta to advance 3–1 on aggregate.<ref>{{cite web|title=Atalanta-Liverpool|url=https://www.uefa.com/uefaeuropaleague/match/2040521--atalanta-vs-liverpool/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+In the semi-finals, Atalanta were drawn against French club [[Olympique de Marseille|Marseille]]. In the first leg at the [[Stade Vélodrome|Stade de Marseille]], Atalanta drew 1–1, with goals from Gianluca Scamacca and [[Chancel Mbemba]] for the hosts.<ref>{{cite web|title=Marseille-Atalanta|url=https://www.uefa.com/uefaeuropaleague/match/2040524/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> In the second leg at the Stadio di Bergamo, the hosts defeated Marseille 3–0, with goals from Ademola Lookman, Matteo Ruggeri, and [[El Bilal Touré]]. Atalanta won 4–1 on aggregate to qualify for their first European final.<ref>{{cite web|title=Atalanta-Marseille|url=https://www.uefa.com/uefaeuropaleague/match/2040526/|access-date=23 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+===Bayer Leverkusen===
+{{see also|2023–24 Bayer 04 Leverkusen season}}
+[[File:Los Caminos del fútbol. Xabi Alonso (39666778464) (cropped).jpg|thumb|upright=.8|[[Bayer Leverkusen]] manager [[Xabi Alonso]] led his team to the [[European association football club records and statistics#Longest unbeaten run across all competitions|longest unbeaten run across all competitions]] since the introduction of UEFA club competitions (1955–56), with a record of 51 matches unbeaten en route to the final.]] 
+
+Bayer Leverkusen qualified for the Europa League group stage by finishing 6th in the [[2022–23 Bundesliga]], due to [[RB Leipzig]] winning the [[2022–23 DFB-Pokal]] while also qualifying for the [[2023–24 UEFA Champions League|Champions League]] based on league position, meaning the Europa League place was passed down to sixth place. Leverkusen were drawn into Group H alongside reigning [[2022–23 Azerbaijan Premier League|Azerbaijan Premier League]] champions [[Qarabağ FK|Qarabağ]], [[2023 Eliteserien|Eliteserien]] fifth-place team [[Molde FK|Molde]], and [[2023 Allsvenskan|Allsvenskan]] third-place team [[BK Häcken]].<ref name="GS draw"/>
+
+In Leverkusen's opener of the group stage, they faced BK Häcken at the [[BayArena]] and won 4–0, with goals from [[Florian Wirtz]], [[Amine Adli]], [[Victor Boniface]] and [[Jonas Hofmann]].<ref>{{cite web|title=Leverkusen-Häcken|url=https://www.uefa.com/uefaeuropaleague/match/2039200/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> On matchday 2, Leverkusen defeated Molde away from home at the [[Aker Stadion]] 2–1, with goals by [[Jeremie Frimpong]] and [[Nathan Tella]], and a goal from [[Emil Breivik]] for the hosts.<ref>{{cite web|title=Molde-Leverkusen|url=https://www.uefa.com/uefaeuropaleague/match/2039224/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> On matchday 3, Leverkusen were victorious again in a 5–1 thumping at home against Qarabağ.<ref>{{cite web|title=Leverkusen-Qarabağ|url=https://www.uefa.com/uefaeuropaleague/match/2039241/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> On matchday 4, Leverkusen defeated Qarabağ in the reverse fixture at the [[Tofiq Bahramov Republican Stadium]], with a goal from Victor Boniface.<ref>{{cite web|title=Qarabağ-Leverkusen|url=https://www.uefa.com/uefaeuropaleague/match/2039249/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> On matchday 5, Leverkusen won 2–0 against BK Häcken at [[Ullevi]], with goals from Victor Boniface and [[Patrik Schick]] for the visitors.<ref>{{cite web|title=Häcken-Leverkusen|url=https://www.uefa.com/uefaeuropaleague/match/2039273/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> On matchday 6 at the BayArena, Leverkusen grabbed a 5–1 win against Molde, with two goals from [[Adam Hložek]], and goals by Patrik Schick and [[Edmond Tapsoba]] as well as an [[Own goal#Association football|own goal]] by [[Martin Ellingsen]].<ref>{{cite web|title=Leverkusen-Molde|url=https://www.uefa.com/uefaeuropaleague/match/2039280/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+In the round of 16, Leverkusen were drawn against Qarabağ, a rematch from the group stage clash. In the first leg at the Tofiq Bahramov Republican Stadium, Leverkusen drew 2–2, with goals from Florian Wirtz and Patrik Schick.<ref>{{cite web|title=Qarabağ-Leverkusen|url=https://www.uefa.com/uefaeuropaleague/match/2040317/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> In the second leg, Leverkusen defeated Qarabağ 3–2, with one goal from Jeremie Frimpong and two late goals from Patrik Schick cancelling out goals from [[Abdellah Zoubir]] and [[Juninho (footballer, born 1996)|Juninho]] to win 5–4 on aggregate and advance to the quarter-finals.<ref>{{cite web|title=Leverkusen-Qarabağ|url=https://www.uefa.com/uefaeuropaleague/match/2040325/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+In the quarter-finals, Leverkusen were drawn against English club and reigning [[2022–23 UEFA Europa Conference League|Europa Conference League]] winners [[West Ham United F.C.|West Ham United]]. In the first leg, Leverkusen produced a 2–0 home win at BayArena, with two late goals coming from Jonas Hofmann and Victor Boniface.<ref>{{cite web|title=Leverkusen-West Ham|url=https://www.uefa.com/uefaeuropaleague/match/2040518/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> In the second leg, the match ended with a 1–1 draw, where despite [[Michail Antonio]] opened the scoring early for West Ham, Jeremie Frimpong equalised late on to ensure that the two goal advantage from the first leg was enough for Leverkusen to advance 3–1 on aggregate.<ref>{{cite web|title=West Ham-Leverkusen|url=https://www.uefa.com/uefaeuropaleague/match/2040522/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+In the semi-finals, Leverkusen were drawn against Italian club [[AS Roma|Roma]], runners-up of the [[2022–23 UEFA Europa League|previous edition]]. In the first leg at the [[Stadio Olimpico]], Leverkusen won 2–0, with goals from Florian Wirtz and [[Robert Andrich]] enough for the away team to carry an advantage into the second leg.<ref>{{cite web|title=Roma-Leverkusen|url=https://www.uefa.com/uefaeuropaleague/match/2040525/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref> In the second leg at the BayArena, the hosts came from 2–0 down after 66 minutes, courtesy of a brace from [[Leandro Paredes]], before scoring two goals late on via an own goal from [[Gianluca Mancini]] and a 97th minute goal from [[Josip Stanišić]] to draw the match 2–2. Leverkusen won 4–2 on aggregate and progressed to the Europa League final, while also setting a new European unbeaten record of 49 successive games, surpassing the [[S.L. Benfica|Benfica]] side that was managed between December 1963 and February 1965.<ref>{{cite web|title=Leverkusen-Roma|url=https://www.uefa.com/uefaeuropaleague/match/2040527/|access-date=22 May 2024|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+==Pre-match==
+
+===Identity===
+The original identity of the 2024 UEFA Europa League final was unveiled at the group stage draw on 1 September 2023.<ref>{{Cite web |last=UEFA.com |date=2023-09-01 |title=2024 UEFA Europa League and UEFA Europa Conference League final identities revealed |url=https://www.uefa.com/news-media/news/0285-18df8e6abdf2-f54ceb925270-1000--2024-uefa-europa-league-and-uefa-europa-conference-league-fi/ |access-date=2023-09-02 |website=UEFA.com|language=en}}</ref>
+
+===Ambassador===
+The ambassador for the final was former Irish international [[John O'Shea]] who walked onto the pitch with the trophy before the match.<ref>{{cite web | last=McDonnell | first=Daniel | title=John O'Shea in the dark over Ireland manager job but he doesn't expect it will be him | website=Irish Independent | date=17 April 2024 | url=https://www.independent.ie/sport/soccer/international-soccer/john-oshea-in-the-dark-over-ireland-manager-job-but-he-doesnt-expect-it-will-be-him/a1009168623.html | access-date=10 May 2024}}</ref>
+
+===Ticketing===
+From a capacity of 48,000 seats, 36,000 were made available to the fans and the general public, of which both competing team's supporters received an allocation of 12,000 tickets each.<ref>{{cite web | title=Ticket sales for 2024 men's UEFA club competition finals and UEFA Super Cup launched | website=UEFA.com| date=9 April 2024 | url=https://www.uefa.com/news-media/news/028c-1a9c5b793851-c86ab42d20c8-1000--ticket-sales-for-2024-men-s-uefa-club-competition-finals-an/ | access-date=22 May 2024}}</ref>
+
+==Match==
+
+===Summary===
+[[File:2019-10-23 Fußball, Männer, UEFA Champions League, RB Leipzig - FC Zenit St. Petersburg 1DX 2641 by Stepro.jpg|thumb|upright=.8|[[Atalanta BC|Atalanta]] forward [[Ademola Lookman]] was named [[Player of the match#Association football|man of the match]] after becoming the first person to score a [[Hat-trick#Association football|hat-trick]] in a Europa League final.]]
+
+In the 12th minute, Atalanta went in front after [[Teun Koopmeiners]] played a [[Passing (association football)#Through pass|through-ball]] to [[Davide Zappacosta]] who then played the ball low across from the right where [[Ademola Lookman]] was lurking, and the Nigerian managed to run in front of [[Exequiel Palacios]] and strike the ball into the top left-hand corner of the net to give the Italian side the lead. Lookman doubled Atalanta's lead fourteen minutes later, after collecting the ball and [[Dribbling#Association football|dribbling]] past [[Granit Xhaka]] before striking his effort into the bottom right-hand corner of the net to make it 2–0.<ref>{{cite web|url= https://www.theguardian.com/football/article/2024/may/22/atalanta-bayer-leverkusen-europa-league-final-match-report|title=Atalanta win Europa League as Lookman hat-trick ends Leverkusen's unbeaten run|date=22 May 2024|work=The Guardian|accessdate=23 May 2024}}</ref>
+Leverkusen came close to getting a goal back after [[Álex Grimaldo]] was played through on goal by Palacios, but the Spaniard's attempted [[Chip (association football)|chip]] ended up safely in the hands of [[Juan Musso]]. Atalanta pushed for a third as the game progressed, with [[Charles De Ketelaere]] having an effort saved by [[Matěj Kovář]], and [[Piero Hincapié]] forced to prevent a [[Cross (association football)|cross]] from Koopmeiners from reaching De Ketelaere. In the 75th minute, Lookman completed his [[Hat-trick#Association football|hat-trick]] after receiving the ball from [[Gianluca Scamacca]] on the left before managing to find himself space and get a shot away, which ended up in the top right-hand corner of the net. The match ended with Atalanta winning 3–0, as they secured their first ever European title.<ref name="BBC Report">{{cite news |title=Atalanta vs Bayer Leverkusen |url= https://www.bbc.co.uk/sport/football/live/cw005j1704lt#Report |access-date=21 May 2024 |newspaper=BBC Sport}}</ref>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the quarter-final and semi-final draws.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2024|5|22|df=y}}
+|time       = {{CEST|21:00|localtz=IST}}
+|team1      = [[Atalanta BC|Atalanta]] {{fbaicon|ITA}}
+|score      = 3–0
+|team2      = {{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|goals1     =
+*[[Ademola Lookman|Lookman]] {{goal|12||26||75}}
+|goals2     =
+|stadium    = [[Aviva Stadium]], [[Dublin]]
+|attendance = 47,135<ref name="report 22 May">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2024/2039971_FR.pdf |title=Full Time Report Final – Atalanta v Bayer Leverkusen |website=UEFA.com|publisher=Union of European Football Associations |date=22 May 2024 |access-date=22 May 2024}}</ref>
+|referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2039971/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _atalanta2324H
+ |pattern_b  = _atalanta2324H
+ |pattern_ra = _atalanta2324H
+ |pattern_sh = _atalanta2324H
+ |pattern_so = _atalanta2324hl
+ |leftarm    = 0060F0
+ |body       = 0060F0
+ |rightarm   = 0060F0
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Atalanta<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _bayer2324A
+ |pattern_b  = _bayer2324A
+ |pattern_ra = _bayer2324A
+ |pattern_sh = _bayer2324a
+ |pattern_so = _bayer2324al
+ |leftarm    = F4F0ED
+ |body       = F4F0ED
+ |rightarm   = F4F0ED
+ |shorts     = F4F0ED
+ |socks      = F4F0ED
+ |title      = {{nowrap|Bayer Leverkusen}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Juan Musso]]
+|-
+|CB ||'''19'''||{{flagicon|ALB}} [[Berat Djimsiti]] ([[Captain (association football)|c]]) || {{yel|22}}
+|-
+|CB ||'''4''' ||{{flagicon|SWE}} [[Isak Hien]]
+|-
+|CB ||'''23'''||{{flagicon|BIH}} [[Sead Kolašinac]] || || {{suboff|46}}
+|-
+|RM ||'''77'''||{{flagicon|ITA}} [[Davide Zappacosta]] || {{yel|60}} || {{suboff|84}}
+|-
+|CM ||'''13'''||{{flagicon|BRA}} [[Éderson (footballer, born 1999)|Éderson]]
+|-
+|CM ||'''7''' ||{{flagicon|NED}} [[Teun Koopmeiners]] || {{yel|70}}
+|-
+|LM ||'''22'''||{{flagicon|ITA}} [[Matteo Ruggeri]] || || {{suboff|90+1}}
+|-
+|RF ||'''17'''||{{flagicon|BEL}} [[Charles De Ketelaere]] || || {{suboff|57}}
+|-
+|CF ||'''90'''||{{flagicon|ITA}} [[Gianluca Scamacca]] || {{yel|35}} || {{suboff|84}}
+|-
+|LF ||'''11'''||{{flagicon|NGA}} [[Ademola Lookman]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''29'''||{{flagicon|ITA}} [[Marco Carnesecchi]]
+|-
+|GK ||'''31'''||{{flagicon|ITA}} [[Francesco Rossi (footballer, born 1991)|Francesco Rossi]]
+|-
+|DF ||'''2''' ||{{flagicon|ITA}} [[Rafael Tolói]] || || {{subon|90+1}}
+|-
+|DF ||'''42'''||{{flagicon|ITA}} [[Giorgio Scalvini]] || || {{subon|46}}
+|-
+|MF ||'''3''' ||{{flagicon|SWE}} [[Emil Holm (footballer)|Emil Holm]]
+|-
+|MF ||'''8''' ||{{flagicon|CRO}} [[Mario Pašalić]] || || {{subon|57}}
+|-
+|MF ||'''15'''||{{flagicon|NED}} [[Marten de Roon]]
+|-
+|MF ||'''20'''||{{flagicon|NED}} [[Mitchel Bakker]]
+|-
+|MF ||'''25'''||{{flagicon|FRA}} [[Michel Ndary Adopo]]
+|-
+|MF ||'''33'''||{{flagicon|NED}} [[Hans Hateboer]] || || {{subon|84}}
+|-
+|FW ||'''10'''||{{flagicon|MLI}} [[El Bilal Touré]] || || {{subon|84}}
+|-
+|FW ||'''59'''||{{flagicon|RUS}} [[Aleksei Miranchuk]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Gian Piero Gasperini]]
+|}
+|valign="top"|[[File:Atalanta vs Bayer Leverkusen 2024-05-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''17'''||{{flagicon|CZE}} [[Matěj Kovář]]
+|-
+|CB ||'''2''' ||{{flagicon|CRO}} [[Josip Stanišić]] || || {{suboff|46}}
+|-
+|CB ||'''4''' ||{{flagicon|GER}} [[Jonathan Tah]] ([[Captain (association football)|c]])
+|-
+|CB ||'''12'''||{{flagicon|BFA}} [[Edmond Tapsoba]] || {{yel|67}}
+|-
+|RM ||'''30'''||{{flagicon|NED}} [[Jeremie Frimpong]] || || {{suboff|81}}
+|-
+|CM ||'''34'''||{{flagicon|SUI}} [[Granit Xhaka]]
+|-
+|CM ||'''25'''||{{flagicon|ARG}} [[Exequiel Palacios]] || || {{suboff|68}}
+|-
+|LM ||'''3''' ||{{flagicon|ECU}} [[Piero Hincapié]]
+|-
+|AM ||'''10'''||{{flagicon|GER}} [[Florian Wirtz]] || {{yel|35}} || {{suboff|81}}
+|-
+|CF ||'''20'''||{{flagicon|ESP}} [[Álex Grimaldo]] || || {{suboff|68}}
+|-
+|CF ||'''21'''||{{flagicon|MAR}} [[Amine Adli]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|FIN}} [[Lukas Hradecky]]
+|-
+|GK ||'''36'''||{{flagicon|GER}} [[Niklas Lomb]]
+|-
+|DF ||'''6''' ||{{flagicon|CIV}} [[Odilon Kossounou]]
+|-
+|DF ||'''13'''||{{flagicon|BRA}} [[Arthur (footballer, born 2003)|Arthur]]
+|-
+|MF ||'''7''' ||{{flagicon|GER}} [[Jonas Hofmann]]
+|-
+|MF ||'''8''' ||{{flagicon|GER}} [[Robert Andrich]] || {{yel|73}} || {{subon|68}}
+|-
+|MF ||'''19'''||{{flagicon|NGA}} [[Nathan Tella]] || || {{subon|81}}
+|-
+|MF ||'''32'''||{{flagicon|COL}} [[Gustavo Puerta]]
+|-
+|FW ||'''9''' ||{{flagicon|ESP}} [[Borja Iglesias]]
+|-
+|FW ||'''14'''||{{flagicon|CZE}} [[Patrik Schick]] || || {{subon|81}}
+|-
+|FW ||'''22'''||{{flagicon|NGA}} [[Victor Boniface]] || || {{subon|46}}
+|-
+|FW ||'''23'''||{{flagicon|CZE}} [[Adam Hložek]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Xabi Alonso]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Ademola Lookman]] (Atalanta)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Vasile Marinescu ([[Romanian Football Federation|Romania]])
+<br />Mihai Artene ([[Romanian Football Federation|Romania]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Branislav Hancko ([[Slovak Football Association|Slovakia]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Pol van Boekel]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />Cătălin Popa ([[Romanian Football Federation|Romania]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="officials"/>
+<br />Rob Dieperink ([[Royal Dutch Football Association|Netherlands]])
+|style="width:60%; vertical-align:top;"|
+{{Match rules
+|ref               = <ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Europa-League-2023/24-Online |title=Regulations of the UEFA Europa League, 2023/24 Season |website=UEFA.com|publisher=Union of European Football Associations|year=2023 |access-date=4 March 2023}}</ref>
+|extra time        = y
+|penalties         = y
+|named subs        = 12
+|additional sub ET = y
+|subs allowed      = 5
+|sub opportunities = y
+}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2024/2039971_TS.pdf |title=Team statistics |website=UEFA.com|publisher=Union of European Football Associations |date=22 May 2024 |access-date=22 May 2024 |url-status=live |archive-url=https://web.archive.org/web/20240617222005/https://www.uefa.com/newsfiles/uefacup/2024/2039971_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Atalanta
+!scope="col" style="width:70px"|Bayer Leverkusen
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|6
+|4
+|-
+!scope=row|Shots on target
+|4
+|2
+|-
+!scope=row|Saves
+|2
+|2
+|-
+!scope=row|Ball possession
+|43%
+|57%
+|-
+!scope=row|Corner kicks
+|1
+|1
+|-
+!scope=row|Fouls committed
+|10
+|7
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Atalanta
+!scope="col" style="width:70px"|Bayer Leverkusen
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|4
+|6
+|-
+!scope=row|Shots on target
+|3
+|1
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|41%
+|59%
+|-
+!scope=row|Corner kicks
+|1
+|4
+|-
+!scope=row|Fouls committed
+|11
+|5
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Atalanta
+!scope="col" style="width:70px"|Bayer Leverkusen
+|-
+!scope=row|Goals scored
+|3
+|0
+|-
+!scope=row|Total shots
+|10
+|10
+|-
+!scope=row|Shots on target
+|7
+|3
+|-
+!scope=row|Saves
+|3
+|4
+|-
+!scope=row|Ball possession
+|42%
+|58%
+|-
+!scope=row|Corner kicks
+|2
+|5
+|-
+!scope=row|Fouls committed
+|21
+|12
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|4
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+[[File:Gian Piero Gasperini, 2024.jpg|thumb|upright=.8|[[Atalanta BC|Atalanta]] manager [[Gian Piero Gasperini]] guided his team to their second major trophy, as well as his first.]] 
+
+With their victory, it gave Atalanta only the second major trophy in their 116-year history, over six decades after the Bergamo side had won the Coppa Italia in 1963. They were the tenth different Italian side to do so, second only to sides from England. Aged 66 years and 117 days, Atalanta manager [[Gian Piero Gasperini]] became the fourth oldest manager to win a major European trophy after [[Raymond Goethals]], [[Jupp Heynckes]], and [[Alex Ferguson]]. This was also the biggest margin of defeat for a German team in a major European final match since the [[1993 UEFA Cup final|1993 UEFA Cup]], when [[Borussia Dortmund]] lost 3–0 to [[Juventus FC|Juventus]] in the second leg. In single-game only finals, it was the biggest margin of defeat for a German team since [[Eintracht Frankfurt]] lost 7–3 to [[Real Madrid CF|Real Madrid]] in the [[1960 European Cup final]]. Atalanta forward Ademola Lookman was selected as [[Player of the match#Association football|man of the match]] after scoring a hat-trick in the game.<ref name="MOTM"/> His treble was the sixth to be scored in a major UEFA final, and was the first since Heynckes' for [[Borussia Mönchengladbach]] against [[FC Twente|Twente]] in the [[1975 UEFA Cup final#Second leg|1975 second leg game]], which was the only other one to be scored in a UEFA Cup/Europa League final. In a single-match major European final, it was the first hat-trick since [[Pierino Prati]] did so for another Italian side in [[AC Milan|Milan]] in the [[1969 European Cup final]].
+
+Conversely, Bayer Leverkusen suffered their first and only defeat of their [[2023–24 Bayer 04 Leverkusen season|2023–24 season]]. They had been unbeaten in all 51 of their matches in all competitions this term before the final.<ref>{{Cite news|title=Atalanta 3-0 Bayer Leverkusen: Ademola Lookman nets stunning hat-trick in Europa League final|url=https://www.skysports.com/football/atalanta-vs-bayer-leverkusen/report/504398|date=23 May 2024|website=Sky Sports}}</ref> They nevertheless went on to win the [[2024 DFB-Pokal final]] three days later, completing a [[double (association football)|domestic double]].<ref>{{cite web|url= https://www.espn.com/soccer/report/_/gameId/701602|title=Bayer Leverkusen complete double with DFB Pokal final win|date=25 May 2024|work=ESPN|accessdate=28 May 2024}}</ref>
+
+The [[List of mayors of Bergamo|Mayor of Bergamo]], [[Giorgio Gori]] said that an [[open top bus]] parade would be held to allow for celebrations in the city.<ref>{{cite web | last=Bhattacherjee | first=Trambak | title=Bergamo Mayor announces Atalanta's open top bus parade after Europa League triumph | website=Get Italian Football News | date=23 May 2024 | url=https://www.getfootballnewsitaly.com/2024/bergamo-mayor-announces-atalantas-open-top-bus-parade-after-europa-league-triumph/| access-date=24 May 2024}}</ref>
+
+==See also==
+*[[2024 UEFA Champions League final]]
+*[[2024 UEFA Europa Conference League final]]
+*[[2024 UEFA Women's Champions League final]]
+*[[2024 UEFA Super Cup]]
+*[[Atalanta BC in European football]] 
+*[[Bayer 04 Leverkusen in European football]]
+*[[2023–24 Atalanta BC season]]
+*[[2023–24 Bayer 04 Leverkusen season]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefaeuropaleague/}}
+
+{{UEFA Europa League seasons}}
+{{2023–24 in European football (UEFA)}}
+{{Atalanta BC matches}}
+{{Bayer 04 Leverkusen matches}}
+
+{{DEFAULTSORT:Uefa Europa League Final 2024}}
+[[Category:UEFA Europa League finals|2024]]
+[[Category:2023–24 UEFA Europa League|Final]]
+[[Category:May 2024 sports events in Ireland]]
+[[Category:Atalanta BC matches]]
+[[Category:2023–24 in Italian football]]
+[[Category:Bayer 04 Leverkusen matches]]
+[[Category:2023–24 in German football]]
+[[Category:2024 in Republic of Ireland association football]]
+[[Category:Association football in Dublin (city)]]
+[[Category:2020s in Dublin (city)]]
+[[Category:Germany–Italy sports relations|2024]]

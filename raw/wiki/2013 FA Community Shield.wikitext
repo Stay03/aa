@@ -1,0 +1,213 @@
+{{Use dmy dates|date=October 2020}}
+{{Infobox football match
+| title              = 2013 FA Community Shield
+| image              = 2013_community_shield_programme.jpg
+| image_size = 200
+| caption = The [[Football programme|match programme]] cover
+| team1              = [[Manchester United F.C.|Manchester United]]
+| team1score         = 2
+| team2              = [[Wigan Athletic F.C.|Wigan Athletic]]
+| team2score         = 0
+| details            =
+| date               = 11 August 2013
+| stadium            = [[Wembley Stadium]]
+| city               = [[London]]
+| man_of_the_match1a = [[Michael Carrick]] (Manchester United)
+| referee            = [[Mark Clattenburg]] ([[Durham County Football Association|County Durham]])<ref name="officials">{{cite news |title=Clattenburg to ref Shield |url=http://www.thefa.com/News/competitions/fa-community-shield/2013/jul/clattenburg-to-ref-shield.aspx |work=Thefa.com |publisher=The Football Association |date=8 July 2013 |access-date=8 July 2013}}</ref>
+| attendance         = 80,235
+| weather            =
+| previous           = [[2012 FA Community Shield|2012]]
+| next               = [[2014 FA Community Shield|2014]]
+}}
+The '''2013 FA Community Shield''' (also known as '''The FA Community Shield sponsored by [[McDonald's]]''' for sponsorship reasons) was the 91st [[FA Community Shield]], played on 11 August 2013 at [[Wembley Stadium]], between the winners of the previous season's [[Premier League]] and [[FA Cup]] competitions. The match was contested by the champions of the [[2012–13 Premier League]], [[Manchester United F.C.|Manchester United]], and the [[2012–13 FA Cup]] winners, [[Wigan Athletic F.C.|Wigan Athletic]].<ref>[http://www.thefa.com/News/competitions/fa-community-shield/2013/aug/manchester-united-wigan-athletic-wembley-twitter-updates.aspx United v Wigan]</ref> Following Wigan's relegation to the [[EFL Championship|Football League Championship]] just days after their cup triumph, it was the first time a team from outside the top flight had featured in the Community Shield since [[West Ham United F.C.|West Ham United]] in [[1980 FA Charity Shield|1980]].
+
+[[Manchester City F.C.|Manchester City]] were the holders, having won the [[2012 FA Community Shield|2012 edition]], but did not qualify for this match, as they finished second in the [[2012–13 Premier League|Premier League]] and lost the [[2013 FA Cup final|FA Cup final]].
+
+Manchester United won the Shield for a record 16th time outright and 20th time overall after a 2–0 win over Wigan, with [[Robin van Persie]] scoring both goals. This season's Shield was notable for being [[David Moyes]]' only honour as Manchester United manager, in what was his first competitive match in charge of the club following the retirement of [[Alex Ferguson|Sir Alex Ferguson]] at the end of the 2012–13 season.<ref>{{Cite web|url=https://www.uefa.com/news/0253-0d040800b931-9e725dc46575-1000--van-persie-double-earns-united-community-shield/|title = Van Persie double earns United Community Shield|date = 11 August 2013|publisher=UEFA}}</ref>
+
+==Match==
+===Details===
+{{footballbox
+|date=11 August 2013
+|time=14:00 [[British Summer Time|BST]]
+|team1=[[Manchester United F.C.|Manchester United]]
+|score=2–0
+|report=https://www.bbc.co.uk/sport/0/football/23565298
+|team2=[[Wigan Athletic F.C.|Wigan Athletic]]
+|goals1=[[Robin van Persie|Van Persie]] {{goal|6||59}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=80,235
+|referee=[[Mark Clattenburg]] ([[Durham County Football Association|County Durham]])<ref name="officials"/>
+}}
+
+{| style="width:92%"
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _manutdh1314
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _manutdh1314
+ |leftarm    = E20E0E
+ |body       = E20E0E
+ |rightarm   = E20E0E
+ |shorts     = FFFFFF
+ |socks      = 000000
+ |title      = Manchester United
+}}
+|{{Football kit
+ | pattern_la = _wigan1314h
+ | pattern_b  = _wigan1314h
+ | pattern_ra = _wigan1314h
+ | pattern_sh = _wigan1314h
+ | pattern_so = _wigan1314h
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Wigan Athletic
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[David de Gea]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Rafael (footballer, born 1990)|Rafael]] || || {{suboff|16}}
+|-
+|CB ||'''15'''||{{flagicon|SRB}} [[Nemanja Vidić]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|ENG}} [[Phil Jones (footballer, born 1992)|Phil Jones]]
+|-
+|LB ||'''3''' ||{{flagicon|FRA|1974}} [[Patrice Evra]]
+|-
+|CM ||'''23'''||{{flagicon|ENG}} [[Tom Cleverley]] || {{yel|90+1}}
+|-
+|CM ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]]
+|-
+|CM ||'''11'''||{{flagicon|WAL}} [[Ryan Giggs]] || || {{suboff|67}}
+|-
+|RW ||'''29'''||{{flagicon|ENG}} [[Wilfried Zaha]] || || {{suboff|61}}
+|-
+|LW ||'''19'''||{{flagicon|ENG}} [[Danny Welbeck]] || || {{suboff|83}}
+|-
+|CF ||'''20'''||{{flagicon|NED}} [[Robin van Persie]] || || {{suboff|83}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|DEN}} [[Anders Lindegaard]]
+|-
+|DF ||'''6''' ||{{flagicon|NIR}} [[Jonny Evans]]
+|-
+|DF ||'''12'''||{{flagicon|ENG}} [[Chris Smalling]] || || {{subon|16}}
+|-
+|MF ||'''8''' ||{{flagicon|BRA}} [[Anderson (footballer, born 1988)|Anderson]] || || {{subon|67}}
+|-
+|MF ||'''25'''||{{flagicon|ECU}} [[Antonio Valencia]] || || {{subon|61}}
+|-
+|MF ||'''26'''||{{flagicon|JPN}} [[Shinji Kagawa]] || || {{subon|83}}
+|-
+|MF ||'''44'''||{{flagicon|BEL}} [[Adnan Januzaj]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|SCO}} [[David Moyes]]
+|}
+|valign="top"|[[File:Man Utd vs Wigan 2013-08-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Scott Carson]]
+|-
+|RB ||'''17'''||{{flagicon|BRB}} [[Emmerson Boyce]] ([[Captain (association football)|c]])
+|-
+|CB ||'''24'''||{{flagicon|ENG}} [[James Perch]]
+|-
+|CB ||'''25'''||{{flagicon|ENG}} [[Leon Barnett]]
+|-
+|LB ||'''3''' ||{{flagicon|SCO}} [[Stephen Crainey]]
+|-
+|CM ||'''4''' ||{{flagicon|IRL}} [[James McCarthy (footballer)|James McCarthy]] || || {{suboff|86}}
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Ben Watson (footballer, born July 1985)|Ben Watson]] || || {{suboff|71}}
+|-
+|CM ||'''16'''||{{flagicon|SCO}} [[James McArthur]] || {{yel|50}} || {{suboff|61}}
+|-
+|RW ||'''10'''||{{flagicon|SCO}} [[Shaun Maloney]] || || {{suboff|71}}
+|-
+|LW ||'''11'''||{{flagicon|IRL}} [[James McClean]] || || {{suboff|61}}
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Grant Holt]] || || {{suboff|61}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ENG}} [[Lee Nicholls]]
+|-
+|MF ||'''7''' ||{{flagicon|IRL}} [[Chris McCann]] || || {{subon|61}}
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Jordi Gómez]] || || {{subon|71}}
+|-
+|MF ||'''18'''||{{flagicon|HON}} [[Roger Espinoza]] || {{yel|88}} || {{subon|71}}
+|-
+|MF ||'''29'''||{{flagicon|FRA|1974}} [[Nouha Dicko]] || || {{subon|86}}
+|-
+|FW ||'''15'''||{{flagicon|ENG}} [[Callum McManaman]] || || {{subon|61}}
+|-
+|FW ||'''32'''||{{flagicon|FRA|1974}} [[Marc-Antoine Fortuné]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|IRL}} [[Owen Coyle]]
+|}
+|}
+
+{| width=82% style="font-size: 90%"
+| width=50% valign=top|
+;Man of the match
+*[[Michael Carrick]] (Manchester United)
+
+;Match officials
+*Assistant referees:
+**Mike Mullarkey ([[Devon County Football Association|Devon]])<ref name="officials"/>
+**Scott Ledger ([[Sheffield and Hallamshire County Football Association|South Yorkshire]])<ref name="officials"/>
+*Fourth official: [[Michael Oliver (referee)|Michael Oliver]] ([[Northumberland Football Association|Northumberland]])<ref name="officials"/>
+*Reserve official: Lee Betts ([[Norfolk County Football Association|Norfolk]])<ref name="officials"/>
+| style="width:50%; vertical-align:top"|
+'''Match rules'''
+*90 minutes.
+*Penalty shoot-out if scores level after 90 minutes.
+*Seven named substitutes.
+*Maximum of six substitutions.
+|}
+
+==See also==
+{{portal|English football}}
+*[[2006 Football League Cup Final]]
+*[[2012–13 Premier League]]
+*[[2012–13 FA Cup]]
+
+==References==
+{{reflist}}
+
+{{FA Community Shield}}
+{{Manchester United F.C. matches}}
+{{Wigan Athletic F.C. matches}}
+{{2013–14 in English football}}
+{{2013–14 in European football (UEFA)}}
+
+{{DEFAULTSORT:2013 Fa Community Shield}}
+[[Category:FA Community Shield matches]]
+[[Category:Football matches in London]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:Wigan Athletic F.C. matches|Community Shield 2013]]
+[[Category:Manchester United F.C. matches|Charity Shield 2013]]
+[[Category:2013–14 in English men's football cups|Comm]]
+[[Category:2013 in sport in London|FA Community Shield]]
+[[Category:August 2013 sports events in the United Kingdom|FA Community Shield]]

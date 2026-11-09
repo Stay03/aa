@@ -1,0 +1,221 @@
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+|              title = 2003 Intercontinental Cup
+| image = ToyotaCup2003.jpg
+|            caption = Match programme cover
+|              team1 = [[A.C. Milan|Milan]]
+|   team1association = {{flagicon|ITA|2003|size=30px}}
+|         team1score = 1
+|              team2 = [[Boca Juniors]]
+|   team2association = {{flagicon|ARG|size=30px}}
+|         team2score = 1
+|            details = After [[Overtime (sports)#Association football|extra time]]<br />Boca Juniors won 3–1 on [[Penalty shoot-out (association football)|penalties]]
+|               date = 14 December 2003
+|            stadium = [[Nissan Stadium (Yokohama)|International Stadium Yokohama]]
+|               city = [[Yokohama]]
+| man_of_the_match1a = [[Matías Donnet]] (Boca Juniors)
+|            referee = [[Valentin Ivanov (footballer, born 1961)|Valentin Ivanov]] ([[Russian Football Union|Russia]])
+|         attendance = 66,757
+|            weather =
+|           previous = [[2002 Intercontinental Cup|2002]]
+|               next = [[2004 Intercontinental Cup|2004]]
+}}
+The '''2003 Intercontinental Cup''' was the 42nd [[Intercontinental Cup (1960–2004)|Intercontinental Cup]], an annual [[association football]] match contested by the winners of the previous season's [[UEFA Champions League]] and [[Copa Libertadores]] competitions. The match was played on 14 December 2003 between [[Boca Juniors]] of Argentina, winners of the [[2003 Copa Libertadores]] and [[A.C. Milan|AC Milan]] of Italy, winners of the [[2002–03 UEFA Champions League]]. The match was played at the neutral venue of the [[Nissan Stadium (Yokohama)|International Stadium Yokohama]] in [[Yokohama]], in front of 70,000 fans. [[Matías Donnet]] was named as [[man of the match]].<ref>{{cite web|url=https://www.rsssf.org/tablest/toyotamvp.html |title=Toyota Cup – Most Valuable Player of the Match Award |first=Marcelo |last=Leme de Arruda |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=2 January 2009 |access-date=15 January 2009 |archive-url=https://web.archive.org/web/20081224143201/http://www.rsssf.com/tablest/toyotamvp.html |archive-date=24 December 2008 |url-status=live }}</ref>
+
+Since the 2004 final (a year later) was goalless after the extra 30 minutes and the game was settled by a penalty shoot-out, Matías Donnet scored the last goal of the Intercontinental Cup before being abolished to the FIFA Club World Cup.
+
+==Venue==
+[[File:NISSANSTADIUM20080608.JPG|thumb|left|300px|[[Nissan Stadium (Yokohama)|International Stadium]], [[Yokohama]], hosted the final]]
+{{Clear}}
+
+==Match details== 
+{{football box
+|date = 14 December 2003
+|time = 19:15 [[Japan Standard Time|JST]]
+|team1 = [[A.C. Milan|Milan]] {{flagicon|ITA|2003}}
+|score = 1–1
+|aet = yes
+|report=https://www.uefa.com/uefachampionsleague/match/71854/
+|team2 = {{flagicon|ARG}} [[Boca Juniors]]
+|goals1 = [[Jon Dahl Tomasson|Tomasson]] {{goal|23}}
+|goals2 = [[Matías Donnet|Donnet]] {{goal|28}}
+|stadium= [[Nissan Stadium (Yokohama)|International Stadium Yokohama]], [[Yokohama]]
+|attendance = 66,757
+|referee = [[Valentin Ivanov (footballer, born 1961)|Valentin Ivanov]] ([[Russian Football Union|Russia]])
+|penalties1 = [[Andrea Pirlo|Pirlo]] {{penmiss}}<br />[[Rui Costa]] {{pengoal}}<br />[[Clarence Seedorf|Seedorf]] {{penmiss}}<br />[[Alessandro Costacurta|Costacurta]] {{penmiss}}
+|penaltyscore = 1–3
+|penalties2 = {{pengoal}} [[Rolando Schiavi|Schiavi]]<br />{{penmiss}} [[Sebastián Battaglia|Battaglia]]<br />{{pengoal}} [[Matías Donnet|Donnet]]<br />{{pengoal}} [[Raúl Cascini|Cascini]]
+}}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _milan0304a1
+ | pattern_b  = _milan0304a1_cockade
+ | pattern_ra = _milan0304a1
+ | pattern_sh = _milan0304h1
+ | pattern_so = _milan0304a1l
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Milan
+}}
+|{{Football kit
+ | pattern_la = _boca0304h2
+ | pattern_b  = _boca0304h2
+ | pattern_ra = _boca0304h2
+ | pattern_sh = _boca0304h1
+ | pattern_so = _boca03h2l
+ | leftarm    = 0000FF
+ | body       = 0000BE
+ | rightarm   = 0000FF
+ | shorts     = 0000BE
+ | socks      = 0000FF
+ | title      = Boca Juniors
+}}
+|}
+
+{| width=100%
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||{{flagicon|BRA}} [[Dida (footballer, born 1973)|Dida]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Cafu]] || {{yel|61}}
+|-
+|CB ||'''19'''||{{flagicon|ITA|2003}} [[Alessandro Costacurta]]
+|-
+|CB ||'''3''' ||{{flagicon|ITA|2003}} [[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|LB ||'''26'''||{{flagicon|ITA|2003}} [[Giuseppe Pancaro]]
+|-
+|DM ||'''21'''||{{flagicon|ITA|2003}} [[Andrea Pirlo]]
+|-
+|CM ||'''8''' ||{{flagicon|ITA|2003}} [[Gennaro Gattuso]] || || {{suboff|102}}
+|-
+|CM ||'''20'''||{{flagicon|NED}} [[Clarence Seedorf]]
+|-
+|AM ||'''22'''||{{flagicon|BRA}} [[Kaká]] || {{yel|19}} || {{suboff|77}}
+|-
+|CF ||'''7''' ||{{flagicon|UKR|1992}} [[Andriy Shevchenko]]
+|-
+|CF ||'''15'''||{{flagicon|DEN}} [[Jon Dahl Tomasson]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''77'''||{{flagicon|ITA|2003}} [[Christian Abbiati]]
+|-
+|DF ||'''4''' ||{{flagicon|GEO|1990}} [[Kakha Kaladze]]
+|-
+|DF ||'''24'''||{{flagicon|DEN}} [[Martin Laursen]]
+|-
+|MF ||'''10'''||{{flagicon|POR}} [[Rui Costa]] || || {{subon|77}}
+|-
+|MF ||'''23'''||{{flagicon|ITA|2003}} [[Massimo Ambrosini]] || || {{subon|102}}
+|-
+|MF ||'''27'''||{{flagicon|BRA}} [[Serginho (footballer, born 1971)|Serginho]]
+|-
+|FW ||'''9''' ||{{flagicon|ITA|2003}} [[Filippo Inzaghi]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA|2003}} [[Carlo Ancelotti]]
+|}
+|valign="top"|[[File:Boca Juniors vs AC Milan 2003-12-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Roberto Abbondanzieri]]
+|-
+|CB ||'''14'''||{{flagicon|COL}} [[Luis Amaranto Perea|Luis Perea]] || {{yel|6}}
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Rolando Schiavi]]
+|-
+|CB ||'''6''' ||{{flagicon|ARG}} [[Nicolás Burdisso]]
+|-
+|RM ||'''8''' ||{{flagicon|ARG}} [[Diego Cagna]] ([[Captain (association football)|c]])
+|-
+|CM ||'''5''' ||{{flagicon|ARG}} [[Sebastián Battaglia]]
+|-
+|CM ||'''22'''||{{flagicon|ARG}} [[Raúl Cascini]]
+|-
+|LM ||'''3''' ||{{flagicon|ARG}} [[Clemente Rodríguez]]
+|-
+|AM ||'''18'''||{{flagicon|ARG}} [[Matías Donnet]]
+|-
+|CF ||'''10'''||{{flagicon|BRA}} [[Iarley]]
+|-
+|CF ||'''7''' ||{{flagicon|ARG}} [[Guillermo Barros Schelotto]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ARG}} [[Willy Caballero]]
+|-
+|DF ||'''4''' ||{{flagicon|ARG}} [[Pablo Jerez]]
+|-
+|DF ||'''13'''||{{flagicon|ARG}} [[Diego Crosa]]
+|-
+|MF ||'''16'''||{{flagicon|COL}} [[Fabián Vargas]]
+|-
+|MF ||'''20'''||{{flagicon|ARG}} [[Javier Villarreal]]
+|-
+|FW ||'''9''' ||{{flagicon|ARG}} [[Carlos Tevez]] || || {{subon|73}}
+|-
+|FW ||'''11'''||{{flagicon|ARG}} [[Roberto Colautti]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Carlos Bianchi]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />{{flagicon|ARG}} [[Matías Donnet]] (Boca Juniors)
+
+'''Assistant referees:'''
+<br />Gennady Krasyuk ([[Russian Football Union|Russia]])
+<br />Yuri Dupanov ([[Football Federation of Belarus|Belarus]])
+<br />'''Fourth official:'''
+<br />[[Masayoshi Okada]] ([[Japan Football Association|Japan]])
+|}
+
+==See also==
+*[[Intercontinental Cup (1960–2004)|Intercontinental Cup]]
+*[[2002–03 UEFA Champions League]]
+*[[2003 Copa Libertadores]]
+*[[FIFA Club World Cup]]
+*[[2007 FIFA Club World Cup Final]] – contested between same teams
+*[[A.C. Milan in European football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20071013105045/http://fifa.com/classicfootball/clubs/matchreport/newsid=510914.html#toyota+cup+2003 FIFA Article]
+*[https://web.archive.org/web/20041224000825/http://www.toyotacup.com:80/html/history/24/img/scoresheet_j.pdf Match report] {{in lang|ja}}
+
+{{Intercontinental Cup (football)}}
+{{A.C. Milan matches}}
+{{Club Atlético Boca Juniors matches}}
+
+[[Category:2003–04 in European men's continental football|Intercontinental Cup]]
+[[Category:2003 in South American men's continental football|Intercontinental Cup]]
+[[Category:2003 in Japanese football|Intercontinental Cup]]
+[[Category:Intercontinental Cup (1960–2004)|2003]]
+[[Category:Boca Juniors matches|Intercontinental Cup 2003]]
+[[Category:AC Milan matches|Intercontinental Cup 2003]]
+[[Category:Intercontinental Cup (football) matches hosted by Japan]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:Football in Yokohama]]
+[[Category:2000s in Yokohama]]
+[[Category:2003 in Argentine football]]
+[[Category:2003–04 in Italian football]]
+[[Category:Argentina–Italy sports relations]]
+[[Category:2003 in association football]]

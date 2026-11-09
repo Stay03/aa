@@ -1,0 +1,239 @@
+{{for|the baseball tournament|1997 Intercontinental Cup (baseball)}}
+{{More citations needed|date=March 2026}}
+{{Infobox football match
+|title = 1997 Intercontinental Cup
+|image = [[File:ToyotaCup1997.jpg|frameless]]
+|caption = Match programme cover
+|team1 = [[Borussia Dortmund]]
+|team1association = {{flagicon|GER|size=30px}}
+|team1score = 2
+|team2 = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|team2association = {{flagicon|BRA|size=30px}}
+|team2score = 0
+|details =
+|date = 2 December 1997
+|stadium = [[National Stadium (Tokyo, 1958)|National Stadium]]
+|city = [[Tokyo]]
+|man_of_the_match1a = [[Andreas Möller]]<br />(Borussia Dortmund)<ref name="bor_cru">{{cite web|url=https://www.rsssf.org/tablest/toyotamvp.html |title=Toyota Cup – Most Valuable Player of the Match Award |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=28 August 2014 |url-status=live |archive-url=https://web.archive.org/web/20090414090937/http://rsssf.com/tablest/toyotamvp.html |archive-date=14 April 2009 }}</ref>
+|referee = [[José María García-Aranda]] ([[Royal Spanish Football Federation|Spain]])
+|attendance = 46,953<ref name="bor_cru"/>
+|weather = 
+|previous = [[1996 Intercontinental Cup|1996]]
+|next = [[1998 Intercontinental Cup|1998]]
+}}
+The '''1997 Intercontinental Cup''' was an [[association football]] match played on 2 December 1997 between [[Borussia Dortmund]], winners of the [[1996–97 UEFA Champions League]], and [[Cruzeiro Esporte Clube|Cruzeiro]], winners of the [[1997 Copa Libertadores]]. The match was played at the neutral venue of the [[National Stadium (Tokyo, 1958)|National Stadium]] in [[Tokyo]] in front of 46,953 fans. [[Andreas Möller]] was named as [[man of the match]].<ref name="bor_cru"/>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{flagicon|GER}} [[Borussia Dortmund]]
+|[[1996–97 UEFA Champions League]] winners
+|None
+|-
+|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|[[1997 Copa Libertadores]] winners
+|[[1976 Intercontinental Cup|1976]]
+|}
+
+==Venue==
+[[File:Yamazaki-nabisco-Cup final 2004.jpg|thumb|none|300px|The [[National Stadium (Tokyo, 1958)|National Stadium]] in [[Tokyo]] hosted the match]]
+
+==Match details==
+{{football box
+|date = 2 December 1997
+|time = 19:10 [[Japan Standard Time|JST]]
+|team1 = [[Borussia Dortmund]] {{flagicon|GER}}
+|score = 2–0
+|report =https://www.uefa.com/uefachampionsleague/match/61700/
+|team2 = {{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|goals1 = [[Michael Zorc|Zorc]] {{goal|34}}<br />[[Heiko Herrlich|Herrlich]] {{goal|85}}
+|stadium = [[National Stadium (Tokyo, 1958)|National Stadium]], [[Tokyo]]
+|attendance = 46,953<ref name="bor_cru"/>
+|referee = [[José María García-Aranda]] ([[Royal Spanish Football Federation|Spain]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _borussiadortmund9697h
+ | pattern_b  = _borussiadortmund9697h
+ | pattern_ra = _borussiadortmund9697h
+ | pattern_sh =
+ | pattern_so = _hoops_black
+ | leftarm    = D9FD43
+ | body       = D9FD43
+ | rightarm   = D9FD43
+ | shorts     = 000000
+ | socks      = D9FD43
+ | title      = Borussia Dortmund
+}}
+|{{Football kit
+ | pattern_la = _cruzeiro97h 
+ | pattern_b  = _cruzeiro97h
+ | pattern_ra = _cruzeiro97h
+ | pattern_sh = _cruzeiro97H 
+ | pattern_so =
+ | leftarm    = 0434AA
+ | body       = 0434AA
+ | rightarm   = 0434AA
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Cruzeiro
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Stefan Klos]]
+|-
+|RB ||'''7''' ||{{flagicon|GER}} [[Stefan Reuter]] ([[Captain (association football)|c]]) || {{yel|54}}
+|-
+|CB ||'''27'''||{{flagicon|AUT}} [[Wolfgang Feiersinger]]
+|-
+|CB ||'''5''' ||{{flagicon|BRA}} [[Júlio César (footballer, born 1963)|Júlio César]]
+|-
+|LB ||'''17'''||{{flagicon|GER}} [[Jörg Heinrich]]
+|-
+|DM ||'''4''' ||{{flagicon|GER}} [[Steffen Freund]]
+|-
+|CM ||'''19'''||{{flagicon|POR}} [[Paulo Sousa]]
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Michael Zorc]] || || {{suboff|80}}
+|-
+|AM ||'''10'''||{{flagicon|GER}} [[Andreas Möller]] || {{yel|18}}
+|-
+|CF ||'''9''' ||{{flagicon|SWI}} [[Stéphane Chapuisat]] || || {{suboff|75}}
+|-
+|CF ||'''11'''||{{flagicon|GER}} [[Heiko Herrlich]] || {{yel|83}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|GER}} [[Wolfgang de Beer]]
+|-
+|DF ||'''16'''||{{flagicon|GER}} [[Martin Kree]]
+|-
+|DF ||'''23'''||{{flagicon|GER}} [[Jörg Sauerland]]
+|-
+|MF ||'''2''' ||{{flagicon|GER}} [[Knut Reinhardt]]
+|-
+|FW ||'''20'''||{{flagicon|SCO}} [[Scott Booth]]
+|-
+|FW ||'''24'''||{{flagicon|NED}} [[Harry Decheiver]] || || {{subon|75}}
+|-
+|FW ||'''30'''||{{flagicon|USA}} [[Jovan Kirovski]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Nevio Scala]]
+|}
+|valign="top"|[[File:Borussia Dortmund vs Cruzeiro 1997-12-02.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Dida (footballer, born 1973)|Dida]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Vítor (footballer, born 1972)|Vítor]] || {{yel|15}} {{sentoff|0|66}}
+|-
+|CB ||'''13'''||{{flagicon|BRA}} [[João Carlos dos Santos|João Carlos]]
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Marcelo Gonçalves Costa Lopes|Gonçalves]]
+|-
+|LB ||'''6''' ||{{flagicon|BRA}} [[Elivélton (footballer, born 1971)|Elivélton]]
+|-
+|DM ||'''5''' ||{{flagicon|BRA}} [[Fábio da Silva Azevedo|Fabinho]]
+|-
+|DM ||'''8''' ||{{flagicon|BRA}} [[Ricardinho (footballer, born June 1976)|Ricardinho]]
+|-
+|AM ||'''9''' ||{{flagicon|BRA}} [[Cleisson]] ([[captain (association football)|c]])
+|-
+|AM ||'''10'''||{{flagicon|PER}} [[Roberto Palacios]]  || || {{suboff|64}}
+|-
+|CF ||'''7''' ||{{flagicon|BRA}} [[Bebeto]]
+|-
+|CF ||'''11'''||{{flagicon|BRA}} [[Osmar Donizete Cândido|Donizete]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|BRA}} [[Jean Paulo Fernandes|Jean]]
+|-
+|DF ||'''14'''||{{flagicon|BRA}} [[Nonato (footballer, born 1967)|Nonato]]
+|-
+|DF ||'''16'''||{{flagicon|BRA}} [[Alberto Valentim|Alberto]]
+|-
+|DF ||'''23'''||{{flagicon|BRA}} [[Gélson Baresi]] 
+|-
+|MF ||'''18'''||{{flagicon|BRA}} [[Marcelo Ramos (footballer, born 1973)|Marcelo Ramos]] || || {{subon|64}}
+|-
+|MF ||'''19'''||{{flagicon|BRA}} [[Donizete Amorim]]
+|-
+|FW ||'''17'''||{{flagicon|BRA}} [[Geovanni]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA}} [[Nelsinho Baptista]]
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Andreas Möller]] (Borussia Dortmund)<ref name="bor_cru"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jeon Young-Hyun ([[Korea Football Association|South Korea]])
+<br />Yoshikazu Hiroshima ([[Japan Football Association|Japan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Masayoshi Okada]] ([[Japan Football Association|Japan]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes.
+*Maximum of three substitutes.
+|}
+
+'''Match Ball'''
+*The Ball of the match was the [[Adidas Questra]], originally designed to be the official match ball of the [[1994 FIFA World Cup]] in the United States.
+
+==See also==
+*[[1997 UEFA Champions League final]] 
+*[[1997 Copa Libertadores finals]] 
+*[[Borussia Dortmund in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080622175631/http://www.fifa.com/classicfootball/clubs/matchreport/newsid%3D512004.html 1997 Intercontinental Cup] at FIFA.com
+
+{{Intercontinental Cup (football)}} 
+{{Borussia Dortmund matches}}
+{{Cruzeiro Esporte Clube matches}}
+
+{{DEFAULTSORT:Intercontinental Cup 1997}}
+[[Category:1997–98 in European men's continental football]]
+[[Category:1997 in South American men's continental football]]
+[[Category:1997 in Japanese football]]
+[[Category:Intercontinental Cup (1960–2004)|1997]]
+[[Category:Borussia Dortmund matches]]
+[[Category:Cruzeiro EC matches]]
+[[Category:Intercontinental Cup (football) matches hosted by Japan|1997]]
+[[Category:1997 in Brazilian football]]
+[[Category:1997–98 in German football]]
+[[Category:Football competitions in Tokyo]]
+[[Category:1997 in Tokyo]]
+[[Category:December 1997 sports events in Japan]]
+[[Category:Brazil–Germany sports relations|1997]]
+[[Category:1997 in association football]]
+[[Category:1997 in men's international association football|Intercontinental]]

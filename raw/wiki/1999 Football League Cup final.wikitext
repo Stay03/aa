@@ -1,0 +1,217 @@
+{{Short description|English football match}}
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox football match
+|              title = 1999 Football League Cup final
+|              image = 1999leaguecupfinalprog.png
+|         image_size = 200px
+|            caption = Match programme cover
+|              event = [[1998–99 Football League Cup]]
+|              team1 = [[Leicester City F.C.|Leicester City]]
+|         team1score = 0
+|              team2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|         team2score = 1
+|            details = 
+|               date = 21 March 1999
+|            stadium = [[Wembley Stadium (1923)|Wembley Stadium]]
+|               city = London
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Allan Nielsen]] (Tottenham Hotspur)<ref>{{cite web|url = https://tottenham-spur.blogspot.ie/2011/10/tottenhams-joy-of-winning-cup-7.html|title=Leicester 0 Spurs 1|work=tottenham-spur.blogspot|access-date=7 October 2014}}</ref>
+|            referee = Terry Heilbron ([[Durham County Football Association|County Durham]])
+|         attendance = 77,892
+|            weather = Rain
+|           previous = [[1998 Football League Cup final|1998]]
+|               next = [[2000 Football League Cup final|2000]]
+}}
+The '''1999 Football League Cup final''' was played between [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and [[Leicester City F.C.|Leicester City]], at [[Wembley Stadium (1923)|Wembley]] on Sunday, 21 March 1999.
+
+Tottenham won the game, and their third League Cup, with an injury-time diving header from [[Allan Nielsen]] after a cross from the right from [[Steffen Iversen]] had been blocked by goalkeeper [[Kasey Keller]].<ref>{{cite web|url = http://hotspurhq.com/2014/03/21/tottenham-day-league-cup-final-success-leicester-city/|title=Leicester 0 Spurs 1|work=hotspurhq.com|access-date=7 October 2014}}</ref> [[Justin Edinburgh]] became the last player to be sent off at the [[Wembley Stadium (1923)|old Wembley]], after angrily waving his arm towards [[Robbie Savage]] following a particularly tough Savage challenge.  In the last few minutes of the game, [[Ramon Vega]] made a last-ditch sliding tackle to deny [[Emile Heskey]] a goal for Leicester, after [[Ian Walker (footballer)|Ian Walker]] rushed off his line, and Allan Nielsen scored a diving header.<ref>{{cite web|url = https://www.spursodyssey.com/articles/wcfin1.html|title=Leicester 0 Spurs 1|work=Spursodyssey|access-date=7 October 2014}}</ref><ref>{{cite web|url = http://www.lcfc.com/news/article/190314-twih-1999-league-cup-final-1431026.aspx|title=1999 League Cup Final|work=lcfc.com|access-date=7 October 2014}}</ref>
+
+==Road to Wembley==
+{|width=100%
+|width=50% valign=top|
+
+===Leicester City===
+'''Round 2, 1st leg:''' Leicester City 3–0 [[Chesterfield F.C.|Chesterfield]]
+
+'''Round 2, 2nd leg:''' Chesterfield 1–3 Leicester City
+
+'''Round 3:''' [[Charlton Athletic F.C.|Charlton Athletic]] 1–2 Leicester City
+
+'''Round 4:''' Leicester City 2–1 [[Leeds United F.C.|Leeds United]]
+
+'''Quarter-final:''' Leicester City 1–0 [[Blackburn Rovers F.C.|Blackburn Rovers]]
+
+'''Semi-final, 1st leg:''' [[Sunderland A.F.C.|Sunderland]] 1–2 Leicester City
+
+'''Semi-final, 2nd leg:''' Leicester City 1–1 Sunderland
+|width=50% valign=top|
+
+===Tottenham Hotspur===
+'''Round 2, 1st leg:''' [[Brentford F.C.|Brentford]] 2–3 Tottenham Hotspur
+
+'''Round 2, 2nd leg:''' Tottenham Hotspur 3–2 Brentford
+
+'''Round 3:''' [[Northampton Town F.C.|Northampton Town]] 1–3 Tottenham Hotspur
+
+'''Round 4:''' [[Liverpool F.C.|Liverpool]] 1–3 Tottenham Hotspur
+
+'''Quarter-final:''' Tottenham Hotspur 3–1 [[Manchester United F.C.|Manchester United]]
+
+'''Semi-final, 1st leg:''' Tottenham Hotspur 0–0 [[Wimbledon F.C.|Wimbledon]]
+
+'''Semi-final, 2nd leg:''' Wimbledon 0–1 Tottenham Hotspur
+|}
+
+==Match details==
+{{football box
+|date=21 March 1999
+|time=15:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Leicester City F.C.|Leicester City]]
+|score=0–1
+|team2=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|report=[https://news.bbc.co.uk/2/hi/sport/football/300408.stm Report]
+|goals1=
+|goals2=[[Allan Nielsen|Nielsen]] {{goal|90}}
+|stadium=[[Wembley Stadium (1923)|Wembley]], London
+|attendance=77,892
+|referee=Terry Heilbron ([[Durham County Football Association|County Durham]]) }}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _collarwhite
+ | pattern_ra = _whiteborderhats
+ | pattern_sh = _blue stripes
+ | pattern_so = _whitetop
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Leicester City
+}}
+|{{Football kit
+ | pattern_la = _navyborder
+ | pattern_b  = _vneckonwhite
+ | pattern_ra = _navyborder
+ | pattern_sh = _whitesides
+ | pattern_so = _navystripe
+ | leftarm    = FFFFFF
+ | body       = 000080
+ | rightarm   = FFFFFF
+ | shorts     = 000060
+ | socks      = FFFFFF
+ | title      = Tottenham Hotspur
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|USA}} [[Kasey Keller]]
+|-
+|CB ||'''18'''||{{flagicon|SCO}} [[Matt Elliott (footballer)|Matt Elliott]] || {{yel}}
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Steve Walsh (footballer)|Steve Walsh]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|NIR}} [[Gerry Taggart]]
+|-
+|RM ||'''6''' ||{{flagicon|TUR}} [[Muzzy Izzet]]
+|-
+|CM ||'''14'''||{{flagicon|WAL}} [[Robbie Savage]] || {{yel}} || {{suboff|90}}
+|-
+|CM ||'''7''' ||{{flagicon|NIR}} [[Neil Lennon]]
+|-
+|LM ||'''11'''||{{flagicon|ENG}} [[Steve Guppy]]
+|-
+|RF ||'''27'''||{{flagicon|ENG}} [[Tony Cottee]] 
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Emile Heskey]] || || {{suboff|74}}
+|-
+|LF ||'''19'''||{{flagicon|ENG}} [[Robert Ullathorne]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|FRA}} [[Pegguy Arphexad]]
+|-
+|DF ||'''15'''||{{flagicon|SWE}} [[Pontus Kåmark]]
+|-
+|MF ||'''16'''||{{flagicon|SCO}} [[Stuart Campbell (footballer)|Stuart Campbell]]
+|-
+|MF ||'''37'''||{{flagicon|GRE}} [[Theodoros Zagorakis]] || || {{subon|90}}
+|-
+|FW ||'''20'''||{{flagicon|ENG}} [[Ian Marshall (English footballer)|Ian Marshall]]  || || {{subon|74}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NIR}} [[Martin O'Neill]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Ian Walker (footballer)|Ian Walker]]
+|-
+|RB ||'''2''' ||{{flagicon|IRL}} [[Stephen Carr]]
+|-
+|CB ||'''15'''||{{flagicon|SUI}} [[Ramon Vega]] || {{yel}}
+|-
+|CB ||'''23'''||{{flagicon|ENG}} [[Sol Campbell]] ([[Captain (association football)|c]])
+|-
+|LB ||'''12'''||{{flagicon|ENG}} [[Justin Edinburgh]] || {{sent off|0|63}}
+|-
+|DM ||'''4''' ||{{flagicon|GER}} [[Steffen Freund]] 
+|-
+|RM ||'''14'''||{{flagicon|FRA}} [[David Ginola]] || || {{suboff|90}}
+|-
+|CM ||'''6''' ||{{flagicon|DEN}} [[Allan Nielsen]]
+|-
+|LM ||'''9''' ||{{flagicon|ENG}} [[Darren Anderton]]
+|-
+|CF ||'''18'''||{{flagicon|NOR}} [[Steffen Iversen]]
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[Les Ferdinand]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|NOR}} [[Espen Baardsen]]
+|-
+|DF ||'''32'''||{{flagicon|ENG}} [[Luke Young (footballer, born 1979)|Luke Young]]
+|-
+|MF ||'''20'''||{{flagicon|POR}} [[José Dominguez]]
+|-
+|MF ||'''22'''||{{flagicon|ENG}} [[Andy Sinton]] || || {{subon|90}}
+|-
+|FW ||'''11'''||{{flagicon|ENG}} [[Chris Armstrong (footballer, born 1971)|Chris Armstrong]] 
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCO}} [[George Graham (footballer, born 1944)|George Graham]]
+|}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+
+{{EFL Cup}}
+{{1998–99 in English football}}
+{{Leicester City F.C. matches}}
+{{Tottenham Hotspur F.C. matches}}
+
+{{DEFAULTSORT:Football League Cup final 1999}}
+[[Category:1998–99 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:EFL Cup finals|1999]]
+[[Category:Tottenham Hotspur F.C. matches|League Cup final 1999]]
+[[Category:Leicester City F.C. matches|League Cup final 1999]]
+[[Category:1999 in sport in London]]
+[[Category:March 1999 sports events in the United Kingdom]]

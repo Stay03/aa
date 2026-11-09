@@ -1,0 +1,318 @@
+{{EngvarB|date=February 2022}}
+{{Use dmy dates|date=February 2022}}
+{{Infobox football match
+| title = 2021 FIFA Club World Cup final
+| event = [[2021 FIFA Club World Cup]]
+| image = 2021 FIFA Club World Cup Final - 02.jpg
+| imagesize = 250
+| caption = Chelsea team members after becoming champions.
+| team1 = [[Chelsea F.C.|Chelsea]]
+| team1association = {{fbaicon|ENG|size=30px}}
+| team1score = 2
+| team2 = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 1
+| details = After [[Overtime (sports)#Association football|extra time]]
+| date = {{Start date|2022|2|12|df=y}}
+| stadium = [[Mohammed bin Zayed Stadium]]
+| city = [[Abu Dhabi]]
+| man_of_the_match1a = [[Antonio Rüdiger]] (Chelsea)<ref name="MOTM">{{cite news |url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/news/havertz-the-hero-as-chelsea-conquer-the-world |title=Havertz the hero as Chelsea conquer the world |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=12 February 2022 |access-date=12 February 2022}}</ref>
+| referee = [[Chris Beath]] ([[Football Australia|Australia]])<ref name="referee">{{cite web|url=https://www.worldfootball.net/match-report/ma9295641/lineup/ |title=Chelsea FC – Palmeiras |website=www.worldfootball.net |date=12 February 2022 |access-date=12 February 2022}}</ref>
+| attendance = 32,871<ref name="attendance"/>
+| weather = Clear night<br />{{convert|23|°C|°F|abbr=on}}<br />62% [[humidity]]
+| previous = [[2020 FIFA Club World Cup final|2020]]
+| next = [[2022 FIFA Club World Cup final|2022]]
+}}
+The '''2021 FIFA Club World Cup final''' was the final match of the [[2021 FIFA Club World Cup]], an international club [[association football|football]] tournament hosted by the [[United Arab Emirates]]. It was the 18th final of the [[FIFA Club World Cup]], a [[FIFA]]-organised tournament between the club champions from each of the six continental confederations, as well as the host nation's league champions.
+
+The final was contested by English club [[Chelsea F.C.|Chelsea]], representing [[UEFA]] as the reigning champions of the [[UEFA Champions League]], and Brazilian club [[Sociedade Esportiva Palmeiras|Palmeiras]], representing [[CONMEBOL]] as the reigning champions of the [[Copa Libertadores]].
+
+The match was played at the [[Mohammed bin Zayed Stadium]] in [[Abu Dhabi]] on 12 February 2022.<ref name="schedule">{{cite web |url=https://digitalhub.fifa.com/m/3b56a31429e32a75/original/fcwc2021_MatchSchedule_latest.pdf |title=FIFA Club World Cup UAE 2021: Match schedule |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=2 January 2022 |access-date=2 January 2022}}</ref> The tournament was originally planned to take place in late 2021 in Japan, but was moved to February 2022 in the United Arab Emirates due to the impact of the [[COVID-19 pandemic]].<ref>{{cite news |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-endorses-global-summit-to-discuss-the-future-of-football |title=FIFA Council endorses global summit to discuss the future of football |publisher=Fédération Internationale de Football Association |website=FIFA.com|date=20 October 2021 |access-date=20 October 2021}}</ref>
+
+Chelsea won the match 2–1 after extra time for their first FIFA Club World Cup title.
+
+==Teams==
+''In the following table, the finals until 2005 were in the FIFA Club World Championship era, and since 2006 in the FIFA Club World Cup era.''
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification for tournament
+!Previous club world championship finals<br />(bold indicates winners)
+|-
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|[[UEFA]]
+|Winners of the [[2020–21 UEFA Champions League]]
+|FCWC: 1 ([[2012 FIFA Club World Cup Final|2012]])
+|-
+|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|[[CONMEBOL]]
+|Winners of the [[2021 Copa Libertadores]]
+|IC: 1 ([[1999 Intercontinental Cup|1999]])
+|}
+
+Note: On 27 October 2017, [[FIFA]] officially recognised all the champions of the Intercontinental Cup as club world champions, in equal status to the FIFA Club World Cup.<ref name="FIFA2021">{{cite press release |date=27 October 2017 |title=FIFA Council approves key organisational elements of the FIFA World Cup |url=https://www.fifa.com/about-fifa/news/y=2021/m=10/news=fifa-council-approves-key-organisational-elements-of-the-fifa-world-cu-2917722.html |publisher=Fédération Internationale de Football Association |website=FIFA.com |accessdate=27 October 2017 }}{{Dead link|date=June 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+*IC: [[Intercontinental Cup (1960–2004)|Intercontinental Cup]] (1960–2004)
+*FCWC: [[List of FIFA Club World Cup finals|FIFA Club World Cup finals]] (2000, 2005–present)
+
+==Background==
+[[Chelsea F.C.|Chelsea]] reached their second FIFA Club World Cup Final in two appearances, having done so previously in [[2012 FIFA Club World Cup Final|2012]], which they lost to [[Sport Club Corinthians Paulista|Corinthians]]. Chelsea were looking to win their second title of the season, after the [[2021 UEFA Super Cup]].<ref>{{cite news |title=Lukaku goal sends Chelsea to the final |work=BBC Sport |url=https://www.bbc.com/sport/football/60307726 |access-date=10 February 2022}}</ref><ref>{{cite web |title=Romelu Lukaku's first-half strike sends Blues into Club World Cup final |url=https://www.skysports.com/football/al-hilal-vs-chelsea/report/460725 |website=Sky Sports |access-date=10 February 2022 |language=en}}</ref>
+
+[[Sociedade Esportiva Palmeiras|Palmeiras]] were competing in the FIFA Club World Cup for the second consecutive time, having finished fourth in [[2020 FIFA Club World Cup|2020]]. They reached the final for the first time after defeating [[Al Ahly SC|Al Ahly]], who had previously defeated them in the third place playoff in 2020.<ref>{{cite web |title=Veiga, Dudu propel Palmeiras into final |url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/news/fifa-club-world-cup-2021-matchday-three-review-palmeiras-al-ahly |publisher=Fédération Internationale de Football Association |website=FIFA.com |access-date=10 February 2022 |language=en}}</ref><ref>{{cite web |title=Palmeiras beat Al Ahly to reach Club World Cup final |url=https://www.espn.com/football/report/_/gameId/622404 |website=ESPN |access-date=10 February 2022 |language=en}}</ref>
+
+This was the fourth FIFA Club World Cup Final to be played between English and Brazilian clubs, after [[2005 FIFA Club World Championship Final|2005]], [[2012 FIFA Club World Cup Final|2012]] and  [[2019 FIFA Club World Cup Final|2019]], with only the latter being won by the English club.<ref>{{cite news |title=The FIFA Club World Cup final in stats |url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/news/the-fifa-club-world-cup-final-in-stats |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=12 February 2022 |language=en |archive-date=12 February 2022 |archive-url=https://web.archive.org/web/20220212024200/https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/news/the-fifa-club-world-cup-final-in-stats |url-status=dead }}</ref>
+
+==Route to the final==
+{| class="wikitable"
+|-
+!width=350 colspan=2|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+!Team
+!width=350 colspan=2|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|- style="background:#C1E0FF"
+|align=center|Opponent
+|align=center|Result
+|align=center|[[2021 FIFA Club World Cup]]
+|align=center|Opponent
+|align=center|Result
+|-
+|{{fbaicon|KSA}} [[Al Hilal SFC|Al Hilal]]
+|align=center|1–0
+|align=center style="background:#C1E0FF"|Semi-finals
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|align=center|2–0
+|}
+
+===Chelsea===
+Chelsea qualified for the tournament as the champions of the [[2020–21 UEFA Champions League|UEFA Champions League]], having defeated fellow English club [[Manchester City F.C.|Manchester City]] in the [[2021 UEFA Champions League Final|final]]. Due to their participation in the Club World Cup, two of their [[Premier League]] fixtures were rescheduled.<ref>{{cite web |title=Two games postponed due to Club World Cup participation |url=https://www.chelseafc.com/en/news/2021/11/30/two-games-postponed-due-to-club-world-cup-participation |publisher=Chelsea Football Club |access-date=12 February 2022}}</ref>
+
+As European champions, Chelsea received a bye to the semi-finals, where they faced [[Asian Football Confederation|Asian]] champions [[Al Hilal SFC|Al Hilal]] from Saudi Arabia. The Blues won the match 1–0; [[Romelu Lukaku]] scored the only goal of the game in the 32nd minute.<ref>{{cite news |title=Lukaku goal sends Chelsea to the final |url=https://www.bbc.com/sport/football/60307726 |access-date=12 February 2022 |work=BBC Sport}}</ref>
+
+===Palmeiras===
+Palmeiras entered the tournament as the winners of the [[2021 Copa Libertadores|Copa Libertadores]], defeating another Brazilian club [[Clube de Regatas do Flamengo|Flamengo]] after [[Overtime (sports)|extra time]] in the [[2021 Copa Libertadores Final|final]], which took place a few days before the draw for the Club World Cup.<ref>{{cite news |title=Palmeiras see off Flamengo in extra time to retain Copa Libertadores title |url=https://www.theguardian.com/football/2021/nov/27/palmeiras-flamengo-copa-libertadores-final-match-report |access-date=12 February 2022 |work=The Guardian |date=27 November 2021 |language=en}}</ref>
+
+Palmeiras too entered the Club World Cup in the semi-finals stage, where they played [[Confederation of African Football|African]] champions [[Al Ahly SC|Al Ahly]] of Egypt. Palmeiras won the match 2–0 with goals from [[Raphael Veiga]] and [[Dudu (footballer, born 1992)|Dudu]], their first goals in the Club World Cup.<ref>{{cite news |title=Palmeiras beat Al Ahly to reach Club World Cup final |url=https://www.reuters.com/lifestyle/sports/palmeiras-beat-al-ahly-reach-club-world-cup-final-2022-02-08/ |access-date=12 February 2022 |work=Reuters |date=8 February 2022 |language=en}}</ref>
+
+==Match==
+
+===Details===
+<onlyinclude>{{Football box
+|date={{Start date|2022|2|12|df=y}}
+|time=20:30 <noinclude>[[Gulf Standard Time|GST]]</noinclude>
+|team1=[[Chelsea F.C.|Chelsea]] {{fbaicon|ENG}}
+|score=2–1
+|aet=yes
+|report=https://www.fifa.com/en/match-centre/match/107/285345/285351/400213182
+|team2={{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1=
+*[[Romelu Lukaku|Lukaku]] {{goal|54}}
+*[[Kai Havertz|Havertz]] {{goal|117|pen.}}
+|goals2=
+*[[Raphael Veiga|Veiga]] {{goal|64|pen.}}
+|stadium=[[Mohammed bin Zayed Stadium]], [[Abu Dhabi]]
+|attendance=32,871<ref name="attendance">{{cite web|url=https://api.fifa.com/api/v1/live/football/2/0/0/400213182|title=Chelsea vs. Palmeiras|website=FIFA.com|publisher=Fédération Internationale de Football Association|date=12 February 2022|access-date=12 February 2022|archive-date=12 February 2022|archive-url=https://web.archive.org/web/20220212180314/https://api.fifa.com/api/v1/live/football/2/0/0/400213182|url-status=dead}}</ref>
+|referee=[[Chris Beath]] ([[Football Australia|Australia]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _chelsea2122h
+ |pattern_b  = _chelsea2122H
+ |pattern_ra = _chelsea2122h
+ |pattern_sh = _chelsea2122h
+ |pattern_so = _chelsea2122h
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = Chelsea
+}}
+|{{Football kit
+ |pattern_la = _palmeiras21a
+ |pattern_b  = _palmeiras21a
+ |pattern_ra = _palmeiras21a
+ |pattern_sh = _palmeiras22h
+ |pattern_so =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 004D37
+ |title      = Palmeiras
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||{{flagicon|SEN}} [[Édouard Mendy]]
+|-
+|CB ||'''4''' ||{{flagicon|DEN}} [[Andreas Christensen]] || || {{suboff|91}}
+|-
+|CB ||'''6''' ||{{flagicon|BRA}} [[Thiago Silva]]
+|-
+|CB ||'''2''' ||{{flagicon|GER}} [[Antonio Rüdiger]]
+|-
+|RM ||'''28'''||{{flagicon|ESP}} [[César Azpilicueta]] ([[Captain (association football)|c]])
+|-
+|CM ||'''7''' ||{{flagicon|FRA}} [[N'Golo Kanté]]
+|-
+|CM ||'''8''' ||{{flagicon|CRO}} [[Mateo Kovačić]] || || {{suboff|91}}
+|-
+|LM ||'''20'''||{{flagicon|ENG}} [[Callum Hudson-Odoi]] || || {{suboff|76}}
+|-
+|RF ||'''19'''||{{flagicon|ENG}} [[Mason Mount]] || || {{suboff|31}}
+|-
+|CF ||'''9''' ||{{flagicon|BEL}} [[Romelu Lukaku]] || || {{suboff|76}}
+|-
+|LF ||'''29'''||{{flagicon|GER}} [[Kai Havertz]] || {{yel|118}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Kepa Arrizabalaga]]
+|-
+|GK ||'''13'''||{{flagicon|ENG}} [[Marcus Bettinelli]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+|-
+|DF ||'''14'''||{{flagicon|ENG}} [[Trevoh Chalobah]]
+|-
+|DF ||'''31'''||{{flagicon|FRA}} [[Malang Sarr]] || || {{subon|91}}
+|-
+|MF ||'''5''' ||{{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+|-
+|MF ||'''17'''||{{flagicon|ESP}} [[Saúl (footballer, born 1994)|Saúl]] || || {{subon|76}}
+|-
+|MF ||'''18'''||{{flagicon|ENG}} [[Ross Barkley]]
+|-
+|MF ||'''22'''||{{flagicon|MAR}} [[Hakim Ziyech]] || || {{subon|91}}
+|-
+|MF ||'''23'''||{{flagicon|BRA}} [[Kenedy (footballer)|Kenedy]]
+|-
+|FW ||'''10'''||{{flagicon|USA}} [[Christian Pulisic]] || || {{subon|31}}
+|-
+|FW ||'''11'''||{{flagicon|GER}} [[Timo Werner]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Thomas Tuchel]]
+|}
+|valign="top"|[[File:Chelsea vs Palmeiras 2022-02-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21'''||{{flagicon|BRA}} [[Weverton (footballer, born 1987)|Weverton]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Marcos Rocha]] || || {{suboff|118}}
+|-
+|CB ||'''15'''||{{flagicon|PAR}} [[Gustavo Gómez]] ([[Captain (association football)|c]])
+|-
+|CB ||'''13'''||{{flagicon|BRA}} [[Luan Garcia|Luan]] || {{sent off|1|115|120+6}}
+|-
+|LB ||'''22'''||{{flagicon|URU}} [[Joaquín Piquerez]]
+|-
+|CM ||'''28'''||{{flagicon|BRA}} [[Danilo (footballer, born 2001)|Danilo]]
+|-
+|CM ||'''8''' ||{{flagicon|BRA}} [[Zé Rafael]] || || {{suboff|60}}
+|-
+|RW ||'''7''' ||{{flagicon|BRA}} [[Dudu (footballer, born 1992)|Dudu]] || || {{suboff|103}}
+|-
+|AM ||'''23'''||{{flagicon|BRA}} [[Raphael Veiga]] || || {{suboff|78}}
+|-
+|LW ||'''14'''||{{flagicon|BRA}} [[Gustavo Scarpa]]
+|-
+|CF ||'''10'''||{{flagicon|BRA}} [[Rony (footballer)|Rony]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{flagicon|BRA}} [[Mateus Oliveira Mendes|Mateus]]
+|-
+|GK ||'''42'''||{{flagicon|BRA}} [[Marcelo Lomba]]
+|-
+|DF ||'''4''' ||{{flagicon|CHI}} [[Benjamín Kuscevic]]
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Jorge (footballer, born 1996)|Jorge]]
+|-
+|DF ||'''12'''||{{flagicon|BRA}} [[Mayke]]
+|-
+|DF ||'''26'''||{{flagicon|BRA}} [[Murilo Cerqueira]]
+|-
+|MF ||'''20'''||{{flagicon|COL}} [[Eduard Atuesta]] || {{yel|116}} || {{subon|78}}
+|-
+|MF ||'''30'''||{{flagicon|BRA}} [[Jailson (footballer, born 1995)|Jailson]] || || {{subon|60}}
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Wesley (footballer, born 1999)|Wesley]] || {{yel|105}} || {{subon|77}}
+|-
+|FW ||'''16'''||{{flagicon|BRA}} [[Deyverson]] || || {{subon|118}}
+|-
+|FW ||'''19'''||{{flagicon|BRA}} [[Breno Lopes (footballer, born 1996)|Breno Lopes]]
+|-
+|FW ||'''29'''||{{flagicon|BRA}} [[Rafael Navarro (footballer)|Rafael Navarro]] || || {{subon|103}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Abel Ferreira]] || {{yel|120+1}}
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Antonio Rüdiger]] (Chelsea)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Anton Shchetinin ([[Football Australia|Australia]])
+<br />Ashley Beecham ([[Football Australia|Australia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="referee"/>
+<br />Abdelhak Etchiali ([[Algerian Football Federation|Algeria]])
+<br />'''[[Video assistant referee]]:'''<ref name="referee"/>
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]s:'''<ref name="referee"/>
+<br />Nicolás Gallo ([[Colombian Football Federation|Colombia]])
+<br />Mokrane Gourari ([[Algerian Football Federation|Algeria]])
+<br />[[Ammar Al-Jeneibi]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/16c552bf1a535258/original/FIFA-Club-World-Cup-UAE-2021-Regulations.pdf |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=29 November 2021 |access-date=8 February 2022 |title=Regulations FIFA Club World Cup UAE 2021}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Maximum of twelve named substitutes.
+*Maximum of five substitutions, with a sixth allowed in extra time.{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{Official website|https://www.fifa.com/tournaments/mens/clubworldcup/uae2021}}
+
+{{FIFA Club World Cup}}
+{{Chelsea F.C. matches}}
+{{Sociedade Esportiva Palmeiras matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2021}}
+[[Category:2021 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2021]]
+[[Category:Chelsea F.C. matches]]
+[[Category:SE Palmeiras matches]]
+[[Category:2021–22 in English men's football]]
+[[Category:2022 in Brazilian football]]
+[[Category:2021–22 in Emirati football]]
+[[Category:Football in Abu Dhabi]]
+[[Category:2022 in sport in Abu Dhabi]]
+[[Category:February 2022 sports events in the United Arab Emirates]]
+[[Category:Football matches in the United Arab Emirates]]
+[[Category:Brazil–United Kingdom sports relations|2021]]

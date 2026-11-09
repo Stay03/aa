@@ -1,0 +1,986 @@
+[
+ {
+  "article": "2014 Football League Cup final",
+  "fb_date": "2 March 2014",
+  "team1": "Manchester City",
+  "team2": "Sunderland",
+  "score_raw": "3–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Touré",
+    "minute": "55",
+    "note": ""
+   },
+   {
+    "player": "Nasri",
+    "minute": "56",
+    "note": ""
+   },
+   {
+    "player": "Navas",
+    "minute": "90",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Borini",
+    "minute": "10",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "84,697",
+  "referee": "Martin Atkinson (West Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://www.bbc.co.uk/sport/football/26311649 Report]",
+  "manager1": "Manuel Pellegrini",
+  "cards1": [
+   {
+    "player": "Álvaro Negredo",
+    "type": "Y",
+    "minute": "90+3"
+   }
+  ],
+  "manager2": "Gus Poyet",
+  "cards2": [
+   {
+    "player": "Marcos Alonso",
+    "type": "Y",
+    "minute": "82"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2015 Football League Cup final",
+  "fb_date": "1 March 2015",
+  "team1": "Chelsea",
+  "team2": "Tottenham Hotspur",
+  "score_raw": "2–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Terry",
+    "minute": "45",
+    "note": ""
+   },
+   {
+    "player": "Costa",
+    "minute": "56",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "89,294",
+  "referee": "Anthony Taylor (Cheshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://www.bbc.com/sport/0/football/31572594 Report]",
+  "manager1": "José Mourinho",
+  "cards1": [
+   {
+    "player": "Kurt Zouma",
+    "type": "Y",
+    "minute": "72"
+   },
+   {
+    "player": "Willian",
+    "type": "Y",
+    "minute": "70"
+   },
+   {
+    "player": "Juan Cuadrado",
+    "type": "Y",
+    "minute": "85"
+   }
+  ],
+  "manager2": "Mauricio Pochettino",
+  "cards2": [
+   {
+    "player": "Eric Dier",
+    "type": "Y",
+    "minute": "31"
+   },
+   {
+    "player": "Nabil Bentaleb",
+    "type": "Y",
+    "minute": "78"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2016 Football League Cup final",
+  "fb_date": "28 February 2016",
+  "team1": "Liverpool",
+  "team2": "Manchester City",
+  "score_raw": "1–1",
+  "aet": "yes",
+  "penaltyscore": "1–3",
+  "goals1": [
+   {
+    "player": "Coutinho",
+    "minute": "83",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Fernandinho",
+    "minute": "49",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "86,206",
+  "referee": "Michael Oliver",
+  "penalties1": "Can Lucas Coutinho Lallana",
+  "penalties2": "Fernandinho Navas Agüero Touré",
+  "report": "https://www.bbc.co.uk/sport/football/35624164",
+  "manager1": "Jürgen Klopp",
+  "cards1": [
+   {
+    "player": "Nathaniel Clyne",
+    "type": "Y",
+    "minute": "53"
+   },
+   {
+    "player": "Alberto Moreno",
+    "type": "Y",
+    "minute": "65"
+   },
+   {
+    "player": "Emre Can",
+    "type": "Y",
+    "minute": "85"
+   },
+   {
+    "player": "Philippe Coutinho",
+    "type": "Y",
+    "minute": "83"
+   },
+   {
+    "player": "Adam Lallana",
+    "type": "Y",
+    "minute": "118"
+   }
+  ],
+  "manager2": "Manuel Pellegrini",
+  "cards2": [
+   {
+    "player": "Vincent Kompany",
+    "type": "Y",
+    "minute": "87"
+   },
+   {
+    "player": "Nicolás Otamendi",
+    "type": "Y",
+    "minute": "109"
+   },
+   {
+    "player": "Fernandinho",
+    "type": "Y",
+    "minute": "119"
+   },
+   {
+    "player": "Fernando",
+    "type": "Y",
+    "minute": "76"
+   },
+   {
+    "player": "Yaya Touré",
+    "type": "Y",
+    "minute": "118"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2017 EFL Cup final",
+  "fb_date": "",
+  "team1": "Manchester United",
+  "team2": "Southampton",
+  "score_raw": "3–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Ibrahimović",
+    "minute": "19",
+    "note": ""
+   },
+   {
+    "player": "Ibrahimović",
+    "minute": "87",
+    "note": ""
+   },
+   {
+    "player": "Lingard",
+    "minute": "38",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Gabbiadini",
+    "minute": "45+1",
+    "note": ""
+   },
+   {
+    "player": "Gabbiadini",
+    "minute": "48",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "85,264",
+  "referee": "Andre Marriner (West Midlands)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/39018813",
+  "manager1": "José Mourinho",
+  "cards1": [
+   {
+    "player": "Ander Herrera",
+    "type": "Y",
+    "minute": "24"
+   },
+   {
+    "player": "Jesse Lingard",
+    "type": "Y",
+    "minute": "41"
+   }
+  ],
+  "manager2": "Claude Puel",
+  "cards2": [
+   {
+    "player": "Jack Stephens",
+    "type": "Y",
+    "minute": "40"
+   },
+   {
+    "player": "Oriol Romeu",
+    "type": "Y",
+    "minute": "18"
+   },
+   {
+    "player": "Nathan Redmond",
+    "type": "Y",
+    "minute": "56"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Richard West (East Yorkshire); Stuart Burt (Northamptonshire)",
+   "Fourth official": "Kevin Friend (Leicestershire)",
+   "Fifth official": "Matthew Wilkes (West Midlands) |style"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2018 EFL Cup final",
+  "fb_date": "",
+  "team1": "Arsenal",
+  "team2": "Manchester City",
+  "score_raw": "0–3",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Agüero",
+    "minute": "18",
+    "note": ""
+   },
+   {
+    "player": "Kompany",
+    "minute": "58",
+    "note": ""
+   },
+   {
+    "player": "D. Silva",
+    "minute": "65",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "85,671",
+  "referee": "Craig Pawson (South Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/43101681",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Calum Chambers",
+    "type": "Y",
+    "minute": "47"
+   },
+   {
+    "player": "Héctor Bellerín",
+    "type": "Y",
+    "minute": "24"
+   },
+   {
+    "player": "Jack Wilshere",
+    "type": "Y",
+    "minute": "88"
+   },
+   {
+    "player": "Aaron Ramsey",
+    "type": "Y",
+    "minute": "32"
+   }
+  ],
+  "manager2": "Pep Guardiola",
+  "cards2": [
+   {
+    "player": "Vincent Kompany",
+    "type": "Y",
+    "minute": "80"
+   },
+   {
+    "player": "Fernandinho",
+    "type": "Y",
+    "minute": "36"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Gary Beswick (Durham); Adam Nunn (Wiltshire)",
+   "Fourth official": "Graham Scott (Berks & Bucks)",
+   "Reserve assistant referee": "Ian Hussin (Liverpool)",
+   "Video assistant referee": "Neil Swarbrick (Lancashire)",
+   "Assistant video assistant referee": "Peter Kirkup (Northamptonshire) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2019 EFL Cup final",
+  "fb_date": "",
+  "team1": "Chelsea",
+  "team2": "Manchester City",
+  "score_raw": "0–0",
+  "aet": "yes",
+  "penaltyscore": "3–4",
+  "goals1": [],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "81,775",
+  "referee": "Jon Moss (West Yorkshire)",
+  "penalties1": "Jorginho Azpilicueta Emerson David Luiz Hazard",
+  "penalties2": "Gündoğan Agüero Sané B. Silva Sterling",
+  "report": "https://www.bbc.co.uk/sport/football/47268861",
+  "manager1": "Maurizio Sarri",
+  "cards1": [
+   {
+    "player": "Antonio Rüdiger",
+    "type": "Y",
+    "minute": "72"
+   },
+   {
+    "player": "David Luiz",
+    "type": "Y",
+    "minute": "30"
+   },
+   {
+    "player": "Jorginho",
+    "type": "Y",
+    "minute": "88"
+   }
+  ],
+  "manager2": "Pep Guardiola",
+  "cards2": [
+   {
+    "player": "Nicolás Otamendi",
+    "type": "Y",
+    "minute": "90+1"
+   },
+   {
+    "player": "Fernandinho",
+    "type": "Y",
+    "minute": "58"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Andy Halliday (Army); Marc Perry (West Midlands)",
+   "Fourth official": "Paul Tierney (Lancashire)",
+   "Reserve assistant referee": "Constantine Hatzidakis (Kent)",
+   "Video assistant referee": "Martin Atkinson (West Yorkshire)",
+   "Assistant video assistant referee": "Steve Child (London) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2020 EFL Cup final",
+  "fb_date": "",
+  "team1": "Aston Villa",
+  "team2": "Manchester City",
+  "score_raw": "1–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Samatta",
+    "minute": "41",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Agüero",
+    "minute": "20",
+    "note": ""
+   },
+   {
+    "player": "Rodri",
+    "minute": "30",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "82,145",
+  "referee": "Lee Mason (Lancashire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/51601970",
+  "manager1": "Dean Smith",
+  "cards1": [
+   {
+    "player": "Tyrone Mings",
+    "type": "Y",
+    "minute": "90+2"
+   },
+   {
+    "player": "Marvelous Nakamba",
+    "type": "Y",
+    "minute": "72"
+   },
+   {
+    "player": "Ahmed Elmohamady",
+    "type": "Y",
+    "minute": "68"
+   }
+  ],
+  "manager2": "Pep Guardiola",
+  "cards2": [
+   {
+    "player": "Rodri",
+    "type": "Y",
+    "minute": "60"
+   },
+   {
+    "player": "Raheem Sterling",
+    "type": "Y",
+    "minute": "57"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Ian Hussin (Liverpool); Harry Lennard (Sussex)",
+   "Fourth official": "David Coote (Nottinghamshire)",
+   "Reserve assistant referee": "Nick Hopton (Derbyshire)",
+   "Video assistant referee": "Mike Dean (Cheshire)",
+   "Assistant video assistant referee": "Neil Davies (London) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2021 EFL Cup final",
+  "fb_date": "",
+  "team1": "Manchester City",
+  "team2": "Tottenham Hotspur",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Laporte",
+    "minute": "82",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "7,773",
+  "referee": "Paul Tierney (Lancashire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/56790307",
+  "manager1": "Pep Guardiola",
+  "cards1": [
+   {
+    "player": "Aymeric Laporte",
+    "type": "Y",
+    "minute": "45"
+   },
+   {
+    "player": "Fernandinho",
+    "type": "Y",
+    "minute": "59"
+   }
+  ],
+  "manager2": "Ryan Mason (interim)",
+  "cards2": [
+   {
+    "player": "Sergio Reguilón",
+    "type": "Y",
+    "minute": "27"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Lee Betts (Norfolk); Constantine Hatzidakis (Kent)",
+   "Fourth official": "Peter Bankes (Liverpool)",
+   "Reserve assistant referee": "Dan Robathan (Norfolk)",
+   "Video assistant referee": "Andre Marriner (Birmingham)",
+   "Assistant video assistant referee": "Adrian Holmes (West Riding) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2022 EFL Cup final",
+  "fb_date": "",
+  "team1": "Chelsea",
+  "team2": "Liverpool",
+  "score_raw": "0–0",
+  "aet": "yes",
+  "penaltyscore": "10–11",
+  "goals1": [],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "85,512",
+  "referee": "Stuart Attwell (Warwickshire)",
+  "penalties1": "Alonso Lukaku Havertz James Jorginho Rüdiger Kanté Werner Silva Chalobah Arrizabalaga",
+  "penalties2": "Milner Fabinho Van Dijk Alexander-Arnold Salah Jota Origi Robertson Elliott Konaté Kelleher",
+  "report": "https://www.bbc.co.uk/sport/football/60450274",
+  "manager1": "Thomas Tuchel",
+  "cards1": [
+   {
+    "player": "N'Golo Kanté",
+    "type": "Y",
+    "minute": "99"
+   },
+   {
+    "player": "Mateo Kovačić",
+    "type": "Y",
+    "minute": "90"
+   },
+   {
+    "player": "Kai Havertz",
+    "type": "Y",
+    "minute": "105+2"
+   }
+  ],
+  "manager2": "Jürgen Klopp",
+  "cards2": [
+   {
+    "player": "Trent Alexander-Arnold",
+    "type": "Y",
+    "minute": "105+2"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Dan Cook (Manchester); Daniel Robathan (Norfolk)",
+   "Fourth official": "Andrew Madley (Huddersfield)",
+   "Reserve assistant referee": "Tim Wood (Gloucestershire)",
+   "Video assistant referee": "Darren England (Doncaster)",
+   "Assistant video assistant referee": "Simon Bennett (Staffordshire) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2023 EFL Cup final",
+  "fb_date": "",
+  "team1": "Manchester United",
+  "team2": "Newcastle United",
+  "score_raw": "2–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Casemiro",
+    "minute": "33",
+    "note": ""
+   },
+   {
+    "player": "Rashford",
+    "minute": "39",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "87,306",
+  "referee": "David Coote (Nottinghamshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.efl.com/news/2023/february/manchester-united-lift-the-carabao-cup-at-wembley/",
+  "manager1": "Erik ten Hag",
+  "cards1": [
+   {
+    "player": "David de Gea",
+    "type": "Y",
+    "minute": "84"
+   },
+   {
+    "player": "Diogo Dalot",
+    "type": "Y",
+    "minute": "9"
+   },
+   {
+    "player": "Lisandro Martínez",
+    "type": "Y",
+    "minute": "90+6"
+   },
+   {
+    "player": "Luke Shaw",
+    "type": "Y",
+    "minute": "90+1"
+   },
+   {
+    "player": "Casemiro",
+    "type": "Y",
+    "minute": "87"
+   },
+   {
+    "player": "Fred",
+    "type": "Y",
+    "minute": "37"
+   }
+  ],
+  "manager2": "Eddie Howe",
+  "cards2": [
+   {
+    "player": "Fabian Schär",
+    "type": "Y",
+    "minute": "90+6"
+   },
+   {
+    "player": "Sven Botman",
+    "type": "Y",
+    "minute": "67"
+   },
+   {
+    "player": "Joelinton",
+    "type": "Y",
+    "minute": "45+6"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Nick Hopton (Derbyshire); Tim Wood (Gloucestershire)",
+   "Fourth official": "Simon Hooper (Wiltshire)",
+   "Reserve assistant referee": "Nick Greenhalgh (Lancashire)",
+   "Video assistant referee": "Peter Bankes (Liverpool)",
+   "Assistant video assistant referee": "Eddie Smart (Birmingham) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2024 EFL Cup final",
+  "fb_date": "",
+  "team1": "Chelsea",
+  "team2": "Liverpool",
+  "score_raw": "0–1",
+  "aet": "yes",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Van Dijk",
+    "minute": "118",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium",
+  "attendance": "88,868",
+  "referee": "Chris Kavanagh",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.efl.com/match-centre/g2427138",
+  "manager1": "Mauricio Pochettino",
+  "cards1": [
+   {
+    "player": "Ben Chilwell",
+    "type": "Y",
+    "minute": "45+3"
+   },
+   {
+    "player": "Cole Palmer",
+    "type": "Y",
+    "minute": "120+2"
+   }
+  ],
+  "manager2": "Jürgen Klopp",
+  "cards2": [
+   {
+    "player": "Conor Bradley",
+    "type": "Y",
+    "minute": "45+3"
+   },
+   {
+    "player": "Ibrahima Konaté",
+    "type": "Y",
+    "minute": "82"
+   },
+   {
+    "player": "Alexis Mac Allister",
+    "type": "Y",
+    "minute": "81"
+   },
+   {
+    "player": "Joe Gomez",
+    "type": "Y",
+    "minute": "120+3"
+   },
+   {
+    "player": "James McConnell",
+    "type": "Y",
+    "minute": "107"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Mark Scholes; James Mainwaring",
+   "Fourth official": "Tim Robinson",
+   "Reserve assistant referee": "Wade Smith",
+   "Video assistant referee": "John Brooks",
+   "Assistant video assistant referee": "Marc Perry |style"
+  },
+  "stats": {
+   "Total shots": [
+    "19",
+    "24"
+   ],
+   "Shots on target": [
+    "9",
+    "11"
+   ],
+   "Ball possession": [
+    "46%",
+    "54%"
+   ],
+   "Corner kicks": [
+    "6",
+    "5"
+   ],
+   "Offside": [
+    "3",
+    "2"
+   ],
+   "Fouls committed": [
+    "14",
+    "21"
+   ],
+   "Yellow cards": [
+    "2",
+    "5"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2025 EFL Cup final",
+  "fb_date": "16 March 2025",
+  "team1": "Liverpool",
+  "team2": "Newcastle United",
+  "score_raw": "1–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Chiesa",
+    "minute": "90+4",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Burn",
+    "minute": "45",
+    "note": ""
+   },
+   {
+    "player": "Isak",
+    "minute": "52",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium",
+  "attendance": "88,513",
+  "referee": "John Brooks",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.efl.com/match-centre/g2508875",
+  "manager1": "Arne Slot",
+  "cards1": [
+   {
+    "player": "Federico Chiesa",
+    "type": "Y",
+    "minute": "90+8"
+   }
+  ],
+  "manager2": "Eddie Howe",
+  "cards2": [
+   {
+    "player": "Nick Pope",
+    "type": "Y",
+    "minute": "90"
+   },
+   {
+    "player": "Sandro Tonali",
+    "type": "Y",
+    "minute": "90+9"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Eddie Smart; Nick Greenhalgh",
+   "Fourth official": "Darren England",
+   "Reserve assistant referee": "Steve Meredith",
+   "Video assistant referee": "Stuart Attwell",
+   "Assistant video assistant referee": "Sian Massey-Ellis |style"
+  },
+  "stats": {
+   "Total shots": [
+    "7",
+    "17"
+   ],
+   "Shots on target": [
+    "2",
+    "6"
+   ],
+   "Ball possession": [
+    "66%",
+    "34%"
+   ],
+   "Corner kicks": [
+    "4",
+    "9"
+   ],
+   "Offside": [
+    "2",
+    "2"
+   ],
+   "Fouls committed": [
+    "14",
+    "10"
+   ],
+   "Yellow cards": [
+    "1",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ },
+ {
+  "article": "2026 EFL Cup final",
+  "fb_date": "",
+  "team1": "Arsenal",
+  "team2": "Manchester City",
+  "score_raw": "0–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "O'Reilly",
+    "minute": "60",
+    "note": ""
+   },
+   {
+    "player": "O'Reilly",
+    "minute": "64",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "88,486",
+  "referee": "Peter Bankes (Lancashire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.efl.com/match-centre/g2625816?",
+  "manager1": "Mikel Arteta",
+  "cards1": [
+   {
+    "player": "Kepa Arrizabalaga",
+    "type": "Y",
+    "minute": "50"
+   },
+   {
+    "player": "Ben White",
+    "type": "Y",
+    "minute": "69"
+   },
+   {
+    "player": "Piero Hincapié",
+    "type": "Y",
+    "minute": "16"
+   }
+  ],
+  "manager2": "Pep Guardiola",
+  "cards2": [
+   {
+    "player": "Abdukodir Khusanov",
+    "type": "Y",
+    "minute": "33"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Neil Davies; Steve Meredith",
+   "Fourth official": "Tom Bramall",
+   "Reserve assistant referee": "Marc Perry",
+   "Video assistant referee": "John Brooks",
+   "Assistant video assistant referee": "Dan Robathan |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "League Cup"
+ }
+]

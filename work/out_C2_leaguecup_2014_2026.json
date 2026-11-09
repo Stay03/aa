@@ -1,0 +1,323 @@
+[
+ {
+  "article": "2014 Football League Cup final",
+  "date": "2014-03-02",
+  "competition": "League Cup",
+  "season": "2013-14",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester City",
+  "team2": "Sunderland",
+  "score_90": "3-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/man-city-vs-sland/report/307826",
+   "https://www.thefa.com/news/2014/mar/02/capital-one-cup-final-match-report",
+   "https://www.aljazeera.com/sports/2014/3/3/man-city-fight-back-to-win-league-cup"
+  ],
+  "core_verified": true,
+  "referee": "Martin Atkinson",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - West Riding County FA",
+  "referee_sources": [
+   "https://www.thefa.com/news/2014/mar/02/capital-one-cup-final-match-report",
+   "https://www.sportsmole.co.uk/football/man-city/league-cup/live-commentary/manchester-city-3-1-sunderland-as-it-happened_142055.html"
+  ],
+  "assistants": "Steve Child; Simon Long",
+  "fourth_official": "Neil Swarbrick",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": null,
+  "officials_sources": [
+   "Wikipedia citing Football League announcement capitalonecup.co.uk 24 Jan 2014 (http://www.capitalonecup.co.uk/news/article/cup-final-appointments-1314-1313725.aspx) - not independently fetched"
+  ],
+  "manager1": "Manuel Pellegrini",
+  "manager2": "Gus Poyet",
+  "goals": [
+   {
+    "team": "Sunderland",
+    "player": "Fabio Borini",
+    "minute": "10",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Yaya Touré",
+    "minute": "55",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Samir Nasri",
+    "minute": "56",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Jesús Navas",
+    "minute": "90",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Sunderland",
+    "player": "Marcos Alonso",
+    "minute": "82",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Álvaro Negredo",
+    "minute": "90+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/man-city-vs-sland/report/307826",
+   "https://www.thefa.com/news/2014/mar/02/capital-one-cup-final-match-report",
+   "https://www.sportsmole.co.uk/football/man-city/league-cup/live-commentary/manchester-city-3-1-sunderland-as-it-happened_142055.html"
+  ],
+  "stats": {
+   "shots1": 10,
+   "shots2": 5,
+   "sot1": 6,
+   "sot2": 3,
+   "poss1": 61.9,
+   "poss2": 38.1,
+   "fouls1": 13,
+   "fouls2": 10,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.skysports.com/football/man-city-vs-sland/report/307826",
+   "xg_source": null,
+   "note": "Sky Sports (Opta-type feed): shots computed as on target + off target (6+4, 3+2); blocked shots may not be included. BBC not accessible to this agent."
+  },
+  "odds": {
+   "team1": 1.25,
+   "draw": 6.0,
+   "team2": 10.0,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "Oddschecker (as quoted by Bleacher Report preview, 1 Mar 2014)",
+   "source": "https://bleacherreport.com/articles/1976644-manchester-city-vs-sunderland-date-time-live-stream-tv-info-and-preview",
+   "note": "Quoted as City 1/4, Draw 5/1, Sunderland 9/1; presumably 90-minute prices. Another preview mentioned Sunderland up to 10/1 and City best 1/3 (unverified)."
+  },
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Liam Bridcutt (cup-tied)",
+    "Steven Fletcher (only on bench, short of fitness)"
+   ],
+   "sources": [
+    "https://www.sportsmole.co.uk/football/man-city/league-cup/live-commentary/manchester-city-3-1-sunderland-as-it-happened_142055.html"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "39",
+    "score_at_time": "0-1",
+    "type": "offside",
+    "description": "Borini ran through on goal from an apparently offside position with no flag raised; Kompany recovered to tackle him before he shot.",
+    "favoured_team": "Sunderland",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (Reuters: 'suspiciously offside position'; Sports Mole live text: offside, no flag)",
+    "impact": "none",
+    "impact_reasoning": "No goal resulted; Kompany won the ball.",
+    "sources": [
+     "https://www.aljazeera.com/sports/2014/3/3/man-city-fight-back-to-win-league-cup",
+     "https://www.sportsmole.co.uk/football/man-city/league-cup/live-commentary/manchester-city-3-1-sunderland-as-it-happened_142055.html"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports report, TheFA report, Reuters (via Al Jazeera), Sports Mole live commentary, web search for penalty/red-card claims. BBC and Guardian not accessible. Only minor journalist remarks (Borini offside non-call, early challenges waved on, Touré complaint at 24').",
+  "uncertain": [
+   "Negredo's 90+3 yellow taken from Wikipedia lineup; Sky shows one yellow per side (consistent) but no independent source naming him/minute was fetched.",
+   "Alonso booking minute: Sports Mole gives 81'/82'; Wikipedia 82.",
+   "Assistants/fourth official from Wikipedia citing Football League appointments page; not independently verified.",
+   "GLT: Premier League introduced GLT in 2013-14 and Wembley had Hawk-Eye, but no source found stating it was in operation for this final.",
+   "Shot totals from Sky (on + off target) may exclude blocked shots.",
+   "Al Jazeera/Reuters dated 3 March (publication date); match on 2 March per Sky and TheFA."
+  ]
+ },
+ {
+  "article": "2015 Football League Cup final",
+  "date": "2015-03-01",
+  "competition": "League Cup",
+  "season": "2014-15",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Tottenham Hotspur",
+  "score_90": "2-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/331217",
+   "http://www.thefa.com/news/2015/mar/01/chelsea-shut-out-tottenham-hotspur-in-capital-one-cup-final",
+   "https://www.sportsmole.co.uk/football/chelsea/league-cup/live-commentary/chelsea-2-0-spurs-as-it-happened_208483.html"
+  ],
+  "core_verified": true,
+  "referee": "Anthony Taylor",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Cheshire FA",
+  "referee_sources": [
+   "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/teams/331217",
+   "http://www.thefa.com/news/2015/mar/01/chelsea-shut-out-tottenham-hotspur-in-capital-one-cup-final"
+  ],
+  "assistants": "Lee Betts; Dave Bryan",
+  "fourth_official": "Craig Pawson",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/teams/331217"
+  ],
+  "manager1": "José Mourinho",
+  "manager2": "Mauricio Pochettino",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "John Terry",
+    "minute": "45",
+    "type": "open play"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Diego Costa (shot deflected off Kyle Walker; credited as Walker own goal by Sky Sports and TheFA)",
+    "minute": "56",
+    "type": "own goal"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Eric Dier",
+    "minute": "31",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Willian",
+    "minute": "70",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Gary Cahill",
+    "minute": "72",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Tottenham Hotspur",
+    "player": "Nabil Bentaleb",
+    "minute": "78",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Juan Cuadrado",
+    "minute": "85",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/teams/331217",
+   "http://www.thefa.com/news/2015/mar/01/chelsea-shut-out-tottenham-hotspur-in-capital-one-cup-final",
+   "https://www.sportsmole.co.uk/football/chelsea/league-cup/live-commentary/chelsea-2-0-spurs-as-it-happened_208483.html"
+  ],
+  "stats": {
+   "shots1": 14,
+   "shots2": 13,
+   "sot1": 3,
+   "sot2": 2,
+   "poss1": 37,
+   "poss2": 63,
+   "fouls1": 19,
+   "fouls2": 15,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://sportsmole.co.uk/football/chelsea/league-cup/result/result-chelsea-see-off-spurs-to-win-league-cup_208552.html",
+   "xg_source": null,
+   "note": "Sports Mole stats as surfaced in search snippet (not page-fetched); provider not stated. Eurosport independently notes Spurs had two shots on target. BBC not accessible."
+  },
+  "odds": {
+   "team1": 1.65,
+   "draw": 4.1,
+   "team2": 5.5,
+   "team1_to_lift": null,
+   "team2_to_lift": null,
+   "bookmaker_or_source": "888sport (quoted by International Business Times UK, 28 Feb 2015)",
+   "source": "https://www.ibtimes.co.uk/chelsea-vs-tottenham-capital-one-cup-2014-15-final-where-watch-live-team-news-betting-odds-1489892",
+   "note": "Quoted fractional: Chelsea 11/17, Draw 31/10, Spurs 9/2. Another preview had Chelsea best 8/11 (SkyBet) for 90 minutes."
+  },
+  "absences": {
+   "team1": [
+    "Nemanja Matić (suspended)",
+    "John Obi Mikel (injured)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.ibtimes.co.uk/chelsea-vs-tottenham-capital-one-cup-2014-15-final-where-watch-live-team-news-betting-odds-1489892",
+    "http://www.thefa.com/news/2015/mar/01/chelsea-shut-out-tottenham-hotspur-in-capital-one-cup-final",
+    "https://www.sportsmole.co.uk/football/chelsea/league-cup/live-commentary/chelsea-2-0-spurs-as-it-happened_208483.html"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "28 (approx.)",
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "Diego Costa pushed his hand into Nabil Bentaleb's face; referee Taylor judged it accidental and took no action, angering Spurs. Bentaleb later said Costa could have been sent off.",
+    "favoured_team": "Chelsea",
+    "against_team": "Tottenham Hotspur",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/player comments only (TheFA report; Bentaleb quoted via HITC)",
+    "impact": "possible",
+    "impact_reasoning": "At 0-0; a red card would have left Chelsea with ten men for over an hour in a match won 2-0.",
+    "sources": [
+     "http://www.thefa.com/news/2015/mar/01/chelsea-shut-out-tottenham-hotspur-in-capital-one-cup-final",
+     "https://www.hitc.com/ib-nabil-bentaleb-comments-on-diego-costa/"
+    ]
+   },
+   {
+    "minute": "45",
+    "score_at_time": "0-0",
+    "type": "red card not given",
+    "description": "Eric Dier (already booked at 31') took out Costa right on half-time; Sports Mole commentary said he could have received a second yellow.",
+    "favoured_team": "Tottenham Hotspur",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (Sports Mole live commentary)",
+    "impact": "possible",
+    "impact_reasoning": "At around 0-0/1-0 with the whole second half to play; Chelsea won anyway, so in practice it did not change the outcome against Chelsea.",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/chelsea/league-cup/live-commentary/chelsea-2-0-spurs-as-it-happened_208483.html"
+    ]
+   }
+  ],
+  "contested_search_done": "Sky Sports report/teams/news, TheFA report, Sports Mole live commentary, web searches for Costa/Bentaleb/Taylor and red-card claims. BBC/Guardian not accessible.",
+  "uncertain": [
+   "Second goal credit: Sky Sports and TheFA credit a Kyle Walker own goal from Costa's shot; Wikipedia/11v11 and Sports Mole credit Costa (11v11 says Football League confirmed Costa). Recorded type as own goal with note.",
+   "Wikipedia lists Kurt Zouma booked 72'; TheFA and Sports Mole name Gary Cahill (72'), Sky lineup shows no Zouma card. Recorded Cahill; Wikipedia appears wrong.",
+   "Dier non-second-yellow contested decision relies on a single source (Sports Mole); Costa-Bentaleb incident relies on TheFA plus a player quote on HITC (weak).",
+   "Stats taken from a search snippet of Sports Mole's result page; possession 37-63 not cross-checked.",
+   "GLT: no source found stating GLT was in operation."
+  ]
+ }
+]

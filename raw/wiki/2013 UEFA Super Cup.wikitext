@@ -1,0 +1,454 @@
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox football match
+| title              = 2013 UEFA Super Cup
+| image              = 2013 UEFA Super Cup programme.jpg
+| caption            = Match programme cover
+| team1              = [[FC Bayern Munich|Bayern Munich]]
+| team1association   = {{fbaicon|GER|size=30px}}
+| team1score         = 2
+| team2              = [[Chelsea F.C.|Chelsea]]
+| team2association   = {{fbaicon|ENG|size=30px}}
+| team2score         = 2
+| details            = After [[Overtime (sports)#Association football|extra time]]<br />Bayern Munich won 5–4 on [[Penalty shoot-out (association football)|penalties]]
+| date               = 30 August 2013
+| stadium            = [[Fortuna Arena]]
+| city               = [[Prague]]
+| man_of_the_match1a = [[Franck Ribéry]] {{nowrap|(Bayern Munich)}}<ref name="man_of_the_match">{{cite news |first=Andy |last=James |title=Man of the match Ribéry 'over the moon' |url=https://www.uefa.com/uefasupercup/news/0250-0c50fe10868e-e8a32becdd0f-1000--man-of-the-match-ribery-over-the-moon/ |website=UEFA.com |publisher=Union of European Football Associations |date=31 August 2013 |access-date=31 August 2013 }}</ref>
+| referee            = [[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])<ref>{{cite web|url=http://www.uefa.org/mediaservices/mediareleases/newsid=1985561.html|title=Referee appointed for UEFA Super Cup in Prague|date=26 August 2013|website=UEFA.org|publisher=Union of European Football Associations|access-date=29 August 2013|archive-date=13 December 2013|archive-url=https://web.archive.org/web/20131213133212/http://www.uefa.org/mediaservices/mediareleases/newsid=1985561.html|url-status=dead}}</ref>
+| attendance         = 17,686<ref name="fulltime"/>
+| weather            = Clear night<br />{{convert|19|°C|abbr=on}}<br />58% [[humidity]]<ref name="line-ups">{{cite web |title=Tactical lineups |url=https://www.uefa.com/newsfiles/SuperCup/2013/2012139_LU.pdf |website=UEFA.com |publisher=Union of European Football Associations |date=30 August 2013 |access-date=31 August 2013 }}</ref>
+| previous           = [[2012 UEFA Super Cup|2012]]
+| next               = [[2014 UEFA Super Cup|2014]]
+}}
+The '''2013 UEFA Super Cup''' was the 38th [[UEFA Super Cup]], an annual [[Association football|football]] match organised by UEFA and contested by the reigning champions of the two main European club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. In a repeat of the [[2012 UEFA Champions League Final]], the match featured [[FC Bayern Munich|Bayern Munich]], the winners of the [[2012–13 UEFA Champions League]], and [[Chelsea F.C.|Chelsea]], the winners of the [[2012–13 UEFA Europa League]]. Having beaten Bayern in the 2012 Champions League Final, it was Chelsea's second consecutive appearance in the Super Cup.<ref>{{cite web|title=2012 UEFA Super Cup|url=https://www.uefa.com/uefasupercup/history/2012/|date=26 May 2013|website=UEFA.com|publisher=Union of European Football Associations}}</ref> It was played at the [[Fortuna Arena]] in [[Prague]], Czech Republic, on 30 August 2013, and was the first to be held away from the [[Stade Louis II]] in Monaco since it became a one-legged match in [[1998 UEFA Super Cup|1998]].<ref name="stadium">{{cite web|url=http://www.uefa.org/about-uefa/executive-committee/news/newsid=1644074.html|title=Wembley, Amsterdam ArenA, Prague get 2013 finals|website=UEFA.org|publisher=Union of European Football Associations |date=16 June 2011}}</ref><ref>{{cite web |title=UEFA EURO 2020, UEFA Super Cup decisions |url=http://www.uefa.org/about-uefa/executive-committee/news/newsid=1836837.html |website=UEFA.org |publisher=Union of European Football Associations |date=30 June 2012 |access-date=18 March 2013 }}</ref>
+
+Bayern Munich became the first German team to win the UEFA Super Cup, beating Chelsea on penalties after extra time.<ref>{{cite web|url=https://www.bbc.co.uk/sport/0/football/23902597|archive-url=https://web.archive.org/web/20130831072020/http://www.bbc.co.uk/sport/0/football/23902597|url-status=dead|archive-date=31 August 2013|title=2013 Super Cup: As it happened |date=31 August 2013|work=BBC Sport|access-date=13 September 2013}}</ref><ref>{{cite web |url=http://espnfc.com/news/story/_/id/1537424/bayern-munich-captain-philipp-lahm-eyes-maiden-super-cup-win |title=Philipp Lahm eyes Super Cup win |date=29 August 2013 |work=ESPN |access-date=30 August 2013 }}</ref> It was also the first time the winner of the Super Cup was determined by a [[Penalty shoot-out (association football)|penalty shoot-out]].<ref>[https://sports.yahoo.com/blogs/soccer-dirty-tackle/victorious-bayern-munich-players-console-romelu-lukaku-decisive-223659118--sow.html Victorious Bayern Munich players console Romelu Lukaku after decisive penalty in UEFA Super Cup]</ref> Chelsea's defeat made them the first team to lose consecutive Super Cups since [[FC Porto|Porto]] in 2004.
+
+==Venue==
+[[File:Praha, Slavia, fotbalový stadion (2).jpg|thumb|304x304px|The [[Eden Arena]].]]
+The [[Eden Arena]] was announced as the venue of the 2013 UEFA Super Cup on 16 June 2011.<ref name="stadium"/> It opened in May 2008 on the site of the [[Stadion Eden (1953)|former Stadion Eden]].<ref>{{cite news|first=Ladislav|last=Josef|title=Prague celebrates 2013 Super Cup honour|url=https://www.uefa.com/uefasupercup/news/0250-0c50f41ca710-696a44dbb39d-1000--prague-celebrates-2013-super-cup-honour/|website=UEFA.com|publisher=Union of European Football Associations|date=17 June 2011|access-date=23 June 2011}}</ref> It is the home stadium of [[SK Slavia Prague]], who play in the [[Czech First League]].<ref>{{cite web|title=Venue guide: Prague|url=https://www.uefa.com/news-media/news/0250-0c50fe2e3a31-8715240c498c-1000--venue-guide-prague/|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|Winners of the [[2012–13 UEFA Champions League]]
+|[[1975 European Super Cup|1975]], [[1976 European Super Cup|1976]], [[2001 UEFA Super Cup|2001]]
+|-
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|Winners of the [[2012–13 UEFA Europa League]]
+|'''[[1998 UEFA Super Cup|1998]]''', [[2012 UEFA Super Cup|2012]]
+|}
+
+==Background==
+The match marked the first ever UEFA Super Cup between a pair of consecutive UEFA Champions League winners—Chelsea won the [[2011–12 UEFA Champions League]], coincidentally defeating Bayern Munich in the [[2012 UEFA Champions League final|final]].<ref>{{cite web|url=https://www.uefa.com/uefasupercup/news/0250-0c50fe1ee222-f37c4256bac9-1000--mourinho-and-guardiola-eye-super-cup-glory/|title=Mourinho and Guardiola eye Super Cup glory|date=29 August 2013|website=UEFA.com |publisher=Union of European Football Associations |access-date=30 August 2013 }}</ref>
+
+The match was the first and, as of 2025, only time since [[2004 UEFA Super Cup|2004]] that both finalists competed without the managers who won their respective UEFA trophies in the previous season, as both [[Jupp Heynckes]] and [[Rafael Benítez]] left the clubs after the conclusion of the previous season. As such, this was also the last Super Cup to be won by a new manager replacing the European winning one. The new managers, [[Pep Guardiola]] and [[José Mourinho]], renewed a rivalry they shared in Spain as managers of [[FC Barcelona|Barcelona]] and [[Real Madrid CF|Real Madrid]] respectively.<ref>{{cite web|url=https://www.theguardian.com/football/2013/aug/29/jose-mourinho-chelsea-bayern-munich|title=Super Cup gives Chelsea chance to signal their intent|date=29 August 2013|work=The Guardian|access-date=30 August 2013 }}</ref> Guardiola had twice won the trophy in his management career, with Barcelona in [[2009 UEFA Super Cup|2009]] and [[2011 UEFA Super Cup|2011]]. Mourinho had competed for the trophy only once in [[2003 UEFA Super Cup|2003]] when his [[FC Porto|Porto]] entered as [[2003 UEFA Cup final|UEFA Cup holders]] and were defeated by [[AC Milan|Milan]]. Since then Mourinho had twice won the Champions League but on each occasion left his club immediately afterwards and therefore did not lead them in to the Super Cup.<ref>{{cite web|url=https://www.uefa.com/printoutfiles/competitions/uefasupercup/2013/E/E_2012139_PK.pdf |archive-url=https://web.archive.org/web/20140513184123/http://www.uefa.com/printoutfiles/competitions/uefasupercup/2013/E/E_2012139_PK.pdf |url-status=dead |archive-date=13 May 2014 |title=Press pack|date=29 August 2013|website=UEFA.com |publisher=Union of European Football Associations |access-date=30 August 2013 }}</ref> He would repeat this exact feat with [[Manchester United F.C.|Manchester United]], losing the [[2017 UEFA Super Cup]] having entered as [[2017 UEFA Europa League final|UEFA Europa League holders]].
+
+==Ticketing==
+The international ticket sales phase for the general public ran from 14 June to 5 July 2013. Tickets were available in three price categories: €130, €90, and €50.<ref>{{cite web|url=https://www.uefa.com/uefasupercup/news/0250-0c50ff9730c9-8eee195069fb-1000--uefa-super-cup-tickets-go-on-sale/|title=UEFA Super Cup tickets go on sale|website=UEFA.com |publisher=Union of European Football Associations |date=14 June 2013 }}</ref> UEFA also launched a charity ticket auction, with all proceeds going to the Centre for Access to Football in Europe.<ref>{{cite web|title=UEFA Super Cup charity ticket auction|url=https://www.facebook.com/EuropaLeague/photos/uefa-has-launched-a-charity-ticket-auction-for-the-uefa-super-cup-between-fc-bay/567354153331815/|date=29 July 2013|website=Facebook: Europa League|publisher=Union of European Football Associations}}</ref> The two clubs were allocated tickets where fans could apply.
+
+==Match==
+
+===Details===
+{{football box
+|date=30 August 2013
+|time=20:45 [[Central European Time#Central European Summer Time|CEST]]
+|team1=[[FC Bayern Munich|Bayern Munich]] {{fbaicon|GER}}
+|score=2–2
+|aet=yes
+|report=https://www.uefa.com/uefasupercup/match/<!--round=2000456/match=-->2012139/
+|team2={{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=[[Franck Ribéry|Ribéry]] {{goal|47}}<br />[[Javi Martínez|Martínez]] {{goal|120+1}}
+|goals2=[[Fernando Torres|Torres]] {{goal|8}}<br />[[Eden Hazard|Hazard]] {{goal|93}}
+|stadium=[[Eden Arena]], [[Prague]]
+|attendance=17,686<ref name="fulltime">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/SuperCup/2013/2012139_FR.pdf |website=UEFA.com |publisher=Union of European Football Associations |date=30 August 2013 |access-date=31 August 2013|format=pdf }}</ref>
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|penalties1=[[David Alaba|Alaba]] {{pengoal}}<br />[[Toni Kroos|Kroos]] {{pengoal}}<br />[[Philipp Lahm|Lahm]] {{pengoal}}<br />[[Franck Ribéry|Ribéry]] {{pengoal}}<br />[[Xherdan Shaqiri|Shaqiri]] {{pengoal}}
+|penaltyscore=5–4
+|penalties2={{pengoal}} [[David Luiz]]<br />{{pengoal}} [[Oscar (footballer, born 1991)|Oscar]]<br />{{pengoal}} [[Frank Lampard|Lampard]]<br />{{pengoal}} [[Ashley Cole|Cole]]<br />{{penmiss}} [[Romelu Lukaku|Lukaku]]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _FCBAYERN_1314h
+ |pattern_b  = _FCBAYERN_1314h
+ |pattern_ra = _FCBAYERN_1314h
+ |pattern_sh = _FCBAYERN_1314h
+ |pattern_so = _FCBAYERN_1314h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = DD0000
+ |title      = Bayern Munich<ref name="line-ups"/>
+}}
+|{{Football kit
+ |pattern_la = _chelsea1314h
+ |pattern_b  = _chelsea1314home
+ |pattern_ra = _chelsea1314h
+ |pattern_sh = _chelsea1314h
+ |pattern_so = _long_chelsea1314h
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Chelsea<ref name="line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Manuel Neuer]]
+|-
+|RB ||'''13'''||{{flagicon|BRA}} [[Rafinha (footballer, born 1985)|Rafinha]] || || {{suboff|56}}
+|-
+|CB ||'''17'''||{{flagicon|GER}} [[Jérôme Boateng]] || {{yel|84}}
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Dante (footballer)|Dante]]
+|-
+|LB ||'''27'''||{{flagicon|AUT}} [[David Alaba]]
+|-
+|DM ||'''21'''||{{flagicon|GER}} [[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|RM ||'''10'''||{{flagicon|NED}} [[Arjen Robben]] || || {{suboff|96}}
+|-
+|CM ||'''25'''||{{flagicon|GER}} [[Thomas Müller]] || || {{suboff|71}}
+|-
+|CM ||'''39'''||{{flagicon|GER}} [[Toni Kroos]]
+|-
+|LM ||'''7''' ||{{flagicon|FRA|1974}} [[Franck Ribéry]] || {{yel|23}}
+|-
+|CF ||'''9''' ||{{flagicon|CRO}} [[Mario Mandžukić]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|GER}} [[Tom Starke]]
+|-
+|DF ||'''5''' ||{{flagicon|BEL}} [[Daniel Van Buyten]]
+|-
+|DF ||'''26'''||{{flagicon|GER}} [[Diego Contento]]
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Javi Martínez]] || || {{subon|56}}
+|-
+|MF ||'''19'''||{{flagicon|GER}} [[Mario Götze]] || || {{subon|71}}
+|-
+|MF ||'''11'''||{{flagicon|SUI}} [[Xherdan Shaqiri]] || || {{subon|96}}
+|-
+|FW ||'''14'''||{{flagicon|PER|football}} [[Claudio Pizarro]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|style="vertical-align:top"|[[File:Bayern Munich vs Chelsea 2013-08-30.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CZE}} [[Petr Čech]]
+|-
+|RB ||'''2''' ||{{flagicon|SRB}} [[Branislav Ivanović]] || {{yel|120}}
+|-
+|CB ||'''24'''||{{flagicon|ENG}} [[Gary Cahill]] || {{yel|41}}
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[David Luiz]] || {{yel|66}}
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Ashley Cole]] || {{yel|118}}
+|-
+|CM ||'''7''' ||{{flagicon|BRA}} [[Ramires]] || {{sent off|2|64|85}}
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Frank Lampard]] ([[Captain (association football)|c]])
+|-
+|RW ||'''14'''||{{flagicon|GER}} [[André Schürrle]] || || {{suboff|87}}
+|-
+|AM ||'''11'''||{{flagicon|BRA}} [[Oscar (footballer, born 1991)|Oscar]]
+|-
+|LW ||'''17'''||{{flagicon|BEL}} [[Eden Hazard]] || || {{suboff|113}}
+|-
+|CF ||'''9''' ||{{flagicon|ESP}} [[Fernando Torres]] || {{yel|90}} || {{suboff|98}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''23'''||{{flagicon|AUS}} [[Mark Schwarzer]]
+|-
+|DF ||'''26'''||{{flagicon|ENG}} [[John Terry]] || || {{subon|113}}
+|-
+|DF ||'''28'''||{{flagicon|ESP}} [[César Azpilicueta]]
+|-
+|MF ||'''5''' ||{{flagicon|GHA}} [[Michael Essien]]
+|-
+|MF ||'''12'''||{{flagicon|NGA}} [[Mikel John Obi]] || || {{subon|87}}
+|-
+|MF ||'''10'''||{{flagicon|ESP}} [[Juan Mata]]
+|-
+|FW ||'''18'''||{{flagicon|BEL}} [[Romelu Lukaku]] || {{yel|99}} || {{subon|98}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|POR}} [[José Mourinho]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Franck Ribéry]] (Bayern Munich)<ref name="man_of_the_match"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Mathias Klasenius ([[Swedish Football Association|Sweden]])
+<br />Daniel Wärnmark ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Stefan Wittberg ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''
+<br />[[Stefan Johannesson]] ([[Swedish Football Association|Sweden]])
+<br />[[Markus Strömbergsson]] ([[Swedish Football Association|Sweden]])
+|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Super Cup 2013 |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/94/62/24/1946224_DOWNLOAD.pdf |archive-url=https://web.archive.org/web/20130514111452/http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/94/62/24/1946224_DOWNLOAD.pdf |url-status=dead |archive-date=14 May 2013 |publisher=Union of European Football Associations |location=Nyon |format=PDF |access-date=1 May 2013 |date=March 2013}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes.
+*Maximum of three substitutions.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |title=Team statistics |url=https://www.uefa.com/newsfiles/SuperCup/2013/2012139_TS.pdf |website=UEFA.com |publisher=Union of European Football Associations |date=30 August 2013 |access-date=15 August 2018 |format=PDF}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Bayern Munich
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|8
+|4
+|-
+!scope=row|Shots on target
+|4
+|1
+|-
+!scope=row|Saves
+|0
+|4
+|-
+!scope=row|Ball possession
+|62%
+|38%
+|-
+!scope=row|Corner kicks
+|2
+|2
+|-
+!scope=row|Fouls committed
+|6
+|10
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Bayern Munich
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|12
+|9
+|-
+!scope=row|Shots on target
+|6
+|7
+|-
+!scope=row|Saves
+|7
+|5
+|-
+!scope=row|Ball possession
+|64%
+|36%
+|-
+!scope=row|Corner kicks
+|4
+|3
+|-
+!scope=row|Fouls committed
+|10
+|10
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|1
+|4
+|-
+!scope=row|Red cards
+|0
+|1
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Bayern Munich
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|17
+|1
+|-
+!scope=row|Shots on target
+|9
+|1
+|-
+!scope=row|Saves
+|0
+|8
+|-
+!scope=row|Ball possession
+|69%
+|31%
+|-
+!scope=row|Corner kicks
+|9
+|0
+|-
+!scope=row|Fouls committed
+|2
+|3
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|0
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Bayern Munich
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|2
+|2
+|-
+!scope=row|Total shots
+|37
+|14
+|-
+!scope=row|Shots on target
+|19
+|9
+|-
+!scope=row|Saves
+|7
+|17
+|-
+!scope=row|Ball possession
+|64%
+|36%
+|-
+!scope=row|Corner kicks
+|15
+|5
+|-
+!scope=row|Fouls committed
+|18
+|23
+|-
+!scope=row|Offsides
+|1
+|4
+|-
+!scope=row|Yellow cards
+|2
+|8
+|-
+!scope=row|Red cards
+|0
+|1
+|}
+{{col-end}}
+
+==See also==
+*[[2013–14 UEFA Champions League]]
+*[[2013–14 UEFA Europa League]]
+*[[2013–14 FC Bayern Munich season]]
+*[[2013–14 Chelsea F.C. season]] 
+*[[2012 UEFA Champions League final]] – contested between same teams
+*[[Chelsea F.C. in international football]]
+*[[FC Bayern Munich in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20130617221431/http://www.uefa.com/uefasupercup/season=2013/final/index.html 2013 UEFA Super Cup], UEFA.com
+
+{{UEFA Super Cup}}
+{{2013–14 in European football (UEFA)}}
+{{2013–14 European club competitions}}
+{{FC Bayern Munich matches}}
+{{Chelsea F.C. matches}}
+
+{{DEFAULTSORT:UEFA Super Cup}}
+[[Category:UEFA Super Cup matches|2013]]
+[[Category:2013 in European men's continental football|Super Cup]]
+[[Category:2013–14 in German football]]
+[[Category:2013–14 in English men's football]]
+[[Category:2013–14 in Czech football]]
+[[Category:FC Bayern Munich matches]]
+[[Category:Chelsea F.C. matches]]
+[[Category:2010s in Prague]]
+[[Category:Football matches in Prague]]
+[[Category:August 2013 sports events in Europe]]

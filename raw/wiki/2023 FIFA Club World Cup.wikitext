@@ -1,0 +1,535 @@
+{{Short description|Football competition in Saudi Arabia}}
+{{For|the Club World Cup tournament of the 2022 season played in early 2023|2022 FIFA Club World Cup}}
+{{Use dmy dates|date=February 2023}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2023
+| other_titles   = FIFA Club World Cup Saudi Arabia 2023 presented by Visit Saudi<br />كأس العالم للأندية لكرة القدم<br />السعودية 2023
+| image          = 2023 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA trophy}}
+| country        = Saudi Arabia
+| dates          = 12–22 December
+| num_teams      = 7
+| confederations = 6
+| venues         = 2
+| cities         = 1
+| champion_other = {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| count          = 1
+| second_other   = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+| third_other    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| fourth_other   = {{fbaicon|JPN}} [[Urawa Red Diamonds]]
+| matches        = 7
+| goals          = 23
+| attendance     = {{#expr: <!--First round-->50248 <!--Second round-->+ 2525 + 56111 <!--Semi-finals-->+ 34986 + 40127 <!--Match for third place-->+ 10290 <!--Final-->+ 52601}}
+| top_scorer     = {{nowrap|{{fbaicon|ARG}} [[Julián Alvarez]] (Manchester City)<br/>{{fbaicon|FRA}} [[Karim Benzema]] ([[Al-Ittihad Club (Jeddah)|Al-Ittihad]])<br/>{{fbaicon|TUN}} [[Ali Maâloul]] (Al Ahly)<br/>2 goals each}}
+| player         = {{fbaicon|ESP}} [[Rodri (footballer, born 1996)|Rodri]] (Manchester City) 
+| fair_play      = {{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]] 
+| prevseason     = [[2022 FIFA Club World Cup|2022]]
+| nextseason     = [[2024 FIFA Intercontinental Cup|2024]] (FIFA Intercontinental Cup) →
+<br/>[[2025 FIFA Club World Cup|2025]] (FIFA Club World Cup)
+}}
+The '''2023 FIFA Club World Cup''' (officially titled the '''FIFA Club World Cup Saudi Arabia 2023 presented by Visit Saudi''' for sponsorship purposes) was the 20th edition of the [[FIFA Club World Cup]]  and the final  edition held under the previous format. Organised by [[FIFA]], the tournament featured seven teams comprising the winners of each of the six continental confederations' top club competitions, along with the champions of the host nation's domestic league. It was held in [[Saudi Arabia]] from 12 to 22 December 2023.<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/saudi-arabia-to-host-club-world-cup-december-2023 |title=Saudi Arabia to host Club World Cup in December |publisher=[[FIFA]] |date=14 February 2023 |access-date=16 February 2023}}</ref>
+
+[[Real Madrid CF|Real Madrid]] were the defending champions, but were not able to defend their title after being eliminated in the [[2022–23 UEFA Champions League knockout phase#Semi-finals|semi-finals]] of the [[2022–23 UEFA Champions League]] by eventual winners [[Manchester City F.C.|Manchester City]].<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/real-madrid-al-hilal-final-report-review-vinicius-junior-federico-valverde-club-world-cup-morocco-2022 |title=Vinicius and Valverde dazzle as five-star Madrid conquer |publisher=[[FIFA]] |date=11 February 2023 |access-date=11 February 2023}}</ref> The English team won the edition by beating the Brazilian team [[Fluminense FC|Fluminense]] 4–0 in the [[2023 FIFA Club World Cup final|final]], claiming their first title. This edition marked the conclusion of the Club World Cup's seven-team format, which had been in place since the competition's inception in 2000 (with the exception of 2001 when the tournament was cancelled). It was the last before the tournament's expansion to a 32-team event beginning with the [[2025 FIFA Club World Cup|2025 edition]].<ref>{{cite web |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-approves-international-match-calendars |title=FIFA Council approves international match calendars |publisher=[[FIFA]] |date=14 March 2023 |access-date=14 March 2023}}</ref>
+
+==Host appointment==
+Although an expanded, quadrennial Club World Cup was planned for 2025,<ref>{{cite web |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-world-cup-2022-tm-praised-for-its-unique-cohesive-power |title=FIFA World Cup 2022 praised for its "unique cohesive power" |publisher=[[FIFA]] |date=16 December 2022 |access-date=16 December 2022 |archive-date=16 December 2022 |archive-url=https://web.archive.org/web/20221216112022/https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-world-cup-2022-tm-praised-for-its-unique-cohesive-power |url-status=live}}</ref> FIFA confirmed on 13 February 2023 that a 2023 tournament would be held using the previous seven-team format.<ref>{{cite web |url=https://digitalhub.fifa.com/m/465cdd9ef52d548a/original/Agenda-Council-meeting-no-22_EN.pdf |title=Agenda of meeting no. 22 of the FIFA Council |publisher=[[FIFA]] |date=13 February 2023 |access-date=13 February 2023}}</ref> Earlier that month, ''[[Universo Online|UOL Esporte]]'' reported that Saudi Arabia were interested in hosting the 2023 and 2024 Club World Cup tournaments.<ref>{{cite news |last=Rizzo |first=Marcel |url=https://www.uol.com.br/esporte/futebol/colunas/marcel-rizzo/2023/02/10/mundial-de-clubes-fifa-flamengo-real-madrid-arabia-saudita.htm |title=Mundial de Clubes: Arábia Saudita cotada para receber edições 2023 e 2024 |trans-title=Club World Cup: Saudi Arabia tipped to host 2023 and 2024 editions |work=[[Universo Online]] |date=10 February 2023 |access-date=13 February 2023 |language=pt}}</ref> On 14 February, the [[FIFA Council]] confirmed Saudi Arabia as the host for the 2023 tournament.<ref>{{cite news |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-highlights-record-breaking-revenue-in-football |title=FIFA Council highlights record breaking revenue in football |publisher=[[FIFA]] |date=14 February 2023 |access-date=14 February 2023}}</ref>
+
+==Qualified teams==
+{{Location map+|World|width=450|float=left|caption=Location of the teams participating in the 2023 FIFA Club World Cup.|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-22.912147|long=-43.230187|label_size=80|label=[[Fluminense FC|Fluminense]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=53.48316|long=-2.20021|label_size=80|label=[[Manchester City F.C.|Manchester City]]|position=right}}
+<!--AFC-->
+{{Location map~|World|lat=35.903111|long=139.717601|label_size=80|label=[[Urawa Red Diamonds]]|position=left}}
+<!--CAF-->
+{{Location map~|World|lat=30.069114|long=31.312333|label_size=80|label=[[Al Ahly SC|Al Ahly]]|position=left}}
+<!--CONCACAF-->
+{{Location map~|World|lat=21.116|long=-101.658|label_size=80|label=[[Club León|León]]|position=left}} 
+<!--OFC-->
+{{Location map~|World|lat=-36.898035|long=174.736502|label_size=80|label=[[Auckland City FC|Auckland City]]|position=left}}
+<!--Host-->
+{{Location map~|World|lat=21.763187|long=39.164327|label_size=80|label=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|position=right}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Qualified date
+!Participation
+|-
+!colspan=5|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|[[CONMEBOL]]
+|Winners of the [[2023 Copa Libertadores]]
+|4 November 2023
+|Debut
+|-
+|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|[[UEFA]]
+|Winners of the [[2022–23 UEFA Champions League]]
+|10 June 2023
+|Debut
+|-
+!colspan=5|Entering in the [[#Second round|second round]]
+|-
+|{{fbaicon|JPN}} [[Urawa Red Diamonds]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2022 AFC Champions League]]
+|26 February 2023{{refn|group=note|Urawa Red Diamonds qualified on 26 February 2023 when Saudi Arabian club [[Al Hilal SFC|Al-Hilal]] were confirmed as their opponents in the final. If a team from the host country had won the AFC Champions League, the runners-up of the AFC Champions League would have been invited in place of the host league winners. Urawa Red Diamonds won the AFC Champions League on 6 May 2023, confirming their second round entrance.}}
+|3rd {{small|(Previous: [[2007 FIFA Club World Cup|2007]], [[2017 FIFA Club World Cup|2017]])}}
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2022–23 CAF Champions League]]
+|11 June 2023
+|9th {{small|(Previous: [[2005 FIFA Club World Championship|2005]], [[2006 FIFA Club World Cup|2006]], [[2008 FIFA Club World Cup|2008]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]], [[2020 FIFA Club World Cup|2020]], [[2021 FIFA Club World Cup|2021]], [[2022 FIFA Club World Cup|2022]])}}
+|-
+|{{fbaicon|MEX}} [[Club León|León]]
+|[[CONCACAF]]
+|Winners of the [[2023 CONCACAF Champions League]]
+|4 June 2023
+|Debut
+|-
+!colspan=5|Entering in the [[#First round|first round]]
+|-
+|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2023 OFC Champions League]]
+|27 May 2023
+|11th {{small|(Previous: [[2006 FIFA Club World Cup|2006]], [[2009 FIFA Club World Cup|2009]], [[2011 FIFA Club World Cup|2011]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]], [[2014 FIFA Club World Cup|2014]], [[2015 FIFA Club World Cup|2015]], [[2016 FIFA Club World Cup|2016]], [[2017 FIFA Club World Cup|2017]], [[2022 FIFA Club World Cup|2022]])}}
+|-
+|{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|[[Asian Football Confederation|AFC]] ([[Saudi Arabian Football Federation|host]])
+|Winners of the [[2022–23 Saudi Pro League]]
+|27 May 2023
+|2nd {{small|(Previous: [[2005 FIFA Club World Championship|2005]])}}
+|}
+'''Notes'''
+{{reflist|group=note}}
+
+==Venues==
+On 26 June 2023, [[FIFA]] and the [[Saudi Arabian Football Federation]] (SAFF) confirmed that all matches in the tournament would be played in the city of [[Jeddah]] in two stadiums.<ref>{{cite web|url=https://www.fifa.com/about-fifa/organisation/news/fifa-club-world-cup-saudi-arabia-2023-host-city-confirmed|title=FIFA Club World Cup Saudi Arabia 2023 host city confirmed|publisher=FIFA|date=26 June 2023}}</ref>
+
+{| class="wikitable" style="margin:1em auto; text-align:center;"
+|-
+! rowspan="4" |{{Location map+|Saudi Arabia|border=|caption=Location of the host city of the 2023 FIFA Club World Cup.|float=center|width=320|places={{Location map~|Saudi Arabia|lat=21.543333|long=39.172778|position=left|label=[[Jeddah]]}}}}
+! colspan="2" |[[Jeddah]]
+|-
+| [[King Abdullah Sports City Stadium]]
+| [[Prince Abdullah Al-Faisal Sports City Stadium]]
+|-
+| Capacity: '''62,345'''
+| Capacity: '''27,000'''
+|-
+| [[File:Jawhara Stadium.jpg|200x200px]]
+| [[File:Prince Abdullah Al-Faisal Sports City.jpg|200x200px]]
+|}
+
+==Match officials==
+On 3 November 2023, FIFA announced that five [[Referee (association football)|referees]], ten [[Assistant referee (association football)|assistant referees]] and eight [[video assistant referee]]s were appointed for the tournament.<ref>{{cite web |url=https://www.fifa.com/technical/refereeing/news/match-officials-appointed-for-fifa-club-world-cup-saudi-arabia-2023-tm |title=Match officials appointed for FIFA Club World Cup Saudi Arabia 2023 |publisher=[[FIFA]] |date=3 November 2023 |access-date=3 November 2023 }}</ref><ref>{{cite web |url=https://digitalhub.fifa.com/m/69c79f3d6a676816/original/MEDIA-List-of-appointed-match-officials-FCWC-2023-Saudi-Arabia.pdf |title=FIFA Club World Cup 2023 – List of Appointed FIFA Match Officials |publisher=[[FIFA]] |date=3 November 2023 |access-date=3 November 2023 }}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referees
+!Assistant referees
+!Video assistant referees
+|-
+|[[Asian Football Confederation|AFC]]
+|[[Mohammed Al-Hoish]] ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|{{unbulleted list|[[Khalaf Al-Shammari]] ([[Saudi Arabian Football Federation|Saudi Arabia]])|[[Yasir Al-Sultan]] ([[Saudi Arabian Football Federation|Saudi Arabia]])}}
+|[[Khamis Al-Marri]] ([[Qatar Football Association|Qatar]])
+|-
+|[[Confederation of African Football|CAF]]
+|[[Jean-Jacques Ndala]] ([[Congolese Association Football Federation|DR Congo]])
+|{{unbulleted list|Elvis Noupue ([[Cameroonian Football Federation|Cameroon]])|Arsenio Maringule ([[Mozambican Football Federation|Mozambique]])}}
+|[[Adil Zourak]] ([[Royal Moroccan Football Federation|Morocco]])
+|-
+|[[CONCACAF]]
+|[[Tori Penso]] ([[United States Soccer Federation|United States]])
+|{{unbulleted list|Brooke Mayo ([[United States Soccer Federation|United States]])|Kathryn Nesbitt ([[United States Soccer Federation|United States]])}}
+|[[Tatiana Guzmán]] ([[Nicaraguan Football Federation|Nicaragua]])
+|-
+|[[CONMEBOL]]
+|[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|{{unbulleted list|Jorge Urrego ([[Venezuelan Football Federation|Venezuela]])|Tulio Moreno ([[Venezuelan Football Federation|Venezuela]])}}
+|{{unbulleted list|[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])|[[Juan Lara (referee)|Juan Lara]] ([[Football Federation of Chile|Chile]])}}
+|-
+|[[UEFA]]
+|[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|{{unbulleted list|Tomasz Listkiewicz ([[Polish Football Association|Poland]])|Adam Kupsik ([[Polish Football Association|Poland]])}}
+|{{unbulleted list|[[Tomasz Kwiatkowski]] ([[Polish Football Association|Poland]])|[[Alejandro Hernández Hernández]] ([[Royal Spanish Football Federation|Spain]])|[[Ivan Bebek]] ([[Croatian Football Federation|Croatia]])}}
+|}
+
+One support referee was also named for the tournament.
+
+{| class="wikitable"
+|-
+!Confederation
+!Support referee
+|-
+|[[Oceania Football Confederation|OFC]]
+| [[Campbell-Kirk Kawana-Waugh]] ([[New Zealand Football|New Zealand]])
+|}
+
+==Squads==
+{{main|2023 FIFA Club World Cup squads}}
+
+Each team had to name a 23-man squad (three of whom had to be goalkeepers). Injury replacements were allowed until 24 hours before the team's first match.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/545939e64e3b535/original/FCWC23-Regulations-EN.pdf |title=Regulations for the FIFA Club World Cup Saudi Arabia 2023 |publisher=[[FIFA]] |date=June 2023 |access-date=1 November 2023 }}</ref>
+
+==Matches==
+If a match was tied after normal playing time:<ref name="regulations"/>
+
+*For elimination matches, [[Overtime (sports)#Association football|extra time]] was played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] was held to determine the winner.
+*For the match for third place, no extra time would be played, and a penalty shoot-out would be held to determine the winner.
+
+===Bracket===
+{{7TeamBracket-StepladderToSF
+| style        = 4
+| seeds        = no
+| team-width   = 170
+| score-width  = 40
+| nowrap       = y
+| boldwinner   = y
+| RD1          = [[#First round|First round]]
+| RD2          = [[#Second round|Second round]]
+| RD3          = [[#Semi-finals|Semi-finals]]
+| RD4          = [[#Final|Final]]
+| RD4b         = [[#Match for third place|Match for third place]]
+
+<!-- First round -->
+| RD1-details1 = 12 December – [[Jeddah]] ([[King Abdullah Sports City Stadium|KASCSS]])
+| RD1-team1    = {{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+| RD1-score1   = 3
+| RD1-team2    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD1-score2   = 0
+
+<!-- Second round -->
+| RD2-details1 = 15 December – [[Jeddah]] ([[Prince Abdullah Al-Faisal Sports City Stadium|PAAFSS]])
+| RD2-team1    = {{fbaicon|MEX}} [[Club León|León]]
+| RD2-score1   = 0
+| RD2-team2    = {{fbaicon|JPN}} [[Urawa Red Diamonds]]
+| RD2-score2   = 1
+
+| RD2-details2 = 15 December – [[Jeddah]] ([[King Abdullah Sports City Stadium|KASCSS]])
+| RD2-team3    = {{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]
+| RD2-score3   = 3
+| RD2-team4    = {{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+| RD2-score4   = 1
+
+<!-- Semi-finals -->
+| RD3-details1 = 19 December – [[Jeddah]] ([[King Abdullah Sports City Stadium|KASCSS]])
+| RD3-team1    = {{fbaicon|JPN}} [[Urawa Red Diamonds]]
+| RD3-score1   = 0
+| RD3-team2    = {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| RD3-score2   = 3
+
+| RD3-details2 = 18 December – [[Jeddah]] ([[King Abdullah Sports City Stadium|KASCSS]])
+| RD3-team3    = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+| RD3-score3   = 2
+| RD3-team4    = {{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]
+| RD3-score4   = 0
+
+<!-- Final -->
+| RD4-details1 = 22 December – [[Jeddah]] ([[King Abdullah Sports City Stadium|KASCSS]])
+| RD4-team1    = {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| RD4-score1   = 4
+| RD4-team2    = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+| RD4-score2   = 0
+
+<!-- Match for third place -->
+| RD4-details2 = 22 December – [[Jeddah]] ([[Prince Abdullah Al-Faisal Sports City Stadium|PAAFSS]])
+| RD4-team3    = {{fbaicon|JPN}} [[Urawa Red Diamonds]]
+| RD4-score3   = 2
+| RD4-team4    = {{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]
+| RD4-score4   = 4
+}}
+
+All times are local, [[Saudi Arabia Standard Time|SAST]] ([[UTC+03:00|UTC+3]]).<ref>{{cite web |url=https://digitalhub.fifa.com/m/439508d6da35a1dd/original/FIFA-Club-World-Cup-Saudi-Arabia-2023-Match-Schedule.pdf |title=Match Schedule: FIFA Club World Cup Saudi Arabia 2023 |publisher=[[FIFA]] |date=6 November 2023 |access-date=7 November 2023 }}</ref>
+
+===First round===
+{{Football box
+| date = {{Start date|2023|12|12|df=y}}
+| time = 21:00
+| team1 = [[Al-Ittihad Club (Jeddah)|Al-Ittihad]] {{fbaicon|KSA}}
+| score = 3–0
+| report = https://www.fifa.com/fifaplus/en/match-centre/match/107/287833/287836/400017369
+| team2 = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| goals1 = 
+*[[Romarinho (footballer, born December 1990)|Romarinho]] {{goal|29}}
+*[[N'Golo Kanté|Kanté]] {{goal|34}}
+*[[Karim Benzema|Benzema]] {{goal|40}}
+| goals2 = 
+| stadium = [[King Abdullah Sports City Stadium]], [[Jeddah]]
+| attendance = 50,248
+| referee = [[Tori Penso]] ([[United States Soccer Federation|United States]])
+}}
+
+===Second round===
+{{Football box
+| date = {{Start date|2023|12|15|df=y}}
+| time = 17:30
+| team1 = [[Club León|León]] {{fbaicon|MEX}}
+| score = 0–1
+| report = https://www.fifa.com/fifaplus/en/match-centre/match/107/287833/287835/400017368
+| team2 = {{fbaicon|JPN}} [[Urawa Red Diamonds]]
+| goals1 = 
+| goals2 = *[[Alex Schalk|Schalk]] {{goal|78}}
+| stadium = [[Prince Abdullah Al-Faisal Sports City Stadium]], [[Jeddah]]
+| attendance = 2,525
+| referee = Jean-Jacques Ndala ([[Congolese Association Football Federation|DR Congo]])
+}}
+----
+{{Football box
+| date = {{Start date|2023|12|15|df=y}}
+| time = 21:00
+| team1 = [[Al Ahly FC|Al Ahly]] {{fbaicon|EGY}}
+| score = 3–1
+| report = https://www.fifa.com/fifaplus/en/match-centre/match/107/287833/287835/400017367
+| team2 = {{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+| goals1 = *[[Ali Maâloul|Maâloul]] {{goal|21|pen.}}
+*[[Hussein El Shahat|El Shahat]] {{goal|59}}
+*[[Emam Ashour|Ashour]] {{goal|62}}
+| goals2 = *[[Karim Benzema|Benzema]] {{goal|90+2}}
+| stadium = [[King Abdullah Sports City Stadium]], [[Jeddah]]
+| attendance = 56,111
+| referee = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+}}
+
+===Semi-finals===
+{{Football box
+| date = {{Start date|2023|12|18|df=y}}
+| time = 21:00
+| team1 = [[Fluminense FC|Fluminense]] {{fbaicon|BRA}}
+| score = 2–0
+| report = https://www.fifa.com/fifaplus/en/match-centre/match/107/287833/287838/400017370
+| team2 = {{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]
+| goals1 = *[[Jhon Arias (footballer)|Arias]] {{goal|71|pen.}}
+*[[John Kennedy (footballer, born 2002)|Kennedy]] {{goal|90}}
+| goals2 = 
+| stadium = [[King Abdullah Sports City Stadium]], [[Jeddah]]
+| attendance = 34,986
+| referee = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+}}
+----
+{{Football box
+| date = {{Start date|2023|12|19|df=y}}
+| time = 21:00
+| team1 = [[Urawa Red Diamonds]] {{fbaicon|JPN}}
+| score = 0–3
+| report = https://www.fifa.com/fifaplus/en/match-centre/match/107/287833/287838/400017371
+| team2 = {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| goals1 = 
+| goals2 = *[[Marius Høibråten|Høibråten]] {{goal|45+1|o.g.}}
+*[[Mateo Kovačić|Kovačić]] {{goal|52}}
+*[[Bernardo Silva|Silva]] {{goal|59}}
+| stadium = [[King Abdullah Sports City Stadium]], [[Jeddah]]
+| attendance = 40,127
+| referee = Mohammed Al Hoish ([[Saudi Arabian Football Federation|Saudi Arabia]])
+}}
+
+===Match for third place===
+{{Football box
+| date = {{Start date|2023|12|22|df=y}}
+| time = 17:30
+| team1 = [[Urawa Red Diamonds]] {{fbaicon|JPN}}
+| score = 2–4
+| report = https://www.fifa.com/fifaplus/en/match-centre/match/107/287833/287840/400017373
+| team2 = {{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]
+| goals1 = *[[José Kanté|Kanté]] {{goal|43}}
+*[[Alexander Scholz|Scholz]] {{goal|54|pen.}}
+| goals2 = *[[Yasser Ibrahim|Ibrahim]] {{goal|19}}
+*[[Percy Tau|Tau]] {{goal|25}}
+*[[Yoshio Koizumi|Koizumi]] {{goal|60|o.g.}}
+*[[Ali Maâloul|Maâloul]] {{goal|90+8}}
+| stadium = [[Prince Abdullah Al-Faisal Sports City Stadium]], [[Jeddah]]
+| attendance = 10,290
+| referee = [[Tori Penso]] ([[United States Soccer Federation|United States]])
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+
+===Final===
+{{main|2023 FIFA Club World Cup final}}
+
+{{:2023 FIFA Club World Cup final}}
+
+==Goalscorers==
+{|class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|rowspan="3"|1
+|style="text-align:left"|{{flagicon|ARG}} [[Julián Alvarez]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|rowspan="3"|2
+|-
+|style="text-align:left"|{{flagicon|FRA}} [[Karim Benzema]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|-
+|style="text-align:left"|{{flagicon|TUN}} [[Ali Maâloul]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]
+|-
+|rowspan="14"|4
+|style="text-align:left"|{{flagicon|COL}} [[Jhon Arias (footballer)|Jhon Arias]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|rowspan="14"|1
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Emam Ashour]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|POR}} [[Bernardo Silva]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Hussein El Shahat]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|ENG}} [[Phil Foden]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Yasser Ibrahim]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|GUI}} [[José Kanté]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Urawa Red Diamonds]]
+|-
+|style="text-align:left"|{{flagicon|FRA}} [[N'Golo Kanté]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[John Kennedy (footballer, born 2002)|John Kennedy]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|-
+|style="text-align:left"|{{flagicon|CRO}} [[Mateo Kovačić]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Romarinho (footballer, born December 1990)|Romarinho]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|-
+|style="text-align:left"|{{flagicon|NED}} [[Alex Schalk]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Urawa Red Diamonds]]
+|-
+|style="text-align:left"|{{flagicon|DEN}} [[Alexander Scholz]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Urawa Red Diamonds]]
+|-
+|style="text-align:left"|{{flagicon|RSA}} [[Percy Tau]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]
+|}
+
+'''1 own goal'''
+*{{flagicon|NOR}} [[Marius Høibråten]] ([[Urawa Red Diamonds]], against [[Manchester City F.C.|Manchester City]])
+*{{flagicon|JPN}} [[Yoshio Koizumi]] ([[Urawa Red Diamonds]], against [[Al Ahly FC|Al Ahly]])
+*{{flagicon|BRA}} [[Nino (footballer, born 1997)|Nino]] ([[Fluminense FC|Fluminense]], against [[Manchester City F.C.|Manchester City]])
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+The following awards were given at the conclusion of the tournament. [[Rodri (footballer, born 1996)|Rodri]] of [[Manchester City F.C.|Manchester City]] won the [[FIFA Club World Cup awards#Golden Ball|Golden Ball]] award.<ref>{{Cite web |date=22 December 2023 |title=Rodri wins adidas Golden Ball as City reign |url=https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/saudi-arabia-2023/articles/award-winners-revealed-manchester-city-rodri-walker-arias |access-date=22 December 2023 |website=[[FIFA]]}}</ref>
+
+{| class="wikitable" style="text-align:center"
+! style="background:gold; width:33%" |Golden Ball
+! style="background:silver; width:33%" |Silver Ball
+! style="background:#CC9966; width:33%" |Bronze Ball
+|-
+|{{flagicon|ESP}} [[Rodri (footballer, born 1996)|Rodri]]<br/>([[Manchester City F.C.|Manchester City]])
+|{{flagicon|ENG}} [[Kyle Walker]]<br/>([[Manchester City F.C.|Manchester City]])
+|{{flagicon|COL}} [[Jhon Arias (footballer)|Jhon Arias]]<br/>([[Fluminense FC|Fluminense]])
+|-
+! colspan="3" |FIFA Fair Play Award
+|-
+| colspan="3" |{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|}
+FIFA also named a [[man of the match]] for the best player in each game at the tournament.
+
+{| class="wikitable sortable"
+|+ Man of the Match 
+|-
+! Match
+! Man of the match
+! Club
+! Opponent
+! class="unsortable" | {{abbr|Ref.|Reference}}
+|-
+!1
+|{{flagicon|FRA}} [[N'Golo Kanté]]||{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]||{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/saudi-arabia-2023/articles/al-ahly-al-ittihad-review-report-highlights |title=Stylish Ittihad set up Ahly showdown |publisher=[[FIFA]] |date=12 December 2023 |access-date=12 December 2023 }}</ref>
+|-
+!2
+|{{flagicon|EGY}} [[Marwan Attia]]||{{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]||{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/saudi-arabia-2023/articles/al-ahly-al-ittihad-review-report-highlights |title=Al Ahly stun Al Ittihad to set up Flu showdown |publisher=[[FIFA]] |date=15 December 2023 |access-date=15 December 2023 }}</ref>
+|-
+!3
+|{{flagicon|JPN}} [[Yoshio Koizumi]]||{{fbaicon|JPN}} [[Urawa Red Diamonds]]||{{fbaicon|MEX}} [[Club León|León]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/saudi-arabia-2023/articles/urawa-reds-leon-club-world-cup-report-highlights |title=Schalk strikes as Reds set up City semi |publisher=[[FIFA]] |date=15 December 2023 |access-date=15 December 2023 }}</ref>
+|-
+!4
+|{{flagicon|BRA}} [[André (footballer, born 2001)|André]]||{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]||{{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/saudi-arabia-2023/articles/fluminense-al-ahly-review-report |title=Fluminense make final after spirited Al Ahly win |publisher=[[FIFA]] |date=18 December 2023 |access-date=18 December 2023 }}</ref>
+|-
+!5
+|{{flagicon|ESP}} [[Rodri (footballer, born 1996)|Rodri]]||{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]||{{fbaicon|JPN}} [[Urawa Red Diamonds]] 
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/urawa-reds-manchester-city-report-review |title=City cruise to set up Fluminense final |publisher=[[FIFA]] |date=19 December 2023 |access-date=19 December 2023 }}</ref>
+|-
+!6
+|{{flagicon|EGY}} [[Emam Ashour]]||{{fbaicon|EGY}} [[Al Ahly FC|Al Ahly]]||{{fbaicon|JPN}} [[Urawa Red Diamonds]] 
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/saudi-arabia-2023/articles/al-ahly-claim-bronze-urawa-reds-third-place-match |title=Al Ahly claim bronze after six-goal thriller |publisher=[[FIFA]] |date=22 December 2023 |access-date=22 December 2023 }}</ref>
+|-
+!7
+|{{flagicon|ARG}} [[Julián Alvarez]]||{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]||{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/saudi-arabia-2023/articles/manchester-city-fluminense-final-review-champions-title |title=Clinical City clinch maiden Club World Cup title |publisher=[[FIFA]] |date=22 December 2023 |access-date=22 December 2023 }}</ref>
+|}
+
+== Sponsorship ==
+{{Unreferenced section|date=January 2024}}
+'''Presenting Partner'''
+
+* [[Saudi Tourism Authority|Visit Saudi]]
+
+'''FIFA Partners'''
+
+* [[Adidas]]
+* [[Coca-Cola]]
+* [[Qatar Airways]]
+* [[Visa Inc.|Visa]]
+* [[Wanda Group]]
+
+'''Tournament Supporters'''
+
+* Sulaiman Al Habib Medical Group
+* Jahez
+* Jeddah Central
+* Jeddah Historic District
+* [[Neom]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Official website|https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/saudi-arabia-2023}}
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2023 FIFA Club World Cup| ]]
+[[Category:FIFA Club World Cup tournaments|2023]]
+[[Category:2023 in men's association football|Club World Cup]]
+[[Category:2023–24 in Saudi Arabian football]]
+[[Category:December 2023 sports events in Saudi Arabia]]
+[[Category:Men's football competitions in Saudi Arabia]]
+[[Category:Football club competitions in Saudi Arabia]]
+[[Category:2023–24 in English men's football]]
+[[Category:2023–24 in Egyptian football]]
+[[Category:2023–24 in Mexican football]]
+[[Category:2023 in Brazilian football]]
+[[Category:2023 in Japanese football]]
+[[Category:2023 in New Zealand association football]]
+[[Category:Sport in Jeddah]]

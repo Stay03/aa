@@ -1,0 +1,511 @@
+{{Infobox football match
+| title              = 2016 FIFA Club World Cup final
+| event              = [[2016 FIFA Club World Cup]]
+| image              = 2016 FIFA Club World Cup Final programme.jpg
+| caption            = Match program me
+| team1              = [[Real Madrid CF|Real Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 4
+| team2              = [[Kashima Antlers]]
+| team2association   = {{fbaicon|JPN|size=30px}}
+| team2score         = 2
+| details            = After [[Overtime (sports)#Association football|extra time]]
+| date               = {{Start date|2016|12|18|df=y}}
+| stadium            = [[International Stadium Yokohama]]
+| city               = [[Yokohama]]
+| man_of_the_match1a = [[Cristiano Ronaldo]] {{nowrap|(Real Madrid)}}<ref name="match overview"/>
+| referee            = [[Janny Sikazwe]] ([[Football Association of Zambia|Zambia]])<ref name="match overview">{{cite web |url=https://www.fifa.com/clubworldcup/matches/round=276112/match=300364984/index.html |archive-url=https://web.archive.org/web/20161217210729/http://www.fifa.com/clubworldcup/matches/round=276112/match=300364984/index.html |url-status=dead |archive-date=December 17, 2016 |title=Match overview Real Madrid, C.F. - Kashima Antlers |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 December 2016 |access-date=16 December 2016}}</ref>
+| attendance         = 68,742<ref name="match report"/>
+| weather            = Partly cloudy<br />{{convert|10|°C|°F|abbr=on}}<br />82% [[humidity]]<ref name="match overview"/>
+| previous           = [[2015 FIFA Club World Cup final|2015]]
+| next               = [[2017 FIFA Club World Cup final|2017]]
+}}
+The '''2016 FIFA Club World Cup final''' was the final match of the [[2016 FIFA Club World Cup]], an [[association football]] tournament hosted by [[Japan]]. It was the 13th final of the [[FIFA Club World Cup]], a [[FIFA]]-organised tournament between the winners of the six continental confederations, as well as the host nation's league champions.
+
+The final was contested between Spanish club [[Real Madrid CF|Real Madrid]], representing [[UEFA]] as the reigning champions of the [[UEFA Champions League]], and Japanese club [[Kashima Antlers]], representing the host country as the reigning champions of the [[J1 League]]. It was the first time a team from Asia played in the final. The match was played at the [[International Stadium Yokohama]] in [[Yokohama]] on 18 December 2016.<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/81/20/44/fcwc2016_matchschedule_newformat_04122016_neutral.pdf |archive-url=https://web.archive.org/web/20161213043223/http://resources.fifa.com/mm/document/tournament/competition/02/81/20/44/fcwc2016_matchschedule_newformat_04122016_neutral.pdf |url-status=dead |archive-date=December 13, 2016 |title=Match Schedule – FIFA Club World Cup Japan 2016 |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=15 July 2016 |access-date=15 July 2016}}</ref>
+
+Real Madrid won the match 4–2 after [[Overtime (sports)#Association football|extra time]] to claim their 2nd title.<ref name="match summary">{{cite news |url=https://www.fifa.com/clubworldcup/matches/round=276112/match=300364984/match-report.html |archive-url=https://web.archive.org/web/20161220125922/http://www.fifa.com/clubworldcup/matches/round=276112/match=300364984/match-report.html |url-status=dead |archive-date=December 20, 2016 |title=Ronaldo hat-trick sees off spirited Kashima |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 December 2016 |access-date=18 December 2016}}</ref>
+
+==Background==
+Kashima Antlers became the first Asian club to reach the FIFA Club World Cup final.<ref>{{cite news |url=https://www.bbc.com/sport/football/38318258 |title=Atletico Nacional 0 Kashima Antlers 3 |website=[[BBC Sport]] |publisher=British Broadcasting Corporation |date=14 December 2016 |access-date=15 December 2016}}</ref> It was also the first time that an Asian club won against a South American side in the history of the competition, and the third time that South American champions failed to qualify for the final, after the [[2010 FIFA Club World Cup|2010]] and [[2013 FIFA Club World Cup|2013]] editions.<ref>{{cite news |url=https://www.theguardian.com/football/2016/dec/14/kashima-antlers-beat-atletico-nacional-reach-club-world-cup-final |title=Kashima Antlers beat Atlético Nacional to reach Club World Cup final |website=[[theguardian.com]] |publisher=The Guardian |date=14 December 2016 |access-date=15 December 2016}}</ref>
+
+For Real Madrid, the match was their second final, after having won the [[2014 FIFA Club World Cup Final|2014 final]].<ref>{{cite news |url=https://www.fifa.com/clubworldcup/matches/round=276112/match=300364984/preview.html |archive-url=https://web.archive.org/web/20161218131632/http://www.fifa.com/clubworldcup/matches/round=276112/match=300364984/preview.html |url-status=dead |archive-date=December 18, 2016 |title=Favourites face surprise package in Yokohama |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 December 2016 |access-date=16 December 2016}}</ref> This was the 12th time in 13 tournaments in which a European team made it to the final.
+
+==Route to the final==
+{| class="wikitable"
+|-
+!width=350 colspan=2|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+!Team
+!width=350 colspan=2|{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+|align=center colspan=2|[[UEFA]]
+!Confederation
+|align=center colspan=2|[[Asian Football Confederation|AFC]] ([[Japan Football Association|host]])
+|-
+|align=center colspan=2|Winners of the [[2015–16 UEFA Champions League]]
+!Qualification
+|align=center colspan=2|Winners of the [[2016 J1 League]]
+|- style="background:#c1e0ff"
+|align=center|Opponent
+|align=center|Result
+|align=center|[[2016 FIFA Club World Cup]]
+|align=center|Opponent
+|align=center|Result
+|-
+|align=center rowspan=2 colspan=2|''Bye''
+|align=center style="background:#c1e0ff"|First round
+|align=center|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|align=center|[[2016 FIFA Club World Cup#Kashima Antlers v Auckland City|2–1]]
+|-
+|align=center style="background:#c1e0ff"|Second round
+|align=center|{{fbaicon|RSA}} [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+|align=center|[[2016 FIFA Club World Cup#Mamelodi Sundowns v Kashima Antlers|2–0]]
+|-
+|align=center|{{fbaicon|MEX}} [[Club América|América]]
+|align=center|[[2016 FIFA Club World Cup#América v Real Madrid|2–0]]
+|align=center style="background:#c1e0ff"|Semi-finals
+|align=center|{{fbaicon|COL}} [[Atlético Nacional]]
+|align=center|[[2016 FIFA Club World Cup#Atlético Nacional v Kashima Antlers|3–0]]
+|}
+
+===Real Madrid===
+Real Madrid entered the competition in the semi-finals, facing Mexican side and [[2015–16 CONCACAF Champions League|CONCACAF Champions League]] winners [[Club América|América]]. [[Karim Benzema]] opened the scoring for Real in first half stoppage time, putting them ahead at the break. [[Cristiano Ronaldo]] secured the 2–0 victory and final spot for ''Los Blancos'' with a goal in second half stoppage time.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/matches/round=276110/match=300364982/match-report.html |archive-url=https://web.archive.org/web/20161216162358/http://www.fifa.com/clubworldcup/matches/round=276110/match=300364982/match-report.html |url-status=dead |archive-date=December 16, 2016 |title=Real overcome America to reach final |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=15 December 2016 |access-date=18 December 2016}}</ref>
+
+===Kashima Antlers===
+Kashima Antlers started the tournament in the quarter-final play-off, facing New Zealand side [[Auckland City FC|Auckland City]], winners of the [[2016 OFC Champions League|OFC Champions League]]. Auckland opened the scoring via a goal from [[Kim Dae-wook]] in the 50th minute. Seventeen minutes later, [[Shuhei Akasaki]] equalised for the hosts. With two minutes remaining, [[Mu Kanazaki]] grabbed the late winner, sending Kashima through to the quarter-finals with a 2–1 win.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/matches/round=276106/match=300364978/match-report.html |archive-url=https://web.archive.org/web/20161208214543/http://www.fifa.com/clubworldcup/matches/round=276106/match=300364978/match-report.html |url-status=dead |archive-date=December 8, 2016 |title=Kashima Antlers fight back to overcome Auckland |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=8 December 2016 |access-date=18 December 2016}}</ref>
+
+In the quarter-finals, ''the Antlers'' faced the [[2016 CAF Champions League|CAF Champions League]] winners and South African champions [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]. [[Yasushi Endo]] opened the scoring in the 63rd minute to put Kashima ahead, before Shuhei Akasaki once again scored with two minutes remaining to secure the 2–0 win and semi-final spot.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/matches/round=276104/match=300364977/match-report.html |archive-url=https://web.archive.org/web/20161212124943/http://www.fifa.com/clubworldcup/matches/round=276104/match=300364977/match-report.html |url-status=dead |archive-date=December 12, 2016 |title=Endo, Mu sink Sundowns |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=11 December 2016 |access-date=18 December 2016}}</ref>
+
+In the semi-finals, Kashima met the [[2016 Copa Libertadores|Copa Libertadores]] winners, [[Atlético Nacional]] of Colombia. In the 33rd minute, Hungarian referee [[Viktor Kassai]] awarded a historic penalty to Kashima. This was the first time that the video assistant referee (VAR) system was used to award a penalty in football, following a video replay review by Kassai. The review was initiated after Kassai received information from Dutchman [[Danny Makkelie]] about a missed incident in Atlético Nacional's penalty box.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/y=2016/m=12/news=video-review-used-for-penalty-decision-in-fifa-club-world-cup-japan-20-2860247.html |archive-url=https://web.archive.org/web/20161216131636/http://www.fifa.com/clubworldcup/news/y=2016/m=12/news=video-review-used-for-penalty-decision-in-fifa-club-world-cup-japan-20-2860247.html |url-status=dead |archive-date=December 16, 2016 |title=Video review used for penalty decision in FIFA Club World Cup Japan 2016 semi-final |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=14 December 2016 |access-date=14 December 2016}}</ref> [[Shoma Doi]] then successfully converted the penalty to put Kashima ahead at the interval. Yasushi Endo extended their lead in the 83rd minute, before [[Yuma Suzuki]] scored two minutes later, wrapping up the 3–0 win for Kashima and sending them through to the final.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/matches/round=276110/match=300364980/match-report.html |archive-url=https://web.archive.org/web/20161215145815/http://www.fifa.com/clubworldcup/matches/round=276110/match=300364980/match-report.html |url-status=dead |archive-date=December 15, 2016 |title=Antlers down Atletico Nacional to reach final |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=14 December 2016 |access-date=18 December 2016}}</ref>
+
+==Match==
+[[File:Nissan International Stadium Yokohama.jpg|thumb|International Stadium Yokohama (also known as Nissan Stadium) in Yokohama, Japan, hosted the match.]]
+
+===Summary===
+Real Madrid centre-forward [[Karim Benzema]] opened the scoring in the ninth minute with a right foot shot from seven yards out after an initial shot from [[Luka Modrić]] was saved by [[Hitoshi Sogahata]] with the rebound coming straight back to Benzema. [[Gaku Shibasaki]] equalised for Kashima Antlers shortly before the interval with a low left footed shot from six yards out to the right corner of the net. In the 52nd minute, Shibasaki scored his second to put Kashima ahead with a low left foot shot from outside the penalty box that skimmed past Real goalkeeper [[Keylor Navas]] and into the left corner of the net. In the sixtieth minute, Antlers defender [[Shuto Yamamoto]] fouled Real forward [[Lucas Vázquez]] in the box, resulting in a penalty awarded to Madrid.<ref>{{cite web|url= https://www.telegraph.co.uk/football/2016/12/18/real-madrid-vs-kashima-antlers-live-score-goal-updates-club/|title=Real Madrid 4 Kashima Antlers 2: Cristiano Ronaldo hat-trick wins the day but they need extra time to do it |date=18 December 2016|work=Telegraph|access-date=23 February 2017}}</ref> Forward [[Cristiano Ronaldo]] converted the spot kick shooting low to his left to equalise for the European champions. Both sides had additional opportunities to score, but with no further goals in regulation, the match went to extra time.<ref>{{cite web|url= https://www.theguardian.com/football/live/2016/dec/18/real-madrid-v-kashima-antlers-club-world-cup-final-live|title=Real Madrid 4-2 Kashima Antlers: Club World Cup final – as it happened|date=18 December 2016|work=Guardian|access-date=23 February 2017}}</ref>
+
+In the 98th minute, Ronaldo scored his second goal of the match to put Real Madrid ahead once again with a low left-footed shot from inside the penalty box which went under the goalkeeper, following a through ball by Benzema.<ref>{{cite web|url= https://www.bbc.com/sport/football/38338721|title=Real Madrid 4-2 Kashima Antlers|date=18 December 2016|work=BBC Sport|access-date=23 February 2017}}</ref> In the final minute of the first half of extra time, Ronaldo completed his hat-trick for Real Madrid with a left-footed shot from the center of the box into the roof of the net, following a pass from [[Toni Kroos]]. The hat-trick goal sealed the 4–2 win for Real, giving them their second Club World Cup title in three years.<ref name="match summary"/>
+
+===Details===
+<onlyinclude>{{Football box
+|date={{Start date|2016|12|18|df=y}}
+|time=19:30 <noinclude>[[Japan Standard Time|JST]]</noinclude>
+|team1=[[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score=4–2
+|aet=yes
+|report=https://www.fifa.com/en/match-centre/match/107/276100/276112/300364984
+|team2={{fbaicon|JPN}} [[Kashima Antlers]]
+|goals1=
+*[[Karim Benzema|Benzema]] {{goal|9}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|60|pen.|98||104}}
+|goals2=
+*[[Gaku Shibasaki|Shibasaki]] {{goal|44||52}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=68,742<ref name="match report">{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/86/11/34/eng_08_1218_rmc-kas_fulltime.pdf |archive-url=https://web.archive.org/web/20161220202920/http://resources.fifa.com/mm/document/tournament/competition/02/86/11/34/eng_08_1218_rmc-kas_fulltime.pdf |url-status=dead |archive-date=December 20, 2016 |title=Match report – Final – Real Madrid, C.F. v Kashima Antlers |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 December 2016 |access-date=18 December 2016}}</ref>
+|referee=[[Janny Sikazwe]] ([[Football Association of Zambia|Zambia]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rmcf1617home
+ | pattern_b  = _rmcf1617home
+ | pattern_ra = _rmcf1617home
+ | pattern_sh = _rmcf1617home
+ | pattern_so = _rmcf1617home
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = {{nowrap|Real Madrid<ref name="line-ups">{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/86/10/15/eng_08_1218_rmc-kas_start.pdf |archive-url=https://web.archive.org/web/20161220202448/http://resources.fifa.com/mm/document/tournament/competition/02/86/10/15/eng_08_1218_rmc-kas_start.pdf |url-status=dead |archive-date=December 20, 2016 |title=Start list Real Madrid, C.F. - Kashima Antlers |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 December 2016 |access-date=18 December 2016}}</ref>}}
+}}
+|{{Football kit
+ | pattern_la = _antlers16h
+ | pattern_b  = _antlers16h
+ | pattern_ra = _antlers16h
+ | pattern_sh = _antlers16h
+ | pattern_so =
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000022
+ | socks      = 000022
+ | title      = {{nowrap|Kashima Antlers<ref name="line-ups"/>}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CRC}} [[Keylor Navas]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Dani Carvajal]] || {{yel|102}}
+|-
+|CB ||'''5''' ||{{flagicon|FRA|1974}} [[Raphaël Varane]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Sergio Ramos]] ([[Captain (association football)|c]]) || {{yel|55}} || {{suboff|108}}
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|CM ||'''19'''||{{flagicon|CRO}} [[Luka Modrić]] || || {{suboff|106}}
+|-
+|CM ||'''14'''||{{flagicon|BRA}} [[Casemiro]] || {{yel|100}}
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]]
+|-
+|RF ||'''17'''||{{flagicon|ESP}} [[Lucas Vázquez]] || || {{suboff|81}}
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Karim Benzema]]
+|-
+|LF ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]] || || {{suboff|112}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Kiko Casilla]]
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Rubén Yáñez]]
+|-
+|DF ||'''3''' ||{{flagicon|POR}} [[Pepe (footballer, born 1983)|Pepe]]
+|-
+|DF ||'''6''' ||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]] || || {{subon|108}}
+|-
+|DF ||'''15'''||{{flagicon|POR}} [[Fábio Coentrão]]
+|-
+|DF ||'''23'''||{{flagicon|BRA}} [[Danilo (footballer, born July 1991)|Danilo]]
+|-
+|MF ||'''10'''||{{flagicon|COL}} [[James Rodríguez]]
+|-
+|MF ||'''16'''||{{flagicon|CRO}} [[Mateo Kovačić]] || || {{subon|106}}
+|-
+|MF ||'''20'''||{{flagicon|ESP}} [[Marco Asensio]]
+|-
+|MF ||'''22'''||{{flagicon|ESP}} [[Isco]] || || {{subon|81}}
+|-
+|FW ||'''18'''||{{flagicon|DOM}} [[Mariano Díaz|Mariano]]
+|-
+|FW ||'''21'''||{{flagicon|ESP}} [[Álvaro Morata]] || || {{subon|112}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA|1974}} [[Zinedine Zidane]]
+|}
+|valign="top"|[[File:Real Madrid vs Kashima Antlers 2016-12-18.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''21'''||{{flagicon|JPN}} [[Hitoshi Sogahata]]
+|-
+|RB ||'''22'''||{{flagicon|JPN}} [[Daigo Nishi]]
+|-
+|CB ||'''23'''||{{flagicon|JPN}} [[Naomichi Ueda]]
+|-
+|CB ||'''3''' ||{{flagicon|JPN}} [[Gen Shoji]]
+|-
+|LB ||'''16'''||{{flagicon|JPN}} [[Shuto Yamamoto]] || {{yel|58}}
+|-
+|RM ||'''25'''||{{flagicon|JPN}} [[Yasushi Endo]] || || {{suboff|102}}
+|-
+|CM ||'''10'''||{{flagicon|JPN}} [[Gaku Shibasaki]]
+|-
+|CM ||'''40'''||{{flagicon|JPN}} [[Mitsuo Ogasawara]] ([[Captain (association football)|c]]) || || {{suboff|67}}
+|-
+|LM ||'''6''' ||{{flagicon|JPN}} [[Ryota Nagaki]] || || {{suboff|114}}
+|-
+|CF ||'''33'''||{{flagicon|JPN}} [[Mu Kanazaki]]
+|-
+|CF ||'''8''' ||{{flagicon|JPN}} [[Shoma Doi]] || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|JPN}} [[Masatoshi Kushibiki]]
+|-
+|GK ||'''29'''||{{flagicon|JPN}} [[Shinichiro Kawamata]]
+|-
+|DF ||'''14'''||{{flagicon|KOR}} [[Hwang Seok-ho]]
+|-
+|DF ||'''17'''||{{flagicon|BRA}} [[Wellington Daniel Bueno|Bueno]]
+|-
+|DF ||'''24'''||{{flagicon|JPN}} [[Yukitoshi Ito]] || || {{subon|102}}
+|-
+|MF ||'''11'''||{{flagicon|BRA}} [[Fabrício dos Santos Messias|Fabrício]] || {{yel|93}} || {{subon|67}}
+|-
+|MF ||'''13'''||{{flagicon|JPN}} [[Atsutaka Nakamura]]
+|-
+|MF ||'''20'''||{{flagicon|JPN}} [[Kento Misao]]
+|-
+|MF ||'''32'''||{{flagicon|JPN}} [[Taro Sugimoto]]
+|-
+|MF ||'''35'''||{{flagicon|JPN}} [[Taiki Hirato]]
+|-
+|FW ||'''18'''||{{flagicon|JPN}} [[Shuhei Akasaki]] || || {{subon|114}}
+|-
+|FW ||'''34'''||{{flagicon|JPN}} [[Yuma Suzuki]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|JPN}} [[Masatada Ishii]]
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Real Madrid)<ref name="match overview"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="match overview"/>
+<br />Marwa Range ([[Football Kenya Federation|Kenya]])
+<br />Jerson dos Santos ([[Angolan Football Federation|Angola]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />György Ring ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Video assistant referee]]s:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+<br />[[Bakary Gassama]] ([[Gambia Football Federation|Gambia]])
+| style="width:60%; vertical-align:top" |
+'''Match rules'''<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/82/33/70/fcwcreg2016eee_neutral.pdf |archive-url=https://web.archive.org/web/20160923013308/http://resources.fifa.com/mm/document/tournament/competition/02/82/33/70/fcwcreg2016eee_neutral.pdf |url-status=dead |archive-date=September 23, 2016 |title=Regulations – FIFA Club World Cup Japan 2016 |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 September 2016 |access-date=21 September 2016}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of three substitutions, with a fourth allowed in extra time.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/86/10/79/eng_08_1218_rmc-kas_halftime.pdf |archive-url=https://web.archive.org/web/20161220203800/http://resources.fifa.com/mm/document/tournament/competition/02/86/10/79/eng_08_1218_rmc-kas_halftime.pdf |url-status=dead |archive-date=December 20, 2016 |title=Match report, Half-time Real Madrid, C.F. - Kashima Antlers 1:1 |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 December 2016 |access-date=18 December 2016}}</ref>
+|-
+! scope="col" style="width:100px" | Statistic
+! scope="col" style="width:70px" | Real Madrid
+! scope="col" style="width:70px" | Kashima Antlers
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|11
+|4
+|-
+!scope=row|Shots on target
+|4
+|1
+|-
+!scope=row|Saves
+|0
+|3
+|-
+!scope=row|Ball possession
+|55%
+|45%
+|-
+!scope=row|Corner kicks
+|4
+|1
+|-
+!scope=row|Fouls committed
+|6
+|6
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="match report"/>
+|-
+! scope="col" style="width:100px" | Statistic
+! scope="col" style="width:70px" | Real Madrid
+! scope="col" style="width:70px" | Kashima Antlers
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|14
+|5
+|-
+!scope=row|Shots on target
+|5
+|4
+|-
+!scope=row|Saves
+|3
+|4
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|9
+|3
+|-
+!scope=row|Fouls committed
+|7
+|3
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="match report"/>
+|-
+! scope="col" style="width:100px" | Statistic
+! scope="col" style="width:70px" | Real Madrid
+! scope="col" style="width:70px" | Kashima Antlers
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|5
+|2
+|-
+!scope=row|Shots on target
+|3
+|0
+|-
+!scope=row|Saves
+|0
+|0
+|-
+!scope=row|Ball possession
+|62%
+|38%
+|-
+!scope=row|Corner kicks
+|1
+|2
+|-
+!scope=row|Fouls committed
+|4
+|10
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="match report"/>
+|-
+! scope="col" style="width:100px" | Statistic
+! scope="col" style="width:70px" | Real Madrid
+! scope="col" style="width:70px" | Kashima Antlers
+|-
+!scope=row|Goals scored
+|4
+|2
+|-
+!scope=row|Total shots
+|30
+|11
+|-
+!scope=row|Shots on target
+|12
+|5
+|-
+!scope=row|Saves
+|3
+|7
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|14
+|6
+|-
+!scope=row|Fouls committed
+|17
+|19
+|-
+!scope=row|Offsides
+|2
+|4
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+[[File:Zidane_Zizu.jpg|thumb|upright=0.7|The victory gave Real Madrid manager [[Zinedine Zidane]] his third trophy in less than a year in charge]]
+The win gave Real their second Club World title, after winning the [[2014 FIFA Club World Cup|2014 edition]]. The title was Real's third of 2016, following victories in the [[2015–16 UEFA Champions League]] and [[2016 UEFA Super Cup]]. With his final hat-trick, [[Cristiano Ronaldo]] was named the man of the match.<ref name="match summary"/> He also finished as the tournament's top scorer, with four goals.<ref>{{cite web |url=https://www.fifa.com/clubworldcup/statistics/players/goal-scored.html |archive-url=https://web.archive.org/web/20141220211902/http://www.fifa.com/clubworldcup/statistics/players/goal-scored.html |url-status=dead |archive-date=December 20, 2014 |title=Players - Top goals |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 December 2016 |access-date=22 December 2016}}</ref> Additionally, he was awarded the [[FIFA Club World Cup awards#Golden Ball|adidas Golden Ball]] for best player of the tournament. Teammate [[Luka Modrić]] came in second, receiving the Silver Ball. Kashima midfielder [[Gaku Shibasaki]] came in third, and was given the Bronze Ball following his brace in the final. Kashima Antlers were also awarded the [[FIFA Club World Cup awards#FIFA Fair Play Trophy|fair play award]] with the best [[Sportsmanship|fair play]] record during the tournament.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/awards/index.html |title=Awards |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 December 2016 |access-date=22 December 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160112045127/http://www.fifa.com/clubworldcup/awards/index.html |archive-date=12 January 2016 }}</ref>
+
+Following the match, Real manager [[Zinedine Zidane]] commented on the victory, saying: "We knew that this final would not be an easy one. They ran. They fought. I think there are several players from Kashima that could play in La Liga. The fact that we were able to be here and win, we're very happy. To be able to take the Club World Cup back home with us makes us very happy." Kashima manager [[Masatada Ishii]] stated that "For us to be able to come so far is meaningful. It really means that Japanese football, in a very short period of time, has come up to a world-class level."<ref>{{cite web |url=https://www.fifa.com/clubworldcup/matches/round=276112/match=300364984/quotes.html |archive-url=https://web.archive.org/web/20161220205630/http://www.fifa.com/clubworldcup/matches/round=276112/match=300364984/quotes.html |url-status=dead |archive-date=December 20, 2016 |title=Quotes: Real Madrid, C.F.-Kashima Antlers |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 December 2016 |access-date=22 December 2016}}</ref>
+
+==See also==
+*[[Real Madrid CF in international football competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20170411221008/http://www.fifa.com/clubworldcup/archive/japan2016/index.html FIFA Club World Cup Japan 2016], FIFA.com
+*[https://web.archive.org/web/20161220165720/http://www.fifa.com/clubworldcup/matches/round=276112/match=300364984/photos/index.html Photos]
+*[https://web.archive.org/web/20161220171146/http://www.fifa.com/clubworldcup/videos/highlights/match=300364984/index.html Match highlights]
+*[https://web.archive.org/web/20161220190634/http://www.fifa.com/clubworldcup/matches/round=276112/match=300364984/matchcast.html MatchCast]
+
+{{FIFA Club World Cup}}
+{{Real Madrid CF matches}}
+{{Kashima Antlers matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2016}}
+[[Category:2016 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2016]]
+[[Category:Real Madrid CF matches]]
+[[Category:Kashima Antlers matches]]
+[[Category:2016–17 in Spanish men's football]]
+[[Category:2016 in Japanese football|FIFA]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:Football matches in Yokohama]]
+[[Category:2010s in Yokohama]]
+[[Category:Football finals in Japan]]
+[[Category:December 2016 sports events in Japan]]
+[[Category:Japan–Spain sports relations|2016]]

@@ -1,0 +1,372 @@
+{{Short description|English association football match}}
+{{Use British English|date=August 2020}}
+{{Use dmy dates|date=April 2019}}
+{{For|the women's event|2019 FA Women's Cup final}}
+{{Infobox football match
+| title              = 2019 FA Cup final
+| other_titles       = 
+| image              = File:Wembley-Stadion 2013.jpg
+| image_size         = 
+| caption            = [[Wembley Stadium]], the venue of the match
+| event              = [[2018–19 FA Cup]]
+| team1              = [[Manchester City F.C.|Manchester City]]
+| team1score         = 6
+| team2              = [[Watford F.C.|Watford]]
+| team2score         = 0
+| details            = 
+| date               = {{Start date|2019|5|18|df=y}}
+| stadium            = [[Wembley Stadium]]
+| city               = London
+| man_of_the_match1a = [[Kevin De Bruyne]] (Manchester City)
+| referee            = [[Kevin Friend]] ([[Leicestershire and Rutland County Football Association|Leicestershire]])
+| attendance         = 85,854
+| weather            = 
+| previous           = [[2018 FA Cup final|2018]]
+| next               = [[2020 FA Cup final|2020]]
+}}
+The '''2019 FA Cup final''' was an [[association football]] match between [[Manchester City F.C.|Manchester City]] and [[Watford F.C.|Watford]] on 18 May 2019 at [[Wembley Stadium]] in [[London]], England, and the 138th [[FA Cup Final|FA Cup final]]. It was Manchester City's eleventh appearance at the FA Cup final and Watford's second.
+
+[[Kevin Friend]] was the [[Referee (association football)|referee]] for the match played in front of 85,854 spectators. Manchester City dominated the early stages of the final. In the 21st minute [[Abdoulaye Doucouré]]'s shot struck [[Vincent Kompany]]'s arm in the Manchester City [[penalty area]], but after consultation with the [[video assistant referee]] (VAR), Friend declined to award a [[Penalty kick (association football)|penalty]] and showed Doucouré the first [[Penalty card#Yellow card|yellow card]] of the game for his subsequent protests. In the 26th minute the deadlock was broken as [[David Silva]] scored from a [[Raheem Sterling]] [[Header (association football)|header]]. Twelve minutes later Manchester City doubled their lead after [[Gabriel Jesus]] side-footed the ball past [[Kiko Femenía]] and [[Heurelho Gomes]] in the Watford goal. At 61 minutes City further extended their lead to 3–0 with a goal from [[substitute (association football)|substitute]] [[Kevin De Bruyne]] from close range. Seven minutes later Jesus made it 4–0 after taking the ball on the counter-attack and shooting past Gomes. In the 81st minute Sterling scored from a [[Bernardo Silva]] [[Cross (association football)|cross]] to make it 5–0, before scoring again in the 87th minute after his initial shot was pushed onto the post by Gomes. The match ended 6–0 to Manchester City: it was only the third time that a team had scored six goals in an FA Cup final, and the margin of victory is the joint-largest in an FA Cup final, equalling [[Bury F.C.|Bury]]'s 6–0 win over [[Derby County F.C.|Derby County]] in [[1903 FA Cup final|1903]].   
+
+De Bruyne was named [[player of the match|man of the match]]. The win completed a [[Treble (association football)#Domestic trebles|domestic treble]] for Manchester City, who had already won the [[2018–19 EFL Cup|League Cup]] and the [[2018–19 Premier League|Premier League]] that season, which at the time was unprecedented by any English men's team. As they had already qualified for the [[2019–20 UEFA Champions League|UEFA Champions League]], City's continental qualification place for winning the FA Cup went to the team that finished seventh in the league ([[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]), who entered the [[2019–20 UEFA Europa League#Second qualifying round|second qualifying round]] of [[UEFA Europa League]].
+
+==Route to the final==
+{{main|2018–19 FA Cup}}
+
+===Manchester City===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;margin:0"
+|+Route to the final for Manchester City
+|-
+!scope="col" style="width:25px"|Round
+!scope="col" style="width:180px"|Opposition
+!scope="col" style="width:70px"|Score
+|-
+!scope=row style="text-align:center"|3rd
+|[[Rotherham United F.C.|Rotherham United]] ([[City of Manchester Stadium|H]])
+|7–0<br>
+|-
+!scope=row style="text-align:center"|4th
+|[[Burnley F.C.|Burnley]] (H)
+|5–0
+|-
+!scope=row style="text-align:center"|5th
+|[[Newport County A.F.C.|Newport County]] ([[Rodney Parade|A]])
+|4–1
+|-
+!scope=row style="text-align:center"|QF
+|[[Swansea City A.F.C.|Swansea City]] ([[Liberty Stadium|A]])
+|3–2
+|-
+!scope=row style="text-align:center"|SF
+|[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] ([[Wembley Stadium|N]])
+|1–0
+|-
+|colspan="3"|<small>'''Key:''' (H) = Home venue; (A) = Away venue; (N) = [[Neutral venue]]</small>
+|}
+</div>
+
+As a [[Premier League]] club, [[Manchester City F.C.|Manchester City]] started in the third round where they were drawn against [[EFL Championship|Championship]] team [[Rotherham United F.C.|Rotherham United]] at the [[City of Manchester Stadium]].  In what Neil Johnston of the [[BBC]] described as a "powerful attacking performance", City dominated their opponents and won 7–0, with goals from [[Raheem Sterling]], [[Phil Foden]], an [[own goal]] from [[Semi Ajayi]], [[Gabriel Jesus]], [[Riyad Mahrez]], [[Nicolás Otamendi]], and [[Leroy Sané]].<ref name=rufc>{{cite web |last=Johnston |first=Neil |url=https://www.bbc.co.uk/sport/football/46713168 |title=Man City 7–0 Rotherham United |publisher=[[BBC Sport]] |date=6 January 2019 |access-date=15 July 2020 |archive-url=https://web.archive.org/web/20190508054643/https://www.bbc.co.uk/sport/football/46713168 |archive-date=8 May 2019 |url-status=live }}</ref>  It was Rotherham's heaviest ever FA Cup defeat, but their manager [[Paul Warne]] was philosophical: "It was a difficult day but we were playing against a world-class team.  I don't think we embarrassed ourselves".<ref name=rufc/> In the fourth round, City were drawn at home once again, this time against fellow Premier League team [[Burnley F.C.|Burnley]].  In a display which Burnley manager [[Sean Dyche]] called "clinical", City won 5–0 with goals from Jesus, [[Bernardo Silva]], [[Kevin De Bruyne]], [[Sergio Agüero]] and an own goal from [[Kevin Long (footballer)|Kevin Long]].<ref>{{cite web |last=Emons |first=Michael |url=https://www.bbc.co.uk/sport/football/46928656 |title=Manchester City 5–0 Burnley |publisher=[[BBC Sport]] |date=26 January 2019 |access-date=15 July 2020 |archive-url=https://web.archive.org/web/20190820165651/https://www.bbc.co.uk/sport/football/46928656 |archive-date=20 August 2019 |url-status=live }}</ref> 
+
+In the fifth round, City played [[EFL League Two|League Two]] side [[Newport County A.F.C.|Newport County]] away at [[Rodney Parade]] in [[Newport, Wales]].  Once again, City dominated their opponents, and although the first half ended goalless, they won 4–1 courtesy of two goals from Foden, and one each from Sané and Mahrez, with [[Pádraig Amond]] scoring the consolation for Newport.<ref>{{cite web |last=Pearlman |first=Michael |url=https://www.bbc.co.uk/sport/football/47180807 |title=Newport 1–4 Man City |publisher=[[BBC Sport]] |date=16 February 2019 |access-date=6 April 2019 |archive-url=https://web.archive.org/web/20190414013149/https://www.bbc.co.uk/sport/football/47180807 |archive-date=14 April 2019 |url-status=live }}</ref> In the quarter-finals, City drew Championship team [[Swansea City A.F.C.|Swansea City]].  Played at the [[Liberty Stadium]], Swansea were 2–0 ahead at half time, but a goal from Silva and an own goal from [[Kristoffer Nordfeldt]] were followed by a controversial late winner from Agüero.  Video replays demonstrated that the striker was [[offside (association football)|offside]], but as the [[video assistant referee]] (VAR) system was not in use at the Liberty Stadium, the goal was allowed to stand, and the Manchester club progressed with a 3–2 victory.<ref>{{cite web |last=Skelton |first=Jack |url=https://www.bbc.co.uk/sport/football/47505051 |title=Swansea City 2–3 Manchester City |publisher=[[BBC Sport]] |date=16 March 2019 |access-date=6 April 2019 |archive-url=https://web.archive.org/web/20190406153949/https://www.bbc.co.uk/sport/football/47505051 |archive-date=6 April 2019 |url-status=live }}</ref> In the semi-final, played at [[Wembley Stadium]] as a [[Glossary of association football terms#N|neutral venue]], Manchester City faced Premier League side [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]].  City progressed to the final after a 1–0 win with a Jesus goal from a De Bruyne cross in the fourth minute.<ref name=mancbha>{{cite web |last=McNulty |first=Phil |author-link=Phil McNulty |url=https://www.bbc.co.uk/sport/football/47756588 |title=Manchester City 1–0 Brighton & Hove Albion |publisher=[[BBC Sport]] |date=6 April 2019 |access-date=6 April 2019 |archive-url=https://web.archive.org/web/20190406185951/https://www.bbc.co.uk/sport/football/47756588 |archive-date=6 April 2019 |url-status=live }}</ref>
+{{-}}
+
+===Watford===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;margin:0"
+|+Route to the final for Watford
+|-
+!scope="col" style="width:25px"|Round
+!scope="col" style="width:180px"|Opposition
+!scope="col" style="width:70px"|Score
+|-
+!scope=row style="text-align:center"|3rd
+|[[Woking F.C.|Woking]] ([[Kingfield Stadium|A]])
+|2–0<br>
+|-
+!scope=row style="text-align:center"|4th
+|[[Newcastle United F.C.|Newcastle United]] ([[St James' Park|A]])
+|2–0
+|-
+!scope=row style="text-align:center"|5th
+|[[Queens Park Rangers F.C.|Queens Park Rangers]] ([[Loftus Road|A]])
+|1–0
+|-
+!scope=row style="text-align:center"|QF
+|[[Crystal Palace F.C.|Crystal Palace]] ([[Vicarage Road|H]])
+|2–1
+|-
+!scope=row style="text-align:center"|SF
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] ([[Wembley Stadium|N]])
+|3–2 
+|-
+|colspan="3"|<small>'''Key:''' (H) = Home venue; (A) = Away venue; (N) = [[Neutral venue]]</small>
+|}
+</div>
+
+As a Premier League club, [[Watford F.C.|Watford]] also started in the third round where they faced [[National League South]] side [[Woking F.C.|Woking]] away at the [[Kingfield Stadium]].  There were 110 places in the [[English football league system]] between the clubs, and Watford dominated the match.  They won 2–0 with goals from [[Will Hughes]] and [[Troy Deeney]].<ref>{{cite web |last=Sanders |first=Emma |url=https://www.bbc.co.uk/sport/football/46713166 |title=Woking 0–2 Watford |publisher=[[BBC Sport]] |date=6 January 2019 |access-date=16 July 2020 |archive-url=https://web.archive.org/web/20191024210403/https://www.bbc.co.uk/sport/football/46713166 |archive-date=24 October 2019 |url-status=live }}</ref> In the next round Watford played fellow Premier League side [[Newcastle United F.C.|Newcastle United]] away at [[St James' Park]].  A total of eighteen changes were made to the starting line-ups of the two teams.  After a goalless first half, [[Andre Gray]] opened the scoring for Watford, and [[Isaac Success]]' strike in [[Association football#Duration and tie-breaking methods|injury time]] ensured Watford's progress with a 2–0 win.<ref>{{cite web |last=Mallows |first=Thomas |url=https://www.bbc.co.uk/sport/football/46928655 |title=Newcastle United 0–2 Watford |publisher=[[BBC Sport]] |date=26 January 2019 |access-date=16 July 2020 |archive-url=https://web.archive.org/web/20190421103014/https://www.bbc.co.uk/sport/football/46928655 |archive-date=21 April 2019 |url-status=live }}</ref> 
+
+In the fifth round Watford played Championship side [[Queens Park Rangers F.C.|Queens Park Rangers]] away at [[Loftus Road]].  Watford won 1–0 when [[Étienne Capoue]] scored with his side's only shot on target of the game, just before half time.<ref>{{cite web |last=Johnston |first=Neil |url=https://www.bbc.co.uk/sport/football/47166869 |title=Queens Park Rangers 0–1 Watford |publisher=[[BBC Sport]] |date=15 February 2019 |access-date=16 July 2020 |archive-url=https://web.archive.org/web/20190420191641/https://www.bbc.co.uk/sport/football/47166869 |archive-date=20 April 2019 |url-status=live }}</ref>  In the quarter-final, they played Premier League [[Crystal Palace F.C.|Crystal Palace]] at home at [[Vicarage Road]].  Watford took the lead mid-way through the first half with a Capoue strike, but [[Michy Batshuayi]] levelled the score in the 62nd minute.  Gray, a second-half [[Substitute (association football)|substitute]], then scored the winning goal within two minutes of his introduction, ensuring a 2–1 Watford victory and progression to the semi-final at Wembley.<ref>{{cite web |last=Bullin |first=Matt |url=https://www.bbc.co.uk/sport/football/47505050 |title=Watford 2–1 Crystal Palace |publisher=[[BBC Sport]] |date=16 March 2019 |access-date=16 July 2020 |archive-url=https://web.archive.org/web/20190411221253/https://www.bbc.co.uk/sport/football/47505050 |archive-date=11 April 2019 |url-status=live }}</ref> There they faced Premier League [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (Wolves).  A [[Header (association football)|header]] from [[Matt Doherty (footballer, born 1992)|Matt Doherty]] and a [[Volley (association football)|volley]] from [[Raúl Jiménez]] put Wolves into a 2–0 lead before [[Gerard Deulofeu]] reduced the deficit with what BBC reporter [[Phil McNulty]] described as "an audacious angled flick" with eleven minutes of the game remaining.  Four minutes into injury time, Deeney levelled the score from the [[Penalty kick (association football)|penalty spot]], forcing the game into [[Overtime (sports)|extra time]].  Deulofeu then scored his second in the 104th minute to ensure Watford's progression to the final with a 3–2 victory.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/47763394 |title=Watford 3–2 Wolverhampton Wanderers |publisher=[[BBC Sport]] |first=Phil |last=McNulty |author-link=Phil McNulty |date=7 April 2019 |access-date=15 July 2020 |archive-url=https://web.archive.org/web/20190519175041/https://www.bbc.co.uk/sport/football/47763394 |archive-date=19 May 2019 |url-status=live }}</ref>
+
+==Match==
+===Background===
+[[File:Kevin Friend.jpg|right|alt=Kevin Friend|upright=0.7|thumb|[[Kevin Friend]] ''(pictured in 2012)'' was the match referee.]]
+This was Manchester City's eleventh [[List of FA Cup Finals|FA Cup Final]] and their first since losing 1–0 to [[Wigan Athletic F.C.|Wigan Athletic]] in the [[2013 FA Cup final|2013 final]].  City had won the FA Cup on five previous occasions, the most recent being the [[2011 FA Cup final|2011 final]] when they beat [[Stoke City F.C.|Stoke City]] 1–0.<ref name=thefa>{{Cite web | url = http://www.thefa.com/competitions/thefacup/more/finals | publisher = [[The Football Association]] | title = FA Cup Finals, 1872 – today | access-date = 9 July 2020 | archive-url = https://web.archive.org/web/20170613182709/http://www.thefa.com/competitions/thefacup/more/finals | archive-date = 13 June 2017 | url-status = dead }}</ref>  Watford qualified for their first FA Cup Final since [[1984 FA Cup final|1984]] when they lost 2–0 to [[Everton F.C.|Everton]].<ref name=thefa/><ref name=t>{{cite news |first1=Jason |last1=Burt |first2=Charlie |last2=Eccleshare |title=Watford produce one of the great FA Cup comebacks to deny Wolves and storm into first final since 1984 |url=https://www.telegraph.co.uk/football/2019/04/07/watford-vs-wolves-fa-cup-semi-final-live-score-latest-updates/ |work=[[The Daily Telegraph]] |date=7 April 2019 |access-date=7 April 2019 |archive-url=https://web.archive.org/web/20190407162927/https://www.telegraph.co.uk/football/2019/04/07/watford-vs-wolves-fa-cup-semi-final-live-score-latest-updates/ |archive-date=7 April 2019 |url-status=live }}</ref>  In the two meetings between the clubs during the [[2018–19 Premier League]], City won 2–1 at Vicarage Road in December 2018 and 3–1 at the City of Manchester Stadium.  Watford had beaten Manchester City once in the previous seventeen meetings, including a losing streak of ten games going back to 2013.<ref>{{Cite web | url = https://www.11v11.com/teams/watford/tab/opposingTeams/opposition/Manchester%20City/ | website = 11v11.com | access-date = 16 July 2020 | publisher = AFS Enterprises | title = Watford football club: record v Manchester City | archive-url = https://web.archive.org/web/20170807052147/https://www.11v11.com/teams/watford/tab/opposingTeams/opposition/Manchester%20City/ | archive-date = 7 August 2017 | url-status = live }}</ref>  The league season ended with City as champions and Watford eleventh, forty-eight points behind.<ref>{{Cite web | url = https://www.11v11.com/league-tables/premier-league/2019/ | website = 11v11.com | access-date = 16 July 2020 | publisher = AFS Enterprises | title = Premier League end of season table for 2018–19 season | archive-date = 9 March 2021 | archive-url = https://web.archive.org/web/20210309231417/https://www.11v11.com/league-tables/premier-league/2019/ | url-status = live }}</ref>  It was City's second cup final of the season: in February they had won the [[2018–19 EFL Cup|2018–19 League Cup]] against [[Chelsea F.C.|Chelsea]] in a [[penalty shootout]].<ref>{{Cite web | url = https://www.bbc.co.uk/sport/football/47268861 | publisher = [[BBC Sport]] | title = Chelsea 0–0 Manchester City | access-date = 15 July 2020 | date = 24 February 2019 | first = Phil | last = McNulty | authorlink = Phil McNulty| archive-url = https://web.archive.org/web/20190402075855/https://www.bbc.co.uk/sport/football/47268861 | archive-date = 2 April 2019 | url-status = live }}</ref>  This meant that City were aiming to become the first club in English football history to win the [[Treble (association football)#Domestic trebles|domestic treble]] which came into existence with the creation of the [[EFL Cup|League Cup]] in the [[1960–61 in English football|1960–61 season]].<ref>{{Cite web| url = https://www.telegraph.co.uk/football/2019/05/17/manchester-city-winning-treble-would-fitting-reward-pep-guardiolas/| work = [[The Daily Telegraph]]| access-date = 16 July 2020| title = Manchester City winning the treble would be fitting reward for Pep Guardiola's limitless ambition| first = Paul| last = Hayward| author-link = Paul Hayward (journalist)| date = 18 May 2019| archive-url = https://web.archive.org/web/20190520153432/https://www.telegraph.co.uk/football/2019/05/17/manchester-city-winning-treble-would-fitting-reward-pep-guardiolas/| archive-date = 20 May 2019| url-status = live}}</ref>
+
+The referee for the match was [[Kevin Friend]] representing the [[Leicestershire and Rutland County Football Association]].  He was promoted to the [[Select Group]] in 2009 and had previously officiated over Wembley matches including the [[2012 FA Community Shield]] and the [[2013 Football League Cup Final]].  Friend's [[assistant referee (association football)|assistants]] were Constantine Hatzidakis ([[Kent County Football Association]]) and Matthew Wilkes ([[Birmingham County Football Association]]).  The fourth official was [[Graham Scott (referee)|Graham Scott]] ([[Berks & Bucks Football Association]]), and the reserve assistant referee was Edward Smart (Kent County Football Association).  [[Andre Marriner]] (Birmingham County Football Association) was the video assistant referee and was assisted by Harry Lennard ([[Sussex County Football Association]]).<ref name=referee>{{Cite web | url = http://www.thefa.com/news/2019/apr/29/fa-cup-final-referee-kevin-friend-290419 | title = Kevin Friend will referee 2019 Emirates FA Cup Final | publisher = [[The Football Association]] | access-date = 16 July 2020 | date = 29 April 2019 | archive-url = https://web.archive.org/web/20190430032250/http://www.thefa.com/news/2019/apr/29/fa-cup-final-referee-kevin-friend-290419 | archive-date = 30 April 2019 | url-status = live}}</ref>  Both clubs received an allocation of approximately 28,000 tickets.  For adults, these were priced [[pound sterling|£]]45, £70, £115 and £145, with concessions in place.  14,000 tickets were distributed through the "football family", which included volunteers representing County FAs, FA-affiliated leagues, clubs and charities.  Manchester City supporters were seated on the east side of the ground, and Watford's on the west.<ref>{{cite web |title=Kick-off time and ticket details confirmed for 2019 Emirates FA Cup Final at Wembley |url=http://www.thefa.com/news/2019/apr/09/emirates-fa-cup-final-details-man-city-v-watford-090419 |publisher=[[The Football Association]] |date=9 April 2019 |access-date=12 April 2019 |archive-url=https://web.archive.org/web/20190410232547/http://www.thefa.com/news/2019/apr/09/emirates-fa-cup-final-details-man-city-v-watford-090419 |archive-date=10 April 2019 |url-status=live }}</ref>  The match was broadcast live in the UK on [[BBC One]] and [[BT Sport]].<ref name=referee/>  The traditional performance of the hymn "[[Abide with Me]]" was by the [[Band of the Scots Guards]] and a mixed choir.  Former players [[Luther Blissett]] (Watford) and [[Tony Book]] (Manchester City) brought out the [[FA Cup#Trophy|trophy]] before the teams were introduced to [[William, Prince of Wales|Prince William, Duke of Cambridge]].<ref name=guardlive3/>
+
+Watford left-back [[José Holebas]] was [[sent off]] on the last day of the Premier League season in a 4–1 home defeat by [[West Ham United F.C.|West Ham United]]. The resulting one-match suspension would have ruled him out of the final but, on 13&nbsp;May, the red card was rescinded, clearing him for selection.<ref>{{cite news |title=Jose Holebas cleared to play in FA Cup final after red card overturned |url=https://www.bbc.co.uk/sport/football/48259948 |publisher=[[BBC Sport]] |date=13 May 2019 |access-date=14 May 2019 |archive-url=https://web.archive.org/web/20190513204923/https://www.bbc.co.uk/sport/football/48259948 |archive-date=13 May 2019 |url-status=live }}</ref>  Deulofeu had recovered from a [[dead leg]] sustained against West Ham.<ref name=guardlive/> The final was also slated to have been the Watford goalkeeper [[Heurelho Gomes]]' last professional football match, after he announced his intention to retire at the end of the season.<ref>{{cite news |url=https://www.telegraph.co.uk/football/2019/05/15/watford-manager-javi-gracia-will-attempt-talk-goalkeeperheurelho/ |title=Watford manager Javi Gracia will attempt to talk goalkeeper Heurelho Gomes out of retirement plans |first = Jason | last = Burt| work=[[The Daily Telegraph]] |date=15 May 2019 |access-date=17 May 2019 |archive-url=https://web.archive.org/web/20190517122432/https://www.telegraph.co.uk/football/2019/05/15/watford-manager-javi-gracia-will-attempt-talk-goalkeeperheurelho/ |archive-date=17 May 2019 |url-status=live }}</ref>  He was selected in preference to [[Ben Foster (footballer)|Ben Foster]], and [[Adrian Mariappa]] replaced [[Christian Kabasele]] in Watford's defence.<ref name=guardlive/>  Manchester City were still without long-term injured [[Benjamin Mendy]] but both [[Fernandinho (footballer, born May 1985)|Fernandinho]] and De Bruyne were available for selection,<ref name=guardlive/> the former having recovered from a knee injury while the latter was back from damaging his hamstring.<ref>{{Cite web | url = https://www.standard.co.uk/sport/football/manchestercity/fernandinho-could-return-for-man-city-in-fa-cup-final-with-watford-a4144691.html | work = [[Evening Standard]] | access-date = 29 July 2020 | title = Fernandinho could return for Man City in FA Cup Final with Watford | first = James | last = Robson | date = 17 May 2019 | archive-date = 8 June 2019 | archive-url = https://web.archive.org/web/20190608163130/https://www.standard.co.uk/sport/football/manchestercity/fernandinho-could-return-for-man-city-in-fa-cup-final-with-watford-a4144691.html | url-status = live }}</ref>  Jesus was preferred up front with Agüero starting on the bench, along with De Bruyne.<ref name=guardlive/>  Watford played in their standard home [[Kit (association football)|kit]] of black and yellow stripes, black shorts and black socks while City's players wore light blue shirts, white shorts and white socks.<ref name=guardlive/>
+
+===First half===
+[[File:2019 FA Cup final.jpg|left|thumb|Pre-match display]]
+The match was [[Kick-off (association football)|kicked off]] by Watford just after 5&nbsp;p.m. on 18&nbsp;May 2019 in front of a Wembley crowd of 85,854.  The first chance of the game fell to [[Aymeric Laporte]] on 4 minutes whose long-range shot flew over Watford's crossbar.  Three minutes later, Bernardo Silva made a run but his pass into the Watford penalty area was intercepted by [[Craig Cathcart]].  In the 10th minute, Mahrez won a [[Corner kick|corner]] for City which was cleared by Watford who went on the counter-attack.  A cross from Deulofeu found [[Roberto Pereyra]] whose shot was saved by the Manchester City goalkeeper [[Ederson (footballer, born 1993)|Ederson]].  Bernardo Silva then saw his strike saved by Gomes two minutes later and on 16 minutes, City won another corner off Holebas.  Gomes failed to gather the [[Set piece (football)|set piece]] but Watford cleared the ball.<ref name=guardlive3/>  
+
+In the 21st minute, Pereyra passed to [[Abdoulaye Doucouré]] in the Manchester City box, whose shot struck [[Vincent Kompany]]'s arm.  After consultation with the VAR, Friend declined to award a penalty and showed Doucouré the first [[Penalty card#Yellow card|yellow card]] of the game for his subsequent protests.  Two minutes later, Sterling was unable to capitalise on a Gomes handling error before Jesus' shot was deflected for a corner by Mariappa.  Capoue cleared the ball out to Deulofeu on the [[Glossary of association football terms#B|break]], but Ederson was quick to react and clear the danger. In the 26th minute the deadlock was broken, as David Silva scored his first goal in 28 games, shooting across Gomes from a Sterling header.  On 33 minutes, Mahrez passed to Jesus who was prevented from shooting by a Mariappa [[Tackle (football move)#Association football|tackle]].  Five minutes later Manchester City doubled their lead.  Bernardo Silva played a ball into a space on the left side of the six-yard box for Jesus who side-footed past [[Kiko Femenía]] and Gomes in the Watford goal.  A minute later, Gomes pushed a Mahrez shot away and in the 44th minute, Watford's Hughes struck from distance and the ball was deflected for a corner.  The set piece came to nothing and the half ended with Manchester City holding a 2–0 lead.<ref name=guardlive2/>
+
+===Second half===
+No changes were made to either side during half time, and Watford kicked the second half off.  They had the first chance, after 47 minutes, when Deeney found Pereyra who chose to try to find Hughes instead of shooting.  Sterling then found Jesus whose shot from a tight angle was saved by Gomes.  [[Oleksandr Zinchenko (footballer)|Oleksandr Zinchenko]] then crossed for Jesus who headed the ball into the Watford net but the goal was disallowed for offside.  Watford then had a brief spell of pressure but failed to capitalise.  In the 55th minute, Manchester City made their first substitution of the afternoon with De Bruyne coming on to replace Mahrez.  [[İlkay Gündoğan]]'s corner on 57 minutes found Laporte whose header was wide.  Watford responded with Deulofeu picking up a long ball but his shot was mishit wide of the far post.  David Silva was then shown a yellow card in the 60th minute for a [[Fouls and misconduct (association football)|foul]] on Hughes.<ref name=guardlive2/>  On 61 minutes City further extended their lead to 3–0 with a goal from De Bruyne.  Jesus beat Pereyra in the air and passed to De Bruyne, who took the ball past Gomes and scored from close range.<ref name=guardlive/>
+
+In the 65th minute, Watford made a double substitution with Deulofeu and Pereyra coming off, to be replaced by Gray and Success.  Three minutes later, Jesus made it 4–0 after taking the ball on the counter-attack and shooting past Gomes.  De Bruyne then shot high and wide in the 70th minute before Sané was brought on for Gündogan and Watford's Hughes was replaced by [[Tom Cleverley]].  After a period of City possession, [[John Stones]] then came on for David Silva, and in the 80th minute, Kiko was booked for a foul on Sané.  In the 81st minute, Sterling scored from a Bernardo Silva cross to make it 5–0, before scoring again in the 87th minute after his initial shot was pushed onto the post by Gomes.  Two minutes into injury time, Stones' strike from around {{convert|10|yd}} was saved by Gomes and Friend blew the final whistle, ending the match with Manchester City winning 6–0.<ref name=guardlive/>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2019|5|18|df=y}}
+|time       = 17:00 [[British Summer Time|BST]]
+|team1      = [[Manchester City F.C.|Manchester City]]
+|score      = 6–0
+|report     = <ref name=guardlive3>{{Cite web | url = https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live | work = [[The Guardian]] | title = Man City 6–0 Watford (1 of 3) | access-date = 16 July 2020 | date = 19 May 2019 | first = Barry | last = Glendenning | author-link = Barry Glendenning | archive-url = https://web.archive.org/web/20191202111157/https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live | archive-date = 2 December 2019 | url-status = live }}</ref><ref name=guardlive>{{Cite web | url = https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live | work = [[The Guardian]] | title = Man City 6–0 Watford (3 of 3) | access-date = 16 July 2020 | date = 19 May 2019 | first = Barry | last = Glendenning | author-link = Barry Glendenning | archive-url = https://web.archive.org/web/20191202111157/https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live | archive-date = 2 December 2019 | url-status = live }}</ref><ref name=guardlive2>{{Cite web | url = https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live?page=with:block-5ce03dfb8f08d2b474ebe6d4#liveblog-navigation | work = [[The Guardian]] | title = Man City 6–0 Watford (2 of 3) | access-date = 16 July 2020 | date = 19 May 2019 | first = Barry | last = Glendenning | author-link = Barry Glendenning | archive-url = https://web.archive.org/web/20190518175840/https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live?page=with%3Ablock-5ce03dfb8f08d2b474ebe6d4#liveblog-navigation | archive-date = 18 May 2019 | url-status = live }}</ref><ref name=rep11v11>{{Cite web | url = https://www.11v11.com/matches/manchester-city-v-watford-18-may-2019-362301/ | website = 11v11.com | access-date = 16 July 2020 | title = Manchester City v Watford, 18 May 2019 | publisher = AFS Enterprises | archive-url = https://web.archive.org/web/20190901174644/https://www.11v11.com/matches/manchester-city-v-watford-18-may-2019-362301/ | archive-date = 1 September 2019 | url-status = live }}</ref>
+|team2      = [[Watford F.C.|Watford]]
+|goals1     = 
+*[[David Silva|D. Silva]] {{goal|26}}
+*[[Gabriel Jesus]] {{goal|38||68}}
+*[[Kevin De Bruyne|De Bruyne]] {{goal|61}}
+*[[Raheem Sterling|Sterling]] {{goal|81||87}}
+|goals2     = 
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 85,854
+|referee    = [[Kevin Friend]] ([[Leicestershire and Rutland County Football Association|Leicestershire]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _mcity1819h
+| pattern_b  = _mcity1819h
+| pattern_ra = _mcity1819h
+| pattern_sh = _usa18h
+| pattern_so = _mcfc1819h2
+| leftarm    =
+| body       =
+| rightarm   =
+| shorts     = 
+| socks      = 
+| title      = {{nowrap|Manchester City}}
+| alt        = Light blue shirt, white shorts and white socks
+}}
+
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _watford1819h
+| pattern_ra = 
+| pattern_sh = _adidasyellow
+| pattern_so = _color_3_stripes_yellow
+| leftarm    = 000000
+| body       = 
+| rightarm   = 000000
+| shorts     = 000000
+| socks      = 000000
+| title      = Watford
+| alt        = Yellow shirt with black vertical stripes, black shorts with yellow trim, black socks with yellow trim
+}}
+|}
+<!--Note: Flags indicate national team as defined under [[FIFA eligibility rules]]. Players may hold more than one non-FIFA nationality.-->
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''31'''||{{flagicon|BRA}} [[Ederson (footballer, born 1993)|Ederson]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Kyle Walker]]
+|-
+|CB ||'''4''' ||{{flagicon|BEL}} [[Vincent Kompany]] ([[Captain (association football)|c]])
+|-
+|CB ||'''14'''||{{flagicon|FRA}} [[Aymeric Laporte]]
+|-
+|LB ||'''35'''||{{flagicon|UKR}} [[Oleksandr Zinchenko (footballer)|Oleksandr Zinchenko]]
+|-
+|CM ||'''20'''||{{flagicon|POR}} [[Bernardo Silva]]
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[İlkay Gündoğan]] || || {{suboff|73}}
+|-
+|CM ||'''21'''||{{flagicon|ESP}} [[David Silva]] || {{yel|60}} || {{suboff|79}}
+|-
+|RF ||'''26'''||{{flagicon|ALG}} [[Riyad Mahrez]] || || {{suboff|55}}
+|-
+|CF ||'''33'''||{{flagicon|BRA}} [[Gabriel Jesus]]
+|-
+|LF ||'''7''' ||{{flagicon|ENG}} [[Raheem Sterling]]
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|GK ||'''49'''||{{flagicon|KVX}} [[Arijanet Muric]]
+|-
+|DF ||'''3''' ||{{flagicon|BRA}} [[Danilo (footballer, born July 1991)|Danilo]]
+|-
+|DF ||'''5''' ||{{flagicon|ENG}} [[John Stones]] || || {{subon|79}}
+|-
+|DF ||'''30'''||{{flagicon|ARG}} [[Nicolás Otamendi]]
+|-
+|MF ||'''17'''||{{flagicon|BEL}} [[Kevin De Bruyne]] || || {{subon|55}}
+|-
+|MF ||'''19'''||{{flagicon|GER}} [[Leroy Sané]] || || {{subon|73}}
+|-
+|FW ||'''10'''||{{flagicon|ARG}} [[Sergio Agüero]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|style="vertical-align:top"|[[File:Man City vs Watford 2019-05-18.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Heurelho Gomes]]
+|-
+|RB ||'''21'''||{{flagicon|ESP}} [[Kiko Femenía]] || {{yel|80}}
+|-
+|CB ||'''6''' ||{{flagicon|JAM}} [[Adrian Mariappa]]
+|-
+|CB ||'''15'''||{{flagicon|NIR}} [[Craig Cathcart]]
+|-
+|LB ||'''25'''||{{flagicon|GRE}} [[José Holebas]]
+|-
+|RM ||'''19'''||{{flagicon|ENG}} [[Will Hughes]] || || {{suboff|73}}
+|-
+|CM ||'''16'''||{{flagicon|FRA}} [[Abdoulaye Doucouré]] || {{yel|21}}
+|-
+|CM ||'''29'''||{{flagicon|FRA}} [[Étienne Capoue]]
+|-
+|LM ||'''37'''||{{flagicon|ARG}} [[Roberto Pereyra]] || || {{suboff|66}}
+|-
+|CF ||'''7''' ||{{flagicon|ESP}} [[Gerard Deulofeu]] || || {{suboff|66}}
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Troy Deeney]] ([[Captain (association football)|c]])
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|GK ||'''26'''||{{flagicon|ENG}} [[Ben Foster (footballer)|Ben Foster]]
+|-
+|DF ||'''2''' ||{{flagicon|NED}} [[Daryl Janmaat]]
+|-
+|DF ||'''11'''||{{flagicon|ITA}} [[Adam Masina]]
+|-
+|DF ||'''27'''||{{flagicon|BEL}} [[Christian Kabasele]]
+|-
+|MF ||'''8''' ||{{flagicon|ENG}} [[Tom Cleverley]] || || {{subon|73}}
+|-
+|FW ||'''10'''||{{flagicon|NGA}} [[Isaac Success]] || || {{subon|66}}
+|-
+|FW ||'''18'''||{{flagicon|ENG}} [[Andre Gray]] || || {{subon|66}}
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ESP}} [[Javi Gracia]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|style="width:40%; vertical-align:top;"|
+'''Man of the Match:'''
+<br />[[Kevin De Bruyne]] (Manchester City)<ref name=guardlive/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name=referee/>
+<br />Constantine Hatzidakis ([[Kent County Football Association|Kent]])
+<br />Matthew Wilkes ([[Birmingham County Football Association|Birmingham]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name=referee/>
+<br />[[Graham Scott (referee)|Graham Scott]] ([[Berks & Bucks Football Association|Berks & Bucks]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name=referee/>
+<br />Edward Smart ([[Birmingham County Football Association|Birmingham]])
+<br />'''[[Video assistant referee]]:'''<ref name=referee/>
+<br />[[Andre Marriner]] ([[Birmingham County Football Association|Birmingham]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name=referee/>
+<br />Harry Lennard ([[Sussex County Football Association|Sussex]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref>{{cite web |url=http://www.thefa.com/-/media/thefacom-new/files/competitions/2018-19/emirates-fa-cup-rules-2018-19.ashx |title=Rules of the FA Challenge Cup competition |publisher=[[The Football Association]] |format=PDF |access-date=29 April 2019 |archive-url=https://web.archive.org/web/20190426175946/http://www.thefa.com/-/media/thefacom-new/files/competitions/2018-19/emirates-fa-cup-rules-2018-19.ashx |archive-date=26 April 2019 |url-status=live }}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutions, with a fourth allowed in extra time
+|}
+
+===Statistics===
+[[File:Kevin De Bruyne (24640482031) (cropped).jpg|right|upright|thumb|alt=Kevin De Bruyne|[[Kevin De Bruyne]] ''(pictured in 2016)'' was named [[Player of the match|man of the match]].]]
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+Statistics<ref name=guardlive3/>
+|-
+!scope=col width=100 |
+!scope=col width=70 | Manchester City
+!scope=col width=70 | Watford
+|-
+!scope=row|Total shots
+| 23
+| 11
+|-
+!scope=row|Shots on target
+| 12
+| 2
+|-
+!scope=row|Corner kicks
+| 13
+| 1
+|-
+!scope=row|Fouls committed
+| 8
+| 5
+|-
+!scope=row|Possession
+| 66%
+| 34%
+|-
+!scope=row|Yellow cards
+| 1
+| 2
+|-
+!scope=row|Red cards
+| 0
+| 0
+|}
+
+==Post-match==
+[[Pep Guardiola]], the winning manager, was elated: "It was an incredible final for us and we have finished an incredible year{{nbsp}}...  To all the people at the club a big congratulations, especially the players because they are the reason why we have won these titles".<ref name=guardlive/>  His opposite number, [[Javi Gracia]] said: "we knew before the game we had to play the perfect game{{nbsp}}...  We started well and we created the best chance after 10 minutes with Roberto Pereyra but after that they dominated.  They were better, congratulations to them and we will try again".<ref name=guardlive/>  De Bruyne was named as the [[player of the match|man of the match]].<ref name=guardlive/>  Kompany, the City captain, said: "As soon as we scored the two goals and they had to come at us and press{{nbsp}}...  It made it easier for us.  It wasn't as easy as the score suggests".<ref name=guardlive/>  The day after the game, Kompany said that the match was his final game for the club as he would be leaving after eleven years to become the [[player-manager]] of [[R.S.C. Anderlecht|Anderlecht]].<ref>{{cite web |title=Vincent Kompany leaves Manchester City to become Anderlecht player-manager |url=https://www.bbc.co.uk/sport/football/48325845 |publisher=[[BBC Sport]] |date=19 May 2019 |access-date=19 May 2019 |archive-url=https://web.archive.org/web/20190519081347/https://www.bbc.co.uk/sport/football/48325845 |archive-date=19 May 2019 |url-status=live }}</ref>  Watford's Gomes decided against retirement and instead signed a one-year extension to his contract.<ref>{{Cite web | url = https://www.bbc.co.uk/sport/football/48805936 | title = Heurelho Gomes: Watford's veteran keeper signs new one-year | publisher=[[BBC Sport]] | access-date = 16 July 2020 | date = 28 June 2019 | archive-date = 9 March 2021 | archive-url = https://web.archive.org/web/20210309231412/https://www.bbc.com/sport/football/48805936 | url-status = live }}</ref>
+
+Daniel Taylor writing in ''[[The Guardian]]'' described the game as a "cakewalk" for City.<ref name=demo>{{Cite web | url = https://www.theguardian.com/football/2019/may/18/manchester-city-win-treble-watford-fa-cup-final-match-report | work = [[The Guardian]] | title = Manchester City win FA Cup to seal treble with 6–0 demolition of Watford | first = Daniel | last = Taylor | access-date = 16 July 2020 | date = 18 May 2019 | archive-url = https://web.archive.org/web/20200301211541/https://www.theguardian.com/football/2019/may/18/manchester-city-win-treble-watford-fa-cup-final-match-report | archive-date = 1 March 2020 | url-status = live }}</ref>  City scored 26 goals during the season's cup campaign, the most by any FA Cup-winning team since the [[1925–26 FA Cup]].<ref name=rep11v11/> It was also the largest margin of victory in an FA Cup Final since the [[1903 FA Cup final|1903 final]] which ended with the same scoreline, [[Bury F.C.|Bury]] beating [[Derby County F.C.|Derby County]].<ref name=rep11v11/>  Manchester City became the first English men's team to win a domestic [[Treble (association football)|treble]], having already won the EFL Cup and Premier League that season.<ref>{{cite news |last=Bullin |first=Matt |date=18 May 2019 |title=Man City win treble – how impressive is that achievement? |url=https://www.bbc.com/sport/football/48321358 |publisher=[[BBC Sport]] |access-date=18 May 2019 |archive-url=https://web.archive.org/web/20190518180734/https://www.bbc.com/sport/football/48321358 |archive-date=18 May 2019 |url-status=live }}</ref> 
+
+Winning the FA Cup meant that Manchester City qualified to play [[Liverpool F.C.|Liverpool]], the Premier League runners-up, in the [[2019 FA Community Shield|Community Shield]] in August which they won on penalties after a 1–1 draw.<ref>{{cite news |date=4 August 2019 |title=Community Shield: Liverpool 1–1 Man City (City won 5–4 on penalties) |url=https://www.bbc.co.uk/sport/football/49141690 |publisher=[[BBC Sport]] |first = Emlyn | last= Begley | access-date=17 November 2019 |archive-url=https://web.archive.org/web/20190808212252/https://www.bbc.co.uk/sport/football/49141690 |archive-date=8 August 2019 |url-status=live }}</ref>  City's victory meant that Wolves went into the second qualifying round of the [[2019–20 UEFA Europa League]] having finished seventh in the Premier League while [[Manchester United F.C.|Manchester United]] went directly into the group stages.<ref name=guardlive3/>
+
+==References==
+{{Reflist}}
+
+==Sources==
+*[https://www.thefa.com/news/2019/may/18/fa-cup-final-man-city-watford-180519 2019 Final at FA]
+
+{{FA Cup}}
+{{2018–19 in English men's football}}
+{{Manchester City F.C. matches}}
+{{Watford F.C. matches}}
+
+{{featured article}}
+[[Category:FA Cup finals]]
+[[Category:2018–19 FA Cup|Final]]
+[[Category:Manchester City F.C. matches|FA Cup Final 2019]]
+[[Category:Watford F.C. matches|FA Cup Final 2019]]
+[[Category:2019 in sport in London|FA Cup Final]]
+[[Category:May 2019 sports events in the United Kingdom|FA Cup Final]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:Football matches in London]]

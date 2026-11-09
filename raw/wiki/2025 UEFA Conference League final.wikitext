@@ -1,0 +1,577 @@
+{{Use dmy dates|date=June 2022}}
+{{Infobox football match
+| title              = 2025 UEFA Conference League final 
+| image              = File:2025 UEFA Conference League final programme.png
+| image_size         = frameless
+| caption            = Match programme cover
+| event              = [[2024–25 UEFA Conference League]]
+| team1              = [[Real Betis]]
+| team1association   = {{#invoke:flag|fbaicon|ESP|size=30px}}
+| team1score         = 1
+| team2              = [[Chelsea F.C.|Chelsea]]
+| team2association   = {{#invoke:flag|fbaicon|ENG|size=30px}}
+| team2score         = 4
+| details            =
+| date               = {{Start date|2025|5|28|df=y}}
+| stadium            = [[Wrocław Stadium]]
+| city               = [[Wrocław]]
+| man_of_the_match1a = [[Cole Palmer]] (Chelsea)<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefaconferenceleague/news/0299-1dde145a671c-b19ce043dde1-1000/ |title=Cole Palmer named official 2025 UEFA Conference League final Player of the Match |website=UEFA.com|publisher=Union of European Football Associations |date=28 May 2025 |access-date=28 May 2025}}</ref>
+| referee            = [[Irfan Peljto]] {{nowrap|([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])<ref name="officials">{{cite web |url=https://www.uefa.com/news-media/news/0299-1dbd3134c0ae-d632a42a13d0-1000/ |title=Referee teams for 2025 UEFA club competition finals announced |website=UEFA.com|publisher=Union of European Football Associations |date=12 May 2025 |access-date=12 May 2025}}</ref>}}
+| attendance         = 39,754<ref name="report 28 May"/>
+| weather            = Partly cloudy night<br />{{convert|15|°C|°F}}<br />84% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2025/2044464_LU.pdf |title=Tactical Lineups – Final – Wednesday 28 May 2025 |website=UEFA.com |publisher=Union of European Football Associations |date=28 May 2025 |access-date=28 May 2025}}</ref>
+| previous           = [[2024 UEFA Europa Conference League final|2024]]
+| next               = [[2026 UEFA Conference League final|2026]]
+}}
+The '''2025 UEFA Conference League final''' was the final match of the [[2024–25 UEFA Conference League]], the fourth season of Europe's tertiary club [[association football|football]] tournament organised by [[UEFA]], and the first season since it was renamed from the UEFA Europa Conference League to the [[UEFA Conference League]]. It was played at the [[Wrocław Stadium]] in [[Wrocław]], Poland, on 28 May 2025, between Spanish club [[Real Betis]] and English club [[Chelsea F.C.|Chelsea]].<ref name="invitation to bid"/>
+
+Chelsea won the match 4–1 to secure their first UEFA Conference League title, thus becoming the first club to [[UEFA club competition records and statistics#List of teams to have won the main European club competitions|win all four major European trophies]] and all three of the current European competitions.<ref>{{cite web |url=https://www.uefa.com/uefaconferenceleague/news/0299-1dde1ba33803-6370dd142717-1000/ |title=Real Betis 1–4 Chelsea: The Blues complete the set with Conference League success |website=UEFA.com|publisher=Union of European Football Associations |date=28 May 2025 |access-date=28 May 2025}}</ref> Chelsea also became the first non-Spanish side to defeat a Spanish club in a European final since 2001, when [[FC Bayern Munich|Bayern Munich]] won against [[Valencia CF|Valencia]] in the [[2001 UEFA Champions League final|Champions League final]].<ref>{{cite web |url=https://iffhs.com/en/news/iffhs-continental-stats-uefa-conference-league-final-4396 |title=IFFHS continental stats – UEFA Conference League final |publisher=[[IFFHS]] |date=29 May 2025 |access-date=31 May 2025}}</ref> As Chelsea already qualified automatically for the league phase of the [[2025–26 UEFA Champions League]] through their league position, the berth reserved for the UEFA Conference League winners in the [[2025–26 UEFA Europa League]] was vacated.
+
+The three-goal margin of victory in this match was the largest in a [[List of UEFA Conference League finals|Conference League final]], which saw the first three winners prevailed by a single-goal margin. This match was also the highest-scoring Conference League final.<ref>{{cite web |url=https://www.uefa.com/uefaconferenceleague/history/winners/finals/ |title=Finals {{!}} History {{!}} UEFA Conference League |website=UEFA.com|publisher=Union of European Football Associations |access-date=6 June 2025}}</ref>
+
+==Background==
+Real Betis reached their first ever European final.
+
+This was Chelsea's thirteenth European final and the first UEFA Conference League final appearance. They had won two titles in each of the three pre-1999 major European competitions; the [[UEFA Champions League]] in [[2012 UEFA Champions League final|2012]] and [[2021 UEFA Champions League final|2021]], the [[UEFA Cup Winners' Cup|Cup Winners' Cup]] in [[1971 European Cup Winners' Cup final|1971]] and [[1998 UEFA Cup Winners' Cup final|1998]], and the [[UEFA Europa League]] in [[2013 UEFA Europa League final|2013]] and [[2019 UEFA Europa League final|2019]], in addition they have also won two [[UEFA Super Cup]]s, in [[1998 UEFA Super Cup|1998]] and [[2021 UEFA Super Cup|2021]]. The club has lost four European finals, the [[2008 UEFA Champions League final]] and the [[2012 UEFA Super Cup|2012]], [[2013 UEFA Super Cup|2013]] and [[2019 UEFA Super Cup]]s. As they win the final, they became the first club to have [[UEFA club competition records and statistics#List of teams to have won the main European club competitions|won all four major European trophies]].
+
+The clubs had faced each other four times; twice in the quarter-finals of the [[1997–98 UEFA Cup Winners' Cup]] and twice in the [[2005–06 UEFA Champions League group stage]].<ref>{{cite web |url=https://www.uefa.com/uefaconferenceleague/news/0299-1dbd28d2d21d-1f8c20eb5261-1000--real-betis-vs-chelsea-what-to-look-out-for-in-the-uefa-con/ |title=Real Betis vs Chelsea: What to look out for in the UEFA Conference League final |work=UEFA.com|publisher=Union of European Football Associations |access-date=19 May 2025|date=12 May 2025}}</ref> Chelsea won three of those encounters, defeating Betis 2–1 in Seville and 3–1 in London to secure a 5–2 aggregate victory en route to the Cup Winners' Cup title, and triumphing 4–0 in their home fixture in the 2005–06 season. However, Betis claimed victory in the most recent meeting between the sides, winning 1–0 in Seville later that stage. Despite that loss, Chelsea advanced to the round of 16 by finishing second in the [[2005–06 UEFA Champions League group stage#Group G|group]], while Betis placed third and moved into the [[2005–06 UEFA Cup|UEFA Cup]]—ultimately won by their [[Seville derby|city rivals]], [[Sevilla FC|Sevilla]].
+
+===Previous finals===
+{| class="wikitable plainrowheaders"
+|-
+!scope="col"|Team
+!scope="col"|Previous final appearances
+|-
+|{{#invoke:flag|fbaicon|ESP}} [[Real Betis]]
+|None
+|-
+|{{#invoke:flag|fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|None
+|}
+
+==Venue==
+[[File:20150303- MPF1394 www (003).jpg|thumb|275px|[[Wrocław Stadium]] in [[Wrocław]] hosted the final.]]
+
+The [[Wrocław Stadium]] in [[Wrocław]], known as the Tarczyński Arena for sponsorship reasons, is the home of [[Śląsk Wrocław]]. The stadium opened in September 2011,<ref>{{cite news|url=http://stadiony.net/stadiony/pol/stadion_slaska_wroclaw|title=Stadion Miejski we Wrocławiu|work=stadiony.net|language=pl|access-date=7 May 2025}}</ref> and had a capacity of 42,771.<ref>{{Cite web|title = Fakty i liczby |language=pl|url=https://tarczynskiarenawroclaw.pl/stadion/fakty-i-liczby/|publisher=Tarczyński Arena Wrocław|access-date=7 May 2025}}</ref> The venue previously hosted matches at [[UEFA Euro 2012]]. The match was the third single-leg UEFA club final to be played in Poland, after the [[UEFA Europa League]] finals in [[2015 UEFA Europa League final|2015]] and [[2021 UEFA Europa League final|2021]].
+
+===Host selection===
+On 21 June 2022, UEFA opened the bidding process for the final, which was held in parallel with that of the [[2024 UEFA Europa Conference League final|2024 final]]. Interested bidders could bid for either one or both of the finals. The proposed venues had to include natural grass and be ranked as a [[UEFA stadium categories|UEFA category four stadium]], with a gross capacity of between 30,000 and 50,000 preferred. The bidding timeline was as follows:<ref name="invitation to bid">{{cite magazine |url=https://editorial.uefa.com/resources/0276-157279a17ca3-262ebb8e502e-1000/20220621_circular_2022_40_en.zip |title=Invitation to bid for the 2023/24 and 2024/25 UEFA Europa Conference League finals and the 2024/25 UEFA Women's Champions League final|magazine=UEFA Circular Letter |publisher=Union of European Football Associations |number=40/2022 |date=21 June 2022 |access-date=28 June 2022}}</ref>
+
+*21 June 2022: Applications formally invited
+*31 August 2022: Closing date for registering intention to bid
+*7 September 2022: Bid requirements made available to bidders
+*3 November 2022: Submission of preliminary bid dossier
+*23 February 2023: Submission of final bid dossier
+*28 June 2023: Appointment of host
+
+The UEFA Executive Committee appointed the Wrocław Stadium as the host during their meeting in [[Nyon]], Switzerland, on 28 June 2023.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0282-185d513bd18e-32f59d9c7dea-1000/ |title=Lisbon to host UEFA Women's Champions League final in 2025 |work=UEFA.com|publisher=Union of European Football Associations |date=28 June 2023 |access-date=28 June 2023}}</ref>
+
+==Route to the final==
+{{Further|2024–25 UEFA Conference League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center; white-space:nowrap;"
+|-
+!colspan="4"|{{#invoke:flag|fbaicon|ESP}} [[Real Betis]]
+!Round
+!colspan="4"|{{#invoke:flag|fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|- style="background:#C1E0FF"
+|Opponent
+|{{Agg}}
+|1st leg
+|2nd leg
+|style="background:#C1E0FF"|[[2024–25 UEFA Conference League qualifying phase and play-off round|Qualifying phase]]
+|Opponent
+|{{Agg}}
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|UKR}} [[FC Kryvbas Kryvyi Rih|Kryvbas Kryvyi Rih]]
+|5–0
+|[[2024–25 UEFA Conference League qualifying phase and play-off round#Kryvbas Kryvyi Rih v Real Betis|2–0]] (A)
+|[[2024–25 UEFA Conference League qualifying phase and play-off round#Real Betis v Kryvbas Kryvyi Rih|3–0]] (H)
+|style="background:#C1E0FF"|Play-offs
+|style="text-align:left"|{{#invoke:flag|fbaicon|SUI}} [[Servette FC|Servette]]
+|3–2
+|[[2024–25 UEFA Conference League qualifying phase and play-off round#Chelsea v Servette|2–0]] (H)
+|[[2024–25 UEFA Conference League qualifying phase and play-off round#Servette v Chelsea|1–2]] (A)
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2024–25 UEFA Conference League league phase|League phase]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|POL}} [[Legia Warsaw]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#Legia Warsaw v Real Betis|0–1]] (A)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{#invoke:flag|fbaicon|BEL}} [[KAA Gent|Gent]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#Chelsea v Gent|4–2]] (H)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#Real Betis v Copenhagen|1–1]] (H)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{#invoke:flag|fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#Panathinaikos v Chelsea|4–1]] (A)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|SVN}} [[NK Celje|Celje]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#Real Betis v Celje|2–1]] (H)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{#invoke:flag|fbaicon|ARM}} [[FC Noah|Noah]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#Chelsea v Noah|8–0]] (H)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|CZE}} [[FK Mladá Boleslav|Mladá Boleslav]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#Mladá Boleslav v Real Betis|1–2]] (A)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{#invoke:flag|fbaicon|GER}} [[1. FC Heidenheim]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#1. FC Heidenheim v Chelsea|2–0]] (A)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|MDA}} [[FC Petrocub Hîncești|Petrocub Hîncești]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#Petrocub Hîncești v Real Betis|1–0]] (A)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{#invoke:flag|fbaicon|KAZ}} [[FC Astana|Astana]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#Astana v Chelsea|3–1]] (A)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|FIN}} [[Helsingin Jalkapalloklubi|HJK]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#Real Betis v HJK|1–0]] (H)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{#invoke:flag|fbaicon|IRL}} [[Shamrock Rovers F.C.|Shamrock Rovers]]
+|colspan="3"|[[2024–25 UEFA Conference League league phase#Chelsea v Shamrock Rovers|5–1]] (H)
+|-
+|colspan="4" style="vertical-align:top"|'''15th place'''<br>''Advanced to knockout phase play-offs''
+|style="background:#C1E0FF"|Final position
+|colspan="4" style="vertical-align:top"|'''1st place'''<br>''Advanced to round of 16''
+|- style="background:#C1E0FF"
+|Opponent
+|{{Agg}}
+|1st leg
+|2nd leg
+|[[2024–25 UEFA Conference League knockout phase|Knockout phase]]
+|Opponent
+|{{Agg}}
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|BEL}} [[KAA Gent|Gent]]
+|3–1
+|[[2024–25 UEFA Conference League knockout phase#Gent v Real Betis|3–0]] (A)
+|[[2024–25 UEFA Conference League knockout phase#Real Betis v Gent|0–1]] (H)
+|style="background:#C1E0FF"|Play-offs
+|colspan="4"|''Bye''
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|POR}} [[Vitória S.C.|Vitória de Guimarães]]
+|6–2
+|[[2024–25 UEFA Conference League knockout phase#Real Betis v Vitória de Guimarães|2–2]] (H)
+|[[2024–25 UEFA Conference League knockout phase#Vitória de Guimarães v Real Betis|4–0]] (A)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{#invoke:flag|fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|3–1
+|[[2024–25 UEFA Conference League knockout phase#Copenhagen v Chelsea|2–1]] (A)
+|[[2024–25 UEFA Conference League knockout phase#Chelsea v Copenhagen|1–0]] (H)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|POL}} [[Jagiellonia Białystok]]
+|3–1
+|[[2024–25 UEFA Conference League knockout phase#Real Betis v Jagiellonia Białystok|2–0]] (H)
+|[[2024–25 UEFA Conference League knockout phase#Jagiellonia Białystok v Real Betis|1–1]] (A)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{#invoke:flag|fbaicon|POL}} [[Legia Warsaw]]
+|4–2
+|[[2024–25 UEFA Conference League knockout phase#Legia Warsaw v Chelsea|3–0]] (A)
+|[[2024–25 UEFA Conference League knockout phase#Chelsea v Legia Warsaw|1–2]] (H)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|4–3
+|[[2024–25 UEFA Conference League knockout phase#Real Betis v Fiorentina|2–1]] (H)
+|[[2024–25 UEFA Conference League knockout phase#Fiorentina v Real Betis|2–2]] {{aet}} (A)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{#invoke:flag|fbaicon|SWE}} [[Djurgårdens IF Fotboll|Djurgårdens IF]]
+|5–1
+|[[2024–25 UEFA Conference League knockout phase#Djurgårdens IF v Chelsea|4–1]] (A)
+|[[2024–25 UEFA Conference League knockout phase#Chelsea v Djurgårdens IF|1–0]] (H)
+|}
+
+==Match==
+===Summary===
+Real Betis took the lead in the ninth minute after [[Isco]] played a ball across towards [[Abde Ezzalzouli]], who slotted the ball into the bottom right-hand corner of the net. Betis pushed for another goal soon after, with [[Marc Bartra]] having an effort from outside the penalty area tipped over by Chelsea goalkeeper [[Filip Jörgensen]]. And in the 20th minute, Ezzalzouli came forward again for Betis, evading two Chelsea players before squaring the ball across to [[Johnny Cardoso]] whose effort was deflected over the bar by  [[Benoît Badiashile]].<ref>{{cite web|url=https://www.theguardian.com/football/2025/may/28/real-betis-chelsea-europa-conference-league-final-match-report|title=Chelsea and Cole Palmer storm back at Real Betis to win Conference League|date=28 May 2025|work=Guardian|access-date=28 May 2025}}</ref>
+
+In the 65th minute, Chelsea found their equaliser after [[Cole Palmer]] crossed the ball into the penalty area, where [[Enzo Fernández]] managed to head the ball beyond Betis goalkeeper [[Adrián (footballer)|Adrián]] and draw the game level. Five minutes later, Palmer played another cross into the penalty area, this time touched into the goal by [[Nicolas Jackson]] to complete the turnaround for Chelsea. In the 78th minute, a quick Chelsea counter-attack saw Jackson and [[Jadon Sancho]] in a two against one against the Betis goalkeeper. Despite being through on goal, Jackson took a heavy touch, and the opportunity was missed. However, Sancho would get his goal in the 83rd minute, when he cut inside on his right foot before curling his effort into the back of the net. [[Moisés Caicedo]] then wrapped up the win in the first minute of added time with a shot that deflected off defender [[Natan (footballer, born 2001)|Natan]] before beating Adrián down his bottom-right hand side. With the victory, Chelsea became the first team to win all five UEFA club tournaments, including the [[UEFA Champions League]], [[UEFA Europa League]], [[UEFA Conference League]], [[UEFA Super Cup]] and the [[UEFA Cup Winners' Cup]].<ref>{{cite web |title=Chelsea 4–1 Real Betis: Chelsea come from behind to thrash Betis & win Conference League|date=28 May 2025 |url=https://www.bbc.com/sport/football/live/crk2zx2e1xet |website=BBC Sport|access-date=28 May 2025|first=Emlyn|last=Begley}}</ref>
+
+===Details===
+The "home" team (for administrative purposes) was predetermined as the winner of semi-final 1 (Real Betis).
+
+<onlyinclude>{{#invoke:football box|main
+|date       = {{Start date|2025|5|28|df=y}}
+|time       = {{CEST|21:00}}
+|team1      = [[Real Betis]] {{#invoke:flag|fbaicon|ESP}}
+|score      = 1–4
+|team2      = {{#invoke:flag|fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     =
+*[[Abde Ezzalzouli|Ezzalzouli]] {{goal|9}}
+|goals2     =
+*[[Enzo Fernández|Fernández]] {{goal|65}}
+*[[Nicolas Jackson|Jackson]] {{goal|70}}
+*[[Jadon Sancho|Sancho]] {{goal|83}}
+*[[Moisés Caicedo|Caicedo]] {{goal|90+1}}
+|stadium    = [[Wrocław Stadium]], [[Wrocław]]
+|attendance = 39,754<ref name="report 28 May">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2025/2044464_FR.pdf |title=Full Time Report Final – Real Betis v Chelsea |website=UEFA.com |publisher=Union of European Football Associations |date=28 May 2025 |access-date=28 May 2025}}</ref>
+|referee    = [[Irfan Peljto]] ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|report     = https://www.uefa.com/uefaconferenceleague/match/2044464/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _betis25conlf
+ |pattern_b  = _betis25CONLF
+ |pattern_ra = _betis25conlf
+ |pattern_sh = _betis25conlf
+ |pattern_so = _betis25conlfl
+ |leftarm    = 43A061
+ |body       = 43A061
+ |rightarm   = 43A061
+ |shorts     = FFFFFF
+ |socks      = 255B45
+ |title      = {{nowrap|Real Betis}}<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _chelsea2425h
+ |pattern_b  = _chelsea2425H
+ |pattern_ra = _chelsea2425h
+ |pattern_sh = _chelsea2425h
+ |pattern_so = _chelsea2425hl
+ |leftarm    = 0000E7
+ |body       = 0000E7
+ |rightarm   = 0000E7
+ |shorts     = 0000E7
+ |socks      = FFFFFF
+ |title      = Chelsea<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{#invoke:flag|icon|ESP}} [[Adrián (footballer)|Adrián]]
+|-
+|RB ||'''23'''||{{#invoke:flag|icon|SEN}} [[Youssouf Sabaly]]
+|-
+|CB ||'''5''' ||{{#invoke:flag|icon|ESP}} [[Marc Bartra]]
+|-
+|CB ||'''6''' ||{{#invoke:flag|icon|BRA}} [[Natan (footballer, born 2001)|Natan]]
+|-
+|LB ||'''12'''||{{#invoke:flag|icon|SUI}} [[Ricardo Rodriguez (footballer)|Ricardo Rodriguez]] || || {{suboff|46}}
+|-
+|CM ||'''18'''||{{#invoke:flag|icon|ESP}} [[Pablo Fornals]] || || {{suboff|85}}
+|-
+|CM ||'''22'''||{{#invoke:flag|icon|ESP}} [[Isco]] ([[Captain (association football)|c]])
+|-
+|CM ||'''4''' ||{{#invoke:flag|icon|USA}} [[Johnny Cardoso]] || || {{suboff|85}}
+|-
+|RF ||'''7''' ||{{#invoke:flag|icon|BRA}} [[Antony (footballer, born 2000)|Antony]] || {{yel|88}}
+|-
+|CF ||'''11'''||{{#invoke:flag|icon|COD}} [[Cédric Bakambu]] || || {{suboff|72}}
+|-
+|LF ||'''10'''||{{#invoke:flag|icon|MAR}} [[Abde Ezzalzouli]] || || {{suboff|53}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{#invoke:flag|icon|ESP}} [[Fran Vieites]]
+|-
+|GK ||'''41'''||{{#invoke:flag|icon|ESP}} [[Manu González]]
+|-
+|DF ||'''15'''||{{#invoke:flag|icon|FRA}} [[Romain Perraud]] || {{yel|90+5}} || {{subon|46}}
+|-
+|DF ||'''24'''||{{#invoke:flag|icon|ESP}} [[Aitor Ruibal]] || || {{subon|72}}
+|-
+|DF ||'''32'''||{{#invoke:flag|icon|SEN}} [[Nobel Mendy]]
+|-
+|DF ||'''40'''||{{#invoke:flag|icon|ESP}} [[Ángel Ortiz (footballer, born 2004)|Ángel Ortiz]]
+|-
+|MF ||'''16'''||{{#invoke:flag|icon|ESP}} [[Sergi Altimira]] || || {{subon|85}}
+|-
+|MF ||'''20'''||{{#invoke:flag|icon|ARG}} [[Giovani Lo Celso]] || || {{subon|85}}
+|-
+|MF ||'''46'''||{{#invoke:flag|icon|ESP}} [[Mateo Flores (footballer)|Mateo Flores]]
+|-
+|FW ||'''36'''||{{#invoke:flag|icon|ESP}} [[Jesús Rodríguez (footballer, born 2005)|Jesús Rodríguez]] || || {{subon|53}}
+|-
+|FW ||'''52'''||{{#invoke:flag|icon|ESP}} [[Pablo García (footballer, born 2006)|Pablo García]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|CHI}} [[Manuel Pellegrini]]
+|}
+|valign="top"|[[File:Real Betis vs Chelsea 2025-05-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||{{#invoke:flag|icon|DEN}} [[Filip Jörgensen]]
+|-
+|RB ||'''27'''||{{#invoke:flag|icon|FRA}} [[Malo Gusto]] || || {{suboff|46}}
+|-
+|CB ||'''23'''||{{#invoke:flag|icon|ENG}} [[Trevoh Chalobah]]
+|-
+|CB ||'''5''' ||{{#invoke:flag|icon|FRA}} [[Benoît Badiashile]] || {{yel|55}} || {{suboff|61}}
+|-
+|LB ||'''3''' ||{{#invoke:flag|icon|ESP}} [[Marc Cucurella]]
+|-
+|CM ||'''8''' ||{{#invoke:flag|icon|ARG}} [[Enzo Fernández]] ([[Captain (association football)|c]])
+|-
+|CM ||'''25'''||{{#invoke:flag|icon|ECU}} [[Moisés Caicedo]]
+|-
+|RW ||'''11'''||{{#invoke:flag|icon|ENG}} [[Noni Madueke]]
+|-
+|AM ||'''20'''||{{#invoke:flag|icon|ENG}} [[Cole Palmer]] || {{yel|79}} || {{suboff|87}}
+|-
+|LW ||'''7''' ||{{#invoke:flag|icon|POR}} [[Pedro Neto]] || || {{suboff|61}}
+|-
+|CF ||'''15'''||{{#invoke:flag|icon|SEN}} [[Nicolas Jackson]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|ESP}} [[Robert Sánchez]]
+|-
+|GK ||'''47'''||{{#invoke:flag|icon|FIN}} [[Lucas Bergström]]
+|-
+|DF ||'''4''' ||{{#invoke:flag|icon|ENG}} [[Tosin Adarabioyo]]
+|-
+|DF ||'''6''' ||{{#invoke:flag|icon|ENG}} [[Levi Colwill]] || || {{subon|61}}
+|-
+|DF ||'''24'''||{{#invoke:flag|icon|ENG}} [[Reece James (footballer, born 1999)|Reece James]] || || {{subon|46}}
+|-
+|DF ||'''34'''||{{#invoke:flag|icon|ENG}} [[Josh Acheampong]]
+|-
+|MF ||'''22'''||{{#invoke:flag|icon|ENG}} [[Kiernan Dewsbury-Hall]] || || {{subon|80}}
+|-
+|MF ||'''39'''||{{#invoke:flag|icon|FRA}} [[Mathis Amougou]]
+|-
+|FW ||'''18'''||{{#invoke:flag|icon|FRA}} [[Christopher Nkunku]]
+|-
+|FW ||'''19'''||{{#invoke:flag|icon|ENG}} [[Jadon Sancho]] || {{yel|85}} || {{subon|61}}
+|-
+|FW ||'''32'''||{{#invoke:flag|icon|ENG}} [[Tyrique George]]
+|-
+|FW ||'''38'''||{{#invoke:flag|icon|ESP}} [[Marc Guiu]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ITA}} [[Enzo Maresca]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Cole Palmer]] (Chelsea)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Senad Ibrišimbegović ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+<br />Davor Beljo ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Kerem Ersoy ([[Turkish Football Federation|Turkey]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Jérôme Brisard]] ([[French Football Federation|France]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />[[Willy Delajod]] ([[French Football Federation|France]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="officials"/>
+<br />[[Marco Di Bello]] ([[Italian Football Federation|Italy]])
+|style="width:60%; vertical-align:top;"|
+{{Match rules
+|ref               = <ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Conference-League-2024/25-Online |title=Regulations of the UEFA Conference League (2024–27 Cycle): 2024/25 Season |publisher=[[UEFA]] |location=[[Nyon]] |date=2 September 2024 |access-date=10 December 2024 |url-status=dead |archive-url=https://web.archive.org/web/20241211032827/https://documents.uefa.com/api/khub/maps/L5TQ8FFFtf~jShFpThokOg/attachments/K3CRsAVlZtu4K5JfyBsF7Q-L5TQ8FFFtf~jShFpThokOg/content |archive-date=11 December 2024}}</ref>
+|extra time        = y
+|penalties         = y
+|named subs        = 12
+|additional sub ET = y
+|subs allowed      = 5
+|sub opportunities = y
+}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2025/2044464_TS.pdf |title=Team statistics |website=UEFA.com|publisher=Union of European Football Associations |date=28 May 2025 |access-date=28 May 2025}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Betis
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|7
+|4
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|33%
+|67%
+|-
+!scope=row|Corner kicks
+|3
+|2
+|-
+!scope=row|Fouls committed
+|9
+|6
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Betis
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|0
+|4
+|-
+!scope=row|Total shots
+|6
+|7
+|-
+!scope=row|Shots on target
+|1
+|6
+|-
+!scope=row|Saves
+|2
+|1
+|-
+!scope=row|Ball possession
+|40%
+|60%
+|-
+!scope=row|Corner kicks
+|1
+|2
+|-
+!scope=row|Fouls committed
+|7
+|6
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|2
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Betis
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|1
+|4
+|-
+!scope=row|Total shots
+|13
+|11
+|-
+!scope=row|Shots on target
+|3
+|7
+|-
+!scope=row|Saves
+|3
+|2
+|-
+!scope=row|Ball possession
+|36%
+|64%
+|-
+!scope=row|Corner kicks
+|4
+|4
+|-
+!scope=row|Fouls committed
+|16
+|12
+|-
+!scope=row|Offsides
+|0
+|3
+|-
+!scope=row|Yellow cards
+|2
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2025 UEFA Champions League final]]
+*[[2025 UEFA Europa League final]]
+*[[2025 UEFA Women's Champions League final]]
+*[[2025 UEFA Super Cup]]
+*[[Chelsea F.C. in international football|Chelsea in international football]]
+*[[Real Betis in European football]]
+*[[2024–25 Chelsea F.C. season|2024–25 Chelsea season]]
+*[[2024–25 Real Betis season]]
+
+==References==
+<references />
+
+==External links==
+*{{Official website|https://www.uefa.com/uefaeuropaconferenceleague/}}
+
+{{UEFA Conference League}}
+{{2024–25 in European football (UEFA)}}
+{{Real Betis matches}}
+{{Chelsea F.C. matches}}
+
+{{DEFAULTSORT:Uefa Conference League Final 2025}}
+[[Category:UEFA Conference League finals|2025]]
+[[Category:2024–25 UEFA Conference League|Final]]
+[[Category:2024–25 in Spanish men's football]]
+[[Category:2024–25 in English men's football]]
+[[Category:Real Betis matches]]
+[[Category:Chelsea F.C. matches]]
+[[Category:May 2025 sports events in Poland]]
+[[Category:2024–25 in Polish football]]
+[[Category:Sports competitions in Wrocław]]
+[[Category:21st century in Wrocław]]
+[[Category:Spain–United Kingdom sports relations|2025]]
+[[Category:Football matches in Poland]]

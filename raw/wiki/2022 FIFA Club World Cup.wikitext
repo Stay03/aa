@@ -1,0 +1,615 @@
+{{Short description|19th edition of the FIFA Club World Cup in 2022}}
+{{For|the Club World Cup tournament planned for 2021 and postponed to early 2022|2021 FIFA Club World Cup}}
+{{Use dmy dates|date=December 2022}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2022
+| other_titles   = FIFA Club World Cup Morocco 2022<br />presented by Visit Saudi<br />كأس العالم للأندية لكرة القدم<br />المغرب 2022
+| image          = 2022 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA trophy}}
+| country        = Morocco
+| dates          = 1–11 February 2023
+| num_teams      = 7
+| confederations = 6
+| venues         = 2
+| cities         = 2
+| champion_other = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| count          = 5
+| second_other   = {{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+| third_other    = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+| fourth_other   = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| matches        = 7
+| goals          = 30
+| attendance     = {{#expr: <!--First round-->47137 <!--Second round-->+ 43891 + 30589 <!--Semi-finals-->+ 42496 + 43508 <!--Match for third place-->+ 30216 <!--Final-->+ 44439}}
+| top_scorer     = {{fbaicon|BRA}} [[Pedro (footballer, born 1997)|Pedro]] (Flamengo)<br />4 goals
+| player         = {{nowrap|{{fbaicon|BRA}} [[Vinícius Júnior]] (Real Madrid)}}
+| fair_play      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| prevseason     = [[2021 FIFA Club World Cup|2021]]
+| nextseason     = [[2023 FIFA Club World Cup|2023]]
+}}
+The '''2022 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup Morocco 2022 presented by Visit Saudi''' for sponsorship reasons) was the 19th edition of the [[FIFA Club World Cup]], a [[FIFA]]-organised international club [[association football|football]] tournament between the winners of the six continental confederations, as well as the host nation's league champions. The tournament was held from 1 to 11 February 2023 in [[Morocco]].<ref name=BBC2022>{{cite news |title=Club World Cup: Fifa to stage 32-team tournament from June 2025 - president Gianni Infantino |url=https://www.bbc.com/sport/football/64001866 |access-date=16 December 2022 |work=BBC Sport |date=16 December 2022 |archive-date=23 December 2022 |archive-url=https://web.archive.org/web/20221223020944/https://www.bbc.com/sport/football/64001866 |url-status=live}}</ref>
+
+[[Chelsea F.C.|Chelsea]] were the defending champions, but they were not able to defend their title as they did not qualify after being eliminated in the quarter-finals of the [[2021–22 UEFA Champions League]] by eventual winners [[Real Madrid CF|Real Madrid]]. The Spanish side went on to win the Club World Cup for a record-extending fifth time, beating [[Al Ahly SC|Al Ahly]] of Egypt 4–1 in the semi-finals before a 5–3 win over Saudi Arabian side [[Al-Hilal Saudi FC|Al-Hilal]] in the [[2022 FIFA Club World Cup final|final]].
+
+This edition also marked the first time a club from the United States ([[Seattle Sounders FC]]) took part in the tournament, therefore also making this edition the first one since the [[2005 FIFA Club World Championship|2005 edition]] to not feature a Mexican club.
+
+==Background and host appointment==
+While the Club World Cup was typically played annually in December, the 2022 tournament could not take place during this period due to the scheduling of the [[2022 FIFA World Cup]] in [[Qatar]] in November and December 2022. This, in conjunction with FIFA's planned future expansion of the Club World Cup, resulted in few public details on whether the 2022 tournament would take place.<ref>{{cite news |last=Mather |first=Victor |url=https://www.nytimes.com/2022/05/05/sports/soccer/sounders-club-world-cup.html |title=The Sounders Qualified for the Club World Cup. No One Knows When It Is. |work=[[The New York Times]] |date=5 May 2022 |access-date=14 December 2022 |archive-date=27 May 2022 |archive-url=https://web.archive.org/web/20220527220411/https://www.nytimes.com/2022/05/05/sports/soccer/sounders-club-world-cup.html |url-status=live}}</ref> However, [[United States dollar|US$]]20 million was allocated for the Club World Cup in FIFA's 2023 budget.<ref>{{cite web |url=https://publications.fifa.com/en/annual-report-2021/2021-financials-and-2023-budget/2023-budget/ |title=2021 financials and 2023 budget |publisher=[[FIFA]] |access-date=14 December 2022 |archive-date=14 December 2022 |archive-url=https://web.archive.org/web/20221214203927/https://publications.fifa.com/en/annual-report-2021/2021-financials-and-2023-budget/2023-budget/ |url-status=live}}</ref><ref>{{cite news |last=Rizzo |first=Marcel |url=https://www.uol.com.br/esporte/futebol/colunas/marcel-rizzo/2022/02/26/fifa-confirma-mundial-no-formato-atual-com-sete-times-pelo-menos-ate-2023.htm |title=Fifa confirma Mundial de Clubes no formato com sete times ao menos até 2023 |trans-title=FIFA confirms Club World Cup in seven-team format until at least 2023 |work=[[Universo Online]] |date=26 February 2022 |access-date=23 December 2022 |language=pt |archive-date=9 February 2023 |archive-url=https://web.archive.org/web/20230209143727/https://www.uol.com.br/esporte/futebol/colunas/marcel-rizzo/2022/02/26/fifa-confirma-mundial-no-formato-atual-com-sete-times-pelo-menos-ate-2023.htm |url-status=live}}</ref> In December 2022, [[CONCACAF]] president [[Victor Montagliani]] implied the Club World Cup would take place in 2023, but would not be hosted by the United States.<ref>{{cite news |last=McIntyre |first=Doug |url=https://www.foxsports.com/stories/soccer/fifa-vp-qatar-2022-could-be-last-world-cup-hosted-by-single-country |title=FIFA VP: Qatar 2022 could be last World Cup hosted by single country |work=[[Fox Sports]] |date=6 December 2022 |access-date=14 December 2022 |archive-date=14 December 2022 |archive-url=https://web.archive.org/web/20221214203926/https://www.foxsports.com/stories/soccer/fifa-vp-qatar-2022-could-be-last-world-cup-hosted-by-single-country |url-status=live}}</ref> On 14 December, FIFA announced the host and tournament dates would be confirmed at the [[FIFA Council]] meeting in [[Doha]], Qatar, on 16 December.<ref>{{cite web |url=https://www.fifa.com/about-fifa/organisation/news/agenda-for-fifa-council-meeting-now-available-2 |title=Agenda for FIFA Council meeting now available |publisher=[[FIFA]] |date=14 December 2022 |access-date=14 December 2022 |archive-date=23 December 2022 |archive-url=https://web.archive.org/web/20221223083957/https://www.fifa.com/about-fifa/organisation/news/agenda-for-fifa-council-meeting-now-available-2 |url-status=live}}</ref><ref>{{cite web |url=https://digitalhub.fifa.com/m/2fb5691ead9f5970/original/Agenda-Council-meeting-no-21_EN.pdf |title=Agenda of meeting no. 21 of the FIFA Council |publisher=[[FIFA]] |page=2 |date=14 December 2022 |access-date=14 December 2022 |archive-date=19 December 2022 |archive-url=https://web.archive.org/web/20221219131606/https://digitalhub.fifa.com/m/2fb5691ead9f5970/original/Agenda-Council-meeting-no-21_EN.pdf |url-status=live}}</ref>
+
+In May 2022, ''[[Universo Online|UOL Esporte]]'' reported that Japan were interested in hosting the tournament, having won hosting rights for the [[2021 FIFA Club World Cup|previous tournament]] before backing out due to the [[COVID-19 pandemic in Japan]].<ref>{{cite news |last=Rizzo |first=Marcel |url=https://www.uol.com.br/esporte/futebol/colunas/marcel-rizzo/2022/08/17/fifa-mundial-de-clubes-palmeiras-flamengo-athletico-china.htm |title=China pode receber o Mundial de Clubes 2022; campeão da Libertadores jogará |trans-title=China can host the 2022 Club World Cup; Libertadores champion will play |work=[[Universo Online]] |date=17 August 2022 |access-date=23 December 2022 |language=pt |archive-date=23 December 2022 |archive-url=https://web.archive.org/web/20221223202202/https://www.uol.com.br/esporte/futebol/colunas/marcel-rizzo/2022/08/17/fifa-mundial-de-clubes-palmeiras-flamengo-athletico-china.htm |url-status=live}}</ref> ''UOL Esporte'' also reported in August that China were interested in holding the tournament, having originally been chosen to host an [[2025 FIFA Club World Cup|expanded Club World Cup in 2021]] which was postponed due to scheduling issues caused by the [[COVID-19 pandemic]].<ref>{{cite news |last=Rizzo |first=Marcel |url=https://www.uol.com.br/esporte/futebol/colunas/marcel-rizzo/2022/05/06/japao-e-favorito-para-receber-mundial-de-clubes-de-2022.htm |title=Japão é candidato para receber o Mundial de Clubes-2022 |trans-title=Japan is a candidate to host the 2022 Club World Cup |work=[[Universo Online]] |date=6 May 2022 |access-date=23 December 2022 |language=pt |archive-date=23 December 2022 |archive-url=https://web.archive.org/web/20221223202208/https://www.uol.com.br/esporte/futebol/colunas/marcel-rizzo/2022/05/06/japao-e-favorito-para-receber-mundial-de-clubes-de-2022.htm |url-status=live}}</ref> In September, ''[[Diario AS]]'' reported that the United States and the United Arab Emirates, hosts of the previous tournament, were also interested in staging the tournament.<ref>{{cite news |last=Roncero |first=Tomás |url=https://as.com/futbol/champions/eeuu-apunta-al-mundialito-n/ |title=EE.UU. apunta al Mundialito |trans-title=USA aims for the Mundialito |work=[[Diario AS]] |date=9 September 2022 |access-date=14 December 2022 |language=es |archive-date=23 December 2022 |archive-url=https://web.archive.org/web/20221223202155/https://as.com/futbol/champions/eeuu-apunta-al-mundialito-n/ |url-status=live}}</ref> In December, ''Diario AS'' reported that Morocco, Qatar and the United Arab Emirates were the final contenders to host the tournament.<ref name="AS">{{cite news |last=Maroto |first=Joaquín |url=https://as.com/futbol/la-fifa-cita-al-real-madrid-al-mundial-de-clubes-del-1-al-11-de-febrero-en-abu-dabi-n/ |title=La FIFA cita al Real Madrid al Mundial de Clubes del 1 al 11 de febrero |trans-title=FIFA summons Real Madrid to the Club World Cup from 1 to 11 February |work=[[Diario AS]] |date=14 December 2022 |access-date=14 December 2022 |language=es |archive-date=14 December 2022 |archive-url=https://web.archive.org/web/20221214203926/https://as.com/futbol/la-fifa-cita-al-real-madrid-al-mundial-de-clubes-del-1-al-11-de-febrero-en-abu-dabi-n/ |url-status=live}}</ref> On 16 December 2022, the FIFA Council appointed Morocco as the host for the tournament, and confirmed it would take place from 1 to 11 February 2023.<ref>{{cite web |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-world-cup-2022-tm-praised-for-its-unique-cohesive-power |title=FIFA World Cup 2022 praised for its "unique cohesive power" |publisher=[[FIFA]] |date=16 December 2022 |access-date=16 December 2022 |archive-date=16 December 2022 |archive-url=https://web.archive.org/web/20221216112022/https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-world-cup-2022-tm-praised-for-its-unique-cohesive-power |url-status=live}}</ref><ref name=BBC2022/> ''Diario AS'' also reported that the final of the [[2022 AFC Champions League]], which had been pushed back to finish in May 2023 due to scheduling issues,<ref name="AFC latest update">{{cite web |url=https://www.the-afc.com/en/more/afc_news/news/latest_update_on_the_afc_champions_league_2022%E2%84%A2.html |title=Latest update on the AFC Champions League 2022 |publisher=[[Asian Football Confederation]] |date=9 December 2022 |access-date=23 December 2022 |archive-date=21 December 2022 |archive-url=https://web.archive.org/web/20221221041629/https://www.the-afc.com/en/more/afc_news/news/latest_update_on_the_afc_champions_league_2022%E2%84%A2.html |url-status=live}}</ref> would be moved forward to facilitate the scheduling of the 2022 FIFA Club World Cup.<ref name="AS"/> However, the AFC confirmed on 23 December 2022 that as the 2022 AFC Champions League would not be completed in time, [[Al-Hilal Saudi FC|Al-Hilal]] would be their representative at the 2022 FIFA Club World Cup as the reigning champions from the [[2021 AFC Champions League]].<ref name="AFC nomination"/>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of the teams participating in the 2022 FIFA Club World Cup|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-22.912147|long=-43.230187|label_size=80|label=[[CR Flamengo|Flamengo]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=40.453058|long=-3.688337|label_size=80|label=[[Real Madrid CF|Real Madrid]]|position=right}}
+<!--AFC-->
+{{Location map~|World|lat=24.788598|long=46.839195|label_size=80|label=[[Al-Hilal Saudi FC|Al-Hilal]]|position=bottom}}
+<!--CAF-->
+{{Location map~|World|lat=33.582859|long=-7.646818|label_size=80|label=[[Wydad AC|Wydad Casablanca]]|position=left}}
+<!--CONCACAF-->
+{{Location map~|World|lat=47.595157|long=-122.331641|label_size=80|label=[[Seattle Sounders FC]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-36.898035|long=174.736502|label_size=80|label=[[Auckland City FC|Auckland City]]|position=left}}
+<!--Host-->
+{{Location map~|World|lat=30.174425|long=31.435085|label_size=80|label=[[Al Ahly SC|Al Ahly]]|position=left}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Qualified date
+!Participation (bold indicates winners)
+|-
+!colspan=5|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|[[CONMEBOL]]
+|Winners of the [[2022 Copa Libertadores]]
+|29 October 2022
+|2nd {{small|(Previous: [[2019 FIFA Club World Cup|2019]])}}
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[UEFA]]
+|Winners of the [[2021–22 UEFA Champions League]]
+|28 May 2022
+|6th {{small|(Previous: [[2000 FIFA Club World Championship|2000]], '''[[2014 FIFA Club World Cup|2014]]''', '''[[2016 FIFA Club World Cup|2016]]''', '''[[2017 FIFA Club World Cup|2017]]''', '''[[2018 FIFA Club World Cup|2018]]''')}}
+|-
+!colspan=5|Entering in the [[#Second round|second round]]
+|-
+|{{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+|[[Asian Football Confederation|AFC]]
+|Nominated by AFC Champion of the [[2021 AFC Champions League]]{{refn|group=note|Due to scheduling issues, it was confirmed that the final of the [[2022 AFC Champions League]], originally scheduled for October 2022, would not be completed until May 2023.<ref name="AFC latest update"/> As the 2022 FIFA Club World Cup would already be held by that time, the AFC confirmed on 23 December 2022 that Al-Hilal would be their representative at the 2022 FIFA Club World Cup as the reigning champions from the [[2021 AFC Champions League]].<ref name="AFC nomination">{{cite web |url=https://www.the-afc.com/en/national/afc_u17_asian_cup/news/thailand_recommended_as_host_of_the_afc_u17_asian_cup_2023.html |title=Thailand recommended as host of the AFC U17 Asian Cup 2023 |publisher=[[Asian Football Confederation]] |date=23 December 2022 |access-date=23 December 2022 |archive-date=15 January 2023 |archive-url=https://web.archive.org/web/20230115165253/https://www.the-afc.com/en/national/afc_u17_asian_cup/news/thailand_recommended_as_host_of_the_afc_u17_asian_cup_2023.html |url-status=live}}</ref>}}
+|23 December 2022
+|3rd {{small|(Previous: [[2019 FIFA Club World Cup|2019]], [[2021 FIFA Club World Cup|2021]])}}
+|-
+|{{fbaicon|MAR}} [[Wydad AC|Wydad Casablanca]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2021–22 CAF Champions League]]{{efn|group=note|Wydad Casablanca also won the [[2021–22 Botola]], the host domestic league, on 29 June 2022.}}
+|30 May 2022
+|2nd {{small|(Previous: [[2017 FIFA Club World Cup|2017]])}}
+|-
+|{{nowrap|{{fbaicon|USA}} [[Seattle Sounders FC]]}}
+|[[CONCACAF]]
+|Winners of the [[2022 CONCACAF Champions League]]
+|4 May 2022
+|Debut
+|-
+!colspan=5|Entering in the [[#First round|first round]]
+|-
+|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2022 OFC Champions League]]
+|17 August 2022
+|10th {{small|(Previous: [[2006 FIFA Club World Cup|2006]], [[2009 FIFA Club World Cup|2009]], [[2011 FIFA Club World Cup|2011]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]], [[2014 FIFA Club World Cup|2014]], [[2015 FIFA Club World Cup|2015]], [[2016 FIFA Club World Cup|2016]], [[2017 FIFA Club World Cup|2017]])}}
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|[[Confederation of African Football|CAF]] ([[Royal Moroccan Football Federation|host]]){{efn|group=note|name=Al Ahly|Al Ahly took the host Morocco's slot as Wydad Casablanca won the [[2021–22 CAF Champions League]].}}
+|Runners-up of the [[2021–22 CAF Champions League]]{{efn|group=note|name=Al Ahly}}
+|16 December 2022{{refn|group=note|While Al Ahly were confirmed as finalists of the [[2021–22 CAF Champions League]] with Moroccan club Wydad Casablanca on 14 May 2022, and finished as runners-up on 30 May 2022, their participation was not confirmed until Morocco were appointed as tournament hosts on 16 December 2022.}}
+|8th {{small|(Previous: [[2005 FIFA Club World Championship|2005]], [[2006 FIFA Club World Cup|2006]], [[2008 FIFA Club World Cup|2008]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]], [[2020 FIFA Club World Cup|2020]], [[2021 FIFA Club World Cup|2021]])}}
+|}
+'''Notes'''
+{{reflist|group=note}}
+
+==Venues==
+The matches were played at two venues, the [[Ibn Batouta Stadium]] in [[Tangier]] and the [[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]] in [[Rabat]].<ref>{{Cite web |title=Rabat and Tangier to Host 2023 Club World Cup Matches |url=https://www.moroccoworldnews.com/2022/12/353215/rabat-and-tangier-to-host-2023-club-world-cup-matches |date=25 December 2022 |access-date=4 January 2023 |website=Moroccoworldnews.com |language=en |archive-date=4 January 2023 |archive-url=https://web.archive.org/web/20230104183632/https://www.moroccoworldnews.com/2022/12/353215/rabat-and-tangier-to-host-2023-club-world-cup-matches |url-status=live}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="4" |{{location map+|Morocco|float=center|caption=Location of the host cities of the 2022 FIFA Club World Cup.|places=
+{{location map~ |Morocco |lat=35.7410959 |long=-5.8580249 |label=[[Tangier]] |position=right}}
+{{location map~ |Morocco |lat=33.9559 |long=-6.8868 |label=[[Rabat]]|position=right}}
+|width=320}}
+! [[Tangier]]
+! [[Rabat]]
+|-
+| [[Ibn Batouta Stadium]]
+| [[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]]
+|-
+| Capacity: '''65,000'''
+| Capacity: '''53,000'''
+|-
+| [[File:Ibn Batouta Stadium of Tangier.jpg|214x214px]]
+| [[File:Complexe Sportif Prince Moulay Abdellah.jpg|200x200px]]
+|}
+
+==Match officials==
+On 14 January 2023, FIFA announced that six [[Referee (association football)|referees]], twelve [[Assistant referee (association football)|assistant referees]] and eight [[video assistant referee]]s were appointed for the tournament.<ref>{{cite web |url=https://www.fifa.com/technical/refereeing/media-releases/match-officials-appointed-for-fifa-club-world-cup-morocco-2022-tm |title=Match officials appointed for FIFA Club World Cup Morocco 2022 |publisher=[[FIFA]] |date=14 January 2023 |access-date=14 January 2023 |archive-date=14 January 2023 |archive-url=https://web.archive.org/web/20230114203922/https://www.fifa.com/technical/refereeing/media-releases/match-officials-appointed-for-fifa-club-world-cup-morocco-2022-tm |url-status=live}}</ref><ref>{{cite web |url=https://digitalhub.fifa.com/m/66f273038ada8cb2/original/FCWC-2022-match-officials.pdf |title=FIFA Club World Cup Morocco 2022 – List of Appointed FIFA Match Officials |publisher=[[FIFA]] |date=14 January 2023 |access-date=14 January 2023 |archive-date=14 January 2023 |archive-url=https://web.archive.org/web/20230114214624/https://digitalhub.fifa.com/m/66f273038ada8cb2/original/FCWC-2022-match-officials.pdf |url-status=live}}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referees
+!Assistant referees
+!Video assistant referees
+|-
+|[[Asian Football Confederation|AFC]]
+|[[Ma Ning (referee)|Ma Ning]] ([[Chinese Football Association|China]])
+|{{unbulleted list|Zhou Fei ([[Chinese Football Association|China]])|Zhang Cheng ([[Chinese Football Association|China]])}}
+|[[Fu Ming]] ([[Chinese Football Association|China]])
+|-
+|[[Confederation of African Football|CAF]]
+|[[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+|{{unbulleted list|Mokrane Gourari ([[Algerian Football Federation|Algeria]])|Khalil Hassani ([[Tunisian Football Federation|Tunisia]])}}
+|[[Rédouane Jiyed]] ([[Royal Moroccan Football Federation|Morocco]])
+|-
+|[[CONCACAF]]
+|[[Iván Barton]] ([[Salvadoran Football Federation|El Salvador]])
+|{{unbulleted list|David Morán ([[Salvadoran Football Federation|El Salvador]])|Kathryn Nesbitt ([[United States Soccer Federation|United States]])}}
+|[[Fernando Guerrero (referee)|Fernando Guerrero]] ([[Mexican Football Federation|Mexico]])
+|-
+|[[CONMEBOL]]
+|[[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|{{unbulleted list|Nicolás Taran ([[Uruguayan Football Association|Uruguay]])|Martín Soppi ([[Uruguayan Football Association|Uruguay]])}}
+|{{unbulleted list|[[Nicolás Gallo (referee)|Nicolás Gallo]] ([[Colombian Football Federation|Colombia]])|[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])}}
+|-
+|rowspan=2|[[UEFA]]
+|[[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|{{unbulleted list|Vasile Marinescu ([[Romanian Football Federation|Romania]])|Ovidiu Artene ([[Romanian Football Federation|Romania]])}}
+|rowspan=2|{{unbulleted list|[[Jérôme Brisard]] ([[French Football Federation|France]])|[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])|[[Juan Martínez Munuera]] ([[Royal Spanish Football Federation|Spain]])}}
+|-
+|[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|{{unbulleted list|Gary Beswick ([[The Football Association|England]])|Adam Nunn ([[The Football Association|England]])}}
+|}
+
+==Squads==
+{{main|2022 FIFA Club World Cup squads}}
+
+Each team named a 23-man squad (three of whom had to be goalkeepers). Injury replacements were allowed until 24 hours before the team's first match.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/cc55b7738d0beb6/original/Regulations-for-the-FIFA-Club-World-Cup-2022.pdf |title=Regulations for the FIFA Club World Cup 2022 |publisher=[[FIFA]] |date=23 December 2022 |access-date=24 December 2022 |archive-date=28 December 2022 |archive-url=https://web.archive.org/web/20221228191734/https://digitalhub.fifa.com/m/cc55b7738d0beb6/original/Regulations-for-the-FIFA-Club-World-Cup-2022.pdf |url-status=live}}</ref>
+
+==Matches==
+The draw of the tournament was held on 13 January 2023, 12:00 [[Central European Time|CET]], at the [[Mohammed VI Football Academy]] in [[Salé]], Morocco, to decide the matchups of the second round (between the first round winner and teams from AFC, CAF and CONCACAF), and the opponents of the two second round winners in the semi-finals (against teams from CONMEBOL and UEFA).<ref name="dates">{{cite web |url=https://www.fifa.com/fifaplus/en/articles/fifa-club-world-cup-morocco-2022-dates-teams-draw-matches-venues |title=FIFA Club World Cup: dates, teams, matches and more |publisher=[[FIFA]] |date=3 January 2023 |access-date=3 January 2023 |archive-date=3 January 2023 |archive-url=https://web.archive.org/web/20230103183224/https://www.fifa.com/fifaplus/en/articles/fifa-club-world-cup-morocco-2022-dates-teams-draw-matches-venues |url-status=live}}</ref> In the second round draw, [[Wydad AC|Wydad Casablanca]] and the winner of the first round match were pre-allocated to separate fixtures, with their opponents selected from the draw pot.<ref>{{cite web |url=https://digitalhub.fifa.com/m/402ab9e37ff721c2/original/FIFA-Club-World-Cup-2022-Draw-Procedures.pdf |title=Draw Procedures for the FIFA Club World Cup 2022 |publisher=[[FIFA]] |date=12 January 2023 |access-date=12 January 2023 |archive-date=12 January 2023 |archive-url=https://web.archive.org/web/20230112133212/https://digitalhub.fifa.com/m/402ab9e37ff721c2/original/FIFA-Club-World-Cup-2022-Draw-Procedures.pdf |url-status=live}}</ref> The match kick-off times and venues were confirmed after the draw.<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/draw-sets-fixtures-for-fifa-club-world-cup-morocco-2022 |title=Draw determines seven sides' paths to Club World Cup glory |publisher=[[FIFA]] |date=13 January 2023 |access-date=13 January 2023 |archive-date=13 January 2023 |archive-url=https://web.archive.org/web/20230113134718/https://www.fifa.com/fifaplus/en/articles/draw-sets-fixtures-for-fifa-club-world-cup-morocco-2022 |url-status=live}}</ref>
+
+If a match was tied after normal playing time:<ref name="regulations"/>
+*For elimination matches, [[Overtime (sports)#Association football|extra time]] was played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] was held to determine the winner.
+*For the match for third place, no extra time would be played, and a penalty shoot-out would be held to determine the winner.
+
+===Bracket===
+{{7TeamBracket-StepladderToSF
+| style        = 5
+| seeds        = no
+| team-width   = 170
+| score-width  = 40
+| nowrap       = y
+| boldwinner   = y
+| RD1          = [[#First round|First round]]
+| RD2          = [[#Second round|Second round]]
+| RD3          = [[#Semi-finals|Semi-finals]]
+| RD4          = [[#Final|Final]]
+| RD4b         = [[#Match for third place|Match for third place]]
+
+<!-- First round -->
+| RD1-details1 = 1 February – [[Ibn Batouta Stadium|Tangier]]
+| RD1-team1    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD1-score1   = 3
+| RD1-team2    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD1-score2   = 0
+
+<!-- Second round -->
+| RD2-details1 = 4 February – [[Ibn Batouta Stadium|Tangier]]
+| RD2-team1    = {{fbaicon|USA}} [[Seattle Sounders FC]]
+| RD2-score1   = 0
+| RD2-team2    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD2-score2   = 1
+
+| RD2-details2 = 4 February – [[Prince Moulay Abdellah Stadium (1983)|Rabat]]
+| RD2-team3    = {{fbaicon|MAR}} [[Wydad AC|Wydad Casablanca]]
+| RD2-score3   = 1 (3)
+| RD2-team4    = {{fbaicon|KSA}} '''[[Al-Hilal Saudi FC|Al-Hilal]]''' {{pso}}
+| RD2-score4   = '''1 (5)'''
+
+<!-- Semi-finals -->
+| RD3-details1 = 8 February – [[Prince Moulay Abdellah Stadium (1983)|Rabat]]
+| RD3-team1    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD3-score1   = 1
+| RD3-team2    = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| RD3-score2   = 4
+
+| RD3-details2 = 7 February – [[Ibn Batouta Stadium|Tangier]]
+| RD3-team3    = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+| RD3-score3   = 2
+| RD3-team4    = {{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+| RD3-score4   = 3
+
+<!-- Final -->
+| RD4-details1 = 11 February – [[Prince Moulay Abdellah Stadium (1983)|Rabat]]
+| RD4-team1    = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| RD4-score1   = 5
+| RD4-team2    = {{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+| RD4-score2   = 3
+
+<!-- Match for third place -->
+| RD4-details2 = 11 February – [[Ibn Batouta Stadium|Tangier]]
+| RD4-team3    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD4-score3   = 2
+| RD4-team4    = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+| RD4-score4   = 4
+}}
+
+All times are local, [[Central European Time|CET]] ([[UTC+01:00|UTC+1]]).<ref>{{cite web |url=https://digitalhub.fifa.com/m/422203b833ebdf45/original/FIFA-Club-World-Cup-Morocco-2022-Match-Schedule.pdf |title=Match Schedule: FIFA Club World Cup Morocco 2022 |publisher=[[FIFA]] |date=6 February 2023 |access-date=6 February 2023 |archive-date=1 February 2023 |archive-url=https://web.archive.org/web/20230201141811/https://digitalhub.fifa.com/m/422203b833ebdf45/original/FIFA-Club-World-Cup-Morocco-2022-Match-Schedule.pdf |url-status=live}}</ref>
+
+===First round===
+{{Football box
+|id=Match 1
+|date={{Start date|2023|2|1|df=y}}
+|time=20:00
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=3–0
+|report=https://www.fifa.com/fifaplus/en/match-centre/match/107/286466/286469/400015627
+|team2={{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|goals1=
+*[[Hussein El Shahat|El Shahat]] {{goal|45+2}}
+*[[Mohamed Sherif|Sherif]] {{goal|56}}
+*[[Percy Tau|Tau]] {{goal|86}}
+|goals2=
+|stadium=[[Ibn Batouta Stadium]], [[Tangier]]
+|attendance=47,137
+|referee=[[Ma Ning (referee)|Ma Ning]] ([[Chinese Football Association|China]])
+}}
+
+===Second round===
+{{Football box
+|id=Match 3
+|date={{Start date|2023|2|4|df=y}}
+|time=15:30
+|team1=[[Wydad AC|Wydad Casablanca]] {{fbaicon|MAR}}
+|score=1–1
+|aet=yes
+|report=https://www.fifa.com/fifaplus/en/match-centre/match/107/286466/286468/400015625
+|team2={{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+|goals1=
+*[[Ayoub El Amloud|El Amloud]] {{goal|52}}
+|goals2=
+*[[Mohamed Kanno|Kanno]] {{goal|90+4|pen.}}
+|stadium=[[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]], [[Rabat]]
+|attendance=43,891
+|referee=[[Iván Barton]] ([[Salvadoran Football Federation|El Salvador]])
+|penalties1=
+*[[Yahia Attiyat Allah|Attiyat Allah]] {{penmiss}}
+*[[Ayoub El Amloud|El Amloud]] {{pengoal}}
+*[[Mohamed Ounajem|Ounajem]] {{pengoal}}
+*[[Jalal Daoudi|Daoudi]] {{pengoal}}
+|penaltyscore=3–5
+|penalties2=
+*{{pengoal}} [[Moussa Marega|Marega]]
+*{{pengoal}} [[Luciano Vietto|Vietto]]
+*{{pengoal}} [[Saleh Al-Shehri|Al-Shehri]]
+*{{pengoal}} [[Abdullah Al-Hamdan|Al-Hamdan]]
+*{{pengoal}} [[Musab Al-Juwayr|Al-Juwayr]]
+}}
+----
+{{Football box
+|id=Match 2
+|date={{Start date|2023|2|4|df=y}}
+|time=18:00
+|team1=[[Seattle Sounders FC]] {{fbaicon|USA}}
+|score=0–1
+|report=https://www.fifa.com/fifaplus/en/match-centre/match/107/286466/286468/400015626
+|team2={{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|goals1=
+|goals2=
+*[[Mohamed Magdy|Magdy]] {{goal|88}}
+|stadium=[[Ibn Batouta Stadium]], [[Tangier]]
+|attendance=30,589
+|referee=[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+}}
+
+===Semi-finals===
+{{Football box
+|id=Match 4
+|date={{Start date|2023|2|7|df=y}}
+|time=20:00
+|team1=[[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score=2–3
+|report=https://www.fifa.com/fifaplus/en/match-centre/match/107/286466/286471/400015629
+|team2={{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+|goals1=
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|20||90+1}}
+|goals2=
+*[[Salem Al-Dawsari|S. Al-Dawsari]] {{goal|4|pen.|45+9|pen.}}
+*[[Luciano Vietto|Vietto]] {{goal|70}}
+|stadium=[[Ibn Batouta Stadium]], [[Tangier]]
+|attendance=42,496
+|referee=[[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+}}
+----
+{{Football box
+|id=Match 5
+|date={{Start date|2023|2|8|df=y}}
+|time=20:00
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=1–4
+|report=https://www.fifa.com/fifaplus/en/match-centre/match/107/286466/286471/400015628
+|team2={{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1=
+*[[Ali Maâloul|Maâloul]] {{goal|65|pen.}}
+|goals2=
+*[[Vinícius Júnior|Vinícius]] {{goal|42}}
+*[[Federico Valverde|Valverde]] {{goal|46}}
+*[[Rodrygo]] {{goal|90+2}}
+*[[Sergio Arribas (footballer, born 2001)|Arribas]] {{goal|90+8}}
+|stadium=[[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]], [[Rabat]]
+|attendance=43,508
+|referee=[[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+}}
+
+===Match for third place===
+{{Football box
+|id=Match 6
+|date={{Start date|2023|2|11|df=y}}
+|time=16:30
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=2–4
+|report=https://www.fifa.com/fifaplus/en/match-centre/match/107/286466/286473/400015631
+|team2={{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|goals1=
+*[[Ahmed Abdel Kader|Abdel Kader]] {{goal|38||60}}
+|goals2=
+*[[Gabriel Barbosa]] {{goal|11|pen.|85|pen.}}
+*[[Pedro (footballer, born 1997)|Pedro]] {{goal|77||90+1}}
+|stadium=[[Ibn Batouta Stadium]], [[Tangier]]{{refn|group=note|The match for third place, originally scheduled to be played at [[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]], [[Rabat]], was moved on 9 February 2023 to [[Ibn Batouta Stadium]], [[Tangier]], in order to preserve the pitch for the [[2022 FIFA Club World Cup final|final]].<ref>{{cite web |url=https://www.fifa.com/about-fifa/organisation/media-releases/fifa-club-world-cup-tm-third-place-match-to-be-held-in-tangier |title=FIFA Club World Cup third-place match to be held in Tangier |publisher=[[FIFA]] |date=9 February 2023 |access-date=9 February 2023}}</ref>}}
+|attendance=30,216
+|referee=[[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+}}
+
+===Final===
+{{main|2022 FIFA Club World Cup final}}
+
+{{:2022 FIFA Club World Cup final}}
+
+==Goalscorers==
+{|class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|1
+|style="text-align:left"|{{flagicon|BRA}} [[Pedro (footballer, born 1997)|Pedro]]
+|style="text-align:left"|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|4
+|-
+|rowspan=3|2
+|style="text-align:left"|{{flagicon|URU}} [[Federico Valverde]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|rowspan=3|3
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Luciano Vietto]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Vinícius Júnior]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|rowspan=3|5
+|style="text-align:left"|{{flagicon|EGY}} [[Ahmed Abdel Kader]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|rowspan=3|2
+|-
+|style="text-align:left"|{{flagicon|KSA}} [[Salem Al-Dawsari]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Gabriel Barbosa]]
+|style="text-align:left"|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|-
+|rowspan=11|8
+|style="text-align:left"|{{flagicon|MAR}} [[Ayoub El Amloud]]
+|style="text-align:left"|{{fbaicon|MAR}} [[Wydad AC|Wydad Casablanca]]
+|rowspan=11|1
+|-
+|style="text-align:left"|{{flagicon|ESP}} [[Sergio Arribas (footballer, born 2001)|Sergio Arribas]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|FRA}} [[Karim Benzema]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|KSA}} [[Mohamed Kanno]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|TUN}} [[Ali Maâloul]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Mohamed Magdy]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|MLI}} [[Moussa Marega]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Rodrygo]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Hussein El Shahat]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Mohamed Sherif]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|RSA}} [[Percy Tau]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|}
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+The following awards were given at the conclusion of the tournament. [[Vinícius Júnior]] of [[Real Madrid CF|Real Madrid]] won the [[FIFA Club World Cup awards#Golden Ball|Golden Ball]] award.<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/vinicius-junior-federico-valverde-luciano-vietto-golden-silver-bronze-ball-awards-club-world-cup-morocco-2022 |title=Vinicius grabs Golden Ball on triple-V podium |publisher=[[FIFA]] |date=11 February 2023|access-date=11 February 2023}}</ref>
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|Golden Ball
+!style="background:silver; width:33%"|Silver Ball
+!style="background:#CC9966; width:33%"|Bronze Ball
+|-
+|{{flagicon|BRA}} [[Vinícius Júnior]]<br />([[Real Madrid CF|Real Madrid]])
+|{{flagicon|URU}} [[Federico Valverde]]<br />([[Real Madrid CF|Real Madrid]])
+|{{flagicon|ARG}} [[Luciano Vietto]]<br />([[Al-Hilal Saudi FC|Al-Hilal]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|}
+
+FIFA also named a [[man of the match]] for the best player in each game at the tournament.
+
+{| class="wikitable sortable"
+|+ Man of the Match 
+|-
+! Match
+! Man of the match
+! Club
+! Opponent
+! class="unsortable" | {{abbr|Ref.|Reference}}
+|-
+!1
+|{{flagicon|EGY}} [[Mohamed Sherif]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]||{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/al-ahly-auckland-city-opening-match-report-review-fifa-club-world-cup-morocco-2022 |title=Ahly beat Auckland 3–0 to set up Seattle showdown |publisher=[[FIFA]] |date=1 February 2023 |access-date=2 February 2023 |archive-date=2 February 2023 |archive-url=https://web.archive.org/web/20230202042659/https://www.fifa.com/fifaplus/en/articles/al-ahly-auckland-city-opening-match-report-review-fifa-club-world-cup-morocco-2022 |url-status=live}}</ref>
+|-
+!2
+|{{flagicon|EGY}} [[Mohamed Magdy]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]||{{fbaicon|USA}} [[Seattle Sounders FC]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/seattle-sounders-al-ahly-match-report-review-fifa-club-world-cup-morocco-2022 |title=Ahly to meet Madrid after edging Sounders 1–0 |publisher=[[FIFA]] |date=4 February 2023 |access-date=4 February 2023 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204191907/https://www.fifa.com/fifaplus/en/articles/seattle-sounders-al-ahly-match-report-review-fifa-club-world-cup-morocco-2022 |url-status=live}}</ref>
+|-
+!3
+|{{flagicon|COL}} [[Gustavo Cuéllar]]||{{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]||{{fbaicon|MAR}} [[Wydad AC|Wydad Casablanca]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/wydad-al-hilal-match-report-review-fifa-club-world-cup-morocco-2022 |title=Al Hilal overcome Wydad on penalties to set up Flamengo clash |publisher=[[FIFA]] |date=4 February 2023 |access-date=4 February 2023 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204174621/https://www.fifa.com/fifaplus/en/articles/wydad-al-hilal-match-report-review-fifa-club-world-cup-morocco-2022 |url-status=live}}</ref>
+|-
+!4
+|{{flagicon|KSA}} [[Salem Al-Dawsari]]||{{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]||{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/flamengo-al-hilal-semi-final-report-review-club-world-cup-morocco-2022 |title=Al Hilal stun 10-man Flamengo to reach final |publisher=[[FIFA]] |date=7 February 2023 |access-date=7 February 2023}}</ref>
+|-
+!5
+|{{flagicon|BRA}} [[Vinícius Júnior]]||{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/al-ahly-real-madrid-semi-final-report-review-club-world-cup-morocco-2022 |title=Madrid defeat Ahly in thrilling semi-final |publisher=[[FIFA]] |date=8 February 2023 |access-date=8 February 2023}}</ref>
+|-
+!6
+|{{flagicon|BRA}} [[Pedro (footballer, born 1997)|Pedro]]||{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/al-ahly-flamengo-third-place-play-off-report-review-club-world-cup-morocco-2022 |title=Flamengo triumph in third-place play-off thriller |publisher=[[FIFA]] |date=11 February 2023 |access-date=11 February 2023}}</ref>
+|-
+!7
+|{{flagicon|BRA}} [[Vinícius Júnior]]||{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]||{{fbaicon|KSA}} [[Al-Hilal Saudi FC|Al-Hilal]]
+|<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/real-madrid-al-hilal-final-report-review-vinicius-junior-federico-valverde-club-world-cup-morocco-2022 |title=Vinicius and Valverde dazzle as five-star Madrid conquer |publisher=[[FIFA]] |date=11 February 2023 |access-date=11 February 2023}}</ref>
+|}
+
+==Sponsorship==
+'''Presenting Partner'''<ref name="Sponsor">{{cite web |title=FIFA Club World Cup Morocco 2022 |url=https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/morocco-2022 |publisher=[[FIFA]] |access-date=6 February 2023 |archive-date=2 February 2023 |archive-url=https://web.archive.org/web/20230202224833/https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/morocco-2022 |url-status=live}}</ref>
+
+* [[Saudi Tourism Authority|Visit Saudi]]
+
+'''FIFA Partners'''<ref name="Sponsor"/>
+
+* [[Adidas]]
+* [[Wanda Group]]
+
+'''Tournament Supporter'''<ref name="Sponsor"/>
+
+* [[Orange Morocco]]
+* Betano
+* [[OCP Group]]
+* [[ONCF]]
+
+== Broadcasters ==
+{| class="wikitable"
+|+
+!Territory
+!Broadcaster
+!{{abbr|Ref.|Reference}}
+|-
+|{{Flag|Australia}}
+|[[SBS Sport]]
+|<ref>{{Cite news |date=25 January 2023 |title=How to watch the FIFA Club World Cup on SBS |work=SBS Sport |publisher=Special Broadcasting Service |url=https://www.sbs.com.au/sport/article/how-to-watch-2022-fifa-club-world-cup-on-sbs/iq2jjsvc6 |access-date=9 February 2023 |archive-date=9 February 2023 |archive-url=https://web.archive.org/web/20230209013230/https://www.sbs.com.au/sport/article/how-to-watch-2022-fifa-club-world-cup-on-sbs/iq2jjsvc6 |url-status=live}}</ref>
+|-
+|{{Flag|Brazil}}
+|[[SporTV]], [[TV Globo]], [[Casimiro (streamer)|CazéTV]]
+|<ref>{{Cite web|date=2023-02-03 |title=Onde assistir ao vivo os jogos do Mundial de Clubes da Fifa|url=https://www.mktesportivo.com/2023/02/onde-assistir-ao-vivo-os-jogos-do-mundial-de-clubes-da-fifa/ |access-date=2023-02-12 |website=mktesportivo.com |language=pt}}</ref>
+|-
+|{{Flag|France}}
+|[[Canal+ (French TV channel)|Canal+]]
+|<ref name=":0">{{Cite web |last=Sim |first=Josh |date=2023-01-25 |title=Club World Cup broadcast rights nabbed by Canal+ and Sky Italia |url=https://www.sportspro.com/news/fifa-club-world-cup-2022-canal-plus-sky-italia-tv-broadcast-rights/ |access-date=2023-02-09 |website=SportsPro |language=en-GB}}</ref>
+|-
+|{{Flag|Indonesia}}
+|[[Moji (TV network)|Moji]], [[Vidio]], [[SPOTV]]
+|<ref name=":0" />
+|-
+|{{Flag|Italy}}
+|[[Sky Italia]]
+|<ref name=":0" />
+|-
+|{{Flag|Mexico}}
+|[[Vix (streaming service)|Vix]]
+|<ref>{{Cite web|date=2023-02-08 |title=¿Cómo ver el Mundial de Clubes 2023 en México? |url=https://depor.com/mexico/local-mx/como-ver-el-mundial-de-clubes-2023-en-mexico-via-vix-y-fubotv-links-canales-y-donde-ver-la-transmision-de-todos-los-partidos-real-madrid-seattle-sounders-flamengo-al-hilal-al-alhy-mexico-cdmx-mx-noticia/|access-date=2023-02-12 |website=depor.com |language=es}}</ref>
+|-
+|{{Flag|Morocco}}
+|[[SNRT]]
+|<ref>{{Cite web |title=FIFA: la SNRT, producteur officiel de la Coupe du Monde des clubs |url=https://sport.le360.ma//maroc/fifa-la-snrt-producteur-officiel-de-la-coupe-du-monde-des-clubs-100618 |access-date=2023-02-09 |website=Le360 Sport |language=fr}}</ref>
+|-
+|{{Flag|Philippines}}
+|SPOTV
+|<ref>{{cite news |last1=Mendoza |first1=Red |title=SPOTV to air FIFA Club World Cup games |url=https://www.manilatimes.net/2023/02/04/sports/spotv-to-air-fifa-club-world-cup-games/1877183 |access-date=12 February 2023 |work=The Manila Times |date=4 February 2023}}</ref>
+|-
+||{{Flag|Spain}}
+|[[Mediaset España]]
+|<ref>{{Cite web |date=2023-01-19 |title=Mediaset España emitirá la Copa Mundial de Clubes 2022 con la participación del Real Madrid|url=https://www.mediaset.es/comunicacion/television/20230119/mediaset-espana-mundial-clubes-madrid_18_08498749.html|access-date=2023-01-19 |website= Mediaset España|language=es}}</ref>
+|-
+|{{Flag|United States}}
+|[[Fox Sports|FOX Sports]]
+|<ref>{{Cite web |date=2023-01-30 |title=FOX Sports Presents FIFA Club World Cup Morocco 2022 Broadcast Schedule |url=https://www.foxsports.com/presspass/blog/2023/01/30/fox-sports-presents-fifa-club-world-cup-morocco-2022-broadcast-schedule/ |access-date=2023-02-09 |website=Fox Sports Press Pass |language=en-US}}</ref>
+|-
+|{{Flag|Armenia}}<br>{{Flag|Azerbaijan}}<br>{{Flag|Belarus}}<br>{{Flag|Estonia}}<br>{{Flag|Georgia}}<br>{{Flag|Ireland}}<br>{{Flag|Kazakhstan}}<br>{{Flag|Kyrgyzstan}}<br>{{Flag|Latvia}}<br>{{Flag|Lithuania}}<br>{{Flag|Moldova}}<br>{{Flag|Tajikistan}}<br>{{Flag|Turkey}}<br>{{Flag|Turkmenistan}}<br>{{Flag|Ukraine}}<br>{{Flag|Uzbekistan}}
+|Saran Media
+|<ref>{{Cite web |last=Jones |first=Rory |date=2023-01-27 |title=Saran secures Fifa Club World Cup broadcast rights in 16 countries |url=https://www.sportspro.com/news/fifa-club-world-cup-saran-broadcast-rights/ |access-date=2023-02-09 |website=SportsPro |language=en-GB}}</ref>
+|-
+|{{Flag|Argentina}}<br>{{Flag|Chile}}<br>{{Flag|Colombia}}<br>{{Flag|Ecuador}}<br>{{Flag|Peru}}<br>{{Flag|Uruguay}}<br>{{Flag|Venezuela}}
+|[[Vrio Corp.|DSports]]
+|<ref>{{Cite news|date=2023-02-11 |title=Qué canal transmitió Real Madrid vs. Al Hilal por final del Mundial de Clubes |url=https://elcomercio.pe/deporte-total/futbol-mundial/que-canal-transmite-real-madrid-vs-al-hilal-por-final-mundial-de-clubes-2023-y-a-que-hora-juegan-video-noticia/ |access-date=2023-02-12 |newspaper=El Comercio |language=es}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+==Notes==
+{{reflist|group=note}}
+
+==External links==
+{{commons category}}
+*{{Official website|https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/morocco-2022}}
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2022 FIFA Club World Cup| ]]
+[[Category:2023 in men's association football|Club World Cup]]
+[[Category:Men's football competitions in Morocco]]
+[[Category:Football club competitions in Morocco]]
+[[Category:2022–23 in Moroccan football]]
+[[Category:February 2023 sports events in Africa]]
+[[Category:FIFA Club World Cup tournaments|2022]]
+[[Category:2022–23 in Spanish men's football]]
+[[Category:2022–23 in Egyptian football]]
+[[Category:2022–23 in Saudi Arabian football]]
+[[Category:2023 in Brazilian football]]
+[[Category:2023 in New Zealand association football]]
+[[Category:2023 in American men's soccer]]
+[[Category:Football competitions in Rabat]]
+[[Category:Sport in Tangier]]
+[[Category:21st century in Rabat]]

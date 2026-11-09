@@ -1,0 +1,420 @@
+{{Infobox football match
+| title = 2015 FIFA Club World Cup final
+| event = [[2015 FIFA Club World Cup]]
+| image = NISSANSTADIUM20080608.JPG
+| caption = The [[Nissan Stadium (Yokohama)|International Stadium]] staged the final
+| team1 = [[Club Atlético River Plate|River Plate]]
+| team1association = {{fbaicon|ARG|size=30px}}
+| team1score = 0
+| team2 = [[FC Barcelona|Barcelona]]
+| team2association = {{fbaicon|ESP|size=30px}}
+| team2score = 3
+| date = {{Start date|2015|12|20|df=y}}
+| stadium = [[Nissan Stadium (Yokohama)|International Stadium Yokohama]]
+| city = [[Yokohama]]
+| man_of_the_match1a = [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] (Barcelona)<ref name="match report">{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/74/70/97/eng_08_1220_car-fcb_fulltime.pdf |archive-url=https://web.archive.org/web/20151220150951/http://resources.fifa.com/mm/document/tournament/competition/02/74/70/97/eng_08_1220_car-fcb_fulltime.pdf |url-status=dead |archive-date=December 20, 2015 |title=Match report River Plate – FC Barcelona 0:3 (0:1) |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=20 December 2015 |access-date=10 February 2026}}</ref>
+| referee = [[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])<ref name="match report"/>
+| attendance = 66,853<ref name="match report"/>
+| weather = Clear night<br />{{convert|5|°C|°F}}<br />76% [[humidity]]<ref name="match details">{{cite web |url=http://www.fifa.com/clubworldcup/matches/round=275784/match=300338750/index.html |archive-url=https://web.archive.org/web/20160127030454/http://www.fifa.com/clubworldcup/matches/round=275784/match=300338750/index.html |url-status=dead |archive-date=27 January 2016 |title=FIFA Club World Cup Japan 2015 |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=20 December 2015 |access-date=10 February 2026}}</ref>
+| previous = [[2014 FIFA Club World Cup final|2014]]
+| next = [[2016 FIFA Club World Cup final|2016]]
+}}
+The '''2015 FIFA Club World Cup final''' was the final match of the [[2015 FIFA Club World Cup]], an [[association football]] tournament hosted by [[Japan]]. It was the 12th final of the [[FIFA Club World Cup]], a [[FIFA]]-organised tournament between the winners of the six continental confederations as well as the host nation's league champions.
+
+The final was contested between Argentine club [[Club Atlético River Plate|River Plate]], representing [[CONMEBOL]] as the reigning champions of the [[Copa Libertadores]] and Spanish club [[FC Barcelona|Barcelona]], representing [[UEFA]] as the reigning champions of the [[UEFA Champions League]]. It was played at the [[Nissan Stadium (Yokohama)|International Stadium]] in [[Yokohama]] on 20 December 2015.
+Barcelona won the game 3–0 to claim their third FIFA Club World Cup title.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/35141742|title=River Plate 0-3 Barcelona|date=20 December 2015|work=BBC Sport|access-date=21 December 2015}}</ref>	
+The win for Barcelona was also their fifth trophy of 2015.<ref>{{cite web|url=https://www.theguardian.com/football/2015/dec/20/barcelona-river-plate-luis-suarez-club-world-cup|title=Lionel Messi and Luis Suárez fire Barcelona to Club World Cup title|date=20 December 2015|work=Guardian|access-date=21 December 2015}}</ref>
+
+==Background==
+===River Plate===
+[[Club Atlético River Plate|River Plate]] qualified for the tournament as winners of the [[2015 Copa Libertadores]], following a 3–0 aggregate win against [[Tigres UANL|UANL]] in the [[2015 Copa Libertadores Finals|final]]. This was River Plate's first time competing in the tournament. They have played two times in the [[Intercontinental Cup (1960–2004)|Intercontinental Cup]], the predecessor of the FIFA Club World Cup, with one win ([[1986 Intercontinental Cup|1986]]) and one loss ([[1996 Intercontinental Cup|1996]]). They reached the final after defeating Japanese club [[Sanfrecce Hiroshima]] in the semi-finals.<ref>{{Cite web|url=https://www.theguardian.com/football/2015/dec/16/river-plate-club-world-cup-final-sanfrecce-hiroshima|title = River Plate reach Club World Cup final with victory over Sanfrecce Hiroshima|website = [[TheGuardian.com]]|date = 16 December 2015}}</ref>
+
+===Barcelona===
+[[FC Barcelona|Barcelona]] qualified for the tournament as winners of the [[2014–15 UEFA Champions League]], following a 3–1 win against [[Juventus FC|Juventus]] in the [[2015 UEFA Champions League Final|final]]. This was Barcelona's fourth time competing in the tournament, after winning twice in [[2009 FIFA Club World Cup|2009]] and [[2011 FIFA Club World Cup|2011]], as well as being runners-up in [[2006 FIFA Club World Championship|2006]]. They have played one time in the [[Intercontinental Cup (1960–2004)|Intercontinental Cup]], with one loss ([[1992 Intercontinental Cup|1992]]). They reached the final after defeating Chinese club [[Guangzhou Evergrande Taobao F.C.|Guangzhou Evergrande]] in the semi-finals.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/35095550|title=Barcelona 3-0 Guangzhou Evergrande|work=BBC Sport}}</ref>
+
+==Route to the final==
+{| class="wikitable"
+|-
+!width=350|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+!Team
+!width=350|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=center|[[CONMEBOL]]
+!Confederation
+|align=center|[[UEFA]]
+|-
+|align=center|Winners of the [[2015 Copa Libertadores]]
+!Qualification
+|align=center|Winners of the [[2014–15 UEFA Champions League]]
+|-
+|align=center|Bye
+![[2015 FIFA Club World Cup#Play-off for quarter-finals|Play-off round]]
+|align=center|Bye
+|-
+|align=center|Bye
+![[2015 FIFA Club World Cup#Quarter-finals|Quarter-finals]]
+|align=center|Bye
+|-
+|align=center|'''1–0''' {{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+![[2015 FIFA Club World Cup#Semi-finals|Semi-finals]]
+|align=center|'''3–0''' {{fbaicon|CHN}} [[Guangzhou Evergrande Taobao F.C.|Guangzhou Evergrande]]
+|}
+
+==Match==
+
+===Summary===
+
+===Details===
+<onlyinclude>{{Football box
+| date = {{Start date|2015|12|20|df=y}}
+| time = 19:30 <noinclude>[[Japan Standard Time|JST]]</noinclude>
+| team1 = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+| score = 0–3
+| team2 = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| report = https://www.fifa.com/en/match-centre/match/107/275724/275784/300338750
+| goals1 =
+| goals2 =
+*[[Lionel Messi|Messi]] {{goal|36}}
+*[[Luis Suárez (Uruguayan footballer)|Suárez]] {{goal|49||68}}
+| stadium = [[Nissan Stadium (Yokohama)|International Stadium Yokohama]], [[Yokohama]]
+| attendance = 66,853<ref name="match report"/>
+| referee = [[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _river1415h
+ | pattern_b  = _river1415h5
+ | pattern_ra = _river1415h
+ | pattern_sh = _river1415h
+ | pattern_so =_river1415h 
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = River Plate<ref name="start list">{{cite web |url=https://resources.fifa.com/mm/document/tournament/competition/02/74/69/25/eng_08_1220_car-fcb_start.pdf |archive-url=https://web.archive.org/web/20160119214155/http://resources.fifa.com/mm/document/tournament/competition/02/74/69/25/eng_08_1220_car-fcb_start.pdf |url-status=dead |archive-date=19 January 2016 |title=Start list River Plate – FC Barcelona 0:3 (0:1) |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=20 December 2015 |access-date=10 February 2026}}</ref>
+}}
+|{{Football kit
+ | pattern_la = _fcbarcelona1516h
+ | pattern_b  = _fcbarcelona1516home
+ | pattern_ra = _fcbarcelona1516h
+ | pattern_sh = _fcbarcelona1516h
+ | pattern_so = _fcbarcelona1516h
+ | leftarm    = 000060
+ | body       = 000060
+ | rightarm   = 000060
+ | shorts     = 062A78
+ | socks      = 062A78
+ | title      = Barcelona<ref name="start list"/>
+}}
+|}
+
+{| style="width:100%"
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' || {{flagicon|ARG}} [[Marcelo Barovero]] ([[Captain (association football)|c]])
+|-
+|RB ||'''25'''|| {{flagicon|ARG}} [[Gabriel Mercado]]
+|-
+|CB ||'''2''' || {{flagicon|ARG}} [[Jonatan Maidana]]
+|-
+|CB ||'''3''' || {{flagicon|COL}} [[Éder Álvarez Balanta]]
+|-
+|LB ||'''21'''|| {{flagicon|ARG}} [[Leonel Vangioni]]
+|-
+|RM ||'''8''' || {{flagicon|URU}} [[Carlos Sánchez (Uruguayan footballer)|Carlos Sánchez]]
+|-
+|DM ||'''5''' || {{flagicon|ARG}} [[Matías Kranevitter]] || {{yel|10}}
+|-
+|LM ||'''23'''|| {{flagicon|ARG}} [[Leonardo Ponzio]] || {{yel|32}} || {{suboff|46}}
+|-
+|AM ||'''19'''|| {{flagicon|URU}} [[Tabaré Viudez]] || || {{suboff|56}}
+|-
+|CF ||'''7''' || {{flagicon|URU}} [[Rodrigo Mora (footballer, born 1987)|Rodrigo Mora]] || || {{suboff|46}}
+|-
+|CF ||'''13'''|| {{flagicon|ARG}} [[Lucas Alario]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''|| {{flagicon|ARG}} [[Augusto Batalla]]
+|-
+|GK ||'''26'''|| {{flagicon|ARG}} [[Julio Chiarini]]
+|-
+|DF ||'''6''' || {{flagicon|ARG}} [[Leandro Vega]]
+|-
+|DF ||'''20'''|| {{flagicon|ARG}} [[Milton Casco]]
+|-
+|DF ||'''24'''|| {{flagicon|ARG}} [[Emanuel Mammana]]
+|-
+|MF ||'''10'''|| {{flagicon|ARG}} [[Pity Martínez|Gonzalo Martínez]] || || {{subon|46}}
+|-
+|MF ||'''16'''|| {{flagicon|ARG}} [[Nicolás Bertolo]]
+|-
+|MF ||'''18'''|| {{flagicon|URU}} [[Camilo Mayada]]
+|-
+|MF ||'''27'''|| {{flagicon|ARG}} [[Lucho González]] || || {{subon|46}}
+|-
+|FW ||'''11'''|| {{flagicon|ARG}} [[Javier Saviola]]
+|-
+|FW ||'''15'''|| {{flagicon|ARG}} [[Leonardo Pisculichi]]
+|-
+|FW ||'''22'''|| {{flagicon|ARG}} [[Sebastián Driussi]] || || {{subon|56}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Marcelo Gallardo]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''|| {{flagicon|CHI}} [[Claudio Bravo]]
+|-
+|RB ||'''6''' || {{flagicon|BRA}} [[Dani Alves]]
+|-
+|CB ||'''3''' || {{flagicon|ESP}} [[Gerard Piqué]]
+|-
+|CB ||'''14'''|| {{flagicon|ARG}} [[Javier Mascherano]] || || {{suboff|81}}
+|-
+|LB ||'''18'''|| {{flagicon|ESP}} [[Jordi Alba]] || {{yel|16}}
+|-
+|RM ||'''4''' || {{flagicon|CRO}} [[Ivan Rakitić]] || {{yel|43}} || {{suboff|67}}
+|-
+|CM ||'''5''' || {{flagicon|ESP}} [[Sergio Busquets]]
+|-
+|LM ||'''8''' || {{flagicon|ESP}} [[Andrés Iniesta]] ([[Captain (association football)|c]])
+|-
+|RF ||'''10'''|| {{flagicon|ARG}} [[Lionel Messi]]
+|-
+|CF ||'''9''' || {{flagicon|URU}} [[Luis Suárez (Uruguayan footballer)|Luis Suárez]]
+|-
+|LF ||'''11'''|| {{flagicon|BRA}} [[Neymar]] || {{yel|61}} || {{suboff|89}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' || {{flagicon|GER}} [[Marc-André ter Stegen]]
+|-
+|GK ||'''25'''|| {{flagicon|ESP}} [[Jordi Masip]]
+|-
+|DF ||'''15'''|| {{flagicon|ESP}} [[Marc Bartra]]
+|-
+|DF ||'''21'''|| {{flagicon|BRA}} [[Adriano (footballer, born 1984)|Adriano]]
+|-
+|DF ||'''23'''|| {{flagicon|BEL}} [[Thomas Vermaelen]] || || {{subon|81}}
+|-
+|DF ||'''24'''|| {{flagicon|FRA|1974}} [[Jérémy Mathieu]] || || {{subon|89}}
+|-
+|MF ||'''20'''|| {{flagicon|ESP}} [[Sergi Roberto]] || {{yel|72}} || {{subon|67}}
+|-
+|MF ||'''26'''|| {{flagicon|ESP}} [[Sergi Samper]]
+|-
+|MF ||'''28'''|| {{flagicon|ESP}} [[Gerard Gumbau]]
+|-
+|FW ||'''17'''|| {{flagicon|ESP}} [[Munir El Haddadi|Munir]]
+|-
+|FW ||'''19'''|| {{flagicon|ESP}} [[Sandro Ramírez]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Luis Enrique]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match'''<br />[[Luis Suárez (Uruguayan footballer)|Luis Suárez]] (Barcelona)<ref name="match report"/>
+
+'''Assistant referees'''<br />Reza Sokhandan ([[Football Federation Islamic Republic of Iran|Iran]])<ref name="match report"/><br />Mohammadreza Mansouri ([[Football Federation Islamic Republic of Iran|Iran]])<ref name="match report"/><br />'''Fourth official'''<br />[[Sidi Alioum]] ([[Cameroonian Football Federation|Cameroon]])<ref name="match report"/>
+| style="width:55%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/70/28/09/fcwcreg2015en_neutral.pdf|archive-url=https://web.archive.org/web/20151126173136/http://resources.fifa.com/mm/document/tournament/competition/02/70/28/09/fcwcreg2015en_neutral.pdf|url-status=dead|archive-date=November 26, 2015|title=Regulations – FIFA Club World Cup Japan 2015|publisher=FIFA}}</ref>
+*90 minutes
+*30 minutes of extra time if necessary
+*Penalty shoot-out if scores still level
+*Twelve named substitutes, of which up to three may be used
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="half time">{{cite web |url=https://resources.fifa.com/mm/document/tournament/competition/02/74/70/19/eng_08_1220_car-fcb_halftime.pdf |archive-url=https://web.archive.org/web/20160121020417/http://resources.fifa.com/mm/document/tournament/competition/02/74/70/19/eng_08_1220_car-fcb_halftime.pdf |url-status=dead |archive-date=21 January 2016 |title=Match Report Half-time |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=20 December 2015 |access-date=10 February 2026}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|{{nowrap|River Plate}}
+!scope="col" style="width:70px"|Barcelona
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|3
+|8
+|-
+!scope=row|Shots on target
+|2
+|4
+|-
+!scope=row|Saves
+|0
+|3
+|-
+!scope=row|Ball possession
+|34%
+|66%
+|-
+!scope=row|Corner kicks
+|2
+|1
+|-
+!scope=row|Fouls committed
+|17
+|6
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="match report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|{{nowrap|River Plate}}
+!scope="col" style="width:70px"|Barcelona
+|-
+!scope=row|Goals scored
+|0
+|2
+|-
+!scope=row|Total shots
+|6
+|8
+|-
+!scope=row|Shots on target
+|4
+|4
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|40%
+|60%
+|-
+!scope=row|Corner kicks
+|4
+|1
+|-
+!scope=row|Fouls committed
+|5
+|7
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|0
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="match report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|{{nowrap|River Plate}}
+!scope="col" style="width:70px"|Barcelona
+|-
+!scope=row|Goals scored
+|0
+|3
+|-
+!scope=row|Total shots
+|9
+|16
+|-
+!scope=row|Shots on target
+|6
+|8
+|-
+!scope=row|Saves
+|1
+|5
+|-
+!scope=row|Ball possession
+|37%
+|63%
+|-
+!scope=row|Corner kicks
+|6
+|2
+|-
+!scope=row|Fouls committed
+|22
+|13
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|2
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+
+* [[2014–15 UEFA Champions League]]
+* [[2015 Copa Libertadores]]
+* [[FC Barcelona in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://web.archive.org/web/20111225041824/http://www.fifa.com/clubworldcup/index.html}}
+
+{{FIFA Club World Cup}}
+{{FC Barcelona matches}}
+{{River Plate matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2015}}
+[[Category:2015 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2015]]
+[[Category:FC Barcelona matches]]
+[[Category:Club Atlético River Plate matches]]
+[[Category:2015–16 in Spanish men's football]]
+[[Category:2015 in Argentine football|FIFA]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:Football matches in Yokohama]]
+[[Category:2010s in Yokohama]]
+[[Category:Football finals in Japan]]
+[[Category:2015 in Japanese football]]
+[[Category:December 2015 sports events in Japan]]
+[[Category:Argentina–Spain sports relations|2015]]

@@ -1,0 +1,616 @@
+{{Short description|Football match in Saint-Denis, France}}
+{{for|the disruption before the game causing an independent commission|2022 UEFA Champions League final chaos}}
+{{Use British English|date=February 2022}}
+{{Use dmy dates|date=February 2022}}
+{{Infobox football match
+| title = 2022 UEFA Champions League final
+| image = 2022 UEFA Champions League Final programme.jpg
+| image_size = frameless
+| caption = Match programme cover
+| event = [[2021–22 UEFA Champions League]]
+| team1 = [[Liverpool F.C.|Liverpool]]
+| team1association = {{fbaicon|ENG|size=30px}}
+| team1score = 0
+| team2 = [[Real Madrid CF|Real Madrid]]
+| team2association = {{fbaicon|ESP|size=30px}}
+| team2score = 1
+| details =
+| date = {{Start date|2022|5|28|df=y}}
+| stadium = [[Stade de France]]
+| city = [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+| man_of_the_match1a = [[Thibaut Courtois]] {{nowrap|(Real Madrid)}}<ref name="MOTM">{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0275-15415a46222f-56deb06b7df5-1000/ |title=Official Champions League final PlayStation Player of the Match: Thiabut Courtois |work=UEFA.com |date=28 May 2022 |access-date=28 May 2022}}</ref>
+| referee = [[Clément Turpin]] ([[French Football Federation|France]])<ref name="officials">{{cite news |url=https://www.uefa.com/news-media/news/0275-151e847d9f62-c7c70e5d01ff-1000/ |title=Referee teams appointed for 2022 UEFA club competition finals |work=UEFA.com |date=11 May 2022 |access-date=11 May 2022}}</ref>
+| attendance = 75,000<ref name="attendance2022"/>
+| weather = Partly cloudy night<br />{{convert|18|°C|°F|abbr=on}}<br />45% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2022/2034586_LU.pdf |title=Tactical Line-ups – Final – Saturday 28 May 2022 |work=UEFA.com |date=28 May 2022 |access-date=28 May 2022}}</ref>
+| previous = [[2021 UEFA Champions League final|2021]]
+| next = [[2023 UEFA Champions League final|2023]]
+}}
+
+The '''2022 UEFA Champions League final''' was the final match of the [[2021–22 UEFA Champions League]], the 67th season of Europe's premier club football tournament organised by [[UEFA]], and the 30th season since it was renamed from the [[European Champion Clubs' Cup]] to the [[UEFA Champions League]]. It was played at the [[Stade de France]] in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France, on 28 May 2022, between English club [[Liverpool F.C.|Liverpool]] and Spanish club [[Real Madrid CF|Real Madrid]]. It was the third time the two sides have met in the European Cup final, after [[1981 European Cup final|1981]] and [[2018 UEFA Champions League final|2018]], the third final held at the Stade de France, after the [[2000 UEFA Champions League final|2000]] and [[2006 UEFA Champions League final|2006]] finals, and the first time the same two teams have met in three finals.<ref>{{cite web |title=Liverpool vs Real Madrid Champions League final match facts: Previous meetings, pedigree, links and trivia, latest news |url=https://www.uefa.com/uefachampionsleague/news/0275-15281eca12ba-8c4b2a20b3c3-1000--liverpool-vs-real-madrid-champions-league-final-match-facts-pre/ |website=UEFA.com|date=28 May 2022 |access-date=29 May 2022}}</ref> Real Madrid won the match 1–0 via a 59th-minute goal from [[Vinícius Júnior]], assisted by [[Federico Valverde]], for [[European Cup and UEFA Champions League records and statistics#General performances|a record-extending 14th title]], and their fifth in nine years.<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0275-15415a62aaf0-36d3e17d7404-1000/ |title=Champions League final: Vinícius Júnior scores only goal as Real Madrid beat Liverpool to claim 14th European Cup |work=UEFA.com |date=28 May 2022 |access-date=28 May 2022}}</ref>
+
+This was the first final to be played in front of a full attendance since the [[2019 UEFA Champions League final|2019 final]], as the previous two finals were affected by the [[COVID-19 pandemic in Europe|COVID-19 pandemic]].<ref>{{cite news |title=Bayern Munich Wins Champions League, a Victory for Tradition and Team |url=https://www.nytimes.com/2020/08/23/sports/soccer/psg-bayern-live-score.html |website=The New York Times |last=Smith |first=Rory |date=23 August 2020 |access-date=23 August 2020}}</ref> The final was originally scheduled to be played at the [[Allianz Arena]] in [[Munich]]. After the postponement and relocation of the [[2020 UEFA Champions League final|2020 final]], the final hosts were shifted back a year, so the 2022 final was given to the [[Krestovsky Stadium]] in [[Saint Petersburg]].<ref name="ExCo 17 June">{{cite news |url=https://www.uefa.com/news-media/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/ |title=UEFA competitions to resume in August |work=UEFA.com |date=17 June 2020 |access-date=17 June 2020}}</ref> Following the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]] on 24 February, however, UEFA called an extraordinary meeting of the executive committee a day later,<ref>{{cite web |url=https://www.uefa.com/news-media/news/0272-14855c6e8982-98c47ce4b93b-1000/ |title=UEFA calls extraordinary meeting of the Executive Committee |work=UEFA.com |date=24 February 2022 |access-date=24 February 2022}}</ref><ref>{{cite web |url=https://www.bbc.com/sport/football/60504979 |title=Ukraine crisis: Uefa to move Champions League final after Russian invasion |work=BBC Sport |date=24 February 2022 |access-date=24 February 2022}}</ref> and the final was relocated to the Stade de France.<ref>{{Cite news |url=https://www.nytimes.com/2022/02/25/sports/soccer/champions-league-final-paris-russia.html |title=Champions League final Will Be Played in Paris, Not Russia |access-date=25 February 2022 |website=The New York Times |date=25 February 2022 |last1=Panja |first1=Tariq}}</ref> Before the match, [[2022 UEFA Champions League final chaos|chaos descended following issues with crowd control]], which led to kickoff being delayed by 36 minutes.<ref name=":0" />
+
+As winners, Real Madrid earned the right to play against the winners of the [[2021–22 UEFA Europa League]],  [[Eintracht Frankfurt]], in the [[2022 UEFA Super Cup]], and also qualified for the [[2022 FIFA Club World Cup]], in which they both won. While undetermined at the time of the final, its result also qualified the team for the [[2025 FIFA Club World Cup|first edition of the expanded FIFA Club World Cup in 2025]] using UEFA's champions pathway (The winners of the [[List of European Cup and UEFA Champions League finals|2021–2024 Champions Leagues]]), and increased [[Liverpool F.C.|Liverpool]]'s chances of qualifying using the [[UEFA coefficient]] pathway (The top 8 clubs qualifying).<ref>{{Cite web |title=FIFA Council confirms key details for FIFA Club World Cup 2025 |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/origin1904-p.cxm.fifa.com/fifa-council-confirms-key-details-for-fifa-club-world-cup-2025-tm |access-date=20 December 2023 |website=www.fifa.com |language=en}}</ref>
+
+==Background==
+[[Liverpool F.C.|Liverpool]] played in their 10th European Cup/UEFA Champions League final. They had previously won six finals (in [[1977 European Cup final|1977]], [[1978 European Cup final|1978]], [[1981 European Cup final|1981]], [[1984 European Cup final|1984]], [[2005 UEFA Champions League final|2005]] and [[2019 UEFA Champions League final|2019]]) and lost three (in [[1985 European Cup final|1985]], [[2007 UEFA Champions League final|2007]] and [[2018 UEFA Champions League final|2018]]).<ref>{{cite web |first=Michael |last=Emons |title=Villarreal 2–3 Liverpool (2–5 on aggregate): Jurgen Klopp's side advance to Champions League final |url=https://www.bbc.com/sport/football/61300681 |work=BBC Sport |date=3 May 2022 |access-date=26 May 2022 |archive-date=5 May 2022 |archive-url=https://web.archive.org/web/20220505164443/https://www.bbc.com/sport/football/61300681 |url-status=live}}</ref> This was the fourth UEFA Champions League final for manager [[Jürgen Klopp]], after his loss with [[Borussia Dortmund]] in [[2013 UEFA Champions League final|2013]] and the Liverpool finals in 2018 and 2019 the latter of which he won.<ref>{{cite web |first=Phil |last=McNulty |title=Man City 2–0 Paris St-Germain (4–1 on aggregate): City into first Champions League final |url=https://www.bbc.com/sport/football/56973031 |work=BBC Sport |date=4 May 2021 |access-date=7 May 2021 |archive-date=6 May 2021 |archive-url=https://web.archive.org/web/20210506200034/https://www.bbc.com/sport/football/56973031 |url-status=live}}</ref> In addition to their six European Cup/UEFA Champions League titles, Liverpool also played in one [[UEFA Cup Winners' Cup|European Cup Winners' Cup]] final, losing in [[1966 European Cup Winners' Cup final|1966]] against Borussia Dortmund, and in four [[UEFA Europa League|UEFA Cup/Europa League]] finals, winning in [[1973 UEFA Cup final|1973]], [[1976 UEFA Cup final|1976]] and [[2001 UEFA Cup final|2001]] and losing in [[2016 UEFA Europa League final|2016]]. Their manager [[Jürgen Klopp]] was seeking to become the fourth consecutive German to manage a Champions League-winning club.<ref>{{cite web |url=https://www.uefa.com/news-media/mediaservices/informationkits/competitions/uefachampionsleague/2022/match/2034586/ |title=UCL 2022 Liverpool – Real Madrid match facts |publisher=UEFA |access-date=30 May 2022}}</ref>
+
+[[Real Madrid CF|Real Madrid]] played in a record 17th European Cup/UEFA Champions League final, and the first since their win in [[2018 UEFA Champions League final|2018]] against Liverpool. They previously won 13 finals (in [[1956 European Cup final|1956]], [[1957 European Cup final|1957]], [[1958 European Cup final|1958]], [[1959 European Cup final|1959]], [[1960 European Cup final|1960]], [[1966 European Cup final|1966]], [[1998 UEFA Champions League final|1998]], [[2000 UEFA Champions League final|2000]], [[2002 UEFA Champions League final|2002]], [[2014 UEFA Champions League final|2014]], [[2016 UEFA Champions League final|2016]], [[2017 UEFA Champions League final|2017]] and 2018) and lost three ([[1962 European Cup final|1962]], [[1964 European Cup final|1964]] and 1981).<ref>{{cite web |first=Emlyn |last=Begley |title=Real Madrid 3–1 Manchester City (6–5 agg): Real come back to reach Champions League final |url=https://www.bbc.com/sport/football/61312216 |work=BBC Sport |access-date=26 May 2022 |archive-url=https://web.archive.org/web/20220508145551/https://www.bbc.com/sport/football/61312216 |archive-date=8 May 2022 |date=4 May 2022 |url-status=live}}</ref> Their manager [[Carlo Ancelotti]] reached a record fifth UEFA Champions League final as manager, winning in 2003 and 2007 and losing in 2005 while in charge of [[AC Milan|Milan]], and winning the 2014 final with Real Madrid, and was seeking to become the first manager in history to win four UEFA Champions League titles and eight European trophies.<ref>{{cite web |title=Real Madrid coach Carlo Ancelotti on the UEFA Champions League final against Liverpool and bid for more history – interview |url=https://www.uefa.com/uefachampionsleague/news/0275-153c1717ddd6-bee8be412fa9-1000--real-madrid-coach-carlo-ancelotti-on-the-uefa-champions-league-/ |publisher=UEFA |access-date=26 May 2022 |archive-url=https://web.archive.org/web/20220526125047/https://www.uefa.com/uefachampionsleague/news/0275-153c1717ddd6-bee8be412fa9-1000--real-madrid-coach-carlo-ancelotti-on-the-uefa-champions-league-/ |archive-date=26 May 2022 |date=26 May 2022 |url-status=live}}</ref><ref>{{cite web |first=Alex |last=Bysouth |title=Carlo Ancelotti: What next for Real Madrid's record-breaking boss? |url=https://www.bbc.com/sport/football/61310122 |work=BBC Sport |access-date=26 May 2022 |archive-url=https://web.archive.org/web/20220505203830/https://www.bbc.com/sport/football/61310122 |archive-date=5 May 2022 |date=3 May 2022 |url-status=live}}</ref> Real Madrid also played in two [[UEFA Cup Winners' Cup|European Cup Winners' Cup]] finals (losing in [[1971 European Cup Winners' Cup final|1971]] and [[1983 European Cup Winners' Cup final|1983]]) and two [[UEFA Europa League|UEFA Cup]] finals (winning in [[1985 UEFA Cup final|1985]] and [[1986 UEFA Cup final|1986]]).<ref>{{cite web |title=Big Match Feature: Liverpool v Real Madrid |url=https://supersport.com/news/974649bd-a621-4c63-ab50-adfc1b41d110/big_match_feature_liverpool_v_real_madrid/ |website=Super Sport |access-date=29 May 2022 |archive-url=https://web.archive.org/web/20220529015558/https://supersport.com/news/974649bd-a621-4c63-ab50-adfc1b41d110/big_match_feature_liverpool_v_real_madrid/ |archive-date=29 May 2022 |url-status=dead}}</ref>
+
+This was a record-third time that the two teams meet in the final, after the 1981 final, which was held in the [[Parc des Princes]] in Paris and in which Liverpool prevailed 1–0, and the 2018 final held at the [[Olimpiyskiy National Sports Complex]] in Kyiv, which was won 3–1 by Real Madrid. This was also the third final for Carlo Ancelotti as manager against Liverpool, after the 2005 and 2007 finals; he also lost the 1984 final as a player for [[AS Roma|Roma]]. This was the sixth time a Spanish side met an English team in the final of the competition, after the 1981, [[2006 UEFA Champions League final|2006]] (won by [[FC Barcelona|Barcelona]] against [[Arsenal F.C.|Arsenal]]), the [[2009 UEFA Champions League final|2009]] and [[2011 UEFA Champions League final|2011]] finals (both won by Barcelona against [[Manchester United F.C.|Manchester United]]), and the 2018 final.<ref name="RSSSF EC">{{Cite web |last=Stokkermans |first=Karel |date=2 April 2020 |title=European Champions' Cup |url=https://www.rsssf.org/tablese/ec1.html |url-status=live |archive-url=https://web.archive.org/web/20110208171501/http://rsssf.com/tablese/ec1.html |archive-date=8 February 2011 |access-date=30 May 2022 |website=[[RSSSF]]}}</ref>
+
+Besides the 1981 and 2018 finals, the two clubs had met each other six times. Liverpool won both matches in the [[2008–09 UEFA Champions League knockout phase#Round of 16|2008–09 UEFA Champions League round of 16]] (1–0 away and 4–0 at home). The two clubs were drawn in the same group in the [[2014–15 UEFA Champions League group stage#Group B|2014–15 UEFA Champions League group stage]], with Real Madrid winning 3–0 away and 1–0 at home. In the [[2020–21 UEFA Champions League knockout phase#Quarter-finals|2020–21 quarter-finals]], the Spanish side won 3–1 at home and held a 0–0 draw at [[Anfield]] to ensure progression to the semi-finals.<ref>{{cite web |title=Liverpool vs Real Madrid Champions League final match facts: Previous meetings, pedigree, links and trivia, latest news |url=https://www.uefa.com/uefachampionsleague/news/0275-15281eca12ba-8c4b2a20b3c3-1000--liverpool-vs-real-madrid-champions-league-final-match-facts-pre/ |publisher=UEFA |access-date=26 May 2022 |archive-url=https://web.archive.org/web/20220526130902/https://www.uefa.com/uefachampionsleague/news/0275-15281eca12ba-8c4b2a20b3c3-1000--liverpool-vs-real-madrid-champions-league-final-match-facts-pre/ |archive-date=26 May 2022 |date=25 May 2022 |url-status=live}}</ref>
+
+===Previous finals===
+''In the following table, finals until 1992 were in the European Cup era, since 1993 were in the UEFA Champions League era.''<ref>{{cite web |title=Champions League explained |url=https://www.premierleague.com/uefa-champions-league-explained |website=Premier League |access-date=29 May 2022 |archive-date=16 January 2020 |archive-url=https://web.archive.org/web/20200116055207/https://www.premierleague.com/uefa-champions-league-explained |url-status=dead}}</ref>
+{| class="wikitable plainrowheaders"
+|-
+!scope="col"|Team
+!scope="col"|Previous final appearances (bold indicates winners)
+|-
+|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|9 ('''[[1977 European Cup final|1977]]''', '''[[1978 European Cup final|1978]]''', '''[[1981 European Cup final|1981]]''', '''[[1984 European Cup final|1984]]''', [[1985 European Cup final|1985]], '''[[2005 UEFA Champions League final|2005]]''', [[2007 UEFA Champions League final|2007]], [[2018 UEFA Champions League final|2018]], '''[[2019 UEFA Champions League final|2019]]''')
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|16 ('''[[1956 European Cup final|1956]]''', '''[[1957 European Cup final|1957]]''', '''[[1958 European Cup final|1958]]''', '''[[1959 European Cup final|1959]]''', '''[[1960 European Cup final|1960]]''', [[1962 European Cup final|1962]], [[1964 European Cup final|1964]], '''[[1966 European Cup final|1966]]''', [[1981 European Cup final|1981]], '''[[1998 UEFA Champions League final|1998]]''', '''[[2000 UEFA Champions League final|2000]]''', '''[[2002 UEFA Champions League final|2002]]''', '''[[2014 UEFA Champions League final|2014]]''', '''[[2016 UEFA Champions League final|2016]]''', '''[[2017 UEFA Champions League final|2017]]''', '''[[2018 UEFA Champions League final|2018]]''')
+|}
+
+==Venue==
+[[File:StadeFranceNationsLeague2018.jpg|thumb|275px|The [[Stade de France]] in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]] hosted the final.]]
+
+The final was originally awarded to the [[Allianz Arena]] in Munich, Germany.<ref name="hosts announced"/> When the [[Impact of the COVID-19 pandemic on association football|COVID-19 pandemic]] forced the [[2020 UEFA Champions League final|2020 final]] to be relocated from the [[Atatürk Olympic Stadium]] in Istanbul to the [[Estádio da Luz]] in Lisbon, the Allianz Arena was reawarded with the [[2023 UEFA Champions League final|2023 final]] and the 2022 final was given to the original host of the [[2021 UEFA Champions League final|2021 final]], the [[Krestovsky Stadium]] in [[Saint Petersburg]].<ref name="ExCo 17 June"/>
+
+Following the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]] in February 2022, [[UEFA]] organised an emergency meeting of its executive committee on 25 February, at which it decided to move the final to the [[Stade de France]] in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]].<ref>{{cite web |url=https://www.uefa.com/news-media/news/0272-148740475a92-1b97baa3e9d7-1000--decisions-from-today-s-extraordinary-uefa-executive-committee-m/ |title=Decisions from today's extraordinary UEFA Executive Committee meeting |work=UEFA.com |year=2022 | access-date=25 February 2022}}</ref> Other cities proposed as replacement hosts were [[Amsterdam]], [[Barcelona]], [[Munich]] and [[Rome]].<ref name="rsport">{{cite news |title=УЕФА лишил Петербург финала Лиги чемпионов: подробности |url=https://rsport.ria.ru/20220225/futbol-1774686959.html |publisher=[[RIA Novosti]] |date=25 February 2022 |access-date=25 February 2022 |language=ru |trans-title=UEFA deprived St. Petersburg of the Champions League final: details}}</ref> This was the first UEFA Champions League final to take place in France since [[2006 UEFA Champions League final|2006]], where [[FC Barcelona|Barcelona]] secured their second title by defeating [[Arsenal F.C.|Arsenal]] 2–1.<ref name="rsport"/>
+
+===Host selection===
+{{for|the details on the selection of Munich as the original host for the final|2023 UEFA Champions League final#Host selection}}
+
+An open bidding process was launched on 28 September 2018 by UEFA to select the venues of the finals of the UEFA Champions League, UEFA Europa League, and UEFA Women's Champions League in 2021. Associations had until 26 October 2018 to express interest, and bid dossiers must be submitted by 15 February 2019. UEFA announced on 1 November 2018 that two associations had expressed interest in hosting the 2021 UEFA Champions League final,<ref>{{cite web |url=https://www.uefa.com/news-media/news/0250-0c5119fbc7e9-b9de0907b594-1000--11-associations-interested-in-hosting-2021-club-finals/ |title=11 associations interested in hosting 2021 club finals |work=UEFA.com |date=1 November 2018}}</ref> and on 22 February 2019 that both associations submitted their dossiers by the deadline.<ref>{{cite web |url=https://www.uefa.com/news-media/news/024e-0f8e68aa43f5-6b3adef08395-1000--9-associations-bidding-to-host-2021-club-finals/ |title=9 associations bidding to host 2021 club finals |work=UEFA.com |date=22 February 2019}}</ref>
+
+{| class="wikitable sortable plainrowheaders"
+|+Bidding associations for final
+|-
+! scope="col"|Association
+! scope="col"|Stadium
+! scope="col"|City
+! scope="col"|Capacity
+|-
+!scope="row"| {{fba|GER}}
+| [[Allianz Arena]] || [[Munich]] || 70,000
+|- bgcolor=#ccffcc
+!scope="row"| {{fba|RUS}}
+| [[Krestovsky Stadium]] || [[Saint Petersburg]] || 67,800
+|}
+
+The [[Krestovsky Stadium]] was selected by the UEFA Executive Committee during their meeting in [[Ljubljana]], Slovenia on 24 September 2019,<ref name="hosts announced">{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0255-0e99f55f1d05-6273cba59e7c-1000--champions-league-final-hosts-for-2021-2022-2023-and-2024/ |title=Champions League final hosts announced for 2021, 2022 and 2023 |work=UEFA.com |date=24 September 2019 |access-date=24 September 2019}}</ref> where the hosts for the [[2021 UEFA Champions League final|2021]] and [[2023 UEFA Champions League final|2023]] UEFA Champions League finals were also appointed.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0255-0f8e6f9636b1-db5308c8e2e5-1000--uefa-executive-committee-agenda-for-ljubljana-meeting/ |title=UEFA Executive Committee agenda for Ljubljana meeting |work=UEFA.com |date=17 September 2019 |access-date=17 September 2019}}</ref>
+
+On 17 June 2020, the UEFA Executive Committee announced that due to the postponement and relocation of the [[2020 UEFA Champions League final|2020 final]] caused by the [[COVID-19 pandemic in Europe]], Saint Petersburg would instead host the 2022 final.<ref name="ExCo 17 June"/>
+
+==Route to the final==
+{{Further|2021–22 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+!Round
+!colspan="4"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2021–22 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Liverpool v Milan|3–2]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Inter Milan v Real Madrid|1–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Porto v Liverpool|5–1]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Real Madrid v Sheriff Tiraspol|1–2]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[Atlético Madrid]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Atlético Madrid v Liverpool|3–2]] (A)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Shakhtar Donetsk v Real Madrid|5–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[Atlético Madrid]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Liverpool v Atlético Madrid|2–0]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Real Madrid v Shakhtar Donetsk|2–1]] (H)
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Liverpool v Porto|2–0]] (H)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Sheriff Tiraspol v Real Madrid|3–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Milan v Liverpool|2–1]] (A)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan]]
+|colspan="3"|[[2021–22 UEFA Champions League group stage#Real Madrid v Inter Milan|2–0]] (H)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2021–22 UEFA Champions League group stage#Group B|Group B]] winners'''
+<div class="center">{{:2021–22 UEFA Champions League group stage|transcludesection=Group B|only_pld_pts=yes|show_matches=no|showteam=LIV}}</div>
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2021–22 UEFA Champions League group stage#Group D|Group D]] winners'''
+<div class="center">{{:2021–22 UEFA Champions League group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=no|showteam=RMA}}</div>
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2021–22 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan]]
+|2–1
+|[[2021–22 UEFA Champions League knockout phase#Internazionale v Liverpool|2–0]] (A)
+|[[2021–22 UEFA Champions League knockout phase#Liverpool v Internazionale|0–1]] (H)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|3–2
+|[[2021–22 UEFA Champions League knockout phase#Paris Saint-Germain v Real Madrid|0–1]] (A)
+|[[2021–22 UEFA Champions League knockout phase#Real Madrid v Paris Saint-Germain|3–1]] (H)
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|6–4
+|[[2021–22 UEFA Champions League knockout phase#Benfica v Liverpool|3–1]] (A)
+|[[2021–22 UEFA Champions League knockout phase#Liverpool v Benfica|3–3]] (H)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|5–4
+|[[2021–22 UEFA Champions League knockout phase#Chelsea v Real Madrid|3–1]] (A)
+|[[2021–22 UEFA Champions League knockout phase#Real Madrid v Chelsea|2–3]] {{aet}} (H)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|5–2
+|[[2021–22 UEFA Champions League knockout phase#Liverpool v Villarreal|2–0]] (H)
+|[[2021–22 UEFA Champions League knockout phase#Villarreal v Liverpool|3–2]] (A)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|6–5
+|[[2021–22 UEFA Champions League knockout phase#Manchester City v Real Madrid|3–4]] (A)
+|[[2021–22 UEFA Champions League knockout phase#Real Madrid v Manchester City|3–1]] {{aet}} (H)
+|}
+
+==Pre-match==
+===Identity===
+The original logo of the 2022 UEFA Champions League final at Saint Petersburg was unveiled at the group stage draw on 26 August 2021 in [[Istanbul]].<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/026d-134d790229e9-c21eaed49543-1000--2022-final-branding-unveiled/ |title=2022 UEFA Champions League final branding unveiled |work=UEFA.com |date=22 September 2021 |access-date=6 March 2022}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref> Originally, former [[Russia national football team|Russia]]n forward [[Andrey Arshavin]] was chosen to be the ambassador for the final. However, he was removed after the final's relocation to Saint-Denis.<ref>{{cite news |last=Thorogood |first=James |url=https://www.dw.com/en/champions-league-uefa-forced-into-round-of-16-redraw-bayern-draw-salzburg/a-60101754 |title=Champions League: UEFA forced into Round of 16 redraw, Bayern draw Salzburg |work=[[Deutsche Welle]] |date=13 December 2021 |access-date=15 March 2022}}</ref>
+
+===Officials===
+[[File:Clément Turpin 2016 (cropped).jpg|thumb|upright=.8|Frenchman [[Clément Turpin]] officiated the final.]]
+On 11 May 2022, UEFA named Frenchman [[Clément Turpin]] as the [[Referee (association football)|referee]] for the final.<ref name="Referees">{{cite news |url=https://sports.yahoo.com/news/clement-turpin-appointed-champions-league-182556665.html |title=Clement Turpin appointed as Champions League final referee for Liverpool v Real Madrid clash |work=[[Yahoo! Sports]] |date=11 May 2022 |access-date=3 May 2022}}</ref> Turpin had been a [[FIFA International Referees List|FIFA referee]] since 2010, and was previously the fourth official in the [[2018 UEFA Champions League final]], also between Real Madrid and Liverpool. In the previous season he was the referee for the [[2021 UEFA Europa League Final]] between [[Villarreal CF|Villarreal]] and [[Manchester United F.C.|Manchester United]]. He officiated eight prior matches in the 2021–22 Champions League season, with two matches in qualification, four in the group stage and two knockout fixtures. He served as a referee at the [[UEFA European Championship]] in [[UEFA Euro 2016|2016]] and [[UEFA Euro 2020|2020]], as well as at the [[2018 FIFA World Cup]] in Russia. Turpin also was a video assistant referee at the [[2017 FIFA Confederations Cup]] in Russia (including in the [[2017 FIFA Confederations Cup Final|final]]), the [[2017 FIFA Club World Cup]] in the United Arab Emirates and the [[2019 FIFA Women's World Cup]] in France
+
+Turpin was joined by five of his fellow countrymen, including [[Assistant referee (association football)|assistant referees]] Nicolas Danos and Cyril Gringore.<ref name="Referees"/> [[Benoît Bastien]] served as the fourth official. [[Jérôme Brisard]] acted as the [[video assistant referee]] (VAR), with [[Willy Delajod]] appointed as one of the assistant VAR officials, along with Italian referees [[Massimiliano Irrati]] and Filippo Meli.<ref name="officials"/><ref name="Referees"/>
+
+===Opening ceremony===
+Cuban-born American singer [[Camila Cabello]] performed for the opening ceremony before the start of the match.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0275-151a623b63d1-34f72f8fe69f-1000/ |title=Camila Cabello to perform at the 2022 UEFA Champions League final Opening Ceremony, presented by Pepsi |work=UEFA.com |date=9 May 2022 |access-date=29 May 2022}}</ref> Cabello performed her songs "[[Señorita (Shawn Mendes and Camila Cabello song)|Señorita]]", "[[La Buena Vida (song)|La Buena Vida]]", "[[Havana (Camila Cabello song)|Havana]]", "[[Bam Bam (Camila Cabello song)|Bam Bam]]" and "[[Don't Go Yet]]".<ref>{{Cite web |last=Sam |date=28 May 2022 |title=Watch: Camila Cabello Scores with UEFA Champions League Final Performance |url=https://thatgrapejuice.net/2022/05/watch-camila-cabello-scores-with-uefa-champions-league-final-performance/ |access-date=29 May 2022 |website=That Grape Juice}}</ref><ref>{{Cite magazine |last=Peters |first=Mitchell |date=28 May 2022 |title=Camila Cabello Pays Homage to Her Latin Heritage at Stunning UEFA Champions League Final Opening Ceremony |url=https://www.billboard.com/music/music-news/camila-cabello-uefa-champions-league-final-opening-ceremony-1235078758/ |access-date=29 May 2022 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+
+===Issues entering stadium and match delay===
+{{Main|2022 UEFA Champions League final chaos}}
+Crowd control descended into chaos at the entrances to the Stade de France prior to the beginning of the match.<ref>{{Cite news |date=29 May 2022 |title=Champions League final: UK calls for investigation into Paris stadium chaos |work=BBC News |url=https://www.bbc.co.uk/news/uk-61626746}}</ref> By 21:00 local time, the originally scheduled kick-off time, thousands of seats remained empty in the Liverpool end. Ostensibly for security reasons, the kick-off was initially delayed by 15 minutes to 21:15. This was further delayed by 15 minutes to 21:30, before being pushed back another six minutes to 21:36. The match eventually started at 21:37.<ref name=":0">{{cite web |title=Liverpool 'hugely disappointed' by treatment of fans outside Paris final |url=https://www.theguardian.com/football/2022/may/28/champions-league-final-kick-off-delay-liverpool-real-madrid-paris |access-date=29 May 2022 |website=The Guardian |date=28 May 2022}}</ref>  
+
+France's Interior Minister at the time, [[Gérald Darmanin]], later admitted that security arrangements for the final were wrong, and that his first public remarks – blaming Liverpool fans – were a mistake. "It was a failure because I had not foreseen. That was a mistake on my part. I was led astray by my preconceptions," he said, admitting that "The scapegoat was easy to find, and I apologise now to Liverpool supporters. They were quite right to be hurt. It was a mistake and a failure."<ref>{{Cite web | url=https://www.bbc.co.uk/news/articles/ckg2vyxzg3qo#:~:text=French%20minister%20apologises%20to%20Liverpool%20fans%20over%20Champions%20League%20chaos,-Reuters&text=France's%20former%20interior%20minister%20has,wrongly%20blamed%20for%20a%20riot. | title=French minister apologises to Liverpool fans over Champions League chaos | website=www.bbc.co.uk}}</ref>
+
+==Match==
+===Summary===
+[[File:Thibaut Courtois at the 2018 World Cup (cropped).jpg|thumb|upright|[[Real Madrid CF|Real Madrid]] goalkeeper [[Thibaut Courtois]] was named [[man of the match]] after making a total of nine saves in the match.]]
+
+====First half====
+The match kicked off at the delayed time of 21:36 in front of a crowd of 75,000. In the 16th minute, [[Trent Alexander-Arnold]] played the ball across the Real Madrid penalty area which ended up being hit towards goal by [[Mohamed Salah]] before being saved by [[Thibaut Courtois]] for the first effort of the match.<ref name="SportingNews">{{cite web |last=Farrell |first=Dom |url=https://www.sportingnews.com/us/soccer/news/liverpool-real-madrid-score-highlights-champions-league/kgexl1rv7m8yx3sm4duprcca |title=Liverpool vs. Real Madrid result, highlights and analysis as Vinicius and Courtois inspire Los Blancos to 14th European title |work=Sporting News |date=28 May 2022 |access-date=29 May 2022}}</ref> Five minutes later, [[Thiago Alcântara]] played a ball through to [[Sadio Mané]] who managed to make space for himself and take a shot which was saved on to the left post by Courtois. In the 34th minute, Alexander-Arnold played another cross into the Madrid penalty area towards Salah, who managed to direct a header towards goal but straight at Courtois.<ref name="SportingNews"/> 
+
+Two minutes before half-time, [[Karim Benzema]] made a clear run towards the Liverpool penalty area on the right and managed to take the ball under control before attempting to pass the ball across before being cut out by [[Ibrahima Konaté]]. However, a mix up between the Liverpool defender as well as goalkeeper [[Alisson]] allowed [[Federico Valverde]] to try to step in to intercept, with Liverpool midfielder [[Fabinho (footballer, born 1993)|Fabinho]] also forced to intervene.<ref name="guardian1"/><ref name="nyt"/> Among the attempts to win the ball, it ended up falling to Benzema again who then passed the ball into the net. However, the goal was disallowed initially by the assistant referee and then also by the VAR after a check of three minutes and 20 seconds.<ref>{{cite web |last=Johnson |first=Dale |url=https://www.espn.co.uk/football/uefa-champions-league/story/4677421/why-karim-benzemas-goal-was-offside-for-real-madrid-in-the-champions-league-final |title=Why Karim Benzema's goal was offside for Real Madrid in the Champions League final |work=ESPN |date=30 May 2022 |access-date=3 June 2022}}</ref> Benzema was shown to be in an offside position when the ball came to him, however there was controversy as to whether the last touch off of Fabinho was intentional or not.<ref>{{cite web |last=Winehouse |first=Amitai |title=Why was Karim Benzema's goal ruled out during Liverpool vs Real Madrid? |url=https://www.nytimes.com/athletic/4176613/2022/05/28/why-was-karim-benzemas-goal-ruled-out-during-liverpool-vs-real-madrid/ |website=The Athletic |date=29 May 2022 |access-date=29 May 2022}}</ref><ref>{{cite web |title='I really don't like that' – talkSPORT hosts disagree over Karim Benzema's controversial disallowed goal in Liverpool's Champions League clash with Real Madrid |url=https://talksport.com/football/1119875/karim-benzema-liverpool-real-madrid/ |website=talkSPORT |date=28 May 2022 |access-date=29 May 2022}}</ref> There were three minutes of stoppage time.<ref name="guardian1">{{cite web |last=Smyth |first=Rob |title=Real Madrid beat Liverpool 1–0 in Champions League final |url=https://www.theguardian.com/football/live/2022/may/28/champions-league-final-liverpool-real-madrid-live-updates |website=The Guardian |date=28 May 2022 |access-date=29 May 2022}}</ref>
+
+====Second half====
+[[File:Vinicius Jr 2021.jpg|thumb|upright|[[Real Madrid CF|Real Madrid]]'s [[Vinícius Júnior]] scored the lone goal of the match in the 59th minute.]]
+Neither side made any line-up changes during the interval.<ref name="espn">{{cite web |title=Real Madrid beat Liverpool, win 2021–22 Champions League: How the final played out |url=https://www.espn.com/soccer/uefa-champions-league/story/4674348/live-champions-league-final-liverpoolreal-madrid-clash-in-paris |website=ESPN |date=28 May 2022 |access-date=29 May 2022}}</ref> Liverpool continued where they left off, as nine minutes into the second half Alexander-Arnold played in another cross towards the Real Madrid penalty area which was not far from the head of Alcântara and ended up being punched away by Courtois.<ref name="SportingNews"/> In the 59th minute, Madrid took the lead against the run of play; Valverde made a run with the ball on the right hand side, before eventually playing a low cross towards [[Vinícius Júnior]] in the penalty area who managed to tuck the ball into the net to make it 1–0, having been left unmarked and Alisson left stranded on the other side of the goal.<ref name="guardian1" /><ref name="nyt" />
+
+Fabinho received the first and only booking of the night, after being shown a yellow card in the 62nd minute by referee [[Clément Turpin]] for a challenge on Valverde.<ref name="guardian1" /> With 24 minutes remaining, Liverpool pressed for an equaliser. Salah came forward with the ball and tried a shot from just outside the penalty area which ended up being saved to the right side of his goal by Courtois.<ref name="SportingNews"/> Liverpool then made their first substitution of the final in the 65th minute, as [[Luis Díaz (footballer, born 1997)|Luis Díaz]] came off for [[Diogo Jota]].<ref name="nyt" /><ref name="guardian1" /> Liverpool pushed again for a goal as a header across the face of goal by Jota almost found its way towards Salah, but was blocked off by Courtois.<ref name="SportingNews"/> Madrid then had a chance to score another in the 75th minute, as a free kick into the Liverpool penalty area by [[Toni Kroos]] found its way to [[Casemiro]] who then tried to play the ball across towards Benzema and Vinícius, but was collected by [[Andrew Robertson]].<ref name="guardian2">{{cite web |title=Real Madrid beat Liverpool 1–0 in Champions League Final |url=https://www.theguardian.com/football/live/2022/may/28/champions-league-final-liverpool-real-madrid-live-updates?filterKeyEvents=false |website=The Guardian |date=28 May 2022 |access-date=29 May 2022}}</ref><ref name="nyt">{{cite news |title=Champions League Final: Real Madrid Beats Liverpool for 14th Title |url=https://www.nytimes.com/live/2022/05/28/sports/champions-league-final |website=The New York Times |date=28 May 2022 |access-date=29 May 2022 |last1=Smith |first1=Rory}}</ref>
+
+Liverpool then made their two more changes, as Alcântara and captain [[Jordan Henderson]] came off for [[Naby Keïta]] and [[Roberto Firmino]] in the 77th minute.<ref name="guardian2" /><ref name="nyt" /> Liverpool continued to push for the equaliser, as passing took place between Salah and Firmino before Salah took another shot from just outside the penalty area which ended up being deflected off of Jota and carefully beaten away by Courtois down his bottom left.<ref name="SportingNews"/> Salah came forward again with eight minutes left, as a ball over the top from Fabinho found its way to the Egyptian who tried to battle off [[Ferland Mendy]] before coming across and having his resulting effort be saved by Courtois.<ref name="SportingNews"/> Madrid made their first change of the match in the 86th minute, as Valverde came off for [[Eduardo Camavinga]].<ref name="guardian2" /> At the end of regular time, the fourth official displayed that a minimum of five minutes of stoppage time would be played.<ref name="guardian2" /><ref name="nyt" /> Madrid made their two other substitutions in stoppage time, as [[Dani Ceballos]] came on for [[Luka Modrić]] in the 90th minute and goalscorer Vinícius was brought off in the 93rd minute for [[Rodrygo]].<ref name="guardian2" /> Despite Liverpool's continued pushes for a goal in the final moments, the match was brought to an end with Madrid winning 1–0.<ref name="guardian2" />
+
+===Details===
+The home team (for administrative purposes) was determined by an additional draw held after the quarter-final and semi-final draws.<ref>{{cite web |title=UEFA Champions League preliminary round draw |url=https://www.uefa.com/uefachampionsleague/draws/2022/2001302/ |website=UEFA.com|access-date=8 June 2021}}</ref>
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2022|5|28|df=y}}
+|time       = {{CEST|21:36}}{{refn|group=note|The final, originally scheduled for 21:00, was delayed 36 minutes due to [[2022 UEFA Champions League final chaos|security issues with fans entering the stadium]].}}
+|team1      = [[Liverpool F.C.|Liverpool]] {{fbaicon|ENG}}
+|score      = 0–1
+|team2      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1     =
+|goals2     =
+*[[Vinícius Júnior|Vinícius]] {{goal|59}}
+|stadium    = [[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance = 75,000<ref name="attendance2022">{{cite book |location=Nyon |chapter-url=https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |chapter=2. Finals |title=UEFA Champions League Statistics Handbook 2022/23 |publisher=Union of European Football Associations |page=5 |date=4 June 2023 |access-date=17 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20230821082639/https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |archive-date=21 August 2023}}</ref>
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2034586/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _liverpool2122H
+ |pattern_b  = _liverpool2122home
+ |pattern_ra = _liverpool2122H
+ |pattern_sh = _liverpool2122H
+ |pattern_so = _liverpool2122H
+ |leftarm    = DD0000
+ |body       = DD0000
+ |rightarm   = DD0000
+ |shorts     = DD0000
+ |socks      = DD0000
+ |title      = Liverpool<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _realmadrid2122H
+ |pattern_b  = _realmadrid2122home
+ |pattern_ra = _realmadrid2122H
+ |pattern_sh = _realmadrid2122H
+ |pattern_so = _realmadrid2122H
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Real Madrid}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Alisson]]
+|-
+|RB ||'''66'''||{{flagicon|ENG}} [[Trent Alexander-Arnold]]
+|-
+|CB ||'''5''' ||{{flagicon|FRA}} [[Ibrahima Konaté]]
+|-
+|CB ||'''4''' ||{{flagicon|NED}} [[Virgil van Dijk]]
+|-
+|LB ||'''26'''||{{flagicon|SCO}} [[Andrew Robertson]]
+|-
+|CM ||'''14'''||{{flagicon|ENG}} [[Jordan Henderson]] ([[Captain (association football)|c]])|| ||{{suboff|77}}
+|-
+|CM ||'''3''' ||{{flagicon|BRA}} [[Fabinho (footballer, born 1993)|Fabinho]]||{{yel|62}}
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[Thiago Alcântara]]|| ||{{suboff|77}}
+|-
+|RF ||'''11'''||{{flagicon|EGY}} [[Mohamed Salah]]
+|-
+|CF ||'''10'''||{{flagicon|SEN}} [[Sadio Mané]]
+|-
+|LF ||'''23'''||{{flagicon|COL}} [[Luis Díaz (footballer, born 1997)|Luis Díaz]]|| ||{{suboff|65}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''62'''||{{flagicon|IRL}} [[Caoimhín Kelleher]]
+|-
+|DF ||'''12'''||{{flagicon|ENG}} [[Joe Gomez (footballer)|Joe Gomez]]
+|-
+|DF ||'''21'''||{{flagicon|GRE}} [[Kostas Tsimikas]]
+|-
+|DF ||'''32'''||{{flagicon|CMR}} [[Joël Matip]]
+|-
+|MF ||'''7''' ||{{flagicon|ENG}} [[James Milner]]
+|-
+|MF ||'''8''' ||{{flagicon|GUI}} [[Naby Keïta]]|| ||{{subon|77}}
+|-
+|MF ||'''15'''||{{flagicon|ENG}} [[Alex Oxlade-Chamberlain]]
+|-
+|MF ||'''17'''||{{flagicon|ENG}} [[Curtis Jones (footballer, born 2001)|Curtis Jones]]
+|-
+|MF ||'''67'''||{{flagicon|ENG}} [[Harvey Elliott]]
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Roberto Firmino]]|| ||{{subon|77}}
+|-
+|FW ||'''18'''||{{flagicon|JPN}} [[Takumi Minamino]]
+|-
+|FW ||'''20'''||{{flagicon|POR}} [[Diogo Jota]]|| ||{{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klopp]]
+|}
+|valign="top"|[[File:Liverpool vs Real Madrid 2022-05-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BEL}} [[Thibaut Courtois]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Dani Carvajal]]
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Éder Militão]]
+|-
+|CB ||'''4''' ||{{flagicon|AUT}} [[David Alaba]]
+|-
+|LB ||'''23'''||{{flagicon|FRA}} [[Ferland Mendy]]
+|-
+|CM ||'''10'''||{{flagicon|CRO}} [[Luka Modrić]]|| ||{{suboff|90}}
+|-
+|CM ||'''14'''||{{flagicon|BRA}} [[Casemiro]]
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]]
+|-
+|RF ||'''15'''||{{flagicon|URU}} [[Federico Valverde]]|| ||{{suboff|86}}
+|-
+|CF ||'''9''' ||{{flagicon|FRA}} [[Karim Benzema]] ([[Captain (association football)|c]])
+|-
+|LF ||'''20'''||{{flagicon|BRA}} [[Vinícius Júnior]]|| ||{{suboff|90+3}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|UKR}} [[Andriy Lunin]]
+|-
+|DF ||'''6''' ||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]]
+|-
+|DF ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|MF ||'''17'''||{{flagicon|ESP}} [[Lucas Vázquez]]
+|-
+|MF ||'''19'''||{{flagicon|ESP}} [[Dani Ceballos]]|| ||{{subon|90}}
+|-
+|MF ||'''22'''||{{flagicon|ESP}} [[Isco]]
+|-
+|MF ||'''25'''||{{flagicon|FRA}} [[Eduardo Camavinga]]|| ||{{subon|86}}
+|-
+|FW ||'''7''' ||{{flagicon|BEL}} [[Eden Hazard]]
+|-
+|FW ||'''11'''||{{flagicon|ESP}} [[Marco Asensio]]
+|-
+|FW ||'''18'''||{{flagicon|WAL}} [[Gareth Bale]]
+|-
+|FW ||'''21'''||{{flagicon|BRA}} [[Rodrygo]]|| ||{{subon|90+3}}
+|-
+|FW ||'''24'''||{{flagicon|DOM}} [[Mariano Díaz|Mariano]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Carlo Ancelotti]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Thibaut Courtois]] (Real Madrid)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Nicolas Danos ([[French Football Federation|France]])
+<br />Cyril Gringore ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Benoît Bastien]] ([[French Football Federation|France]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Jérôme Brisard]] ([[French Football Federation|France]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''<ref name="officials"/>
+<br />[[Willy Delajod]] ([[French Football Federation|France]])
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />Filippo Meli ([[Italian Football Federation|Italy]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Champions-League-2021/22-Online |title=Regulations of the UEFA Champions League, 2021/22 Season |work=UEFA.com |year=2021 |access-date=30 April 2021}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2022/2034586_TS.pdf |title=Team statistics |work=UEFA.com |date=28 May 2022 |access-date=28 May 2022 |url-status=live |archive-url=https://web.archive.org/web/20240617220838/https://www.uefa.com/newsfiles/UCL/2022/2034586_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|10
+|1
+|-
+!scope=row|Shots on target
+|5
+|0
+|-
+!scope=row|Saves
+|0
+|5
+|-
+!scope=row|Ball possession
+|47%
+|53%
+|-
+!scope=row|Corner kicks
+|1
+|1
+|-
+!scope=row|Fouls committed
+|5
+|4
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|13
+|2
+|-
+!scope=row|Shots on target
+|4
+|1
+|-
+!scope=row|Saves
+|0
+|4
+|-
+!scope=row|Ball possession
+|53%
+|47%
+|-
+!scope=row|Corner kicks
+|5
+|1
+|-
+!scope=row|Fouls committed
+|8
+|3
+|-
+!scope=row|Offsides
+|1
+|3
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|23
+|3
+|-
+!scope=row|Shots on target
+|9
+|1
+|-
+!scope=row|Saves
+|0
+|9
+|-
+!scope=row|Ball possession
+|50%
+|50%
+|-
+!scope=row|Corner kicks
+|6
+|2
+|-
+!scope=row|Fouls committed
+|13
+|7
+|-
+!scope=row|Offsides
+|1
+|4
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+With their win, Real Madrid secured a record-extending 14th title in the European Cup/Champions League. The club has won twice as many titles as the next-best team, [[AC Milan|Milan]] (7 titles).<ref>{{Cite web |last=Marcotti |first=Gabrielle |date=28 May 2022 |title=Real Madrid embellish Champions League legacy in beating Liverpool for 14th European title |url=https://www.espn.com/soccer/uefa-champions-league/story/4676133/real-madrid-embellish-champions-league-legacy-in-beating-liverpool-for-14th-european-title |access-date=29 May 2022 |website=ESPN}}</ref> This was Madrid's fifth title in nine seasons (since [[2013–14 UEFA Champions League|2013–14]]), their eighth consecutive win in a Champions League final, and their tenth successive victory in a major European final (including the [[1985 UEFA Cup Final|1985]] and [[1986 UEFA Cup Final]]s). Real Madrid has not lost a final in the Champions League era, with their last defeat occurring in 1981.<ref>{{Cite web |title=Champions League final by the numbers: The best stats and facts as Real Madrid claim their 14th title at Liverpool's expense |url=https://www.sportingnews.com/us/soccer/news/champions-league-final-stats-real-madrid-liverpool/kdbbzghcdfaknucb94vmatjq |access-date=29 May 2022 |website=www.sportingnews.com |date=28 May 2022}}</ref> Real Madrid also claimed their fourth [[Double (association football)#Continental double|European double]] (after [[1956–57 Real Madrid CF season|1956–57]], [[1957–58 Real Madrid CF season|1957–58]] and [[2016–17 Real Madrid CF season|2016–17]]).<ref>{{Cite web |date=28 May 2022 |title=Real Madrid beats Liverpool 1–0 for 14th European Cup title |url=https://www.cnbc.com/2022/05/28/real-madrid-beats-liverpool-1-0-for-14th-european-cup-title.html |access-date=29 May 2022 |website=CNBC}}</ref> With the win, Spanish teams extended their streak of 17 straight major European finals won against non-Spanish opposition.<ref>{{cite web |url=https://en.as.com/soccer/champions-league-final-2022-liverpool-vs-real-madrid-live-online-goals-plays-updates-n/ |title=Real Madrid wins the Champions League final against Liverpool: summary, goals, plays... |work=[[Diario AS]] |date=28 May 2022 |access-date=29 May 2022}}</ref> Real Madrid goalkeeper [[Thibaut Courtois]] was selected as the man of the match,<ref name="MOTM"/> having made nine saves in the game, a record in the final since [[Opta Sports|Opta]] began keeping records in [[2003–04 UEFA Champions League|2003–04]]. His 59 saves during the campaign also set a new Champions League single-season record since Opta began keeping records.<ref>{{cite web |last=Booth |first=Chuck |url=https://www.cbssports.com/soccer/news/champions-league-real-madrid-leaned-on-thibaut-courtois-all-tournament-long-he-saved-the-best-for-last/ |title=Champions League: Real Madrid leaned on Thibaut Courtois all tournament long, he saved the best for last |work=[[CBS Sports]] |date=28 May 2022 |access-date=29 May 2022}}</ref>
+
+[[Carlo Ancelotti]] became the first manager to win four Champions League titles, having previously won the [[2003 UEFA Champions League final|2003]] and [[2007 UEFA Champions League final|2007]] tournaments with Milan, and the [[2014 UEFA Champions League final|2014]] title with Madrid.<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0275-15407684c988-5b733e851bf5-1000/ |title=Champions League-winning coaches: Carlo Ancelotti becomes first four-time winner |work=UEFA.com |date=28 May 2022 |access-date=29 May 2022}}</ref> Conversely, Jürgen Klopp tied [[Marcello Lippi]] for most losses in Champions League finals. Klopp had previously lost with [[Borussia Dortmund]] in [[2013 UEFA Champions League final|2013]] and Liverpool in [[2018 UEFA Champions League final|2018]].<ref name="UCL Final Stats">{{cite web |date=29 May 2022 |title=UCL Final Stats: Benzema, Modric join Ronaldo; Real Madrid's uneclipsed 14 |url=https://www.espn.in/football/blog-espn-fc-united/story/4676828/ucl-final-stats-benzema-modric-join-ronaldo-real-madrid-uneclipsed-14 |access-date=29 May 2022 |website=ESPN}}</ref> Nine players secured their fifth Champions League title with the win, with eight ([[Gareth Bale]], [[Karim Benzema]], [[Dani Carvajal]], [[Casemiro]], [[Isco]], [[Marcelo (footballer, born 1988)|Marcelo]], [[Luka Modrić]] and [[Nacho (footballer, born 1990)|Nacho]]) doing so with Real Madrid's wins in 2014 and from 2016 to 2018. [[Toni Kroos]] won his first title with [[FC Bayern Munich|Bayern Munich]] in [[2013 UEFA Champions League final|2013]], before winning with Real Madrid from 2016 to 2018. They joined former Real Madrid player [[Cristiano Ronaldo]] as the only players to have won five titles in the Champions League era.<ref name="UCL Final Stats"/>
+
+===Subsequent meetings===
+The two teams would meet again in the [[2022–23 UEFA Champions League|next edition]] of the Champions League, in the round of 16. In the first leg at [[Anfield]], Liverpool took a 2–0 lead within 14 minutes through a backheel goal from summer signing [[Darwin Núñez]], before [[Mohamed Salah]] capitalised on a slip from Real Madrid goalkeeper Thibaut Courtois. However, they could not hold on to it and lost 5–2 thanks to two goals from the previous final's match-winner [[Vinícius Júnior]] and [[Karim Benzema]], and one from [[Éder Militão]].<ref>{{cite news |last=McNulty |first=Phil |url=https://www.bbc.co.uk/sport/football/64708314 |title=Liverpool 2-5 Real Madrid: Hosts thrashed by holders in Champions League last 16 |work=BBC Sport |date=15 March 2023 |access-date=17 February 2025}}</ref> In the second leg at the [[Santiago Bernabéu Stadium]], Benzema scored the only goal of the match to give Real Madrid a 1–0 win, 6–2 on aggregate.<ref>{{cite news |last=Begley |first=Emlyn |url=https://www.bbc.co.uk/sport/football/64959699 |title=Real Madrid 1-0 Liverpool (6-2 agg): Reds dumped out of Champions League |work=BBC Sport |date=15 March 2023 |access-date=17 February 2025}}</ref>
+
+The two would then meet at Anfield in the [[2024–25 UEFA Champions League]] [[2024–25 UEFA Champions League league phase|league phase]]. This time, Liverpool were under the management of [[Arne Slot]], following Jürgen Klopp's decision to leave the club at the end of the [[2023–24 Liverpool F.C. season|2023–24]] season.<ref>{{cite news |url=https://www.liverpoolfc.com/news/jurgen-klopp-announces-decision-step-down-liverpool-manager-end-season |title=Jürgen Klopp announces decision to step down as Liverpool manager at end of season |work=Liverpool F.C. |date=26 January 2024 |access-date=17 February 2025}}</ref> Meanwhile, Real Madrid were the holders of the competition, having won a record-extending 15th European Cup/Champions League, in a similar case to their meeting in 2023. Liverpool won the match 2–0, through goals from [[Alexis Mac Allister]] and [[Cody Gakpo]]. Both sides saw missed penalties; Real Madrid's [[Kylian Mbappé]] saw his penalty saved by [[Caoimhin Kelleher]], before Liverpool's Mohamed Salah sent his effort just wide.
+
+The teams met once again in the [[2025–26 UEFA Champions League]] league phase at Anfield where Liverpool managed a 1-0 win thanks to a headed goal from [[Alexis Mac Allister]] from a [[Dominik Szoboszlai]] free kick.
+
+==See also==
+*[[1981 European Cup final]] – contested by same teams
+*[[2018 UEFA Champions League final]] – contested by same teams
+*[[2022 UEFA Europa League final]]
+*[[2022 UEFA Europa Conference League final]]
+*[[2022 UEFA Women's Champions League final]]
+*[[2021–22 Liverpool F.C. season]]
+*[[2021–22 Real Madrid CF season]]
+*[[Liverpool F.C. in international football]]
+*[[Real Madrid CF in international football]]
+*[[2022 UEFA Champions League final chaos|2022 champions league final chaos]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Official website|https://www.uefa.com/uefachampionsleague/}}
+*[https://www.uefa.com/newsfiles/UCL/2022/2034586_FR.pdf Full Time Report], UEFA.com
+
+{{UEFA Champions League seasons}}
+{{2021–22 in European football (UEFA)}}
+{{Liverpool F.C. matches}}
+{{Real Madrid CF matches}}
+
+{{DEFAULTSORT:Uefa Champions League final 2022}}
+[[Category:UEFA Champions League finals|2022]]
+[[Category:2021–22 UEFA Champions League|Final]]
+[[Category:May 2022 sports events in France]]
+[[Category:Liverpool F.C. matches|European Cup Final 2022]]
+[[Category:2021–22 in English men's football]]
+[[Category:Real Madrid CF matches|Champions League final 2022]]
+[[Category:2021–22 in Spanish men's football]]
+[[Category:Football in Paris]]
+[[Category:Football matches in France]]
+[[Category:2021–22 in French men's football]]
+[[Category:2022 in Paris]]
+[[Category:Sports events affected by the Russian invasion of Ukraine]]
+[[Category:Spain–United Kingdom sports relations|2022]]

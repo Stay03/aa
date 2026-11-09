@@ -1,0 +1,270 @@
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+| title = 1997 UEFA Cup Winners' Cup Final
+| image = 1997 UEFA Cup Winners' Cup Final programme.jpg
+| caption = Match programme cover
+| event = [[1996–97 UEFA Cup Winners' Cup]]
+| team1 = [[FC Barcelona|Barcelona]]
+| team1association = {{flagicon|ESP|size=30px}}
+| team1score = 1
+| team2 = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| team2association = {{flagicon|FRA|1974|size=30px}}
+| team2score = 0
+| details =
+| date = 14 May 1997
+| stadium = [[De Kuip]]
+| city = [[Rotterdam]]
+| man_of_the_match1a =
+| man_of_the_match1atitle =
+| man_of_the_match1b =
+| man_of_the_match1btitle =
+| referee = [[Markus Merk]] ([[German Football Association|Germany]])
+| attendance = 36,802<ref name="attendance">{{cite web|url=http://en.archive.uefa.com/uefa/news/kind=1/newsid=2577.html |archive-url=https://archive.today/20120716101258/http://en.archive.uefa.com/uefa/news/kind=1/newsid=2577.html |url-status=dead |archive-date=16 July 2012 |title=UEFA Cup Winners' Cup: All-time finals |work=[[UEFA]] |publisher=Union of European Football Associations (UEFA) |date=30 June 2005 |access-date=10 August 2014 }}</ref>
+| weather =
+| previous = [[1996 UEFA Cup Winners' Cup Final|1996]]
+| next = [[1998 UEFA Cup Winners' Cup Final|1998]]
+}}
+The '''1997 UEFA Cup Winners' Cup Final''' was a [[Association football|football]] match contested between [[FC Barcelona|Barcelona]] of [[Spain]] and the cup holders [[Paris Saint-Germain FC|Paris Saint-Germain]] of [[France]], to determine the winner of the [[1996–97 UEFA Cup Winners' Cup]] and the 37th overall [[UEFA Cup Winners' Cup|Cup Winners' Cup]] final. It was held at [[De Kuip]] in [[Rotterdam]] on 14 May 1997. Barcelona won the match 1–0 thanks to a [[Ronaldo (Brazilian footballer)|Ronaldo]] penalty. The final saw the last instance of the Cup Winners' Cup "jinx" that no club had successfully retained the cup in successive seasons — with Paris Saint-Germain failing to defend the trophy that they won in [[1996 UEFA Cup Winners' Cup Final|1996]].
+
+==Route to the final==
+{{details|1996–97 UEFA Cup Winners' Cup}}
+
+{|class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+!Round
+!colspan=4|{{flagicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|Stages
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{flagicon|CYP|1960}} [[AEK Larnaca FC|AEK Larnaca]]
+|2–0
+|2–0 (H)
+|0–0 (A)
+|style="background:#c1e0ff;"|[[1996–97 UEFA Cup Winners' Cup#First round|First round]]
+|align=left|{{flagicon|LIE}} [[FC Vaduz|Vaduz]]
+|7–0
+|4–0 (A)
+|3–0 (H)
+|-
+|align=left|{{flagicon|FRY}} [[Red Star Belgrade]]
+|4–2
+|3–1 (H)
+|1–1 (A)
+|style="background:#c1e0ff;"|[[1996–97 UEFA Cup Winners' Cup#Second round|Second round]]
+|align=left|{{flagicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|6–4
+|2–4 (A)
+|4–0 (H)
+|-
+|align=left|{{flagicon|SWE}} [[AIK Fotboll|AIK]]
+|4–2
+|3–1 (H)
+|1–1 (A)
+|style="background:#c1e0ff;"|[[1996–97 UEFA Cup Winners' Cup#Quarter-finals|Quarter-finals]]
+|align=left|{{flagicon|GRE}} [[AEK Athens F.C.|AEK Athens]]
+|3–0
+|0–0 (H)
+|3–0 (A)
+|-
+|align=left|{{flagicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|3–1
+|1–1 (H)
+|2–0 (A)
+|style="background:#c1e0ff;"|[[1996–97 UEFA Cup Winners' Cup#Semi-finals|Semi-finals]]
+|align=left|{{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|3–2
+|3–0 (H)
+|0–2 (A)
+|}
+
+==Match==
+[[File:PSG-Barcelone 1997.png|thumb|right|[[Ronaldo (Brazilian footballer)|Ronaldo]] scoring the only goal of the game]]
+===Details===
+{{football box
+|date = 14 May 1997
+|time = 20:30 [[Central European Summer Time|CEST]]
+|team1 = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score = 1–0
+|report = https://www.uefa.com/uefaeuropaleague/season=0/matches/round=158/match=53916/lineups/index.html
+|team2 = {{flagicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|goals1 = [[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|37|pen.}}
+|goals2 =
+|stadium = [[De Kuip]], [[Rotterdam]]
+|attendance = 36,802<ref name="attendance"/>
+|referee = [[Markus Merk]] ([[German Football Association|Germany]])
+}}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _barcelona97a
+ | pattern_b  = _barcelona97a
+ | pattern_ra = _barcelona97a
+ | pattern_sh = _barcelona97a
+ | pattern_so = _barcelona97a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = 23B8C6
+ | title      = Barcelona
+}}
+|{{Football kit
+ | pattern_la = _psg97
+ | pattern_b  = _psgfc9697a
+ | pattern_ra = _psg97
+ | pattern_so = _psg97
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Paris Saint-Germain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|POR}} [[Vítor Baía]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Albert Ferrer]]
+|-
+|CB ||'''3''' ||{{flagicon|ESP}} [[Abelardo Fernández|Abelardo]]
+|-
+|CB ||'''26'''||{{flagicon|POR}} [[Fernando Couto]] || {{yel|16}}
+|-
+|LB ||'''12'''||{{flagicon|ESP}} [[Sergi Barjuán]]
+|-
+|CM ||'''5''' ||{{flagicon|ROU}} [[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|CM ||'''4''' ||{{flagicon|ESP}} [[Pep Guardiola]]
+|-
+|RW ||'''7''' ||{{flagicon|POR}} [[Luís Figo]]
+|-
+|AM ||'''23'''||{{flagicon|ESP}} [[Iván de la Peña]] || {{yel|83}} || {{suboff|85}}
+|-
+|LW ||'''21'''||{{flagicon|ESP}} [[Luis Enrique]] || || {{suboff|89}}
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Ronaldo (Brazilian footballer)|Ronaldo]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Carles Busquets]]
+|-
+|FW ||'''8''' ||{{flagicon|BUL}} [[Hristo Stoichkov]] || || {{subon|85}}
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Giovanni Silva de Oliveira|Giovanni]]
+|-
+|MF ||'''18'''||{{flagicon|ESP}} [[Guillermo Amor]] || || {{subon|46}}
+|-
+|FW ||'''19'''||{{flagicon|ESP}} [[Juan Antonio Pizzi]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ENG}} [[Bobby Robson]]
+|}
+|valign="top"|[[File:Barcelona vs PSG 1997-05-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|FRA|1974}} [[Bernard Lama]]
+|-
+|RB ||'''13''' ||{{flagicon|FRA|1974}} [[Laurent Fournier]] || {{yel|1}} || {{suboff|58}}
+|-
+|CB ||'''4''' ||{{flagicon|FRA|1974}} [[Bruno Ngotty]]
+|-
+|CB ||'''6''' ||{{flagicon|FRA|1974}} [[Paul Le Guen]] || {{yel|51}}
+|-
+|LB ||'''22'''||{{flagicon|FRA|1974}} [[Didier Domi]]
+|-
+|CM ||'''19'''||{{flagicon|FRA|1974}} [[Jérôme Leroy (footballer)|Jérôme Leroy]]
+|-
+|CM ||'''8''' ||{{flagicon|FRA|1974}} [[Vincent Guérin]] || || {{suboff|68}}
+|-
+|CM ||'''15'''||{{flagicon|FRA|1974}} [[Benoît Cauet]] || {{yel|82}}
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Raí]] ([[Captain (association football)|c]])
+|-
+|CF ||'''11'''||{{flagicon|FRA|1974}} [[Patrice Loko]] || || {{suboff|78}}
+|-
+|CF ||'''7''' ||{{flagicon|BRA}} [[Leonardo Araújo|Leonardo]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|FRA|1974}} [[Vincent Fernandez]]
+|-
+|DF ||'''2''' ||{{flagicon|POR}} [[Daniel Kenedy]]
+|-
+|FW ||'''9''' ||{{flagicon|PAN}} [[Julio Dely Valdés]] || || {{subon|68}}
+|-
+|DF ||'''17'''||{{flagicon|FRA|1974}} [[Jimmy Algerino]] || || {{subon|58}}
+|-
+|FW ||'''26'''||{{flagicon|FRA|1974}} [[Cyrille Pouget]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA}} [[Ricardo Gomes]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referee]]s:'''
+<br />{{flagicon|GER}} Erich Schneider ([[German Football Association|Germany]])
+<br />{{flagicon|GER}} Hans-Georg Füllbrunn ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />{{flagicon|GER}} [[Hans-Jürgen Weber]] ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of golden goal extra time if necessary.
+*Penalty shoot-out if scores still level.
+*Five named substitutes.
+*Maximum of three substitutions.
+|}
+
+==See also==
+*[[1996–97 UEFA Cup Winners' Cup]]
+*[[1997 UEFA Champions League Final]]
+*[[1997 UEFA Cup Final]]
+*[[1997 UEFA Super Cup]]
+*[[FC Barcelona in international football competitions]]
+*[[Paris Saint-Germain FC in international football]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.rsssf.org/tablese/ec2.html UEFA Cup Winners' Cup results] at [[Rec.Sport.Soccer Statistics Foundation]]
+
+{{UEFA Cup Winners' Cup seasons}}
+{{1996–97 in European football (UEFA)}}
+{{FC Barcelona matches}}
+{{Paris Saint-Germain FC matches}}
+
+[[Category:1996–97 UEFA Cup Winners' Cup|Final]]
+[[Category:FC Barcelona matches|Cup Winners' Cup Final 1997]]
+[[Category:Paris Saint-Germain FC matches|Cup Winners' Cup Final 1997]]
+[[Category:UEFA Cup Winners' Cup finals|1997]]
+[[Category:1996–97 in Spanish football|Cup Winners' Cup Final]]
+[[Category:1996–97 in Dutch football|Cup Winners' Cup Final]]
+[[Category:1996–97 in French men's football|Cup Winners' Cup Final]]
+[[Category:May 1997 sports events in Europe|UEFA Cup Winners' Cup final]]
+[[Category:Football matches in Rotterdam]]
+[[Category:20th century in Rotterdam]]
+[[Category:France–Spain sports relations]]

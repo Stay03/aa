@@ -1,0 +1,432 @@
+{{Infobox football match
+| title                   = 2009 UEFA Super Cup
+| image                   = [[File:Super Cup 2009 Barcelona Shaktar Donetsk0001.jpg|200px]]
+| team1                   = [[FC Barcelona|Barcelona]]
+| team1association        = {{fbaicon|ESP|size=30px}}
+| team1score              = 1
+| team2                   = [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+| team2association        = {{fbaicon|UKR|size=30px}}
+| team2score              = 0
+| details                 = After [[Overtime (sports)#Association football|extra time]]
+| date                    = 28 August 2009
+| stadium                 = [[Stade Louis II]]
+| city                    = [[Monaco]]
+<!--NO MAN OF THE MATCH AWARD, SOURCE (P. 24): https://www.uefa.com/printoutfiles/competitions/uefasupercup/2013/E/E_2012139_PK.pdf-->
+| referee                 = [[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])<ref name="referee">{{cite news|title=De Bleeckere takes Super Cup whistle |url=http://www.uefa.com/competitions/supercup/news/kind=1/newsid=877996.html |work=[[UEFA]] |publisher=Union of European Football Associations |date=26 August 2009 |access-date=26 August 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090828090737/http://www.uefa.com/competitions/supercup/news/kind%3D1/newsid%3D877996.html |archive-date=28 August 2009 }}</ref>
+| attendance              = 17,738<ref name="full_time">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/SuperCup/2009/2001219_FR.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=28 August 2009 |access-date=28 August 2009 }}</ref>
+| weather                 = Clear night<br />{{convert|28|°C|°F}}<br />56% [[humidity]]<ref name="lineups">{{cite web |title=Line-ups |url=https://www.uefa.com/newsfiles/SuperCup/2009/2001219_LU.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=28 August 2009 |access-date=28 August 2009 }}</ref>
+| previous                = [[2008 UEFA Super Cup|2008]]
+| next                    = [[2010 UEFA Super Cup|2010]]
+}}
+The '''2009 UEFA Super Cup''' was the 34th [[UEFA Super Cup]], an annual [[Association football|football]] match between the winners of the previous season's [[UEFA Champions League]] and [[UEFA Europa League|UEFA Cup]] competitions. The match was contested by [[2008–09 UEFA Champions League]] winners, [[FC Barcelona|Barcelona]], and [[2008–09 UEFA Cup]] winners, [[FC Shakhtar Donetsk|Shakhtar Donetsk]] at the [[Stade Louis II]] in [[Monaco]] on 28 August 2009, following the [[2009–10 UEFA Champions League|UEFA Champions League]] and [[2009–10 UEFA Europa League|Europa League]] draws at the [[Grimaldi Forum]].
+
+This was the first meeting between the two sides since they met in [[2008–09 UEFA Champions League group stage#Group C|Group C]] of the [[2008–09 UEFA Champions League|previous season's Champions League competition]].
+
+==Venue==
+The [[Stade Louis II]] in [[Monaco]] has been the venue for the UEFA Super Cup every year since 1998. Built in 1985, the stadium is also the home of [[AS Monaco FC|AS Monaco]], who play in the French league system.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|[[2008–09 UEFA Champions League]] winners
+|[[1979 European Super Cup|1979]], [[1982 European Super Cup|1982]], [[1989 European Super Cup|1989]], '''[[1992 European Super Cup|1992]]''', '''[[1997 UEFA Super Cup|1997]]''', [[2006 UEFA Super Cup|2006]]
+|-
+|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|[[2008–09 UEFA Cup]] winners
+|None
+|}
+{{clear}}
+
+==Match==
+
+===Details===
+{{Football box
+|date=28 August 2009
+|time=20:45 [[Central European Summer Time|CEST]]
+|team1=[[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score=1–0
+|aet=yes
+|report=https://www.uefa.com/uefasupercup/match/<!--round=2000023/match=-->2001219/
+|team2={{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1=[[Pedro (footballer, born 1987)|Pedro]] {{goal|115}}
+|goals2=
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=17,738<ref name="full_time"/>
+|referee=[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])<ref name="referee"/>
+}}
+
+{| width=92% |
+|-
+|{{Football kit
+ |pattern_la = _fcbarcelona0910h
+ |pattern_b  = _fcbarcelona0910h
+ |pattern_ra = _fcbarcelona0910h
+ |pattern_sh = 
+ |pattern_so = _fcbarcelona0910h
+ |leftarm    = 9C0000
+ |body       = 9C0000
+ |rightarm   = 9C0000
+ |shorts     = 00169C
+ |socks      = 00169C
+ |title      = Barcelona<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _orange border
+ |pattern_b  = _shaktar0910a
+ |pattern_ra = _orange border
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Shakhtar Donetsk<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Víctor Valdés]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Dani Alves]]
+|-
+|CB ||'''5''' ||{{flagicon|ESP}} [[Carles Puyol]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||{{flagicon|ESP}} [[Gerard Piqué]]
+|-
+|LB ||'''22'''||{{flagicon|FRA|1974}} [[Eric Abidal]]
+|-
+|DM ||'''24'''||{{flagicon|CIV}} [[Yaya Touré]] || || {{suboff|100}}
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]]
+|-
+|CM ||'''15'''||{{flagicon|MLI}} [[Seydou Keita]]
+|-
+|RW ||'''10'''||{{flagicon|ARG}} [[Lionel Messi]] || {{yel|90+3}}
+|-
+|LW ||'''14'''||{{flagicon|FRA|1974}} [[Thierry Henry]] || || {{suboff|96}}
+|-
+|CF ||'''9''' ||{{flagicon|SWE}} [[Zlatan Ibrahimović]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[José Manuel Pinto]]
+|-
+|DF ||'''19'''||{{flagicon|BRA}} [[Maxwell (footballer, born 1981)|Maxwell]]
+|-
+|DF ||'''33'''||{{flagicon|ESP}} [[Marc Muniesa]]
+|-
+|MF ||'''16'''||{{flagicon|ESP}} [[Sergio Busquets]] || || {{subon|100}}
+|-
+|FW ||'''7''' ||{{flagicon|ISL}} [[Eiður Guðjohnsen]]
+|-
+|FW ||'''11'''||{{flagicon|ESP}} [[Bojan Krkić]] || || {{subon|96}}
+|-
+|FW ||'''17'''||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]] || {{yel|107}} || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|valign="top"|[[File:Barcelona vs Shakhtar Donetsk 2009-08-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''30'''||{{flagicon|UKR}} [[Andriy Pyatov]]
+|-
+|RB ||'''33'''||{{flagicon|CRO}} [[Darijo Srna]] ([[Captain (association football)|c]]) || {{yel|65}}
+|-
+|CB ||'''5''' ||{{flagicon|UKR}} [[Oleksandr Kucher]] || {{yel|90+3}}
+|-
+|CB ||'''27'''||{{flagicon|UKR}} [[Dmytro Chyhrynskyi]]
+|-
+|LB ||'''26'''||{{flagicon|ROU}} [[Răzvan Raț]]
+|-
+|CM ||'''19'''||{{flagicon|UKR}} [[Oleksiy Gai]] || || {{suboff|80}}
+|-
+|CM ||'''3''' ||{{flagicon|CZE}} [[Tomáš Hübschman]]
+|-
+|RW ||'''11'''||{{flagicon|BRA}} [[Ilsinho]] || {{yel|55}}
+|-
+|LW ||'''22'''||{{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]] || || {{suboff|91}}
+|-
+|AM ||'''7''' ||{{flagicon|BRA}} [[Fernandinho (footballer, born May 1985)|Fernandinho]] || || {{suboff|80}}
+|-
+|CF ||'''17'''||{{flagicon|BRA}} [[Luiz Adriano]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|UKR}} [[Rustam Khudzhamov]]
+|-
+|DF ||'''36'''||{{flagicon|UKR}} [[Oleksandr Chyzhov]]
+|-
+|MF ||'''8''' ||{{flagicon|BRA}} [[Jádson]] || || {{subon|80}}
+|-
+|MF ||'''14'''||{{flagicon|UKR}} [[Vasyl Kobin]] || {{yel|119}} || {{subon|80}}
+|-
+|MF ||'''28'''||{{flagicon|UKR}} [[Oleksiy Polyanskyi]]
+|-
+|FW ||'''21'''||{{flagicon|UKR}} [[Oleksandr Hladkyy]]
+|-
+|FW ||'''77'''||{{flagicon|NGA}} [[Julius Aghahowa]] || || {{subon|91}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ROU}} [[Mircea Lucescu]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|<!--NO MAN OF THE MATCH AWARD, SOURCE (P. 24): https://www.uefa.com/printoutfiles/competitions/uefasupercup/2013/E/E_2012139_PK.pdf-->
+'''Assistant referees:'''
+<br />Peter Hermans ([[Royal Belgian Football Association|Belgium]])<ref name="referee"/>
+<br />Walter Vromans ([[Royal Belgian Football Association|Belgium]])<ref name="referee"/>
+<br />'''Fourth official:'''
+<br />[[Paul Allaerts]] ([[Royal Belgian Football Association|Belgium]])<ref name="referee"/>
+| width=55% valign=top|
+'''Match rules'''<ref name="regulations">{{cite web | url = http://www.uefa.com/multimediafiles/download/regulations/uefa/others/82/68/83/826883_download.pdf | archive-url = https://web.archive.org/web/20100401084208/http://www.uefa.com/multimediafiles/download/regulations/uefa/others/82/68/83/826883_download.pdf | url-status = dead | archive-date = April 1, 2010 | title = Regulations of the UEFA Super Cup 2009 | publisher = [[UEFA]] }}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes.
+*Maximum of three substitutions.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |title=Team statistics |url=https://www.uefa.com/newsfiles/SuperCup/2009/2001219_TS.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=28 August 2009 |access-date=20 May 2012 }}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Shakhtar Donetsk
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|6
+|1
+|-
+!scope=row|Shots on target
+|1
+|0
+|-
+!scope=row|Saves
+|0
+|1
+|-
+!scope=row|Ball possession
+|66%
+|34%
+|-
+!scope=row|Corner kicks
+|6
+|0
+|-
+!scope=row|Fouls committed
+|6
+|5
+|-
+!scope=row|Offsides
+|0
+|3
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Shakhtar Donetsk
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|11
+|3
+|-
+!scope=row|Shots on target
+|6
+|1
+|-
+!scope=row|Saves
+|1
+|6
+|-
+!scope=row|Ball possession
+|63%
+|37%
+|-
+!scope=row|Corner kicks
+|6
+|0
+|-
+!scope=row|Fouls committed
+|5
+|7
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|1
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Shakhtar Donetsk
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|6
+|3
+|-
+!scope=row|Shots on target
+|3
+|2
+|-
+!scope=row|Saves
+|2
+|2
+|-
+!scope=row|Ball possession
+|55%
+|45%
+|-
+!scope=row|Corner kicks
+|3
+|0
+|-
+!scope=row|Fouls committed
+|4
+|6
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Shakhtar Donetsk
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|23
+|7
+|-
+!scope=row|Shots on target
+|10
+|3
+|-
+!scope=row|Saves
+|3
+|9
+|-
+!scope=row|Ball possession
+|62%
+|38%
+|-
+!scope=row|Corner kicks
+|15
+|0
+|-
+!scope=row|Fouls committed
+|15
+|18
+|-
+!scope=row|Offsides
+|2
+|6
+|-
+!scope=row|Yellow cards
+|2
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2009–10 UEFA Champions League]] 
+*[[2009–10 UEFA Europa League]] 
+*[[2009–10 FC Barcelona season]]
+*[[2009–10 FC Shakhtar Donetsk season]]
+*[[FC Barcelona in international football]]
+*[[FC Shakhtar Donetsk in European football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.uefa.com/uefasupercup/history/2009 UEFA Super Cup History: 2009], UEFA.com
+
+{{UEFA Super Cup}}
+{{2009–10 in European Football (UEFA)}}
+{{FC Barcelona matches}}
+{{FC Shakhtar Donetsk matches}}
+
+{{DEFAULTSORT:UEFA Super Cup 2009}}
+[[Category:2009–10 in European men's continental football|Super]]
+[[Category:2009 in Monégasque sport]]
+[[Category:UEFA Super Cup matches|2009]]
+[[Category:FC Shakhtar Donetsk matches|Super Cup Uefa 2009]]
+[[Category:FC Barcelona matches|Super Cup 2009]]
+[[Category:2009–10 in Ukrainian football|UEFA Cup]]
+[[Category:2009–10 in Spanish men's football|Super]]
+[[Category:Football matches in Monaco|Super Cup 2009]]
+[[Category:August 2009 sports events in Europe]]
+[[Category:Spain–Ukraine sports relations]]

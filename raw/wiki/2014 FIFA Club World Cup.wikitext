@@ -1,0 +1,576 @@
+{{Use dmy dates|date=October 2020}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2014
+| other_titles   = FIFA Club World Cup Morocco 2014<br />presented by Toyota<br />كأس العالم للأندية لكرة القدم<br />المغرب 2014
+| image          = 2014 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA trophy}}
+| country        = Morocco
+| dates          = 10–20 December
+| num_teams      = 7
+| confederations = 6
+| venues         = 2
+| cities         = 2
+| champion_other = {{nowrap|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]}}
+| count          = 1
+| second_other   = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+| third_other    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| fourth_other   = {{fbaicon|MEX}} [[Cruz Azul]]
+| matches        = 8
+| goals          = 20
+| attendance     = {{#expr: 35247 + 22153 + 22153 + 34862 + 18458 + 18458 + 38345 + 38345}}
+| top_scorer     = {{nowrap|[[Gareth Bale]] (Real Madrid)<br>[[Sergio Ramos]] (Real Madrid)<br>[[Gerardo Torrado]] (Cruz Azul)<br>2 goals each}}
+| player         = [[Sergio Ramos]] (Real Madrid)
+| fair_play      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| prevseason     = [[2013 FIFA Club World Cup|2013]]
+| nextseason     = [[2015 FIFA Club World Cup|2015]]
+}}
+The '''2014 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup Morocco 2014 presented by Toyota''' for sponsorship reasons)<ref name="schedule">{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/33/87/09/fcwc2014_matchschedule_05112014_neutral.pdf|title=Match Schedule – FIFA Club World Cup Morocco 2014|publisher=FIFA.com|access-date=9 December 2014|archive-url=https://web.archive.org/web/20141203005236/http://resources.fifa.com/mm/document/tournament/competition/02/33/87/09/fcwc2014_matchschedule_05112014_neutral.pdf|archive-date=3 December 2014|url-status=dead}}</ref> was the 11th edition of the [[FIFA Club World Cup]], a [[FIFA]]-organised international club [[association football|football]] tournament between the winners of the six continental confederations as well as the host nation's league champions.<ref name="regulations">{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/33/64/35/clubwc2014e_neutral.pdf|title=Regulations – FIFA Club World Cup Morocco 2014|publisher=FIFA|access-date=9 December 2014|archive-date=3 December 2014|archive-url=https://web.archive.org/web/20141203004255/http://resources.fifa.com/mm/document/tournament/competition/02/33/64/35/clubwc2014e_neutral.pdf|url-status=dead}}</ref> It was hosted by Morocco for the second consecutive season,<ref>{{cite news | url = https://www.google.com/hostednews/afp/article/ALeqM5j8XZ6B1erRErqNmo04nPMLK4CMvQ?docId=CNG.cc0deb74231895b25c32fdd9a671f34f.4a1 | archive-url = https://web.archive.org/web/20140218222622/http://www.google.com/hostednews/afp/article/ALeqM5j8XZ6B1erRErqNmo04nPMLK4CMvQ?docId=CNG.cc0deb74231895b25c32fdd9a671f34f.4a1 | url-status = dead | archive-date = 18 February 2014 | title = Morocco to host 2013-2014 Club World Cup | publisher = Google News | agency = Agence France-Presse| date = 17 December 2011 }}</ref> and played from 10 to 20 December 2014.<ref name="schedule"/>
+
+[[FC Bayern Munich|Bayern Munich]] could not defend their title having been eliminated in the semi-finals of the [[2013–14 UEFA Champions League]] by eventual winners [[Real Madrid CF|Real Madrid]]. The Spanish side went on to beat Mexico's [[Cruz Azul]] 4–0 in the Club World Cup semi-finals, before defeating [[San Lorenzo de Almagro|San Lorenzo]] 2–0 in the [[2014 FIFA Club World Cup Final|final]] to give them their first Club World Cup title.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/matches/round=259701/match=300298898/match-report.html|archive-url=https://web.archive.org/web/20141220234228/http://www.fifa.com/clubworldcup/matches/round=259701/match=300298898/match-report.html|url-status=dead|archive-date=20 December 2014|work=FIFA|title=Real Madrid coast to Morocco 2014 title|access-date=20 December 2014}}</ref> Including the [[1960 Intercontinental Cup|1960]], [[1998 Intercontinental Cup|1998]] and [[2002 Intercontinental Cup]]s, it was Real Madrid's fourth world club title, equalling [[A.C. Milan|Milan]]'s record.<ref>Regarding it as world club title de facto, cf. {{cite web|url=https://www.fifa.com/clubworldcup/news/y=2014/m=12/news=real-madrid-turn-their-winning-run-into-a-world-title-2495659.html|archive-url=https://web.archive.org/web/20141222031533/http://www.fifa.com//clubworldcup/news/y=2014/m=12/news=real-madrid-turn-their-winning-run-into-a-world-title-2495659.html|url-status=dead|archive-date=22 December 2014|work=FIFA|title=Real Madrid turn winning run into a world title|access-date=21 December 2014|quote=In terms of making history, Real, who have now equalled Milan's record of four World and Intercontinental Cup wins, ...}}<br/>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/025a-0ea6e105e132-ed9adc68e1ac-1000--real-madrid-claim-fifa-club-world-cup/|work=UEFA|title=Real Madrid claim FIFA Club World Cup|access-date=20 December 2014|quote=Madrid equal AC Milan's record of four world club titles, having both also lifted the old European-South American Cup three times before clinching the successor trophy, each under Carlo Ancelotti.}}</ref>
+
+==Host bids==
+There were four countries bidding to host the [[2013 FIFA Club World Cup|2013]] and 2014 tournaments (same host for both tournaments):<ref>{{cite news | url = https://www.usatoday.com/sports/soccer/2011-05-17-iran-morocco-south-africa-uae-fifa-club-world-cup-bids_N.htm | title = Iran among four bidders to host 2013-14 FIFA Club World Cups | publisher = USA Today | agency = Associated Press| date = 17 May 2011 }}</ref>
+*{{fba|Iran}}
+*{{fba|Morocco}}
+*{{fba|South Africa}}
+*{{fba|United Arab Emirates}} (which hosted the [[2009 FIFA Club World Cup|2009]] and [[2010 FIFA Club World Cup|2010]] editions in [[Abu Dhabi]])
+
+In October 2011, [[FIFA]] said that Iran, South Africa and the United Arab Emirates all withdrew their bids, leaving Morocco as the only bidder.<ref>{{cite news | url = http://msn.foxsports.com/foxsoccer/soccer/story/Morocco-set-to-host-Club-World-Cup-in-2013-14-99039620 | title = Morocco set to host Club World Cup in 2013, '14 | publisher = FoxSports.com | agency = Associated Press| date = 17 October 2011 }}</ref> The [[FIFA Executive Committee]] officially confirmed Morocco as host on 17 December 2011 during their meeting in [[Tokyo]], Japan.<ref>{{cite web|title=Reform road map speeds up|url=https://www.fifa.com/aboutfifa/organisation/bodies/news/newsid=1558624/index.html|archive-url=https://web.archive.org/web/20120104113830/http://www.fifa.com/aboutfifa/organisation/bodies/news/newsid=1558624/index.html|url-status=dead|archive-date=4 January 2012|publisher=FIFA|date=17 December 2011}}</ref>
+
+On 21 August 2014, FIFA issued a statement reconfirming Morocco as the host, despite recent rumours that a change in venue might be sought due to the [[2014 West Africa Ebola virus outbreak]].<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=2424582/index.html|archive-url=https://web.archive.org/web/20140821171632/http://www.fifa.com//clubworldcup/news/newsid=2424582/index.html|url-status=dead|archive-date=21 August 2014|title=Morocco reconfirmed as FIFA Club World Cup venue|publisher=FIFA.com|date=21 August 2014}}</ref> Morocco had cancelled its hosting of the [[2015 Africa Cup of Nations]] due to fears of Ebola, but vowed to host the Club World Cup as no entrants would be from the countries with the most severe Ebola outbreaks.<ref>{{cite news|title=Africa Cup of Nations: Morocco will not host finals over Ebola fears|url=https://www.bbc.co.uk/sport/football/30004279|access-date=11 November 2014|work=BBC Sport|date=11 November 2014}}</ref>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of teams of the 2014 FIFA Club World Cup|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-34.678|long=-58.340|label_size=80|label=[[San Lorenzo de Almagro|San Lorenzo]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=40.45306|long=-3.68835|label_size=80|label=[[Real Madrid CF|Real Madrid]]|position=top}}
+<!--AFC-->
+{{Location map~|World|lat=-33.8150|long=151.0011|label_size=80|label={{nowrap|[[Western Sydney Wanderers FC|Western Sydney Wanderers]]}}|position=left}}
+<!--CAF-->
+{{Location map~|World|lat=36.18686|long=5.393209|label_size=80|label=[[ES Sétif]]|position=right}}
+<!--CONCACAF-->
+{{Location map~|World|lat=19.331963451394746|long=-99.19212870465353|label_size=80|label=[[Cruz Azul]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-36.898155|long=174.736487|label_size=80|label=<div style="position:relative;right:20px">{{nowrap|[[Auckland City FC|Auckland City]]}}</div>|position=bottom}}
+<!--Host-->
+{{Location map~|World|lat=35.5725|long=-5.348611|label_size=80|label={{nowrap|[[Moghreb Tétouan]]}}|position=left}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Participation
+|-
+!colspan=4|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[UEFA]]
+|Winners of the [[2013–14 UEFA Champions League]]
+|2nd {{small|(Previous: [[2000 FIFA Club World Championship|2000]])}}
+|-
+|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|[[CONMEBOL]]
+|Winners of the [[2014 Copa Libertadores]]
+|Debut
+|-
+!colspan=4|Entering in the [[#Quarter-finals|quarter-finals]]
+|-
+|{{fbaicon|MEX}} [[Cruz Azul]]
+|[[CONCACAF]]
+|Winners of the [[2013–14 CONCACAF Champions League]]
+|Debut
+|-
+|{{fbaicon|ALG}} [[ES Sétif]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2014 CAF Champions League]]
+|Debut
+|-
+|{{fbaicon|AUS}} [[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2014 AFC Champions League]]
+|Debut
+|-
+!colspan=4|Entering in the [[#Play-off for quarter-finals|play-off for quarter-finals]]
+|-
+|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2013–14 OFC Champions League]]
+|6th {{small|(Previous: [[2006 FIFA Club World Cup|2006]], [[2009 FIFA Club World Cup|2009]], [[2011 FIFA Club World Cup|2011]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]])}}
+|-
+|{{fbaicon|MAR}} [[MA Tétouan|Moghreb Tétouan]]
+|[[Confederation of African Football|CAF]] (''[[Royal Moroccan Football Federation|hosts]]'')
+|Winners of the [[2013–14 Botola]]
+|Debut
+|}
+
+==Venues==
+The venues for the 2014 FIFA Club World Cup were in [[Rabat]] and [[Marrakesh]].<ref>{{cite web|url=https://www.fifa.com/worldcup/qatar2022/media/newsid=2301310/index.html|archive-url=https://web.archive.org/web/20150621035810/http://www.fifa.com/worldcup/qatar2022/media/newsid=2301310/index.html|url-status=dead|archive-date=21 June 2015|title=Ex-Co backs FIFA’s work to help improve working conditions in Qatar|publisher=FIFA.com|date=21 March 2014}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="5" |{{Location map+|Morocco|width=250|float=center|caption=|places=
+{{Location map~|lat_deg=33|lat_min=57|lat_sec=35.55|lat_dir=N|lon_deg=6|lon_min=53|lon_sec=20.81|lon_dir=W|Morocco|label=[[Rabat]]|position=left}}
+{{Location map~|lat_deg=31|lat_min=42|lat_sec=24|lat_dir=N|lon_deg=7|lon_min=58|lon_sec=50|lon_dir=W|Morocco|label=[[Marrakesh]]|position=left}}}}
+![[Rabat]]
+![[Marrakesh]]
+|-
+|[[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium ]]
+|[[Stade de Marrakech|Stade de Marrakesh]]
+|-
+|{{small|{{Coord|33|57|35.55|N|6|53|20.81|W|type:landmark|display=inline|name=Prince Moulay Abdellah Stadium}}}}
+|{{small|{{Coord|31|42|24|N|7|58|50|W|type:landmark_source:dewiki|display=inline|name=Stade de Marrakech}}}}
+|-
+|Capacity: '''52,000'''
+|Capacity: '''41,245'''
+|-
+|[[File:FAR Rabat vs AS Sale, November 6 2012-2.jpg|150px]]
+|[[File:Stade de marrakech.jpg|164x164px]]
+|}
+
+==Match officials==
+The appointed match officials were:<ref>{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/47/21/82/appointed-referees-fcwc-2014_neutral.pdf|title=Referees & Assistant referees for FIFA Club World Cup Morocco 2014|publisher=FIFA.com|access-date=10 November 2014|archive-url=https://web.archive.org/web/20141113235623/http://resources.fifa.com/mm/document/tournament/competition/02/47/21/82/appointed-referees-fcwc-2014_neutral.pdf|archive-date=13 November 2014|url-status=dead}}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+|-
+|[[Asian Football Confederation|AFC]]
+|{{fbaicon|AUS}} [[Ben Williams (referee)|Benjamin Williams]]
+|{{fbaicon|AUS}} [[Matthew Cream]]<br>{{fbaicon|AUS}} Paul Cetrangolo
+|-
+|[[Confederation of African Football|CAF]]
+|{{fbaicon|CIV}} [[Noumandiez Doué]]
+|{{fbaicon|CIV}} Songuifolo Yéo<br>{{fbaicon|BDI}} Jean-Claude Birumushahu
+|-
+|[[CONCACAF]]
+|{{fbaicon|GUA}} [[Walter López Castellanos|Walter López]]
+|{{fbaicon|CRC}} Leonel Leal<br>{{fbaicon|GUA}} Gerson López
+|-
+|[[CONMEBOL]]{{efn|The Chilean officiating team from CONMEBOL replaced the original Colombian trio of [[Wilmar Roldán]], Eduardo Díaz and Alexander Guzmán.<ref>{{cite web|url=http://www.antena2.com.co/noticias/wilmar-roldan-y-su-grupo-ya-no-haran-parte-de-76631|title=Wilmar Roldán y su grupo ya no harán parte del Mundial de Clubes|publisher=antena2.com.co|date=24 November 2014|language=es|access-date=25 November 2014|archive-url=https://web.archive.org/web/20141215061321/http://www.antena2.com.co/noticias/wilmar-roldan-y-su-grupo-ya-no-haran-parte-de-76631|archive-date=15 December 2014|url-status=dead}}</ref>}}
+|{{fbaicon|CHI}} [[Enrique Osses]]
+|{{fbaicon|CHI}} Carlos Astroza<br>{{fbaicon|CHI}} Sergio Román
+|-
+|[[Oceania Football Confederation|OFC]]
+|{{fbaicon|TAH}} [[Norbert Hauata]]
+|{{fbaicon|TON}} [[Tevita Makasini]]<br>{{fbaicon|TAH}} Paul Ahupu
+|-
+|[[UEFA]]
+|{{fbaicon|POR}} [[Pedro Proença]]
+|{{fbaicon|POR}} Bertino Miranda<br>{{fbaicon|POR}} Tiago Trigo
+|}
+'''Notes'''
+{{notelist}}
+
+==Squads==
+{{main|2014 FIFA Club World Cup squads}}
+
+Each team named a 23-man squad (three of whom must be goalkeepers) by the FIFA deadline of 28 November 2014. Injury replacements were allowed until 24 hours before the team's first match.<ref name="regulations"/> The squads were announced by FIFA on 4 December 2014.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2014/m=12/news=161-stars-aiming-to-finish-2014-on-a-high-2487786.html|archive-url=https://web.archive.org/web/20141204194416/http://www.fifa.com/clubworldcup/news/y=2014/m=12/news=161-stars-aiming-to-finish-2014-on-a-high-2487786.html|url-status=dead|archive-date=4 December 2014|title=161 stars aiming to finish 2014 on a high|publisher=FIFA.com|date=4 December 2014}}</ref>
+
+==Matches==
+If a match was tied after normal playing time:<ref name="regulations"/>
+*For elimination matches, [[Overtime (sports)#Association football|extra time]] was played. If still tied after extra time, a [[Penalty shoot-out (association football)|penalty shoot-out]] was held to determine the winner.
+*For the matches for fifth place and third place, no extra time was played, and a penalty shoot-out was held to determine the winner.
+
+{{7TeamBracket-StepladderToSF
+| style       = 4
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#Play-off for quarter-finals|Play-off for quarter-finals]]
+| RD2         = [[#Quarter-finals|Quarter-finals]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD3b        = [[#Match for fifth place|Match for fifth place]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- Play-off for quarter-finals -->
+| RD1-text1    = 10 December – [[Prince Moulay Abdellah Stadium (1983)|Rabat]]
+| RD1-team1    = {{fbaicon|MAR}} [[Moghreb Tétouan]]
+| RD1-score1   = 0 (3)
+| RD1-team2    = {{fbaicon|NZL}} '''[[Auckland City FC|Auckland City]]''' {{pso}}
+| RD1-score2   = '''0 (4)'''
+
+<!-- Quarter-finals -->
+| RD2-text1    = 13 December – [[Prince Moulay Abdellah Stadium (1983)|Rabat]]
+| RD2-team1    = {{fbaicon|MEX}} [[Cruz Azul]] {{aet}}
+| RD2-score1   = 3
+| RD2-team2    = {{fbaicon|AUS}} [[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+| RD2-score2   = 1
+
+| RD2-text2    = 13 December – [[Prince Moulay Abdellah Stadium (1983)|Rabat]]
+| RD2-team3    = {{fbaicon|ALG}} [[ES Sétif]]
+| RD2-score3   = 0
+| RD2-team4    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD2-score4   = 1
+
+<!-- Semi-finals -->
+| RD3-text1    = 16 December – [[Stade de Marrakech|Marrakesh]]
+| RD3-team1    = {{fbaicon|MEX}} [[Cruz Azul]]
+| RD3-score1   = 0
+| RD3-team2    = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| RD3-score2   = 4
+
+| RD3-text2    = 17 December – [[Stade de Marrakech|Marrakesh]]
+| RD3-team3    = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]] {{aet}}
+| RD3-score3   = 2
+| RD3-team4    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD3-score4   = 1
+
+<!-- Final -->
+| RD4-text1    = 20 December – [[Stade de Marrakech|Marrakesh]]
+| RD4-team1    = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| RD4-score1   = 2
+| RD4-team2    = {{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+| RD4-score2   = 0
+
+<!-- Match for fifth place -->
+| RD3-text3    = 17 December – [[Stade de Marrakech|Marrakesh]]
+| RD3-team5    = {{fbaicon|ALG}} '''[[ES Sétif]]''' {{pso}}
+| RD3-score5   = '''2 (5)'''
+| RD3-team6    = {{fbaicon|AUS}} [[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+| RD3-score6   = 2 (4)
+
+<!-- Match for third place -->
+| RD4-text2    = 20 December – [[Stade de Marrakech|Marrakesh]]
+| RD4-team3    = {{fbaicon|MEX}} [[Cruz Azul]]
+| RD4-score3   = 1 (2)
+| RD4-team4    = {{fbaicon|NZL}} '''[[Auckland City FC|Auckland City]]''' {{pso}}
+| RD4-score4   = '''1 (4)'''
+}}
+
+All times are local, [[Western European Time|WET]] ([[UTC±00:00|UTC±0]]).
+
+===Play-off for quarter-finals===
+{{Football box
+|id = Moghreb Tétouan v Auckland City
+|date=10 December 2014
+|time=19:30
+|team1=[[Moghreb Tétouan]] {{fbaicon|MAR}}
+|score=0–0
+|aet=yes
+|report=https://www.fifa.com/en/match-centre/match/107/259689/259695/300298899
+|team2={{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|goals1=
+|goals2=
+|penalties1=
+*[[Ahmed Jahouh|Jahouh]] {{penmiss}}
+*[[Zaid Krouch|Krouch]] {{pengoal}}
+*[[Mourtada Fall|Fall]] {{pengoal}}
+*[[Zouhair Naïm|Naïm]] {{pengoal}}
+*[[Mehdi Khallati|Khallati]] {{penmiss}}
+|penaltyscore=3–4
+|penalties2=
+*{{pengoal}} [[Tim Payne (footballer)|Payne]]
+*{{pengoal}} [[John Irving (footballer, born 1989)|Irving]]
+*{{pengoal}} [[Darrent White|White]]
+*{{penmiss}} [[Mario Bilen|Bilen]]
+*{{pengoal}} [[Sanni Issa|Issa]]
+|stadium=[[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]], [[Rabat]]
+|attendance=35,247
+|referee=[[Walter López Castellanos|Walter López]] ([[National Football Federation of Guatemala|Guatemala]])
+}}
+
+===Quarter-finals===
+A draw was held on 11 October 2014 at 19:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]]), at the La Mamounia Hotel in [[Marrakesh]],<ref>{{cite news|url=https://www.fifa.com/clubworldcup/news/newsid=2454906/index.html|archive-url=https://web.archive.org/web/20141013095515/http://www.fifa.com/clubworldcup/news/newsid=2454906/index.html|url-status=dead|archive-date=13 October 2014|title=Club delegations set for Morocco 2014 draw|publisher=FIFA|date=10 October 2014}}</ref> to determine the pairings of the four quarter-finalists.<ref>{{cite news|url=https://www.fifa.com/clubworldcup/news/newsid=2455482/index.html|archive-url=https://web.archive.org/web/20141012162129/http://www.fifa.com/clubworldcup/news/newsid=2455482/index.html|url-status=dead|archive-date=12 October 2014|title=Path set for Morocco 2014 finalists|publisher=FIFA|date=11 October 2014}}</ref>
+
+{{Football box
+|id = ES Sétif v Auckland City
+|date=13 December 2014
+|time=16:00
+|team1=[[ES Sétif]] {{fbaicon|ALG}} 
+|score=0–1
+|report=https://www.fifa.com/en/match-centre/match/107/259689/259693/300298897
+|team2={{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|goals1=
+|goals2=
+*[[John Irving (footballer, born 1989)|Irving]] {{goal|52}}
+|stadium=[[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]], [[Rabat]]
+|attendance=22,153
+|referee=[[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])
+}}
+----
+{{Football box
+|id = Cruz Azul v Western Sydney Wanderers
+|date=13 December 2014
+|time=19:30
+|team1=[[Cruz Azul]] {{fbaicon|MEX}}
+|score=3–1
+|aet=yes
+|report=https://www.fifa.com/en/match-centre/match/107/259689/259693/300298893
+|team2={{fbaicon|AUS}} [[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+|goals1=
+*[[Gerardo Torrado|Torrado]] {{goal|89|pen.|118|pen.}}
+*[[Mariano Pavone|Pavone]] {{goal|108}}
+|goals2=
+*[[Iacopo La Rocca|La Rocca]] {{goal|65}}
+|stadium=[[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]], [[Rabat]]
+|attendance=22,153
+|referee=[[Noumandiez Doué]] ([[Ivorian Football Federation|Ivory Coast]])
+}}
+
+===Semi-finals===
+The first semi-final was originally to be played at [[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]], [[Rabat]], but was moved to [[Stade de Marrakech]], [[Marrakesh]] due to difficult pitch conditions.<ref>{{cite news|url=https://www.fifa.com/clubworldcup/news/y=2014/m=12/news=fifa-club-world-cup-morocco-2014-match-4-in-marrakech-2492297.html|archive-url=https://web.archive.org/web/20141214162529/http://www.fifa.com/clubworldcup/news/y=2014/m=12/news=fifa-club-world-cup-morocco-2014-match-4-in-marrakech-2492297.html|url-status=dead|archive-date=14 December 2014|title=FIFA Club World Cup Morocco 2014: Match #4 in Marrakech|publisher=FIFA|date=14 December 2014}}</ref>
+
+{{Football box
+|id = Cruz Azul v Real Madrid
+|date=16 December 2014
+|time=19:30
+|team1=[[Cruz Azul]] {{fbaicon|MEX}}
+|score=0–4
+|report=https://www.fifa.com/en/match-centre/match/107/259689/259699/300298895
+|team2={{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1=
+|goals2=
+*[[Sergio Ramos|Ramos]] {{goal|15}}
+*[[Karim Benzema|Benzema]] {{goal|36}}
+*[[Gareth Bale|Bale]] {{goal|50}}
+*[[Isco]] {{goal|72}}
+|stadium=[[Stade de Marrakech]], [[Marrakesh]]
+|attendance=34,862
+|referee=[[Enrique Osses]] ([[Football Federation of Chile|Chile]])
+}}
+----
+{{Football box
+|id = San Lorenzo v Auckland City
+|date=17 December 2014
+|time=19:30
+|team1=[[San Lorenzo de Almagro|San Lorenzo]] {{fbaicon|ARG}}
+|score=2–1
+|aet=yes
+|report=https://www.fifa.com/en/match-centre/match/107/259689/259699/300298896
+|team2={{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|goals1=
+*[[Pablo Barrientos|Barrientos]] {{goal|45+2}}
+*[[Mauro Matos|Matos]] {{goal|93}}
+|goals2=
+*[[Ángel Berlanga|Berlanga]] {{goal|67}}
+|stadium=[[Stade de Marrakech]], [[Marrakesh]]
+|attendance=18,458
+|referee=[[Ben Williams (referee)|Benjamin Williams]] ([[Football Federation Australia|Australia]])
+}}
+
+===Match for fifth place===
+{{Football box
+|id = ES Sétif v Western Sydney Wanderers
+|date=17 December 2014
+|time=16:30
+|team1=[[ES Sétif]] {{fbaicon|ALG}}
+|score=2–2
+|team2={{fbaicon|AUS}} [[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+|report=https://www.fifa.com/en/match-centre/match/107/259689/259705/300298894
+|goals1=
+*[[Daniel Mullen|Mullen]] {{goal|50|o.g.}}
+*[[Abdelmalek Ziaya|Ziaya]] {{goal|57}}
+|goals2=
+*[[Romeo Castelen|Castelen]] {{goal|5}}
+*[[Vítor Saba|Saba]] {{goal|89}}
+|penalties1=
+*[[Akram Djahnit|Djahnit]] {{penmiss}}
+*[[Ahmed Gasmi|Gasmi]] {{pengoal}}
+*[[El Hedi Belameiri|Belameiri]] {{pengoal}}
+*[[Abdelmalek Ziaya|Ziaya]] {{penmiss}}
+*[[Farid Mellouli|Mellouli]] {{pengoal}}
+*[[Said Arroussi|Arroussi]] {{penmiss}}
+*[[Amine Megateli|Megateli]] {{pengoal}}
+*[[Toufik Zerara|Zerara]] {{pengoal}}
+|penaltyscore=5–4
+|penalties2=
+*{{pengoal}} [[Vítor Saba|Saba]]
+*{{penmiss}} [[Labinot Haliti|Haliti]]
+*{{pengoal}} [[Jason Trifiro|Trifiro]]
+*{{pengoal}} [[Tomi Juric|Juric]]
+*{{penmiss}} [[Dean Bouzanis|Bouzanis]]
+*{{penmiss}} [[Daniel Mullen|Mullen]]
+*{{pengoal}} [[Alusine Fofanah (footballer)|Fofanah]]
+*{{penmiss}} [[Seyi Adeleke|Adeleke]]
+|stadium=[[Stade de Marrakech]], [[Marrakesh]]
+|attendance=18,458
+|referee=[[Norbert Hauata]] ([[Tahitian Football Federation|Tahiti]])
+}}
+
+===Match for third place===
+{{Football box
+|id = Cruz Azul v Auckland City
+|date=20 December 2014
+|time=16:30
+|team1=[[Cruz Azul]] {{fbaicon|MEX}}
+|score=1–1
+|report=https://www.fifa.com/en/match-centre/match/107/259689/259703/300298900
+|team2={{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|goals1=
+*[[Joao Rojas (footballer, born 1989)|Rojas]] {{goal|57}}
+|goals2=
+*[[Ryan De Vries|De Vries]] {{goal|45+2}}
+|penalties1=
+*[[Christian Giménez (footballer, born 1981)|Giménez]] {{pengoal}}
+*[[Mauro Formica|Formica]] {{penmiss}}
+*[[Francisco Javier Rodríguez|Rodríguez]] {{pengoal}}
+*[[Ismael Valadéz|Valadéz]] {{penmiss}}
+|penaltyscore=2–4
+|penalties2=
+*{{pengoal}} [[Tim Payne (footballer)|Payne]]
+*{{penmiss}} [[John Irving (footballer, born 1989)|Irving]]
+*{{pengoal}} [[Darren White (footballer)|White]]
+*{{pengoal}} [[James Pritchett (footballer)|Pritchett]]
+*{{pengoal}} [[Sanni Issa|Issa]]
+|stadium=[[Stade de Marrakech]], [[Marrakesh]]
+|attendance=38,345
+|referee=[[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])
+}}
+
+===Final===
+{{main|2014 FIFA Club World Cup final}}
+{{:2014 FIFA Club World Cup final}}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|rowspan=3|1
+|style="text-align:left"|{{flagicon|WAL}} [[Gareth Bale]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|rowspan=3|2
+|-
+|style="text-align:left"|{{flagicon|ESP}} [[Sergio Ramos]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Gerardo Torrado]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Cruz Azul]]
+|-
+|rowspan=13|4
+|style="text-align:left"|{{flagicon|ESP}} [[Ángel Berlanga]]
+|style="text-align:left"|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|rowspan=13|1
+|-
+|style="text-align:left"|{{flagicon|NZL}} [[Ryan De Vries]]
+|style="text-align:left"|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|-
+|style="text-align:left"|{{flagicon|ENG}} [[John Irving (footballer, born 1989)|John Irving]]
+|style="text-align:left"|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Mariano Pavone]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Cruz Azul]]
+|-
+|style="text-align:left"|{{flagicon|ECU}} [[Joao Rojas (footballer, born 1989)|Joao Rojas]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Cruz Azul]]
+|-
+|style="text-align:left"|{{flagicon|FRA}} [[Karim Benzema]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|ESP}} [[Isco]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Pablo Barrientos]]
+|style="text-align:left"|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Mauro Matos]]
+|style="text-align:left"|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|-
+|style="text-align:left"|{{flagicon|ALG}} [[Abdelmalek Ziaya]]
+|style="text-align:left"|{{fbaicon|ALG}} [[ES Sétif]]
+|-
+|style="text-align:left"|{{flagicon|NED}} [[Romeo Castelen]]
+|style="text-align:left"|{{fbaicon|AUS}} [[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+|-
+|style="text-align:left"|{{flagicon|ITA}} [[Iacopo La Rocca]]
+|style="text-align:left"|{{fbaicon|AUS}} [[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Vítor Saba]]
+|style="text-align:left"|{{fbaicon|AUS}} [[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+|}
+
+'''1 own goal'''
+*{{flagicon|AUS}} [[Daniel Mullen]] ([[Western Sydney Wanderers FC|Western Sydney Wanderers]], against [[ES Sétif]])
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+The following awards were given at the conclusion of the tournament.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2014/m=12/news=ramos-outshines-the-rest-2495409-2495436.html|archive-url=https://web.archive.org/web/20141221050123/http://www.fifa.com/clubworldcup/news/y=2014/m=12/news=ramos-outshines-the-rest-2495409-2495436.html|url-status=dead|archive-date=21 December 2014|title=Ramos outshines the rest|publisher=FIFA.com|date=20 December 2014}}</ref>
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Toyota]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|ESP}} [[Sergio Ramos]]<br />([[Real Madrid CF|Real Madrid]])
+|{{flagicon|POR}} [[Cristiano Ronaldo]]<br />([[Real Madrid CF|Real Madrid]])
+|{{flagicon|NZL}} [[Ivan Vicelich]]<br />([[Auckland City FC|Auckland City]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|}
+
+FIFA also named a [[man of the match]] for the best player in each game at the tournament.<ref name="2014 TR">{{cite web |url=https://digitalhub.fifa.com/m/3e3461f4ef29b95c/original/zctppfwx4jezbb7gdpy2-pdf.pdf |title=FIFA Club World Cup Morocco 2014: Technical report and statistics |work=[[FIFA]] |access-date=12 February 2021}}</ref>
+
+{| class="wikitable sortable"
+|+ [[Toyota]] Match Award
+|-
+! Match
+! Man of the match
+! Club
+! Opponent
+|-
+!1
+|{{flagicon|NZL}} [[Ivan Vicelich]]||{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]||{{fbaicon|MAR}} [[Moghreb Tétouan]]
+|-
+!2
+|{{flagicon|ENG}} [[John Irving (footballer, born 1988)|John Irving]]||{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]||{{fbaicon|ALG}} [[ES Sétif]]
+|-
+!3
+|{{flagicon|MEX}} [[Gerardo Torrado]]||{{fbaicon|MEX}} [[Cruz Azul]]||{{fbaicon|AUS}} [[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+|-
+!4
+|{{flagicon|FRA}} [[Karim Benzema]]||{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]||{{fbaicon|MEX}} [[Cruz Azul]]
+|-
+!5
+|{{flagicon|ALG}} [[Ahmed Gasmi]]||{{fbaicon|ALG}} [[ES Sétif]]||{{fbaicon|AUS}} [[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+|-
+!6
+|{{flagicon|ARG}} [[Pablo Barrientos]]||{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]||{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|-
+!7
+|{{flagicon|NZL}} [[Tim Payne (footballer)|Tim Payne]]||{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]||{{fbaicon|MEX}} [[Cruz Azul]]
+|-
+!8
+|{{flagicon|ESP}} [[Sergio Ramos]]||{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]||{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.fifa.com/tournaments/mens/clubworldcup/morocco2014 FIFA Club World Cup Morocco 2014], FIFA.com
+*[https://web.archive.org/web/20150402155821/http://www.fifa.com/mm/document/footballdevelopment/technicalsupport/02/52/38/71/clubwmreportmorocco2014internet_neutral.pdf FIFA Technical Report]
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2014 FIFA Club World Cup| ]]
+[[Category:Men's football competitions in Morocco]]
+[[Category:Football club competitions in Morocco]]
+[[Category:2014 in men's association football]]
+[[Category:2014–15 in Moroccan football]]
+[[Category:21st century in Rabat]]
+[[Category:21st century in Marrakesh]]
+[[Category:Sports competitions in Marrakesh]]
+[[Category:Football competitions in Rabat]]
+[[Category:FIFA Club World Cup tournaments]]
+[[Category:2014–15 in New Zealand association football]]
+[[Category:2014–15 in Australian men's soccer]]
+[[Category:2014 in Argentine football]]
+[[Category:2014–15 in Mexican football]]
+[[Category:2014–15 in Spanish men's football]]
+[[Category:2014–15 in Algerian football]]

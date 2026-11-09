@@ -1,0 +1,418 @@
+{{Infobox football match
+| title              = 1996 UEFA Cup final
+| image              = 
+| event              = [[1995–96 UEFA Cup]]
+| team1              = [[FC Bayern Munich|Bayern Munich]]
+| team1association   = {{flagicon|GER|size=30px}}
+| team1score         = 5
+| team2              = [[FC Girondins de Bordeaux|Bordeaux]]
+| team2association   = {{flagicon|FRA|1974|size=30px}}
+| team2score         = 1
+| details            = on aggregate
+| firstleg           = First leg
+| team1score1        = 2
+| team2score1        = 0
+| date1              = 1 May 1996
+| stadium1           = [[Olympiastadion (Munich)|Olympiastadion]]
+| city1              = [[Munich]]
+| referee1           = [[Serge Muhmenthaler]] ([[Swiss Football Association|Switzerland]])
+| attendance1        = 63,000
+| weather1           = 
+| secondleg          = Second leg
+| team1score2        = 3
+| team2score2        = 1
+| date2              = 15 May 1996
+| stadium2           = [[Stade Chaban-Delmas|Stade du Parc Lescure]]
+| city2              = [[Bordeaux]]
+| referee2           = [[Vadim Zhuk]] ([[Football Federation of Belarus|Belarus]])
+| attendance2        = 36,000
+| weather2           = 
+| previous           = [[1995 UEFA Cup final|1995]]
+| next               = [[1997 UEFA Cup final|1997]]
+}}
+The '''1996 UEFA Cup final''' was a two-legged [[association football]] match contested by [[FC Bayern Munich|Bayern Munich]] of Germany and [[FC Girondins de Bordeaux|Bordeaux]] of France to determine the winner of the [[1995–96 UEFA Cup]]. This was the only UEFA Cup final during the 1990s to not feature any Italian sides and Bordeaux—in its only ever European final as of 2026—became the only team in the competition's history to reach the final from qualifying through the [[UEFA Intertoto Cup]].
+
+The first leg was played at the [[Olympiastadion (Munich)|Olympiastadion]] in Munich on 1 May 1996, and the second leg was played two weeks later at [[Stade Chaban-Delmas|Parc Lescure]] in [[Bordeaux]]. Bayern won the first leg 2–0 and the second leg 3–1 to record a 5–1 aggregate victory. With this victory, Bayern became the third club to have [[UEFA club competition records and statistics#List of teams to have won the main European club competitions|won all three major European trophies]] at the time ([[UEFA Champions League|European Cup/UEFA Champions League]], UEFA Cup/UEFA Europa League, and the [[UEFA Cup Winners' Cup|Cup Winners' Cup]]).
+
+==Route to the final==
+{{details|1995–96 UEFA Cup}}
+
+{| width="100%" style="text-align:center"
+|- valign=top bgcolor=#99ccff
+!colspan=3 style="width:1*"|Bayern Munich
+! 
+!colspan=3 style="width:1*"|Bordeaux
+|-
+|'''Opponent'''
+|'''Result'''
+|'''Legs'''
+|bgcolor=#c1e0ff|Round
+|'''Opponent'''
+|'''Result'''
+|'''Legs'''
+|-
+|{{flagicon|RUS}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|5–1
+|0–1 home; 5–0 away
+|bgcolor=#c1e0ff|First round
+|{{flagicon|MKD|1992}} [[FK Vardar|Vardar]]
+|3–1
+|2–0 away; 1–1 home
+|-
+|{{flagicon|SCO}} [[Raith Rovers F.C.|Raith Rovers]]
+|4–1
+|2–0 away; 2–1 home
+|bgcolor=#c1e0ff|Second round
+|{{flagicon|RUS}} [[FC Rotor Volgograd|Rotor Volgograd]]
+|3–1
+|2–1 home; 1–0 away
+|-
+|{{flagicon|POR}} [[S.L. Benfica|Benfica]]
+|7–2
+|4–1 home; 3–1 away
+|bgcolor=#c1e0ff|Third round
+|{{flagicon|ESP}} [[Real Betis]]
+|3–2
+|2–0 home; 1–2 away
+|-
+|{{flagicon|ENG}} [[Nottingham Forest F.C.|Nottingham Forest]]
+|7–2
+|2–1 home; 5–1 away
+|bgcolor=#c1e0ff|Quarter-finals
+|{{flagicon|ITA}} [[AC Milan|Milan]]
+|3–2
+|0–2 away; 3–0 home
+|-
+|{{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|4–3
+|2–2 home; 2–1 away
+|bgcolor=#c1e0ff|Semi-finals
+|{{flagicon|CZE}} [[SK Slavia Prague|Slavia Prague]]
+|2–0
+|1–0 away; 1–0 home
+|}
+
+==Match details==
+===First leg===
+{{football box
+|date = 1 May 1996
+|time = 20:00 [[Central European Summer Time|CEST]]
+|team1 = [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score = 2–0
+|report = [https://www.uefa.com/uefaeuropaleague/match/52532--bayern-munchen-vs-bordeaux/ Report]<br />[https://web.archive.org/web/20120523152106/http://www.uefa.com/uefaeuropaleague/season=1995/overview/index.html Overview]
+|team2 = {{flagicon|FRA|1974}} [[FC Girondins de Bordeaux|Bordeaux]]
+|goals1 = [[Thomas Helmer|Helmer]] {{goal|34}}<br />[[Mehmet Scholl|Scholl]] {{goal|60}}
+|stadium = [[Olympiastadion (Munich)|Olympiastadion]], [[Munich]]
+|attendance = 63,000
+|referee = [[Serge Muhmenthaler]] ([[Swiss Football Association|Switzerland]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _fcbay9596h
+| pattern_b = _Bayern9596h
+| pattern_ra = _fcbay9596h
+| pattern_sh = _FCBAYERN_9596h
+| pattern_so = _FCBAYERN_9596h
+| leftarm = F00
+| body = F00
+| rightarm = F00
+| shorts = 0000DD
+| socks = DD0000
+ | title      = Bayern Munich
+}}
+|{{Football kit
+|pattern_la = _bordeaux9495t
+|pattern_b  = _bordeaux9495t
+|pattern_ra = _bordeaux9495t
+|pattern_sh = _bordeaux9495h
+|pattern_so = _navytopl
+|socks      = 800012
+ | title      = Bordeaux
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Oliver Kahn]]
+|-
+|SW ||'''10'''||{{flagicon|GER}} [[Lothar Matthäus]] ([[Captain (association football)|c]]) || || {{suboff|54}}
+|-
+|CB ||'''4''' ||{{flagicon|GER}} [[Oliver Kreuzer]]
+|-
+|CB ||'''5''' ||{{flagicon|GER}} [[Thomas Helmer]]
+|-
+|RWB ||'''2''' ||{{flagicon|GER}} [[Markus Babbel]]
+|-
+|LWB ||'''3''' ||{{flagicon|GER}} [[Christian Ziege]]
+|-
+|CM ||'''6''' ||{{flagicon|GER}} [[Dietmar Hamann]]
+|-
+|CM ||'''8''' ||{{flagicon|SUI}} [[Ciriaco Sforza]]
+|-
+|AM ||'''7''' ||{{flagicon|GER}} [[Mehmet Scholl]]
+|-
+|CF ||'''9''' ||{{flagicon|GER}} [[Jürgen Klinsmann]]
+|-
+|CF ||'''11'''||{{flagicon|FRA}} [[Jean-Pierre Papin]] || {{yel|29}} || {{suboff|70}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|GER}} [[Michael Probst]]
+|-
+|MF ||'''13'''||{{flagicon|AUT}} [[Andi Herzog]]
+|-
+|MF ||'''14'''||{{flagicon|GER}} [[Christian Nerlinger]]
+|-
+|MF ||'''15'''||{{flagicon|GER}} [[Dieter Frey]] || || {{subon|54}}
+|-
+|FW ||'''16'''||{{flagicon|GER}} [[Marcel Witeczek]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Franz Beckenbauer]]
+|}
+|valign="top"|[[File:Bayern Munich vs Bordeaux 1996-05-01.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|FRA}} [[Gaëtan Huard]]
+|-
+|RB ||'''2''' ||{{flagicon|FRA}} [[François Grenet]]
+|-
+|CB ||'''4''' ||{{flagicon|DEN}} [[Jakob Friis-Hansen]]
+|-
+|CB ||'''5''' ||{{flagicon|FRA}} [[Jean-Luc Dogon]] || {{yel|16}}
+|-
+|LB ||'''3''' ||{{flagicon|FRA}} [[Bixente Lizarazu]] ([[Captain (association football)|c]])
+|-
+|RM ||'''7''' ||{{flagicon|FRA}} [[Laurent Croci]] || {{yel|46}}
+|-
+|CM ||'''6''' ||{{flagicon|FRA}} [[Philippe Lucas]] || {{yel|5}}
+|- 
+|CM ||'''8''' ||{{flagicon|FRA}} [[Daniel Dutuel]]
+|-
+|LM ||'''10'''||{{flagicon|NED}} [[Richard Witschge]] || {{yel|76}}
+|-
+|CF ||'''11'''||{{flagicon|FRA}} [[Anthony Bancarel]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA}} [[Didier Tholot]] || || {{suboff|90}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|FRA}} Franck Fontan
+|-
+|DF ||'''12'''||{{flagicon|FRA}} [[Yannick Fischer]]
+|-
+|MF ||'''13'''||{{flagicon|SEN}} [[Joachim Fernandez]]
+|-
+|MF ||'''14'''||{{flagicon|FRA}} [[Régis Castant]]
+|-
+|MF ||'''15'''||{{flagicon|FRA}} [[Cédric Anselin]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Gernot Rohr]]
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Ernst Felder ([[Swiss Football Association|Switzerland]])
+<br />Martin Freiburghaus ([[Swiss Football Association|Switzerland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*Five named substitutes.
+*Maximum of three substitutions.
+|}
+
+===Second leg===
+{{football box
+|date = 15 May 1996
+|time = 20:45 [[Central European Summer Time|CEST]]
+|team1 = [[FC Girondins de Bordeaux|Bordeaux]] {{flagicon|FRA|1974}}
+|score = 1–3
+|report = [https://www.uefa.com/uefaeuropaleague/match/52533--bordeaux-vs-bayern-munchen/ Report]<br />[https://web.archive.org/web/20120523152106/http://www.uefa.com/uefaeuropaleague/season=1995/overview/index.html Overview]
+|team2 = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1 = [[Daniel Dutuel|Dutuel]] {{goal|75}}
+|goals2 = [[Mehmet Scholl|Scholl]] {{goal|53}}<br />[[Emil Kostadinov|Kostadinov]] {{goal|66}}<br />[[Jürgen Klinsmann|Klinsmann]] {{goal|77}}
+|stadium = [[Stade Chaban-Delmas|Stade du Parc Lescure]], [[Bordeaux]]
+|attendance = 36,000
+|referee = [[Vadim Zhuk]] ([[Football Federation of Belarus|Belarus]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la = _bordeaux9495h
+|pattern_b  = _bordeaux9495h
+|pattern_ra = _bordeaux9495h
+|pattern_sh = _bordeaux9495h
+|pattern_so = _navytopl
+|socks      = 800012
+ | title      = Bordeaux
+}}
+|{{Football kit
+ | pattern_la = _FCBAYERN_9697a
+ | pattern_b = _Bayern9697a
+ | pattern_ra = _FCBAYERN_9697a
+ | pattern_sh = _FCBAYERN_9697a
+ | pattern_so = _DCU_98a
+ | leftarm = FFF
+ | body = FFF
+ | rightarm = FFF
+ | shorts = FFF
+ | socks = FFF
+ | title      = Bayern Munich
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|FRA}} [[Gaëtan Huard]]
+|-
+|RB ||'''2''' ||{{flagicon|FRA}} [[Anthony Bancarel]]
+|-
+|CB ||'''4''' ||{{flagicon|DEN}} [[Jakob Friis-Hansen]]
+|-
+|CB ||'''5''' ||{{flagicon|FRA}} [[Jean-Luc Dogon]]
+|-
+|LB ||'''3''' ||{{flagicon|FRA}} [[Bixente Lizarazu]] ([[Captain (association football)|c]]) || || {{suboff|31}}
+|-
+|RM ||'''8''' ||{{flagicon|FRA}} [[Laurent Croci]] || {{yel|35}} || {{suboff|57}}
+|-
+|CM ||'''6''' ||{{flagicon|FRA}} [[Philippe Lucas]] || || {{suboff|81}}
+|- 
+|CM ||'''7''' ||{{flagicon|FRA}} [[Zinedine Zidane]]
+|-
+|LM ||'''10'''||{{flagicon|NED}} [[Richard Witschge]] || {{yel|30}}
+|-
+|CF ||'''9''' ||{{flagicon|FRA}} [[Didier Tholot]] || {{yel|80}}
+|-
+|CF ||'''11'''||{{flagicon|FRA}} [[Christophe Dugarry]] || {{yel|70}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|FRA}} Franck Fontan
+|-
+|DF ||'''15'''||{{flagicon|FRA}} [[François Grenet]] || || {{subon|81}}
+|-
+|MF ||'''12'''||{{flagicon|FRA}} [[Cédric Anselin]] || || {{subon|31}}
+|-
+|MF ||'''13'''||{{flagicon|SEN}} [[Joachim Fernandez]]
+|-
+|MF ||'''14'''||{{flagicon|FRA}} [[Daniel Dutuel]] || || {{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Gernot Rohr]]
+|}
+|valign="top"|[[File:Bordeaux vs Bayern Munich 1996-05-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Oliver Kahn]]
+|-
+|SW ||'''10'''||{{flagicon|GER}} [[Lothar Matthäus]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||{{flagicon|GER}} [[Markus Babbel]] || {{yel|80}}
+|-
+|CB ||'''5''' ||{{flagicon|GER}} [[Thomas Helmer]] || {{yel|42}}
+|-
+|RWB ||'''4''' ||{{flagicon|GER}} [[Thomas Strunz]]
+|-
+|LWB ||'''3''' ||{{flagicon|GER}} [[Christian Ziege]]
+|-
+|CM ||'''6''' ||{{flagicon|GER}} [[Dieter Frey]] || {{yel|57}} || {{suboff|60}}
+|-
+|CM ||'''8''' ||{{flagicon|SUI}} [[Ciriaco Sforza]]
+|-
+|AM ||'''7''' ||{{flagicon|GER}} [[Mehmet Scholl]]
+|-
+|CF ||'''9''' ||{{flagicon|GER}} [[Jürgen Klinsmann]]
+|-
+|CF ||'''11'''||{{flagicon|BUL}} [[Emil Kostadinov]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|GER}} [[Michael Probst]]
+|-
+|MF ||'''13'''||{{flagicon|AUT}} [[Andi Herzog]]
+|-
+|MF ||'''14'''||{{flagicon|GER}} [[Christian Nerlinger]]
+|-
+|FW ||'''15'''||{{flagicon|GER}} [[Marcel Witeczek]] || || {{subon|75}}
+|-
+|FW ||'''16'''||{{flagicon|GER}} [[Alexander Zickler]] || || {{subon|60}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Franz Beckenbauer]]
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Yuri Dupanov ([[Football Federation of Belarus|Belarus]])
+<br />Aleh Chykun ([[Football Federation of Belarus|Belarus]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Kazimir Znaydinsky ([[Football Federation of Belarus|Belarus]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Five named substitutes.
+*Maximum of three substitutions.
+|}
+
+==See also==
+*[[1996 UEFA Champions League final]]
+*[[1996 UEFA Cup Winners' Cup final]]
+*[[FC Bayern Munich in international football]]
+*[[FC Girondins de Bordeaux in European football]]
+*[[1995–96 FC Bayern Munich season]]
+*[[1995–96 FC Girondins de Bordeaux season]]
+
+==External links==
+*[https://web.archive.org/web/20110924092227/http://www.uefa.com/uefaeuropaleague/season=1995/index.html 1995–96 season] at UEFA.com
+
+{{UEFA Europa League seasons}}
+{{1995–96 in European football (UEFA)}}
+{{FC Bayern Munich matches}}
+{{FC Girondins de Bordeaux matches}}
+
+{{DEFAULTSORT:Uefa Cup Final 1996}}
+[[Category:1995–96 UEFA Cup|Final]]
+[[Category:Football matches in France]]
+[[Category:FC Bayern Munich matches]]
+[[Category:FC Girondins de Bordeaux matches]]
+[[Category:UEFA Europa League finals|1996]]
+[[Category:1995–96 in German football]]
+[[Category:May 1996 sports events in Germany]]
+[[Category:May 1996 sports events in France]]
+[[Category:Football matches in Munich]]
+[[Category:1996 in Bavaria]]
+[[Category:1990s in Munich]]
+[[Category:France–Germany sports relations|1996]]
+[[Category:Long stubs with short prose]]
+[[Category:Sports competitions in Bordeaux]]
+[[Category:Football finals in Germany]]

@@ -1,0 +1,546 @@
+{{Use dmy dates|date=December 2022}}
+{{short description|2020 edition of the FIFA Club World Cup}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2020
+| other_titles   = FIFA Club World Cup Qatar 2020<br>presented by Alibaba Cloud<br>كأس العالم للأندية لكرة القدم قطر 2020
+| image          = 2020 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA trophy}}
+| country        = Qatar
+| dates          = {{nowrap|4–11 February 2021}}
+| num_teams      = 6
+| confederations = 5
+| venues         = 2
+| cities         = 1
+| champion_other = {{nowrap|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]}}
+| count          = 2
+| second_other   = {{fbaicon|MEX}} [[Tigres UANL]]
+| third_other    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| fourth_other   = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+| matches        = 8
+| goals          = 12
+| attendance     = {{#expr: <!--Second round-->+ 866 <!--Match for fifth place-->+ 920 <!--Semi-finals-->+ 1854 + 7982 <!--Match for third place-->+ 5606 <!--Final-->+ 7411}}
+| top_scorer     = {{flagicon|FRA}} [[André-Pierre Gignac]] {{nowrap|(3 goals)}}
+| player         = {{flagicon|POL}} [[Robert Lewandowski]]
+| fair_play      = {{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]]
+| prevseason     = [[2019 FIFA Club World Cup|2019]]
+| nextseason     = [[2021 FIFA Club World Cup|2021]]
+}}
+The '''2020 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup Qatar 2020 presented by Alibaba Cloud''' for sponsorship reasons) was the 17th edition of the [[FIFA Club World Cup]], a [[FIFA]]-organised international club [[association football|football]] tournament between the winners of the six continental confederations, as well as the host nation's league champions. The tournament was hosted by [[Qatar]].
+
+The event was postponed to 2021 due to the [[COVID-19 pandemic]],<ref>{{cite news |url=https://apnews.com/article/virus-outbreak-international-soccer-sports-middle-east-champions-league-qatar-fe76057a4e4b1b7927c9bf315385c49b |title=Pandemic disrupting FIFA's World Cup, Club World Cup program |work=Associated Press News |first=Graham |last=Dunbar |date=19 September 2020 |access-date=18 October 2020}}</ref> as the AFC, CONMEBOL, and CONCACAF champions would not have been decided in time for the tournament. Originally to be held in December 2020, on 17 November of the same year FIFA announced that the competition would be played between 1 and 11 February 2021.<ref>{{cite news |url=https://www.fifa.com/who-we-are/news/update-on-fifa-club-world-cup-2020-and-women-s-youth-tournaments |title=Update on FIFA Club World Cup 2020 and women's youth tournaments |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=17 November 2020 |access-date=17 November 2020}}</ref>
+
+Originally seven teams were to compete in the tournament. However, [[Oceania Football Confederation|OFC]]'s representatives [[Auckland City FC|Auckland City]] withdrew due to the COVID-19 pandemic and related quarantine measures required by the [[New Zealand]] authorities. As a result, only six teams competed, and the first round match, originally scheduled on 1 February 2021, was awarded as a 3–0 win to their first round opponents, host [[Qatar Football Association|Qatar]]'s representatives [[Al-Duhail SC|Al-Duhail]], who advanced automatically to the second round on 4 February 2021.<ref name="auckland-city-withdraw"/>
+
+Defending champions [[Liverpool F.C.|Liverpool]] did not qualify as they were eliminated in the round of 16 of the [[2019–20 UEFA Champions League]]. The eventual winners of that competition, [[FC Bayern Munich|Bayern Munich]], went on to win the Club World Cup for a second time, beating [[Al Ahly SC|Al Ahly]] 2–0 in the semi-finals, before a 1–0 win over [[Tigres UANL]] in the [[2020 FIFA Club World Cup Final|final]]. In winning the title, Bayern Munich became only the second club in European football history (after [[FC Barcelona|Barcelona]] in 2009) to win all six competitions they entered (commonly known as a [[Sextuple (football)|sextuple]]) in a single calendar year.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/amp/pavard-completes-sextuple-for-dominant-bayern |archive-url=https://web.archive.org/web/20210211201846/https://www.fifa.com/clubworldcup/news/pavard-completes-sextuple-for-dominant-bayern |url-status=dead |archive-date=11 February 2021 |title=Pavard completes sextuple for dominant Bayern |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=11 February 2021 |access-date=11 February 2021}}</ref>
+
+==Host appointment==
+With proposals for an expanded Club World Cup, FIFA delayed the announcement of a host. On 28 May 2019,<ref>{{cite news |url=https://www.fifa.com/about-fifa/who-we-are/news/fifa-council-meeting-agenda-now-available-x4052 |title=FIFA Council meeting agenda now available |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=28 May 2019 |access-date=3 June 2019 |url-status=live |archive-url=https://web.archive.org/web/20190603070653/https://www.fifa.com/about-fifa/who-we-are/news/fifa-council-meeting-agenda-now-available-x4052 |archive-date=3 June 2019}}</ref> FIFA announced that the 2019 and 2020 tournament host would be appointed at the [[FIFA Council]] meeting in [[Paris]], France, on 3 June 2019.<ref>{{cite web |url=https://digitalhub.fifa.com/m/2b1118e9af8c4648/original/jajzpnwxmur1ru2szoo6-pdf.pdf |title=Agenda of meeting no. 10 of the FIFA Council |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=28 May 2019 |access-date=3 June 2019 |url-status=live |archive-url=https://web.archive.org/web/20190603070936/https://resources.fifa.com/image/upload/agenda-of-meeting-no10-of-the-fifa-council.pdf?cloudid=jajzpnwxmur1ru2szoo6 |archive-date=3 June 2019}}</ref>
+
+Qatar was appointed as the host for the 2019 and 2020 tournaments on 3 June 2019, serving as test events ahead of their hosting of the [[2022 FIFA World Cup]]. The tournament retained its original format ahead of the scheduled revamp.<ref>{{cite press release |url=https://www.fifa.com/about-fifa/who-we-are/news/fifa-council-appoints-qatar-as-host-of-the-fifa-club-world-cup-in-2019-and-2020 |title=FIFA Council appoints Qatar as host of the FIFA Club World Cup in 2019 and 2020 |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=3 June 2019 |access-date=3 June 2019 |url-status=live |archive-url=https://web.archive.org/web/20190603160422/https://www.fifa.com/about-fifa/who-we-are/news/fifa-council-appoints-qatar-as-host-of-the-fifa-club-world-cup-in-2019-and-2020 |archive-date=3 June 2019}}</ref>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of the teams participating in the 2020 FIFA Club World Cup.|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-23.600008|long=-46.500002|label_size=80|label=[[SE Palmeiras|Palmeiras]]|position=left}}
+<!--UEFA-->
+{{Location map~|World|lat=48.218775|long=11.624753|label_size=80|label=[[FC Bayern Munich|Bayern Munich]]|position=left}}
+<!--AFC-->
+{{Location map~|World|lat=35.53528|long=129.25944|label_size=80|label=[[Ulsan Hyundai FC|Ulsan Hyundai]]|position=bottom}}
+<!--CAF-->
+{{Location map~|World|lat=30.069114|long=31.312333|label_size=80|label=[[Al Ahly SC|Al Ahly]]|position=left}}
+<!--CONCACAF-->
+{{Location map~|World|lat=25.759420|long=-100.3119|label_size=80|label=[[Tigres UANL]]|position=left}}
+<!--OFC-->
+{{Location map~|World|lat=-36.8975|long=174.736944|label_size=80|label=<s>[[Auckland City FC|Auckland City]]</s>|position=left}}
+<!--Host-->
+{{Location map~|World|lat=25.372711|long=51.469267|label_size=80|label=[[Al-Duhail SC|Al-Duhail]]|position=right}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Qualified date
+!Participation (bold indicates winners)
+|-
+!colspan=5|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{nowrap|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]}}
+|[[UEFA]]
+|Winners of the [[2019–20 UEFA Champions League]]
+|{{dts|2020|8|23|format=dmy}}<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/bayern-crowned-champions-of-europe |title=Bayern crowned champions of Europe |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=24 August 2020}}</ref>
+|2nd {{small|(Previous: '''[[2013 FIFA Club World Cup|2013]]''')}}
+|-
+|{{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|[[CONMEBOL]]
+|Winners of the [[2020 Copa Libertadores]]
+|{{dts|2021|1|30|format=dmy}}<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/palmeiras-complete-club-world-cup-line-up#commemoration-of-the-title-after-palmeiras-x-santos-valid-match-for-the-final-of |title=Palmeiras complete Club World Cup line-up |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=30 January 2021}}</ref>
+|1st
+|-
+!colspan=5|Entering in the [[#Second round|second round]]
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2019–20 CAF Champions League]]
+|{{dts|2020|11|27|format=dmy}}<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/al-ahly-conquer-africa-clinch-club-world-cup-ticket |title=Al Ahly conquer Africa, clinch Club World Cup ticket |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=28 November 2020}}</ref>
+|6th {{small|(Previous: [[2005 FIFA Club World Cup|2005]], [[2006 FIFA Club World Cup|2006]], [[2008 FIFA Club World Cup|2008]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]])}}
+|-
+|{{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2020 AFC Champions League]]
+|{{dts|2020|12|19|format=dmy}}<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/ulsan-edge-persepolis-to-claim-asian-crown|archive-url=https://web.archive.org/web/20201220045531/https://www.fifa.com/clubworldcup/news/ulsan-edge-persepolis-to-claim-asian-crown|url-status=dead|archive-date=20 December 2020 |title=Ulsan edge Persepolis to claim Asian crown |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=19 February 2020}}</ref>
+|2nd {{small|(Previous: [[2012 FIFA Club World Cup|2012]])}}
+|-
+|{{fbaicon|MEX}} [[Tigres UANL]]
+|[[CONCACAF]]
+|Winners of the [[2020 CONCACAF Champions League]]
+|{{dts|2020|12|22|format=dmy}}<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/tigres-edge-lafc-to-book-club-world-cup-ticket#tigres-uanl-v-los-angeles-fc-final-2020-concacaf-champions-league-x9779 |title=Tigres edge LAFC to book Club World Cup ticket |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=23 December 2020}}</ref>
+|1st
+|-
+!colspan=5|Entering in the [[#First round|first round]]
+|-
+|{{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]]
+|[[Asian Football Confederation|AFC]] ([[Qatar Football Association|host]])
+|Winners of the [[2019–20 Qatar Stars League]]
+|{{dts|2020|9|27|format=dmy}}{{refn|group=note|name=host|[[Al-Duhail SC|Al-Duhail]] won the [[2019–20 Qatar Stars League]] on 21 August 2020. Their participation was officially confirmed on 27 September 2020 after [[Al Sadd SC|Al-Sadd]] became the last team from Qatar to be eliminated from the [[2020 AFC Champions League]].}}
+|1st
+|-
+|{{fbaicon|NZL}} <s>[[Auckland City FC|Auckland City]]</s> (withdrew){{refn|group=note|name=OFC-withdraw|On 15 January 2021, FIFA announced that [[Auckland City FC|Auckland City]] had withdrawn from the competition due to the [[COVID-19 pandemic]] and related quarantine measures required by the New Zealand authorities.<ref name="auckland-city-withdraw">{{cite web |title=Auckland City FC withdraw from FIFA Club World Cup |url=https://www.fifa.com/clubworldcup/news/auckland-city-fc-withdraw-from-fifa-club-world-cuptm |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=15 January 2021 |access-date=15 January 2021}}</ref>}}
+|[[Oceania Football Confederation|OFC]]
+|Nominated by OFC{{refn|group=note|name=OFC|On 4 September 2020, the [[Oceania Football Confederation]] announced that the [[2020 OFC Champions League]] was abandoned due to the border and travel restrictions caused by the [[COVID-19 pandemic]], and no champions would be awarded.<ref>{{cite web |url=https://www.oceaniafootball.com/ofc-champions-league-2020-cancelled/ |title=OFC Champions League 2020 cancelled |publisher=Oceania Football Confederation |date=4 September 2020}}</ref> The OFC representative at the 2020 FIFA Club World Cup, which would have originally been the winners of the 2020 OFC Champions League, was confirmed to be [[Auckland City FC|Auckland City]] on 19 November 2020. The team was chosen by the OFC Executive Committee based on the principles within the competition regulations of the OFC Champions League, which established a [[2020 OFC Champions League#Qualification to FIFA Club World Cup|ranking]] of each team after the [[2020 OFC Champions League group stage|group stage]], where Auckland City were ranked first.<ref>{{cite web |url=https://www.oceaniafootball.com/auckland-city-nominated-for-cwc/ |title=Auckland City nominated for CWC |publisher=Oceania Football Confederation |date=19 November 2020}}</ref>}}
+|{{dts|2020|11|19|format=dmy}}
+|10th (planned) {{small|(Previous: [[2006 FIFA Club World Cup|2006]], [[2009 FIFA Club World Cup|2009]], [[2011 FIFA Club World Cup|2011]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]], [[2014 FIFA Club World Cup|2014]], [[2015 FIFA Club World Cup|2015]], [[2016 FIFA Club World Cup|2016]], [[2017 FIFA Club World Cup|2017]])}}
+|}
+'''Notes'''
+{{reflist|group=note}}
+
+== Venues ==
+The matches were played in the city of [[Al Rayyan (city)|Al Rayyan]], at the [[Ahmad bin Ali Stadium]] and [[Education City Stadium]]; both 40,000-seat venues which would later host matches at the [[2022 FIFA World Cup]].<ref name="venues">{{cite news |url=https://www.fifa.com/clubworldcup/news/education-city-and-ahmad-bin-ali-stadiums-to-host-fifa-club-world-cup-2020tm |title=Education City and Ahmad Bin Ali stadiums to host FIFA Club World Cup 2020 |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=18 January 2021 |access-date=18 January 2021}}</ref> Due to the [[COVID-19 pandemic in Qatar]], attendance was limited to only 30% of the stadiums' seating capacity.<ref>{{cite news |url=https://www.thepeninsulaqatar.com/article/04/02/2021/Security-preparations-for-FIFA-Club-World-Cup-complete |title=Security preparations for FIFA Club World Cup complete |work=[[The Peninsula (newspaper)|The Peninsula]] |date=4 February 2021 |access-date=5 February 2021}}</ref> A third stadium in Al Rayyan, [[Khalifa International Stadium]], would originally have hosted two matches, but following the withdrawal of [[Auckland City FC|Auckland City]] and the subsequent revision of the match schedule, it was not used for the tournament.<ref name="original venues">{{cite news |url=https://www.fifa.com/clubworldcup/news/education-city-ahmad-bin-ali-and-khalifa-international-to-host-fifa-club-world-c |archive-url=https://web.archive.org/web/20201223120141/https://www.fifa.com/clubworldcup/news/education-city-ahmad-bin-ali-and-khalifa-international-to-host-fifa-club-world-c |url-status=dead |archive-date=23 December 2020 |title=Education City, Ahmad Bin Ali and Khalifa International to host FIFA Club World Cup matches |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=23 December 2020 |access-date=23 December 2020}}</ref><ref name="venues"/><ref>{{cite web |url=https://resources.fifa.com/image/upload/fifa-club-world-cup-qatar-2020-match-schedule.pdf?cloudid=dstjfb5efrfyajf8zvxn |archive-url=https://web.archive.org/web/20201228085304/https://resources.fifa.com/image/upload/fifa-club-world-cup-qatar-2020-match-schedule.pdf?cloudid=dstjfb5efrfyajf8zvxn |url-status=dead |archive-date=28 December 2020 |title=FIFA Club World Cup Qatar 2020: Match schedule |publisher=Fédération Internationale de Football Association |website=FIFA.com |format=PDF |date=23 December 2020 |access-date=23 December 2020}}</ref>
+
+{| class="wikitable" style="text-align:center;margin:1em auto;"
+|-
+! colspan="2" |[[Al Rayyan (city)|Al Rayyan]]<br /><small>([[Doha Metropolitan Area|Doha Area]])</small>
+! rowspan="4" |{{location map+|Qatar|float=center|width=300|caption=Location of the host city of the 2020 FIFA Club World Cup.|places={{Location map~|Qatar|lat=25.25|long=51.4|label=[[Al Rayyan (city)|Al Rayyan]]|position=left}}}}
+|-
+| [[Ahmad bin Ali Stadium]]
+|[[Education City Stadium]]
+|-
+| Capacity: '''45,032'''
+|Capacity: '''44,667'''
+|-
+| [[File:Ahmad_bin_Ali_Stadium.jpg|200x200px]]
+|[[File:Aerial_view_of_Education_City_Stadium_and_Oxygen_Park_in_Al_Rayyan_(Education_City_Stadium)_crop.jpg|frameless|190x190px]]
+|}
+
+==Match officials==
+Seven [[referee (association football)|referee]]s, twelve [[assistant referee (association football)|assistant referee]]s, and seven [[video assistant referee]]s were appointed for the tournament.<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/match-officials-for-the-fifa-club-world-cup-qatar-2020tm-appointed |title=Match officials for the FIFA Club World Cup Qatar 2020 appointed |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=4 January 2021|access-date=4 January 2021}}</ref><ref>{{cite web |url=https://digitalhub.fifa.com/m/8f3804ead8636d44/original/ccvozk06oenutj7pafjr-pdf.pdf |title=FIFA Club World Cup Qatar 2020 – List of Appointed Match Officials |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=26 January 2021|access-date=1 February 2021}}</ref> Brazilian referee [[Edina Alves Batista]] became the first woman to officiate at a senior FIFA men's tournament.<ref>{{cite news |title=Groundbreaking Edina Alves calls Club World Cup selection 'dream come true' |url=https://www.japantimes.co.jp/sports/2021/01/09/soccer/edina-alves-world-cup-selection/ |work=The Japan Times |date=9 January 2021 |accessdate=11 February 2021}}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referees
+!Assistant referees
+!Video assistant referees
+|-
+|[[Asian Football Confederation|AFC]]
+|{{fbaicon|UAE}} [[Mohammed Abdulla Hassan Mohamed]]
+|{{unbulleted list|{{fbaicon|UAE}} Mohamed Al Hammadi|{{fbaicon|UAE}} Hasan Al Mahri}}
+|{{fbaicon|QAT}} [[Khamis Al-Marri]]
+|-
+|[[Confederation of African Football|CAF]]
+|{{fbaicon|SEN}} [[Maguette Ndiaye]]
+|{{unbulleted list|{{fbaicon|SEN}} Djibril Camara|{{fbaicon|SEN}} El Hadji Malick Samba}}
+|{{fbaicon|MAR}} Rédouane Jiyed
+|-
+|[[CONCACAF]]
+|{{fbaicon|GUA}} [[Mario Escobar (referee)|Mario Escobar]]
+|{{unbulleted list|{{fbaicon|JAM}} Nicholas Anderson|{{fbaicon|GUA}} Humberto Panjoj}}
+|{{fbaicon|CAN}} [[Drew Fischer]]
+|-
+|rowspan="2"|[[CONMEBOL]]
+|{{fbaicon|BRA}} [[Edina Alves Batista]]
+|{{unbulleted list|{{fbaicon|BRA}} Neuza Back|{{fbaicon|ARG}} Mariana de Almeida}}
+|rowspan="2"|{{unbulleted list|{{fbaicon|CHI}} [[Julio Bascuñán]]|{{fbaicon|COL}} [[Nicolás Gallo (referee)|Nicolás Gallo]]}}
+|-
+|{{fbaicon|URU}} [[Esteban Ostojich]]{{refn|group=note|Uruguayan referee Leodán González was replaced by [[Esteban Ostojich]] for health reasons.<ref>{{cite tweet |author=Fédération Internationale de Football Association |author-link=FIFA |user=fifamedia |number=1354098398564130817 |date=26 January 2021 |title=The FIFA Referees Committee has replaced referee Leodan Gonzalez from Uruguay for the #ClubWC, due to health reasons. His compatriot Esteban Ostojich will now travel for the tournament. |access-date=2 February 2021 |url-status=live |archive-url=https://web.archive.org/web/20210202014151/https://twitter.com/fifamedia/status/1354098398564130817 |archive-date=2 February 2021}}</ref>}}
+|{{unbulleted list|{{fbaicon|URU}} Nicolás Taran|{{fbaicon|URU}} Richard Trinidad}}
+|-
+|[[Oceania Football Confederation|OFC]]
+|{{fbaicon|TAH}} [[Abdelkader Zitouni]]
+|
+|
+|-
+|-
+|[[UEFA]]
+|{{fbaicon|NED}} [[Danny Makkelie]]
+|{{unbulleted list|{{fbaicon|NED}} Mario Diks|{{fbaicon|NED}} Hessel Steegstra}}
+|{{unbulleted list|{{fbaicon|NED}} [[Kevin Blom]]|{{fbaicon|NED}} [[Jochem Kamphuis]]}}
+|}
+
+==Squads==
+{{main|2020 FIFA Club World Cup squads}}
+
+Each team had to name a 23-man squad (three of whom must be goalkeepers). Injury replacements were allowed until 24 hours before the team's first match.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/4a92db447a7fd1be/original/i7wininfprqxol6ylkpr-pdf.pdf |title=FIFA Club World Cup Qatar 2020 Regulations}}</ref>
+
+==Matches==
+The match schedule was announced on 23 December 2020,<ref name="original venues"/> with a revised schedule with change of venues announced on 18 January 2021.<ref name="venues"/> The draw of the tournament was held on 19 January 2021, 16:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]]), at the FIFA headquarters in [[Zürich]], Switzerland, to decide the matchups of the second round (between the first round winner and teams from AFC, CAF and CONCACAF), and the opponents of the two second round winners in the semi-finals (against teams from CONMEBOL and UEFA). At the time of the draw, the identity of the CONMEBOL team was not known.<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/watch-live-fifa-club-world-cup-official-draw |title=Watch LIVE: FIFA Club World Cup Official Draw |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=18 January 2021}}</ref><ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/draw-lays-out-path-to-fifa-club-world-cup-glory |title=Draw lays out path to FIFA Club World Cup glory |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=19 January 2021}}</ref>
+
+If a match was tied after normal playing time:<ref name="regulations"/>
+*For elimination matches, [[Overtime (sports)#Association football|extra time]] was played. If still tied after extra time, a [[Penalty shoot-out (association football)|penalty shoot-out]] was held to determine the winner.
+*For the matches for fifth place and third place, no extra time was played, and a penalty shoot-out was held to determine the winner.
+
+{{7TeamBracket-StepladderToSF
+| style       = 6
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#First round|First round]]
+| RD2         = [[#Second round|Second round]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD3b        = [[#Match for fifth place|Match for fifth place]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- First round -->
+| RD1-text1    = 1 February – [[Ahmad bin Ali Stadium|Al Rayyan (ABAS)]]
+| RD1-team1    = {{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]] ({{Tooltip|awd.|Awarded}}){{refn|group=note|name=Match 1}}
+| RD1-score1   = 3
+| RD1-team2    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD1-score2   = 0
+
+<!-- Second round -->
+| RD2-text1    = 4 February – [[Education City Stadium|Al Rayyan (ECS)]]
+| RD2-team1    = {{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]]
+| RD2-score1   = 0
+| RD2-team2    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD2-score2   = 1
+
+| RD2-text2    = 4 February – [[Ahmad bin Ali Stadium|Al Rayyan (ABAS)]]
+| RD2-team3    = {{fbaicon|MEX}} [[Tigres UANL]]
+| RD2-score3   = 2
+| RD2-team4    = {{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+| RD2-score4   = 1
+
+<!-- Semi-finals -->
+| RD3-text1    = 8 February – [[Ahmad bin Ali Stadium|Al Rayyan (ABAS)]]
+| RD3-team1    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD3-score1   = 0
+| RD3-team2    = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| RD3-score2   = 2
+
+| RD3-text2    = 7 February – [[Education City Stadium|Al Rayyan (ECS)]]
+| RD3-team3    = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+| RD3-score3   = 0
+| RD3-team4    = {{fbaicon|MEX}} [[Tigres UANL]]
+| RD3-score4   = 1
+
+<!-- Final -->
+| RD4-text1    = 11 February – [[Education City Stadium|Al Rayyan (ECS)]]
+| RD4-team1    = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| RD4-score1   = 1
+| RD4-team2    = {{fbaicon|MEX}} [[Tigres UANL]]
+| RD4-score2   = 0
+
+<!-- Match for fifth place -->
+| RD3-text3    = 7 February – [[Ahmad bin Ali Stadium|Al Rayyan (ABAS)]]
+| RD3-team5    = {{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+| RD3-score5   = 1
+| RD3-team6    = {{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]]
+| RD3-score6   = 3
+
+<!-- Match for third place -->
+| RD4-text2    = 11 February – [[Education City Stadium|Al Rayyan (ECS)]]
+| RD4-team3    = {{fbaicon|EGY}} '''[[Al Ahly SC|Al Ahly]]''' {{pso}}
+| RD4-score3   = '''0 (3)'''
+| RD4-team4    = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+| RD4-score4   = 0 (2)
+}}
+
+All times are listed in [[Arabia Standard Time|AST]] ([[UTC+03:00|UTC+3]]).<ref name="schedule">{{cite web |url=https://digitalhub.fifa.com/m/8303a390a2f63f48/original/g8451lwivpdwkfumfyr3-pdf.pdf |title=FIFA Club World Cup Qatar 2020: Match schedule |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=21 January 2021 |access-date=21 January 2021}}</ref>
+
+===First round===
+{{Football box
+| id = Match 1
+| date = {{Start date|2021|2|1|df=y}}
+| time = 20:30
+| team1 = [[Al-Duhail SC|Al-Duhail]] {{fbaicon|QAT}}
+| score = 3–0
+| scorenote = Awarded{{refn|group=note|name=Match 1|The Al-Duhail v Auckland City match was [[walkover|awarded]] as a 3–0 win to Al-Duhail after Auckland City withdrew due to the COVID-19 pandemic and related quarantine measures required by the New Zealand authorities.<ref name="auckland-city-withdraw"/>}}
+| report = https://www.fifa.com/en/match-centre/match/107/284690/284693/400154010
+| team2 = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| goals1 =
+| goals2 =
+| stadium = [[Ahmad bin Ali Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+| attendance = 
+| referee = 
+}}
+
+===Second round===
+{{Football box
+| id = Match 2
+| date = {{Start date|2021|2|4|df=y}}
+| time = 17:00
+| team1 = [[Tigres UANL]] {{fbaicon|MEX}}
+| score = 2–1
+| report = https://www.fifa.com/en/match-centre/match/107/284690/284692/400154008
+| team2 = {{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+| goals1 =
+*[[André-Pierre Gignac|Gignac]] {{goal|38||45+5|pen.}}
+| goals2 =
+*[[Kim Kee-hee]] {{goal|24}}
+| stadium = [[Ahmad bin Ali Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+| attendance = 866<ref>{{cite web |url=https://api.fifa.com/api/v1/live/football/2/0/0/400154008 |title=Tigres UANL vs. Ulsan Hyundai |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=4 February 2021 |access-date=17 March 2021 |archive-date=12 April 2021 |archive-url=https://web.archive.org/web/20210412153826/https://api.fifa.com/api/v1/live/football/2/0/0/400154008 |url-status=dead }}</ref>
+| referee = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+}}
+----
+{{Football box
+| id = Match 3
+| date = {{Start date|2021|2|4|df=y}}
+| time = 20:30
+| team1 = [[Al-Duhail SC|Al-Duhail]] {{fbaicon|QAT}}
+| score = 0–1
+| report = https://www.fifa.com/en/match-centre/match/107/284690/284692/400154009
+| team2 = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| goals1 =
+| goals2 =
+*[[Hussein El Shahat|El Shahat]] {{goal|30}}
+| stadium = [[Education City Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+| attendance = 
+| referee = [[Mario Escobar (referee)|Mario Escobar]] ([[National Football Federation of Guatemala|Guatemala]])
+}}
+
+===Match for fifth place===
+{{Football box
+| id = Match 4
+| date = {{Start date|2021|2|7|df=y}}
+| time = 18:00
+| team1 = [[Ulsan Hyundai FC|Ulsan Hyundai]] {{fbaicon|KOR}}
+| score = 1–3
+| report = https://www.fifa.com/en/match-centre/match/107/284690/284698/400154015
+| team2 = {{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]]
+| goals1 =
+*[[Yoon Bit-garam]] {{goal|62}}
+| goals2 =
+*[[Edmilson Junior|Edmilson]] {{goal|21}}
+*[[Mohammed Muntari|Muntari]] {{goal|66}}
+*[[Almoez Ali|Ali]] {{goal|82}}
+| stadium = [[Ahmad bin Ali Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+| attendance = 920<ref>{{cite web |url=https://api.fifa.com/api/v1/live/football/2/0/0/400154015 |title=Ulsan Hyundai vs. Al-Duhail |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=7 February 2021 |access-date=17 March 2021 |archive-date=20 April 2021 |archive-url=https://web.archive.org/web/20210420215023/https://api.fifa.com/api/v1/live/football/2/0/0/400154015 |url-status=dead }}</ref>
+| referee = [[Edina Alves Batista]] ([[Brazilian Football Confederation|Brazil]])
+}}
+
+===Semi-finals===
+{{Football box
+|id=Match 5
+|date={{Start date|2021|2|7|df=y}}
+|time=21:00
+|team1=[[SE Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score=0–1
+|report=https://www.fifa.com/en/match-centre/match/107/284690/284695/400154011
+|team2={{fbaicon|MEX}} [[Tigres UANL]]
+|goals1=
+|goals2=
+*[[André-Pierre Gignac|Gignac]] {{goal|54|pen.}}
+|stadium=[[Education City Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance=1,854<ref>{{cite web |url=https://api.fifa.com/api/v1/live/football/2/0/0/400154011 |title=Palmeiras vs. Tigres UANL |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=7 February 2021 |access-date=17 March 2021 |archive-date=20 April 2021 |archive-url=https://web.archive.org/web/20210420215022/https://api.fifa.com/api/v1/live/football/2/0/0/400154011 |url-status=dead }}</ref>
+|referee=[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+}}
+----
+{{Football box
+| id = Match 6
+| date = {{Start date|2021|2|8|df=y}}
+| time = 21:00
+| team1 = [[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+| score = 0–2
+| report = https://www.fifa.com/en/match-centre/match/107/284690/284695/400154012
+| team2 = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| goals1 =
+| goals2 =
+*[[Robert Lewandowski|Lewandowski]] {{goal|17||86}}
+| stadium = [[Ahmad bin Ali Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+| attendance = 7,982<ref>{{cite web |url=https://api.fifa.com/api/v1/live/football/2/0/0/400154012 |title=Al Ahly vs. Bayern Munich |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=8 February 2021 |access-date=17 March 2021 |archive-date=20 April 2021 |archive-url=https://web.archive.org/web/20210420215024/https://api.fifa.com/api/v1/live/football/2/0/0/400154012 |url-status=dead }}</ref>
+| referee = [[Mohammed Abdulla Hassan Mohamed]] ([[United Arab Emirates Football Association|United&nbsp;Arab&nbsp;Emirates]])
+}}
+
+===Match for third place===
+{{Football box
+|id=Match 7
+|date={{Start date|2021|2|11|df=y}}
+|time=18:00
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=0–0
+|report=https://www.fifa.com/en/match-centre/match/107/284690/284697/400154014
+|team2={{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|goals1=
+|goals2=
+|stadium=[[Education City Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance=5,606<ref>{{cite web |url=https://api.fifa.com/api/v1/live/football/2/0/0/400154014 |title=Al Ahly vs. Palmeiras |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=11 February 2021 |access-date=17 March 2021 |archive-date=20 April 2021 |archive-url=https://web.archive.org/web/20210420215025/https://api.fifa.com/api/v1/live/football/2/0/0/400154014 |url-status=dead }}</ref>
+|referee=[[Maguette Ndiaye]] ([[Senegalese Football Federation|Senegal]])
+|penalties1=
+*[[Badr Benoun|Benoun]] {{pengoal}}
+*[[Amr El Solia|El Solia]] {{penmiss}}
+*[[Marwan Mohsen|M. Mohsen]] {{penmiss}}
+*[[Mohamed Hany|Hany]] {{pengoal}}
+*[[Junior Ajayi|Ajayi]] {{pengoal}}
+|penaltyscore=3–2
+|penalties2=
+*{{penmiss}} [[Rony (footballer)|Rony]]
+*{{penmiss}} [[Luiz Adriano]]
+*{{pengoal}} [[Gustavo Scarpa]]
+*{{pengoal}} [[Gustavo Gómez|Gómez]]
+*{{penmiss}} [[Felipe Melo]]
+}}
+
+===Final===
+{{main|2020 FIFA Club World Cup final}}
+{{:2020 FIFA Club World Cup final}}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|1
+|style="text-align:left"|{{flagicon|FRA}} [[André-Pierre Gignac]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Tigres UANL]]
+|3
+|-
+|2
+|style="text-align:left"|{{flagicon|POL}} [[Robert Lewandowski]]
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|2
+|-
+|rowspan=7|3
+|style="text-align:left"|{{flagicon|QAT}} [[Almoez Ali]]
+|style="text-align:left"|{{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]]
+|rowspan=7|1
+|-
+|style="text-align:left"|{{flagicon|BEL}} [[Edmilson Junior|Edmilson]]
+|style="text-align:left"|{{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]]
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Hussein El Shahat]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|KOR}} [[Kim Kee-hee]]
+|style="text-align:left"|{{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+|-
+|style="text-align:left"|{{flagicon|QAT}} [[Mohammed Muntari]]
+|style="text-align:left"|{{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]]
+|-
+|style="text-align:left"|{{flagicon|FRA}} [[Benjamin Pavard]]
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|-
+|style="text-align:left"|{{flagicon|KOR}} [[Yoon Bit-garam]]
+|style="text-align:left"|{{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+|}
+
+==Final ranking==
+<small>Per statistical convention in football, matches decided in [[Overtime (sports)#Association football|extra time]] were counted as wins and losses, while matches decided by [[Penalty shoot-out (association football)|penalty shoot-out]] were counted as draws.</small>
+
+{{#invoke:Sports table|main|style=WDL
+
+|source=[https://www.fifa.com/tournaments/mens/clubworldcup/qatar2020/news/bayern-reign-as-history-made-in-qatar FIFA]
+|name_BAY={{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]] {{small|([[UEFA]])}}
+|name_UAN={{fbaicon|MEX}} [[Tigres UANL]] {{small|([[CONCACAF]])}}
+|name_AHL={{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]] {{small|([[Confederation of African Football|CAF]])}}
+|name_PAL={{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]] {{small|([[CONMEBOL]])}}
+|name_DUH={{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]] {{small|([[Asian Football Confederation|AFC]])}}
+|name_ULS={{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]] {{small|([[Asian Football Confederation|AFC]])}}
+
+|update=complete
+|win_BAY=2 |draw_BAY=0 |loss_BAY=0 |gf_BAY=3 |ga_BAY=0
+|win_UAN=2 |draw_UAN=0 |loss_UAN=1 |gf_UAN=3 |ga_UAN=2
+|win_AHL=1 |draw_AHL=1 |loss_AHL=1 |gf_AHL=1 |ga_AHL=2
+|win_PAL=0 |draw_PAL=1 |loss_PAL=1 |gf_PAL=0 |ga_PAL=1
+|win_DUH=1 |draw_DUH=0 |loss_DUH=1 |gf_DUH=3 |ga_DUH=2 |status_DUH=H
+|win_ULS=0 |draw_ULS=0 |loss_ULS=2 |gf_ULS=2 |ga_ULS=5
+
+|team1=BAY |team2=UAN |team3=AHL |team4=PAL |team5=DUH |team6=ULS 
+|pos_BAY={{gold01}} |pos_UAN={{silver02}} |pos_AHL={{bronze03}}
+}}
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+The following awards were given at the conclusion of the tournament. [[Robert Lewandowski]] of [[FC Bayern Munich|Bayern Munich]] won the [[FIFA Club World Cup awards#Golden Ball|Golden Ball]] award, sponsored by [[Adidas]], which is jointly awarded with the [[Alibaba Cloud]] Award to recognise the player of the tournament.<ref>{{cite web |url=https://www.fifa.com/clubworldcup/awards/ |title=Awards |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=11 February 2021 |access-date=11 February 2021 |url-status=dead |archive-url=https://web.archive.org/web/20210211214025/https://www.fifa.com/clubworldcup/awards/ |archive-date=11 February 2021}}</ref><ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/lewandowski-named-tournament-s-best-player |title=Lewandowski named tournament's best player |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=11 February 2021 |access-date=11 February 2021}}</ref>
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Alibaba Cloud]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|POL}} [[Robert Lewandowski]]<br />([[FC Bayern Munich|Bayern Munich]])
+|{{flagicon|FRA}} [[André-Pierre Gignac]]<br />([[Tigres UANL]])
+|{{flagicon|GER}} [[Joshua Kimmich]]<br />([[FC Bayern Munich|Bayern Munich]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]]
+|}
+
+FIFA also named a [[man of the match]] for the best player in each game at the tournament.<ref>{{cite web |url=https://www.fifa.com/clubworldcup/awards/player-of-the-match |title=Alibaba Cloud Match Award winners |work=[[FIFA]] |date=11 February 2021 |access-date=12 February 2021 |url-status=dead |archive-url=https://web.archive.org/web/20210317071404/https://www.fifa.com/clubworldcup/awards/player-of-the-match |archive-date=17 March 2021}}</ref>
+
+{| class="wikitable sortable"
+|+ [[Alibaba Cloud]] Match Award
+|-
+! Match
+! Man of the match
+! Club
+! Opponent
+|-
+!2
+|{{flagicon|FRA}} [[André-Pierre Gignac]]||{{fbaicon|MEX}} [[Tigres UANL]]||{{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+|-
+!3
+|{{flagicon|EGY}} [[Ayman Ashraf]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]||{{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]]
+|-
+!4
+|{{flagicon|BEL}} [[Edmilson Junior|Edmilson]]||{{fbaicon|QAT}} [[Al-Duhail SC|Al-Duhail]]||{{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+|-
+!5
+|{{flagicon|COL}} [[Luis Enrique Quiñones|Luis Quiñones]]||{{fbaicon|MEX}} [[Tigres UANL]]||{{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|-
+!6
+|{{flagicon|POL}} [[Robert Lewandowski]]||{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+!7
+|{{flagicon|EGY}} [[Mohamed El Shenawy]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]||{{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|-
+!8
+|{{flagicon|GER}} [[Joshua Kimmich]]||{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]||{{fbaicon|MEX}} [[Tigres UANL]]
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/clubworldcup/qatar2020/}}
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:Fifa Club World Cup 2020}}
+[[Category:2020 FIFA Club World Cup| ]]
+[[Category:2021 in men's association football|Club World Cup]]
+[[Category:Men's football competitions in Qatar|2020 Fifa Club World Cup]]
+[[Category:2020–21 in Qatari football]]
+[[Category:February 2021 sports events in Asia]]
+[[Category:Association football events postponed due to the COVID-19 pandemic]]
+[[Category:Sport in Al Rayyan]]
+[[Category:FIFA Club World Cup tournaments|2020]]
+[[Category:2020–21 in German football]]
+[[Category:2020–21 in Egyptian football]]
+[[Category:2020–21 in Mexican football]]
+[[Category:2021 in Brazilian football]]
+[[Category:2020 in Brazilian football]]
+[[Category:2020 in South Korean football]]
+[[Category:2021 in South Korean football]]

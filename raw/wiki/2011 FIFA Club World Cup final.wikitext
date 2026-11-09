@@ -1,0 +1,289 @@
+{{Use dmy dates|date=April 2020}}
+{{Infobox football match
+| title              = 2011 FIFA Club World Cup final
+| image              = 2011 FIFA Club World Cup Final match programme.jpg
+| caption            = Match programme cover
+| event              = [[2011 FIFA Club World Cup]]
+| team1              = [[Santos FC|Santos]]
+| team1association   = {{fbaicon|BRA|size=30px}}
+| team1score         = 0
+| team2              = [[FC Barcelona|Barcelona]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 4
+| details            = 
+| date               = 18 December 2011
+| stadium            = [[International Stadium Yokohama]]
+| city               = [[Yokohama]]<ref name="match_report"/>
+| referee            = [[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])<ref name="match_report"/>
+| attendance         = 68,166<ref name="match_report"/>
+| weather            = Clear night<br />{{convert|9|°C|°F}}<br />42% [[humidity]]
+| previous           = [[2010 FIFA Club World Cup final|2010]]
+| next               = [[2012 FIFA Club World Cup final|2012]]
+}}
+The '''2011 FIFA Club World Cup final''' was the final match of the [[2011 FIFA Club World Cup]], an [[association football]] tournament hosted by [[Japan]]. It was the eighth final of the [[FIFA Club World Cup]], a [[FIFA]]-organized tournament between the winners of the six continental confederations as well as the host nation's league champions.
+
+The final was played between [[CONMEBOL]]'s champion [[Santos FC|Santos]] and [[UEFA]]'s champion [[FC Barcelona|Barcelona]].<ref>{{cite web |url=http://soccernet.espn.go.com/report?id=334215&cc=5739 |title=Barca cruise into Club World Cup final |date=15 December 2011 |work=ESPN Soccernet |access-date=15 December 2011 |archive-date=11 January 2012 |archive-url=https://web.archive.org/web/20120111161200/http://soccernet.espn.go.com/report?id=334215&cc=5739 |url-status=dead }}</ref><ref>{{cite web |url=http://soccernet.espn.go.com/report/_/id/334214?cc=5739 |archive-url=https://archive.today/20120714032511/http://soccernet.espn.go.com/report/_/id/334214?cc=5739 |url-status=dead |archive-date=14 July 2012 |title=Neymar and co into final |date=14 December 2011 |work=ESPN Soccernet |access-date=15 December 2011 }}</ref><ref>{{cite news |title=Lionel Messi v Neymar: how Barcelona and Santos stars compare ahead of Fifa Club World Cup final |url=https://www.telegraph.co.uk/sport/football/competitions/la-liga/8958739/Lionel-Messi-v-Neymar-how-Barcelona-and-Santos-stars-compare-ahead-of-Fifa-Club-World-Cup-final.html |work=Daily Telegraph |date=14 December 2011 |access-date=15 December 2011 |location=London}}</ref> Barcelona defeated Santos 4–0 and won their second [[FIFA Club World Cup]], two years after they won their first one in [[2009 FIFA Club World Cup|2009]].<ref>{{cite web|url=http://www.goal.com/en-gb/match/71757/santos-futebol-clube-vs-barcelona/report|title=Barcelona v Santos|date=18 December 2011|work=goal.com|access-date=21 December 2011}}</ref>
+
+The match was billed as a showdown between Barcelona forward [[Lionel Messi]] and the 19-year-old Santos forward [[Neymar]], who would later go on to become Messi's teammate at both Barcelona and [[Paris Saint-Germain]].<ref>{{cite news |first=Amy |last=Lawrence |title=Neymar has chance to justify hype against Lionel Messi's Barcelona |url=https://www.theguardian.com/football/blog/2011/dec/15/neymar-santos-lionel-messi-pele |work=guardian.co.uk |publisher=Guardian News and Media |date=15 December 2011 |access-date=18 December 2011 |location=London}}</ref> Messi won the "duel" by scoring two goals in the final and being named man of the match as well as player of the tournament.<ref name=BBC/><ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/competitions/la-liga/8963955/Barcelona-v-Santos-Fifa-Club-World-Cup-final-live.html|title=Barcelona v Santos: Fifa Club World Cup final live|date=18 December 2011|work=Daily Telegraph|access-date=21 December 2011|location=London}}</ref>
+
+==Road to final==
+{| class="wikitable"
+|-
+!width=300|{{fbaicon|BRA}} [[Santos FC|Santos]]
+!Team
+!width=300|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=center|[[CONMEBOL]]
+!Confederation
+|align=center|[[UEFA]]
+|-
+|align=center|Winner of the [[2011 Copa Libertadores]]
+!Qualification
+|align=center|Winner of the [[2010–11 UEFA Champions League]]
+|-
+|align=center| –
+![[2011 FIFA Club World Cup#Play-off for quarter-finals|Play-off round]]
+|align=center| –
+|-
+|align=center| –
+![[2011 FIFA Club World Cup#Quarter-finals|Quarter-finals]]
+|align=center| –
+|-
+|align=center|'''3–1''' {{fbaicon|JPN}} [[Kashiwa Reysol]]<br />([[Neymar]] {{goal|19}}, [[Humberlito Borges|Borges]] {{goal|24}}, [[Danilo (footballer, born July 1991)|Danilo]] {{goal|63}})
+![[2011 FIFA Club World Cup#Semi-finals|Semi-finals]]
+|align=center|'''4–0''' {{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]<br />([[Adriano (footballer, born 1984)|Adriano]] {{goal|25||43}}, [[Seydou Keita|Keita]] {{goal|64}}, [[Maxwell (footballer, born 1981)|Maxwell]] {{goal|81}})
+|}
+
+==Team news==
+Barcelona forward [[David Villa]] missed the final after he broke his shinbone in the semi-final victory over Al-Sadd.<ref>{{cite web |url=http://soccernet.espn.go.com/news/story/_/id/996847/barcelona-hit-by-david-villa-leg-break-blow?cc=5739 |title=Barca hit by Villa leg break blow |date=15 December 2011 |work=ESPN Soccernet |access-date=15 December 2011 |archive-date=13 January 2012 |archive-url=https://web.archive.org/web/20120113052112/http://soccernet.espn.go.com/news/story/_/id/996847/barcelona-hit-by-david-villa-leg-break-blow?cc=5739 |url-status=dead }}</ref> He was injured six minutes before half-time after appearing to land awkwardly; Barcelona announced after the match that he had suffered a "fracture to the tibia in his left leg" that could see him sidelined for four to five months.<ref>{{cite news |url=https://www.theguardian.com/football/2011/dec/15/david-villa-six-months-breaking-leg |title=Barcelona's David Villa faces five months out after breaking shinbone |date=15 December 2011 |work=The Guardian |access-date=15 December 2011 |location=London}}</ref>
+
+==Match==
+
+===Summary===
+[[File:Lionel Messi Player of the Year 2011 running.jpg|thumb|Barcelona forward Lionel Messi in action during the second half]]
+In the first half, Barcelona were extremely dominant.<ref name="SI">{{cite news|title=Messi leads Barcelona to 4–0 win over Santos |url=http://sportsillustrated.cnn.com/2011/soccer/12/18/barcelona.santos.ap/index.html |work=SI.com |publisher=Turner Sports & Entertainment Digital Network |date=18 December 2011 |access-date=18 December 2011 |url-status=dead|archive-url=https://web.archive.org/web/20120113135446/http://sportsillustrated.cnn.com/2011/soccer/12/18/barcelona.santos.ap/index.html |archive-date=13 January 2012 }}</ref> Messi and [[Thiago Alcântara|Thiago]] forced saves from Santos goalkeeper [[Rafael Cabral]] in the 12th minute.<ref name="Guardian as it happened">{{cite news |first=Alan |last=Gardner |title=Club World Cup final: Santos 0–4 Barcelona – as it happened |url=https://www.theguardian.com/football/2011/dec/18/world-club-cup-santos-barcelona |work=guardian.co.uk |publisher=Guardian News and Media |date=18 December 2011 |access-date=18 December 2011 |location=London}}</ref> Messi then scored with a chip over Cabral in the 17th minute.<ref name="Guardian as it happened"/> Seven minutes later, [[Xavi (footballer, born 1980)|Xavi]] scored a second with a strike from just inside the [[penalty area]].<ref name=SI/> Santos came back with a short-range effort by [[Humberlito Borges|Borges]] that was saved by Barcelona 'keeper [[Víctor Valdés]], before [[Cesc Fàbregas]] hit the post two minutes later and then scored Barcelona's third goal just before the half ended.<ref name="Guardian as it happened"/>
+
+In the second half, Santos improved<ref name=BBC>{{cite news |title=Barcelona win Fifa Club World Cup |url=https://www.bbc.co.uk/sport/football/16234168 |access-date=18 December 2011 |work=BBC Sport |publisher=British Broadcasting Corporation }}</ref> and teenage star Neymar finally had a chance for Santos in the 57th minute when he was one-on-one with Valdés, but the shot was saved.<ref name="Guardian as it happened"/> Barcelona's [[Dani Alves]] hit the post in the 79th minute before Messi rounded Rafael in the 82nd minute to cap the scoring with his second goal.<ref name="Guardian as it happened"/>
+
+===Details===
+{{football box
+|date=18 December 2011
+|time=19:30 [[Japan Standard Time|JST]]
+|team1=[[Santos FC|Santos]] {{fbaicon|BRA}}
+|score=0–4
+|report=https://www.fifa.com/clubworldcup/matches/round=257437/match=300180901/report.html
+|team2={{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=
+|goals2=[[Lionel Messi|Messi]] {{goal|17||82}}<br />[[Xavi (footballer, born 1980)|Xavi]] {{goal|24}}<br />[[Cesc Fàbregas|Fàbregas]] {{goal|45}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=68,166<ref name="match_report">{{cite web |title=Match Report |url=https://www.fifa.com/mm/document/tournament/competition/01/55/93/65/08_1218_san-bar_fulltime.pdf |archive-url=https://web.archive.org/web/20140402124559/http://www.fifa.com/mm/document/tournament/competition/01/55/93/65/08%5f1218%5fsan-bar%5ffulltime.pdf |url-status=dead |archive-date=2 April 2014 |format=PDF |work=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=28 May 2012 }}</ref>
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])<ref name="match_report"/>
+}}
+
+{| width=92%
+|-
+|{{Football kit|pattern_la=_santos11libh|pattern_b=_santos11libh|pattern_ra=_santos11libh|pattern_sh=_santos11libh|pattern_so=_santos11h|leftarm=FFFFFF|body=FFFFFF|rightarm=FFFFFF|shorts=FFFFFF|socks=FFFFFF|title=Santos}}
+|{{Football kit
+ | pattern_la  = _fcbarcelona1112h
+ | pattern_b   = _fcbarcelona1112E
+ | pattern_ra  = _fcbarcelona1112h
+ | pattern_sh  = _fcbarcelona1112h
+ | pattern_so  = _fcbarcelona1112h
+ | leftarm     = 0000BF
+ | body        = 0000BF
+ | rightarm    = 0000BF
+ | shorts      = 0000BF
+ | socks       = 0000BF
+ | title       = Barcelona
+}}
+|}
+
+{| width=100%
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Rafael Cabral]]
+|-
+|RWB ||'''4''' ||{{flagicon|BRA}} [[Danilo (footballer, born July 1991)|Danilo]] || || {{suboff|31}}
+|-
+|RCB ||'''14'''||{{flagicon|BRA}} [[Bruno Rodrigo]]
+|-
+|CB ||'''2''' ||{{flagicon|BRA}} [[Edu Dracena]] ([[Captain (association football)|c]]) || {{yel|74}}
+|-
+|LCB ||'''6''' ||{{flagicon|BRA}} [[Durval]]
+|-
+|LWB ||'''3''' ||{{flagicon|BRA}} [[Léo (footballer, born 1975)|Léo]]
+|-
+|CM ||'''7''' ||{{flagicon|BRA}} [[Henrique (footballer, born 16 May 1985)|Henrique]]
+|-
+|CM ||'''5''' ||{{flagicon|BRA}} [[Arouca (footballer)|Arouca]]
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Paulo Henrique Ganso|Ganso]] || {{yel|73}} || {{suboff|83}}
+|-
+|LW ||'''11'''||{{flagicon|BRA}} [[Neymar]]
+|-
+|ST ||'''9''' ||{{flagicon|BRA}} [[Humberlito Borges|Borges]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''8''' ||{{flagicon|BRA}} [[Elano]] || || {{subon|31}}
+|-
+|FW ||'''19'''||{{flagicon|BRA}} [[Alan Kardec]] || || {{subon|79}}
+|-
+|MF ||'''18'''||{{flagicon|BRA}} [[Ibson]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA}} [[Muricy Ramalho]]
+|}
+|valign="top"|[[File:Santos vs Barcelona 2011-12-18.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Víctor Valdés]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Dani Alves]]
+|-
+|CB ||'''5''' ||{{flagicon|ESP}} [[Carles Puyol]] ([[Captain (association football)|c]]) || || {{suboff|85}}
+|-
+|CB ||'''3''' ||{{flagicon|ESP}} [[Gerard Piqué]] || {{yel|39}} || {{suboff|56}}
+|-
+|LB ||'''22'''||{{flagicon|FRA|1974}} [[Eric Abidal]]
+|-
+|DM ||'''16'''||{{flagicon|ESP}} [[Sergio Busquets]]
+|-
+|RM ||'''6''' ||{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]]
+|-
+|CM ||'''11'''||{{flagicon|ESP}} [[Thiago Alcântara|Thiago]] || || {{suboff|79}}
+|-
+|CM ||'''4''' ||{{flagicon|ESP}} [[Cesc Fàbregas]]
+|-
+|LM ||'''8''' ||{{flagicon|ESP}} [[Andrés Iniesta]]
+|-
+|CF ||'''10'''||{{flagicon|ARG}} [[Lionel Messi]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''14'''||{{flagicon|ARG}} [[Javier Mascherano]] || {{yel|71}} || {{subon|56}}
+|-
+|FW ||'''17'''||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]] || || {{subon|79}}
+|-
+|DF ||'''24'''||{{flagicon|ESP}} [[Andreu Fontàs]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />Abdukhamidullo Rasulov ([[Uzbekistan Football Federation|Uzbekistan]])<ref name="match_report"/>
+<br />Bakhadyr Kochkarov ([[Football Federation of Kyrgyz Republic|Kyrgyzstan]])<ref name="match_report"/>
+<br />'''Fourth official:'''
+<br />[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])<ref name="match_report"/>
+<br />'''Fifth official:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])<ref name="match_report"/>
+| width=55% valign=top|
+'''Match rules'''<ref name="regulations">{{cite web | url = https://www.fifa.com/mm/document/tournament/competition/01/54/78/53/regulationsfcwc2011_e.pdf | archive-url = https://web.archive.org/web/20111221120417/http://www.fifa.com/mm/document/tournament/competition/01/54/78/53/regulationsfcwc2011%5fe.pdf | url-status = dead | archive-date = 21 December 2011 | title = Regulations – FIFA Club World Cup Japan 2011 | publisher = FIFA.com }}</ref>
+*90 minutes
+*30 minutes of [[Extra time (association football)|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable plainrowheaders" style="text-align: center"
+|+Overall<ref name="stats">{{cite web|title=Match Statistics |url=https://www.fifa.com/tournaments/archive/clubworldcup/japan2011/results/match=300180901/statistics.html |access-date=28 May 2012 |publisher=FIFA |archive-url=https://web.archive.org/web/20120528010203/http://www.fifa.com/tournaments/archive/clubworldcup/japan2011/results/match%3D300180901/statistics.html |archive-date=28 May 2012 |url-status=dead}}</ref> 
+|-
+!scope=col width=100|
+!scope=col width=70| Santos
+!scope=col width=70| Barcelona
+|-
+!scope=row| Goals scored
+| 0
+| 4
+|-
+!scope=row| Total shots 
+| 8
+| 16
+|-
+!scope=row| Shots on target
+| 3
+| 9
+|-
+!scope=row| Ball possession
+| 29%
+| 71%
+|-
+!scope=row| Corner kicks
+| 2
+| 4
+|-
+!scope=row| Fouls committed
+| 13
+| 13
+|-
+!scope=row| Offsides
+| 0
+| 6
+|-
+!scope=row| Yellow cards
+| 2
+| 2
+|-
+!scope=row| Red cards
+| 0
+| 0
+|}
+{{col-2}}
+{{multiple image
+| align     = 
+| total_width  = 650
+| image1    = FC Barcelona Team 2, 2011.jpg
+| caption1  = 
+| image2    = FC Barcelona World Champions 2011.jpg
+| caption2  = 
+| image3    = In the air Barcelona.jpg
+| caption3  =
+| footer = Barcelona players and coaching staff celebrating their win
+}}
+{{col-end}}
+{{-}}
+
+==See also==
+* [[FC Barcelona in international football competitions]]
+* [[Santos FC in South America]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*[https://www.fifa.com/tournaments/mens/clubworldcup/japan2011/match-center FIFA Club World Cup Japan 2011], FIFA.com
+
+{{FIFA Club World Cup}}
+{{Santos FC matches}}
+{{FC Barcelona matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2011}}
+[[Category:2011 in Brazilian football|World]]
+[[Category:2011 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2011]]
+[[Category:Santos FC matches]]
+[[Category:FC Barcelona matches]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:Football matches in Yokohama]]
+[[Category:2011–12 in Spanish men's football|World]]
+[[Category:2010s in Yokohama]]
+[[Category:2011 in Japanese football]]
+[[Category:December 2011 sports events in Japan]]
+[[Category:Football finals in Japan]]
+[[Category:Brazil–Spain sports relations|2011]]

@@ -1,0 +1,213 @@
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+|                   title = 2002 Intercontinental Cup
+| image = ToyotaCup2002.jpg
+|                   team1 = [[Real Madrid CF|Real Madrid]]
+|        team1association = {{flagicon|ESP|size=30px}}
+|              team1score = 2
+|                   team2 = [[Club Olimpia|Olimpia]]
+|        team2association = {{flagicon|PAR|1990|size=30px}}
+|              team2score = 0
+|                    date = 3 December 2002
+|                 stadium = [[International Stadium Yokohama]]
+|                    city = [[Yokohama]]
+|      man_of_the_match1a = [[Ronaldo (Brazilian footballer)|Ronaldo]] ([[Real Madrid CF|Real Madrid]])
+|                 referee = [[Carlos Eugênio Simon]] ([[Brazilian Football Confederation|Brazil]])<ref name="officials">{{cite web |url=http://toyotacup.com/html/news/news_e1203t.html |title=The 23rd Toyota European / South American Cup – Team lists of the match |work=Toyota Cup |date=3 December 2002 |access-date=24 July 2014 |archive-date=15 February 2003 |archive-url=https://web.archive.org/web/20030215080449/http://toyotacup.com/html/news/news_e1203t.html |url-status=dead }}</ref>
+|              attendance = 66,070
+|                 weather =
+|                previous = [[2001 Intercontinental Cup|2001]]
+|                    next = [[2003 Intercontinental Cup|2003]]
+}}
+The '''2002 Intercontinental Cup''' was an [[association football]] match played on 3 December 2002, between [[Real Madrid CF|Real Madrid]] of Spain, winners of the [[2001–02 UEFA Champions League]], and [[Club Olimpia|Olimpia]] of Paraguay, winners of the [[2002 Copa Libertadores]]. The match was played for the first time in the tournament's history at the [[International Stadium Yokohama]] in [[Yokohama]]. This encounter marked a special occasion for Olimpia and Real Madrid, as both teams celebrated their [[Century|centenary]] in 2002.<ref>[http://www.educared.net/primerasnoticias/hemero/2002/marzo/depor/rmadrid/rmadrid.htm Centenario del Real Madrid] {{Webarchive|url=https://web.archive.org/web/20070121002151/http://www.educared.net/primerasnoticias/hemero/2002/marzo/depor/rmadrid/rmadrid.htm |date=21 January 2007 }} {{in lang|es}}</ref><ref>[http://www.conmebol.com/articulos_ver.jsp?id=41607&slangab=S Olimpia, 100 años de triunfos]{{in lang|es}}</ref>
+
+[[Ronaldo (Brazilian footballer)|Ronaldo]] opened the scoring for Real Madrid in the 14th minute shooting low right footed past the goalkeeper from inside the penalty box. The second goal was scored by [[Guti]] in the 84th minute, heading home at the near post after a cross from [[Luís Figo]] on the right.<ref>{{cite web|url=https://www.rsssf.org/tablest/toyotamvp.html |title=Toyota Cup – Most Valuable Player of the Match Award |first=Marcelo |last=Leme de Arruda |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=2 January 2009 |access-date=15 January 2009 |archive-url=https://web.archive.org/web/20081224143201/http://www.rsssf.com/tablest/toyotamvp.html |archive-date=24 December 2008 |url-status=live }}</ref>
+
+==Venue==
+[[File:NISSANSTADIUM20080608.JPG|thumb|left|300px|[[Nissan Stadium (Yokohama)|International Stadium]], [[Yokohama]], hosted the final]]
+{{-}}
+
+==Match details==
+{{football box
+|date=3 December 2002
+|time=19:15 [[Japan Standard Time|JST]]
+|team1=[[Real Madrid CF|Real Madrid]] {{flagicon|ESP}}
+|score=2–0
+|report=https://www.uefa.com/uefachampionsleague/match/69965/
+|team2={{flagicon|PAR|1990}} [[Club Olimpia|Olimpia]]
+|goals1=[[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|14}}<br />[[Guti]] {{goal|84}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=66,070
+|referee=[[Carlos Eugênio Simon]] ([[Brazilian Football Confederation|Brazil]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rmcf0102h
+ | pattern_b  = _rmcf0102H
+ | pattern_ra = _rmcf0102h
+ | pattern_sh = _rmcf0102h
+ | pattern_so = _rmcf0304h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|{{Football kit
+ | pattern_la = _colimpia02a
+ | pattern_b  = _colimpia02a
+ | pattern_ra = _colimpia02a
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Olimpia
+}}
+|}
+
+{| width=100%
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Iker Casillas]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Míchel Salgado]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6'''||{{flagicon|ESP}} [[Iván Helguera]]
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Roberto Carlos]] || {{yel|89}}
+|-
+|DM ||'''24''' ||{{flagicon|FRA|1974}} [[Claude Makélélé]]
+|-
+|DM ||'''19'''||{{flagicon|ARG}} [[Esteban Cambiasso]] || || {{suboff|90}}
+|-
+|RW ||'''10''' ||{{flagicon|POR}} [[Luís Figo]]
+|-
+|AM ||'''5'''||{{flagicon|FRA|1974}} [[Zinedine Zidane]] || || {{suboff|86}}
+|-
+|LW ||'''7'''||{{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+|-
+|CF ||'''11'''||{{flagicon|BRA}} [[Ronaldo (Brazilian footballer)|Ronaldo]] || || {{suboff|82}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[César Sánchez]]
+|-
+|DF ||'''17'''||{{flagicon|ESP}} [[Óscar Miñambres]]
+|-
+|DF ||'''22'''||{{flagicon|ESP}} [[Francisco Pavón]] || || {{subon|90}}
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Guti]] || || {{subon|82}}
+|-
+|MF ||'''16'''||{{flagicon|BRA}} [[Flávio Conceição]]
+|-
+|MF ||'''21'''||{{flagicon|ARG}} [[Santiago Solari]] || || {{subon|86}}
+|-
+|CF ||'''9'''||{{flagicon|ESP}} [[Fernando Morientes]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Vicente del Bosque]]
+|}
+|valign="top"|[[File:Real Madrid vs Olimpia 2002-12-03.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|PAR|1990}} [[Ricardo Tavarelli]]
+|-
+|RB ||'''2''' ||{{flagicon|PAR|1990}} [[Néstor Isasi]]
+|-
+|CB ||'''3''' ||{{flagicon|PAR|1990}} [[Nelson Zelaya]]
+|-
+|CB ||'''15''' ||{{flagicon|PAR|1990}} [[Pedro Benítez (footballer, born 1981)|Pedro Benítez]]
+|-
+|LB ||'''4''' ||{{flagicon|PAR|1990}} [[Juan Ramón Jara]]
+|-
+|RM ||'''16'''||{{flagicon|URU}} [[Sergio Órteman]]
+|-
+|CM ||'''6'''||{{flagicon|PAR|1990}} [[Julio César Enciso (footballer, born 1974)|Julio César Enciso]] ([[Captain (association football)|c]])
+|-
+|CM ||'''5''' ||{{flagicon|PAR|1990}} [[Julio César Cáceres]] || {{yel|34}}
+|-
+|LM ||'''11'''||{{flagicon|ARG}} [[Fernando Gastón Córdoba]] || || {{suboff|65}}
+|-
+|CF ||'''10''' ||{{flagicon|PAR|1990}} [[Miguel Ángel Benítez Pavón|Miguel Ángel Benítez]] || || {{suboff|81}}
+|-
+|CF ||'''8'''||{{flagicon|URU}} [[Rodrigo López (footballer, born 1978)|Rodrigo López]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|PAR|1990}} [[Danilo Aceval]]
+|-
+|DF ||'''14'''||{{flagicon|PAR|1990}} [[José Amarilla]]
+|-
+|MF ||'''7'''||{{flagicon|PAR|1990}} [[Francisco Esteche]]
+|-
+|MF ||'''18'''||{{flagicon|PAR|1990}} [[Carlos Estigarribia]]
+|-
+|FW ||'''9'''||{{flagicon|PAR|1990}} [[Richart Báez]] || || {{subon|65}}
+|-
+|FW ||'''17'''||{{flagicon|PAR|1990}} [[Mauro Caballero (footballer, born 1972)|Mauro Caballero]] || || {{subon|81}}
+|-
+|FW ||'''19'''||{{flagicon|PAR|1990}} [[Gilberto Palacios]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Nery Pumpido]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />{{flagicon|BRA}} [[Ronaldo (Brazilian footballer)|Ronaldo]] (Real Madrid)
+
+'''Assistant referees:'''
+<br />{{flagicon|COL}} Jorge Arango ([[Colombian Football Federation|Colombia]])<ref name="officials"/>
+<br />{{flagicon|PER}} Jorge Jaimes ([[Peruvian Football Federation|Peru]])<ref name="officials"/>
+<br />'''Fourth official:'''
+<br />{{flagicon|JPN}} [[Toru Kamikawa]] ([[Japan Football Association|Japan]])<ref name="officials"/>
+|}
+
+==See also==
+*[[2001–02 UEFA Champions League]]
+*[[2002 Copa Libertadores]]
+*[[2002–03 Real Madrid CF season]]
+*[[Real Madrid CF in international football]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20071201032333/http://www.fifa.com/classicfootball/clubs/matchreport/newsid=512302.html#toyota+cup+2002 FIFA Article]
+*[http://www.conmebol.com/articulos_ver.jsp?id=47987&slangab=S Copa Europea/Sudamericana – Toyota 2002] [[CONMEBOL]].com
+*[https://web.archive.org/web/20030817225646/http://www.toyotacup.com:80/html/whatsnew/news23/img/scoresheet_e.pdf Match report]
+
+{{Intercontinental Cup (football)}}
+{{Real Madrid matches}}
+{{Club Olimpia matches}}
+
+[[Category:2002–03 in European men's continental football|Intercontinental Cup]]
+[[Category:2002 in South American men's continental football|Intercontinental Cup]]
+[[Category:2002 in Japanese football|Intercontinental Cup]]
+[[Category:Intercontinental Cup (1960–2004)]]
+[[Category:Real Madrid CF matches|Intercontinental Cup 2002]]
+[[Category:Club Olimpia matches|Intercontinental Cup 2002]]
+[[Category:Intercontinental Cup (football) matches hosted by Japan|2002]]
+[[Category:2002–03 in Spanish men's football|Inter]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:Football in Yokohama]]
+[[Category:December 2002 sports events in Japan]]
+[[Category:2000s in Yokohama]]
+[[Category:2002 in Paraguayan football]]
+[[Category:Paraguay–Spain sports relations]]
+[[Category:2002 in association football]]

@@ -1,0 +1,262 @@
+{{Infobox football match
+| title                   = 1996 UEFA Cup Winners' Cup final
+| image                   = 1996 UEFA Cup Winners' Cup Final programme.jpg
+| caption                 = Match programme cover
+| event                   = [[1995–96 UEFA Cup Winners' Cup]]
+| team1                   = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| team1association        = {{flagicon|FRA|1974|size=30px}}
+| team1score              = 1
+| team2                   = [[SK Rapid Wien|Rapid Wien]]
+| team2association        = {{flagicon|AUT|size=30px}}
+| team2score              = 0
+| details                 = 
+| date                    = 8 May 1996
+| stadium                 = [[King Baudouin Stadium]]
+| city                    = [[Brussels]]
+| man_of_the_match1a      =
+| man_of_the_match1atitle =
+| man_of_the_match1b      =
+| man_of_the_match1btitle =
+| referee                 = [[Pierluigi Pairetto]] ([[Italian Football Federation|Italy]])
+| attendance              = 38,402
+| weather                 =
+| previous                = [[1995 UEFA Cup Winners' Cup final|1995]]
+| next                    = [[1997 UEFA Cup Winners' Cup final|1997]]
+}}
+
+The '''1996 UEFA Cup Winners' Cup final''' was a [[Association football|football]] match contested between [[Paris Saint-Germain FC|Paris Saint-Germain]] of [[France]] and [[SK Rapid Wien|Rapid Wien]] of [[Austria]]. It was the final match of the [[1995–96 UEFA Cup Winners' Cup]] and the 36th [[UEFA Cup Winners' Cup|Cup Winners' Cup]] final. The final was held at [[King Baudouin Stadium]] in [[Brussels]] on 8 May 1996, hosting its first European club final since the scenes of the [[Heysel Stadium disaster]] eleven years prior. Paris Saint-Germain won the match 1–0, thanks to a free kick from [[Bruno Ngotty]].
+
+==Route to the final==
+{{details|1995–96 UEFA Cup Winners' Cup}}
+
+{|class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{flagicon|FRA|1974}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+!Round
+!colspan=4|{{flagicon|AUT}} [[SK Rapid Wien|Rapid Wien]]
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|Stages
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{flagicon|NOR}} [[Molde FK|Molde]]
+|6–2
+|3–2 (A)
+|3–0 (H)
+|style="background:#c1e0ff;"|[[1995–96 UEFA Cup Winners' Cup#First round|First round]]
+|align=left|{{flagicon|ROU}} [[FC Petrolul Ploiești|Petrolul Ploiești]]
+|3–1
+|3–1 (H)
+|0–0 (A)
+|-
+|align=left|{{flagicon|SCO}} [[Celtic F.C.|Celtic]]
+|4–0
+|1–0 (H)
+|3–0 (A)
+|style="background:#c1e0ff;"|[[1995–96 UEFA Cup Winners' Cup#Second round|Second round]]
+|align=left|{{flagicon|POR}} [[Sporting CP]]
+|4–2
+|0–2 (A)
+|4–0 ([[Overtime (sports)#Association football|aet]]) (H)
+|-
+|align=left|{{flagicon|ITA}} [[Parma Calcio 1913|Parma]]
+|3–2
+|0–1 (A)
+|3–1 (H)
+|style="background:#c1e0ff;"|[[1995–96 UEFA Cup Winners' Cup#Quarter-finals|Quarter-finals]]
+|align=left|{{flagicon|RUS}} [[FC Dynamo Moscow|Dynamo Moscow]]
+|4–0
+|1–0 (A)
+|3–0 (H)
+|-
+|align=left|{{flagicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|2–0
+|1–0 (A)
+|1–0 (H)
+|style="background:#c1e0ff;"|[[1995–96 UEFA Cup Winners' Cup#Semi-finals|Semi-finals]]
+|align=left|{{flagicon|NED}} [[Feyenoord]]
+|4–1
+|1–1 (A)
+|3–0 (H)
+|}
+
+==Match==
+===Details===
+{{Football box
+| date         = 8 May 1996
+| time         = 20:15 [[Central European Summer Time|CEST]]
+| team1        = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA|1974}}
+| score        = 1–0
+| report       = https://www.uefa.com/uefaeuropaleague/season=0/matches/round=152/match=52542/lineups/index.html
+| team2        = {{flagicon|AUT}} [[SK Rapid Wien|Rapid Wien]]
+| goals1       = [[Bruno Ngotty|Ngotty]] {{goal|29}}
+| goals2       =
+| stadium      = [[King Baudouin Stadium]], [[Brussels]]
+| attendance   = 38,402<ref>{{UEFA match attendance|52542|UEFA Cup Winners' Cup 1996 Final|access-date=16 December 2020}}</ref>
+| referee      = [[Pierluigi Pairetto]] ([[Italian Football Federation|Italy]])
+}}
+
+{| width=92% |
+|-
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _psg9596h
+| pattern_ra =
+| leftarm    = 002E78
+| body       = 002E78
+| rightarm   = 002E78
+| shorts     = 002E78
+| socks      = BE092C
+| title      = Paris Saint-Germain
+}}
+|{{Football kit
+ | pattern_la = _rapidwien9596h
+ | pattern_b  = _rapidwien9596h
+ | pattern_ra = _rapidwien9596h
+ | pattern_so = _rapidwien9596 finalC2 - Copie
+ | title      = Rapid Wien
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|FRA|1974}} [[Bernard Lama]] ([[Captain (association football)|c]])
+|-
+|ML ||'''3''' ||{{flagicon|FRA|1974}} [[Patrick Colleter]]
+|-
+|CB ||'''4''' ||{{flagicon|FRA|1974}} [[Bruno Ngotty]]
+|-
+|CB ||'''2''' ||{{flagicon|FRA|1974}} [[Paul Le Guen]]
+|-
+|CB ||'''5''' ||{{flagicon|FRA|1974}} [[Alain Roche (footballer)|Alain Roche]]
+|-
+|RM ||'''9''' ||{{flagicon|FRA|1974}} [[Laurent Fournier]] || {{yel|56}} ||  {{suboff|77}}
+|-
+|DM ||'''7''' ||{{flagicon|FRA|1974}} [[Daniel Bravo]]
+|-
+|DM ||'''8''' ||{{flagicon|FRA|1974}} [[Vincent Guérin]]  
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Raí]] || || {{suboff|12}}
+|-
+|CF ||'''6''' ||{{flagicon|FRA|1974}} [[Youri Djorkaeff]]
+|-
+|CF ||'''11'''||{{flagicon|FRA|1974}} [[Patrice Loko]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW ||'''12'''||{{flagicon|FRA|1974}} [[Pascal Nouma]]
+|-
+|DF ||'''13'''||{{flagicon|Senegal}} [[Oumar Dieng]]
+|-
+|DF ||'''14'''||{{flagicon|FRA|1974}} [[Francis Llacer]] || || {{subon|77}}
+|-
+|FW ||'''15'''||{{flagicon|PAN}} [[Julio Dely Valdés]] || || {{subon|12}}
+|-
+|GK ||'''16'''||{{flagicon|FRA|1974}} [[Richard Dutruel]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA|1974}} [[Luis Fernández]]
+|}
+|valign="top"|[[File:PSG vs Rapid Wien 1996-05-08.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|AUT}} [[Michael Konsel]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||{{flagicon|AUT}} [[Michael Hatz]] || {{yel|54}}
+|-
+|CB ||'''4''' ||{{flagicon|BUL}} [[Trifon Ivanov]]
+|-
+|CB ||'''5''' ||{{flagicon|AUT}} [[Peter Schöttel]] || {{yel|37}}
+|-
+|RM ||'''3''' ||{{flagicon|AUT}} [[Peter Guggi]]
+|-
+|DM ||'''11'''||{{flagicon|AUT}} [[Andreas Heraf]] || {{yel|67}}
+|-
+|DM ||'''10''' ||{{flagicon|AUT}} [[Dietmar Kühbauer]]
+|-
+|AM ||'''6''' ||{{flagicon|AUT}} [[Peter Stöger]] || {{yel|84}}
+|-
+|LM ||'''8''' ||{{flagicon|AUT}} [[Stephan Marasek]]
+|-
+|CF ||'''7'''||{{flagicon|AUT}} [[Christian Stumpf]] || || {{suboff|46}}
+|-
+|CF ||'''9''' ||{{flagicon|GER}} [[Carsten Jancker]] || {{yel|34}}
+|-
+|colspan= 3|'''Substitutes:'''
+|-
+|MF ||'''12'''||{{flagicon|AUT}} [[Oliver Lederer]]
+|-
+|DF ||'''13'''||{{flagicon|AUT}} René Haller
+|-
+|MF ||'''14'''||{{flagicon|AUT}} [[Zoran Barisic]] || || {{subon|46}}
+|-
+|MF ||'''15'''||{{flagicon|RUS}} [[Sergei Mandreko]]
+|-
+|GK ||'''16'''||{{flagicon|AUT}} [[Raimund Hedl]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|AUT}} [[Ernst Dokupil]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''[[Assistant referee (association football)|Assistant referee]]s:'''
+<br />{{flagicon|ITA}} Donato Nicoletti ([[Italian Football Federation|Italy]])
+<br />{{flagicon|ITA}} Tullio Manfredini ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />{{flagicon|ITA}} Marcello Nicchi ([[Italian Football Federation|Italy]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of golden goal extra time if necessary.
+*Penalty shoot-out if scores still level.
+*Five named substitutes.
+*Maximum of three substitutions.
+|}
+
+==See also==
+*[[1996 UEFA Champions League final]]
+*[[1996 UEFA Cup final]]
+*[[Paris Saint-Germain F.C. in international football]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.rsssf.org/tablese/ec2.html UEFA Cup Winners' Cup results] at [[Rec.Sport.Soccer Statistics Foundation]]
+
+{{UEFA Cup Winners' Cup seasons}}
+{{1995–96 in European football (UEFA)}}
+{{Paris Saint-Germain F.C. matches}}
+{{SK Rapid Wien matches}}
+
+{{DEFAULTSORT:UEFA Cup Winners' Cup final}}
+[[Category:1995–96 UEFA Cup Winners' Cup|Final]]
+[[Category:UEFA Cup Winners' Cup finals|1996]]
+[[Category:1995–96 in French men's football]]
+[[Category:1995–96 in Austrian football]]
+[[Category:1995–96 in Belgian football]]
+[[Category:Paris Saint-Germain FC matches]]
+[[Category:SK Rapid Wien matches]]
+[[Category:1990s in Brussels]]
+[[Category:Football matches in Brussels]]
+[[Category:May 1996 sports events in Europe]]
+[[Category:Austria–France sports relations]]
+
+{{Europe-footy-competition-stub}}

@@ -1,0 +1,243 @@
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox football match
+| title              = 2002 Football League Cup final
+| image              = 2002 Football League Cup Final match programme cover.jpg
+| caption            = Match programme cover
+| event              = [[2001–02 Football League Cup]]
+| team1              = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+| team1association   = 
+| team1score         = 2
+| team2              = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| team2association   = 
+| team2score         = 1
+| details            = 
+| date               = 24 February 2002
+| stadium            = [[Millennium Stadium]]
+| city               = [[Cardiff]]
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Brad Friedel]] (Blackburn Rovers)<ref name="Man of match"/>
+| referee            = [[Graham Poll]] ([[Hertfordshire County Football Association|Hertfordshire]])<ref name=BBC-report/>
+| attendance         = 72,500<ref name=BBC-report/>
+| weather            = 
+| previous           = [[2001 Football League Cup final|2001]]
+| next               = [[2003 Football League Cup final|2003]]
+}}
+The '''2002 Football League Cup final''' was played between [[Blackburn Rovers F.C.|Blackburn Rovers]] and [[Tottenham Hotspur F.C.|Tottenham Hotspur]] at the Millennium Stadium, Cardiff, on Sunday, 24 February 2002. Blackburn won the match 2–1 in what was the club's first appearance in the competition's final.<ref name=BBC-report>{{cite news|url=https://news.bbc.co.uk/sport1/hi/football/worthington_cup/1834988.stm|title=Cole strike stuns Spurs|date=24 February 2002|work=BBC Sport|publisher=British Broadcasting Corporation|access-date=8 May 2012}}</ref>
+
+Tottenham were forced to produce a one-off yellow shirt for the final when [[The Football League]] decided both of their home and away strips, respectively white and light blue, clashed with Blackburn's blue-and-white home strip.
+
+Blackburn were without defender [[Craig Short]] and midfielders [[Gary Flitcroft]] and [[Tugay Kerimoğlu]] due to suspension. This led to 38 year-old veteran striker [[Mark Hughes]] starting in central midfield. Blackburn were also without injured back-up goalkeeper [[Alan Kelly Jr.|Alan Kelly]] and cup-tied right-back [[Lucas Neill]].
+
+Blackburn opened the scoring with a goal from [[Matt Jansen]], but [[Christian Ziege]] soon equalised for Spurs. [[Andy Cole]] scored the winner in the 68th minute with a typical instinctive strike after mistakes in the Spurs defence, mainly from [[Ledley King]]. [[Les Ferdinand]] could have made the match square after a close one-on-one chance with Friedel, but failed to make anything of it. In the final minute [[Teddy Sheringham]] had a claim for a penalty turned down by referee Graham Poll.<ref name=BBC-report/>
+{{TOC left}}
+{{clear}}
+
+==Road to Cardiff==
+{{col-begin}}
+{{col-2}}
+{| class="wikitable" style="font-size:95%"
+|+ <big>Blackburn Rovers</big>
+|'''Round 2<ref name=bye>Clubs in the [[Premier League]] receive a bye to the second or third round</ref>''' ||align=right| Blackburn ||align=center|2–0|| [[Oldham Athletic|Oldham]]
+|-
+|'''Round 3''' ||align=right| Blackburn ||2–1 <small>([[Extra time|a.e.t.]])</small>|| [[Middlesbrough F.C.|Middlesbrough]]
+|-
+|'''Round 4'''||align=right| Blackburn ||align=center|2–0|| [[Manchester City F.C.|Manchester City]]
+|-
+|'''Quarter-final'''||align=right| Blackburn ||align=center|4–0|| [[Arsenal F.C.|Arsenal]]
+|-
+|'''Semi-final (1st leg)'''||align=right| [[Sheffield Wednesday]] ||align=center|1–2|| Blackburn
+|-
+|'''Semi-final (2nd leg)'''||align=right| Blackburn ||align=center|4–2|| Sheffield Wednesday
+|-
+|''Note:''||colspan=3 align=center|'''(Blackburn won 6–3 on aggregate)'''
+|}
+{{col-2}}
+{| class="wikitable" style="font-size:95%"
+|+ <big>Tottenham Hotspur</big>
+|'''Round 2<ref name=bye/>''' ||align=right|Tottenham||2–0||[[Torquay United|Torquay]]
+|-
+|'''Round 3''' ||align=right|[[Tranmere Rovers|Tranmere]]||0–4||Tottenham
+|-
+|'''Round 4''' ||align=right|[[Fulham F.C.|Fulham]]||1–2||Tottenham
+|-
+|'''Quarter-final''' ||align=right|Tottenham||6–0||[[Bolton Wanderers|Bolton]]
+|-
+|'''Semi-final (1st leg)''' ||align=right| [[Chelsea F.C.|Chelsea]] ||2–1||Tottenham
+|-
+|'''Semi-final (2nd leg)''' ||align=right| Tottenham ||5–1|| Chelsea
+|-
+|''Note:''||colspan=3 align=center|'''(Tottenham won 6–3 on aggregate)'''
+|}
+{{col-end}}
+
+==Match==
+
+===Details===
+{{football box
+| date = 24 February 2002
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+| score = 2–1
+| report = [https://news.bbc.co.uk/sport1/hi/football/worthington_cup/1834988.stm Report]
+| team2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| goals1 = [[Matt Jansen|Jansen]] {{goal|25}}<br />[[Andy Cole|Cole]] {{goal|68}}
+| goals2 = [[Christian Ziege|Ziege]] {{goal|33}}
+| stadium = [[Millennium Stadium]], Cardiff
+| attendance = 72,500<ref name=BBC-report/>
+| referee = [[Graham Poll]] ([[Hertfordshire County Football Association|Hertfordshire]])<ref name=BBC-report/>
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+
+{| width=100%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _whitehalf
+ | pattern_ra = 
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Blackburn Rovers
+}}
+|{{Football kit
+ | pattern_la = _spurs0102t
+ | pattern_b  = _spurs0102t
+ | pattern_ra = _spurs0102t
+ | pattern_sh = _spurs0102h
+ | pattern_so = _3_stripes_white
+ | leftarm    = 01023B
+ | body       = FFD63E
+ | rightarm   = 01023B
+ | shorts     = 01023B
+ | socks      = 01023B
+ | title      = Tottenham Hotspur
+}}
+|}
+
+{| width=100%
+|valign=top width=50%|
+{| style=font-size:90% cellspacing=0 cellpadding=0
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|USA}} [[Brad Friedel]]
+|-
+|RB ||'''28'''||{{flagicon|ENG}} [[Martin Taylor (footballer, born 1979)|Martin Taylor]]
+|-
+|CB ||'''4''' ||{{flagicon|NOR}} [[Henning Berg]] ([[Captain (association football)|c]])
+|-
+|CB ||'''14'''||{{flagicon|SWE}} [[Nils-Eric Johansson]]
+|-
+|LB ||'''5''' ||{{flagicon|NOR}} [[Stig Inge Bjørnebye]]
+|-
+|RM ||'''18'''||{{flagicon|NIR}} [[Keith Gillespie]] || || {{suboff|75}}
+|-
+|CM ||'''12'''||{{flagicon|WAL}} [[Mark Hughes]]
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[David Dunn]]
+|-
+|LM ||'''11'''||{{flagicon|IRL}} [[Damien Duff]]
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Andy Cole]]
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[Matt Jansen]] || || {{suboff|74}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''27'''||{{flagicon|ENG}} [[Alan Miller (footballer)|Alan Miller]]
+|-
+|DF ||'''2''' ||{{flagicon|ENG}} [[John Curtis (footballer born 1978)|John Curtis]]
+|-
+|MF ||'''15'''||{{flagicon|ENG}} [[Craig Hignett]] || || {{subon|75}}
+|-
+|MF ||'''16'''||{{flagicon|IRL}} [[Alan Mahon]]
+|-
+|FW ||'''17'''||{{flagicon|ESP}} [[Yordi]] || || {{subon|74}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|SCO}} [[Graeme Souness]]
+|}
+|valign="top"|[[File:Blackburn vs Tottenham 2002-02-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|SCO}} [[Neil Sullivan]]
+|-
+|RWB||'''3''' ||{{flagicon|ARG}} [[Mauricio Taricco]] || {{yel}} || {{suboff|79}}
+|-
+|CB ||'''26'''||{{flagicon|ENG}} [[Ledley King]]
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Chris Perry (English footballer)|Chris Perry]] 
+|-
+|CB ||'''18'''||{{flagicon|WAL}} [[Ben Thatcher]]
+|-
+|LWB||'''23'''||{{flagicon|GER}} [[Christian Ziege]] || {{yel}}
+|-
+|CM ||'''7''' ||{{flagicon|ENG}} [[Darren Anderton]]
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Tim Sherwood]] || {{yel}}
+|-
+|AM ||'''14'''||{{flagicon|URU}} [[Gustavo Poyet]] || || {{suboff|84}}
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[Teddy Sheringham]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Les Ferdinand]]
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|USA}} [[Kasey Keller]] 
+|-
+|DF ||'''30'''||{{flagicon|ENG}} [[Anthony Gardner (footballer)|Anthony Gardner]] 
+|-
+|MF ||'''29'''||{{flagicon|WAL}} [[Simon Davies (footballer born 1979)|Simon Davies]] || || {{subon|79}}
+|-
+|FW ||'''11'''||{{flagicon|UKR}} [[Serhii Rebrov]]
+|-
+|FW ||'''16'''||{{flagicon|NOR}} [[Steffen Iversen]] || || {{subon|84}} 
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|ENG}} [[Glenn Hoddle]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|-
+|style="width:50%;vertical-align:top"|
+'''Man of the match'''
+*[[Brad Friedel]] (Blackburn Rovers)<ref name="Man of match">{{cite web|title=Alan Hardaker Trophy Winners |url=http://www.football-league.co.uk/page/AlanHardakerTrophyWinners/0,,10794~1354852,00.html |publisher=The Football League |date=26 February 2012 |access-date=8 May 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120421013843/http://www.football-league.co.uk/page/AlanHardakerTrophyWinners/0%2C%2C10794~1354852%2C00.html |archive-date=21 April 2012 }}</ref>
+|style="width:50%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra-time if necessary
+*Penalty shootout if scores still level
+*Five named substitutes
+*Maximum of three substitutions
+|}
+
+==References==
+{{Reflist}}
+
+{{EFL Cup}}
+{{2001–02 in English football}}
+{{Blackburn Rovers F.C. matches}} 
+{{Tottenham Hotspur F.C. matches}}
+
+[[Category:2001–02 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:EFL Cup finals]]
+[[Category:Blackburn Rovers F.C. matches|League Cup final 2002]]
+[[Category:Tottenham Hotspur F.C. matches|League Cup final 2002]]
+[[Category:2000s in Cardiff]]
+[[Category:February 2002 sports events in the United Kingdom]]
+[[Category:Football finals in Wales]]
+[[Category:Football competitions in Cardiff]]

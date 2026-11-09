@@ -1,0 +1,660 @@
+{{Short description|Football match}}
+{{Use dmy dates|date=June 2020}}
+{{Infobox football match
+| title = 2021 UEFA Europa League final
+| image = 2021 UEFA Europa League Final programme.jpg
+| image_size = frameless
+| caption = Match programme cover
+| event = [[2020–21 UEFA Europa League]]
+| team1 = [[Villarreal CF|Villarreal]]
+| team1association = {{fbaicon|ESP|size=30px}}
+| team1score = 1
+| team2 = [[Manchester United F.C.|Manchester United]]
+| team2association = {{fbaicon|ENG|size=30px}}
+| team2score = 1
+| details = After [[Overtime (sports)#Association football|extra time]]<br>Villarreal won 11–10 on [[Penalty shoot-out (association football)|penalties]]
+| date = {{Start date|2021|5|26|df=y}}
+| stadium = [[Gdańsk Stadium|Stadion Gdańsk]]
+| city = [[Gdańsk]]
+| man_of_the_match1a = [[Étienne Capoue]] (Villarreal)<ref name="MOTM">{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0269-125f1911d030-00b43a590225-1000/ |title=Étienne Capoue named official UEFA Europa League final man of the match |website=UEFA.com |publisher=Union of European Football Associations |date=26 May 2021 |access-date=26 May 2021}}</ref>
+| referee = [[Clément Turpin]] ([[French Football Federation|France]])<ref name="officials">{{cite news |url=https://www.uefa.com/news-media/news/0269-12424b21d5b7-861f73160929-1000/ |title=Referee teams appointed for UEFA Champions League and UEFA Europa League finals |website=UEFA.com|publisher=Union of European Football Associations |date=12 May 2021 |access-date=12 May 2021}}</ref>
+| attendance = 9,412<ref name="report"/>
+| weather = Partly cloudy night<br />{{convert|11|°C|°F}}<br />45% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2021/2029909_LU.pdf |title=Tactical Lineups – Final – Wednesday 26 May 2021 |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=26 May 2021 |access-date=26 May 2021}}</ref>
+| previous = [[2020 UEFA Europa League final|2020]]
+| next = [[2022 UEFA Europa League final|2022]]
+}}
+The '''2021 UEFA Europa League final''' was the final match of the [[2020–21 UEFA Europa League]], the 50th season of [[Europe]]'s secondary club [[association football|football]] tournament organised by [[UEFA]], and the 12th season since it was renamed from the UEFA Cup to the [[UEFA Europa League]]. It was played on 26 May 2021 at the [[Gdańsk Stadium|Stadion Gdańsk]] in [[Gdańsk]], Poland, between Spanish club [[Villarreal CF|Villarreal]] and English club [[Manchester United F.C.|Manchester United]].
+
+The final was originally scheduled to be played at the [[Ramón Sánchez Pizjuán Stadium|Estadio Ramón Sánchez Pizjuán]] in [[Seville]], Spain. However, due to the postponement and relocation of the [[2020 UEFA Europa League final|2020 final]] to Cologne, the final hosts were shifted back a year, with Gdańsk instead hosting the 2021 final, as a result of the [[COVID-19 pandemic in Europe]].<ref name="Exco17June">{{cite news |url=https://www.uefa.com/news-media/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/ |title=UEFA competitions to resume in August |website=UEFA.com|publisher=Union of European Football Associations |date=17 June 2020 |access-date=17 June 2020}}</ref> A capacity limit of 25% was agreed for the 41,620-seater [[Gdańsk Stadium|Stadion Gdańsk]], resulting in an attendance of 9,412.<ref>{{Cite web |last=UEFA.com |date=26 May 2021 |title=All you need to know: 2021 Europa League final |url=https://www.uefa.com/uefaeuropaleague/news/0269-12303551db2d-57a593f090ff-1000--all-you-need-to-know-2021-europa-league-final/ |access-date=16 June 2026 |website=UEFA.com|language=en}}</ref>
+
+Villarreal won the match 11–10 on penalties following a 1–1 draw after [[Overtime (sports)#Association football|extra time]], thus winning its first trophy in the competition.<ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0269-125f1aaaeb0d-c59e8a06ac14-1000--villarreal-1-1-manchester-united-aet-11-10-pens-spanish-side/ |title=Villarreal 1-1 Manchester United (aet, 11-10 pens): Spanish side win Europa League in marathon shoot-out |website=UEFA.com |publisher=Union of European Football Associations |date=26 May 2021 |access-date=26 May 2021}}</ref> As winners, Villarreal earned the right to play against the winners of the [[2020–21 UEFA Champions League]], [[Chelsea F.C.|Chelsea]], in the [[2021 UEFA Super Cup]]. They also qualified for the group stage of the [[2021–22 UEFA Champions League]].<ref name="uefa1819">{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0242-0e16a85014cb-5ffe48223b95-1000--champions-league-and-europa-league-changes-next-season/ |title=Champions League and Europa League changes next season |website=UEFA.com |publisher=Union of European Football Associations |date=27 February 2018 |access-date=27 February 2018}}</ref>
+
+==Venue==
+[[File:Stadion PGE Gdańsk - panoramio.jpg|thumb|250x250px|The [[Stadion Gdańsk]] in [[Gdańsk]] hosted the final.]]
+The match was played at the [[Stadion Gdańsk]] in [[Gdańsk]], Poland. At the meeting of the UEFA Executive Committee in Kyiv in May 2018, the stadium was initially selected to host the [[2020 UEFA Europa League final]],<ref>{{cite news |title=Istanbul to host 2020 UEFA Champions League Final |url=https://www.uefa.com/news-media/news/0245-0f8e60d11f0f-78765b792753-1000--istanbul-to-host-2020-uefa-champions-league-final/ |website=UEFA.com |publisher=Union of European Football Associations |date=24 May 2018 |access-date=2 February 2021 }}</ref> but when the COVID-19 pandemic forced UEFA to move the latter stages of the [[2019–20 UEFA Europa League|2019–20 competition]] to Germany, the UEFA Executive Committee delayed [[Gdańsk Stadium]]'s hosting of the Europa League final to 2021. The original venues for the 2021 and [[2022 UEFA Europa League final|2022 finals]] were also delayed by a year.<ref>{{cite news |title=Europa League to resume on 5 August, final on 21 August |url=https://www.uefa.com/uefaeuropaleague/news/025e-0f9a414021a7-00e4ef531ed6-1000/ |website=UEFA.com |publisher=Union of European Football Associations |date=17 June 2020 |access-date=2 February 2021 }}</ref>
+
+This was the first UEFA club match hosted at the stadium, which was one of the venues for [[UEFA Euro 2012]].<ref name=":0">{{cite news |title=2021 UEFA Europa League final: Gdańsk |url=https://www.uefa.com/uefaeuropaleague/news/0245-0e98d40b6826-86b29d622244-1000--2021-final-gdansk/ |website=UEFA.com |publisher=Union of European Football Associations |access-date=2 February 2021 }}</ref> It was the second UEFA club competition final to be played in Poland, as the [[2015 UEFA Europa League final]] was played at the [[Kazimierz Górski National Stadium|National Stadium]] in [[Warsaw]]. When the stadium was selected to host the 2020 final, it was known as Stadion Energa Gdańsk, so due to UEFA sponsorship regulations, marketing materials for the match referred to the venue as Gdańsk Stadium.<ref name="el20"/> Although the sponsorship deal with Energa was ended in November 2020, the stadium continued to be known as Gdańsk Stadium for the final.<ref name=":0"/>
+
+===Host selection===
+{{for|the details on the selection of Seville as the original host for the final|2022 UEFA Europa League final#Host selection}}
+
+An open bidding process was launched on 22 September 2017 by UEFA to select the venues of the finals of the UEFA Champions League, UEFA Europa League, and UEFA Women's Champions League in 2020. Associations had until 31 October 2017 to express interest, and bid dossiers had to be submitted by 1 March 2018. Associations hosting matches at [[UEFA Euro 2020]] were not allowed to bid for the 2020 UEFA Europa League final.
+
+UEFA announced on 3 November 2017 that two associations had expressed interest in hosting the 2020 UEFA Europa League final.<ref>{{cite web |url=https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2516602.html |archive-url=https://web.archive.org/web/20171106015154/http://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2516602.html |url-status=dead |archive-date=6 November 2017 |title=Six associations interested in hosting 2020 club finals |website=UEFA.com |publisher=Union of European Football Associations|date=3 November 2017}}</ref>
+
+{| class="wikitable sortable"
+|+Bidding associations for final
+|-
+! Association !! Stadium !! City !! Capacity !! Notes
+|- bgcolor=#ccffcc
+| {{fba|POL}} || [[Stadion Gdańsk]]|| [[Gdańsk]] || 43,615 ||
+|-
+| {{fba|POR}} || [[Estádio do Dragão]] || [[Porto]] || 50,035 || Also bid for [[2020 UEFA Super Cup]]
+|}
+
+The [[Stadion Gdańsk]] in Gdańsk was selected by the UEFA Executive Committee during their meeting in [[Kyiv]] on 24 May 2018.<ref name="venue">{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0255-0e99f554980e-63465ec08dbc-1000--2022-uefa-europa-league-final-to-be-held-in-seville/ |title=Seville to host 2021 UEFA Europa League final |website=UEFA.com |publisher=Union of European Football Associations |date=24 September 2019 |access-date=28 September 2019}}</ref><ref name="el20">{{cite web |url=https://www.uefa.com/uefaeuropaleague/news/0245-0e98d40b6826-86b29d622244-1000--2021-uefa-europa-league-final-gdansk/ |title=Gdansk to host 2020 UEFA Europa League final |website=UEFA.com |publisher=Union of European Football Associations |date=24 May 2018 |access-date=28 September 2019}}</ref>
+
+On 17 June 2020, the UEFA Executive Committee announced that due to the postponement and relocation of the [[2020 UEFA Europa League final|2020 final]], Gdańsk would instead host the 2021 final.<ref name="Exco17June"/>
+
+==Background==
+This was Villarreal's fourth ever final in an official [[Tournament#Knockout tournaments|knockout tournament]], having played previously three in [[UEFA competitions]], all in the [[UEFA Intertoto Cup]], winning it in [[2003 UEFA Intertoto Cup|2003]] and [[2004 UEFA Intertoto Cup|2004]].<ref>{{cite web |url=https://www.uefa.com/news-media/mediaservices/informationkits/ |title=UEFA Super Cup - 2021 season |type=Press Kit |website=UEFA.com|publisher=Union of European Football Associations |date=11 August 2021}}</ref><ref>{{cite web |last=Tejedor Carnicero |first=José Vicente |url=https://www.rsssf.org/tabless/spancuphist.html |title=Spain – List of Cup Finals |work=[[RSSSF]] |date=22 April 2021 |access-date=6 May 2021}}</ref><ref>{{cite web |last=Torre |first=Raúl |url=https://www.rsssf.org/tabless/spanleagcuphist.html |title=Spain – List of League Cup Finals |publisher=[[RSSSF]] |date=29 January 2009 |access-date=6 May 2021}}</ref><ref>{{cite web |last1=Tejedor Carnicero |first1=José Vicente |last2=Torre |first2=Raúl |last3=Lozano Ferrer |first3=Carles |url=https://www.rsssf.org/tabless/spansupcuphist.html |title=Spain – List of Super Cup Finals |publisher=[[RSSSF]] |date=28 January 2021 |access-date=6 May 2021}}</ref> On the other hand, this was head coach [[Unai Emery]]'s fifth European final, all in the UEFA Europa League; he won three successive titles with [[Sevilla FC|Sevilla]] in [[2014 UEFA Europa League final|2014]], [[2015 UEFA Europa League final|2015]] and [[2016 UEFA Europa League final|2016]], before losing in [[2019 UEFA Europa League final|2019]] with [[Arsenal F.C.|Arsenal]].<ref>{{cite web|url=https://www.uefa.com/printoutfiles/competitions/uefaeuropaleague/2021/e/e_2029909_pk.pdf|archive-url=https://web.archive.org/web/20210526073132/https://www.uefa.com/printoutfiles/competitions/uefaeuropaleague/2021/e/e_2029909_pk.pdf|url-status=dead|archive-date=26 May 2021|title=2021 UEFA Europa League Final|type=Press Kit|date=26 May 2021|website=UEFA.com |publisher=Union of European Football Associations|accessdate= 26 May 2021}}</ref>
+
+This was Manchester United's second UEFA Cup/Europa League final, having won the only previous occasion in [[2017 UEFA Europa League final|2017]]. Overall, it was their eighth European major final between the European Cup/Champions League, Cup Winners' Cup, and the UEFA Cup/Europa League. [[Ole Gunnar Solskjær]] reached his first final as the club's manager, having scored the winning goal in the [[1999 UEFA Champions League final]] playing for them, exactly 22 years prior.<ref>{{cite news |first=Simon |last=Stone |title=Roma 3-2 Man Utd (5-8 on aggregate): Solskjaer's side through to Europa League final |url=https://www.bbc.com/sport/football/57000593|work=BBC Sport |date=6 May 2021 |access-date=6 May 2021 }}</ref>
+
+The clubs previously met four times, in the [[2005–06 UEFA Champions League group stage#Group D|2005–06]] and [[2008–09 UEFA Champions League group stage#Group E|2008–09]] UEFA Champions League group stages. All games ended in goalless draws.<ref>{{cite web |url=https://www.worldfootball.net/teams/te2102/villarreal-cf/records-all-time-appearances/ |title=Villarreal CF » Record against Manchester United |website=WorldFootball.net |access-date=6 May 2021}}</ref><ref>{{cite web |title=Manchester United football club: record v Villarreal |url=https://www.11v11.com/teams/manchester-united/tab/opposingTeams/opposition/Villarreal/ |website=11v11.com |access-date=6 May 2021}}</ref>
+
+===Previous finals===
+''In the following table, finals until 2009 were in the UEFA Cup era, since 2010 were in the UEFA Europa League era.''
+
+{| class="wikitable"
+|-
+!Team
+!Previous final appearances (bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|None
+|-
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|1 ('''[[2017 UEFA Europa League final|2017]]''')
+|}
+
+==Route to the final==
+{{Further|2020–21 UEFA Europa League|2020–21 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+!Round
+!colspan="4"|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2020–21 UEFA Europa League|Europa League]]'''
+|
+|colspan="4"|'''[[2020–21 UEFA Champions League|Champions League]]'''
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|Group stage ([[2020–21 UEFA Europa League group stage|EL]], [[2020–21 UEFA Champions League group stage|CL]])
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|TUR}} [[Sivasspor]]
+|colspan="3"|[[2020–21 UEFA Europa League group stage#Villarreal v Sivasspor|5–3]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan="3"|[[2020–21 UEFA Champions League group stage#Paris Saint-Germain v Manchester United|2–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|colspan="3"|[[2020–21 UEFA Europa League group stage#Qarabağ v Villarreal|3–1]] (A){{efn|Qarabağ played their home match against Villarreal in [[Istanbul]], Turkey as UEFA matches in Armenia and Azerbaijan were temporarily suspended due to the [[2020 Nagorno-Karabakh war]].<ref>{{cite web|url=https://www.uefa.com/news-media/news/0262-10a834b7b97d-6b083c552d9e-1000/|title=Temporary suspension of UEFA matches in Armenia and Azerbaijan|website=UEFA.com|publisher=Union of European Football Associations|date=20 October 2020}}</ref>}}
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|GER}} [[RB Leipzig]]
+|colspan="3"|[[2020–21 UEFA Champions League group stage#Manchester United v RB Leipzig|5–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ISR}} [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+|colspan="3"|[[2020–21 UEFA Europa League group stage#Villarreal v Maccabi Tel Aviv|4–0]] (H)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|TUR}} [[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]
+|colspan="3"|[[2020–21 UEFA Champions League group stage#İstanbul Başakşehir v Manchester United|1–2]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ISR}} [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+|colspan="3"|[[2020–21 UEFA Europa League group stage#Maccabi Tel Aviv v Villarreal|1–1]] (A)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|TUR}} [[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]
+|colspan="3"|[[2020–21 UEFA Champions League group stage#Manchester United v İstanbul Başakşehir|4–1]] (H)
+|-
+|style="text-align:left"|{{fbaicon|TUR}} [[Sivasspor]]
+|colspan="3"|[[2020–21 UEFA Europa League group stage#Sivasspor v Villarreal|1–0]] (A)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan="3"|[[2020–21 UEFA Champions League group stage#Manchester United v Paris Saint-Germain|1–3]] (H)
+|-
+|style="text-align:left"|{{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|colspan="3"|[[2020–21 UEFA Europa League group stage#Villarreal v Qarabağ|3–0]] (H){{efn|The Villarreal v Qarabağ match was cancelled and awarded as a 3–0 win to Villarreal after several players of the Qarabağ squad tested positive for [[Severe acute respiratory syndrome coronavirus 2|SARS-CoV-2]].<ref>{{cite web |url=https://disciplinary.uefa.com/updates/0264-111ec5a43f08-60d12c855894-1000--cedb-villarreal-cf-v-qarabag-fk/ |title=CEDB: Villarreal CF v Qarabağ FK |website=UEFA.com |publisher=Union of European Football Associations|date=18 December 2020 |access-date=18 December 2020}}</ref>}}
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|GER}} [[RB Leipzig]]
+|colspan="3"|[[2020–21 UEFA Champions League group stage#RB Leipzig v Manchester United|2–3]] (A)
+|-
+|rowspan="2" colspan="4" style="vertical-align:top"|'''[[2020–21 UEFA Europa League group stage#Group I|Group I]] winners'''
+<div class="center">{{:2020–21 UEFA Europa League group stage|transcludesection=Group I|only_pld_pts=yes|show_matches=no|showteam=VIL}}</div>
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2020–21 UEFA Champions League group stage#Group H|Group H]] third place'''
+<div class="center">{{:2020–21 UEFA Champions League group stage|transcludesection=Group H|only_pld_pts=yes|show_matches=no|showteam=MUN}}</div>
+|- style="background:#C1E0FF"
+|
+|colspan="4"|'''[[2020–21 UEFA Europa League|Europa League]]'''
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2020–21 UEFA Europa League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|4–1
+|[[2020–21 UEFA Europa League knockout phase#Red Bull Salzburg v Villarreal|2–0]] (A)
+|[[2020–21 UEFA Europa League knockout phase#Villarreal v Red Bull Salzburg|2–1]] (H)
+|style="background:#C1E0FF"|Round of 32
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Sociedad]]
+|4–0
+|[[2020–21 UEFA Europa League knockout phase#Real Sociedad v Manchester United|4–0]] (A){{efn|The first leg away of Manchester United's round of 32 tie against Real Sociedad was played in [[Turin]], Italy due to [[travel restrictions related to the COVID-19 pandemic]] from the United Kingdom to Spain.<ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0266-11876e17cae7-7942e59ab42d-1000--uefa-europa-league-venue-changes/ |title=UEFA Europa League venue changes |website=UEFA.com |publisher=Union of European Football Associations|date=12 February 2021 |access-date=12 February 2021}}</ref>}}
+|[[2020–21 UEFA Europa League knockout phase#Manchester United v Real Sociedad|0–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|4–0
+|[[2020–21 UEFA Europa League knockout phase#Dynamo Kyiv v Villarreal|2–0]] (A)
+|[[2020–21 UEFA Europa League knockout phase#Villarreal v Dynamo Kyiv|2–0]] (H)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|2–1
+|[[2020–21 UEFA Europa League knockout phase#Manchester United v Milan|1–1]] (H)
+|[[2020–21 UEFA Europa League knockout phase#Milan v Manchester United|1–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|3–1
+|[[2020–21 UEFA Europa League knockout phase#Dinamo Zagreb v Villarreal|1–0]] (A)
+|[[2020–21 UEFA Europa League knockout phase#Villarreal v Dinamo Zagreb|2–1]] (H)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|ESP}} [[Granada CF|Granada]]
+|4–0
+|[[2020–21 UEFA Europa League knockout phase#Granada v Manchester United|2–0]] (A)
+|[[2020–21 UEFA Europa League knockout phase#Manchester United v Granada|2–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|2–1
+|[[2020–21 UEFA Europa League knockout phase#Villarreal v Arsenal|2–1]] (H)
+|[[2020–21 UEFA Europa League knockout phase#Arsenal v Villarreal|0–0]] (A)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|8–5
+|[[2020–21 UEFA Europa League knockout phase#Manchester United v Roma|6–2]] (H)
+|[[2020–21 UEFA Europa League knockout phase#Roma v Manchester United|2–3]] (A)
+|}
+'''Notes'''
+{{notelist}}
+
+==Pre-match==
+[[File:Clément Turpin 2016 (cropped).jpg|thumb|upright=.8|Frenchman [[Clément Turpin]] was the referee for the final.]]
+
+===Officials===
+On 12 May 2021, UEFA named Frenchman [[Clément Turpin]] as the referee for the final. Turpin had been a [[FIFA International Referees List|FIFA referee]] since 2010, and was previously the fourth official in the [[2018 UEFA Champions League final]]. He officiated six matches in the 2020–21 Champions League season, and one leg in the 2020–21 Europa League round of 32. He served as a referee at [[UEFA Euro 2016]] in France and the [[2018 FIFA World Cup]] in Russia, and was selected as an official for [[UEFA Euro 2020]]. Turpin also was a video assistant referee at the [[2017 FIFA Confederations Cup]] in Russia (including in the [[2017 FIFA Confederations Cup final|final]]), the [[2017 FIFA Club World Cup]] in the United Arab Emirates and the [[2019 FIFA Women's World Cup]] in France. He was joined by five of his fellow countrymen, with Nicolas Danos and Cyril Gringore as assistant referees, [[François Letexier]] as the video assistant referee, and [[Jérôme Brisard]] and Benjamin Pagès as two of the assistant VAR officials. [[Slavko Vinčić]] of Slovenia was the fourth official, while Dutchman [[Pol van Boekel]] served as the remaining assistant VAR.<ref name="officials"/>
+
+==Match==
+
+===Summary===
+Villarreal opened the scoring in the 29th minute with a goal from [[Gerard Moreno]], diverting the ball into the net with his right leg from six yards out after a free-kick from the left side delivered by [[Dani Parejo]]. [[Edinson Cavani]] equalized in the 55th minute after a shot by [[Marcus Rashford]] from 20 yards deflected off of [[Scott McTominay]] to Cavani, who scored with a low shot from five yards out.<ref>{{cite web|url= https://www.theguardian.com/football/2021/may/26/villarreal-manchester-united-europa-league-final-2021-match-report|title= Villarreal beat Manchester United 11-10 on penalties to win Europa League final|date=26 May 2021|work=Guardian|accessdate= 27 May 2021}}</ref>
+There were no more goals in normal time or in extra time with the match going to a [[Penalty shoot-out (association football)|penalty shoot-out]]. The first ten penalties from both teams were converted, leaving the goalkeepers to take a penalty. Villarreal keeper [[Gerónimo Rulli]] converted his penalty, and then saved [[David de Gea]]'s attempt to his left, winning his side the trophy.<ref>{{cite web|url=https://www.bbc.com/sport/football/57224112|title=Villarreal 1–1 Manchester United (11–10 on pens): David de Gea spot kick saved in epic Europa League final shootout|work=BBC Sport|last=Stone|first=Simon|date=26 May 2021|access-date=26 May 2021}}</ref>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw to be held after the quarter-final and semi-final draws.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2021|5|26|df=y}}
+|time       = {{CEST|21:00}}
+|team1      = [[Villarreal CF|Villarreal]] {{fbaicon|ESP}}
+|score      = 1–1
+|aet        = yes
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+*[[Gerard Moreno|Gerard]] {{goal|29}}
+|goals2     =
+*[[Edinson Cavani|Cavani]] {{goal|55}}
+|stadium    = [[Gdańsk Stadium|Stadion Gdańsk]], [[Gdańsk]]
+|attendance = 9,412<ref name="report">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2021/2029909_FR.pdf |title=Full Time Summary Final – Villarreal v Manchester United |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=26 May 2021 |access-date=26 May 2021}}</ref>
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|penalties1 =
+*[[Gerard Moreno|Gerard]] {{pengoal}}
+*[[Dani Raba|Raba]] {{pengoal}}
+*[[Paco Alcácer|Alcácer]] {{pengoal}}
+*[[Alberto Moreno|Moreno]] {{pengoal}}
+*[[Dani Parejo|Parejo]] {{pengoal}}
+*[[Moi Gómez|Gómez]] {{pengoal}}
+*[[Raúl Albiol|Albiol]] {{pengoal}}
+*[[Francis Coquelin|Coquelin]] {{pengoal}}
+*[[Mario Gaspar|Gaspar]] {{pengoal}}
+*[[Pau Torres|Torres]] {{pengoal}}
+*[[Gerónimo Rulli|Rulli]] {{pengoal}}
+|penaltyscore = 11–10
+|penalties2 =
+*{{pengoal}} [[Juan Mata|Mata]]
+*{{pengoal}} [[Alex Telles|Telles]]
+*{{pengoal}} [[Bruno Fernandes|Fernandes]]
+*{{pengoal}} [[Marcus Rashford|Rashford]]
+*{{pengoal}} [[Edinson Cavani|Cavani]]
+*{{pengoal}} [[Fred (footballer, born 1993)|Fred]]
+*{{pengoal}} [[Daniel James (footballer)|James]]
+*{{pengoal}} [[Luke Shaw|Shaw]]
+*{{pengoal}} [[Axel Tuanzebe|Tuanzebe]]
+*{{pengoal}} [[Victor Lindelöf|Lindelöf]]
+*{{penmiss}} [[David de Gea|De Gea]]
+|report     = https://www.uefa.com/uefaeuropaleague/match/2029909/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _villarreal2021H
+ |pattern_b  = _villarreal2021H
+ |pattern_ra = _villarreal2021H
+ |pattern_sh = _villarreal2021h
+ |pattern_so =
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = FFFF00
+ |socks      = FFFF00
+ |title      = Villarreal<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _manutd2021h
+ |pattern_b  = _manutd2021H
+ |pattern_ra = _manutd2021h
+ |pattern_sh = _mufc2021h2
+ |pattern_so = _3_stripes_white
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = {{nowrap|Manchester United}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|ARG}} [[Gerónimo Rulli]]
+|-
+|RB ||'''8''' ||{{flagicon|ARG}} [[Juan Foyth]] || {{yel|84}} || {{suboff|88}}
+|-
+|CB ||'''3''' ||{{flagicon|ESP}} [[Raúl Albiol]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Pau Torres]]
+|-
+|LB ||'''24'''||{{flagicon|ESP}} [[Alfonso Pedraza]] || || {{suboff|88}}
+|-
+|CM ||'''5''' ||{{flagicon|ESP}} [[Dani Parejo]]
+|-
+|CM ||'''25'''||{{flagicon|FRA}} [[Étienne Capoue]] || {{yel|54}} || {{suboff|120+3}}
+|-
+|CM ||'''14'''||{{flagicon|ESP}} [[Manu Trigueros]] || || {{suboff|77}}
+|-
+|RF ||'''7''' ||{{flagicon|ESP}} [[Gerard Moreno]]
+|-
+|CF ||'''9''' ||{{flagicon|COL}} [[Carlos Bacca]] || || {{suboff|60}}
+|-
+|LF ||'''30'''||{{flagicon|ESP}} [[Yéremy Pino]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Sergio Asenjo]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Mario Gaspar]] || || {{subon|88}}
+|-
+|DF ||'''6''' ||{{flagicon|ARG}} [[Ramiro Funes Mori]]
+|-
+|DF ||'''15'''||{{flagicon|ECU}} [[Pervis Estupiñán]]
+|-
+|DF ||'''18'''||{{flagicon|ESP}} [[Alberto Moreno]] || || {{subon|88}}
+|-
+|DF ||'''20'''||{{flagicon|ESP}} [[Rubén Peña]]
+|-
+|DF ||'''21'''||{{flagicon|ESP}} [[Jaume Costa]]
+|-
+|MF ||'''12'''||{{flagicon|ESP}} [[Dani Raba]] || || {{subon|120+3}}
+|-
+|MF ||'''19'''||{{flagicon|FRA}} [[Francis Coquelin]] || || {{subon|60}}
+|-
+|MF ||'''23'''||{{flagicon|ESP}} [[Moi Gómez]] || || {{subon|77}}
+|-
+|FW ||'''17'''||{{flagicon|ESP}} [[Paco Alcácer]] || || {{subon|77}}
+|-
+|FW ||'''34'''||{{flagicon|ESP}} [[Fer Niño]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Unai Emery]]
+|}
+|valign="top"|[[File:Villarreal vs Manchester United 2021-05-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[David de Gea]]
+|-
+|RB ||'''29'''||{{flagicon|ENG}} [[Aaron Wan-Bissaka]] || || {{suboff|120+3}}
+|-
+|CB ||'''2''' ||{{flagicon|SWE}} [[Victor Lindelöf]]
+|-
+|CB ||'''3''' ||{{flagicon|CIV}} [[Eric Bailly]] || {{yel|82}} || {{suboff|116}}
+|-
+|LB ||'''23'''||{{flagicon|ENG}} [[Luke Shaw]]
+|-
+|CM ||'''6''' ||{{flagicon|FRA}} [[Paul Pogba]] || || {{suboff|116}}
+|-
+|CM ||'''39'''||{{flagicon|SCO}} [[Scott McTominay]] || || {{suboff|120+3}}
+|-
+|RW ||'''11'''||{{flagicon|ENG}} [[Mason Greenwood]] || || {{suboff|100}}
+|-
+|AM ||'''18'''||{{flagicon|POR}} [[Bruno Fernandes]] ([[Captain (association football)|c]])
+|-
+|LW ||'''10'''||{{flagicon|ENG}} [[Marcus Rashford]]
+|-
+|CF ||'''7''' ||{{flagicon|URU}} [[Edinson Cavani]] || {{yel|113}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ENG}} [[Lee Grant (footballer, born 1983)|Lee Grant]]
+|-
+|GK ||'''26'''||{{flagicon|ENG}} [[Dean Henderson]]
+|-
+|DF ||'''5''' ||{{flagicon|ENG}} [[Harry Maguire]]
+|-
+|DF ||'''27'''||{{flagicon|BRA}} [[Alex Telles]] || || {{subon|120+3}}
+|-
+|DF ||'''33'''||{{flagicon|ENG}} [[Brandon Williams (footballer)|Brandon Williams]]
+|-
+|DF ||'''38'''||{{flagicon|ENG}} [[Axel Tuanzebe]] || || {{subon|116}}
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Juan Mata]] || || {{subon|120+3}}
+|-
+|MF ||'''17'''||{{flagicon|BRA}} [[Fred (footballer, born 1993)|Fred]] || || {{subon|100}}
+|-
+|MF ||'''19'''||{{flagicon|CIV}} [[Amad Diallo]]
+|-
+|MF ||'''21'''||{{flagicon|WAL}} [[Daniel James (footballer)|Daniel James]] || || {{subon|116}}
+|-
+|MF ||'''31'''||{{flagicon|SRB}} [[Nemanja Matić]]
+|-
+|MF ||'''34'''||{{flagicon|NED}} [[Donny van de Beek]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NOR}} [[Ole Gunnar Solskjær]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Étienne Capoue]] (Villarreal)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Nicolas Danos ([[French Football Federation|France]])
+<br />Cyril Gringore ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[François Letexier]] ([[French Football Federation|France]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''<ref name="officials"/>
+<br />[[Jérôme Brisard]] ([[French Football Federation|France]])
+<br />Benjamin Pagès ([[French Football Federation|France]])
+<br />[[Pol van Boekel]] ([[Royal Dutch Football Association|Netherlands]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web|url=https://documents.uefa.com/reader/17jBo1jJ5IEzodtAn7Jn3A/root|title=Regulations of the UEFA Europa League, 2020/21|website=UEFA.com |publisher=Union of European Football Associations|date=3 August 2020}}</ref><ref>{{cite web |url=https://www.uefa.com/news-media/news/0261-107376966207-6a2ea096698b-1000/ |title=Two triple-headers approved for 2021 March and September national team windows |website=UEFA.com |publisher=Union of European Football Associations|date=24 September 2020 |access-date=24 September 2020}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2021/2029909_TS.pdf |title=Team statistics |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=26 May 2021 |access-date=28 May 2021 |url-status=live |archive-url=https://web.archive.org/web/20240617221916/https://www.uefa.com/newsfiles/uefacup/2021/2029909_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Villarreal
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|5
+|4
+|-
+!scope=row|Shots on target
+|1
+|1
+|-
+!scope=row|Saves
+|2
+|0
+|-
+!scope=row|Ball possession
+|36%
+|64%
+|-
+!scope=row|Corner kicks
+|4
+|1
+|-
+!scope=row|Fouls committed
+|2
+|6
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Villarreal
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|3
+|9
+|-
+!scope=row|Shots on target
+|0
+|1
+|-
+!scope=row|Saves
+|0
+|0
+|-
+!scope=row|Ball possession
+|44%
+|56%
+|-
+!scope=row|Corner kicks
+|2
+|2
+|-
+!scope=row|Fouls committed
+|7
+|5
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Villarreal
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|4
+|1
+|-
+!scope=row|Shots on target
+|0
+|0
+|-
+!scope=row|Saves
+|0
+|0
+|-
+!scope=row|Ball possession
+|52%
+|48%
+|-
+!scope=row|Corner kicks
+|1
+|0
+|-
+!scope=row|Fouls committed
+|1
+|4
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Villarreal
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|12
+|14
+|-
+!scope=row|Shots on target
+|1
+|2
+|-
+!scope=row|Saves
+|2
+|0
+|-
+!scope=row|Ball possession
+|43%
+|57%
+|-
+!scope=row|Corner kicks
+|7
+|3
+|-
+!scope=row|Fouls committed
+|10
+|15
+|-
+!scope=row|Offsides
+|0
+|4
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2021 UEFA Champions League final]]
+*[[2021 UEFA Women's Champions League final]]
+*[[2021 UEFA Super Cup]]
+*[[Manchester United F.C. in international football]]
+*[[Villarreal CF in European football]]
+*[[2020–21 Manchester United F.C. season]]
+*[[2020–21 Villarreal CF season]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefaeuropaleague/}}
+
+{{UEFA Europa League seasons}}
+{{2020–21 in European football (UEFA)}}
+{{Villarreal CF}}
+{{Manchester United F.C. matches}}
+
+{{DEFAULTSORT:Uefa Europa League Final 2021}}
+[[Category:2020–21 in English men's football]]
+[[Category:2020–21 in Polish football]]
+[[Category:2020–21 in Spanish men's football]]
+[[Category:2020–21 UEFA Europa League|Final]]
+[[Category:21st century in Gdańsk]]
+[[Category:Manchester United F.C. matches]]
+[[Category:May 2021 sports events in Poland]]
+[[Category:Sports competitions in Gdańsk|2021]]
+[[Category:UEFA Europa League finals|2021]]
+[[Category:Villarreal CF matches]]
+[[Category:Spain–United Kingdom sports relations|2021]]
+[[Category:Football matches in Poland]]

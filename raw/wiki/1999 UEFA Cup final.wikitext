@@ -1,0 +1,296 @@
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+| title              = 1999 UEFA Cup final
+| image              = 1999 UEFA Cup Final Programme.jpg
+| image_size         = 200
+| caption            = Match programme cover
+| event              = [[1998–99 UEFA Cup]]
+| team1              = [[Parma F.C.|Parma]]
+| team1association   = {{flagicon|ITA|size=30px}}
+| team1score         = 3
+| team2              = [[Olympique de Marseille|Marseille]]
+| team2association   = {{flagicon|FRA|1974|size=30px}}
+| team2score         = 0
+| date               = 12 May 1999
+| stadium            = [[Luzhniki Stadium]]
+| city               = [[Moscow]]
+| man_of_the_match1a = [[Hernán Crespo]] (Parma)<ref name="man_of_the_match">{{cite news |title=Parma subjugate Marseille for title |url=http://expressindia.indianexpress.com/ie/daily/19990514/isp14065.html |work=Reuters |publisher=The Indian Express |date=14 May 1999 |access-date=28 July 2014}}</ref>
+| referee            = [[Hugh Dallas]] ([[Scottish Football Association|Scotland]])<ref name="official">{{cite news |first=Neil |last=McLeman |title=Hugh Dallas; Taking all the heat .. and happy to be back for more. |url=http://www.highbeam.com/doc/1P2-18693818.html |archive-url=https://web.archive.org/web/20150924185741/http://www.highbeam.com/doc/1P2-18693818.html |url-status=usurped |archive-date=24 September 2015 |work=The Scotsman |date=11 May 1999 |via=[[HighBeam Research]] |url-access=subscription |access-date=28 July 2014}}</ref>
+| attendance         = 61,000<ref name="handbook"/>
+| previous           = [[1998 UEFA Cup final|1998]]
+| next               = [[2000 UEFA Cup final|2000]]
+}}
+The '''1999 UEFA Cup final''' was an [[association football]] match played on 12 May 1999 at the [[Luzhniki Stadium]] in [[Moscow]] to determine the winners of the [[1998–99 UEFA Cup]]. The match was contested by [[Parma F.C.|Parma]] of Italy and [[Olympique de Marseille|Marseille]] of France. Parma won the match 3–0 to claim their second UEFA Cup and fourth European trophy, having previously won the [[UEFA Cup Winners' Cup]] and the [[UEFA Super Cup]] on one occasion each. There were 61,000 spectators at the match, making it the highest-attended single-legged UEFA Cup/Europa League final.<ref>{{cite web |title=Europa League/UEFA Cup final records |url=https://www.uefa.com/uefaeuropaleague/news/0252-0ce430367606-35094e8eef73-1000--final-records/ |website=[[UEFA]] |date=26 May 2021 |access-date=28 September 2021 }}</ref>
+
+==Background==
+This was Parma's second UEFA Cup final, having defeated [[Juventus FC|Juventus]] in [[1995 UEFA Cup final|1995]]. They had won the [[1992–93 European Cup Winners' Cup]] and the [[1993 European Super Cup]] and lost the [[1994 European Cup Winners' Cup final]]. Marseille had won the [[UEFA Champions League]] in [[1993 UEFA Champions League final|1993]] after losing the [[1991 European Cup final|1991 final]]. 
+
+The [[Luzhniki Stadium]] in [[Moscow]], [[Russia]] played host to the match, having [[Luzhniki Stadium#Largest sport events|never previously hosted]] a major European final.
+
+==Route to the final==
+{{further|1998–99 UEFA Cup}}
+
+{| style="text-align:center"
+|- valign=top bgcolor=#99ccff
+!colspan=3 style="width:1*"|Parma
+!
+!colspan=3 style="width:1*"|Marseille
+|-
+|Opponent
+|Result
+|Legs
+|bgcolor=#c1e0ff|Round
+|Opponent
+|Result
+|Legs
+|-
+|{{flagicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|3–2
+|0–1 away; 3–1 home
+|bgcolor=#c1e0ff|[[1998–99 UEFA Cup#First round|First round]]
+|{{flagicon|CZE}} [[SK Sigma Olomouc|Sigma Olomouc]]
+|6–2
+|2–2 away; 4–0 home
+|-
+|{{flagicon|POL}} [[Wisła Kraków]]
+|3–2
+|1–1 away; 2–1 home
+|bgcolor=#c1e0ff|[[1998–99 UEFA Cup#Second round|Second round]]
+|{{flagicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|3–2
+|1–1 away; 2–1 home
+|-
+|{{flagicon|SCO}} [[Rangers F.C.|Rangers]]
+|4–2
+|1–1 away; 3–1 home
+|bgcolor=#c1e0ff|[[1998–99 UEFA Cup#Third round|Third round]]
+|{{flagicon|FRA|1974}} [[AS Monaco FC|Monaco]]
+|3–2
+|2–2 away; 1–0 home
+|-
+|{{flagicon|FRA|1974}} [[FC Girondins de Bordeaux|Bordeaux]]
+|7–2
+|1–2 away; 6–0 home
+|bgcolor=#c1e0ff|[[1998–99 UEFA Cup#Quarter-finals|Quarter-finals]]
+|{{flagicon|ESP}} [[RC Celta de Vigo|Celta Vigo]]
+|2–1
+|2–1 home; 0–0 away
+|-
+|{{flagicon|ESP}} [[Atlético Madrid]]
+|5–2
+|3–1 away; 2–1 home
+|bgcolor=#c1e0ff|[[1998–99 UEFA Cup#Semi-finals|Semi-finals]]
+|{{flagicon|ITA}} [[Bologna FC 1909|Bologna]]
+|1–1 ([[Away goals rule|a]])
+|0–0 home; 1–1 away
+|}
+
+==Match==
+===Team selection===
+While Parma's selection for the match was more straightforward, underdogs Marseille had five players suspended for the final after the team's semi-final victory over [[Bologna F.C. 1909|Bologna]], which ended in a fight in the players' tunnel at the [[Stadio Renato Dall'Ara]]. [[Fabrizio Ravanelli]], [[Peter Luccin]] and [[William Gallas]] received yellow cards which barred their participation in the final.<ref>{{cite news |title=Bologna, Marseille downplay brawl |url=http://sportsillustrated.cnn.com/soccer/world/news/1999/04/21/brawl_follow/ |archive-url=https://web.archive.org/web/20010622061018/http://sportsillustrated.cnn.com/soccer/world/news/1999/04/21/brawl_follow/ |url-status=dead |archive-date=22 June 2001 |work=Sports Illustrated |publisher=Time |date=21 April 1999 |access-date=2 January 2012}}</ref> [[Christophe Dugarry]] and [[Hamada Jambay]] would serve the first match of their respective and five- and four-match suspensions on the sidelines for the final for their involvement in the brawl.<ref>{{cite news |title=UEFA takes action for brawl |url=http://157.166.224.103/soccer/world/news/1999/04/30/uefa_fines/ |work=Sports Illustrated |publisher=Time Inc. |date=30 April 1999 |access-date=2 January 2012 |archive-url=https://archive.today/20120707011956/http://157.166.224.103/soccer/world/news/1999/04/30/uefa_fines/ |archive-date=7 July 2012 |url-status=dead |df=dmy-all }}</ref>
+
+===Summary===
+[[Hugh Dallas]], the Scottish referee who had also officiated in the Franco-Italian [[1998 FIFA World Cup|1998 World Cup]] quarter-final, conducted the [[coin toss]], which was won by Marseille captain [[Laurent Blanc]] and the Frenchman elected to shoot towards his team's own fans in the second half. [[Roberto Sensini]], Parma's captain, chose to kick the match off.{{citation needed|date=June 2020}}
+
+The first 25 minutes saw a cautious Marseille side play much of their football in their own half, only to knock it long to their isolated frontmen [[Robert Pires]] and [[Florian Maurice]]. Following such an occasion, Sensini hit a long ball forward towards [[Juan Sebastián Verón]], whose headed flick-on looked not to be dangerous until a lazy headed backpass from the experienced Laurent Blanc gifted [[Hernán Crespo]] one-on-one with the keeper; the Argentine coolly lobbed [[Stéphane Porato]] with his first touch to give Parma the lead after 26 minutes.{{citation needed|date=June 2020}}
+
+Ten minutes later, as the Italians continued to dominate the match, a Parma attack twice looked to have been ended by Marseille's defence, but the ball found [[Lilian Thuram]] in an advanced right-back position on both occasions. On the second occasion, Thuram was able to slide in to find [[Diego Fuser]] five yards from the byline and just onside. He whipped in a deep cross, and [[Paolo Vanoli]] directed his header past Marseille's goalkeeper into the net to double Parma's advantage.{{citation needed|date=June 2020}}
+
+Five minutes before the hour mark, Thuram surged forward down the right before giving the ball to Verón outside him. Verón chipped the ball into the penalty area with a ball looking to be destined for Crespo's boot, a fine dummy duped the Marseille's defence and gave [[Enrico Chiesa]] the opportunity to volley home emphatically from 12 yards to make it 3–0 and seal a Parma victory.{{citation needed|date=June 2020}}
+
+The end of the game saw Parma control the game and keep their lead on the scoreboard against a valiant but dominated Marseille team.{{citation needed|date=June 2020}}
+
+===Details===
+<onlyinclude>{{football box
+|date=12 May 1999
+|time=22:00 [[Moscow Time|MSD]] ([[UTC+04:00|UTC+4]])
+|team1=[[Parma F.C.|Parma]] {{fbaicon|ITA}}
+|score=3–0
+|report=https://www.uefa.com/uefaeuropaleague/match/56371--parma-vs-marseille/
+|team2={{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|goals1=[[Hernán Crespo|Crespo]] {{goal|25}}<br />[[Paolo Vanoli|Vanoli]] {{goal|36}}<br />[[Enrico Chiesa|Chiesa]] {{goal|55}}
+|goals2=
+|stadium=[[Luzhniki Stadium]], [[Moscow]]
+|attendance=61,000<ref name="handbook">{{cite book |location=Nyon |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |chapter=4. UEFA Cup Finals |title=UEFA Europa League Statistics Handbook 2012/13 |publisher=Union of European Football Associations |page=70 |date=28 May 2013 |access-date=27 September 2024 |url-status=dead |archive-url=https://web.archive.org/web/20130604201547/https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |archive-date=4 June 2013}}</ref>
+|referee=[[Hugh Dallas]] ([[Scottish Football Association|Scotland]])<ref name="official"/>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _parma9899h
+ | pattern_b  = _parma9899h
+ | pattern_ra = _parma9899h
+ | pattern_sh = _parma9899h
+ | pattern_so = _long_parma9899h
+ | leftarm    = 08338f
+ | body       = 08338f
+ | rightarm   = 08338f
+ | shorts     = 08338f
+ | socks      = 08338f
+ | title      = Parma
+}}
+|{{Football kit
+ | pattern_la = _om0203home
+ | pattern_b  = _om9899 home
+ | pattern_ra = _om0203home
+ | pattern_sh = _om0203_h
+ | pattern_so = _om9899home
+ | leftarm    = 66CCFF
+ | body       = FFFFFF
+ | rightarm   = 66CCFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Marseille
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Gianluigi Buffon]]
+|-
+|RCB ||'''21'''||{{flagicon|FRA|1974}} [[Lilian Thuram]]
+|-
+|CB ||'''17'''||{{flagicon|ITA}} [[Fabio Cannavaro]]
+|-
+|LCB ||'''6''' ||{{flagicon|ARG}} [[Roberto Sensini]] ([[Captain (association football)|c]])
+|-
+|CM ||'''8''' ||{{flagicon|ITA}} [[Dino Baggio]]
+|-
+|CM ||'''15'''||{{flagicon|FRA|1974}} [[Alain Boghossian]]
+|-
+|RW ||'''7''' ||{{flagicon|ITA}} [[Diego Fuser]]
+|-
+|AM ||'''11'''||{{flagicon|ARG}} [[Juan Sebastián Verón]] || || {{suboff|77}}
+|-
+|LW ||'''24'''||{{flagicon|ITA}} [[Paolo Vanoli]]
+|-
+|CF ||'''9''' ||{{flagicon|ARG}} [[Hernán Crespo]] || || {{suboff|84}}
+|-
+|CF ||'''20'''||{{flagicon|ITA}} [[Enrico Chiesa]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''28'''||{{flagicon|ITA}} [[Davide Micillo]]
+|-
+|DF ||'''4''' ||{{flagicon|ITA}} [[Luigi Sartor]]
+|-
+|DF ||'''14'''||{{flagicon|ITA}} [[Roberto Mussi]]
+|-
+|DF ||'''26'''||{{flagicon|ITA}} [[Luigi Apolloni]]
+|-
+|MF ||'''23'''||{{flagicon|ITA}} [[Stefano Fiore]] || || {{subon|77}}
+|-
+|FW ||'''10'''||{{flagicon|COL}} [[Faustino Asprilla]] || {{yel|89}} || {{subon|84}}
+|-
+|FW ||'''18'''||{{flagicon|ARG}} [[Abel Balbo]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Alberto Malesani]]
+|}
+|valign="top"|[[File:Parma vs Marseille 1999-05-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||{{flagicon|FRA|1974}} [[Stéphane Porato]]
+|-
+|SW ||'''5''' ||{{flagicon|FRA|1974}} [[Laurent Blanc]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|RSA}} [[Pierre Issa]]
+|-
+|CB ||'''17'''||{{flagicon|CIV}} [[Cyril Domoraud]]
+|-
+|RWB||'''2''' ||{{flagicon|FRA|1974}} [[Patrick Blondeau]] || {{yel|50}}
+|-
+|LWB||'''28'''||{{flagicon|BRA}} [[Edson (footballer, born 1977)|Edson]] || || {{suboff|46}}
+|-
+|CM ||'''8''' ||{{flagicon|FRA|1974}} [[Frédéric Brando]]
+|-
+|CM ||'''27'''||{{flagicon|FRA|1974}} [[Daniel Bravo]]
+|-
+|AM ||'''10'''||{{flagicon|FRA|1974}} [[Jocelyn Gourvennec]]
+|-
+|CF ||'''7''' ||{{flagicon|FRA|1974}} [[Robert Pires]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Florian Maurice]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''30'''||{{flagicon|FRA|1974}} [[François Lemasson]]
+|-
+|DF ||'''12'''||{{flagicon|CIV}} [[Tchiressoua Guel]]
+|-
+|DF ||'''29'''||{{flagicon|FRA|1974}} [[Jacques Abardonado]]
+|-
+|MF ||'''22'''||{{flagicon|FRA|1974}} [[Martial Robin]]
+|-
+|FW ||'''13'''||{{flagicon|GUI}} [[Titi Camara]] || || {{subon|46}}
+|-
+|FW ||'''15'''||{{flagicon|GHA}} [[Arthur Moses]]
+|-
+|FW ||'''19'''||{{flagicon|FRA|1974}} [[Cédric Mouret]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA|1974}} [[Rolland Courbis]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Hernán Crespo]] (Parma)<ref name="man_of_the_match"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Robert Gunn ([[Scottish Football Association|Scotland]])
+<br />John McElhinney ([[Scottish Football Association|Scotland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />William Young ([[Scottish Football Association|Scotland]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes, of which three may be used
+|}
+
+==See also==
+*[[1999 UEFA Champions League final]]
+*[[1999 UEFA Cup Winners' Cup final]]
+*[[Olympique de Marseille in European football]]
+*[[Parma Calcio 1913 in European football]]
+*[[1998–99 Olympique de Marseille season]]
+*[[1998–99 Parma AC season]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20100625194312/http://en.archive.uefa.com/competitions/uefacup/history/season=1998/intro.html 1998–99 season] at UEFA.com
+
+{{UEFA Europa League seasons}}
+{{1998–99 in European football (UEFA)}}
+{{Parma F.C. matches}}
+{{Olympique de Marseille matches}}
+
+{{DEFAULTSORT:Uefa Cup final 1999}}
+[[Category:1998–99 UEFA Cup|Final]]
+[[Category:Parma Calcio 1913 matches|Uefa Cup Final 1999]]
+[[Category:Olympique de Marseille matches|Uefa Cup Final 1999]]
+[[Category:Football matches in Russia|Uefa Cup Final 1999]]
+[[Category:UEFA Europa League finals|1999]]
+[[Category:1999 in Russian football|Uefa]]
+[[Category:1999 in Moscow]]
+[[Category:May 1999 sports events in Europe]]
+[[Category:Sports competitions in Moscow]]
+[[Category:France–Italy football rivalry|1999]]
+[[Category:Football in Moscow]]
+[[Category:1998–99 in French men's football]]
+[[Category:1998–99 in Italian football]]

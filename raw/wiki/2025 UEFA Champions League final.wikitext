@@ -1,0 +1,593 @@
+{{Short description|Football match in Munich, Germany}}
+{{Use dmy dates|date=July 2021}}
+{{Infobox football match
+| title              = 2025 UEFA Champions League final
+| image              = 2025 UEFA Champions League Final programme.png
+| image_size         = frameless
+| caption            = Match programme cover
+| event              = [[2024–25 UEFA Champions League]]
+| team1              = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| team1association   = {{fbaicon|FRA|size=30px}}
+| team1score         = 5
+| team2              = [[Inter Milan]]
+| team2association   = {{fbaicon|ITA|size=30px}}
+| team2score         = 0
+| details            =
+| date               = {{Start date|2025|5|31|df=y}}
+| stadium            = [[Allianz Arena]]
+| city               = [[Munich]]
+| man_of_the_match1a = [[Désiré Doué]] {{nowrap|(Paris Saint-Germain)}}<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0299-1de41a81a0d8-2cfefc69a802-1000/ |title=Désiré Doué named official 2025 UEFA Champions League final Player of the Match |website=UEFA.com |publisher=Union of European Football Associations |date=31 May 2025 |access-date=31 May 2025}}</ref>
+| referee            = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])<ref name="officials">{{cite web |url=https://www.uefa.com/news-media/news/0299-1dbd3134c0ae-d632a42a13d0-1000/ |title=Referee teams for 2025 UEFA club competition finals announced |website=UEFA.com |publisher=Union of European Football Associations |date=12 May 2025 |access-date=12 May 2025}}</ref>
+| attendance         = 64,327<ref name="report 31 May"/>
+| weather            = Partly cloudy night<br />{{convert|24|°C|°F|abbr=on}}<br />47% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2025/2044466_LU.pdf |title=Tactical Line-ups – Final – Saturday 31 May 2025 |website=UEFA.com |publisher=Union of European Football Associations |date=31 May 2025 |access-date=31 May 2025}}</ref>
+| previous           = [[2024 UEFA Champions League final|2024]]
+| next               = [[2026 UEFA Champions League final|2026]]
+}}
+
+The '''2025 UEFA Champions League final''' was the final match of the [[2024–25 UEFA Champions League]], the 70th season of Europe's premier club football tournament organised by [[UEFA]], and the 33rd season since it was renamed from the [[European Champion Clubs' Cup]] to the [[UEFA Champions League]]. It was held at the [[Allianz Arena]] in [[Munich]], Germany, on 31 May 2025, between French club [[Paris Saint-Germain FC|Paris Saint-Germain]] and Italian club [[Inter Milan]]. This was Inter’s second [[List of European Cup and UEFA Champions League finals|Champions League Final]] in three years, the last being in [[2023 UEFA Champions League final|2023]], where they lost to [[Manchester City F.C.|Manchester City]] 1-0. This was PSG’s first Champions League Final since [[2020 UEFA Champions League final|2020]], where they also lost 1-0, but to [[FC Bayern Munich|Bayern Munich]]. 
+
+Paris Saint-Germain won the match 5–0 for their first European Cup title,<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0299-1de417608530-15b01ff7b150-1000/ |title=Paris win Champions League: Doué double helps secure record-breaking final win against Inter |website=UEFA.com |publisher=Union of European Football Associations |date=31 May 2025 |access-date=31 May 2025}}</ref> marking the second final victory by a French club since [[Olympique de Marseille|Marseille]] in [[1993 UEFA Champions League final|1993]]. Their margin of victory was the largest in any of the main European men's club competitions{{efn|name=major}} final, with their goal tally only surpassed in one [[List of European Cup and UEFA Champions League finals|European Cup final]] by [[Real Madrid CF|Real Madrid]]'s seven in [[1960 European Cup final|1960]]. In doing so, Paris Saint-Germain completed a [[Treble (association football)#Continental trebles|continental treble]], the first of a French club, while [[Luis Enrique]] became the second manager since [[Pep Guardiola]] to have won the treble twice. As winners, Paris Saint-Germain earned the right to play against [[Tottenham Hotspur F.C.|Tottenham Hotspur]], winners of the [[2024–25 UEFA Europa League]], in the [[2025 UEFA Super Cup]], and automatically qualified for the [[2025 FIFA Intercontinental Cup final]] and the [[2029 FIFA Club World Cup]]. The match would also be [[Simone Inzaghi]]'s final match as manager of Inter Milan as he would leave his post three days after the final by mutual consent.
+
+==Background==
+Paris Saint-Germain reached their second Champions League final and the first since [[2020 UEFA Champions League final|2020]], when they lost to [[FC Bayern Munich|Bayern Munich]].<ref>{{Cite news |date=23 August 2020 |title=Triple perfekt! Coman köpft Bayern auf Europas Thron |trans-title=Treble perfect! Coman heads Bayern to the European throne |url=https://www.kicker.de/paris-sg-gegen-bayern-2020-champions-league-4651902/analyse |access-date=23 August 2020 |work=[[Kicker (sports magazine)|kicker]]}}</ref> This was the fifth European final for them, having previously also appeared in two consecutive finals of the [[UEFA Cup Winners' Cup]], winning the [[1996 UEFA Cup Winners' Cup final|1996 final]] 1–0 against [[SK Rapid Wien|Rapid Wien]] before losing by the same scoreline against [[FC Barcelona|Barcelona]] while attempting to defend their title in [[1997 UEFA Cup Winners' Cup final|1997]].<ref>{{Cite news |date=30 June 2005 |title=UEFA Cup Winners' Cup: All-time finals |url=http://en.archive.uefa.com/uefa/news/kind=1/newsid=2577.html |archive-url=https://archive.today/20120716101258/http://en.archive.uefa.com/uefa/news/kind=1/newsid=2577.html |archive-date=16 July 2012|access-date=1 June 2025|website=UEFA.com |publisher=Union of European Football Associations|via=[[Internet Archive]]|url-status=dead}}</ref> The club also contested the [[1996 UEFA Super Cup]], losing 9–2 on aggregate to [[Juventus FC|Juventus]]. Paris Saint-Germain attempted to become only the second French team to win the European Cup/Champions League, following the success of [[Le Classique|their rivals]] [[Olympique de Marseille|Marseille]] in [[1993 UEFA Champions League final|1993]]—with the final also taking place in Munich—and the first French club to complete a [[Treble (association football)#Continental trebles|continental treble]], having won the [[2024–25 Ligue 1|Ligue 1]] and the [[2024–25 Coupe de France|Coupe de France]].<ref name="treble">{{Cite web |title=Paris complete the 11th domestic league, domestic cup and European Cup/UEFA Champions League treble |url=https://www.uefa.com/uefachampionsleague/news/0251-0e99b1ba85da-ec8053dc0a29-1000--paris-complete-the-11th-domestic-league-domestic-cup-and-e/ |website=UEFA.com |publisher=Union of European Football Associations |date=31 May 2025 |access-date=31 May 2025 }}</ref> The club had won the [[2024 Trophée des Champions|Trophée des Champions]] (super cup) earlier in the season, thus had a chance for a clean sweep of titles available to them.<ref>{{cite web|date=5 January 2025|title=Paris beat Monaco to lift Trophée des Champions|url=https://en.psg.fr/teams/first-team/content/paris-beat-monaco-to-lift-trophee-des-champions-compte-rendu-paris-saint-germain-as-monaco-ligue-1-2024-2025|accessdate=5 January 2025|publisher=Paris Saint-Germain|archive-url=https://web.archive.org/web/20250105192246/https://en.psg.fr/teams/first-team/content/paris-beat-monaco-to-lift-trophee-des-champions-compte-rendu-paris-saint-germain-as-monaco-ligue-1-2024-2025|archive-date=5 January 2025|url-status=dead}}</ref> Their manager, [[Luis Enrique]], was aiming for a second continental treble, having done so with Barcelona in the [[2014–15 FC Barcelona season|2014–15 season]]. Since he was successful, he became the second manager to achieve such a feat after fellow former Barcelona player and manager [[Pep Guardiola]], who achieved so in [[2008–09 FC Barcelona season|2008–09]] with Barcelona and in [[2022–23 Manchester City F.C. season|2022–23]] with [[Manchester City F.C.|Manchester City]].<ref name="treble"/> He also became the seventh [[List of European Cup and UEFA Champions League winning managers|manager to win the European Cup/Champions League]] with different clubs.<ref>{{Cite web |date=31 May 2025 |title=Paris Saint-Germain vs. Inter score: PSG crowned Champions League winners for first time with blowout victory|first1=James|last1=Benge|first2=Chuck |last2=Booth|url=https://www.cbssports.com/soccer/news/paris-saint-germain-vs-inter-score-psg-crowned-champions-league-winners-for-first-time-with-blowout-victory/live/ |access-date=31 May 2025|website=CBS Sports}}</ref>
+
+This was Inter Milan's thirteenth European final and seventh European Cup/Champions League final appearance, having won 3–1 in [[1964 European Cup final|1964]] against [[Real Madrid CF|Real Madrid]], 1–0 against [[S.L. Benfica|Benfica]] at [[San Siro|home]] in [[1965 European Cup final|1965]] and 2–0 against Bayern Munich in [[2010 UEFA Champions League final|2010]], resulting in Inter completing the continental treble; they also lost 2–1 to [[Celtic F.C.|Celtic]] in [[1967 European Cup final|1967]], 2–0 to [[AFC Ajax|Ajax]] in [[1972 European Cup final|1972]] and 1–0 to Manchester City in [[2023 UEFA Champions League final|2023]],<ref name="RSSSF"/> all of which enabled those clubs to win the continental treble themselves.<ref name="treble"/> The club had also contested five UEFA Cup/UEFA Europa League finals, winning in [[1991 UEFA Cup final|1991]], [[1994 UEFA Cup final|1994]], and [[1998 UEFA Cup final|1998]] as well as losing in [[1997 UEFA Cup final|1997]] and [[2020 UEFA Europa League final|2020]].<ref name="UC">{{Cite web |last=Stokkermans |first=Karel |title=UEFA Cup |url=https://www.rsssf.org/tablese/ec3b.html |access-date=2 June 2025 |publisher=[[RSSSF]]}}</ref> They also contested the [[2010 UEFA Super Cup]], losing 2–0 to [[Atlético Madrid]].<ref>{{Cite web |last=Stokkermans |first=Karel |title=European Super Cup |url=https://www.rsssf.org/tabless/sup.html |access-date=2 June 2025 |publisher=[[RSSSF]]}}</ref> Inter Milan were the most recent Italian club to win the Champions League; since 2010 only one other Italian club—[[Derby d'Italia|their rivals]] Juventus—had reached the Champions League final, losing in [[2015 UEFA Champions League final|2015]] and [[2017 UEFA Champions League final|2017]].<ref name="RSSSF"/> [[Simone Inzaghi]] was aiming for his first European title as manager and the second in his football career, having won against [[Manchester United F.C.|Manchester United]] in the [[1999 UEFA Super Cup]] as a [[SS Lazio|Lazio]] player.<ref>{{Cite web |date=3 June 2021 |title=Inter Milan hire ex-Lazio boss Simone Inzaghi as new coach |access-date=6 June 2025 |website=ESPN |url=https://www.espn.com/football/story/_/id/37617682/inter-milan-hire-ex-lazio-boss-simone-inzaghi-new-coach }}</ref> Their midfielder [[Henrikh Mkhitaryan]] was aiming to become the eleventh player to have [[UEFA club competition records and statistics#List of players to have won the three main European club competitions|won all three major European trophies]] and the first to have achieved that with three different clubs, having won the [[2016–17 UEFA Europa League]] with Manchester United and the [[2021–22 UEFA Europa Conference League]] with [[AS Roma|Roma]].<ref>{{Cite web |date=29 May 2025 |title=What players have won all three UEFA tournaments? Henrikh Mkhitaryan on verge of historic Champions League title |first=Kyle |last=Bonn |access-date=6 June 2025 |website=[[The Sporting News]] |url=https://www.sportingnews.com/uk/football/news/players-won-all-three-uefa-tournaments-champions-league/7ea81117685932ba4a3fede3 }}</ref>
+
+The clubs had never met in any competitive matches, but had faced each other in five exhibition games.<ref>{{cite web |title=PSG vs. Inter: the Champions League final is set |url=https://www.inter.it/en/news/champions-league-final-24-25-inter-psg |website=Inter.it |publisher=Inter Milan |access-date=10 May 2025 |date=8 May 2025}}</ref>
+
+The match was the first Champions League final without a club from England, Spain or Germany since Portuguese side [[FC Porto|Porto]] defeated French representative [[AS Monaco FC|Monaco]] in [[2004 UEFA Champions League final|2004]].<ref name="RSSSF"/>
+
+===Previous finals===
+''In the following table, finals until 1992 were in the European Cup era and since 1993 were in the UEFA Champions League era.''<ref name="RSSSF"/>
+
+{| class="wikitable"
+|-
+!Team
+!Previous final appearances (bold indicates winners)
+|-
+|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|1 ([[2020 UEFA Champions League final|2020]])
+|-
+|{{fbaicon|ITA}} [[Inter Milan]]
+|6 ('''[[1964 European Cup final|1964]]''', '''[[1965 European Cup final|1965]]''', [[1967 European Cup final|1967]], [[1972 European Cup final|1972]], '''[[2010 UEFA Champions League final|2010]]''', [[2023 UEFA Champions League final|2023]])
+|}
+
+==Venue==
+{{Further|Allianz Arena}}
+[[File:Allianz Arena (Bayern Munich).jpg|thumb|upright=1.2|The [[Allianz Arena]] in [[Munich]] hosted the final.]]
+
+This was the second UEFA Champions League final hosted at the [[Allianz Arena]] in [[Munich]]; the first was held in [[2012 UEFA Champions League final|2012]].<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0283-186742eb3c74-d5eb4afca229-1000--2025-uefa-champions-league-final-munich-football-arena/ |title=2025 UEFA Champions League final: Munich Football Arena |website=UEFA.com |publisher=Union of European Football Associations |date=12 March 2025 |access-date=18 March 2025}}</ref> Overall, it was the fifth [[List of European Cup and UEFA Champions League finals|European Cup final]] to be held in Munich, with the [[1979 European Cup final|1979]], [[1993 UEFA Champions League final|1993]], [[1997 UEFA Champions League final|1997]], and [[2012 UEFA Champions League final|2012]] finals taking place at the [[Olympiastadion (Munich)|Olympiastadion]]. Each of the previous four finals played in Munich saw a first-time winner of the competition crowned ([[Nottingham Forest F.C.|Nottingham Forest]] in 1979, [[Olympique de Marseille|Marseille]] in 1993, [[Borussia Dortmund]] in 1997, and [[Chelsea F.C.|Chelsea]] in 2012). The final also was the ninth to take place in Germany, having also taken place in [[Stuttgart]] in [[1959 European Cup final|1959]] and [[1988 European Cup final|1988]], [[Gelsenkirchen]] in [[2004 UEFA Champions League final|2004]] and [[Berlin]] in [[2015 UEFA Champions League final|2015]], equalling the record of nine European Cup finals held in Italy and England.<ref>{{cite web |url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/99/48/32/1994832_DOWNLOAD.pdf |archive-url=https://web.archive.org/web/20140712134245/http://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/99/48/32/1994832_DOWNLOAD.pdf |url-status=dead |archive-date=12 July 2014 |title=UEFA Champions League Statistics Handbook 2013/14: Finals |website=UEFA.com |publisher=Union of European Football Associations |year=2014 |access-date=24 September 2019}}</ref> The Allianz Arena previously hosted matches at the [[2006 FIFA World Cup]],<ref name="StadiaNames">{{cite news |date=6 June 2006 |title=Stadiums renamed for Fifa sponsors |url=https://news.bbc.co.uk/2/hi/business/4773843.stm |url-status=live |archive-url=https://web.archive.org/web/20180613190159/http://news.bbc.co.uk/1/hi/business/4773843.stm |archive-date=13 June 2018 |access-date=29 March 2008 |publisher=BBC}}</ref> and was chosen as a host venue for [[UEFA Euro 2020]] and [[UEFA Euro 2024]].
+
+===Host selection===
+On 16 July 2021, the UEFA Executive Committee announced that the [[Atatürk Olympic Stadium]] in [[Istanbul]] would host the [[2023 UEFA Champions League final]] instead of Munich.<ref name="Munich 2025">{{cite news |url=https://www.uefa.com/news-media/news/026b-12c542441355-1c2040c5e54b-1000/ |title=Venues appointed for club competition finals |website=UEFA.com |publisher=Union of European Football Associations |date=16 July 2021 |access-date=16 July 2021}}</ref> This was because Istanbul twice had the Champions League final intended for their city relocated due to the [[COVID-19 pandemic]]. Originally planned as hosts for the [[2020 UEFA Champions League final|2020 final]], the match was moved to [[Lisbon]] and the final hosts shifted back a year, with Istanbul instead awarded the [[2021 UEFA Champions League final|2021 final]].<ref>{{cite news |url=https://www.uefa.com/news-media/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/ |title=UEFA competitions to resume in August |website=UEFA.com |publisher=Union of European Football Associations |date=17 June 2020 |access-date=17 June 2020}}</ref> However, weeks prior to the final, the 2021 fixture was moved to [[Porto]] due to travel restrictions.<ref name="Porto">{{cite news |url=https://www.uefa.com/news-media/news/0269-1243f864391e-53c7874f0ae0-1000/ |title=UEFA Champions League final to move to Portugal to allow 6,000 fans of each team to attend |website=UEFA.com |publisher=Union of European Football Associations |date=13 May 2021 |access-date=13 May 2021 |archive-date=13 May 2021 |archive-url=https://web.archive.org/web/20210513105402/https://www.uefa.com/insideuefa/mediaservices/mediareleases/news/0269-1243f864391e-53c7874f0ae0-1000/ |url-status=live}}</ref>
+
+Munich, originally selected to host the [[2022 UEFA Champions League final|2022 final]] by the UEFA Executive Committee during their meeting in [[Ljubljana]], Slovenia on 24 September 2019,<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0255-0e99f55f1d05-6273cba59e7c-1000--champions-league-final-hosts-for-2021-2022-2023-and-2024/ |title=Champions League final hosts announced for 2021, 2022 and 2023 |website=UEFA.com |publisher=Union of European Football Associations |date=24 September 2019 |access-date=24 September 2019}}</ref> was later planned to host the [[2023 UEFA Champions League final|2023 final]] after the shifting of the final hosts. However, the city was awarded the 2025 final instead after being bumped from 2023 by Istanbul.<ref name="Munich 2025"/>
+
+==Route to the final==
+{{Further|2024–25 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''<ref>{{cite web |url=https://indianexpress.com/article/sports/football/champions-league-inter-milan-vs-paris-saint-germain-road-final-ucl-10040649/ |title=Champions League Inter Milan vs Paris Saint-Germain road to final: How did Inter, PSG reach UCL final? |work=[[The Indian Express]] |date=31 May 2025 |access-date=2 June 2025}}</ref>
+{| class="wikitable" style="text-align:center; white-space:nowrap;"
+|-
+!colspan="4"|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+!Round
+!colspan="4"|{{fbaicon|ITA}} [[Inter Milan]]
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2024–25 UEFA Champions League league phase|League phase]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[Girona FC|Girona]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Paris Saint-Germain v Girona|1–0]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Manchester City v Inter Milan|0–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Arsenal v Paris Saint-Germain|0–2]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|SRB}} [[Red Star Belgrade]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Inter Milan v Red Star Belgrade|4–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|NED}} [[PSV Eindhoven]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Paris Saint-Germain v PSV Eindhoven|1–1]] (H)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|SUI}} [[BSC Young Boys|Young Boys]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Young Boys v Inter Milan|1–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[Atlético Madrid]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Paris Saint-Germain v Atlético Madrid|1–2]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Inter Milan v Arsenal|1–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Bayern Munich v Paris Saint-Germain|0–1]] (A)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|GER}} [[RB Leipzig]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Inter Milan v RB Leipzig|1–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Red Bull Salzburg v Paris Saint-Germain|3–0]] (A)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Bayer Leverkusen v Inter Milan|0–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Paris Saint-Germain v Manchester City|4–2]] (H)
+|style="background:#C1E0FF"|Matchday 7
+|style="text-align:left"|{{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Sparta Prague v Inter Milan|1–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|GER}} [[VfB Stuttgart]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#VfB Stuttgart v Paris Saint-Germain|4–1]] (A)
+|style="background:#C1E0FF"|Matchday 8
+|style="text-align:left"|{{fbaicon|FRA}} [[AS Monaco FC|Monaco]]
+|colspan="3"|[[2024–25 UEFA Champions League league phase#Inter Milan v Monaco|3–0]] (H)
+|-
+|colspan="4" style="vertical-align:top"|'''15th place'''<br>''Advanced to knockout phase play-offs''
+|style="background:#C1E0FF"|Final position
+|colspan="4" style="vertical-align:top"|'''4th place'''<br>''Advanced to round of 16''
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2024–25 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|FRA}} [[Stade Brestois 29|Brest]]
+|10–0
+|[[2024–25 UEFA Champions League knockout phase#Brest v Paris Saint-Germain|3–0]] (A)
+|[[2024–25 UEFA Champions League knockout phase#Paris Saint-Germain v Brest|7–0]] (H)
+|style="background:#C1E0FF"|Play-offs
+|colspan="4"|Bye
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|1–1 {{pso|4–1}}
+|[[2024–25 UEFA Champions League knockout phase#Paris Saint-Germain v Liverpool|0–1]] (H)
+|[[2024–25 UEFA Champions League knockout phase#Liverpool v Paris Saint-Germain|1–0]] {{aet}} (A)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|NED}} [[Feyenoord]]
+|4–1
+|[[2024–25 UEFA Champions League knockout phase#Feyenoord v Inter Milan|2–0]] (A)
+|[[2024–25 UEFA Champions League knockout phase#Inter Milan v Feyenoord|2–1]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+|5–4
+|[[2024–25 UEFA Champions League knockout phase#Paris Saint-Germain v Aston Villa|3–1]] (H)
+|[[2024–25 UEFA Champions League knockout phase#Aston Villa v Paris Saint-Germain|2–3]] (A)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|4–3
+|[[2024–25 UEFA Champions League knockout phase#Bayern Munich v Inter Milan|2–1]] (A)
+|[[2024–25 UEFA Champions League knockout phase#Inter Milan v Bayern Munich|2–2]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|3–1
+|[[2024–25 UEFA Champions League knockout phase#Arsenal v Paris Saint-Germain|1–0]] (A)
+|[[2024–25 UEFA Champions League knockout phase#Paris Saint-Germain v Arsenal|2–1]] (H)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|7–6
+|[[2024–25 UEFA Champions League knockout phase#Barcelona v Inter Milan|3–3]] (A)
+|[[2024–25 UEFA Champions League knockout phase#Inter Milan v Barcelona|4–3]] {{aet}} (H)
+|}
+
+==Pre-match==
+[[File:Linkin Park - From Zero Lead Press Photo - James Minchin III.jpg|thumb|[[Linkin Park]], the headline act of the opening ceremony.]]
+
+The visual identity of the 2025 UEFA Champions League final was unveiled on 28 January 2025.<ref>{{Cite web |title=Brand identity unveiled for 2025 UEFA Champions League final in Munich |url=https://www.uefa.com/uefachampionsleague/news/0295-1ceba613adfc-cdce42626608-1000--brand-identity-unveiled-for-2025-uefa-champions-league-final/ |website=UEFA.com |publisher=Union of European Football Associations |date=28 January 2025 |access-date=16 April 2025 |archive-date=26 February 2025 |archive-url=https://web.archive.org/web/20250226150128/https://www.uefa.com/uefachampionsleague/news/0295-1ceba613adfc-cdce42626608-1000--brand-identity-unveiled-for-2025-uefa-champions-league-final/ |url-status=live}}</ref> On 16 April, American rock band [[Linkin Park]] was named as the headline act of the opening ceremony.<ref>{{cite news |title=LINKIN PARK to headline UEFA Champions League Final Kick Off Show by Pepsi |url=https://www.uefa.com/uefachampionsleague/news/0298-1d88a574742c-61d78f6fba35-1000--linkin-park-to-headline-uefa-champions-league-final-kick-of/ |publisher=Union of European Football Associations |website=UEFA.com |date=16 April 2025 |access-date=16 April 2025 |archive-date=16 April 2025 |archive-url=https://web.archive.org/web/20250416110010/https://www.uefa.com/uefachampionsleague/news/0298-1d88a574742c-61d78f6fba35-1000--linkin-park-to-headline-uefa-champions-league-final-kick-of/ |url-status=live}}</ref> On 26 May, German violinist [[David Garrett]] was announced to play a rearranged version of [[the White Stripes]]' "[[Seven Nation Army]]" on the trophy presentation prior to the teams' entrance.<ref>{{cite news |title=David Garrett to perform Seven Nation Army at the UEFA Champions League final |url=https://www.uefa.com/uefachampionsleague/news/0299-1dd947e35265-89cbbd1c9a2c-1000--david-garrett-to-perform-seven-nation-army-at-the-uefa-ch/ |publisher=Union of European Football Associations |website=UEFA.com |date=26 May 2025 |access-date=28 May 2025 |archive-date=28 May 2025 |archive-url=https://web.archive.org/web/20250528163559/https://www.uefa.com/uefachampionsleague/news/0299-1dd947e35265-89cbbd1c9a2c-1000--david-garrett-to-perform-seven-nation-army-at-the-uefa-ch/ |url-status=live}}</ref>
+
+==Match==
+
+===Summary===
+{{refimprove section|date=June 2025}}
+[[File:Doue asse psg 2425.png|thumb|upright=.7|[[Désiré Doué]], scorer of a brace in the final, was named [[man of the match]].]]
+
+Paris Saint-Germain started the match by pressuring Inter and with high intensity.<ref name="kicker">{{cite web |url=https://www.kicker.de/paris-sg-gegen-inter-2025-champions-league-4956140/analyse |title=Höchster Finalsieg der Geschichte: PSG gewinnt erstmals die Champions League |trans-title=Highest final victory in history: PSG wins the Champions League for the first time |work=[[Kicker (magazine)|kicker]] |date=31 May 2025 |access-date=6 June 2025 |language=de}}</ref> In the 12th minute, [[Vitinha (footballer, born February 2000)|Vitinha]] threaded a pass to Doué inside the box, who then found the unmarked [[Achraf Hakimi]] near the back post, slotting the ball in to give Paris an early lead. Their second goal came eight minutes later, with Willian Pacho acrobatically clearing the ball on the end line to start a counterattack. [[Ousmane Dembélé]] was found down the pitch, who then crossed the ball to Doué on the edge of the box, whose shot was deflected off [[Federico Dimarco]] and past a helpless [[Yann Sommer]]. Inter Milan missed opportunities to cut the deficit before half-time, with [[Francesco Acerbi]] (23') and [[Marcus Thuram]] (37') missing their headers. Paris Saint-Germain also had additional opportunities before the break, with Dembelé (44') and [[Khvicha Kvaratskhelia]] (45+2') missing both.<ref name=":0">{{Cite web |date=31 May 2025 |title=UEFA Champions League final score: PSG vs. Inter Milan result, highlights as Parisians win 2025 UCL title in record fashion |first=Kyle |last=Bonn |access-date=31 May 2025 |website=[[The Sporting News]] |url=https://www.sportingnews.com/ca/soccer/news/champions-league-final-live-score-highlights-psg-inter-milan/b2e383de259813761e2eea4a }}</ref> 
+
+In the first minute of the second half, Paris Saint-Germain's Kvaratskhelia missed a shot. Inter Milan's [[Hakan Çalhanoğlu]] then took a free kick but hit the ball wide. In the 50th minute, Inter's [[Nicolò Barella]] protested to the referee that [[Marquinhos]] had committed a handball offence, but the referee disagreed and did not give a penalty. Inter took off [[Benjamin Pavard]] and Dimarco, and replaced them with [[Yann Bisseck]] and [[Nicola Zalewski]]. Two minutes after coming on, Zalewski was booked for a slide tackle on [[Fabián Ruiz]]. In the 58th minute, Inter Milan's head coach [[Simone Inzaghi]] was booked for protesting one of the referee's decisions. In the 61st minute, Inter made two more substitutions, [[Matteo Darmian]] and [[Carlos Augusto (footballer)|Carlos Augusto]] for Mkhitaryan and Bisseck (who was brought off after a knee [[hyperextension]]). Two minutes later, Paris Saint-Germain scored a third goal with Doué finding the net after a through ball from Vitinha following a counterattack started by Dembele and Vitinha; Doué was booked for removing his shirt as his celebration. In the 67th minute, he was replaced by [[Bradley Barcola]]. In the 69th minute, Thuram was booked for a foul on Ruiz, as was Acerbi four minutes later. Inter Milan made another substitution in the 69th minute with [[Kristjan Asllani]] replacing Çalhanoğlu. In the 73rd minute, Kvaratskhelia scored a fourth goal for Paris Saint-Germain, after a through ball from Dembélé to get behind Inter's defense near the halfway line. Three minutes later, Thuram got Inter's first shot on target of the match, but the ball was caught by goalkeeper [[Gianluigi Donnarumma]]. Paris Saint-Germain went on to make more substitutions: [[Nuno Mendes (footballer, born 2002)|Nuno Mendes]] was replaced by [[Lucas Hernandez]], and then Kvaratskhelia, [[João Neves]], and Ruiz were substituted for [[Gonçalo Ramos]], [[Warren Zaïre-Emery]], and [[Senny Mayulu]], who scored the fifth goal of the game from a tight angle just three minutes after coming on.<ref name=":0" />
+
+===Details===
+The "home" team (for administrative purposes) was predetermined as the winner of semi-final 1 (Paris Saint-Germain).<ref>{{Cite web |date=19 February 2025 |title=2025 UEFA Champions League final: Munich Football Arena |url=https://www.uefa.com/uefachampionsleague/news/0283-186742eb3c74-d5eb4afca229-1000--2025-uefa-champions-league-final-munich-football-arena/ |access-date=20 February 2025 |website=UEFA.com |publisher=Union of European Football Associations}}</ref><ref>{{Cite web |date=18 February 2025 |title=What's next for Bayern after Champions League play-off? |url=https://fcbayern.com/en/news/2025/02/whats-next-for-bayern-after-champions-league-play-off |access-date=20 February 2025 |website=FCBayern.com |publisher=[[FC Bayern Munich]]}}</ref>
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2025|5|31|df=y}}
+|time       = {{CEST|21:00}}
+|team1      = [[Paris Saint-Germain FC|Paris Saint-Germain]] {{fbaicon|FRA}}
+|score      = 5–0
+|team2      = {{fbaicon|ITA}} [[Inter Milan]]
+|goals1     =
+*[[Achraf Hakimi|Hakimi]] {{goal|12}}
+*[[Désiré Doué|Doué]] {{goal|20||63}}
+*[[Khvicha Kvaratskhelia|Kvaratskhelia]] {{goal|73}}
+*[[Senny Mayulu|Mayulu]] {{goal|86}}
+|goals2     =
+|stadium    = [[Allianz Arena]], [[Munich]]
+|attendance = 64,327<ref name="report 31 May">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2025/2044466_FR.pdf |title=Full Time Report Final – Paris Saint-Germain v Inter Milan |website=UEFA.com |publisher=Union of European Football Associations |date=31 May 2025 |access-date=31 May 2025}}</ref>
+|referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2044466/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _psg2425h
+ |pattern_b  = _psg2425H
+ |pattern_ra = _psg2425h
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = 0A1254
+ |body       = 0A1254
+ |rightarm   = 0A1254
+ |shorts     = 0A1254
+ |socks      = 0A1254
+ |title      = {{nowrap|Paris Saint-Germain}}<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _internazionale2425t
+ |pattern_b  = _internazionale2425T
+ |pattern_ra = _internazionale2425t
+ |pattern_sh = _internazionale2425t2
+ |pattern_so = _internazionale2425tl
+ |leftarm    = FFCC00
+ |body       = FFCC00
+ |rightarm   = FFCC00
+ |shorts     = FFCC00
+ |socks      = FFCC00
+ |title      = {{nowrap|Inter Milan}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Gianluigi Donnarumma]]
+|-
+|RB ||'''2''' ||{{flagicon|MAR}} [[Achraf Hakimi]] || {{yel|90}}
+|-
+|CB ||'''5''' ||{{flagicon|BRA}} [[Marquinhos]] ([[Captain (association football)|c]])
+|-
+|CB ||'''51'''||{{flagicon|ECU}} [[Willian Pacho]]
+|-
+|LB ||'''25'''||{{flagicon|POR}} [[Nuno Mendes (footballer, born 2002)|Nuno Mendes]] || || {{suboff|78}}
+|-
+|CM ||'''87'''||{{flagicon|POR}} [[João Neves]] || || {{suboff|84}}
+|-
+|CM ||'''17'''||{{flagicon|POR}} [[Vitinha (footballer, born February 2000)|Vitinha]]
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Fabián Ruiz]] || || {{suboff|84}}
+|-
+|RF ||'''14'''||{{flagicon|FRA}} [[Désiré Doué]] || {{yel|65}} || {{suboff|66}}
+|-
+|CF ||'''10'''||{{flagicon|FRA}} [[Ousmane Dembélé]]
+|-
+|LF ||'''7''' ||{{flagicon|GEO}} [[Khvicha Kvaratskhelia]] || || {{suboff|84}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''39'''||{{flagicon|RUS}} [[Matvey Safonov]]
+|-
+|GK ||'''80'''||{{flagicon|ESP}} [[Arnau Tenas]]
+|-
+|DF ||'''3''' ||{{flagicon|FRA}} [[Presnel Kimpembe]]
+|-
+|DF ||'''21'''||{{flagicon|FRA}} [[Lucas Hernandez]] || || {{subon|78}}
+|-
+|DF ||'''35'''||{{flagicon|BRA}} [[Lucas Beraldo]]
+|-
+|MF ||'''19'''||{{flagicon|KOR}} [[Lee Kang-in]]
+|-
+|MF ||'''24'''||{{flagicon|FRA}} [[Senny Mayulu]] || || {{subon|84}}
+|-
+|MF ||'''33'''||{{flagicon|FRA}} [[Warren Zaïre-Emery]] || || {{subon|84}}
+|-
+|FW ||'''9''' ||{{flagicon|POR}} [[Gonçalo Ramos]] || || {{subon|84}}
+|-
+|FW ||'''29'''||{{flagicon|FRA}} [[Bradley Barcola]] || || {{subon|66}}
+|-
+|FW ||'''49'''||{{flagicon|FRA}} [[Ibrahim Mbaye]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Luis Enrique]]
+|}
+|valign="top"|[[File:Paris Saint-Germain vs Internazionale 2025-05-31.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|SUI}} [[Yann Sommer]]
+|-
+|CB ||'''28'''||{{flagicon|FRA}} [[Benjamin Pavard]] || || {{suboff|53}}
+|-
+|CB ||'''15'''||{{flagicon|ITA}} [[Francesco Acerbi]] || {{yel|71}}
+|-
+|CB ||'''95'''||{{flagicon|ITA}} [[Alessandro Bastoni]]
+|-
+|RM ||'''2''' ||{{flagicon|NED}} [[Denzel Dumfries]]
+|-
+|CM ||'''23'''||{{flagicon|ITA}} [[Nicolò Barella]]
+|-
+|CM ||'''20'''||{{flagicon|TUR}} [[Hakan Çalhanoğlu]] || || {{suboff|70}}
+|-
+|CM ||'''22'''||{{flagicon|ARM}} [[Henrikh Mkhitaryan]] || || {{suboff|62}}
+|-
+|LM ||'''32'''||{{flagicon|ITA}} [[Federico Dimarco]] || || {{suboff|53}}
+|-
+|CF ||'''9''' ||{{flagicon|FRA}} [[Marcus Thuram]] || {{yel|69}}
+|-
+|CF ||'''10'''||{{flagicon|ARG}} [[Lautaro Martínez]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA}} [[Raffaele Di Gennaro]]
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Josep Martínez]]
+|-
+|DF ||'''6''' ||{{flagicon|NED}} [[Stefan de Vrij]]
+|-
+|DF ||'''30'''||{{flagicon|BRA}} [[Carlos Augusto (footballer)|Carlos Augusto]] || || {{subon|62}}
+|-
+|DF ||'''31'''||{{flagicon|GER}} [[Yann Aurel Bisseck]] || || {{subon|53}} {{suboff|62}}
+|-
+|DF ||'''36'''||{{flagicon|ITA}} [[Matteo Darmian]] || || {{subon|62}}
+|-
+|MF ||'''7''' ||{{flagicon|POL}} [[Piotr Zieliński]]
+|-
+|MF ||'''16'''||{{flagicon|ITA}} [[Davide Frattesi]]
+|-
+|MF ||'''21'''||{{flagicon|ALB}} [[Kristjan Asllani]] || || {{subon|70}}
+|-
+|MF ||'''59'''||{{flagicon|POL}} [[Nicola Zalewski]] || {{yel|56}} || {{subon|53}}
+|-
+|FW ||'''8''' ||{{flagicon|AUT}} [[Marko Arnautović]]
+|-
+|FW ||'''99'''||{{flagicon|IRN}} [[Mehdi Taremi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Simone Inzaghi]] || {{yel|58}}
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Désiré Doué]] (Paris Saint-Germain)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Mihai Marica ([[Romanian Football Federation|Romania]])
+<br />Ferencz Tunyogi ([[Romanian Football Federation|Romania]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[João Pinheiro (referee)|João Pinheiro]] ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Bruno Jesus ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />Dennis Higler ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />Cătălin Popa ([[Romanian Football Federation|Romania]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="officials"/>
+<br />[[Pol van Boekel]] ([[Royal Dutch Football Association|Netherlands]])
+|style="width:60%; vertical-align:top;"|
+{{Match rules
+|ref               = <ref>{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Champions-League-2024/25-Online |title=Regulations of the UEFA Champions League, 2024/25 Season |publisher=[[UEFA]] |date=2 September 2024 |access-date=2 June 2025 |url-status=live |archive-url=https://web.archive.org/web/20241210214638/https://documents.uefa.com/api/khub/maps/0wI_a8EkcYx57ZFHbGY~dQ/attachments/dOe9D5W0wzFYElvK3rGi4w-0wI_a8EkcYx57ZFHbGY~dQ/content |archive-date=10 December 2024}}</ref>
+|extra time        = y
+|penalties         = y
+|named subs        = 12
+|additional sub ET = y
+|subs allowed      = 5
+|sub opportunities = y
+}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2025/2044466_TS.pdf |title=Team statistics |work=UEFA |date=31 May 2025 |access-date=31 May 2025}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Inter Milan
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|13
+|2
+|-
+!scope=row|Shots on target
+|5
+|0
+|-
+!scope=row|Saves
+|0
+|3
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|3
+|2
+|-
+!scope=row|Fouls committed
+|5
+|1
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Inter Milan
+|-
+!scope=row|Goals scored
+|3
+|0
+|-
+!scope=row|Total shots
+|10
+|6
+|-
+!scope=row|Shots on target
+|3
+|2
+|-
+!scope=row|Saves
+|2
+|0
+|-
+!scope=row|Ball possession
+|57%
+|43%
+|-
+!scope=row|Corner kicks
+|1
+|4
+|-
+!scope=row|Fouls committed
+|8
+|6
+|-
+!scope=row|Offsides
+|0
+|4
+|-
+!scope=row|Yellow cards
+|2
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Inter Milan
+|-
+!scope=row|Goals scored
+|5
+|0
+|-
+!scope=row|Total shots
+|23
+|8
+|-
+!scope=row|Shots on target
+|8
+|2
+|-
+!scope=row|Saves
+|2
+|3
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|4
+|6
+|-
+!scope=row|Fouls committed
+|13
+|7
+|-
+!scope=row|Offsides
+|0
+|5
+|-
+!scope=row|Yellow cards
+|2
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+[[File:2015 UEFA Super Cup 66.jpg|thumb|Paris Saint-Germain's [[Luis Enrique]] won both his second Champions League title and continental treble as manager.]]
+
+With their victory, Paris Saint-Germain won their first Champions league title, the 24th team to do so. It also marked the second final to be won by a French club, after [[Olympique de Marseille|Marseille]] in [[1993 UEFA Champions League final|1993]].<ref name="RSSSF">{{cite web |last=Stokkermans |first=Karel |url=https://www.rsssf.org/tablese/ec1.html |title=European Champions' Cup/Champions League |publisher=[[RSSSF]] |access-date=2 June 2025}}</ref> Paris Saint-Germain also completed the eleventh [[Treble (association football)#Continental trebles|continental treble]] in European football history, doing so as the ninth overall team and first French club.<ref name="treble"/> It was the [[List of association football teams to have won four or more trophies in one season#Four titles in one season|fourth trophy of the season]] for Paris Saint-Germain, having also won the [[2024 Trophée des Champions|Trophée des Champions]]. [[Luis Enrique]] won his second Champions League title as manager, having previously won with [[FC Barcelona|Barcelona]] in [[2015 UEFA Champions League final|2015]] as part of a treble. With the victory, he became the 21st coach to win multiple finals and the seventh to do so with multiple clubs.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0275-15407684c988-5b733e851bf5-1000/ |title=Champions League-winning coaches: Carlo Ancelotti leads the way, Luis Enrique becomes seventh to triumph with two clubs |website=UEFA.com |publisher=Union of European Football Associations |date=31 May 2025 |access-date=2 June 2025}}</ref> Additionally, he became the second manager to win multiple trebles after fellow Spaniard [[Pep Guardiola]], who also won his first treble with Barcelona.<ref name="treble"/>
+
+Paris Saint-Germain's five unanswered goals set a record for the largest margin of victory in the final of any of the main European men's club competitions;{{efn|name=major|The main European men's club competitions also includes the [[List of UEFA Cup Winners' Cup finals|Cup Winners' Cup]] (defunct), [[List of UEFA Cup and Europa League finals|UEFA Cup/Europa League]] and [[List of UEFA Conference League finals|(Europa) Conference League]].<ref name="RSSSF"/><ref>{{cite web |last=Stokkermans |first=Karel |url=https://www.rsssf.org/tablese/ec2.html |title=European Cup Winners' Cup |publisher=[[RSSSF]] |date=26 January 2000 |access-date=6 June 2025}}</ref><ref name="UC"/><ref>{{cite web |url=https://www.uefa.com/uefaconferenceleague/news/0298-1d6e887134f4-450771540b4a-1000/ |title=UEFA Conference League winners, best players, goals and teams of the season |website=UEFA.com |publisher=Union of European Football Associations |date=1 June 2025 |access-date=6 June 2025}}</ref>}} for a European Cup final, this result surpassed the four-goal differences in [[1960 European Cup final|1960]], [[1974 European Cup final#Replay|1974 replay]], [[1989 European Cup final|1989]] and [[1994 UEFA Champions League final|1994]].<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/ |title=Champions League final records and statistics |website=UEFA.com |publisher=Union of European Football Associations |date=31 May 2025 |access-date=2 June 2025}}</ref> It also equaled, with [[S.L. Benfica|Benfica]] in [[1962 European Cup final|1962]], for the second-most goals scored by a team in the final, only behind the seven of [[Real Madrid CF|Real Madrid]] in 1960.<ref name="RSSSF"/> [[Senny Mayulu]] became the second-youngest scorer in a Champions League final, only behind [[Patrick Kluivert]] in [[1995 UEFA Champions League final|1995]], while [[Désiré Doué]] became the fourth-youngest.<ref>{{cite web |url=https://sportstar.thehindu.com/football/champions-league/who-is-senny-mayulu-second-youngest-player-to-score-champions-league-final-psg-vs-inter-ucl-latest-news-updates/article69643130.ece |title=Who is Senny Mayulu, the second-youngest player ever to score in a Champions League final? |work=[[Sportstar]] |date=1 June 2025 |access-date=2 June 2025}}</ref> Doué was named as the [[man of the match]] for his brace,<ref name="MOTM"/> and was subsequently selected as the Champions League Young Player of the Season.<ref>{{cite news|date=1 June 2025|title=Désiré Doué named 2024/25 UEFA Champions League Young Player of the Season|access-date=1 June 2025|website=UEFA.com |publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/029a-1de593e81763-a1312db28c5a-1000}}</ref> The win for Paris Saint-Germain also meant for the first time since [[FC Porto|Porto]]'s win in the [[2003–04 UEFA Champions League|2003–04 season]] that a club from outside of Europe's four big leagues (England, Spain, Italy, and Germany) had won the tournament. 
+
+Inter Milan's loss was their fourth in a Champions League final (after [[1967 European Cup final|1967]], [[1972 European Cup final|1972]], and [[2023 UEFA Champions League final|2023]]) and the second in three seasons.<ref name="RSSSF"/> Having finished second in [[2024–25 Serie A|Serie A]] and the [[2024 Supercoppa Italiana|Supercoppa Italiana]] and exited the [[2024–25 Coppa Italia|Coppa Italia]] in the semi-finals, the defeat meant Inter would finish a season without a trophy for the first time since the [[2019–20 Inter Milan season|2019–20 season]], when they also lost a European final. Inter manager [[Simone Inzaghi]] called the defeat "painful" and "disappointing" but said Inter would bounce back from the loss like they did in 2023.<ref>{{cite web |url=https://www.inter.it/en/news/inzaghi-interview-psg-inter-champions-league-final |title=Inzaghi: "It hurts, but PSG were the better team. I've thanked the lads" |publisher=Inter Milan |date=1 June 2025 |access-date=3 June 2025}}</ref> However, the final turned out to be Inzaghi's last game in charge of Inter as he left the club by mutual consent three days later.<ref>{{cite web |url=https://www.inter.it/en/news/simone-inzaghi-message-inter |title=Simone Inzaghi's message |publisher=Inter Milan |date=3 June 2025 |access-date=3 June 2025}}</ref>
+
+As winners, Paris Saint-Germain qualified for various other competitions. They competed in the [[2025 UEFA Super Cup]] against [[Tottenham Hotspur F.C.|Tottenham Hotspur]], winners of the [[2024–25 UEFA Europa League]]. They also qualified for the [[2025 FIFA Intercontinental Cup final|final]] of the [[2025 FIFA Intercontinental Cup]], where they competed against [[CR Flamengo|Flamengo]], another continental champion, for the title of [[List of world champion football clubs|annual club world champions]].<ref>{{cite web |last=Lopez Vega |first=Alejandro |url=https://bolavip.com/en/soccer/luis-enrique-leads-psg-to-champions-league-ligue-1-and-french-cup-titles-which-other-coaches-have-won-the-treble |title=Luis Enrique leads PSG to Champions League, Ligue 1 and French Cup titles: Which other coaches have won the treble? |work=Bolavip |date=31 May 2025 |access-date=31 May 2025}}</ref> Finally, they qualified for the [[2029 FIFA Club World Cup]], FIFA's quadrennial club championship.<ref>{{cite web |url=https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/champions-league-final-review-2025 |title=Doue fires PSG to Champions League glory |publisher=[[FIFA]] |date=31 May 2025 |access-date=2 June 2025}}</ref>
+
+===Celebrations and riots===
+{{Main|2025 Paris Saint-Germain celebration riots}}
+
+Following Paris Saint-Germain's victory, celebrations were held across France overnight. In some areas, [[2025 Paris Saint-Germain celebration riots|disorder broke out]] and across the country two people were killed and a further 192 were injured, with 559 people being arrested. A 17-year-old boy died after being stabbed in [[Dax, Landes|Dax]] and a 23-year-old man was killed in central [[Paris]] after being hit by a vehicle whilst riding a scooter. The [[Minister of the Interior (France)|interior ministry]] said that 491 people were arrested in Paris alone and 264 vehicles were set on fire; among the injured were 22 police officers and seven firefighters. Four people were injured in [[Grenoble]] after a car ploughed into PSG fans. During the celebrations shops were looted, bus shelters smashed and flares and fireworks set off, with clashes breaking out near the [[Champs-Élysées]] and the [[Parc des Princes]]. Around 5,400 police were deployed across Paris in anticipation of disorder during the celebrations, and [[Paris Police Prefecture|Paris police prefect]] said the trophy parade would go ahead the next day but with a higher police and military presence.<ref>{{cite news |last1=Mackintosh |first1=Thomas |last2=Lamche |first2=Anna |title=Two dead and hundreds arrested in France after PSG Champions League win |url=https://www.bbc.com/news/articles/ckgqyg325gno |access-date=1 June 2025 |work=[[BBC News]] |date=1 June 2025}}</ref>
+
+==Notes==
+{{noteslist}}
+
+==See also==
+*[[2025 UEFA Europa League final]]
+*[[2025 UEFA Conference League final]]
+*[[2025 UEFA Women's Champions League final]]
+*[[Inter Milan in international football]]
+*[[Paris Saint-Germain FC in international football]]
+*[[2024–25 Paris Saint-Germain FC season]]
+*[[2024–25 Inter Milan season]]
+*[[2025 Paris Saint-Germain celebration riots]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefachampionsleague/}}
+
+{{UEFA Champions League seasons}}
+{{2024–25 in European football (UEFA)}}
+{{Paris Saint-Germain FC matches}}
+{{Inter Milan matches}}
+
+{{DEFAULTSORT:UEFA Champions League final 2025}}
+[[Category:UEFA Champions League finals|2025]]
+[[Category:2024–25 UEFA Champions League|Final]]
+[[Category:2024–25 in French men's football]]
+[[Category:2024–25 in Italian football]]
+[[Category:Paris Saint-Germain FC matches]]
+[[Category:Inter Milan matches]]
+[[Category:May 2025 sports events in Germany]]
+[[Category:2020s in Munich]]
+[[Category:2024–25 in German football]]
+[[Category:Football matches in Munich]]
+[[Category:France–Italy football rivalry|2025]]

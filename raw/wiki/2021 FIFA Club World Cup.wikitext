@@ -1,0 +1,564 @@
+{{Short description|International association football tournament held in 2022}}
+{{Use dmy dates|date=December 2022}}
+{{for multi|the Club World Cup tournament planned for 2020 and postponed to early 2021|2020 FIFA Club World Cup}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2021
+| other_titles   = FIFA Club World Cup UAE 2021<br>presented by Alibaba Cloud<br>كأس العالم للأندية لكرة القدم<br>الإمارات العربية المتحدة 2021
+| image          = 2021 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA trophy}}
+| country        = United Arab Emirates
+| dates          = {{nowrap|3–12 February 2022}}
+| num_teams      = 7
+| confederations = 6
+| venues         = 2
+| cities         = 1
+| champion_other = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| count          = 1
+| second_other   = {{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| third_other    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| fourth_other   = {{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+| matches        = 8
+| goals          = 27
+| attendance     = 100752
+| top_scorer     = {{nowrap|{{fbaicon|BEL}} [[Romelu Lukaku]] (Chelsea)<br/>{{fbaicon|BRA}} [[Raphael Veiga]] (Palmeiras)<br/>{{fbaicon|EGY}} [[Yasser Ibrahim]] (Al Ahly)<br/>{{fbaicon|MLI}} [[Abdoulay Diaby]] (Al-Jazira)<br/>2 goals each}}
+| player         = {{fbaicon|BRA}} [[Thiago Silva]] (Chelsea)
+| fair_play      = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| prevseason     = [[2020 FIFA Club World Cup|2020]]
+| nextseason     = [[2022 FIFA Club World Cup|2022]]
+}}
+The '''2021 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup UAE 2021 presented by Alibaba Cloud''' for sponsorship reasons) was the 18th edition of the [[FIFA Club World Cup]], a [[FIFA]]-organised international club [[association football|football]] tournament between the winners of the six continental confederations, as well as the host nation's league champions. The tournament was held from 3 to 12 February 2022 in the [[United Arab Emirates]].<ref name="dates">{{cite news |url=https://www.fifa.com/media-releases/update-on-fifa-club-world-cup-and-ofc-preliminary-competition-for-qatar-2022 |title=Update on FIFA Club World Cup and OFC preliminary competition for Qatar 2022 |work=FIFA |date=29 November 2021 |access-date=29 November 2021}}</ref>
+
+Defending champions [[FC Bayern Munich|Bayern Munich]] did not qualify as they were eliminated in the quarter-finals of the [[2020–21 UEFA Champions League]]. The eventual winners of that competition, [[Chelsea F.C.|Chelsea]], won the Club World Cup for the first time, beating [[Al Hilal SFC|Al-Hilal]] of Saudi Arabia 1–0 in the semi-finals before requiring [[Overtime (sports)#Association football|extra time]] to claim a 2–1 win over Brazilian side [[Sociedade Esportiva Palmeiras|Palmeiras]] in the [[2021 FIFA Club World Cup Final|final]].
+
+==Host appointment==
+An expanded Club World Cup in China was planned to be held in June and July 2021.<ref>{{cite news |last=Harris |first=Rob |url=https://www.apnews.com/8602ada7064c4a14b02a19c502220cdc |title=FIFA wants 24-team Club World Cup in 2021 |website=APNews.com |publisher=[[Associated Press]] |date=13 March 2019 |access-date=16 March 2019}}</ref><ref>{{cite news |url=https://www.fifa.com/about-fifa/who-we-are/news/fifa-council-unanimously-appoints-china-pr-as-hosts-of-new-club-world-cup-in-202 |title=FIFA Council unanimously appoints China PR as hosts of new Club World Cup in 2021 |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=24 October 2019 |access-date=24 October 2019}}</ref> However, due to fixture congestion caused by the postponement of the [[2020 Summer Olympics]] and the [[Impact of the COVID-19 pandemic on association football|impact of the COVID-19 pandemic on football]], the Tokyo Olympics, [[UEFA Euro 2020|UEFA European Championship]] and [[2021 Copa América|Copa América]] were postponed from mid-2020 to mid-2021. As a result, FIFA announced in March 2020 that they would postpone the expanded Club World Cup to later in 2021, 2022 or 2023,<ref>{{cite news |url=https://www.fifa.com/who-we-are/news/statement-from-the-fifa-president |title=Statement from the FIFA President |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=17 March 2020 |access-date=17 March 2020}}</ref><ref>{{cite news |url=https://www.fifa.com/who-we-are/news/bureau-of-the-fifa-council-decisions-concerning-impact-of-covid-19 |title=Bureau of the FIFA Council decisions concerning impact of COVID-19 |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 March 2020 |access-date=18 March 2020}}</ref> before commencing it in [[2025 FIFA Club World Cup|2025]].<ref>{{cite news |last1=Olley |first1=James |title=FIFA to launch new Club World Cup format with 32 teams in 2025 |url=https://www.espn.com/soccer/fifa-club-world-cup/story/4832860/fifa-to-launch-new-club-world-cup-with-32-teams-in-2025 |access-date=16 December 2022 |work=[[ESPN]] |date=16 December 2022}}</ref>
+
+On 4 December 2020, the [[FIFA Council]] announced that the Club World Cup, using the previous format, would be held in late 2021 and hosted by Japan.<ref>{{cite news |url=https://www.fifa.com/who-we-are/news/fifa-council-passes-landmark-reforms-for-female-players-and-coaches-agrees-furth |title=FIFA Council passes landmark reforms for female players and coaches, agrees further steps in COVID-19 response |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=4 December 2020 |access-date=4 December 2020}}</ref> However, on 8&nbsp;September 2021, the [[Japan Football Association]] dropped its commitment to host the tournament, owing to the possibility of restrictions on fan attendance due to the [[COVID-19 pandemic in Japan]].<ref>{{cite web|url=https://www.fifa.com/news/update-on-fifa-club-world-cup-2021|title=Update on FIFA Club World Cup 2021|work=FIFA|access-date=10 September 2021}}</ref><ref>{{Cite web|date=8 September 2021|title=Asian Youth Games in China postponed to 2022 owing to virus; Japan drops 2021 Club World Cup|url=https://www.straitstimes.com/sport/asian-youth-games-in-china-postponed-to-2022-owing-to-virus-japan-drops-2021-club-world-cup|access-date=8 September 2021|website=The Straits Times}}</ref> Numerous countries expressed interest in hosting the tournament as bidding was reopened, including Brazil, Egypt, Qatar, Saudi Arabia, South Africa, and the United Arab Emirates.<ref>{{cite news |last=Ogden |first=Mark |url=https://www.espn.co.uk/football/fifa-club-world-cup/story/4488688/fifa-club-world-cup-south-africa-to-rival-qataruae-as-potential-hosts-sources |title=FIFA Club World Cup: South Africa to rival Qatar, UAE as potential hosts - sources |work=[[ESPN]] |date=2 October 2021 |access-date=20 October 2021}}</ref><ref>{{cite news |url=https://extra.globo.com/esporte/rio-deve-ser-candidato-sede-do-mundial-de-clubes-de-2021-diz-secretario-estamos-nos-movimentando-25199889.html |title=Rio deve ser candidato a sede do Mundial de Clubes de 2021, diz secretário: 'Estamos nos movimentando' |trans-title=Rio should be a candidate to host the 2021 Club World Cup, says secretary: 'We are moving' |work=Globo |date=16 September 2021 |access-date=20 October 2021 |language=pt}}</ref><ref>{{cite news |url=https://www.winwin.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A5%D8%AD%D8%AF%D8%A7%D9%87%D8%A7-%D9%85%D8%B5%D8%B1-3-%D8%AF%D9%88%D9%84-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-%D9%85%D8%B1%D8%B4%D8%AD%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%8A%D8%A9 |title=إحداها مصر.. 3 دول إفريقية مرشحة لاستضافة مونديال الأندية |trans-title=One of them is Egypt.. 3 African countries are candidates to host the Club World Cup |website=winwin.com |date=13 September 2021 |access-date=21 October 2021 |language=ar}}</ref><ref>{{cite news |url=https://www.winwin.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AE%D8%A7%D8%B5-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D9%88%D9%82%D9%81%D9%87-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%8A%D8%A9-2021 |title=خاص.. المغرب يكشف موقفه من استضافة مونديال الأندية 2021 |trans-title=Special.. Morocco reveals its position on hosting the 2021 FIFA Club World Cup |website=winwin.com |date=15 September 2021 |access-date=21 October 2021 |language=ar}}</ref> On 20 October 2021, the [[FIFA Council]] named the United Arab Emirates as the host of the tournament, and postponed the event from late 2021 to early 2022.<ref>{{cite news |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-endorses-global-summit-to-discuss-the-future-of-football |title=FIFA Council endorses global summit to discuss the future of football |work=[[FIFA]] |date=20 October 2021 |access-date=20 October 2021}}</ref>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of the teams participating in the 2021 FIFA Club World Cup|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-23.600008|long=-46.500002|label_size=80|label=[[Sociedade Esportiva Palmeiras|Palmeiras]]|position=left}}
+<!--UEFA-->
+{{Location map~|World|lat=51.48167|long=-0.191111|label_size=80|label=[[Chelsea F.C.|Chelsea]]|position=right}}
+<!--AFC-->
+{{Location map~|World|lat=24.729248|long=46.623661|label_size=80|label=[[Al Hilal SFC|Al-Hilal]]|position=bottom}}
+<!--CAF-->
+{{Location map~|World|lat=30.069114|long=31.312333|label_size=80|label=[[Al Ahly SC|Al Ahly]]|position=left}}
+<!--CONCACAF-->
+{{Location map~|World|lat=25.666667|long=-100.3|label_size=80|label=[[C.F. Monterrey|Monterrey]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-17.526785|long=-149.551795|label_size=80|label=[[A.S. Pirae|AS Pirae]]|position=right}}
+<!--Host-->
+{{Location map~|World|lat=24.452627|long=54.392273|label_size=80|label=[[Al Jazira Club|Al-Jazira]]|position=right}}
+}}
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Qualified date
+!Participation
+|-
+!colspan=5|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|[[CONMEBOL]]
+|Winners of the [[2021 Copa Libertadores]]
+|{{dts|2021|11|27|format=dmy}}
+|2nd {{small|(Previous: [[2020 FIFA Club World Cup|2020]])}}
+|-
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|[[UEFA]]
+|Winners of the [[2020–21 UEFA Champions League]]
+|{{dts|2021|5|29|format=dmy}}
+|2nd {{small|(Previous: [[2012 FIFA Club World Cup|2012]])}}
+|-
+!colspan=5|Entering in the [[#Second round|second round]]
+|-
+|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2021 AFC Champions League]]
+|{{dts|2021|11|23|format=dmy}}
+|2nd {{small|(Previous: [[2019 FIFA Club World Cup|2019]])}}
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2020–21 CAF Champions League]]
+|{{dts|2021|7|17|format=dmy}}
+|7th {{small|(Previous: [[2005 FIFA Club World Championship|2005]], [[2006 FIFA Club World Cup|2006]], [[2008 FIFA Club World Cup|2008]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]], [[2020 FIFA Club World Cup|2020]])}}
+|-
+|{{nowrap|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]}}
+|[[CONCACAF]]
+|Winners of the [[2021 CONCACAF Champions League]]
+|{{dts|2021|10|28|format=dmy}}
+|5th {{small|(Previous: [[2011 FIFA Club World Cup|2011]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]], [[2019 FIFA Club World Cup|2019]])}}
+|-
+!colspan=5|Entering in the [[#First round|first round]]
+|-
+|{{fbaicon|TAH}} [[A.S. Pirae|AS Pirae]]
+|[[Oceania Football Confederation|OFC]]
+|Nominated by OFC{{refn|group=note|name=OFC|The [[2021 OFC Champions League]] was cancelled due to the [[COVID-19 pandemic]].<ref>{{cite web|url=https://www.oceaniafootball.com/ofc-competitions-calendar-rescheduled/|title=OFC competitions calendar rescheduled|publisher=Oceania Football Confederation|date=4 June 2021}}</ref> Initially New Zealand's [[Auckland City FC|Auckland City]] were nominated to represent the OFC based on sporting merit principles,<ref>{{cite web|url=https://www.oceaniafootball.com/auckland-city-nominated-for-the-fifa-club-world-cup-2021/|title=Auckland City nominated for the FIFA Club World Cup 2021|publisher=Oceania Football Confederation|date=3 August 2021}}</ref> but they withdrew due to logistical complications related to the pandemic, and AS Pirae were chosen in their place.<ref>{{cite web|url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/media-releases/fifa-statement-on-ofc-representative-at-the-fifa-club-world-cup-uae-2021-tm|title=FIFA statement on OFC representative at the FIFA Club World Cup UAE 2021|publisher=Fédération Internationale de Football Association|date=31 December 2021}}</ref>}}
+|{{dts|2021|12|31|format=dmy}}
+|Debut
+|-
+||{{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+|[[Asian Football Confederation|AFC]] ([[United Arab Emirates Football Association|host]])
+|Winners of the [[2020–21 UAE Pro League]]
+||{{dts|2021|10|20|format=dmy}}{{refn|group=note|name=Hosts|Although Al-Jazira won the UAE Pro League on 11 May, and the last remaining team from the United Arab Emirates in the [[2021 AFC Champions League]] was eliminated on 16 October, Al-Jazira's participation was not confirmed until the United Arab Emirates was appointed as tournament host on 20 October.}}
+||2nd {{small|(Previous: [[2017 FIFA Club World Cup|2017]])}}
+|}
+
+'''Notes'''
+{{reflist|group=note}}
+
+==Venues==
+The matches were played at two venues in the city of [[Abu Dhabi]], both of which hosted matches at the [[2019 AFC Asian Cup]].
+
+{| class="wikitable" style="text-align:center"
+|+
+! colspan="2" |[[Abu Dhabi]]
+! rowspan="4" |{{location map+|United Arab Emirates|float=center|caption=Location of the host city of the 2021 FIFA Club World Cup.|places={{Location map~|United Arab Emirates|lat=24.4527|long=54.3920|position=left|label=[[Abu Dhabi]]}}|width=320}}
+|-
+|[[Mohammed bin Zayed Stadium]]
+|[[Al Nahyan Stadium]]
+|-
+|Capacity: '''37,500'''
+|Capacity: '''15,000'''
+|-
+|[[File:IRN-YMN_20190107_Asian_Cup_4.jpg|205x205px]]
+|[[File:IRN-VIETNAM_20190112_Asian_Cup_2.jpg|205x205px]]
+|}
+
+==Match officials==
+Five [[referee (association football)|referee]]s, ten [[assistant referee (association football)|assistant referee]]s, and seven [[video assistant referee]]s were appointed for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/media-releases/match-officials-for-the-fifa-club-world-cup-uae-2021-tm-appointed |title=Match officials for the FIFA Club World Cup UAE 2021 appointed |publisher=Fédération Internationale de Football Association|website=FIFA.com |date=18 January 2022|access-date=18 January 2022}}</ref><ref>{{cite web |url=https://digitalhub.fifa.com/m/57de9a0da6a0a911/original/FIFA-Club-World-CUp-UAE-2021-Match-Official-Proposal-List.pdf |title=FIFA Club World Cup UAE 2021 – List of Appointed Match Officials |publisher=Fédération Internationale de Football Association|website=FIFA.com |date=18 January 2022|access-date=18 January 2022}}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referees
+!Assistant referees
+!Video assistant referees
+|-
+|[[Asian Football Confederation|AFC]]
+|{{fbaicon|AUS}} [[Chris Beath]]
+|{{unbulleted list|{{fbaicon|AUS}} Anton Shchetinin|{{fbaicon|AUS}} Ashley Beecham}}
+|{{fbaicon|UAE}} [[Ammar Al-Jeneibi]]
+|-
+|[[Confederation of African Football|CAF]]
+|{{fbaicon|ALG}} [[Mustapha Ghorbal]]
+|{{unbulleted list|{{fbaicon|ALG}} Mokrane Gourari|{{fbaicon|ALG}} Abdelhak Etchiali}}
+|
+|-
+|[[CONCACAF]]
+|{{fbaicon|MEX}} [[César Arturo Ramos|César Ramos]]
+|{{unbulleted list|{{fbaicon|MEX}} Alberto Morin|{{fbaicon|MEX}} Miguel Hernández}}
+|{{fbaicon|CAN}} [[Drew Fischer]]
+|-
+|[[CONMEBOL]]
+|{{fbaicon|ARG}} [[Fernando Rapallini]]
+|{{unbulleted list|{{fbaicon|ARG}} Juan Pablo Belatti|{{fbaicon|ARG}} Diego Bonfá}}
+|{{unbulleted list|{{fbaicon|COL}} [[Nicolás Gallo (referee)|Nicolás Gallo]]|{{fbaicon|ARG}} Mauro Vigliano}}
+|-
+|[[UEFA]]
+|{{fbaicon|FRA}} [[Clément Turpin]]
+|{{unbulleted list|{{fbaicon|FRA}} Nicolas Danos|{{fbaicon|FRA}} Cyril Gringore}}
+|{{unbulleted list|{{fbaicon|FRA}} [[Willy Delajod]]|{{fbaicon|ITA}} [[Massimiliano Irrati]]|{{fbaicon|NED}} [[Pol van Boekel]]}}
+|}
+
+One support referee was also named for the tournament.
+
+{| class="wikitable"
+|-
+!Confederation
+!Support referee
+|-
+|[[Oceania Football Confederation|OFC]]
+|{{fbaicon|PNG}} David Yareboinen
+|}
+
+[[Semi-automated offside technology]] was tested during the tournament.<ref>{{cite web|url=https://www.fifa.com/technical/football-technology/news/semi-automated-offside-tech-aids-referees-and-fans-at-fifa-club-world-cup-tm|title=Semi-automated offside tech aids referees and fans at FIFA Club World Cup |publisher=FIFA.com|date=9 February 2022}}</ref>
+
+==Squads==
+{{main|2021 FIFA Club World Cup squads}}
+
+Each team named a 23-man squad (three of whom had to be goalkeepers). Injury replacements were allowed until 24 hours before the team's first match.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/16c552bf1a535258/original/FIFA-Club-World-Cup-UAE-2021-Regulations.pdf |title=Regulations FIFA Club World Cup UAE 2021 |work=FIFA |date=29 November 2021 |access-date=29 November 2021}}</ref>
+
+==Matches==
+The draw of the tournament was held on 29 November 2021, 17:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]]), at the FIFA headquarters in [[Zurich]], Switzerland, to decide the matchups of the second round (between the first round winner and teams from AFC, CAF and CONCACAF), and the opponents of the two second round winners in the semi-finals (against teams from CONMEBOL and UEFA).<ref>{{cite news |url=https://www.fifa.com/media-releases/fifa-club-world-cup-uae-2021-draw-to-take-place-29-november |title=FIFA Club World Cup UAE 2021 draw to take place on 29 November |work=FIFA |date=24 November 2021 |access-date=29 November 2021}}</ref>
+
+If a match was tied after normal playing time:<ref name="regulations"/>
+*For elimination matches, [[Overtime (sports)#Association football|extra time]] was played. If still tied after extra time, a [[Penalty shoot-out (association football)|penalty shoot-out]] was held to determine the winner.
+*For the matches for fifth place and third place, no extra time was played, and a penalty shoot-out was held to determine the winner.
+ 
+{{7TeamBracket-StepladderToSF
+| style       = 5
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#First round|First round]]
+| RD2         = [[#Second round|Second round]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD3b        = [[#Match for fifth place|Match for fifth place]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- First round -->
+| RD1-text1    = 3 February – [[Mohammed bin Zayed Stadium|Abu Dhabi (MBZ)]]
+| RD1-team1    = {{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+| RD1-score1   = 4
+| RD1-team2    = {{fbaicon|TAH}} [[A.S. Pirae|AS Pirae]]
+| RD1-score2   = 1
+
+<!-- Second round -->
+| RD2-text1    = 6 February – [[Mohammed bin Zayed Stadium|Abu Dhabi (MBZ)]]
+| RD2-team1    = {{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+| RD2-score1   = 6
+| RD2-team2    = {{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+| RD2-score2   = 1
+
+| RD2-text2    = 5 February – [[Al Nahyan Stadium|Abu Dhabi (ANS)]]
+| RD2-team3    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD2-score3   = 1
+| RD2-team4    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| RD2-score4   = 0
+
+<!-- Semi-finals -->
+| RD3-text1    = 9 February – [[Mohammed bin Zayed Stadium|Abu Dhabi (MBZ)]]
+| RD3-team1    = {{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+| RD3-score1   = 0
+| RD3-team2    = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| RD3-score2   = 1
+
+| RD3-text2    = 8 February – [[Al Nahyan Stadium|Abu Dhabi (ANS)]]
+| RD3-team3    = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+| RD3-score3   = 2
+| RD3-team4    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD3-score4   = 0
+
+<!-- Final -->
+| RD4-text1    = 12 February – [[Mohammed bin Zayed Stadium|Abu Dhabi (MBZ)]]
+| RD4-team1    = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]] {{aet}}
+| RD4-score1   = 2
+| RD4-team2    = {{fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+| RD4-score2   = 1
+
+<!-- Match for fifth place -->
+| RD3-text3    = 9 February – [[Al Nahyan Stadium|Abu Dhabi (ANS)]]
+| RD3-team5    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| RD3-score5   = 3
+| RD3-team6    = {{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+| RD3-score6   = 1
+
+<!-- Match for third place -->
+| RD4-text2    = 12 February – [[Al Nahyan Stadium|Abu Dhabi (ANS)]]
+| RD4-team3    = {{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+| RD4-score3   = 0
+| RD4-team4    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD4-score4   = 4
+}}
+
+All times are local, [[Gulf Standard Time|GST]] ([[UTC+4:00|UTC+4]]).<ref name="schedule">{{cite web |url=https://digitalhub.fifa.com/m/3b56a31429e32a75/original/fcwc2021_MatchSchedule_latest.pdf |title=FIFA Club World Cup UAE 2021: Match schedule |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=2 January 2022 |access-date=2 January 2022}}</ref>
+
+===First round===
+{{Football box
+|date={{Start date|2022|2|3|df=y}}
+|time=20:30
+|team1=[[Al Jazira Club|Al-Jazira]] {{fbaicon|UAE}}
+|score=4–1
+|report=https://www.fifa.com/en/match-centre/match/107/285345/285348/400213179
+|team2={{fbaicon|TAH}} [[A.S. Pirae|AS Pirae]]
+|goals1=
+*[[Zayed Al-Ameri|Al-Ameri]] {{goal|5}}
+*[[Ahmed Al-Attas|A. Al-Attas]] {{goal|25}}
+*[[Miloš Kosanović|Kosanović]] {{goal|41}}
+*[[Abdoulay Diaby|Diaby]] {{goal|63}}
+|goals2=
+*[[Mohammed Rabii (footballer)|Rabii]] {{goal|48|o.g.}}
+|stadium=[[Mohammed bin Zayed Stadium]], [[Abu Dhabi]]
+|attendance=4,970<ref>{{cite web|url=https://api.fifa.com/api/v1/live/football/2/0/0/400213179|title=Al-Jazira vs. AS Pirae|website=FIFA.com|publisher=Fédération Internationale de Football Association|date=3 February 2022|access-date=3 February 2022|archive-date=3 February 2022|archive-url=https://web.archive.org/web/20220203192041/https://api.fifa.com/api/v1/live/football/2/0/0/400213179|url-status=dead}}</ref>
+|referee=[[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+}}
+
+===Second round===
+{{Football box
+|date={{Start date|2022|2|5|df=y}}
+|time=20:30
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=1–0
+|report=https://www.fifa.com/en/match-centre/match/107/285345/285347/400213177
+|team2={{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|goals1=
+*[[Mohamed Hany|Hany]] {{goal|53}}
+|goals2=
+|stadium=[[Al Nahyan Stadium]], [[Abu Dhabi]]
+|attendance=9,396<ref>{{cite web|url=https://api.fifa.com/api/v1/live/football/2/0/0/400213177|title=Al Ahly vs. Monterrey|website=FIFA.com|publisher=Fédération Internationale de Football Association|date=5 February 2022|access-date=5 February 2022|archive-date=5 February 2022|archive-url=https://web.archive.org/web/20220205182458/https://api.fifa.com/api/v1/live/football/2/0/0/400213177|url-status=dead}}</ref>
+|referee=[[Chris Beath]] ([[Football Australia|Australia]])
+}}
+----
+{{Football box
+|date={{Start date|2022|2|6|df=y}}
+|time=20:30
+|team1=[[Al Hilal SFC|Al-Hilal]] {{fbaicon|KSA}}
+|score=6–1
+|report=https://www.fifa.com/en/match-centre/match/107/285345/285347/400213178
+|team2={{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+|goals1=
+*[[Odion Ighalo|Ighalo]] {{goal|36}}
+*[[Matheus Pereira (footballer, born 1996)|Pereira]] {{goal|40}}
+*[[Mohamed Kanno|Kanno]] {{goal|57}}
+*[[Salem Al-Dawsari|Al-Dawsari]] {{goal|77}}
+*[[Moussa Marega|Marega]] {{goal|88}}
+*[[André Carrillo|Carrillo]] {{goal|90+2|pen.}}
+|goals2=
+*[[Abdoulay Diaby|Diaby]] {{goal|14}}
+|stadium=[[Mohammed bin Zayed Stadium]], [[Abu Dhabi]]
+|attendance=12,538<ref>{{cite web|url=https://api.fifa.com/api/v1/live/football/2/0/0/400213178|title=Al-Hilal vs. Al-Jazira|website=FIFA.com|publisher=Fédération Internationale de Football Association|date=6 February 2022|access-date=6 February 2022|archive-date=8 February 2022|archive-url=https://web.archive.org/web/20220208005304/https://api.fifa.com/api/v1/live/football/2/0/0/400213178|url-status=dead}}</ref>
+|referee=[[César Arturo Ramos|César Ramos]] ([[Mexican Football Federation|Mexico]])
+}}
+
+===Semi-finals===
+{{Football box
+|date={{Start date|2022|2|8|df=y}}
+|time=20:30
+|team1=[[SE Palmeiras|Palmeiras]] {{fbaicon|BRA}}
+|score=2–0
+|report=https://www.fifa.com/en/match-centre/match/107/285345/285350/400213180
+|team2={{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|goals1=
+*[[Raphael Veiga|Veiga]] {{goal|39}}
+*[[Dudu (footballer, born 1992)|Dudu]] {{goal|49}}
+|goals2=
+|stadium=[[Al Nahyan Stadium]], [[Abu Dhabi]]
+|attendance=11,902<ref>{{cite web|url=https://api.fifa.com/api/v1/live/football/2/0/0/400213180|title=Palmeiras vs. Al Ahly|website=FIFA.com|publisher=Fédération Internationale de Football Association|date=8 February 2022|access-date=8 February 2022|archive-date=10 February 2022|archive-url=https://web.archive.org/web/20220210070603/https://api.fifa.com/api/v1/live/football/2/0/0/400213180|url-status=dead}}</ref>
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+}}
+----
+{{Football box
+|date={{Start date|2022|2|9|df=y}}
+|time=20:30
+|team1=[[Al Hilal SFC|Al-Hilal]] {{fbaicon|KSA}}
+|score=0–1
+|report=https://www.fifa.com/en/match-centre/match/107/285345/285350/400213181
+|team2={{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1=
+|goals2=
+*[[Romelu Lukaku|Lukaku]] {{goal|32}}
+|stadium=[[Mohammed bin Zayed Stadium]], [[Abu Dhabi]]
+|attendance=19,175<ref>{{cite web|url=https://api.fifa.com/api/v1/live/football/2/0/0/400213181|title=Al-Hilal vs. Chelsea|website=FIFA.com|publisher=Fédération Internationale de Football Association|date=9 February 2022|access-date=9 February 2022|archive-date=10 February 2022|archive-url=https://web.archive.org/web/20220210060543/https://api.fifa.com/api/v1/live/football/2/0/0/400213181|url-status=dead}}</ref>
+|referee=[[César Arturo Ramos|César Ramos]] ([[Mexican Football Federation|Mexico]])
+}}
+
+===Match for fifth place===
+{{Football box
+|date={{Start date|2022|2|9|df=y}}
+|time=17:30
+|team1=[[C.F. Monterrey|Monterrey]] {{fbaicon|MEX}}
+|score=3–1
+|report=https://www.fifa.com/en/match-centre/match/107/285345/285353/400213184
+|team2={{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+|goals1=
+*[[Zayed Sultan|Sultan]] {{goal|4|o.g.}}
+*[[Rogelio Funes Mori|Funes Mori]] {{goal|11}}
+*[[César Montes|Montes]] {{goal|25}}
+|goals2=
+*[[Bruno (footballer, born 2001)|Bruno]] {{goal|90+1}}
+|stadium=[[Al Nahyan Stadium]], [[Abu Dhabi]]
+|attendance=892<ref>{{cite web|url=https://api.fifa.com/api/v1/live/football/2/0/0/400213184|title=Monterrey vs. Al-Jazira|website=FIFA.com|publisher=Fédération Internationale de Football Association|date=9 February 2022|access-date=9 February 2022|archive-date=9 February 2022|archive-url=https://web.archive.org/web/20220209152353/https://api.fifa.com/api/v1/live/football/2/0/0/400213184|url-status=dead}}</ref>
+|referee=[[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+}}
+
+===Match for third place===
+{{Football box
+|date={{Start date|2022|2|12|df=y}}
+|time=17:00
+|team1=[[Al Hilal SFC|Al-Hilal]] {{fbaicon|KSA}}
+|score=0–4
+|report=https://www.fifa.com/en/match-centre/match/107/285345/285352/400213183
+|team2={{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|goals1=
+|goals2=
+*[[Yasser Ibrahim|Ibrahim]] {{goal|8||17}}
+*[[Ahmed Abdel Kader|Abdel Kader]] {{goal|40}}
+*[[Amr El Solia|El Solia]] {{goal|64}}
+|stadium=[[Al Nahyan Stadium]], [[Abu Dhabi]]
+|attendance=9,008<ref>{{cite web|url=https://api.fifa.com/api/v1/live/football/2/0/0/400213183|title=Al-Hilal vs. Al Ahly|website=FIFA.com|publisher=Fédération Internationale de Football Association|date=12 February 2022|access-date=12 February 2022|archive-date=13 February 2022|archive-url=https://web.archive.org/web/20220213011401/https://api.fifa.com/api/v1/live/football/2/0/0/400213183|url-status=dead}}</ref>
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+}}
+
+===Final===
+{{main|2021 FIFA Club World Cup final}}
+{{:2021 FIFA Club World Cup final}}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|rowspan=4|1
+|style="text-align:left"|{{flagicon|MLI}} [[Abdoulay Diaby]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+|rowspan=4|2
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Yasser Ibrahim]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|BEL}} [[Romelu Lukaku]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Raphael Veiga]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|-
+|rowspan=17|5
+|style="text-align:left"|{{flagicon|EGY}} [[Ahmed Abdel Kader]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|rowspan=17|1
+|-
+|style="text-align:left"|{{flagicon|UAE}} [[Zayed Al-Ameri]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+|-
+|style="text-align:left"|{{flagicon|UAE}} [[Ahmed Al-Attas]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+|-
+|style="text-align:left"|{{flagicon|KSA}} [[Salem Al-Dawsari]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Bruno (footballer, born 2001)|Bruno]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+|-
+|style="text-align:left"|{{flagicon|PER|football}} [[André Carrillo]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Dudu (footballer, born 1992)|Dudu]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Amr El Solia]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Rogelio Funes Mori]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Mohamed Hany]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|GER}} [[Kai Havertz]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|-
+|style="text-align:left"|{{flagicon|NGA}} [[Odion Ighalo]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|KSA}} [[Mohamed Kanno]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|SRB}} [[Miloš Kosanović]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+|-
+|style="text-align:left"|{{flagicon|MLI}} [[Moussa Marega]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[César Montes]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Matheus Pereira (footballer, born 1996)|Matheus Pereira]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|}
+
+'''1 own goal'''
+*{{flagicon|MAR}} [[Mohammed Rabii (footballer)|Mohammed Rabii]] ([[Al Jazira Club|Al-Jazira]], against [[A.S. Pirae|AS Pirae]])
+*{{flagicon|UAE}} [[Zayed Sultan]] ([[Al Jazira Club|Al-Jazira]], against [[C.F. Monterrey|Monterrey]])
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+The following awards were given at the conclusion of the tournament. [[Thiago Silva]] of [[Chelsea F.C.|Chelsea]] won the [[FIFA Club World Cup awards#Golden Ball|Golden Ball]] award, sponsored by [[Adidas]], which is jointly awarded with the [[Alibaba Cloud]] Award to recognise the player of the tournament.<ref>{{cite news |url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/news/thiago-silva-wins-adidas-golden-ball |title=Thiago Silva wins adidas Golden Ball as best player of UAE 2021 |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=12 February 2022 |access-date=12 February 2022}}</ref>
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Alibaba Cloud]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|BRA}} [[Thiago Silva]]<br />([[Chelsea F.C.|Chelsea]])
+|{{flagicon|BRA}} [[Dudu (footballer, born 1992)|Dudu]]<br />([[Sociedade Esportiva Palmeiras|Palmeiras]])
+|{{flagicon|BRA}} [[Danilo (footballer, born 2001)|Danilo]]<br />([[Sociedade Esportiva Palmeiras|Palmeiras]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|}
+
+FIFA also named a [[man of the match]] for the best player in each game at the tournament.
+
+{| class="wikitable sortable"
+|+ [[Alibaba Cloud]] Match Award
+|-
+! Match
+! Man of the match
+! Club
+! Opponent
+! class="unsortable" | {{abbr|Ref.|Reference}}
+|-
+!1
+|{{flagicon|UAE}} [[Mohammed Jamal (footballer, born 1994)|Mohammed Jamal]]||{{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]||{{fbaicon|TAH}} [[A.S. Pirae|AS Pirae]]
+|<ref>{{cite web |url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/news/wonder-goals-help-al-jazira-cruise-through |title=Wonder goals help Al Jazira cruise through |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=3 February 2022 |access-date=8 January 2023}}</ref>
+|-
+!2
+|{{flagicon|EGY}} [[Ramy Rabia]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]||{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|<ref>{{cite web |url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/news/al-ahly-monterrey-fifa-club-world-cup-matchday-two-review |title=Hany gem books Ahly semi with Palmeiras |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=5 February 2022 |access-date=8 January 2023}}</ref>
+|-
+!3
+|{{flagicon|BRA}} [[Matheus Pereira (footballer, born 1996)|Matheus Pereira]]||{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]||{{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+|<ref>{{cite web |url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/news/record-breaking-al-hilal-set-up-chelsea-semi |title=Record-breaking Al Hilal set up Chelsea semi |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=6 February 2022 |access-date=8 January 2023}}</ref>
+|-
+!4
+|{{flagicon|BRA}} [[Raphael Veiga]]||{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|<ref>{{cite web |url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/news/fifa-club-world-cup-2021-matchday-three-review-palmeiras-al-ahly |title=Veiga, Dudu propel Palmeiras into final |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=8 February 2022 |access-date=8 January 2023}}</ref>
+|-
+!5
+|{{flagicon|ARG}} [[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]]||{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]||{{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+|<ref name="5th and SF2">{{cite web |url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/news/lukaku-sends-chelsea-into-final |title=Lukaku fires Chelsea to the final |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=9 February 2022 |access-date=8 January 2023}}</ref>
+|-
+!6
+|{{flagicon|CRO}} [[Mateo Kovačić]]||{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]||{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|<ref name="5th and SF2"/>
+|-
+!7
+|{{flagicon|EGY}} [[Yasser Ibrahim]]||{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]||{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|<ref name="3rd and final">{{cite web |url=https://www.fifa.com/tournaments/mens/clubworldcup/uae2021/news/havertz-the-hero-as-chelsea-conquer-the-world |title=Havertz the hero as Chelsea conquer the world |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=12 February 2022 |access-date=12 February 2022}}</ref>
+|-
+!8
+|{{flagicon|GER}} [[Antonio Rüdiger]]||{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]||{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+||<ref name="3rd and final"/>
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*{{Official website|https://www.fifa.com/tournaments/mens/clubworldcup/uae2021}}
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2021 FIFA Club World Cup| ]]
+[[Category:FIFA Club World Cup tournaments|2021]]
+[[Category:2022 in men's association football|Club World Cup]]
+[[Category:Men's football competitions in the United Arab Emirates]]
+[[Category:2021–22 in Emirati football]]
+[[Category:February 2022 sports events in the United Arab Emirates]]
+[[Category:2021–22 in English men's football]]
+[[Category:2021–22 in Saudi Arabian football]]
+[[Category:2021–22 in Egyptian football]]
+[[Category:2021 in Brazilian football]]
+[[Category:2022 in Brazilian football]]
+[[Category:2021–22 in Mexican football]]
+[[Category:2021 in French Polynesian sport]]
+[[Category:2022 in French Polynesian sport]]
+[[Category:Football club competitions in the United Arab Emirates]]
+[[Category:Association football events postponed due to the COVID-19 pandemic]]

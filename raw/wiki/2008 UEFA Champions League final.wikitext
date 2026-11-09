@@ -1,0 +1,627 @@
+{{Short description|Football match in Moscow, Russia}}
+{{good article}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox football match
+| title                   = 2008 UEFA Champions League final
+| image                   = 2008 UEFA Champions League Final logo.jpg
+| caption                 = Match programme cover
+| event                   = [[2007–08 UEFA Champions League]]
+| team1                   = [[Manchester United F.C.|Manchester United]]
+| team1association        = {{fbaicon|ENG|size=30px}}
+| team1score              = 1
+| team2                   = [[Chelsea F.C.|Chelsea]]
+| team2association        = {{fbaicon|ENG|size=30px}}
+| team2score              = 1
+| details                 = After [[Overtime (sports)#Association football|extra time]]<br />Manchester United won 6–5 on [[Penalty shoot-out (association football)|penalties]]
+| date                    = 21 May 2008
+| stadium                 = [[Luzhniki Stadium]]
+| city                    = [[Moscow]]
+| man_of_the_match1a      = [[Edwin van der Sar]] {{nowrap|(Manchester United)}}<ref name="man of the match">{{cite book |location=Nyon |chapter-url=https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |chapter=2. Finals |title=UEFA Champions League Statistics Handbook 2022/23 |publisher=Union of European Football Associations |page=15 |date=4 June 2023 |access-date=17 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20230821082639/https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |archive-date=21 August 2023}}</ref>
+| man_of_the_match1atitle = UEFA
+| man_of_the_match1b      = [[Cristiano Ronaldo]] {{nowrap|(Manchester United)}}
+| man_of_the_match1btitle = Fans'
+| referee                 = [[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])<ref>{{cite news|title=Referee appointed for UEFA Champions League final |url=https://www.uefa.com/MultimediaFiles/Download/pressrelease/uefa/uefamedia/69/77/15/697715_download.pdf|work=[[UEFA]] |publisher=Union of European Football Associations |date=19 May 2008 |access-date=19 May 2008 }}</ref>
+| attendance              = 67,310<ref name="full time"/>
+| weather                 = Cloudy<br />{{convert|14|°C|°F}}<br />96% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2008/301604_LU.pdf |title=Tactical Line-ups – Final – Wednesday 21 May 2008 |website=[[UEFA]] |publisher=Union of European Football Associations|date=21 May 2008 |access-date=20 May 2009}}</ref>
+| previous                = [[2007 UEFA Champions League final|2007]]
+| next                    = [[2009 UEFA Champions League final|2009]]
+}}
+The '''2008 UEFA Champions League final''' was a [[association football|football]] match that took place on 21 May 2008 at the [[Luzhniki Stadium]] in [[Moscow]], Russia, to determine the winner of the [[2007–08 UEFA Champions League]]. It was contested by [[Manchester United F.C.|Manchester United]] and [[Chelsea F.C.|Chelsea]], making it an all-English final for the first time in the history of the competition; it was only the third time that two clubs from the same country had contested the final, after [[2000 UEFA Champions League final|2000]] and [[2003 UEFA Champions League final|2003]]. It was the first European Cup final played in Russia, and hence the easternmost final in the tournament's history. It also marked the 100th anniversary of Manchester United's [[1907–08 Football League|first league triumph]], the 50th anniversary of the [[Munich air disaster]], and the 40th anniversary of United's first European Cup triumph in [[1968 European Cup final|1968]]. It was Manchester United's third European Cup final after 1968 and [[1999 UEFA Champions League final|1999]], while it was Chelsea's first.
+
+Manchester United won the match 6–5 on [[Penalty shoot-out (association football)|penalties]], following a 1–1 draw after [[Overtime (sports)#Association football|extra time]]. [[Cristiano Ronaldo]] opened the scoring for Manchester United in the 26th minute with a header from a cross by [[Wes Brown]], but [[Frank Lampard]] equalised shortly before half-time. The second half and most of extra time passed without incident until Chelsea's [[Didier Drogba]] was sent off for slapping [[Nemanja Vidić]] four minutes from the end. In the penalty shoot-out, Ronaldo missed Manchester United's third kick, giving [[John Terry]] the chance to win the title for Chelsea, only for his shot to hit the post when he slipped as he was about to kick the ball. [[Edwin van der Sar]] then saved [[Nicolas Anelka]]'s effort from Chelsea's seventh kick to secure Manchester United's third European Cup title.
+
+More than 67,000 people watched the game in the stadium, along with more than 17.5&nbsp;million television viewers in the United Kingdom and Ireland. In addition to prize money received from earlier in the competition, Manchester United received [[Euro|€]]7&nbsp;million for winning the final, while Chelsea received €4&nbsp;million. As winners, Manchester United went on to play in the [[2008 UEFA Super Cup]], losing 2–1 to [[2007–08 UEFA Cup]] winners [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]], and the [[2008 FIFA Club World Cup]], which they won after beating [[2008 Copa Libertadores]] winners [[LDU Quito]] 1–0 in the final.
+
+{{TOC limit|3}}
+
+==Background==
+Manchester United and Chelsea had played each other 150 times prior to the Champions League final, including 18 meetings in domestic cup competitions (the [[FA Cup]], the [[EFL Cup|Football League Cup]] and the [[FA Community Shield]]). Due to various historical restrictions regarding the number of teams from the same country entering European competitions, they had never met in Europe before. Manchester United held the upper hand in the teams' previous meetings, winning 65 times to Chelsea's 41, with 44 draws. Their cup record was equally good, winning 10 of their 18 meetings, with 4 draws and 4 Chelsea wins. However, honours were even in cup finals, with Manchester United having won the [[1994 FA Cup final]] 4–0, while Chelsea won the [[2007 FA Cup final]] 1–0, the last cup game between the two sides.<ref>{{cite web |title=United versus Chelsea |url=http://www.stretfordend.co.uk/opponents/chelsea.html |publisher=StretfordEnd.co.uk |access-date=29 June 2014 }}</ref> Manchester United responded to defeat in the 2007 FA Cup Final by beating Chelsea in the [[2007 FA Community Shield]] the following August, winning 3–0 on [[penalty shoot-out (association football)|penalties]] after a 1–1 draw in normal time.<ref name="background">{{cite web |title=Europe awaits all-English showdown |url=https://www.uefa.com/uefachampionsleague/news/01cd-0e6f5cd18477-8fc6258f3bf1-1000--europe-awaits-all-english-showdown/ |work=[[UEFA]] |publisher=Union of European Football Associations |year=2008 |access-date=28 April 2014 }}</ref> They went on to claim their 17th league title at the end of the [[2007–08 Premier League]] season, finishing two points ahead of Chelsea. Both teams went into the final game of the season level on points, but United were ahead of Chelsea because of their superior goal difference, meaning United's 2–0 win against [[Wigan Athletic F.C.|Wigan Athletic]] on the final day made Chelsea's late draw with [[Bolton Wanderers F.C.|Bolton Wanderers]] irrelevant.<ref>{{cite news |first=Phil |last=McNulty |title=Wigan 0-2 Man Utd |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/7381807.stm |website=BBC Sport |date=11 May 2008 |access-date=5 October 2021 }}</ref><ref>{{cite news |first=Paul |last=Fletcher |title=Chelsea 1-1 Bolton |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/7381780.stm |website=BBC Sport |date=11 May 2008 |access-date=5 October 2021 }}</ref> In the two sides' league meetings that season, United won 2–0 at [[Old Trafford]] in [[Avram Grant]]'s first game in charge of Chelsea on 23 September 2007, while Chelsea won 2–1 at [[Stamford Bridge (stadium)|Stamford Bridge]] in the return game on 26 April 2008.<ref name="background"/>
+
+Because of the aforementioned restrictions on entry to UEFA competitions, Manchester United had only met English opposition in Europe twice before,{{efn|Manchester United's first meeting against English opposition in Europe was in the second round of the [[1963–64 European Cup Winners' Cup]], when they played against defending champions [[Tottenham Hotspur F.C.|Tottenham Hotspur]] over [[Two-legged tie|two legs]] in December 1963; Tottenham won the first leg at [[White Hart Lane]] 2–0, but Manchester United won the second leg at [[Old Trafford]] 4–1 to qualify for the third round. The second meeting was against [[Everton F.C.|Everton]] in the third round of the non-UEFA [[1964–65 Inter-Cities Fairs Cup]]; Everton held Manchester United to a draw in the first leg at Old Trafford in January 1965, before United won the return leg 2–1 at [[Goodison Park]] three weeks later.<ref>{{cite web |title=United against teams from England |url=http://www.stretfordend.co.uk/realtreat/countries/england.html |publisher=StretfordEnd.co.uk |access-date=29 June 2014 }}</ref>}} while Chelsea had far more experience against English opposition, having played 12 matches against compatriot clubs, winning five, drawing five and losing just two.{{efn|In addition to their 4–3 aggregate win over [[Liverpool F.C.|Liverpool]] in the semi-final, Chelsea's first all-English European tie came in the semi-finals of the [[1970–71 European Cup Winners' Cup]] against defending champions [[Manchester City F.C.|Manchester City]], in which they won 1–0 in both legs of the tie. In [[2003–04 UEFA Champions League|2003–04]], they met [[Arsenal F.C.|Arsenal]] in the quarter-finals of the Champions League, drawing 1–1 at home, then winning 2–1 away. They were then drawn against Liverpool in the semi-finals of both the [[2004–05 UEFA Champions League|2004–05]] and [[2006–07 UEFA Champions League|2006–07]] competitions, losing 1–0 on aggregate in 2005 and 4–1 on penalties after a 1–1 aggregate draw in 2007. Chelsea also met Liverpool in the [[2005–06 UEFA Champions League|2005–06 Champions League]] group stage (Liverpool, who were defending champions, were not given association protection due to the unique nature of the way they qualified for the competition, having come through the qualifying rounds), both games finished 0–0.<ref>{{cite web |title=Manchester United FC - Chelsea FC – Match Press Kit |url=https://www.uefa.com/printoutfiles/competitions/ucl/2008/E/E_301604_pk.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=21 May 2008 |access-date=29 June 2014 |pages=4–5 |archive-url=https://web.archive.org/web/20141004125915/http://www.uefa.com/printoutfiles/competitions/ucl/2008/e/e_301604_pk.pdf |archive-date=4 October 2014 }}</ref>}} There had been two previous Champions League finals between teams from the same country: in [[2000 UEFA Champions League final|2000]], when [[Real Madrid CF|Real Madrid]] beat fellow Spanish side [[Valencia CF|Valencia]] 3–0 at the [[Stade de France]]; and in [[2003 UEFA Champions League final|2003]], when Italian sides [[AC Milan|Milan]] and [[Juventus FC|Juventus]] played out a 0–0 draw at Old Trafford before Milan won 3–2 on penalties.<ref>{{cite web |title=Manchester United FC - Chelsea FC – Match Press Kit |url=https://www.uefa.com/printoutfiles/competitions/ucl/2008/E/E_301604_pk.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=21 May 2008 |access-date=29 June 2014 |page=26 |archive-url=https://web.archive.org/web/20141004125915/http://www.uefa.com/printoutfiles/competitions/ucl/2008/e/e_301604_pk.pdf |archive-date=4 October 2014 }}</ref>
+
+Both sides had a connection to the early history of European football; Chelsea were invited to take part in the inaugural European Cup in [[1955–56 European Cup|1955–56]] as champions of England, only to be denied entry by [[The Football League]], allowing Manchester United to become the first English entrants in the competition the following season.<ref>{{cite book |last1=Ferris |first1=Ken |title=Manchester United in Europe: Tragedy, Destiny, History |edition=2nd |year=2004 |orig-year=2001 |publisher=Mainstream Publishing |location=Edinburgh |isbn=1-84018-897-9 |page=34 }}</ref> In February 1958, eight Manchester United players were killed in the [[Munich air disaster]], when the aeroplane carrying their team back from a match in Belgrade crashed while attempting to take off from a refuelling stop in Munich.<ref>{{cite web |title=1957/58: Di Stéfano shines for Madrid |url=http://www.uefa.com/uefachampionsleague/season=1957/overview/index.html |archive-url=https://web.archive.org/web/20111203063829/http://www.uefa.com/uefachampionsleague/season=1957/overview/index.html |url-status=dead |archive-date=3 December 2011 |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=30 April 2015 }}</ref> Manager [[Matt Busby]] was seriously injured in the crash and almost died as a result, but he rebuilt the team, and in May 1968, Manchester United became the first English winners of the European Cup, beating [[S.L. Benfica|Benfica]] 4–1 in the [[1968 European Cup final]].<ref>{{cite news |title=1968: Manchester Utd win European Cup |url=https://news.bbc.co.uk/onthisday/hi/dates/stories/may/29/newsid_4464000/4464446.stm |website=BBC News |date=29 May 1968 |access-date=30 April 2015 }}</ref> Chelsea won their first European trophy three years later, when they beat Real Madrid 2–1 in the [[1971 European Cup Winners' Cup final]] replay after a 1–1 draw in the first match.<ref>{{cite news |first=Charlie |last=Skillen |title=1971 Cup Winners' Cup Final: How Chelsea geared up for their first European triumph |url=https://www.fourfourtwo.com/features/1971-cup-winners-cup-final-how-chelsea-geared-up-for-their-first-european-triumph |work=FourFourTwo |publisher=Future Publishing |date=20 May 2021 |access-date=5 October 2021 }}</ref> Both Chelsea and Manchester United won that same competition during the 1990s – first Manchester United beat [[FC Barcelona|Barcelona]] 2–1 in the [[1991 European Cup Winners' Cup final|1991 final]]<ref>{{cite web |title=European Cup Winners' Cup |url=http://www.manutd.com/en/History/Trophy-Room/Trophy-Room/Trophies/European-Cup-Winners'-Cup.aspx |website=ManUtd.com |publisher=Manchester United |access-date=30 April 2015 |archive-url=https://web.archive.org/web/20150517180952/http://www.manutd.com/en/History/Trophy-Room/Trophy-Room/Trophies/European-Cup-Winners%27-Cup.aspx |archive-date=17 May 2015 |url-status=dead }}</ref> (followed by victory over [[Red Star Belgrade]] in the [[1991 European Super Cup|1991 Super Cup]]),<ref>{{cite web |title=1991: McClair makes United's day |url=http://www.uefa.com/uefasupercup/history/season=1991/index.html |archive-url=https://web.archive.org/web/20100704113322/http://www.uefa.com/uefasupercup/history/season=1991/index.html |url-status=dead |archive-date=4 July 2010 |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=30 April 2015 }}</ref> and then Chelsea beat [[VfB Stuttgart]] in the [[1998 UEFA Cup Winners' Cup final|1998 final]]<ref>{{cite news |title=Zola's first kick is the sweetest for Chelsea |url=https://news.bbc.co.uk/2/hi/sport/football/93222.stm |website=BBC News |date=13 May 1998 |access-date=5 October 2021 }}</ref> (followed by victory over Real Madrid in the [[1998 UEFA Super Cup|1998 Super Cup]],<ref>{{cite web |title=1998: Poyet strikes late for Chelsea |url=http://www.uefa.com/uefasupercup/history/season=1998/index.html |archive-url=https://web.archive.org/web/20100704113345/http://www.uefa.com/uefasupercup/history/season=1998/index.html |url-status=dead |archive-date=4 July 2010 |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=30 April 2015 }}</ref> their most recent European success at the time). Manchester United then won their second European Cup the following year, beating [[FC Bayern Munich|Bayern Munich]] in the [[1999 UEFA Champions League final|1999 Champions League final]].<ref>{{cite web |title=United super subs floor Bayern at the death |url=https://www.uefa.com/uefachampionsleague/news/01e8-0e6a21aa8a51-871133889c58-1000--1998-99-manchester-united-fc-2-1-fc-bayern-munchen-report/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=27 May 1999 |access-date=30 April 2015 }}</ref>
+
+==Venue==
+[[File:2008 0521 Moscow 04.jpg|thumb|The entrance to the UEFA Champions Festival in Red Square, Moscow|alt=Two large red obelisks supporting a metal gantry. People with umbrellas are passing underneath the gantry.]]
+The [[Luzhniki Stadium]] in Moscow was selected as the venue for the match at a meeting of the UEFA Executive Committee in [[Ljubljana]], Slovenia, on 4 October 2006. The committee – who decided the venue for the [[2009 UEFA Champions League final|2009 final]] and the [[2008 UEFA Cup final|2008]] and [[2009 UEFA Cup final]]s at the same meeting – based their decision on a number of factors, including stadium capacity, safety and security facilities, and accessibility.<ref name="moscow_chosen">{{cite news|first=Mark |last=Chaplin |title=Moscow chosen for 2008 final |url=http://en.archive.uefa.com/competitions/ucl/news/kind=1/newsid=464106.html |work=[[UEFA]] |publisher=Union of European Football Associations |date=4 October 2006 |access-date=12 May 2009 |url-status=dead |archive-url=https://web.archive.org/web/20160120233027/http://en.archive.uefa.com/competitions/ucl/news/kind%3D1/newsid%3D464106.html |archive-date=20 January 2016 }}</ref> The other venues in contention were the [[Estadio de La Cartuja|Estadio Olímpico]] in Seville, the [[Olympiastadion (Berlin)|Olympiastadion]] in Berlin, [[Wembley Stadium]] in London, and the [[Stadio Olimpico]] in Rome,<ref>{{cite news |title=Wembley, Olympiastadion compete for finals |url=http://www.espnfc.com/story/374106/wembleyolympiastadion-compete-for-finals |work=ESPN FC |publisher=ESPN Internet Ventures |date=19 July 2006 |access-date=7 July 2014 }}</ref> which was chosen to host the 2009 final.<ref name="moscow_chosen"/>
+
+This was the easternmost final in the history of the European Cup/UEFA Champions League. It was the first time the competition's showpiece match had been played in Russia, although the Luzhniki Stadium had previously played host to the [[1999 UEFA Cup final]], in which Italian club [[Parma Calcio 1913|Parma]] beat French side [[Olympique de Marseille|Marseille]] 3–0.<ref>{{cite news|title=Moscow and Rome feast on finals |url=http://www.uefa.com/competitions/ucl/news/kind=1/newsid=464251.html |work=[[UEFA]] |publisher=Union of European Football Associations |date=5 October 2006 |access-date=26 August 2008 |archive-url=https://web.archive.org/web/20080920060946/http://www.uefa.com/competitions/ucl/news/kind%3D1/newsid%3D464251.html |archive-date=20 September 2008 |url-status=dead }}</ref> Because of the difference in time zones, the match kicked off at 22:45 [[Moscow Time]], making it the first Champions League final to start on one day and finish in the next.<ref>{{cite news |first=Stuart |last=James |title=Late, late show throws spanner in managers' match-day works |url=https://www.theguardian.com/football/2008/may/20/championsleague.chelsea11 |work=The Guardian |publisher=Guardian News and Media |date=20 May 2008 |access-date=10 January 2015 }}</ref>
+
+Originally known as the Grand Arena of the Central Lenin Stadium, the venue opened in 1956 as a new national stadium for the [[Soviet Union national football team]]. In 1973, it served as the principal venue for the [[1973 Summer Universiade|seventh Summer Universiade]], before going on to perform the same function at the [[1980 Summer Olympics]]. By this point, the stadium's capacity was 103,000; however, renovations in the mid-1990s reduced the capacity to just under 85,000. The stadium was given five-star status by UEFA in 1998, before hosting the UEFA Cup final the following year. To help the stadium cope with cold Russian winters, the grass pitch was replaced by an artificial [[FieldTurf]] surface in 2002.<ref>{{cite news |title=FieldTurf Selected for Five-Star Luzhniki Olympic Complex |url=http://www.thefreelibrary.com/FieldTurf+Selected+for+Five-Star+Luzhniki+Olympic+Complex.-a085932990 |publisher=PR Newswire Association |date=7 May 2002 |access-date=9 July 2014 |archive-date=25 October 2016 |archive-url=https://web.archive.org/web/20161025113256/https://www.thefreelibrary.com/FieldTurf+Selected+for+Five-Star+Luzhniki+Olympic+Complex.-a085932990 |url-status=dead }}</ref> Although UEFA allowed matches in earlier rounds and [[UEFA European Championship qualifying|European Championship qualifying]] to be played on the synthetic surface, they mandated that the Champions League final should be played on natural grass. The FieldTurf was removed after Russia's [[UEFA Euro 2008 qualifying]] match against England on 17 October, but the first grass pitch laid was deemed to be too bumpy. Another pitch was laid less than three weeks before the final at a cost of [[Pound sterling|£]]160,000, using turf shipped in from Slovakia, but groundsman Matt Frost said, "I'm totally disappointed with the whole project and what we are presenting for the final."<ref>{{Cite news |title=Chelsea and Man Utd set for final |url=https://news.bbc.co.uk/sport2/hi/football/7408082.stm |website=BBC Sport |date=21 May 2008 |access-date=5 October 2021 }}</ref> UEFA's director of communications, William Gaillard, said the pitch might not look as good as they had hoped to television audiences, but was confident that it would be fine to play on.<ref>{{cite news |title=Pitch concerns for final |url=https://www.eurosport.com/football/champions-league/2007-2008/pitch-concerns-for-final_sto1577567/story.shtml |work=Eurosport |date=19 May 2008 |access-date=5 October 2021 }}{{dead link|date=November 2026|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+==Route to the final==
+{{further|2007–08 UEFA Champions League}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+!Round
+!colspan=4|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|-
+|-bgcolor=#c1e0ff
+|Opponent
+|colspan=3|Result
+|[[2007–08 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|POR}} [[Sporting CP]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Sporting CP v Manchester United|1–0]] (A)
+|bgcolor=#c1e0ff|Matchday 1
+|align=left|{{fbaicon|NOR}} [[Rosenborg BK|Rosenborg]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Chelsea v Rosenborg|1–1]] (H)
+|-
+|align=left|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Manchester United v Roma|1–0]] (H)
+|bgcolor=#c1e0ff|Matchday 2
+|align=left|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Valencia v Chelsea|2–1]] (A)
+|-
+|align=left|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Dynamo Kyiv v Manchester United|4–2]] (A)
+|bgcolor=#c1e0ff|Matchday 3
+|align=left|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Chelsea v Schalke 04|2–0]] (H)
+|-
+|align=left|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Manchester United v Dynamo Kyiv|4–0]] (H)
+|bgcolor=#c1e0ff|Matchday 4
+|align=left|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Schalke 04 v Chelsea|0–0]] (A)
+|-
+|align=left|{{fbaicon|POR}} [[Sporting CP]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Manchester United v Sporting CP|2–1]] (H)
+|bgcolor=#c1e0ff|Matchday 5
+|align=left|{{fbaicon|NOR}} [[Rosenborg BK|Rosenborg]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Rosenborg v Chelsea|4–0]] (A)
+|-
+|align=left|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Roma v Manchester United|1–1]] (A)
+|bgcolor=#c1e0ff|Matchday 6
+|align=left|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|colspan=3|[[2007–08 UEFA Champions League group stage#Chelsea v Valencia|0–0]] (H)
+|-
+|colspan=4 align=center valign=top|'''[[2007–08 UEFA Champions League group stage#Group F|Group F]] winner'''
+{{:2007–08 UEFA Champions League group stage|transcludesection=Group F|only_pld_pts=yes|show_matches=no|showteam=MUN}}
+|bgcolor=#c1e0ff|Final standings
+|colspan=4 align=center valign=top|'''[[2007–08 UEFA Champions League group stage#Group B|Group B]] winner'''
+{{:2007–08 UEFA Champions League group stage|transcludesection=Group B|only_pld_pts=yes|show_matches=no|showteam=CHE}}
+|-bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2007–08 UEFA Champions League knockout stage|Knockout stage]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|2–1
+|[[2007–08 UEFA Champions League knockout stage#Lyon v Manchester United|1–1]] (A)
+|[[2007–08 UEFA Champions League knockout stage#Manchester United v Lyon|1–0]] (H)
+|bgcolor=#c1e0ff|First knockout round
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|3–0
+|[[2007–08 UEFA Champions League knockout stage#Olympiacos v Chelsea|0–0]] (A)
+|[[2007–08 UEFA Champions League knockout stage#Chelsea v Olympiacos|3–0]] (H)
+|-
+|align=left|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|3–0
+|[[2007–08 UEFA Champions League knockout stage#Roma v Manchester United|2–0]] (A)
+|[[2007–08 UEFA Champions League knockout stage#Manchester United v Roma|1–0]] (H)
+|bgcolor=#c1e0ff|Quarter-finals
+|align=left|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|3–2
+|[[2007–08 UEFA Champions League knockout stage#Fenerbahçe v Chelsea|1–2]] (A)
+|[[2007–08 UEFA Champions League knockout stage#Chelsea v Fenerbahçe|2–0]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|1–0
+|[[2007–08 UEFA Champions League knockout stage#Barcelona v Manchester United|0–0]] (A)
+|[[2007–08 UEFA Champions League knockout stage#Manchester United v Barcelona|1–0]] (H)
+|bgcolor=#c1e0ff|Semi-finals
+|align=left|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|4–3
+|[[2007–08 UEFA Champions League knockout stage#Liverpool v Chelsea|1–1]] (A)
+|[[2007–08 UEFA Champions League knockout stage#Chelsea v Liverpool|3–2]] {{aet}} (H)
+|}
+
+===Manchester United===
+[[File:Manutdvslyon.jpg|thumb|Manchester United beat Lyon 1–0 in the second leg of their first knockout round tie at [[Old Trafford]].|alt=A wide shot of a football match with Manchester United in red in possession against Lyon in black.]]
+Manchester United were drawn in Group F along with [[AS Roma|Roma]], [[Sporting CP]] and [[FC Dynamo Kyiv|Dynamo Kyiv]].<ref name="group_draw">{{cite news |title=Clubs learn Champions League fate |url=https://news.bbc.co.uk/sport1/hi/football/europe/6968546.stm |website=BBC Sport |date=3 September 2007 |access-date=6 January 2015 }}</ref> United won their first five group games; they first travelled to Lisbon, where [[Cristiano Ronaldo]]'s header secured a 1–0 win against his old club, Sporting. Next was another 1–0 win at home to Roma,<ref>{{cite news |first=Howard |last=Nurse |title=Man Utd 1-0 Roma |url=https://news.bbc.co.uk/sport2/hi/football/europe/7019594.stm |website=BBC Sport |date=2 October 2007 |access-date=25 January 2015 }}</ref> followed by back-to-back four-goal victories over Dynamo Kyiv (4–2 in Ukraine and 4–0 at Old Trafford).<ref>{{cite news |first=Saj |last=Chowdhury |title=Dynamo Kiev 2-4 Man Utd |url=https://news.bbc.co.uk/sport2/hi/football/europe/7054215.stm |website=BBC Sport |date=23 October 2007 |access-date=25 January 2015 }}</ref><ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 4-0 Dynamo Kiev |url=https://news.bbc.co.uk/sport2/hi/football/europe/7076590.stm |website=BBC Sport |date=7 November 2007 |access-date=25 January 2015 }}</ref> United secured top spot in the group with a 2–1 win at home to Sporting in their fifth game.<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 2-1 Sporting Lisbon |url=https://news.bbc.co.uk/sport2/hi/football/europe/7110703.stm |website=BBC Sport |date=27 November 2007 |access-date=25 January 2015 }}</ref> They travelled to Roma for the final group game, in which both teams were already guaranteed to progress; it finished as a 1–1 draw, with [[Gerard Piqué]] scoring his second goal for the club before [[Mancini (Brazilian footballer)|Mancini]]'s equaliser.<ref>{{cite news |first=Richard |last=Aikman |title=Roma and United share the spoils |url=https://www.uefa.com/uefachampionsleague/news/01c8-0e6ed713c785-57aeae17dd88-1000--roma-and-united-share-the-spoils/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=13 December 2007 |access-date=6 January 2015 }}</ref> United finished with 16 points, the most of all the group winners.<ref>{{cite book |year=2008 |chapter=Facts & Figures |title=UEFA Champions League Statistics Handbook 2008/2009 |location=Nyon |publisher=Union of European Football Associations |page=38 }}</ref>
+
+In the first knockout round, United were drawn against [[Olympique Lyonnais|Lyon]]. They drew the away leg 1–1, thanks to a late equaliser from [[Carlos Tevez]],<ref>{{cite news |first=Paresh |last=Soni |title=Lyon 1-1 Man Utd |url=https://news.bbc.co.uk/sport2/hi/football/europe/7250342.stm |website=BBC Sport |date=20 February 2008 |access-date=6 January 2015 }}</ref> before winning the second leg 1–0 – Ronaldo scoring the only goal – to ensure a 2–1 aggregate victory and a place in the quarter-finals,<ref>{{cite news |first=Chris |last=Bevan |title=Man Utd 1-0 Lyon (agg 2-1) |url=https://news.bbc.co.uk/sport2/hi/football/europe/7272570.stm |website=BBC Sport |date=4 March 2008 |access-date=6 January 2015 }}</ref> where they were again drawn against Roma.<ref>{{cite news |title=Arsenal face Liverpool in Europe |url=https://news.bbc.co.uk/sport2/hi/football/europe/7294599.stm |website=BBC Sport |date=14 March 2008 |access-date=6 January 2015 }}</ref>
+
+The quarter-final matches represented the fifth and sixth times these two clubs had met in Europe in just over 12 months; they had met at the same stage of the previous season's competition and then again in the group stage this season.<ref>{{cite web |title=Manchester United FC - AS Roma – Match Press Kit |url=https://www.uefa.com/printoutfiles/competitions/ucl/2008/E/E_301909_pk.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=9 April 2008 |access-date=6 January 2015 |page=2 |archive-url=https://web.archive.org/web/20190531164110/https://www.uefa.com/printoutfiles/competitions/ucl/2008/E/E_301909_pk.pdf |archive-date=31 May 2019 }}</ref> United went to Rome and secured a 2–0 win with a first-half header from Ronaldo and a second-half goal tapped in by [[Wayne Rooney]].<ref>{{cite news |first=Phil |last=McNulty |title=Roma 0-2 Man Utd |url=https://news.bbc.co.uk/sport1/hi/football/europe/7320227.stm |website=BBC Sport |date=1 April 2008 |access-date=6 January 2015 }}</ref> United went on to secure the tie in the second leg with a 1–0 win,<ref>{{cite news |first=Paul |last=Fletcher |title=Man Utd 1-0 Roma (agg 3-0) |url=https://news.bbc.co.uk/sport2/hi/football/europe/7332289.stm |website=BBC Sport |date=9 April 2008 |access-date=6 January 2015 }}</ref> their record 11th consecutive home Champions League win.<ref>{{cite news |title=Ferguson relishing Barcelona test |url=https://news.bbc.co.uk/sport2/hi/football/europe/7332291.stm |website=BBC Sport |date=10 April 2008 |access-date=6 January 2015 }}</ref>
+
+The semi-final pitted United against Barcelona; the teams had not met since the group stage of the [[1998–99 UEFA Champions League|1998–99 tournament]], the last time United won it.<ref>{{cite web |title=FC Barcelona - Manchester United FC – Match Press Kit |url=https://www.uefa.com/printoutfiles/competitions/ucl/2008/E/E_301911_pk.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=23 April 2008 |access-date=6 January 2015 |page=2 |archive-url=https://web.archive.org/web/20190531163256/http://www.uefa.com/printoutfiles/competitions/ucl/2008/e/e_301911_pk.pdf |archive-date=31 May 2019 }}</ref> The teams also had identical records going into the semi-final, each having won eight and drawn two of their 10 games, scoring 18 goals and conceding just five. The first leg at the [[Camp Nou]] saw United spend most of the game defending, while Barcelona tried to pass the ball around them. United were awarded a penalty in the first minute, but Ronaldo sent the ball wide, hitting the stanchion behind the goal. That was as close as either team got to a goal in the first leg and it ended 0–0.<ref>{{cite news |first=Andrew |last=McKenzie |title=Barcelona 0-0 Man Utd |url=https://news.bbc.co.uk/sport2/hi/football/europe/7356114.stm |website=BBC Sport |date=23 April 2008 |access-date=6 January 2015 }}</ref> The second leg at Old Trafford was played at a higher tempo, and United won 1–0 thanks to a goal from [[Paul Scholes]] after 14 minutes.<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 1-0 Barcelona (agg 1-0) |url=https://news.bbc.co.uk/sport2/hi/football/europe/7368730.stm |website=BBC Sport |date=29 April 2008 |access-date=6 January 2015 }}</ref> This result extended United's consecutive home win record in the Champions League to 12 and ensured that they reached the final unbeaten.
+
+In reaching the final, United won nine and drew three of their 12 matches, dwarfing their record of four wins and six draws in the 10 games they took to reach the final in 1999 (when teams advanced from the group stage directly into the quarter-finals).<ref name="final_pk_p3">{{cite web |title=Manchester United FC - Chelsea FC – Match Press Kit |url=https://www.uefa.com/printoutfiles/competitions/ucl/2008/E/E_301604_pk.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=21 May 2008 |access-date=29 June 2014 |page=3 |archive-url=https://web.archive.org/web/20141004125915/http://www.uefa.com/printoutfiles/competitions/ucl/2008/e/e_301604_pk.pdf |archive-date=4 October 2014 }}</ref> United scored 19 goals en route to the final,<ref name="final_pk_p3"/> Ronaldo scoring seven of them, more than any other player.<ref>{{cite web |title=Manchester United FC - Chelsea FC – Match Press Kit |url=https://www.uefa.com/printoutfiles/competitions/ucl/2008/E/E_301604_pk.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=21 May 2008 |access-date=29 June 2014 |page=6 |archive-url=https://web.archive.org/web/20141004125915/http://www.uefa.com/printoutfiles/competitions/ucl/2008/e/e_301604_pk.pdf |archive-date=4 October 2014 }}</ref>
+
+===Chelsea===
+[[File:Chelsea v Liverpool - The Lineout.jpg|thumb|The Chelsea and Liverpool teams line up ahead of the second leg of their semi-final at Stamford Bridge. Chelsea won 3–2 after extra time (4–3 on aggregate) to qualify for the final.|alt=The Chelsea (blue) and Liverpool (red) teams line up side-by-side in front of banners bearing their club crests and the Champions League final logo. In the background, a flag bearing the Champions League logo is waved over the centre circle, while the main stand is further back, full of spectators. In the foreground, Chelsea fans wave blue flags bearing their club crest.]]
+In the group stage, Chelsea were drawn into Group B, along with [[FC Schalke 04|Schalke 04]] of Germany, [[Rosenborg BK|Rosenborg]] of Norway and Spanish club Valencia.<ref name="group_draw"/> Chelsea's first match in the group was against Rosenborg at Stamford Bridge, where they were held to a 1–1 draw.<ref>{{cite news |first=Phil |last=McNulty |title=Chelsea 1-1 Rosenborg |url=https://news.bbc.co.uk/sport2/hi/football/europe/6996403.stm |website=BBC Sport |date=18 September 2007 |access-date=6 January 2015 }}</ref> Two days later, manager [[José Mourinho]] left Chelsea by mutual consent,<ref>{{cite news |title=Mourinho makes shock Chelsea exit |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7003912.stm |website=BBC Sport |date=20 September 2007 |access-date=6 January 2015 }}</ref> and was replaced by their director of football, former [[Israel national football team|Israel national team]] coach Avram Grant.<ref>{{cite news |title=Chelsea name Grant as new manager |url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7004083.stm |website=BBC Sport |date=20 September 2007 |access-date=6 January 2015 }}</ref> Chelsea's second match was against Valencia, whom they beat 2–1, leaving Chelsea with four points from their two matches.<ref>{{cite news |first=Phil |last=McNulty |title=Valencia 1-2 Chelsea |url=https://news.bbc.co.uk/sport1/hi/football/europe/7019652.stm |website=BBC Sport |date=3 October 2007 |access-date=6 January 2015 }}</ref> They then faced Schalke in their next two matches; the first was played at Stamford Bridge, with Chelsea winning 2–0,<ref>{{cite news |first=Stuart |last=Roach |title=Chelsea 2-0 Schalke 04 |url=https://news.bbc.co.uk/sport2/hi/football/europe/7054219.stm |website=BBC Sport |date=24 October 2007 |access-date=6 January 2015 }}</ref> while the return match in [[Gelsenkirchen]] ended in a 0–0 draw.<ref>{{cite news |first=Stuart |last=Roach |title=Schalke 04 0-0 Chelsea |url=https://news.bbc.co.uk/sport2/hi/football/europe/7076596.stm |website=BBC Sport |date=6 November 2007 |access-date=6 January 2015 }}</ref> Chelsea's final two matches in their group resulted in a 4–0 victory away to Rosenborg<ref>{{cite news |first=Phil |last=McNulty |title=Rosenborg 0-4 Chelsea |url=https://news.bbc.co.uk/sport1/hi/football/europe/7110716.stm |website=BBC Sport |date=28 November 2007 |access-date=6 January 2015 }}</ref> and a goalless draw at home to Valencia.<ref>{{cite news |first=Phil |last=McNulty |title=Chelsea 0-0 Valencia |url=https://news.bbc.co.uk/sport2/hi/football/europe/7136380.stm |website=BBC Sport |date=11 December 2007 |access-date=6 January 2015 }}</ref> Chelsea progressed as group winners with 12 points from six games.
+
+Chelsea faced Greek side [[Olympiacos F.C.|Olympiacos]] in the first knockout round. The first leg in Athens ended in a 0–0 draw,<ref>{{cite news |first=Paresh |last=Soni |title=Olympiakos 0-0 Chelsea |url=https://news.bbc.co.uk/sport2/hi/football/europe/7250331.stm |website=BBC Sport |date=19 February 2008 |access-date=6 January 2015 }}</ref> but a 3–0 win in the second leg, with goals from [[Michael Ballack]], [[Frank Lampard]] and [[Salomon Kalou]], saw Chelsea through to the quarter-finals.<ref>{{cite news |first=Phil |last=McNulty |title=Chelsea 3-0 Olympiakos (agg 3-0) |url=https://news.bbc.co.uk/sport2/hi/football/europe/7272571.stm |website=BBC Sport |date=5 March 2008 |access-date=6 January 2015 }}</ref> There, they were drawn against [[Fenerbahçe S.K. (football)|Fenerbahçe]] of Turkey. The first leg was held at the [[Şükrü Saracoğlu Stadium]] in Istanbul, and ended in a 2–1 defeat, as [[Deivid]] made up for an early own goal by scoring the winner nine minutes from time after [[Colin Kazim-Richards]]' equaliser.<ref>{{cite news |first=Chris |last=Bevan |title=Fenerbahce 2-1 Chelsea |url=https://news.bbc.co.uk/sport2/hi/football/europe/7320306.stm |website=BBC Sport |date=2 April 2008 |access-date=6 January 2015 }}</ref> Chelsea won the second leg at Stamford Bridge 2–0, with goals from Ballack and Lampard, to claim a 3–2 aggregate victory over the Turkish side.<ref>{{cite news |first=Jonathan |last=Stevenson |title=Chelsea 2-0 Fenerbahce (3-2) |url=https://news.bbc.co.uk/sport2/hi/football/europe/7332256.stm |website=BBC Sport |date=8 April 2008 |access-date=6 January 2015 }}</ref>
+
+Chelsea faced fellow English club [[Liverpool F.C.|Liverpool]] in the semi-finals. This was the fourth year in succession that these teams had met in the Champions League, following semi-final meetings in 2004–05 and 2006–07, and two group stage matches in 2005–06.<ref>{{cite web |title=Liverpool FC - Chelsea FC – Match Press Kit |url=https://www.uefa.com/printoutfiles/competitions/ucl/2008/E/E_301912_pk.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=22 April 2008 |access-date=6 January 2015 |pages=1–2 |archive-url=https://web.archive.org/web/20150602222406/http://www.uefa.org/printoutfiles/competitions/ucl/2008/E/E_301912_pk.pdf |archive-date=2 June 2015 }}</ref> The first leg at [[Anfield]] was a 1–1 draw, in which Chelsea got a 95th-minute equaliser through a [[John Arne Riise]] own goal after [[Dirk Kuyt]] had put Liverpool 1–0 up just before half-time.<ref>{{cite news |first=Phil |last=McNulty |title=Liverpool 1-1 Chelsea |url=https://news.bbc.co.uk/sport2/hi/football/europe/7356110.stm |website=BBC Sport |date=22 April 2008 |access-date=6 January 2015 }}</ref> Chelsea won the second leg 3–2 after extra time, with two goals from [[Didier Drogba]] and one from Lampard sending the Blues through to the first Champions League final in their history.<ref>{{cite news |first=Sam |last=Lyon |title=Chelsea 3-2 Liverpool (4-3) |url=https://news.bbc.co.uk/sport2/hi/football/europe/7368736.stm |website=BBC Sport |date=30 April 2008 |access-date=6 January 2015 }}</ref>
+
+==Pre-match==
+
+===Identity===
+As part of the marketing for each Champions League final since 1997, UEFA commissions a unique design concept inspired by the cultural and historical heritage of the host city. The 2008 final's design was announced on 31 October 2007 in a ceremony at the Luzhniki Stadium, attended by the ambassador for the final, former Russian goalkeeper [[Rinat Dasayev]].<ref>{{cite news |title=Moscow set for design unveiling |url=https://www.uefa.com/uefachampionsleague/news/01c6-0e6eaac35b0b-4223b43bb831-1000--moscow-set-for-design-unveiling/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=25 October 2007 |access-date=28 April 2014 |url-status=live |archive-url=https://web.archive.org/web/20140429082220/http://www.uefa.com/uefachampionsleague/news/newsid=609309.html |archive-date=29 April 2014 }}</ref> The design was based on a colour scheme of deep red and gold, inspired by the predominant colours of Red Square, the Kremlin and the gold domes of Moscow's cathedrals,<ref name="finale">{{cite news |title=Moscow greets new final ball |url=https://www.uefa.com/uefachampionsleague/news/01cc-0e6f340c00db-326e7a5f4b4e-1000--moscow-greets-new-final-ball/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=3 April 2008 |access-date=8 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140714184826/http://www.uefa.com/uefachampionsleague/news/newsid=679234.html |archive-date=14 July 2014 }}</ref> and featured images of the Moscow skyline, as well as the UEFA Champions League logo and trophy rendered in a Russian artistic style, with text in a font similar to [[Cyrillic script]].<ref>{{cite news |title=Unique Moscow design concept |url=https://www.uefa.com/uefachampionsleague/news/01c8-0e6ecf94bfbc-962f5d37c767-1000--unique-moscow-design-concept/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=7 December 2007 |access-date=27 February 2015 |url-status=live |archive-url=https://web.archive.org/web/20150928153535/http://www.uefa.com/uefachampionsleague/news/newsid=633776.html |archive-date=28 September 2015 }}</ref>
+
+===Ticketing and supporters===
+[[File:Man utd (1) v CHELSEA (1) - C L Final Moscow ticket.jpg|thumb|A ticket from the 2008 UEFA Champions League final|alt=A ticket with a barcode strip on the right. The ticket is white on top half and red on the bottom, separated by images of the Moscow skyline in gold. In the top left corner is the seat information and the top right has the UEFA Champions League logo and the words "Final Moscow 2008".]]
+Although the Luzhniki Stadium had a usual capacity of almost 85,000 spectators, that was reduced to 69,500 for the final. Of those tickets, approximately 21,000 were reserved for each finalist club, with a further 10,500 available for purchase by the general public via the UEFA website. Recipients of those tickets were determined by a random ballot following an online application process that ran from 28 February to 19 March 2008. Tickets were available in three categories, priced at [[Euro|€]]80, €140 and €200 depending on their location in the stadium.<ref>{{cite news|title=Moscow ticket sales commence |url=http://www.uefa.com/competitions/ucl/ticketing/newsid=664977.html |website=[[UEFA]] |publisher=Union of European Football Associations |date=28 February 2008 |access-date=20 July 2014 |archive-url=https://web.archive.org/web/20080301102821/http://www.uefa.com/competitions/ucl/ticketing/newsid%3D664977.html |archive-date=1 March 2008 |url-status=dead }}</ref> UEFA received around 125,000 applications for tickets from the general public over the course of the three-week application process.<ref>{{cite book |title=Report of the President and Executive Committee: UEFA Administration Report – XXXIII Ordinary UEFA Congress |url=https://www.uefa.com/MultimediaFiles/Download/uefa/KeyTopics/81/29/73/812973_DOWNLOAD.pdf |publisher=Union of European Football Associations |location=Nyon, Switzerland |date=March 2009 |page=38 }}</ref>
+
+The clubs were able to distribute their tickets however they wished; Manchester United chose to make their allocation available to all Executive Seat Holders and any Season Ticket Holders who had successfully applied for a ticket to at least one of the club's five away Champions League matches between the group stage and the quarter-finals,<ref>{{cite news |title=Possible UEFA Champions League final |url=http://www.manutd.com/default.sps?pagegid=%7B23A882F1-4E52-4C1A-816E-FB505E82E076%7D&newsid=548186&page=1 |website=ManUtd.com |publisher=Manchester United |date=9 April 2008 |access-date=20 July 2014 |archive-url=https://web.archive.org/web/20080414034109/http://www.manutd.com/default.sps?pagegid=%7B23A882F1-4E52-4C1A-816E-FB505E82E076%7D&newsid=548186&page=1 |archive-date=14 April 2008 }}</ref> while Chelsea opened up applications to all club members and season ticket holders.<ref>{{cite news |title=Midday Champions League Ticket Sales |url=http://www.chelseafc.com/news-article/article/1305817 |website=chelseafc.com |publisher=Chelsea FC |date=8 May 2008 |access-date=20 July 2014 |archive-url=https://archive.today/20140625164313/http://www.chelseafc.com/news-article/article/1305817 |archive-date=25 June 2014 |url-status=live }}</ref>
+
+Manchester United chief executive [[David Gill (executive)|David Gill]] expressed disappointment that his club had only been allocated 21,000 tickets for their supporters, claiming that they could have potentially sold up to 100,000.<ref>{{cite news |title=Gill: 100,000 fans wanted to go |url=http://www.espnfc.com/story/530629 |work=ESPN FC |publisher=ESPN Internet Ventures |date=1 May 2008 |access-date=21 July 2014 }}</ref> While Manchester United managed to sell out their entire allocation, UEFA's William Gaillard indicated that Chelsea still had "up to a couple of thousand" tickets unsold the day before the game, despite claims by Chelsea's chief operations officer, Ron Gourlay, to the contrary.<ref>{{cite news |first=Oliver |last=Brown |title=Champions League final: Luzhniki Stadium unlikely to be full as tickets remain unsold |url=https://www.telegraph.co.uk/sport/football/2300957/Champions-League-final-Luzhniki-Stadium-unlikely-to-be-full-as-tickets-remain-unsold.html |website=telegraph.co.uk |publisher=Telegraph Media Group |date=20 May 2008 |access-date=21 July 2014 |archive-url=https://web.archive.org/web/20090826110802/https://www.telegraph.co.uk/sport/football/2300957/Champions-League-final-Luzhniki-Stadium-unlikely-to-be-full-as-tickets-remain-unsold.html |archive-date=26 August 2009 }}</ref>
+
+One of the major concerns for English fans attending the final was the acquisition of [[visa (document)|visas]] for entry into Russia. However, after a period of negotiations between representatives of Russia, the United Kingdom, UEFA and the two clubs, it was agreed that fans with tickets for the match would not require a visa, provided they were also able to produce a passport with at least six months before expiry and a completed immigration card on entry into Russia.<ref>{{cite news |first1=Paul |last1=Lewis |first2=Luke |last2=Harding |title=Russia waives visa rules for football final |url=https://www.theguardian.com/football/2008/may/06/championsleague.manchesterunited |work=The Guardian |publisher=Guardian News and Media |date=6 May 2008 |access-date=25 July 2014 }}</ref> The visa-free period was initially supposed to run for 72 hours between 19 May and 23 May,<ref>{{cite news |title=Russia gives fans visa reprieve |url=https://news.bbc.co.uk/sport1/hi/football/europe/7384367.stm |website=BBC Sport |date=5 May 2008 |access-date=5 October 2021 }}</ref> but this was later extended to an eight-day period lasting from 17 to 25 May.<ref>{{cite news |first=Gemma |last=Thompson |title=Going to Moscow? Read this |url=http://www.manutd.com/en/News-And-Features/Club-News/2008/May/Going-to-Moscow-Read-this.aspx |website=ManUtd.com |publisher=Manchester United |date=19 May 2008 |access-date=25 July 2014 |archive-url=https://web.archive.org/web/20140729193819/http://www.manutd.com/en/News-And-Features/Club-News/2008/May/Going-to-Moscow-Read-this.aspx |archive-date=29 July 2014 }}</ref> Because of the difficulty and expense of acquiring a ticket and visa, fans who had not already got tickets were advised against travelling to Moscow by Gaillard, who also warned fans about Russia's strict laws regarding the consumption of alcohol.<ref>{{cite news |first=Chris |last=Whyatt |title=Uefa warning for ticketless fans |url=https://news.bbc.co.uk/sport2/hi/football/europe/7385308.stm |website=BBC Sport |date=6 May 2008 |access-date=25 July 2014 }}</ref>
+
+Although the two clubs claimed to have sold most of the 42,000 tickets allocated to them, only about 25,000 fans were said to have travelled to Moscow from the United Kingdom, with about 110 charter flights arriving ahead of the game. According to the head of the Russian national tourist office, Mikhail Ignatiev, many fans were put off by the cost of travel and accommodation. Additionally, most of Moscow's hotels were full on the night of the game. As some fans looked to offload tickets to the match, ''[[The Moscow Times]]'' reported that the black-market price dropped from a high of €2,000 (£1,600) to around €500 (£400), while Russian TV channel [[Sport-1 (Russia)|Sport-1]] was reporting prices as low as £300 for tickets belonging to fans who had failed to make the trip to Moscow.<ref>{{cite news |first=Luke |last=Harding |title=Fans stay away from Champions League final |url=https://www.theguardian.com/football/2008/may/21/championsleague.russia |work=The Guardian |publisher=Guardian News and Media |date=21 May 2008 |access-date=10 January 2015 }}</ref> Among the celebrities who did not travel were Chelsea supporter and chairman of the [[London Organising Committee of the Olympic and Paralympic Games]] (LOCOG) [[Sebastian Coe]], who had to attend meetings ahead of the [[2012 Summer Olympics]], and Manchester United fan and [[Simply Red]] lead singer [[Mick Hucknall]], who was due to perform at the [[BMW PGA Championship]] at [[Wentworth Club|Wentworth]].<ref>{{cite news |first=Matt |last=Scott |title=Celebrity fans on Moscow missing list |url=https://www.theguardian.com/football/2008/may/21/championsleague.manchesterunited3 |work=The Guardian |publisher=Guardian News and Media |date=21 May 2008 |access-date=10 January 2015 }}</ref>
+
+===Related events===
+As has also taken place for every Champions League final since 1997, a ceremonial handover of the UEFA Champions League trophy was held in the host city; the 2008 ceremony was at the GUM Centre in Moscow's Red Square on 3 April 2008. On behalf of 2007 champions Milan, their technical operations director and former player [[Leonardo Araújo|Leonardo]], and club director Umberto Gandini presented the trophy to UEFA president [[Michel Platini]], who passed it on to the [[Mayor of Moscow]], [[Yury Luzhkov]], for it to be displayed in five cities around the country – [[Kazan]], [[Yekaterinburg]], [[Krasnodar]], [[Saint Petersburg]] and [[Samara, Russia|Samara]] – before returning to Moscow ahead of the final. Also in attendance at the ceremony were final ambassador Rinat Dasayev and [[Russian Football Union]] president [[Vitaly Mutko]].<ref>{{cite news |title=Moscow set to receive trophy |url=https://www.uefa.com/uefachampionsleague/news/01cb-0e6f2ebd3a91-a60d34f57b43-1000--moscow-set-to-receive-trophy/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=31 March 2008 |access-date=20 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20150908234658/http://www.uefa.com/uefachampionsleague/news/newsid=677637.html |archive-date=8 September 2015 }}</ref><ref>{{cite news |title=Moscow ceremony marks coming of cup |url=https://www.uefa.com/uefachampionsleague/news/01cc-0e6f344fe344-2f54f9faf643-1000--moscow-ceremony-marks-coming-of-cup/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=3 April 2008 |access-date=20 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20150908234654/http://www.uefa.com/uefachampionsleague/news/newsid=679256.html |archive-date=8 September 2015 }}</ref>
+
+===Match ball===
+[[File:2008 UEFA Champions League Final ball (UEFA Champions Festival).JPG|thumb|left|A ball from the 2008 UEFA Champions League final on display at the 2011 UEFA Champions Festival in [[Hyde Park, London]]|alt=A football in a perspex cabinet. The ball is predominantly white, patterned with stars in red with gold detailing. In the foreground is a black football boot with red and white trim.]]
+The match ball for the final was the Adidas Finale Moscow, the eighth in the [[Adidas Finale]] range. The ball's design was based around the "starball" pattern, inspired by the UEFA Champions League logo; the stars are dark red with gold detailing, tying in with the overall design concept for the final.<ref name="finale"/> Technically, the ball is based on the [[Adidas Teamgeist#Europass|Adidas Europass]], which was used at [[UEFA Euro 2008]] later that summer; it has the same 14-panel configuration as the [[Adidas Teamgeist]], but with the proprietary surface texture developed for the Europass. The ball was unveiled at a ceremony in Moscow's [[Manezhnaya Square, Moscow|Manezhnaya Square]], attended by UEFA General Secretary [[David Taylor (executive)|David Taylor]], former [[Germany national football team|Germany]] player and coach [[Franz Beckenbauer]], final ambassador Rinat Dasayev and Russian Football Union president Vitaly Mutko.<ref name="finale"/>
+
+===Officials===
+[[File:Ľuboš Micheľ.JPG|thumb|Ľuboš Micheľ refereed the final.|alt=The upper body of a middle-aged white man with brown hair. He is wearing a light-coloured shirt with light blue pinstripes over a white T-shirt with a dark jacket on top. His right hand is inside his jacket and his left hand is holding a piece of paper.]]
+The referee for the final was 40-year-old Slovak referee [[Ľuboš Micheľ]], the first Slovak to take charge of a European Cup final. His team was completed by fellow Slovak [[Assistant referee (association football)|assistant referees]] Roman Slyško and Martin Balko, and [[Assistant referee (association football)#Fourth official|fourth official]] [[Vladimír Hriňák]].<ref name="referee"/> Having presided over the [[2003 UEFA Cup final]], Micheľ was the second man to referee the finals of both the Champions League and UEFA Cup since the latter changed to a single-legged affair in 1998; the other was [[Pierluigi Collina]], who had been the referee in Manchester United's last Champions League final appearance in 1999.<ref>{{cite web |title=Manchester United FC - Chelsea FC – Match press kit |url=https://www.uefa.com/printoutfiles/competitions/ucl/2008/E/E_301604_pk.pdf |website=UEFA.org |publisher=Union of European Football Associations |date=19 May 2008 |access-date=25 July 2014 |page=11 |archive-url=https://web.archive.org/web/20141004125915/http://www.uefa.com/printoutfiles/competitions/ucl/2008/e/e_301604_pk.pdf |archive-date=4 October 2014 }}</ref> Micheľ began refereeing in 1987 at the age of 19, and took charge of his first top-flight game in 1993. That same year, he was promoted to the FIFA list of international referees, and in November 1993, he refereed his first international match – a [[1994 UEFA European Under-21 Championship qualification|UEFA Under-21 Championship qualifier]] between [[San Marino national under-21 football team|San Marino]] and [[England national under-21 football team|England]].<ref name="referee">{{cite web |title=Referee appointed for UEFA Champions League final |url=https://www.uefa.com/MultimediaFiles/Download/pressrelease/uefa/uefamedia/69/77/15/697715_download.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=19 May 2008 |access-date=25 July 2014 }}</ref>
+
+Micheľ's first UEFA Champions League matches came in the 1998–99 season, including Manchester United's 5–0 win over [[Brøndby IF|Brøndby]] in the group stage.<ref name="WorldReferee">{{cite web |title=Palmares for Lubos Michel |url=http://worldreferee.com/site/copy.php?linkID=41&linkType=referee&contextType=stats |publisher=WorldReferee.com |access-date=25 July 2014 |archive-date=28 September 2011 |archive-url=https://web.archive.org/web/20110928045856/http://worldreferee.com/site/copy.php?linkID=41&linkType=referee&contextType=stats |url-status=dead }}</ref> Up to the 2008 final, he had refereed 55 Champions League matches (including qualifying), notably the second leg of the semi-final between Chelsea and Liverpool in [[2004–05 UEFA Champions League|2005]], in which Liverpool's [[Luis García (footballer, born 1978)|Luis García]] scored a controversial goal that Micheľ chose to allow.<ref>{{cite news |first=David |last=Hytner |title='Ghost goal' officials handed Moscow final three years on |url=https://www.theguardian.com/football/2008/may/20/championsleague.chelsea12 |work=The Guardian |publisher=Guardian News and Media |date=20 May 2008 |access-date=25 July 2014 }}</ref> He was also selected to referee at the [[Football at the 2000 Summer Olympics|2000 Summer Olympics]], the [[2002 FIFA World Cup|2002]] and [[2006 FIFA World Cup]]s, and the [[UEFA European Championship|European Championships]] in [[UEFA Euro 2004|2004]] and 2008.<ref name="WorldReferee"/>
+
+===Team selection===
+[[File:2008 0521 Moscow 41.jpg|thumb|Manchester United fans display a card mosaic reading "Believe".|alt=The interior of a football stadium at night, lit by floodlights. Performers are on the field and the supporters in the far stand are holding up cards that read "Believe" in silver on a red background.]]
+
+[[Alex Ferguson|Sir Alex Ferguson]] guaranteed a place in the starting line-up for Paul Scholes, after the midfielder had missed the [[1999 UEFA Champions League final|1999 final]] through suspension.<ref>{{cite news|title=Scholes fires Man Utd into the final |url=https://news.bbc.co.uk/sport2/hi/football/europe/7393961.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=11 May 2008 |access-date=23 May 2008 }}</ref><ref>{{cite news |first=Andrew |last=Haslam |title=Scholes goal sends United to Moscow |url=https://www.uefa.com/uefachampionsleague/news/0254-0d7bd506230e-59183c065910-1000--scholes-goal-sends-united-to-moscow/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=30 April 2008 |access-date=19 February 2016 }}</ref> Ferguson made one change from the team that had beaten Wigan Athletic to secure the league title 10 days earlier, with [[Owen Hargreaves]] starting on the right side of midfield in a [[Formation (association football)#4–4–2|4–4–2 formation]] in place of [[Park Ji-sung]], who did not even make the substitutes bench despite starting both legs of the semi-final.<ref>{{cite news |first=Felix |last=Keith |title="He didn't deserve it... no one does": The pain and regret behind Manchester United's 2008 Champions League triumph |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-champions-league-regret-19868199 |work=Manchester Evening News |publisher=MEN Media |date=21 February 2021 |access-date=5 October 2021 }}</ref> Cristiano Ronaldo started on the midfield, where he was pitted against makeshift Chelsea right-back [[Michael Essien]].<ref>{{cite news |first=Richard |last=Williams |title=All too English and not enough shades of Real |url=https://www.theguardian.com/football/2008/may/22/championsleague.manchesterunited1 |work=The Guardian |publisher=Guardian News and Media |date=22 May 2008 |access-date=8 January 2015 }}</ref> This went against the prediction of ''[[The Guardian]]''{{'}}s [[David Pleat]], who thought a duel between Ronaldo and Chelsea left-back [[Ashley Cole]] would be key to the final.<ref>{{cite news |first=David |last=Pleat |title=David Pleat's key clashes |url=https://www.theguardian.com/football/2008/may/21/championsleague.manchesterunited4 |work=The Guardian |publisher=Guardian News and Media |date=21 May 2008 |access-date=8 January 2015 }}</ref> Ferguson hoped his substitutes might have a big impact on the match, just as [[Teddy Sheringham]] and [[Ole Gunnar Solskjær]] did in 1999, when the pair came off the bench to help Manchester United come from behind and beat Bayern Munich.<ref>{{cite news |first=Michael |last=Harrold |title=Sir Alex happy to play waiting game |url=https://www.uefa.com/uefachampionsleague/news/01cd-0e6f6a9139fb-b969131f057f-1000--sir-alex-happy-to-play-waiting-game/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=20 May 2008 |access-date=3 July 2012 }}</ref> A week before the game, [[Ryan Giggs]] was philosophical about his chances of being included in the starting line-up;<ref>{{cite news |first=Daniel |last=Taylor |title=Giggs admits he could miss out on Champions League final |url=https://www.theguardian.com/football/2008/may/13/manchesterunited.championsleague2 |work=The Guardian |publisher=Guardian News and Media |date=13 May 2008 |access-date=10 January 2015 }}</ref> he was eventually named as one of seven allowed substitutes.
+
+The day before the match, Chelsea manager Avram Grant predicted that the game would throw up few tactical surprises due to the two teams' knowledge of each other from the domestic league.<ref>{{cite news |first=Michael |last=Harrold |title=No surprises for leader Grant |url=https://www.uefa.com/uefachampionsleague/news/01cd-0e6f6aa41c7f-2359fb824c94-1000--no-surprises-for-leader-grant/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=20 May 2008 |access-date=3 July 2012 }}</ref> Like Ferguson, Grant made only one change to the team that started Chelsea's final league game against Bolton 10 days earlier; centre-back [[Ricardo Carvalho]] overcame a recurring back injury to start in place of [[Alex (footballer, born June 1982)|Alex]].<ref>{{cite news |title=Blues trio set to play in final |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7397990.stm |website=BBC Sport |date=17 May 2008 |access-date=5 October 2021 }}</ref> Captain [[John Terry]] (dislocated elbow) and striker Didier Drogba (knee) also recovered from injuries suffered against Bolton to start the match.<ref>{{cite news |title=Chelsea worry over Terry & Drogba |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7394897.stm |website=BBC Sport |date=11 May 2008 |access-date=10 January 2015 }}</ref><ref>{{cite news |first1=David |last1=Hytner |first2=Daniel |last2=Taylor |title=Drogba declares he and Terry will be fit for the final in Moscow |url=https://www.theguardian.com/football/2008/may/14/championsleague.chelsea |work=The Guardian |publisher=Guardian News and Media |date=14 May 2008 |access-date=10 January 2015 }}</ref><ref>{{cite news |first=Dominic |last=Fifield |title=Bionic Man rises again to lead Moscow mission |url=https://www.theguardian.com/football/2008/may/20/championsleague.chelsea10 |work=The Guardian |publisher=Guardian News and Media |date=20 May 2008 |access-date=10 January 2015 }}</ref> [[Florent Malouda]] retained his place on the left wing ahead of Salomon Kalou, while Michael Essien continued at right-back, rather than in his preferred midfield position, ahead of [[Paulo Ferreira]] – who did not even make the bench despite starting both legs of the semi-final – and [[Juliano Belletti]]. Ashley Cole also started despite hurting his right ankle in training the day before the game under a heavy challenge from [[Claude Makélélé]]; Cole's replacement would have likely been [[Wayne Bridge]], but he recovered sufficiently that Bridge was not even included in the matchday squad as cover.<ref>{{cite news |title=Chelsea suffer Cole injury scare |url=https://www.uefa.com/uefachampionsleague/news/01cd-0e6f6aed5b55-a588614c8cc5-1000--chelsea-suffer-cole-injury-scare/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=21 May 2008 |access-date=3 July 2012 }}</ref>
+
+==Match==
+
+===Summary===
+====First half====
+[[File:2008 Champions League final handshakes.jpg|thumb|Manchester United and Chelsea players shake hands ahead of the match.|alt=A team in blue shakes hands with a team in red. In the foreground are people wearing red shirts and gold shorts assisting with the presentation of the game.]]
+After a fairly cagey first 21 minutes, the first major incident of the game occurred when Scholes and Makélélé clashed in mid-air, resulting in both players being booked and Scholes having to leave the field for treatment to a bloody nose.<ref name="bbc_report">{{cite news |first=Phil |last=McNulty |title=Man Utd earn dramatic Euro glory |url=https://news.bbc.co.uk/sport1/hi/football/europe/7406252.stm |website=BBC Sport |date=22 May 2008 |access-date=6 January 2015 }}</ref><ref name="guardian_report">{{cite news |first=Kevin |last=McCarra |title=Final twist brings United glory again |url=https://www.theguardian.com/football/2008/may/22/championsleague.chelsea |work=The Guardian |publisher=Guardian News and Media |date=22 May 2008 |access-date=27 February 2015 }}</ref> The first goal of the game came five minutes later, when an interchange of passes between Scholes and [[Wes Brown]] after a throw-in on the right flank gave Brown time to pick out a cross for Ronaldo, who directed his header past [[Petr Čech]];<ref name="bbc_report"/><ref name="guardian_report"/> it was the first time United had scored in the first half of a European final, and the first time Chelsea had gone behind in their three final appearances.<ref>{{cite news |title=Final Factbox |url=https://www.eurosport.com/football/champions-league/2007-2008/final-factbox_sto1577369/story.shtml |archive-url=https://web.archive.org/web/20190707141550/https://www.eurosport.com/football/champions-league/2007-2008/final-factbox_sto1577369/story.shtml |url-status=dead |archive-date=7 July 2019 |work=Eurosport |date=19 May 2008 |access-date=5 October 2021 }}</ref> Chelsea almost equalised in the 33rd minute when Frank Lampard's cross was headed back into the goal area by Drogba. United's [[Rio Ferdinand]], under pressure from Michael Ballack, was forced to head the ball towards his own goal and [[Edwin van der Sar]] pulled off a one-handed save to deny Chelsea a goal.<ref name="bbc_report"/><ref name="guardian_report"/> United spent the rest of the first half pressing for a second goal, and had two good opportunities to extend their lead, but were denied by a double-save from Čech. Wayne Rooney delivered a long ball into the path of Ronaldo and the United goalscorer placed his cross on the head of the diving Carlos Tevez, only for Čech to deny him.<ref name="bbc_report"/><ref name="guardian_report"/> Chelsea's failure to clear the loose ball gave [[Michael Carrick]] the chance to extend his side's lead, but Čech was again equal to the task with another save.<ref name="bbc_report"/><ref name="guardian_report"/>
+
+[[File:2008 0521 Moscow 43.jpg|thumb|left|Manchester United in possession]]
+Chelsea survived the pressure, as Tevez failed to connect with a low cross from Rooney,<ref name="bbc_report"/><ref name="guardian_report"/> and equalised in the final minute of the first half. The goal followed a long-range shot by Michael Essien, which deflected first off [[Nemanja Vidić]] and then Ferdinand. The ball's change in direction caused Van der Sar to lose his footing, leaving Lampard, who had made a run from deep, with a simple finish.<ref name="bbc_report"/><ref name="guardian_report"/> In celebration, Lampard looked up and pointed to the sky with both hands in memory of his mother, Pat, who had died a month earlier.<ref name="bbc_report"/> At the end of the first half, Sir Alex Ferguson confronted referee Micheľ, "jabbing out an angry finger and spitting out a few choice words".<ref>{{cite news |first=Daniel |last=Taylor |title=Ferguson retains a quiet psychological mastery |url=https://www.theguardian.com/football/blog/2009/jan/09/ferguson-benitez-mind-games |work=The Guardian |publisher=Guardian News and Media |date=9 January 2009 |access-date=10 January 2015 }}</ref>
+
+====Second half====
+[[File:2008 Champions League final second half.jpg|thumb|Manchester United go on the attack.]]
+Lampard's equaliser at the end of the first half led to a transformed Chelsea in the second, and they kept United on the back foot for long periods.<ref name="bbc_report"/> Nevertheless, the Red Devils managed to contain most of Chelsea's attacks. Chelsea had a few opportunities to take the lead, with Essien breaking free of United's defence in the 54th minute, only for his left-footed shot to curl well over the goal.<ref>{{cite news |title=Champions League final: key moments |url=https://www.theguardian.com/football/2008/may/22/championsleague.manchesterunited |work=The Guardian |publisher=Guardian News and Media |date=22 May 2008 |access-date=9 January 2015 }}</ref> Chelsea's closest opportunity to take the lead came in the 77th minute when a Drogba shot struck the post from {{convert|25|yd}} out.<ref name="bbc_report"/><ref name="guardian_report"/> The Ivorian striker came very close to turning [[Joe Cole]]'s low cross home for the winner four minutes from time, but fired wide. Ryan Giggs was then introduced in place of Scholes, making a record 759th appearance for Manchester United.<ref name="bbc_report"/>
+
+====Extra time====
+The game moved into extra time, and both teams had chances to score a vital second goal; first, Lampard hit the underside of the bar with a left-footed shot after the ball was played in to him with a disguised pass from Ballack, then Giggs stabbed the ball left-footed towards goal instead of sweeping it with his weaker right foot, only to see it headed off the line by Terry.<ref name="bbc_report"/><ref name="guardian_report"/> Late in the second half of extra time, the ball was put out of play so players could be treated for cramp. In returning the ball to Chelsea, Tevez put it out for another throw-in deep in Chelsea's half then signalled to his teammates to put pressure on the restart. Terry and Ballack reacted angrily to this and were joined by several of their teammates, while Manchester United's players rushed in to protect Tevez. Ultimately, most of the 22 players were involved in the fracas. Amid the melée, assistant referee Martin Balko saw Drogba slap Nemanja Vidić and reported the incident to referee Micheľ.<ref name="hytner">{{cite news |first=David |last=Hytner |title=How United were crowned kings of Europe on their day of remembrance |url=https://www.theguardian.com/football/2008/dec/30/manchester-united-chelsea-champions-league-moscow |work=The Guardian |publisher=Guardian News and Media |date=30 December 2008 |access-date=9 January 2015 }}</ref> After showing a yellow card to Ballack, Micheľ showed a red card to Drogba for violent conduct, making him only the second player in history to be sent off in a European Cup final after [[Arsenal F.C.|Arsenal]] goalkeeper [[Jens Lehmann]] in [[2006 UEFA Champions League final|2006]].<ref>{{cite news |first1=Jeremy |last1=Wilson |first2=Chris |last2=Irvine |title=Champions League final: Red card may be fitting finale at Chelsea for Didier Drogba |url=https://www.telegraph.co.uk/sport/football/2301164/Champions-League-final-Red-card-may-be-fitting-finale-at-Chelsea-for-Didier-Drogba.html |website=Telegraph.co.uk |publisher=Telegraph Media Group |date=22 May 2008 |access-date=5 January 2015 |archive-url=https://web.archive.org/web/20150106175509/http://www.telegraph.co.uk/sport/football/2301164/Champions-League-final-Red-card-may-be-fitting-finale-at-Chelsea-for-Didier-Drogba.html |archive-date=6 January 2015 }}</ref> In preparation for the penalty shoot-out, both clubs made last-minute substitutions; Manchester United brought on [[Anderson (footballer, born 1988)|Anderson]] in place of Brown, while Chelsea took off Makélélé in favour of Belletti.<ref>{{cite news |first=Caroline |last=Cheese |title=Champions League final as it happened |url=https://news.bbc.co.uk/sport2/hi/football/europe/7410307.stm |website=BBC Sport |date=21 May 2008 |access-date=5 October 2021 }}</ref>
+
+====Penalty shoot-out====
+[[File:2008 Champions League final penalties preparation.jpg|thumb|The players prepare for the penalty shoot-out.]]
+
+As the match went to penalties, Rio Ferdinand won the coin toss for Manchester United, and opted for his side to go first in the shoot-out, which would be taken at the end housing the Manchester United fans. Tevez stepped up first and sent Čech the wrong way. Ballack was next up, shooting powerfully past Van der Sar. Carrick buried his spot-kick, as did Belletti with his first touch of the game. The first miss of the shoot-out came from Ronaldo, who characteristically stuttered in his run-up in an attempt to put Čech off, but the goalkeeper dived to his right to save.<ref>{{Cite web |last=Philips |first=Sherry |date=2013-08-19 |title=A closer look at the 2008 Champions League final penalty shootout |url=https://www.sportskeeda.com/football/a-closer-look-at-the-2008-champions-league-final-penalty-shoot-out |access-date=2025-01-06 |website=www.sportskeeda.com |language=en-gb}}</ref>
+
+Lampard then put Chelsea 3–2 ahead, but Hargreaves levelled things up with a shot into the top corner. Ashley Cole was the next up, and Van der Sar got a strong hand to the ball but could not keep it out. [[Nani (footballer)|Nani]] then knew he had to score to keep United in it, and he did, leaving it up to Terry to win the cup for Chelsea; however, he lost his footing when planting his standing foot by the ball,<ref>{{cite news |first=Kevin |last=Fylan |title=Hero Van der Sar tastes Champions glory again 13 years on |url=http://uk.reuters.com/article/uk-soccer-champions-vandersar-idUKL2113749320080521 |archive-url=https://web.archive.org/web/20160306153350/http://uk.reuters.com/article/uk-soccer-champions-vandersar-idUKL2113749320080521 |url-status=dead |archive-date=6 March 2016 |agency=Reuters |work=Reuters UK |publisher=Thomson Reuters |date=21 May 2008 |access-date=10 January 2015 }}</ref> and, even though Van der Sar was sent the wrong way, his mis-hit effort struck the outside of the right post and went wide.<ref>{{Cite news |last=Fifield |first=Dominic |date=2008-05-22 |title=Terry was a stand-in for key penalty miss |url=https://www.theguardian.com/football/2008/may/22/championsleague.chelsea2 |access-date=2025-01-06 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+With the first penalty of sudden death, Anderson – like Belletti – scored with his first kick of the game. Kalou then sent Van der Sar the wrong way to make it 5–5. Giggs was next up and he was also successful. [[Nicolas Anelka]] was next, and before his kick, Van der Sar pointed to his left to indicate his prediction that he would kick to that side, as had the six players who took their penalties before him,<ref>{{Cite web |last=Leeks |first=Jacob |date=2020-12-28 |title=Van der Sar's 'secret' for Man Utd's Champions League penalties vs Chelsea |url=https://www.mirror.co.uk/sport/football/news/manchester-united-chelsea-champions-league-23228638 |access-date=2025-01-06 |website=The Mirror |language=en}}</ref> only to correctly dive to his right and make the save to secure European football's top prize for United for the third time in their history.
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2008|5|21|df=y}}
+|time       = {{CEST|20:45|localtz=MSD}}<!--20:45 CEST, 22:45 MSD-->
+|team1      = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score      = 1–1
+|aet        = yes
+|team2      = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|26}}
+|goals2     =
+*[[Frank Lampard|Lampard]] {{goal|45}}
+|stadium    = [[Luzhniki Stadium]], [[Moscow]]
+|attendance = 67,310<ref name="full time">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/UCL/2008/301604_FR.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=6 February 2021}}</ref>
+|referee    = [[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|penalties1 =
+*[[Carlos Tevez|Tevez]] {{pengoal}}
+*[[Michael Carrick|Carrick]] {{pengoal}}
+*[[Cristiano Ronaldo|Ronaldo]] {{penmiss}}
+*[[Owen Hargreaves|Hargreaves]] {{pengoal}}
+*[[Nani (footballer)|Nani]] {{pengoal}}
+*[[Anderson (footballer, born 1988)|Anderson]] {{pengoal}}
+*[[Ryan Giggs|Giggs]] {{pengoal}}
+|penaltyscore = 6–5
+|penalties2 =
+*{{pengoal}} [[Michael Ballack|Ballack]]
+*{{pengoal}} [[Juliano Belletti|Belletti]]
+*{{pengoal}} [[Frank Lampard|Lampard]]
+*{{pengoal}} [[Ashley Cole|A. Cole]]
+*{{penmiss}} [[John Terry|Terry]]
+*{{pengoal}} [[Salomon Kalou|Kalou]]
+*{{penmiss}} [[Nicolas Anelka|Anelka]]
+|report     = https://www.uefa.com/uefachampionsleague/match/301604/
+}}</onlyinclude>
+
+{| width="92%"
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _manutdh0709
+ |pattern_ra = 
+ |pattern_sh = _thinblackline
+ |pattern_so = 
+ |leftarm    = E20E0E
+ |body       = E20E0E
+ |rightarm   = E20E0E
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Manchester United}}<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _adidas_chelsea_home_0809
+ |pattern_b  = _adidas_chelsea_home_0809
+ |pattern_ra = _adidas_chelsea_home_0809
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_white
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Chelsea<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|NED}} [[Edwin van der Sar]]
+|-
+|RB ||'''6''' ||{{flagicon|ENG}} [[Wes Brown]] || || {{suboff|120+5}}
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Rio Ferdinand]] ([[Captain (association football)|c]]) || {{yel|43}}
+|-
+|CB ||'''15'''||{{flagicon|SRB|2004}} [[Nemanja Vidić]] || {{yel|111}}
+|-
+|LB ||'''3''' ||{{flagicon|FRA|1974}} [[Patrice Evra]]
+|-
+|RM ||'''4''' ||{{flagicon|ENG}} [[Owen Hargreaves]]
+|-
+|CM ||'''18'''||{{flagicon|ENG}} [[Paul Scholes]] || {{yel|21}} || {{suboff|87}}
+|-
+|CM ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]]
+|-
+|LM ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]]
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[Wayne Rooney]] || || {{suboff|101}}
+|-
+|CF ||'''32'''||{{flagicon|ARG}} [[Carlos Tevez]] || {{yel|116}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''29'''||{{flagicon|POL}} [[Tomasz Kuszczak]]
+|-
+|DF ||'''22'''||{{flagicon|IRL}} [[John O'Shea]]
+|-
+|DF ||'''27'''||{{flagicon|FRA|1974}} [[Mikaël Silvestre]]
+|-
+|MF ||'''8''' ||{{flagicon|BRA}} [[Anderson (footballer, born 1988)|Anderson]] || || {{subon|120+5}}
+|-
+|MF ||'''11'''||{{flagicon|WAL}} [[Ryan Giggs]] || || {{subon|87}}
+|-
+|MF ||'''17'''||{{flagicon|POR}} [[Nani (footballer)|Nani]] || || {{subon|101}}
+|-
+|MF ||'''24'''||{{flagicon|SCO}} [[Darren Fletcher]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCO}} [[Alex Ferguson|Sir Alex Ferguson]]
+|}
+|valign="top"|[[File:Man Utd vs Chelsea 2008-05-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align="center"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|CZE}} [[Petr Čech]]
+|-
+|RB ||'''5''' ||{{flagicon|GHA}} [[Michael Essien]] || {{yel|118}}
+|-
+|CB ||'''6''' ||{{flagicon|POR}} [[Ricardo Carvalho]] || {{yel|45+2}}
+|-
+|CB ||'''26'''||{{flagicon|ENG}} [[John Terry]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Ashley Cole]]
+|-
+|DM ||'''4''' ||{{flagicon|FRA|1974}} [[Claude Makélélé]] || {{yel|21}} || {{suboff|120+4}}
+|-
+|CM ||'''13'''||{{flagicon|GER}} [[Michael Ballack]] || {{yel|116}}
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Frank Lampard]]
+|-
+|RW ||'''10'''||{{flagicon|ENG}} [[Joe Cole]] || || {{suboff|99}}
+|-
+|LW ||'''15'''||{{flagicon|FRA|1974}} [[Florent Malouda]] || || {{suboff|92}}
+|-
+|CF ||'''11'''||{{flagicon|CIV}} [[Didier Drogba]] || {{sent off|0|116}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''23'''||{{flagicon|ITA}} [[Carlo Cudicini]]
+|-
+|DF ||'''33'''||{{flagicon|BRA}} [[Alex (footballer, born June 1982)|Alex]]
+|-
+|DF ||'''35'''||{{flagicon|BRA}} [[Juliano Belletti]] || || {{subon|120+4}}
+|-
+|MF ||'''12'''||{{flagicon|NGA}} [[Mikel John Obi]]
+|-
+|FW ||'''7''' ||{{flagicon|UKR}} [[Andriy Shevchenko]]
+|-
+|FW ||'''21'''||{{flagicon|CIV}} [[Salomon Kalou]] || || {{subon|92}}
+|-
+|FW ||'''39'''||{{flagicon|FRA|1974}} [[Nicolas Anelka]] || || {{subon|99}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ISR}} [[Avram Grant]]
+|}
+|}
+{| width="100%" style="font-size:90%"
+|
+'''UEFA Man of the Match:'''
+<br />[[Edwin van der Sar]] (Manchester United)<ref name="deserved">{{cite news |first=Daniel |last=Taylor |title=With the history of the club we deserved this trophy |url=https://www.theguardian.com/football/2008/may/22/manchesterunited.chelsea1 |work=The Guardian |publisher=Guardian News and Media |date=22 May 2008 |access-date=22 May 2008 }}</ref><ref>{{cite news |first=Tim |last=Rich |title=Champions League final: 'We're all feeling incredibly tired', says Sir Alex Ferguson |url=https://www.telegraph.co.uk/sport/football/2301186/Champions-League-final-%27We%27re-all-feeling-incredibly-tired%27%2C-says-Sir-Alex-Ferguson.html |archive-url=https://web.archive.org/web/20081202123317/http://www.telegraph.co.uk/sport/football/2301186/Champions-League-final-%27We%27re-all-feeling-incredibly-tired%27%2C-says-Sir-Alex-Ferguson.html |url-status=dead |archive-date=2 December 2008 |work=Telegraph.co.uk |publisher=Telegraph Media Group |date=22 May 2008 |access-date=22 May 2008 }}</ref>
+<br />'''Fans' Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Manchester United)<ref>{{cite web|title=Man. United 1-1 Chelsea - Statistics |url=http://www.uefa.com/competitions/ucl/fixturesresults/round=15109/match=301604/report=st.html |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=22 May 2008 |archive-url=https://web.archive.org/web/20090430042901/http://www.uefa.com/competitions/ucl/fixturesresults/round%3D15109/match%3D301604/report%3Dst.html |archive-date=30 April 2009 |url-status=dead }}</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Roman Slyško ([[Slovak Football Association|Slovakia]])
+<br />Martin Balko ([[Slovak Football Association|Slovakia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Vladimir Hriňák]] ([[Slovak Football Association|Slovakia]])
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Manchester United
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|5
+|6
+|-
+!scope=row|Shots on target
+|3
+|1
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|2
+|2
+|-
+!scope=row|Fouls committed
+|5
+|9
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half and extra time<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Manchester United
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|7
+|18
+|-
+!scope=row|Shots on target
+|2
+|2
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|57%
+|43%
+|-
+!scope=row|Corner kicks
+|3
+|6
+|-
+!scope=row|Fouls committed
+|17
+|16
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|1
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Manchester United
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|12
+|24
+|-
+!scope=row|Shots on target
+|5
+|3
+|-
+!scope=row|Saves
+|1
+|4
+|-
+!scope=row|Ball possession
+|58%
+|42%
+|-
+!scope=row|Corner kicks
+|5
+|8
+|-
+!scope=row|Fouls committed
+|22
+|25
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|4
+|4
+|-
+!scope=row|Red cards
+|0
+|1
+|}
+{{col-end}}
+
+==Post-match==
+[[File:Sl 5 - 5.jpg|thumb|Manchester United celebrate winning their third Champions League title.]]
+Having missed what would have been Chelsea's winning penalty, John Terry had to be consoled by his manager, Avram Grant. The Manchester United players formed a guard of honour for Chelsea, lining up in two opposite rows at the foot of the steps up to the presentation party and applauding as the Chelsea team – led by chief executive [[Peter Kenyon]] – walked through. As Drogba had been sent off during the game, he was not allowed to collect his medal himself and it was given to Grant; when he returned to pitch level, Grant tossed his own medal into the crowd.<ref>{{cite news|title=Got Avram's medal? |url=http://www1.skysports.com/other-sports/news/11096/3600629/got-avrams-medal |work=skysports.com |publisher=British Sky Broadcasting |date=23 May 2008 |access-date=24 May 2008 }}</ref> After Chelsea's team received their medals, Munich air disaster survivor [[Bobby Charlton]], who had captained United to the European Cup title in 1968, led his team up to collect their medals in his capacity as a club director. UEFA President Michel Platini presented both Kenyon and Charlton with commemorative plaques and medals, but Charlton declined to accept his medal; he later donated it to the club museum.<ref name="hytner"/> When all the players had received their medals, Platini presented Manchester United with the trophy, which [[Rio Ferdinand]] – as team captain for the match – and Ryan Giggs – standing in for injured club captain [[Gary Neville]] – lifted together.<ref>{{cite news |first=Barry |last=Glendenning |title=Man Utd v Chelsea - as it happened! |url=https://www.theguardian.com/football/2008/may/21/championsleague.manchesterunited6 |website=theguardian.com |publisher=Guardian News and Media |date=21 May 2008 |access-date=9 January 2015 }}</ref>
+
+United manager Sir Alex Ferguson said his side deserved to win the game despite Chelsea performing better in the second half, and acknowledged the historical significance of the win, which came 40 years after the club's first European Cup title and 50 years after the Munich air disaster. He also said it was the first penalty shoot-out he had ever won as a manager: "I won the Charity Shield that way, but that doesn't really count. The European Cup? The FA Cup? The Scottish cups? Never. I've lost three with Aberdeen and three with United, so seventh time lucky – magnificent."<ref name="deserved"/> Ferguson later apologised to Park Ji-sung for not including him in the matchday squad.<ref>{{cite news |first=John |last=Duerden |title=Park Ji-Sung: Fergie Said Sorry |url=http://www.goal.com/en/news/8/main/2008/05/22/706315/park-ji-sung-fergie-said-sorry |website=Goal.com |date=22 May 2008 |access-date=28 April 2014 }}</ref> Ronaldo expressed his relief at his side's shoot-out victory, saying, "In my opinion I played well in the game, scored a goal, and then missed the penalty. It would have been the worst day of my life. We deserved to win as we played better in the whole game. It means everything to me, we have won both trophies, it is the best day in my life." He then attempted to quash speculation about his future and a potential transfer to Real Madrid, saying, "I am going to stay."<ref>{{cite news |first=Sam |last=Collins |title=The best day of my life, says Ronaldo |url=https://www.theguardian.com/football/2008/may/21/championsleague.manchesterunited8 |work=The Guardian |publisher=Guardian News and Media |date=21 May 2008 |access-date=8 January 2015 }}</ref>
+
+Carvalho, Lampard and Grant all refused to point the finger of blame at Terry, but assistant manager [[Henk ten Cate]] admitted that Terry was not originally due to take one of the first five penalties (if Drogba had not been sent off, the Ivorian would have taken the fifth penalty).<ref>{{cite news |first=Dominic |last=Fifield |title=Terry was a stand-in for key penalty miss |url=https://www.theguardian.com/football/2008/may/22/championsleague.chelsea2 |work=The Guardian |publisher=Guardian News and Media |date=22 May 2008 |access-date=8 January 2015 }}</ref> Chelsea offered Terry counselling to help cope with having missed his penalty and lost the match.<ref>{{cite news |first=Oliver |last=Brown |title=John Terry to regain England captaincy |url=https://www.telegraph.co.uk/sport/football/teams/england/2301572/John-Terry-to-regain-England-captaincy.html |work=The Daily Telegraph |date=26 May 2008 |access-date=28 April 2014 |archive-url=https://web.archive.org/web/20140529165931/http://www.telegraph.co.uk/sport/football/teams/england/2301572/John-Terry-to-regain-England-captaincy.html |archive-date=29 May 2014 }}</ref> Terry was later accused of spitting at Manchester United striker Tevez,<ref>{{cite news |first=Simon |last=Johnson |title=John Terry anger over Carlos Tevez spitting row |url=https://www.standard.co.uk/sport/john-terry-anger-over-carlos-tevez-spitting-row-6683661.html |work=Evening Standard |location=London |date=23 May 2008 |access-date=5 October 2021 }}</ref> but a UEFA report into the video evidence cleared him of any wrongdoing. Terry also wrote an open letter, published on Chelsea's official website, apologising for missing the penalty and costing Chelsea the trophy.<ref>{{cite news|title=JT letter to fans |url=http://www.chelseafc.com/page/NewsHomePage/0,,10268~1318700,00.html |work=chelseafc.com |publisher=Chelsea Digital Media |date=24 May 2008 |access-date=28 April 2014 |archive-url=https://web.archive.org/web/20080525232522/http://www.chelseafc.com/page/NewsHomePage/0%2C%2C10268~1318700%2C00.html |archive-date=25 May 2008 |url-status=dead }}</ref> Nicolas Anelka, who took the decisive kick, revealed he did not actually want to take a penalty, citing his lack of warm-up time.<ref>{{cite news |first1=Sachin |last1=Nakrani |first2=David |last2=Hytner |title=Anelka blames miss on lack of warm-up to put more heat on Grant |url=https://www.theguardian.com/football/2008/may/24/championsleague.premierleague |work=The Guardian |publisher=Guardian News and Media |date=24 May 2008 |access-date=8 January 2015 }}</ref>
+
+Following the loss, Grant's future as manager was thrown into doubt, and owner [[Roman Abramovich]] (who attended the final), chief executive Peter Kenyon, director Eugene Tenenbaum and chairman [[Bruce Buck]] were reportedly already seeking a replacement for Grant the day after the game. Buck was unimpressed with Chelsea's second-place league finish and being runners-up in the Champions League, saying, "We have very high expectations at Chelsea and a couple of second-place finishes is just not good enough for us."<ref name="buck">{{cite news |title=Buck: Second not good enough |url=http://www.express.co.uk/sport/football/45552/Buck-Second-not-good-enough |work=Daily Express |publisher=Northern and Shell Media Publications |date=24 May 2008 |access-date=8 January 2015 }}</ref> Grant was officially sacked three days after the match.<ref>{{cite news |first=Josh |last=Widdicombe |author-link=Josh Widdicombe |title=Grant and Chelsea part company |url=https://www.theguardian.com/football/2008/may/24/chelsea.premierleague |work=guardian.co.uk |publisher=Guardian News and Media |date=24 May 2008 |access-date=25 May 2008 }}</ref> Buck also confirmed plans to trim the Chelsea squad by selling at least three players, and said that discussions were due to take place regarding Drogba's future with the club, after the striker reportedly expressed a desire to leave earlier in the season.<ref name="buck"/>
+
+In Moscow, around 6,000 police were on duty to prevent a repeat of the [[2008 UEFA Cup final riots]] in [[Manchester]] a week earlier, but police reported that none of the 40,000 visiting fans were arrested,<ref name="police">{{cite news |first=Lee |last=Glendinning |title=Police arrest 13 in Chelsea after final defeat |url=https://www.theguardian.com/football/2008/may/22/footballviolence.chelsea |work=The Guardian |publisher=Guardian News and Media |date=22 May 2008 |access-date=8 January 2015 }}</ref> due in part to public safety measures such as a ban on public drinking and no large screens being set up for members of the public to watch the game outdoors.<ref>{{cite news |first1=Sachin |last1=Nakrani |title=Moscow's plan to avert Manchester-style chaos |url=https://www.theguardian.com/football/2008/may/16/championsleague.uefa |work=The Guardian |publisher=Guardian News and Media |date=16 May 2008 |access-date=10 January 2015 }}</ref> In London, violence escalated outside [[Fulham Broadway tube station]], near Chelsea's Stamford Bridge ground; police arrested 12 people on public order offences, while one man was arrested for grievous bodily harm, drink driving and dangerous driving, after he hit a 31-year-old while attempting to drive down Fulham Broadway. Five police were also believed to have been injured in the incident.<ref name="police"/>
+
+Manchester United had originally intended to hold a parade through the streets of Manchester to celebrate their Double triumph on their return from Moscow on 22 May. However, following the violence that occurred at the UEFA Cup final, [[Greater Manchester Police]] determined that any victory parade could only take place later in the summer.<ref>{{cite news |title=Safety fears rule out United parade |url=https://www.theguardian.com/uk/2008/may/22/championsleague |website=theguardian.com |publisher=Guardian News and Media |date=22 May 2008 |access-date=10 January 2015 }}</ref> The public parade was ultimately cancelled, but fans were given the opportunity to photograph the players with the Premier League and Champions League trophies before Manchester United's home friendly against Juventus on 6 August 2008.<ref>{{cite news |first=Nick |last=Coppack |title=Reds show off silverware |url=http://www.manutd.com/en/News-And-Features/Football-News/2008/Aug/Reds-show-off-silverware.aspx |website=ManUtd.com |publisher=Manchester United |date=6 August 2008 |access-date=29 April 2015 |archive-url=https://web.archive.org/web/20160304084004/http://www.manutd.com/en/News-And-Features/Football-News/2008/Aug/Reds-show-off-silverware.aspx |archive-date=4 March 2016 }}</ref>
+
+===Rewards===
+In addition to the €5.4&nbsp;million participation bonus, €5.7&nbsp;million won from the group stage and €7.7&nbsp;million from the three rounds prior to the final, Manchester United also received €7&nbsp;million for winning the final. Chelsea also received €5.4&nbsp;million for participation and €7.7&nbsp;million for the first three knockout rounds, but received only €5.1&nbsp;million from the group stage, having drawn two more games and won two fewer than Manchester United. Chelsea also received €4&nbsp;million for finishing as runners-up.<ref name="prize_money">{{cite journal|date=July 2008 |title=Distribution of revenue to the clubs |journal=Uefadirect |issue=75 |pages=6–7 |publisher=Union of European Football Associations |url=https://www.uefa.com/MultimediaFiles/Download/Publications/uefa/UEFAMedia/72/83/14/728314_DOWNLOAD.pdf|access-date=26 July 2009 }}</ref>
+
+In addition to the €23.4&nbsp;million and €19.8&nbsp;million earned respectively by the two clubs as prize money, Manchester United and Chelsea received money from the UEFA market pool share. The market pool share had a total value of €277&nbsp;million, shared between the 32 clubs that qualified for the group stage. The pool was split in proportion to each national association's strength in the television market, with the [[Premier League]] clubs receiving around €60&nbsp;million in total from the pool. The money was then split between the four teams who qualified for the Champions League from the [[2006–07 FA Premier League]] based on their position in the league and the number of matches played in the 2007–08 Champions League. This meant that Manchester United, having won the 2006–07 Premier League, received around €19.5&nbsp;million, and Chelsea, as runners-up, received around €16.5&nbsp;million.<ref name="prize_money"/>
+
+As winners of the Champions League, Manchester United earned places in the [[2008 UEFA Super Cup]] and the [[2008 FIFA Club World Cup]]. In the Super Cup, United faced 2008 UEFA Cup final winners [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] at [[Stade Louis II]] in Monaco on 29 August 2008; Zenit won the match 2–1.<ref>{{cite news |first=Sam |last=Lyon |title=Man Utd 1-2 Zenit St Petersburg |url=https://news.bbc.co.uk/sport2/hi/football/europe/7584103.stm |website=BBC Sport |date=29 August 2008 |access-date=10 January 2015 }}</ref> As UEFA's representative at the Club World Cup, Manchester United entered the tournament at the semi-final stage, where they beat [[2008 AFC Champions League]] winners [[Gamba Osaka]] 5–3.<ref>{{cite news |first=Chris |last=Whyatt |title=Gamba Osaka 3-5 Man Utd |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/7785555.stm |website=BBC Sport |date=18 December 2008 |access-date=10 January 2015 }}</ref> They then beat [[2008 Copa Libertadores]] winners [[LDU Quito]] 1–0 in the final to become the first English club to win the competition.<ref>{{cite news |first=Chris |last=Bevan |title=Liga de Quito 0-1 Man Utd |url=https://news.bbc.co.uk/sport1/hi/football/teams/m/man_utd/7793438.stm |website=BBC Sport |date=21 December 2008 |access-date=10 January 2015 }}</ref>
+
+==Media==
+
+===Broadcasters===
+The match was shown simultaneously in the United Kingdom by free-to-air channel [[ITV (TV channel)|ITV1]] and subscription channel [[Sky Sports|Sky Sports 1]], whose networks in 2005 had won the rights to broadcast UEFA Champions League matches for three seasons from 2006–07 to 2008–09.<ref>{{cite news |first=Owen |last=Gibson |title=ITV/BSkyB Champions League deal |url=https://www.theguardian.com/football/2005/sep/15/newsstory.sport10 |work=The Guardian |publisher=Guardian News and Media |date=15 September 2005 |access-date=25 July 2014 }}</ref> Sky acted as the host broadcaster for UEFA, providing pictures to all other networks covering the final with around 30 cameras and 100 crew members.<ref name="sky">{{cite news |first=Martin |last=Kelner |title=Sky rolls in to feed the world |url=https://www.theguardian.com/football/2008/may/20/championsleague.manchesterunited1 |work=The Guardian |publisher=Guardian News and Media |date=20 May 2008 |access-date=10 January 2015 }}</ref> The ITV broadcast was led by [[Steve Rider]], with [[Clive Tyldesley]] commentating, David Pleat as an analyst, and [[Andy Townsend]] and [[Mark Hughes]] as in-studio pundits.<ref name="commentary">{{cite news |first=Andrew |last=Baker |title=Champions League final: Contest between ITV and Sky as fierce as Chelsea and Man United |url=https://www.telegraph.co.uk/sport/football/2301115/Champions-League-final-Contest-between-ITV-and-Sky-as-fierce-as-Chelsea-and-Man-United.html |website=Telegraph.co.uk |publisher=Telegraph Media Group |date=21 May 2008 |access-date=10 January 2015 |archive-url=https://web.archive.org/web/20161104011602/https://www.telegraph.co.uk/sport/football/2301115/Champions-League-final-Contest-between-ITV-and-Sky-as-fierce-as-Chelsea-and-Man-United.html |archive-date=4 November 2016 }}</ref> Sky's team consisted of presenter [[Richard Keys]], joined in the studio by [[Graeme Souness]] and [[Jamie Redknapp]], and [[Ruud Gullit]] via phone, with commentary from [[Martin Tyler]] and analysis from [[Andy Gray (footballer, born 1955)|Andy Gray]].<ref name="commentary"/>
+
+ITV's viewing figures peaked at 14.6&nbsp;million in the five minutes from 22:30, during the penalty shoot-out. During the match (from 19:45 to 22:35), the number of viewers averaged at 11.1&nbsp;million (46% of the total audience), while the average over the entire broadcast from 19:00 to 23:15 was 9.6&nbsp;million (43% of the total). Meanwhile, Sky Sports' peak was 2&nbsp;million viewers in a five-minute period near the end of extra time; their average for the match was 1.8&nbsp;million, and 1.3&nbsp;million for the full broadcast.<ref>{{cite news |first=Leigh |last=Holmwood |title=TV ratings: Champions League penalty shoot-out scores for ITV |url=https://www.theguardian.com/media/2008/may/22/tvratings.television |work=theguardian.com |publisher=Guardian News and Media |date=22 May 2008 |access-date=25 July 2014 }}</ref> In Ireland, [[RTÉ2|RTÉ Two]]'s coverage of the match reached a one-minute peak of 998,000 (62% share), with an average over their four-hour broadcast of 653,000 (44% share).<ref>{{cite news |title=Close to 1m watch Champions League final |url=http://www.rte.ie/sport/soccer/champions-league/2008/0522/232205-championsleague/ |publisher=RTÉ Sport (RTÉ Commercial Enterprises) |date=23 May 2008 |access-date=25 July 2014 }}</ref> In the United States, viewership was split between the English-language channel [[ESPN2]] and Spanish-language channel [[ESPN Deportes]]; viewership on ESPN2 averaged at 1.097&nbsp;million, while ESPN Deportes received an average of 213,000 viewers, totalling 1.31&nbsp;million. It was the first time a UEFA match on ESPN had been watched by more than 1&nbsp;million viewers.<ref>{{cite news |first=Jeff |last=Hash |title=American TV Viewership for Champions League Final Tops 1 Million |url=http://worldsoccertalk.com/2008/05/24/american-tv-viewership-for-champions-league-final-tops-1-million/ |publisher=World Soccer Talk |date=24 May 2008 |access-date=1 March 2015 }}</ref>
+
+===Advertising===
+Based on an expected audience of up to 13&nbsp;million, ITV raised the prices of their 30-second advertising slots during the final from between £100,000 and £150,000 to as much as £250,000.<ref name="payday">{{cite news |first=Mark |last=Sweney |title=ITV hopes for £10m Euro final payday |url=https://www.theguardian.com/media/2008/may/21/itv.advertising |work=The Guardian |publisher=Guardian News and Media |date=21 May 2008 |access-date=1 March 2015 }}</ref> It was estimated that ITV would stand to make £9&nbsp;million in advertising revenue during the final, rising to £10&nbsp;million if it went to extra time and penalties; this compared with amounts of £2–3&nbsp;million normally received for its Wednesday night schedule and £3–4&nbsp;million for a Champions League final with no British teams involved.<ref name="payday"/> Among the confirmed advertisers on ITV were [[Ford of Britain|Ford]], [[Cadbury]], [[Nike, Inc.|Nike]], [[Heineken]], [[Audi]] and [[BlackBerry]].<ref name="sky"/><ref name="payday"/> Sky's advertising prices were not reported, but among their scheduled advertisers were Audi, Ford, Nike, [[Samsung]] and [[Pepsi]].<ref name="sky"/>
+
+==See also==
+*[[2008 UEFA Cup final]]
+*[[2008 UEFA Women's Cup final]]
+*[[2007–08 Chelsea F.C. season]]
+*[[2007–08 Manchester United F.C. season]]
+*[[Chelsea F.C. in international football competitions]]
+*[[English football clubs in international competitions]]
+*[[List of football matches between British clubs in UEFA competitions]]
+*[[Manchester United F.C. in European football]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080529024329/http://www.uefa.com/competitions/ucl/fixturesresults/round%3D15109/match%3D301604/report%3Drp.html Official site] (Archived)
+{{commons category}}
+{{UEFA Champions League seasons}}
+{{2007–08 in European football (UEFA)}}
+{{Chelsea F.C. matches}}
+{{Manchester United F.C. matches}}
+
+{{DEFAULTSORT:2008 Uefa Champions League final}}
+[[Category:Football in Moscow|Champions League Final 2008]]
+[[Category:UEFA Champions League finals]]
+[[Category:2007–08 UEFA Champions League|Final]]
+[[Category:2008 in Russian football|Champions League Final]]
+[[Category:Chelsea F.C. matches|Champions League Final 2008]]
+[[Category:Manchester United F.C. matches|European Cup Final 2008]]
+[[Category:Football matches in Russia]]
+[[Category:2008 in Moscow]]
+[[Category:May 2008 sports events in Europe]]
+[[Category:Sports competitions in Moscow]]
+[[Category:2007–08 in English men's football]]
+[[Category:English football clubs in international competitions]]

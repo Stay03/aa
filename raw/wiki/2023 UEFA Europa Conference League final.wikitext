@@ -1,0 +1,606 @@
+{{Use dmy dates|date=August 2020}}
+{{Infobox football match
+| title              = 2023 UEFA Europa Conference League final
+| image              = 2023 UEFA Europa Conference League Final programme.jpg
+| caption            = 
+| image_size         = frameless
+| event              = [[2022–23 UEFA Europa Conference League]]
+| team1              = [[ACF Fiorentina|Fiorentina]]
+| team1association   = {{#invoke:flag|fbaicon|ITA|size=30px}}
+| team1score         = 1
+| team2              = [[West Ham United F.C.|West Ham United]]
+| team2association   = {{#invoke:flag|fbaicon|ENG|size=30px}}
+| team2score         = 2
+| details            =
+| date               = {{Start date|2023|6|7|df=y}}
+| stadium            = [[Fortuna Arena]]
+| city               = [[Prague]]
+| man_of_the_match1a = [[Jarrod Bowen]] {{nowrap|(West Ham United)}}<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefaconferenceleague/news/0282-1833abca8050-f4e7647b0a6e-1000/ |title=Jarrod Bowen named official UEFA Europa Conference League final Laufenn Player of the Match |website=UEFA.com|publisher=Union of European Football Associations |date=7 June 2023 |access-date=7 June 2023}}</ref>
+| referee            = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])<ref name="officials">{{cite web |url=https://www.uefa.com/news-media/news/0281-1812baf4488c-70b9f3974d92-1000/ |title=Referee teams appointed for 2023 UEFA club competition finals |publisher=UEFA |date=22 May 2023 |access-date=22 May 2023}}</ref>
+| attendance         = 17,363<ref name="report7June"/>
+| weather            = Cloudy night<br />{{convert|19|°C|°F}}<br />75% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2023/2037766_LU.pdf |title=Tactical Lineups – Final – Wednesday 7 June 2023 |website=UEFA.com |publisher=Union of European Football Associations |date=7 June 2023 |access-date=7 June 2023 |archive-url=https://web.archive.org/web/20230609175145/https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2023/2037766_lu.pdf |archive-date=9 June 2023 |url-status=dead}}</ref>
+| previous           = [[2022 UEFA Europa Conference League final|2022]]
+| next               = [[2024 UEFA Europa Conference League final|2024]]
+}}
+The '''2023 UEFA Europa Conference League final''' was the final match of the [[2022–23 UEFA Europa Conference League]], the second season of Europe's tertiary club [[association football|football]] tournament organised by [[UEFA]]. The match was played at the [[Fortuna Arena]] in [[Prague]], Czech Republic, on 7 June 2023,<ref>{{cite magazine |url=https://editorial.uefa.com/resources/026b-12cc960662f6-a33fcea5d68a-1000/20210719_circular_2021_51_en.zip |title=International match calendar and access list for 2022/23 |magazine=UEFA Circular Letter |publisher=Union of European Football Associations |number=51/2021 |date=19 July 2021 |access-date=5 November 2021}}</ref><ref name="host appointment">{{cite news |url=https://www.uefa.com/news-media/news/0275-151c90ada680-6a76591a389a-1000/ |title=UEFA EURO 2024 match schedule approved |website=UEFA.com|publisher=Union of European Football Associations |date=10 May 2022 |access-date=10 May 2022}}</ref> between Italian club [[ACF Fiorentina|Fiorentina]] and English club [[West Ham United F.C.|West Ham United]].
+
+West Ham United won the match 2–1 for their first UEFA Europa Conference League title.<ref>{{cite web |url=https://www.uefa.com/uefaconferenceleague/news/0282-1833ad184f9c-3bd42a7f4d8e-1000/ |title=Fiorentina 1–2 West Ham: Bowen arrows Hammers to glory |website=UEFA.com|publisher=Union of European Football Associations |date=7 June 2023 |access-date=7 June 2023}}</ref><ref>{{cite web |url=https://www.bbc.com/sport/football/65826820 |title=Fiorentina 1–2 West Ham United: Jarrod Bowen goal decides Europa Conference League final |work=[[BBC Sport]] |date=7 June 2023 |access-date=8 June 2023}}</ref> As winners, they qualified for the group stage of the [[2023–24 UEFA Europa League]].
+
+==Background==
+This was the first appearance in the final of the competition for both teams. However, both [[ACF Fiorentina|Fiorentina]] and [[West Ham United F.C.|West Ham United]] had won the [[UEFA Cup Winners' Cup|Cup Winners' Cup]] in the 1960s; Fiorentina was its first winners back in [[1960–61 European Cup Winners' Cup|1960–61]], while West Ham won the cup [[1964–65 European Cup Winners' Cup|four seasons later]]. In addition, West Ham was one of the three winners of the [[1999 UEFA Intertoto Cup]]. Both clubs were also aiming to end their decades-long trophy drought; Fiorentina were looking to win their first trophy since winning the [[2000–01 Coppa Italia|Coppa Italia 22 years earlier]], while West Ham's most recent major title came in the [[1979–80 FA Cup]], when they became the most recent non-top flight side to win the tournament.<ref>{{Cite web|url=https://www.bbc.com/sport/football/65809722|title=Europa Conference League final: Everything you need to know as West Ham play Fiorentina|website=BBC.com|date=6 June 2023|access-date=7 June 2023|archive-date=13 June 2023|archive-url=https://web.archive.org/web/20230613063530/https://www.bbc.com/sport/football/65809722|url-status=live}}</ref>
+
+This was Fiorentina's fifth European final, having won the Cup Winners' Cup in [[1961 European Cup Winners' Cup final|1961]] as well as losing the [[1957 European Cup final|1957 European Cup]], the [[1962 European Cup Winners' Cup final|1962 European Cup Winners' Cup]], and the [[1990 UEFA Cup final|1990 UEFA Cup]] finals. With this, they became the first team to reach the finals of all major UEFA club competitions.{{refn|group=note|European Cup/Champions League, Cup Winners' Cup, UEFA Cup/Europa League, UEFA Europa Conference League.}}<ref>{{Cite web |url=https://keepup.com.au/news/fiorentina-focus-a-look-at-west-hams-europa-conference-league-final-opponents/|title=Fiorentina focus – a look at West Ham's Europa Conference League final opponents|website=KeepUp.com.au |date=6 June 2023 |access-date=7 June 2023|url-status=live|archive-url=https://web.archive.org/web/20230609044233/https://keepup.com.au/news/fiorentina-focus-a-look-at-west-hams-europa-conference-league-final-opponents/|archive-date=9 June 2023}}</ref>
+
+This was West Ham's third European final, having won the Cup Winners' Cup in [[1965 European Cup Winners' Cup final|1965]] as well as losing the [[1976 European Cup Winners' Cup final]].<ref>{{Cite web |url=https://www.uefa.com/uefaconferenceleague/news/0281-18229e922c32-92fc7e8bba20-1000--fiorentina-vs-west-ham-final-facts/|title=Fiorentina vs West Ham final facts |website=UEFA.com|publisher=UEFA |date=22 May 2023 |access-date=7 June 2023|url-status=live|archive-url=https://web.archive.org/web/20230522182815/https://www.uefa.com/uefaeuropaconferenceleague/news/0281-181294ad033b-8e381d3c8062-1000--europa-conference-league-final-fiorentina-vs-west-ham-what-/|archive-date=22 May 2023}}</ref> They were the English team with the longest European major trophy drought—58 years since their latest triumph. Their defender [[Emerson Palmieri]] was aiming to become the first player to win [[UEFA club competition records and statistics#List of players to have won the three main European club competitions|all three currently existing major European trophies]], having won the [[2018–19 UEFA Europa League]] and the [[2020–21 UEFA Champions League]] with [[Chelsea F.C.|Chelsea]].
+
+==Venue==
+[[File:Synot Tip Arena - Viktoria Plzen - FC Barcelona 0-4.jpg|thumb|275px|The [[Fortuna Arena]] in [[Prague]] hosted the final.]]
+
+The Fortuna Arena previously hosted the [[2013 UEFA Super Cup]], as well as four matches at the [[2015 UEFA European Under-21 Championship]], including the [[2015 UEFA European Under-21 Championship Final|final]].
+
+===Host selection===
+A bidding process was launched by UEFA to select the venues of the finals of the UEFA Europa Conference League for both [[2022 UEFA Europa Conference League Final|2022]] and 2023. Associations interested in hosting one of the finals had until 20 February 2020 to submit bid dossiers.
+
+The decision was originally scheduled to be made by the UEFA Executive Committee during their meeting on 3 December 2020.<ref>{{cite news |url=https://www.agonasport.com/agonasport-allnews/epo-plans-to-submit-bid-to-host-uefa-europa-conference-league-final |title=EPO plans to submit bid to host UEFA Europa Conference League final |work=AGONAsport |date=28 December 2019 |access-date=12 August 2020 |archive-date=18 May 2021 |archive-url=https://web.archive.org/web/20210518101847/https://www.agonasport.com/agonasport-allnews/epo-plans-to-submit-bid-to-host-uefa-europa-conference-league-final |url-status=dead }}</ref> However, UEFA later decided to reopen the bidding process after appointing the host for the 2022 final only. Member associations had until 30 September 2021 to confirm their intention to submit a bid, while the bids must be submitted by 23 February 2022.<ref>{{cite magazine |url=https://editorial.uefa.com/resources/026b-12db5fe4be55-4737379124d7-1000/20210726_circular_2021_55_en.zip |title=Invitation to bid for 2022/23 UEFA Europa Conference League final |magazine=UEFA Circular |publisher=Union of European Football Associations |number=55/2021 |date=26 July 2021 |access-date=3 November 2021}}</ref> Six associations expressed interest in hosting the final.<ref>{{cite news |url=https://www.idnes.cz/fotbal/pohary/praha-finale-konferencni-evropska-liga-kandidatura-2023.A211005_174516_fot_pohary_ten |title=Konferenční liga s vrcholem v Praze? V roce 2023 chce finále šest zemí |trans-title=Conference League with a peak in Prague? In 2023, six countries want the final |website=iDNES.cz |date=5 October 2021 |access-date=10 May 2022 |language=cs}}</ref><ref>{{cite news |url=https://www.gazzetta.gr/football/europa-conference-league/2089960/aek-katatethike-o-fakelos-gia-ton-teliko-toy-conference |title=ΑΕΚ: Κατατέθηκε ο φάκελος για τον τελικό του Conference League 2023 στην «Αγιά Σοφιά – OPAP Arena» |trans-title=AEK: The file for the final of Conference League 2023 was submitted to "Agia Sofia – OPAP Arena" |website=gazzetta.gr |date=10 February 2022 |access-date=10 May 2022 |language=el}}</ref><ref>{{cite news |url=https://www.bbc.com/sport/football/60994485 |title=Europa Conference League: Irish FA bids to host final at Windsor Park |work=[[BBC Sport]] |date=5 April 2022 |access-date=10 May 2022}}</ref><ref>{{cite news |url=https://futbalsfz.sk/uefa-slovensky-futbalovy-zvaz-sa-uchadza-o-usporiadanie-finale-konferencnej-ligy/ |title=UEFA – Slovenský futbalový zväz sa uchádza o usporiadanie finále Európskej konferenčnej ligy |trans-title=UEFA – Slovak Football Association is bidding to host the final of the European Conference League |publisher=[[Slovak Football Association]] |date=6 October 2021 |access-date=10 May 2022 |language=sk}}</ref>
+
+{| class="wikitable sortable"
+|+New bidding associations for 2023 UEFA Europa Conference League Final
+|-
+! Association !! Stadium !! City !! Capacity !! Notes
+|- bgcolor=#ccffcc
+| {{#invoke:flag|fba|CZE}} || [[Fortuna Arena]] || [[Prague]] || 20,800 ||
+|-
+| {{#invoke:flag|fba|GRE}} || [[Agia Sophia Stadium]] || [[Athens]] || 32,000 || Under construction
+|-
+| {{#invoke:flag|fba|ISR}} || [[Teddy Stadium]] || [[Jerusalem]] || 31,733 ||
+|-
+| {{#invoke:flag|fba|NIR}} || [[Windsor Park]] || [[Belfast]] || 18,614 ||
+|-
+| {{#invoke:flag|fba|SVK}} || [[Tehelné pole]] || [[Bratislava]] || 22,500 ||
+|}
+
+The UEFA Executive Committee appointed the Fortuna Arena as the host during their meeting in [[Vienna]], Austria, on 10 May 2022.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0275-1512570143c5-0f9c52f72132-1000/ |title=UEFA Executive Committee agenda for Vienna meeting |publisher=Union of European Football Associations |date=5 May 2022 |access-date=5 May 2022}}</ref><ref name="host appointment"/>
+
+==Route to the final==
+{{Further|2022–23 UEFA Europa Conference League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{#invoke:flag|fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+!Round
+!colspan="4"|{{#invoke:flag|fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|style="background:#C1E0FF"|[[2022–23 UEFA Europa Conference League qualifying phase and play-off round|Qualifying phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align="left"|{{#invoke:flag|fbaicon|NED}} [[FC Twente|Twente]]
+|2–1
+|[[2022–23 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#PO 10.1|2–1]] (H)
+|[[2022–23 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#PO 10.2|0–0]] (A)
+|style="background:#C1E0FF"|Play-off round
+|align="left"|{{#invoke:flag|fbaicon|DEN}} [[Viborg FF|Viborg]]
+|6–1
+|[[2022–23 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#PO 13.1|3–1]] (H)
+|[[2022–23 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#PO 13.2|3–0]] (A)
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2022–23 UEFA Europa Conference League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|LVA}} [[FK RFS|RFS]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#Fiorentina v RFS|1–1]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{#invoke:flag|fbaicon|ROU}} [[FCSB]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#West Ham United v FCSB|3–1]] (H)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|TUR}} [[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#İstanbul Başakşehir v Fiorentina|0–3]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{#invoke:flag|fbaicon|DEN}} [[Silkeborg IF|Silkeborg]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#Silkeborg v West Ham United|3–2]] (A)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|SCO}} [[Heart of Midlothian F.C.|Heart of Midlothian]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#Heart of Midlothian v Fiorentina|3–0]] (A)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{#invoke:flag|fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#Anderlecht v West Ham United|1–0]] (A)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|SCO}} [[Heart of Midlothian F.C.|Heart of Midlothian]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#Fiorentina v Heart of Midlothian|5–1]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{#invoke:flag|fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#West Ham United v Anderlecht|2–1]] (H)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|TUR}} [[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#Fiorentina v İstanbul Başakşehir|2–1]] (H)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{#invoke:flag|fbaicon|DEN}} [[Silkeborg IF|Silkeborg]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#West Ham United v Silkeborg|1–0]] (H)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|LVA}} [[FK RFS|RFS]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#RFS v Fiorentina|3–0]] (A)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{#invoke:flag|fbaicon|ROU}} [[FCSB]]
+|colspan="3"|[[2022–23 UEFA Europa Conference League group stage#FCSB v West Ham United|3–0]] (A)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2022–23 UEFA Europa Conference League group stage#Group A|Group A]] runners-up'''
+<div class="center">{{2022–23 UEFA Europa Conference League group tables|Group A|only_pld_pts=yes|show_matches=no|showteam=FIO}}</div>
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2022–23 UEFA Europa Conference League group stage#Group B|Group B]] winners'''
+<div class="center">{{2022–23 UEFA Europa Conference League group tables|Group B|only_pld_pts=yes|show_matches=no|showteam=WHU}}</div>
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2022–23 UEFA Europa Conference League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align="left"|{{#invoke:flag|fbaicon|POR}} [[S.C. Braga|Braga]]
+|7–2
+|[[2022–23 UEFA Europa Conference League knockout phase#Braga v Fiorentina|4–0]] (A)
+|[[2022–23 UEFA Europa Conference League knockout phase#Fiorentina v Braga|3–2]] (H)
+|style="background:#C1E0FF"|Knockout round play-offs
+|colspan="4"|Bye
+|-
+|align="left"|{{#invoke:flag|fbaicon|TUR}} [[Sivasspor]]
+|5–1
+|[[2022–23 UEFA Europa Conference League knockout phase#Fiorentina v Sivasspor|1–0]] (H)
+|[[2022–23 UEFA Europa Conference League knockout phase#Sivasspor v Fiorentina|4–1]] (A)
+|style="background:#C1E0FF"|Round of 16
+|align="left"|{{#invoke:flag|fbaicon|CYP}} [[AEK Larnaca FC|AEK Larnaca]]
+|6–0
+|[[2022–23 UEFA Europa Conference League knockout phase#AEK Larnaca v West Ham United|2–0]] (A)
+|[[2022–23 UEFA Europa Conference League knockout phase#West Ham United v AEK Larnaca|4–0]] (H)
+|-
+|align="left"|{{#invoke:flag|fbaicon|POL}} [[Lech Poznań]]
+|6–4
+|[[2022–23 UEFA Europa Conference League knockout phase#Lech Poznań v Fiorentina|4–1]] (A)
+|[[2022–23 UEFA Europa Conference League knockout phase#Fiorentina v Lech Poznań|2–3]] (H)
+|style="background:#C1E0FF"|Quarter-finals
+|align="left"|{{#invoke:flag|fbaicon|BEL}} [[KAA Gent|Gent]]
+|5–2
+|[[2022–23 UEFA Europa Conference League knockout phase#Gent v West Ham United|1–1]] (A)
+|[[2022–23 UEFA Europa Conference League knockout phase#West Ham United v Gent|4–1]] (H)
+|-
+|align="left"|{{#invoke:flag|fbaicon|SUI}} [[FC Basel|Basel]]
+|4–3
+|[[2022–23 UEFA Europa Conference League knockout phase#Fiorentina v Basel|1–2]] (H)
+|[[2022–23 UEFA Europa Conference League knockout phase#Basel v Fiorentina|3–1]] {{aet}} (A)
+|style="background:#C1E0FF"|Semi-finals
+|align="left"|{{#invoke:flag|fbaicon|NED}} [[AZ Alkmaar|AZ]]
+|3–1
+|[[2022–23 UEFA Europa Conference League knockout phase#West Ham United v AZ|2–1]] (H)
+|[[2022–23 UEFA Europa Conference League knockout phase#AZ v West Ham United|1–0]] (A)
+|}
+
+==Pre-match==
+
+===Identity===
+The original identity of the 2023 UEFA Europa Conference League Final was unveiled at the group stage draw on 26 August 2022.<ref>{{Cite web |last=UEFA.com |date=2022-08-26 |title=2023 UEFA Europa League and 2023 UEFA Europa Conference League finals identities unveiled {{!}} Inside UEFA |url=https://www.uefa.com/news-media/news/0278-15f5454ff2ca-671989a3cb07-1000--2023-uefa-europa-league-and-2023-uefa-europa-conference-league-/ |access-date=2022-08-26 |website=UEFA.com|language=en}}</ref>
+
+===Ambassador===
+The ambassador for the final was former Czech international [[Vladimír Šmicer]], who won the [[2000–01 UEFA Cup]] and [[2004–05 UEFA Champions League]] titles with [[Liverpool F.C.|Liverpool]].<ref>{{cite web | title=Meet our 2023 finals ambassadors | website=VOLT | date=13 January 2023 | url=https://volunteercommunity.uefa.com/2023/01/13/meet-our-2023-finals-ambassadors/ | access-date=27 May 2023}}</ref>
+
+===Ticketing===
+With a stadium capacity of 18,000 for the final, a total amount of 13,000 tickets were available to fans and the general public, with the two finalist teams receiving 5,000 tickets each, and with the other tickets being available for sale to fans worldwide via ''UEFA.com'' from 21 to 28 April 2023 in four price categories: €125, €85, €45, and €25. Accessibility tickets for disabled spectators cost €25. The remaining tickets were allocated to the local organising committee, national associations, commercial partners, and broadcasters, and to serve the corporate hospitality programme.<ref>{{cite web |title=Ticket sales for 2023 UEFA club competition finals launched |url=https://www.uefa.com/news-media/news/0280-17d41ec484ee-05fcab4e5d9d-1000--ticket-sales-for-2023-uefa-club-competition-finals-launched/ |website=UEFA.com|publisher=Union of European Football Associations |date=21 April 2023}}</ref>
+
+===Violence===
+Police arrested more than 30 people after a group of West Ham fans were attacked by Italian [[Ultras]] dressed in black. The violence erupted in the morning of 7 June 2023 in the [[Old Town Square]] area of Prague. Police said the men were wearing face coverings and carrying chains and other weapons.<ref>{{cite web |title=Dozens arrested after West Ham fans attacked in Prague bar ahead of Europa Conference League final |url=https://news.sky.com/story/dozens-arrested-after-west-ham-fans-attacked-in-prague-bar-ahead-of-europa-conference-league-final-12898291 |website=Sky News |access-date=7 June 2023}}</ref>
+
+==Match==
+===Summary===
+====First half====
+[[File:Cristiano Biraghi head injury.jpeg|thumb|Biraghi being treated after being hit with object from the crowd]]
+West Ham started quickly as [[Lucas Paquetá]] played a pass into [[Michail Antonio]], but his shot was easily saved by [[Pietro Terracciano]]. Shortly after, Fiorentina's [[Rolando Mandragora]] unleashed a shot from distance that was well wide. Fiorentina caught a break after [[Declan Rice]]'s shot was just wide of the post following a long throw that the Italians failed to clear. Fiorentina began to control the tempo from this point, and had a chance when [[Nikola Milenković]]'s header went over the bar from a corner. [[Saïd Benrahma]] went down near the edge of the Fiorentina box, but instead of drawing a free kick for the Hammers, he received the first yellow card of the match for simulation.
+
+Ten minutes before the halftime whistle, the match was halted when Fiorentina captain [[Cristiano Biraghi]] was hit by cups and other objects thrown by the West Ham fans. Biraghi was bleeding from the back of his head, but after receiving medical treatment he continued to play.<ref>{{cite news |title=West Ham condemn fan behaviour after Fiorentina's Biraghi hit by object |url=https://www.reuters.com/sports/soccer/west-ham-condemn-fan-behaviour-after-fiorentinas-biraghi-hit-by-object-2023-06-08/ |access-date=8 June 2023 |work=Reuters}}</ref> Fiorentina won successive corners, but West Ham dealt with them and prevented Fiorentina from capitalizing. [[Tomáš Souček]] had a header in the box cleared by [[Luca Ranieri]] near the end of the half. Fiorentina had the best chance of the half right before the halftime whistle. [[Alphonse Areola]] pushed a header from [[Christian Kouamé]] onto the post, where it fell to [[Luka Jović]], who got enough on his header from the rebound and Areola could not prevent it going over the line. However, Jović was in an offside position when Kouamé touched the ball, and the goal was quickly disallowed. Both teams went into halftime having created few chances, but Fiorentina had dominated possession, looked the better team, and very nearly secured the lead.
+
+====Second half====
+[[File:West Ham Europa Conference champions.jpeg|thumb|The players, staff and fans of [[West Ham United F.C.|West Ham United]] celebrate their win.]]
+Fiorentina made the first substitution a minute into the second half, with Jovic leaving the pitch and being replaced by [[Arthur Cabral]]. [[Nayef Aguerd]] became the second player booked after a high challenge on Mandragora in the 53rd minute. The Italians got their first shot on target, but Areola easily claimed the shot from Kouamé. West Ham broke the game open in the 60th minute, when a long throw into the box was controlled by [[Jarrod Bowen]] before going out for a goal kick amid strong penalty appeals from Bowen and other West Ham players. After a VAR check by referee [[Carlos del Cerro Grande]] showed that Biraghi had flicked his hand on to the ball, the penalty was given to the Hammers. Benrahma's penalty into the top right corner sent Terracciano the wrong way, and gave West Ham a 1–0 lead. Both teams made changes shortly after; West Ham replaced [[Kurt Zouma]] with [[Thilo Kehrer]], and Fiorentina's Kouamé was replaced by [[Riccardo Saponara]]. 
+
+[[File:Rice UEFA winner.jpeg|thumb|left|140px|Declan Rice celebrates shortly after the end of the game]]
+
+West Ham's lead was short lived. [[Nicolás González (footballer, born 1998)|Nicolás González]] won an aerial duel against [[Emerson Palmieri|Emerson]], and headed the ball down for [[Giacomo Bonaventura]] who controlled it well with one foot and fired past Areola with the other into the far corner to equalise for Fiorentina. West Ham nearly responded to retake the lead, as Antonio was slipped in by Paquetá, but could not finish the chance, and the flag went up for offside. Benrahma was subbed off for [[Pablo Fornals]] shortly after. Milenkovic was booked after bringing down Paqueta, joining Mandragora as a cautioned Fiorentina player. Ranieri was replaced  by [[Igor Julio]] in the 80th minute. West Ham had another chance that was ruled offside, this time it was Soucek who failed to beat Terracciano. [[Sofyan Amrabat]] received a yellow card for his tackle on Emerson in the 85th minute. Amrabat had a chance from a West Ham turnover, but he failed to beat Areola. In the 90th minute of the game, with stoppage time imminent, Paquetá intercepted a ball in midfield, and played a through ball to Bowen who had only Terracciano in the Fiorentina goal to beat. Bowen lifted the ball over the leg of Terracciano and although the goalkeeper got a slight touch to the ball, the shot went into the net, reclaiming the lead for West Ham in the final moments of normal time. This was enough to give the Hammers a 2–1 victory and their first UEFA Europa Conference League title.<ref name="Steinberg 2023">{{cite web | last=Steinberg | first=Jacob | title=Jarrod Bowen strikes at the last to earn Conference League glory for West Ham | website=the Guardian | date=7 June 2023 | url=https://www.theguardian.com/football/2023/jun/07/fiorentina-west-ham-europa-conference-league-final-match-report | access-date=8 June 2023}}</ref><ref>{{cite web | title=Bowen strikes late as West Ham United win the UEFA Europa Conference League! | website=West Ham United F.C. | date=8 June 2023| url=http://www.whufc.com/news/bowen-strikes-late-west-ham-united-win-uefa-europa-conference-league | access-date=8 June 2023}}</ref>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the quarter-final and semi-final draws.
+
+<onlyinclude>{{#invoke:football box|main
+|date       = {{Start date|2023|6|7|df=y}}
+|time       = {{CEST|21:00}}
+|team1      = [[ACF Fiorentina|Fiorentina]] {{#invoke:flag|fbaicon|ITA}}
+|score      = 1–2
+|team2      = {{#invoke:flag|fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|goals1     =
+*[[Giacomo Bonaventura|Bonaventura]] {{goal|67}}
+|goals2     =
+*[[Saïd Benrahma|Benrahma]] {{goal|62|pen.}}
+*[[Jarrod Bowen|Bowen]] {{goal|90}}
+|stadium    = [[Fortuna Arena]], [[Prague]]
+|attendance = 17,363<ref name="report7June">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2023/2037766_FR.pdf |title=Full Time Summary Final – Fiorentina v West Ham United |website=UEFA.com |publisher=Union of European Football Associations |date=7 June 2023 |access-date=7 June 2023 |archive-url=https://web.archive.org/web/20230616204448/https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2023/2037766_fr.pdf |archive-date=16 June 2023 |url-status=dead}}</ref>
+|referee    = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefaconferenceleague/match/2037766/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _fiorentina2223home
+ |pattern_b  = _fiorentina2223home
+ |pattern_ra = _fiorentina2223home
+ |pattern_sh = _fiorentina2223away
+ |pattern_so = _fiorentina2223hl
+ |leftarm    = 5B1799
+ |body       = 5B1799
+ |rightarm   = 5B1799
+ |shorts     = 5B1799
+ |socks      = 5B1799
+ |title      = Fiorentina<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _dresden2223a
+ |pattern_b  = _westham2223third
+ |pattern_ra = _dresden2223a
+ |pattern_sh =
+ |pattern_so = _westham2223Tl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|West Ham United}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|ITA}} [[Pietro Terracciano]]
+|-
+|RB ||'''2''' ||{{#invoke:flag|icon|BRA}} [[Dodô (footballer, born 1998)|Dodô]]
+|-
+|CB ||'''4''' ||{{#invoke:flag|icon|SRB}} [[Nikola Milenković]] || {{yel|75}}
+|-
+|CB ||'''16'''||{{#invoke:flag|icon|ITA}} [[Luca Ranieri]] || || {{suboff|84}}
+|-
+|LB ||'''3''' ||{{#invoke:flag|icon|ITA}} [[Cristiano Biraghi]] ([[Captain (association football)|c]])
+|-
+|CM ||'''34'''||{{#invoke:flag|icon|MAR}} [[Sofyan Amrabat]] || {{yel|85}}
+|-
+|CM ||'''38'''||{{#invoke:flag|icon|ITA}} [[Rolando Mandragora]] || {{yel|66}} || {{suboff|90+3}}
+|-
+|AM ||'''5''' ||{{#invoke:flag|icon|ITA}} [[Giacomo Bonaventura]]
+|-
+|RW ||'''22'''||{{#invoke:flag|icon|ARG}} [[Nicolás González (footballer, born 1998)|Nicolás González]]
+|-
+|LW ||'''99'''||{{#invoke:flag|icon|CIV}} [[Christian Kouamé]] || || {{suboff|61}}
+|-
+|CF ||'''7''' ||{{#invoke:flag|icon|SRB}} [[Luka Jović]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{#invoke:flag|icon|ITA}} [[Michele Cerofolini]]
+|-
+|DF ||'''15'''||{{#invoke:flag|icon|SRB}} [[Aleksa Terzić]]
+|-
+|DF ||'''23'''||{{#invoke:flag|icon|ITA}} [[Lorenzo Venuti]]
+|-
+|DF ||'''28'''||{{#invoke:flag|icon|ARG}} [[Lucas Martínez Quarta]]
+|-
+|DF ||'''98'''||{{#invoke:flag|icon|BRA}} [[Igor Julio|Igor]] || || {{subon|84}}
+|-
+|MF ||'''8''' ||{{#invoke:flag|icon|ITA}} [[Riccardo Saponara]] || || {{subon|61}}
+|-
+|MF ||'''32'''||{{#invoke:flag|icon|GHA}} [[Alfred Duncan]] || {{yel|67}}
+|-
+|MF ||'''42'''||{{#invoke:flag|icon|ITA}} [[Alessandro Bianco]]
+|-
+|MF ||'''72'''||{{#invoke:flag|icon|CZE}} [[Antonín Barák]] || || {{subon|90+3}}
+|-
+|FW ||'''9''' ||{{#invoke:flag|icon|BRA}} [[Arthur Cabral]] || || {{subon|46}}
+|-
+|FW ||'''11'''||{{#invoke:flag|icon|FRA}} [[Jonathan Ikoné]]
+|-
+|FW ||'''77'''||{{#invoke:flag|icon|CRO}} [[Josip Brekalo]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ITA}} [[Vincenzo Italiano]]
+|}
+|valign="top"|[[File:Fiorentina vs West Ham United 2023-06-07.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{#invoke:flag|icon|FRA}} [[Alphonse Areola]]
+|-
+|RB ||'''5''' ||{{#invoke:flag|icon|CZE}} [[Vladimír Coufal]]
+|-
+|CB ||'''4''' ||{{#invoke:flag|icon|FRA}} [[Kurt Zouma]] || || {{suboff|61}}
+|-
+|CB ||'''27'''||{{#invoke:flag|icon|MAR}} [[Nayef Aguerd]] || {{yel|53}}
+|-
+|LB ||'''33'''||{{#invoke:flag|icon|ITA}} [[Emerson Palmieri]]
+|-
+|CM ||'''28'''||{{#invoke:flag|icon|CZE}} [[Tomáš Souček]]
+|-
+|CM ||'''41'''||{{#invoke:flag|icon|ENG}} [[Declan Rice]] ([[Captain (association football)|c]])
+|-
+|AM ||'''11'''||{{#invoke:flag|icon|BRA}} [[Lucas Paquetá]]
+|-
+|RW ||'''20'''||{{#invoke:flag|icon|ENG}} [[Jarrod Bowen]] || {{yel|90+7}}
+|-
+|LW ||'''22'''||{{#invoke:flag|icon|ALG}} [[Saïd Benrahma]] || {{yel|31}} || {{suboff|76}}
+|-
+|CF ||'''9''' ||{{#invoke:flag|icon|JAM}} [[Michail Antonio]] || || {{suboff|90+4}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|POL}} [[Łukasz Fabiański]]
+|-
+|DF ||'''2''' ||{{#invoke:flag|icon|ENG}} [[Ben Johnson (footballer, born 2000)|Ben Johnson]]
+|-
+|DF ||'''3''' ||{{#invoke:flag|icon|ENG}} [[Aaron Cresswell]] || {{yel|90+1}}
+|-
+|DF ||'''21'''||{{#invoke:flag|icon|ITA}} [[Angelo Ogbonna]] || || {{subon|90+4}}
+|-
+|DF ||'''24'''||{{#invoke:flag|icon|GER}} [[Thilo Kehrer]] || || {{subon|61}}
+|-
+|MF ||'''8''' ||{{#invoke:flag|icon|ESP}} [[Pablo Fornals]] || || {{subon|76}}
+|-
+|MF ||'''10'''||{{#invoke:flag|icon|ARG}} [[Manuel Lanzini]]
+|-
+|MF ||'''12'''||{{#invoke:flag|icon|ENG}} [[Flynn Downes]]
+|-
+|MF ||'''62'''||{{#invoke:flag|icon|ENG}} [[Freddie Potts]]
+|-
+|FW ||'''14'''||{{#invoke:flag|icon|CIV}} [[Maxwel Cornet]]
+|-
+|FW ||'''18'''||{{#invoke:flag|icon|ENG}} [[Danny Ings]]
+|-
+|FW ||'''72'''||{{#invoke:flag|icon|ENG}} [[Divin Mubama]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|SCO}} [[David Moyes]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Jarrod Bowen]] (West Ham United)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Pau Cebrián Devís ([[Royal Spanish Football Federation|Spain]])
+<br />Guadalupe Porras Ayuso ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Diego Barbero Sevilla ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Juan Martínez Munuera]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />[[Alejandro Hernández Hernández]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="officials"/>
+<br />[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Europa-Conference-League-2022/23-Online |title=Regulations of the UEFA Europa Conference League, 2022/23 Season |website=UEFA.com|publisher=Union of European Football Associations |date=1 May 2022 |access-date=10 May 2022}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2023/2037766_TS.pdf |title=Team statistics |website=UEFA.com|publisher=Union of European Football Associations |date=7 June 2023 |access-date=7 June 2023 |url-status=live |archive-url=https://web.archive.org/web/20240617222154/https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2023/2037766_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Fiorentina
+!scope="col" style="width:70px"|West Ham United
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|7
+|3
+|-
+!scope=row|Shots on target
+|0
+|1
+|-
+!scope=row|Saves
+|1
+|0
+|-
+!scope=row|Ball possession
+|66%
+|34%
+|-
+!scope=row|Corner kicks
+|3
+|2
+|-
+!scope=row|Fouls committed
+|5
+|7
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Fiorentina
+!scope="col" style="width:70px"|West Ham United
+|-
+!scope=row|Goals scored
+|1
+|2
+|-
+!scope=row|Total shots
+|10
+|5
+|-
+!scope=row|Shots on target
+|4
+|3
+|-
+!scope=row|Saves
+|1
+|3
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|0
+|2
+|-
+!scope=row|Fouls committed
+|10
+|9
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|4
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Fiorentina
+!scope="col" style="width:70px"|West Ham United
+|-
+!scope=row|Goals scored
+|1
+|2
+|-
+!scope=row|Total shots
+|17
+|8
+|-
+!scope=row|Shots on target
+|4
+|4
+|-
+!scope=row|Saves
+|2
+|3
+|-
+!scope=row|Ball possession
+|63%
+|37%
+|-
+!scope=row|Corner kicks
+|3
+|4
+|-
+!scope=row|Fouls committed
+|15
+|16
+|-
+!scope=row|Offsides
+|2
+|3
+|-
+!scope=row|Yellow cards
+|4
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+After the game Fiorentina president [[Rocco Commisso]] described West Ham  as treating Fiorentina players "like animals" after [[Luka Jović]] came off at half-time with a broken nose and Cristiano Biraghi received a bloodied face after being hit by an object thrown from the crowd.<ref>{{cite web | title=West Ham 'animals' in final - Fiorentina president | website=BBC Sport | date=8 June 2023 | url=https://www.bbc.com/sport/football/65846514 | access-date=9 June 2023}}</ref>
+UEFA later charged both clubs with "throwing of objects" with West Ham being charged with "invasion of the field of play" and Fiorentina being charged with the "lighting of fireworks".<ref>{{cite web | title=West Ham charged by Uefa for incidents in final | website=BBC Sport | date=9 June 2023 | url=https://www.bbc.com/sport/football/65859842 | access-date=9 June 2023}}</ref> West Ham supporters were banned from attending the club's first away fixture of their [[2023–24 UEFA Europa League]] campaign. The club was also fined €50,000 after supporters threw objects onto the pitch and a further €8,000 for a pitch invasion following the game.<ref name=2024ban>{{cite web | title=West Ham fans banned for one European away game | website=BBC Sport | date=21 June 2023 | url=https://www.bbc.com/sport/football/65978643 | access-date=21 June 2023}}</ref> Fiorentina were given a one-match ban for away supporters and were fined €30,000.<ref name="Football Italia 2023 t923">{{cite web | title=UEFA punish Fiorentina and West Ham after Conference League final fan trouble | website=Football Italia | date=21 June 2023 | url=https://football-italia.net/uefa-punish-fiorentina-and-west-ham-after-conference-league-final-fan-trouble/ | access-date=22 June 2023}}</ref>
+
+On 8 June, thousands lined a route from the [[World Cup Sculpture|Champions Statue]] to [[Stratford Town Hall]] as West Ham players took part in an open top bus parade to show the trophy and celebrate the win.<ref>{{cite web | title=Thousands of fans watch West Ham trophy parade | website=BBC Sport | date=8 June 2023 | url=https://www.bbc.com/sport/football/65845801 | access-date=9 June 2023}}</ref>
+
+==See also==
+*[[2023 UEFA Champions League final]]
+*[[2023 UEFA Europa League final]]
+*[[2023 UEFA Women's Champions League final]]
+*[[2023 UEFA Super Cup]]
+*[[ACF Fiorentina in European football]] 
+*[[West Ham United F.C. in European football]]
+*[[2022–23 ACF Fiorentina season]]
+*[[2022–23 West Ham United F.C. season]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+<references />
+
+==External links==
+{{commons category}}
+*{{Official website|https://www.uefa.com/uefaeuropaconferenceleague/}}
+
+{{UEFA Europa Conference League}}
+{{2022–23 in European football (UEFA)}}
+{{ACF Fiorentina matches}}
+{{West Ham United F.C. matches}}
+
+{{DEFAULTSORT:UEFA Europa Conference League final}}
+[[Category:2022–23 UEFA Europa Conference League|Final]]
+[[Category:UEFA Conference League finals|2023]]
+[[Category:2022–23 in Italian football]]
+[[Category:2022–23 in English men's football]]
+[[Category:2022–23 in Czech football]]
+[[Category:ACF Fiorentina matches]]
+[[Category:West Ham United F.C. matches]]
+[[Category:2020s in Prague]]
+[[Category:Football matches in Prague]]
+[[Category:Association football hooliganism]]
+[[Category:June 2023 sports events in the Czech Republic]]
+[[Category:Italy–United Kingdom sports relations]]

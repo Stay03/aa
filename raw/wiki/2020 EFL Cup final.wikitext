@@ -1,0 +1,300 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title = 2020 EFL Cup final
+| image = 2020 EFL Cup Final match programme.jpg
+| caption = Match programme cover
+| event = [[2019–20 EFL Cup]]
+| team1 = [[Aston Villa F.C.|Aston Villa]]
+| team1score = 1
+| team2 = [[Manchester City F.C.|Manchester City]]
+| team2score = 2
+| details = 
+| date = {{Start date|2020|3|1|df=y}}
+| stadium = [[Wembley Stadium]]
+| city = [[London]]
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Phil Foden]] (Manchester City)<ref name="motm">{{cite news |first=Phil |last=McNulty |title=Man City win Carabao Cup final: Phil Foden offers glimpse into life without David Silva |url=https://www.bbc.co.uk/sport/football/51699903 |website=BBC Sport |date=1 March 2020 |access-date=3 March 2020 |archive-date=3 March 2020 |archive-url=https://web.archive.org/web/20200303095636/https://www.bbc.co.uk/sport/football/51699903 |url-status=live }}</ref>
+| referee = [[Lee Mason]] ([[Lancashire County Football Association|Lancashire]])<ref name="referees">{{cite web |url=https://www.efl.com/news/2020/february/carabao-cup-final-match-officials-confirmed/ |title=Carabao Cup Final: Match Officials confirmed |website=EFL.com |publisher=English Football League |date=10 February 2020 |access-date=29 February 2020 |archive-date=1 March 2020 |archive-url=https://web.archive.org/web/20200301045734/https://www.efl.com/news/2020/february/carabao-cup-final-match-officials-confirmed/ |url-status=live }}</ref>
+| attendance = 82,145
+| weather = 
+| previous = [[2019 EFL Cup final|2019]]
+| next = [[2021 EFL Cup final|2021]]
+}}
+
+The '''2020 EFL Cup final''' was the final of the [[2019–20 EFL Cup]]. It was played at [[Wembley Stadium]] in London, England, on 1 March 2020,<ref>{{cite web|url=https://www.efl.com/clubs-and-competitions/key-dates/|title=Key dates for the 2019/20 season|publisher=[[English Football League]]|access-date=19 December 2019|archive-date=31 May 2016|archive-url=https://web.archive.org/web/20160531072553/http://www.football-league.co.uk/global/keydates.aspx|url-status=live}}</ref> and contested by [[Aston Villa F.C.|Aston Villa]] and [[Manchester City F.C.|Manchester City]]. It was Villa's first EFL Cup final since [[2010 Football League Cup final|2010]], and City's third successive EFL Cup final and fifth in the past seven seasons.
+
+City won the match 2–1 to claim their third consecutive EFL Cup title. As winners, they would have entered the second qualifying round of the [[2020–21 UEFA Europa League]],<ref>{{cite web |url=https://www.goal.com/en-us/news/carabao-cup-2020-final-watch-tickets-teams-time-date/e263pe564hkv1eip7jqpwl6a9 |title=Carabao Cup 2020 final: How to watch, tickets, teams, time & date |website=Goal.com |access-date=28 January 2020 |archive-date=28 January 2020 |archive-url=https://web.archive.org/web/20200128215331/https://www.goal.com/en-us/news/carabao-cup-2020-final-watch-tickets-teams-time-date/e263pe564hkv1eip7jqpwl6a9 |url-status=live }}</ref> but instead qualified directly for the [[2020–21 UEFA Champions League]] by finishing second in the [[2019–20 Premier League]]. Although they were initially banned from all UEFA club competitions for the 2020–21 and 2021–22 seasons by UEFA due to [[UEFA Financial Fair Play Regulations|Financial Fair Play]] breaches,<ref name="UEFA statement">{{cite news |url=https://www.uefa.com/news-media/news/025a-0f8e7535cab3-07272066f9f6-1000--club-financial-control-body-adjudicatory-chamber-decision-on/ |title=Club Financial Control Body Adjudicatory Chamber decision on Manchester City Football Club |website=[[UEFA]] |publisher=[[UEFA|Union of European Football Associations]] |date=14 February 2020 |access-date=14 February 2020 |archive-date=27 February 2020 |archive-url=https://web.archive.org/web/20200227004659/https://www.uefa.com/insideuefa/about-uefa/news/newsid=2638659.html |url-status=live }}</ref> the decision was pending appeal to the [[Court of Arbitration for Sport]],<ref name="MCFC statement">{{cite news |url=https://www.mancity.com/news/club-news/club-news/2020/february/manchester-city-club-statement |title=Club statement |website=mancity.com |publisher=Manchester City FC |date=14 February 2020 |access-date=14 February 2020 |archive-date=27 February 2020 |archive-url=https://web.archive.org/web/20200227004659/https://www.mancity.com/news/club-news/club-news/2020/february/manchester-city-club-statement |url-status=live }}</ref> and overturned on 13 July 2020.<ref>{{cite web|url=https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_6785_Decision.pdf|title=13.07.2020 - Decision in the arbitration procedure between Manchester City FC & UEFA|publisher=Court of Arbitration for Sport|date=13 July 2020|access-date=13 July 2020|archive-date=5 November 2020|archive-url=https://web.archive.org/web/20201105174215/https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_6785_Decision.pdf|url-status=live}}</ref>
+
+==Route to the final==
+{{main|2019–20 EFL Cup}}
+
+=== Aston Villa ===
+{| class="wikitable plainrowheaders" style="text-align:center;float:right"
+|-
+!scope="col" style="width:25px"| Round
+!scope="col" style="width:200px"| Opposition
+!scope="col" style="width:90px"| Score
+|-
+!scope=row style="text-align:center"|2
+| [[Crewe Alexandra F.C.|Crewe Alexandra]] (A)
+| 6–1
+|-
+!scope=row style="text-align:center"|3
+| [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] (A)
+| 3–1
+|-
+!scope=row style="text-align:center"|4
+| [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (H)
+| 2–1
+|-
+!scope=row style="text-align:center"|QF
+| [[Liverpool F.C.|Liverpool]] (H)
+| 5–0
+|-
+!scope=row style="text-align:center" rowspan="2" |SF
+| [[Leicester City F.C.|Leicester City]] (A)
+| 1–1
+|-
+| Leicester City (H)
+| 2–1
+|-
+| colspan="3" | <small>'''Key:''' (H) = Home; (A) = Away</small>
+|}
+
+Aston Villa, as a [[Premier League]] team not involved in European competition, started in the second round where they played [[EFL League Two]] club [[Crewe Alexandra F.C.|Crewe Alexandra]] away. At [[Gresty Road]], Aston Villa won 6–1 with two goals from [[Conor Hourihane]] as well as goals from [[Ezri Konsa]], [[Keinan Davis]], [[Frederic Guilbert]] and [[Jack Grealish]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/49403071 |title=Carabao Cup: Crewe 1-6 Aston Villa |publisher=BBC Sport |date=27 August 2019 |access-date=28 January 2020 |archive-date=2 January 2021 |archive-url=https://web.archive.org/web/20210102145411/https://www.bbc.co.uk/sport/football/49403071 |url-status=live }}</ref> In the third round, they played fellow Premier League side [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] away at the [[Falmer Stadium]]. Villa won 3–1 with goals from [[Jota (Spanish footballer)|Jota]], Hourihane and Grealish.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/49736853 |title=Brighton & Hove Albion 1-3 Aston Villa: Conor Hourihane scores win |publisher=BBC Sport |date=25 September 2019 |access-date=28 January 2020 |archive-date=26 September 2019 |archive-url=https://web.archive.org/web/20190926001020/https://www.bbc.co.uk/sport/football/49736853 |url-status=live }}</ref> In the next round, they drew Premier League team [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] at home. At [[Villa Park]], they progressed to the next round with a 2–1 win thanks to goals from [[Anwar El Ghazi]] and [[Ahmed Elmohamady]].<ref>{{cite web |last=Sutcliffe |first=Steve |url=https://www.bbc.co.uk/sport/football/50148248 |title=Aston Villa 2-1 Wolverhampton Wanderers |publisher=BBC Sport |date=30 October 2019 |access-date=28 January 2020 |archive-date=31 October 2019 |archive-url=https://web.archive.org/web/20191031162516/https://www.bbc.co.uk/sport/football/50148248 |url-status=live }}</ref> 
+
+In the quarter-finals they played Premier League side and European champions [[Liverpool F.C.|Liverpool]] at Villa Park. Due to Liverpool's participation in the [[2019 FIFA Club World Cup]] in Qatar soon after, they fielded an inexperienced team and the club's youngest ever starting lineup, while Villa made 10 changes while still fielding mostly senior players.<ref>{{cite news |url=https://www.theguardian.com/football/2019/dec/17/aston-villa-liverpool-carabao-cup-match-report |title=
+Aston Villa's Jonathan Kodjia shows no mercy to knock out Liverpool's kids |work=The Guardian |date=17 December 2019 |access-date=22 January 2022}}</ref> Villa won 5–0 with goals from Hourihane, two from [[Jonathan Kodjia]], [[Wesley Moraes|Wesley]] and an [[own goal]] from [[Morgan Boyes]].<ref>{{cite web |last=Stone |first=Simon |url=https://www.bbc.co.uk/sport/football/50723225 |title=Aston Villa 5-0 Liverpool: Dean Smith's side overwhelm young Liverpool side |publisher=BBC Sport |date=17 December 2019 |access-date=28 January 2020 |archive-date=21 December 2019 |archive-url=https://web.archive.org/web/20191221161840/https://www.bbc.co.uk/sport/football/50723225 |url-status=live }}</ref> In the two-legged semi-final they played Premier League side [[Leicester City F.C.|Leicester City]]. After a 1–1 draw in the first leg away at the [[King Power Stadium]],<ref>{{cite web |last=McNulty |first=Phil |url=https://www.bbc.co.uk/sport/football/50962651 |title=Carabao Cup - Leicester City 1-1 Aston Villa: Kelechi Iheanacho equaliser sets up second leg |publisher=BBC Sport |date=8 January 2020 |access-date=28 January 2020 |archive-date=29 January 2020 |archive-url=https://web.archive.org/web/20200129212405/https://www.bbc.co.uk/sport/football/50962651 |url-status=live }}</ref> Villa reached the final after a 2–1 win at Villa Park with goals from [[Matt Targett (footballer)|Matt Targett]] and a 93rd-minute winner from [[Trézéguet (Egyptian footballer)|Trézéguet]] to complete a 3–2 aggregate victory.<ref>{{cite web |url=https://www.bbc.co.uk/sport/live/football/50987790 |title=Aston Villa v Leicester City latest - Carabao Cup semi-final, second leg |publisher=BBC Sport |date=28 January 2020 |access-date=28 January 2020 |archive-date=28 January 2020 |archive-url=https://web.archive.org/web/20200128213805/https://www.bbc.co.uk/sport/live/football/50987790 |url-status=live }}</ref>
+
+=== Manchester City ===
+{| class="wikitable plainrowheaders" style="text-align:center;float:right"
+|-
+! scope="col" style="width:25px"| Round
+! scope="col" style="width:200px"| Opposition
+! scope="col" style="width:90px"| Score
+|-
+!scope=row style="text-align:center"|3
+| [[Preston North End F.C.|Preston North End]] (A)
+| 3–0
+|-
+!scope=row style="text-align:center"|4
+| [[Southampton F.C.|Southampton]] (H)
+| 3–1
+|-
+!scope=row style="text-align:center"|QF
+| [[Oxford United F.C.|Oxford United]] (A)
+| 3–1
+|-
+!scope=row style="text-align:center" rowspan="2" |SF
+| [[Manchester United F.C.|Manchester United]] (A)
+| 3–1
+|-
+| Manchester United (H)
+| 0–1
+|-
+| colspan="3" | <small>'''Key:''' (H) = Home; (A) = Away</small>
+|}
+
+[[2019 EFL Cup final|EFL Cup holders]] Manchester City, as a Premier League team involved in the [[2019–20 UEFA Champions League]], started the competition in the third round. They were first drawn away at [[EFL Championship]] side [[Preston North End F.C.|Preston North End]]. At [[Deepdale]], City won 3–0 with goals from [[Raheem Sterling]], [[Gabriel Jesus]] and an own goal from [[Ryan Ledson]].<ref>{{cite web |last=Begley |first=Emlyn |url=https://www.bbc.co.uk/sport/football/49723452 |title=Preston 0-3 Manchester City: Holders ease through to fourth round |publisher=BBC Sport |date=24 September 2019 |access-date=29 January 2020 |archive-date=25 September 2019 |archive-url=https://web.archive.org/web/20190925205517/https://www.bbc.co.uk/sport/football/49723452 |url-status=live }}</ref> In the next round, they drew fellow Premier League team [[Southampton F.C.|Southampton]] at home. At the [[City of Manchester Stadium]], they won 3–1 with two goals from [[Sergio Agüero]] and one from [[Nicolás Otamendi]].<ref>{{cite web |last=Bevan |first=Chris |url=https://www.bbc.co.uk/sport/football/50134224 |title=Man City 3-1 Southampton: Sergio Aguero scores twice to put City into Carabao Cup quarters |publisher=BBC Sport |date=29 October 2019 |access-date=29 January 2020 |archive-date=19 February 2020 |archive-url=https://web.archive.org/web/20200219132454/https://www.bbc.co.uk/sport/football/50134224 |url-status=live }}</ref> 
+
+In the fifth round, they played against League One side [[Oxford United F.C.|Oxford United]] away at the [[Kassam Stadium]]. City won 3–1 with two goals from Sterling and one from [[João Cancelo]]. In the two-legged semi-final, they drew Premier League and [[Manchester derby|local rivals]] [[Manchester United F.C.|Manchester United]]. City earned a 3–1 victory in the first leg at [[Old Trafford]], with goals from [[Bernardo Silva]], [[Riyad Mahrez]] and an own goal from [[Andreas Pereira]].<ref>{{cite web |last=Bevan |first=Chris |url=https://www.bbc.co.uk/sport/football/50953053 |title=Carabao Cup - Man Utd 1-3 Man City: Holders overwhelm rivals in semi-final first leg |publisher=BBC Sport |date=7 January 2020 |access-date=29 January 2020 |archive-date=29 January 2020 |archive-url=https://web.archive.org/web/20200129104134/https://www.bbc.co.uk/sport/football/50953053 |url-status=live }}</ref> Despite a 1–0 loss at home in the second leg, they reached the final with a 3–2 aggregate score.<ref name=manc>{{cite web |url=https://www.bbc.co.uk/sport/football/51201817 |title=Manchester City 0-1 Manchester United |publisher=BBC Sport |date=29 January 2020 |access-date=29 January 2020 |archive-date=29 January 2020 |archive-url=https://web.archive.org/web/20200129012526/https://www.bbc.co.uk/sport/football/51201817 |url-status=live }}</ref> City were looking to retain the EFL Cup for the third consecutive year, and win a seventh title overall.
+
+==Match==
+
+===Summary===
+Manchester City manager [[Pep Guardiola]] made eight changes to his side, who had beaten [[Real Madrid CF|Real Madrid]] in the [[2019–20 UEFA Champions League|Champions League]] four days earlier, including leaving midfielder [[Kevin De Bruyne]] on the bench.<ref name="Telegraph">{{cite news |url=https://www.telegraph.co.uk/football/2020/03/01/aston-villa-vs-manchester-city-league-cup-final-live-score-latest/ |archive-url=https://web.archive.org/web/20200301222128/https://www.telegraph.co.uk/football/2020/03/01/aston-villa-vs-manchester-city-league-cup-final-live-score-latest/ |archive-date=1 March 2020 |work=The Telegraph |date=1 March 2020 |title=Manchester City win Carabao Cup but plucky Aston Villa make them fight for 2-1 Wembley final |first=Jason |last=Burt}}</ref> Aston Villa manager [[Dean Smith (footballer, born 1971)|Dean Smith]] began with a defensive-minded 4–5–1 formation.<ref name="Guardian"/>
+
+Manchester City dominated the first half of the game,<ref name="BBC">{{cite news |url=https://www.bbc.co.uk/sport/football/51601970 |work=BBC Sport |date=1 March 2020 |first=Phil |last=McNulty |title=Aston Villa 1-2 Manchester City |access-date=1 March 2020 |archive-date=1 March 2020 |archive-url=https://web.archive.org/web/20200301183119/https://www.bbc.co.uk/sport/football/51601970 |url-status=live }}</ref> and they took the lead after 20 minutes; [[Phil Foden]] headed a chipped ball from [[Rodri (footballer, born 1996)|Rodri]] back across goal into the path of [[Sergio Agüero]], whose shot deflected off [[Tyrone Mings]] and into the goal.<ref name="Guardian">{{cite news |date=1 March 2020 |title=Manchester City sink Aston Villa to win third successive Carabao Cup |url=https://www.theguardian.com/football/2020/mar/01/aston-villa-manchester-city-carabao-cup-final-match-report |first=David |last=Hytner |work=The Guardian |access-date=2 March 2020 |archive-date=2 March 2020 |archive-url=https://web.archive.org/web/20200302000543/https://www.theguardian.com/football/2020/mar/01/aston-villa-manchester-city-carabao-cup-final-match-report |url-status=live }}</ref> Ten minutes later, they extended their lead from a corner kick, as [[Rodri (footballer, born 1996)|Rodri]] lost his marker, [[Frédéric Guilbert]], and headed past goalkeeper [[Ørjan Nyland]].<ref name="Independent">{{cite news |url=https://www.independent.co.uk/sport/football/fa-league-cups/manchester-city-vs-aston-villa-result-report-score-sergio-aguero-rodri-samatta-a9367591.html |work=The Independent |date=1 March 2020 |title=Aston Villa vs Man City result: Sergio Aguero and Rodri secure hard-fought third successive Carabao Cup |first=Miguel |last=Delaney |access-date=1 March 2020 |archive-date=1 March 2020 |archive-url=https://web.archive.org/web/20200301203451/https://www.independent.co.uk/sport/football/fa-league-cups/manchester-city-vs-aston-villa-result-report-score-sergio-aguero-rodri-samatta-a9367591.html |url-status=live }}</ref> Reports noted that the corner that led to the City goal was unjustly awarded,<ref name="BBC"/><ref name="Telegraph"/><ref name="Guardian"/> but City remained dominant and enjoyed their strongest spell of the game in the 10 minutes following Rodri's goal. A comeback appeared a remote prospect,<ref name="Independent"/> but Aston Villa got a goal back against the run of play in the 41st minute, when [[John Stones]] slipped to allow [[Mbwana Samatta]] to score with a diving header.<ref>{{cite news |work=Metro |url=https://metro.co.uk/2020/03/01/gary-neville-reacts-john-stones-big-mistake-gift-aston-villa-goal-manchester-city-12330041/ |title=Gary Neville reacts to John Stones' 'big mistake' against Aston Villa |date=1 March 2020 |access-date=1 March 2020 |archive-date=1 March 2020 |archive-url=https://web.archive.org/web/20200301205321/https://metro.co.uk/2020/03/01/gary-neville-reacts-john-stones-big-mistake-gift-aston-villa-goal-manchester-city-12330041/ |url-status=live }}</ref>
+
+Manchester City played with less dominance in the opening 10 minutes of the second half, but regained control after De Bruyne was brought on in place of [[İlkay Gündoğan]].<ref name="Telegraph"/> They then remained the dominant team throughout most of the final half-hour, having the majority of the possession as well as being disciplined when they lost the ball, winning the ball back and preventing dangerous attacks by Villa.<ref name="Guardian"/> But Villa defended well, their players risking injuries to make important tackles,<ref name="Telegraph"/> and despite City's dominance they were unable to score a third goal.<ref name="BBC"/> Villa almost equalised in the 88th minute, when [[Björn Engels]] headed the ball towards the goal from a [[Conor Hourihane]] corner, but City goalkeeper [[Claudio Bravo]] pushed the ball onto the post to maintain his team's lead. Despite another corner in injury time, Manchester City held on for the 2–1 win, and lifted the trophy for the third successive year.<ref name="Guardian"/>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2020|3|1|df=y}}
+|time       = 16:30 [[Greenwich Mean Time|GMT]]
+|team1      = [[Aston Villa F.C.|Aston Villa]]
+|score      = 1–2
+|report     = https://www.bbc.co.uk/sport/football/51601970
+|team2      = [[Manchester City F.C.|Manchester City]]
+|goals1     =
+*[[Mbwana Samatta|Samatta]] {{goal|41}}
+|goals2     =
+*[[Sergio Agüero|Agüero]] {{goal|20}}
+*[[Rodri (footballer, born 1996)|Rodri]] {{goal|30}}
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 82,145
+|referee    = [[Lee Mason]] ([[Lancashire County Football Association|Lancashire]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _astonvilla1920h
+ |pattern_b  = _astonvilla1920h
+ |pattern_ra = _astonvilla1920h
+ |pattern_sh = _astonvilla1920h
+ |pattern_so = _astonvilla1920h
+ |leftarm    = A4CBFF
+ |body       = 850322
+ |rightarm   = A4CBFF
+ |shorts     = FFFFFF
+ |socks      = A4CBFF
+ |title      = Aston Villa
+}}
+|{{Football kit
+ |pattern_la = _mancity1920a
+ |pattern_b  = _mancity1920a
+ |pattern_ra = _mancity1920a
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = {{nowrap|Manchester City}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|NOR}} [[Ørjan Nyland]]
+|-
+|RB ||'''24'''||{{flagicon|FRA}} [[Frédéric Guilbert]]
+|-
+|CB ||'''22'''||{{flagicon|BEL}} [[Björn Engels]]
+|-
+|CB ||'''40'''||{{flagicon|ENG}} [[Tyrone Mings]] || {{yel|90+2}}
+|-
+|LB ||'''18'''||{{flagicon|ENG}} [[Matt Targett]]
+|-
+|CM ||'''6''' ||{{flagicon|BRA}} [[Douglas Luiz]]
+|-
+|CM ||'''11'''||{{flagicon|ZIM}} [[Marvelous Nakamba]] || {{yel|72}}
+|-
+|RW ||'''27'''||{{flagicon|EGY}} [[Ahmed Elmohamady]] || {{yel|68}} || {{suboff|70}}
+|-
+|AM ||'''10'''||{{flagicon|ENG}} [[Jack Grealish]] ([[Captain (association football)|c]])
+|-
+|LW ||'''21'''||{{flagicon|NED}} [[Anwar El Ghazi]] || || {{suboff|70}}
+|-
+|CF ||'''20'''||{{flagicon|TAN}} [[Mbwana Samatta]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''29'''||{{flagicon|ESP}} [[Pepe Reina]]
+|-
+|DF ||'''3''' ||{{flagicon|WAL}} [[Neil Taylor (footballer)|Neil Taylor]]
+|-
+|DF ||'''15'''||{{flagicon|ENG}} [[Ezri Konsa]]
+|-
+|MF ||'''8''' ||{{flagicon|ENG}} [[Henri Lansbury]]
+|-
+|MF ||'''14'''||{{flagicon|IRL}} [[Conor Hourihane]] || || {{subon|70}}
+|-
+|MF ||'''17'''||{{flagicon|EGY}} [[Trézéguet (Egyptian footballer)|Trézéguet]] || || {{subon|70}}
+|-
+|FW ||'''39'''||{{flagicon|ENG}} [[Keinan Davis]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ENG}} [[Dean Smith (footballer, born 1971)|Dean Smith]]
+|}
+|valign="top"|[[File:Aston Villa vs Man City 2020-03-01.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CHI}} [[Claudio Bravo]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Kyle Walker]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[John Stones]]
+|-
+|CB ||'''25'''||{{flagicon|BRA}} [[Fernandinho (footballer, born May 1985)|Fernandinho]]
+|-
+|LB ||'''11'''||{{flagicon|UKR}} [[Oleksandr Zinchenko (footballer)|Oleksandr Zinchenko]]
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[İlkay Gündoğan]] || || {{suboff|58}}
+|-
+|CM ||'''16'''||{{flagicon|ESP}} [[Rodri (footballer, born 1996)|Rodri]] || {{yel|60}}
+|-
+|RM ||'''47'''||{{flagicon|ENG}} [[Phil Foden]]
+|-
+|AM ||'''21'''||{{flagicon|ESP}} [[David Silva]] ([[Captain (association football)|c]]) || || {{suboff|77}}
+|-
+|LM ||'''7''' ||{{flagicon|ENG}} [[Raheem Sterling]] || {{yel|57}}
+|-
+|CF ||'''10'''||{{flagicon|ARG}} [[Sergio Agüero]] || || {{suboff|84}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{flagicon|BRA}} [[Ederson (footballer, born 1993)|Ederson]]
+|-
+|DF ||'''22'''||{{flagicon|FRA}} [[Benjamin Mendy]]
+|-
+|DF ||'''30'''||{{flagicon|ARG}} [[Nicolás Otamendi]]
+|-
+|MF ||'''17'''||{{flagicon|BEL}} [[Kevin De Bruyne]] || || {{subon|58}}
+|-
+|MF ||'''20'''||{{flagicon|POR}} [[Bernardo Silva]] || || {{subon|77}}
+|-
+|MF ||'''26'''||{{flagicon|ALG}} [[Riyad Mahrez]]
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Gabriel Jesus]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|style="width:40%;vertical-align:top"|
+'''Man of the Match:'''
+<br />[[Phil Foden]] (Manchester City)<ref name="motm"/><br />
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Ian Hussin ([[Liverpool County Football Association|Liverpool]])
+<br />Harry Lennard ([[Sussex County Football Association|Sussex]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referees"/>
+<br />[[David Coote (referee)|David Coote]] ([[Nottinghamshire County Football Association|Nottinghamshire]])
+<br />'''[[Assistant referee (association football)|Reserve assistant referee]]:'''<ref>{{cite web |last=Mattick |first=Nathan |url=https://www.the-ra.org/appointments/carabao-cup-final-match-official-appointments |title=Carabao Cup Final Match Official Appointment |work=The Referees' Association |date=14 February 2020 |access-date=15 May 2022 |archive-date=9 June 2023 |archive-url=https://web.archive.org/web/20230609103511/https://www.the-ra.org/appointments/carabao-cup-final-match-official-appointments |url-status=dead }}</ref>
+<br />Nick Hopton ([[Derbyshire County Football Association|Derbyshire]])
+<br />'''[[Video assistant referee]]:'''<ref name="referees"/>
+<br />[[Mike Dean (referee)|Mike Dean]] ([[Cheshire Football Association|Cheshire]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="referees"/>
+<br />Neil Davies ([[London Football Association|London]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''<ref>{{cite web |url=https://www.efl.com/clubs-and-competitions/carabao-cup/about-the-carabao-cup/carabao-cup-rules--regulations/ |title=Regulations |website=EFL.com |publisher=English Football League |access-date=24 February 2018 |url-status=live |archive-url=https://web.archive.org/web/20190224171857/https://www.efl.com/carabao-cup/about-the-carabao-cup/carabao-cup-rules--regulations |archive-date=24 February 2019}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutions, with a fourth allowed in extra time
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|https://www.efl.com/carabao-cup/}}
+
+{{EFL Cup seasons}}
+{{2019–20 in English men's football}}
+{{Aston Villa F.C. matches}}
+{{Manchester City F.C. matches}}
+
+[[Category:EFL Cup finals]]
+[[Category:2019–20 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:March 2020 sports events in the United Kingdom|EFL Cup final]]
+[[Category:2020 in sport in London|EFL Cup final]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:Aston Villa F.C. matches|League Cup final 2020]]
+[[Category:Manchester City F.C. matches|League Cup final 2020]]

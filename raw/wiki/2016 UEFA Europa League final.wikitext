@@ -1,0 +1,551 @@
+{{Infobox football match
+| title                   = 2016 UEFA Europa League final
+| image                   = 2016 UEFA Europa League Final programme.jpg
+| caption                 = Match programme cover
+| event                   = [[2015–16 UEFA Europa League]]
+| team1                   = [[Liverpool F.C.|Liverpool]]
+| team1association        = {{fbaicon|ENG|size=30px}}
+| team1score              = 1
+| team2                   = [[Sevilla FC|Sevilla]]
+| team2association        = {{fbaicon|ESP|size=30px}}
+| team2score              = 3
+| details                 = 
+| date                    = 18 May 2016
+| stadium                 = [[St. Jakob-Park]]
+| city                    = [[Basel]]
+| man_of_the_match1a      = [[Coke (footballer)|Coke]] (Sevilla)<ref name="motm">{{cite news |title=Sevilla make it three in row at Liverpool's expense |url=https://www.uefa.com/uefaeuropaleague/news/0250-0c51138a700a-9c0eb3116927-1000--sevilla-make-it-three-in-row-at-liverpool-s-expense/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=18 May 2016 |access-date=18 May 2016}}</ref>
+| man_of_the_match1atitle = 
+| man_of_the_match1b      = 
+| man_of_the_match1btitle = 
+| referee                 = [[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])<ref name="Eriksson" />
+| attendance              = 34,429<ref name="full_time"/>
+| weather                 = Rain<br>{{convert|18|°C|°F}}<br>51% humidity<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2016/2017222_LU.pdf |title=Tactical Lineups – Final – Wednesday 18 May 2016 |work=UEFA.org |publisher=Union of European Football Associations |date=18 May 2016 |access-date=18 May 2016}}</ref>
+| previous                = [[2015 UEFA Europa League Final|2015]]
+| next                    = [[2017 UEFA Europa League Final|2017]]
+}}
+The '''2016 UEFA Europa League final''' was a [[association football|football]] match between [[Liverpool F.C.|Liverpool]] of England and [[Sevilla FC|Sevilla]] of Spain on 18 May 2016 at [[St. Jakob-Park]] in [[Basel]], Switzerland. The showpiece event was the final match of the [[2015–16 UEFA Europa League]], the 45th season of [[Europe]]'s secondary club [[association football|football]] tournament organised by [[UEFA]].<ref name="2016 host">{{cite web |title=Basel awarded 2016 UEFA Europa League final |url=https://www.uefa.com/uefaeuropaleague/news/0250-0c510497d14c-3300ce93cbc8-1000--basel-awarded-2016-uefa-europa-league-final/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=18 September 2014 |access-date=13 March 2016 }}</ref> Liverpool were appearing in their fourth final, after their appearances in [[1973 UEFA Cup Final|1973]], [[1976 UEFA Cup Final|1976]] and [[2001 UEFA Cup Final|2001]], all of which they won. Sevilla were appearing in their fifth final and third in succession. They had appeared in [[2006 UEFA Cup Final|2006]] and [[2007 UEFA Cup Final|2007]], as well as the previous two finals in [[2014 UEFA Europa League Final|2014]] and [[2015 UEFA Europa League Final|2015]], winning all four.
+
+Liverpool entered the competition in the group stages, while Sevilla started in the round of 32 after finishing third in their Champions League group. Liverpool's ties in the knockout phase ranged from close affairs to comfortable victories. A last-minute goal against [[Borussia Dortmund]] of Germany secured a 5–4 aggregate victory in the quarter-finals, while they beat [[Villarreal CF|Villarreal]] of Spain 3–1 over two legs in the semi-final. Sevilla's matches were similar. They beat the Swiss team [[FC Basel]] 3–0 on aggregate in the Round of 16, but their quarter-final match with fellow Spanish team [[Athletic Bilbao]] went to a [[penalty shoot-out (association football)|penalty shoot-out]], which they won 5–4 after the tie had finished 3–3 over two-legs.
+
+Watched by a crowd of 34,429, Liverpool took the lead in the 35th minute when striker [[Daniel Sturridge]] scored. However, they conceded within the first minute of the second half when Sevilla striker [[Kevin Gameiro]] levelled the match. Sevilla took the lead in the 64th minute when captain [[Coke (footballer)|Coke]] scored. They extended their lead six minutes later when Coke scored his second of the match. Liverpool were unable to respond during the remainder of the match which meant Sevilla won the match 3–1 to win the competition for the fifth time, and third in succession.
+
+Sevilla earned the right to play against the winners of the [[2015–16 UEFA Champions League]], [[Real Madrid CF|Real Madrid]], in the [[2016 UEFA Super Cup]]. They also qualified for the group stage of the [[2016–17 UEFA Champions League]], as Real Madrid also qualified for the group stage through domestic performance, that meant the berth reserved for the Champions League title holders was not used and passed to the Europa League title holders.<ref>{{cite web|url=http://www.uefa.com/uefaeuropaleague/news/newsid=2215121.html|archive-url=https://web.archive.org/web/20150228084925/http://www.uefa.com/uefaeuropaleague/news/newsid=2215121.html|url-status=dead|archive-date=February 28, 2015|title=How the Europa League winners will enter the Champions League|publisher=[[UEFA]]|date=6 May 2016}}</ref>
+
+==Venue==
+[[File:St-Jakob-Park.jpg|thumb|The St. Jakob-Park in Basel was selected to host the final in September 2014.]]
+The [[St. Jakob-Park]] was announced as the venue of the final at the UEFA Executive Committee meeting in [[Nyon]], Switzerland, on 18 September 2014.<ref name="2016 host"/> This was the first European club final hosted at the stadium, although the previous stadium of the same name, the [[St. Jakob Stadium]], which opened in 1954 for the [[1954 FIFA World Cup]] and closed in 1998, hosted four [[UEFA Cup Winners' Cup|European Cup Winners' Cup]] finals in [[1969 European Cup Winners' Cup Final|1969]], [[1975 European Cup Winners' Cup Final|1975]], [[1979 European Cup Winners' Cup Final|1979]] and [[1984 European Cup Winners' Cup Final|1984]].
+
+The current St. Jakob-Park, nicknamed "Joggeli" by fans, was built in 1998 and opened in 2001, and is the home stadium of [[FC Basel|Basel]]. It hosted six matches at [[UEFA Euro 2008]], including the opening match and a semi-final. Its current capacity is 38,512, but is reduced to nearly 36,000 seats for UEFA competitions.<ref name="2016 host"/>
+
+After Basel got transferred to the Europa League after losing to [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]] on away goals, Basel had the chance to become the first team to win the competition in home ground since [[Feyenoord]] in [[2002 UEFA Cup Final|2002]], and the first to win it under the Europa League banner. This possibility ended after Basel was eliminated in the round of 16 by [[Sevilla FC|Sevilla]].<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/match/2017207--sevilla-vs-basel/|title=UEFA Europa League|work=[[UEFA]]}}</ref>
+
+==Background==
+The [[UEFA Cup]] was an annual football club competition organised by [[UEFA]] since 1971 for eligible European football clubs. Clubs qualified for the competition based on their performance in their national leagues and cup competitions. It was the second-tier competition of European club football, ranking below the [[UEFA Champions League]].<ref>{{cite web|url=https://www.theguardian.com/football/blog/2018/feb/14/europa-league-is-back-more-than-ever-competition-to-savour-round-of-32-arsenal|title=The Europa League is back and more than ever is a competition to savour |work=The Guardian |first=Sachin |last=Nakrani |date=14 February 2018 |access-date=11 May 2020 |archive-url=https://web.archive.org/web/20191129004712/https://www.theguardian.com/football/blog/2018/feb/14/europa-league-is-back-more-than-ever-competition-to-savour-round-of-32-arsenal |archive-date=29 November 2019 |url-status=live}}</ref> In 2010, the UEFA Cup evolved into the Europa League.<ref>{{cite web |url=https://www.telegraph.co.uk/sport/football/competitions/europa-league/5344380/Europa-League-Guide-to-Uefa-Cups-replacement-tournament.html |work=The Daily Telegraph |title=Europa League: Guide to Uefa Cup's replacement tournament |access-date=11 May 2020 |date=19 May 2009 |first=John |last=Ley |archive-url=https://web.archive.org/web/20170531010253/http://www.telegraph.co.uk/sport/football/competitions/europa-league/5344380/Europa-League-Guide-to-Uefa-Cups-replacement-tournament.html |archive-date=31 May 2017 |url-status=live |url-access=limited}}</ref>
+
+Liverpool's first appearance in [[Liverpool F.C. in European football|European football]] was in the [[1964–65 European Cup]], when they reached the semi-finals. Since then, they had appeared in eleven European finals with five European Cup triumphs ([[1977 European Cup Final|1977]], [[1978 European Cup Final|1978]], [[1981 European Cup Final|1981]], [[1984 European Cup Final|1984]], [[2005 UEFA Champions League Final|2005]]), two losses in [[1985 European Cup Final|1985]] and [[2007 UEFA Champions League Final|2007]], three UEFA Cup victories in [[1973 UEFA Cup Final|1973]], [[1976 UEFA Cup Final|1976]] and [[2001 UEFA Cup Final|2001]] and defeats in the final of the [[UEFA Cup Winners' Cup|European Cup Winners's Cup]] in [[1966 European Cup Winners' Cup Final|1966]].<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0253-0d8121d9757f-df0e18998db6-1000--liverpool-s-three-uefa-cup-wins/|title=Liverpool's three UEFA Cup wins|publisher=[[UEFA]]|date=16 May 2016}}</ref> Sevilla had first appeared in [[Sevilla FC in European football|European competition]] in the [[1957–58 European Cup]] when they reached the quarter-finals. This represented Sevilla's best performance until they won the first of their four Europa League victories in [[2006 UEFA Cup Final|2006]]. They had subsequently won in [[2007 UEFA Cup Final|2007]], [[2014 UEFA Europa League Final|2014]], and [[2015 UEFA Europa League Final|2015]]. This was their third final in succession.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0253-0d817c7c9a5e-5cb61ff697a3-1000--sevilla-s-first-four-final-successes/|title=Sevilla's first four final successes|publisher=[[UEFA]]|date=16 May 2016}}</ref> Victory would secure a record fifth success in the competition, while victory for Liverpool would see them join Sevilla as the most successful team in the competition with four victories. This was the first time the two sides had met each other in European competition.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0253-0d8121de722b-c63bd51deb91-1000/ |title=Liverpool v Sevilla match background |publisher=[[UEFA]] |date=11 May 2016 |access-date=19 May 2020 }}</ref>
+
+The [[goal-line technology]] system [[Hawk-Eye]] was used for the match. This was the first UEFA competition match to employ goal-line technology, following approval by the UEFA Executive Committee in January 2016.<ref>{{cite web|url=https://www.bbc.com/sport/football/35726091|title=Goalline technology to be used in Champions League final|publisher=BBC Sport|date=4 March 2016}}</ref><ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/022d-0e94575d1dd6-1a53b3db9720-1000--goal-line-technology-for-europa-league-final/|title=Goal-line technology for Europa League final|publisher=[[UEFA]]|date=17 May 2016}}</ref>
+
+==Route to the final==
+{{main|2015–16 UEFA Europa League}}
+
+''Note: In the table, the score of the finalist is given first (H = home; A = away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+!Round
+!colspan="4"|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|- bgcolor="#c1e0ff"
+|colspan="4"|'''[[2015–16 UEFA Europa League|Europa League]]'''
+|
+|colspan="4"|'''[[2015–16 UEFA Champions League|Champions League]]'''
+|- bgcolor="#c1e0ff"
+|Opponent
+|colspan="3"|Result
+|Group stage ([[2015–16 UEFA Europa League group stage|EL]], [[2015–16 UEFA Champions League group stage|CL]])
+|Opponent
+|colspan="3"|Result
+|-
+|align=left|{{fbaicon|FRA|1974}} [[FC Girondins de Bordeaux|Bordeaux]]
+|colspan="3"|[[2015–16 UEFA Europa League group stage#Bordeaux v Liverpool|1–1]] (A)
+|bgcolor="#c1e0ff"|Matchday 1
+|align=left|{{fbaicon|GER}} [[Borussia Mönchengladbach]]
+|colspan="3"|[[2015–16 UEFA Champions League group stage#Sevilla v Borussia Mönchengladbach|3–0]] (H)
+|-
+|align=left|{{fbaicon|SUI}} [[FC Sion|Sion]]
+|colspan="3"|[[2015–16 UEFA Europa League group stage#Liverpool v Sion|1–1]] (H)
+|bgcolor="#c1e0ff"|Matchday 2
+|align=left|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|colspan="3"|[[2015–16 UEFA Champions League group stage#Juventus v Sevilla|0–2]] (A)
+|-
+|align=left|{{fbaicon|RUS}} [[FC Rubin Kazan|Rubin Kazan]]
+|colspan="3"|[[2015–16 UEFA Europa League group stage#Liverpool v Rubin Kazan|1–1]] (H)
+|bgcolor="#c1e0ff"|Matchday 3
+|align=left|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|colspan="3"|[[2015–16 UEFA Champions League group stage#Manchester City v Sevilla|1–2]] (A)
+|-
+|align=left|{{fbaicon|RUS}} [[FC Rubin Kazan|Rubin Kazan]]
+|colspan="3"|[[2015–16 UEFA Europa League group stage#Rubin Kazan v Liverpool|1–0]] (A)
+|bgcolor="#c1e0ff"|Matchday 4
+|align=left|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|colspan="3"|[[2015–16 UEFA Champions League group stage#Sevilla v Manchester City|1–3]] (H)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[FC Girondins de Bordeaux|Bordeaux]]
+|colspan="3"|[[2015–16 UEFA Europa League group stage#Liverpool v Bordeaux|2–1]] (H)
+|bgcolor="#c1e0ff"|Matchday 5
+|align=left|{{fbaicon|GER}} [[Borussia Mönchengladbach]]
+|colspan="3"|[[2015–16 UEFA Champions League group stage#Borussia Mönchengladbach v Sevilla|2–4]] (A)
+|-
+|align=left|{{fbaicon|SUI}} [[FC Sion|Sion]]
+|colspan="3"|[[2015–16 UEFA Europa League group stage#Sion v Liverpool|0–0]] (A)
+|bgcolor="#c1e0ff"|Matchday 6
+|align=left|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|colspan="3"|[[2015–16 UEFA Champions League group stage#Sevilla v Juventus|1–0]] (H)
+|-
+|colspan="4" rowspan="2" valign="top"|'''[[2015–16 UEFA Europa League group stage#Group B|Group B]] winners'''
+{{:2015–16 UEFA Europa League group stage|transcludesection=Group B|only_pld_pts=yes|show_matches=no|showteam=LIV}}
+|bgcolor="#c1e0ff"|Final standings
+|colspan="4" valign="top"|'''[[2015–16 UEFA Champions League group stage#Group D|Group D]] third place'''
+{{:2015–16 UEFA Champions League group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=no|showteam=SEV}}
+|- bgcolor="#c1e0ff"
+|
+|colspan="4"|'''[[2015–16 UEFA Europa League|Europa League]]'''
+|- bgcolor="#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2015–16 UEFA Europa League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|GER}} [[FC Augsburg]]
+|1–0
+|[[2015–16 UEFA Europa League knockout phase#FC Augsburg v Liverpool|0–0]] (A)
+|[[2015–16 UEFA Europa League knockout phase#Liverpool v FC Augsburg|1–0]] (H)
+|bgcolor="#c1e0ff"|Round of 32
+|align=left|{{fbaicon|NOR}} [[Molde FK|Molde]]
+|3–1
+|[[2015–16 UEFA Europa League knockout phase#Sevilla v Molde|3–0]] (H)
+|[[2015–16 UEFA Europa League knockout phase#Molde v Sevilla|0–1]] (A)
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|3–1
+|[[2015–16 UEFA Europa League knockout phase#Liverpool v Manchester United|2–0]] (H)
+|[[2015–16 UEFA Europa League knockout phase#Manchester United v Liverpool|1–1]] (A)
+|bgcolor="#c1e0ff"|Round of 16
+|align=left|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|3–0
+|[[2015–16 UEFA Europa League knockout phase#Basel v Sevilla|0–0]] (A)
+|[[2015–16 UEFA Europa League knockout phase#Sevilla v Basel|3–0]] (H)
+|-
+|align=left|{{fbaicon|GER}} [[Borussia Dortmund]]
+|5–4
+|[[2015–16 UEFA Europa League knockout phase#Borussia Dortmund v Liverpool|1–1]] (A)
+|[[2015–16 UEFA Europa League knockout phase#Liverpool v Borussia Dortmund|4–3]] (H)
+|bgcolor="#c1e0ff"|Quarter-finals
+|align=left|{{fbaicon|ESP}} [[Athletic Bilbao]]
+|3–3 (5–4 [[Penalty shoot-out (association football)|p]])
+|[[2015–16 UEFA Europa League knockout phase#Athletic Bilbao v Sevilla|2–1]] (A)
+|[[2015–16 UEFA Europa League knockout phase#Sevilla v Athletic Bilbao|1–2]] {{aet}} (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|3–1
+|[[2015–16 UEFA Europa League knockout phase#Villarreal v Liverpool|0–1]] (A)
+|[[2015–16 UEFA Europa League knockout phase#Liverpool v Villarreal|3–0]] (H)
+|bgcolor="#c1e0ff"|Semi-finals
+|align=left|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|5–3
+|[[2015–16 UEFA Europa League knockout phase#Shakhtar Donetsk v Sevilla|2–2]] (A)
+|[[2015–16 UEFA Europa League knockout phase#Sevilla v Shakhtar Donetsk|3–1]] (H)
+|}
+
+===Liverpool===
+[[File:Match de football Bordeaux Liverpool le 17 septembre 2015 01.jpg|right|250px|thumb|Liverpool's first match in the group stage against Bordeaux ended in a 1–1 draw.]]
+Liverpool were drawn in Group B along with [[FC Rubin Kazan|Rubin Kazan]] of Russia, [[FC Girondins de Bordeaux|Bordeaux]] of France, and [[FC Sion|Sion]] of Switzerland. Their first match was away against Bordeaux at the [[Nouveau Stade de Bordeaux]]. [[Adam Lallana]] scored for Liverpool in the 65th minute but Bordeaux equalised in the 81st minute when [[Jussiê]] to secure a 1–1 draw.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/34203664 |title=Bordeaux 1–1 Liverpool |website=BBC Sport |date=17 September 2015 |access-date=31 May 2020 |first=Saj |last=Chowdhury }}</ref> Their next match again at their home ground, Anfield against Sion finished by the same scoreline. A fourth minute goal by Lallana was followed by an [[Ebenezer Assifuah]] goal for Sion in the 18th minute.<ref>{{cite news|url=https://www.theguardian.com/football/live/2015/oct/01/liverpool-v-fc-sion-europa-league-live |title=Liverpool 1-1 FC Sion: Europa League – as it happened |work=The Guardian |date=1 October 2015 |access-date=31 May 2020 |first=Simon |last=Burnton }}</ref> Liverpool's next match was against Rubin Kazan at Anfield. Before the match, manager [[Brendan Rodgers]] had been sacked and replaced by [[Jürgen Klopp]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/34469429 |title=Liverpool: Jurgen Klopp confirmed as manager on £15m Anfield deal |website=BBC Sport |date=8 October 2015 |access-date=31 May 2020 |first=Ben |last=Smith }}</ref> Despite being the more attacking of the two teams, Liverpool 35 shots to Kazan's 5, the match finished in another 1–1 draw.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/34129111 |title=Liverpool 1–1 Rubin Kazan |website=BBC Sport |date=22 October 2015 |access-date=31 May 2020 |first=Gary |last=Rose }}</ref> Liverpool faced Kazan again in the return match at the [[Kazan Arena]]. A goal by [[Jordan Ibe]] in the 52nd minute secured their first win of the season in the competition.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/34719366 |title=Rubin Kazan 0–1 Liverpool |website=BBC Sport |date=5 November 2015 |access-date=31 May 2020 |first=Andy |last=Cryer }}</ref> Liverpool faced Bordeaux at anfield in their next match. they went behind in the 33rd minute when [[Henri Saivet]] scored but a [[Penalty kick (association football)|Penalty kick]] by [[James Milner]] and a goal by [[Christian Benteke]] in first-half stoppage time secured a 2–1 victory which meant Liverpool would progress to the knockout stages of the competition.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/34896678 |title=Liverpool 2–1 Bordeaux |website=BBC Sport |date=26 November 2015 |access-date=31 May 2020 |first=Neil |last=Jonhston }}</ref> Their final match in the group stage, away at Sion, finished in a 0–0 draw. The result meant Liverpool finished top of Group B with 10 points.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/35055770 |title=Sion 0–0 Liverpool |website=BBC Sport |date=10 December 2015 |access-date=31 May 2015 |first=Luke |last=Reddy }}</ref>
+
+Liverpool were drawn against [[FC Augsburg]] of Germany in the round of 32.<ref>{{cite news|url=https://www.independent.co.uk/sport/football/european/liverpool-to-face-augsburg-in-europa-league-a6772536.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/european/liverpool-to-face-augsburg-in-europa-league-a6772536.html |archive-date=2022-05-01 |url-access=subscription |url-status=live |title=Liverpool to face Augsburg in Europa League |work=The Independent |date=14 December 2015 |access-date=1 June 2020 |first=Tom |last=Sheen }}{{cbignore}}</ref> The first leg was held at Augsburg home ground, the [[Augsburg Arena]], finished 0–0 in what Andy Hunter, writing in ''[[The Guardian]]'', described as a "tame goalless draw."<ref>{{cite news|url=https://www.theguardian.com/football/2016/feb/18/augsburg-liverpool-europa-league-match-report-daniel-sturridge |title=Daniel Sturridge fluffs his lines but Liverpool earn draw at Augsburg |work=The Guardian |date=18 February 2016 |access-date=1 June 2020 |first=Andy |last=Hunter }}</ref> Liverpool won the second leg at Anfield 1–0 courtesy of a penalty from Milner.<ref>{{cite news|url=https://www.theguardian.com/football/2016/feb/25/liverpool-augsburg-europa-league-match-report |title=Liverpool edge past Augsburg thanks to James Milner penalty |work=The Guardian |date=25 February 2016 |access-date=1 June 2020 |first=Andy |last=Hunter }}</ref> Liverpool were drawn against domestic rivals [[Manchester United F.C.|Manchester United]] in the round of 16. Liverpool went ahead in the first leg at Anfield in the 2oth minute when [[Daniel Sturridge]] converted a penalty after [[Nathaniel Clyne]] was fouled in the United penalty area by [[Memphis Depay]]. [[Roberto Firmino]] scored in the 73rd minute to secure a 2–0 victory.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/35763810 |title=Liverpool 2–0 Manchester United |website=BBC Sport |date=10 March 2016 |access-date=1 June 2020 |first=Phil |last=McNulty }}</ref> The second leg at United's home ground, [[Old Trafford]], saw United go ahead in the 32nd minute when [[Anthony Martial]] scored a penalty following a foul by Clyne. Liverpool equalised in the 45th minute when [[Philippe Coutinho]] scored and with no further goals, the match ended 1–1 with Liverpool's progression to the quarter-finals with a 3–1 aggregate victory. 
+
+Their next opponents were [[Borussia Dortmund]] of Germany, the team Liverpool manager Klopp had managed the season before. The first leg at Dortmund's home ground, the [[Westfalenstadion]], saw Liverpool take the lead in the 36th minute when [[Divock Origi]] scored. The lead was shortlived as [[Mats Hummels]] equalised for Dortmund in the 38th minute to secure a 1–1 draw.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/35980287 |title=Dortmund 1–1 Liverpool |website=BBC Sport |date=7 April 2016 |access-date=1 June 2020 |first=Gary |last=Rose }}</ref> Dortmund scored two early goals in the second leg at Anfield courtesy of [[Henrikh Mkhitaryan]] and [[Pierre-Emerick Aubameyang]]. The first half finished with Dortmund two goals up which meant Liverpool needed to score three to progress due to the [[away goals rule]]. Liverpool scored early on in the second half when Origi, the lead was shortlived as [[Marco Reus]] scored for Dortmund nine minutes later. Once again, Liverpool needed to score three goals to progress. Coutinho scored in the 66th minute and Liverpool levelled the match 11 minutes later when [[Mamadou Sakho]]. Still requiring one goal to progress to the semi-finals, [[Dejan Lovren]] headed in Milner's [[Cross (association football)|cross]] in stoppage time to win the match 4–3 and the tie 5–4 on aggregate. The match was described by [[Phil McNulty]] of [[BBC Sport]], as "one of the most dramatic comebacks Anfield has seen."<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/36020910 |title=Liverpool 4–3 Dortmund |website=BBC Sport |date=14 April 2016 |access-date=1 June 2020 |first=Phil |last=McNulty }}</ref> Liverpool faced [[Villarreal CF|Villarreal]] of Spain in the semi-finals. The first leg at Villarreal's home ground, [[El Madrigal]], was on course to finish goalless until [[Adrián López]] scored in the last minute to secure a 1–0 victory for Villarreal. Liverpool went ahead in the seventh minute of the second leg at Anfield when [[Bruno Soriano]] scored an [[Own goal#Association football|own goal]]. Sturridge extended their lead in the 63rd minute and a goal from Lallana in the 81st minute, following a [[Penalty card#Red card|red card]] for [[Víctor Ruiz (footballer, born 1989)|Víctor Ruiz]], secured a 3–0 win and Liverpool's progression to the final.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/36126028 |title=Liverpool 3–0 Villarreal |website=BBC Sport |date=5 May 2016 |access-date=1 June 2020 |first=Alistair |last=Magowan }}</ref>
+
+==Pre-match==
+
+===Ambassador===
+[[File:Alex_Frei.jpg|thumb|upright|[[Alexander Frei]]]]
+Former [[Switzerland national football team|Switzerland]] and [[FC Basel|Basel]] striker [[Alexander Frei]] was named the ambassador for the final.<ref>{{cite news|title=Former Swiss soccer player Alexander Frei, ambassador for the UEFA Europa League final in Basel, shows a ticket with Czech soccer team AC Sparta Praha during the draw of the round of 16 of the UEFA Europa League 2015/16 soccer at the UEFA headquarters, in Nyon, Switzerland, Friday, Feb. 26, 2016. (Jean-Christophe Bott/Keystone via AP)|url=https://news.yahoo.com/photos/former-swiss-soccer-player-alexander-frei-ambassador-uefa-photo-130218962.html?nf=1|access-date=20 May 2016|agency=AP|publisher=Yahoo!|date=26 February 2016}}</ref>
+
+===Identity===
+UEFA unveiled the brand identity of the final on 28 August 2015 in [[Monaco]] ahead of the group stage draw. The logo features the Basel landmark Marktplatz.<ref>{{cite news |title=New UEFA Europa League brand identity revealed |url=http://www.uefa.org/about-uefa/administration/marketing/news/newsid=2275141.html |website=UEFA.org |date=28 August 2015 }}</ref>
+
+===Ticketing===
+With a stadium capacity of 35,000, a total amount of 27,000 tickets were available to fans and the general public, with the two finalist teams receiving 9,000 tickets each and with 9,000 tickets being available for sale to fans worldwide via UEFA.com from 23 February to 21 March 2016 in four price categories: CHF 180, CHF 120, CHF 90, and CHF 50. The remaining tickets were allocated to the local organising committee, UEFA and national associations, commercial partners and broadcasters, and to serve the corporate hospitality programme.<ref>{{cite web|url=http://www.uefa.org/mediaservices/newsid=2337164.html|title=2016 UEFA Champions League final ticket sales launch|publisher=UEFA.org|date=1 March 2016|access-date=10 May 2016|archive-date=7 June 2016|archive-url=https://web.archive.org/web/20160607170925/http://www.uefa.org/mediaservices/newsid=2337164.html|url-status=dead}}</ref>
+
+UEFA was forced to defend the choice of St. Jakob-Park, which is the second smallest venue to host the competition's final, as the final competition venue after Liverpool and Sevilla were confirmed as the finalists.<ref>{{cite web|url=https://www.bbc.com/sport/football/36228071|title=Europa League: Uefa defends St. Jakob-Park for Liverpool v Sevilla final|publisher=BBC Sport|date=6 May 2016}}</ref> Liverpool manager [[Jürgen Klopp]], who initially told the supporters to travel to Basel even without a ticket, later backtracked from his suggestion.<ref>{{cite web|url=https://www.bbc.com/sport/football/36244282|title=Liverpool: Jurgen Klopp tells ticketless fans not to go to Europa League final|publisher=BBC Sport|date=8 May 2016}}</ref>
+
+===Officials===
+In May 2016, Swedish [[referee (association football)|referee]] [[Jonas Eriksson (referee)|Jonas Eriksson]] was selected to supervise the final. He was joined by fellow Swedish officials Mathias Klasenius and Daniel Wärnmark as [[assistant referee (association football)|assistant referees]], [[Stefan Johannesson]] and [[Markus Strömbergsson]] as [[assistant referee (association football)#Additional assistant referee|additional assistant referees]], Mehmet Culum as [[assistant referee (association football)#Fifth official and reserve assistant referee|reserve assistant referee]], and Norwegian official [[Svein Oddvar Moen]] as [[assistant referee (association football)#Fourth official|fourth official]].<ref name="Eriksson">{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/022d-0e944b9df425-e50742c1a0a0-1000--jonas-eriksson-to-referee-europa-league-final|archive-url=https://web.archive.org/web/20201108191726/https://www.uefa.com/uefaeuropaleague/news/022d-0e944b9df425-e50742c1a0a0-1000--jonas-eriksson-to-referee-europa-league-final/|url-status=dead|archive-date=November 8, 2020|title=Jonas Eriksson to referee Europa League Final}}</ref>
+
+==Match==
+
+===Summary===
+In the 35th minute [[Daniel Sturridge]] scored with a shot using the outside of his left foot from out on the left after a pass from [[Philippe Coutinho]]. Seventeen seconds into the second half [[Kevin Gameiro]] made it 1–1 when he scored three yards out after a cross from the right by [[Mariano (footballer, born 1986)|Mariano]] who got past [[Alberto Moreno]] by putting the ball between his legs.<ref>{{cite web|url=https://www.telegraph.co.uk/football/2016/05/18/liverpool-1-sevilla-3-jurgen-klopps-side-unravel-against-rampant/|title=Liverpool 1 Sevilla 3: Jurgen Klopp's side unravel against rampant Spaniards in Europa League final|date=19 May 2016|work=Daily Telegraph|access-date=5 August 2016}}</ref>
+
+Sevilla missed two more chances to score before they went in front in the 64th minute when [[Coke (footballer)|Coke]] scored with a low right foot shot to the corner of the net from twenty yards. Coke got his second in the 70th minute with a right foot shot from six yards out on the right after the ball broke to him via a deflection off a Liverpool player.<ref>{{cite web|url=https://www.theguardian.com/football/live/2016/may/18/liverpool-v-sevilla-europa-league-final-live|title=Sevilla beat Liverpool 3–1 to claim Europa League title – as it happened|date=19 May 2016|work=Guardian|access-date=5 August 2016}}</ref>
+
+With this defeat, Liverpool became the second English club and fourth overall – after [[Hamburger SV]], [[ACF Fiorentina|Fiorentina]] and [[Arsenal F.C.|Arsenal]] – to have been runner-up in [[UEFA club competition records and statistics#List of teams to have won the three main European club competitions|all three major European competitions]] ([[UEFA Champions League|European Champion Clubs' Cup/UEFA Champions League]], UEFA Cup/UEFA Europa League, and the now-defunct [[UEFA Cup Winners' Cup|Cup Winners' Cup]]).<ref>{{cite web|author=Roberto Di Maggio|url=https://www.rsssf.org/miscellaneous/intfinalrec.html|title=International Finalists|work=Record Sport Soccer Statistics Foundation|date=18 February 2021}}</ref>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the semi-final draw, which was held on 15 April 2016 at UEFA headquarters in [[Nyon]], [[Switzerland]].<ref name="drawSF_1">{{cite web |title=Draws — Semi-finals |url=https://www.uefa.com/uefaeuropaleague/draws/2016/2000662/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=15 April 2016 }}</ref>
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2016|5|18|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Liverpool F.C.|Liverpool]] {{fbaicon|ENG}}
+|score      = 1–3
+|team2      = {{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+*[[Daniel Sturridge|Sturridge]] {{goal|35}}
+|goals2     =
+*[[Kevin Gameiro|Gameiro]] {{goal|46}}
+*[[Coke (footballer)|Coke]] {{goal|64||70}}
+|stadium    = [[St. Jakob-Park]], [[Basel]]
+|attendance = 34,429<ref name="full_time">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2016/2017222_FR.pdf |title=Full Time Report Final – Liverpool v Sevilla |website=[[UEFA]] |publisher=Union of European Football Associations |date=18 May 2016 |access-date=18 May 2016}}</ref>
+|referee    = [[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2017222/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _liverpool1516h
+| pattern_b  = _liverpool1516h
+| pattern_ra = _liverpool1516h
+| pattern_sh = _liverpool1516h
+| pattern_so = _liverpool1516h
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FF0000
+| socks      = FF0000
+| title      = Liverpool<ref name="lineups"/>
+}}
+|{{Football kit
+| pattern_la = _sev16el
+| pattern_b  = _sevf16el
+| pattern_ra = _sev16el
+| pattern_sh = _sev16el
+| pattern_so = _sev16el
+| leftarm    = ffffff
+| body       = ffffff
+| rightarm   = ffffff
+| shorts     = ffffff
+| socks      = 000000
+| title      = Sevilla<ref name="lineups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||{{flagicon|BEL}} [[Simon Mignolet]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Nathaniel Clyne]] || {{yel|90+4}}
+|-
+|CB ||'''6''' ||{{flagicon|CRO}} [[Dejan Lovren]] || {{yel|30}}
+|-
+|CB ||'''4''' ||{{flagicon|CIV}} [[Kolo Touré]] || || {{suboff|82}}
+|-
+|LB ||'''18'''||{{flagicon|ESP}} [[Alberto Moreno]]
+|-
+|CM ||'''7''' ||{{flagicon|ENG}} [[James Milner]] ([[Captain (association football)|c]])
+|-
+|CM ||'''23'''||{{flagicon|GER}} [[Emre Can]]
+|-
+|RW ||'''20'''||{{flagicon|ENG}} [[Adam Lallana]] || || {{suboff|73}}
+|-
+|AM ||'''11'''||{{flagicon|BRA}} [[Roberto Firmino]] || || {{suboff|69}}
+|-
+|LW ||'''10'''||{{flagicon|BRA}} [[Philippe Coutinho]]
+|-
+|CF ||'''15'''||{{flagicon|ENG}} [[Daniel Sturridge]]
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|GK ||'''52'''||{{flagicon|WAL}} [[Danny Ward (footballer, born 1993)|Danny Ward]]
+|-
+|DF ||'''37'''||{{flagicon|SVK}} [[Martin Škrtel]]
+|-
+|MF ||'''14'''||{{flagicon|ENG}} [[Jordan Henderson]]
+|-
+|MF ||'''21'''||{{flagicon|BRA}} [[Lucas Leiva|Lucas]]
+|-
+|MF ||'''24'''||{{flagicon|WAL}} [[Joe Allen]] || || {{subon|73}}
+|-
+|FW ||'''9''' ||{{flagicon|BEL}} [[Christian Benteke]] || || {{subon|82}}
+|-
+|FW ||'''27''' ||{{flagicon|BEL}} [[Divock Origi]] || {{yel|72}} || {{subon|69}}
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|GER}} [[Jürgen Klopp]]
+|}
+|style="vertical-align:top"|[[File:Liverpool vs Sevilla 2016-05-18.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''31'''||{{flagicon|ESP}} [[David Soria]]
+|-
+|RB ||'''25'''||{{flagicon|BRA}} [[Mariano (footballer, born 1986)|Mariano]] || {{yel|84}}
+|-
+|CB ||'''3''' ||{{flagicon|FRA|1974}} [[Adil Rami]] || {{yel|77}} || {{suboff|78}}
+|-
+|CB ||'''6''' ||{{flagicon|POR}} [[Daniel Carriço]]
+|-
+|LB ||'''18'''||{{flagicon|ESP}} [[Sergio Escudero (footballer, born 1989)|Sergio Escudero]]
+|-
+|CM ||'''4''' ||{{flagicon|POL}} [[Grzegorz Krychowiak]]
+|-
+|CM ||'''15'''||{{flagicon|FRA|1974}} [[Steven Nzonzi]]
+|-
+|RW ||'''23'''||{{flagicon|ESP}} [[Coke (footballer)|Coke]] ([[Captain (association football)|c]])
+|-
+|AM ||'''19'''||{{flagicon|ARG}} [[Éver Banega]] || {{yel|57}} || {{suboff|90+3}}
+|-
+|LW ||'''20'''||{{flagicon|ESP}} [[Vitolo (footballer, born 1989)|Vitolo]] || {{yel|56}}
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Kevin Gameiro]] || || {{suboff|89}}
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Sergio Rico]]
+|-
+|DF ||'''5''' ||{{flagicon|FRA|1974}} [[Timothée Kolodziejczak]] || || {{subon|78}}
+|-
+|DF ||'''21'''||{{flagicon|ARG}} [[Nicolás Pareja]]
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Vicente Iborra]] || || {{subon|89}}
+|-
+|MF ||'''14'''||{{flagicon|URU}} [[Sebastián Cristóforo]] || || {{subon|90+3}}
+|-
+|MF ||'''22'''||{{flagicon|UKR}} [[Yevhen Konoplyanka]]
+|-
+|FW ||'''24'''||{{flagicon|ESP}} [[Fernando Llorente]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ESP}} [[Unai Emery]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Coke (footballer)|Coke]] (Sevilla)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="Eriksson" />
+<br />Mathias Klasenius ([[Swedish Football Association|Sweden]])
+<br />Daniel Wärnmark ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="Eriksson" />
+<br />[[Svein Oddvar Moen]] ([[Norwegian Football Federation|Norway]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="Eriksson" />
+<br />[[Stefan Johannesson]] ([[Swedish Football Association|Sweden]])
+<br />[[Markus Strömbergsson]] ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="Eriksson" />
+<br />Mehmet Culum ([[Swedish Football Association|Sweden]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web|url=http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/23/69/59/2236959_DOWNLOAD.pdf|title=Regulations of the UEFA Europa League 2015/16 Season|publisher=[[UEFA]]|date=1 May 2015}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes, of which up to three may be used.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2016/2017222_TS.pdf |title=Team statistics |website=[[UEFA]] |publisher=Union of European Football Associations |date=18 May 2016 |access-date=18 May 2016}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|5
+|1
+|-
+!scope=row|Shots on target
+|3
+|0
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|53%
+|47%
+|-
+!scope=row|Corner kicks
+|2
+|3
+|-
+!scope=row|Fouls committed
+|11
+|4
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|0
+|3
+|-
+!scope=row|Total shots
+|5
+|10
+|-
+!scope=row|Shots on target
+|1
+|4
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|55%
+|45%
+|-
+!scope=row|Corner kicks
+|2
+|4
+|-
+!scope=row|Fouls committed
+|8
+|5
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|2
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|3
+|-
+!scope=row|Total shots
+|10
+|11
+|-
+!scope=row|Shots on target
+|4
+|4
+|-
+!scope=row|Saves
+|1
+|3
+|-
+!scope=row|Ball possession
+|54%
+|46%
+|-
+!scope=row|Corner kicks
+|4
+|7
+|-
+!scope=row|Fouls committed
+|19
+|9
+|-
+!scope=row|Offsides
+|1
+|3
+|-
+!scope=row|Yellow cards
+|3
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2016 UEFA Champions League final]]
+*[[2016 UEFA Super Cup]]
+*[[Liverpool F.C. in international football]]
+*[[Sevilla FC in European football]]
+*[[2015–16 Liverpool F.C. season]]
+*[[2015–16 Sevilla FC season]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20150627141227/http://www.uefa.com/uefaeuropaleague/season=2016/index.html 2015–16 UEFA Europa League]
+*[https://web.archive.org/web/20150705221356/http://www.uefa.com/uefaeuropaleague/season=2016/final/index.html 2016 final: St. Jakob-Park, Basel]
+
+{{UEFA Europa League seasons}}
+{{2015–16 in European football (UEFA)}}
+{{Liverpool F.C. matches}}
+{{Sevilla FC matches}}
+
+{{DEFAULTSORT:Uefa Europa League Final 2016}}
+[[Category:UEFA Europa League finals|2016]]
+[[Category:2015–16 UEFA Europa League|Final]]
+[[Category:2015–16 in Swiss football|Europa League Final]]
+[[Category:Sports competitions in Basel]]
+[[Category:Football competitions in Switzerland]]
+[[Category:Liverpool F.C. matches]]
+[[Category:Sevilla FC matches]]
+[[Category:2015–16 in Spanish men's football|Europa League Final]]
+[[Category:2015–16 in English men's football|Europa League Final]]
+[[Category:May 2016 sports events in Europe]]
+[[Category:21st century in Basel]]
+[[Category:Spain–United Kingdom sports relations|2016]]

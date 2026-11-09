@@ -1,0 +1,208 @@
+{{Refimprove|date=September 2020}}
+{{Infobox football match
+| title              = 1996 FA Charity Shield
+| image              = 1996 Charity shield.jpg 
+| image_size         = 
+| caption            = The [[Football programme|match programme]] cover
+| team1              = [[Manchester United F.C.|Manchester United]]
+| team1score         = 4
+| team2              = [[Newcastle United F.C.|Newcastle United]]
+| team2score         = 0
+| details            =
+| date               = 11 August 1996
+| stadium            = [[Wembley Stadium (1923)|Wembley Stadium]]
+| city               = [[London]]
+| man_of_the_match1a = [[Eric Cantona]]
+| referee            = [[Paul Durkin]] ([[Dorset County Football Association|Dorset]])
+| attendance         = 73,214
+| weather            =
+| previous           = [[1995 FA Charity Shield|1995]]
+| next               = [[1997 FA Charity Shield|1997]]
+}}
+The '''1996 FA Charity Shield''' (also known as the '''[[Littlewoods]] FA Charity Shield''' for sponsorship reasons) was the 74th [[FA Community Shield|FA Charity Shield]], an annual [[association football|football]] match played between the winners of the previous season's [[Premier League]] and [[FA Cup]] competitions. The match was played on 11 August 1996 at [[Wembley Stadium (1923)|Wembley Stadium]]<ref>{{cite news |title=Details - 1996/97 Charity Shield |url=https://www.footballsite.co.uk/Statistics/CommunityShield/1996-97CharityShield.htm |publisher=www.footballsite.co.uk}}</ref> and contested by [[Manchester United F.C.|Manchester United]], who had won [[Double (association football)|the Double]] of [[1995–96 FA Premier League|Premier League]] and [[1995–96 FA Cup|FA Cup]] in 1995–96, and [[Newcastle United F.C.|Newcastle United]], who had finished as runners-up in the Premier League. Manchester United won the match 4–0 with goals from [[Eric Cantona]], [[Nicky Butt]], [[David Beckham]] and [[Roy Keane]].<ref>{{cite news |title=Best Community Shield matches |url=https://www.espn.com/soccer/blog/name/93/post/1979238/headline |work=[[ESPN]] |date=9 August 2014 |language=en}}</ref>
+
+The game saw new signings Jordi Cruyff and Karel Poborský make their debuts for Manchester United, though neither of these players had particularly successful careers at [[Old Trafford]] and both had left the club within four years. The day before the game had seen the surprise sale of one of Manchester United's longest serving players – [[Lee Sharpe]].
+
+The game saw Newcastle United give a debut to £15 million world record signing [[Alan Shearer]], who would remain at the club until his retirement as a player 10 years later and break the club's goalscoring record in the process, though he would never win a [[major trophy]] with them.<ref>{{cite news |last1=Sunderland |first1=Tom |title=Community Shield: Revisiting the Last 25 Matches |url=https://bleacherreport.com/articles/2148884-community-shield-revisiting-the-last-25-matches |work=Bleacher Report |language=en}}</ref>
+
+==Match details==
+{{footballbox
+|date=11 August 1996
+|time=15:00 [[UTC+1]]
+|team1=[[Manchester United F.C.|Manchester United]]
+|score=4–0
+|report=[http://www.thefreelibrary.com/FOUR-GET+IT%2c+KEEGAN%3b+MAN+UNITED+4+NEWCASTLE+0%3b+Kev's+men+don't+play...-a061310853 Report]
+|team2=[[Newcastle United F.C.|Newcastle United]]
+|goals1=[[Eric Cantona|Cantona]] {{goal|24}}<br />[[Nicky Butt|Butt]] {{goal|30}}<br />[[David Beckham|Beckham]] {{goal|85}}<br />[[Roy Keane|Keane]] {{goal|87}}
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=73,214
+|referee=[[Paul Durkin]] ([[Dorset County Football Association|Dorset]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _manutdh9698
+ |pattern_b  = _manutdh9698
+ |pattern_ra = _manutdh9698
+ |pattern_sh = _manutdh9698
+ |pattern_so = _whitetop
+ |leftarm    = E20E0E
+ |body       = E20E0E
+ |rightarm   = E20E0E
+ |shorts     = 0
+ |socks      = 000000
+ |title      = Manchester United
+}}
+|{{Football kit
+ |pattern_la = _nufc9597h
+ |pattern_b  = _nufc9597h
+ |pattern_ra = _nufc9597h
+ |pattern_sh = _white_stripes
+ |pattern_so = _3_stripes_on_white_top
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = FFFFFF
+ |title      = Newcastle United
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|DEN}} [[Peter Schmeichel]]
+|-
+|RB ||'''12'''||{{flagicon|ENG}} [[Phil Neville]]
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Gary Pallister]]
+|-
+|CB ||'''4''' ||{{flagicon|ENG}} [[David May (footballer)|David May]]
+|-
+|LB ||'''3''' ||{{flagicon|IRL}} [[Denis Irwin]] || || {{suboff|46}}
+|-
+|RM ||'''10'''||{{flagicon|ENG}} [[David Beckham]]
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Nicky Butt]] || || {{suboff|41}}
+|-
+|CM ||'''16'''||{{flagicon|IRL}} [[Roy Keane]] || {{yel|40}}
+|-
+|LM ||'''11'''||{{flagicon|WAL}} [[Ryan Giggs]]
+|-
+|CF ||'''18'''||{{flagicon|ENG}} [[Paul Scholes]] || || {{suboff|65}}
+|-
+|CF ||'''7''' ||{{flagicon|FRA|1974}} [[Eric Cantona]] ([[Captain (association football)|c]]) || {{yel|65}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''17'''||{{flagicon|NED}} [[Raimond van der Gouw]]
+|-
+|DF ||'''2''' ||{{flagicon|ENG}} [[Gary Neville]] || || {{subon|46}}
+|-
+|DF ||'''19'''||{{flagicon|NOR}} [[Ronny Johnsen]]
+|-
+|MF ||'''14'''||{{flagicon|NED}} [[Jordi Cruyff]] || || {{subon|65}}
+|-
+|MF ||'''15'''||{{flagicon|CZE}} [[Karel Poborský]] || || {{subon|41}}
+|-
+|FW ||'''13'''||{{flagicon|SCO}} [[Brian McClair]]
+|-
+|FW ||'''20'''||{{flagicon|NOR}} [[Ole Gunnar Solskjær]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCO}} [[Alex Ferguson]]
+|}
+|valign="top"|[[File:Man Utd vs Newcastle 1996-08-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|CZE}} [[Pavel Srníček]]
+|-
+|RB ||'''19'''||{{flagicon|ENG}} [[Steve Watson]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Darren Peacock]]
+|-
+|CB ||'''27'''||{{flagicon|BEL}} [[Philippe Albert]] || {{yel|16}}
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[John Beresford (footballer)|John Beresford]]
+|-
+|RM ||'''8''' ||{{flagicon|ENG}} [[Peter Beardsley]] ([[Captain (association football)|c]]) || || {{suboff|75}}
+|-
+|CM ||'''4''' ||{{flagicon|ENG}} [[David Batty]]
+|-
+|CM ||'''7''' ||{{flagicon|ENG}} [[Rob Lee]]
+|-
+|LM ||'''14'''||{{flagicon|FRA|1974}} [[David Ginola]] || || {{suboff|77}}
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Alan Shearer]]
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[Les Ferdinand]]
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|GK ||'''15'''||{{flagicon|TRI}} [[Shaka Hislop]]<!-- Hislop is listed as wearing #13 on the official teamsheet, but since he wore #15 for the rest of the season with Newcastle, I believe this is a typo -->
+|-
+|DF ||'''2''' ||{{flagicon|ENG}} [[Warren Barton]]
+|-
+|DF ||'''6''' ||{{flagicon|ENG}} [[Steve Howey (footballer)|Steve Howey]]
+|-
+|MF ||'''18'''||{{flagicon|NIR}} [[Keith Gillespie]] || || {{subon|77}}
+|-
+|MF ||'''20'''||{{flagicon|ENG}} [[Lee Clark (footballer)|Lee Clark]]
+|-
+|FW ||'''11'''||{{flagicon|COL}} [[Faustino Asprilla]] || || {{subon|75}}
+|-
+|FW ||'''28'''||{{flagicon|ENG}} [[Paul Kitson]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Kevin Keegan]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|width=50% valign=top|
+'''Match officials'''
+*Assistant referees:
+**David Horlick ([[Liverpool County Football Association|Merseyside]])
+**Alan Sheffield ([[Staffordshire Football Association|Staffordshire]])
+*Reserve official: [[Peter Jones (referee)|Peter Jones]] ([[Leicestershire and Rutland County Football Association|Leicestershire]])
+|width=50% valign=top|
+'''Match rules'''
+*90 minutes
+*Penalty shootout if scores level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+==References==
+{{reflist}}
+
+==Sources==
+*[https://www.independent.co.uk/sport/hungry-united-devour-keegan-s-pretenders-1309313.html 1996 Final]
+*[https://www.thefreelibrary.com/FOUR-GET+IT%2c+KEEGAN%3b+MAN+UNITED+4+NEWCASTLE+0%3b+Kev's+men+don't+play...-a061310853 MAN UNITED 4 NEWCASTLE 0]
+
+==See also==
+*[[1995–96 FA Premier League]]
+*[[1995–96 FA Cup]]
+
+{{FA Community Shield}}
+{{Manchester United F.C. matches}}
+{{Newcastle United F.C. matches}}
+{{1996–97 in English football}}
+{{Use dmy dates|date=June 2017}}
+
+[[Category:FA Community Shield matches|1996]]
+[[Category:Football matches in London]]
+[[Category:Sports events at Wembley Stadium|1996]]
+[[Category:Newcastle United F.C. matches|Charity Shield 1996]]
+[[Category:Manchester United F.C. matches|Charity Shield 1996]]
+[[Category:1996–97 in English men's football cups|Charity Shield]]
+[[Category:August 1996 sports events in the United Kingdom|FA Charity Shield]]
+[[Category:1996 in sport in London]]

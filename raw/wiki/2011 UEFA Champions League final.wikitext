@@ -1,0 +1,555 @@
+{{Short description|Association football match in London}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox football match
+| title = 2011 UEFA Champions League final
+| image = [[File:2011 UEFA Champions League Final logo.jpg|250px]]
+| caption = Match programme cover
+| event = [[2010–11 UEFA Champions League]]
+| team1 = [[FC Barcelona|Barcelona]]
+| team1association = {{fbaicon|ESP|size=30px}}
+| team1score = 3
+| team2 = [[Manchester United F.C.|Manchester United]]
+| team2association = {{fbaicon|ENG|size=30px}}
+| team2score = 1
+| details = 
+| date = 28 May 2011
+| stadium = [[Wembley Stadium]]
+| city = [[London]]
+| man_of_the_match1a = [[Lionel Messi]] (Barcelona)<ref name="uefa_motm"/>
+| man_of_the_match1atitle = [[UEFA]]
+| man_of_the_match1b = Lionel Messi (Barcelona)<ref name="player_rater"/>
+| man_of_the_match1btitle = Fans'
+| referee = [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])<ref name="referee">{{cite news |title=Kassai to referee UEFA Champions League final |url=https://www.uefa.com/uefachampionsleague/news/0250-0c50f68bfa49-e25c351cecc2-1000--kassai-to-referee-uefa-champions-league-final/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=27 May 2011 |access-date=28 May 2011 |url-status=live |archive-url=https://web.archive.org/web/20110527131633/http://en.uefa.com/uefa/footballfirst/matchorganisation/refereeing/news/newsid%3D1635212.html |archive-date=27 May 2011}}</ref>
+| attendance = 87,695<ref name="full_time"/>
+| weather = Cloudy<br />{{convert|15|°C|°F}}<br />76% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2011/2003352_LU.pdf |title=Tactical Line-ups – Final – Saturday 28 May 2011 |website=[[UEFA]] |publisher=Union of European Football Associations|date=28 May 2011 |access-date=28 May 2011}}</ref>
+| previous = [[2010 UEFA Champions League final|2010]]
+| next = [[2012 UEFA Champions League final|2012]]
+}}
+The '''2011 UEFA Champions League final''' was an [[association football]] match played on 28 May 2011 at [[Wembley Stadium]] in London that decided the winner of the [[2010–11 UEFA Champions League|2010–11 season]] of the [[UEFA Champions League]]. The winners received the [[European Champion Clubs' Cup]] (the European Cup). The 2011 final was the culmination of the 56th season of the tournament, and the 19th in the Champions League era.
+
+The final was contested by [[FC Barcelona|Barcelona]] of [[Royal Spanish Football Federation|Spain]] and [[Manchester United F.C.|Manchester United]] of [[The Football Association|England]], in a repeat of the [[2009 UEFA Champions League final|2009 final]] held in Rome, which Barcelona won 2–0. The match kicked off at 19:45 [[British Summer Time|BST]]. The [[Referee (association football)|referee]] for the match was [[Viktor Kassai]] from [[Hungarian Football Federation|Hungary]].<ref name="referee"/> The venue, the new Wembley Stadium, hosted its first European Cup final, having opened in 2007; the [[Wembley Stadium (1923)|old Wembley Stadium]] hosted the finals in [[1963 European Cup final|1963]], [[1968 European Cup final|1968]], [[1971 European Cup final|1971]], [[1978 European Cup final|1978]] and [[1992 European Cup final|1992]].<ref name="wembley">{{cite news|title=Wembley returns to centre stage |url=https://www.uefa.com/uefachampionsleague/news/01d5-0e70c9e75e03-e82d6a4e7427-1000--wembley-returns-to-centre-stage/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=30 January 2009 |access-date=24 March 2010 |archive-url=https://web.archive.org/web/20100504123607/http://www.uefa.com/uefachampionsleague/news/newsid%3D795986.html |archive-date=4 May 2010 |url-status=live }}</ref>
+
+Both teams entered the competition having won it three times previously; Manchester United in [[1967–68 European Cup|1968]], [[1998–99 UEFA Champions League|1999]] and [[2007–08 UEFA Champions League|2008]], and Barcelona in [[1991–92 European Cup|1992]], [[2005–06 UEFA Champions League|2006]] and [[2008–09 UEFA Champions League|2009]]. To reach the final, in the [[2010–11 UEFA Champions League knockout phase|knockout phase]] Barcelona beat [[Arsenal F.C.|Arsenal]], [[FC Shakhtar Donetsk|Shakhtar Donetsk]] and lastly [[Real Madrid CF|Real Madrid]] in the 212th ''[[El Clásico]]'' derby, while Manchester United beat [[Olympique de Marseille|Marseille]], [[Chelsea F.C.|Chelsea]] and [[FC Schalke 04|Schalke 04]]. Both teams also entered the final as champions of their domestic leagues (the [[2010–11 Premier League|Premier League]] and [[2010–11 La Liga|La Liga]], respectively), but neither team had won a domestic cup that season.
+
+Barcelona dominated the match, winning 3–1 with goals from [[Pedro (footballer, born 1987)|Pedro]], [[Lionel Messi]] and [[David Villa]], securing their fourth Champions League title.<ref>{{Cite web|url=http://news.bbc.co.uk/sport2/hi/football/13576522.stm|title=Barcelona 3 Manchester United 1|date=28 May 2011|work=BBC Sport |access-date=30 May 2011| archive-url= https://web.archive.org/web/20110529112634/http://news.bbc.co.uk/sport2/hi/football/13576522.stm| archive-date= 29 May 2011 | url-status=live}}</ref> [[Wayne Rooney]] scored for Manchester United to level the score going into half-time.<ref>{{Cite web|url=https://www.telegraph.co.uk/sport/football/competitions/champions-league/8542452/Barcelona-3-Manchester-United-1-match-report.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/competitions/champions-league/8542452/Barcelona-3-Manchester-United-1-match-report.html |archive-date=12 January 2022 |url-access=subscription |url-status=live|title=Barcelona 3 Manchester United 1|date=28 May 2011|work=The Daily Telegraph|access-date=30 May 2011}}{{cbignore}}</ref>
+
+As a result, Barcelona qualified to play against [[FC Porto|Porto]], the winners of the [[2010–11 UEFA Europa League]], in the [[2011 UEFA Super Cup]] in Monaco on 26 August 2011,<ref>{{cite web|url=https://www.dfb.de/index.php?id=510208 |title=Rahmenterminkalender 2011/2012|work=DFB.de |publisher=Deutscher Fussball-Bund |date=24 November 2010 |access-date=17 April 2011|language=de }}</ref><ref>{{cite web|url=http://www.lfp.fr/calendriers/2011_2012/calendrier_2011_2012.pdf |title=Calendrier Général des Compétitions 2011/2012|work=LFP.fr |publisher=Ligue de Football Professionnel |date=31 March 2011 |access-date=17 April 2011|language=fr | archive-url= https://web.archive.org/web/20110525095446/http://www.lfp.fr/calendriers/2011_2012/calendrier_2011_2012.pdf| archive-date= 25 May 2011 | url-status=live}}</ref> and they also earned a place in the semi-finals of the [[2011 FIFA Club World Cup]] in December 2011 as the [[UEFA]] representative.
+
+==Background==
+The match was a rematch of the final two years earlier, which Barcelona had won 2–0 in [[Rome]]. United and Barcelona had both won three European titles prior to the match. United had won three years earlier against [[Chelsea F.C.|Chelsea]], [[FC Bayern Munich|Bayern Munich]] in 1999, and [[S.L. Benfica|Benfica]] in 1968. Barcelona had won their first title 19 years earlier, against [[UC Sampdoria|Sampdoria]] at Wembley Stadium. They then won their second title in 2006, beating [[Arsenal F.C|Arsenal]] 2–1 in [[Paris]]. The most recent title win for Barcelona was against United in 2009 and it was the most recent final for both of these teams. However, in 2008, United defeated Barcelona 1–0 on aggregate, at the semi-final stage, en route to claiming their third trophy. Barcelona were appearing in the final for the third time in six years while United were for the third time in four years.<ref>{{Cite web |last=UEFA.com |title=Finals {{!}} History {{!}} UEFA Champions League |url=https://www.uefa.com/uefachampionsleague/history/winners/finals/ |access-date=2025-01-06 |website=[[UEFA]] |language=en}}</ref>
+
+==Venue==
+[[File:Wembley Stadium interior.jpg|thumb|Inside Wembley Stadium]]
+
+[[Wembley Stadium]] was selected as the venue for the 2011 UEFA Champions League final at a meeting of the UEFA Executive Committee in [[Nyon]], [[Switzerland]], on 29 January 2009.<ref name="unveil">{{cite news|title=UEFA unveil 2011 and 2012 final venues |url=https://www.uefa.com/news-media/news/01d5-0e70c9e763c9-0b023fd4e3e9-1000--uefa-unveil-2011-and-2012-final-venues/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=29 January 2009 |access-date=23 March 2010 |url-status=live |archive-url=https://web.archive.org/web/20110609011924/http://www.uefa.com/uefa/aboutuefa/organisation/executivecommittee/news/newsid%3D796145.html |archive-date=9 June 2011 }}</ref> Other stadia in contention to host the final included [[Allianz Arena]] in [[Munich]] and [[Berlin]]'s [[Olympic Stadium (Berlin)|Olympiastadion]].<ref>{{cite news |title=Wembley to host 2011 Euro final |url=http://news.bbc.co.uk/sport1/hi/football/europe/7858932.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=29 January 2009 |access-date=29 January 2009 | archive-url= https://web.archive.org/web/20090130074945/http://news.bbc.co.uk/sport1/hi/football/europe/7858932.stm| archive-date= 30 January 2009 | url-status=live}}</ref> Allianz Arena instead hosted the [[2012 UEFA Champions League final|2012 final]].<ref name="unveil"/> The weekend set aside by UEFA for the 2011 Champions League final was originally scheduled by [[The Football League]] as the date for the [[Football League play-offs|Football League play-off finals]], which are traditionally held on the British May bank holiday weekend; however, due to UEFA's requirement that they be given exclusive use of the venue in the lead-up to the final, the play-off finals had to be relocated. Due to this breach of their contract with [[The Football Association]], The Football League demanded compensation.<ref>{{cite news |title=Football League seek compensation after Wembley is double-booked |url=http://www.timesonline.co.uk/tol/sport/football/football_league/article5796755.ece |work=Times Online |publisher=Times Newspapers |date=24 February 2009 |access-date=12 September 2009 }}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref> On 21 January 2011, as part of a settlement agreement with the FA, the [[Football League One|League One]] and [[Football League Two|League Two]] play-off finals were moved to [[Old Trafford]], [[Manchester]], to be played respectively on 29 May and 28 May 2011; the [[Football League Championship|Championship]] play-off final was not rescheduled.<ref>{{cite news |title=Old Trafford to host League One and Two play-off finals |url=http://news.bbc.co.uk/sport1/hi/football/9369296.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=21 January 2011 |access-date=21 January 2011 | archive-url= https://web.archive.org/web/20110125141045/http://news.bbc.co.uk/sport1/hi/football/9369296.stm| archive-date= 25 January 2011 | url-status=live}}</ref><ref>{{cite news|title=Play-Offs head North |url=http://www.football-league.co.uk/footballleaguenews/20110121/play-offs-head-north_2293334_2271869 |work=football-league.co.uk |publisher=The Football League |date=21 January 2011 |access-date=21 January 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110124133042/http://www.football-league.co.uk/footballleaguenews/20110121/play-offs-head-north_2293334_2271869 |archive-date=24 January 2011 }}</ref> The [[Conference National]] play-off final was also moved to Manchester, to be played at the [[City of Manchester Stadium]] on 21 May 2011.<ref>{{cite news |title=Blue Square Bet Premier final moves to Manchester |url=http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/9031342.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=24 September 2010 |access-date=21 January 2011 }}</ref>
+
+The [[Wembley Stadium (1923)|original Wembley Stadium]] hosted five European Cup finals prior to 2011. The [[1968 European Cup final|1968]] and [[1978 European Cup final|1978]] finals were both won by English sides: [[Manchester United F.C.|Manchester United]] beat [[S.L. Benfica|Benfica]] 4–1 in 1968 and [[Liverpool F.C.|Liverpool]] defeated [[Club Brugge KV|Club Brugge]] 1–0 in 1978. Benfica also lost in the [[1963 European Cup final|1963 final]], beaten 2–1 by [[A.C. Milan]], while [[AFC Ajax|Ajax]] won the first of three consecutive European Cups at Wembley in [[1971 European Cup final|1971]], beating [[Panathinaikos F.C.|Panathinaikos]] 2–0. In the [[1992 European Cup final|1992 final]], Spanish club [[FC Barcelona|Barcelona]] defeated Italian side [[UC Sampdoria|Sampdoria]] 1–0 in the final match played as the European Cup prior to the following season's introduction of the current Champions League format.
+
+First opened for the [[British Empire Exhibition]] in 1923, the stadium was originally known as the Empire Stadium. That year, it hosted its first [[FA Cup Final]], when almost 200,000 spectators attempted to watch [[1923 FA Cup Final|the match]] between [[Bolton Wanderers F.C.|Bolton Wanderers]] and [[West Ham United F.C.|West Ham United]]. Wembley played host to all of [[England national football team|England]]'s matches at the [[1966 FIFA World Cup]], including the 4–2 victory over [[Germany national football team|West Germany]] in the [[1966 FIFA World Cup final|final]], and at [[UEFA Euro 1996]]. The original stadium was closed in 2000 and demolished three years later, to be replaced by a 90,000-capacity arena, which opened in 2007.<ref name="wembley"/>
+
+==Route to the final==
+{{further|2010–11 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+
+{|class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+!Round
+!colspan=4|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|-bgcolor=#c1e0ff
+|Opponent
+|colspan=3|Result
+|[[2010–11 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Barcelona v Panathinaikos|5–1]] (H)
+|bgcolor=#c1e0ff|Matchday 1
+|align=left|{{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Manchester United v Rangers|0–0]] (H)
+|-
+|align=left|{{fbaicon|RUS}} [[FC Rubin Kazan|Rubin Kazan]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Rubin Kazan v Barcelona|1–1]] (A)
+|bgcolor=#c1e0ff|Matchday 2
+|align=left|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Valencia v Manchester United|1–0]] (A)
+|-
+|align=left|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Barcelona v Copenhagen|2–0]] (H)
+|bgcolor=#c1e0ff|Matchday 3
+|align=left|{{fbaicon|TUR}} [[Bursaspor]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Manchester United v Bursaspor|1–0]] (H)
+|-
+|align=left|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Copenhagen v Barcelona|1–1]] (A)
+|bgcolor=#c1e0ff|Matchday 4
+|align=left|{{fbaicon|TUR}} [[Bursaspor]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Bursaspor v Manchester United|3–0]] (A)
+|-
+|align=left|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Panathinaikos v Barcelona|3–0]] (A)
+|bgcolor=#c1e0ff|Matchday 5
+|align=left|{{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Rangers v Manchester United|1–0]] (A)
+|-
+|align=left|{{fbaicon|RUS}} [[FC Rubin Kazan|Rubin Kazan]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Barcelona v Rubin Kazan|2–0]] (H)
+|bgcolor=#c1e0ff|Matchday 6
+|align=left|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|colspan=3|[[2010–11 UEFA Champions League group stage#Manchester United v Valencia|1–1]] (H)
+|-
+|colspan=4 align=center valign=top|'''[[2010–11 UEFA Champions League group stage#Group D|Group D]] winners'''
+{{:2010–11 UEFA Champions League group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=no|showteam=BAR}}
+|bgcolor=#c1e0ff|Final standings
+|colspan=4 align=center valign=top|'''[[2010–11 UEFA Champions League group stage#Group C|Group C]] winners'''
+{{:2010–11 UEFA Champions League group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=MUN}}
+|-bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2010–11 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|4–3
+|[[2010–11 UEFA Champions League knockout phase#Arsenal v Barcelona|1–2]] (A)
+|[[2010–11 UEFA Champions League knockout phase#Barcelona v Arsenal|3–1]] (H)
+|bgcolor=#c1e0ff|Round of 16
+|align=left|{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|2–1
+|[[2010–11 UEFA Champions League knockout phase#Marseille v Manchester United|0–0]] (A)
+|[[2010–11 UEFA Champions League knockout phase#Manchester United v Marseille|2–1]] (H)
+|-
+|align=left|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|6–1
+|[[2010–11 UEFA Champions League knockout phase#Barcelona v Shakhtar Donetsk|5–1]] (H)
+|[[2010–11 UEFA Champions League knockout phase#Shakhtar Donetsk v Barcelona|1–0]] (A)
+|bgcolor=#c1e0ff|Quarter-finals
+|align=left|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|3–1
+|[[2010–11 UEFA Champions League knockout phase#Chelsea v Manchester United|1–0]] (A)
+|[[2010–11 UEFA Champions League knockout phase#Manchester United v Chelsea|2–1]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|3–1
+|[[2010–11 UEFA Champions League knockout phase#Real Madrid v Barcelona|2–0]] (A)
+|[[2010–11 UEFA Champions League knockout phase#Barcelona v Real Madrid|1–1]] (H)
+|bgcolor=#c1e0ff|Semi-finals
+|align=left|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|6–1
+|[[2010–11 UEFA Champions League knockout phase#Schalke 04 v Manchester United|2–0]] (A)
+|[[2010–11 UEFA Champions League knockout phase#Manchester United v Schalke 04|4–1]] (H)
+|}
+
+==Pre-match==
+
+===Ambassador===
+UEFA's ambassador for the 2011 Champions League final was the former [[Tottenham Hotspur F.C.|Tottenham Hotspur]] [[forward (association football)|forward]] [[Gary Lineker]]. In his first duty as ambassador, on 26 August 2010, Lineker helped to conduct the draw for the group stage of the competition.<ref>{{cite news |title=Lineker embarks on ambassador role |url=https://www.uefa.com/uefachampionsleague/news/0252-0cd45c2fd0e3-2053cd5c860d-1000--lineker-embarks-on-ambassador-role/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=26 August 2010 |access-date=25 February 2011 }}</ref> Lineker was later involved in the unveiling of the branding design for the 2011 final at an event at Wembley Stadium on 25 November 2010. Hosted by [[Sky Sports]] presenter [[Richard Keys]], the event was also attended by UEFA competitions director Giorgio Marchetti, former British [[Minister for Sport (United Kingdom)|Minister for Sport]] and representative of the [[City of London]] [[Kate Hoey]], General Secretary of [[The Football Association]] Alex Horne, and [[England women's national football team|England Women's international]] [[Faye White]].
+
+===Identity===
+The logo for the final is in the style of a heraldic crest and features the [[European Champion Clubs' Cup]] in the centre, flanked by two lions. According to the designers of the logo, London-based Radiant Studios, the lions are intended to represent the two teams that would contest the final, battling over the trophy. The use of traditional elements in a contemporary style in the design is said to have been inspired by modern British designers such as [[Vivienne Westwood]] and tailors on [[Savile Row]].<ref>{{cite news |first=Sam |last=Adams |title=Event design launch sharpens Wembley focus |url=https://www.uefa.com/uefachampionsleague/news/01eb-0ea1b5bb6ac3-3deeb903c877-1000--event-design-launch-sharpens-wembley-focus/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=25 November 2010 |access-date=25 February 2011 }}</ref><ref>{{cite news |title=VIDEO: Champions League logo revealed |url=http://thefa.com/TheFA/Wembley/NewsandFeatures/2010/CL-design-launch |work=TheFA.com |publisher=The Football Association |date=25 November 2010 |access-date=25 February 2011 |archive-url=https://web.archive.org/web/20110416133138/http://www.thefa.com/TheFA/Wembley/NewsandFeatures/2010/CL-design-launch |archive-date=16 April 2011 |url-status=dead }}</ref>
+
+===Officials===
+In May 2011, Hungarian referee [[Viktor Kassai]] was chosen to [[referee (association football)|referee]] the final.  He was joined by fellow Hungarians Gabor Erös and György Ring as [[assistant referee (association football)|assistant referees]], [[assistant referee (association football)#Fourth official|fourth official]] [[István Vad]], [[assistant referee (association football)#Additional assistant referee|additional assistant referees]] [[Tamás Bognár]] and Mihaly Fabian, and [[assistant referee (association football)#Fifth official and reserve assistant referee|reserve assistant referee]] Róbert Kispál.<ref name="referee"/>
+
+===Ticketing===
+Although Wembley Stadium can usually hold up to 90,000 spectators, the capacity for the 2011 Champions League final was approximately 86,000. The two teams that reached the final were allocated 25,000 tickets each, while a further 11,000 tickets were put on general sale. The application period for the latter opened on 24 February 2011 and closed at 17:00 [[Greenwich Mean Time|GMT]] on 18 March, with recipients to be determined by a random ballot before 6 April.<ref>{{cite news |title=Wembley final tickets set to go on sale |url=https://www.uefa.com/uefachampionsleague/news/01ee-0e771a341a39-511cbf2db782-1000--wembley-final-tickets-set-to-go-on-sale/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=17 February 2011 |access-date=26 February 2011 }}</ref><ref>{{cite news |title=UEFA Champions League final ticket sales over |url=https://www.uefa.com/uefachampionsleague/news/01ef-0ea227fac556-39e1bd236cab-1000--uefa-champions-league-final-ticket-sales-over/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=18 March 2011 |access-date=20 March 2011 }}</ref>
+
+A ticket launch event was held at London's [[City Hall, Southwark|City Hall]] on 17 February 2011, at which the above ticketing process was explained. The event was also used to promote the start of ticket sales, and was attended by final ambassador Gary Lineker, his [[2011 UEFA Women's Champions League final|women's final]] counterpart [[Hope Powell]], UEFA Champions Festival ambassador [[Graeme Le Saux]], UEFA fourth vice-president [[Marios Lefkaritis|Marios N. Lefkaritis]], and vice-chairman of The Football Association [[Barry Bright]]. Le Saux and Powell were presented with the first symbolic tickets for the final by four local schoolchildren.<ref>{{cite news |first=Kevin |last=Ashby |title=London ticket launch event brings final closer |url=https://www.uefa.com/uefachampionsleague/news/01ee-0ea1f6dfc7dc-cbc9778c6c64-1000--london-ticket-launch-event-brings-final-closer/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=17 February 2011 |access-date=26 February 2011 }}</ref>
+
+===Match ball===
+[[File:2011 UEFA Champions League Final ball.JPG|thumb|upright|A ball from the match on display at the UEFA Champions Festival in [[Hyde Park, London]]]]
+
+As with the previous ten UEFA Champions League finals, beginning with the [[2001 UEFA Champions League final|2001 final]], the match ball was provided by German sports equipment company [[Adidas]]. Revealed on 3 March 2011 at Wembley Stadium, the ''[[Adidas Finale]] London'' features the "Starball" design synonymous with the UEFA Champions League. In reflection of the [[St George's Cross]] seen on the [[flag of England]], the ball itself is white with red stars, connecting to a central, bright orange star. Technically, the ball shares its structure with the ''Adidas Finale Madrid'', which was used for the [[2010 UEFA Champions League final|2010 final]].<ref>{{cite news |first=Andrew |last=Haslam |title=Finale London unveiled at Wembley |url=https://www.uefa.com/uefachampionsleague/news/01ef-0e775507f81b-4b97506e313d-1000--finale-london-unveiled-at-wembley/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=3 March 2011 |access-date=20 March 2011 }}</ref>
+
+===Opening ceremony===
+The 2011 Champions League final was officially opened on 21 May 2011 with the opening of the 2011 UEFA Champions Festival at [[Speakers' Corner]] in [[Hyde Park, London|Hyde Park]], London. The festival ran for the entire week leading up to the show-piece match at Wembley, closing a few hours before kick-off. Among the attractions at the festival were displays detailing the history of the European Cup, miniature football pitches for use by the public, and the trophy itself.<ref>{{cite web |title=Hyde Park to host Champions Festival |url=http://en.uefa.com/uefachampionsleague/final/championsfestival/index.html |work=[[UEFA]] |publisher=Union of European Football Associations |date=25 February 2011 |access-date=26 February 2011 |archive-date=7 June 2011 |archive-url=https://web.archive.org/web/20110607004504/http://en.uefa.com/uefachampionsleague/final/championsfestival/index.html |url-status=dead }}</ref>
+
+The [[UEFA Champions League Anthem]] was performed by British [[classical crossover]] group [[All Angels]].<ref>{{Cite web|url=https://www.express.co.uk/sport/football/723510/What-is-Champions-League-music-UEFA-anthem-composer|title=What is the Champions League music? Who wrote the UEFA anthem?|first=James|last=Gray|date=20 October 2016|website=Express.co.uk}}</ref> The opening ceremony also featured a performance from English rapper [[Tinchy Stryder]].<ref>{{Cite news |last=Smith |first=Caspar Llewellyn |date=2011-05-27 |title=Tinchy Stryder to become first rapper to perform at Champions League final |language=en-GB |work=The Guardian |url=https://www.theguardian.com/music/2011/may/27/tinchy-stryder-champions-league-final |access-date=2023-07-28 |issn=0261-3077}}</ref>
+
+==Match==
+===Summary===
+====First half====
+Barcelona outplayed Manchester United, controlling 68% of possession and having 22 attempts on goal compared to United's four.<ref name="masterclass">{{cite news |title=Barca masterclass seals trophy |url=http://soccernet.espn.go.com/report?id=316520&cc=5901 |publisher=[[ESPNsoccernet]] |date=28 May 2011 |access-date=29 May 2011 |archive-date=26 October 2012 |archive-url=https://web.archive.org/web/20121026105441/http://soccernet.espn.go.com/report?id=316520&cc=5901 |url-status=dead }}</ref> United's game plan was to get bodies in front of Barcelona's attack and hope to keep the ball away from their end whenever they received possession.<ref>{{Cite web |last=Um |first=Gene |date=2011-05-31 |title=2011 UEFA Champions League final tactical analysis (part 1) -- Opening lineups and formation; Manchester United press and punt early |url=https://thebusbybabe.sbnation.com/2011/5/31/2198476/2011-uefa-champions-league-final-tactical-analysis-part-1-opening |access-date=2025-01-06 |website=The Busby Babe |language=en}}</ref> United would therefore often try long balls as their method of attack. Manchester United started the better of the sides, with more possession and brief sights of goal in the opening minutes. [[Javier Hernández]] had a shot towards goal blocked, and another fly over the bar (he had been offside anyway in the approach play). Barcelona came into the game after their slow start and created a few chances. [[David Villa]] had a shot from range go just wide in the 19th minute, and another in the 21st minute was saved well by Van der Sar. Barcelona then took the lead in the 27th minute when [[Xavi (footballer, born 1980)|Xavi]] played in [[Pedro (footballer, born 1987)|Pedro]], who struck from inside the penalty area. It looked as if Barcelona could keep possession to win the game with just that goal. However, United equalised seven minutes later against the run of play. After some pressuring by United on Barcelona who were taking a throw-in deep in their own half, [[Wayne Rooney]] received the ball, played a one-two with [[Ryan Giggs]], and curled the ball into the corner from 15 yards. Replays showed that Giggs may have been just offside in the approach play. On the stroke of half-time, Messi almost latched onto a cross from Villa but could not turn it into the net from a few yards out. The whistle blew soon afterwards for half-time.<ref name="masterclass"/>
+
+====Second half====
+Barcelona's dominance continued in the second half. Messi almost gave Barcelona the lead in the 52nd minute when he latched onto a rebound from a Van der Sar save from [[Dani Alves]], but [[Patrice Evra]] cleared off the line with his head. Barcelona regained the lead in the 54th minute when Messi received the ball and fired home from 20 yards out. Barcelona dominated for the next 15 minutes or so. Messi turned [[Rio Ferdinand]] and got a shot away from about eight yards out, forcing a save from Van der Sar. In the 66th minute, Xavi had a long shot saved by Van der Sar, and Iniesta had another long shot saved by the United keeper a few minutes later. A third goal came in the 69th minute. [[David Villa]] got the ball about 20 yards out and curled a shot into the top corner to seal the result.<ref name="masterclass"/><ref name="genius">{{cite news |title=No answer to Barca genius |url=http://www.skysports.com/football/match_report/0,19762,11065_3400701,00.html |work=Sky Sports |publisher=BSkyB |date=28 May 2011 |access-date=29 May 2011 }}</ref> United tried to hit back immediately with an attack, with Rooney having a curling shot go just over the bar. [[Nani (footballer)|Nani]] then made a run across Barcelona's 18-yard box in the 85th minute and got a shot away which went just wide. But there was no way back for United and Barcelona held on comfortably to win their fourth European title and the third in six years.<ref>{{Cite web |title=Honours - FC Barcelona Official Channel |url=https://www.fcbarcelona.com/en/football/first-team/honours |access-date=2025-01-06 |website=www.fcbarcelona.com |language=en}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+| date = {{Start date|2011|5|28|df=y}}
+| time = {{CEST|20:45|localtz=BST}}<!--20:45 CEST, 19:45 BST-->
+| team1 = [[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+| score = 3–1
+| team2 = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| goals1 = *[[Pedro (footballer, born 1987)|Pedro]] {{goal|27}}
+*[[Lionel Messi|Messi]] {{goal|54}}
+*[[David Villa|Villa]] {{goal|69}}
+| goals2 = *[[Wayne Rooney|Rooney]] {{goal|34}}
+| stadium = [[Wembley Stadium]], [[London]]
+| attendance = 87,695<ref name="full_time">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/UCL/2011/2003352_FR.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=28 May 2011 |access-date=28 May 2011}}</ref>
+| referee = [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+| report = https://www.uefa.com/uefachampionsleague/match/2003352/
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+
+</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _fcbarcelona1011h
+ | pattern_b  = _fcbarcelona1011h
+ | pattern_ra = _fcbarcelona1011h
+ | pattern_sh = _fcbarcelona1011h
+ | pattern_so = _fcbarcelona1011h
+ | leftarm    = BF0000
+ | body       = BF0000
+ | rightarm   = BF0000
+ | shorts     = BF0000
+ | socks      = 0000BF
+ | title      = Barcelona<ref name="lineups"/>
+}}
+|{{Football kit
+ | pattern_la = _manutda2010
+ | pattern_b  = _manutda2010
+ | pattern_ra = _manutda2010
+ | pattern_sh = _manutd1011a
+ | pattern_so = _manutda2010
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = {{nowrap|Manchester United}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Víctor Valdés]] || {{yel|85}}
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Dani Alves]] || {{yel|60}} || {{suboff|88}}
+|-
+|CB ||'''14'''||{{flagicon|ARG}} [[Javier Mascherano]]
+|-
+|CB ||'''3''' ||{{flagicon|ESP}} [[Gerard Piqué]]
+|-
+|LB ||'''22'''||{{flagicon|FRA|1974}} [[Eric Abidal]]
+|-
+|DM ||'''16'''||{{flagicon|ESP}} [[Sergio Busquets]]
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]] ([[Captain (association football)|c]])
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Andrés Iniesta]]
+|-
+|RF ||'''7''' ||{{flagicon|ESP}} [[David Villa]] || || {{suboff|86}}
+|-
+|CF ||'''10'''||{{flagicon|ARG}} [[Lionel Messi]]
+|-
+|LF ||'''17'''||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]] || || {{suboff|90+2}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''38'''||{{flagicon|ESP}} [[Oier Olazábal|Oier]]
+|-
+|DF ||'''5''' ||{{flagicon|ESP}} [[Carles Puyol]] || || {{subon|88}}
+|-
+|DF ||'''21'''||{{flagicon|BRA}} [[Adriano (footballer, born 1984)|Adriano]]
+|-
+|MF ||'''15'''||{{flagicon|MLI}} [[Seydou Keita]] || || {{subon|86}}
+|-
+|MF ||'''20'''||{{flagicon|NED}} [[Ibrahim Afellay]] || || {{subon|90+2}}
+|-
+|MF ||'''30'''||{{flagicon|ESP}} [[Thiago Alcântara|Thiago]]
+|-
+|FW ||'''9''' ||{{flagicon|ESP}} [[Bojan Krkić|Bojan]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|valign="top"|[[File:Barcelona vs Man Utd 2011-05-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|NED}} [[Edwin van der Sar]]
+|-
+|RB ||'''20'''||{{flagicon|BRA}} [[Fábio (footballer, born 1990)|Fábio]] || || {{suboff|69}}
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Rio Ferdinand]]
+|-
+|CB ||'''15'''||{{flagicon|SRB}} [[Nemanja Vidić]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||{{flagicon|FRA|1974}} [[Patrice Evra]]
+|-
+|RM ||'''25'''||{{flagicon|ECU}} [[Antonio Valencia]] || {{yel|79}}
+|-
+|CM ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]] || {{yel|61}} || {{suboff|77}}
+|-
+|CM ||'''11'''||{{flagicon|WAL}} [[Ryan Giggs]]
+|-
+|LM ||'''13'''||{{flagicon|KOR|1997}} [[Park Ji-sung]]
+|-
+|SS ||'''10'''||{{flagicon|ENG}} [[Wayne Rooney]]
+|-
+|CF ||'''14'''||{{flagicon|MEX}} [[Javier Hernández]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''29'''||{{flagicon|POL}} [[Tomasz Kuszczak]]
+|-
+|DF ||'''12'''||{{flagicon|ENG}} [[Chris Smalling]]
+|-
+|MF ||'''8''' ||{{flagicon|BRA}} [[Anderson (footballer, born 1988)|Anderson]]
+|-
+|MF ||'''17'''||{{flagicon|POR}} [[Nani (footballer)|Nani]] || || {{subon|69}}
+|-
+|MF ||'''18'''||{{flagicon|ENG}} [[Paul Scholes]] || || {{subon|77}}
+|-
+|MF ||'''24'''||{{flagicon|SCO}} [[Darren Fletcher]]
+|-
+|FW ||'''7''' ||{{flagicon|ENG}} [[Michael Owen]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SCO}} [[Alex Ferguson]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''UEFA Man of the Match:'''
+<br />[[Lionel Messi]] (Barcelona)<ref name="uefa_motm">{{cite news |first1=Simon |last1=Hart |first2=Álvaro |last2=Macho |title=Stellar Messi hails 'incredible' Barcelona |url=https://www.uefa.com/uefachampionsleague/news/0250-0c50f88b31f8-eb3a3f45b8a3-1000--stellar-messi-hails-incredible-barcelona/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=29 May 2011 |access-date=29 May 2011}}</ref>
+<br />'''Fans' Man of the Match:'''
+<br />[[Lionel Messi]] (Barcelona)<ref name="player_rater">{{cite web |title=Player Rater – Top Player – Lionel Messi |url=http://en.uclratings.uefa.com/Player/Profile/95803/2003352 |archive-url=https://web.archive.org/web/20110530232357/http://en.uclratings.uefa.com/Player/Profile/95803/2003352 |url-status=dead |archive-date=30 May 2011 |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=29 May 2011}}</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Gábor Erős ([[Hungarian Football Federation|Hungary]])
+<br />György Ring ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[István Vad]] ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="referee"/>
+<br />Mihály Fábián ([[Hungarian Football Federation|Hungary]])
+<br />[[Tamás Bognár]] ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="referee"/>
+<br />Robert Kispál ([[Hungarian Football Federation|Hungary]])
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team_statistics">{{cite web |title=Team statistics: Full time |url=https://www.uefa.com/newsfiles/UCL/2011/2003352_TS.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=28 May 2011 |access-date=29 May 2011 }}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|8
+|2
+|-
+!scope=row|Shots on target
+|3
+|1
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|67%
+|33%
+|-
+!scope=row|Corner kicks
+|1
+|0
+|-
+!scope=row|Fouls committed
+|2
+|5
+|-
+!scope=row|Offsides
+|0
+|4
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|11
+|2
+|-
+!scope=row|Shots on target
+|9
+|0
+|-
+!scope=row|Saves
+|0
+|6
+|-
+!scope=row|Ball possession
+|62%
+|38%
+|-
+!scope=row|Corner kicks
+|5
+|0
+|-
+!scope=row|Fouls committed
+|3
+|11
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|3
+|1
+|-
+!scope=row|Total shots
+|19
+|4
+|-
+!scope=row|Shots on target
+|12
+|1
+|-
+!scope=row|Saves
+|0
+|8
+|-
+!scope=row|Ball possession
+|63%
+|37%
+|-
+!scope=row|Corner kicks
+|6
+|0
+|-
+!scope=row|Fouls committed
+|5
+|16
+|-
+!scope=row|Offsides
+|1
+|5
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+===Trophy presentation and celebrations===
+[[File:2010 - UEFA Champions League Trophy.jpg|thumb|329x329px|The UEFA Champions League trophy in [[FC Barcelona Museum]].]]
+In a gesture by his teammates, [[Eric Abidal]], who had undergone surgery only two months earlier to remove a tumour in his liver, was given the honour of wearing the captain's armband during the trophy presentation ceremony. He was the first player to lift the trophy. Speaking afterwards, Abidal, who was in tears, appreciated the gesture, and spoke of how "special" his club was.<ref>{{cite news |title=Touching gesture follows Barca's victory |url=https://sports.yahoo.com/soccer/news?slug=ro-rogers_abidal_barcelona_champions_league_cancer_052811 |work=[[Yahoo! Sports]] |last=Rogers |first=Martin |date=28 May 2011 |access-date=29 May 2011}}</ref>
+
+Barcelona coach [[Pep Guardiola]] singled out Messi after the game, stating the Argentine was "the best player [he'd] ever seen" and that Messi "made the difference" in the game.<ref name="guardiola">{{cite news |title=Guardiola delighted with performance |url=http://soccernet.espn.go.com/news/story/_/id/924245/pep-guardiola-delighted-with-barca-performance?cc=5901 |publisher=[[ESPNsoccernet]] |date=28 May 2011 |access-date=29 May 2011 |archive-date=26 October 2012 |archive-url=https://web.archive.org/web/20121026105505/http://soccernet.espn.go.com/news/story/_/id/924245/pep-guardiola-delighted-with-barca-performance?cc=5901 |url-status=dead }}</ref> Meanwhile, Manchester United manager [[Alex Ferguson|Sir Alex Ferguson]] acknowledged that the Barcelona side was the best team he had ever faced.<ref name="best">{{cite news |title=Fergie: Barca the best I've faced |url=http://soccernet.espn.go.com/news/story/_/id/924246/sir-alex-ferguson%3A-barcelona-the-best-team-i%27ve-faced?cc=5901 |publisher=[[ESPNsoccernet]] |date=28 May 2011 |access-date=29 May 2011 |archive-date=31 May 2011 |archive-url=https://web.archive.org/web/20110531062541/http://soccernet.espn.go.com/news/story/_/id/924246/sir-alex-ferguson%3A-barcelona-the-best-team-i%27ve-faced?cc=5901 |url-status=dead }}</ref> His sentiments were echoed by United captain [[Nemanja Vidić]] and defender [[Rio Ferdinand]].<ref>{{cite news |title=Vidic: Barca were deserving winners |url=http://soccernet.espn.go.com/news/story/_/id/924224/nemanja-vidic:-barcelona-were-deserving-winners?cc=5901 |publisher=[[ESPNsoccernet]] |date=28 May 2011 |access-date=29 May 2011 |archive-date=26 October 2012 |archive-url=https://web.archive.org/web/20121026105538/http://soccernet.espn.go.com/news/story/_/id/924224/nemanja-vidic:-barcelona-were-deserving-winners?cc=5901 |url-status=dead }}</ref>
+
+[[Gerard Piqué]] cut the mesh from the net in front of the Barcelona fans where Barcelona had scored the two winning goals, and took it back to the club museum at the [[Camp Nou]]. The Barcelona players, coaches, and their families then formed a circle at centre field and danced. The sprinklers at Wembley came on at this time and the players and coaches celebrated under them.<ref>{{Cite news |last=Branch |first=John |date=2011-05-29 |title=Prized Possession for Barcelona: Champions League Title |url=https://www.nytimes.com/2011/05/29/sports/soccer/in-dominant-display-barcelona-wins-champions-league.html |url-access=subscription |access-date=2025-01-06 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+
+The match was the last for Manchester United goalkeeper [[Edwin van der Sar]], who had announced his retirement from football to follow the 2011 season.<ref>{{Cite news |last=Staff |date=2010-12-23 |title=Manchester United's Edwin van der Sar to retire after this season |url=https://www.theguardian.com/football/2010/dec/23/edwin-van-der-sar-retire-season |access-date=2025-01-06 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+==Broadcasting==
+The match was shown on [[ITV (TV network)|ITV]] and [[Sky Sports]] in the United Kingdom. Sky Sports partnered with UK-based outside broadcast facilities providers [[NEP Visions]] and Telegenic to produce host coverage of the match.<ref>{{Cite web |title=Champions League Final at Wembley {{!}} LIVE-PRODUCTION.TV |url=https://www.live-production.tv/news/4k-8k-arising/champions-league-final-wembley.html |access-date=2025-01-06 |website=www.live-production.tv}}</ref> In the United States, [[Fox Broadcasting Company|Fox]] aired the final for the second consecutive year.<ref>{{Cite web |last=Staff |first=Channel Guide |date=2011-05-17 |title=FOX Sports provides exclusive U.S. coverage of Champions League Final |url=https://www.channelguidemag.com/tv-news/2011/05/17/27928/ |access-date=2025-01-06 |website=Channel Guide Magazine |language=en-US}}</ref> In [[South America]], [[Rede Globo]] and [[Rede Bandeirantes]] broadcast the match for [[Brazil]].<ref>{{Cite web |date=2011-05-27 |title=Uefa and Europa League broadcast deals for Brazil |url=https://www.sportspro.com/news/uefa_and_europa_league_broadcast_deals_for_brazil/ |access-date=2025-01-06 |website=SportsPro |language=en-GB}}</ref> [[Sky Deutschland]] (Pay TV) and [[Sat. 1]] were broadcasting the match for [[Germany]], public broadcaster [[SF 2]] showed the final in [[Switzerland]], as well as, the public broadcaster [[ORF 1]] in [[Austria]].<ref>{{cite web |url=http://news.tv-sport.de/index.php/live-fc-barcelona-manchester-united-uefa-champions-league-das-finale-in-london-vorbericht-und-liveticker/ |title=Broadcasters from German spoken countries |trans-title=Sky Deutschland, Sat.1, SF 2 and ORF 1 are broadcasting UEFA's Champions League Final 2011 |date=21 May 2011 |language=de |publisher=TV-Sport.de |access-date=23 April 2012 |archive-date=25 August 2011 |archive-url=https://web.archive.org/web/20110825053145/http://news.tv-sport.de/index.php/live-fc-barcelona-manchester-united-uefa-champions-league-das-finale-in-london-vorbericht-und-liveticker/ |url-status=dead }}</ref>
+
+The match was broadcast live in 3D in the Trädgår'n club hall in [[Gothenburg]], Sweden on the ''[[Guinness World Records|Guinness Book of World Records]]''' largest television.<ref>{{cite web | url=http://www.ekta-led.com/news/itm/527/ | title=EKTA's Ukrainian produced 3D Led TV makes the Guinness World Record Book | publisher=ekta-led.com | access-date=21 July 2011| archive-url=https://web.archive.org/web/20111018191329/http://www.ekta-led.com/news/itm/527/ | archive-date=18 October 2011 | url-status=dead}}</ref><ref>{{cite web |url=http://www.viasat.se/content/press-och-nyhetsrum#/pressrelease/view/viasat-saetter-nytt-guinness-vaerldsrekord-i-3d-tv-657702 |title=Viasat sätter nytt Guinness världsrekord i 3D-TV |trans-title=Viasat sets a new Guinness world record for 3-D TV |date=1 July 2011 |language=sv |publisher=viasat.se |access-date=21 July 2011 |archive-url=https://web.archive.org/web/20110801005209/http://www.viasat.se/content/press-och-nyhetsrum#/pressrelease/view/viasat-saetter-nytt-guinness-vaerldsrekord-i-3d-tv-657702 |archive-date=1 August 2011 |url-status=dead }}</ref>
+
+==See also==
+*[[1991 European Cup Winners' Cup final]] – contested by same teams
+*[[2009 UEFA Champions League final]] – contested by same teams
+*[[2010–11 FC Barcelona season]]
+*[[2010–11 Manchester United F.C. season]]
+*[[2011 UEFA Europa League final]]
+*[[2011 UEFA Women's Champions League final]]
+*[[FC Barcelona in international football]]
+*[[Manchester United F.C. in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20110911145135/http://www.uefa.com/uefachampionsleague/season=2011/index.html 2010–11 UEFA Champions League], UEFA.com
+*{{Deprecated archive|url=https://archive.today/20130205193437/http://www.uefa.com/uefachampionsleague/season=2011/final/index.html|title=2011 UEFA Champions League Final|sec=el}}, UEFA.com
+
+{{UEFA Champions League seasons}}
+{{2010–11 in European football (UEFA)}}
+{{FC Barcelona matches}}
+{{Manchester United F.C. matches}}
+
+{{DEFAULTSORT:UEFA Champions League final}}
+[[Category:2010–11 UEFA Champions League|Final]]
+[[Category:UEFA Champions League finals|2011]]
+[[Category:FC Barcelona matches]]
+[[Category:Manchester United F.C. matches]]
+[[Category:2010–11 in Spanish men's football]]
+[[Category:2010–11 in English men's football]]
+[[Category:2011 in sport in London]]
+[[Category:Football matches in London]]
+[[Category:Men's football finals in England]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:May 2011 sports events in the United Kingdom]]
+[[Category:Spain–United Kingdom sports relations]]

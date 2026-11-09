@@ -1,0 +1,263 @@
+{{Short description|English association football match}}
+{{Use dmy dates|date=December 2021}}
+{{For|the women's event|2000 FA Women's Cup final}}
+{{Infobox football match
+|                   title = 2000 FA Cup final
+|                   image = 2000 FA Cup FInal programme.jpg
+|              image_size = 200
+|                 caption = Match programme cover
+|                   event = [[1999–2000 FA Cup]]
+|                   team1 = [[Chelsea F.C.|Chelsea]]
+|        team1association = 
+|              team1score = 1
+|                   team2 = [[Aston Villa F.C.|Aston Villa]]
+|        team2association = 
+|              team2score = 0
+|                 details = 
+|                    date = 20 May 2000
+|                 stadium = [[Wembley Stadium (1923)|Wembley Stadium]]
+|                    city = [[London]]
+|      man_of_the_match1a = [[Dennis Wise]]<ref name=report/> (Chelsea)
+| man_of_the_match1atitle = 
+|      man_of_the_match1b = 
+| man_of_the_match1btitle = 
+|                 referee = [[Graham Poll]]<ref name=Malam-report/> ([[Hertfordshire County Football Association|Hertfordshire]])
+|              attendance = 78,217<ref name=Malam-report>{{cite news|first=Colin |last=Malam |title=Chelsea 1 Aston Villa 0 |url=http://www.fa-cupfinals.co.uk/2000.htm |work=The Telegraph |date=21 May 2000 |access-date=10 May 2012 |url-status=dead |archive-url=https://web.archive.org/web/20071024025807/http://www.fa-cupfinals.co.uk/2000.htm |archive-date=24 October 2007 }}</ref>
+|                 weather = 
+|                previous = [[1999 FA Cup final|1999]]
+|                    next = [[2001 FA Cup final|2001]]
+}}
+
+The '''2000 FA Cup final''' was the 119th final of the [[FA Cup]], and the 72nd (excluding replays) and last to be played at the old [[Wembley Stadium (1923)|Wembley Stadium]]. It took place on 20 May 2000 and was contested between [[Chelsea F.C.|Chelsea]] and [[Aston Villa F.C.|Aston Villa]], the latter making its first FA Cup Final appearance since winning it in [[1957 FA Cup final|1957]].
+
+Chelsea won 1–0 to secure their second FA Cup in four years, and their third in all. The goal was scored midway through the second half by [[Roberto Di Matteo]], who had also scored in the [[1997 FA Cup final|1997 final]].
+
+Wembley Stadium closed five months later, and was subsequently [[Wembley Stadium|rebuilt]]. The FA Cup Final was played at the [[Millennium Stadium]], [[Cardiff]] for the next six years, before returning to Wembley in [[2007 FA Cup final|2007]] (Chelsea would also win that final as well).
+
+==Road to Wembley==
+{{col-begin}}
+{{col-2}}
+{| class="wikitable" style="font-size:95%;"
+|+ Chelsea
+|'''Third Round'''||align=right|[[Hull City A.F.C.|Hull City]]||1–6||Chelsea
+|-
+|'''Fourth Round'''||align=right|Chelsea||2–0||[[Nottingham Forest F.C.|Nottingham Forest]]
+|-
+|'''Fifth Round'''||align=right|Chelsea||2–1||[[Leicester City F.C.|Leicester City]]
+|-
+|'''Sixth Round'''||align=right|Chelsea||5–0||[[Gillingham F.C.|Gillingham]]
+|-
+|rowspan="2"|'''Semi-Final'''||align=right|[[Newcastle United F.C.|Newcastle United]]||1–2||Chelsea
+|-
+|colspan=4 align=center|(at [[Wembley Stadium (1923)|Wembley Stadium]])
+|}
+{{col-2}}
+{| class="wikitable" style="font-size:95%;"
+|+ Aston Villa
+|'''Third Round'''||align=right|Aston Villa||2–1||[[Darlington F.C.|Darlington]]
+|-
+|'''Fourth Round'''||align=right|Aston Villa||1–0||[[Southampton F.C.|Southampton]]
+|-
+|'''Fifth Round'''||align=right|Aston Villa||3–2||[[Leeds United A.F.C.|Leeds United]]
+|-
+|'''Sixth Round'''||align=right|[[Everton F.C.|Everton]]||1–2||Aston Villa
+|-
+|rowspan="2"|'''Semi-Final'''||align=right|[[Bolton Wanderers F.C.|Bolton Wanderers]]||0–0||Aston Villa
+|-
+|colspan=4 align=center|(at [[Wembley Stadium (1923)|Wembley Stadium]]) <br> Aston Villa won 4–1 on [[Penalty shootout (association football)|penalties]]
+|}
+{{col-end}}
+
+==Match==
+
+===Summary===
+Following a poor quality first half in which few chances were created, the match was brighter in the second, with Chelsea generally having the better of the play. [[George Weah]] missed several chances and [[Dennis Wise]] had a goal disallowed for [[Offside (association football)|offside]], while Villa's [[Gareth Southgate]] headed wide. On 73 [[minute]]s, [[Roberto Di Matteo]] scored what proved to be the winning goal, capitalising on an error from Villa [[Goalkeeper (association football)|goalkeeper]] [[David James (footballer, born 1970)|David James]] to put the ball in the net from close range. James came roaring off his line to deal with Zola's free-kick from the left, he fumbled the ball against Gareth Southgate's chest with Di Matteo blasting the rebound into the roof of the net. Villa could not get back in the match, their best chance falling to [[Benito Carbone]], but his tame shot did not test Ed de Goey in goal.
+
+===Details===
+{{football box
+|date=20 May 2000
+|time=15:00 [[Western European Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score=1–0
+|report=[https://news.bbc.co.uk/2/hi/sport/football/fa_cup/756784.stm Report]
+|team2=[[Aston Villa]]
+|goals1=[[Roberto Di Matteo|Di Matteo]] {{goal|73}}
+|goals2=
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=78,217<ref name=Malam-report/>
+|referee=[[Graham Poll]]<ref name=Malam-report/> ([[Hertfordshire County Football Association|Hertfordshire]]) }}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _chelsea9900h
+ | pattern_b  = _chelsea9900h
+ | pattern_ra = _chelsea9900h
+ | pattern_sh = _white_stripes
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Chelsea
+}}
+|{{Football kit
+ | pattern_la = _astonvilla9900h
+ | pattern_b  = _astonvilla9900h
+ | pattern_ra = _astonvilla9900h
+ | pattern_s  = _astonvilla9900h
+ | leftarm    = 970045
+ | body       = 970045
+ | rightarm   = 970045
+ | shorts     = 970045
+ | socks      = 970045
+ | title      = Aston Villa
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" 
+|colspan="4"|
+|-
+!width="25"| !!width="25"|  !!width="200"| !!
+|-
+|GK ||'''1'''||{{fbaicon|Netherlands}} [[Ed de Goey]]
+|-
+|RB ||'''15'''||{{fbaicon|Netherlands}} [[Mario Melchiot]] || {{yel|18}} 
+|-
+|CB ||'''6'''||{{fbaicon|France}} [[Marcel Desailly]]
+|-
+|CB ||'''5'''||{{fbaicon|France}} [[Frank Leboeuf]]
+|-
+|LB ||'''3'''||{{fbaicon|Nigeria}} [[Celestine Babayaro]]
+|-
+|DM ||'''7'''||{{fbaicon|France}} [[Didier Deschamps]]
+|-
+|CM ||'''16'''||{{fbaicon|Italy}} [[Roberto Di Matteo]]
+|-
+|CM ||'''11'''||{{fbaicon|England}} [[Dennis Wise]] ([[Captain (association football)|c]]) || {{yel|28}} 
+|-
+|AM ||'''8'''||{{fbaicon|Uruguay}} [[Gus Poyet]] || {{yel|90}}
+|-
+|CF ||'''25'''||{{fbaicon|Italy}} [[Gianfranco Zola]] || || {{suboff|89}}
+|-
+|CF ||'''31'''||{{fbaicon|Liberia}} [[George Weah]] || || {{suboff|88}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''23'''||{{fbaicon|Italy}} [[Carlo Cudicini]]
+|-
+|CB ||'''26'''||{{fbaicon|England}} [[John Terry]]
+|-
+|LB ||'''34'''||{{fbaicon|England}} [[Jon Harley]] 
+|-
+|CM ||'''20'''||{{fbaicon|England}} [[Jody Morris]] || || {{subon|89}}
+|-
+|CF ||'''19'''||{{fbaicon|Norway}} [[Tore André Flo]] || || {{subon|88}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{fbaicon|ITA}} [[Gianluca Vialli]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|  !!width="200"| !!
+|-
+|GK ||'''1'''||{{fbaicon|England}} [[David James (footballer, born 1970)|David James]]
+|-
+|DF ||'''24'''||{{fbaicon|Wales}} [[Mark Delaney (footballer)|Mark Delaney]]
+|-
+|DF ||'''5'''||{{fbaicon|England}} [[Ugo Ehiogu]]
+|-
+|DF ||'''4'''||{{fbaicon|England}} [[Gareth Southgate]] ([[Captain (association football)|c]])
+|-
+|DF ||'''15'''||{{fbaicon|England}} [[Gareth Barry]] || {{yel|16}}
+|-
+|DF ||'''3'''||{{fbaicon|England}} [[Alan Wright]] || || {{suboff|88}}
+|-
+|MF ||'''6''' ||{{fbaicon|Netherlands}} [[George Boateng]] || {{yel|90}}
+|-
+|MF ||'''10'''||{{fbaicon|England}} [[Paul Merson]]
+|-
+|MF ||'''7''' ||{{fbaicon|England}} [[Ian Taylor (footballer, born 1968)|Ian Taylor]] || || {{suboff|79}}
+|-
+|MF ||'''18'''||{{fbaicon|Italy}} [[Benito Carbone]] || || {{suboff|79}}
+|-
+|FW ||'''9''' ||{{fbaicon|England}} [[Dion Dublin]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''39'''||{{fbaicon|Finland}} [[Peter Enckelman]]
+|-
+|DF ||'''31'''||{{fbaicon|England}} [[Jlloyd Samuel]]
+|-
+|MF ||'''26'''||{{fbaicon|England}} [[Steve Stone (footballer)|Steve Stone]] || || {{subon|79}}
+|-
+|MF ||'''17'''||{{fbaicon|England}} [[Lee Hendrie]] || || {{subon|88}}
+|-
+|FW ||'''12'''||{{fbaicon|England}} [[Julian Joachim]] || || {{subon|79}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{fbaicon|England}} [[John Gregory (footballer)|John Gregory]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Man of the match'''
+*[[Dennis Wise]] (Chelsea)<ref name=report/>
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes.
+*30 minutes of extra-time if necessary.
+*Penalty shootout if scores still level.
+*Five named substitutes
+*Maximum of 3 substitutions.
+|}
+
+===Statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!width=100 |
+!width=70 | Chelsea
+!width=70 | Aston Villa
+|-
+|Goal attempts || 5 || 11
+|-
+|Corner kicks || 2 || 3
+|-
+|Fouls committed || 17 || 14
+|-
+|Offsides || 5 || 2
+|-
+|Yellow cards || 3 || 2
+|-
+|Red cards || 0 || 0
+|}
+'''Source:''' The People<ref name=report>{{cite news |first=Steve|last=Bates|title=VIALLI'S SO DI-LIGHTED; Chelsea 1 Aston Villa 0 |url=http://www.thefreelibrary.com/Football%3A+FA+Cup+Final+-+VIALLI'S+SO+DI-LIGHTED%3B+Chelsea+1+Aston...-a062229206 |work=The People |date=21 May 2000 |access-date=10 May 2012}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://news.bbc.co.uk/2/hi/uk_news/756778.stm BBC Match Report]
+*[https://web.archive.org/web/20080330081852/http://www.soccerbase.com/results3.sd?gameid=283617 Game facts] at soccerbase.com
+*[https://news.bbc.co.uk/2/hi/sport/football/fa_cup/756784.stm BBC FA Cup Final 2000 Section]
+
+{{FA Cup Finals}}
+{{1999–2000 in English football}}
+{{Aston Villa F.C. matches}}
+{{Chelsea F.C. matches}}
+
+{{DEFAULTSORT:Fa Cup Final 2000}}
+[[Category:FA Cup finals|2000]]
+[[Category:1999–2000 FA Cup|Final]]
+[[Category:Chelsea F.C. matches]]
+[[Category:Aston Villa F.C. matches]]
+[[Category:2000 in sport in London]]
+[[Category:Sports events at Wembley Stadium|2000 Fa Cup Final]]
+[[Category:May 2000 sports events in the United Kingdom]]
+[[Category:Football matches in London|2000]]

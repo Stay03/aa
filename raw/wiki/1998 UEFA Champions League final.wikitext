@@ -1,0 +1,397 @@
+{{Short description|Association football match}}
+{{Infobox football match
+| title              = 1998 UEFA Champions League final
+| image              = 1998 UEFA Champions League Final match programme.jpg
+| caption            = Match programme cover
+| event              = [[1997–98 UEFA Champions League]]
+| team1              = [[Juventus FC|Juventus]]
+| team1association   = {{fbaicon|ITA|size=30px}}
+| team1score         = 0
+| team2              = [[Real Madrid CF|Real Madrid]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 1
+| details            = 
+| date               = 20 May 1998
+| stadium            = [[Johan Cruyff Arena|Amsterdam Arena]]
+| city               = [[Amsterdam]]
+| man_of_the_match1a = 
+| referee            = [[Hellmut Krug]] ([[German Football Association|Germany]])
+| attendance         = 48,500<ref name="attendance"/>
+| weather            = Mostly cloudy<br />{{convert|16|°C|°F|abbr=on}}<br />63% [[humidity]]<ref>{{cite web |title=Amsterdam, Schiphol, North Holland, Netherlands Weather History |url=https://www.wunderground.com/history/daily/nl/schiphol/EHAM/date/1998-5-20 |work=Weather Underground |publisher=The Weather Channel |access-date=31 May 2025 }}</ref>
+| previous           = [[1997 UEFA Champions League final|1997]]
+| next               = [[1999 UEFA Champions League final|1999]]
+}}
+The '''1998 UEFA Champions League final''' was a [[Association football|football]] match that took place at the [[Johan Cruyff Arena|Amsterdam Arena]] in [[Amsterdam]], on 20 May 1998 to determine the winner of the [[1997–98 UEFA Champions League]]. It pitted [[Real Madrid CF|Real Madrid]] of Spain and [[Juventus FC|Juventus]] of Italy. Juventus appeared in their third consecutive final, while Real Madrid were in their first of the Champions League era. Real Madrid won 1–0, to clinch their record breaking seventh European title, their first title for 32 years. The only goal was scored by [[Predrag Mijatović]]. The two teams would face each other in the final again in [[2017 UEFA Champions League final|2017]].
+
+==Venue==
+[[File:Arena,_Ajax_stadion,_Amsterdam.JPG|thumb|left|The [[Johan Cruyff Arena|Amsterdam Arena]], host of the final.]]
+The Amsterdam Arena has served as the home stadium of [[AFC Ajax|Ajax]] since 1996. The previous home for Ajax's European matches, the [[Olympic Stadium (Amsterdam)|Olympisch Stadion]], also hosted European finals.
+
+One-legged finals include the [[1962 European Cup final]], in which Benfica defeated Real Madrid 5–3, and the [[1977 European Cup Winners' Cup Final]], in which [[R.S.C. Anderlecht|Anderlecht]] were beaten 2–0 by [[Hamburger SV]]. It also hosted the second legs of the [[1981 UEFA Cup Final]] between [[AZ Alkmaar|AZ '67]] and [[Ipswich Town F.C.|Ipswich Town]], and of the [[1992 UEFA Cup Final]] between Ajax and [[Torino F.C.|Torino]].<ref>{{cite web|title=Amsterdam's historic finals|url=http://www.uefa.com/uefaeuropaleague/season=2013/final/previousfinalsincity/index.html|url-status=dead|archive-url=https://web.archive.org/web/20130323012441/http://www.uefa.com/uefaeuropaleague/season=2013/final/previousfinalsincity/index.html|archive-date=23 March 2013|access-date=3 May 2013|work=[[UEFA]]|publisher=Union of European Football Associations}}</ref>
+{{clear|left}}
+
+==Route to the final==
+{{further|1997–98 UEFA Champions League}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+!Round
+!colspan=4|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[1997–98 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|NED}} [[Feyenoord]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Juventus v Feyenoord|5–1]] (H)
+| style="background:#c1e0ff"|Matchday 1
+|align=left|{{fbaicon|NOR}} [[Rosenborg BK|Rosenborg]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Real Madrid v Rosenborg|4–1]] (H)
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Manchester United v Juventus|2–3]] (A)
+| style="background:#c1e0ff;"|Matchday 2
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Porto v Real Madrid|2–0]] (A)
+|-
+|align=left|{{fbaicon|SVK}} [[FC VSS Košice|Košice]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Košice v Juventus|1–0]] (A)
+| style="background:#c1e0ff;"|Matchday 3
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Real Madrid v Olympiacos|5–1]] (H)
+|-
+|align=left|{{fbaicon|SVK}} [[FC VSS Košice|Košice]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Juventus v Košice|3–2]] (H)
+| style="background:#c1e0ff;"|Matchday 4
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Olympiacos v Real Madrid|0–0]] (A)
+|-
+|align=left|{{fbaicon|NED}} [[Feyenoord]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Feyenoord v Juventus|0–2]] (A)
+| style="background:#c1e0ff;"|Matchday 5
+|align=left|{{fbaicon|NOR}} [[Rosenborg BK|Rosenborg]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Rosenborg v Real Madrid|0–2]] (A)
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Juventus v Manchester United|1–0]] (H)
+| style="background:#c1e0ff;"|Matchday 6
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan=3|[[1997–98 UEFA Champions League group stage#Real Madrid v Porto|4–0]] (H)
+|-
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[1997–98 UEFA Champions League group stage#Group B|Group B]] runners-up'''
+{{:1997–98 UEFA Champions League group stage|transcludesection=Group B|only_pld_pts=yes|show_matches=n|showteam=JUV}}
+| style="background:#c1e0ff;"|Final standings
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[1997–98 UEFA Champions League group stage#Group D|Group D]] winner'''
+{{:1997–98 UEFA Champions League group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=n|showteam=RMA}}
+|- style="background:#c1e0ff;"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[1997–98 UEFA Champions League knockout stage|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|UKR|1992}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|5–2
+|[[1997–98 UEFA Champions League knockout stage#Juventus v Dynamo Kyiv|1–1]] (H)
+|[[1997–98 UEFA Champions League knockout stage#Dynamo Kyiv v Juventus|4–1]] (A)
+| style="background:#c1e0ff;"|Quarter-finals
+|align=left|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|4–1
+|[[1997–98 UEFA Champions League knockout stage#Bayer Leverkusen v Real Madrid|1–1]] (A)
+|[[1997–98 UEFA Champions League knockout stage#Real Madrid v Bayer Leverkusen|3–0]] (H)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[AS Monaco FC|Monaco]]
+|6–4
+|[[1997–98 UEFA Champions League knockout stage#Juventus v Monaco|4–1]] (H)
+|[[1997–98 UEFA Champions League knockout stage#Monaco v Juventus|2–3]] (A)
+| style="background:#c1e0ff;"|Semi-finals
+|align=left|{{fbaicon|GER}} [[Borussia Dortmund]]
+|2–0
+|[[1997–98 UEFA Champions League knockout stage#Real Madrid v Borussia Dortmund|2–0]] (H)
+|[[1997–98 UEFA Champions League knockout stage#Borussia Dortmund v Real Madrid|0–0]] (A)
+|}
+
+==Match==
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|1998|5|20|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Juventus FC|Juventus]] {{fbaicon|ITA}}
+|score      = 0–1
+|team2      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1     =
+|goals2     =
+*[[Predrag Mijatović|Mijatović]] {{goal|66}}
+|stadium    = [[Johan Cruyff Arena|Amsterdam Arena]], [[Amsterdam]]
+|attendance = 48,500<ref name="attendance">{{cite book |year=2017 |chapter=2. Finals |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/02/28/56/89/2285689_DOWNLOAD.pdf |title=UEFA Champions League Statistics Handbook 2016/17 |location=Nyon |publisher=Union of European Football Associations |page=1 |access-date=22 April 2017}}</ref>
+|referee    = [[Hellmut Krug]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/54859/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =_juve9798home
+ | pattern_b  =_juventus9798home
+ | pattern_ra =_juve9798home
+ | pattern_sh =
+ | pattern_so =_2_stripes_white
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Juventus
+}}
+|{{Football kit
+ | pattern_la =_realmadrid9798h
+ | pattern_b  =_realmadrid9798h
+ | pattern_ra =_realmadrid9798h
+ | pattern_sh =_realmadrid9798h
+ | pattern_so =
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Angelo Peruzzi]] ([[Captain (association football)|c]])
+|-
+|RB ||'''3''' ||{{flagicon|ITA}} [[Moreno Torricelli]]
+|-
+|CB ||'''13'''||{{flagicon|ITA}} [[Mark Iuliano]]
+|-
+|CB ||'''4''' ||{{flagicon|URU}} [[Paolo Montero]] || {{yel|79}}
+|-
+|LB ||'''22'''||{{flagicon|ITA}} [[Gianluca Pessotto]] || || {{suboff|70}}
+|-
+|RM ||'''7''' ||{{flagicon|ITA}} [[Angelo Di Livio]] || || {{suboff|46}}
+|-
+|CM ||'''14'''||{{flagicon|FRA|1974}} [[Didier Deschamps]] || || {{suboff|77}}
+|-
+|CM ||'''26'''||{{flagicon|NED}} [[Edgar Davids]] || {{yel|34}}
+|-
+|LM ||'''10'''||{{flagicon|ITA}} [[Alessandro Del Piero]]
+|-
+|AM ||'''21'''||{{flagicon|FRA|1974}} [[Zinedine Zidane]]
+|-
+|CF ||'''9''' ||{{flagicon|ITA}} [[Filippo Inzaghi]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA}} [[Michelangelo Rampulla]]
+|-
+|DF ||'''6''' ||{{flagicon|POR}} [[Dimas (footballer)|Dimas Teixeira]]
+|-
+|DF ||'''15'''||{{flagicon|ITA}} [[Alessandro Birindelli]]
+|-
+|MF ||'''8''' ||{{flagicon|ITA}} [[Antonio Conte]] || || {{subon|77}}
+|-
+|MF ||'''20'''||{{flagicon|ITA}} [[Alessio Tacchinardi]] || || {{subon|46}}
+|-
+|FW ||'''16'''||{{flagicon|ITA}} [[Nicola Amoruso]]
+|-
+|FW ||'''18'''||{{flagicon|URU}} [[Daniel Fonseca]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Marcello Lippi]]
+|}
+|valign="top"|[[File:Real Madrid vs Juventus 1998-05-20.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|GER}} [[Bodo Illgner]]
+|-
+|RB ||'''17'''||{{flagicon|ITA}} [[Christian Panucci]]
+|-
+|CB ||'''5''' ||{{flagicon|ESP}} [[Manolo Sanchís]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]] || {{yel|23}}
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Roberto Carlos]] || {{yel|37}}
+|-
+|DM ||'''27'''||{{flagicon|FRA|1974}} [[Christian Karembeu]] || {{yel|56}}
+|-
+|DM ||'''6''' ||{{flagicon|ARG|1861}} [[Fernando Redondo]]
+|-
+|CM ||'''10'''||{{flagicon|NED}} [[Clarence Seedorf]] || {{yel|90+4}}
+|-
+|AM ||'''15'''||{{flagicon|ESP}} [[Fernando Morientes]] || || {{suboff|81}}
+|-
+|AM ||'''8''' ||{{flagicon|FRY}} [[Predrag Mijatović]] || || {{suboff|89}}
+|-
+|CF ||'''7''' ||{{flagicon|ESP}} [[Raúl (footballer)|Raúl]] || || {{suboff|90}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Santiago Cañizares]]
+|-
+|DF ||'''19'''||{{flagicon|ESP}} [[Fernando Sanz]]
+|-
+|MF ||'''11'''||{{flagicon|ESP}} [[José Amavisca]] || || {{subon|90}}
+|-
+|MF ||'''16'''||{{flagicon|ESP}} [[Jaime Sánchez (footballer, born 1973)|Jaime Sánchez]] || || {{subon|81}}
+|-
+|MF ||'''18'''||{{flagicon|ESP}} [[Víctor Sánchez (footballer, born 1976)|Víctor Sánchez]]
+|-
+|MF ||'''20'''||{{flagicon|BRA}} [[Sávio (footballer, born 1974)|Sávio]]
+|-
+|FW ||'''9''' ||{{flagicon|CRO}} [[Davor Šuker]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Jupp Heynckes]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Thorsten Bastian ([[German Football Association|Germany]])
+<br />Christian Schräer ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Hans-Jürgen Weber]] ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Golden goal#Association football|golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes.
+*Maximum of three substitutes.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable" style="text-align: center"
+|-
+|+First half<ref name="statistics">{{cite web |url=http://www.ucl.uefa.org/ucl.98/match/index.asp?MatchCode=11JURM&Report=F |title=UEFA Champions League Final 1998 Full-Time Report |publisher=[[UEFA]] |date=20 May 1998 |access-date=2 January 2008 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303230315/http://www.ucl.uefa.org/ucl.98/match/index.asp?MatchCode=11JURM&Report=F |url-status=dead }}</ref>
+!width=100 | 
+!width=80 | Juventus
+!width=80 | Real Madrid
+|-
+|Goals scored || 0 || 0
+|-
+|Total shots || 3 || 6
+|-
+|Shots on target || 1 || 2
+|-
+|Ball possession ||  ||
+|-
+|Corner kicks || 1 || 2
+|-
+|Fouls committed || 13 || 10
+|-
+|Offsides || 1 || 0
+|-
+|Yellow cards || 1 || 2
+|-
+|Red cards || 0 || 0
+|}
+
+{{col-3}}
+{| class="wikitable" style="text-align: center"
+|-
+|+Second half<ref name="statistics"/>
+!width=100 | 
+!width=80 | Juventus
+!width=80 | Real Madrid
+|-
+|Goals scored || 0 || 1
+|-
+|Total shots || 6 || 2
+|-
+|Shots on target || 3 || 1
+|-
+|Ball possession ||  ||
+|-
+|Corner kicks || 2 || 1
+|-
+|Fouls committed || 16 || 12
+|-
+|Offsides || 2 || 1
+|-
+|Yellow cards || 1 || 2
+|-
+|Red cards || 0 || 0
+|}
+
+{{col-3}}
+{| class="wikitable" style="text-align: center"
+|-
+|+Overall<ref name="statistics"/>
+!width=100 | 
+!width=80 | Juventus
+!width=80 | Real Madrid
+|-
+|Goals scored || 0 || 1
+|-
+|Total shots || 9 || 8
+|-
+|Shots on target || 4 || 3
+|-
+|Ball possession || 49% || 51%
+|-
+|Corner kicks || 3 || 3
+|-
+|Fouls committed || 29 || 22
+|-
+|Offsides || 3 || 1
+|-
+|Yellow cards || 2 || 4
+|-
+|Red cards || 0 || 0
+|}
+{{col-end}}
+
+==See also==
+* [[1998 UEFA Cup Winners' Cup final]]
+* [[1998 UEFA Cup final]]
+*[[1997–98 Juventus FC season]] 
+*[[1997–98 Real Madrid CF season]]
+*[[2017 UEFA Champions League final]] – contested between same teams
+*[[Juventus FC in international football]]
+*[[Real Madrid CF in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110924071442/http://www.uefa.com/uefachampionsleague/season=1997/index.html 1997–98 season] at UEFA.com
+
+{{UEFA Champions League seasons}}
+{{1997–98 in European football (UEFA)}}
+{{Juventus F.C. matches}}
+{{Real Madrid matches}}
+
+[[Category:1997–98 UEFA Champions League|Final]]
+[[Category:Juventus FC matches|European Cup Final 1998]]
+[[Category:Real Madrid CF matches|European Cup Final 1998]]
+[[Category:Football competitions in Amsterdam|UEFA Champions League Final, 1998]]
+[[Category:UEFA Champions League finals|1998]]
+[[Category:Football matches in the Netherlands|European Cup Final 1998]]
+[[Category:1997–98 in Spanish football|Champions League Final]]
+[[Category:1990s in Amsterdam]]
+[[Category:May 1998 sports events in Europe]]
+[[Category:Italy–Spain sports relations|1998]]
+[[Category:1997–98 in Italian football]]
+[[Category:1997–98 in Dutch football]]

@@ -1,0 +1,614 @@
+{{Short description|Football match in Lisbon, Portugal}}
+{{Use dmy dates|date=May 2014}}
+{{Infobox football match
+| title                   = 2014 UEFA Champions League final
+| image                   = [[File:2014 UCL Final Visual Identity.jpg|250px]]
+| caption                 = Match programme cover
+| event                   = [[2013–14 UEFA Champions League]]
+| team1                   = [[Real Madrid CF|Real Madrid]]
+| team1association        = {{fbaicon|ESP|size=30px}}
+| team1score              = 4
+| team2                   = [[Atlético Madrid]]
+| team2association        = {{fbaicon|ESP|size=30px}}
+| team2score              = 1
+| details                 = After [[Overtime (sports)#Association football|extra time]]
+| date                    = 24 May 2014
+| stadium                 = [[Estádio da Luz]]
+| city                    = [[Lisbon]]
+| man_of_the_match1a      = [[Ángel Di María]] {{nowrap|(Real Madrid)}}<ref name="uefa_motm">{{cite news |first=Alfredo |last=Rodríguez |title=Madrid's Casillas pays tribute to 'kings of Europe' |url=https://www.uefa.com/uefachampionsleague/news/0250-0c510961dca2-ea69d78671e3-1000--madrid-s-casillas-pays-tribute-to-kings-of-europe/ |publisher=UEFA.com (Union of European Football Associations) |date=25 May 2014 |access-date=26 May 2014 }}</ref>
+| man_of_the_match1atitle = UEFA
+| man_of_the_match1b      = [[Sergio Ramos]] {{nowrap|(Real Madrid)}}<ref name="fans_motm">{{cite news |title=Madrid finally fulfil Décima dream |url=https://www.uefa.com/uefachampionsleague/news/0250-0c51093bd4a7-41ccc377a75c-1000--madrid-finally-fulfil-decima-dream/ |publisher=UEFA.com (Union of European Football Associations) |date=24 May 2014 |access-date=24 May 2014 }}</ref>
+| man_of_the_match1btitle = Fans'
+| referee                 = [[Björn Kuipers]] ([[Royal Netherlands Football Association|Netherlands]])
+| attendance              = 60,976<ref name="full-time report"/>
+| weather                 = Partly cloudy<br />{{convert|17|°C|°F}}<br />51% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2014/2011883_LU.pdf |title=Tactical Line-ups – Final – Saturday 24 May 2014 |website=UEFA.com|publisher=Union of European Football Associations |date=24 May 2014 |access-date=24 May 2014}}</ref>
+| previous                = [[2013 UEFA Champions League final|2013]]
+| next                    = [[2015 UEFA Champions League final|2015]]
+}}
+The '''2014 UEFA Champions League final''' was the final match of the [[2013–14 UEFA Champions League]], the 59th season of Europe's premier club [[association football|football]] tournament organised by [[UEFA]], and the 22nd season since it was renamed from the European Champion Clubs' Cup to the [[UEFA Champions League]].
+
+The match took place on Saturday, 24 May 2014, at the [[Estádio da Luz]] in [[Lisbon]], Portugal, between Spanish sides [[Real Madrid CF|Real Madrid]] and [[Atlético Madrid]]. It was the fifth tournament final to feature two teams from the same association, the second all-Spanish final and the first between teams from the same city. Real Madrid won the match 4–1 after extra time, a wonder 93rd-minute header by [[Sergio Ramos]], which cancelled out [[Diego Godín]]'s first-half goal saved Real Madrid CF from defeat. In extra time with goals from [[Gareth Bale]], [[Marcelo (footballer, born 1988)|Marcelo]] and [[Cristiano Ronaldo]] they won the Champions league. In doing so, Real Madrid secured a record 10th title (La Décima), 12 years after their ninth title.
+
+As the winners, Real Madrid earned the right to play against [[2013–14 UEFA Europa League]] winners [[Sevilla FC|Sevilla]] in the [[2014 UEFA Super Cup]]. They also qualified to enter the semi-finals of the [[2014 FIFA Club World Cup]] as the UEFA representative, ultimately triumphing in both competitions. The match is considered one of the greatest Champions League finals in history by the media.<ref>{{Cite web |date=8 June 2023|title=Every Champions League final, ranked from worst to best |url=https://www.goal.com/en/lists/ranked-every-champions-league-final-from-worst-to-best/14b424ryiryj21ptuaotpj1ha5 |access-date=1 November 2024|website=Goal.com}}</ref>
+
+==Venue==
+[[File:Estadio da Luz 2012.jpg|thumbnail|left|The [[Estádio da Luz]] hosted the European Cup/Champions League final for the first time.]]
+The [[Estádio da Luz]] (officially known as the Estádio do Sport Lisboa e Benfica) in [[Lisbon]], Portugal, was chosen as the venue of the 2014 UEFA Champions League final at a UEFA Executive Committee meeting in [[Istanbul]], Turkey, on 20 March 2012.<ref>{{cite web |url=https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=1766100.html |archive-url=https://web.archive.org/web/20200621175401/https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=1766100.html |url-status=dead |archive-date=21 June 2020 |title=UEFA Executive Committee agenda for Istanbul meeting |website=UEFA.com|publisher=Union of European Football Associations |date=9 March 2012|access-date=21 June 2020}}</ref><ref>{{cite web |title=Lisbon to stage 2014 UEFA Champions League final |url=https://www.uefa.com/uefachampionsleague/news/01fb-0e7d59a108bb-e85a09cb5276-1000--lisbon-to-stage-2014-uefa-champions-league-final/ |website=UEFA.com|publisher=Union of European Football Associations |date=20 March 2012|access-date=21 June 2020}}</ref>
+
+The home stadium of Portuguese Primeira Liga side [[S.L. Benfica|Benfica]] since 2003, it was newly built to host five matches of [[UEFA Euro 2004]], including the [[UEFA Euro 2004 final|final]]. Before the old stadium's demolition in 2003, to make way for the new 65,000-capacity ground, the [[Estádio da Luz (1954)|original Estádio da Luz]] hosted the [[1992 European Cup Winners' Cup final]], where [[SV Werder Bremen|Werder Bremen]] beat [[AS Monaco FC|Monaco]] 2–0, and the second leg of the [[1983 UEFA Cup final]], where [[R.S.C. Anderlecht|Anderlecht]] secured a 1–1 draw with Benfica to lift the trophy.<ref name="previous finals">{{cite web |title=Finals in Lisbon |url=http://www.uefa.com/uefachampionsleague/news/newsid=2086381.html |website=UEFA.com|publisher=Union of European Football Associations|date=1 April 2014|url-status=dead|archive-date=2 May 2014|archive-url=https://web.archive.org/web/20140502114613/http://www.uefa.com/uefachampionsleague/news/newsid=2086381.html}}</ref>
+
+The last time the European Cup final was played in Lisbon was in [[1967 European Cup final|1967]], when Scottish side [[Celtic F.C.|Celtic]] beat [[Inter Milan]] of Italy 2–1 at the [[Estádio Nacional]]. The Portuguese capital also hosted the [[2005 UEFA Cup final]] at the [[Estádio José Alvalade]], home of Benfica's local rivals and finalists [[Sporting CP]], who lost 3–1 to [[PFC CSKA Moscow|CSKA Moscow]].<ref name="previous finals"/>
+
+==Background==
+[[File:Carlo Ancelotti 2012-01-02 (1).jpg|thumb|[[Carlo Ancelotti]] was managing in his fourth Champions League final, having won two of three previous finals with [[A.C. Milan]].]]
+
+This was the first final in the history of the competition to be disputed by two teams from the same city. It was also the second all-Spanish final, after the [[2000 UEFA Champions League final|2000 final]] between Real Madrid and [[Valencia CF|Valencia]], and the fifth final between teams from the same country, the others being [[2003 UEFA Champions League final|2003]] (Italy), [[2008 UEFA Champions League final|2008]] (England), and [[2013 UEFA Champions League final|2013]] (Germany).<ref>{{cite web |title=One-nation UEFA Champions League finals |url=https://www.uefa.com/uefachampionsleague/news/025a-0ea7b0821ac4-d0cf21e6cd1f-1000--one-nation-uefa-champions-league-finals/ |website=UEFA.com|publisher=Union of European Football Associations|date=5 May 2014 }}</ref>
+
+[[File:Diego Simeone - 01.jpg|thumb|left|150px|[[Diego Simeone]] reached his first UEFA Champions League final as a manager with Atlético Madrid.]]
+
+[[Real Madrid CF|Real Madrid]] reached a record 13th final after a 5–0 aggregate win against defending champions [[FC Bayern Munich|Bayern Munich]], making it the first time the club had reached the final since they won their [[European Cup and UEFA Champions League records and statistics|record ninth title]] in 2002.<ref>{{cite web |url=https://www.bbc.com/sport/0/football/27193338 |title=Bayern Munich 0 Real Madrid 4 |date=29 April 2014 |work=BBC Sport |access-date=30 April 2014 }}</ref> Previously they won finals in [[1956 European Cup final|1956]], [[1957 European Cup final|1957]], [[1958 European Cup final|1958]], [[1959 European Cup final|1959]], [[1960 European Cup final|1960]], [[1966 European Cup final|1966]], [[1998 UEFA Champions League final|1998]], [[2000 UEFA Champions League final|2000]], and [[2002 UEFA Champions League final|2002]], and lost in [[1962 European Cup final|1962]], [[1964 European Cup final|1964]], and [[1981 European Cup final|1981]].<ref>{{cite web |title=Madrid's European Cup finals |url=https://www.uefa.com/uefachampionsleague/news/0250-0c51077e88f5-16d1b98c88fc-1000--madrid-s-european-cup-finals/ |website=UEFA.com|publisher=Union of European Football Associations|date=29 April 2014 }}</ref> This was also their 17th final in all UEFA club competitions, having also played in two [[UEFA Cup Winners' Cup|Cup Winners' Cup]] finals (losing in [[1971 European Cup Winners' Cup final|1971]] and [[1983 European Cup Winners' Cup final|1983]]) and two [[UEFA Europa League|UEFA Cup]] finals (winning in [[1985 UEFA Cup final|1985]] and [[1986 UEFA Cup final|1986]]).<ref>{{cite web |url=http://theworldgame.sbs.com.au/news/1188038/ucl-fast-facts:-bayern-munich-v-real-madrid |title=UCL fast facts: Bayern Munich v Real Madrid |publisher=SBS |date=30 April 2014 |access-date=1 May 2014 |archive-url=https://web.archive.org/web/20140502033018/http://theworldgame.sbs.com.au/news/1188038/ucl-fast-facts:-bayern-munich-v-real-madrid |archive-date=2 May 2014 |url-status=dead }}</ref> It was the fourth Champions League final for their current coach [[Carlo Ancelotti]], who previously coached [[A.C. Milan]] to victories in [[2003 UEFA Champions League final|2003]] and [[2007 UEFA Champions League final|2007]] and defeat in [[2005 UEFA Champions League final|2005]], equalling the [[European Cup and UEFA Champions League records and statistics#Managers|record]] shared by [[Miguel Muñoz]], [[Marcello Lippi]] and [[Alex Ferguson]].<ref>{{cite web|url=http://www.realmadrid.com/en/news/2014/04/fourth-champions-league-final-for-ancelotti?pid=1383833298379|title=Fourth Champions League final for Ancelotti|publisher=Real Madrid|date=30 April 2014}}</ref> He joined [[Bob Paisley]] as the [[List of European Cup and UEFA Champions League winning managers#Managers with multiple titles|only manager to have won three titles]],<ref>{{cite web |title=UEFA Champions League final facts and figures |url=https://www.uefa.com/uefachampionsleague/news/025a-0ea7bd148aee-d58743bef67d-1000--uefa-champions-league-final-facts-and-figures/ |website=UEFA.com|publisher=Union of European Football Associations|date=7 May 2014 }}</ref><ref>{{cite web |title=Paisley's European Cup legacy |url=https://www.uefa.com/uefachampionsleague/news/022a-0e93411c2afb-540d557c72f0-1000--paisley-s-european-cup-legacy-at-liverpool/ |website=UEFA.com|publisher=Union of European Football Associations|date=19 May 2014 }}</ref> and also became the fifth manager to win titles with two clubs, after [[Ernst Happel]], [[Ottmar Hitzfeld]], [[José Mourinho]] and [[Jupp Heynckes]].<ref name="stats">{{cite web |title=Semi-finals: second-leg stats and facts |url=https://www.uefa.com/uefachampionsleague/news/025a-0ea7bd148aed-4abc40b97c9a-1000--semi-finals-second-leg-stats-and-facts/ |publisher=Union of European Football Associations|date=1 May 2014 }}</ref>
+
+[[Atlético Madrid]], who a week earlier had won their first [[La Liga]] title since 1996, reached their second European Cup final, 40 years after their first, after defeating 2012 champions [[Chelsea F.C.|Chelsea]] 3–1 on aggregate.<ref>{{cite news|title=Chelsea 1 Atlético Madrid 3|url=https://www.bbc.com/sport/0/football/27210847|work=BBC Sport|access-date=30 April 2014}}</ref> This was the longest wait between finals, eclipsing the 38-year wait by [[Inter Milan]] (1972–2010).<ref>{{cite web|url=http://theworldgame.sbs.com.au/news/1188101/UCL-fast-facts-Chelsea-v-Atletico-Madrid|title=UCL fast facts: Chelsea v Atletico Madrid|publisher=[[SBS (Australian TV channel)|SBS]]|date=1 May 2014|access-date=1 May 2014|archive-url=https://web.archive.org/web/20140502040538/http://theworldgame.sbs.com.au/news/1188101/UCL-fast-facts-Chelsea-v-Atletico-Madrid|archive-date=2 May 2014|url-status=dead}}</ref> Atlético Madrid's only previous European Cup final in [[1974 European Cup final|1974]] ended in defeat to [[FC Bayern Munich|Bayern Munich]] after a replay.<ref>{{cite web |title=Atlético's previous European Cup final |url=https://www.uefa.com/uefachampionsleague/news/0214-0e8a74357a25-77cb5215264f-1000--atletico-s-previous-european-cup-final/ |website=UEFA.com|publisher=Union of European Football Associations|date=30 April 2014 }}</ref> Atlético Madrid have also played in three [[UEFA Cup Winners' Cup|Cup Winners' Cup]] finals (winning in [[1962 European Cup Winners' Cup final|1962]], and losing in [[1963 European Cup Winners' Cup final|1963]] and [[1986 European Cup Winners' Cup final|1986]]) and two [[UEFA Europa League|Europa League]] finals (winning in [[2010 UEFA Europa League final|2010]] and [[2012 UEFA Europa League final|2012]]), with their most recent Europa League triumph in 2012 led by current coach [[Diego Simeone]]. He had the chance to join fellow Argentinians [[Luis Carniglia]] and [[Helenio Herrera]] as the [[List of European Cup and UEFA Champions League winning managers#By nationality|only non-European coaches]] to win the European Cup/Champions League.<ref>{{cite web |title=Simeone aims to join Argentina's winners |url=https://www.uefa.com/uefachampionsleague/news/025a-0ea7ba676fcb-1a43ba482937-1000--simeone-aims-to-join-argentina-s-winners/ |website=UEFA.com|publisher=Union of European Football Associations|date=12 May 2014 }}</ref> Had they won the final, they would have become the first Spanish club and the fifth club overall to [[UEFA club competition records and statistics#List of teams to have won the main European club competitions|have won all three pre-1999 major European trophies]] ([[UEFA Champions League|European Cup/Champions League]], UEFA Cup/Europa League and the now-defunct Cup Winners' Cup).
+
+The only previous [[Madrid derby]] matches in European competitions were in the [[1958–59 European Cup]] semi-finals, where Real Madrid defeated Atlético Madrid 2–1 in a replay, after a 2–2 aggregate draw.<ref>{{cite web |title=Fancy meeting you here: Europe's local derbies |url=https://www.uefa.com/uefasupercup/news/0250-0c511a17f2c9-cd9f64053242-1000--fancy-meeting-you-here-local-derbies-in-europe/ |website=UEFA.com|publisher=Union of European Football Associations|date=30 April 2014 }}</ref> In the 2013–14 season, Atlético Madrid defeated Real Madrid 1–0 away and drew 2–2 at home in [[2013–14 La Liga|La Liga]], while Real Madrid eliminated Atlético Madrid in the [[2013–14 Copa del Rey|Copa del Rey]] semi-finals, winning 3–0 at home and 2–0 away.<ref>{{cite web |title=Match Press Kit |url=http://www.uefa.org/mediaservices/presskits/uefachampionsleague/season=2014/round=2000483/day=13/session=1/match=2011883/index.html |publisher=UEFA.org (Union of European Football Associations) |date=24 May 2014 |access-date=26 May 2014 }}</ref>
+
+==Route to the final==
+{{further|2013–14 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]<ref>{{cite web |title=Road to the final: Madrid |url=https://www.uefa.com/uefachampionsleague/news/025a-0ea7afff94fb-bde8be084a86-1000--road-to-the-final-madrid/ |publisher=UEFA.com (Union of European Football Associations) |date=13 May 2014 }}</ref>
+!Round
+!colspan=4|{{fbaicon|ESP}} [[Atlético Madrid]]<ref>{{cite web |title=Road to the final: Atlético |url=https://www.uefa.com/uefachampionsleague/news/025a-0ea7afff94fb-5a8c7dd10719-1000--road-to-the-final-atletico/ |publisher=UEFA.com (Union of European Football Associations) |date=12 May 2014 }}</ref>
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[2013–14 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Galatasaray v Real Madrid|6–1]] (A)
+|style="background:#c1e0ff"|Matchday 1
+|align=left|{{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Atlético Madrid v Zenit Saint Petersburg|3–1]] (H)
+|-
+|align=left|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Real Madrid v Copenhagen|4–0]] (H)
+|style="background:#c1e0ff"|Matchday 2
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Porto v Atlético Madrid|2–1]] (A)
+|-
+|align=left|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Real Madrid v Juventus|2–1]] (H)
+|style="background:#c1e0ff"|Matchday 3
+|align=left|{{fbaicon|AUT}} [[FK Austria Wien|Austria Wien]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Austria Wien v Atlético Madrid|3–0]] (A)
+|-
+|align=left|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Juventus v Real Madrid|2–2]] (A)
+|style="background:#c1e0ff"|Matchday 4
+|align=left|{{fbaicon|AUT}} [[FK Austria Wien|Austria Wien]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Atlético Madrid v Austria Wien|4–0]] (H)
+|-
+|align=left|{{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Real Madrid v Galatasaray|4–1]] (H)
+|style="background:#c1e0ff"|Matchday 5
+|align=left|{{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Zenit Saint Petersburg v Atlético Madrid|1–1]] (A)
+|-
+|align=left|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Copenhagen v Real Madrid|2–0]] (A)
+|style="background:#c1e0ff"|Matchday 6
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Atlético Madrid v Porto|2–0]] (H)
+|-
+|colspan=4 valign=top|'''[[2013–14 UEFA Champions League group stage#Group B|Group B]] winners'''
+{{:2013–14 UEFA Champions League group stage|transcludesection=Group B|only_pld_pts=yes|show_matches=no|showteam=RMA}}
+|style="background:#c1e0ff"|Final standings
+|colspan=4 valign=top|'''[[2013–14 UEFA Champions League group stage#Group G|Group G]] winners'''
+{{:2013–14 UEFA Champions League group stage|transcludesection=Group G|only_pld_pts=yes|show_matches=no|showteam=ATM}}
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2013–14 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|9–2
+|[[2013–14 UEFA Champions League knockout phase#Schalke 04 v Real Madrid|6–1]] (A)
+|[[2013–14 UEFA Champions League knockout phase#Real Madrid v Schalke 04|3–1]] (H)
+|style="background:#c1e0ff"|Round of 16
+|align=left|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|5–1
+|[[2013–14 UEFA Champions League knockout phase#Milan v Atlético Madrid|1–0]] (A)
+|[[2013–14 UEFA Champions League knockout phase#Atlético Madrid v Milan|4–1]] (H)
+|-
+|align=left|{{fbaicon|GER}} [[Borussia Dortmund]]
+|3–2
+|[[2013–14 UEFA Champions League knockout phase#Real Madrid v Borussia Dortmund|3–0]] (H)
+|[[2013–14 UEFA Champions League knockout phase#Borussia Dortmund v Real Madrid|0–2]] (A)
+|style="background:#c1e0ff"|Quarter-finals
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|2–1
+|[[2013–14 UEFA Champions League knockout phase#Barcelona v Atlético Madrid|1–1]] (A)
+|[[2013–14 UEFA Champions League knockout phase#Atlético Madrid v Barcelona|1–0]] (H)
+|-
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|5–0
+|[[2013–14 UEFA Champions League knockout phase#Real Madrid v Bayern Munich|1–0]] (H)
+|[[2013–14 UEFA Champions League knockout phase#Bayern Munich v Real Madrid|4–0]] (A)
+|style="background:#c1e0ff"|Semi-finals
+|align=left|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|3–1
+|[[2013–14 UEFA Champions League knockout phase#Atlético Madrid v Chelsea|0–0]] (H)
+|[[2013–14 UEFA Champions League knockout phase#Chelsea v Atlético Madrid|3–1]] (A)
+|}
+
+==Pre-match==
+===Ambassador===
+[[File:Luís Figo arriving at IKA Tehran Airport.jpg|thumbnail|upright|[[Luís Figo]], ambassador of the 2014 UEFA Champions League final]]
+
+Former Portugal international player [[Luís Figo]], who won the Champions League with [[Real Madrid CF|Real Madrid]] in 2002, was named as the ambassador for the final.<ref>{{cite web |title=Figo embarks on ambassadorial role |url=https://www.uefa.com/uefachampionsleague/news/0253-0d0408001718-99d1eacd8ea8-1000--figo-embarks-on-ambassadorial-role/ |publisher=UEFA.com (Union of European Football Associations) |date=29 August 2013 }}</ref>
+
+===Logo===
+UEFA unveiled the visual identity of the final on 29 August 2013, the same day as the group stage draw. The design concept was inspired by elements from the [[Portuguese discoveries]], namely the [[armillary sphere]] and the [[Compass rose|windrose]], which were important instruments used by Portuguese sea explorers to measure the position of stars.<ref>{{cite web |title=Lisbon visual identity unveiled |url=https://www.uefa.com/uefachampionsleague/news/0253-0d0407a273b0-7cb9ad24c48a-1000--lisbon-visual-identity-unveiled/ |publisher=UEFA.com (Union of European Football Associations) |date=29 August 2013 }}</ref>
+
+===Ticketing===
+The international ticket sales phase for the general public ran from 10 to 21 March 2014. Tickets were available in four price categories: [[Euro|€]]390, €280, €160, and €70.<ref>{{cite web |title=Lisbon final tickets go on international sale |url=https://www.uefa.com/uefachampionsleague/news/0213-0ea1488fd4c6-ab7cceeb3a8c-1000--lisbon-final-tickets-go-on-international-sale/ |publisher=UEFA.com (Union of European Football Associations) |date=10 March 2014 }}</ref>
+
+The two finalist clubs were each allocated 16,970 tickets by UEFA. Atlético made 14,000 tickets available to club members, with a limit of one ticket per member.<ref>{{cite web|title=Reparto de entradas para la final de la UEFA Champions League|url=http://clubatleticodemadrid.com/noticias/reparto-de-entradas-para-la-final-de-la-uefa-champions-league|publisher=Club Atlético de Madrid|access-date=25 May 2014|language=es|date=3 May 2014}}</ref> Real Madrid received 24,103 requests from 73,314 club members for a total of 13,134 tickets; due to the high demand, the tickets were awarded by means of a draw.<ref>{{cite web|title=Real Madrid has held its draw for Champions League final tickets|url=http://www.realmadrid.com/en/news/2014/05/real-madrid-has-held-its-draw-for-champions-league-final-tickets|publisher=Real Madrid|access-date=25 May 2014|date=6 May 2014}}</ref>
+
+===Officials===
+[[File:Björn Kuipers - ConfedCup2013Champions15 (cropped).jpg|thumb|160px|UEFA announced [[Björn Kuipers]] as the referee for the final on 7 May.]]
+
+Dutch referee [[Björn Kuipers]] was named by UEFA on 7 May 2014 as the referee for the final.<ref>{{cite web |title=Kuipers handed UEFA Champions League final |url=https://www.uefa.com/uefachampionsleague/news/0215-0e1586300403-450fd1c05a3d-1000--kuipers-handed-uefa-champions-league-final/ |publisher=UEFA.com (Union of European Football Associations) |date=7 May 2014 }}</ref> He has previously taken charge of the [[2011 UEFA Super Cup]], the [[2013 UEFA Europa League final]], and the [[2013 FIFA Confederations Cup final]]. He became the fourth Dutch referee in a European Cup/Champions League final, after [[Leo Horn]] (1957, 1962), [[Charles Corver]] (1978), and [[Dick Jol]] (2001). The rest of the refereeing team are fellow countrymen Sander van Roekel and Erwin Zeinstra as assistant referees, [[Pol van Boekel]] and Richard Liesveld as additional assistant referees, Angelo Boonman as reserve assistant referee, and Turkey's [[Cüneyt Çakır]] as the fourth official.
+
+===Related events===
+The UEFA Champions League and UEFA Women's Champions League trophies were handed over to the host city of Lisbon at a ceremony held at the City Hall, on 17 April 2014. The Mayor of Lisbon [[António Costa]] received the silverware from the hands of UEFA President [[Michel Platini]], who justified the decision to stage the 2014 UEFA Champions League showpiece match in Lisbon with the fact that it had "been too long since the final had been in Portugal" and for "the passion and love of football the Portuguese have."<ref name="trophies handover">{{cite web|last=Crompton|first=Sam|title=Lisbon receives Champions League trophies|url=https://www.uefa.com/uefachampionsleague/news/0214-0e180a2b86e7-e11601882176-1000--lisbon-receives-champions-league-trophies/|publisher=UEFA.com (Union of European Football Associations)|access-date=27 May 2014|date=17 April 2014}}</ref> The title holders of both competitions were represented at the event by Bayern Munich chairman [[Karl-Heinz Rummenigge]] and midfielder [[Xherdan Shaqiri]], and [[VfL Wolfsburg (women)|Wolfsburg]] defender Lina Magull. Also in attendance were [[Portuguese Football Federation]] (FPF) President Fernando Gomes and final ambassador Luís Figo. Upon their arrival to Lisbon and before the ceremony, the trophies were paraded by old tram through the city in the hands of trophy tour ambassadors [[Vítor Baía]], former Portuguese international and [[FC Porto|Porto]] goalkeeper, and Mónica Jorge, former coach of the women's national team.<ref name="trophies handover"/>
+
+The annual UEFA Champions Festival took place from 22 to 25 May 2014 at [[Praça do Comércio]] in the city centre.<ref>{{cite web |title=Champions Festival opens in Lisbon on 22 May |url=https://www.uefa.com/uefachampionsleague/news/0214-0e157b2b1b35-9248130637f4-1000--champions-festival-opens-in-lisbon-on-22-may/ |publisher=UEFA.com (Union of European Football Associations) |date=15 April 2014 |access-date=27 May 2014}}</ref><ref>{{cite web|title=Schedule announced for UEFA Champions Festival|url=https://www.uefa.com/uefachampionsleague/news/0215-0e8adb8a8b6e-e04b22f0f783-1000--schedule-announced-for-uefa-champions-festival/|publisher=UEFA.com (Union of European Football Associations)|access-date=27 May 2014|date=16 May 2014}}</ref><ref>{{cite web|last=Pimentel|first=José Nuno|title=Gallery, museum openings begin Lisbon 'festivities'|url=https://www.uefa.com/uefachampionsleague/news/025a-0ea7b1120586-cbd9f24f4d11-1000--gallery-museum-openings-begin-lisbon-festivities/|publisher=UEFA.com (Union of European Football Associations)|access-date=27 May 2014|date=6 May 2014}}</ref>
+
+The [[2014 UEFA Women's Champions League final]] was held on 22 May 2014 at [[Estádio do Restelo]],<ref>{{cite web |title=Estádio do Restelo stages Lisbon final |url=https://www.uefa.com/womenschampionsleague/news/020f-0e146c06f43a-acb054f4f1ad-1000--estadio-do-restelo-stages-lisbon-final/ |publisher=UEFA.com (Union of European Football Associations) |date=8 November 2013 |access-date=27 May 2014}}</ref> featuring Swedish side [[Tyresö FF|Tyresö]] and defending champions [[VfL Wolfsburg (women)|Wolfsburg]]. Losing 2–0 at half-time, Wolfsburg made a comeback to win the match 4–3. [[Martina Müller (footballer)|Martina Müller]], who scored the winner in the [[2013 UEFA Women's Champions League final|previous final]], repeated the feat to secure the German team's second consecutive title.<ref>{{cite web|last=Saffer|first=Paul|title=Müller the hero again as Wolfsburg win classic final|url=https://www.uefa.com/womenschampionsleague/news/0215-0e15e0212966-4d5823ff01ad-1000--muller-the-hero-again-as-wolfsburg-win-classic-final/|publisher=UEFA.com (Union of European Football Associations)|access-date=27 May 2014|date=22 May 2014}}</ref>
+
+===Opening ceremony===
+[[File:Final Champions League 2014 Lesboa.jpg|thumb|Opening ceremony]]
+The ceremony preceding the kick-off was organised by Canadian company Circo de Bakuza, with artistic direction by London-based choreographer Wanda Rokicki.<ref name="Global News">{{cite web|last=Lau|first=Rachel|title=A look at the Montreal company behind the Champions League opening ceremony|url=http://globalnews.ca/news/1352559/a-look-at-the-montreal-company-behind-the-champions-league-opening-ceremony/|publisher=[[Global News]]|access-date=26 May 2014|date=25 May 2014}}</ref> She was responsible for the artistic segments of large international sporting events, such as the [[2004 Summer Olympics]], the [[2010 FIFA World Cup]], and the [[2002 Commonwealth Games|2002]] and [[2006 Commonwealth Games]].<ref name="Publico">{{cite web|last=Ribeiro|first=João|title=A "versão artística" de Portugal vai entrar em campo na Luz|trans-title=The 'artistical version' of Portugal will come onto the pitch at the Estádio da Luz|url=http://www.publico.pt/desporto/noticia/a-versao-artistica-de-portugal-vai-estar-em-campo-na-luz-1632524|publisher=[[Público (Portugal)|Público]]|access-date=26 May 2014|language=pt|date=17 April 2014}}</ref>
+Conceived "to honor Portuguese tradition, including naval history or the art of tiling",<ref name="Publico"/> the show required six months of preparation and involved a total of 400 volunteers, 90 singers and 84 large-sized banners.<ref name="Global News"/>
+The [[UEFA Champions League anthem]] was interpreted by Portuguese [[fado]] singer [[Mariza]].<ref>{{cite web|last=Pietra|first=Hugo|title=Mariza brings fado to Lisbon final|url=https://www.uefa.com/uefachampionsleague/news/025a-0ea7adbc2fde-e5eb4c4c6af7-1000--mariza-brings-fado-to-lisbon-final/|publisher=UEFA.com (Union of European Football Associations)|access-date=26 May 2014|date=24 May 2014}}</ref>
+
+==Match==
+
+===Team selection===
+The only player suspended from the final was Real Madrid's [[Xabi Alonso]], who picked up his third booking of the competition in the second leg of the semi-final.<ref>{{cite web|url=http://www.caughtoffside.com/2014/05/01/real-madrids-xabi-alonso-and-the-21-other-players-to-miss-the-champions-league-final-via-suspension/|title=Real Madrid's Xabi Alonso And The 21 Other Players To Miss The Champions League Final Via Suspension|publisher=caughtoffside.com|date=1 May 2014}}</ref> In his place, Carlo Ancelotti selected German midfielder [[Sami Khedira]], who himself had only recently returned from injury. [[Pepe (footballer, born 1983)|Pepe]] was also left out of the starting XI, with 21-year-old French centre-back [[Raphaël Varane]] playing instead. Real Madrid's front three of [[Cristiano Ronaldo]], [[Gareth Bale]] and [[Karim Benzema]] were originally doubtful for the match, but all three overcame injuries to start the match.<ref>{{cite news |title=Real Madrid's Cristiano Ronaldo and Gareth Bale fit for Champions League final |url=http://www1.skysports.com/football/news/11835/9318851/real-madrids-cristiano-ronaldo-and-gareth-bale-fit-for-champions-league-final |publisher=Sky Sports (BSkyB) |date=21 May 2014 |access-date=25 May 2014 }}</ref>
+
+Atlético captain [[Gabi (footballer, born 1983)|Gabi]] returned from a one-match European suspension, while striker [[Diego Costa]] was included in the starting line-up, having undergone horse placenta treatment for a hamstring injury suffered in the last league match the previous Saturday.<ref>{{cite news |first=Dermot |last=Corrigan |title=Costa 'using horse placenta treatment' |url=http://www.espnfc.com/news/story/_/id/1828590/atletico-madrid-striker-diego-costa-using-horse-placenta-bid-make-champions-league-final-reports?cc=5739 |work=ESPN FC |publisher=ESPN Internet Ventures |date=22 May 2014 |access-date=25 May 2014 }}</ref> However, despite initial optimism, key player [[Arda Turan]] did not recover in time after suffering an injury in the same game.<ref>{{cite news |title=La Liga: Atletico Madrid worried by Diego Costa, Arda Turan injuries |url=http://www1.skysports.com/FIFA-World-Cup-2014/news/12024/9315964/la-liga-atletico-madrid-worried-by-diego-costa-arda-turan-injuries |publisher=Sky Sports (BSkyB) |date=18 May 2014 |access-date=25 May 2014 }}</ref>
+
+===Kits===
+Atlético Madrid wore shirts with the name of their former player and manager [[Luis Aragonés]] inside the collar following his death in February 2014, with the symbolism approved by UEFA President [[Michel Platini]].<ref>{{cite news |first=Luis |last=Aznar |title=El Atlético llevará el nombre de Luis Aragones en las camisetas de la final |trans-title=Atlético will wear the name of Luis Aragonés in their shirts for the final |url=http://www.marca.com/2014/05/22/futbol/champions_league/final-champions/1400768288.html |newspaper=[[Marca (newspaper)|Marca]] |date=22 May 2014 |access-date=22 May 2014 }}</ref><ref>{{cite web |title=Atlético's Gabi going all out to honour Aragonés |url=https://www.uefa.com/uefachampionsleague/news/025a-0ea7adbc2fdd-7aa0437e6449-1000--atletico-s-gabi-going-all-out-to-honour-aragones/ |publisher=UEFA.com (Union of European Football Associations) |date=23 May 2014 }}</ref> Both teams wore their home kits for the final, as they do in domestic meetings.<ref>{{cite web |title=Atlético to wear home kit for final |url=https://www.uefa.com/uefachampionsleague/news/0253-0d7f36dad6ce-fb4d6d6c33d5-1000--atletico-to-wear-home-kit-for-final/ |publisher=UEFA.com (Union of European Football Associations) |date=23 May 2014 }}</ref>
+
+===Summary===
+[[File:Final Champions League 2014 Real Madrid - Atlético de Madrid (14081181609).jpg|thumb|Real Madrid celebrating the victory]]
+Within eight minutes, Atlético striker Diego Costa was forced to come off because of his previous injury. [[Gareth Bale]] had Real's best chance just after the half-hour mark and it was only a few minutes later when Atlético punished this miss.<ref name="BBC">{{cite news|title=Real Madrid 4 Atlético Madrid 1|url=https://www.bbc.com/sport/0/football/27383593|access-date=25 May 2014|newspaper=BBC Sport}}</ref> When Atlético received a corner, it was routinely cleared by the Real Madrid defence, but only as far as the head of [[Juanfran (footballer, born 1985)|Juanfran]], who headed the ball back into the penalty area and onto the head of [[Diego Godín]], who caught [[Iker Casillas]] off his line with a looping header to make it 1–0 to Atlético on 36 minutes.<ref name="ESPN FC">{{cite news|title=Real finally secure La Decima|url=http://www.espnfc.com/us/en/report/392450/report.html?soccernet=true&cc=5901|access-date=25 May 2014|newspaper=ESPN FC}}</ref>
+
+The second half saw Real pushing forward as they went in search of an equaliser to deny Atlético's first Champions League title, with manager [[Carlo Ancelotti]] making a double substitution to replace [[Fábio Coentrão]] and Khedira with [[Marcelo (footballer, born 1988)|Marcelo]] and [[Isco]]. Atlético defended with all players and Real missed several chances.<ref name=Yahoo>{{cite news|title=Real Madrid beats Atletico 4–1 in Champions League|url=https://news.yahoo.com/real-madrid-beats-atletico-4-1-champions-league-212736751.html|access-date=25 May 2014|newspaper=Yahoo Sport}}</ref> Atletico's defence was finally breached in the third minute of stoppage time, after the regulation 90 minutes, by a pinpoint [[Sergio Ramos]] header into the left of the net from [[Luka Modrić]]'s corner from the right.<ref name="ESPN FC" /> The match went on to extra time with no substitutions left for either team.
+
+Real Madrid became even more dominant in extra time, which proved decisive after [[Ángel Di María]]'s run on the left flank saw him dribble past three Atlético defenders and shoot at goal. [[Thibaut Courtois]] attempted to block the Argentine's shot but only managed to deflect the ball to Bale, who headed the rebound in from two yards out to put Real ahead for the first time, in the 110th minute.<ref name="BBC" /> Real then added two late goals to the scoreline. [[Cristiano Ronaldo]] squared the ball to Marcelo, who scored with his left foot from inside the penalty area in the 118th minute. At the end of extra time, Ronaldo was fouled by Gabi for a penalty,<ref name="BBC"/> which he converted into the left corner of the net for a record 17th goal in the tournament. Ronaldo became one of the few players to score and assist in a Champions League final. During the celebration for Ronaldo's goal, Varane kicked the ball towards Atlético manager [[Diego Simeone]], who then ran onto the pitch in anger. Simeone was sent off and Varane booked for the incident.<ref name="BBC"/>
+
+This was the seventh UEFA Champions League final (not including the finals up to 1992, when it was known as the European Champion Clubs' Cup) to go into extra time and the first to be solved during this period, without the need for a [[Penalty shoot-out (association football)|penalty shoot-out]]. It was also the second highest-scoring final in the tournament's history as the Champions League, after the 3–3 draw between Milan and [[Liverpool F.C.|Liverpool]] in [[2005 UEFA Champions League final|2005]], and provided the second biggest winning margin, behind Milan's 4–0 win over [[FC Barcelona|Barcelona]] in [[1994 UEFA Champions League final|1994]].<ref name="facts and figures">{{cite web |first=Mike |last=Hammond |title=UEFA Champions League final facts and figures |url=https://www.uefa.com/uefachampionsleague/news/0250-0c510961ce15-2f139c4da8cc-1000--uefa-champions-league-final-facts-and-figures/ |publisher=UEFA.com (Union of European Football Associations) |date=25 May 2014 |access-date=25 May 2014 }}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2014|5|24|df=y}}
+|time       = {{CEST|20:45|localtz=WEST}}<!--20:45 CEST, 19:45 WEST-->
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 4–1
+|aet        = yes
+|team2      = {{fbaicon|ESP}} [[Atlético Madrid]]
+|goals1     =
+*[[Sergio Ramos|Ramos]] {{goal|90+3}}
+*[[Gareth Bale|Bale]] {{goal|110}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|118}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|120|pen.}}
+|goals2     =
+*[[Diego Godín|Godín]] {{goal|36}}
+|stadium    = [[Estádio da Luz]], [[Lisbon]]
+|attendance = 60,976<ref name="full-time report">{{cite web |title=Full-time report |url=https://www.uefa.com/newsfiles/UCL/2014/2011883_FR.pdf |publisher=UEFA.com (Union of European Football Associations) |date=24 May 2014 |access-date=24 May 2014 }}</ref>
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2011883/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _rmcf1314h
+ |pattern_b  = _rmcf1314home
+ |pattern_ra = _rmcf1314h
+ |pattern_sh = _rmcf1314h
+ |pattern_so = _rmcf1314h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000099
+ |socks      = FFFFFF
+ |title      = {{nowrap|Real Madrid}}<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _am1314h
+ |pattern_b  = _am1314home
+ |pattern_ra = _am1314h
+ |pattern_sh = _am1314h
+ |pattern_so = _am1314h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 0000FF
+ |socks      = FF0000
+ |title      = {{nowrap|Atlético Madrid}}<ref name="lineups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||{{flagicon|ESP}} [[Dani Carvajal]]
+|-
+|CB ||'''2''' ||{{flagicon|FRA|1974}} [[Raphaël Varane]] || {{yel|120+3}}
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Sergio Ramos]] || {{yel|27}}
+|-
+|LB ||'''5''' ||{{flagicon|POR}} [[Fábio Coentrão]] || || {{suboff|59}}
+|-
+|RM ||'''19'''||{{flagicon|CRO}} [[Luka Modrić]]
+|-
+|CM ||'''6''' ||{{flagicon|GER}} [[Sami Khedira]] || {{yel|45+1}} || {{suboff|59}}
+|-
+|LM ||'''22'''||{{flagicon|ARG}} [[Ángel Di María]]
+|-
+|RF ||'''11'''||{{flagicon|WAL}} [[Gareth Bale]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Karim Benzema]] || || {{suboff|79}}
+|-
+|LF ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]] || {{yel|120+1}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Diego López (footballer, born 3 November 1981)|Diego López]]
+|-
+|DF ||'''3''' ||{{flagicon|POR}} [[Pepe (footballer, born 1983)|Pepe]]
+|-
+|DF ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]] || {{yel|118}} || {{subon|59}}
+|-
+|DF ||'''17'''||{{flagicon|ESP}} [[Álvaro Arbeloa]]
+|-
+|MF ||'''23'''||{{flagicon|ESP}} [[Isco]] || || {{subon|59}}
+|-
+|MF ||'''24'''||{{flagicon|ESP}} [[Asier Illarramendi]]
+|-
+|FW ||'''21'''||{{flagicon|ESP}} [[Álvaro Morata]] || || {{subon|79}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Carlo Ancelotti]]
+|}
+|valign="top"|[[File:Real Madrid vs Atlético Madrid 2014-05-24.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|BEL}} [[Thibaut Courtois]]
+|-
+|RB ||'''20'''||{{flagicon|ESP}} [[Juanfran (footballer, born 1985)|Juanfran]] || {{yel|74}}
+|-
+|CB ||'''23'''||{{flagicon|BRA}} [[Miranda (footballer, born 1984)|Miranda]] || {{yel|53}}
+|-
+|CB ||'''2''' ||{{flagicon|URU}} [[Diego Godín]] || {{yel|120}}
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Filipe Luís]] || || {{suboff|83}}
+|-
+|RM ||'''8''' ||{{flagicon|ESP}} [[Raúl García (footballer, born 1986)|Raúl García]] || {{yel|27}} || {{suboff|66}}
+|-
+|CM ||'''5''' ||{{flagicon|POR}} [[Tiago Mendes|Tiago]]
+|-
+|CM ||'''14'''||{{flagicon|ESP}} [[Gabi (footballer, born 1983)|Gabi]] ([[Captain (association football)|c]]) || {{yel|100}}
+|-
+|LM ||'''6''' ||{{flagicon|ESP}} [[Koke (footballer, born 1992)|Koke]] || {{yel|86}}
+|-
+|CF ||'''19'''||{{flagicon|ESP}} [[Diego Costa]] || || {{suboff|9}}
+|-
+|CF ||'''9''' ||{{flagicon|ESP}} [[David Villa]] || {{yel|72}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Dani Aranzubia]]
+|-
+|DF ||'''12'''||{{flagicon|BEL}} [[Toby Alderweireld]] || || {{subon|83}}
+|-
+|MF ||'''4''' ||{{flagicon|ESP}} [[Mario Suárez (footballer)|Mario Suárez]]
+|-
+|MF ||'''11'''||{{flagicon|URU}} [[Cristian Rodríguez]]
+|-
+|MF ||'''24'''||{{flagicon|ARG}} [[José Sosa]] || || {{subon|66}}
+|-
+|MF ||'''26'''||{{flagicon|BRA}} [[Diego (footballer, born 1985)|Diego]]
+|-
+|FW ||'''7''' ||{{flagicon|ESP}} [[Adrián López|Adrián]] || || {{subon|9}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Diego Simeone]]{{refn|group=note|Simeone was expelled by the referee in the 120+3rd minute.}}
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|
+'''UEFA Man of the Match:'''
+<br />[[Ángel Di María]] (Real Madrid)<ref name="uefa_motm"/>
+<br />'''Fans' Man of the Match:'''
+<br />[[Sergio Ramos]] (Real Madrid)<ref name="fans_motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''
+<br />[[Pol van Boekel]] ([[Royal Dutch Football Association|Netherlands]])
+<br />Richard Liesveld ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Angelo Boonman ([[Royal Dutch Football Association|Netherlands]])
+|style="width:60%; vertical-align:top"|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Champions League 2013/14 |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/94/62/34/1946234_DOWNLOAD.pdf |archive-url=https://web.archive.org/web/20130514120721/http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/94/62/34/1946234_DOWNLOAD.pdf |url-status=dead |archive-date=14 May 2013 |publisher=UEFA |location=Nyon |date=March 2013 |access-date=1 May 2013 }}</ref>
+*90 minutes
+*30 minutes of [[Extra time (association football)|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes, of which three may be used
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |title=Team statistics |url=https://www.uefa.com/newsfiles/UCL/2014/2011883_TS.pdf |publisher=UEFA.com (Union of European Football Associations) |date=24 May 2014 |access-date=24 May 2014 }}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|3
+|4
+|-
+!scope=row|Shots on target
+|2
+|2
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|57%
+|43%
+|-
+!scope=row|Corner kicks
+|2
+|3
+|-
+!scope=row|Fouls committed
+|8
+|10
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|10
+|3
+|-
+!scope=row|Shots on target
+|3
+|2
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|5
+|5
+|-
+!scope=row|Fouls committed
+|6
+|11
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|0
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|3
+|0
+|-
+!scope=row|Total shots
+|8
+|3
+|-
+!scope=row|Shots on target
+|7
+|2
+|-
+!scope=row|Saves
+|2
+|3
+|-
+!scope=row|Ball possession
+|65%
+|35%
+|-
+!scope=row|Corner kicks
+|2
+|1
+|-
+!scope=row|Fouls committed
+|5
+|6
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|4
+|1
+|-
+!scope=row|Total shots
+|21
+|10
+|-
+!scope=row|Shots on target
+|12
+|6
+|-
+!scope=row|Saves
+|3
+|6
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|9
+|9
+|-
+!scope=row|Fouls committed
+|19
+|27
+|-
+!scope=row|Offsides
+|0
+|4
+|-
+!scope=row|Yellow cards
+|5
+|7
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2016 UEFA Champions League final]] – contested by same teams 
+*[[2018 UEFA Super Cup]] – contested by same teams
+*[[2014 UEFA Europa League final]]
+*[[2013–14 Atlético Madrid season]]
+*[[2013–14 Real Madrid CF season]]
+*[[Atlético Madrid in European football]]
+*[[Real Madrid CF in international football]]
+*[[Spanish football clubs in international competitions]]
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[https://web.archive.org/web/20130608180904/http://www.uefa.com/uefachampionsleague/season=2014/index.html 2013–14 UEFA Champions League]
+*[https://web.archive.org/web/20130624052740/http://www.uefa.com/uefachampionsleague/season=2014/final/index.html 2014 final: Lisbon]
+
+{{UEFA Champions League seasons}}
+{{2013–14 in European football (UEFA)}}
+{{Real Madrid CF matches}}
+{{Atlético Madrid matches}}
+
+{{DEFAULTSORT:Uefa Champions League final 2014}}
+[[Category:UEFA Champions League finals|2014]]
+[[Category:2013–14 UEFA Champions League|Final]]
+[[Category:2013–14 in Portuguese football]]
+[[Category:Football matches in Lisbon]]
+[[Category:Real Madrid CF matches|European Cup Final 2014]]
+[[Category:Atlético Madrid matches|European Cup Final 2014]]
+[[Category:2013–14 in Spanish men's football]]
+[[Category:2010s in Lisbon]]
+[[Category:May 2014 sports events in Portugal]]
+[[Category:Madrid derby matches]]
+[[Category:Spanish football clubs in international competitions]]

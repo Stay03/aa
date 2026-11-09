@@ -1,0 +1,251 @@
+{{Use dmy dates|date=August 2021}}
+{{Infobox football match
+|              title = 2010 FIFA Club World Cup final
+|              image = 
+|              event = [[2010 FIFA Club World Cup]]
+|              team1 = [[TP Mazembe]]
+|   team1association = {{fbaicon|COD|size=30px}}
+|         team1score = 0
+|              team2 = [[Inter Milan|Internazionale]]
+|   team2association = {{fbaicon|ITA|size=30px}}
+|         team2score = 3
+|            details = 
+|               date = 18 December 2010
+|            stadium = [[Zayed Sports City Stadium|Zayed Sports City]]
+|               city = [[Abu Dhabi]]<ref name="match_report"/>
+|            referee = [[Yuichi Nishimura]] ([[Japan Football Association|Japan]])<ref name="match_report"/>
+|         attendance = 42,174<ref name="match_report"/>
+|            weather = Clear night<br />{{convert|21|°C|°F}}<br />68% [[humidity]]
+|           previous = [[2009 FIFA Club World Cup final|2009]]
+|               next = [[2011 FIFA Club World Cup final|2011]]
+}}
+The '''2010 FIFA Club World Cup final''' was the final match of the [[2010 FIFA Club World Cup]], an [[association football]] tournament for the champion clubs from each of [[FIFA]]'s six continental confederations. The match took place at the [[Zayed Sports City Stadium|Sheikh Zayed Stadium]], [[Abu Dhabi]], on 18 December 2010, and pitted [[TP Mazembe]] of the Democratic Republic of the Congo, the [[Confederation of African Football|CAF]] club champions, against [[Inter Milan|Internazionale]] of Italy, the [[UEFA]] club champions. It was the first time that a club from outside [[UEFA|Europe]] or [[CONMEBOL|South America]] was involved in contesting the final.
+
+Inter won the final 3–0 over TP Mazembe. [[Goran Pandev]] and [[Samuel Eto'o]] scored two goals in the first half before [[Jonathan Biabiany]] scored the third goal in the 85th minute to secure the first title for Inter Milan.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/matches/round=254488/match=300140542/summary.html|archive-url=https://web.archive.org/web/20101222013234/http://www.fifa.com/clubworldcup/matches/round=254488/match=300140542/summary.html|url-status=dead|archive-date=22 December 2010|title=Internazionale on top of the world |date=18 December 2010|work=FIFA|access-date=18 December 2010}}</ref><ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/9301760.stm|title=TP Mazembe 0–3 Inter Milan|date=18 December 2010|publisher=BBC Sport|access-date=18 December 2010| archive-url= https://web.archive.org/web/20101219045842/http://news.bbc.co.uk/sport2/hi/football/9301760.stm| archive-date=19 December 2010 <!--DASHBot-->| url-status= live}}</ref><ref>{{cite web|url=http://soccernet.espn.go.com/report?id=309865&cc=5739 |title=TP Mazembe 0 – 3 Internazionale |date=18 December 2010 |work=ESPN Soccernet |access-date=18 December 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101222001421/http://soccernet.espn.go.com/report?id=309865&cc=5739 |archive-date=22 December 2010 }}</ref>
+
+==Road to final==
+{| class="wikitable"
+|-
+!width=300|{{fbaicon|COD}} [[TP Mazembe]]
+!Team
+!width=300|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|-
+|align=center|[[Confederation of African Football|CAF]]
+!Confederation
+|align=center|[[UEFA]]
+|-
+|align=center|Winner of the [[2010 CAF Champions League]]
+!Qualification
+|align=center|Winner of the [[2009–10 UEFA Champions League]]
+|-
+|align=center|Bye
+![[2010 FIFA Club World Cup#Play-off for Quarter-finals|Play-off round]]
+|align=center|Bye
+|-
+|align=center|'''1–0''' {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]<br />([[Mbenza Bedi|Bedi]] {{goal|21}})
+![[2010 FIFA Club World Cup#Quarter-finals|Quarter-finals]]
+|align=center|Bye
+|-
+|align=center|'''2–0''' {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]<br />([[Patou Kabangu|Kabangu]] {{goal|53}}, [[Dioko Kaluyituka|Kaluyituka]] {{goal|85}})
+![[2010 FIFA Club World Cup#Semi-finals|Semi-finals]]
+|align=center|'''3–0''' {{fbaicon|KOR|1997}} [[Seongnam Ilhwa Chunma]]<br />([[Dejan Stanković|Stanković]] {{goal|3}}, [[Javier Zanetti|Zanetti]] {{goal|32}}, [[Diego Milito|Milito]] {{goal|73}})
+|}
+
+==Match==
+
+===Details===
+{{football box
+|date=18 December 2010
+|time=21:00 [[UTC+04:00|UTC+4]]
+|team1=[[TP Mazembe]] {{fbaicon|COD}}
+|score= 0–3
+|report=https://www.fifa.com/clubworldcup/matches/round=254488/match=300140542/report.html
+|team2={{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|goals1=
+|goals2=[[Goran Pandev|Pandev]] {{goal|13}}<br />[[Samuel Eto'o|Eto'o]] {{goal|17}}<br />[[Jonathan Biabiany|Biabiany]] {{goal|85}}
+|stadium=[[Zayed Sports City Stadium|Zayed Sports City]], [[Abu Dhabi]]
+|attendance=42,174<ref name="match_report"/>
+|referee=[[Yuichi Nishimura]] ([[Japan Football Association|Japan]])<ref name="match_report">{{cite web |title=Match Report |url=https://www.fifa.com/mm/document/tournament/competition/01/35/39/48/08_1218_tpm-fci_fulltime.pdf |archive-url=https://web.archive.org/web/20131024161946/http://www.fifa.com/mm/document/tournament/competition/01/35/39/48/08%5f1218%5ftpm-fci%5ffulltime.pdf |url-status=dead |archive-date=24 October 2013 |work=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=28 May 2012 }}</ref> 
+}}
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la  = _partizan1011h
+ | pattern_b   = _partizan1011h
+ | pattern_ra  = _partizan1011h
+ | pattern_sh  = _cesena1011a
+ | pattern_so  = _color_3_stripes_black
+ | leftarm     = FFFFFF
+ | body        = FFFFFF
+ | rightarm    = FFFFFF
+ | shorts      = FFFFFF
+ | socks       = FFFFFF
+ | title       = TP Mazembe
+}}
+|{{Football kit
+ | pattern_la  = _inter1011h
+ | pattern_b   = _inter1011h
+ | pattern_ra  = _inter1011h
+ | pattern_sh  = _inter1011h
+ | pattern_so  = _hoops_black
+ | leftarm     = 0000FF
+ | body        = 000000
+ | rightarm    = 0000FF
+ | shorts      = 000000
+ | socks       = 0061BD
+ | title       = Internazionale
+}}
+|}
+
+{| width=100%
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|COD}} [[Robert Kidiaba]]
+|-
+|RB ||'''4''' ||{{flagicon|COD}} [[Eric Nkulukuta]]
+|-
+|CB ||'''13'''||{{flagicon|COD}} [[Mbenza Bedi]] || {{yel|43}}
+|-
+|CB ||'''20'''||{{flagicon|COD}} [[Mihayo Kazembe]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||{{flagicon|COD}} [[Jean Kasusula]] || {{yel|84}}
+|-
+|CM ||'''2''' ||{{flagicon|COD}} [[Joël Kimwaki]]
+|-
+|CM ||'''24'''||{{flagicon|CMR}} [[Narcisse Ekanga]] || {{yel|33}}
+|-
+|RW ||'''11'''||{{flagicon|COD}} [[Patou Kabangu]]
+|-
+|AM ||'''10'''||{{flagicon|ZAM}} [[Given Singuluma]]
+|-
+|LW ||'''27'''||{{flagicon|COD}} [[Ngandu Kasongo]] || || {{suboff|46}}
+|-
+|CF ||'''15'''||{{flagicon|COD}} [[Dioko Kaluyituka]] || {{yel|12}} || {{suboff|90}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''6''' ||{{flagicon|COD}} [[Déo Kanda]] || || {{subon|46}}
+|-
+|MF ||'''8''' ||{{flagicon|COD}} [[Hervé Ndonga]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SEN}} [[Lamine N'Diaye]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|CB ||'''2''' ||{{flagicon|COL}} [[Iván Córdoba]]
+|-
+|CB ||'''6''' ||{{flagicon|BRA}} [[Lúcio]]
+|-
+|CB ||'''26'''||{{flagicon|ROU}} [[Cristian Chivu]] || || {{suboff|54}}
+|-
+|RM ||'''13'''||{{flagicon|BRA}} [[Maicon (footballer, born 1981)|Maicon]]
+|-
+|CM ||'''19'''||{{flagicon|ARG}} [[Esteban Cambiasso]]
+|-
+|CM ||'''8''' ||{{flagicon|BRA}} [[Thiago Motta]] || {{yel|79}} || {{suboff|87}}
+|-
+|LM ||'''4''' ||{{flagicon|ARG}} [[Javier Zanetti]] ([[Captain (association football)|c]])
+|-
+|AM ||'''27'''||{{flagicon|MKD}} [[Goran Pandev]]
+|-
+|CF ||'''22'''||{{flagicon|ARG}} [[Diego Milito]] || || {{suboff|70}}
+|-
+|CF ||'''9''' ||{{flagicon|CMR}} [[Samuel Eto'o]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||{{flagicon|SRB}} [[Dejan Stanković]] || || {{subon|54}}
+|-
+|FW ||'''88'''||{{flagicon|FRA|1974}} [[Jonathan Biabiany]] || || {{subon|70}}
+|-
+|MF ||'''17'''||{{flagicon|KEN}} [[McDonald Mariga]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Rafael Benítez]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />Toru Sagara ([[Japan Football Association|Japan]])<ref name="match_report"/>
+<br />Toshiyuki Nagi ([[Japan Football Association|Japan]])<ref name="match_report"/>
+<br />'''Fourth official:'''
+<br />Victor Carrillo ([[Peruvian Football Federation|Peru]])<ref name="match_report"/>
+<br />'''Reserve assistant referee:'''
+<br />Jorge Yupanqui ([[Peruvian Football Federation|Peru]])<ref name="match_report"/>
+| width=55% valign=top|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra time if necessary
+*Penalty shoot-out if scores still level
+*Twelve named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{| class="wikitable" style="text-align: center"
+|+Overall<ref name="stats">{{cite web|title=Match Statistics |url=https://www.fifa.com/tournaments/archive/clubworldcup/uae2010/results/match=300140542/statistics.html |access-date=28 May 2012 |publisher=FIFA |archive-url=https://web.archive.org/web/20120518010203/http://www.fifa.com/tournaments/archive/clubworldcup/uae2010/results/match%3D300140542/statistics.html |archive-date=18 May 2012 |url-status=dead }}</ref> 
+|-
+!width=100 |  
+!width=70 | TP Mazembe
+!width=70 | Internazionale
+|-
+|Goals scored || 0 || 3
+|-
+|Total shots || 16 || 9
+|-
+|Shots on target || 5 || 6
+|-
+|Ball possession || 44% || 56%
+|-
+|Corner kicks || 4 || 5
+|-
+|Fouls committed || 21 || 9
+|-
+|Offsides || 4 || 1
+|-
+|Yellow cards || 4 || 1
+|-
+|Red cards || 0 || 0
+|}
+
+==See also==
+*[[Inter Milan in European football]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.fifa.com/tournaments/mens/clubworldcup/uae2010/match-center FIFA Club World Cup UAE 2010], FIFA.com
+
+{{FIFA Club World Cup}}
+{{TP Mazembe matches}}
+{{Inter Milan matches}}
+
+{{DEFAULTSORT:FIFA Club World Cup Final 2010}}
+[[Category:2010 in African men's football|World]]
+[[Category:2010 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2010]]
+[[Category:TP Mazembe matches]]
+[[Category:Inter Milan matches]]
+[[Category:2010–11 in Italian football|World]]
+[[Category:Football in Abu Dhabi]]
+[[Category:2010s in sport in Abu Dhabi]]
+[[Category:2010–11 in Emirati football]]
+[[Category:Football matches in the United Arab Emirates]]
+[[Category:December 2010 sports events in Asia]]
+[[Category:Democratic Republic of the Congo–Italy relations|2010]]

@@ -1,0 +1,1615 @@
+[
+ {
+  "article": "1998 UEFA Super Cup",
+  "fb_date": "28 August 1998",
+  "team1": "Real Madrid",
+  "team2": "Chelsea",
+  "score_raw": "0–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Poyet",
+    "minute": "83",
+    "note": ""
+   }
+  ],
+  "stadium": "Stade Louis II, Monaco",
+  "attendance": "11,589",
+  "referee": "Marc Batta (France)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefasupercup/match/round=1223/match=55653/",
+  "manager1": "Guus Hiddink",
+  "cards1": [
+   {
+    "player": "Christian Karembeu",
+    "type": "Y",
+    "minute": "52"
+   },
+   {
+    "player": "Fernando Morientes",
+    "type": "Y",
+    "minute": "86"
+   }
+  ],
+  "manager2": "Gianluca Vialli",
+  "cards2": [
+   {
+    "player": "Albert Ferrer",
+    "type": "Y",
+    "minute": "7"
+   },
+   {
+    "player": "Celestine Babayaro",
+    "type": "Y",
+    "minute": "32"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Pierre Ufrasi (France); Jacques Mas (France)",
+   "Fourth official": "Pascal Garibian (France) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "0",
+    "1"
+   ],
+   "Yellow cards": [
+    "2",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "UEFA Super Cup"
+ },
+ {
+  "article": "1999 UEFA Super Cup",
+  "fb_date": "27 August 1999",
+  "team1": "Manchester United",
+  "team2": "Lazio",
+  "score_raw": "0–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Salas",
+    "minute": "35",
+    "note": ""
+   }
+  ],
+  "stadium": "Stade Louis II, Monaco",
+  "attendance": "14,461",
+  "referee": "Ryszard Wójcik (Poland)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefasupercup/match/<!--round=1292/match=-->56891/",
+  "manager1": "Sir Alex Ferguson",
+  "cards1": [],
+  "manager2": "Sven-Göran Eriksson",
+  "cards2": [],
+  "officials": {
+   "Assistant referees": "Jacek Pocięgiel (Poland); Eugeniusz Koczar (Poland)",
+   "Fourth official": "Tomasz Mikulski (Poland) |style"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "UEFA Super Cup"
+ },
+ {
+  "article": "2001 UEFA Super Cup",
+  "fb_date": "24 August 2001",
+  "team1": "Bayern Munich",
+  "team2": "Liverpool",
+  "score_raw": "2–3",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Salihamidžić",
+    "minute": "57",
+    "note": ""
+   },
+   {
+    "player": "Jancker",
+    "minute": "82",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Riise",
+    "minute": "23",
+    "note": ""
+   },
+   {
+    "player": "Heskey",
+    "minute": "45",
+    "note": ""
+   },
+   {
+    "player": "Owen",
+    "minute": "46",
+    "note": ""
+   }
+  ],
+  "stadium": "Stade Louis II, Monaco",
+  "attendance": "13,824",
+  "referee": "Vítor Melo Pereira (Portugal)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefasupercup/match/<!--round=1560/match=-->68022/",
+  "manager1": "Ottmar Hitzfeld",
+  "cards1": [],
+  "manager2": "Gérard Houllier",
+  "cards2": [
+   {
+    "player": "Dietmar Hamann",
+    "type": "Y",
+    "minute": "14"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Carlos Manuel Ferreira Matos (Portugal); José Manuel Silva Cardinal (Portugal)",
+   "Fourth official": "Antonio Manuel Almeida Costa (Portugal) |style"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "UEFA Super Cup"
+ },
+ {
+  "article": "2005 FIFA Club World Championship final",
+  "fb_date": "18 December 2005",
+  "team1": "São Paulo",
+  "team2": "Liverpool",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Mineiro",
+    "minute": "27",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "International Stadium, Yokohama",
+  "attendance": "66,821",
+  "referee": "Benito Archundia (Mexico)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.fifa.com/clubworldcup/matches/round=47350600/match=47350007/report.html",
+  "manager1": "Paulo Autuori",
+  "cards1": [
+   {
+    "player": "Rogério Ceni",
+    "type": "Y",
+    "minute": "90"
+   },
+   {
+    "player": "Diego Lugano",
+    "type": "Y",
+    "minute": "57"
+   }
+  ],
+  "manager2": "Rafael Benítez",
+  "cards2": [],
+  "officials": {
+   "Assistant referees": "Héctor Vergara (Canada); Arturo Velázquez (Mexico)",
+   "Fourth official": "Toru Kamikawa (Japan) | width=60% valign=top|"
+  },
+  "stats": {
+   "Red cards": [
+    "0||0",
+    "}"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FIFA Club World Championship/Cup"
+ },
+ {
+  "article": "2005 UEFA Super Cup",
+  "fb_date": "26 August 2005",
+  "team1": "Liverpool",
+  "team2": "CSKA Moscow",
+  "score_raw": "3–1",
+  "aet": "yes",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Cissé",
+    "minute": "82",
+    "note": ""
+   },
+   {
+    "player": "Cissé",
+    "minute": "103",
+    "note": ""
+   },
+   {
+    "player": "García",
+    "minute": "109",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Carvalho",
+    "minute": "28",
+    "note": ""
+   }
+  ],
+  "stadium": "Stade Louis II, Monaco",
+  "attendance": "17,042",
+  "referee": "René Temmink (Netherlands)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefasupercup/match/<!--round=2194/match=-->81041/",
+  "manager1": "Rafael Benítez",
+  "cards1": [
+   {
+    "player": "Josemi",
+    "type": "Y",
+    "minute": "50"
+   },
+   {
+    "player": "Sami Hyypiä",
+    "type": "Y",
+    "minute": "73"
+   },
+   {
+    "player": "Boudewijn Zenden",
+    "type": "Y",
+    "minute": "38"
+   },
+   {
+    "player": "Sinama Pongolle",
+    "type": "Y",
+    "minute": "95"
+   }
+  ],
+  "manager2": "Valery Gazzaev",
+  "cards2": [
+   {
+    "player": "Dudu Cearense",
+    "type": "Y",
+    "minute": "101"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Adriaan Inia (Netherlands); Rob Meenhuis (Netherlands)",
+   "Fourth official": "Eric Braamhaar (Netherlands) | width=50% valign=top|"
+  },
+  "stats": {
+   "Goals scored": [
+    "3",
+    "1"
+   ],
+   "Total shots": [
+    "20",
+    "9"
+   ],
+   "Shots on target": [
+    "8",
+    "3"
+   ],
+   "Saves": [
+    "3",
+    "5"
+   ],
+   "Ball possession": [
+    "60%",
+    "40%"
+   ],
+   "Corner kicks": [
+    "4",
+    "3"
+   ],
+   "Fouls committed": [
+    "24",
+    "15"
+   ],
+   "Offsides": [
+    "1",
+    "5"
+   ],
+   "Yellow cards": [
+    "4",
+    "1"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "UEFA Super Cup"
+ },
+ {
+  "article": "2008 FIFA Club World Cup final",
+  "fb_date": "21 December 2008",
+  "team1": "LDU Quito",
+  "team2": "Manchester United",
+  "score_raw": "0–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Rooney",
+    "minute": "73",
+    "note": ""
+   }
+  ],
+  "stadium": "International Stadium Yokohama",
+  "attendance": "68,682",
+  "referee": "Ravshan Irmatov (Uzbekistan)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.fifa.com/clubworldcup/matches/round=252219/match=300073127/report.html",
+  "manager1": "Edgardo Bauza",
+  "cards1": [
+   {
+    "player": "José Cevallos",
+    "type": "Y",
+    "minute": "44"
+   },
+   {
+    "player": "Renán Calle",
+    "type": "Y",
+    "minute": "66"
+   },
+   {
+    "player": "Jayro Campos",
+    "type": "Y",
+    "minute": "36"
+   },
+   {
+    "player": "William Araujo",
+    "type": "Y",
+    "minute": "71"
+   },
+   {
+    "player": "Claudio Bieler",
+    "type": "Y",
+    "minute": "2"
+   }
+  ],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Nemanja Vidić",
+    "type": "R",
+    "minute": "49"
+   },
+   {
+    "player": "Anderson",
+    "type": "Y",
+    "minute": "70"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Abdukhamidullo Rasulov (Uzbekistan); Bahadyr Kochkorov (Kyrgyzstan)",
+   "Fourth official": "Yuichi Nishimura (Japan) | width=55% valign=top|"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FIFA Club World Championship/Cup"
+ },
+ {
+  "article": "2008 UEFA Super Cup",
+  "fb_date": "29 August 2008",
+  "team1": "Manchester United",
+  "team2": "Zenit Saint Petersburg",
+  "score_raw": "1–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Vidić",
+    "minute": "73",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Pogrebnyak",
+    "minute": "44",
+    "note": ""
+   },
+   {
+    "player": "Danny",
+    "minute": "59",
+    "note": ""
+   }
+  ],
+  "stadium": "Stade Louis II, Monaco",
+  "attendance": "18,064",
+  "referee": "Claus Bo Larsen (Denmark)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefasupercup/match/<!--round=15281/match=-->302814/",
+  "manager1": "Sir Alex Ferguson",
+  "cards1": [
+   {
+    "player": "Paul Scholes",
+    "type": "2Y",
+    "minute": "45+1,90"
+   },
+   {
+    "player": "Anderson",
+    "type": "Y",
+    "minute": "54"
+   },
+   {
+    "player": "Carlos Tevez",
+    "type": "Y",
+    "minute": "74"
+   }
+  ],
+  "manager2": "Dick Advocaat",
+  "cards2": [],
+  "officials": {
+   "Assistant referees": "Henrik Sonderby (Denmark); Anders Norrestrand (Denmark)",
+   "Fourth official": "Nicolai Vollquartz (Denmark) | width=55% valign=top|"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "2"
+   ],
+   "Total shots": [
+    "13",
+    "9"
+   ],
+   "Shots on target": [
+    "6",
+    "5"
+   ],
+   "Saves": [
+    "3",
+    "5"
+   ],
+   "Ball possession": [
+    "46%",
+    "54%"
+   ],
+   "Corner kicks": [
+    "6",
+    "3"
+   ],
+   "Fouls committed": [
+    "16",
+    "12"
+   ],
+   "Offsides": [
+    "2",
+    "1"
+   ],
+   "Yellow cards": [
+    "4",
+    "0"
+   ],
+   "Red cards": [
+    "1",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "UEFA Super Cup"
+ },
+ {
+  "article": "2012 FIFA Club World Cup final",
+  "fb_date": "",
+  "team1": "Corinthians",
+  "team2": "Chelsea",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Guerrero",
+    "minute": "69",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "International Stadium Yokohama, Yokohama",
+  "attendance": "68,275",
+  "referee": "Cüneyt Çakır (Turkey)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://web.archive.org/web/20121219000209/http://www.fifa.com/clubworldcup/matches/round=259327/match=300219235/report.html Report]",
+  "manager1": "Tite",
+  "cards1": [
+   {
+    "player": "Jorge Henrique",
+    "type": "Y",
+    "minute": "56"
+   }
+  ],
+  "manager2": "Rafael Benítez",
+  "cards2": [
+   {
+    "player": "Gary Cahill",
+    "type": "R",
+    "minute": "90"
+   },
+   {
+    "player": "David Luiz",
+    "type": "Y",
+    "minute": "72"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Bahattin Duran (Turkey); Tarık Ongun (Turkey)",
+   "Fourth official": "Alireza Faghani (Iran)",
+   "Fifth official": "Hassan Kamranifar (Iran) | width=55% valign=top|"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FIFA Club World Championship/Cup"
+ },
+ {
+  "article": "2012 UEFA Super Cup",
+  "fb_date": "31 August 2012",
+  "team1": "Chelsea",
+  "team2": "Atlético Madrid",
+  "score_raw": "1–4",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Cahill",
+    "minute": "75",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Falcao",
+    "minute": "6",
+    "note": ""
+   },
+   {
+    "player": "Falcao",
+    "minute": "19",
+    "note": ""
+   },
+   {
+    "player": "Falcao",
+    "minute": "45",
+    "note": ""
+   },
+   {
+    "player": "Miranda",
+    "minute": "60",
+    "note": ""
+   }
+  ],
+  "stadium": "Stade Louis II, Monaco",
+  "attendance": "14,312",
+  "referee": "Damir Skomina (Slovenia)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefasupercup/match/<!--round=2000278/match=-->2007694/",
+  "manager1": "Roberto Di Matteo",
+  "cards1": [
+   {
+    "player": "Branislav Ivanović",
+    "type": "Y",
+    "minute": "29"
+   }
+  ],
+  "manager2": "Diego Simeone",
+  "cards2": [],
+  "officials": {
+   "Assistant referees": "Primož Arhar (Slovenia); Matej Žunič (Slovenia)",
+   "Fourth official": "Bojan Ul (Slovenia)",
+   "Additional assistant referees": "Matej Jug (Slovenia); Slavko Vinčić (Slovenia) | width=55% valign=top|"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "4"
+   ],
+   "Total shots": [
+    "12",
+    "18"
+   ],
+   "Shots on target": [
+    "7",
+    "12"
+   ],
+   "Saves": [
+    "8",
+    "6"
+   ],
+   "Ball possession": [
+    "57%",
+    "43%"
+   ],
+   "Corner kicks": [
+    "3",
+    "6"
+   ],
+   "Fouls committed": [
+    "13",
+    "18"
+   ],
+   "Offsides": [
+    "1",
+    "2"
+   ],
+   "Yellow cards": [
+    "1",
+    "0"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "UEFA Super Cup"
+ },
+ {
+  "article": "2013 UEFA Super Cup",
+  "fb_date": "30 August 2013",
+  "team1": "Bayern Munich",
+  "team2": "Chelsea",
+  "score_raw": "2–2",
+  "aet": "yes",
+  "penaltyscore": "5–4",
+  "goals1": [
+   {
+    "player": "Ribéry",
+    "minute": "47",
+    "note": ""
+   },
+   {
+    "player": "Martínez",
+    "minute": "120+1",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Torres",
+    "minute": "8",
+    "note": ""
+   },
+   {
+    "player": "Hazard",
+    "minute": "93",
+    "note": ""
+   }
+  ],
+  "stadium": "Eden Arena, Prague",
+  "attendance": "17,686",
+  "referee": "Jonas Eriksson (Sweden)",
+  "penalties1": "Alaba Kroos Lahm Ribéry Shaqiri",
+  "penalties2": "David Luiz Oscar Lampard Cole Lukaku",
+  "report": "https://www.uefa.com/uefasupercup/match/<!--round=2000456/match=-->2012139/",
+  "manager1": "Pep Guardiola",
+  "cards1": [
+   {
+    "player": "Jérôme Boateng",
+    "type": "Y",
+    "minute": "84"
+   },
+   {
+    "player": "Franck Ribéry",
+    "type": "Y",
+    "minute": "23"
+   }
+  ],
+  "manager2": "José Mourinho",
+  "cards2": [
+   {
+    "player": "Branislav Ivanović",
+    "type": "Y",
+    "minute": "120"
+   },
+   {
+    "player": "Gary Cahill",
+    "type": "Y",
+    "minute": "41"
+   },
+   {
+    "player": "David Luiz",
+    "type": "Y",
+    "minute": "66"
+   },
+   {
+    "player": "Ashley Cole",
+    "type": "Y",
+    "minute": "118"
+   },
+   {
+    "player": "Ramires",
+    "type": "2Y",
+    "minute": "64,85"
+   },
+   {
+    "player": "Fernando Torres",
+    "type": "Y",
+    "minute": "90"
+   },
+   {
+    "player": "Romelu Lukaku",
+    "type": "Y",
+    "minute": "99"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Mathias Klasenius (Sweden); Daniel Wärnmark (Sweden)",
+   "Fourth official": "Stefan Wittberg (Sweden)",
+   "Additional assistant referees": "Stefan Johannesson (Sweden); Markus Strömbergsson (Sweden) |"
+  },
+  "stats": {
+   "Goals scored": [
+    "2",
+    "2"
+   ],
+   "Total shots": [
+    "37",
+    "14"
+   ],
+   "Shots on target": [
+    "19",
+    "9"
+   ],
+   "Saves": [
+    "7",
+    "17"
+   ],
+   "Ball possession": [
+    "64%",
+    "36%"
+   ],
+   "Corner kicks": [
+    "15",
+    "5"
+   ],
+   "Fouls committed": [
+    "18",
+    "23"
+   ],
+   "Offsides": [
+    "1",
+    "4"
+   ],
+   "Yellow cards": [
+    "2",
+    "8"
+   ],
+   "Red cards": [
+    "0",
+    "1"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "UEFA Super Cup"
+ },
+ {
+  "article": "2017 UEFA Super Cup",
+  "fb_date": "",
+  "team1": "Real Madrid",
+  "team2": "Manchester United",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Casemiro",
+    "minute": "24",
+    "note": ""
+   },
+   {
+    "player": "Isco",
+    "minute": "52",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Lukaku",
+    "minute": "62",
+    "note": ""
+   }
+  ],
+  "stadium": "Philip II Arena, Skopje",
+  "attendance": "30,421",
+  "referee": "Gianluca Rocchi (Italy)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefasupercup/match/<!--round=2000896/match=-->2022539/",
+  "manager1": "Zinedine Zidane",
+  "cards1": [
+   {
+    "player": "Dani Carvajal",
+    "type": "Y",
+    "minute": "84"
+   },
+   {
+    "player": "Sergio Ramos",
+    "type": "Y",
+    "minute": "86"
+   }
+  ],
+  "manager2": "José Mourinho",
+  "cards2": [
+   {
+    "player": "Jesse Lingard",
+    "type": "Y",
+    "minute": "42"
+   },
+   {
+    "player": "Marcus Rashford",
+    "type": "Y",
+    "minute": "90+4"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Elenito Di Liberatore (Italy); Mauro Tonolini (Italy)",
+   "Fourth official": "Clément Turpin (France)",
+   "Additional assistant referees": "Davide Massa (Italy); Massimiliano Irrati (Italy)",
+   "Reserve assistant referee": "Riccardo Di Fiore (Italy) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "2",
+    "1"
+   ],
+   "Total shots": [
+    "16",
+    "13"
+   ],
+   "Shots on target": [
+    "6",
+    "6"
+   ],
+   "Saves": [
+    "5",
+    "4"
+   ],
+   "Ball possession": [
+    "59%",
+    "41%"
+   ],
+   "Corner kicks": [
+    "8",
+    "2"
+   ],
+   "Fouls committed": [
+    "10",
+    "17"
+   ],
+   "Offsides": [
+    "1",
+    "2"
+   ],
+   "Yellow cards": [
+    "2",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "UEFA Super Cup"
+ },
+ {
+  "article": "2019 FIFA Club World Cup final",
+  "fb_date": "",
+  "team1": "Liverpool",
+  "team2": "Flamengo",
+  "score_raw": "1–0",
+  "aet": "yes",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Firmino",
+    "minute": "99",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Khalifa International Stadium, Al Rayyan",
+  "attendance": "45,416",
+  "referee": "Abdulrahman Al-Jassim (Qatar)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.fifa.com/tournaments/mens/clubworldcup/qatar2019/match-center/400089362",
+  "manager1": "Jürgen Klopp",
+  "cards1": [
+   {
+    "player": "Mohamed Salah",
+    "type": "Y",
+    "minute": "81"
+   },
+   {
+    "player": "Roberto Firmino",
+    "type": "Y",
+    "minute": "100"
+   },
+   {
+    "player": "Sadio Mané",
+    "type": "Y",
+    "minute": "45+1"
+   },
+   {
+    "player": "James Milner",
+    "type": "Y",
+    "minute": "105"
+   }
+  ],
+  "manager2": "Jorge Jesus",
+  "cards2": [
+   {
+    "player": "Diego",
+    "type": "Y",
+    "minute": "112"
+   },
+   {
+    "player": "Vitinho",
+    "type": "Y",
+    "minute": "90"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Taleb Al-Marri (Qatar); Saoud Al-Maqaleh (Qatar)",
+   "Fourth official": "Mustapha Ghorbal (Algeria)",
+   "Reserve assistant referee": "Mokrane Gourari (Algeria)",
+   "Video assistant referees": "Juan Martínez Munuera (Spain)",
+   "Assistant video assistant referees": "Esteban Ostojich (Uruguay); Kyle Atkins (United States); Bakary Gassama (Gambia) | style=\"width:60%; vertical-align:top\" |"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "0"
+   ],
+   "Total shots": [
+    "18",
+    "14"
+   ],
+   "Shots on target": [
+    "6",
+    "2"
+   ],
+   "Saves": [
+    "2",
+    "5"
+   ],
+   "Ball possession": [
+    "48%",
+    "52%"
+   ],
+   "Corner kicks": [
+    "5",
+    "7"
+   ],
+   "Fouls committed": [
+    "22",
+    "16"
+   ],
+   "Offsides": [
+    "3",
+    "6"
+   ],
+   "Yellow cards": [
+    "4",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FIFA Club World Championship/Cup"
+ },
+ {
+  "article": "2019 UEFA Super Cup",
+  "fb_date": "",
+  "team1": "Liverpool",
+  "team2": "Chelsea",
+  "score_raw": "2–2",
+  "aet": "yes",
+  "penaltyscore": "5–4",
+  "goals1": [
+   {
+    "player": "Mané",
+    "minute": "48",
+    "note": ""
+   },
+   {
+    "player": "Mané",
+    "minute": "95",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Giroud",
+    "minute": "36",
+    "note": ""
+   },
+   {
+    "player": "Jorginho",
+    "minute": "101",
+    "note": "pen."
+   }
+  ],
+  "stadium": "Vodafone Park, Istanbul",
+  "attendance": "38,434",
+  "referee": "Stéphanie Frappart (France)",
+  "penalties1": "Firmino Fabinho Origi Alexander-Arnold Salah",
+  "penalties2": "Jorginho Barkley Mount Emerson Abraham",
+  "report": "https://www.uefa.com/uefasupercup/match/<!--round=2001078/match=-->2025638/",
+  "manager1": "Jürgen Klopp",
+  "cards1": [
+   {
+    "player": "Jordan Henderson",
+    "type": "Y",
+    "minute": "85"
+   },
+   {
+    "player": "Trent Alexander-Arnold",
+    "type": "Y",
+    "minute": "107"
+   }
+  ],
+  "manager2": "Frank Lampard",
+  "cards2": [
+   {
+    "player": "César Azpilicueta",
+    "type": "Y",
+    "minute": "79"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Manuela Nicolosi (France); Michelle O'Neill (Republic of Ireland)",
+   "Fourth official": "Cüneyt Çakır (Turkey)",
+   "Video assistant referee": "Clément Turpin (France)",
+   "Assistant video assistant referees": "François Letexier (France); Massimiliano Irrati (Italy)",
+   "Offside video assistant referee": "Mark Borsch (Germany) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "2",
+    "2"
+   ],
+   "Total shots": [
+    "20",
+    "20"
+   ],
+   "Shots on target": [
+    "11",
+    "6"
+   ],
+   "Saves": [
+    "4",
+    "9"
+   ],
+   "Ball possession": [
+    "52%",
+    "48%"
+   ],
+   "Corner kicks": [
+    "8",
+    "7"
+   ],
+   "Fouls committed": [
+    "10",
+    "12"
+   ],
+   "Offsides": [
+    "2",
+    "11"
+   ],
+   "Yellow cards": [
+    "2",
+    "1"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "UEFA Super Cup"
+ },
+ {
+  "article": "2021 FIFA Club World Cup final",
+  "fb_date": "",
+  "team1": "Chelsea",
+  "team2": "Palmeiras",
+  "score_raw": "2–1",
+  "aet": "yes",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Lukaku",
+    "minute": "54",
+    "note": ""
+   },
+   {
+    "player": "Havertz",
+    "minute": "117",
+    "note": "pen."
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Veiga",
+    "minute": "64",
+    "note": "pen."
+   }
+  ],
+  "stadium": "Mohammed bin Zayed Stadium, Abu Dhabi",
+  "attendance": "32,871",
+  "referee": "Chris Beath (Australia)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.fifa.com/en/match-centre/match/107/285345/285351/400213182",
+  "manager1": "Thomas Tuchel",
+  "cards1": [
+   {
+    "player": "Kai Havertz",
+    "type": "Y",
+    "minute": "118"
+   }
+  ],
+  "manager2": "Abel Ferreira",
+  "cards2": [
+   {
+    "player": "Luan",
+    "type": "2Y",
+    "minute": "115,120+6"
+   },
+   {
+    "player": "Eduard Atuesta",
+    "type": "Y",
+    "minute": "116"
+   },
+   {
+    "player": "Wesley",
+    "type": "Y",
+    "minute": "105"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Anton Shchetinin (Australia); Ashley Beecham (Australia)",
+   "Fourth official": "Mustapha Ghorbal (Algeria)",
+   "Reserve assistant referee": "Abdelhak Etchiali (Algeria)",
+   "Video assistant referee": "Massimiliano Irrati (Italy)",
+   "Assistant video assistant referees": "Nicolás Gallo (Colombia); Mokrane Gourari (Algeria); Ammar Al-Jeneibi (United Arab Emirates) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FIFA Club World Championship/Cup"
+ },
+ {
+  "article": "2021 UEFA Super Cup",
+  "fb_date": "",
+  "team1": "Chelsea",
+  "team2": "Villarreal",
+  "score_raw": "1–1",
+  "aet": "yes",
+  "penaltyscore": "6–5",
+  "goals1": [
+   {
+    "player": "Ziyech",
+    "minute": "27",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Gerard",
+    "minute": "73",
+    "note": ""
+   }
+  ],
+  "stadium": "Windsor Park, Belfast",
+  "attendance": "10,435",
+  "referee": "Sergei Karasev (Russia)",
+  "penalties1": "Havertz Azpilicueta Alonso Mount Jorginho Pulisic Rüdiger",
+  "penalties2": "Gerard Mandi Estupiñán Gómez Raba Foyth Albiol",
+  "report": "https://www.uefa.com/uefasupercup/match/2030316/",
+  "manager1": "Thomas Tuchel",
+  "cards1": [
+   {
+    "player": "Antonio Rüdiger",
+    "type": "Y",
+    "minute": "44"
+   },
+   {
+    "player": "Kepa Arrizabalaga",
+    "type": "Y",
+    "minute": "120+"
+   }
+  ],
+  "manager2": "Unai Emery",
+  "cards2": [
+   {
+    "player": "Yéremy Pino",
+    "type": "Y",
+    "minute": "61"
+   },
+   {
+    "player": "Dani Raba",
+    "type": "Y",
+    "minute": "119"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Igor Demeshko (Russia); Maksim Gavrilin (Russia)",
+   "Fourth official": "Aleksei Kulbakov (Belarus)",
+   "Reserve assistant referee": "Filippo Meli (Italy)",
+   "Video assistant referee": "Marco Fritz (Germany)",
+   "Assistant video assistant referees": "Paweł Gil (Poland); Massimiliano Irrati (Italy) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "1"
+   ],
+   "Total shots": [
+    "21",
+    "12"
+   ],
+   "Shots on target": [
+    "7",
+    "4"
+   ],
+   "Saves": [
+    "3",
+    "6"
+   ],
+   "Ball possession": [
+    "57%",
+    "43%"
+   ],
+   "Corner kicks": [
+    "9",
+    "5"
+   ],
+   "Fouls committed": [
+    "10",
+    "15"
+   ],
+   "Offsides": [
+    "4",
+    "2"
+   ],
+   "Yellow cards": [
+    "3",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "UEFA Super Cup"
+ },
+ {
+  "article": "2023 FIFA Club World Cup final",
+  "fb_date": "",
+  "team1": "Manchester City",
+  "team2": "Fluminense",
+  "score_raw": "4–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Alvarez",
+    "minute": "1",
+    "note": ""
+   },
+   {
+    "player": "Alvarez",
+    "minute": "88",
+    "note": ""
+   },
+   {
+    "player": "Nino",
+    "minute": "27",
+    "note": "o.g."
+   },
+   {
+    "player": "Foden",
+    "minute": "72",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "King Abdullah Sports City Stadium, Jeddah",
+  "attendance": "52,601",
+  "referee": "Szymon Marciniak (Poland)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.fifa.com/fifaplus/en/match-centre/match/107/287833/287839/400017372",
+  "manager1": "Pep Guardiola",
+  "cards1": [],
+  "manager2": "Fernando Diniz",
+  "cards2": [
+   {
+    "player": "Marcelo",
+    "type": "Y",
+    "minute": "57"
+   },
+   {
+    "player": "Alexsander",
+    "type": "Y",
+    "minute": "68"
+   },
+   {
+    "player": "John Kennedy",
+    "type": "Y",
+    "minute": "84"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Tomasz Listkiewicz (Poland); Adam Kupsik (Poland)",
+   "Fourth official": "Jesús Valenzuela (Venezuela)",
+   "Reserve assistant referee": "Tulio Moreno (Venezuela)",
+   "Video assistant referee": "Tomasz Kwiatkowski (Poland)",
+   "Assistant video assistant referees": "Juan Soto (Venezuela); Jorge Urrego (Venezuela); Juan Lara (Chile) | style=\"width:60%; vertical-align:top\" |"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FIFA Club World Championship/Cup"
+ },
+ {
+  "article": "2023 UEFA Super Cup",
+  "fb_date": "",
+  "team1": "Manchester City",
+  "team2": "Sevilla",
+  "score_raw": "1–1",
+  "aet": "",
+  "penaltyscore": "5–4",
+  "goals1": [
+   {
+    "player": "Palmer",
+    "minute": "63",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "En-Nesyri",
+    "minute": "25",
+    "note": ""
+   }
+  ],
+  "stadium": "Karaiskakis Stadium, Piraeus",
+  "attendance": "29,207",
+  "referee": "François Letexier (France)",
+  "penalties1": "Haaland Álvarez Kovačić Grealish Walker",
+  "penalties2": "Ocampos Mir Rakitić Montiel Gudelj",
+  "report": "https://www.uefa.com/uefasupercup/match/2037792/",
+  "manager1": "Pep Guardiola",
+  "cards1": [],
+  "manager2": "José Luis Mendilibar",
+  "cards2": [
+   {
+    "player": "Loïc Badé",
+    "type": "Y",
+    "minute": "33"
+   },
+   {
+    "player": "Erik Lamela",
+    "type": "Y",
+    "minute": "62"
+   },
+   {
+    "player": "Juanlu",
+    "type": "Y",
+    "minute": "90"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Cyril Mugnier (France); Mehdi Rahmouni (France)",
+   "Fourth official": "Espen Eskås (Norway)",
+   "Video assistant referee": "Jérôme Brisard (France)",
+   "Assistant video assistant referees": "Eric Wattellier (France); Fedayi San (Switzerland) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "1"
+   ],
+   "Total shots": [
+    "23",
+    "8"
+   ],
+   "Shots on target": [
+    "7",
+    "4"
+   ],
+   "Saves": [
+    "3",
+    "6"
+   ],
+   "Ball possession": [
+    "71%",
+    "29%"
+   ],
+   "Corner kicks": [
+    "8",
+    "0"
+   ],
+   "Fouls committed": [
+    "5",
+    "14"
+   ],
+   "Offsides": [
+    "0",
+    "3"
+   ],
+   "Yellow cards": [
+    "0",
+    "3"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "UEFA Super Cup"
+ },
+ {
+  "article": "2025 FIFA Club World Cup final",
+  "fb_date": "",
+  "team1": "Chelsea",
+  "team2": "Paris Saint-Germain",
+  "score_raw": "",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Palmer",
+    "minute": "22",
+    "note": ""
+   },
+   {
+    "player": "Palmer",
+    "minute": "30",
+    "note": ""
+   },
+   {
+    "player": "João Pedro",
+    "minute": "43",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "MetLife Stadium, East Rutherford",
+  "attendance": "81,118",
+  "referee": "Alireza Faghani (Australia)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.fifa.com/en/match-centre/match/10005/289175/289190/400019210",
+  "manager1": "Enzo Maresca",
+  "cards1": [
+   {
+    "player": "Malo Gusto",
+    "type": "Y",
+    "minute": "40"
+   },
+   {
+    "player": "Levi Colwill",
+    "type": "Y",
+    "minute": "81"
+   },
+   {
+    "player": "Moisés Caicedo",
+    "type": "Y",
+    "minute": "36"
+   },
+   {
+    "player": "Pedro Neto",
+    "type": "Y",
+    "minute": "34"
+   }
+  ],
+  "manager2": "Luis Enrique",
+  "cards2": [
+   {
+    "player": "Nuno Mendes",
+    "type": "Y",
+    "minute": "90+4"
+   },
+   {
+    "player": "João Neves",
+    "type": "R",
+    "minute": "85"
+   },
+   {
+    "player": "Ousmane Dembélé",
+    "type": "Y",
+    "minute": "87"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Anton Shchetinin (Australia); Ashley Beecham (Australia)",
+   "Fourth official": "Facundo Tello (Argentina)",
+   "Reserve assistant referee": "Gabriel Chade (Argentina)",
+   "Video assistant referee": "Bastian Dankert (Germany)",
+   "Assistant video assistant referee": "Tatiana Guzmán (Nicaragua)",
+   "Support video assistant referee": "Ivan Bebek (Croatia) |} |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "3",
+    "0"
+   ],
+   "Total shots": [
+    "9",
+    "9"
+   ],
+   "Shots on target": [
+    "5",
+    "6"
+   ],
+   "Ball possession": [
+    "34%",
+    "66%"
+   ],
+   "Corner kicks": [
+    "3",
+    "5"
+   ],
+   "Fouls committed": [
+    "15",
+    "12"
+   ],
+   "Offsides": [
+    "3",
+    "2"
+   ],
+   "Yellow cards": [
+    "4",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "1"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FIFA Club World Championship/Cup"
+ }
+]

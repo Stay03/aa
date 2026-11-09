@@ -1,0 +1,384 @@
+{{use dmy dates|date=February 2020}}
+{{Infobox football match
+| title                   = 1997 UEFA Super Cup
+| image                   = 
+| team1                   = [[FC Barcelona|Barcelona]]
+| team1association        = {{flagicon|ESP|size=30px}}
+| team1score              = 3
+| team2                   = [[Borussia Dortmund]]
+| team2association        = {{flagicon|GER|size=30px}}
+| team2score              = 1
+| details                 = on aggregate 
+| firstleg                = First leg
+| team1score1             = 2
+| team2score1             = 0
+| date1                   = 8 January 1998
+| stadium1                = [[Camp Nou]]
+| city1                   = [[Barcelona]]
+| man_of_the_match1a      = 
+| referee1                = [[David Elleray]] ([[The Football Association|England]])<ref name="referee">{{cite web |url=http://www.worldfootball.net/spielbericht/uefa-supercup-1997-endspiel-fc-barcelona-borussia-dortmund/ |title=Match details / line-up: Barcelona – Borussia Dortmund (UEFA-Supercup 1998) |work=Worldfootball.net |access-date=29 August 2012 |url-status=dead |archive-url=https://archive.today/20130222112612/http://www.worldfootball.net/spielbericht/uefa-supercup-1997-endspiel-fc-barcelona-borussia-dortmund/ |archive-date=22 February 2013 }}</ref>
+| attendance1             = 50,000
+| secondleg               = Second leg
+| team1score2             = 1
+| team2score2             = 1
+| date2                   = 11 March 1998
+| stadium2                = [[Westfalenstadion]]
+| city2                   = [[Dortmund]]
+| man_of_the_match2a      = 
+| referee2                = [[Piero Ceccarini]] ([[Italian Football Federation|Italy]])<ref name="referee2">{{cite web |url=https://www.worldfootball.net/match-report/ma1897729/lineup/ |title=Match details / line-up: Borussia Dortmund – Barcelona (UEFA-Supercup 1998) |work=Worldfootball.net |access-date=29 August 2012}}</ref>
+| attendance2             = 32,500
+| previous                = [[1996 UEFA Super Cup|1996]]
+| next                    = [[1998 UEFA Super Cup|1998]]
+}}
+
+The '''1997 UEFA Super Cup''' was a two-legged [[Association football|football]] match played on 8 January 1998 and 11 March 1998 between [[Borussia Dortmund]] of Germany, winner of the [[1996–97 UEFA Champions League]], and [[FC Barcelona|Barcelona]] of Spain, winner of the [[1996–97 UEFA Cup Winners' Cup]]. Barcelona won the match 3–1 on aggregate, beating Borussia Dortmund 2–0 at [[Camp Nou]] in the first leg and drawing the second leg 1–1 in [[Westfalenstadion]], [[Dortmund]].
+
+This was the last Super Cup played over two legs. Since 1998, it has been played as a single match at a neutral venue.
+
+{{clear}}
+
+==Match details==
+=== First leg ===
+{{footballbox
+|date = 8 January 1998
+|time = 21:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score = 2–0
+|report=[https://web.archive.org/web/20100704113334/http://www.uefa.com/uefasupercup/history/season=1997/index.html Report]
+|team2 = {{flagicon|GER}} [[Borussia Dortmund]]
+|goals1 = [[Luis Enrique]] {{goal|8}}<br />[[Rivaldo]] {{goal|61|pen.}}
+|goals2 =
+|stadium = [[Camp Nou]], [[Barcelona]]
+|attendance = 50,000
+|referee= [[David Elleray]] ([[The Football Association|England]])<ref name="referee" />
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _fcbarcelona9798
+ | pattern_b  = _fcbarcelona9798
+ | pattern_ra = _fcbarcelona9798
+ | pattern_sh = _fcbarcelona9798
+ | pattern_so = _hoops_navy
+ | socks      = BF0000
+ | title      = Barcelona
+}}
+|{{Football kit
+ | pattern_la = _borussiadortmund9697h
+ | pattern_b  = _borussiadortmund9697h
+ | pattern_ra = _borussiadortmund9697h
+ | pattern_so = _hoops_black
+ | leftarm    = 0000B9
+ | body       = 0000B9
+ | rightarm   = 0000B9
+ | shorts     = 000000
+ | socks      = D9FD43
+ | title      = Borussia Dortmund
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|NED}} [[Ruud Hesp]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Albert Ferrer]]
+|-
+|CB ||'''26'''||{{flagicon|NED}} [[Winston Bogarde]] 
+|-
+|CB ||'''22'''||{{flagicon|NED}} [[Michael Reiziger]] || || {{suboff|70}}
+|-
+|LB ||'''12'''||{{flagicon|ESP}} [[Sergi Barjuán|Sergi]]
+|-
+|DM ||'''17'''||{{flagicon|ESP}} [[Albert Celades]]
+|-
+|CM ||'''23'''||{{flagicon|ESP}} [[Iván de la Peña]]
+|-
+|AM ||'''11'''||{{flagicon|BRA}} [[Rivaldo]] || || {{suboff|86}}
+|-
+|RW ||'''7''' ||{{flagicon|POR}} [[Luís Figo]] ([[Captain (association football)|c]]) || || {{suboff|86}}
+|- 
+|LW ||'''21'''||{{flagicon|ESP}} [[Luis Enrique]]
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Sonny Anderson]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Carles Busquets]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Abelardo Fernández|Abelardo]] || || {{subon|70}} 
+|-
+|DF ||'''5''' ||{{flagicon|POR}} [[Fernando Couto]]
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Giovanni Silva de Oliveira|Giovanni]] || || {{subon|86}}
+|-
+|MF ||'''16'''||{{flagicon|FR Yugoslavia}} [[Dragan Ćirić]]
+|-
+|FW ||'''8''' ||{{flagicon|BUL}} [[Hristo Stoichkov]] || || {{subon|86}}
+|-
+|FW ||'''19'''||{{flagicon|ESP}} [[Juan Antonio Pizzi]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4|{{flagicon|NED}} [[Louis van Gaal]]
+|}
+|valign="top"|[[File:Barcelona vs Borussia Dortmund 1998-01-08.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Stefan Klos]]
+|-
+|SW ||'''26'''||{{flagicon|GER}} [[Manfred Binz]]
+|-
+|CB ||'''16'''||{{flagicon|GER}} [[Martin Kree]]
+|-
+|CB ||'''3''' ||{{flagicon|GER}} [[René Schneider (footballer)|René Schneider]] || || {{suboff|46}} 
+|-
+|RWB&nbsp; ||'''18'''||{{flagicon|GER}} [[Lars Ricken]] ([[Captain (association football)|c]])
+|-
+|LWB&nbsp; ||'''17'''||{{flagicon|GER}} [[Jörg Heinrich]]
+|- 
+|CM ||'''4''' ||{{flagicon|GER}} [[Steffen Freund]] 
+|-
+|CM ||'''24'''||{{flagicon|RUS}} [[Vladimir But]] || || {{suboff|77}}
+|-
+|AM ||'''22'''||{{flagicon|USA}} [[Jovan Kirovski]]
+|-
+|CF ||'''27'''||{{flagicon|NED}} [[Harry Decheiver]]
+|-
+|CF ||'''13'''||{{flagicon|GHA}} [[Ibrahim Tanko]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|GER}} [[Wolfgang de Beer]]
+|-
+|DF ||'''2''' ||{{flagicon|GER}} [[Knut Reinhardt]] || || {{subon|46}}
+|-
+|DF ||'''20'''||{{flagicon|AUT}} [[Wolfgang Feiersinger]]
+|-
+|MF ||'''8''' ||{{flagicon|GER}} [[Michael Zorc]] || || {{subon|77}}
+|-
+|MF ||'''21'''||{{flagicon|GER}} [[Frank Riethmann]]
+|-
+|FW ||'''9''' ||{{flagicon|SUI}} [[Stéphane Chapuisat]] || || {{subon|58}}
+|-
+|FW ||'''23'''||{{flagicon|SCO}} [[Scott Booth]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Nevio Scala]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />{{flagicon|ENG}} [[Philip Sharp (referee)|Philip Sharp]] ([[The Football Association|England]])<ref name="referee" />
+<br />{{flagicon|ENG}} [[Mark Warren (referee)|Mark Warren]] ([[The Football Association|England]])<ref name="referee" />
+<br />'''Fourth official:'''
+<br />{{flagicon|ENG}} [[Peter Jones (referee)|Peter Jones]] ([[The Football Association|England]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*Seven named substitutes.
+*Maximum of three substitutions.
+|}
+
+=== Second leg ===
+{{footballbox
+|date = 11 March 1998
+|time = 20:00 [[Central European Time|CET]]
+|team1 = [[Borussia Dortmund]] {{flagicon|GER}}
+|score = 1–1
+|report=[https://web.archive.org/web/20100704113334/http://www.uefa.com/uefasupercup/history/season=1997/index.html Report]
+|team2 = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1 = [[Jörg Heinrich|Heinrich]] {{goal|64}}
+|goals2 = [[Giovanni Silva de Oliveira|Giovanni]] {{goal|8}}
+|stadium = [[Westfalenstadion]], [[Dortmund]]
+|attendance = 32,500
+|referee= [[Piero Ceccarini]] ([[Italian Football Federation|Italy]])<ref name="referee2" />
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _borussiadortmund9697h
+ | pattern_b  = _borussiadortmund9697h
+ | pattern_ra = _borussiadortmund9697h
+ | pattern_so = _hoops_black
+ | leftarm    = 0000B9
+ | body       = 0000B9
+ | rightarm   = 0000B9
+ | shorts     = 000000
+ | socks      = D9FD43
+ | title      = Borussia Dortmund
+}}
+|{{Football kit
+ | pattern_la = _fcbarcelona9798
+ | pattern_b  = _fcbarcelona9798
+ | pattern_ra = _fcbarcelona9798
+ | pattern_sh = _fcbarcelona9798
+ | pattern_so = _hoops_navy
+ | socks      = BF0000
+ | title      = Barcelona
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Stefan Klos]]
+|-
+|SW ||'''26'''||{{flagicon|GER}} [[Manfred Binz]]
+|-
+|CB ||'''3''' ||{{flagicon|GER}} [[René Schneider (footballer)|René Schneider]] 
+|-
+|CB ||'''15'''||{{flagicon|GER}} [[Jürgen Kohler]] ([[Captain (association football)|c]]) || || {{suboff|73}}
+|-
+|RWB&nbsp; ||'''17'''||{{flagicon|GER}} [[Jörg Heinrich]]
+|-
+|LWB&nbsp; ||'''16'''||{{flagicon|GER}} [[Martin Kree]]
+|-
+|CM ||'''18'''||{{flagicon|GER}} [[Lars Ricken]]
+|-
+|CM ||'''4''' ||{{flagicon|GER}} [[Steffen Freund]] || || {{suboff|20}} 
+|- 
+|CM ||'''8''' ||{{flagicon|GER}} [[Michael Zorc]]
+|-
+|CF ||'''27'''||{{flagicon|NED}} [[Harry Decheiver]]
+|-
+|CF ||'''9''' ||{{flagicon|SUI}} [[Stéphane Chapuisat]]&nbsp; || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|GER}} [[Wolfgang de Beer]]
+|-
+|DF ||'''2''' ||{{flagicon|GER}} [[Knut Reinhardt]]
+|-
+|MF ||'''10'''||{{flagicon|GER}} [[Andreas Möller]]
+|-
+|MF ||'''25'''||{{flagicon|GER}} [[Björn Mehnert]] || || {{subon|20}}
+|-
+|FW ||'''22'''||{{flagicon|USA}} [[Jovan Kirovski]] || || {{subon|73}}
+|-
+|FW ||'''28'''||{{flagicon|GER}} [[Christian Timm]]
+|-
+|FW ||'''36'''||{{flagicon|GHA}} [[Bashiru Gambo]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Nevio Scala]]
+|}
+|valign="top"|[[File:Borussia Dortmund vs Barcelona 1998-03-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|NED}} [[Ruud Hesp]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Albert Ferrer]]
+|-
+|CB ||'''26'''||{{flagicon|NED}} [[Winston Bogarde]] 
+|-
+|CB ||'''20'''||{{flagicon|ESP}} [[Miguel Ángel Nadal]]
+|-
+|LB ||'''12'''||{{flagicon|ESP}} [[Sergi Barjuán|Sergi]]
+|-
+|CM ||'''17'''||{{flagicon|ESP}} [[Albert Celades]] || || {{suboff|79}}
+|-
+|CM ||'''21'''||{{flagicon|ESP}} [[Luis Enrique]] || || {{suboff|89}}
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Giovanni Silva de Oliveira|Giovanni]]
+|-
+|RW ||'''7''' ||{{flagicon|POR}} [[Luís Figo]] ([[Captain (association football)|c]])
+|-
+|LW ||'''11'''||{{flagicon|BRA}} [[Rivaldo]]
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Sonny Anderson]] || || {{suboff|71}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Carles Busquets]]
+|-
+|DF ||'''5''' ||{{flagicon|POR}} [[Fernando Couto]]
+|-
+|DF ||'''22'''||{{flagicon|NED}} [[Michael Reiziger]]
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Óscar García Junyent|Óscar]] || || {{subon|71}}
+|-
+|MF ||'''16'''||{{flagicon|FR Yugoslavia}} [[Dragan Ćirić]] || || {{subon|89}}
+|-
+|MF ||'''18'''||{{flagicon|ESP}} [[Guillermo Amor]] || || {{subon|79}} 
+|-
+|MF ||'''24'''||{{flagicon|ESP}} [[Roger García Junyent|Roger]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4|{{flagicon|NED}} [[Louis van Gaal]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />{{flagicon|ITA}} Sergio Zuccolini ([[Italian Football Federation|Italy]])<ref name="referee2" />
+<br />{{flagicon|ITA}} Luigi Medeot ([[Italian Football Federation|Italy]])
+<br />'''Fourth official:'''
+<br />{{flagicon|ITA}} [[Alfredo Trentalange]] ([[Italian Football Federation|Italy]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes.
+*Maximum of three substitutions.
+|}
+
+==See also==
+*[[1997–98 UEFA Champions League]]
+*[[1997–98 UEFA Cup Winners' Cup]]
+*[[1997–98 Borussia Dortmund season]]
+*[[1997–98 FC Barcelona season]]
+*[[Borussia Dortmund in international football]]
+*[[FC Barcelona in international football]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.rsssf.org/ec/ec199697.html 1997 UEFA Super Cup] at [[Rec.Sport.Soccer Statistics Foundation]]
+
+{{UEFA Super Cup}}
+{{1997–98 in European football (UEFA)}}
+{{FC Barcelona matches}}
+{{Borussia Dortmund matches}}
+
+{{DEFAULTSORT:Super Cup 1997}}
+[[Category:1997–98 in European men's continental football]]
+[[Category:UEFA Super Cup matches|1997]]
+[[Category:FC Barcelona matches]]
+[[Category:Borussia Dortmund matches]]
+[[Category:Football matches in Germany|1997]]
+[[Category:1997–98 in Spanish football]]
+[[Category:1997–98 in German football]]
+[[Category:January 1998 sports events in Europe]]
+[[Category:March 1998 sports events in Germany]]
+[[Category:Sports competitions in Dortmund]]
+[[Category:20th century in Dortmund]]
+[[Category:Football matches in Barcelona]]
+[[Category:1990s in Barcelona]]
+[[Category:1997 in Catalan sport]]
+[[Category:1990s in North Rhine-Westphalia]]
+[[Category:Long stubs with short prose]]
+[[Category:Football competitions in North Rhine-Westphalia]]
+[[Category:Germany–Spain sports relations]]
+
+{{Europe-footy-competition-stub}}

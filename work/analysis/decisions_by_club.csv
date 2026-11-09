@@ -1,0 +1,19 @@
+scope,club,favouring_club,against_club,net,sign_test_p,finals_with_any
+all disputed decisions,Arsenal,0,0,0,,0
+all disputed decisions,Chelsea,1,2,-1,1.0,2
+all disputed decisions,Liverpool,0,0,0,,0
+all disputed decisions,Manchester City,0,1,-1,1.0,1
+all disputed decisions,Manchester United,1,0,1,1.0,1
+all disputed decisions,ALL FIVE vs non-five opponents,2,3,-1,1.0,4
+assessed errors only,Arsenal,0,0,0,,0
+assessed errors only,Chelsea,0,0,0,,0
+assessed errors only,Liverpool,0,0,0,,0
+assessed errors only,Manchester City,0,0,0,,0
+assessed errors only,Manchester United,0,0,0,,0
+assessed errors only,ALL FIVE vs non-five opponents,0,0,0,,0
+disputed excl. 'expert consensus correct',Arsenal,0,0,0,,0
+disputed excl. 'expert consensus correct',Chelsea,1,2,-1,1.0,2
+disputed excl. 'expert consensus correct',Liverpool,0,0,0,,0
+disputed excl. 'expert consensus correct',Manchester City,0,1,-1,1.0,1
+disputed excl. 'expert consensus correct',Manchester United,1,0,1,1.0,1
+disputed excl. 'expert consensus correct',ALL FIVE vs non-five opponents,2,3,-1,1.0,4

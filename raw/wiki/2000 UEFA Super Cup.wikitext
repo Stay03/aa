@@ -1,0 +1,242 @@
+{{Infobox football match
+|               title = 2000 UEFA Super Cup
+|               image = 2000 UEFA Super Cup match programme.jpg
+|             caption = Match programme cover
+|               event =
+|               team1 = [[Real Madrid CF|Real Madrid]]
+|    team1association = {{fbaicon|ESP|size=30px}}
+|          team1score = 1
+|               team2 = [[Galatasaray S.K. (football)|Galatasaray]]
+|    team2association = {{fbaicon|TUR|size=30px}}
+|          team2score = 2
+|             details = After [[golden goal]] [[Overtime (sports)#Association football|extra time]]
+|                date = 25 August 2000
+|             stadium = [[Stade Louis II]]
+|                city = [[Monaco]]
+|  man_of_the_match1a = [[Okan Buruk]] (Galatasaray)<ref name="pk-09"/>
+|             referee = [[Günther Benkö]] ([[Austrian Football Association|Austria]])<ref name="officials"/>
+|          attendance = 15,000<ref name="pk-09">{{cite web|url=http://en.archive.uefa.com/printoutfiles/competitions/supercup/2009/e/e_2001219_pk.pdf |title=Match Press Kit (2009) |page=18 |publisher=Union of European Football Associations |format=PDF |access-date=1 June 2012 |url-status=dead |archive-url=https://web.archive.org/web/20160303232520/http://en.archive.uefa.com/printoutfiles/competitions/supercup/2009/e/e_2001219_pk.pdf |archive-date=3 March 2016 }}</ref><ref name="man of the match">{{cite news |title=Süper Kupa, Galatasaray'ın |url=http://arsiv.ntvmsnbc.com/news/26226.asp |work=NTV |date=21 September 2000 |access-date=30 August 2014 |language=tr}}</ref>
+|             weather =
+|            previous = [[1999 UEFA Super Cup|1999]]
+|                next = [[2001 UEFA Super Cup|2001]]
+}}
+The '''2000 UEFA Super Cup''' was a [[Association football|football]] match played on 25 August 2000 between [[Real Madrid CF|Real Madrid]] of Spain and [[Galatasaray S.K. (football)|Galatasaray]] of Turkey. Real Madrid qualified by beating [[Valencia CF|Valencia]] in the [[2000 UEFA Champions League Final]], while Galatasaray had made it to the Super Cup after beating [[Arsenal F.C.|Arsenal]] in the [[2000 UEFA Cup Final]]. Galatasaray won the match 2–1, both goals scored by [[Mário Jardel]], the latter a [[golden goal]].<ref>[https://web.archive.org/web/20010503155837/http://www.uefa.com/SuperCup/news/index.asp?Page=1&News=6970 Report]</ref>
+
+This was the first Super Cup contested by the winners of the UEFA Cup (now the [[UEFA Europa League]]). Until 1999, it was contested by the winners of the [[UEFA Champions League]] and the winners of the [[UEFA Cup Winners' Cup]], but the Cup Winners' Cup was discontinued after the 1998–99 season.
+
+==Venue==
+The [[Stade Louis II]] in [[Monaco]] has been the venue for the UEFA Super Cup since 1998.<ref name="pk-09"/> It was built in 1985, and is also the home of [[AS Monaco FC|AS Monaco]], who play in the French league system.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[1999–2000 UEFA Champions League]] winners
+|[[1998 UEFA Super Cup|1998]]
+|-
+|{{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|[[1999–2000 UEFA Cup]] winners
+|None
+|}
+
+[[Steve McManaman]] was controversially left out of Real Madrid's starting line-up and squad for the match.<ref>{{cite web |title= McManaman in Chelsea talks |url= https://www.theguardian.com/football/2000/aug/25/newsstory.sport2 |website=The Guardian |access-date=3 June 2023 }}</ref>
+
+{{clear}}
+
+==Match==
+
+===Details===
+{{Football box
+|date = 25 August 2000
+|time = 20:45 [[Central European Summer Time|CEST]]
+|team1 = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score = 1–2
+|agget = yes
+|report = https://www.uefa.com/uefasupercup/match/<!--round=1477/match=-->65636/
+|team2 = {{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|goals1 = [[Raúl (footballer)|Raúl]] {{goal|79|pen.}}
+|goals2 = [[Mário Jardel|Jardel]] {{goal|41|pen.}}, {{golden goal|102}}
+|stadium = [[Stade Louis II]], [[Monaco]]
+|attendance = 15,000<ref name="pk-09"/>
+|referee = [[Günter Benkö]] ([[Austrian Football Association|Austria]])<ref name="officials">{{cite news |title=Galatasaray, Süper Kupa finalinde |url=http://arsiv.ntvmsnbc.com/news/25051.asp |work=NTV |date=25 August 2000 |access-date=30 August 2014 |language=tr}}</ref>
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rmcf0001h
+ | pattern_b  = _rmcf0001h
+ | pattern_ra = _rm0001h
+ | pattern_sh = _rmcf0001h
+ | pattern_so = _rmcf0304h
+ | leftarm    = FFFFFF
+ | body       = C0C0C0
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|{{Football kit
+ | pattern_la = _Gala00 01
+ | pattern_b  = _Galatasaray2000 01
+ | pattern_ra = _Gala00 01
+ | pattern_sh = _Galatasaray00 01away
+ | pattern_so = _Galatasaray3rd2000 01
+ | leftarm    =
+ | body       =
+ | rightarm   =
+ | shorts     =
+ | socks      = d70000
+ | title      = Galatasaray
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Iker Casillas]]
+|-
+|RB ||'''21'''||{{flagicon|CMR}} [[Geremi]]
+|-
+|CB ||'''12'''||{{flagicon|ESP}} [[Iván Campo]] || || {{suboff|66}}
+|-
+|CB ||'''15'''||{{flagicon|ESP}} [[Iván Helguera]] || {{yel|32}}
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Roberto Carlos]]
+|-
+|RM ||'''10'''||{{flagicon|POR}} [[Luís Figo]] || {{yel|70}}
+|-
+|CM ||'''16'''||{{flagicon|FRA|1974}} [[Claude Makélélé]] || {{yel|22}}
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[Albert Celades]] || || {{suboff|100}}
+|-
+|LM ||'''11'''||{{flagicon|BRA}} [[Sávio (footballer, born 1974)|Sávio]]
+|-
+|AM ||'''14'''||{{flagicon|ESP}} [[Guti]] || || {{suboff|53}}
+|-
+|CF ||'''7''' ||{{flagicon|ESP}} [[Raúl (footballer)|Raúl]] ([[Captain (association football)|c]])
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[César Sánchez]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Míchel Salgado]] || || {{subon|100}}
+|-
+|DF ||'''18'''||{{flagicon|ESP}} [[Aitor Karanka]]
+|-
+|MF ||'''17'''||{{flagicon|BRA}} [[Flávio Conceição]] || || {{subon|66}}
+|-
+|MF ||'''19'''||{{flagicon|ARG}} [[Santiago Solari]]
+|-
+|FW ||'''22'''||{{flagicon|ESP}} [[Pedro Munitis]] || {{yel|99}} || {{subon|53}}
+|-
+|FW ||'''24'''||{{flagicon|ESP}} [[Tote (footballer)|Tote]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Vicente del Bosque]]
+|}
+|valign="top"|[[File:Real Madrid vs Galatasaray 2000-08-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Cláudio Taffarel]]
+|-
+|RB ||'''35'''||{{flagicon|BRA}} [[Capone (footballer)|Capone]] || || {{suboff|86}}
+|-
+|CB ||'''4''' ||{{flagicon|ROU}} [[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]]
+|-
+|CB ||'''3''' ||{{flagicon|TUR}} [[Bülent Korkmaz]] ([[Captain (association football)|c]])
+|-
+|LB ||'''57'''||{{flagicon|TUR}} [[Hakan Ünsal]]
+|-
+|RM ||'''7''' ||{{flagicon|TUR}} [[Okan Buruk]] || {{yel|7}} || {{suboff|81}}
+|-
+|CM ||'''5''' ||{{flagicon|TUR}} [[Emre Belözoğlu]]
+|-
+|CM ||'''8''' ||{{flagicon|TUR}} [[Suat Kaya]] || {{yel|29}}
+|-
+|LM ||'''10'''||{{flagicon|ROU}} [[Gheorghe Hagi]] || || {{suboff|71}}
+|-
+|CF ||'''22'''||{{flagicon|TUR}} [[Ümit Davala]] || {{yel|90}}
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Mário Jardel]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|TUR}} [[Kerem İnan]]
+|-
+|DF ||'''6''' ||{{flagicon|TUR}} [[Ahmet Yıldırım]]
+|-
+|DF ||'''14'''||{{flagicon|TUR}} [[Fatih Akyel]] || || {{subon|86}}
+|-
+|DF ||'''26'''||{{flagicon|TUR}} [[Emre Aşık]]
+|-
+|MF ||'''11'''||{{flagicon|TUR}} [[Hasan Şaş]] || || {{subon|81}}
+|-
+|MF ||'''28'''||{{flagicon|TUR}} [[Bülent Akın]] || || {{subon|71}}
+|-
+|FW ||'''20'''||{{flagicon|TUR}} [[Serkan Aykut]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ROU}} [[Mircea Lucescu]]
+|}
+|}
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Okan Buruk]] (Galatasaray)<ref name="pk-09"/><ref name="man of the match"/>
+
+'''Assistant referees:'''
+<br />Egon Bereuter ([[Austrian Football Association|Austria]])<ref name="officials"/>
+<br />Markus Mayr ([[Austrian Football Association|Austria]])<ref name="officials"/>
+<br />'''Fourth official:'''
+<br />Fritz Stuchlik ([[Austrian Football Association|Austria]])<ref name="officials"/>
+|style="width:60%;vertical-align:top;"|
+'''Match rules'''
+* 90 minutes
+* 30 minutes of golden goal [[Overtime (sports)#Association football|extra time]] if necessary
+* [[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+* Seven named substitutes, of which up to three may be used
+|}
+
+==See also==
+* [[2000–01 UEFA Champions League]]
+* [[2000–01 UEFA Cup]]
+* [[2000–01 Galatasaray S.K. season]]
+* [[2000–01 Real Madrid CF season]]
+* [[Galatasaray S.K. in international football]]
+* [[Real Madrid CF in international football competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.uefa.com/uefasupercup/history/2000/ 2000 UEFA Super Cup] at UEFA.com
+
+{{UEFA Super Cup}}
+{{2000–01 in European football (UEFA)}}
+{{Galatasaray S.K. matches}}
+{{Real Madrid CF matches}}
+
+{{DEFAULTSORT:2000 Uefa Super Cup}}
+[[Category:2000–01 in European men's continental football|Super Cup]]
+[[Category:2000 in Monégasque sport|UEFA]]
+[[Category:Real Madrid CF matches|UEFA Super Cup 2000]]
+[[Category:Galatasaray S.K. (football) matches|UEFA Super Cup 2000]]
+[[Category:UEFA Super Cup matches]]
+[[Category:2000–01 in Spanish men's football|Supercup]]
+[[Category:2000–01 in Turkish football|Supercup]]
+[[Category:Football matches in Monaco]]
+[[Category:August 2000 sports events in Europe]]
+[[Category:Spain–Turkey relations]]

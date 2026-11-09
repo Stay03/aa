@@ -1,0 +1,612 @@
+{{Use dmy dates|date=October 2020}}
+{{Infobox football match
+| title              = 2014 UEFA Europa League final
+| image              = 2014 UEFA Europa League Final programme.jpg
+| caption            = Match programme cover
+| event              = [[2013–14 UEFA Europa League]]
+| team1              = [[Sevilla FC|Sevilla]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 0
+| team2              = [[S.L. Benfica|Benfica]]
+| team2association   = {{fbaicon|POR|size=30px}}
+| team2score         = 0
+| details            = After [[Overtime (sports)#Association football|extra time]]<br />Sevilla won 4–2 on [[Penalty shoot-out (association football)|penalties]]
+| date               = 14 May 2014
+| stadium            = [[Juventus Stadium]]
+| city               = [[Turin]]
+| man_of_the_match1a = [[Ivan Rakitić]] (Sevilla)<ref name="motm">{{cite news |first=Mike |last=Hammond |title=UEFA Europa League final stats and facts |url=https://www.uefa.com/uefaeuropaleague/news/0250-0c5106f8ab42-2858ce4b1926-1000--uefa-europa-league-final-stats-and-facts/ |publisher=UEFA.com (Union of European Football Associations) |date=15 May 2014 |access-date=15 May 2014 }}</ref>
+| referee            = [[Felix Brych]] ([[German Football Association|Germany]])<ref name="referees"/>
+| attendance         = 33,120<ref name="full_time"/>
+| weather            = Sunny<br />{{convert|16|°C|°F}}<br />40% humidity<ref name="line-ups"/>
+| previous           = [[2013 UEFA Europa League final|2013]]
+| next               = [[2015 UEFA Europa League final|2015]]
+}}
+The '''2014 UEFA Europa League final''' was the final match of the [[2013–14 UEFA Europa League]], the 43rd season of [[Europe]]'s secondary club [[association football|football]] tournament organised by [[UEFA]], and the fifth season since it was renamed from the UEFA Cup to the [[UEFA Europa League]]. It was played at the [[Juventus Stadium]] in [[Turin]], Italy on 14 May 2014,<ref>{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2014/accesslist/index.html |title=2013/14 UEFA Europa League access list |publisher=[[UEFA]] |url-status=dead |archive-url=https://web.archive.org/web/20140407032743/http://www.uefa.com/uefaeuropaleague/season%3D2014/accesslist/index.html |archive-date=7 April 2014}}</ref> between Spanish side [[Sevilla FC|Sevilla]] and Portuguese side [[S.L. Benfica|Benfica]]. Sevilla won the match 4–2 on [[Penalty shoot-out (association football)|penalties]], following a 0–0 draw after [[Overtime (sports)#Association football|extra time]].<ref>{{cite web|url=https://www.theguardian.com/football/2014/may/14/sevilla-benfica-europa-league-final-match-report|title=Sevilla take the penalty prize as Guttmann's 'curse' does for Benfica|date=14 May 2014|work=The Guardian|access-date=15 May 2014}}</ref><ref>{{cite web|url=https://www.bbc.com/sport/0/football/27375727|title=Sevilla 0-0 Benfica (AET, 4-2 on pens)|date=14 May 2014|work=BBC Sport |access-date=15 May 2014}}</ref>
+
+Sevilla secured their third title in eight years, after winning the competition in [[2006 UEFA Cup final|2006]] and [[2007 UEFA Cup final|2007]]. With this triumph, they joined [[Juventus FC|Juventus]] ([[1977 UEFA Cup final|1977]], [[1990 UEFA Cup final|1990]], [[1993 UEFA Cup final|1993]]), [[Inter Milan]] ([[1991 UEFA Cup final|1991]], [[1994 UEFA Cup final|1994]], [[1998 UEFA Cup final|1998]]) and [[Liverpool F.C.|Liverpool]] ([[1973 UEFA Cup final|1973]], [[1976 UEFA Cup final|1976]], [[2001 UEFA Cup final|2001]]) as the teams with the most wins. Benfica lost their second consecutive UEFA Europa League final, following their defeat against [[Chelsea F.C.|Chelsea]] in the [[2013 UEFA Europa League final|2013 final]]. Including their runner-up finish in [[1983 UEFA Cup final|1983]], Benfica is the team with the most lost finals in the competition.
+
+As the winners, Sevilla earned the right to play against [[2013–14 UEFA Champions League]] winners [[Real Madrid CF|Real Madrid]] in the [[2014 UEFA Super Cup]].
+
+==Venue==
+[[File:2021–22 UEFA Women's Champions League Final in Turin, Italy 1.jpg|thumb|270x270px|The Juventus Stadium in Turin, Italy, hosted the final.]]
+The [[Juventus Stadium]] in [[Turin]], Italy, was chosen as the venue of the match at a UEFA Executive Committee meeting in [[Istanbul]], Turkey, on 20 March 2012.<ref>{{cite web |title=UEFA Executive Committee agenda for Istanbul meeting |url=http://www.uefa.org/mediaservices/mediareleases/newsid=1766100.html |publisher=UEFA.org (Union of European Football Associations) |date=9 March 2012 |access-date=18 May 2014 |archive-date=24 April 2015 |archive-url=https://web.archive.org/web/20150424145849/http://www.uefa.org/mediaservices/mediareleases/newsid=1766100.html |url-status=dead }}</ref><ref>{{cite web |title=Turin to stage 2014 UEFA Europa League final |url=https://www.uefa.com/uefaeuropaleague/news/01fb-0e7d592f37d2-fab4de0bb9bb-1000--turin-to-stage-2014-uefa-europa-league-final/ |publisher=UEFA.com (Union of European Football Associations) |date=20 March 2012 }}</ref> It is the home stadium of [[Juventus FC|Juventus]] since 2011. This was the first time that a one-legged final was hosted in Turin. Previous UEFA Cup finals contested over two legs have had one of their matches played in Turin. The first legs of the [[1977 UEFA Cup final]] and the [[1990 UEFA Cup final]], both contested by Juventus, were played at the Stadio Comunale (now the [[Stadio Olimpico di Torino]]). The first leg of the [[1992 UEFA Cup final]], contested by [[Torino FC|Torino]], and the second leg of the [[1993 UEFA Cup final]], contested by Juventus, were played at the [[Stadio delle Alpi]], which has been demolished to make way for the Juventus Stadium.<ref>{{cite web |title=Previous European finals in Turin |url=https://www.uefa.com/uefaeuropaleague/news/025a-0ea7b98f938d-150124fadc7e-1000--previous-european-finals-in-turin/ |publisher=UEFA.com (Union of European Football Associations) |date=1 May 2014 }}</ref>
+
+==Background==
+After a comeback by their opponents [[Valencia CF|Valencia]], who had lost the first leg 2–0, [[Sevilla FC|Sevilla]] secured their presence in the final after [[Stéphane Mbia]]'s injury-time header qualified them on [[Away goals rule|away goals]].<ref>{{cite web|url=https://www.bbc.com/sport/0/football/27226541|title=Valencia 3 Sevilla 1|publisher=BBC Sport|date=1 May 2014}}</ref> Sevilla had previously played in two UEFA Cup finals, winning both times in [[2006 UEFA Cup final|2006]] and [[2007 UEFA Cup final|2007]],<ref name="benfica-sevilla">{{cite web |title=Benfica and Sevilla to meet in Turin final |url=https://www.uefa.com/uefaeuropaleague/news/0215-0e8a8c9e80fc-fe7d22ca140a-1000--benfica-and-sevilla-to-meet-in-turin-final/ |publisher=UEFA.com (Union of European Football Associations) |date=1 May 2014 }}</ref> and were aiming to become the fourth team to [[UEFA Cup and Europa League records and statistics|win three UEFA Cup/Europa League titles]], after [[Juventus FC|Juventus]], [[Inter Milan]] and [[Liverpool F.C.|Liverpool]].<ref>{{cite web |title=Hat-trick trio: The three-time winners |url=https://www.uefa.com/uefaeuropaleague/news/0250-0c51058057d2-f2453ea8b6f7-1000--sevilla-make-it-four-three-time-winners/ |publisher=UEFA.com (Union of European Football Associations) |date=7 May 2014 }}</ref>
+
+[[S.L. Benfica|Benfica]] reached their second consecutive Europa League final,<ref name="stats">{{cite web|title=Semi-finals: second-leg stats and facts|url=https://www.uefa.com/uefaeuropaleague/news/0215-0e8a9176e83f-c8f5a8749350-1000--semi-finals-second-leg-stats-and-facts/|publisher=UEFA|access-date=3 May 2014|date=2 May 2014}}</ref> after defeating [[Juventus FC|Juventus]] 2–1 on aggregate and denying their opponents a chance to play the final at their home stadium.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/27226534|title=Juventus 0 Benfica 0|publisher=BBC Sport|date=1 May 2014}}</ref> It was the first time a club has reached consecutive finals in the competition, having featured in the Champions League group stage on each occasion. Both of their previous UEFA Cup/Europa League finals, in [[1983 UEFA Cup final|1983]] and [[2013 UEFA Europa League final|2013]], ended in defeats. They had also played in seven [[UEFA Champions League|European Cup]] finals ([[1961 European Cup final|1961]], [[1962 European Cup final|1962]], [[1963 European Cup final|1963]], [[1965 European Cup final|1965]], [[1968 European Cup final|1968]], [[1988 European Cup final|1988]], [[1990 European Cup final|1990]]). After winning successive European titles in 1961 and 1962, they had lost seven straight major European finals.<ref name="benfica-sevilla"/>
+
+The final was Sevilla's 19th match in the competition, having started their participation in the third qualifying round against Montenegrin side [[OFK Titograd|Mladost Podgorica]].<ref name="stats"/> They only qualified for the competition after [[Málaga CF|Málaga]] were banned and [[Rayo Vallecano]] were denied a UEFA licence.<ref>{{cite web|url=http://beta.thescore.com/news/493246|title=Sevilla and Benfica to meet in Europa League final|publisher=theScore.com|date=2 May 2014}}</ref> Benfica transitioned from the [[2013–14 UEFA Champions League group stage|Champions League group stage]], after finishing third in their group, behind [[Paris Saint-Germain FC|Paris Saint-Germain]] and [[Olympiacos F.C.|Olympiacos]]. They became the first team to reach the Europa League final without conceding a defeat, registering six wins and two draws in eight knockout phase matches.<ref name="stats"/>
+
+The only previous meeting between Sevilla and Benfica in European competition was in the [[1957–58 European Cup]] preliminary round. The first leg at [[Estadio de Nervión]], won by Sevilla 3–1, marked the European debut of both clubs. The second leg at [[Estádio da Luz (1954)|Estádio da Luz]] ended 0–0, giving Sevilla the victory on aggregate, and they later reached the quarter-finals before losing to eventual champions [[Real Madrid CF|Real Madrid]].<ref>{{cite web |title=Benfica and Sevilla going back to the start |url=https://www.uefa.com/uefaeuropaleague/news/0215-0e8a9db2ce29-6fa0e222bb75-1000--benfica-and-sevilla-going-back-to-the-start/ |publisher=UEFA.com (Union of European Football Associations) |date=5 May 2014 }}</ref>
+
+==Route to the final==
+{{further|2013–14 UEFA Europa League}}
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+!Round
+!colspan=4|{{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|-bgcolor=#c1e0ff
+|colspan=4|'''[[2013–14 UEFA Europa League|Europa League]]'''
+|
+|colspan=4|'''[[2013–14 UEFA Champions League|Champions League]]'''
+|-bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|Qualifying phase ([[2013–14 UEFA Europa League qualifying phase|EL]], [[2013–14 UEFA Champions League qualifying phase and play-off round|CL]])
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|MNE}} [[OFK Titograd|Mladost Podgorica]]
+|9–1
+|[[2013–14 UEFA Europa League qualifying phase#Sevilla v Mladost Podgorica|3–0]] (H)
+|[[2013–14 UEFA Europa League qualifying phase#Mladost Podgorica v Sevilla|6–1]] (A)
+|bgcolor=#c1e0ff|Third qualifying round
+|colspan=4 rowspan=2|Bye
+|-
+|align=left|{{fbaicon|POL}} [[Śląsk Wrocław]]
+|9–1
+|[[2013–14 UEFA Europa League play-off round#Sevilla v Śląsk Wrocław|4–1]] (H)
+|[[2013–14 UEFA Europa League play-off round#Śląsk Wrocław v Sevilla|5–0]] (A)
+|bgcolor=#c1e0ff|Play-off round
+|-bgcolor=#c1e0ff
+|Opponent
+|colspan=3|Result
+|Group stage ([[2013–14 UEFA Europa League group stage|EL]], [[2013–14 UEFA Champions League group stage|CL]])
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|POR}} [[G.D. Estoril Praia|Estoril]]
+|colspan=3|[[2013–14 UEFA Europa League group stage#Estoril v Sevilla|2–1]] (A)
+|bgcolor=#c1e0ff|Matchday 1
+|align=left|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Benfica v Anderlecht|2–0]] (H)
+|-
+|align=left|{{fbaicon|GER}} [[SC Freiburg]]
+|colspan=3|[[2013–14 UEFA Europa League group stage#Sevilla v SC Freiburg|2–0]] (H)
+|bgcolor=#c1e0ff|Matchday 2
+|align=left|{{fbaicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Paris Saint-Germain v Benfica|0–3]] (A)
+|-
+|align=left|{{fbaicon|CZE}} [[FC Slovan Liberec|Slovan Liberec]]
+|colspan=3|[[2013–14 UEFA Europa League group stage#Slovan Liberec v Sevilla|1–1]] (A)
+|bgcolor=#c1e0ff|Matchday 3
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Benfica v Olympiacos|1–1]] (H)
+|-
+|align=left|{{fbaicon|CZE}} [[FC Slovan Liberec|Slovan Liberec]]
+|colspan=3|[[2013–14 UEFA Europa League group stage#Sevilla v Slovan Liberec|1–1]] (H)
+|bgcolor=#c1e0ff|Matchday 4
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Olympiacos v Benfica|0–1]] (A)
+|-
+|align=left|{{fbaicon|POR}} [[G.D. Estoril Praia|Estoril]]
+|colspan=3|[[2013–14 UEFA Europa League group stage#Sevilla v Estoril|1–1]] (H)
+|bgcolor=#c1e0ff|Matchday 5
+|align=left|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Anderlecht v Benfica|3–2]] (A)
+|-
+|align=left|{{fbaicon|GER}} [[SC Freiburg]]
+|colspan=3|[[2013–14 UEFA Europa League group stage#SC Freiburg v Sevilla|2–0]] (A)
+|bgcolor=#c1e0ff|Matchday 6
+|align=left|{{fbaicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan=3|[[2013–14 UEFA Champions League group stage#Benfica v Paris Saint-Germain|2–1]] (H)
+|-
+| colspan="4" rowspan="2" valign="top" |'''[[2013–14 UEFA Europa League group stage#Group H|Group H]] winners'''
+{{:2013–14 UEFA Europa League group stage|transcludesection=Group H|show_matches=n|only_pld_pts=yes|showteam=SEV}}
+|bgcolor=#c1e0ff|Final standings
+|colspan=4 valign=top|'''[[2013–14 UEFA Champions League group stage#Group C|Group C]] third place'''
+{{:2013–14 UEFA Champions League group stage|transcludesection=Group C|show_matches=n|only_pld_pts=yes|showteam=BEN}}
+|-bgcolor=#c1e0ff
+|
+| colspan="4" |[[2013–14 UEFA Europa League|'''Europa League''']]
+|-bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2013–14 UEFA Europa League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|SVN}} [[NK Maribor|Maribor]]
+|4–3
+|[[2013–14 UEFA Europa League knockout phase#Maribor v Sevilla|2–2]] (A)
+|[[2013–14 UEFA Europa League knockout phase#Sevilla v Maribor|2–1]] (H)
+|bgcolor=#c1e0ff|Round of 32
+|align=left|{{fbaicon|GRE}} [[PAOK FC|PAOK]]
+|4–0
+|[[2013–14 UEFA Europa League knockout phase#PAOK v Benfica|1–0]] (A)
+|[[2013–14 UEFA Europa League knockout phase#Benfica v PAOK|3–0]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Real Betis]]
+|2–2 (4–3 [[Penalty shoot-out (association football)|p]])
+|[[2013–14 UEFA Europa League knockout phase#Sevilla v Real Betis|0–2]] (H)
+|[[2013–14 UEFA Europa League knockout phase#Real Betis v Sevilla|2–0]] (A)
+|bgcolor=#c1e0ff|Round of 16
+|align=left|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|5–3
+|[[2013–14 UEFA Europa League knockout phase#Tottenham Hotspur v Benfica|3–1]] (A)
+|[[2013–14 UEFA Europa League knockout phase#Benfica v Tottenham Hotspur|2–2]] (H)
+|-
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|4–2
+|[[2013–14 UEFA Europa League knockout phase#Porto v Sevilla|0–1]] (A)
+|[[2013–14 UEFA Europa League knockout phase#Sevilla v Porto|4–1]] (H)
+|bgcolor=#c1e0ff|Quarter-finals
+|align=left|{{fbaicon|NED}} [[AZ Alkmaar|AZ]]
+|3–0
+|[[2013–14 UEFA Europa League knockout phase#AZ v Benfica|1–0]] (A)
+|[[2013–14 UEFA Europa League knockout phase#Benfica v AZ|2–0]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|3–3 ([[Away goals rule|a]])
+|[[2013–14 UEFA Europa League knockout phase#Sevilla v Valencia|2–0]] (H)
+|[[2013–14 UEFA Europa League knockout phase#Valencia v Sevilla|1–3]] (A)
+|bgcolor=#c1e0ff|Semi-finals
+|align=left|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|2–1
+|[[2013–14 UEFA Europa League knockout phase#Benfica v Juventus|2–1]] (H)
+|[[2013–14 UEFA Europa League knockout phase#Juventus v Benfica|0–0]] (A)
+|}
+
+==Pre-match==
+
+===Ambassador===
+[[File:Ciro Ferrara.jpg|thumb|upright|[[Ciro Ferrara]] was the ambassador for the final.]]
+
+Former Italy international and Juventus player [[Ciro Ferrara]], who won the UEFA Cup in 1989 with [[SSC Napoli|Napoli]], was named as the ambassador for the final.<ref>{{cite web |title=Ferrara picked as Turin final ambassador |url=https://www.uefa.com/uefaeuropaleague/news/020c-0e14503e4823-fc1aa57048f8-1000--ferrara-picked-as-turin-final-ambassador/ |publisher=UEFA.com (Union of European Football Associations) |date=30 August 2013 }}</ref>
+
+===Identity===
+UEFA unveiled the visual identity of the final on 30 August 2013, the same day as the group stage draw.<ref>{{cite web |title=Visual identity for Turin final |url=https://www.uefa.com/uefaeuropaleague/news/020c-0e14506e4a6f-3098490c7286-1000--visual-identity-for-turin-final/ |publisher=UEFA.com (Union of European Football Associations) |date=30 August 2013 }}</ref>
+
+===Ticketing===
+The international ticket sales phase for the general public ran from 27 February to 25 March 2014. Tickets were available in four price categories: [[Euro|€]]150, €100, €70, and €45.<ref>{{cite web |title=Turin final tickets go on international sale |url=https://www.uefa.com/uefaeuropaleague/news/0212-0e89143f34b5-aa57ab203b78-1000--turin-final-tickets-go-on-international-sale/ |publisher=UEFA.com (Union of European Football Associations) |date=27 February 2014 }}</ref>
+
+===Officials===
+German referee [[Felix Brych]] was named by UEFA on 7 May 2014 as the referee of the final.<ref name="referees">{{cite web |title=Brych to referee UEFA Europa League final |url=https://www.uefa.com/uefaeuropaleague/news/0215-0e15866d0a91-22c4d1f1c33f-1000--brych-to-referee-uefa-europa-league-final/ |publisher=UEFA.com (Union of European Football Associations) |date=7 May 2014 }}</ref> The rest of the refereeing team are fellow countrymen Mark Borsch and Stefan Lupp as assistant referees, Tobias Welz and Bastian Dankert as additional assistant referees, Thorsten Schiffner as reserve assistant referee, and Serbia's Milorad Mažić as the fourth official.
+
+===Team selection===
+Benfica were not able to play either [[Enzo Pérez]] or [[Lazar Marković]], both of whom were sent off in the second leg of their semi-final.<ref>{{cite web |title=Match Press Kit |url=https://www.uefa.com/printoutfiles/competitions/uefaeuropaleague/2014/E/E_2012680_PK.pdf |archive-url=https://web.archive.org/web/20200306234610/https://www.uefa.com/printoutfiles/competitions/uefaeuropaleague/2014/E/E_2012680_PK.pdf |url-status=dead |archive-date=6 March 2020 |publisher=UEFA.com (Union of European Football Associations) |date=14 May 2014 |access-date=14 May 2014 }}</ref> [[Eduardo Salvio]], who was booked in that match, was also suspended.<ref>{{cite news |title=Juventus 0-0 Benfica |url=https://www.bbc.co.uk/sport/football/27226534 |publisher=BBC Sport (British Broadcasting Corporation) |date=1 May 2014 |access-date=2 May 2014 }}</ref>
+
+==Match==
+
+===Summary ===
+At full-time, the game was locked at 0–0. After a further 30 minutes of extra time, both sides were still scoreless.<ref name=":0">{{Cite news|url=https://www.telegraph.co.uk/sport/football/competitions/europa-league/10830506/Benfica-vs-Sevilla-Europa-League-final-live.html|title=Sevilla v Benfica, Europa League final 2014: as it happened|newspaper=Telegraph.co.uk|access-date=2016-11-02}}</ref> This meant the match was the first final to end goalless and the first to be decided by penalty shoot outs.<ref>{{Cite news|url=https://www.uefa.com/uefaeuropaleague/news/0250-0c5106f8ab42-2858ce4b1926-1000--uefa-europa-league-final-stats-and-facts/|title=UEFA Europa League - News – UEFA.com|last=uefa.com|date=2014-05-15|newspaper=[[UEFA]]|access-date=2016-11-02}}</ref> Sevilla won the penalty shoot out 4–2, their goals coming from [[Carlos Bacca]], [[Stéphane Mbia]], [[Coke (footballer)|Coke]] and [[Kevin Gameiro]]. [[Lima (footballer, born 1983)|Lima]] and [[Luisão]] scored for Benfica, while Sevilla goalkeeper [[Beto (footballer, born 1982)|Beto]] saved goals from [[Óscar Cardozo]] and [[Rodrigo (footballer, born 1991)|Rodrigo]].<ref name=":0" /> [[Paul Gardner (journalist)|Paul Gardner]] writing for [[Soccer America]] opined that the [[Assistant referee (association football)|assistant referee]] standing on the goal line allowed Beto to advance too far when he saved the two goals and that Benfica should have been allowed to take the shots again.<ref>{{Cite web|url=http://www.socceramerica.com/article/58069/brazen-goalkeeper-cheating-helps-sevilla-win-europ.html|title=Brazen goalkeeper cheating helps Sevilla win Europa League|last=Gardner|first=Paul|date=15 May 2014|publisher=SoccerAmerica|access-date=17 May 2014}}</ref><ref>{{cite web|url=http://www.vavel.com/br/futebol-internacional/350544-com-arbitragem-polemica-e-muito-drama-sevilla-bate-benfica-nos-penaltis-e-conquista-a-uel.html|title=Com arbitragem polêmica e muito drama, Sevilla bate Benfica nos pênaltis e conquista a UEL|date=14 May 2014|website=vavel.com|publisher=VAVEL Brasil|language=pt|trans-title=With a polemic officiating and much drama, Sevilla beats Benfica on penalties and wins the UEL|access-date=23 January 2015}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2014|5|14|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Sevilla FC|Sevilla]] {{fbaicon|ESP}}
+|score      = 0–0
+|aet        = yes
+|team2      = {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1     =
+|goals2     =
+|stadium    = [[Juventus Stadium]], [[Turin]]
+|attendance = 33,120<ref name="full_time">{{cite web |title=Full-time report |url=https://www.uefa.com/newsfiles/uefacup/2014/2012680_FR.pdf |publisher=UEFA.com (Union of European Football Associations) |date=14 May 2014 |access-date=14 May 2014 }}</ref>
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|penalties1 =
+*[[Carlos Bacca|Bacca]] {{pengoal}}
+*[[Stéphane Mbia|Mbia]] {{pengoal}}
+*[[Coke (footballer)|Coke]] {{pengoal}}
+*[[Kevin Gameiro|Gameiro]] {{pengoal}}
+|penaltyscore = 4–2
+|penalties2 =
+*{{pengoal}} [[Lima (footballer, born 1983)|Lima]]
+*{{penmiss}} [[Óscar Cardozo|Cardozo]]
+*{{penmiss}} [[Rodrigo (footballer, born 1991)|Rodrigo]]
+*{{pengoal}} [[Luisão]]
+|report     = https://www.uefa.com/uefaeuropaleague/match/2012680/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la        = 
+| pattern_b         = _sevilla1314final
+| pattern_ra        = 
+| pattern_sh        = 
+| pattern_so        = _monterrey1213t1
+| leftarm           = ffffff
+| body              = ffffff
+| rightarm          = ffffff
+| shorts            = ffffff
+| socks             = 000000
+ |title      = Sevilla<ref name="line-ups">{{cite web |title=Tactical lineups |url=https://www.uefa.com/newsfiles/uefacup/2014/2012680_LU.pdf |publisher=UEFA.com (Union of European Football Associations) |date=14 May 2014 |access-date=14 May 2014 }}</ref>
+}}
+|{{Football kit
+ |pattern_la = _benfica1314h
+ |pattern_b  = _benfica1314home
+ |pattern_ra = _benfica1314h
+ |pattern_sh = _benfica1314a
+ |pattern_so = _benfica1314hl
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 000000
+ |socks      = FF0000
+ |title      = Benfica<ref name="line-ups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:40%;"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|POR}} [[Beto (footballer, born 1982)|Beto]]
+|-
+|RB ||'''23'''||{{flagicon|ESP}} [[Coke (footballer)|Coke]] || {{yel|98}}
+|-
+|CB ||'''21'''||{{flagicon|ARG}} [[Nicolás Pareja]]
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Federico Fazio]] || {{yel|11}}
+|-
+|LB ||'''16'''||{{flagicon|ESP}} [[Alberto Moreno]] || {{yel|13}}
+|-
+|DM ||'''40'''||{{flagicon|CMR}} [[Stéphane Mbia]]
+|-
+|DM ||'''6''' ||{{flagicon|POR}} [[Daniel Carriço]]
+|-
+|CM ||'''11'''||{{flagicon|CRO}} [[Ivan Rakitić]] ([[Captain (association football)|c]])
+|-
+|RW ||'''19'''||{{flagicon|ESP}} [[José Antonio Reyes]] || || {{suboff|78}}
+|-
+|LW ||'''20'''||{{flagicon|ESP}} [[Vitolo (footballer, born 1989)|Vitolo]] || || {{suboff|110}}
+|-
+|CF ||'''9''' ||{{flagicon|COL}} [[Carlos Bacca]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Javi Varas]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Fernando Navarro (Spanish footballer)|Fernando Navarro]]
+|-
+|DF ||'''5''' ||{{flagicon|POR}} [[Diogo Figueiras]] || || {{subon|110}}
+|-
+|MF ||'''7''' ||{{flagicon|GER}} [[Marko Marin]] || || {{subon|78}} || {{suboff|104}}
+|-
+|MF ||'''12'''||{{flagicon|ESP}} [[Vicente Iborra]]
+|-
+|MF ||'''15'''||{{flagicon|GER}} [[Piotr Trochowski]]
+|-
+|FW ||'''18'''||{{flagicon|FRA|1974}} [[Kevin Gameiro]] || || || {{subon|104}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Unai Emery]]
+|}
+|style="vertical-align:top"|[[File:Sevilla vs Benfica 2014-05-14.svg|300px]]
+|style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''41'''||{{flagicon|SVN}} [[Jan Oblak]]
+|-
+|RB ||'''14'''||{{flagicon|URU}} [[Maxi Pereira]]
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Luisão]] ([[Captain (association football)|c]])
+|-
+|CB ||'''24'''||{{flagicon|ARG}} [[Ezequiel Garay]]
+|-
+|LB ||'''16'''||{{flagicon|BRA}} [[Guilherme Siqueira]] || {{yel|30}} || {{suboff|99}}
+|-
+|RM ||'''6''' ||{{flagicon|POR}} [[Ruben Amorim]]
+|-
+|CM ||'''30'''||{{flagicon|POR}} [[André Gomes]]
+|-
+|LM ||'''20'''||{{flagicon|ARG}} [[Nicolás Gaitán]] || || {{suboff|119}}
+|-
+|RF ||'''8''' ||{{flagicon|SRB}} [[Miralem Sulejmani]] || || {{suboff|25}}
+|-
+|CF ||'''11'''||{{flagicon|BRA}} [[Lima (footballer, born 1983)|Lima]]
+|-
+|LF ||'''19'''||{{flagicon|ESP}} [[Rodrigo (footballer, born 1991)|Rodrigo]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Artur Moraes|Artur]]
+|-
+|DF ||'''3''' ||{{flagicon|POR}} [[Steven Vitória]]
+|-
+|DF ||'''33'''||{{flagicon|BRA}} [[Jardel (footballer, born 1986)|Jardel]]
+|-
+|MF ||'''10'''||{{flagicon|SRB}} [[Filip Đuričić]]
+|-
+|MF ||'''34'''||{{flagicon|POR}} [[André Almeida (footballer, born 1990)|André Almeida]] || {{yel|100}} || {{subon|25}}
+|-
+|FW ||'''7''' ||{{flagicon|PAR}} [[Óscar Cardozo]] || || {{subon|99}}
+|-
+|FW ||'''90'''||{{flagicon|POR}} [[Ivan Cavaleiro]] || || {{subon|119}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|POR}} [[Jorge Jesus]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Ivan Rakitić]] (Sevilla)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Mark Borsch ([[German Football Association|Germany]])
+<br />Stefan Lupp ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referees"/>
+<br />[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="referees"/>
+<br />[[Tobias Welz]] ([[German Football Association|Germany]])
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="referees"/>
+<br />Thorsten Schiffner ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/94/62/40/1946240_DOWNLOAD.pdf|archive-url=https://web.archive.org/web/20130514121404/http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/94/62/40/1946240_DOWNLOAD.pdf|url-status=dead|archive-date=14 May 2013|title=Regulations of the UEFA Europa League 2013/14 |publisher=UEFA|location=Nyon|access-date=1 May 2013 |date=March 2013}}</ref>
+*90 minutes.
+*30 minutes of [[Extra time (association football)|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes.
+*Maximum of three substitutions.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2014/2012680_TS.pdf |title=Team statistics |publisher=UEFA.com (Union of European Football Associations)|date=14 May 2014 |access-date=29 May 2014}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Sevilla
+!scope="col" style="width:70px"|Benfica
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|4
+|6
+|-
+!scope=row|Shots on target
+|3
+|4
+|-
+!scope=row|Saves
+|4
+|3
+|-
+!scope=row|Ball possession
+|53%
+|47%
+|-
+!scope=row|Corner kicks
+|2
+|2
+|-
+!scope=row|Fouls committed
+|11
+|12
+|-
+!scope=row|Offsides
+|2
+|0
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Sevilla
+!scope="col" style="width:70px"|Benfica
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|4
+|12
+|-
+!scope=row|Shots on target
+|3
+|10
+|-
+!scope=row|Saves
+|10
+|3
+|-
+!scope=row|Ball possession
+|53%
+|47%
+|-
+!scope=row|Corner kicks
+|2
+|5
+|-
+!scope=row|Fouls committed
+|6
+|8
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Sevilla
+!scope="col" style="width:70px"|Benfica
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|3
+|3
+|-
+!scope=row|Shots on target
+|1
+|1
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|44%
+|56%
+|-
+!scope=row|Corner kicks
+|0
+|0
+|-
+!scope=row|Fouls committed
+|4
+|5
+|-
+!scope=row|Offsides
+|3
+|0
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Sevilla
+!scope="col" style="width:70px"|Benfica
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|11
+|21
+|-
+!scope=row|Shots on target
+|7
+|15
+|-
+!scope=row|Saves
+|15
+|7
+|-
+!scope=row|Ball possession
+|51%
+|49%
+|-
+!scope=row|Corner kicks
+|4
+|7
+|-
+!scope=row|Fouls committed
+|21
+|25
+|-
+!scope=row|Offsides
+|5
+|1
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2014 UEFA Champions League final]]
+*[[2014 UEFA Super Cup]]
+*[[Sevilla FC in European football]]
+*[[S.L. Benfica in international football]]
+*[[2013–14 Sevilla FC season]]
+*[[2013–14 S.L. Benfica season]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20130609024011/http://www.uefa.com/uefaeuropaleague/season=2014/index.html 2013–14 UEFA Europa League]
+*[https://web.archive.org/web/20130624071319/http://www.uefa.com/uefaeuropaleague/season=2014/final/index.html 2014 final: Turin]
+
+{{UEFA Europa League seasons}}
+{{2013–14 in European football (UEFA)}}
+{{Sevilla F.C. matches}}
+{{S.L. Benfica matches}}
+
+{{DEFAULTSORT:Uefa Europa League final 2014}}
+[[Category:UEFA Europa League finals|2014]]
+[[Category:2013–14 UEFA Europa League|Final]]
+[[Category:2013–14 in Italian football|Uefa Europa League Final]]
+[[Category:Football matches in Turin|Uefa Europa League Final 2014]]
+[[Category:Sevilla FC matches|Uefa Europa League Final 2014]]
+[[Category:S.L. Benfica matches|Uefa Europa League Final 2014]]
+[[Category:2013–14 in Portuguese football|Uefa Europa League Final]]
+[[Category:2013–14 in Spanish men's football|Uefa Europa League Final]]
+[[Category:2010s in Turin]]
+[[Category:May 2014 sports events in Italy]]
+[[Category:Portugal–Spain sports relations|2014]]

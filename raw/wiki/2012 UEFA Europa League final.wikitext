@@ -1,0 +1,549 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title              = 2012 UEFA Europa League Final
+| image              = 2012 UEFA Europa League Final programme.jpg
+| caption            = Match programme cover
+| event              = [[2011–12 UEFA Europa League]]
+| team1              = [[Atlético Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 3
+| team2              = [[Athletic Bilbao]]
+| team2association   = {{fbaicon|ESP|size=30px}} 
+| team2score         = 0
+| details            = 
+| date               = 9 May 2012
+| stadium            = [[Arena Națională]]
+| city               = [[Bucharest]]
+| man_of_the_match1a = [[Radamel Falcao]] {{nowrap|(Atlético Madrid)}}<ref name="Falcao at double as Atlético march to title">{{cite news |first=John |last=Atkin |title=Falcao at double as Atlético march to title |url=https://www.uefa.com/uefaeuropaleague/news/0250-0c50fb7a9e5f-dc5a349f670c-1000--falcao-at-double-as-atletico-march-to-title/ |publisher=UEFA |date=9 May 2012 |access-date=9 May 2012}}</ref>
+| referee            = [[Wolfgang Stark]] ([[German Football Association|Germany]])<ref name="referee" />
+| attendance         = 52,347<ref name="attendance"/>
+| weather            = Cloudy night<br />{{convert|11|°C|°F|abbr=on}}<br />83% [[humidity]]<ref name="lineups">{{cite news |title=Tactical Lineups – Final – Wednesday 9 May 2012 |url=https://www.uefa.com/newsfiles/uefacup/2012/2007480_LU.pdf |publisher=UEFA |date=9 May 2012 |access-date=31 May 2022}}</ref>
+| previous           = [[2011 UEFA Europa League Final|2011]]
+| next               = [[2013 UEFA Europa League Final|2013]]
+}}
+The '''2012 UEFA Europa League Final''' was the final match of the [[2011–12 UEFA Europa League]], the 41st season of [[Europe]]'s secondary club [[association football|football]] tournament organised by [[UEFA]] (after the [[UEFA Champions League]]), and the 3rd season since it was renamed from the UEFA Cup to the [[UEFA Europa League]]. The match was played on 9 May 2012 at the [[Arena Națională]] in [[Bucharest]], [[Romania]],<ref>{{cite web |url=http://www.uefa.com/uefa/management/newsid=1651736.html |title=2011/12 draw and match calendar |publisher=UEFA |url-status=dead |archive-url=https://web.archive.org/web/20120312175418/http://www.uefa.com/uefa/management/newsid%3D1651736.html |archive-date=12 March 2012}}</ref><ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/01fc-0e81b20bc398-ff507cc6caa9-1000--uefa-europa-league-trophy-handed-to-bucharest/ |title=UEFA Europa League trophy handed to Bucharest |date=11 April 2012 |publisher=UEFA |access-date=26 April 2012 |archive-url=https://web.archive.org/web/20120414001318/http://www.uefa.com/uefaeuropaleague/news/newsid=1782928.html#trophy+handed+bucharest |archive-date=14 April 2012 |url-status=live }}</ref> and was contested between two [[Royal Spanish Football Federation|Spanish]] sides – [[Atlético Madrid]] and [[Athletic Bilbao]]. The match ended with Atlético Madrid winning 3–0, with [[Radamel Falcao]] scoring two goals and [[Diego (footballer, born 1985)|Diego]] scoring another.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/17995827 |title=Atl Madrid 3–0 Athletic Bilbao |publisher=BBC Sport |date=9 May 2012|access-date=19 December 2018}}</ref><ref>{{cite news |url=https://www.theguardian.com/football/2012/may/09/atletico-madrid-athletic-bilbao-europa-league |title=Europa League: Radamel Falcao's Atlético Madrid rout Athletic Bilbao |author=Jonathan Wilson |newspaper=The Guardian |date=9 May 2012|access-date=19 December 2018}}</ref> In doing so, Falcao was named man of the match, and became the first player to win back-to-back Europa League titles with different teams.
+
+The winners earned the right to play against [[Chelsea F.C.|Chelsea]], the winners of the [[2011–12 UEFA Champions League]], in the [[2012 UEFA Super Cup]].
+
+==Venue==
+{{further|Arena Națională}}
+[[File:Avropa Liqası Muzeyi Bakıda 33.jpg|thumb|left|Match ball]]
+The Arena Națională was announced by UEFA as the venue of the 2012 final on 30 January 2010.<ref>{{cite news |title=UEFA unveil 2011 and 2012 final venues |url=https://www.uefa.com/news-media/news/01d5-0e70c9e763c9-0b023fd4e3e9-1000--uefa-unveil-2011-and-2012-final-venues/ |publisher=UEFA |date=30 January 2009 |access-date=24 March 2010 |url-status=live |archive-url=https://web.archive.org/web/20110609011924/http://www.uefa.com/uefa/aboutuefa/organisation/executivecommittee/news/newsid%3D796145.html |archive-date=9 June 2011}}</ref> This was the first final of a European football club competition hosted by [[Romania]].
+
+The stadium was built on the site of the former [[Stadionul Național (1953)|national stadium]], and opened on 6 September 2011 with a UEFA Euro 2012 Group D qualifier match between [[Romania national football team|Romania]] and [[France national football team|France]].
+
+==Background==
+[[File:2012 Europa League Final.jpg|thumb|left|The final was preceded by an opening ceremony.]]
+
+This was the second consecutive Europa League final contested by two teams from the same nation, and the ninth time overall (including UEFA Cup).<ref>{{cite web |url=https://www.uefa.com/uefaeuropaleague/news/01fd-0e7e15d70330-d136d6851a9c-1000--final-shining-spotlight-on-local-rivalries/ |title=Final shining spotlight on local rivalries |publisher=UEFA |date=7 May 2012}}</ref> The only other all-Spanish final of UEFA's second club competition was the [[2007 UEFA Cup Final]], when [[Sevilla FC|Sevilla]] defeated [[RCD Espanyol|Espanyol]]. That was also the last final before the [[2019 UEFA Europa League Final]], where both finalist teams had played only in the UEFA Cup/Europa League in their routes to the final (rather than dropping down from the [[UEFA Champions League]], either after the early knockout rounds or after the group stage).
+
+Both teams have played in one previous Europa League/UEFA Cup final. Atlético Madrid won the first Europa League final after its renaming in [[2010 UEFA Europa League Final|2010]], beating [[Fulham F.C.|Fulham]] 2–1 after extra time. Athletic Bilbao lost in [[1977 UEFA Cup Final|1977]] to [[Juventus FC|Juventus]] on away goals after the tie finished 2–2 on aggregate. The two teams have never met in European competition before. They have met each other in three [[Copa del Rey]] finals, with Athletic Bilbao winning two and Atlético Madrid winning one. In the [[2011–12 La Liga]] season, Athletic Bilbao won their home fixture 3–0 and Atlético Madrid won their home fixture 2–1.<ref>{{cite web |url=https://www.uefa.com/uefaeuropaleague/news/01fc-0e7e0428202f-1b0f6a8a2189-1000--bucharest-stage-set-for-all-spanish-showpiece/ |title=Bucharest stage set for all-Spanish showpiece |publisher=UEFA |date=27 April 2012}}</ref>
+
+After losing to [[Udinese Calcio|Udinese]] on 20 October 2011, Atlético Madrid went on a run of 11 straight victories to the final, a record in European football, winning their remaining group games to top their group and then defeating four knockout opponents both home and away.
+
+==Route to the final==
+{{further|2011–12 UEFA Europa League}}
+{{clear}}
+{|class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ESP}} [[Atlético Madrid]]
+!Round
+!colspan=4|{{fbaicon|ESP}} [[Athletic Bilbao]]
+|-
+|-bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2011–12 UEFA Europa League qualifying phase and play-off round|Qualifying phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|NOR}} [[Strømsgodset Toppfotball|Strømsgodset]]
+|4–1
+|[[2011–12 UEFA Europa League qualifying phase and play-off round#Atlético Madrid v Strømsgodset|2–1]] (H)
+|[[2011–12 UEFA Europa League qualifying phase and play-off round#Strømsgodset v Atlético Madrid|2–0]] (A)
+|bgcolor=#c1e0ff|Third qualifying round
+|colspan=4|Bye
+|-
+|align=left|{{fbaicon|POR}} [[Vitória S.C.|Vitória de Guimarães]]
+|6–0
+|[[2011–12 UEFA Europa League qualifying phase and play-off round#Atlético Madrid v Vitória Guimarães|2–0]] (H)
+|[[2011–12 UEFA Europa League qualifying phase and play-off round#Vitória Guimarães v Atlético Madrid|4–0]] (A)
+|bgcolor=#c1e0ff|Play-off round
+|align=left|{{fbaicon|TUR}} [[Trabzonspor]]
+|[[Walkover|w/o]]{{efn|As a result of [[2011 Turkish sports corruption scandal|match-fixing allegations]], Turkish club [[Fenerbahçe S.K. (football team)|Fenerbahçe]] were removed from the [[2011–12 UEFA Champions League]] and were replaced with [[Trabzonspor]] on 24 August 2011. As a result, Trabzonspor's second leg against [[Athletic Bilbao]] was cancelled, and Athletic Bilbao advanced to the group stage.<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/01f4-0ea29ce697dd-704475231322-1000--fenerbahce-replaced-in-uefa-champions-league/ |title=Fenerbahçe replaced in UEFA Champions League |publisher=UEFA |date=24 August 2011 |url-status=live |archive-url=https://web.archive.org/web/20111019161349/http://www.uefa.com/uefa/footballfirst/matchorganisation/disciplinary/news/newsid%3D1666823.html |archive-date=19 October 2011}}</ref>}}
+|[[2011–12 UEFA Europa League qualifying phase and play-off round#Athletic Bilbao v Trabzonspor|0–0]]
+|[[2011–12 UEFA Europa League qualifying phase and play-off round#Trabzonspor v Athletic Bilbao|{{small|Canc.}}]]
+|-bgcolor=#c1e0ff
+|Opponent
+|colspan=3|Result
+|[[2011–12 UEFA Europa League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|SCO}} [[Celtic F.C.|Celtic]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Atlético Madrid v Celtic|2–0]] (H)
+|bgcolor=#c1e0ff|Matchday 1
+|align=left|{{fbaicon|SVK}} [[ŠK Slovan Bratislava|Slovan Bratislava]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Slovan Bratislava v Athletic Bilbao|2–1]] (A)
+|-
+|align=left|{{fbaicon|FRA}} [[Stade Rennais FC|Rennes]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Rennes v Atlético Madrid|1–1]] (A)
+|bgcolor=#c1e0ff|Matchday 2
+|align=left|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Athletic Bilbao v Paris Saint-Germain|2–0]] (H)
+|-
+|align=left|{{fbaicon|ITA}} [[Udinese Calcio|Udinese]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Udinese v Atlético Madrid|0–2]] (A)
+|bgcolor=#c1e0ff|Matchday 3
+|align=left|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Athletic Bilbao v Red Bull Salzburg|2–2]] (H)
+|-
+|align=left|{{fbaicon|ITA}} [[Udinese Calcio|Udinese]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Atlético Madrid v Udinese|4–0]] (H)
+|bgcolor=#c1e0ff|Matchday 4
+|align=left|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Red Bull Salzburg v Athletic Bilbao|1–0]] (A)
+|-
+|align=left|{{fbaicon|SCO}} [[Celtic F.C.|Celtic]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Celtic v Atlético Madrid|1–0]] (A)
+|bgcolor=#c1e0ff|Matchday 5
+|align=left|{{fbaicon|SVK}} [[ŠK Slovan Bratislava|Slovan Bratislava]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Athletic Bilbao v Slovan Bratislava|2–1]] (H)
+|-
+|align=left|{{fbaicon|FRA}} [[Stade Rennais FC|Rennes]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Atlético Madrid v Rennes|3–1]] (H)
+|bgcolor=#c1e0ff|Matchday 6
+|align=left|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan=3|[[2011–12 UEFA Europa League group stage#Paris Saint-Germain v Athletic Bilbao|2–4]] (A)
+|-
+|colspan=4 align=center valign=top|'''[[2011–12 UEFA Europa League group stage#Group I|Group I]] winners'''
+{{:2011–12 UEFA Europa League group stage|show_matches=n|only_pld_pts=y|transcludesection=Group I|showteam=AM}}
+|bgcolor=#c1e0ff|Final standings
+|colspan=4 align=center valign=top|'''[[2011–12 UEFA Europa League group stage#Group F|Group F]] winners'''
+{{:2011–12 UEFA Europa League group stage|show_matches=n|only_pld_pts=y|transcludesection=Group F|showteam=AB}}
+|-bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2011–12 UEFA Europa League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|ITA}} [[SS Lazio|Lazio]]
+|4–1
+|[[2011–12 UEFA Europa League knockout phase#Lazio v Atlético Madrid|3–1]] (A)
+|[[2011–12 UEFA Europa League knockout phase#Atlético Madrid v Lazio|1–0]] (H)
+|bgcolor=#c1e0ff|Round of 32
+|align=left|{{fbaicon|RUS}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|2–2 ([[Away goals rule|a]])
+|[[2011–12 UEFA Europa League knockout phase#Lokomotiv Moscow v Athletic Bilbao|1–2]] (A)
+|[[2011–12 UEFA Europa League knockout phase#Athletic Bilbao v Lokomotiv Moscow|1–0]] (H)
+|-
+|align=left|{{fbaicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|6–1
+|[[2011–12 UEFA Europa League knockout phase#Atlético Madrid v Beşiktaş|3–1]] (H)
+|[[2011–12 UEFA Europa League knockout phase#Beşiktaş v Atlético Madrid|3–0]] (A)
+|bgcolor=#c1e0ff|Round of 16
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|5–3
+|[[2011–12 UEFA Europa League knockout phase#Manchester United v Athletic Bilbao|3–2]] (A)
+|[[2011–12 UEFA Europa League knockout phase#Athletic Bilbao v Manchester United|2–1]] (H)
+|-
+|align=left|{{fbaicon|GER}} [[Hannover 96]]
+|4–2
+|[[2011–12 UEFA Europa League knockout phase#Atlético Madrid v Hannover 96|2–1]] (H)
+|[[2011–12 UEFA Europa League knockout phase#Hannover 96 v Atlético Madrid|2–1]] (A)
+|bgcolor=#c1e0ff|Quarter-finals
+|align=left|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|6–4
+|[[2011–12 UEFA Europa League knockout phase#Schalke 04 v Athletic Bilbao|4–2]] (A)
+|[[2011–12 UEFA Europa League knockout phase#Athletic Bilbao v Schalke 04|2–2]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|5–2
+|[[2011–12 UEFA Europa League knockout phase#Atlético Madrid v Valencia|4–2]] (H)
+|[[2011–12 UEFA Europa League knockout phase#Valencia v Atlético Madrid|1–0]] (A)
+|bgcolor=#c1e0ff|Semi-finals
+|align=left|{{fbaicon|POR}} [[Sporting CP]]
+|4–3
+|[[2011–12 UEFA Europa League knockout phase#Sporting CP v Athletic Bilbao|1–2]] (A)
+|[[2011–12 UEFA Europa League knockout phase#Athletic Bilbao v Sporting CP|3–1]] (H)
+|}
+'''Notes'''
+{{notelist}}
+
+==Pre-match==
+===Ticketing===
+[[File:Bilbao fans.JPG|thumb|Athletic Bilbao fans in Bucharest before the match]]
+
+The two finalist teams received 9,000 tickets each for distribution to their supporters. 20,000 tickets have been sold to local football fans with a further 3,000 tickets available for sale to fans worldwide via UEFA.com, with prices between 100 [[Romanian leu|RON]] and 500 RON. The remaining tickets are allocated to the local organising committee, UEFA's 53 national football associations, and commercial and broadcast partners.<ref>{{cite web |url=http://www.uefa.com/uefa/mediaservices/mediareleases/newsid=1764202.html |archive-url=https://web.archive.org/web/20120311014036/http://www.uefa.com/uefa/mediaservices/mediareleases/newsid=1764202.html |url-status=dead |archive-date=11 March 2012 |title=UEFA Europa League Final 2012 ticket sales launched |publisher=UEFA |date=7 March 2012}}</ref>
+
+===Officials===
+In May 2012, German [[referee (association football)|referee]] [[Wolfgang Stark]] was appointed for the final. Joining him were fellow German officials Mike Pickel and Jan-Hendrik Salver as [[assistant referee (association football)|assistant referees]], [[Deniz Aytekin]] and [[Florian Meyer (referee)|Florian Meyer]] as [[assistant referee (association football)#Additional assistant referee|additional assistant referees]], Mark Borsch as [[assistant referee (association football)#Fifth official and reserve assistant referee|reserve assistant referee]], and French official [[Stéphane Lannoy]] as [[assistant referee (association football)#Fourth official|fourth official]].<ref name="referee"/>
+
+===Ambassador===
+Former Romanian player [[Miodrag Belodedici]] was named as the ambassador for the final.<ref>{{cite web |url=https://www.uefa.com/uefaeuropaleague/news/01fb-0e7c28a3ca40-31f478a0cb28-1000--ambassador-miodrag-belodedici/ |title=Ambassador: Miodrag Belodedici |publisher=UEFA |date=1 March 2012}}</ref>
+
+==Match==
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2012|5|9|df=y}}
+|time       = {{CEST|20:45|localtz=EEST}}<!--20:45 CEST, 21:45 EEST-->
+|team1      = [[Atlético Madrid]] {{fbaicon|ESP}}
+|score      = 3–0
+|team2      = {{fbaicon|ESP}} [[Athletic Bilbao]]
+|goals1     =
+*[[Radamel Falcao|Falcao]] {{goal|7||34}}
+*[[Diego (footballer, born 1985)|Diego]] {{goal|85}}
+|goals2     =
+|stadium    = [[Arena Națională]], [[Bucharest]]
+|attendance = 52,347<ref name="attendance">{{cite news |title=Full Time Summary Final – Atlético Madrid v Athletic Bilbao |url=https://www.uefa.com/newsfiles/uefacup/2012/2007480_FR.pdf |publisher=UEFA |date=7 May 2012 |access-date=20 May 2012}}</ref>
+|referee    = [[Wolfgang Stark]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2007480/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _am1112h
+ |pattern_b  = _am1112h
+ |pattern_ra = _am1112h
+ |pattern_sh = _redstripes
+ |pattern_so = _whitetop
+ |leftarm    = FFFFFF
+ |body       = FF0009
+ |rightarm   = FFFFFF
+ |shorts     = 0000AF
+ |socks      = FF0000
+ |title      = Atlético&nbsp;Madrid<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _acbilbao1112a
+ |pattern_b  = _acbilbao1112a
+ |pattern_ra = _acbilbao1112a
+ |pattern_so = _athleticbilbao0910b
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = ffffff
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Athletic&nbsp;Bilbao<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|BEL}} [[Thibaut Courtois]]
+|-
+|RB ||'''20'''||{{flagicon|ESP}} [[Juanfran (footballer, born 1985)|Juanfran]]
+|-
+|CB ||'''2''' ||{{flagicon|URU}} [[Diego Godín]]
+|-
+|CB ||'''23'''||{{flagicon|BRA}} [[Miranda (footballer, born 1984)|Miranda]]
+|-
+|LB ||'''6''' ||{{flagicon|BRA}} [[Filipe Luís]] 
+|-
+|CM ||'''4''' ||{{flagicon|ESP}} [[Mario Suárez (footballer)|Mario Suárez]]
+|-
+|CM ||'''14'''||{{flagicon|ESP}} [[Gabi (footballer, born 1983)|Gabi]] ([[Captain (association football)|c]])
+|-
+|RW ||'''22'''||{{flagicon|BRA}} [[Diego (footballer, born 1985)|Diego]] || || {{suboff|90}}
+|-
+|AM ||'''7''' ||{{flagicon|ESP}} [[Adrián López|Adrián]] || || {{suboff|88}}
+|-
+|LW ||'''11'''||{{flagicon|TUR}} [[Arda Turan]] || || {{suboff|90+3}}
+|-
+|CF ||'''9''' ||{{flagicon|COL}} [[Radamel Falcao]] || {{yel|26}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Sergio Asenjo]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Antonio López (footballer, born 1981)|Antonio López]]
+|-
+|DF ||'''18'''||{{flagicon|ESP}} [[Álvaro Domínguez (footballer, born 1989)|Álvaro Domínguez]] || || {{subon|90+3}}
+|-
+|MF ||'''8''' ||{{flagicon|ARG}} [[Eduardo Salvio]] || || {{subon|88}}
+|-
+|MF ||'''12'''||{{flagicon|BRA}} [[Paulo Assunção]]
+|-
+|MF ||'''19'''||{{flagicon|ESP}} [[Koke (footballer, born 1992)|Koke]] || || {{subon|90}}
+|-
+|FW ||'''41'''||{{flagicon|ESP}} [[Pedro Martín]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Diego Simeone]]
+|}
+|valign="top"|[[File:Atlético Madrid vs Athletic Bilbao 2012-05-09.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Gorka Iraizoz]]
+|-
+|RB ||'''15'''||{{flagicon|ESP}} [[Andoni Iraola]] ([[Captain (association football)|c]])
+|-
+|CB ||'''24'''||{{flagicon|ESP}} [[Javi Martínez]]
+|-
+|CB ||'''5''' ||{{flagicon|VEN|football}} [[Fernando Amorebieta]] || {{yel|64}}
+|-
+|LB ||'''3''' ||{{flagicon|ESP}} [[Jon Aurtenetxe]] || || {{suboff|46}}
+|-
+|RM ||'''21'''||{{flagicon|ESP}} [[Ander Herrera]] || {{yel|22}} || {{suboff|63}}
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Ander Iturraspe]] || || {{suboff|46}}
+|-
+|LM ||'''10'''||{{flagicon|ESP}} [[Óscar de Marcos]]
+|-
+|RW ||'''14'''||{{flagicon|ESP}} [[Markel Susaeta]] || {{yel|90+1}}
+|-
+|LW ||'''19'''||{{flagicon|ESP}} [[Iker Muniain]]
+|-
+|CF ||'''9''' ||{{flagicon|ESP}} [[Fernando Llorente]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Raúl Fernández-Cavada Mateos|Raúl]]
+|-
+|DF ||'''6''' ||{{flagicon|ESP}} [[Mikel San José]]
+|-
+|MF ||'''11'''||{{flagicon|ESP}} [[Igor Gabilondo]]
+|-
+|MF ||'''17'''||{{flagicon|ESP}} [[Iñigo Pérez]] || {{yel|75}} || {{subon|46}}
+|-
+|MF ||'''23'''||{{flagicon|ESP}} [[Borja Ekiza]]
+|-
+|FW ||'''2''' ||{{flagicon|ESP}} [[Gaizka Toquero]] || || {{subon|63}}
+|-
+|FW ||'''28'''||{{flagicon|ESP}} [[Ibai Gómez]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Marcelo Bielsa]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Radamel Falcao]] (Atlético Madrid)<ref name="Falcao at double as Atlético march to title"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee">{{cite news |title=Stark gets Bucharest call-up |url=https://www.uefa.com/uefaeuropaleague/news/01fd-0e7e15b763a5-597d81a301af-1000--stark-gets-bucharest-call-up/ |publisher=UEFA |date=7 May 2012 |access-date=7 May 2012}}</ref>
+<br />Jan-Hendrik Salver ([[German Football Association|Germany]])
+<br />Mike Pickel ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Stéphane Lannoy]] ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="referee"/>
+<br />[[Florian Meyer (referee)|Florian Meyer]] ([[German Football Association|Germany]])
+<br />[[Deniz Aytekin]] ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="referee"/>
+<br />Mark Borsch ([[German Football Association|Germany]])
+|width=55% valign=top|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Europa League 2011/12 |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/62/69/60/1626960_DOWNLOAD.pdf |archive-url=https://web.archive.org/web/20110626034322/http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/62/69/60/1626960_DOWNLOAD.pdf |url-status=dead |archive-date=26 June 2011 |publisher=UEFA |location=Nyon |date=March 2011 |access-date=1 June 2011}}</ref>
+*90 minutes
+*30 minutes of [[Extra time (association football)|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |title=Team statistics |url=https://www.uefa.com/newsfiles/uefacup/2012/2007480_TS.pdf |date=9 May 2012|access-date=20 May 2012 |publisher=UEFA}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Atlético Madrid
+!scope="col" style="width:70px"|Athletic Bilbao
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|6
+|5
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|1
+|0
+|-
+!scope=row|Ball possession
+|40%
+|60%
+|-
+!scope=row|Corner kicks
+|3
+|2
+|-
+!scope=row|Fouls committed
+|17
+|8
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Atlético Madrid
+!scope="col" style="width:70px"|Athletic Bilbao
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|9
+|11
+|-
+!scope=row|Shots on target
+|4
+|2
+|-
+!scope=row|Saves
+|2
+|3
+|-
+!scope=row|Ball possession
+|42%
+|58%
+|-
+!scope=row|Corner kicks
+|0
+|6
+|-
+!scope=row|Fouls committed
+|8
+|6
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|0
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Atlético Madrid
+!scope="col" style="width:70px"|Athletic Bilbao
+|-
+!scope=row|Goals scored
+|3
+|0
+|-
+!scope=row|Total shots
+|15
+|16
+|-
+!scope=row|Shots on target
+|6
+|3
+|-
+!scope=row|Saves
+|3
+|3
+|-
+!scope=row|Ball possession
+|41%
+|59%
+|-
+!scope=row|Corner kicks
+|3
+|8
+|-
+!scope=row|Fouls committed
+|25
+|14
+|-
+!scope=row|Offsides
+|2
+|3
+|-
+!scope=row|Yellow cards
+|1
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2012 UEFA Champions League final]]
+*[[2012 UEFA Super Cup]]
+*[[Athletic Bilbao in European football]]
+*[[Atlético Madrid in European football]]
+*[[Spanish football clubs in international competitions]]
+*[[2011–12 Athletic Bilbao season]]
+*[[2011–12 Atlético Madrid season]]
+*Played between same teams:
+*[[1921 Copa del Rey Final]]
+*[[1956 Copa del Generalísimo Final]]
+*[[1985 Copa del Rey Final]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Deprecated archive|url=https://archive.today/20121211070021/http://www.uefa.com/uefaeuropaleague/season=2012/index.html|title=2011–12 UEFA Europa League|sec=el}}, UEFA.com
+*[https://web.archive.org/web/20110619085554/http://www.uefa.com/uefaeuropaleague/season=2012/final/index.html 2012 final: National Stadium, Bucharest], UEFA.com
+
+{{UEFA Europa League seasons}}
+{{2011–12 in European football (UEFA)}}
+{{Atlético Madrid matches}}
+{{Athletic Bilbao matches}}
+
+{{DEFAULTSORT:Uefa Europa League Final 2012}}
+[[Category:Football matches in Romania]]
+[[Category:UEFA Europa League finals|2012]]
+[[Category:2011–12 UEFA Europa League|Final]]
+[[Category:2011–12 in Romanian football|UEFA]]
+[[Category:Football competitions in Bucharest]]
+[[Category:Athletic Bilbao matches]]
+[[Category:Atlético Madrid matches]]
+[[Category:2011–12 in Spanish men's football|UEFA]]
+[[Category:May 2012 sports events in Europe]]
+[[Category:2010s in Bucharest]]
+[[Category:May 2012 in Romania]]
+[[Category:Spanish football clubs in international competitions]]

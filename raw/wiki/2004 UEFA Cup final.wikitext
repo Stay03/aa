@@ -1,0 +1,516 @@
+{{Use dmy dates|date=April 2020}}
+{{Infobox football match
+| title                   = 2004 UEFA Cup final
+| image                   = 2004 UEFA Final.jpg
+| image_size = 250
+| caption                 = Match programme cover
+| event                   = [[2003–04 UEFA Cup]]
+| team1                   = [[Valencia CF|Valencia]]
+| team1association        = {{fbaicon|ESP|size=30px}}
+| team1score              = 2
+| team2                   = [[Olympique de Marseille|Marseille]]
+| team2association        = {{fbaicon|FRA|1974|size=30px}}
+| team2score              = 0
+| details                 =
+| date                    = 19 May 2004
+| stadium                 = [[Ullevi]]
+| city                    = [[Gothenburg]]
+| man_of_the_match1a      = [[Roberto Ayala]] (Valencia)
+| referee                 = [[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+| attendance              = 39,000<ref name="handbook"/><ref name="uefa direct"/>
+| weather                 = Partly cloudy<br />{{convert|10|°C|°F}}<ref>{{Cite web|url=http://www.wunderground.com/history/airport/ESMS/2004/5/19/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA|title = Local Weather Forecast, News and Conditions &#124; Weather Underground}}</ref>
+| previous                = [[2003 UEFA Cup final|2003]]
+| next                    = [[2005 UEFA Cup final|2005]]
+}}
+The '''2004 UEFA Cup final''' was an [[association football]] match that took place on 19 May 2004 at [[Ullevi]] in [[Gothenburg]], Sweden, contested between Spanish side [[Valencia CF|Valencia]] and French side [[Olympique de Marseille]]. Valencia won the match 2–0, with goals from [[Vicente Rodríguez|Vicente]] and [[Mista (footballer)|Mista]]. This was the fourth major European trophy won by Valencia.
+
+==Route to the final==
+
+===Valencia===
+
+{{further|2003–04 UEFA Cup}}
+
+{|class="wikitable" style="text-align: center;"
+|-
+!Round
+!colspan=4|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|-
+|bgcolor=#cle0ff colspan=5|'''[[2003–04 UEFA Cup|UEFA Cup]]'''
+|-bgcolor=#c1e0ff
+|Round
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|bgcolor=#cle0ff|[[2003–04 UEFA Cup first round|First round]]
+|align=left|{{fbaicon|SWE}} [[AIK Fotboll|AIK]]
+|2–0
+|1–0 (A)
+|1–0 (H)
+|-
+|bgcolor=#cle0ff|[[2003–04 UEFA Cup second round|Second round]]
+|align=left|{{fbaicon|ISR}} [[Maccabi Haifa F.C.|Maccabi Haifa]]
+|4–0
+|0–0 (H)
+|4–0 (A)
+|-
+|bgcolor=#c1e0ff|[[2003–04 UEFA Cup final phase#Third round|Third round]]
+|align=left|{{fbaicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|5–2
+|3–2 (H)
+|2–0 (A)
+|-
+|bgcolor=#c1e0ff|[[2003–04 UEFA Cup final phase#Fourth round|Fourth round]]
+|align=left|{{fbaicon|TUR}} [[Gençlerbirliği S.K.|Gençlerbirliği]]
+|2–1 ([[Overtime (sports)#Association football|a.e.t.]])
+|0–1 (A)
+|2–0 ([[Overtime (sports)#Association football|a.e.t.]]) (H)
+|-
+|bgcolor=#c1e0ff|[[2003–04 UEFA Cup final phase#Quarter-finals|Quarter-finals]]
+|align=left|{{fbaicon|FRA|1974}} [[FC Girondins de Bordeaux|Bordeaux]]
+|4–2
+|2–1 (A)
+|2–1 (H)
+|-
+|bgcolor=#c1e0ff|[[2003–04 UEFA Cup final phase#Semi-finals|Semi-finals]]
+|align=left|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|[[Derbi de la Comunitat|1–0]]
+|0–0 (A)
+|1–0 (H)
+|-
+|}
+
+===Marseille===
+
+{{further|2003–04 UEFA Champions League|2003–04 UEFA Cup}}
+
+{|class="wikitable" style="text-align: center;"
+|-
+!Round
+!colspan=4|{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|-
+|bgcolor=#c1e0ff colspan=5|'''[[2003–04 UEFA Champions League|Champions League]]'''
+|-bgcolor=#c1e0ff
+|[[2003–04 UEFA Champions League qualifying rounds|Qualifying stage]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|bgcolor=#c1e0ff|Third qualifying round
+|align=left|{{fbaicon|AUT}} [[FK Austria Wien|Austria Wien]]
+|1–0
+|1–0 (A)
+|0–0 (H)
+|-bgcolor=#c1e0ff
+|[[2003–04 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|bgcolor=#c1e0ff|Matchday 1
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan=3|2–4 (A)
+|-
+|bgcolor=#c1e0ff|Matchday 2
+|align=left|{{fbaicon|SCG}} [[FK Partizan|Partizan]]
+|colspan=3|3–0 (H)
+|-
+|bgcolor=#c1e0ff|Matchday 3
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan=3|2–3 (H)
+|-
+|bgcolor=#c1e0ff|Matchday 4
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan=3|0–1 (A)
+|-
+|bgcolor=#c1e0ff|Matchday 5
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan=3|1–2 (H)
+|-
+|bgcolor=#c1e0ff|Matchday 6
+|align=left|{{fbaicon|SCG}} [[FK Partizan|Partizan]]
+|colspan=3|1–1 (A)
+|-
+|bgcolor=#c1e0ff|Final standings
+|colspan=4 align=center valign=top|'''[[2003–04 UEFA Champions League group stage#Group F|Group F]] third place'''
+{{:2003–04 UEFA Champions League group stage|only_pld_pts=yes|show_matches=no|transcludesection=Group F|showteam=MAR}}
+|-bgcolor=#c1e0ff
+|colspan=5|'''[[2003–04 UEFA Cup|UEFA Cup]]'''
+|-bgcolor=#c1e0ff
+|Round
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|bgcolor=#c1e0ff|[[2003–04 UEFA Cup final phase#Third round|Third round]]
+|align=left|{{fbaicon|UKR|1992}} [[FC Dnipro|Dnipro Dnipropetrovsk]]
+|1–0
+|1–0 (H)
+|0–0 (A)
+|-
+|bgcolor=#c1e0ff|[[2003–04 UEFA Cup final phase#Fourth round|Fourth round]]
+|align=left|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|3–2
+|1–1 (A)
+|2–1 (H)
+|-
+|bgcolor=#c1e0ff|[[2003–04 UEFA Cup final phase#Quarter-finals|Quarter-finals]]
+|align=left|{{fbaicon|ITA|2003}} [[Inter Milan|Internazionale]]
+|2–0
+|1–0 (H)
+|1–0 (A)
+|-
+|bgcolor=#c1e0ff|[[2003–04 UEFA Cup final phase#Semi-finals|Semi-finals]]
+|align=left|{{fbaicon|ENG}} [[Newcastle United F.C.|Newcastle United]]
+|2–0
+|0–0 (A)
+|2–0 (H)
+|}
+
+==Match==
+
+===Summary===
+[[Valencia CF|Valencia]] had been on a 14-match unbeaten run previous to this match, which had only ended the previous week to [[Villarreal CF|Villarreal]], the side they beat in the semi-final to reach the final, due to a weakened lineup after securing the [[La Liga]] [[2003–04 La Liga|title]]. In contrast, [[Olympique de Marseille|Marseille]] had lost four of their last five matches in [[Ligue 1]].
+
+The start of the match was conservative due to the wind. [[Didier Drogba]] threatened early on, and was sent tumbling by a robust challenge from [[Roberto Ayala]], which led to a free kick, in which the resulting shot was cleared off the line by [[Carlos Marchena]]. This sparked Valencia into life and [[David Albelda]] produced a save from [[Fabien Barthez]] after pouncing on [[Mista (footballer)|Mista]]'s rebounded shot.
+
+Valencia dominated possession, which led to frustration, and [[Steve Marlet]] getting booked in the tenth minute. Marseille's first meaningful attempt at goal came in the 16th minute when Steve Marlet headed over from [[Camel Meriem]]'s cross. Minutes later, Meriem himself had a chance to give Marseille the lead, but he shot wide from the edge of the area. Marseille had another chance when [[Habib Beye]] got on the end of Drogba's free kick, but he headed wide. The definitive moment in the match came on the stroke of half time, when Barthez brought down Mista in the area after a  cross by [[Curro Torres]]. Barthez was sent off and Valencia were awarded a penalty. [[Jérémy Gavanon]] replaced Barthez with [[Camel Meriem]] making way for him. [[Vicente Rodríguez|Vicente]] dispatched the penalty to give Valencia a 1–0 lead going into half time.
+
+The second half started off with Valencia in total ascendancy, and after 13 minutes of near-total possession, Valencia doubled their lead. Vicente had cut the ball in from the left for Mista, who finished the chance with ease to record his fifth goal of the competition. Marseille's heads inevitably dropped. They came forward in flourishes in the last remnants of the game, however, when Drogba's free kick was stopped by [[Santiago Cañizares]]. Drogba also nearly played in Steve Marlet with a through-ball, but it was intercepted at the last second. Marseille almost found a way back into the Valencia goal area in the 80th minute, but [[Sylvain N'Diaye]]'s shot was saved by Cañizares.
+
+After this, the match descended into a stoic affair and Valencia ran out winners to win their first major European trophy in 24 years, and victory after two successive [[UEFA Champions League]] final defeats, in [[2000 UEFA Champions League Final|2000]] and [[2001 UEFA Champions League Final|2001]]. The victory also meant that [[Amedeo Carboni]] became the oldest player to win a European final at 39 years and 43 days old.
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2004|5|19|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Valencia CF|Valencia]] {{fbaicon|ESP}}
+|score      = 2–0
+|team2      = {{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|goals1     =
+*[[Vicente Rodríguez|Vicente]] {{goal|45+3|pen.}}
+*[[Mista (footballer)|Mista]] {{goal|58}}
+|goals2     =
+|stadium    = [[Ullevi]], [[Gothenburg]]
+|attendance = 39,000<ref name="handbook">{{cite book |location=Nyon |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |chapter=4. UEFA Cup Finals |title=UEFA Europa League Statistics Handbook 2012/13 |publisher=Union of European Football Associations |page=72 |date=28 May 2013 |access-date=27 September 2024 |url-status=dead |archive-url=https://web.archive.org/web/20130604201547/https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |archive-date=4 June 2013}}</ref><ref name="uefa direct">{{cite magazine |url=https://www.uefa.com/newsfiles/209261.pdf |title=UEFA Cup Final |magazine=UEFA Direct |publisher=Union of European Football Associations |number=27 |page=6 |date=July 2004 |access-date=28 September 2024}}</ref>
+|referee    = [[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/75432/
+}}</onlyinclude>
+
+{| width=92% |
+|-
+|{{Football kit
+|pattern_la = _valencia0304h
+|pattern_b  = _valencia0304h
+|pattern_ra = _valencia0304h
+|pattern_sh =
+|pattern_so = _valencia0203h
+|leftarm    = 000000
+|body       = FFFFFF
+|rightarm   = 000000
+|shorts     = 000000
+|socks      = FFFFFF
+ | title      = Valencia<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2003/75432_LU.pdf |title=Lineups – Final – Wednesday 19 May 2004 |website=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=19 May 2004 |access-date=22 September 2025}}</ref>
+}}
+|{{Football kit
+ | pattern_la =_om0304t
+ | pattern_b  =_om0304t
+ | pattern_ra =_om0304t
+ | pattern_sh =_om0304third
+ | pattern_so =_om0304third
+ | leftarm    = 9FA6D0
+ | body       = 9FA6D0
+ | rightarm   = 9FA6D0
+ | shorts     = 9FA6D0
+ | socks      = 9FA6D0
+ | title      = Marseille<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Santiago Cañizares]]
+|-
+|RB ||'''23'''||{{flagicon|ESP}} [[Curro Torres]]
+|-
+|CB ||'''4''' ||{{flagicon|ARG}} [[Roberto Ayala]]
+|-
+|CB ||'''5''' ||{{flagicon|ESP}} [[Carlos Marchena]] || || {{suboff|86}}
+|-
+|LB ||'''15'''||{{flagicon|ITA|2003}} [[Amedeo Carboni]] || {{yel|34}}
+|-
+|RM ||'''19'''||{{flagicon|ESP}} [[Francisco Rufete]] || || {{suboff|64}}
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[David Albelda]] ([[Captain (association football)|c]])
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Rubén Baraja]]
+|-
+|LM ||'''14'''||{{flagicon|ESP}} [[Vicente Rodríguez|Vicente]] || {{yel|27}}
+|-
+|SS ||'''10'''||{{flagicon|ESP}} [[Miguel Ángel Angulo]] || || {{suboff|82}}
+|-
+|CF ||'''20'''||{{flagicon|ESP}} [[Mista (footballer)|Mista]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Andrés Palop]]
+|-
+|DF ||'''2''' ||{{flagicon|ARG}} [[Mauricio Pellegrino]] || || {{subon|86}}
+|-
+|DF ||'''3'''||{{flagicon|BRA}} [[Fábio Aurélio]]
+|-
+|MF ||'''21'''||{{flagicon|ARG}} [[Pablo Aimar]] || || {{subon|64}}
+|-
+|MF ||'''25'''||{{flagicon|MLI}} [[Mohamed Sissoko]] || || {{subon|82}}
+|-
+|FW ||'''11'''||{{flagicon|ESP}} [[Juan Sánchez (footballer, born 1972)|Juan Sánchez]]
+|-
+|FW ||'''24'''||{{flagicon|ESP}} [[Xisco (footballer, born 1980)|Xisco]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Rafael Benítez]]
+|}
+|valign="top"|[[File:Valencia vs Marseille 2004-05-19.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''28'''||{{flagicon|FRA|1974}} [[Fabien Barthez]] || {{sent off|0|45}}
+|-
+|CB ||'''23'''||{{flagicon|SEN}} [[Habib Beye]]
+|-
+|CB ||'''6''' ||{{flagicon|ALG}} [[Brahim Hemdani]] ([[Captain (association football)|c]])
+|-
+|CB ||'''12'''||{{flagicon|CIV}} [[Abdoulaye Méïté]]
+|-
+|RWB||'''2''' ||{{flagicon|BRA}} [[Demetrius Ferreira]]
+|-
+|LWB||'''3''' ||{{flagicon|FRA|1974}} [[Manuel dos Santos (footballer)|Manuel dos Santos]]
+|-
+|CM ||'''32'''||{{flagicon|FRA|1974}} [[Mathieu Flamini]] || || {{suboff|71}}
+|-
+|CM ||'''7''' ||{{flagicon|SEN}} [[Sylvain N'Diaye]] || || {{suboff|84}}
+|-
+|RW ||'''20'''||{{flagicon|FRA|1974}} [[Steve Marlet]] || {{yel|10}}
+|-
+|LW ||'''18'''||{{flagicon|FRA|1974}} [[Camel Meriem]] || || {{suboff|45}}
+|-
+|CF ||'''11'''||{{flagicon|CIV}} [[Didier Drogba]] || {{yel|60}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''30'''||{{flagicon|FRA|1974}} [[Jérémy Gavanon]] || || {{subon|45}}
+|-
+|DF ||'''5''' ||{{flagicon|FRA|1974}} [[Philippe Christanval]]
+|-
+|DF ||'''21'''||{{flagicon|FRA|1974}} [[Johnny Ecker]]
+|-
+|MF ||'''14'''||{{flagicon|CZE}} [[Štěpán Vachoušek]]
+|-
+|MF ||'''26'''||{{flagicon|FRA|1974}} [[Laurent Batlles]] || || {{subon|71}}
+|-
+|MF ||'''29'''||{{flagicon|SUI}} [[Fabio Celestini]] || || {{subon|84}}
+|-
+|MF ||'''33'''||{{flagicon|FRA|1974}} [[Nicolas Cicut]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA|1974}} [[José Anigo]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Roberto Ayala]] (Valencia)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Marco Ivaldi ([[Italian Football Federation|Italy]])
+<br />Narciso Pisacreta ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[Golden goal#Silver goal|silver goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="full time">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2003/75432_FR.pdf |title=Full Time Report |work=[[UEFA]] |publisher=Union of European Football Associations (UEFA) |date=19 May 2004 |access-date=28 July 2014}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Valencia
+!scope="col" style="width:70px"|Marseille
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|5
+|4
+|-
+!scope=row|Shots on target
+|3
+|0
+|-
+!scope=row|Ball possession
+|50%
+|50%
+|-
+!scope=row|Corner kicks
+|3
+|1
+|-
+!scope=row|Fouls committed
+|16
+|11
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|1
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Valencia
+!scope="col" style="width:70px"|Marseille
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|5
+|7
+|-
+!scope=row|Shots on target
+|2
+|3
+|-
+!scope=row|Ball possession
+|58%
+|42%
+|-
+!scope=row|Corner kicks
+|0
+|3
+|-
+!scope=row|Fouls committed
+|10
+|13
+|-
+!scope=row|Offsides
+|2
+|0
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Valencia
+!scope="col" style="width:70px"|Marseille
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|10
+|11
+|-
+!scope=row|Shots on target
+|5
+|3
+|-
+!scope=row|Ball possession
+|54%
+|46%
+|-
+!scope=row|Corner kicks
+|3
+|4
+|-
+!scope=row|Fouls committed
+|26
+|24
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|1
+|}
+{{col-end}}
+
+==See also==
+*[[2004 UEFA Champions League final]]
+*[[2004 UEFA Super Cup]]
+*[[Olympique de Marseille in European football]]
+*[[Valencia CF in European football]]
+*[[2003–04 Olympique de Marseille season]]
+*[[2003–04 Valencia CF season]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20100625234529/http://en.archive.uefa.com/competitions/uefacup/history/season=2003/intro.html 2003–04 season] at UEFA.com
+
+{{UEFA Europa League seasons}}
+{{2003–04 in European football (UEFA)}}
+{{Olympique de Marseille matches}}
+{{Valencia CF matches}}
+
+{{DEFAULTSORT:Uefa Cup final 2004}}
+[[Category:Olympique de Marseille matches|Uefa Cup Final 2004]]
+[[Category:Football in Gothenburg|Uefa Cup Final 2004]]
+[[Category:UEFA Europa League finals|2004]]
+[[Category:Valencia CF matches|Uefa Cup Final 2004]]
+[[Category:Football matches in Sweden]]
+[[Category:2004 in Swedish football|Uefa]]
+[[Category:2003–04 in Spanish men's football|UEFA]]
+[[Category:2003–04 UEFA Cup|Final]]
+[[Category:May 2004 sports events in Europe]]
+[[Category:International sports competitions in Gothenburg]]
+[[Category:2000s in Gothenburg]]
+[[Category:France–Spain sports relations|2004]]
+[[Category:2003–04 in French men's football]]

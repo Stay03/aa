@@ -1,0 +1,298 @@
+{{Short description|Football match in Jeddah, Saudi Arabia}}
+{{EngvarB|date=December 2023}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox football match
+| title = 2023 FIFA Club World Cup final
+| event = [[2023 FIFA Club World Cup]]
+| image = Jawhara Stadium.jpg
+| imagesize = 250
+| caption = The King Abdullah Sports City Stadium in Jeddah hosted the final.
+| team1 = [[Manchester City F.C.|Manchester City]]
+| team1association = {{fbaicon|ENG|size=30px}}
+| team1score = 4
+| team2 = [[Fluminense FC|Fluminense]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 0
+| date = {{Start date|2023|12|22|df=y}}
+| stadium = [[King Abdullah Sports City Stadium]]
+| city = [[Jeddah]]
+| man_of_the_match1a = [[Julián Alvarez]] (Manchester City)<ref name="MOTM">{{cite web |url=https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/saudi-arabia-2023/articles/manchester-city-fluminense-final-review-champions-title |title=Clinical City clinch maiden Club World Cup title |publisher=[[FIFA]] |date=22 December 2023 |access-date=22 December 2023 }}</ref>
+| referee = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+| attendance = 52,601
+| weather = Partly cloudy night<br />{{convert|29|°C|°F|abbr=on}}<br />58% [[humidity]]<ref>{{cite web |url=https://www.wunderground.com/history/daily/sa/jeddah/OEJN |title=Jeddah, Mecca, Saudi Arabia Weather History |publisher=[[Weather Underground (weather service)|Weather Underground]] |date=22 December 2023 |access-date=22 December 2023}}</ref>
+| previous = [[2022 FIFA Club World Cup final|2022]]
+| next = [[2024 FIFA Intercontinental Cup final|2024 Intercontinental Cup]] →<br />[[2025 FIFA Club World Cup final|2025 Club World Cup]]
+}}
+The '''2023 FIFA Club World Cup final''' was the final match of the [[2023 FIFA Club World Cup]], an international club [[association football|football]] tournament hosted by [[Saudi Arabia]]. It was the 20th final of the [[FIFA Club World Cup]], a [[FIFA]]-organised tournament between the club champions from each of the six continental confederations, as well as the host nation's league champions.
+
+The match was played at the [[King Abdullah Sports City Stadium]] in [[Jeddah]] on 22 December 2023.<ref>{{cite web |url=https://digitalhub.fifa.com/m/439508d6da35a1dd/original/FIFA-Club-World-Cup-Saudi-Arabia-2023-Match-Schedule.pdf |title=Match Schedule: FIFA Club World Cup Saudi Arabia 2023 |publisher=[[FIFA]] |date=6 November 2023 |access-date=7 November 2023 |archive-date=10 October 2023 |archive-url=https://web.archive.org/web/20231010145212/https://digitalhub.fifa.com/m/439508d6da35a1dd/original/FIFA-Club-World-Cup-Saudi-Arabia-2023-Match-Schedule.pdf |url-status=live }}</ref> It was contested by English club [[Manchester City F.C.|Manchester City]], representing [[UEFA]] as the reigning champions of the [[UEFA Champions League]], and Brazilian club [[Fluminense FC|Fluminense]], representing [[CONMEBOL]] as the reigning champions of the [[Copa Libertadores]].
+
+Manchester City won the match 4–0 for their first FIFA Club World Cup title.
+
+==Teams==
+''In the following table, finals until 2005 were in the FIFA Club World Championship era, since 2006 were in the FIFA Club World Cup era.''
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification for tournament
+!Previous club world championship finals<br />(bold indicates winners)
+|-
+|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|[[UEFA]]
+|Winners of the [[2022–23 UEFA Champions League]]
+|None
+|-
+|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|[[CONMEBOL]]
+|Winners of the [[2023 Copa Libertadores]]
+|None
+|}
+
+Note: On 27 October 2017, [[FIFA]] officially recognised all the champions of the Intercontinental Cup as club world champions, in equal status to the FIFA Club World Cup.<ref name="FIFA2022">{{cite press release |date=27 October 2017 |title=FIFA Council approves key organisational elements of the FIFA World Cup |url=https://www.fifa.com/about-fifa/news/y=2022/m=10/news=fifa-council-approves-key-organisational-elements-of-the-fifa-world-cu-2917722.html |publisher=FIFA |accessdate=27 October 2017}}</ref>
+*IC: [[Intercontinental Cup (1960–2004)|Intercontinental Cup]] (1960–2004)
+*FCWC: [[List of FIFA Club World Cup finals|FIFA Club World Cup finals]] (2000, 2005–present)
+
+==Route to the final==
+{| class="wikitable"
+|-
+!width=350 colspan=2|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+!Team
+!width=350 colspan=2|{{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|- style="background:#C1E0FF"
+|align=center|Opponent
+|align=center|Result
+|align=center|[[2023 FIFA Club World Cup]]
+|align=center|Opponent
+|align=center|Result
+|-
+|{{fbaicon|JPN}} [[Urawa Red Diamonds]]
+|align=center|3–0
+|align=center style="background:#C1E0FF"|Semi-finals
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|align=center|2–0
+|}
+
+==Match==
+
+===Details===
+<onlyinclude>{{Football box
+| date = {{Start date|2023|12|22|df=y}}
+| time = 21:00
+| team1 = [[Manchester City F.C.|Manchester City]] {{fbaicon|ENG}}
+| score = 4–0
+| report = https://www.fifa.com/fifaplus/en/match-centre/match/107/287833/287839/400017372
+| team2 = {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+| goals1 = 
+*[[Julián Alvarez|Alvarez]] {{goal|1||88}}
+*[[Nino (footballer, born 1997)|Nino]] {{goal|27|o.g.}}
+*[[Phil Foden|Foden]] {{goal|72}}
+| goals2 = 
+| stadium = [[King Abdullah Sports City Stadium]], [[Jeddah]]
+| attendance = 52,601
+| referee = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+}}
+
+</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mancity2324h
+ |pattern_b  = _mancity2324h
+ |pattern_ra = _mancity2324h
+ |pattern_sh = _mancity2324h
+ |pattern_so = _mancity2324hl
+ |leftarm    = 99C5EA
+ |body       = 99C5EA
+ |rightarm   = 99C5EA
+ |shorts     = FFFFFF
+ |socks      = 99C5EA
+ |title      = {{nowrap|Manchester City}}
+}}
+|{{Football kit
+ |pattern_la = _fluminense23h
+ |pattern_b  = _fluminense23h
+ |pattern_ra = _fluminense23h
+ |pattern_sh = _fluminense23a
+ |pattern_so = _fluminense22hl
+ |leftarm    = 800000
+ |body       = 800000
+ |rightarm   = 800000
+ |shorts     = A00101
+ |socks      = FFFFFF
+ |title      = {{nowrap|Fluminense}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''31'''||{{flagicon|BRA}} [[Ederson (footballer, born 1993)|Ederson]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Kyle Walker]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||{{flagicon|POR}} [[Rúben Dias]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[John Stones]] || || {{suboff|74}}
+|-
+|LB ||'''6''' ||{{flagicon|NED}} [[Nathan Aké]] || || {{suboff|81}}
+|-
+|CM ||'''82'''||{{flagicon|ENG}} [[Rico Lewis]] || || {{suboff|60}}
+|-
+|CM ||'''16'''||{{flagicon|ESP}} [[Rodri (footballer, born 1996)|Rodri]] || || {{suboff|74}}
+|-
+|RW ||'''20'''||{{flagicon|POR}} [[Bernardo Silva]]
+|-
+|AM ||'''47'''||{{flagicon|ENG}} [[Phil Foden]] || || {{suboff|81}}
+|-
+|LW ||'''10'''||{{flagicon|ENG}} [[Jack Grealish]]
+|-
+|CF ||'''19'''||{{flagicon|ARG}} [[Julián Alvarez]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''18'''||{{flagicon|GER}} [[Stefan Ortega]]
+|-
+|GK ||'''33'''||{{flagicon|ENG}} [[Scott Carson]]
+|-
+|DF ||'''21'''||{{flagicon|ESP}} [[Sergio Gómez (footballer, born 2000)|Sergio Gómez]]
+|-
+|DF ||'''24'''||{{flagicon|CRO}} [[Joško Gvardiol]] || || {{subon|74}}
+|-
+|DF ||'''25'''||{{flagicon|SUI}} [[Manuel Akanji]] || || {{subon|74}}
+|-
+|DF ||'''68'''||{{flagicon|ENG}} [[Max Alleyne]]
+|-
+|MF ||'''4''' ||{{flagicon|ENG}} [[Kalvin Phillips]]
+|-
+|MF ||'''8''' ||{{flagicon|CRO}} [[Mateo Kovačić]] || || {{subon|60}}
+|-
+|MF ||'''27'''||{{flagicon|POR}} [[Matheus Nunes]] || || {{subon|81}}
+|-
+|MF ||'''52'''||{{flagicon|NOR}} [[Oscar Bobb]] || || {{subon|81}}
+|-
+|MF ||'''76'''||{{flagicon|ESP}} [[Mahamadou Susoho]]
+|-
+|FW ||'''92'''||{{flagicon|ENG}} [[Micah Hamilton]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|valign="top"|[[File:Manchester City vs Fluminense 2023-12-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Fábio (footballer, born 1980)|Fábio]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Samuel Xavier]]
+|-
+|CB ||'''33'''||{{flagicon|BRA}} [[Nino (footballer, born 1997)|Nino]] ([[Captain (association football)|c]]) || || {{suboff|74}}
+|-
+|CB ||'''30'''||{{flagicon|BRA}} [[Felipe Melo]] || || {{suboff|60}}
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]] || {{yel|57}} || {{suboff|60}}
+|-
+|CM ||'''7''' ||{{flagicon|BRA}} [[André (footballer, born 2001)|André]]
+|-
+|CM ||'''8''' ||{{flagicon|BRA}} [[Matheus Martinelli]]
+|-
+|RW ||'''21'''||{{flagicon|COL}} [[Jhon Arias (footballer)|Jhon Arias]]
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Paulo Henrique Ganso|Ganso]] || || {{suboff|60}}
+|-
+|LW ||'''11'''||{{flagicon|BRA}} [[Keno (footballer)|Keno]] || || {{suboff|46}}
+|-
+|CF ||'''14'''||{{flagicon|ARG}} [[Germán Cano]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|BRA}} [[Pedro Rangel (footballer)|Pedro Rangel]]
+|-
+|GK ||'''98'''||{{flagicon|BRA}} [[Vitor Eudes]]
+|-
+|DF ||'''4''' ||{{flagicon|BRA}} [[Marlon (footballer, born September 1995)|Marlon]] || || {{subon|74}}
+|-
+|DF ||'''23'''||{{flagicon|BRA}} [[Guga (footballer, born 1998)|Guga]]
+|-
+|DF ||'''40'''||{{flagicon|BRA}} [[Diogo Barbosa (footballer)|Diogo Barbosa]] || || {{subon|60}}
+|-
+|DF ||'''44'''||{{flagicon|BRA}} [[David Braz]]
+|-
+|MF ||'''5''' ||{{flagicon|BRA}} [[Alexsander (footballer, born 2003)|Alexsander]] || {{yel|68}} || {{subon|60}}
+|-
+|MF ||'''20'''||{{flagicon|BRA}} [[Danielzinho (footballer, born 1996)|Danielzinho]]
+|-
+|MF ||'''29'''||{{flagicon|BRA}} [[Thiago Santos (footballer, born 1989)|Thiago Santos]]
+|-
+|MF ||'''45'''||{{flagicon|BRA}} [[Lima (footballer, born 1996)|Lima]] || || {{subon|60}}
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[John Kennedy (footballer, born 2002)|John Kennedy]] || {{yel|84}} || {{subon|46}}
+|-
+|FW ||'''38'''||{{flagicon|COL}} [[Yony González]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BRA}} [[Fernando Diniz]]
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Julián Alvarez]] (Manchester City)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />[[Tomasz Listkiewicz]] ([[Polish Football Association|Poland]])
+<br />Adam Kupsik ([[Polish Football Association|Poland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Tulio Moreno ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Tomasz Kwiatkowski]] ([[Polish Football Association|Poland]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+<br />Jorge Urrego ([[Venezuelan Football Federation|Venezuela]])
+<br />[[Juan Lara (referee)|Juan Lara]] ([[Football Federation of Chile|Chile]])
+| style="width:60%; vertical-align:top" |
+'''Match rules'''<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/545939e64e3b535/original/FCWC23-Regulations-EN.pdf |title=Regulations for the FIFA Club World Cup Saudi Arabia 2023 |publisher=[[FIFA]] |date=June 2023 |access-date=1 November 2023 |archive-date=22 December 2023 |archive-url=https://web.archive.org/web/20231222130734/https://digitalhub.fifa.com/m/545939e64e3b535/original/FCWC23-Regulations-EN.pdf |url-status=live }}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Maximum of twelve named substitutes.
+*Maximum of five substitutions, with a sixth allowed in extra time.{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/saudi-arabia-2023}}
+
+{{FIFA Club World Cup}}
+{{Manchester City F.C. matches}}
+{{Fluminense FC matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2023}}
+[[Category:2023 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2023]]
+[[Category:Manchester City F.C. matches]]
+[[Category:Fluminense FC matches]]
+[[Category:2023 in Brazilian football]]
+[[Category:2023–24 in English men's football]]
+[[Category:2023–24 in Saudi Arabian football]]
+[[Category:Sport in Jeddah]]
+[[Category:December 2023 sports events in Saudi Arabia]]
+[[Category:Football matches in Saudi Arabia]]
+[[Category:Brazil–United Kingdom sports relations|2023]]

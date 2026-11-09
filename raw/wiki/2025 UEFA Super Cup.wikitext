@@ -1,0 +1,437 @@
+{{Short description|European football match}}
+{{EngvarB|date=August 2024}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox football match
+| title              = 2025 UEFA Super Cup
+| image              = 2025 UEFA Super Cup programme.jpg
+| image_size         = frameless
+| caption            = Match programme cover
+| team1              = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| team1association   = {{#invoke:flag|fbaicon|FRA|size=30px}}
+| team1score         = 2
+| team2              = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| team2association   = {{#invoke:flag|fbaicon|ENG|size=30px}}
+| team2score         = 2
+| details            = Paris Saint-Germain won 4–3 on [[Penalty shoot-out (association football)|penalties]]
+| date               = {{Start date|2025|8|13|df=y}}
+| stadium            = [[Stadio Friuli]]
+| city               = [[Udine]]
+| man_of_the_match1a = [[Ousmane Dembélé]] {{nowrap|(Paris Saint-Germain)}}<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefasupercup/news/029c-1e7902cb3f22-a51ae8a63eaa-1000/ |title=Ousmane Dembélé named 2025 UEFA Super Cup Player of the Match |website=UEFA.com |publisher=Union of European Football Associations |date=13 August 2025 |access-date=13 August 2025}}</ref>
+| referee            = [[João Pinheiro (referee)|João Pinheiro]] ([[Portuguese Football Federation|Portugal]])<ref name="referees">{{cite web |url=https://www.uefa.com/news-media/news/029b-1e5bc726ffa7-4077a4366aa5-1000--joao-pinheiro-to-referee-the-2025-uefa-super-cup/ |title=João Pinheiro to referee the 2025 UEFA Super Cup |website=UEFA.com|publisher=Union of European Football Associations |date=30 July 2025 |access-date=30 July 2025}}</ref>
+| attendance         = 21,025<ref name="report 13 August"/>
+| weather            = Clear night<br />{{convert|27|°C|°F}}<br />63% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2025/2045107_LU.pdf |title=Tactical line-ups |website=UEFA.com |publisher=Union of European Football Associations |date=13 August 2025 |access-date=13 August 2025}}</ref>
+| previous           = [[2024 UEFA Super Cup|2024]]
+| next               = [[2026 UEFA Super Cup|2026]]
+}}
+The '''2025 UEFA Super Cup''' was the 50th edition of the [[UEFA Super Cup]], an annual [[association football|football]] match organised by [[UEFA]] and contested by the reigning champions of the top two European club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. It was played at the [[Stadio Friuli]] in [[Udine]], Italy, on 13 August 2025.<ref>{{cite magazine |url=https://editorial.uefa.com/resources/028f-1b7b5b724b98-2814feaf1416-1000/20240726_circular_2024_44_en.zip |title=Men's international match calendar and access list for the 2025/26 season |number=44/2024 |magazine=UEFA Circular Letter |publisher=Union of European Football Associations|format=ZIP |date=26 July 2024 |access-date=14 August 2024}}</ref> It was contested by French club [[Paris Saint-Germain FC|Paris Saint-Germain]], winners of the [[2024–25 UEFA Champions League]], and English club [[Tottenham Hotspur F.C.|Tottenham Hotspur]], winners of the [[2024–25 UEFA Europa League]].
+
+Paris Saint-Germain won the match 4–3 on [[Penalty shoot-out (association football)|penalties]], following a 2–2 draw after 90 minutes, for their first UEFA Super Cup title.<ref>{{cite web |url=https://www.uefa.com/uefasupercup/news/029c-1e78fea1755d-998a1f7aec21-1000/ |title=Paris 2-2 Tottenham (4-3 on pens): Champions League holders secure dramatic comeback win in Super Cup |website=UEFA.com |publisher=Union of European Football Associations |date=13 August 2025 |access-date=13 August 2025}}</ref> In doing so, they became the first French club to win the competition. Tottenham became the first club ever to lead by two goals without winning the competition.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participations
+|-
+|{{#invoke:flag|fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|Winners of the [[2024–25 UEFA Champions League]]
+|1 ([[1996 UEFA Super Cup|1996]])
+|-
+|{{#invoke:flag|fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|Winners of the [[2024–25 UEFA Europa League]]
+|None
+|}
+
+==Venue==
+
+===Host selection===
+[[File:DaciArena.jpg|thumb|275px|The [[Stadio Friuli]] in [[Udine]] hosted the match.]]
+The [[Stadio Friuli]] in [[Udine]], Italy, was appointed as host stadium by the [[UEFA#Executive Committee|UEFA Executive Committee]] during their meeting in [[Lausanne]], Switzerland, on 16 December 2024.<ref>{{cite web |url=https://www.uefa.com/news-media/news/0294-1c956e9c4351-308eb953ce0c-1000/ |title=Record Women's EURO 2025 prize money approved |website=UEFA.com|publisher=Union of European Football Associations|date=16 December 2024 |access-date=16 December 2024}}</ref>
+
+==Match==
+===Summary===
+In the 39th minute, [[Micky van de Ven]] put Tottenham Hotspur into the lead with close range finish after [[Lucas Chevalier]] had tipped [[João Palhinha]]'s effort onto the crossbar. It was 2–0 in the 48th minute when [[Cristian Romero]] scored with a downward header from the left after a free-kick from [[Pedro Porro]] which went into the right of the net past Lucas Chevalier who had got both hands to it.<ref>{{cite web|first=Michael |last=Emons |url=https://www.bbc.com/sport/football/live/cjr1l8epz02t#Report|title=PSG 2 Tottenham Hotspur 2 (4–3 on pens)|date=13 August 2025|work=BBC Sport|accessdate=14 August 2025}}</ref> With five minutes left, [[Lee Kang-in]] got a goal back for Paris Saint-Germain with a low shot from 20 yards into the right corner of the net, and in the fourth minute of added time [[Gonçalo Ramos]] got the equaliser when he headed the ball into the net from close range after a cross from [[Ousmane Dembélé]] on the right. The match finished 2–2 and went straight to a penalty shoot-out.
+[[Nuno Mendes (footballer, born 2002)|Nuno Mendes]] scored the winning penalty to give the trophy to Paris Saint-Germain for the first time, 4–3 on [[Penalty shoot-out (association football)|penalties]].<ref>{{cite web|url=https://www.theguardian.com/football/2025/aug/13/paris-saint-germain-tottenham-uefa-super-cup-match-report|title=Nuno Mendes gets PSG party started in Super Cup shootout win against Spurs|date=13 August 2025|work=The Guardian|accessdate=14 August 2025}}</ref>
+
+===Details===
+The Champions League winners were designated as the "home" team for administrative purposes.
+
+<onlyinclude>{{#invoke:football box|main
+|date       = {{Start date|2025|8|13|df=y}}
+|time       = {{CEST|21:00}}
+|team1      = [[Paris Saint-Germain FC|Paris Saint-Germain]] {{#invoke:flag|fbaicon|FRA}}
+|score      = 2–2
+|team2      = {{#invoke:flag|fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1     =
+*[[Lee Kang-in]] {{goal|85}}
+*[[Gonçalo Ramos|Ramos]] {{goal|90+4}}
+|goals2     =
+*[[Micky van de Ven|Van de Ven]] {{goal|39}}
+*[[Cristian Romero|Romero]] {{goal|48}}
+|stadium    = [[Stadio Friuli]], [[Udine]]
+|attendance = 21,025<ref name="report 13 August">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2025/2045107_FR.pdf |title=Full Time Report Final – Paris Saint-Germain v Tottenham Hotspur |website=UEFA.com |publisher=Union of European Football Associations |date=13 August 2025 |access-date=13 August 2025}}</ref>
+|referee    = [[João Pinheiro (referee)|João Pinheiro]]  ([[Portuguese Football Federation|Portugal]])
+|penalties1 =
+*[[Vitinha (footballer, born February 2000)|Vitinha]] {{penmiss}}
+*[[Gonçalo Ramos|Ramos]] {{pengoal}}
+*[[Ousmane Dembélé|Dembélé]] {{pengoal}}
+*[[Lee Kang-in]] {{pengoal}}
+*[[Nuno Mendes (footballer, born 2002)|Mendes]] {{pengoal}}
+|penaltyscore = 4–3
+|penalties2 =
+*{{pengoal}} [[Dominic Solanke|Solanke]]
+*{{pengoal}} [[Rodrigo Bentancur|Bentancur]]
+*{{penmiss}} [[Micky van de Ven|Van de Ven]]
+*{{penmiss}} [[Mathys Tel|Tel]]
+*{{pengoal}} [[Pedro Porro|Porro]]
+|report     = Report<ref>{{cite web |url=https://www.uefa.com/uefasupercup/match/2045107/ |title=Paris Saint-Germain vs Tottenham Hotspur |website=UEFA.com |publisher=Union of European Football Associations |date=13 August 2025 |access-date=13 August 2025}}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _psg2526h
+ |pattern_b  = _psg2526H
+ |pattern_ra = _psg2526h
+ |pattern_sh = _psg2526h
+ |pattern_so = _psg2526hl
+ |leftarm    = 0A1254
+ |body       = 0A1254
+ |rightarm   = 0A1254
+ |shorts     = 0A1254
+ |socks      = 0A1254
+ |title      = {{nowrap|Paris Saint-Germain}}<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _tottenham2526h
+ |pattern_b  = _tottenham2526H
+ |pattern_ra = _tottenham2526h
+ |pattern_sh = _tottenham2526h2
+ |pattern_so = _tottenham2526hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Tottenham Hotspur}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''30'''||{{#invoke:flag|icon|FRA}} [[Lucas Chevalier]]
+|-
+|RB ||'''2''' ||{{#invoke:flag|icon|MAR}} [[Achraf Hakimi]]
+|-
+|CB ||'''5''' ||{{#invoke:flag|icon|BRA}} [[Marquinhos]] ([[Captain (association football)|c]])
+|-
+|CB ||'''51'''||{{#invoke:flag|icon|ECU}} [[Willian Pacho]] || {{yel|58}}
+|-
+|LB ||'''25'''||{{#invoke:flag|icon|POR}} [[Nuno Mendes (footballer, born 2002)|Nuno Mendes]]
+|-
+|RM ||'''14'''||{{#invoke:flag|icon|FRA}} [[Désiré Doué]] || || {{suboff|77}}
+|-
+|CM ||'''33'''||{{#invoke:flag|icon|FRA}} [[Warren Zaïre-Emery]] || || {{suboff|68}}
+|-
+|CM ||'''17'''||{{#invoke:flag|icon|POR}} [[Vitinha (footballer, born February 2000)|Vitinha]]
+|-
+|LM ||'''29'''||{{#invoke:flag|icon|FRA}} [[Bradley Barcola]] || {{yel|55}} || {{suboff|68}}
+|-
+|CF ||'''10'''||{{#invoke:flag|icon|FRA}} [[Ousmane Dembélé]] || {{yel|90}}
+|-
+|CF ||'''7''' ||{{#invoke:flag|icon|GEO}} [[Khvicha Kvaratskhelia]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''39'''||{{#invoke:flag|icon|RUS}} [[Matvey Safonov]]
+|-
+|GK ||'''89'''||{{#invoke:flag|icon|ITA}} [[Renato Marin]]
+|-
+|DF ||'''4''' ||{{#invoke:flag|icon|BRA}} [[Lucas Beraldo]]
+|-
+|DF ||'''21'''||{{#invoke:flag|icon|FRA}} [[Lucas Hernandez]]
+|-
+|DF ||'''43'''||{{#invoke:flag|icon|FRA}} [[Noham Kamara]]
+|-
+|MF ||'''8''' ||{{#invoke:flag|icon|ESP}} [[Fabián Ruiz]] || || {{subon|60}}
+|-
+|MF ||'''19'''||{{#invoke:flag|icon|KOR}} [[Lee Kang-in]] || || {{subon|68}}
+|-
+|FW ||'''9''' ||{{#invoke:flag|icon|POR}} [[Gonçalo Ramos]] || || {{subon|77}}
+|-
+|FW ||'''49'''||{{#invoke:flag|icon|FRA}} [[Ibrahim Mbaye]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ESP}} [[Luis Enrique]]
+|}
+|valign="top"|[[File:Paris Saint-Germain vs Tottenham Hotspur 2025-08-13.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|ITA}} [[Guglielmo Vicario]]
+|-
+|CB ||'''17'''||{{#invoke:flag|icon|ARG}} [[Cristian Romero]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{#invoke:flag|icon|AUT}} [[Kevin Danso]] || {{yel|62}}
+|-
+|CB ||'''37'''||{{#invoke:flag|icon|NED}} [[Micky van de Ven]]
+|-
+|RM ||'''23'''||{{#invoke:flag|icon|ESP}} [[Pedro Porro]]
+|-
+|CM ||'''6''' ||{{#invoke:flag|icon|POR}} [[João Palhinha]] || || {{suboff|72}}
+|-
+|CM ||'''29'''||{{#invoke:flag|icon|SEN}} [[Pape Matar Sarr]] || || {{suboff|90}}
+|-
+|CM ||'''30'''||{{#invoke:flag|icon|URU}} [[Rodrigo Bentancur]]
+|-
+|LM ||'''24'''||{{#invoke:flag|icon|ENG}} [[Djed Spence]]
+|-
+|SS ||'''20'''||{{#invoke:flag|icon|GHA}} [[Mohammed Kudus]] || || {{suboff|79}}
+|-
+|CF ||'''9''' ||{{#invoke:flag|icon|BRA}} [[Richarlison]] || {{yel|53}} || {{suboff|72}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{#invoke:flag|icon|CZE}} [[Antonín Kinský (footballer, born 2003)|Antonín Kinský]]
+|-
+|GK ||'''40'''||{{#invoke:flag|icon|USA}} [[Brandon Austin]]
+|-
+|DF ||'''33'''||{{#invoke:flag|icon|WAL}} [[Ben Davies (footballer, born 1993)|Ben Davies]]
+|-
+|DF ||'''67'''||{{#invoke:flag|icon|ENG}} [[Jun'ai Byfield]]
+|-
+|DF ||'''80'''||{{#invoke:flag|icon|CRO}} [[Luka Vušković]]
+|-
+|MF ||'''14'''||{{#invoke:flag|icon|ENG}} [[Archie Gray]] || || {{subon|72}}
+|-
+|MF ||'''15'''||{{#invoke:flag|icon|SWE}} [[Lucas Bergvall]] || || {{subon|90}}
+|-
+|FW ||'''11'''||{{#invoke:flag|icon|FRA}} [[Mathys Tel]] || || {{subon|79}}
+|-
+|FW ||'''19'''||{{#invoke:flag|icon|ENG}} [[Dominic Solanke]] || || {{subon|72}}
+|-
+|FW ||'''22'''||{{#invoke:flag|icon|WAL}} [[Brennan Johnson]]
+|-
+|FW ||'''28'''||{{#invoke:flag|icon|FRA}} [[Wilson Odobert]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|DEN}} [[Thomas Frank (football manager)|Thomas Frank]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Ousmane Dembélé]] (Paris Saint-Germain)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Bruno Jesus ([[Portuguese Football Federation|Portugal]])
+<br />Luciano Maia ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referees"/>
+<br />Elchin Masiyev ([[Association of Football Federations of Azerbaijan|Azerbaijan]])
+<br />'''[[Video assistant referee]]:'''<ref name="referees"/>
+<br />[[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''<ref name="referees"/>
+<br />Fábio Oliveira Melo ([[Portuguese Football Federation|Portugal]])
+<br />[[Pol van Boekel]] ([[Royal Dutch Football Association|Netherlands]])
+|style="width:60%; vertical-align:top;"|
+{{Match rules
+|ref               = <ref>{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Super-Cup-2025-Online |title=Regulations of the UEFA Super Cup: 2025 |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2025 |access-date=8 June 2025 |archive-url=https://web.archive.org/web/20250608181947/https://documents.uefa.com/api/khub/maps/d86kViDFZfyzAjQchLjzZw/attachments/3lrs9uVLQ6zaBjGCwHMbyw-d86kViDFZfyzAjQchLjzZw/content |archive-date=8 June 2025}}</ref>
+|penalties         = y
+|named subs        = 12
+|subs allowed      = 5
+|sub opportunities = y
+}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2025/2045107_TS.pdf |title=Team statistics |website=UEFA.com |publisher=Union of European Football Associations |date=13 August 2025 |access-date=13 August 2025}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Tottenham Hotspur
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|4
+|9
+|-
+!scope=row|Shots on target
+|0
+|3
+|-
+!scope=row|Saves
+|2
+|0
+|-
+!scope=row|Ball possession
+|66%
+|34%
+|-
+!scope=row|Corner kicks
+|3
+|1
+|-
+!scope=row|Fouls committed
+|3
+|4
+|-
+!scope=row|Offsides
+|0
+|3
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Tottenham Hotspur
+|-
+!scope=row|Goals scored
+|2
+|1
+|-
+!scope=row|Total shots
+|8
+|4
+|-
+!scope=row|Shots on target
+|3
+|2
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|69%
+|31%
+|-
+!scope=row|Corner kicks
+|4
+|1
+|-
+!scope=row|Fouls committed
+|9
+|8
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Tottenham Hotspur
+|-
+!scope=row|Goals scored
+|2
+|2
+|-
+!scope=row|Total shots
+|12
+|13
+|-
+!scope=row|Shots on target
+|3
+|5
+|-
+!scope=row|Saves
+|3
+|1
+|-
+!scope=row|Ball possession
+|67%
+|33%
+|-
+!scope=row|Corner kicks
+|7
+|2
+|-
+!scope=row|Fouls committed
+|12
+|12
+|-
+!scope=row|Offsides
+|2
+|4
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2025 UEFA Champions League final]]
+*[[2025 UEFA Europa League final]]
+*[[2025–26 UEFA Champions League]]
+*[[2025–26 UEFA Europa League]]
+*[[2025–26 Paris Saint-Germain FC season]]
+*[[2025–26 Tottenham Hotspur F.C. season]]
+*[[Paris Saint-Germain FC in international football]]
+*[[Tottenham Hotspur F.C. in European football]]
+
+==References==
+<references />
+
+==External links==
+*{{Official website|https://www.uefa.com/uefasupercup/}}
+
+{{UEFA Super Cup}}
+{{2025–26 in European football (UEFA)}}
+{{2025–26 European club competitions}}
+{{Paris Saint-Germain FC matches}}
+{{Tottenham Hotspur F.C. matches}}
+
+{{DEFAULTSORT:Uefa Super Cup 2025}}
+[[Category:UEFA Super Cup matches|2025]]
+[[Category:2025–26 in European men's continental football|Super Cup]]
+[[Category:2025–26 in French men's football]]
+[[Category:Paris Saint-Germain FC matches]]
+[[Category:2025–26 in English men's football]]
+[[Category:Tottenham Hotspur F.C. matches]]
+[[Category:August 2025 sports events in Italy]]
+[[Category:Football competitions in Italy]]
+[[Category:Sport in Udine]]
+[[Category:2025–26 in Italian football]]
+[[Category:France–United Kingdom sports relations]]

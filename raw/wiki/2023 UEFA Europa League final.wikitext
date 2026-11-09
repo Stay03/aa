@@ -1,0 +1,641 @@
+{{Use British English|date=June 2024}}
+{{Use dmy dates|date=February 2020}}
+{{Infobox football match
+| title              = 2023 UEFA Europa League final
+| image              = 2023 UEFA Europa League Final programme.jpg
+| image_size         = frameless
+| caption            = Match programme cover
+| event              = {{nowrap|[[2022–23 UEFA Europa League]]}}
+| team1              = [[Sevilla FC|Sevilla]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 1
+| team2              = [[AS Roma|Roma]]
+| team2association   = {{fbaicon|ITA|size=30px}}
+| team2score         = 1
+| details            = After [[Overtime (sports)#Association football|extra time]]<br />Sevilla won 4–1 on [[Penalty shoot-out (association football)|penalties]]
+| date               = {{Start date|2023|5|31|df=y}}
+| stadium            = [[Puskás Aréna]]
+| city               = [[Budapest]]
+| man_of_the_match1a = [[Yassine Bounou]] (Sevilla)<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefaeuropaleague/news/0281-1825b4ea6706-f267d32f6051-1000/ |title=Yassine Bounou named official UEFA Europa League final Hankook Player of the Match |website=UEFA.com|publisher=Union of European Football Associations |date=31 May 2023 |access-date=31 May 2023}}</ref>
+| referee            = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])<ref name="officials">{{cite web |url=https://www.uefa.com/news-media/news/0281-1812baf4488c-70b9f3974d92-1000/ |title=Referee teams appointed for 2023 UEFA club competition finals |publisher=UEFA |date=22 May 2023 |access-date=22 May 2023}}</ref>
+| attendance         = 61,476<ref name="report31May"/>
+| weather            = Clear night<br />{{convert|18|°C|°F}}<br />63% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2023/2037767_LU.pdf |title=Tactical Lineups – Final – Wednesday 31 May 2023 |website=UEFA.com |publisher=Union of European Football Associations |date=31 May 2023 |access-date=31 May 2023 |archive-url=https://web.archive.org/web/20230601060659/https://www.uefa.com/newsfiles/uefacup/2023/2037767_lu.pdf |archive-date=1 June 2023 |url-status=dead}}</ref>
+| previous           = [[2022 UEFA Europa League final|2022]]
+| next               = [[2024 UEFA Europa League final|2024]]
+}}
+The '''2023 UEFA Europa League final''' was the final match of the [[2022–23 UEFA Europa League]], the 52nd season of Europe's secondary club [[association football|football]] tournament organised by [[UEFA]], and the 14th season since it was renamed from the UEFA Cup to the [[UEFA Europa League]]. The match was played at the [[Puskás Aréna]] in [[Budapest]], Hungary, on 31 May 2023,<ref>{{cite magazine |url=https://editorial.uefa.com/resources/026b-12cc960662f6-a33fcea5d68a-1000/20210719_circular_2021_51_en.zip |title=International match calendar and access list for 2022/23 |magazine=UEFA Circular Letter |publisher=Union of European Football Associations |number=51/2021 |date=19 July 2021 |access-date=5 November 2021}}</ref><ref name="ExCo">{{cite news |url=https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2640217.html |archive-url=https://web.archive.org/web/20200322125102/https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2640217.html |url-status=dead |archive-date=22 March 2020 |title=Budapest to host 2022 UEFA Europa League Final |website=UEFA.com|publisher=Union of European Football Associations |date=2 March 2020 |access-date=2 March 2020}}</ref> between Spanish club [[Sevilla FC|Sevilla]] and Italian club [[AS Roma|Roma]]. Due to the postponement and relocation of the [[2020 UEFA Europa League Final|2020 final]], the final hosts were shifted back a year, with Budapest instead hosting the 2023 final.<ref name="ExCo 17 June">{{cite news |url=https://www.uefa.com/news-media/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/ |title=UEFA competitions to resume in August |website=UEFA.com|publisher=Union of European Football Associations |date=17 June 2020 |access-date=17 June 2020}}</ref>
+
+Sevilla won the match 4–1 on [[Penalty shoot-out (association football)|penalties]] following a 1–1 draw after [[Overtime (sports)#Association football|extra time]] for their record seventh UEFA Cup/Europa League title.<ref>{{cite web |last=Pettit |first=Mark |url=https://www.uefa.com/uefaeuropaleague/news/0281-1825b16a79b7-12fe014d1f96-1000/ |title=Sevilla 1–1 Roma (aet, Sevilla win 4–1 on penalties): Bounou the spot-kick hero for serial winners |website=UEFA.com|publisher=Union of European Football Associations |date=31 May 2023 |access-date=8 June 2023}}</ref><ref>{{cite web |url=https://www.theguardian.com/football/2023/may/31/sevilla-roma-europa-league-final-match-report |title=Montiel edges Sevilla to seventh Europa League triumph with win over Roma |date=31 May 2023 |work=Guardian|access-date=1 June 2023}}</ref> As winners, they qualified for the group stage of the [[2023–24 UEFA Champions League]], and earned the right to play against the winners of the [[2022–23 UEFA Champions League]], [[Manchester City F.C.|Manchester City]], in the [[2023 UEFA Super Cup]].<ref>{{cite web |url=https://www.bbc.com/sport/football/65752974 |title=Sevilla 1 Roma 1 (Sevilla win 4–1 on penalties) |date=31 May 2023 |work=BBC Sport|access-date=1 June 2023}}</ref>
+
+==Background==
+[[Sevilla FC|Sevilla]] were aiming for their record-extending seventh UEFA Cup/Europa League title, having won their previous finals in [[2006 UEFA Cup final|2006]], [[2007 UEFA Cup final|2007]], [[2014 UEFA Europa League final|2014]], [[2015 UEFA Europa League final|2015]], [[2016 UEFA Europa League final|2016]], and [[2020 UEFA Europa League final|2020]]. Their manager [[José Luis Mendilibar]] was seeking the first major title in his managerial career.
+
+[[AS Roma|Roma]] were into their fourth European final and seeking their first UEFA Cup/Europa League title, having lost the [[1984 European Cup final]] and the [[1991 UEFA Cup final]] as well as winning the [[2021–22 UEFA Europa Conference League]]. Manager [[José Mourinho]] was also looking to win his second consecutive European title with Roma. He could become the first manager since [[Rafael Benítez]] in 2005 to win two different major European trophies in consecutive seasons, and the first of the five managers{{refn|group=note|They are [[Nereo Rocco]] ([[1967–68 European Cup Winners' Cup]] and [[1968–69 European Cup]], both with [[AC Milan|Milan]]), [[Bob Paisley]] ([[1975–76 UEFA Cup]] and [[1976–77 European Cup]], both with [[Liverpool F.C.|Liverpool]]), [[Giovanni Trapattoni]] ([[1983–84 European Cup Winners' Cup]] and [[1984–85 European Cup]], both with [[Juventus FC|Juventus]]), Mourinho, and Benítez ([[2003–04 UEFA Cup]] with [[Valencia CF|Valencia]] and [[2004–05 UEFA Champions League]] with Liverpool).}} to achieve that twice, having done so with [[FC Porto|Porto]] in [[2003–04 UEFA Champions League|2004]]. He also had the chance to become the first manager to win six major European competition titles{{refn|group=note|European Cup/Champions League, Cup Winners' Cup, UEFA Cup/Europa League, UEFA Europa Conference League.}} and also the first to have won the UEFA Cup/Europa League with three distinct clubs, having won the [[2002–03 UEFA Cup]] with Porto and the [[2016–17 UEFA Europa League]] with [[Manchester United F.C.|Manchester United]].<ref>{{Cite web |url=https://www.uefa.com/uefaeuropaleague/news/0281-1812715f4e73-96ef98ba01f3-1000--europa-league-final-sevilla-vs-roma-what-to-look-out-for/ |title=Europa League final: Sevilla vs Roma – what to look out for |website=UEFA.com|publisher=UEFA |date=22 May 2023 |access-date=31 May 2023|url-status=live|archive-url=https://web.archive.org/web/20230522173017/https://www.uefa.com/uefaeuropaleague/news/0281-1812715f4e73-96ef98ba01f3-1000--europa-league-final-sevilla-vs-roma-what-to-look-out-for/|archive-date=22 May 2023}}</ref>
+
+Both clubs had met in the [[2019–20 UEFA Europa League knockout phase#Round of 16|2019–20 UEFA Europa League knockout phase round of 16]], which was only played as a single tie because of the [[COVID-19 pandemic in Europe]]. Sevilla won the game [[2019–20 UEFA Europa League knockout phase#Sevilla v Roma|2–0]].
+
+===Previous finals===
+''In the following table, the finals until 2009 were in the UEFA Cup era, and since 2010 in the UEFA Europa League era.''
+
+{| class="wikitable"
+|-
+!Team
+!Previous final appearances (bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|6 ('''[[2006 UEFA Cup final|2006]]''', '''[[2007 UEFA Cup final|2007]]''', '''[[2014 UEFA Europa League final|2014]]''', '''[[2015 UEFA Europa League final|2015]]''', '''[[2016 UEFA Europa League final|2016]]''', '''[[2020 UEFA Europa League final|2020]]''')
+|-
+|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|1 ([[1991 UEFA Cup final|1991]])
+|}
+
+==Venue==
+[[File:Puskás Aréna 01.jpg|thumb|275px|The [[Puskás Aréna]] in [[Budapest]] hosted the final.]]
+
+The match was the first UEFA Cup/Europa League final to be held in [[Budapest]], and the second final in the competition's history to be held in Hungary after the [[1985 UEFA Cup final|1985 first leg]].<ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0271-142efc51ba36-20a4481bdc54-1000--sevilla-vs-roma-in-the-2023-uefa-europa-league-final-all-y/ |title=Sevilla vs Roma in the 2023 UEFA Europa League final: All you need to know |date=31 May 2023 |work=[[UEFA]]|access-date=31 May 2023}}</ref>
+The final was also the third UEFA club competition final to be held in the city after the [[2019 UEFA Women's Champions League final]] and the [[2020 UEFA Super Cup]],<ref name="ExCo 17 June"/> making it the fourth overall UEFA club final in Hungary. The stadium was also chosen as a venue for [[UEFA Euro 2020]], where it hosted three group stage matches and a round of 16 fixture.<ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/025b-0ed522c7a53a-5654a41fc442-1000/ |title=Budapest to stage 2022 UEFA Europa League final |website=UEFA.com|publisher=Union of European Football Associations |date=2 March 2020 |access-date=2 March 2020}}</ref>
+
+===Host selection===
+The [[Puskás Aréna]] was selected as the final host by the UEFA Executive Committee during their meeting in [[Amsterdam]], the Netherlands, on 2 March 2020.<ref>{{cite news |url=https://www.uefa.com/news-media/news/025a-0f8e7599aae5-eab7d48ee1f2-1000--uefa-executive-committee-agenda-for-amsterdam-meeting/ |title=UEFA Executive Committee agenda for Amsterdam meeting |website=UEFA.com|publisher=Union of European Football Associations |date=27 February 2020 |access-date=27 February 2020}}</ref>
+
+On 17 June 2020, the UEFA Executive Committee announced that due to the postponement and relocation of the [[2020 UEFA Europa League final|2020 final]], Budapest would instead host the 2023 final.<ref name="ExCo 17 June"/>
+
+==Route to the final==
+{{Further|2022–23 UEFA Europa League|2022–23 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+!Round
+!colspan="4"|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2022–23 UEFA Champions League|Champions League]]'''
+|
+|colspan="4"|'''[[2022–23 UEFA Europa League|Europa League]]'''
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|Group stage ([[2022–23 UEFA Champions League group stage|CL]], [[2022–23 UEFA Europa League group stage|EL]])
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Sevilla v Manchester City|0–4]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|BUL}} [[PFC Ludogorets Razgrad|Ludogorets Razgrad]]
+|colspan="3"|[[2022–23 UEFA Europa League group stage#Ludogorets Razgrad v Roma|1–2]] (A)
+|-
+|style="text-align:left"|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Copenhagen v Sevilla|0–0]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|FIN}} [[Helsingin Jalkapalloklubi|HJK]]
+|colspan="3"|[[2022–23 UEFA Europa League group stage#Roma v HJK|3–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|GER}} [[Borussia Dortmund]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Sevilla v Borussia Dortmund|1–4]] (H)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Betis]]
+|colspan="3"|[[2022–23 UEFA Europa League group stage#Roma v Real Betis|1–2]] (H)
+|-
+|style="text-align:left"|{{fbaicon|GER}} [[Borussia Dortmund]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Borussia Dortmund v Sevilla|1–1]] (A)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Betis]]
+|colspan="3"|[[2022–23 UEFA Europa League group stage#Real Betis v Roma|1–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Sevilla v Copenhagen|3–0]] (H)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|FIN}} [[Helsingin Jalkapalloklubi|HJK]]
+|colspan="3"|[[2022–23 UEFA Europa League group stage#HJK v Roma|2–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Manchester City v Sevilla|1–3]] (A)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|BUL}} [[PFC Ludogorets Razgrad|Ludogorets Razgrad]]
+|colspan="3"|[[2022–23 UEFA Europa League group stage#Roma v Ludogorets Razgrad|3–1]] (H)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2022–23 UEFA Champions League group stage#Group G|Group G]] third place'''
+<div class="center">{{2022–23 UEFA Champions League group tables|Group G|only_pld_pts=yes|show_matches=no|showteam=SEV}}</div>
+|style="background:#C1E0FF"|Final standings
+|rowspan="2" colspan="4" style="vertical-align:top"|'''[[2022–23 UEFA Europa League group stage#Group C|Group C]] runners-up'''
+<div class="center">{{2022–23 UEFA Europa League group tables|Group C|only_pld_pts=yes|show_matches=no|showteam=ROM}}</div>
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2022–23 UEFA Europa League|Europa League]]'''
+|
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2022–23 UEFA Europa League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|NED}} [[PSV Eindhoven]]
+|3–2
+|[[2022–23 UEFA Europa League knockout phase#Sevilla v PSV Eindhoven|3–0]] (H)
+|[[2022–23 UEFA Europa League knockout phase#PSV Eindhoven v Sevilla|0–2]] (A)
+|style="background:#C1E0FF"|Knockout round play-offs
+|style="text-align:left"|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|2–1
+|[[2022–23 UEFA Europa League knockout phase#Red Bull Salzburg v Roma|0–1]] (A)
+|[[2022–23 UEFA Europa League knockout phase#Roma v Red Bull Salzburg|2–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|2–1
+|[[2022–23 UEFA Europa League knockout phase#Sevilla v Fenerbahçe|2–0]] (H)
+|[[2022–23 UEFA Europa League knockout phase#Fenerbahçe v Sevilla|0–1]] (A)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Sociedad]]
+|2–0
+|[[2022–23 UEFA Europa League knockout phase#Roma v Real Sociedad|2–0]] (H)
+|[[2022–23 UEFA Europa League knockout phase#Real Sociedad v Roma|0–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|5–2
+|[[2022–23 UEFA Europa League knockout phase#Manchester United v Sevilla|2–2]] (A)
+|[[2022–23 UEFA Europa League knockout phase#Sevilla v Manchester United|3–0]] (H)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|NED}} [[Feyenoord]]
+|4–2
+|[[2022–23 UEFA Europa League knockout phase#Feyenoord v Roma|0–1]] (A)
+|[[2022–23 UEFA Europa League knockout phase#Roma v Feyenoord|4–1]] {{aet}} (H)
+|-
+|style="text-align:left"|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|3–2
+|[[2022–23 UEFA Europa League knockout phase#Juventus v Sevilla|1–1]] (A)
+|[[2022–23 UEFA Europa League knockout phase#Sevilla v Juventus|2–1]] {{aet}} (H)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|1–0
+|[[2022–23 UEFA Europa League knockout phase#Roma v Bayer Leverkusen|1–0]] (H)
+|[[2022–23 UEFA Europa League knockout phase#Bayer Leverkusen v Roma|0–0]] (A)
+|}
+
+==Pre-match==
+
+===Identity===
+The original identity of the 2023 UEFA Europa League Final was unveiled at the group stage draw on 26 August 2022.<ref>{{cite news |date=26 August 2022 |title=2023 UEFA Europa League and 2023 UEFA Europa Conference League finals identities unveiled {{!}} Inside UEFA |url=https://www.uefa.com/news-media/news/0278-15f5454ff2ca-671989a3cb07-1000--2023-uefa-europa-league-and-2023-uefa-europa-conference-league-/ |access-date=26 August 2022 |website=[[UEFA]]}}</ref>
+
+===Ambassador===
+The ambassador for the final was former Hungarian international [[Zoltán Gera]], who finished as runner-up in the [[2009–10 UEFA Europa League]] with [[Fulham F.C.|Fulham]].
+
+===Ticketing===
+With a stadium capacity of 63,000 for the final, a total amount of 46,800 tickets were available to fans and the general public, with the two finalist teams receiving 15,000 tickets each, and with the other tickets being available for sale to fans worldwide via ''UEFA.com'' from 21 to 28 April 2023 in four price categories: €150, €100, €65, and €40. Accessibility tickets for disabled spectators cost €40. The remaining tickets were allocated to the local organising committee, national associations, commercial partners, and broadcasters, and to serve the corporate hospitality programme.<ref>{{cite news |title=Ticket sales for 2023 UEFA club competition finals launched |url=https://www.uefa.com/news-media/news/0280-17d41ec484ee-05fcab4e5d9d-1000--ticket-sales-for-2023-uefa-club-competition-finals-launched/ |website=UEFA.com|publisher=Union of European Football Associations |date=21 April 2023}}</ref>
+
+==Match==
+===Summary===
+In the 35th  minute, Roma went in front when [[Paulo Dybala]] slotted the ball low into the right corner of the net after a pass from [[Gianluca Mancini]], but Sevilla equalised ten minutes into the second half when Mancini turned the ball into his own goal after a cross from [[Jesús Navas]] on the right to make it 1–1. The game went to a [[Penalty shoot-out (association football)|penalties]] following almost 132 minutes of game time. After two missed Roma penalties in the shootout, one of which was saved by goalkeeper [[Yassine Bounou]] and the other of which hit the post, [[Gonzalo Montiel]], who also scored the winning penalty for [[Argentina national football team|Argentina]] in the [[2022 FIFA World Cup final]] against [[France national football team|France]], scored the winner for Sevilla. His penalty at first was missed but was re-taken owing to encroachment.<ref name="CriticalResponse1">{{cite news |title=Sevilla 1–1 Roma (4–1 on penalties): Spanish side make history as Mourinho throws medal into crowd |url=https://www.bbc.co.uk/sport/football/65770780 |access-date=1 June 2023 |newspaper=BBC Sport}}</ref>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the quarter-final and semi-final draws.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2023|5|31|df=y}}
+|time       = {{CEST|21:00}}
+|team1      = [[Sevilla FC|Sevilla]] {{fbaicon|ESP}}
+|score      = 1–1
+|aet        = yes
+|team2      = {{fbaicon|ITA}} [[AS Roma|Roma]]
+|goals1     =
+*[[Gianluca Mancini|Mancini]] {{goal|55|o.g.}}
+|goals2     =
+*[[Paulo Dybala|Dybala]] {{goal|35}}
+|stadium    = [[Puskás Aréna]], [[Budapest]]
+|attendance = 61,476<ref name="report31May">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2023/2037767_FR.pdf |title=Full Time Summary Final – Sevilla v Roma |website=UEFA.com |publisher=Union of European Football Associations |date=31 May 2023 |access-date=31 May 2023 |archive-url=https://web.archive.org/web/20230601060751/https://www.uefa.com/newsfiles/uefacup/2023/2037767_fr.pdf |archive-date=1 June 2023 |url-status=dead}}</ref>
+|referee    = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|penalties1 =
+*[[Lucas Ocampos|Ocampos]] {{pengoal}}
+*[[Erik Lamela|Lamela]] {{pengoal}}
+*[[Ivan Rakitić|Rakitić]] {{pengoal}}
+*[[Gonzalo Montiel|Montiel]] {{pengoal}}
+|penaltyscore = 4–1
+|penalties2 =
+*{{pengoal}} [[Bryan Cristante|Cristante]]
+*{{penmiss}} [[Gianluca Mancini|Mancini]]
+*{{penmiss}} [[Roger Ibañez|Ibañez]]
+|report     = https://www.uefa.com/uefaeuropaleague/match/2037767/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _sevilla2223home
+ |pattern_b  = _sevilla2223home
+ |pattern_ra = _sevilla2223home
+ |pattern_sh = _sevilla2223H
+ |pattern_so = _sevilla2223h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 000000
+ |title      = Sevilla<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _roma2223h
+ |pattern_b  = _roma2223H
+ |pattern_ra = _roma2223h
+ |pattern_sh = _roma2223h
+ |pattern_so = _roma2223h
+ |leftarm    = 8E1111
+ |body       = 8E1111
+ |rightarm   = 8E1111
+ |shorts     = 8E1111
+ |socks      = 8E1111
+ |title      = Roma<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|MAR}} [[Yassine Bounou]]
+|-
+|RB ||'''16'''||{{flagicon|ESP}} [[Jesús Navas]] ([[Captain (association football)|c]]) || || {{suboff|94}}
+|-
+|CB ||'''44'''||{{flagicon|FRA}} [[Loïc Badé]]
+|-
+|CB ||'''6''' ||{{flagicon|SRB}} [[Nemanja Gudelj]] || || {{suboff|120+8}}
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Alex Telles]] || || {{suboff|95}}
+|-
+|CM ||'''20'''||{{flagicon|BRA}} [[Fernando (footballer, born 1987)|Fernando]] || || {{suboff|120+8}}
+|-
+|CM ||'''10'''||{{flagicon|CRO}} [[Ivan Rakitić]] || {{yel|65}}
+|-
+|RW ||'''55'''||{{flagicon|ARG}} [[Lucas Ocampos]] || {{yel|120+10}}
+|-
+|AM ||'''21'''||{{flagicon|ESP}} [[Óliver Torres]] || || {{suboff|46}}
+|-
+|LW ||'''25'''||{{flagicon|ESP}} [[Bryan Gil]] || || {{suboff|46}}
+|-
+|CF ||'''15'''||{{flagicon|MAR}} [[Youssef En-Nesyri]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|SRB}} [[Marko Dmitrović]]
+|-
+|GK ||'''31'''||{{flagicon|ESP}} [[Alberto Flores]]
+|-
+|DF ||'''2''' ||{{flagicon|ARG}} [[Gonzalo Montiel]] || {{yel|120+4}} || {{subon|94}}
+|-
+|DF ||'''4''' ||{{flagicon|NED}} [[Karim Rekik]] || || {{subon|95}}
+|-
+|DF ||'''14'''||{{flagicon|FRA}} [[Tanguy Nianzou]]
+|-
+|DF ||'''23'''||{{flagicon|BRA}} [[Marcão (footballer, born 1996)|Marcão]] || || {{subon|120+8}}
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Joan Jordán]] || {{yel|120}} || {{subon|120+8}}
+|-
+|MF ||'''24'''||{{flagicon|ARG}} [[Papu Gómez|Alejandro Gómez]]
+|-
+|MF ||'''43'''||{{flagicon|ESP}} [[Manu Bueno]]
+|-
+|FW ||'''7''' ||{{flagicon|ESP}} [[Suso (footballer)|Suso]] || || {{subon|46}}
+|-
+|FW ||'''12'''||{{flagicon|ESP}} [[Rafa Mir]] || {{yel|36}}
+|-
+|FW ||'''17'''||{{flagicon|ARG}} [[Erik Lamela]] || {{yel|109}} || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[José Luis Mendilibar]]
+|}
+|valign="top"|[[File:Sevilla vs Roma 2023-05-31.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|POR}} [[Rui Patrício]]
+|-
+|CB ||'''23'''||{{flagicon|ITA}} [[Gianluca Mancini]] || {{yel|48}}
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Chris Smalling]]
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Roger Ibañez]]
+|-
+|RM ||'''19'''||{{flagicon|TUR}} [[Zeki Çelik]] || {{yel|74}} || {{suboff|91}}
+|-
+|CM ||'''4''' ||{{flagicon|ITA}} [[Bryan Cristante]] || {{yel|65}}
+|-
+|CM ||'''8''' ||{{flagicon|SRB}} [[Nemanja Matić]] || {{yel|21}} || {{suboff|120}}
+|-
+|LM ||'''37'''||{{flagicon|ITA}} [[Leonardo Spinazzola]] || || {{suboff|106}}
+|-
+|AM ||'''7''' ||{{flagicon|ITA}} [[Lorenzo Pellegrini]] ([[Captain (association football)|c]]) || {{yel|45}} || {{suboff|106}}
+|-
+|CF ||'''21'''||{{flagicon|ARG}} [[Paulo Dybala]] || || {{suboff|68}}
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Tammy Abraham]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''63'''||{{flagicon|ITA}} [[Pietro Boer]]
+|-
+|GK ||'''99'''||{{flagicon|SRB}} [[Mile Svilar]]
+|-
+|DF ||'''2''' ||{{flagicon|NED}} [[Rick Karsdorp]] || {{yel|120+10}}
+|-
+|DF ||'''14'''||{{flagicon|ESP}} [[Diego Llorente]] || || {{subon|106}}
+|-
+|MF ||'''20'''||{{flagicon|GUI}} [[Mady Camara]]
+|-
+|MF ||'''25'''||{{flagicon|NED}} [[Georginio Wijnaldum]] || || {{subon|68}}
+|-
+|MF ||'''52'''||{{flagicon|ITA}} [[Edoardo Bove]] || || {{subon|120}}
+|-
+|MF ||'''59'''||{{flagicon|POL}} [[Nicola Zalewski]] || {{yel|105}} || {{subon|91}}
+|-
+|MF ||'''62'''||{{flagicon|ITA}} [[Cristian Volpato]]
+|-
+|MF ||'''68'''||{{flagicon|BIH}} [[Benjamin Tahirović]]
+|-
+|FW ||'''11'''||{{flagicon|ITA}} [[Andrea Belotti]] || || {{subon|74}}
+|-
+|FW ||'''92'''||{{flagicon|ITA}} [[Stephan El Shaarawy]] || || {{subon|106}}
+|-
+|colspan=3|'''Other disciplinary actions:'''
+|-
+|{{abbr|TS|Technical staff member (assistant manager)}} ||colspan=2|{{flagicon|ITA}} [[Salvatore Foti]]<ref>{{cite news |last=De Felice |first=Alessandro |url=https://www.goal.com/it/liste/moviola-siviglia-roma-finale-rigore-fallo-espulsione-arbitro-var-episodi/blt7c8595be8d4fd6f2#cs77093c33ba24be2d |title=Moviola Siviglia–Roma: mano di Fernando in area, Taylor non concede il rigore |trans-title=Sevilla–Roma video replay: handball from Fernando in the box, Taylor does not award the penalty |website=[[Goal (website)|Goal]] |date=31 May 2023 |access-date=1 June 2023 |language=it}}</ref> || {{yel|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[José Mourinho]] || {{yel|120}}
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Yassine Bounou]] (Sevilla)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Gary Beswick ([[The Football Association|England]])
+<br />Adam Nunn ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Stuart Burt ([[The Football Association|England]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Stuart Attwell]] ([[The Football Association|England]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />[[Chris Kavanagh (referee)|Chris Kavanagh]] ([[The Football Association|England]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="officials"/>
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Europa-League-2022/23-Online |title=Regulations of the UEFA Europa League, 2022/23 Season |website=UEFA.com|publisher=Union of European Football Associations |date=1 May 2022 |access-date=10 May 2022}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://archive.org/download/uefa-europa-league-2022-2023-team-statistics-sevilla-fc-v-as-roma/UEFA%20Europa%20League%202022-2023%20-%20Team%20Statistics%20-%20Sevilla%20FC%20v%20AS%20Roma.pdf |title=Team statistics |publisher=Union of European Football Associations |date=31 May 2023 |access-date=1 June 2023}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Sevilla
+!scope="col" style="width:70px"|Roma
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|4
+|2
+|-
+!scope=row|Shots on target
+|1
+|2
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|58%
+|42%
+|-
+!scope=row|Corner kicks
+|2
+|1
+|-
+!scope=row|Fouls committed
+|7
+|8
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|1
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Sevilla
+!scope="col" style="width:70px"|Roma
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|11
+|6
+|-
+!scope=row|Shots on target
+|1
+|1
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|65%
+|35%
+|-
+!scope=row|Corner kicks
+|2
+|0
+|-
+!scope=row|Fouls committed
+|8
+|8
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|1
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Sevilla
+!scope="col" style="width:70px"|Roma
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|3
+|3
+|-
+!scope=row|Shots on target
+|1
+|0
+|-
+!scope=row|Saves
+|0
+|1
+|-
+!scope=row|Ball possession
+|65%
+|35%
+|-
+!scope=row|Corner kicks
+|2
+|3
+|-
+!scope=row|Fouls committed
+|6
+|3
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|4
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Sevilla
+!scope="col" style="width:70px"|Roma
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|18
+|11
+|-
+!scope=row|Shots on target
+|3
+|3
+|-
+!scope=row|Saves
+|2
+|3
+|-
+!scope=row|Ball possession
+|62%
+|38%
+|-
+!scope=row|Corner kicks
+|6
+|4
+|-
+!scope=row|Fouls committed
+|21
+|19
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|6
+|8
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+
+===Critical response===
+[[Steve McManaman]] told [[BT Sport]] that the final had been "really ugly" and "unsavoury". He also stated his belief that the "behaviour and histrionics of both benches" had been "awful", saying that he felt for "the fourth official, Michael Oliver".<ref name="CriticalResponse1"/>
+
+==See also==
+*[[2023 UEFA Champions League final]]
+*[[2023 UEFA Europa Conference League final]]
+*[[2023 UEFA Women's Champions League final]]
+*[[2023 UEFA Super Cup]]
+*[[AS Roma in European football]] 
+*[[Sevilla FC in European football]]
+*[[2022–23 AS Roma season]]
+*[[2022–23 Sevilla FC season]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefaeuropaleague/}}
+
+{{UEFA Europa League seasons}}
+{{2022–23 in European football (UEFA)}}
+{{Sevilla FC matches}}
+{{A.S. Roma matches}}
+
+{{DEFAULTSORT:Uefa Europa League Final 2023}}
+[[Category:UEFA Europa League finals|2023]]
+[[Category:2022–23 UEFA Europa League|Final]]
+[[Category:May 2023 sports events in Hungary]]
+[[Category:2022–23 in Hungarian football]]
+[[Category:Sevilla FC matches]]
+[[Category:2022–23 in Spanish men's football]]
+[[Category:AS Roma matches]]
+[[Category:2022–23 in Italian football]]
+[[Category:International sports competitions in Budapest]]
+[[Category:2020s in Budapest]]
+[[Category:Football matches in Hungary]]
+[[Category:Italy–Spain sports relations|2023]]
+[[Category:Football in Budapest]]

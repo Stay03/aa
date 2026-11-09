@@ -1,0 +1,540 @@
+{{Short description|Association football match}}
+{{Use dmy dates|date=September 2021}}
+{{Infobox football match
+| title              = 2002 UEFA Champions League final
+| image              = Ecf2002.jpg
+| image_size = 200
+| caption            = Match programme cover
+| event              = [[2001–02 UEFA Champions League]]
+| team1              = [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| team1association   = {{fbaicon|GER|size=30px}}
+| team1score         = 1
+| team2              = [[Real Madrid CF|Real Madrid]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 2
+| date               = 15 May 2002
+| stadium            = [[Hampden Park]]
+| city               = [[Glasgow]]
+| man_of_the_match1a = [[Zinedine Zidane]] {{nowrap|(Real Madrid)}}<ref name="attendance"/>
+| referee            = [[Urs Meier]] ([[Swiss Football Association|Switzerland]])<ref name="ursmeier">{{cite journal |first=Matthew |last=Lindsay |title=Meier the man for job |journal=[[Evening Times]] |date=13 May 2002 |pages=52 |url=https://pqasb.pqarchiver.com/smgpubs/access/119493609.html?dids=119493609:119493609&FMT=ABS&FMTS=ABS:FT&type=current&date=May+13,+2002&author=Matthew;+Lindsay&pub=Evening+Times&desc=Meier+the+man+for+job&pqatl=google |access-date=31 December 2010 |archive-date=4 November 2012 |archive-url=https://web.archive.org/web/20121104221231/http://pqasb.pqarchiver.com/smgpubs/access/119493609.html?dids=119493609:119493609&FMT=ABS&FMTS=ABS:FT&type=current&date=May+13,+2002&author=Matthew;+Lindsay&pub=Evening+Times&desc=Meier+the+man+for+job&pqatl=google |url-status=dead |url-access=subscription}}</ref>
+| attendance         = 50,499<ref name="attendance"/>
+| weather            = Mostly cloudy, rain showers<br />{{convert|15|°C|°F}}<ref>{{cite web|url=http://www.wunderground.com/history/airport/EGPF/2002/5/15/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA|title=Weather History for Glasgow, Gambia – Weather Underground|website=wunderground.com}}</ref>
+| previous           = [[2001 UEFA Champions League final|2001]]
+| next               = [[2003 UEFA Champions League final|2003]]
+}}
+The '''2002 UEFA Champions League final''' was the final match of the [[2001–02 UEFA Champions League]], Europe's primary club [[Association football|football]] competition. The show-piece event was contested between [[Bayer 04 Leverkusen|Bayer Leverkusen]] of Germany and [[Real Madrid CF|Real Madrid]] of Spain at [[Hampden Park]] in [[Glasgow]], Scotland,<ref name="hampdenpark">{{cite news |first=Sean |last=Smith |title=Glasgow in party mood |url=http://news.bbc.co.uk/sport1/hi/football/champions_league/1984838.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=13 May 2002 |access-date=31 December 2010 }}</ref> on 15 May 2002 to decide the winner of the Champions League.<ref name="hampdenpark"/> Leverkusen appeared in the final for the first time, whereas Real Madrid appeared in their 12th final.
+
+Each club needed to progress through two group stages, and two knockout rounds to reach the final. Real Madrid won their group and moved into the second group stage, which they also won, before facing the defending champions [[FC Bayern Munich|Bayern Munich]] and [[FC Barcelona|Barcelona]] in the knockout stage. Bayer Leverkusen finished second in their group behind Barcelona and progressed to the second group stage. There, they won their group, before beating the likes of [[Liverpool F.C.|Liverpool]] and [[Manchester United F.C.|Manchester United]] to progress to the final.
+
+Before the match, a minute of silence was held in honour of Ukrainian manager [[Valeriy Lobanovskyi]], who died two days earlier.<ref name="championsleaguefinal">{{cite web |url=http://news.bbc.co.uk/sport2/hi/football/champions_league/1989548.stm |title=Champions League final clockwatch |work=BBC Sport |publisher=BBC |date=15 May 2002 |access-date=31 December 2010}}</ref>
+
+Real Madrid were regarded as favourites before the match and took the lead in the eighth minute through [[Raúl (footballer)|Raúl]]. [[Lúcio]] equalised five minutes later, before [[Zinedine Zidane]] scored the winning goal on the stroke of half-time, a left-footed volley into the top corner that has since gone down as one of the greatest goals in the history of the competition,<ref>{{cite news |title=15 years on from Zidane's final wonder goal |url=https://www.uefa.com/uefachampionsleague/news/0239-0e9c7f74cced-4d02500f3f8e-1000--15-years-on-from-zidane-s-final-wonder-goal/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=15 May 2017 |access-date=23 September 2018 }}</ref> to secure Real Madrid's ninth European Cup.
+
+== Teams ==
+''In the following table, finals until 1992 were in the European Cup era, since 1993 were in the UEFA Champions League era.''
+{| class="wikitable"
+!Teams
+!'''Previous finals appearances (bold indicates winners)'''
+|-
+|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|''None''
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|11 ([[1956 European Cup final|'''1956''']], '''[[1957 European Cup final|1957]]''', '''[[1958 European Cup final|1958]]''', '''[[1959 European Cup final|1959]]''', '''[[1960 European Cup final|1960]]''', [[1962 European Cup final|1962]], [[1964 European Cup final|1964]], '''[[1966 European Cup final|1966]]''', [[1981 European Cup final|1981]], '''[[1998 UEFA Champions League final|1998]]''', '''[[2000 UEFA Champions League final|2000]]''')
+|}
+
+==Route to the final==
+{{further|2001–02 UEFA Champions League}}
+
+{|class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+!Round
+!colspan=4|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2001–02 UEFA Champions League qualifying rounds|Qualifying phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|FRY}} [[Red Star Belgrade]]
+|3–0
+|[[2001–02 UEFA Champions League qualifying rounds#Bayer Leverkusen v Red Star Belgrade|3–0]] (H)
+|[[2001–02 UEFA Champions League qualifying rounds#Red Star Belgrade v Bayer Leverkusen|0–0]] (A)
+|style="background:#c1e0ff"|Third qualifying round
+|colspan=4|Bye
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[2001–02 UEFA Champions League group stage|First group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Lyon v Bayer Leverkusen|1–0]] (A)
+| style="background:#c1e0ff;"|Matchday 1
+|align=left|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Roma v Real Madrid|2–1]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Bayer Leverkusen v Barcelona|2–1]] (H)
+| style="background:#c1e0ff;"|Matchday 2
+|align=left|{{fbaicon|RUS}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Real Madrid v Lokomotiv Moscow|4–0]] (H)
+|-
+|align=left|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Bayer Leverkusen v Fenerbahçe|2–1]] (H)
+| style="background:#c1e0ff;"|Matchday 3
+|align=left|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Real Madrid v Anderlecht|4–1]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Barcelona v Bayer Leverkusen|1–2]] (A)
+| style="background:#c1e0ff;"|Matchday 4
+|align=left|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Anderlecht v Real Madrid|2–0]] (A)
+|-
+|align=left|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Fenerbahçe v Bayer Leverkusen|2–1]] (A)
+| style="background:#c1e0ff;"|Matchday 5
+|align=left|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Real Madrid v Roma|1–1]] (H)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Bayer Leverkusen v Lyon|2–4]] (H)
+| style="background:#c1e0ff;"|Matchday 6
+|align=left|{{fbaicon|RUS}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|colspan=3|[[2001–02 UEFA Champions League group stage#Lokomotiv Moscow v Real Madrid|0–2]] (A)
+|-
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[2001–02 UEFA Champions League group stage#Group F|Group F]] runners-up'''
+{{:2001–02 UEFA Champions League group stage|transcludesection=Group F|only_pld_pts=yes|show_matches=no|showteam=LEV}}
+| style="background:#c1e0ff;"|Final standings
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[2001–02 UEFA Champions League group stage#Group A|Group A]] winners'''
+{{:2001–02 UEFA Champions League group stage|transcludesection=Group A|only_pld_pts=yes|show_matches=no|showteam=RMA}}
+|- style="background:#c1e0ff;"
+|Opponent
+|colspan=3|Result
+|[[2001–02 UEFA Champions League second group stage|Second group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Juventus v Bayer Leverkusen|0–4]] (A)
+| style="background:#c1e0ff;"|Matchday 1
+|align=left|{{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Sparta Prague v Real Madrid|3–2]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Bayer Leverkusen v Deportivo La Coruña|3–0]] (H)
+| style="background:#c1e0ff;"|Matchday 2
+|align=left|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Real Madrid v Panathinaikos|3–0]] (H)
+|-
+|align=left|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Bayer Leverkusen v Arsenal|1–1]] (H)
+| style="background:#c1e0ff;"|Matchday 3
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Real Madrid v Porto|1–0]] (H)
+|-
+|align=left|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Arsenal v Bayer Leverkusen|1–4]] (A)
+| style="background:#c1e0ff;"|Matchday 4
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Porto v Real Madrid|2–1]] (A)
+|-
+|align=left|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Bayer Leverkusen v Juventus|3–1]] (H)
+| style="background:#c1e0ff;"|Matchday 5
+|align=left|{{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Real Madrid v Sparta Prague|3–0]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Deportivo La Coruña v Bayer Leverkusen|3–1]] (A)
+| style="background:#c1e0ff;"|Matchday 6
+|align=left|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan=3|[[2001–02 UEFA Champions League second group stage#Panathinaikos v Real Madrid|2–2]] (A)
+|-
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[2001–02 UEFA Champions League second group stage#Group D|Group D]] winners'''
+{{:2001–02 UEFA Champions League second group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=no|showteam=LEV}}
+| style="background:#c1e0ff;"|Final standings
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[2001–02 UEFA Champions League second group stage#Group C|Group C]] winners'''
+{{:2001–02 UEFA Champions League second group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=RMA}}
+|- style="background:#c1e0ff;"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2001–02 UEFA Champions League knockout stage|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|4–3
+|[[2001–02 UEFA Champions League knockout stage#Liverpool v Bayer Leverkusen|0–1]] (A)
+|[[2001–02 UEFA Champions League knockout stage#Bayer Leverkusen v Liverpool|4–2]] (H)
+| style="background:#c1e0ff;"|Quarter-finals
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|3–2
+|[[2001–02 UEFA Champions League knockout stage#Bayern Munich v Real Madrid|1–2]] (A)
+|[[2001–02 UEFA Champions League knockout stage#Real Madrid v Bayern Munich|2–0]] (H)
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|3–3 ([[Away goals rule|a]])
+|[[2001–02 UEFA Champions League knockout stage#Manchester United v Bayer Leverkusen|2–2]] (A)
+|[[2001–02 UEFA Champions League knockout stage#Bayer Leverkusen v Manchester United|1–1]] (H)
+| style="background:#c1e0ff;"|Semi-finals
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|3–1
+|[[2001–02 UEFA Champions League knockout stage#Barcelona v Real Madrid|2–0]] (A)
+|[[2001–02 UEFA Champions League knockout stage#Real Madrid v Barcelona|1–1]] (H)
+|}
+
+==Match==
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2002|5|15|df=y}}
+|time       = {{CEST|20:45|localtz=BST}}<!--20:45 CEST, 19:45 BST-->
+|team1      = [[Bayer 04 Leverkusen|Bayer Leverkusen]] {{fbaicon|GER}}
+|score      = 1–2
+|team2      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1     =
+*[[Lúcio]] {{goal|14}}
+|goals2     =
+*[[Raúl (footballer)|Raúl]] {{goal|8}}
+*[[Zinedine Zidane|Zidane]] {{goal|45}}
+|stadium    = [[Hampden Park]], [[Glasgow]]
+|attendance = 50,499<ref name="attendance">{{cite book |location=Nyon |chapter-url=https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |chapter=2. Finals |title=UEFA Champions League Statistics Handbook 2022/23 |publisher=Union of European Football Associations |page=2 |date=4 June 2023 |access-date=17 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20230821082639/https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |archive-date=21 August 2023}}</ref>
+|referee    = [[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69489/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _BAYER_0001h
+ | pattern_b  = _BAYER_0001h
+ | pattern_ra = _BAYER_0001h
+ | pattern_sh = _BAYER_0001h
+ | pattern_so = _3_stripes_white
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = 000000
+ | socks      = FF0000
+ | title      = {{nowrap|Bayer Leverkusen}}<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2001/1025482_LU.pdf |title=Tactical Line-ups – Final – Wednesday 15 May 2002 |website=[[UEFA]] |publisher=Union of European Football Associations |date=15 May 2002 |access-date=1 September 2010}}</ref>
+}}
+
+|{{Football kit
+ | pattern_la = _rmcf0102h
+ | pattern_b  = _rmcf0102H
+ | pattern_ra = _rmcf0102h
+ | pattern_sh = _rmcf0102h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = {{nowrap|Real Madrid}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Hans-Jörg Butt]]
+|-
+|RB ||'''26'''||{{flagicon|GER}} [[Zoltán Sebescen]] || || {{suboff|65}}
+|-
+|CB ||'''6''' ||{{flagicon|CRO}} [[Boris Živković]]
+|-
+|CB ||'''19'''||{{flagicon|BRA}} [[Lúcio]] || || {{suboff|90+1}}
+|-
+|LB ||'''35'''||{{flagicon|ARG}} [[Diego Placente]]
+|-
+|DM ||'''28'''||{{flagicon|GER}} [[Carsten Ramelow]] ([[Captain (association football)|c]])
+|-
+|RM ||'''25'''||{{flagicon|GER}} [[Bernd Schneider (footballer)|Bernd Schneider]]
+|-
+|CM ||'''13'''||{{flagicon|GER}} [[Michael Ballack]]
+|-
+|LM ||'''23'''||{{flagicon|GER}} [[Thomas Brdarić]] || || {{suboff|39}}
+|-
+|AM ||'''10'''||{{flagicon|TUR}} [[Yıldıray Baştürk]]
+|-
+|CF ||'''27'''||{{flagicon|GER}} [[Oliver Neuville]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''20'''||{{flagicon|AUS}} [[Frank Juric]]
+|-
+|DF ||'''47'''||{{flagicon|GER}} [[Thomas Kleine]]
+|-
+|MF ||'''3''' ||{{flagicon|CRO}} [[Marko Babić (footballer)|Marko Babić]] || || {{subon|90+1}}
+|-
+|MF ||'''15'''||{{flagicon|CRO}} [[Jurica Vranješ]]
+|-
+|MF ||'''33'''||{{flagicon|GER}} [[Anel Džaka]]
+|-
+|FW ||'''9''' ||{{flagicon|GER}} [[Ulf Kirsten]] || || {{subon|65}}
+|-
+|FW ||'''12'''||{{flagicon|BUL}} [[Dimitar Berbatov]] || || {{subon|39}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Klaus Toppmöller]]
+|}
+|valign="top"|[[File:Bayer Leverkusen vs Real Madrid 2002-05-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[César Sánchez|César]] || || {{suboff|68}}
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Míchel Salgado]] || {{yel|45+2}}
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||{{flagicon|ESP}} [[Iván Helguera]]
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Roberto Carlos]] || {{yel|89}}
+|-
+|DM ||'''24'''||{{flagicon|FRA|1974}} [[Claude Makélélé]] || || {{suboff|73}}
+|-
+|RM ||'''10'''||{{flagicon|POR}} [[Luís Figo]] || || {{suboff|61}}
+|-
+|LM ||'''21'''||{{flagicon|ARG}} [[Santiago Solari]]
+|-
+|AM ||'''5''' ||{{flagicon|FRA|1974}} [[Zinedine Zidane]]
+|-
+|CF ||'''7''' ||{{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+|-
+|CF ||'''9''' ||{{flagicon|ESP}} [[Fernando Morientes]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Iker Casillas]] || || {{subon|68}}
+|-
+|DF ||'''18'''||{{flagicon|ESP}} [[Aitor Karanka]]
+|-
+|DF ||'''31'''||{{flagicon|ESP}} [[Francisco Pavón]]
+|-
+|MF ||'''8''' ||{{flagicon|ENG}} [[Steve McManaman]] || || {{subon|61}}
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Guti]]
+|-
+|MF ||'''16'''||{{flagicon|BRA}} [[Flávio Conceição]] || || {{subon|73}}
+|-
+|FW ||'''23'''||{{flagicon|ESP}} [[Pedro Munitis]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Vicente del Bosque]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Zinedine Zidane]] (Real Madrid)<ref name="attendance"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Francesco Buragina ([[Swiss Football Association|Switzerland]])<ref name="full time report"/>
+<br />Felix Züger ([[Swiss Football Association|Switzerland]])<ref name="full time report"/>
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])<ref name="full time report"/>
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[Golden goal#Association football|golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutes
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="full time report">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2001/1025482_FR.pdf |title=Full Time Report |website=[[UEFA]] |publisher=Union of European Football Associations |date=15 May 2002 |access-date=1 September 2010}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Bayer Leverkusen
+!scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|1
+|2
+|-
+!scope=row|Total shots
+|5
+|5
+|-
+!scope=row|Shots on target
+|3
+|3
+|-
+!scope=row|Ball possession
+|46%
+|54%
+|-
+!scope=row|Corner kicks
+|3
+|0
+|-
+!scope=row|Fouls committed
+|8
+|16
+|-
+!scope=row|Offsides
+|3
+|2
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="full time report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Bayer Leverkusen
+!scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|8
+|2
+|-
+!scope=row|Shots on target
+|3
+|1
+|-
+!scope=row|Ball possession
+|58%
+|42%
+|-
+!scope=row|Corner kicks
+|3
+|0
+|-
+!scope=row|Fouls committed
+|9
+|15
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="full time report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Bayer Leverkusen
+!scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|1
+|2
+|-
+!scope=row|Total shots
+|13
+|7
+|-
+!scope=row|Shots on target
+|6
+|4
+|-
+!scope=row|Ball possession
+|52%
+|48%
+|-
+!scope=row|Corner kicks
+|6
+|0
+|-
+!scope=row|Fouls committed
+|17
+|31
+|-
+!scope=row|Offsides
+|3
+|2
+|-
+!scope=row|Yellow cards
+|0
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+In the [[2001–02 Bayer 04 Leverkusen season|2001–02 season]], Bayer Leverkusen finished second in the [[2001–02 Bundesliga|Bundesliga]] and lost in the [[2002 DFB-Pokal Final]]. After the match, Leverkusen manager [[Klaus Toppmöller]] expressed his disappointment on finishing this strong season without a title, stating: "the disappointment is huge – you don't always get the rewards you deserve in football, and no-one knows that better than us after what we have been through. We must seek consolation. Doing what we have done means we have had a very good season – but what has happened to us is difficult and makes us feel bitter."<ref>{{cite news |title=The nearly men |author=Phil McNulty |url=http://news.bbc.co.uk/sport2/hi/football/champions_league/1990417.stm |work=BBC Sport |publisher=BBC |date=16 May 2002 |access-date=31 December 2010 }}</ref>
+
+Five Leverkusen players, [[Michael Ballack]], [[Hans-Jörg Butt]], [[Oliver Neuville]], [[Carsten Ramelow]], and [[Bernd Schneider (footballer)|Bernd Schneider]] went on to add a fourth silver medal at the [[2002 FIFA World Cup]]. However, the gold medal-winning Brazil squad also included a Leverkusen player in [[Lúcio]].
+
+==See also==
+*[[2002 UEFA Cup final]]
+*[[2002 UEFA Super Cup]]
+*[[2002 UEFA Women's Cup final]]
+*[[2002 Intercontinental Cup]]
+*[[2001–02 Bayer 04 Leverkusen season]]
+*[[2001–02 Real Madrid CF season]]
+*[[Bayer 04 Leverkusen in European football]]
+*[[Real Madrid CF in international football competitions]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20020606170756/http://www.uefa.com/competitions/UCL/INDEX.html 2001–02 UEFA Champions League season] at UEFA.com
+
+{{UEFA Champions League seasons}}
+{{2001–02 in European football (UEFA)}}
+{{Bayer 04 Leverkusen matches}}
+{{Real Madrid CF matches}}
+
+{{DEFAULTSORT:2002 Uefa Champions League final}}
+[[Category:2001–02 UEFA Champions League|Final]]
+[[Category:UEFA Champions League finals]]
+[[Category:Bayer 04 Leverkusen matches|European Cup Final 2002]]
+[[Category:Real Madrid CF matches|European Cup Final 2002]]
+[[Category:2001–02 in Scottish football|U]]
+[[Category:2001–02 in Spanish men's football|Champions]]
+[[Category:2001–02 in German football|Cham]]
+[[Category:International sports competitions in Glasgow]]
+[[Category:2000s in Glasgow]]
+[[Category:May 2002 sports events in the United Kingdom]]
+[[Category:Football matches in Glasgow]]
+[[Category:Football finals in Scotland]]
+[[Category:Germany–Spain sports relations|2002]]

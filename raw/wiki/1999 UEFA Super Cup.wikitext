@@ -1,0 +1,238 @@
+{{Use dmy dates|date=November 2022}}
+{{Infobox football match
+| title              = 1999 UEFA Super Cup
+| image              = 1999 UEFA Super Cup match programme.png
+| caption            = Match programme cover
+| team1              = [[Manchester United F.C.|Manchester United]]
+| team1association   = {{fbaicon|ENG|size=30px}}
+| team1score         = 0
+| team2              = [[S.S. Lazio|Lazio]]
+| team2association   = {{fbaicon|ITA|size=30px}}
+| team2score         = 1
+| date               = 27 August 1999
+| stadium            = [[Stade Louis II]]
+| city               = [[Monaco]]
+| man_of_the_match1a = [[Juan Sebastián Verón]] (Lazio)<ref name="pk-09"/>
+| referee            = [[Ryszard Wójcik]] ([[Polish Football Association|Poland]])
+| attendance         = 14,461
+| weather            = 
+| previous           = [[1998 UEFA Super Cup|1998]]
+| next               = [[2000 UEFA Super Cup|2000]]
+}}
+The '''1999 UEFA Super Cup''' was a [[association football|football]] match played on 27 August 1999 between the [[1998–99 UEFA Champions League]] winners, [[Manchester United F.C.|Manchester United]], and [[S.S. Lazio|Lazio]], winners of the [[1998–99 UEFA Cup Winners' Cup]].
+
+Lazio won the match 1–0, the winning goal coming from Chilean [[forward (association football)|striker]] [[Marcelo Salas]] in the 35th minute. The match was played at a neutral venue, the [[Stade Louis II]] in [[Monaco]], in front of 14,461 spectators.
+
+This was the last Super Cup contested by the winners of the [[UEFA Cup Winners' Cup]], as the tournament was discontinued after the 1998–99 season. Since 2000, it has been contested by the winners of the [[UEFA Champions League]] and the winners of the [[UEFA Europa League|UEFA Cup/UEFA Europa League]].
+
+==Venue==
+The [[Stade Louis II]] in [[Monaco]] has been the venue for the UEFA Super Cup since 1998.<ref name="pk-09">{{cite web|title=Match Press Kit (2009) |url=http://en.archive.uefa.com/printoutfiles/competitions/supercup/2009/e/e_2001219_pk.pdf |page=18 |publisher=UEFA |access-date=1 June 2012 |url-status=dead |archive-url=https://web.archive.org/web/20160303232520/http://en.archive.uefa.com/printoutfiles/competitions/supercup/2009/e/e_2001219_pk.pdf |archive-date=3 March 2016 }}</ref> It was inaugurated in 1985, and is also the home of [[AS Monaco FC|AS Monaco]], who play in the French league system.<ref>{{Cite web |title=Presentation {{!}} AS Monaco |url=https://billetterie.asmonaco.com/en/stade-louis-ii/presentation |access-date=2025-01-06 |website=billetterie.asmonaco.com}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|[[1998–99 UEFA Champions League]] winners
+|'''[[1991 European Super Cup|1991]]'''
+|-
+|{{fbaicon|ITA}} [[S.S. Lazio|Lazio]]
+|[[1998–99 UEFA Cup Winners' Cup]] winners
+|None
+|}
+
+{{clear}}
+
+==Match==
+
+===Summary===
+Lazio scored the only goal of the game in the 35th minute when [[Marcelo Salas]] hit a shot from just inside the penalty box which goalkeeper [[Raimond van der Gouw]] got his hand to but failed to keep out as the ball went under his body.<ref>{{cite web|url=https://news.bbc.co.uk/2/hi/sport/football/432092.stm|title=Man Utd lose to Super Lazio|date=17 August 1999|website=BBC Sport|access-date=10 August 2022}}</ref>
+
+===Details===
+{{football box
+|date=27 August 1999
+|time=20:45 [[Central European Time#Central European Summer Time|CEST]]
+|team1=[[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score=0–1
+|report=https://www.uefa.com/uefasupercup/match/<!--round=1292/match=-->56891/
+|team2={{fbaicon|ITA}} [[S.S. Lazio|Lazio]]
+|goals1=
+|goals2=[[Marcelo Salas|Salas]] {{goal|35}}
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=14,461<ref name="pk-09"/>
+|referee=[[Ryszard Wójcik]] ([[Polish Football Association|Poland]])<ref name="referee">{{cite web |title=Manchester United v Lazio official colour teamsheet 27/08/1999 Super Cup |url=http://www.collectsoccer.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/u/MU-Lazio-27.08.99-Teamsheet.jpg |publisher=Collectsoccer.com |access-date=14 July 2015 |archive-date=11 July 2019 |archive-url=https://web.archive.org/web/20190711081158/http://www.collectsoccer.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/u/MU-Lazio-27.08.99-Teamsheet.jpg |url-status=dead }}</ref> }}
+
+{| width="92%"
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _manutde9700
+ | pattern_ra = 
+ | pattern_sh = _manutde9700
+ | pattern_so = _blackline
+ | leftarm    = E20E0E
+ | body       = E20E0E
+ | rightarm   = E20E0E
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = {{nowrap|Manchester United}}
+}}
+|{{Football kit
+ | pattern_la = _lazio9900h
+ | pattern_b  = _lazio9900h
+ | pattern_ra = _lazio9900h
+ | pattern_sh = _whitesides
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 6FADFB
+ | socks      = 6FADFB
+ | title      = Lazio
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''17'''||{{flagicon|NED}} [[Raimond van der Gouw]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Gary Neville]]
+|-
+|CB ||'''6''' ||{{flagicon|NED}} [[Jaap Stam]] || || {{suboff|57}}
+|-
+|CB ||'''21'''||{{flagicon|NOR}} [[Henning Berg]]
+|-
+|LB ||'''12'''||{{flagicon|ENG}} [[Phil Neville]]
+|-
+|RM ||'''7''' ||{{flagicon|ENG}} [[David Beckham]] || || {{suboff|58}}
+|-
+|CM ||'''16'''||{{flagicon|IRL}} [[Roy Keane]] ([[Captain (association football)|c]])
+|-
+|LM ||'''18'''||{{flagicon|ENG}} [[Paul Scholes]]
+|-
+|RF ||'''9''' ||{{flagicon|ENG}} [[Andy Cole]] || || {{suboff|78}}
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[Teddy Sheringham]]
+|-
+|LF ||'''20'''||{{flagicon|NOR}} [[Ole Gunnar Solskjær]]
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{flagicon|ENG}} [[Nick Culkin]]
+|-
+|DF ||'''13'''||{{flagicon|ENG}} [[John Curtis (footballer, born 1978)|John Curtis]]  || || {{subon|57}}
+|-
+|MF ||'''11'''||{{flagicon|WAL}} [[Ryan Giggs]]
+|-
+|MF ||'''33'''||{{flagicon|ENG}} [[Mark Wilson (English footballer)|Mark Wilson]]
+|-
+|MF ||'''34'''||{{flagicon|ENG}} [[Jonathan Greening]] || || {{subon|78}}
+|-
+|FW ||'''14'''||{{flagicon|NED}} [[Jordi Cruyff]] || || {{subon|58}}
+|-
+|FW ||'''19'''||{{flagicon|TRI}} [[Dwight Yorke]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCO}} [[Alex Ferguson|Sir Alex Ferguson]]
+|}
+|valign="top"|[[File:Lazio vs Man Utd 1999-08-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Luca Marchegiani]] 
+|-
+|RB ||'''2''' ||{{flagicon|ITA}} [[Paolo Negro]] 
+|-
+|CB ||'''13'''||{{flagicon|ITA}} [[Alessandro Nesta]] ([[Captain (association football)|c]])
+|-
+|CB ||'''11'''||{{flagicon|FR Yugoslavia}} [[Siniša Mihajlović]] 
+|-
+|LB ||'''15'''||{{flagicon|ITA}} [[Giuseppe Pancaro]]
+|-
+|RM ||'''20'''||{{flagicon|FR Yugoslavia}} [[Dejan Stanković]]
+|-
+|CM ||'''23'''||{{flagicon|ARG}} [[Juan Sebastián Verón]]
+|-
+|CM ||'''25'''||{{flagicon|ARG}} [[Matías Almeyda]]
+|-
+|LM ||'''18'''||{{flagicon|CZE}} [[Pavel Nedvěd]] || || {{suboff|66}}
+|-
+|SS ||'''10'''||{{flagicon|ITA}} [[Roberto Mancini]] || || {{suboff|84}}
+|-
+|CF ||'''21'''||{{flagicon|ITA}} [[Simone Inzaghi]] || || {{suboff|23}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|ITA}} [[Marco Ballotta]]
+|-
+|DF ||'''5''' ||{{flagicon|ITA}} [[Giuseppe Favalli]]
+|-
+|MF ||'''7''' ||{{flagicon|POR}} [[Sérgio Conceição]]
+|-
+|MF ||'''14'''||{{flagicon|ARG}} [[Diego Simeone]] || || {{subon|84}}
+|-
+|MF ||'''16'''||{{flagicon|ITA}} [[Attilio Lombardo]] || || {{subon|66}}
+|-
+|FW ||'''9''' ||{{flagicon|CHI}} [[Marcelo Salas]] || || {{subon|23}}
+|-
+|FW ||'''19'''||{{flagicon|SWE}} [[Kennet Andersson]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SWE}} [[Sven-Göran Eriksson]]
+|}
+|}
+{| width="100%" style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Juan Sebastián Verón]] (Lazio)<ref name="pk-09"/>
+
+'''Assistant referees:'''
+<br />Jacek Pocięgiel ([[Polish Football Association|Poland]])<ref name="referee"/>
+<br />Eugeniusz Koczar ([[Polish Football Association|Poland]])<ref name="referee"/>
+<br />'''Fourth official:'''
+<br />Tomasz Mikulski ([[Polish Football Association|Poland]])<ref name="referee"/>
+|style="width:60%; vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[Golden goal#Association football|golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+==See also==
+*[[1998–99 UEFA Champions League]]
+*[[1998–99 UEFA Cup Winners' Cup]]
+*[[1999–2000 SS Lazio season]]
+*[[1999–2000 Manchester United F.C. season]]
+*[[Manchester United F.C. in international football]]
+*[[SS Lazio in European football]]
+
+==References==
+{{reflist}}
+
+{{UEFA Super Cup}}
+{{1999–2000 in European football (UEFA)}}
+{{Manchester United F.C. matches}}
+{{S.S. Lazio matches}}
+
+[[Category:1999–2000 in European men's continental football|Super Cup]]
+[[Category:1999 in Monégasque sport|Super Cup]]
+[[Category:UEFA Super Cup matches|1999]]
+[[Category:Manchester United F.C. matches|Super Cup 1999]]
+[[Category:SS Lazio matches|Super Cup 1999]]
+[[Category:Football matches in Monaco]]
+[[Category:August 1999 sports events in Europe|UEFA Super Cup]]
+[[Category:1999–2000 in English men's football]]
+[[Category:1999–2000 in Italian football]]
+[[Category:Italy–United Kingdom sports relations]]

@@ -1,0 +1,187 @@
+{{Use dmy dates|date=August 2021}}
+{{Infobox football match
+| title       = 2000 FIFA Club World Championship final
+| image       = 
+| event       = [[2000 FIFA Club World Championship]]
+| date        = 14 January 2000
+| venue       = [[Maracanã Stadium|Estádio do Maracanã]]<br />[[Rio de Janeiro]], [[Brazil]]<ref name="match_report"/>
+| team1       = [[Sport Club Corinthians Paulista|Corinthians]]
+| team1association = {{fbaicon|BRA|size=30px}}
+| team2       = [[CR Vasco da Gama|Vasco da Gama]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| score1      = 0
+| score2      = 0
+| details     = After [[Overtime (sports)#Association football|extra time]]<br>Corinthians won 4–3 on [[Penalty shoot-out (association football)|penalties]]
+| man_of_the_match1a =
+| referee     = [[Dick Jol]] ([[Royal Dutch Football Association|Netherlands]])<ref name="match_referee">{{cite news |title=Referee appointments made for inaugural final of Club World Championship |url=https://www.fifa.com/tournaments/archive/clubworldcup/brazil2000/news/newsid=71892/index.html |archive-url=https://web.archive.org/web/20150530034642/http://www.fifa.com/tournaments/archive/clubworldcup/brazil2000/news/newsid=71892/index.html |url-status=dead |archive-date=30 May 2015 |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=13 January 2000 |accessdate=26 August 2014}}</ref>
+| weather     = 
+| attendance  = 73,000<ref name="match_report"/>
+| next        = [[2005 FIFA Club World Championship final|2005]]
+}}
+The '''2000 FIFA Club World Championship final''' was an [[association football]] match that took place at [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]] on 14 January 2000. It was an all-Brazilian final between [[Sport Club Corinthians Paulista|Corinthians]] and [[CR Vasco da Gama|Vasco da Gama]] to determine the winner of the [[2000 FIFA Club World Championship]]. After a goalless 120 minutes, Corinthians won the penalty shoot-out 4–3, becoming the first club to lift the FIFA Club World Cup.<ref>{{cite web|url=http://news.bbc.co.uk/2/hi/special_report/1999/12/99/world_club_championship/604434.stm|title=Corinthians crowned world champions|date=15 January 2000|publisher=BBC Sport|accessdate= 6 May 2021}}</ref>
+
+{{TOC left}}
+{{clear}}
+
+==Match details==
+{{football box
+|date = 14 January 2000
+|time = 20:00
+|team1 = [[Sport Club Corinthians Paulista|Corinthians]] {{fbaicon|BRA}}
+|score = 0–0
+|report = [https://web.archive.org/web/20150906092233/http://www.fifa.com/clubworldcup/matches/round=3695/match=22236/index.html Report]
+|aet = yes
+|team2 = {{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|goals1 =
+|goals2 =
+|stadium = [[Maracanã Stadium]], [[Rio de Janeiro]]
+|attendance = 73,000<ref name="match_report">{{cite web |title=Match Report |url=https://www.fifa.com/clubworldcup/matches/round=3695/match=22236/index.html |archive-url=https://web.archive.org/web/20150906092233/http://www.fifa.com/clubworldcup/matches/round=3695/match=22236/index.html |url-status=dead |archive-date=6 September 2015 |work=FIFA.com |publisher=Fédération Internationale de Football Association |accessdate=20 December 2014 }}</ref>
+|referee = [[Dick Jol]] ([[Royal Dutch Football Association|Netherlands]])<ref name="match_referee"/>
+|penalties1 = [[Freddy Rincón|Rincón]] {{pengoal}}<br />[[Fernando Baiano]] {{pengoal}}<br />[[Luizão (footballer, born 1975)|Luizão]] {{pengoal}}<br />[[Edu (footballer, born 1978)|Edu]] {{pengoal}}<br />[[Marcelinho Carioca|Marcelinho]] {{penmiss}}
+|penaltyscore = 4–3
+|penalties2 = {{pengoal}} [[Romário]]<br />{{pengoal}} [[Alex Oliveira (footballer, born 1974)|Alex Oliveira]]<br />{{penmiss}} [[Gilberto (footballer, born 1976)|Gilberto]]<br />{{pengoal}} [[Viola (footballer)|Viola]]<br />{{penmiss}} [[Edmundo (footballer)|Edmundo]]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _sccp00h
+ | pattern_b  = _sccp00h
+ | pattern_ra = _sccp00h
+ | pattern_sh = _corinthians00a
+ | pattern_so = _corinthians00mh
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Corinthians
+}}
+|{{Football kit
+ | pattern_la = _thinwhiteborder
+ | pattern_b  = _vasco00m2
+ | pattern_ra = _thinwhiteborder
+ | pattern_sh = _vasco99a
+ | pattern_so = _vasco99hl
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Vasco&nbsp;da&nbsp;Gama
+}}
+|}
+
+{| width=100%
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Dida (footballer, born 1973)|Dida]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Índio (footballer, born 1979)|Índio]] || {{yel|97}}
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Adilson Batista]] || {{yel|75}}
+|-
+|CB ||'''16'''||{{flagicon|BRA}} [[Fábio Luciano]]
+|-
+|LB ||'''6''' ||{{flagicon|BRA}} [[Kléber (footballer, born 1980)|Kléber]]
+|-
+|CM ||'''5''' ||{{flagicon|BRA}} [[Vampeta]] || || {{suboff|91}}
+|-
+|CM ||'''8''' ||{{flagicon|COL}} [[Freddy Rincón]] ([[Captain (association football)|c]]) || {{yel|43}}
+|-
+|RM ||'''7''' ||{{flagicon|BRA}} [[Marcelinho Carioca|Marcelinho]]
+|-
+|LM ||'''11'''||{{flagicon|BRA}} [[Ricardinho (footballer, born May 1976)|Ricardinho]] || || {{suboff|46}}
+|-
+|SS ||'''10'''||{{flagicon|BRA}} [[Edílson]] || || {{suboff|113}}
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Luizão (footballer, born 1975)|Luizão]] || {{yel|113}}
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''20'''||{{flagicon|BRA}} [[Edu (footballer, born 1978)|Edu]] || || {{subon|46}}
+|-
+|MF ||'''23'''||{{flagicon|BRA}} [[Gilmar Fubá]] || || {{subon|91}}
+|-
+|FW ||'''17'''||{{flagicon|BRA}} [[Fernando Baiano]] || || {{subon|113}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA}} [[Oswaldo de Oliveira]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||{{flagicon|BRA}} [[Helton (footballer)|Helton]]
+|-
+|RB ||'''15'''||{{flagicon|BRA}} [[Paulo Miranda (footballer, born 1974)|Paulo Miranda]] || {{yel|54}}
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Odvan]]
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Mauro Galvão]]
+|-
+|LB ||'''13'''||{{flagicon|BRA}} [[Gilberto (footballer, born 1976)|Gilberto]]
+|-
+|DM ||'''5''' ||{{flagicon|BRA}} [[Amaral (footballer, born 1973)|Amaral]] || {{yel|33}}
+|-
+|RM ||'''8''' ||{{flagicon|BRA}} [[Juninho Pernambucano]] || || {{suboff|96}}
+|-
+|LM ||'''6''' ||{{flagicon|BRA}} [[Felipe (footballer, born 1977)|Felipe]] || || {{suboff|102}}
+|-
+|AM ||'''9''' ||{{flagicon|BRA}} [[Ramon Menezes]] || {{yel|16}} || {{suboff|111}}
+|-
+|CF ||'''10'''||{{flagicon|BRA}} [[Edmundo (footballer)|Edmundo]] ([[Captain (association football)|c]]) || {{yel|98}}
+|-
+|CF ||'''11'''||{{flagicon|BRA}} [[Romário]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''19'''||{{flagicon|BRA}} [[Viola (footballer)|Viola]] || || {{subon|96}}
+|-
+|MF ||'''23'''||{{flagicon|BRA}} [[Alex Oliveira (footballer, born 1974)|Alex Oliveira]] || || {{subon|102}}
+|-
+|FW ||'''7''' ||{{flagicon|BRA}} [[Donizete Pantera|Donizete]] || || {{subon|111}}
+|- 
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA}} [[Antônio Lopes]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />Jens Larsen ([[Danish Football Association|Denmark]])<ref name="match_referee"/>
+<br />Fernando Cresci ([[Uruguayan Football Association|Uruguay]])<ref name="match_referee"/>
+<br />'''Fourth official:'''
+<br />[[William Mattus]] ([[Costa Rican Football Federation|Costa Rica]])<ref name="match_referee"/>
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070607013642/http://www.fifa.com/tournaments/archive/tournament%3D107/edition%3D3692/index.html FIFA Club World Championship Brazil 2000] at FIFA.com
+
+{{FIFA Club World Cup}} 
+{{International Club Football}}
+{{Sport Club Corinthians Paulista matches}}
+{{CR Vasco da Gama matches}}
+
+{{DEFAULTSORT:Fifa Club World Championship Final 2000}}
+[[Category:2000 FIFA Club World Championship|Final]]
+[[Category:SC Corinthians Paulista matches]]
+[[Category:CR Vasco da Gama matches]]
+[[Category:2000 in Brazilian football|World]]
+[[Category:FIFA Club World Cup finals|2000]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:2000 in Rio de Janeiro (city)]]
+[[Category:Brazilian football clubs in international competitions]]
+[[Category:Men's football matches in Brazil]]
+[[Category:January 2000 sports events in South America]]

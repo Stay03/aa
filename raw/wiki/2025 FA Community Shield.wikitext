@@ -1,0 +1,247 @@
+{{Infobox football match
+| title = 2025 FA Community Shield
+| image = London Wembley.jpg
+| caption = The match took place at [[Wembley Stadium]]
+| team1 = [[Crystal Palace F.C.|Crystal Palace]]
+| team1score = 2 
+| team2score = 2 
+| team2 = [[Liverpool F.C.|Liverpool]]
+| details = Crystal Palace won 3–2 on [[Penalty shoot-out (association football)|penalties]]
+| date = 10 August 2025
+| venue = [[Wembley Stadium]]
+| city = London
+| attendance = 82,645
+| man_of_the_match1a = [[Ismaïla Sarr]] (Crystal Palace)<ref name="MOTM"/>
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]] ([[Manchester Football Association|Manchester]])<ref name="officials">{{cite news |title=The team of match officials for the 2024 FA Community Shield has been updated|url=https://www.thefa.com/news/2025/jul/16/chris-kavanagh-appointed-as-fa-community-shield-referee-20251607 |website=TheFA.com |publisher=The Football Association |date=16 July 2025 |accessdate=2 August 2025 }}</ref>
+| previous = [[2024 FA Community Shield|2024]]
+| next = [[2026 FA Community Shield|2026]]
+}}
+
+The '''2025 FA Community Shield''' was the 103rd [[FA Community Shield]], an annual [[association football]] match contested by the winners of the previous season's [[Premier League]] and [[FA Cup]] competitions. It was played at [[Wembley Stadium]] in London on 10 August 2025, and featured the [[2024–25 Premier League]] winners [[Liverpool F.C.|Liverpool]] and the [[2024–25 FA Cup]] winners [[Crystal Palace F.C.|Crystal Palace]].
+
+Crystal Palace beat Liverpool 3–2 on [[Penalty shoot-out (association football)|penalties]] after a 2–2 draw on normal time, winning their first Community Shield title.
+
+[[Manchester City F.C.|Manchester City]] were the holders, having won the [[2024 FA Community Shield|2024 edition]], but they did not qualify for this match, being defeated in the [[2025 FA Cup final|FA Cup final]] and having finished third in the league.
+
+==Background==
+{{Main|2024–25 Crystal Palace F.C. season|2024–25 Liverpool F.C. season}}
+[[Liverpool F.C.|Liverpool]] and [[Crystal Palace F.C.|Crystal Palace]] qualified for the 2025 FA Community Shield as the winners of the [[2024–25 Premier League]] and the [[2024–25 FA Cup]], respectively. It was the 67th meeting between the two sides, and the first appearance for Crystal Palace in a Community Shield match, after they earned their first ever major trophy in winning the FA Cup.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/live/cm23zrkn7ryt |title=Crystal Palace 1–0 Manchester City: Crystal Palace beat Man City to win FA Cup & end wait for major trophy|date=17 May 2025|work=BBC Sport|accessdate=17 May 2025}}</ref><ref>{{cite news |first=Andy |last=Newton |title=When Is The 2025 Community Shield? As FA Cup Winners Crystal Palace Face League Champions Liverpool |url=https://www.sportscasting.com/uk/news/community-shield-2025-date-time-liverpool-crystal-palace/ |work=SportsCasting |date=18 May 2025 |accessdate=18 May 2025 |archive-url=https://web.archive.org/web/20250518113807/https://www.sportscasting.com/uk/news/community-shield-2025-date-time-liverpool-crystal-palace/ |archive-date=18 May 2025 |url-status=dead }}</ref> Liverpool have previously appeared in 24 Community Shield matches, winning 16 titles (sharing five of which), and appearing most recently in the [[2022 FA Community Shield|2022]] edition, where they beat Manchester City 3–1 at the [[King Power Stadium]].<ref>{{cite web|url=https://www.bbc.com/sport/live/football/61587053|title=Liverpool 3 Man City 1: Live|date=30 July 2022|work=BBC Sport|access-date=10 August 2022}}</ref>
+
+==Match==
+
+===Summary===
+[[Liverpool F.C.|Liverpool]] took an early lead in the 4th minute when [[Hugo Ekitike]] scored with a low shot into the right corner. [[Crystal Palace F.C.|Crystal Palace]] equalised in the 17th minute through a [[Jean-Philippe Mateta]] penalty into the right of the net, awarded after a foul in the box by [[Virgil van Dijk]] on [[Ismaïla Sarr]]. [[Jeremie Frimpong]] restored Liverpool's advantage in the 21st minute with a cross-shot from the right that looped into the net after hitting the far post. Crystal Palace levelled again in the 77th minute when Ismaïla Sarr converted from the right, in-off the post, after an incisive through-ball.<ref>{{cite web | last1=Aarons | first1=Ed | title=Crystal Palace sink Liverpool on penalties to claim Community Shield | work=The Guardian | url=https://www.theguardian.com/football/2025/aug/10/crystal-palace-liverpool-community-shield-match-report }}</ref>
+
+With the score tied 2–2 at full time, the match went to a penalty shoot-out. Crystal Palace goalkeeper [[Dean Henderson]] saved from [[Alexis Mac Allister]] and [[Harvey Elliott]], after [[Mohamed Salah]] had missed the target with a shot over the bar. [[Justin Devenny]] converted the winning penalty to the right of the net as Crystal Palace triumphed 3–2 in the shoot-out, securing their first-ever Community Shield title in their inaugural appearance in the fixture.<ref>{{cite web |last=Athletic |first=The |date=10 August 2025 |title=Crystal Palace beat Liverpool on penalties to win Community Shield: Live updates and reaction |url=https://www.nytimes.com/athletic/live-blogs/crystal-palace-vs-liverpool-live-updates-score-result/q4h3pYHFn4UE/ |access-date=10 August 2025 |website=The Athletic}}</ref>
+
+===Details===
+<onlyinclude>{{#invoke:football box|main
+|date=10 August 2025
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Crystal Palace F.C.|Crystal Palace]]
+|score=2–2
+|report=https://www.bbc.co.uk/sport/football/live/cy7y0p1p7ezt
+|team2=[[Liverpool F.C.|Liverpool]]
+|goals1=
+*[[Jean-Philippe Mateta|Mateta]] {{goal|17|pen.}}
+*[[Ismaïla Sarr|Sarr]] {{goal|77}}
+|goals2=
+*[[Hugo Ekitike|Ekitike]] {{goal|4}}
+*[[Jeremie Frimpong|Frimpong]] {{goal|21}}
+|penalties1=
+*[[Jean-Philippe Mateta|Mateta]] {{pengoal}}
+*[[Eberechi Eze|Eze]] {{penmiss}}
+*[[Ismaïla Sarr|Sarr]] {{pengoal}}
+*[[Borna Sosa|Sosa]] {{penmiss}}
+*[[Justin Devenny|Devenny]] {{pengoal}}
+|penaltyscore=3–2
+|penalties2=
+*{{penmiss}} [[Mohamed Salah|Salah]]
+*{{penmiss}} [[Alexis Mac Allister|Mac Allister]]
+*{{pengoal}} [[Cody Gakpo|Gakpo]]
+*{{penmiss}} [[Harvey Elliott|Elliott]]
+*{{pengoal}} [[Dominik Szoboszlai|Szoboszlai]]
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance= 82,645
+|referee=[[Chris Kavanagh (referee)|Chris Kavanagh]] ([[Manchester Football Association|Manchester]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _crystalpalace2526h
+ |pattern_b  = _crystalpalace2526h
+ |pattern_ra = _crystalpalace2526h
+ |pattern_sh = _crystalpalace2526h
+ |pattern_so = _crystalpalace2526hl
+ |leftarm    = 0033FF
+ |body       = 0033FF
+ |rightarm   = 0033FF
+ |shorts     = 0033FF
+ |socks      = 0033FF
+ |title      = {{nowrap|Crystal Palace}}
+}}
+|{{Football kit
+ |pattern_la = _liverpool2526a
+ |pattern_b  = _liverpool2526a
+ |pattern_ra = _liverpool2526a
+ |pattern_sh = _liverpool2526a
+ |pattern_so = _liverpool2526al
+ |leftarm    = EAE6E3
+ |body       = EAE6E3
+ |rightarm   = EAE6E3
+ |shorts     = 000000
+ |socks      = EAE6E3
+ |title      = Liverpool
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|ENG}} [[Dean Henderson]]
+|-
+|CB ||'''26'''||{{#invoke:flag|icon|USA}} [[Chris Richards (soccer)|Chris Richards]]
+|-
+|CB ||'''5''' ||{{#invoke:flag|icon|FRA}} [[Maxence Lacroix]]
+|-
+|CB ||'''6''' ||{{#invoke:flag|icon|ENG}} [[Marc Guéhi]] ([[Captain (association football)|c]]) || || {{suboff|90+4}}
+|-
+|RM ||'''2''' ||{{#invoke:flag|icon|COL}} [[Daniel Muñoz (footballer)|Daniel Muñoz]]
+|-
+|CM ||'''20'''||{{#invoke:flag|icon|ENG}} [[Adam Wharton]] || || {{suboff|85}}
+|-
+|CM ||'''18'''||{{#invoke:flag|icon|JPN}} [[Daichi Kamada]] || || {{suboff|29}}
+|-
+|LM ||'''3''' ||{{#invoke:flag|icon|ENG}} [[Tyrick Mitchell]] || || {{suboff|79}}
+|-
+|RW ||'''7''' ||{{#invoke:flag|icon|SEN}} [[Ismaïla Sarr]]
+|-
+|LW ||'''10'''||{{#invoke:flag|icon|ENG}} [[Eberechi Eze]]
+|-
+|CF ||'''14'''||{{#invoke:flag|icon|FRA}} [[Jean-Philippe Mateta]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''44'''||{{#invoke:flag|icon|ARG}} [[Walter Benítez (footballer)|Walter Benítez]]
+|-
+|DF ||'''17'''||{{#invoke:flag|icon|ENG}} [[Nathaniel Clyne]]
+|-
+|DF ||'''24'''||{{#invoke:flag|icon|CRO}} [[Borna Sosa]] || || {{subon|79}}
+|-
+|DF ||'''59'''||{{#invoke:flag|icon|TRI}} [[Rio Cardines]]
+|-
+|MF ||'''8''' ||{{#invoke:flag|icon|COL}} [[Jefferson Lerma]] || || {{subon|85}}
+|-
+|MF ||'''19'''||{{#invoke:flag|icon|ENG}} [[Will Hughes]] || || {{subon|29}}
+|-
+|MF ||'''55'''||{{#invoke:flag|icon|NIR}} [[Justin Devenny]] || || {{subon|90+4}}
+|-
+|FW ||'''21'''||{{#invoke:flag|icon|ENG}} [[Romain Esse]]
+|-
+|FW ||'''22'''||{{#invoke:flag|icon|FRA}} [[Odsonne Édouard]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|AUT}} [[Oliver Glasner]]
+|}
+|valign="top"|[[File:Crystal Palace vs Liverpool 2025-08-10.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|BRA}} [[Alisson Becker|Alisson]]
+|-
+|RB ||'''30'''||{{#invoke:flag|icon|NED}} [[Jeremie Frimpong]]
+|-
+|CB ||'''5''' ||{{#invoke:flag|icon|FRA}} [[Ibrahima Konaté]] || {{yel|43}}
+|-
+|CB ||'''4''' ||{{#invoke:flag|icon|NED}} [[Virgil van Dijk]] ([[Captain (association football)|c]])
+|-
+|LB ||'''6''' ||{{#invoke:flag|icon|HUN}} [[Milos Kerkez]] || || {{suboff|84}}
+|-
+|CM ||'''17'''||{{#invoke:flag|icon|ENG}} [[Curtis Jones (footballer, born 2001)|Curtis Jones]] || || {{suboff|71}}
+|-
+|CM ||'''8''' ||{{#invoke:flag|icon|HUN}} [[Dominik Szoboszlai]]
+|-
+|RW ||'''11'''||{{#invoke:flag|icon|EGY}} [[Mohamed Salah]] || {{yel|87}}
+|-
+|AM ||'''7''' ||{{#invoke:flag|icon|GER}} [[Florian Wirtz]] || {{yel|44}} || {{suboff|84}}
+|-
+|LW ||'''18'''||{{#invoke:flag|icon|NED}} [[Cody Gakpo]]
+|-
+|CF ||'''22'''||{{#invoke:flag|icon|FRA}} [[Hugo Ekitike]] || || {{suboff|71}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{#invoke:flag|icon|GEO}} [[Giorgi Mamardashvili]]
+|-
+|DF ||'''26'''||{{#invoke:flag|icon|SCO}} [[Andy Robertson]] || || {{subon|84}}
+|-
+|MF ||'''3''' ||{{#invoke:flag|icon|JPN}} [[Wataru Endō]] || || {{subon|71}}
+|-
+|MF ||'''10'''||{{#invoke:flag|icon|ARG}} [[Alexis Mac Allister]] || || {{subon|71}}
+|-
+|MF ||'''19'''||{{#invoke:flag|icon|ENG}} [[Harvey Elliott]] || || {{subon|84}}
+|-
+|MF ||'''42'''||{{#invoke:flag|icon|ENG}} [[Trey Nyoni]]
+|-
+|FW ||'''14'''||{{#invoke:flag|icon|ITA}} [[Federico Chiesa]]
+|-
+|FW ||'''50'''||{{#invoke:flag|icon|SCO}} [[Ben Doak]]
+|-
+|FW ||'''73'''||{{#invoke:flag|icon|ENG}} [[Rio Ngumoha]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|NED}} [[Arne Slot]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Ismaïla Sarr]] (Crystal Palace)<ref name="MOTM">{{cite web |date=10 August 2025 |title=Ismaila Sarr is Crystal Palace's unheralded star – just the way they like it |url=https://www.independent.co.uk/sport/football/ismaila-sarr-crystal-palace-community-shield-goal-liverpool-b2805142.html |access-date=12 August 2025 |website=The Independent}}</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />James Mainwaring ([[Lancashire County Football Association|Lancashire]])
+<br />Wade Smith ([[Manchester Football Association|Manchester]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Tony Harrington]] ([[Durham County Football Association|Durham]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Akil Howson ([[Leicestershire and Rutland County Football Association|Leicestershire and Rutland]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Paul Tierney (referee)|Paul Tierney]] ([[Lancashire County Football Association|Lancashire]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />Nick Hopton ([[Derbyshire County Football Association|Derbyshire]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="rules">{{cite web |title=Rules of the Football Association Community Shield |url=https://www.thefa.com/~/media/978792AF8BBE4927AA4583437A7DF882.ashx |access-date=9 June 2023 |website= |publisher=The Football Association |format=PDF}}</ref>
+*90 minutes
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores level
+*Nine named substitutes, of which six may be used
+|}
+
+==References==
+<references />
+
+==External links==
+*[https://www.thefa.com/competitions/the-fa-community-shield The FA Community Shield] at [[The Football Association]]
+
+{{FA Community Shield}}
+{{2025–26 in English men's football}}
+{{2025–26 in European football (UEFA)}}
+{{Crystal Palace F.C. matches}}
+{{Liverpool F.C. matches}}
+
+[[Category:2025–26 in English men's football cups|FA Community Shield]]
+[[Category:FA Community Shield matches]]
+[[Category:Football matches in London]]
+[[Category:Crystal Palace F.C. matches|Community Shield 2025]]
+[[Category:Liverpool F.C. matches|Community Shield 2025]]
+[[Category:August 2025 sports events in the United Kingdom|FA Community Shield]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:2025 in sport in London]]

@@ -1,0 +1,358 @@
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox football match
+| title              = 1997 Football League Cup final
+| image              = 1997leaguecupfinalprog.png
+| image_size         = 200px
+| caption            = Match programme cover
+| event              = [[1996–97 Football League Cup]]
+| details            = Leicester City won after a [[Replay (sports)#Association football|replay]]
+| firstleg           = Final
+| team1              = [[Leicester City F.C.|Leicester City]]
+| team1score1        = 1
+| team2              = [[Middlesbrough F.C.|Middlesbrough]]
+| team2score1        = 1
+| details1           = After [[Overtime (sports)#Association football|extra time]]
+| date1              = {{start date|1997|4|6|df=yes}}
+| stadium1           = [[Wembley Stadium (1923)|Wembley Stadium]]
+| city1              = London
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Steve Walsh (footballer)|Steve Walsh]] (Leicester City)
+| referee1           = [[Martin Bodenham]]
+| attendance1        = 76,757
+| secondleg          = Replay
+| team1score2        = 1
+| team2score2        = 0
+| details2           = After [[Overtime (sports)#Association football|extra time]]
+| date2              = {{start date|1997|4|16|df=yes}}
+| stadium2           = [[Hillsborough Stadium]]
+| city2              = [[Sheffield]]
+| man_of_the_match2a = Steve Walsh<br />(Leicester City)
+| referee2           = Martin Bodenham
+| attendance2        = 39,428
+| previous           = [[1996 Football League Cup final|1996]]
+| next               = [[1998 Football League Cup final|1998]]
+}}
+
+The '''1997 Football League Cup final''' was played between [[Middlesbrough F.C.|Middlesbrough]] and [[Leicester City F.C.|Leicester City]]. The first game, at [[Wembley Stadium (1923)|Wembley Stadium]] on Sunday 6 April 1997, ended in a 1–1 draw after [[extra time]]. [[Fabrizio Ravanelli]] opened the scoring only for Leicester's [[Emile Heskey]] to equalise in the last minute of extra time. Heskey was fortunate to be on the field, having committed what was a bookable foul on Boro captain [[Nigel Pearson]] after already being booked. Leicester won the replay, and their second [[Football League Cup|League Cup]], in the game played at [[Hillsborough Stadium]] on 16 April 1997 with another extra-time goal, this time from [[Steve Claridge]].<ref>{{cite web |title=Coca Cola Cup 1996/97 |url=http://www.soccerbase.com/tournaments/tournament.sd?tourn_id=489 |publisher=Soccerbase |access-date=8 December 2016}}</ref>
+
+This was the last year that the Football League Cup final was decided by a replay.<ref>{{cite web|title=The Football League Cup|url=http://www.soccer.mistral.co.uk/books/flctext.htm|website=soccer.mistral.co.uk|access-date=8 December 2016|archive-date=5 October 2018|archive-url=https://web.archive.org/web/20181005085103/http://www.soccer.mistral.co.uk/books/flctext.htm|url-status=dead}}</ref>
+
+==Road to Wembley==
+{|width=100%
+|width=50% valign=top|
+
+===Leicester City===
+'''Round 2, 1st leg:''' [[Scarborough F.C.|Scarborough]] 0–2 Leicester City
+
+'''Round 2, 2nd leg:''' Leicester City 2–1 Scarborough
+
+'''Round 3:''' [[York City F.C.|York City]] 0–2 Leicester City
+
+'''Round 4:''' Leicester City 2–0 [[Manchester United F.C.|Manchester United]]
+
+'''Quarter-final:''' [[Ipswich Town F.C.|Ipswich Town]] 0–1 Leicester City
+
+'''Semi-final, 1st leg:''' Leicester City 0–0 [[Wimbledon F.C.|Wimbledon]]
+
+'''Semi-final, 2nd leg:''' Wimbledon 1–1 Leicester City ''(on away goals)''
+|width=50% valign=top|
+
+===Middlesbrough===
+'''Round 2, 1st leg:''' Middlesbrough 7–0 [[Hereford United F.C.|Hereford United]]
+
+'''Round 2, 2nd leg:''' Hereford United 0–3 Middlesbrough
+
+'''Round 3:''' Middlesbrough 5–1 [[Huddersfield Town A.F.C.|Huddersfield Town]]
+
+'''Round 4:''' Middlesbrough 3–1 [[Newcastle United F.C.|Newcastle United]]
+
+'''Quarter-final:''' Middlesbrough 2–1 [[Liverpool F.C.|Liverpool]]
+
+'''Semi-final, 1st leg:''' [[Stockport County F.C.|Stockport County]] 0–2 Middlesbrough
+
+'''Semi-final, 2nd leg:''' Middlesbrough 0–1 Stockport County
+|}
+
+==Match details==
+{{football box
+|date = 6 April 1997
+|time = 15:00 [[British Summer Time|BST]]
+|team1 = [[Leicester City F.C.|Leicester City]]
+|score = 1–1
+|aet = yes
+|team2 = [[Middlesbrough F.C.|Middlesbrough]]
+|report = [https://www.independent.co.uk/sport/football-heskey-levels-at-the-last-to-deflate-juninho-1265668.html Report]
+|goals1 = [[Emile Heskey|Heskey]] {{goal|118}}
+|goals2 = [[Fabrizio Ravanelli|Ravanelli]] {{goal|95}}
+|stadium = [[Wembley Stadium (1923)|Wembley Stadium]], London
+|attendance = 76,757
+|referee = [[Martin Bodenham]] ([[Cornwall]]) }}
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = _darkbluesides_2
+ | pattern_so = 
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Leicester City
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _whitecollarplain
+ | pattern_ra = _whiteborder
+ | pattern_so = _band_black
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Middlesbrough
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''13'''||{{flagicon|USA}} [[Kasey Keller]]
+|-
+|DF ||'''2''' ||{{flagicon|ENG}} [[Simon Grayson]]
+|-
+|DF ||'''3''' ||{{flagicon|ENG}} [[Mike Whitlow]] || || {{suboff|105}}
+|-
+|DF ||'''5''' ||{{flagicon|ENG}} [[Steve Walsh (footballer)|Steve Walsh]] ([[Captain (association football)|c]])
+|-
+|DF ||'''15'''||{{flagicon|SWE}} [[Pontus Kåmark]] || {{yel}}
+|-
+|DF ||'''17'''||{{flagicon|ENG}} [[Spencer Prior]] || {{yel}}
+|-
+|MF ||'''6''' ||{{flagicon|TUR}} [[Muzzy Izzet]] || || {{suboff|108}}
+|-
+|MF ||'''7''' ||{{flagicon|NIR}} [[Neil Lennon]]
+|-
+|MF ||'''10'''||{{flagicon|ENG}} [[Garry Parker]]
+|-
+|FW ||'''9''' ||{{flagicon|ENG}} [[Steve Claridge]]
+|-
+|FW ||'''11'''||{{flagicon|ENG}} [[Emile Heskey]] || {{yel}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Kevin Poole]]
+|-
+|MF ||'''8''' ||{{flagicon|ENG}} [[Scott Taylor (footballer born 1970)|Scott Taylor]] || || {{subon|108}}
+|-
+|FW ||'''12'''||{{flagicon|ENG}} [[Mark Robins]] || || {{subon|105}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NIR}} [[Martin O'Neill]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''19'''||{{flagicon|AUS}} [[Mark Schwarzer]]
+|-
+|DF ||'''2''' ||{{flagicon|ENG}} [[Neil Cox (footballer)|Neil Cox]] || {{yel}}
+|-
+|DF ||'''14'''||{{flagicon|IRL}} [[Curtis Fleming]]
+|-
+|DF ||'''5''' ||{{flagicon|ENG}} [[Nigel Pearson]] ([[Captain (association football)|c]])
+|-
+|DF ||'''18'''||{{flagicon|ITA}} [[Gianluca Festa]]
+|-
+|MF ||'''21'''||{{flagicon|ENG}} [[Craig Hignett]]
+|-
+|MF ||'''8''' ||{{flagicon|ENG}} [[Robbie Mustoe]]
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Juninho Paulista]] || {{yel}}
+|-
+|MF ||'''6''' ||{{flagicon|BRA}} [[Emerson Moisés Costa|Emerson]]
+|-
+|FW ||'''9''' ||{{flagicon|DEN}} [[Mikkel Beck]] || {{yel}}
+|-
+|FW ||'''11'''||{{flagicon|ITA}} [[Fabrizio Ravanelli]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|DF ||'''4''' ||{{flagicon|ENG}} [[Steve Vickers (footballer)|Steve Vickers]]
+|-
+|DF ||'''17'''||{{flagicon|WAL}} [[Clayton Blackmore]]
+|-
+|MF ||'''12''' ||{{flagicon|IRL}} [[Alan Moore (footballer)|Alan Moore]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Bryan Robson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra-time if necessary
+*Replay if scores still level
+*Three named substitutes
+*Maximum of three substitutions
+|}
+
+===Replay===
+{{football box
+|date = 16 April 1997
+|team1 = [[Leicester City F.C.|Leicester City]]
+|score = 1–0
+|aet = yes
+|team2 = [[Middlesbrough F.C.|Middlesbrough]]
+|report = [https://www.independent.co.uk/sport/claridges-five-star-silver-service-1267700.html Report]
+|goals1 = [[Steve Claridge|Claridge]] {{goal|100}}
+|goals2 =
+|stadium = [[Hillsborough Stadium]], Sheffield
+|attendance = 39,428
+|referee = [[Martin Bodenham]] ([[Cornwall]]) }}
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_sh = _darkbluesides_2
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Leicester
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _whitecollarplain
+ | pattern_ra = _whiteborder
+ | pattern_so = _band_black
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Middlesbrough
+}}
+|}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''13'''||{{flagicon|USA}} [[Kasey Keller]]
+|-
+|RWB ||'''2''' ||{{flagicon|ENG}} [[Simon Grayson]]
+|-
+|CB ||'''3''' ||{{flagicon|ENG}} [[Mike Whitlow]] || || {{suboff|109}}
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Steve Walsh (footballer)|Steve Walsh]] ([[Captain (association football)|c]])
+|-
+|CB ||'''17'''||{{flagicon|ENG}} [[Spencer Prior]] || {{yel}}
+|-
+|LWB ||'''15'''||{{flagicon|SWE}} [[Pontus Kåmark]]
+|-
+|CM ||'''6''' ||{{flagicon|TUR}} [[Muzzy Izzet]] || {{yel}}
+|-
+|CM ||'''7''' ||{{flagicon|NIR}} [[Neil Lennon]] || {{yel}}
+|-
+|CM ||'''10'''||{{flagicon|ENG}} [[Garry Parker]]
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Steve Claridge]] || || {{suboff|117}}
+|-
+|CF ||'''11'''||{{flagicon|ENG}} [[Emile Heskey]] || {{yel}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Kevin Poole]]
+|-
+|DF ||'''21''' ||{{flagicon|ENG}} [[Jamie Lawrence (footballer, born 1970)|Jamie Lawrence]] || || {{subon|109}}
+|-
+|FW ||'''12'''||{{flagicon|ENG}} [[Mark Robins]] || || {{subon|117}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NIR}} [[Martin O'Neill]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''25'''||{{flagicon|ENG}} [[Ben Roberts (footballer)|Ben Roberts]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Neil Cox (footballer)|Neil Cox]] || {{yel}} || {{suboff|105}}
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Nigel Pearson]] ([[Captain (association football)|c]])
+|-
+|CB ||'''18'''||{{flagicon|ITA}} [[Gianluca Festa]] || || {{suboff|76}}
+|-
+|LB ||'''7''' ||{{flagicon|SVK}} [[Vladimir Kinder]] || {{yel}}
+|-
+|CM ||'''17'''||{{flagicon|WAL}} [[Clayton Blackmore]]
+|-
+|CM ||'''6''' ||{{flagicon|BRA}} [[Emerson Moisés Costa|Emerson]]
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Robbie Mustoe]]
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Juninho Paulista]] || {{yel}}
+|-
+|CF ||'''21'''||{{flagicon|ENG}} [[Craig Hignett]] || || {{suboff|105}}
+|-
+|CF ||'''11'''||{{flagicon|ITA}} [[Fabrizio Ravanelli]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|DF ||'''4''' ||{{flagicon|ENG}} [[Steve Vickers (footballer)|Steve Vickers]] || || {{subon|76}}
+|-
+|MF ||'''12''' ||{{flagicon|IRL}} [[Alan Moore (footballer)|Alan Moore]] || || {{subon|105}}
+|-
+|FW ||'''9''' ||{{flagicon|DEN}} [[Mikkel Beck]] || || {{subon|105}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Bryan Robson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra-time if necessary
+*Penalty shootout if scores still level
+*Three named substitutes
+*Maximum of three substitutions
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{EFL Cup}}
+{{1996–97 in English football}}
+{{Leicester City F.C. matches}}
+{{Middlesbrough F.C. matches}}
+
+[[Category:1996–97 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:EFL Cup finals]]
+[[Category:Middlesbrough F.C. matches|League Cup final 1997]]
+[[Category:Leicester City F.C. matches|League Cup final 1997]]
+[[Category:April 1997 sports events in the United Kingdom|Football League Cup final]]
+[[Category:1997 in sport in London|Football League Cup final]]

@@ -1,0 +1,357 @@
+{{Use dmy dates|date=October 2020}}
+{{Infobox football match
+| title              = 2012 FIFA Club World Cup final
+| image              = 2012 FIFA Club World Cup Final match programme.jpg
+| caption            = Match programme cover
+| event              = [[2012 FIFA Club World Cup]]
+| team1              = [[Sport Club Corinthians Paulista|Corinthians]]
+| team1association   = {{fbaicon|BRA|size=30px}}
+| team1score         = 1
+| team2              = [[Chelsea F.C.|Chelsea]]
+| team2association   = {{fbaicon|ENG|size=30px}}
+| team2score         = 0
+| date               = {{Start date|2012|12|16|df=yes}}
+| stadium            = [[International Stadium Yokohama]]
+| city               = [[Yokohama]]<ref name="match report">{{cite news |title=Match Report |url=https://www.fifa.com/mm/document/tournament/competition/01/97/27/18/08_1216_cor-che_fulltime.pdf |archive-url=https://web.archive.org/web/20121222033901/http://www.fifa.com/mm/document/tournament/competition/01/97/27/18/08%5F1216%5Fcor-che%5Ffulltime.pdf |url-status=dead |archive-date=22 December 2012 |work=FIFA |publisher=Fédération Internationale de Football Association |date=16 December 2012 |access-date=17 December 2012}}</ref>
+| referee            = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])<ref name="match report"/>
+| attendance         = 68,275
+| weather            = Clear night<br />{{convert|13|°C|°F}}<br />42% [[humidity]]
+| previous           = [[2011 FIFA Club World Cup final|2011]]
+| next               = [[2013 FIFA Club World Cup final|2013]]
+}}
+The '''2012 FIFA Club World Cup final''' was the final match of the [[2012 FIFA Club World Cup]], an [[association football]] tournament hosted in Japan. It was the ninth final of the [[FIFA Club World Cup]], a [[FIFA]]-organised tournament between the winners of the six continental confederations as well as the host nation's league champions.
+
+The final was contested between [[CONMEBOL]] winners [[Sport Club Corinthians Paulista|Corinthians]] and [[UEFA]] winners [[Chelsea F.C.|Chelsea]], and took place at the [[International Stadium Yokohama]] in [[Yokohama]] on 16 December 2012. Corinthians defeated Chelsea 1–0 after a header from [[Paolo Guerrero]], which meant Corinthians won their second [[FIFA Club World Cup]], then known as FIFA Club World Championship, twelve years after winning their first in [[2000 FIFA Club World Championship|2000]]. The match kicked-off at 19:30 [[Japan Standard Time|JST]] and was officiated by Turkish referee [[Cüneyt Çakır]].
+
+Both clubs entered the competition after winning their respective club football competitions. Corinthians won the [[2012 Copa Libertadores]], following a 2–0 win against [[Boca Juniors]] in the final, while Chelsea won the [[2011–12 UEFA Champions League]], having defeated [[FC Bayern Munich|Bayern Munich]] 4–3 in a [[Penalty shoot-out (association football)|penalty shoot-out]], after being held 1–1 in normal time. This was Corinthians's second time competing and winning the tournament (also becoming the last South American and non-European team doing it), after having won the competition in [[2000 FIFA Club World Championship|2000]], with a 4–3 penalty shoot-out win over [[CR Vasco da Gama|Vasco da Gama]].
+
+==Background==
+The [[International Stadium Yokohama]] had hosted the FIFA Club World Cup finals five times, with the 2009 and 2010 finals being held at the [[Zayed Sports City Stadium]] in [[Abu Dhabi]], [[United Arab Emirates]]. [[Brazil]]ian sides have been the most dominant side of any other South American teams, with the first dating back in [[2000 FIFA Club World Championship|2000]], where [[Sport Club Corinthians Paulista|Corinthians]] won the competition for the first time, then known as [[FIFA Club World Cup|FIFA Club World Championship]], where they beat [[CR Vasco da Gama|Vasco da Gama]] 4–3 in a [[Penalty shoot-out (association football)|penalty shoot-out]].<ref>{{cite web|url=https://news.bbc.co.uk/2/hi/special_report/1999/12/99/world_club_championship/604434.stm|title=Corinthians crowned world champions|date=15 January 2000|work=BBC Sport|access-date=6 May 2021|archive-date=25 February 2021|archive-url=https://web.archive.org/web/20210225142027/http://news.bbc.co.uk/2/hi/special_report/1999/12/99/world_club_championship/604434.stm|url-status=live}}</ref>
+This was followed by wins from [[São Paulo FC|São Paulo]], who beat [[Liverpool F.C.|Liverpool]] 1–0 and [[Sport Club Internacional|Internacional]] with the same scoreline against [[FC Barcelona|Barcelona]]. At the time, [[Manchester United F.C.|Manchester United]] were the only English team to have won the competition, in [[2008 FIFA Club World Cup|2008]], when they defeated Ecuadorian side [[Liga Deportiva Universitaria de Quito|LDU Quito]] 1–0.
+
+==Route to the final==
+Both clubs received byes from the play-off rounds and the quarter-finals.
+{| class="wikitable"
+|-
+!width=300|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+!Team
+!width=300|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|-
+|align=center|[[CONMEBOL]]
+!Confederation
+|align=center|[[UEFA]]
+|-
+|align=center|Winner of the [[2012 Copa Libertadores]]
+!Qualification
+|align=center|Winner of the [[2011–12 UEFA Champions League]]
+|-
+|align=center|Bye
+![[2012 FIFA Club World Cup#Play-off for quarter-finals|Play-off round]]
+|align=center|Bye
+|-
+|align=center|Bye
+![[2012 FIFA Club World Cup#Quarter-finals|Quarter-finals]]
+|align=center|Bye
+|-
+|align=center|'''1–0''' {{fbaicon|EGY}} [[Al Ahly SC|Al-Ahly]]<br />([[Paolo Guerrero|Guerrero]] 30')
+![[2012 FIFA Club World Cup#Semi-finals|Semi-finals]]
+|align=center|'''3–1''' {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]<br />([[Juan Mata|Mata]] 17', [[Fernando Torres|Torres]] 46', [[Dárvin Chávez|Chávez]] 48' o.g.)
+|}
+
+===Corinthians===
+[[Sport Club Corinthians Paulista|Corinthians]] advanced to the final after a 1–0 win against [[Al Ahly SC|Al-Ahly]] on 12 December. [[Paolo Guerrero]] scored the winning goal with a header after thirty minutes.<ref>{{cite news |title=Corinthians book place in final with win over Al Ahly |url=https://www.theguardian.com/football/2012/dec/12/club-world-cup-corinthians-al-ahly |work=The Guardian |publisher=Guardian News and Media |agency=Reuters |date=12 December 2012 |access-date=12 December 2012 |archive-date=10 March 2016 |archive-url=https://web.archive.org/web/20160310072845/http://www.theguardian.com/football/2012/dec/12/club-world-cup-corinthians-al-ahly |url-status=live }}</ref><ref>{{cite news |first=Jim |last=Armstrong |title=Corinthians advance to final at Club World Cup |url=https://sports.yahoo.com/news/corinthians-advance-final-club-world-124511243--sow.html |work=Yahoo! Sports |publisher=Yahoo! |agency=Associated Press |date=12 December 2012 |access-date=12 December 2012 |archive-date=11 January 2013 |archive-url=https://web.archive.org/web/20130111032216/http://sports.yahoo.com/news/corinthians-advance-final-club-world-124511243--sow.html |url-status=dead }}</ref>
+
+===Chelsea===
+Chelsea took on [[C.F. Monterrey|Monterrey]] on 13 December, winning 3–1 after goals from [[Juan Mata]], [[Fernando Torres]], and a [[Dárvin Chávez]] own goal. [[Aldo de Nigris]] scored a consolation goal for Monterrey in stoppage time.<ref>{{cite news |first=Gary |last=Rose |title=Monterrey 1–3 Chelsea |url=https://www.bbc.co.uk/sport/football/20658956 |work=BBC Sport |publisher=British Broadcasting Corporation |date=13 December 2012 |access-date=13 December 2012 |archive-date=12 January 2016 |archive-url=https://web.archive.org/web/20160112170102/http://www.bbc.co.uk/sport/0/football/20658956 |url-status=live }}</ref><ref>{{cite news |first=James |last=Wrigley |title=Chelsea reach Club World Cup final after beating Monterrey |url=https://www.independent.co.uk/sport/football/news-and-comment/chelsea-reach-club-world-cup-final-after-beating-monterrey-8412805.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/news-and-comment/chelsea-reach-club-world-cup-final-after-beating-monterrey-8412805.html |archive-date=1 May 2022 |url-access=subscription |work=The Independent|publisher=Independent Print |date=13 December 2012 |access-date=13 December 2012}}{{cbignore}}</ref>
+
+==Pre-match==
+
+===Venue===
+The [[International Stadium Yokohama]] has been the venue for the FIFA Club World Cup since 2005. It was built and opened in 1998, and is the home ground of [[Yokohama F. Marinos]], who plays in the [[J. League Division 1|J. League]], the highest division of the [[Japanese association football league system|Japanese league system]]. The venue has been used five times in the previous FIFA Club World Championship and Club World Cup finals, in [[2005 FIFA Club World Championship|2005]], [[2006 FIFA Club World Cup|2006]], [[2007 FIFA Club World Cup|2007]] and [[2008 FIFA Club World Cup|2008]], as well as [[2011 FIFA Club World Cup|2011]].
+
+===Match ball===
+The official match ball for the final was the Adidas Cafusa, provided by German sports equipment company [[Adidas]]. It was used throughout the tournament and also at the [[2013 FIFA Confederations Cup]].<ref>{{cite news |title=adidas Cafusa launched at Brazil 2013 draw |url=https://www.fifa.com/confederationscup/news/newsid=1960502/index.html |archive-url=https://web.archive.org/web/20121204213534/http://www.fifa.com/confederationscup/news/newsid=1960502/index.html |url-status=dead |archive-date=4 December 2012 |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=15 December 2012 |access-date=15 December 2012}}</ref>
+
+===Officials===
+[[Cüneyt Çakır]], representing [[Turkish Football Federation|Turkey]] and UEFA, was selected as the referee of the final. He was first listed as an international referee in 2006,<ref>{{cite news |title=Referees – Cüneyt Çakır |url=https://www.fifa.com/clubworldcup/referees/referee=241952/ |archive-url=https://web.archive.org/web/20130320024205/http://www.fifa.com/clubworldcup/referees/referee=241952/ |url-status=dead |archive-date=20 March 2013 |work=FIFA |publisher=Fédération Internationale de Football Association |date=14 December 2012 |access-date=14 December 2012}}</ref> and had earlier taken charge of his first FIFA Club World Cup match, the first quarter-final match between [[Ulsan Hyundai FC|Ulsan Hyundai]] and [[C.F. Monterrey|Monterrey]] on 9 December 2012. Çakır was assisted by Bahattin Duran and Tarık Ongun, while the fourth and fifth officials were [[Alireza Faghani]] and Hassan Kamranifar, representing the [[Football Federation Islamic Republic of Iran|Islamic Republic of Iran]] and one of the two [[Asian Football Confederation|AFC]] representatives in the competition, alongside [[Nawaf Shukralla]] of [[Bahrain Football Association|Bahrain]].
+
+==Match==
+{{multiple image
+| align     = 
+| total_width = 450
+| image1    = Fernando Torres vs Corinthians 2012 FIFA Club World Cup.jpg
+| caption1  = 
+| image2    = Fernando Torres saved by Cassio.jpg
+| caption2  = 
+| footer = ''(Left)'': [[Fernando Torres]] being chased by [[Fábio Santos (footballer, born 1985)|Fábio Santos]]; ''(right)'': [[Cássio (footballer, born 1987)|Cássio]] blocks a strike from Torres in the first half
+}}
+
+===Summary===
+In the 69th minute, Corinthians took the lead when a shot from [[Danilo (footballer, born 1979)|Danilo]] was blocked by Chelsea defender [[Gary Cahill]] before looping up in the air where [[Paolo Guerrero]] headed into the net from close range past three Chelsea defenders on the line.<ref>{{cite web|url=https://www.bbc.com/sport/football/20746503#:~:text=The%20Blues%20ended%20the%20game,to%20win%20the%20competition%20twice.|title=Chelsea 0-1 Corinthians|date=16 December 2012|work=BBC Sport|accessdate=25 June 2026}}</ref>
+
+===Details===
+{{Football box
+| date       = {{Start date|2012|12|16|df=y}}
+| time       = 19:30 [[Japan Standard Time|JST]]
+| team1      = [[Sport Club Corinthians Paulista|Corinthians]] {{fbaicon|BRA}}
+| team2      = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| score      = 1–0
+| goals1     = [[Paolo Guerrero|Guerrero]] {{goal|69}}
+| stadium    = [[International Stadium Yokohama]], [[Yokohama]]
+| attendance = 68,275
+| referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])<ref name="match report"/>
+| report     = [https://web.archive.org/web/20121219000209/http://www.fifa.com/clubworldcup/matches/round=259327/match=300219235/report.html Report]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _corinthians12h
+ | pattern_b  = _corinthians12H
+ | pattern_ra = _corinthians12h
+ | pattern_sh = _nikeblanco
+ | pattern_so = _blacktop
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Corinthians
+}}
+|{{Football kit
+ | pattern_la = _chelsea1213H
+ | pattern_b  = _chelsea1213h2
+ | pattern_ra = _chelsea1213H
+ | pattern_sh = _chelsea1213h
+ | pattern_so = _chelsea1213halt
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Chelsea
+}}
+|}
+
+{| width=100%
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||{{flagicon|BRA}} [[Cássio (footballer, born 1987)|Cássio]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Alessandro (footballer, born 1979)|Alessandro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Chicão (footballer, born 1981)|Chicão]]
+|-
+|CB ||'''13'''||{{flagicon|BRA}} [[Paulo André]]
+|-
+|LB ||'''6''' ||{{flagicon|BRA}} [[Fábio Santos (footballer, born 1985)|Fábio Santos]]
+|-
+|DM ||'''5''' ||{{flagicon|BRA}} [[Ralf (footballer)|Ralf]]
+|-
+|DM ||'''8''' ||{{flagicon|BRA}} [[Paulinho (footballer, born July 1988)|Paulinho]]
+|-
+|RW ||'''23'''||{{flagicon|BRA}} [[Jorge Henrique (footballer, born April 1982)|Jorge Henrique]] || {{yel|56}} 
+|-
+|AM ||'''20'''||{{flagicon|BRA}} [[Danilo (footballer, born 1979)|Danilo]]
+|-
+|LW ||'''11'''||{{flagicon|QAT}} [[Emerson Sheik|Emerson]] || || {{suboff|90+1}} 
+|-
+|CF ||'''9''' ||{{flagicon|PER|football}} [[Paolo Guerrero]] || || {{suboff|87}}  
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''7''' ||{{flagicon|ARG}} [[Juan Manuel Martínez (Argentine footballer)|Juan Manuel Martínez]] || || {{subon|87}}
+|-
+|DF ||'''4''' ||{{flagicon|BRA}} [[Wallace (footballer, born 1987)|Wallace]] || || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA}} [[Tite (football manager)|Tite]]
+|}
+|valign="top"|[[File:Corinthians vs Chelsea 2012-12-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CZE}} [[Petr Čech]]
+|-
+|RB ||'''2''' ||{{flagicon|SRB}} [[Branislav Ivanović]] || || {{suboff|83}}
+|-
+|CB ||'''24'''||{{flagicon|ENG}} [[Gary Cahill]] || {{sent off|0|90}}
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[David Luiz]] || {{yel|72}}
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Ashley Cole]]
+|-
+|CM ||'''7''' ||{{flagicon|BRA}} [[Ramires]]
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Frank Lampard]] ([[Captain (association football)|c]])
+|-
+|RW ||'''13'''||{{flagicon|NGA}} [[Victor Moses]] || || {{suboff|73}}
+|-
+|AM ||'''10'''||{{flagicon|ESP}} [[Juan Mata]]
+|-
+|LW ||'''17'''||{{flagicon|BEL}} [[Eden Hazard]] || || {{suboff|87}}
+|-
+|CF ||'''9''' ||{{flagicon|ESP}} [[Fernando Torres]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''11''' ||{{flagicon|BRA}} [[Oscar (footballer, born 1991)|Oscar]] || || {{subon|73}}
+|-
+|DF ||'''28''' ||{{flagicon|ESP}} [[César Azpilicueta]] || || {{subon|83}}
+|-
+|MF ||'''21''' ||{{flagicon|GER}} [[Marko Marin]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Rafael Benítez]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />Bahattin Duran ([[Turkish Football Federation|Turkey]])<ref name="match report"/>
+<br />Tarık Ongun ([[Turkish Football Federation|Turkey]])<ref name="match report"/>
+<br />'''Fourth official:'''
+<br />[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])<ref name="match report"/>
+<br />'''Fifth official:'''
+<br />Hassan Kamranifar ([[Football Federation Islamic Republic of Iran|Iran]])<ref name="match report"/>
+| width=55% valign=top|
+'''Match rules'''<ref name="regulations">{{cite web |url=https://www.fifa.com/mm/document/tournament/competition/01/95/45/34/regulationsfcwc2012_e.pdf |archive-url=https://web.archive.org/web/20130328220018/http://www.fifa.com/mm/document/tournament/competition/01/95/45/34/regulationsfcwc2012%5fe.pdf |url-status=dead |archive-date=28 March 2013 |title=Regulations – FIFA Club World Cup Japan 2012 |work=FIFA |publisher=Fédération Internationale de Football Association |date=16 December 2012 |access-date=16 December 2012}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of three substitutions.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half
+|-
+!width=100|
+!width=70 | Corinthians
+!width=70 | Chelsea
+|-
+|Goals scored || 0 || 0
+|-
+|Total shots || 5 || 9
+|-
+|Shots on target || 1 || 4
+|-
+|Saves || 4 || 1
+|-
+|Ball possession || 43% || 57%
+|-
+|Corner kicks || 1 || 2
+|-
+|Fouls committed || 10 || 5
+|-
+|Offsides || 0 || 1
+|-
+|Yellow cards || 0 || 0
+|-
+|Red cards || 0 || 0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half
+|-
+!width=100|
+!width=70 | Corinthians
+!width=70 | Chelsea
+|-
+|Goals scored || 1 || 0
+|-
+|Total shots || 4 || 5
+|-
+|Shots on target || 1 || 2
+|-
+|Saves || 2 || 0
+|-
+|Ball possession || 46% || 54%
+|-
+|Corner kicks || 3 || 1
+|-
+|Fouls committed || 7 || 7
+|-
+|Offsides || 1 || 3
+|-
+|Yellow cards || 1 || 1
+|-
+|Red cards || 0 || 1
+|}
+{{col-3}}
+{| class="wikitable" style="text-align:center"
+|+Overall
+|-
+!width=100|
+!width=70 | Corinthians
+!width=70 | Chelsea
+|-
+|Goals scored || 1 || 0
+|-
+|Total shots || 9 || 14
+|-
+|Shots on target || 2 || 6
+|-
+|Saves || 6 || 1
+|-
+|Ball possession || 46% || 54%
+|-
+|Corner kicks || 4 || 2
+|-
+|Fouls committed || 17 || 12
+|-
+|Offsides || 1 || 4
+|-
+|Yellow cards || 1 || 1
+|-
+|Red cards || 0 || 1
+|}
+{{col-end}}
+{{multiple image
+| align     = 
+| direction = 
+| total_width= 550
+| image2    = Corinthians celebrate FIFA Club World Cup win.jpg
+| image3    = Corinthians Club World Cup 2012.jpg
+| footer    = Corinthians celebrating their win
+}}
+{{-}}
+
+==See also==
+*[[Chelsea F.C. in international football competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons cat}}
+* [https://www.fifa.com/tournaments/mens/clubworldcup/japan2012/match-center FIFA Club World Cup Japan 2012] match center at FIFA.com
+
+{{FIFA Club World Cup}}
+{{Sport Club Corinthians Paulista matches}}
+{{Chelsea F.C. matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2012}}
+[[Category:2012 in Brazilian football|World]]
+[[Category:2012 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2012]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:Football matches in Yokohama]]
+[[Category:SC Corinthians Paulista matches]]
+[[Category:Chelsea F.C. matches]]
+[[Category:2012–13 in English men's football|World]]
+[[Category:2010s in Yokohama]]
+[[Category:December 2012 sports events in Japan]]
+[[Category:2012 in Japanese football]]
+[[Category:Football finals in Japan]]
+[[Category:Brazil–United Kingdom sports relations|2012]]

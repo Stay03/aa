@@ -1,0 +1,422 @@
+{{Use dmy dates|date=December 2022}}
+{{Infobox international football competition
+| tourney_name = FIFA Club World Cup
+| year = 2006
+| other_titles = FIFA Club World Cup Japan 2006<br />presented by Toyota<br />Toyota プレゼンツFIFAクラブワールドカップ ジャパン2006
+| image = 2006 FIFA Club World Cup.svg
+| size = 146px
+| caption = FIFA Club World Cup 2006 official logo
+| country = Japan
+| dates = 10–17 December
+| num_teams = 6
+| confederations = 6
+| venues = 3
+| cities = 3
+| champion_other = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+| count = 1
+| second_other = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| third_other = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| fourth_other = {{fbaicon|MEX}} [[Club América|América]]
+| matches = 7
+| goals = 17
+| attendance = 325152
+| top_scorer = {{nowrap|[[Mohamed Aboutrika]] (Al Ahly)<br />3 goals}}
+| player = [[Deco]] (Barcelona)
+| fair_play = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| prevseason = [[2005 FIFA Club World Championship|2005]]
+| nextseason = [[2007 FIFA Club World Cup|2007]]
+}}
+The '''2006 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup Japan 2006 presented by Toyota''' for sponsorship reasons) was a [[Association football|football]] tournament held in [[Japan]] between 10 and 17 December 2006. It was the third [[FIFA Club World Cup]].
+
+The club champions from each of the six confederations played in a knockout tournament. The quarter-final match-ups were determined by a draw including the [[Asian Football Confederation|AFC]], [[Confederation of African Football|CAF]], [[CONCACAF]] and [[Oceania Football Confederation|OFC]] champions, while the [[UEFA]] and [[CONMEBOL]] champions were given byes to the semi-finals. The losers of the quarter-finals played for fifth place, while the losers of the semi-finals played in a third-place play-off.
+
+Defending champions [[São Paulo FC|São Paulo]] were beaten in the [[2006 Copa Libertadores Finals]] by fellow Brazilian side [[Sport Club Internacional|Internacional]], who went on to win the Club World Cup for the first time, beating [[Al Ahly SC|Al Ahly]] in the semi-finals before defeating Spanish club [[FC Barcelona|Barcelona]] 1–0 in the [[2006 FIFA Club World Cup Final|final]].
+
+A team from the host nation did not participate, as was initially proposed. Following the departure of [[Football Federation Australia|Australia]] from the OFC, the Oceanian representative, [[Auckland City FC|Auckland City]], was fully amateur, so forcing them to play a play-off for a place in the quarter-finals against the [[J. League Division 1|J. League]] champions ([[Gamba Osaka]]) was considered, which would have also promoted local interest. The change would have also eliminated the fifth-place play-off, to keep the number of games intact. This was finally rejected, but the tournament format was changed for [[2007 FIFA Club World Cup|2007]].<ref>{{Cite web |url=http://chinadaily.com.cn/sports/2006-06/05/content_608467.htm |title=Oceania to get direct entry to Club World Cup |access-date=12 July 2006 |archive-url=https://web.archive.org/web/20120118090055/http://www.chinadaily.com.cn/sports/2006-06/05/content_608467.htm |archive-date=18 January 2012 |url-status=dead  }}</ref>
+
+==Qualified teams==
+It was all six clubs' first appearance in the FIFA Club World Championship.
+
+{{Location map+|World|width=600|float=right|caption=Location of teams of the 2006 FIFA Club World Cup|places=
+<!--CAF-->
+{{Location map~|World|lat=30.069114|long=31.312333|label_size=80|label=[[Al Ahly SC|Al Ahly]]|position=right}}
+<!--AFC-->
+{{Location map~|World|lat=35.868111|long=127.064444|label_size=80|label=[[Jeonbuk Hyundai Motors]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=41.38087|long=2.122802|label_size=80|label=[[FC Barcelona|Barcelona]]|position=right}}
+<!--CONCACAF-->
+{{Location map~|World|lat=20.10514|long=-98.75611|label_size=80|label=[[Club América|América]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-36.898009|long=174.736501|label_size=80|label=[[Auckland City FC|Auckland City]]|position=left}}
+<!--CONMEBOL-->
+{{Location map~|World|lat=-30.065528|long=-51.235866|label_size=80|label=[[Sport Club Internacional|Internacional]]|position=right}}
+}}
+
+[[Al Ahly SC|Al Ahly]] became the first team with more than one appearance in the FIFA Club World Cup.
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Participation
+|-
+!colspan=4|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|[[UEFA]]
+|[[2005–06 UEFA Champions League]] winners
+|Debut
+|-
+|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|[[CONMEBOL]]
+|[[2006 Copa Libertadores]] winners
+|Debut
+|-
+!colspan=4|Entering in the [[#Quarter-finals|quarter-finals]]
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|[[Confederation of African Football|CAF]]
+|[[2006 CAF Champions League]] winners
+|2nd {{small|(Previous: [[2005 FIFA Club World Championship|2005]])}}
+|-
+|{{fbaicon|KOR|1997}} [[Jeonbuk Hyundai Motors]]
+|[[Asian Football Confederation|AFC]]
+|[[2006 AFC Champions League]] winners
+|Debut
+|-
+|{{fbaicon|MEX}} [[Club América|América]]
+|[[CONCACAF]]
+|[[2006 CONCACAF Champions' Cup]] winners
+|Debut
+|-
+|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|[[Oceania Football Confederation|OFC]]
+|[[2006 OFC Club Championship]] winners
+|Debut
+|}
+
+==Venues==
+Tokyo, Yokohama and Toyota were the three cities to serve as venues for the 2006 FIFA Club World Cup.
+
+{| class="wikitable" style="text-align:center"
+|-
+![[Yokohama]]
+![[Tokyo]]
+![[Toyota, Aichi|Toyota]]
+|-
+| [[International Stadium Yokohama]]
+| [[National Stadium (Tokyo, 1958)|National Stadium]]
+| [[Toyota Stadium (Japan)|Toyota Stadium]]
+|-
+| <small>{{Coord|35|30|36.16|N|139|36|22.49|E|type:landmark|display=inline|name=International Stadium Yokohama}}</small>
+| <small>{{Coord|35|40|41.00|N|139|42|53.00|E|type:landmark_source:dewiki|display=inline|name=National Olympic Stadium}}</small>
+| <small>{{Coord|35|05|04.02|N|137|10|14.02|E|type:landmark_source:dewiki|display=inline|name=Toyota Stadium}}</small>
+|-
+| Capacity: '''72,327'''
+| Capacity: '''57,363'''
+| Capacity: '''45,000'''
+|-
+| [[File:NISSANSTADIUM20080608.JPG|200px]]
+| [[File:KokuritshuKasumigaoka-5.JPG|200px]]
+| [[File:Toyota sta 0313 2.JPG|200px]]
+|-
+!rowspan=1 colspan=5|{{location map+ |Japan |float=center |width=400 |places=
+{{location map~ |Japan |lat=35.510044 |long=139.606247 |label=[[Yokohama]] |position=bottom}}
+{{location map~ |Japan |lat=35.678056 |long=139.714722 |label=[[Tokyo]] |position=top}}
+{{location map~ |Japan |lat=35.084500 |long=137.170611 |label=[[Toyota, Aichi|Toyota]] |position=left}}}}
+|}
+
+==Match officials==
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+|-
+|[[Asian Football Confederation|AFC]]
+|{{fbaicon|KSA}} [[Khalil Al Ghamdi]]<br />{{fbaicon|MAS}} [[Subkhiddin Mohd Salleh]]
+|{{fbaicon|UAE}} Eisa Ghuloum<br />{{fbaicon|SYR|1980}} Hamdi Al Kadrie
+|-
+|[[Confederation of African Football|CAF]]
+|{{fbaicon|RSA}} [[Jerome Damon]]
+|{{fbaicon|RSA}} Enock Molefe<br />{{fbaicon|RWA}} Celestin Ntagungira
+|-
+|[[CONCACAF]]
+|{{fbaicon|GUA}} [[Carlos Batres]]
+|{{fbaicon|HON|1949}} Carlos Pastrana<br />{{fbaicon|CRC}} Leonel Leal
+|-
+|[[CONMEBOL]]
+|{{fbaicon|COL}} [[Óscar Ruiz (referee)|Óscar Ruiz]]
+|{{fbaicon|COL}} Wilson Berrio<br />{{fbaicon|VEN}} Rafael Yáñez
+|}
+
+==Squads==
+For a list of all the rosters of this tournament, see the article ''[[2006 FIFA Club World Cup squads]]''.
+
+==Matches==
+<section begin=Bracket />{{6TeamBracket-Info
+| style       = 3
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#Quarter-finals|Quarter-finals]]
+| RD2         = [[#Semi-finals|Semi-finals]]
+| RD3         = [[#Final|Final]]
+| RD2b        = [[#Match for fifth place|Match for fifth place]]
+| RD3b        = [[#Match for third place|Match for third place]]
+
+<!-- Quarter-finals -->
+| RD1-text1    = 10 December – [[Toyota Stadium (Japan)|Toyota]]
+| RD1-team1    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD1-score1   = 0
+| RD1-team2    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD1-score2   = 2
+
+| RD1-text2    = 11 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD1-team3    = {{fbaicon|KOR|1997}} [[Jeonbuk Hyundai Motors]]
+| RD1-score3   = 0
+| RD1-team4    = {{fbaicon|MEX}} [[Club América|América]]
+| RD1-score4   = 1
+
+<!-- Semi-finals -->
+| RD2-text1    = 13 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD2-team1    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD2-score1   = 1
+| RD2-team2    = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+| RD2-score2   = 2
+
+| RD2-text2    = 14 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD2-team3    = {{fbaicon|MEX}} [[Club América|América]]
+| RD2-score3   = 0
+| RD2-team4    = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| RD2-score4   = 4
+
+<!-- Final -->
+| RD3-text1    = 17 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD3-team1    = {{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+| RD3-score1   = 1
+| RD3-team2    = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| RD3-score2   = 0
+
+<!-- Match for fifth place -->
+| RD2-text3    = 15 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD2-team5    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD2-score5   = 0
+| RD2-team6    = {{fbaicon|KOR|1997}} [[Jeonbuk Hyundai Motors]]
+| RD2-score6   = 3
+
+<!-- Match for third place -->
+| RD3-text2    = 17 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD3-team3    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD3-score3   = 2
+| RD3-team4    = {{fbaicon|MEX}} [[Club América|América]]
+| RD3-score4   = 1
+}}<section end=Bracket />
+''All times [[Japan Standard Time]] ([[UTC+09:00]])''
+
+===Quarter-finals===
+{{football box
+|date=10 December 2006
+|time=19:20
+|team1=[[Auckland City FC|Auckland City]] {{fbaicon|NZL}}
+|score=0–2
+|report=https://www.fifa.com/clubworldcup/matches/round=24830300/match=24830001/report.html
+|team2={{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|goals1=
+|goals2=[[Flávio Amado|Flávio]] {{goal|51}}<br />[[Mohamed Aboutrika|Aboutrika]] {{goal|73}}
+|stadium=[[Toyota Stadium (Japan)|Toyota Stadium]], [[Toyota, Aichi|Toyota]]
+|attendance=29,922
+|referee=[[Khalil Al Ghamdi]] ([[Saudi Arabian Football Federation|Saudi Arabia]]) }}
+----
+{{football box
+|date=11 December 2006
+|time=19:20
+|team1=[[Jeonbuk Hyundai Motors]] {{fbaicon|KOR|1997}}
+|score=0–1
+|report=https://www.fifa.com/clubworldcup/matches/round=24830300/match=24830002/report.html
+|team2={{fbaicon|MEX}} [[Club América|América]]
+|goals1=
+|goals2=[[Ricardo Francisco Rojas|Rojas]] {{goal|79}}
+|stadium=[[National Stadium (Tokyo, 1958)|Olympic Stadium]], [[Tokyo]]
+|attendance=34,197
+|referee=[[Jerome Damon]] ([[South African Football Association|South Africa]]) }}
+
+===Semi-finals===
+{{football box
+|date=13 December 2006
+|time=19:20
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=1–2
+|report=https://www.fifa.com/clubworldcup/matches/round=24830400/match=24830003/report.html
+|team2={{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|goals1=[[Flávio Amado|Flávio]] {{goal|54}}
+|goals2=[[Alexandre Pato|Pato]] {{goal|23}}<br />[[Luiz Adriano]] {{goal|72}}
+|stadium=[[National Stadium (Tokyo, 1958)|Olympic Stadium]], [[Tokyo]]
+|attendance=33,690
+|referee=[[Subkhiddin Mohd Salleh]] ([[Football Association of Malaysia|Malaysia]]) }}
+----
+{{football box
+|date=14 December 2006
+|time=19:20
+|team1=[[Club América|América]] {{fbaicon|MEX}}
+|score=0–4
+|report=https://www.fifa.com/clubworldcup/matches/round=24830400/match=24830004/report.html
+|team2={{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=
+|goals2=[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|11}}<br />[[Rafael Márquez|Márquez]] {{goal|30}}<br />[[Ronaldinho]] {{goal|65}}<br />[[Deco]] {{goal|85}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=62,316
+|referee=[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]]) }}
+
+===Match for fifth place===
+{{football box
+|date=15 December 2006
+|time=19:20
+|team1=[[Auckland City FC|Auckland City]] {{fbaicon|NZL}}
+|score=0–3
+|report=https://www.fifa.com/clubworldcup/matches/round=24830700/match=24830005/report.html
+|team2={{fbaicon|KOR|1997}} [[Jeonbuk Hyundai Motors]]
+|goals1=
+|goals2=[[Lee Hyun-Seung (footballer)|Lee Hyun-Seung]] {{goal|17}}<br />[[Kim Hyeung-Bum]] {{goal|31}}<br />[[José Carlos Ferreira Filho|Zé Carlos]] {{goal|73|pen.}}
+|stadium=[[National Stadium (Tokyo, 1958)|Olympic Stadium]], [[Tokyo]]
+|attendance=23,258
+|referee=[[Khalil Al Ghamdi]] ([[Saudi Arabian Football Federation|Saudi Arabia]]) }}
+
+===Match for third place===
+{{football box
+|date=17 December 2006
+|time=16:20
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=2–1
+|report=https://www.fifa.com/clubworldcup/matches/round=24830500/match=24830006/report.html
+|team2={{fbaicon|MEX}} [[Club América|América]]
+|goals1=[[Mohamed Aboutrika|Aboutrika]] {{goal|42||79}}
+|goals2=[[Salvador Cabañas|Cabañas]] {{goal|59}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=51,641
+|referee=[[Jerome Damon]] ([[South African Football Association|South Africa]]) }}
+
+===Final===
+{{main|2006 FIFA Club World Cup Final}}
+{{football box
+|date=17 December 2006
+|time=19:20
+|team1=[[Sport Club Internacional|Internacional]] {{fbaicon|BRA}}
+|score=1–0
+|report=https://www.fifa.com/clubworldcup/matches/round=24830600/match=24830007/report.html
+|team2={{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=[[Adriano Gabiru]] {{goal|82}}
+|goals2=
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=67,128
+|referee=[[Carlos Batres]] ([[National Football Federation of Guatemala|Guatemala]]) }}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|1
+|style="text-align:left"|{{flagicon|EGY}} [[Mohamed Aboutrika]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|3
+|-
+|2
+|style="text-align:left"|{{flagicon|ANG}} [[Flávio Amado|Flávio]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|2
+|-
+|rowspan=12|3
+|style="text-align:left"|{{flagicon|POR}} [[Deco]]
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|rowspan=12|1
+|-
+|style="text-align:left"|{{flagicon|ISL}} [[Eiður Guðjohnsen]]
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Rafael Márquez]]
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Ronaldinho]]
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|style="text-align:left"|{{flagicon|PAR|1990}} [[Salvador Cabañas]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club América|América]]
+|-
+|style="text-align:left"|{{flagicon|CHI}} [[Ricardo Francisco Rojas]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club América|América]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Luiz Adriano]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Adriano Gabiru]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Alexandre Pato]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Internacional|Internacional]]
+|-
+|style="text-align:left"|{{flagicon|KOR|1997}} [[Kim Hyeung-Bum]]
+|style="text-align:left"|{{fbaicon|KOR|1997}} [[Jeonbuk Hyundai Motors]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[José Carlos Ferreira Filho|Zé Carlos]]
+|style="text-align:left"|{{fbaicon|KOR|1997}} [[Jeonbuk Hyundai Motors]]
+|-
+|style="text-align:left"|{{flagicon|KOR|1997}} [[Lee Hyun-Seung (footballer)|Lee Hyun-Seung]]
+|style="text-align:left"|{{fbaicon|KOR|1997}} [[Jeonbuk Hyundai Motors]]
+|}
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Toyota]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|POR}} [[Deco]]<br />([[FC Barcelona|Barcelona]])
+|{{flagicon|BRA}} [[Iarley]]<br />([[Sport Club Internacional|Internacional]])
+|{{flagicon|BRA}} [[Ronaldinho]]<br />([[FC Barcelona|Barcelona]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+{{Wikivoyage}}
+*[https://www.fifa.com/tournaments/mens/clubworldcup/japan2006 FIFA Club World Cup Japan 2006], FIFA.com
+*[https://web.archive.org/web/20061129111538/http://www.fifa.com/en/comp/index/0%2C2442%2CCWC2006%2C00.html?comp=CWC&year=2006 2006 FIFA Club World Cup Official Site] (Archived)
+*[https://web.archive.org/web/20090920083736/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/64/28/97/documentation_centre-_143916-v1-reportandstatistics-fifaclubworldcupjapan2006_28305.pdf FIFA Technical Report]
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2006 FIFA Club World Cup| ]]
+[[Category:Football club competitions in Japan]]
+[[Category:2006 in men's association football]]
+[[Category:2006 in Brazilian football]]
+[[Category:2006 in South Korean football]]
+[[Category:2006–07 in Spanish men's football]]
+[[Category:2006–07 in Egyptian football]]
+[[Category:2006–07 in Mexican football]]
+[[Category:2006–07 in New Zealand association football]]
+[[Category:FIFA Club World Cup tournaments|2006]]
+[[Category:December 2006 sports events in Japan]]
+[[Category:2006 in Japanese men's football]]
+[[Category:Sports competitions in Aichi Prefecture]]
+[[Category:Sport in Toyota, Aichi]]
+[[Category:2006 in Tokyo]]
+[[Category:2000s in Yokohama]]
+[[Category:Football competitions in Tokyo]]
+[[Category:Football in Yokohama]]
+[[Category:Sports competitions in Yokohama]]

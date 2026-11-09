@@ -1,0 +1,465 @@
+{{Infobox football match
+|title=2015 UEFA Super Cup
+|image=[[File:2015 UEFA Super Cup.png|frameless|150px]]
+|team1=[[FC Barcelona|Barcelona]]
+|team1association={{fbaicon|ESP|size=30px}}
+|team1score=5
+|team2=[[Sevilla FC|Sevilla]]
+|team2association={{fbaicon|ESP|size=30px}}
+|team2score=4
+|details=After [[Overtime (sports)#Association football|extra time]]
+|date={{Start date|2015|8|11|df=y}}
+|stadium=[[Boris Paichadze Dinamo Arena]]
+|city=[[Tbilisi]]
+|man_of_the_match1a=[[Lionel Messi]] (Barcelona)<ref name="MOTM"/>
+|referee=[[Willie Collum]] ([[Scottish Football Association|Scotland]])<ref name="referee">{{cite news |title=Collum to referee Barcelona v Sevilla in Super Cup |url=https://www.uefa.com/uefasupercup/news/0250-0c510bc90359-8e983a89a5e4-1000--collum-to-referee-barcelona-v-sevilla-in-super-cup/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=7 July 2015 |access-date=12 July 2015 }}</ref>
+|attendance=51,940<ref name="fulltime"/>
+|weather=Clear night<br />{{convert|27|°C|°F}}<br />49% [[humidity]]<ref name="lineup">{{cite web |title=Tactical lineups |url=https://www.uefa.com/newsfiles/SuperCup/2015/2015790_LU.pdf |format=PDF |website=[[UEFA]] |publisher=Union of European Football Associations |date=11 August 2015 |access-date=12 August 2015 }}</ref>
+|previous=[[2014 UEFA Super Cup|2014]]
+|next=[[2016 UEFA Super Cup|2016]]
+}}
+The '''2015 UEFA Super Cup''' was a [[association football|football]] match between Spanish teams [[FC Barcelona|Barcelona]] and [[Sevilla FC|Sevilla]] on 11 August 2015 at the [[Boris Paichadze Dinamo Arena]] in [[Tbilisi]], Georgia. It was the 40th [[UEFA Super Cup]], an annual tournament contested by the winners of the [[UEFA Champions League]] and [[UEFA Europa League]]. Barcelona were appearing in the Super Cup for the ninth time, they had previously won and lost the competition four times each. Sevilla were appearing in the competition for the fourth time, they had won once and lost twice. The two sides had met before in the competition in [[2006 UEFA Super Cup|2006]], when Sevilla won 3–0.<ref>{{cite news|title=2006: Sevilla win big in Monaco|publisher=UEFA|url=https://www.uefa.com/uefasupercup/history/2006|access-date=6 June 2015}}</ref>
+
+The teams had qualified for the competition by winning the two seasonal European competitions. Barcelona won the [[2014–15 UEFA Champions League]], defeating Italian [[Juventus FC|Juventus]] 3–1 in the [[2015 UEFA Champions League Final|final]]. Sevilla qualified as winners of the [[2014–15 UEFA Europa League]]. They beat Ukrainian team [[FC Dnipro|Dnipro]] 3–2 in the [[2015 UEFA Europa League Final|final]].<ref>{{cite web|url=https://www.uefa.com/uefasupercup/news/0250-0c510c152cf3-8a7956eacb1d-1000--barcelona-and-sevilla-set-for-tbilisi-super-cup/|title=Barcelona and Sevilla set for Tbilisi Super Cup|publisher=[[UEFA]]|date=6 June 2015}}</ref>
+
+Barcelona won the game 5–4 after [[Overtime (sports)#Association football|extra time]] to claim their fifth Super Cup title, tying [[A.C. Milan|Milan]]'s record.<ref>{{cite news |first=Neil |last=Johnston |title=Barcelona 5-4 Sevilla |url=https://www.bbc.co.uk/sport/football/33872239 |publisher=BBC Sport (British Broadcasting Corporation) |date=11 August 2015 |access-date=12 August 2015 }}</ref> Their ninth Super Cup appearance was also a record, two ahead of Milan. [[Dani Alves]]'s fourth Super Cup win and fifth appearance matched [[Paolo Maldini]]'s records, while [[Luis Enrique]] became the fourth man to lift the UEFA Super Cup as coach and player after [[Pep Guardiola]], [[Carlo Ancelotti]] and [[Diego Simeone]]. The nine goals scored were also the most in any Super Cup fixture, and the attendance of 51,940 was a record for a one-off, neutral venue UEFA Super Cup.
+
+==Venue==
+[[File:Geo-Esp 11.09.12.jpg|thumb|Boris Paichadze Dinamo Arena in Tbilisi, Georgia, hosted the match.]]
+The [[Mikheil Meskhi Stadium]] was originally announced as the venue of the Super Cup at the UEFA Executive Committee meeting on 5 March 2014,<ref name="decision">{{cite web |url=https://www.uefa.com/uefasupercup/news/0250-0c50fb8f7dbe-0d15b1a19f6c-1000--uefa-euro-2020-uefa-super-cup-decisions/ |title=UEFA EURO 2020, UEFA Super Cup decisions |website=UEFA.org |date=30 June 2012 }}</ref><ref>{{cite web |title=Georgia's Dinamo Arena embraces UEFA Super Cup 2015 |url=http://agenda.ge/news/9927/eng |website=Agenda.ge |date=5 March 2014 }}</ref> but the venue was changed to the [[Boris Paichadze Dinamo Arena]]. This was the first UEFA Super Cup hosted in Georgia.<ref>{{cite web|title=Venue guide: Tbilisi|url=https://www.uefa.com/uefasupercup/news/0250-0c510c120d4f-829df5561eae-1000--venue-guide-tbilisi/|date=10 August 2015|work=[[UEFA]]|publisher=Union of European Football Associations|access-date=10 August 2015}}</ref> The Boris Paichadze Dinamo Arena was built in 1976 and renovated in 2011. It is the home stadium of the [[Georgia national football team]] and [[FC Dinamo Tbilisi]].<ref>{{cite web |title=Press Kit |url=https://www.uefa.com/printoutfiles/competitions/uefasupercup/2015/E/E_2015790_PK.pdf |archive-url=https://web.archive.org/web/20180528214816/http://www.uefa.com/printoutfiles/competitions/uefasupercup/2015/E/E_2015790_PK.pdf |url-status=dead |archive-date=May 28, 2018 |work=[[UEFA]] |publisher=Union of European Football Associations |date=10 August 2015 |access-date=10 August 2015 }}</ref>
+
+==Teams==
+{|class="wikitable sortable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|Winners of the [[2014–15 UEFA Champions League]]
+|[[1979 European Super Cup|1979]], [[1982 European Super Cup|1982]], [[1989 European Super Cup|1989]], '''[[1992 European Super Cup|1992]]''', '''[[1997 UEFA Super Cup|1997]]''', [[2006 UEFA Super Cup|2006]], '''[[2009 UEFA Super Cup|2009]]''', '''[[2011 UEFA Super Cup|2011]]'''
+|-
+|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|Winners of the [[2014–15 UEFA Europa League]]
+|'''[[2006 UEFA Super Cup|2006]]''', [[2007 UEFA Super Cup|2007]], [[2014 UEFA Super Cup|2014]]
+|}
+
+==Match==
+
+===Summary===
+[[File:2015 UEFA Super Cup 100.jpg|thumb|[[FC Barcelona|Barcelona]] lift [[UEFA Super Cup]] after defeating [[Sevilla FC|Sevilla]] in the final.]]
+Sevilla took the lead in the third minute through a curling free kick from [[Éver Banega]], awarded for a foul on [[José Antonio Reyes]] by [[Javier Mascherano]].<ref name="uefa_report">{{cite news |title=Pedro is Barcelona's UEFA Super Cup hero again |url=https://www.uefa.com/uefasupercup/news/0250-0c51114c505d-63dadcebc3cd-1000--pedro-is-barcelona-s-uefa-super-cup-hero-again/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=11 August 2015 |access-date=12 August 2015 }}</ref> Barcelona equalised in a similar manner four minutes later, when [[Lionel Messi]] scored from a free kick following [[Grzegorz Krychowiak]]'s foul on [[Luis Suárez (Uruguayan footballer)|Luis Suárez]], and then took the lead through another Messi free kick in the 16th minute, after Banega fouled former Sevilla midfielder [[Ivan Rakitić]].<ref name="uefa_report"/> Suárez had a goal ruled out for offside shortly after, but [[Rafinha (footballer, born February 1993)|Rafinha]] made the score 3–1 to Barcelona at half time, sliding in from close range after Suárez's effort was saved by [[Beto (footballer, born 1982)|Beto]].<ref name="uefa_report"/>
+
+Suárez scored early in the second half, assisted by a pass from [[Sergio Busquets]] after the midfielder intercepted a pass in the Sevilla half, but Reyes pulled a goal back for Sevilla five minutes later, following a cross from [[Vitolo (footballer, born 1989)|Vitolo]].<ref name="uefa_report"/> In the 72nd minute, Vitolo was brought down in the Barcelona penalty area by [[Jérémy Mathieu]], and [[Kevin Gameiro]] powered home the resulting penalty kick to make the score 4–3.<ref name="uefa_report"/> With 10 minutes to play, two Sevilla substitutes combined for the equalising goal, as [[Ciro Immobile]] squared the ball across the goal area for [[Yevhen Konoplyanka]] to score.<ref name="uefa_report"/> Messi almost had a hat-trick of free kicks in the 89th minute, but his attempt hit the crossbar.<ref name="uefa_report"/>
+
+Barcelona introduced [[Pedro (footballer, born 1987)|Pedro]] in place of Mascherano at the start of the additional half-hour.<ref name="uefa_report"/> With five minutes to play in the second half of extra time, he pounced on the rebound from yet another Messi free kick to put Barcelona ahead, just as he had against [[FC Shakhtar Donetsk|Shakhtar Donetsk]] in [[2009 UEFA Super Cup|2009]].<ref name="uefa_report"/> [[Adil Rami]] had an attempt on goal from the edge of the goal area in injury time at the end of the extra period, but he missed and Barcelona won the Super Cup for a record fifth time.<ref name="uefa_report"/> With nine goals shared between the two teams, this was the highest-scoring Super Cup.<ref>{{cite news |first=Paul |last=Saffer |title=Messi, Alves among Super Cup record-breakers |url=https://www.uefa.com/uefasupercup/news/0250-0c510ba00646-f15169f40a5f-1000--messi-alves-among-super-cup-record-breakers/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=11 August 2015 |access-date=2 August 2017 }}</ref>
+
+{{clear}}
+
+===Details===
+{{Football box
+|date={{Start date|2015|8|11|df=y}}
+|time=22:45 [[Time in Georgia (country)|GET]] ([[UTC+04:00|UTC+4]])
+|team1=[[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score=5–4
+|aet=yes
+|report=https://www.uefa.com/uefasupercup/match/<!--round=2000639/match=-->2015790/
+|team2={{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1=
+*[[Lionel Messi|Messi]] {{goal|7||16}}
+*[[Rafinha (footballer, born February 1993)|Rafinha]] {{goal|44}}
+*[[Luis Suárez (Uruguayan footballer)|Suárez]] {{goal|52}}
+*[[Pedro (footballer, born 1987)|Pedro]] {{goal|115}}
+|goals2=
+*[[Éver Banega|Banega]] {{goal|3}}
+*[[José Antonio Reyes|Reyes]] {{goal|57}}
+*[[Kevin Gameiro|Gameiro]] {{goal|72|pen.}}
+*[[Yevhen Konoplyanka|Konoplyanka]] {{goal|81}}
+|stadium=[[Boris Paichadze Dinamo Arena]], [[Tbilisi]]
+|attendance=51,940<ref name="fulltime">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/SuperCup/2015/2015790_FR.pdf |website=UEFA.org |publisher=Union of European Football Associations |date=11 August 2015 |access-date=11 August 2015 }}</ref>
+|referee=[[Willie Collum]] ([[Scottish Football Association|Scotland]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _fcbarcelona1516h
+ | pattern_b  = _fcbarcelona1516home
+ | pattern_ra = _fcbarcelona1516h
+ | pattern_sh = _fcbarcelona1516h
+ | pattern_so = _fcbarcelona1516h
+ | leftarm    = 000060
+ | body       = 000060
+ | rightarm   = 000060
+ | shorts     = BB0000
+ | socks      = 062a78
+ | title      = Barcelona<ref name="lineup"/>
+}}
+|{{Football kit
+ | pattern_la = _sevfc1516h
+ | pattern_b  = _sevfc1516h
+ | pattern_ra = _sevfc1516h
+ | pattern_sh =
+ | pattern_so = _liverpool0405h
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = ffffff
+ | socks      = FF0000
+ | title      = Sevilla<ref name="lineup"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Marc-André ter Stegen]]
+|-
+|RB ||'''6''' ||{{flagicon|BRA}} [[Dani Alves]] || {{yel|120}}
+|-
+|CB ||'''3''' ||{{flagicon|ESP}} [[Gerard Piqué]]
+|-
+|CB ||'''14'''||{{flagicon|ARG}} [[Javier Mascherano]] || || {{suboff|93}}
+|-
+|LB ||'''24'''||{{flagicon|FRA|1974}} [[Jérémy Mathieu]] || {{yel|71}}
+|-
+|DM ||'''5''' ||{{flagicon|ESP}} [[Sergio Busquets]] || {{yel|117}}
+|-
+|CM ||'''4''' ||{{flagicon|CRO}} [[Ivan Rakitić]]
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Andrés Iniesta]] ([[Captain (association football)|c]]) || || {{suboff|63}}
+|-
+|RF ||'''10'''||{{flagicon|ARG}} [[Lionel Messi]]
+|-
+|CF ||'''9''' ||{{flagicon|URU}} [[Luis Suárez (Uruguayan footballer)|Luis Suárez]]
+|-
+|LF ||'''12'''||{{flagicon|BRA}} [[Rafinha (footballer, born February 1993)|Rafinha]] || || {{suboff|78}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|CHI}} [[Claudio Bravo]]
+|-
+|DF ||'''15'''||{{flagicon|ESP}} [[Marc Bartra]] || || {{subon|78}}
+|-
+|DF ||'''21'''||{{flagicon|BRA}} [[Adriano (footballer, born 1984)|Adriano]]
+|-
+|MF ||'''20'''||{{flagicon|ESP}} [[Sergi Roberto]] || || {{subon|63}}
+|-
+|FW ||'''7''' ||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]] || {{yel|94}} || {{subon|93}}
+|-
+|FW ||'''29'''||{{flagicon|ESP}} [[Sandro Ramírez|Sandro]]
+|-
+|FW ||'''31'''||{{flagicon|ESP}} [[Munir El Haddadi|Munir]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Luis Enrique]]
+|}
+|valign="top"|[[File:Barcelona vs Sevilla 2015-08-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|POR}} [[Beto (footballer, born 1982)|Beto]]
+|-
+|RB ||'''23'''||{{flagicon|ESP}} [[Coke (footballer)|Coke]] || {{yel|87}}
+|-
+|CB ||'''3''' ||{{flagicon|FRA|1974}} [[Adil Rami]]
+|-
+|CB ||'''4''' ||{{flagicon|POL}} [[Grzegorz Krychowiak]] || {{yel|14}}
+|-
+|LB ||'''2''' ||{{flagicon|FRA|1974}} [[Benoît Trémoulinas]]
+|-
+|CM ||'''7''' ||{{flagicon|DEN}} [[Michael Krohn-Dehli]] || {{yel|120}}
+|-
+|CM ||'''19'''||{{flagicon|ARG}} [[Éver Banega]] || {{yel|90+2}}
+|-
+|RW ||'''10'''||{{flagicon|ESP}} [[José Antonio Reyes]] ([[Captain (association football)|c]]) || || {{suboff|68}}
+|-
+|AM ||'''8''' ||{{flagicon|ESP}} [[Vicente Iborra]] || || {{suboff|80}}
+|-
+|LW ||'''20'''||{{flagicon|ESP}} [[Vitolo (footballer, born 1989)|Vitolo]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Kevin Gameiro]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Sergio Rico]]
+|-
+|DF ||'''25'''||{{flagicon|BRA}} [[Mariano (footballer, born 1986)|Mariano]] || || {{subon|80}}
+|-
+|MF ||'''12'''||{{flagicon|FRA|1974}} [[Gaël Kakuta]]
+|-
+|MF ||'''16'''||{{flagicon|ESP}} [[Luismi (footballer, born 1992)|Luismi]]
+|-
+|MF ||'''17'''||{{flagicon|ESP}} [[Denis Suárez]]
+|-
+|MF ||'''22'''||{{flagicon|UKR}} [[Yevhen Konoplyanka]] || || {{subon|68}}
+|-
+|FW ||'''11'''||{{flagicon|ITA}} [[Ciro Immobile]] || {{yel|92}} || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Unai Emery]]
+|}
+|}
+
+{|width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Lionel Messi]] (Barcelona)<ref name="MOTM">{{cite news |first=Andy |last=James |title=Messi thanks Tbilisi fans after Barça beat Sevilla |url=https://www.uefa.com/uefasupercup/match/2015790--barcelona-vs-sevilla/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=11 August 2015 |access-date=12 August 2015 }}</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Damien MacGraith ([[Football Association of Ireland|Republic&nbsp;of&nbsp;Ireland]])
+<br />Francis Connor ([[Scottish Football Association|Scotland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />Graham Chambers ([[Scottish Football Association|Scotland]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="referee"/>
+<br />[[Bobby Madden]] ([[Scottish Football Association|Scotland]])
+<br />[[Kevin Clancy]] ([[Scottish Football Association|Scotland]])
+|
+'''Match rules'''<ref>{{cite web |title=Regulations of the UEFA Super Cup 2015 |url=http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/24/06/02/2240602_DOWNLOAD.pdf |format=PDF |website=[[UEFA]] |publisher=Union of European Football Associations |date=1 May 2015 |url-status=dead |archive-url=https://web.archive.org/web/20151029234509/http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/24/06/02/2240602_DOWNLOAD.pdf |archive-date=29 October 2015}}</ref>
+*90 minutes
+*30 minutes of [[Extra time (association football)|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes, of which up to three may be used
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="statistic">{{cite web|url=https://www.uefa.com/newsfiles/SuperCup/2015/2015790_TS.pdf |title=Team statistics |publisher=UEFA |date=11 August 2015 |access-date=12 August 2015 |format=PDF }}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|3
+|1
+|-
+!scope=row|Total shots
+|8
+|6
+|-
+!scope=row|Shots on target
+|5
+|2
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|63%
+|37%
+|-
+!scope=row|Corner kicks
+|4
+|2
+|-
+!scope=row|Fouls committed
+|4
+|7
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="statistic"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|3
+|-
+!scope=row|Total shots
+|10
+|8
+|-
+!scope=row|Shots on target
+|3
+|3
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|57%
+|43%
+|-
+!scope=row|Corner kicks
+|1
+|2
+|-
+!scope=row|Fouls committed
+|11
+|7
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|1
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="statistic"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|6
+|3
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|68%
+|32%
+|-
+!scope=row|Corner kicks
+|3
+|0
+|-
+!scope=row|Fouls committed
+|5
+|7
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="statistic"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|5
+|4
+|-
+!scope=row|Total shots
+|24
+|17
+|-
+!scope=row|Shots on target
+|10
+|6
+|-
+!scope=row|Saves
+|2
+|5
+|-
+!scope=row|Ball possession
+|62%
+|38%
+|-
+!scope=row|Corner kicks
+|8
+|4
+|-
+!scope=row|Fouls committed
+|20
+|21
+|-
+!scope=row|Offsides
+|3
+|4
+|-
+!scope=row|Yellow cards
+|4
+|5
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Broadcasters==
+The match was shown on [[beIN Sports]] in Spain.<ref>{{cite web |url=http://www.sportsmirchi.com/barcelona-vs-sevilla-2015-uefa-super-cup-broadcast-tv-channels/ |title=Barcelona vs Sevilla 2015 UEFA Super Cup broadcast, TV Channels |publisher=Sports Mirchi }}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref>
+
+==See also==
+*[[2015–16 UEFA Champions League]]
+*[[2015–16 UEFA Europa League]]
+*[[2015–16 FC Barcelona season]]
+*[[2015–16 Sevilla FC season]]
+*[[2006 UEFA Super Cup]] – contested between same teams
+*[[Sevilla FC in European football]]
+*[[FC Barcelona in international football]]
+*[[Spanish football clubs in international competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.uefa.com/uefasupercup/history/2015/ 2015 UEFA Super Cup], UEFA.com
+
+{{UEFA Super Cup}}
+{{2015–16 in European football (UEFA)}}
+{{2015–16 European club competitions}}
+{{FC Barcelona matches}}
+{{Sevilla FC matches}}
+
+{{DEFAULTSORT:Super Cup 2015}}
+[[Category:UEFA Super Cup matches|2015]]
+[[Category:2015 in European men's continental football|Super Cup]]
+[[Category:2015–16 in Georgian football|UEFA]]
+[[Category:Sports competitions in Tbilisi]]
+[[Category:2015–16 in Spanish men's football]]
+[[Category:FC Barcelona matches]]
+[[Category:Sevilla FC matches]]
+[[Category:August 2015 sports events in Europe]]
+[[Category:2010s in Tbilisi]]
+[[Category:Spanish football clubs in international competitions]]
+[[Category:Football matches in Georgia (country)]]

@@ -1,0 +1,501 @@
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+| title                   = 2006 UEFA Cup final
+| image                   = Eindhoven2006.jpg
+| caption                 = Match programme cover
+| event                   = [[2005–06 UEFA Cup]]
+| team1                   = [[Middlesbrough F.C.|Middlesbrough]]
+| team1association        = {{fbaicon|ENG|size=30px}}
+| team1score              = 0
+| team2                   = [[Sevilla FC|Sevilla]]
+| team2association        = {{fbaicon|ESP|size=30px}}
+| team2score              = 4
+| details                 =
+| date                    = 10 May 2006
+| stadium                 = [[Philips Stadion]]
+| city                    = [[Eindhoven]]
+| man_of_the_match1a      = [[Enzo Maresca]] (Sevilla)
+| referee                 = [[Herbert Fandel]] ([[German Football Association|Germany]])
+| attendance              = 32,100<ref name="handbook"/>
+| weather                 =
+| previous                = [[2005 UEFA Cup final|2005]]
+| next                    = [[2007 UEFA Cup final|2007]]
+}}
+The '''2006 UEFA Cup final''' was a [[association football|football]] match that took place at [[Philips Stadion]] in [[Eindhoven]], Netherlands on 10 May 2006 as the culmination of the [[2005–06 UEFA Cup]]. The match was contested by [[Middlesbrough F.C.|Middlesbrough]] of England and [[Sevilla FC|Sevilla]] of Spain. Both sides were making their first appearance in a European final; it was Middlesbrough's second season of European competition, while Sevilla had more previous experience in both the UEFA Cup and the [[European Cup]]. Both sides had qualified for the competition based on their domestic league positions the previous season, and entered in the first round. To reach the final, they subsequently had to progress through the group stage and knockout rounds to reach the final. Middlesbrough eliminated [[VfB Stuttgart]], [[AS Roma|Roma]], [[FC Basel|Basel]] and [[FCSB|Steaua București]] in the knockout stages, while Sevilla beat [[FC Lokomotiv Moscow|Lokomotiv Moscow]], [[Lille OSC|Lille]], [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] and [[FC Schalke 04|Schalke 04]].
+
+In front of a crowd of 36,500, Sevilla dominated the final. They took the lead in the 27th minute, when [[Luís Fabiano]] headed in a cross from [[Dani Alves]]. Middlesbrough switched to an attacking formation in the 70th minute, but Sevilla were able to counter-attack, and doubled their advantage when [[Enzo Maresca]] scored from a rebound. Maresca scored his second six minutes later, and [[Frédéric Kanouté]] added another for Sevilla in the final minute, to make them 4–0 winners.
+
+==Background==
+The [[UEFA Cup]] was an annual football club competition organised by [[UEFA]] since 1971 for eligible European football clubs. Clubs qualified for the competition based on their performance in their national leagues and cup competitions. It was the second-tier competition of European club football, ranking below the [[UEFA Champions League]].<ref>{{cite web|url=https://www.theguardian.com/football/blog/2018/feb/14/europa-league-is-back-more-than-ever-competition-to-savour-round-of-32-arsenal|title=The Europa League is back and more than ever is a competition to savour |first=Sachin |last=Nakrani |date=14 February 2018 |access-date=11 May 2020 |archive-url=https://web.archive.org/web/20191129004712/https://www.theguardian.com/football/blog/2018/feb/14/europa-league-is-back-more-than-ever-competition-to-savour-round-of-32-arsenal |archive-date=29 November 2019 |url-status=live}}</ref> In 2009, the UEFA Cup evolved into the Europa League.<ref>{{cite web |url=https://www.telegraph.co.uk/sport/football/competitions/europa-league/5344380/Europa-League-Guide-to-Uefa-Cups-replacement-tournament.html |work=[[The Daily Telegraph]] |title=Europa League: Guide to Uefa Cup's replacement tournament |access-date=11 May 2020 |date=19 May 2009 |first=John |last=Ley |archive-url=https://web.archive.org/web/20170531010253/http://www.telegraph.co.uk/sport/football/competitions/europa-league/5344380/Europa-League-Guide-to-Uefa-Cups-replacement-tournament.html |archive-date=31 May 2017 |url-status=live |url-access=limited}}</ref>
+
+Middlesbrough had made their [[Middlesbrough F.C. in European football|first appearance in European football]] the previous season, when they were eliminated 4–2 by [[Sporting CP]] in the last-16. Sevilla's [[Sevilla FC in European football|best European season]] had also been their first, when they reached the quarter-finals of the [[1957–58 European Cup]], before suffering a heavy 10–2 aggregate loss to [[Real Madrid CF|Real Madrid]]. The two sides had never previously met. Middlesbrough qualified for the tournament due to their seventh-place finish in the [[2004–05 FA Premier League]], while Sevilla had finished sixth in the [[2004–05 La Liga]].<ref>{{cite web |url=https://www.rsssf.org/tabless/span05.html |title=Spain 2004/05 |website=[[RSSSF]] |access-date=11 May 2020}}</ref><ref name="press kit">{{cite web|url=https://www.uefa.com/printoutfiles/competitions/uefacup/2005/e/e_84102_pk.pdf |archive-url=https://web.archive.org/web/20140728001343/http://www.uefa.com/printoutfiles/competitions/UEFACup/2005/E/E_84102_PK.pdf |url-status=dead |archive-date=28 July 2014 |title=Middlesbrough FC v Sevilla FC: Match Press Kit |publisher=Union of European Football Associations (UEFA) |format=PDF |date=9 May 2006 |access-date=11 May 2020}}</ref>
+
+==Route to the final==
+
+{{further|2005–06 UEFA Cup}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ENG}} [[Middlesbrough F.C.|Middlesbrough]]
+!Round
+!colspan=4|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|-bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|Initial phase
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|GRE}} [[Xanthi F.C.|Skoda Xanthi]]
+|2–0
+|2–0 (H)
+|0–0 (A)
+|bgcolor=#cle0ff|[[2005–06 UEFA Cup first round|First round]]
+|align=left|{{fbaicon|GER}} [[1. FSV Mainz 05|Mainz 05]]
+|2–0
+|0–0 (H)
+|2–0 (A)
+|-bgcolor=#cle0ff
+|Opponent
+|colspan=3|Result
+|[[2005–06 UEFA Cup group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|SUI}} [[Grasshopper Club Zurich|Grasshopper]]
+|colspan=3|1–0 (A)
+|bgcolor=#cle0ff|Matchday 1
+|colspan=4|Bye
+|-
+|align=left|{{fbaicon|UKR|1992}} [[FC Dnipro|Dnipro Dnipropetrovsk]]
+|colspan=3|3–0 (H)
+|bgcolor=#cle0ff|Matchday 2
+|align=left|{{fbaicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|colspan=3|3–0 (H)
+|-
+|align=left|{{fbaicon|NED}} [[AZ Alkmaar|AZ]]
+|colspan=3|0–0 (A)
+|bgcolor=#cle0ff|Matchday 3
+|align=left|{{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|colspan=3|1–2 (A)
+|-
+|colspan=4|Bye
+|bgcolor=#cle0ff|Matchday 4
+|align=left|{{fbaicon|POR}} [[Vitória S.C.|Vitória de Guimarães]]
+|colspan=3|3–1 (H)
+|-
+|align=left|{{fbaicon|BUL}} [[FC Lovech|Litex Lovech]]
+|colspan=3|2–0 (H)
+|bgcolor=#cle0ff|Matchday 5
+|align=left|{{fbaicon|ENG}} [[Bolton Wanderers F.C.|Bolton Wanderers]]
+|colspan=3|1–1 (A)
+|-
+|colspan=4 align=center valign=top|'''[[2005–06 UEFA Cup group stage#Group D|Group D]] winners'''
+{{:2005–06 UEFA Cup group stage|show_matches=no|only_pld_pts=yes|transcludesection=Group D|showteam=MID}}
+|bgcolor=#cle0ff|Final standings
+|colspan=4 align=center valign=top|'''[[2005–06 UEFA Cup group stage#Group H|Group H]] winners'''
+{{:2005–06 UEFA Cup group stage|show_matches=no|only_pld_pts=yes|transcludesection=Group H|showteam=SEV}}
+|-bgcolor=#cle0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2005–06 UEFA Cup knockout stage|Knockout stage]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|GER}} [[VfB Stuttgart]]
+|2–2 ([[Away goals rule|a]])
+|2–1 (A)
+|0–1 (H)
+|bgcolor=#cle0ff|Round of 32
+|align=left|{{fbaicon|RUS}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|3–0
+|1–0 (A)
+|2–0 (H)
+|-
+|align=left|{{fbaicon|ITA|2003}} [[AS Roma|Roma]]
+|2–2 ([[Away goals rule|a]])
+|1–0 (H)
+|1–2 (A)
+|bgcolor=#cle0ff|Round of 16
+|align=left|{{fbaicon|FRA|1974}} [[Lille OSC|Lille]]
+|2–1
+|0–1 (A)
+|2–0 (H)
+|-
+|align=left|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|4–3
+|0–2 (A)
+|4–1 (H)
+|bgcolor=#cle0ff|Quarter-finals
+|align=left|{{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|5–2
+|4–1 (H)
+|1–1 (A)
+|-
+|align=left|{{fbaicon|ROU}} [[FCSB|Steaua București]]
+|4–3
+|0–1 (A)
+|4–2 (H)
+|bgcolor=#cle0ff|Semi-finals
+|align=left|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|1–0 ([[Overtime (sports)#Association football|a.e.t.]])
+|0–0 (A)
+|1–0 ([[Overtime (sports)#Association football|a.e.t.]]) (H)
+|}
+
+==Match==
+
+===Summary===
+The final was played at [[Philips Stadion]] in [[Eindhoven]], [[Netherlands]] on 10 May 2006, and kicked off at 20:45 [[Central European Summer Time|CEST]].<ref name="press kit"/> The match was attended by 36,500 people.<ref name="bbc-report">{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/europe/4751467.stm |title=Middlesbrough 0–4 Sevilla |work=[[BBC Sport]] |date=10 May 2006 |access-date=11 May 2020}}</ref> Sevilla kicked off the match, and had the first attack in the second minute: [[Dani Alves]] shot wide. Two minutes later, the Sevilla defender [[Javi Navarro (footballer, born 1974)|Javi Navarro]] fouled [[Mark Viduka]], conceding a [[Free kick (association football)|free kick]] which [[Fábio Rochemback]] struck straight at the Sevilla goalkeeper, [[Andrés Palop]]. Sevilla attacked twice more in the opening ten minutes, but on both occasions, the Middlesbrough defender [[Chris Riggott]] was able to put the ball behind for a [[corner kick]].<ref name="guard-mbm">{{cite news |url=https://www.theguardian.com/football/2006/may/10/minutebyminute.sport |title=Middlesbrough 0 – 4 Sevilla |last=Adamson |first=Mike |work=[[The Guardian]] |date=10 May 2006 |access-date=11 May 2020}}</ref> After 20 minutes, Sevilla attacked down their right wing;<ref name="espn-mbm">{{cite web |url=https://www.espn.co.uk/football/commentary?gameId=197126 |title=Middlesbrough vs. Sevilla – Football Match Commentary |work=[[ESPN FC|ESPN Soccernet]] |date=10 May 2006 |access-date=11 May 2020}}</ref> Alves had the opportunity to shoot, but passed the ball across to [[Javier Saviola]], whose shot was blocked by [[Gareth Southgate]]. Six minutes later, Sevilla attacked through Alves again. He crossed the ball to [[Luís Fabiano]] who headed the ball in off the post to give Sevilla a 1–0 lead. Three minutes later, Sevilla had another chance at goal, but [[Adriano (footballer, born 1984)|Adriano]] shot went over the crossbar. In the 34th minute, Middlesbrough won another corner, but it was easily cleared by the Sevilla defence. In the final five minutes of the first half, Sevilla pressed hard for a second goal, consistently putting crosses in the Middlesbrough penalty area. Their closest effort came when [[Julien Escudé]] headed wide from a [[José Luis Martí]] free kick, but despite their pressure, it remained 1–0 at half-time.<ref name="guard-mbm"/>
+
+Both sides made changes at half-time: Middlesbrough replaced [[James Morrison (footballer)|James Morrison]] with [[Massimo Maccarone]], while [[Frédéric Kanouté]] replaced Saviola for Sevilla. The Spanish side continued to dominate the attacking play in the second half, and had two attacks in the first five minutes: [[Luís Fabiano]] could not connect with a cross from Alves, and shortly after Kanouté curled a shot wide.<ref name="guard-mbm"/> In the 51st minute, Middlesbrough had a rare attack; a free-kick from Rochemback was headed on by Riggott for [[Mark Viduka]], who fired a shot from close-range, which was saved by Palop.<ref name="bbc-report"/> Two minutes later, Alves was booked for foul on [[Stewart Downing]]. Middlesbrough had another chance at goal in the 59th minute, when Maccarone mishit a cross, which had to stopped at the near post by Palop.<ref name="guard-mbm"/> An injury to the defender Queudrue saw him replaced in the 69th minute; the ''[[BBC Sport]]'' report said that "McClaren went for broke", by replacing him with a striker, [[Yakubu]].<ref name="bbc-report"/> Sevilla also made a change, bringing on [[Renato (footballer, born 1979)|Renato]] to replace Fabiano. Alves penetrated the Middlesbrough defence again in the 73rd minute, and forced a save from Middlesbrough's goalkeeper, [[Mark Schwarzer]]. Middlesbrough had two attacks in quick succession: Viduka missed the target in the 75th minute, and appealed for a penalty after a strong challenge from Navarro two minutes later; however, the referee, [[Herbert Fandel]], was unmoved. Sevilla went on the counter-attack directly after the appeal;<ref name="guard-mbm"/> outnumbering Middlesbrough, who had committed too many players to their attack, the ball was played wide to [[Jesús Navas]], who passed it to Kanouté. The Malian striker shot was blocked by Schwarzer, but the rebound fell to [[Enzo Maresca]], who scored to make it 2–0. Maresca scored his second six minutes later, with a low shot from 20 yards,<ref name="bbc-report"/> which ''[[The Guardian]]''{{'}}s Mike Adamson suggested Schwarzer should have saved. Both sides each made another substitution: Viduka was replaced by [[Lee Cattermole]], and [[Antonio Puerta]] replaced Adriano. In the 89th minute, a shot from Navas was palmed away by Schwarzer, and Kanouté connected with the rebound to put Sevilla 4–0 ahead.<ref name="guard-mbm"/>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2006|5|10|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Middlesbrough F.C.|Middlesbrough]] {{fbaicon|ENG}}
+|score      = 0–4
+|team2      = {{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+|goals2     =
+*[[Luís Fabiano]] {{goal|27}}
+*[[Enzo Maresca|Maresca]] {{goal|78||84}}
+*[[Frédéric Kanouté|Kanouté]] {{goal|89}}
+|stadium    = [[Philips Stadion]], [[Eindhoven]]
+|attendance = 32,100<ref name="handbook">{{cite book |location=Nyon |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |chapter=4. UEFA Cup Finals |title=UEFA Europa League Statistics Handbook 2012/13 |publisher=Union of European Football Associations |page=72 |date=28 May 2013 |access-date=27 September 2024 |url-status=dead |archive-url=https://web.archive.org/web/20130604201547/https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |archive-date=4 June 2013}}</ref>
+|referee    = [[Herbert Fandel]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/84102/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _whitehorizontal
+ | pattern_ra =
+ | leftarm    = ff0000
+ | body       = ff0000
+ | rightarm   = ff0000
+ | shorts     = ff0000
+ | socks      = ff0000
+ | title      = Middlesbrough<ref name="lineups">{{cite web |url=https://www.uefa.com/printoutfiles/competitions/uefacup/2005/E/E_84102_LU.pdf |title=Lineups – Final – Wednesday 10 May 2006 |website=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=10 May 2006 |access-date=31 May 2022 |url-status=dead |archive-url=https://web.archive.org/web/20140728001341/https://www.uefa.com/printoutfiles/competitions/uefacup/2005/E/E_84102_LU.pdf |archive-date=28 July 2014}}</ref>
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sevilla0506ef
+ | pattern_ra = 
+ | pattern_so = _whitelinel
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Sevilla<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|AUS}} [[Mark Schwarzer]]
+|-
+|RB ||'''21'''||{{flagicon|ENG}} [[Stuart Parnaby]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Chris Riggott]]
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Gareth Southgate]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||{{flagicon|FRA|1974}} [[Franck Queudrue]] || || {{suboff|70}}
+|-
+|RM ||'''25'''||{{flagicon|SCO}} [[James Morrison (footballer)|James Morrison]] || || {{suboff|46}}
+|-
+|CM ||'''10'''||{{flagicon|BRA}} [[Fábio Rochemback]] || {{yel|83}}
+|-
+|CM ||'''7''' ||{{flagicon|NED}} [[George Boateng]]
+|-
+|LM ||'''19'''||{{flagicon|ENG}} [[Stewart Downing]]
+|-
+|CF ||'''36'''||{{flagicon|AUS}} [[Mark Viduka]] || || {{suboff|85}}
+|-
+|CF ||'''9''' ||{{flagicon|NED}} [[Jimmy Floyd Hasselbaink]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|AUS}} [[Brad Jones (soccer)|Brad Jones]]
+|-
+|DF ||'''4''' ||{{flagicon|ENG}} [[Ugo Ehiogu]]
+|-
+|DF ||'''26'''||{{flagicon|ENG}} [[Matthew Bates]]
+|-
+|MF ||'''15'''||{{flagicon|ENG}} [[Ray Parlour]]
+|-
+|MF ||'''39'''||{{flagicon|ENG}} [[Lee Cattermole]] || || {{subon|85}}
+|-
+|FW ||'''18'''||{{flagicon|ITA|2003}} [[Massimo Maccarone]] || || {{subon|46}}
+|-
+|FW ||'''20'''||{{flagicon|NGA}} [[Yakubu (footballer)|Yakubu]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ENG}} [[Steve McClaren]]
+|}
+|valign="top"|[[File:Middlesbrough vs Sevilla 2006-05-10.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Andrés Palop]]
+|-
+|RB ||'''4''' ||{{flagicon|BRA}} [[Dani Alves]] || {{yel|52}}
+|-
+|CB ||'''2''' ||{{flagicon|ESP}} [[Javi Navarro (footballer, born 1974)|Javi Navarro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||{{flagicon|FRA|1974}} [[Julien Escudé]] || {{yel|81}}
+|-
+|LB ||'''3''' ||{{flagicon|ESP}} [[David Castedo]]
+|-
+|RM ||'''15'''||{{flagicon|ESP}} [[Jesús Navas]]
+|-
+|CM ||'''18'''||{{flagicon|ESP}} [[José Luis Martí]]
+|-
+|CM ||'''25'''||{{flagicon|ITA|2003}} [[Enzo Maresca]] || {{yel|85}}
+|-
+|LM ||'''16'''||{{flagicon|BRA}} [[Adriano (footballer, born 1984)|Adriano]] || || {{suboff|85}}
+|-
+|CF ||'''10'''||{{flagicon|BRA}} [[Luís Fabiano]] || || {{suboff|73}}
+|-
+|CF ||'''7''' ||{{flagicon|ARG}} [[Javier Saviola]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Antonio Notario]]
+|-
+|DF ||'''20'''||{{flagicon|ESP}} [[Aitor Ocio]]
+|-
+|MF ||'''11'''||{{flagicon|BRA}} [[Renato (footballer, born 1979)|Renato]] || || {{subon|73}}
+|-
+|MF ||'''22'''||{{flagicon|ESP}} [[Fernando Sales]]
+|-
+|MF ||'''27'''||{{flagicon|ESP}} [[Antonio Puerta]] || || {{subon|85}}
+|-
+|FW ||'''31'''||{{flagicon|ESP}} [[Kepa Blanco|Kepa]]
+|-
+|FW ||'''12'''||{{flagicon|MLI}} [[Frédéric Kanouté]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Juande Ramos]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Enzo Maresca]] (Sevilla)
+
+'''[[Assistant referee (association football)|Assistant referee]]''':
+<br />Volker Wezel ([[German Football Association|Germany]])
+<br />Carsten Kadach ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]''':
+<br />[[Florian Meyer (referee)|Florian Meyer]] ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra time if necessary
+*Penalty shoot-out if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="full time">{{cite web|url=https://www.uefa.com/printoutfiles/competitions/uefacup/2005/E/E_84102_FR.pdf |title=Full-Time Report |work=UEFA |publisher=Union of European Football Associations |format=PDF |date=10 May 2006 |access-date=28 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140728001340/https://www.uefa.com/printoutfiles/competitions/uefacup/2005/E/E_84102_FR.pdf |archive-date=28 July 2014}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Middlesbrough
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|2
+|7
+|-
+!scope=row|Shots on target
+|1
+|3
+|-
+!scope=row|Saves
+|2
+|1
+|-
+!scope=row|Ball possession
+|46%
+|54%
+|-
+!scope=row|Corner kicks
+|3
+|3
+|-
+!scope=row|Fouls committed
+|11
+|7
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Middlesbrough
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|0
+|3
+|-
+!scope=row|Total shots
+|5
+|12
+|-
+!scope=row|Shots on target
+|2
+|9
+|-
+!scope=row|Saves
+|6
+|2
+|-
+!scope=row|Ball possession
+|48%
+|52%
+|-
+!scope=row|Corner kicks
+|2
+|3
+|-
+!scope=row|Fouls committed
+|10
+|6
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|1
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Middlesbrough
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|0
+|4
+|-
+!scope=row|Total shots
+|7
+|19
+|-
+!scope=row|Shots on target
+|3
+|12
+|-
+!scope=row|Saves
+|8
+|3
+|-
+!scope=row|Ball possession
+|47%
+|53%
+|-
+!scope=row|Corner kicks
+|5
+|6
+|-
+!scope=row|Fouls committed
+|21
+|13
+|-
+!scope=row|Offsides
+|2
+|0
+|-
+!scope=row|Yellow cards
+|1
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2006 UEFA Champions League final]]
+*[[2006 UEFA Super Cup]]
+*[[Middlesbrough F.C. in European football]]
+*[[Sevilla FC in European football]]
+*[[2005–06 Middlesbrough F.C. season]]
+*[[2005–06 Sevilla FC season]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20100623152641/http://en.archive.uefa.com/competitions/uefacup/history/season=2005/intro.html 2005–06 season] at UEFA.com
+
+{{UEFA Europa League seasons}}
+{{2005–06 in European football (UEFA)}}
+{{Middlesbrough F.C. matches}}
+{{Sevilla F.C. matches}}
+
+{{DEFAULTSORT:Uefa Cup final 2006}}
+[[Category:2005–06 UEFA Cup|Final]]
+[[Category:Middlesbrough F.C. matches|Uefa Cup Final 2006]]
+[[Category:Sevilla FC matches|Uefa Cup Final 2006]]
+[[Category:UEFA Europa League finals|2006]]
+[[Category:2005–06 in Spanish men's football|Uefa Cup Final]]
+[[Category:2005–06 in English men's football|Uefa Cup Final]]
+[[Category:May 2006 sports events in Europe]]
+[[Category:21st century in Eindhoven]]
+[[Category:Spain–United Kingdom sports relations|2006]]
+[[Category:Football matches in Eindhoven]]
+[[Category:2005–06 in Dutch football]]

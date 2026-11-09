@@ -1,0 +1,45 @@
+club,factor,level,finals,wins,win_pct,ci95_lo,ci95_hi,test,p_value
+Chelsea,Referee English (vs foreign),False,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
+Chelsea,Referee English (vs foreign),True,1,1,100.0,20.7,100.0,Fisher exact (two-sided),1.0
+Chelsea,Referee nationality,Dutch,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
+Chelsea,Referee nationality,English,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
+Chelsea,Referee nationality,Italian,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
+Chelsea,Competition type,European,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
+Chelsea,Competition type,domestic,1,1,100.0,20.7,100.0,Fisher exact (two-sided),1.0
+Chelsea,Venue,Neutral venue abroad,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
+Chelsea,Venue,Wembley (London),1,1,100.0,20.7,100.0,Fisher exact (two-sided),1.0
+Chelsea,VAR in use,False,3,3,100.0,43.9,100.0,,
+Chelsea,Era (decade blocks),1996-2005,1,1,100.0,20.7,100.0,Fisher exact (two-sided),1.0
+Chelsea,Era (decade blocks),2006-2015,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
+Chelsea,Opponent English vs foreign,English,1,1,100.0,20.7,100.0,Fisher exact (two-sided),1.0
+Chelsea,Opponent English vs foreign,foreign,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
+Manchester City,Referee English (vs foreign),True,1,1,100.0,20.7,100.0,,
+Manchester City,Referee nationality,English,1,1,100.0,20.7,100.0,,
+Manchester City,Competition type,domestic,1,1,100.0,20.7,100.0,,
+Manchester City,Venue,Wembley (London),1,1,100.0,20.7,100.0,,
+Manchester City,VAR in use,False,1,1,100.0,20.7,100.0,,
+Manchester City,Era (decade blocks),2006-2015,1,1,100.0,20.7,100.0,,
+Manchester City,Opponent English vs foreign,English,1,1,100.0,20.7,100.0,,
+Manchester United,Referee English (vs foreign),False,1,1,100.0,20.7,100.0,,
+Manchester United,Referee nationality,German,1,1,100.0,20.7,100.0,,
+Manchester United,Competition type,world,1,1,100.0,20.7,100.0,,
+Manchester United,Venue,Neutral venue abroad,1,1,100.0,20.7,100.0,,
+Manchester United,VAR in use,False,1,1,100.0,20.7,100.0,,
+Manchester United,Era (decade blocks),1996-2005,1,1,100.0,20.7,100.0,,
+Manchester United,Opponent English vs foreign,foreign,1,1,100.0,20.7,100.0,,
+ALL FIVE (pooled),Referee English (vs foreign),False,3,3,100.0,43.9,100.0,Fisher exact (two-sided),1.0
+ALL FIVE (pooled),Referee English (vs foreign),True,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
+ALL FIVE (pooled),Referee nationality,Dutch,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
+ALL FIVE (pooled),Referee nationality,English,2,2,100.0,34.2,100.0,"permutation chi-square (20,000 perms)",1.0
+ALL FIVE (pooled),Referee nationality,German,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
+ALL FIVE (pooled),Referee nationality,Italian,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
+ALL FIVE (pooled),Competition type,European,2,2,100.0,34.2,100.0,"permutation chi-square (20,000 perms)",1.0
+ALL FIVE (pooled),Competition type,domestic,2,2,100.0,34.2,100.0,"permutation chi-square (20,000 perms)",1.0
+ALL FIVE (pooled),Competition type,world,1,1,100.0,20.7,100.0,"permutation chi-square (20,000 perms)",1.0
+ALL FIVE (pooled),Venue,Neutral venue abroad,3,3,100.0,43.9,100.0,Fisher exact (two-sided),1.0
+ALL FIVE (pooled),Venue,Wembley (London),2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
+ALL FIVE (pooled),VAR in use,False,5,5,100.0,56.6,100.0,,
+ALL FIVE (pooled),Era (decade blocks),1996-2005,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
+ALL FIVE (pooled),Era (decade blocks),2006-2015,3,3,100.0,43.9,100.0,Fisher exact (two-sided),1.0
+ALL FIVE (pooled),Opponent English vs foreign,English,2,2,100.0,34.2,100.0,Fisher exact (two-sided),1.0
+ALL FIVE (pooled),Opponent English vs foreign,foreign,3,3,100.0,43.9,100.0,Fisher exact (two-sided),1.0

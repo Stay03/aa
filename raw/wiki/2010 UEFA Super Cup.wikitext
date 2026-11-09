@@ -1,0 +1,380 @@
+{{Infobox football match
+| title              = 2010 UEFA Super Cup
+| image              = 2010 UEFA Super Cup programme.jpg
+| image_size         = 200px
+| caption            = Official match programme
+| team1              = [[Inter Milan]]
+| team1association   = {{fbaicon|ITA|size=30px}}
+| team1score         = 0
+| team2              = [[Atlético Madrid]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 2
+| details            =
+| date               = 27 August 2010
+| stadium            = [[Stade Louis II]]
+| city               = [[Monaco]]
+| man_of_the_match1a = [[José Antonio Reyes]] {{nowrap|(Atlético Madrid)}}<ref name="manofthematch"/>
+| referee            = [[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])<ref name="referee"/>
+| attendance         = 17,265<ref name="full_time"/>
+| weather            = Cloudy night<br />{{convert|26|°C|°F}}<br />83% [[humidity]]<ref name="line-ups"/>
+| previous           = [[2009 UEFA Super Cup|2009]]
+| next               = [[2011 UEFA Super Cup|2011]]
+}}
+The '''2010 UEFA Super Cup''' was the 35th [[UEFA Super Cup]], between the reigning champions of the two club competitions organised by the European [[association football|football]] governing body [[UEFA]]: the [[UEFA Champions League]] and the [[UEFA Europa League]]. It took place at the [[Stade Louis II]] in [[Monaco]] on 27 August 2010. It was contested by [[Inter Milan]], who won the [[2009–10 UEFA Champions League]], and [[Atlético Madrid]], who won the [[2009–10 UEFA Europa League]]. Neither side had previously competed in the UEFA Super Cup. As part of a trial that started in the 2009–10 UEFA Europa League, two extra officials – one on each goal line – were used in this match.<ref>{{cite news|title=UEFA welcomes IFAB referee trial decision |url=https://www.uefa.com/uefachampionsleague/news/0252-0ce1fa43099d-a7161bbf372c-1000--uefa-welcomes-ifab-referee-trial-decision/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=22 July 2010 |access-date=22 July 2010 |archive-url=https://web.archive.org/web/20100723003628/http://en.uefa.com/uefa/footballfirst/matchorganisation/refereeing/news/newsid%3D1506902.html |archive-date=23 July 2010 |url-status=live }}</ref>
+
+==Background==
+For the first time since [[Chelsea F.C.|Chelsea]] played [[Real Madrid CF|Real Madrid]] in [[1998 UEFA Super Cup|1998]], both teams were playing in their first UEFA Super Cup. Inter Milan reached the Super Cup as winners of the [[2009–10 UEFA Champions League]], having beaten [[FC Bayern Munich|Bayern Munich]] 2–0 in the [[2010 UEFA Champions League Final|final]] at the [[Santiago Bernabéu Stadium]] in Madrid, while Atlético Madrid beat [[Fulham F.C.|Fulham]] 2–1 in the [[2010 UEFA Europa League Final]] at the [[HSH Nordbank Arena]] in [[Hamburg]] to claim their first major European honour since the [[1962 European Cup Winners' Cup Final|1962 Cup Winners' Cup]] and their place in the Super Cup. Although the 2009–10 Champions League was not Inter's first European title, the Super Cup was not established until eight years after their last European Cup win in [[1965 European Cup Final|1965]] and the [[UEFA Europa League|UEFA Cup]] winners did not qualify for the Super Cup until after the [[UEFA Cup Winners' Cup]] was disestablished in 1999 (Inter last won the UEFA Cup in [[1998 UEFA Cup Final|1998]]); they have never won the Cup Winners' Cup. Atlético's 1962 Cup Winners' Cup win also came before the establishment of the Super Cup.<ref name="background">{{cite news|title=Debutants vie for Super Cup crown |url=https://www.uefa.com/uefasupercup/news/0250-0c50f3d8006f-1a30ddfc0e57-1000--debutants-vie-for-super-cup-crown/|work=[[UEFA]] |publisher=Union of European Football Associations |date=25 June 2010 |access-date=7 July 2010 }}</ref>
+
+Inter and Atlético Madrid had never played against each other in European competition, and both teams had exact 50% records against teams from the other's country: in 37 matches against Spanish opposition, Inter had both won and lost 13 matches, with the remaining 11 ending as draws, while Atlético had won six, lost six and drawn two matches against Italian opposition.<ref name="background"/>
+
+==Venue and ticketing==
+The [[Stade Louis II]] in [[Monaco]] has been the venue for the UEFA Super Cup every year since 1998. Built in 1985, the stadium is also the home of [[AS Monaco FC|AS Monaco]], who play in the French league system.
+
+Approximately 30% of the 18,500 seats in the stadium were reserved for fans of each of the two teams involved; these tickets were available from the two clubs.<ref>{{cite web |title=UEFA Super Cup 2010 – FAQ |url=https://www.uefa.com/MultimediaFiles/Download/competitions/Ticketing/01/49/89/28/1498928_DOWNLOAD.pdf |format=PDF |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=7 July 2010 }}</ref> Approximately 1,500 of the remaining tickets went on sale to the general public via the UEFA website on 5 July 2010; applications closed on 16 July. If the number of applications exceeds the number of tickets available, a random ballot will occur to determine ticket allocation.<ref>{{cite news|title=Apply for UEFA Super Cup tickets |url=https://www.uefa.com/uefasupercup/news/0250-0c50f4e239e0-2f30ed43474b-1000--apply-for-uefa-super-cup-tickets/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=5 July 2010 |access-date=7 July 2010 |archive-url=https://web.archive.org/web/20100708195029/http://en.uefa.com/uefasupercup/news/newsid%3D1500899.html |archive-date=8 July 2010 |url-status=live }}</ref>
+
+{{clear}}
+
+==Match==
+===Details===
+{{football box
+|date=27 August 2010
+|time=20:45 [[Central European Summer Time|CEST]]
+|team1=[[Inter Milan]] {{fbaicon|ITA}}
+|score=0–2
+|report=https://www.uefa.com/uefasupercup/match/<!--round=2000123/match=-->2002327/
+|team2={{fbaicon|ESP}} [[Atlético Madrid]]
+|goals1=
+|goals2=[[José Antonio Reyes|Reyes]] {{goal|62}}<br />[[Sergio Agüero|Agüero]] {{goal|83}}
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=17,265<ref name="full_time">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/SuperCup/2010/2002327_FR.pdf |format=PDF |work=[[UEFA]] |publisher=Union of European Football Associations |date=27 August 2010 |access-date=28 August 2010 }}</ref>
+|referee=[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])<ref name="referee">{{cite news|title=Massimo Busacca to referee UEFA Super Cup |url=https://www.uefa.com/uefasupercup/news/0250-0c50f4325fac-5438198ecc88-1000--massimo-busacca-to-referee-uefa-super-cup/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=25 August 2010 |access-date=25 August 2010 |archive-url=https://web.archive.org/web/20100826041555/http://en.uefa.com/uefa/footballfirst/matchorganisation/refereeing/news/newsid%3D1518302.html |archive-date=26 August 2010 |url-status=live }}</ref> }}
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la = _inter1011h
+|pattern_b  = _interhome2010
+|pattern_ra = _inter1011h
+|pattern_sh = _inter1011h
+|pattern_so = _inter1011A
+|leftarm    = 000000
+|body       = 000000
+|rightarm   = 000000
+|shorts     = 000000
+|socks      = FFFFFF
+|title      = Inter Milan<ref name="line-ups">{{cite web |title=Line-ups |url=https://www.uefa.com/newsfiles/SuperCup/2010/2002327_LU.pdf |format=PDF |work=[[UEFA]] |publisher=Union of European Football Associations |date=27 August 2010 |access-date=27 August 2010 }}</ref>
+}}
+|{{Football kit
+|pattern_la = _am1011h
+|pattern_b  = _AM1011H
+|pattern_ra = _am1011h
+|pattern_sh = _ned10a
+|pattern_so = _redtop
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = 0000FF
+|socks      = 0000FF
+|title      = Atlético Madrid<ref name="line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Júlio César (football goalkeeper, born 1979)|Júlio César]]
+|-
+|RB ||'''13'''||{{flagicon|BRA}} [[Maicon Sisenando|Maicon]]
+|-
+|CB ||'''25'''||{{flagicon|ARG}} [[Walter Samuel]] || {{yel|90+2}}
+|-
+|CB ||'''6''' ||{{flagicon|BRA}} [[Lúcio]]
+|-
+|LB ||'''26'''||{{flagicon|ROU}} [[Cristian Chivu]]
+|-
+|CM ||'''5''' ||{{flagicon|SRB|2004}} [[Dejan Stanković]] || || {{suboff|68}}
+|-
+|CM ||'''4''' ||{{flagicon|ARG}} [[Javier Zanetti]] ([[Captain (association football)|c]])
+|-
+|CM ||'''19'''||{{flagicon|ARG}} [[Esteban Cambiasso]]
+|-
+|AM ||'''10'''||{{flagicon|NED}} [[Wesley Sneijder]] || || {{suboff|79}}
+|-
+|AM ||'''9''' ||{{flagicon|CMR}} [[Samuel Eto'o]]
+|-
+|CF ||'''22'''||{{flagicon|ARG}} [[Diego Milito]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA}} [[Luca Castellazzi]]
+|-
+|DF ||'''2''' ||{{flagicon|COL}} [[Iván Córdoba]]
+|-
+|DF ||'''23'''||{{flagicon|ITA}} [[Marco Materazzi]]
+|-
+|MF ||'''17'''||{{flagicon|KEN}} [[McDonald Mariga]]
+|-
+|MF ||'''29'''||{{flagicon|BRA}} [[Philippe Coutinho]] || || {{subon|79}}
+|-
+|FW ||'''27'''||{{flagicon|MKD}} [[Goran Pandev]] || || {{subon|68}}
+|-
+|FW ||'''88'''||{{flagicon|FRA|1974}} [[Jonathan Biabiany]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Rafael Benítez]]
+|}
+|valign="top"|[[File:Internazionale-Atletico Madrid 2010-08-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[David de Gea]]
+|-
+|RB ||'''17'''||{{flagicon|CZE}} [[Tomáš Ujfaluši]]
+|-
+|CB ||'''21'''||{{flagicon|COL}} [[Luis Amaranto Perea|Luis Perea]]
+|-
+|CB ||'''15'''||{{flagicon|URU}} [[Diego Godín]]
+|-
+|LB ||'''18'''||{{flagicon|ESP}} [[Álvaro Domínguez (footballer, born 1989)|Álvaro Domínguez]]
+|-
+|DM ||'''12'''||{{flagicon|BRA}} [[Paulo Assunção]]
+|-
+|RW ||'''19'''||{{flagicon|ESP}} [[José Antonio Reyes]] || || {{suboff|69}}
+|-
+|AM ||'''8''' ||{{flagicon|ESP}} [[Raúl García (footballer, born 1986)|Raúl García]] || {{yel|89}}
+|-
+|LW ||'''20'''||{{flagicon|POR}} [[Simão Sabrosa|Simão]] ([[Captain (association football)|c]]) || {{yel|85}} || {{suboff|90+1}}
+|-
+|CF ||'''10'''||{{flagicon|ARG}} [[Sergio Agüero]]
+|-
+|CF ||'''7''' ||{{flagicon|URU}} [[Diego Forlán]] || || {{suboff|82}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''27'''||{{flagicon|ESP}} [[Joel Robles]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Antonio López (footballer, born 1981)|Antonio López]]
+|-
+|MF ||'''4''' ||{{flagicon|ESP}} [[Mario Suárez (footballer)|Mario Suárez]]
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Ignacio Camacho]] || || {{subon|90+1}}
+|-
+|MF ||'''9''' ||{{flagicon|ESP}} [[José Manuel Jurado]] || || {{subon|82}}
+|-
+|MF ||'''11'''||{{flagicon|ESP}} [[Fran Mérida]] || || {{subon|69}}
+|-
+|FW ||'''22'''||{{flagicon|BRA}} [[Diego Costa]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Quique Sánchez Flores]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[José Antonio Reyes]] (Atlético Madrid)<ref name="manofthematch">{{cite news|first=Kevin |last=Ashby |title=Reyes realises goal dream |url=https://www.uefa.com/uefasupercup/news/0250-0c50f4f19130-5c9480f437c7-1000--reyes-realises-goal-dream/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=27 August 2010 |access-date=28 August 2010 |quote=Named as the official man of the match, Reyes spoke with enthusiasm about the influence of coach Quique Sánchez Flores... |archive-url=https://web.archive.org/web/20100829051337/http://en.uefa.com/uefasupercup/news/newsid%3D1520426.html |archive-date=29 August 2010 |url-status=live }}</ref>
+
+'''Assistant referees:'''<ref name="referee"/>
+<br />Matthias Arnet ([[Swiss Football Association|Switzerland]])
+<br />Manuel Navarro ([[Swiss Football Association|Switzerland]])
+<br />'''Fourth official:'''<ref name="referee"/>
+<br />Sascha Kever ([[Swiss Football Association|Switzerland]])
+<br />'''Additional assistant referees:'''<ref name="referee"/>
+<br />Stéphan Studer ([[Swiss Football Association|Switzerland]])
+<br />Cyril Zimmermann ([[Swiss Football Association|Switzerland]])
+| width=55% valign=top|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Super Cup 2010 |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/50/01/40/1500140_DOWNLOAD.pdf |archive-url=https://web.archive.org/web/20100910193635/http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/50/01/40/1500140_DOWNLOAD.pdf |url-status=dead |archive-date=September 10, 2010 |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=27 August 2010 }}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes.
+*Maximum of three substitutions.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |title=Team Statistics |url=https://www.uefa.com/newsfiles/SuperCup/2010/2002327_TS.pdf |format=PDF |work=[[UEFA]] |publisher=Union of European Football Associations |date=27 August 2010 |access-date=21 May 2012 }}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Inter Milan
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|5
+|5
+|-
+!scope=row|Shots on target
+|0
+|0
+|-
+!scope=row|Saves
+|0
+|0
+|-
+!scope=row|Ball possession
+|46%
+|54%
+|-
+!scope=row|Corner kicks
+|4
+|3
+|-
+!scope=row|Fouls committed
+|6
+|8
+|-
+!scope=row|Offsides
+|3
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Inter Milan
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|0
+|2
+|-
+!scope=row|Total shots
+|6
+|7
+|-
+!scope=row|Shots on target
+|2
+|7
+|-
+!scope=row|Saves
+|5
+|1
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|5
+|1
+|-
+!scope=row|Fouls committed
+|6
+|13
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|1
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Inter Milan
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|0
+|2
+|-
+!scope=row|Total shots
+|11
+|12
+|-
+!scope=row|Shots on target
+|2
+|7
+|-
+!scope=row|Saves
+|5
+|1
+|-
+!scope=row|Ball possession
+|52%
+|48%
+|-
+!scope=row|Corner kicks
+|9
+|4
+|-
+!scope=row|Fouls committed
+|12
+|21
+|-
+!scope=row|Offsides
+|5
+|1
+|-
+!scope=row|Yellow cards
+|1
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2010–11 UEFA Champions League]]
+*[[2010–11 UEFA Europa League]]
+*[[2010–11 Atlético Madrid season]]
+*[[2010–11 Inter Milan season]]
+*[[Atlético Madrid in European football]]
+*[[Inter Milan in international football]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.uefa.com/uefasupercup/history/2010/ 2010 UEFA Super Cup], UEFA.com
+
+{{UEFA Super Cup}}
+{{2010–11 in European football (UEFA)}}
+{{Atlético Madrid matches}}
+{{F.C. Internazionale Milano matches}}
+
+{{DEFAULTSORT:UEFA Super Cup 2010}}
+[[Category:UEFA Super Cup matches|2010]]
+[[Category:2010 in Monégasque sport]]
+[[Category:2010 in European men's continental football|Super]]
+[[Category:Atlético Madrid matches|Super Cup 2010]]
+[[Category:Inter Milan matches|Super Cup 2010]]
+[[Category:2010–11 in Spanish men's football|Super]]
+[[Category:2010–11 in Italian football|Super]]
+[[Category:Football matches in Monaco]]
+[[Category:August 2010 sports events in Europe]]
+[[Category:Italy–Spain sports relations]]

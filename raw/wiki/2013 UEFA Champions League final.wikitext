@@ -1,0 +1,557 @@
+{{Short description|Football match in London, England}}
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox football match
+| title                   = 2013 UEFA Champions League final
+| image                   = [[File:2013 UEFA Champions League Final programme.jpg|250px]]
+| caption                 = Match programme cover
+| event                   = [[2012–13 UEFA Champions League]]
+| team1                   = [[Borussia Dortmund]]
+| team1association        = {{fbaicon|GER|size=30px}}
+| team1score              = 1
+| team2                   = [[FC Bayern Munich|Bayern Munich]]
+| team2association        = {{fbaicon|GER|size=30px}}
+| team2score              = 2
+| details                 = 
+| date                    = 25 May 2013
+| stadium                 = [[Wembley Stadium]]
+| city                    = [[London]]
+| man_of_the_match1a      = [[Arjen Robben]] {{nowrap|(Bayern Munich)}}<ref name="uefa_motm">{{cite news |first=Alfredo |last=Rodríguez |title=Robben: 'For a footballer, this is the peak' |url=https://www.uefa.com/uefachampionsleague/news/0250-0c5100a14050-518b978162ac-1000--robben-for-a-footballer-this-is-the-peak/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=26 May 2013 |access-date=26 May 2013 }}</ref>
+| man_of_the_match1atitle = UEFA
+| man_of_the_match1b      = [[Manuel Neuer]] {{nowrap|(Bayern Munich)}}<ref name="fans_motm">{{cite web |title=Player rater |url=http://en.uclratings.uefa.com/Game/Play/2009612 |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=26 May 2013 |archive-url=https://archive.today/20130616235723/http://en.uclratings.uefa.com/Game/Play/2009612 |archive-date=16 June 2013 |url-status=dead |df=dmy-all }}</ref>
+| man_of_the_match1btitle = Fans'
+| referee                 = [[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])<ref name="referee">{{cite news|title=Rizzoli to referee UEFA Champions League final |url=https://www.uefa.com/uefachampionsleague/news/0252-0cd39f27a4f7-7bcf26ea4765-1000--rizzoli-to-referee-uefa-champions-league-final/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=20 May 2013 |access-date=20 May 2013 |url-status=live |archive-url=https://web.archive.org/web/20130607051120/http://www.uefa.com/uefa/footballfirst/matchorganisation/refereeing/news/newsid%3D1953310.html |archive-date=7 June 2013 |df=dmy }}</ref>
+| attendance              = 86,298<ref name="fulltime"/>
+| weather                 = Sunny<br />{{convert|14|°C|°F}}<br />40% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf |title=Tactical Line-ups – Final – Saturday 25 May 2013 |website=[[UEFA]] |publisher=Union of European Football Associations |date=25 May 2013 |access-date=25 May 2013}}</ref>
+| previous                = [[2012 UEFA Champions League final|2012]]
+| next                    = [[2014 UEFA Champions League final|2014]]
+}}
+The '''2013 UEFA Champions League final''' was the final match of the [[2012–13 UEFA Champions League]], the 58th season of Europe's premier club [[Association football|football]] tournament organised by [[UEFA]], and the 21st season since it was renamed from the European Champion Clubs' Cup to the [[UEFA Champions League]].
+
+The match took place on Saturday, 25 May 2013, at [[Wembley Stadium]] in [[London]], England,<ref>{{cite news |title=New Champions League season |url=https://www.uefa.com/uefachampionsleague/news/0254-0d7e018b8e81-9db0cbfd5fed-1000--new-champions-league-season/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=26 June 2012 |access-date=23 May 2013 }}</ref> between German [[Bundesliga]] clubs [[Borussia Dortmund]] and [[FC Bayern Munich|Bayern Munich]]. In the first all-German Champions League final, Bayern won the match 2–1 with goals from [[Mario Mandžukić]] and man of the match [[Arjen Robben]] coming either side of an [[İlkay Gündoğan]] penalty for Dortmund.
+
+One week later, Bayern won the [[2013 DFB-Pokal Final|2012–13 DFB-Pokal]] and, having already won the [[2012–13 Bundesliga]], completed the [[Treble (association football)#Continental trebles|continental treble]]. As a result of their Champions League win, Bayern qualified to play against [[Chelsea F.C.|Chelsea]], the winners of the [[2012–13 UEFA Europa League]], in the [[2013 UEFA Super Cup]], and also earned the right to enter the semi-finals of the [[2013 FIFA Club World Cup]] as the [[UEFA]] representative. They would eventually go on to win both competitions.
+[[File:Le quintuplé de 2013.jpg|thumb|322x322px|The 5 trophies won by Bayern Munich in 2013 (Bundesliga, Champions League, DFB-Pokal UEFA Super Cup, FIFA Club World Cup)]]
+A viewership of 21.6 million on the German [[ZDF]] and over 360 million worldwide has been reported, making it the most watched sports broadcast of 2013.<ref>{{Cite web | url=https://www.bvb.de/ger/News/Uebersicht/Rekordquote-fuer-das-ZDF-Finale-war-meistgesehene-Sportsendung-weltweit | title=Rekordquote für das ZDF - Finale war meistgesehene Sportsendung weltweit | language=de | trans-title=Record ratings for ZDF - Finale was the most watched sports broadcast worldwide | website=www.bvb.de}}</ref>
+
+==Background==
+This was the first time in the history of the Champions League (and European Cup) that the final was contested between two German sides. There were three previous Champions League finals between two clubs from the same country: [[2000 UEFA Champions League final|2000]] (Spain), [[2003 UEFA Champions League final|2003]] (Italy), and [[2008 UEFA Champions League final|2008]] (England).<ref>{{cite web |title=Finals take domestic rivalries to international stage |url=https://www.uefa.com/uefachampionsleague/news/0209-0e9f7462adcb-70ab4221d22e-1000--finals-take-domestic-rivalries-to-international-stage/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=1 May 2013 |access-date=23 May 2013 }}</ref>
+
+It was Bayern Munich's 10th European Cup/Champions League final, third all-time behind [[Real Madrid CF|Real Madrid]] (12) and [[A.C. Milan]] (11). They won four of those finals: in [[1974 European Cup final|1974]], [[1975 European Cup final|1975]], [[1976 European Cup final|1976]], and most recently in [[2001 UEFA Champions League final|2001]].<ref>{{cite web|url=https://www.uefa.com/printoutfiles/competitions/ucl/2013/e/e_2009612_pk.pdf|archive-url=https://web.archive.org/web/20130612062343/http://www.uefa.com/printoutfiles/competitions/ucl/2013/E/E_2009612_pk.pdf|url-status=dead|archive-date=12 June 2013|title= Match Press Kit|date=24 May 2013|work=[[UEFA]]|access-date=24 May 2013 }}</ref> The 2013 final was Bayern's third final in four years; they lost in both [[2010 UEFA Champions League final|2010]] and [[2012 UEFA Champions League final|2012]] (as the first team since 1984 to reach the Final held in their home stadium), adding to previous final losses in [[1982 European Cup final|1982]], [[1987 European Cup final|1987]], and [[1999 UEFA Champions League final|1999]].<ref>{{cite web |title=Bayern's final pedigree |url=https://www.uefa.com/uefachampionsleague/news/0209-0e848f4fd51e-74684f3cb573-1000--bayern-s-final-pedigree/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=1 May 2013 |access-date=23 May 2013 }}</ref>
+
+For Dortmund, this was their second Champions League final, with them winning their first title in [[1997 UEFA Champions League final|1997]]. The next season as defending champions, they defeated Bayern in their only previous meetings in European competitions, winning 1–0 on aggregate in the [[1997–98 UEFA Champions League]] quarter-finals, before being eliminated 2–0 on aggregate in the semi-finals by Real Madrid, managed at the time by [[Jupp Heynckes]].<ref>{{cite web |title=German rivals face Wembley showdown |url=https://www.uefa.com/uefachampionsleague/news/0253-0d7f0df28034-69b2ed3c3d23-1000--german-rivals-face-wembley-showdown/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=9 May 2013 |access-date=23 May 2013 }}</ref>
+
+In 2003, Bayern provided a €2 million loan without collateral to the nearly bankrupt Dortmund which has since been repaid.<ref>{{cite web|url=http://blogs.independent.co.uk/2012/05/16/everyone-will-be-crossing-their-fingers-for-bayern-munich-and-so-they-should/ |title='Everyone will be crossing their fingers for Bayern Munich' – and so they should |work=The Independent |date=16 May 2012 |access-date=20 May 2012 |first=Kit |last=Holden |url-status=dead |archive-url=https://web.archive.org/web/20120519023147/http://blogs.independent.co.uk/2012/05/16/everyone-will-be-crossing-their-fingers-for-bayern-munich-and-so-they-should/ |archive-date=19 May 2012 }}</ref><ref>{{cite magazine |url=http://sportsillustrated.cnn.com/soccer/news/20120206/bayern-dortmund/ |archive-url=https://web.archive.org/web/20120207210025/http://sportsillustrated.cnn.com/soccer/news/20120206/bayern-dortmund/ |url-status=dead |archive-date=7 February 2012 |title=Bayern helped Dortmund avoid bankruptcy with loan |magazine=Sports Illustrated |date=6 February 2012 |access-date=20 May 2012}}</ref><ref>{{cite web |url=http://www.goal.com/en-us/news/87/germany/2012/02/06/2889828/uli-hoeness-bayern-saved-dortmund-from-bankruptcy-with-2-million- |title=Uli Hoeness: Bayern saved Dortmund from bankruptcy with 2 million euro loan |work=Goal.com |date=6 February 2012 |access-date=20 May 2012 |first=Enis |last=Koylu }}</ref> There has been a heated rivalry between Bayern and Dortmund, known in Germany as ''[[Der Klassiker]]'', which became prevalent during the 1990s. In 2011–12, Dortmund won the [[2011–12 Bundesliga|Bundesliga]] and the [[2012 DFB-Pokal Final|DFB Pokal]] with Bayern finishing runners-up in both competitions; Dortmund clinched the league title in a home match where bananas were tossed at Bayern goalkeeper [[Manuel Neuer]].<ref>{{Cite web|url=https://ca.sports.yahoo.com/blogs/soccer-dirty-tackle/borussia-dortmund-mascot-pretended-urinate-bayern-munich-bus-050611057.html|title=Borussia Dortmund's mascot pretended to urinate on Bayern Munich's bus|website=Yahoo! Sports|date=13 April 2012 }}</ref> In 2012–13, Bayern bested Dortmund for both trophies, as well as the [[2012 DFL-Supercup|DFL-Supercup]]. Just before Dortmund's Champions League semi-final, it was announced that one of their homegrown stars, [[Mario Götze]], would make a €37&nbsp;million transfer to Bayern for the upcoming 2013–14 season,<ref>{{cite web |url=https://www.theguardian.com/football/2013/apr/23/borussia-dortmund-mario-gotze-transfer |title=Borussia Dortmund feel hurt by Mario Götze transfer to Bayern Munich |work=The Guardian |date=23 April 2013 |access-date=11 July 2013 |first=Sid |last=Lowe }}</ref> a move that some felt would have put more distance between wealthy Bayern and the rest of the Bundesliga.<ref>{{cite web |url=http://www.bundesliga.com/en/liga/news/2012/0000256619.php |title=Transfer coup of the season: Mario Götze |website=bundesliga.com |date=6 June 2013 |access-date=11 July 2013 |archive-url=https://web.archive.org/web/20130712120309/http://www.bundesliga.com/en/liga/news/2012/0000256619.php |archive-date=12 July 2013 |url-status=dead |df=dmy-all }}</ref><ref>{{cite web |url=http://hereisthecity.com/2013/05/30/the-mario-gtze-transfer-a-stark-realisation-about-the-state-of-t/ |archive-url = https://archive.today/20130616235637/http://hereisthecity.com/2013/05/30/the-mario-gtze-transfer-a-stark-realisation-about-the-state-of-t/ |url-status=dead |archive-date=16 June 2013 |title=The Mario Götze transfer: A stark realisation about the state of the Bundesliga |website=hereisthecity.com |date=30 May 2013 |access-date=11 July 2013 |first=Naveenan |last=Thanendra }}</ref> The final 2012–13 Bundesliga game between the two clubs was a 1–1 draw marked by acrimony as Bayern's [[Rafinha (footballer, born 1985)|Rafinha]] was sent off for elbowing Dortmund's Jakub Blaszczykowski, sparking an argument on the touchline between Dortmund coach [[Jürgen Klopp]] and Bayern sporting director [[Matthias Sammer]].<ref>{{cite web |url=https://www.theguardian.com/football/blog/2013/may/18/mario-gotze-borussia-dortmund-bayern-munich |title=Mario Götze's move from Borussia Dortmund to Bayern Munich adds spice |work=The Guardian |date=25 May 2013 |access-date=11 July 2013 |first=Marcus |last=Christenson }}</ref> The press has used terms like 'power shift' and 'changing of the guard' after Dortmund and Bayern eliminated Spanish giants Real Madrid and Barcelona, respectively, in the Champions League semi-finals.<ref>{{cite web |url=http://www.sport360.com/football/dortmund-bayern-european-footballs-new-%E2%80%98der-klassiker%E2%80%99 |title=Dortmund-Bayern European football's new 'Der Klassiker' |website=sport360.com |date=25 May 2013 |access-date=11 July 2013 |first=James |last=Piercy |archive-url=https://web.archive.org/web/20160304083436/http://sport360.com/football/dortmund-bayern-european-footballs-new-%E2%80%98der-klassiker%E2%80%99 |archive-date=4 March 2016 |url-status=dead }}</ref><ref>{{cite web |url=http://prosoccertalk.nbcsports.com/2013/05/24/champions-league-final-preview-a-bitter-rivalry-with-much-higher-stakes/ |title=Champions League final preview: A bitter rivalry with much higher stakes |website=Pro Soccer Talk |date=24 May 2013 |access-date=11 July 2013 |first=Kyle |last=Bonne }}</ref>
+
+==Venue==
+[[File:Wembley Stadium, illuminated.jpg|thumb|[[Wembley Stadium]] has hosted the European Cup/Champions League final seven times, most recently in 2013 and 2024.]]
+
+Wembley Stadium, England's [[national stadium]] and home of the [[England national football team]], was announced as the venue of the 2013 final on 16 June 2011.<ref>{{cite web|title=2013 final: Wembley Stadium |url=http://www.uefa.com/uefachampionsleague/season=2013/final/stadium/index.html |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=6 May 2016 |archive-url=https://web.archive.org/web/20130530124501/http://www.uefa.com/uefachampionsleague/season%3D2013/final/stadium/index.html |archive-date=30 May 2013 |url-status=dead }}</ref> Having hosted the [[2011 UEFA Champions League final|2011 final]], Wembley made history for being the first stadium in the tournament's history to host the final twice in three years.<ref>{{cite news|title=Wembley to host UEFA Champions League Final 2013|url=http://www.thefa.com/TheFA/Wembley/NewsandFeatures/2011/2013-CL-160611|work=[[The Football Association]]|publisher=TheFA.com|date=16 June 2011|access-date=18 August 2011}}</ref> Discussing the short time between the two finals, [[UEFA]] President [[Michel Platini]] explained that the final would be in celebration of 150 years of the [[The Football Association|Football Association]]'s existence.<ref>{{cite news|title=Wembley, Amsterdam ArenA, Prague get 2013 finals |url=https://www.uefa.com/news-media/news/0250-0c50f416ad08-db9153f27513-1000--wembley-amsterdam-arena-prague-get-2013-finals/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=16 June 2011 |access-date=16 June 2011 |url-status=live |archive-url=https://web.archive.org/web/20110618072033/http://www.uefa.com/uefa/aboutuefa/organisation/executivecommittee/news/newsid%3D1644074.html |archive-date=18 June 2011 }}</ref> It was the seventh occasion that Wembley hosted the final after hosting the [[1963 European Cup final|1963]], [[1968 European Cup final|1968]], [[1971 European Cup final|1971]], [[1978 European Cup final|1978]], [[1992 European Cup final|1992]] and the [[2011 UEFA Champions League final|2011]] finals of Europe's premier club competition.<ref>{{cite web |title=Wembley's magnificent seventh |url=http://www.uefa.com/uefachampionsleague/season=2013/final/previousfinalsincity/index.html |archive-url=https://web.archive.org/web/20130322073419/http://www.uefa.com/uefachampionsleague/season=2013/final/previousfinalsincity/index.html |url-status=dead |archive-date=22 March 2013 |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=1 May 2013 }}</ref>
+
+The [[Wembley Stadium (1923)|original Wembley Stadium]] hosted five European Cup finals. The [[1968 European Cup final|1968]] and [[1978 European Cup final|1978]] finals were both won by English sides: [[Manchester United F.C.|Manchester United]] beat [[S.L. Benfica|Benfica]] 4–1 in 1968 and [[Liverpool F.C.|Liverpool]] defeated [[Club Brugge KV|Club Brugge]] 1–0 in 1978. Benfica also lost in the [[1963 European Cup final|1963 final]], beaten 2–1 by [[A.C. Milan]], while [[AFC Ajax|Ajax]] won the first of three consecutive European Cups at Wembley in [[1971 European Cup final|1971]], beating [[Panathinaikos F.C.|Panathinaikos]] 2–0. In the [[1992 European Cup final|1992 final]], Spanish club [[FC Barcelona|Barcelona]] defeated Italian side [[UC Sampdoria|Sampdoria]] 1–0 in the final match played as the European Cup prior to the following season's introduction of the current Champions League format.
+
+First opened for the [[British Empire Exhibition]] in 1923, the stadium was originally known as the Empire Stadium. That year, it hosted its [[1923 FA Cup Final|first FA Cup Final]], when almost 200,000 spectators attempted to watch the match between [[Bolton Wanderers F.C.|Bolton Wanderers]] and [[West Ham United F.C.|West Ham United]]. Wembley played host to all of [[England national football team|England]]'s matches at the [[1966 FIFA World Cup]], including the 4–2 victory over [[Germany national football team|West Germany]] in the [[1966 FIFA World Cup Final|final]], and at [[UEFA Euro 1996]]. The original stadium was closed in 2000 and demolished three years later, to be replaced by a 90,000-capacity stadium, which opened in 2007.<ref>{{cite news |title=Wembley returns to centre stage |url=https://www.uefa.com/uefachampionsleague/news/01d5-0e70c9e75e03-e82d6a4e7427-1000--wembley-returns-to-centre-stage/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=30 January 2009 |access-date=24 March 2010 }}</ref> The new stadium hosted the [[2011 UEFA Champions League final]], which pitted [[FC Barcelona|Barcelona]] against [[Manchester United F.C.|Manchester United]] in a re-match of the final played two years previously. Barcelona claimed their fourth European title as they ran out 3–1 winners.
+
+==Route to the final==
+{{further|2012–13 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|GER}} [[Borussia Dortmund]]
+!Round
+!colspan=4|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[2012–13 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#Borussia Dortmund v Ajax|1–0]] (H)
+|style="background:#c1e0ff"|Matchday 1
+|align=left|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#Bayern Munich v Valencia|2–1]] (H)
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#Manchester City v Borussia Dortmund|1–1]] (A)
+|style="background:#c1e0ff"|Matchday 2
+|align=left|{{fbaicon|BLR}} [[FC BATE Borisov|BATE Borisov]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#BATE Borisov v Bayern Munich|1–3]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#Borussia Dortmund v Real Madrid|2–1]] (H)
+|style="background:#c1e0ff"|Matchday 3
+|align=left|{{fbaicon|FRA|1974}} [[Lille OSC|Lille]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#Lille v Bayern Munich|1–0]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#Real Madrid v Borussia Dortmund|2–2]] (A)
+|style="background:#c1e0ff"|Matchday 4
+|align=left|{{fbaicon|FRA|1974}} [[Lille OSC|Lille]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#Bayern Munich v Lille|6–1]] (H)
+|-
+|align=left|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#Ajax v Borussia Dortmund|4–1]] (A)
+|style="background:#c1e0ff"|Matchday 5
+|align=left|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#Valencia v Bayern Munich|1–1]] (A)
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#Borussia Dortmund v Manchester City|1–0]] (H)
+|style="background:#c1e0ff"|Matchday 6
+|align=left|{{fbaicon|BLR}} [[FC BATE Borisov|BATE Borisov]]
+|colspan=3|[[2012–13 UEFA Champions League group stage#Bayern Munich v BATE Borisov|4–1]] (H)
+|-
+|colspan=4 valign=top|'''[[2012–13 UEFA Champions League group stage#Group D|Group D]] winners'''
+{{:2012–13 UEFA Champions League group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=no|showteam=DOR}}
+|style="background:#c1e0ff"|Final standings
+|colspan=4 valign=top|'''[[2012–13 UEFA Champions League group stage#Group F|Group F]] winners'''
+{{:2012–13 UEFA Champions League group stage|transcludesection=Group F|only_pld_pts=yes|show_matches=no|showteam=BAY}}
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2012–13 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|5–2
+|[[2012–13 UEFA Champions League knockout phase#Shakhtar Donetsk v Borussia Dortmund|2–2]] (A)
+|[[2012–13 UEFA Champions League knockout phase#Borussia Dortmund v Shakhtar Donetsk|3–0]] (H)
+|style="background:#c1e0ff"|Round of 16
+|align=left|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|3–3 ([[Away goals rule|a]])
+|[[2012–13 UEFA Champions League knockout phase#Arsenal v Bayern Munich|3–1]] (A)
+|[[2012–13 UEFA Champions League knockout phase#Bayern Munich v Arsenal|0–2]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Málaga CF|Málaga]]
+|3–2
+|[[2012–13 UEFA Champions League knockout phase#Málaga v Borussia Dortmund|0–0]] (A)
+|[[2012–13 UEFA Champions League knockout phase#Borussia Dortmund v Málaga|3–2]] (H)
+|style="background:#c1e0ff"|Quarter-finals
+|align=left|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|4–0
+|[[2012–13 UEFA Champions League knockout phase#Bayern Munich v Juventus|2–0]] (H)
+|[[2012–13 UEFA Champions League knockout phase#Juventus v Bayern Munich|2–0]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|4–3
+|[[2012–13 UEFA Champions League knockout phase#Borussia Dortmund v Real Madrid|4–1]] (H)
+|[[2012–13 UEFA Champions League knockout phase#Real Madrid v Borussia Dortmund|0–2]] (A)
+|style="background:#c1e0ff"|Semi-finals
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|7–0
+|[[2012–13 UEFA Champions League knockout phase#Bayern Munich v Barcelona|4–0]] (H)
+|[[2012–13 UEFA Champions League knockout phase#Barcelona v Bayern Munich|3–0]] (A)
+|}
+
+==Pre-match==
+
+===Ambassador===
+The two-time Champions League winner and ex-England international [[Steve McManaman]] was appointed as the official ambassador for the final.<ref>{{cite web |title=Ambassador: Steve McManaman |url=http://www.uefa.com/uefachampionsleague/season=2013/final/ambassador/index.html |archive-url=https://web.archive.org/web/20120902231457/http://www.uefa.com/uefachampionsleague/season=2013/final/ambassador/index.html |url-status=dead |archive-date=2 September 2012 |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=1 May 2013 }}</ref>
+
+===Officials===
+In May 2013, Italian [[referee (association football)|referee]] [[Nicola Rizzoli]] was selected to supervise the final. He was joined by compatriots Renato Faverani and Andrea Stefani as [[assistant referee (association football)|assistant referees]], [[Gianluca Rocchi]] and [[Paolo Tagliavento]] as [[assistant referee (association football)#Additional assistant referee|additional assistant referees]], Gianluca Cariolato as [[assistant referee (association football)#Fifth official and reserve assistant referee|reserve assistant referee]], and Slovenian [[Damir Skomina]] as [[assistant referee (association football)#Fourth official|fourth official]].<ref name="referee"/>
+
+===Opening ceremony===
+[[File:Eröffnungszeremonie Wembley 2013.jpg|thumb|left|The 2013 Champions League final opening ceremony.]]
+
+The [[opening ceremony]] was directed by [[Kevin Spacey]]'s executive assistant and [[The Prince's Trust]] ambassador Hamish Jenkinson and his business partner Jonny Grant, who had previously directed the 2011 opening ceremony, also at Wembley. The ceremony, also titled "Battle of Kings", was produced by Films United. It was directed and produced by [[Grigorij Richters]] and his producing partner Alex Souabni. Both were the former filmmakers-in-residence of [[Kevin Spacey]] and Jenkinson at [[The Old Vic Theatre]] in [[London]]. The film focused around the story of [[activist]] and [[fundraiser]] [[Stephen Sutton]], who was part of the group of performers.<ref>{{Cite web |url=http://www.caboodlecollective.com/sites/default/files/Irresistible%20Case%20Study.pdf |title=Irresistible Films Case Study |access-date=14 June 2014 |archive-url=https://web.archive.org/web/20140714120031/http://www.caboodlecollective.com/sites/default/files/Irresistible%20Case%20Study.pdf |archive-date=14 July 2014 |url-status=dead |df=dmy-all }}</ref><ref>{{Cite web|url=https://www.pandemoniumdrummers.co.uk/2013/05/champions-league-final-2013-at-wembley.html|title=Champion's League Final 2013 at Wembley Stadium}}</ref>
+
+===Match ball===
+The match ball for the final was the Adidas Finale Wembley, which featured the same "Starball" panel configuration as the last three finals. The ball was predominantly white, with each star in blue with yellow patterning and a purple border. Six of the 12 stars featured designs recalling the six previous times that the European Cup final had been held at Wembley Stadium. The ball was unveiled on 30 January 2013 and was used for all knockout stage matches in the 2012–13 competition.<ref>{{cite news |title=Final match ball marks past Wembley showpieces |url=https://www.uefa.com/uefachampionsleague/news/0205-0e13e5e621da-9b449b2d14bd-1000--final-match-ball-marks-past-wembley-showpieces/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=30 January 2013 |access-date=26 May 2013 }}</ref>
+
+===Ticketing===
+[[File:BVB-Fans in Wembley.jpg|thumb|Borussia Dortmund fans in Wembley before kick-off]]
+
+The international ticket sales phase for the general public ran from 11 February to 15 March 2013.<ref>{{cite web |title=Champions League final tickets: London 2013 |url=http://www.uefa.com/uefachampionsleague/season=2013/final/tickets/index.html |archive-url=https://web.archive.org/web/20121214164251/http://www.uefa.com/uefachampionsleague/season=2013/final/tickets/index.html |url-status=dead |archive-date=14 December 2012 |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=1 May 2013 }}</ref> Tickets were available in four price categories: [[Pound sterling|£]]330, £230, £140, and £60. Due to the high demand for tickets, allocation was determined by a lottery.<ref>{{cite news |title=UEFA Champions League final ticket sales over |url=https://www.uefa.com/uefachampionsleague/news/0207-0e83e836b498-5ed43ed3190a-1000--uefa-champions-league-final-ticket-sales-over/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=15 March 2013 |access-date=26 May 2013 }}</ref>
+
+The two finalist clubs were allocated 25,000 tickets each. Borussia Dortmund received 502,567 requests for tickets,<ref name=borussiatickets>{{cite news|title=BVB-Wahnsinn: 502.567 Ticketanfragen für Wembley|url=https://www.kicker.de/bvb-wahnsinn_502-567-ticketanfragen-fuer-wembley-585792/artikel|access-date=6 May 2013|newspaper=kicker|date=6 May 2013|language=de}}</ref> while there were approximately 250,000 orders for tickets from members of Bayern Munich.<ref name=bayerntickets>{{cite news|title=German footie fans bid for Wembley CL tickets|url=http://www.thelocal.de/sport/20130507-49577.html|access-date=7 May 2013|newspaper=[[The Local]]|date=7 May 2013}}</ref> Both clubs used draws as a means of awarding tickets.<ref name=borussiatickets/><ref name=bayerntickets/>
+
+===Related events===
+As is the annual custom, the UEFA Champions League and UEFA Women's Champions League trophies were presented to the host city at a special ceremony at [[Banqueting House, Whitehall]], on 19 April 2013. Receiving the trophies from UEFA President [[Michel Platini]] were the [[Minister for Sport and the Olympics]] [[Hugh Robertson (politician)|Hugh Robertson]] and the [[Mayor of London]]'s commissioner for sport, [[Kate Hoey]]. Representing the previous season's competition winners were [[John Terry]], [[Frank Lampard]], [[Petr Čech]], [[Fernando Torres]] and [[Branislav Ivanović]] of [[Chelsea F.C.|Chelsea]], and [[Lotta Schelin]] of the [[Olympique Lyonnais (Ladies)|Lyon]] ladies' team. Also in attendance were final ambassadors [[Graeme Le Saux]] and [[Faye White]], who had escorted the trophies from [[Stamford Bridge (stadium)|Stamford Bridge]] to Banqueting House via London's public transport system, and [[David Bernstein (executive)|David Bernstein]], the chairman of [[The Football Association]].<ref>{{cite news |first=Andrew |last=Haslam |title=Champions League trophies handed to London |url=https://www.uefa.com/uefachampionsleague/news/025a-0ea90f5e213f-c3d9a5a8d00c-1000--champions-league-trophies-handed-to-london/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=19 April 2013 |access-date=26 May 2013 }}</ref>
+
+The UEFA Champions Festival was held at the International Quarter, [[Stratford City]], next to the [[Olympic Park, London|Queen Elizabeth Olympic Park]], from 23 to 26 May 2013.<ref>{{cite web |title=Home of the London Games hosts 23–26 May event |url=http://www.uefa.com/uefachampionsleague/season=2013/final/championsfestival/index.html |archive-url=https://web.archive.org/web/20130311160256/http://www.uefa.com/uefachampionsleague/season=2013/final/championsfestival/index.html |url-status=dead |archive-date=11 March 2013 |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=1 May 2013 }}</ref>
+
+The [[2013 UEFA Women's Champions League final]] was held at [[Stamford Bridge (stadium)|Stamford Bridge]] on 23 May 2013 between [[VfL Wolfsburg (women)|Wolfsburg]] and [[Olympique Lyonnais (ladies)|Lyon]]. Wolfsburg won the game, with [[Martina Müller (footballer)|Martina Müller]] scoring the only goal. This ensured that for the first time ever the same nation won both the men's and women's European club titles in the same year.<ref>{{cite web|url=https://www.uefa.com/womenschampionsleague/news/0252-0ce4323e5dd3-e3a5721214ac-1000--wolfsburg-restore-german-dominance/|title=Wolfsburg restore German dominance|publisher=[[UEFA]]|date=24 May 2013}}</ref>
+
+===Team selection===
+Borussia Dortmund's [[Mario Götze]], who would join Bayern Munich in the summer, missed the match with a hamstring injury that had kept him out since the semi-final second leg against Real Madrid. Right-back [[Łukasz Piszczek]] did play, however, despite being due for hip surgery, while centre-back [[Mats Hummels]] recovered from a sprained ankle in time to play.<ref>{{cite news |title=Champions League: Dortmund confident Mats Hummels will be fit |url=https://www.bbc.co.uk/sport/football/22594080 |work=BBC Sport |publisher=British Broadcasting Corporation |date=20 May 2013 |access-date=27 May 2013 }}</ref> Bayern Munich were without defender [[Holger Badstuber]], who was expected to be out for 10 months with a knee injury,<ref>{{cite news |title=Champions League final: Mario Gotze ruled out with injury |url=https://www.bbc.co.uk/sport/football/22540468 |work=BBC Sport |publisher=British Broadcasting Corporation |date=23 May 2013 |access-date=23 May 2013 }}</ref> and [[Toni Kroos]], who had yet to recover from an injury sustained in the quarter-final.<ref>{{cite web|url=https://sports.yahoo.com/news/champions-league-final-preview-borussia-115600896--sow.html|title=Champions League Final Preview: Borussia Dortmund – Bayern Munich|publisher=[[Yahoo!|Yahoo! Sports]]|date=24 May 2013|access-date=30 May 2013|archive-date=5 March 2016|archive-url=https://web.archive.org/web/20160305073156/http://sports.yahoo.com/news/champions-league-final-preview-borussia-115600896--sow.html|url-status=dead}}</ref>
+
+==Match==
+
+===Summary===
+Dortmund were the dominant team in the first half-hour of the match, pressing Bayern intensely. [[Manuel Neuer]] made five important saves in the first 35 minutes, including two from shots by [[Robert Lewandowski]] and one from [[Marco Reus]]. Despite this dominance, Dortmund failed to generate many dangerous attacks, as Neuer's only difficult save came when [[Jakub Błaszczykowski]] volleyed a cross toward Neuer's near post, which the Bayern keeper deflected out for a corner. A [[Mario Mandžukić]] header forced a save from [[Roman Weidenfeller]] and [[Javi Martínez]] put a header from the ensuing corner just over the bar. The first half was an open affair; while Dortmund dominated the early stages, Bayern were still able to generate several chances through [[Arjen Robben]], who forced Weidenfeller into three saves in the first half. Dortmund were able to generate many of their chances due to uncharacteristically poor play from [[Philipp Lahm]], who gave the ball back to Dortmund in his own half on two occasions.<ref name=bbcreport/>
+
+Bayern later took the initiative and scored the first goal in the 60th minute, when Robben and [[Franck Ribéry]] combined to set up Mandžukić for a left-footed finish, the ball going past [[Marcel Schmelzer]] on the goal line from three yards out.<ref name=bbcreport/> Shortly after, [[Dante (footballer)|Dante]] raised his foot in the penalty area and caught Reus in the stomach; [[İlkay Gündoğan]] scored the resulting penalty, shooting low into the left corner and sending Neuer the wrong way. Bayern had a chance to re-take the lead several moments later, when [[Thomas Müller]] rounded Weidenfeller and attempted to find Robben, with the ball rolling towards the open goal, only for [[Neven Subotić]] to make a last ditch clearance off the line, preventing a tap-in from Robben.<ref name=bbcreport/> Late in the match, Bayern seemed the more likely to score, as [[David Alaba]] forced Weidenfeller into a save with a shot from long range. Moments later, a through-ball from Robben caught the Dortmund defence cold, resulting in Bayern having Müller and Mandžukić in a two-on-one with Weidenfeller. Subotić again came to Dortmund's rescue, as he was able to catch up and pressure Müller into playing a poor pass, which left Mandžukić with a tight angle, and the Croatian blasted into the side netting. With a minute left in normal time, Ribéry played in Robben with a back-heeled pass; the Dutch forward burst past the defence and scuffed a weak, low shot past the onrushing Weidenfeller with his left foot from eight yards out for the winning goal.<ref name=bbcreport>{{cite news |first=Phil |last=McNulty |title=Borussia Dortmund 1–2 Bayern Munich |url=https://www.bbc.com/sport/0/football/22540468 |work=BBC Sport |publisher=British Broadcasting Corporation |date=25 May 2013 |access-date=26 May 2013 }}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2013|5|25|df=y}}
+|time       = {{CEST|20:45|localtz=BST}}<!--20:45 CEST, 19:45 BST-->
+|team1      = [[Borussia Dortmund]] {{fbaicon|GER}}
+|score      = 1–2
+|team2      = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+*[[İlkay Gündoğan|Gündoğan]] {{goal|68|pen.}}
+|goals2     =
+*[[Mario Mandžukić|Mandžukić]] {{goal|60}}
+*[[Arjen Robben|Robben]] {{goal|89}}
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 86,298<ref name="fulltime">{{cite web |title=Full-time report |url=https://www.uefa.com/newsfiles/UCL/2013/2009612_FR.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=25 May 2013 |access-date=25 May 2013 }}</ref>
+|referee    = [[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2009612/
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _bvb_1213ch
+| pattern_ra = 
+| pattern_sh = _pumaonblack2012
+| pattern_so = _bvb_1213h
+| leftarm    = FFFF00
+| body       = FFFF00
+| rightarm   = FFFF00
+| shorts     = FFFF00
+| socks      = FFFF00
+| title      = {{nowrap|Borussia Dortmund}}<ref name="lineups"/>
+}}
+|{{Football kit
+| pattern_la = _FCBAYERN_1314h
+| pattern_b  = _FCBAYERN_1314h
+| pattern_ra = _FCBAYERN_1314h
+| pattern_sh = _FCBAYERN_1314h
+| pattern_so = _FCBAYERN_1314h
+| leftarm    = DD0000
+| body       = DD0000
+| rightarm   = DD0000
+| shorts     = DD0000
+| socks      = DD0000
+| title      = {{nowrap|Bayern Munich}}<ref name="lineups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Roman Weidenfeller]] ([[Captain (association football)|c]])
+|-
+|RB ||'''26'''||{{flagicon|POL}} [[Łukasz Piszczek]]
+|-
+|CB ||'''4''' ||{{flagicon|SRB}} [[Neven Subotić]]
+|-
+|CB ||'''15'''||{{flagicon|GER}} [[Mats Hummels]]
+|-
+|LB ||'''29'''||{{flagicon|GER}} [[Marcel Schmelzer]]
+|-
+|CM ||'''6''' ||{{flagicon|GER}} [[Sven Bender]] || || {{suboff|90+2}}
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[İlkay Gündoğan]]
+|-
+|RW ||'''16'''||{{flagicon|POL}} [[Jakub Błaszczykowski]] || || {{suboff|90}}
+|-
+|AM ||'''11'''||{{flagicon|GER}} [[Marco Reus]]
+|-
+|LW ||'''19'''||{{flagicon|GER}} [[Kevin Großkreutz]] || {{yel|73}}
+|-
+|CF ||'''9''' ||{{flagicon|POL}} [[Robert Lewandowski]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''20'''||{{flagicon|AUS}} [[Mitchell Langerak]]
+|-
+|DF ||'''27'''||{{flagicon|BRA}} [[Felipe Santana]]
+|-
+|MF ||'''5''' ||{{flagicon|GER}} [[Sebastian Kehl]]
+|-
+|MF ||'''7''' ||{{flagicon|GER}} [[Moritz Leitner]]
+|-
+|MF ||'''18'''||{{flagicon|TUR}} [[Nuri Şahin]] || || {{subon|90+2}}
+|-
+|MF ||'''21'''||{{flagicon|GER}} [[Oliver Kirch]]
+|-
+|FW ||'''23'''||{{flagicon|GER}} [[Julian Schieber]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Jürgen Klopp]]
+|}
+|valign="top"|[[File:Borussia Dortmund vs Bayern Munich 2013-05-25.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Manuel Neuer]]
+|-
+|RB ||'''21'''||{{flagicon|GER}} [[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|CB ||'''17'''||{{flagicon|GER}} [[Jérôme Boateng]]
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Dante (footballer)|Dante]] || {{yel|29}}
+|-
+|LB ||'''27'''||{{flagicon|AUT}} [[David Alaba]]
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Javi Martínez]]
+|-
+|CM ||'''31'''||{{flagicon|GER}} [[Bastian Schweinsteiger]]
+|-
+|RW ||'''10'''||{{flagicon|NED}} [[Arjen Robben]]
+|-
+|AM ||'''25'''||{{flagicon|GER}} [[Thomas Müller]]
+|-
+|LW ||'''7''' ||{{flagicon|FRA|1974}} [[Franck Ribéry]] || {{yel|73}} || {{suboff|90+1}}
+|-
+|CF ||'''9''' ||{{flagicon|CRO}} [[Mario Mandžukić]] || || {{suboff|90+4}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|GER}} [[Tom Starke]]
+|-
+|DF ||'''5''' ||{{flagicon|BEL}} [[Daniel Van Buyten]]
+|-
+|MF ||'''11'''||{{flagicon|SUI}} [[Xherdan Shaqiri]]
+|-
+|MF ||'''30'''||{{flagicon|BRA}} [[Luiz Gustavo]] || || {{subon|90+1}}
+|-
+|MF ||'''44'''||{{flagicon|UKR}} [[Anatoliy Tymoshchuk]]
+|-
+|FW ||'''14'''||{{flagicon|PER|football}} [[Claudio Pizarro]]
+|-
+|FW ||'''33'''||{{flagicon|GER}} [[Mario Gómez]] || || {{subon|90+4}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Jupp Heynckes]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''UEFA Man of the Match:'''
+<br />[[Arjen Robben]] (Bayern Munich)<ref name="uefa_motm"/>
+<br />'''Fans' Man of the Match:'''
+<br />[[Manuel Neuer]] (Bayern Munich)<ref name="fans_motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Renato Faverani ([[Italian Football Federation|Italy]])
+<br />Andrea Stefani ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="referee"/>
+<br />[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+<br />[[Paolo Tagliavento]] ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="referee"/>
+<br />Gianluca Cariolato ([[Italian Football Federation|Italy]])
+|style="width:60%; vertical-align:top"|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Champions League 2012/13 |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/79/68/69/1796869_DOWNLOAD.pdf |archive-url=https://web.archive.org/web/20120708134514/http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/79/68/69/1796869_DOWNLOAD.pdf |url-status=dead |archive-date=8 July 2012 |work=[[UEFA]] |publisher=Union of European Football Associations |location=Nyon   |access-date=1 June 2012 |date=March 2012}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |title=Team statistics |url=https://www.uefa.com/newsfiles/UCL/2013/2009612_TS.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=25 May 2013 |access-date=25 May 2013 }}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Borussia Dortmund
+!scope="col" style="width:70px"|Bayern Munich
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|7
+|5
+|-
+!scope=row|Shots on target
+|5
+|3
+|-
+!scope=row|Saves
+|3
+|5
+|-
+!scope=row|Ball possession
+|40%
+|60%
+|-
+!scope=row|Corner kicks
+|5
+|3
+|-
+!scope=row|Fouls committed
+|5
+|2
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Borussia Dortmund
+!scope="col" style="width:70px"|Bayern Munich
+|-
+!scope=row|Goals scored
+|1
+|2
+|-
+!scope=row|Total shots
+|5
+|9
+|-
+!scope=row|Shots on target
+|3
+|6
+|-
+!scope=row|Saves
+|4
+|1
+|-
+!scope=row|Ball possession
+|44%
+|56%
+|-
+!scope=row|Corner kicks
+|1
+|5
+|-
+!scope=row|Fouls committed
+|6
+|5
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Borussia Dortmund
+!scope="col" style="width:70px"|Bayern Munich
+|-
+!scope=row|Goals scored
+|1
+|2
+|-
+!scope=row|Total shots
+|12
+|14
+|-
+!scope=row|Shots on target
+|8
+|9
+|-
+!scope=row|Saves
+|7
+|6
+|-
+!scope=row|Ball possession
+|42%
+|58%
+|-
+!scope=row|Corner kicks
+|6
+|8
+|-
+!scope=row|Fouls committed
+|11
+|7
+|-
+!scope=row|Offsides
+|1
+|4
+|-
+!scope=row|Yellow cards
+|1
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+Borussia Dortmund's manager Jürgen Klopp commented that the long season caught up with Dortmund. "It was late in the game and from the 75th minute it was very hard for us after a tough season, but we deserved to be in the final and we showed that tonight" he said.<ref>{{cite web|url= https://www.theguardian.com/football/2013/may/25/champions-league-final-quotes|title=Borussia Dortmund's Jürgen Klopp rues Bayern Munich's late winner|date=25 May 2013|work=Guardian UK|access-date=11 June 2013 }}</ref>
+Borussia Dortmund defender Mats Hummels said the game was really close and very disappointing, and that they were the better team in the first 25 minutes but missed the goal that was needed.<ref>{{cite web|url= https://www.telegraph.co.uk/sport/football/competitions/champions-league/10080988/Borussia-Dortmund-1-Bayern-Munich-2-match-report.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/competitions/champions-league/10080988/Borussia-Dortmund-1-Bayern-Munich-2-match-report.html |archive-date=12 January 2022 |url-access=subscription |url-status=live|title=Borussia Dortmund 1 Bayern Munich 2: match report|date=26 May 2013|work=Daily Telegraph|access-date=11 June 2013 }}{{cbignore}}</ref>
+Bayern Munich's manager Jupp Heynckes said that "We have achieved something unique".<ref>{{cite web|url= https://www.theguardian.com/football/2013/may/26/bayern-munich-jupp-heynckes-borussia-dortmund|title=Bayern Munich's Jupp Heynckes: 'We have achieved something unique'|date=25 May 2013|work=Guardian UK|access-date=11 June 2013 }}</ref>
+
+==See also==
+{{portal|London}}
+*[[2013 UEFA Women's Champions League final]]
+*[[2013 UEFA Europa League final]]
+*[[2012–13 Borussia Dortmund season]]
+*[[2012–13 FC Bayern Munich season]]
+*[[Borussia Dortmund in international football]]
+*[[FC Bayern Munich in international football]]
+*[[German football clubs in European competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20120528191346/http://www.uefa.com/uefachampionsleague/season=2013/index.html 2012–13 UEFA Champions League], UEFA.com
+*[https://web.archive.org/web/20120528173727/http://www.uefa.com/uefachampionsleague/season=2013/final/index.html 2013 final: Wembley], UEFA.com
+
+{{UEFA Champions League seasons}}
+{{2012–13 in European football (UEFA)}}
+{{2012–13 in German football}}
+{{Borussia Dortmund matches}}
+{{FC Bayern Munich matches}}
+
+{{DEFAULTSORT:UEFA Champions League final}}
+[[Category:2012–13 UEFA Champions League|Final]]
+[[Category:UEFA Champions League finals|2013]]
+[[Category:Borussia Dortmund matches]]
+[[Category:FC Bayern Munich matches]]
+[[Category:2012–13 in German football]]
+[[Category:2012–13 in English men's football]]
+[[Category:2013 in sport in London]]
+[[Category:Football matches in London]]
+[[Category:Men's football finals in England]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:Der Klassiker matches]]
+[[Category:May 2013 sports events in the United Kingdom]]
+[[Category:German football clubs in international competitions]]

@@ -1,0 +1,325 @@
+{{Short description|Association football match}}
+{{Infobox football match
+| title              = 1996 UEFA Champions League final
+| image              = 1996 UEFA Champions League Final.jpg
+| caption            = Match programme cover
+| event              = [[1995–96 UEFA Champions League]]
+| team1              = [[AFC Ajax|Ajax]]
+| team1association   = {{fbaicon|NED|size=30px}}
+| team1score         = 1
+| team2              = [[Juventus FC|Juventus]]
+| team2association   = {{fbaicon|ITA|size=30px}}
+| team2score         = 1
+| details            = After [[Overtime (sports)#Association football|extra time]]<br>Juventus won 4–2 on [[Penalty shoot-out (association football)|penalties]]
+| date               = 22 May 1996
+| stadium            = [[Stadio Olimpico]]
+| city               = [[Rome]]
+| man_of_the_match1a = 
+| referee            = [[Manuel Díaz Vega]] ([[Royal Spanish Football Federation|Spain]])
+| attendance         = 70,000<ref name="attendance"/>
+| weather            = 
+| previous           = [[1995 UEFA Champions League final|1995]]
+| next               = [[1997 UEFA Champions League final|1997]]
+}}
+The '''1996 UEFA Champions League final''' was a [[Association football|football]] match played on 22 May 1996 between title holders [[AFC Ajax|Ajax]] of the Netherlands and [[Juventus FC|Juventus]] of Italy. The match ended in a 1–1 draw after extra time, forcing a [[Penalty shoot-out (association football)|penalty shoot-out]], which Juventus won 4–2.<ref>{{Cite web|url=https://www.independent.co.uk/sport/football/european/ajax-juventus-1996-champions-league-final-doping-cheating-calciopoli-a8860746.html|title=Why Ajax still feel 'cheated' by Juve's 1996 Champions League triumph|date=9 April 2019|website=The Independent}}</ref> It was the club's second and most recent triumph in the competition. As of 2026, this is the last time a Dutch team appeared in a Champions League final.
+
+==Background==
+The match was a repeat of the [[1973 European Cup final|1973]] final, making it the fourth repeated final pairing.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0245-0e98c715cad7-29a5fa4a1a1b-1000--second-time-round-european-cup-final-rematches/ |title=Second time round: European Cup final rematches |publisher=UEFA|date=16 May 2017}}</ref> Ajax won the 1973 final 1–0. Ajax was defending the title, having won in [[1995 UEFA Champions League final|1995]] when they defeated [[AC Milan|Milan]] 1–0.
+
+Juventus had not featured in the Champions League for nine years until this edition of the tournament. Juventus reached their fourth final. In the semi-finals, Juventus eliminated French side Nantes, with a 2-0 victory in the first leg at home, and 3–2 defeat in the return leg. Previously Juventus won the final in [[1985 European Cup final|1985]], and lost in [[1973 European Cup final|1973]] and [[1983 European Cup final|1983]].
+
+Ajax reached their sixth final. In the semi-finals, Ajax eliminated Greek side [[Panathinaikos F.C.|Panathinaikos]]; they lost the first leg 1–0 at home, but won 3–0 in the second leg. Previously Ajax won the finals in [[1971 European Cup final|1971]], [[1972 European Cup final|1972]], [[1973 European Cup final|1973]] and [[1995 UEFA Champions League final|1995]], and lost in [[1969 European Cup final|1969]].
+
+Juventus entered the final as [[1995–96 Serie A]] runners-up to Milan, as well as [[1995 Supercoppa Italiana]] winners. Ajax entered the final as [[1995–96 Eredivisie]] champions, [[1995 Dutch Supercup]] winners, [[1995 UEFA Super Cup]] and [[1995 Intercontinental Cup]] winners.
+
+==Route to the final==
+{{further|1995–96 UEFA Champions League}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4| {{fbaicon|NED}} [[AFC Ajax|Ajax]]
+! Round
+!colspan=4| {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|- style="background:#c1e0ff"
+| Opponent
+|colspan=3| Result
+| [[1995–96 UEFA Champions League group stage|Group stage]]
+| Opponent
+|colspan=3| Result
+|-
+|align=left| {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Ajax v Real Madrid|1–0]] (H)
+|style="background:#c1e0ff"| Matchday 1
+|align=left| {{fbaicon|GER}} [[Borussia Dortmund]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Borussia Dortmund v Juventus|3–1]] (A)
+|-
+|align=left| {{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Ferencváros v Ajax|5–1]] (A)
+|style="background:#c1e0ff"| Matchday 2
+|align=left| {{fbaicon|ROU}} [[FCSB|Steaua București]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Juventus v Steaua București|3–0]] (H)
+|-
+|align=left| {{fbaicon|SUI}} [[Grasshopper Club Zurich|Grasshopper]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Ajax v Grasshopper|3–0]] (H)
+|style="background:#c1e0ff"| Matchday 3
+|align=left| {{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Juventus v Rangers|4–1]] (H)
+|-
+|align=left| {{fbaicon|SUI}} [[Grasshopper Club Zurich|Grasshopper]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Grasshopper v Ajax|0–0]] (A)
+|style="background:#c1e0ff"| Matchday 4
+|align=left| {{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Rangers v Juventus|4–0]] (A)
+|-
+|align=left| {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Real Madrid v Ajax|2–0]] (A)
+|style="background:#c1e0ff"| Matchday 5
+|align=left| {{fbaicon|GER}} [[Borussia Dortmund]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Juventus v Borussia Dortmund|1–2]] (H)
+|-
+|align=left| {{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Ajax v Ferencváros|4–0]] (H)
+|style="background:#c1e0ff"| Matchday 6
+|align=left| {{fbaicon|ROU}} [[FCSB|Steaua București]]
+|colspan=3| [[1995–96 UEFA Champions League group stage#Steaua București v Juventus|0–0]] (A)
+|-
+|colspan="4" style="text-align:center;vertical-align:top"| '''[[1995–96 UEFA Champions League group stage#Group D|Group D]] winner'''
+{{:1995–96 UEFA Champions League group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=n|showteam=AJX}}
+|style="background:#c1e0ff"| Final standings
+|colspan="4" style="text-align:center;vertical-align:top"| '''[[1995–96 UEFA Champions League group stage#Group C|Group C]] winner'''
+{{:1995–96 UEFA Champions League group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=n|showteam=JUV}}
+|- style="background:#c1e0ff"
+| Opponent
+| Agg.
+| 1st leg
+| 2nd leg
+| [[1995–96 UEFA Champions League knockout stage|Knockout phase]]
+| Opponent
+| Agg.
+| 1st leg
+| 2nd leg
+|-
+|align=left| {{fbaicon|GER}} [[Borussia Dortmund]]
+| 3–0
+| [[1995–96 UEFA Champions League knockout stage#Borussia Dortmund v Ajax|2–0]] (A)
+| [[1995–96 UEFA Champions League knockout stage#Ajax v Borussia Dortmund|1–0]] (H)
+|style="background:#c1e0ff"| Quarter-finals
+|align=left| {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| 2–1
+| [[1995–96 UEFA Champions League knockout stage#Milan v Benfica|0–1]] (A)
+| [[1995–96 UEFA Champions League knockout stage#Benfica v Milan|2–0]] (H)
+|-
+|align=left| {{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+| 3–1
+| [[1995–96 UEFA Champions League knockout stage#Ajax v Panathinaikos|0–1]] (H)
+| [[1995–96 UEFA Champions League knockout stage#Panathinaikos v Ajax|3–0]] (A)
+|style="background:#c1e0ff"| Semi-finals
+|align=left| {{fbaicon|FRA|1974}} [[FC Nantes|Nantes]]
+| 4–3
+| [[1995–96 UEFA Champions League knockout stage#Juventus v Nantes|2–0]] (H)
+| [[1995–96 UEFA Champions League knockout stage#Nantes v Juventus|2–3]] (A)
+|}
+
+==Match==
+===Summary===
+The start of the match was dominated by Juventus, while some of the young Ajax players committed various errors in this phase.<ref name="UEFA">{{cite web|url=http://it.uefa.com/uefachampionsleague/season=1995/matches/round=69/match=52534/postmatch/report/index.html|title=La Juve piega l'Ajax dal dischetto|archiveurl=https://web.archive.org/web/20160407071134/http://it.uefa.com/uefachampionsleague/season=1995/matches/round=69/match=52534/postmatch/report/index.html|archivedate=7 April 2016}}</ref> In the 12th minute, Ajax defender [[Frank de Boer]] clumsily headed the ball while falling back, allowing Juventus striker [[Fabrizio Ravanelli]] to quickly get between de Boer and goalkeeper [[Edwin van der Sar]], who was coming out of his net, and despite the very angled position, slid in the net to give Juventus the lead.<ref name="UEFA"/>
+
+Ajax responded well, pushing further towards Juventus' half, taking advantage of their physical strength.<ref name=CIHEFE>{{cite web|language=es|author=José del Olmo|url=https://www.cihefe.es/cuadernosdefutbol/2018/04/xli-liga-de-campeones-199596-juventus-fc-torino-italia/|title=XLI Liga de Campeones 1995/96: Juventus FC Torino (Italia)|publisher=Cuadernos de Fútbol|number=97|editor=Centro de Investigaciones de Historia y Estadística del Fútbol Español|date=1 April 2018|ISSN=1989-6379}}</ref> From a corner kick, [[Nwankwo Kanu]] forced the Juventus goalkeeper [[Angelo Peruzzi]] to make a tough save,<ref name="UEFA"/> only for Ajax to later get a free kick in the 41st minute that surprised Peruzzi<ref>{{cite web|url=https://www.ultimouomo.com/classici-ajax-juventus-96/|title=Classici: Ajax-Juventus '96|date=23 May 1996|language=Italian}}</ref> who only managed to block the ball which fell at the feet of [[Jari Litmanen]] to tap in to equalise.<ref name="UEFA"/> Just before half-time, [[Antonio Conte]] was subbed out due to injury, replaced with [[Vladimir Jugović]].<ref>{{cite web|url=https://www.nytimes.com/athletic/3566876/2022/09/07/antonio-conte-champions-league/|title=Antonio Conte’s painful relationship with the Champions League|publisher=nytimes.com|date=7 September 2022}}</ref>
+
+The two teams went into half-time at 1–1, a score that remained unchanged in the second half where the only clear chance was for Juventus captain [[Gianluca Vialli]], who from a very good position shot just wide of the net,<ref name="UEFA"/> as well as a miss from [[Angelo Di Livio]].<ref name=CIHEFE/>
+
+After extra-time, the match remained 1–1 and went to penalty shoot-out.<ref name="UEFA"/> The only clear chance in the extra-time was an opportunity missed by Juventus player [[Alessandro Del Piero]] in the second half.<ref name=CIHEFE/> In the penalty shoot-out, all four Juventus penalty takers scored, with those being [[Ciro Ferrara]], [[Gianluca Pessotto]], [[Michele Padovano]] and Jugović. For Ajax, [[Edgar Davids]] the first penalty taker's shot was saved by Peruzzi. The next two players scored, those being Litmanen and [[Arnold Scholten]]. Their final penalty taken by [[Sonny Silooy]] was also saved. Jugović's goal was the decisive penalty that gave Juventus its second title in the competition; Juventus won by a score of 4–2.<ref name="UEFA"/>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|1996|5|22|df=y}}
+|time       = {{CEST|20:30}}
+|team1      = [[AFC Ajax|Ajax]] {{fbaicon|NED}}
+|score      = 1–1
+|aet        = yes
+|team2      = {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|goals1     =
+*[[Jari Litmanen|Litmanen]] {{goal|41}}
+|goals2     =
+*[[Fabrizio Ravanelli|Ravanelli]] {{goal|12}}
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 70,000<ref name="attendance">{{cite book |year=2017 |chapter=2. Finals |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/02/28/56/89/2285689_DOWNLOAD.pdf |title=UEFA Champions League Statistics Handbook 2016/17 |location=Nyon, Switzerland |publisher=Union of European Football Associations |page=1 |access-date=22 April 2017 }}</ref>
+|referee    = [[Manuel Díaz Vega]] ([[Royal Spanish Football Federation|Spain]])
+|penalties1 =
+*[[Edgar Davids|Davids]] {{penmiss}}
+*[[Jari Litmanen|Litmanen]] {{pengoal}}
+*[[Arnold Scholten|Scholten]] {{pengoal}}
+*[[Sonny Silooy|Silooy]] {{penmiss}}
+|penaltyscore = 2–4
+|penalties2 =
+*{{pengoal}} [[Ciro Ferrara|Ferrara]]
+*{{pengoal}} [[Gianluca Pessotto|Pessotto]]
+*{{pengoal}} [[Michele Padovano|Padovano]]
+*{{pengoal}} [[Vladimir Jugović|Jugović]]
+|report     = https://www.uefa.com/uefachampionsleague/match/52534/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _ajax96h
+ | pattern_b  = _ajax96
+ | pattern_ra = _ajax96h
+ | pattern_so = _top_on_white
+ | leftarm    = FFFFFF
+ | body       = FF0000
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FF0000
+ | title      = Ajax
+}}
+|{{Football kit
+ | pattern_la = _juventusfc9596a
+ | pattern_b  = _juventusfc9596a
+ | pattern_ra = _juventusfc9596a
+ | pattern_so = _juventusfc9596a
+ | leftarm    = 042CB5
+ | body       = 042CB5
+ | rightarm   = 042CB5
+ | shorts     = 042CB5
+ | socks      = 042CB5
+ | title      = Juventus
+}}
+|}
+
+{| width=100%
+|valign=top width=50%|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|NED}} [[Edwin van der Sar]]
+|-
+|RB ||'''2''' ||{{flagicon|NED}} [[Sonny Silooy]]
+|-
+|CB ||'''3''' ||{{flagicon|NED}} [[Danny Blind]] ([[Captain (association football)|c]]) || {{yel|83}}
+|-
+|DM ||'''4''' ||{{flagicon|NED}} [[Frank de Boer]] || || {{suboff|69}}
+|-
+|LB ||'''5''' ||{{flagicon|NED}} [[Winston Bogarde]]
+|-
+|RM ||'''6''' ||{{flagicon|NED}} [[Ronald de Boer]] || || {{suboff|91}}
+|-
+|RW ||'''7''' ||{{flagicon|NGA}} [[Finidi George]] || {{yel|22}}
+|-
+|LM ||'''8''' ||{{flagicon|NED}} [[Edgar Davids]]
+|-
+|CF ||'''9''' ||{{flagicon|NGA}} [[Nwankwo Kanu]]
+|-
+|AM ||'''10'''||{{flagicon|FIN}} [[Jari Litmanen]]
+|-
+|LW ||'''11'''||{{flagicon|NED}} [[Kiki Musampa]] || || {{suboff|46}}
+|-
+|colspan="4"|'''Substitutions:'''
+|-
+|GK ||'''12'''||{{flagicon|NED}} [[Fred Grim]]
+|-
+|MF ||'''13'''||{{flagicon|NED}} [[Arnold Scholten]] || || {{subon|69}}
+|-
+|MF ||'''14'''||{{flagicon|NED}} [[Dave van den Bergh]]
+|-
+|FW ||'''15'''||{{flagicon|NED}} [[Patrick Kluivert]] || || {{subon|46}}
+|-
+|MF ||'''16'''||{{flagicon|NED}} [[Nordin Wooter]] || {{yel|92}}  || {{subon|91}}
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Louis van Gaal]]
+|}
+|valign="top"|[[File:Ajax vs Juventus 1996-05-22(correct).svg|300px]]
+|valign="top" width="50%"|
+{| style=font-size:90% cellspacing=0 cellpadding=0 align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Angelo Peruzzi]]
+|-
+|RB ||'''4''' ||{{flagicon|ITA}} [[Moreno Torricelli]] || {{yel|102}}
+|-
+|CB ||'''2''' ||{{flagicon|ITA}} [[Ciro Ferrara]]
+|-
+|CB ||'''5''' ||{{flagicon|ITA}} [[Pietro Vierchowod]]
+|-
+|LB ||'''3''' ||{{flagicon|ITA}} [[Gianluca Pessotto]]
+|-
+|CM ||'''7''' ||{{flagicon|FRA|1974}} [[Didier Deschamps]] || {{yel|87}}
+|-
+|DM ||'''6''' ||{{flagicon|POR}} [[Paulo Sousa]] || || {{suboff|57}}
+|-
+|CM ||'''8''' ||{{flagicon|ITA}} [[Antonio Conte]] || || {{suboff|44}}
+|-
+|RW ||'''11'''||{{flagicon|ITA}} [[Fabrizio Ravanelli]]|| || {{suboff|77}}
+|-
+|CF ||'''9'''||{{flagicon|ITA}} [[Gianluca Vialli]] ([[Captain (association football)|c]])
+|-
+|LW ||'''10'''||{{flagicon|ITA}} [[Alessandro Del Piero]]
+|-
+|colspan="4"|'''Substitutions:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA}} [[Michelangelo Rampulla]]
+|-
+|CB ||'''13'''||{{flagicon|ITA}} [[Sergio Porrini]]
+|-
+|LM ||'''14'''||{{flagicon|FRY}} [[Vladimir Jugović]]|| {{yel|50}} || {{subon|44}}
+|-
+|RM ||'''15'''||{{flagicon|ITA}} [[Angelo Di Livio]] || {{yel|106}} || {{subon|57}}
+|-
+|CF ||'''16'''||{{flagicon|ITA}} [[Michele Padovano]] || || {{subon|77}}
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ITA}} [[Marcello Lippi]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Linesmen]]:'''
+<br />Joaquín Olmos González ([[Royal Spanish Football Federation|Spain]])
+<br />Manuel Fernando Tresaco Gracia ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[José María García-Aranda]] ([[Royal Spanish Football Federation|Spain]])
+|}
+
+==Post-match==
+Although Juventus won the 1996 Champions League final, the victory remains controversial because of accusations of [[doping in sport|doping]].<ref>{{Cite magazine|url=https://www.si.com/soccer/2019/04/10/juventus-vs-ajax-revisiting-doping-scandal-tarnished-champions-league-final-1996|title=Juventus vs Ajax: Revisiting the Doping Scandal That Tarnished the Champions League final of 1996|magazine=Sports Illustrated|date=10 April 2019 }}</ref><ref>{{cite web|url=http://www.independent.co.uk/sport/football/european/juventus-champions-league-final-ajax-doping-scandal-casts-dark-shadows-ahead-real-madrid-a7768061.html|title=Juventus' controversial European past casts dark shadows ahead of Champions League final against Real Madrid|work=The Independent|first=Jack|last=Pitt-Brooke|date=1 June 2017}}</ref> The Juventus team has been accused of using [[erythropoietin]] (EPO) and the matter went to trial in 2004.<ref>{{Cite web|url=https://www.abc.net.au/news/2004-01-27/zidane-admits-using-creatine-in-juventus-doping/125686|title=Zidane admits using creatine in Juventus doping trial|date=26 January 2004|publisher=Australian Broadcasting Corporation}}</ref> In November 2004, club doctor Riccardo Agricola was given a 22-month prison sentence and fined €2,000 for sporting fraud by providing performance-enhancing drugs, specifically EPO, to players between 1994 and 1998,<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/01a3-0e6b4edc9574-3df3d46b21c5-1000--juve-doctor-convicted-of-doping/|title=Juve doctor convicted of doping|publisher=[[UEFA]]|date=26 November 2004}}</ref><ref>{{cite web|url=https://apnews.com/article/4999f878e28fd604d30a69f6909a981d|title=Judge Convicts Juventus Doctor|publisher=apnews.com|date=26 November 200}}</ref> Leading hematologist Giuseppe d'Onofrio said that it was "practically certain" that midfielders [[Antonio Conte]] and [[Alessio Tacchinardi]] had taken EPO to overcome brief bouts of [[anemia]], and that it was "very probable" that seven other players – [[Alessandro Birindelli]], [[Alessandro Del Piero]], [[Didier Deschamps]], [[Dimas (footballer)|Dimas]], [[Paolo Montero]], [[Gianluca Pessotto]] and [[Moreno Torricelli]] – had taken EPO in small doses.<ref>{{cite web|url=http://www.independent.co.uk/news/world/europe/the-drug-scandal-that-blackens-the-name-of-juves-team-of-the-nineties-728710.html|title=The drug scandal that blackens the name of Juve's team of the Nineties|work=The Independent|first=Frank|last=Dunne|date=1 December 2004}}</ref>
+
+In April 2005, the [[Court of Arbitration for Sport]] gave the following advisory opinion, in part: "The use of pharmaceutical substances which are not expressly prohibited by sports law, and which cannot be considered as substances similar or related to those expressly prohibited, is not to be sanctioned by disciplinary measures. However, regardless of the existence or not of any judgement rendered by a State court, sports authorities are under the obligation to prosecute the use of pharmaceutical substances which are prohibited by sports law or any other anti-doping rule violation in order to adopt disciplinary measures."<ref>{{cite web|url=http://www.coni.it/fileadmin/template/main/new_coni/opinion/opinion.pdf |archive-url=https://web.archive.org/web/20120615011736/http://www.coni.it/fileadmin/template/main/new_coni/opinion/opinion.pdf |archive-date=15 June 2012 |title=ADVISORY OPINION Pronounced by the COURT OF ARBITRATION FOR SPORT|publisher=coni.it|date=26 April 2005|page=27}}</ref> In December 2005, Agricola was acquitted of the charges by Turin's court of appeal.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/01b0-0e6b4edc8fd3-ceb23e526571-1000--juventus-doctor-wins-doping-appeal/|title=Juventus doctor wins doping appeal|publisher=[[UEFA]]|date=14 December 2005}}</ref> In March 2007, in the final verdict by the [[Supreme Court of Cassation (Italy)|Supreme Court of Cassation]], stated that "in the years of 1994 to 1998 there was no ascertained positive case of doping substances by Juventus players, that the purchase of erythropoietin or its administration to the athletes of the club does not emerge from any act of the trial, and that the same expert had identified the possibility of an administration of erythropoietin in distant terms from the sure evidence ("very probable" and in two cases "practically certain"): it is that therefore, the judgement of probability and not of certainty, did not allow for a statement of responsibility."<ref name=Cassation>{{cite web|url=http://www.giulemanidallajuve.com/newsite/download/CassazioneDoping.pdf |archive-url=https://web.archive.org/web/20110929015803/http://www.giulemanidallajuve.com/newsite/download/CassazioneDoping.pdf |archive-date=29 September 2011 |title=Repubblica Italiana La Corte Suprema Cassazione Sezione Seconda Penale In Nome Del Popolo Italiano|publisher=Supreme Court of Cassation|date=29 March 2007|pages=40–42}}</ref> The verdict also went on to say: "In response to the conclusion taken, the territorial court notes that there were no deferred values higher than the limits set in the various antidoping protocols and that the situation of the Juventus players, both with reference to the average hematological values, and in relation to that of material balance, did not differ from the national average population.<ref name=Cassation/>
+
+==See also==
+*[[1973 European Cup final]] – contested by the same teams
+* [[1996 UEFA Cup Winners' Cup final]]
+* [[1996 UEFA Cup final]]
+*[[1995–96 AFC Ajax season]]
+*[[1995–96 Juventus FC season]]
+*[[AFC Ajax in international football]]
+*[[Juventus FC in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.uefa.com/uefachampionsleague/history/seasons/1995/matches/ 1995–96 UEFA Champions League] at UEFA.com
+*[https://www.rsssf.org/ec/ecomp.html 1995–96 UEFA Champions League] at Rec.Sport.Soccer Statistics Foundation
+
+{{UEFA Champions League seasons}}
+{{1995–96 in European football (UEFA)}}
+{{AFC Ajax matches}}
+{{Juventus F.C. matches}}
+
+[[Category:1995–96 UEFA Champions League|Final]]
+[[Category:AFC Ajax matches|European Cup Final 1996]]
+[[Category:Juventus FC matches|European Cup Final 1996]]
+[[Category:UEFA Champions League finals|1996]]
+[[Category:Football matches in Italy|European Cup Final 1996]]
+[[Category:1990s in Rome]]
+[[Category:May 1996 sports events in Europe]]
+[[Category:Football competitions in Rome]]
+[[Category:Italy–Netherlands sports relations|1996]]
+[[Category:1995–96 in Italian football]]
+[[Category:1995–96 in Dutch football]]

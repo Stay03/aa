@@ -1,0 +1,636 @@
+{{Short description|Football match in London, England}}
+{{Use dmy dates|date=February 2025}}
+{{Use British English|date=May 2024}}
+{{Infobox football match
+| title = 2024 UEFA Champions League final
+| image = File:2024 UEFA Champions League Final programme.png
+| image_size = frameless
+| caption = Match programme cover
+| event = [[2023–24 UEFA Champions League]]
+| team1 = [[Borussia Dortmund]]
+| team1association = {{fbaicon|GER|size=30px}}
+| team1score = 0
+| team2 = [[Real Madrid CF|Real Madrid]]
+| team2association = {{fbaicon|ESP|size=30px}}
+| team2score = 2
+| details = 
+| date = {{Start date|2024|6|1|df=y}}
+| stadium = [[Wembley Stadium]]
+| city = [[London]]
+| man_of_the_match1a = [[Dani Carvajal]] {{nowrap|(Real Madrid)}}<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefachampionsleague/news/028e-1b07da855edc-f1946904f406-1000/ |title=Official Champions League final PlayStation Player of the Match: Dani Carvajal |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2024 |access-date=1 June 2024 |archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603052218/https://www.uefa.com/uefachampionsleague/news/028e-1b07da855edc-f1946904f406-1000/ |url-status=live}}</ref>
+| referee = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])<ref name="officials"/>
+| attendance = 86,212<ref name="report 1 June"/>
+| weather = Cloudy<br />{{convert|18|°C|°F|abbr=on}}<br />54% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2024/2039970_LU.pdf |title=Tactical Line-ups – Final – Saturday 1 June 2024 |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2024 |access-date=1 June 2024 |archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603052224/http://www.uefa.com/newsfiles/UCL/2024/2039970_LU.pdf |url-status=live}}</ref>
+| previous = [[2023 UEFA Champions League final|2023]]
+| next = [[2025 UEFA Champions League final|2025]]
+}}
+The '''2024 UEFA Champions League final''' was the final match of the [[2023–24 UEFA Champions League]], the 69th season of Europe's premier club football tournament organised by [[UEFA]], and the 32nd season since it was renamed from the [[European Champion Clubs' Cup]] to the [[UEFA Champions League]]. It was held at [[Wembley Stadium]] in [[London]], England, on 1 June 2024,<ref>{{cite magazine |url=https://editorial.uefa.com/resources/0279-163596ae271e-e04faa20e08e-1000/20220926_circular_2022_65_en.zip |title=International match calendar and access list for the 2023/24 season |number=65/2022 |magazine=UEFA Circular Letter |publisher=Union of European Football Associations |date=26 September 2022 |access-date=27 September 2022 |archive-date=21 October 2022 |archive-url=https://web.archive.org/web/20221021224010/https://editorial.uefa.com/resources/0279-163596ae271e-e04faa20e08e-1000/20220926_circular_2022_65_en.zip |url-status=live}}</ref> between German club [[Borussia Dortmund]] and Spanish club [[Real Madrid CF|Real Madrid]]. Due to the postponement and relocation of the [[2020 UEFA Champions League final|2020 final]], the final hosts were shifted back a year, with London instead hosting the 2024 final.<ref name="ExCo 17 June">{{cite news |url=https://www.uefa.com/news-media/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/ |title=UEFA competitions to resume in August |website=UEFA.com|publisher=Union of European Football Associations |date=17 June 2020 |access-date=17 June 2020 |archive-date=25 August 2020 |archive-url=https://web.archive.org/web/20200825183219/https://www.uefa.com/insideuefa/about-uefa/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/?referrer=%2finsideuefa%2fnews%2fnewsid%3d2642232 |url-status=live}}</ref>
+
+Real Madrid won the match 2–0 for [[European Cup and UEFA Champions League records and statistics#General performances|a record-extending 15th title]], and their sixth in eleven seasons.<ref name="summary">{{cite web |last=Pettit |first=Mark |url=https://www.uefa.com/uefachampionsleague/news/028e-1b07e18d875a-ba78e4b9d9fc-1000/ |title=Real Madrid win Champions League: Carvajal and Vinícius Júnior see off Dortmund |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2024 |access-date=2 June 2024 |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602071515/https://www.uefa.com/uefachampionsleague/news/028e-1b07e18d875a-ba78e4b9d9fc-1000/ |url-status=live}}</ref> As winners, they earned a spot to play in the [[2024 UEFA Super Cup]], against the winners of the [[2023–24 UEFA Europa League]], [[Atalanta BC|Atalanta]]. They also earned a chance to compete in the [[2024 FIFA Intercontinental Cup|inaugural edition]] of the [[FIFA Intercontinental Cup]]. As they had already qualified for the [[2025 FIFA Club World Cup]] by winning the same tournament in 2022, the spot intended for the winners was redistributed via the UEFA club ranking, with Dortmund claiming one of those spots.<ref name=":0">{{Cite web |title=FIFA Council confirms key details for FIFA Club World Cup 2025™ |url=https://www.fifa.com/fifaplus/en/tournaments/mens/fifa-club-world-cup/articles/fifa-council-confirms-key-details-club-world-cup-2025 |access-date=16 March 2024 |website=FIFA.com|publisher=FIFA}}</ref>
+
+==Background==
+For [[Borussia Dortmund]], this was their third UEFA Champions League final appearance, the first since the 1–2 [[Der Klassiker]] loss against [[FC Bayern Munich|Bayern Munich]] in [[2013 UEFA Champions League final|2013]], which was also held at [[Wembley Stadium]], and the first European final for manager [[Edin Terzić (footballer)|Edin Terzić]].<ref name="RSSSF">{{cite web |last=Stokkermans |first=Karel |url=https://www.rsssf.org/tablese/ec1.html |title=European Champions' Cup/Champions League |publisher=[[RSSSF]] |date=27 January 2023 |access-date=10 June 2023 |archive-date=6 July 2009 |archive-url=https://web.archive.org/web/20090706013641/http://www.rsssf.com/tablese/ec1.html |url-status=live}}</ref> Additionally, Dortmund played one [[UEFA Cup Winners' Cup|European Cup Winners' Cup]] final (winning in [[1966 European Cup Winners' Cup final|1966]])<ref name="CWC">{{cite web |last=Stokkermans |first=Karel |url=https://www.rsssf.org/tablese/ec2.html |title=European Cup Winners' Cup |publisher=[[RSSSF]] |date=26 January 2000 |access-date=2 June 2024 |archive-date=15 March 2023 |archive-url=https://web.archive.org/web/20230315030508/https://www.rsssf.org/tablese/ec2.html |url-status=live}}</ref> and two [[UEFA Europa League|UEFA Cup]] finals (losing in [[1993 UEFA Cup final|1993]] and [[2002 UEFA Cup final|2002]]).<ref name="UCEL">{{cite web |last=Stokkermans |first=Karel |url=https://www.rsssf.org/tablese/ec3b.html |title=UEFA Cup/Europa League |publisher=[[RSSSF]] |date=1 June 2023 |access-date=2 June 2024 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303191321/http://www.rsssf.com/tablese/ec3b.html |url-status=live}}</ref>
+
+[[Real Madrid CF|Real Madrid]] played in a record-extending 18th European Cup/UEFA Champions League final, and their second in three years. They previously won 14 finals (in [[1956 European Cup final|1956]], [[1957 European Cup final|1957]], [[1958 European Cup final|1958]], [[1959 European Cup final|1959]], [[1960 European Cup final|1960]], [[1966 European Cup final|1966]], [[1998 UEFA Champions League final|1998]], [[2000 UEFA Champions League final|2000]], [[2002 UEFA Champions League final|2002]], [[2014 UEFA Champions League final|2014]], [[2016 UEFA Champions League final|2016]], [[2017 UEFA Champions League final|2017]], [[2018 UEFA Champions League final|2018]] and [[2022 UEFA Champions League final|2022]]) and lost three ([[1962 European Cup final|1962]], [[1964 European Cup final|1964]] and [[1981 European Cup final|1981]]).<ref name="RSSSF"/> Their manager [[Carlo Ancelotti]] reached a record-extending sixth UEFA Champions League final as manager, winning in [[2003 UEFA Champions League final|2003]] and [[2007 UEFA Champions League final|2007]] and losing in [[2005 UEFA Champions League final|2005]] while in charge of [[AC Milan|Milan]], and winning the 2014 and 2022 finals with Real Madrid.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0275-15407684c988-5b733e851bf5-1000/ |title=Champions League-winning coaches: Carlo Ancelotti leads the way |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2024 |access-date=2 June 2024 |archive-date=12 December 2023 |archive-url=https://web.archive.org/web/20231212061605/https://www.uefa.com/uefachampionsleague/news/0275-15407684c988-5b733e851bf5-1000/ |url-status=live}}</ref> Real Madrid also played in two European Cup Winners' Cup finals (losing in [[1971 European Cup Winners' Cup final|1971]] and [[1983 European Cup Winners' Cup final|1983]])<ref name="CWC"/> and two UEFA Cup finals (winning in [[1985 UEFA Cup final|1985]] and [[1986 UEFA Cup final|1986]]).<ref name="UCEL"/>
+
+This was the first Champions League final between the two clubs,<ref name="RSSSF"/> and their first meeting in European competitions since the [[2017–18 UEFA Champions League group stage|2017–18 Champions League group stage]] encounters, when Madrid won [[2017–18 UEFA Champions League group stage#Borussia Dortmund v Real Madrid|3–1 away]] and [[2017–18 UEFA Champions League group stage#Real Madrid v Borussia Dortmund|3–2 at home]]. Of their previous fourteen encounters, Dortmund won three matches, Real won six matches and five finished as a draw.<ref>{{cite web |url=https://www.worldfootball.net/teams/te258/borussia-dortmund/records-all-time-appearances/ |title=Borussia Dortmund » Record against Real Madrid |date=2 June 2024 |work=WorldFootball.net |access-date=2 June 2024 |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602070120/https://www.worldfootball.net/teams/borussia-dortmund/real-madrid/11/ |url-status=live}}</ref>
+
+Until the semi-finals, Borussia Dortmund had the best defence in the 2023–24 Champions League with six clean sheets and eight goals conceded. In contrast, Real Madrid goalkeepers had the most goal-scoring opportunities to prevent in the same season.<ref name=":02">{{cite web |date=1 June 2024 |access-date=1 June 2024 |language=de |title=CL-Finale gegen den BVB: Das sind die Gefahren für Real Madrid |website=neunzigplus.de |url=https://neunzigplus.de/champions-league/cl-finale-gefahren-fuer-real/ |archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601170539/https://neunzigplus.de/champions-league/cl-finale-gefahren-fuer-real/ |url-status=live}}</ref>
+
+===Previous finals===
+''In the following table, finals until 1992 were in the European Cup era, since 1993 were in the UEFA Champions League era.''<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/028d-1ae0986c81e3-d2926139ffb1-1000/ |title=Champions League final: Dortmund and Real Madrid's previous European Cup final appearances |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2024 |access-date=2 June 2024 |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602065339/https://www.uefa.com/uefachampionsleague/news/028d-1ae0986c81e3-d2926139ffb1-1000/ |url-status=live}}</ref>
+{| class="wikitable plainrowheaders"
+|-
+!scope="col"|Team
+!scope="col"|Previous final appearances (bold indicates winners)
+|-
+|{{fbaicon|GER}} [[Borussia Dortmund]]
+|2 ('''[[1997 UEFA Champions League final|1997]]''', [[2013 UEFA Champions League final|2013]])
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|17 ('''[[1956 European Cup final|1956]]''', '''[[1957 European Cup final|1957]]''', '''[[1958 European Cup final|1958]]''', '''[[1959 European Cup final|1959]]''', '''[[1960 European Cup final|1960]]''', [[1962 European Cup final|1962]], [[1964 European Cup final|1964]], '''[[1966 European Cup final|1966]]''', [[1981 European Cup final|1981]], '''[[1998 UEFA Champions League final|1998]]''', '''[[2000 UEFA Champions League final|2000]]''', '''[[2002 UEFA Champions League final|2002]]''', '''[[2014 UEFA Champions League final|2014]]''', '''[[2016 UEFA Champions League final|2016]]''', '''[[2017 UEFA Champions League final|2017]]''', '''[[2018 UEFA Champions League final|2018]]''', '''[[2022 UEFA Champions League final|2022]]''')
+|}
+
+==Venue==
+[[File:Wembley Stadium interior.jpg|thumb|275px|[[Wembley Stadium]] in [[London]] hosted the final.]]
+
+This was the third UEFA Champions League final to take place at the rebuilt Wembley Stadium, having previously been held in [[2011 UEFA Champions League final|2011]] and 2013. Overall, it was the eighth final to be held in London, with the other five matches taking place at the [[Wembley Stadium (1923)|original Wembley Stadium]] in [[1963 European Cup final|1963]], [[1968 European Cup final|1968]], [[1971 European Cup final|1971]], [[1978 European Cup final|1978]], and [[1992 European Cup final|1992]]. The match was the ninth European Cup final held in England, with the 2003 final having been held at [[Old Trafford]] in [[Manchester]], equalling the record of nine European Cup finals held in each of Italy, Germany and Spain. It was also the thirteenth held in the United Kingdom, with the 1960, [[1976 European Cup final|1976]] and 2002 finals held in Scotland and the 2017 final held in Wales.<ref>{{cite web |url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/99/48/32/1994832_DOWNLOAD.pdf |title=UEFA Champions League Statistics Handbook 2013/14: Finals |website=UEFA.com|publisher=Union of European Football Associations |year=2014 |access-date=24 September 2019 |archive-date=16 July 2021 |archive-url=https://web.archive.org/web/20210716203913/https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/99/48/32/1994832_DOWNLOAD.pdf |url-status=dead}}</ref> Wembley Stadium was also a host venue at [[UEFA Euro 2020]], with eight matches played at the stadium including the semi-finals and [[UEFA Euro 2020 final|final]].<ref>{{cite web |url=https://www.uefa.com/uefaeuro/history/news/0256-0dd74d2cf7cc-56813840afe0-1000/ |title=EURO 2020: host cities and stadiums |website=UEFA.com|publisher=Union of European Football Associations |date=23 April 2021 |access-date=2 June 2024 |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602070219/https://www.uefa.com/uefaeuro/history/news/0256-0dd74d2cf7cc-56813840afe0-1000/ |url-status=live}}</ref>
+
+===Host selection===
+An open bidding process was launched on 22 February 2019 by UEFA to select the 2022 and 2023 UEFA Champions League final venues.<ref>{{cite news |url=https://www.uefa.com/news-media/news/024e-0f8e68aa43f5-6b3adef08395-1000--9-associations-bidding-to-host-2021-club-finals/ |title=9 associations bidding to host 2021 club finals |website=UEFA.com|publisher=Union of European Football Associations |date=22 February 2019 |access-date=14 September 2019 |archive-date=18 June 2020 |archive-url=https://web.archive.org/web/20200618165213/https://www.uefa.com/insideuefa/about-uefa/news/newsid=2593491.html |url-status=live}}</ref> Associations had until 22 March 2019 to express interest, and bid dossiers had to be submitted by 1 July 2019.<ref name="AP">{{cite news |url=https://uk.reuters.com/article/uk-soccer-champions-final/london-mayor-backs-bid-to-host-2023-champions-league-final-at-wembley-idUKKCN1UQ26G |title=London Mayor backs bid to host 2023 Champions League final at Wembley |website=[[Reuters]] |date=31 July 2019 |access-date=14 September 2019 |archive-date=19 September 2020 |archive-url=https://web.archive.org/web/20200919145455/https://uk.reuters.com/article/uk-soccer-champions-final/london-mayor-backs-bid-to-host-2023-champions-league-final-at-wembley-idUKKCN1UQ26G |url-status=dead}}</ref>
+
+[[The Football Association]] was reported to have bid with Wembley Stadium in London to host the 2023 final, in order to mark the centenary of the opening of the original stadium in 1923.<ref name="AP"/> Wembley Stadium was selected by the UEFA Executive Committee during their meeting in [[Ljubljana]], Slovenia, on 24 September 2019,<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0255-0e99f55f1d05-6273cba59e7c-1000--champions-league-final-hosts-for-2021-2022-2023-and-2024/ |title=Champions League final hosts announced for 2021, 2022 and 2023 |website=UEFA.com|publisher=Union of European Football Associations |date=24 September 2019 |access-date=24 September 2019 |archive-date=22 December 2019 |archive-url=https://web.archive.org/web/20191222151850/https://www.uefa.com/uefachampionsleague/news/newsid=2625232.html |url-status=live}}</ref> where the hosts for the [[2021 UEFA Champions League final|2021]] and 2022 UEFA Champions League finals were also appointed.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0255-0f8e6f9636b1-db5308c8e2e5-1000--uefa-executive-committee-agenda-for-ljubljana-meeting/ |title=UEFA Executive Committee agenda for Ljubljana meeting |website=UEFA.com|publisher=Union of European Football Associations |date=17 September 2019 |access-date=17 September 2019 |archive-date=18 September 2019 |archive-url=https://web.archive.org/web/20190918021511/https://www.uefa.com/insideuefa/about-uefa/news/newsid=2623092.html |url-status=live}}</ref>
+
+On 17 June 2020, the UEFA Executive Committee announced that due to the postponement and relocation of the [[2020 UEFA Champions League final|2020 final]], London would instead host the 2024 final.<ref name="ExCo 17 June"/>
+
+==Route to the final==
+{{Further|2023–24 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|GER}} [[Borussia Dortmund]]
+!Round
+!colspan="4"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2023–24 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Paris Saint-Germain v Borussia Dortmund|0–2]] (A)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|GER}} [[1. FC Union Berlin|Union Berlin]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Real Madrid v Union Berlin|1–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Borussia Dortmund v Milan|0–0]] (H)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|ITA}} [[SSC Napoli|Napoli]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Napoli v Real Madrid|3–2]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Newcastle United F.C.|Newcastle United]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Newcastle United v Borussia Dortmund|1–0]] (A)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|POR}} [[S.C. Braga|Braga]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Braga v Real Madrid|2–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Newcastle United F.C.|Newcastle United]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Borussia Dortmund v Newcastle United|2–0]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|POR}} [[S.C. Braga|Braga]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Real Madrid v Braga|3–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Milan v Borussia Dortmund|3–1]] (A)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|ITA}} [[SSC Napoli|Napoli]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Real Madrid v Napoli|4–2]] (H)
+|-
+|style="text-align:left"|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Borussia Dortmund v Paris Saint-Germain|1–1]] (H)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|GER}} [[1. FC Union Berlin|Union Berlin]]
+|colspan="3"|[[2023–24 UEFA Champions League group stage#Union Berlin v Real Madrid|3–2]] (A)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2023–24 UEFA Champions League group stage#Group F|Group F]] winners'''
+<div class="center">{{2023–24 UEFA Champions League group tables|Group F|only_pld_pts=yes|show_matches=no|showteam=DOR}}</div>
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2023–24 UEFA Champions League group stage#Group C|Group C]] winners'''
+<div class="center">{{2023–24 UEFA Champions League group tables|Group C|only_pld_pts=yes|show_matches=no|showteam=RMA}}</div>
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2023–24 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|NED}} [[PSV Eindhoven]]
+|3–1
+|[[2023–24 UEFA Champions League knockout phase#PSV Eindhoven v Borussia Dortmund|1–1]] (A)
+|[[2023–24 UEFA Champions League knockout phase#Borussia Dortmund v PSV Eindhoven|2–0]] (H)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|GER}} [[RB Leipzig]]
+|2–1
+|[[2023–24 UEFA Champions League knockout phase#RB Leipzig v Real Madrid|1–0]] (A)
+|[[2023–24 UEFA Champions League knockout phase#Real Madrid v RB Leipzig|1–1]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[Atlético Madrid]]
+|5–4
+|[[2023–24 UEFA Champions League knockout phase#Atlético Madrid v Borussia Dortmund|1–2]] (A)
+|[[2023–24 UEFA Champions League knockout phase#Borussia Dortmund v Atlético Madrid|4–2]] (H)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|4–4 {{pen|4–3}}
+|[[2023–24 UEFA Champions League knockout phase#Real Madrid v Manchester City|3–3]] (H)
+|[[2023–24 UEFA Champions League knockout phase#Manchester City v Real Madrid|1–1]] {{aet}} (A)
+|-
+|style="text-align:left"|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|2–0
+|[[2023–24 UEFA Champions League knockout phase#Borussia Dortmund v Paris Saint-Germain|1–0]] (H)
+|[[2023–24 UEFA Champions League knockout phase#Paris Saint-Germain v Borussia Dortmund|1–0]] (A)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|4–3
+|[[2023–24 UEFA Champions League knockout phase#Bayern Munich v Real Madrid|2–2]] (A)
+|[[2023–24 UEFA Champions League knockout phase#Real Madrid v Bayern Munich|2–1]] (H)
+|}
+
+===Borussia Dortmund===
+{{see also|2023–24 Borussia Dortmund season}}
+{{multiple image
+| align             = right
+| direction         = horizontal
+| total_width       = 320
+| image1            = 2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–103.jpg
+| image2            = 2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–125.jpg
+| footer            = [[Borussia Dortmund]] defender [[Mats Hummels]] (left) and midfielder [[Marco Reus]] (right) were the only players from the club's [[2013 UEFA Champions League final|2013 final]] squad; Hummels scored the winner in the second leg of the semi-final against [[Paris Saint-Germain FC|Paris Saint-Germain]] to book their place in the final, which was the last match for the club for both of them.
+}}
+
+Borussia Dortmund qualified for the Champions League group stage by finishing as runners-up in the [[2022–23 Bundesliga]]. In the group stage, they were drawn into Group F, alongside [[2022–23 Ligue 1|Ligue 1]] winners [[Paris Saint-Germain FC|Paris Saint-Germain]], [[2022–23 Serie A|Serie A]] fourth-place team Milan and [[2022–23 Premier League|Premier League]] fourth-place side [[Newcastle United F.C.|Newcastle United]],<ref name="GS draw">{{cite web |title=UEFA Champions League group stage draw |website=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/draws/2024/2001775/ |date=31 August 2023 |access-date=8 May 2024 |url-status=live |archive-date=30 August 2023 |archive-url=https://web.archive.org/web/20230830141356/https://www.uefa.com/uefachampionsleague/draws/2024/2001775/ }}</ref> which was widely regarded as the '[[group of death]]'.<ref>{{cite web |title=Hummels seals Champions League final place for Dortmund as PSG crash out |url=https://www.theguardian.com/football/article/2024/may/07/paris-saint-germain-borussia-dortmund-champions-league-match-report |date=7 May 2024 |access-date=8 May 2024 |work=The Guardian |url-status=live |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510142137/https://www.theguardian.com/football/article/2024/may/07/paris-saint-germain-borussia-dortmund-champions-league-match-report}}</ref><ref>{{cite web |title='Group of death' delivers as PSG, Newcastle and Milan all stay in hunt |url=https://www.reuters.com/sports/soccer/group-death-delivers-psg-newcastle-milan-all-stay-hunt-2023-11-29/ |date=29 November 2023 |access-date=8 May 2024 |publisher=Reuters |url-status=live |archive-date=29 November 2023 |archive-url=https://web.archive.org/web/20231129070716/https://www.reuters.com/sports/soccer/group-death-delivers-psg-newcastle-milan-all-stay-hunt-2023-11-29/}}</ref>
+
+In Dortmund's opener of the group stage, they faced Paris Saint-Germain at the [[Parc des Princes]] and lost 0–2, with goals from [[Kylian Mbappé]] and [[Achraf Hakimi]].<ref>{{cite web |title=Paris-Dortmund |url=https://www.uefa.com/uefachampionsleague/match/2039188/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=29 September 2023 |archive-url=https://web.archive.org/web/20230929225042/https://www.uefa.com/uefachampionsleague/match/2039188/ }}</ref> On matchday 2, Dortmund drew in a 0–0 stalemate at the [[Westfalenstadion]] against Milan.<ref>{{cite web |title=Dortmund-Milan |url=https://www.uefa.com/uefachampionsleague/match/2039109/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=29 September 2023 |archive-url=https://web.archive.org/web/20230929225928/https://www.uefa.com/uefachampionsleague/match/2039109/ }}</ref> On matchday 3, Dortmund defeated Newcastle United away from home 1–0, with a goal from [[Felix Nmecha]].<ref>{{cite web |title=Newcastle-Dortmund |url=https://www.uefa.com/uefachampionsleague/match/2039126/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510142405/https://www.uefa.com/uefachampionsleague/match/2039126/ }}</ref> On matchday 4, Dortmund won 2–0 over Newcastle United at home, with goals coming from [[Niclas Füllkrug]] and [[Julian Brandt]].<ref>{{cite web |title=Dortmund-Newcastle |url=https://www.uefa.com/uefachampionsleague/match/2039130/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510142337/https://www.uefa.com/uefachampionsleague/match/2039130/ }}</ref> On matchday 5, Dortmund got a 3–1 win against Milan at the [[San Siro]], with goals by [[Marco Reus]], [[Jamie Bynoe-Gittens]] and [[Karim Adeyemi]], as [[Samuel Chukwueze]] got the temporary equaliser for the hosts.<ref>{{cite web |title=Milan-Dortmund |url=https://www.uefa.com/uefachampionsleague/match/2039150/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=29 September 2023 |archive-url=https://web.archive.org/web/20230929223658/https://www.uefa.com/uefachampionsleague/match/2039150/ }}</ref> On matchday 6, returning to the Westfalenstadion, the hosts held Paris Saint-Germain to a 1–1 draw, with a goal from Adeyemi and a strike from [[Warren Zaïre-Emery]] for the visitors.<ref>{{cite web |title=Dortmund-Paris |url=https://www.uefa.com/uefachampionsleague/match/2039174/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=29 September 2023 |archive-url=https://web.archive.org/web/20230929225925/https://www.uefa.com/uefachampionsleague/match/2039174/ }}</ref>
+
+In the round of 16, Dortmund were drawn against Dutch club [[PSV Eindhoven]]. In the first leg held at the [[Philips Stadion]], Dortmund drew 1–1, with goals from [[Donyell Malen]] and [[Luuk de Jong]].<ref>{{cite web |title=PSV-Dortmund |url=https://www.uefa.com/uefachampionsleague/match/2039919/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=18 December 2023 |archive-url=https://web.archive.org/web/20231218163319/https://www.uefa.com/uefachampionsleague/match/2039919/ }}</ref> In the reverse leg, Dortmund defeated PSV 2–0, with goals from [[Jadon Sancho]] and Reus, to win 3–1 on aggregate and advance to the quarter-finals.<ref>{{cite web |title=Dortmund-PSV |url=https://www.uefa.com/uefachampionsleague/match/2039929/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=13 March 2024 |archive-url=https://web.archive.org/web/20240313065028/https://www.uefa.com/uefachampionsleague/match/2039929/ }}</ref>
+
+In the quarter-finals, Dortmund were drawn against Spanish side [[Atlético Madrid]]. In the first leg, at the [[Metropolitano Stadium]], the Germans suffered a 1–2 loss, with goals being scored by [[Rodrigo De Paul]], [[Samuel Lino]] and [[Sébastien Haller]], whose late goal rescued Dortmund's chances for the progression.<ref>{{cite web |title=Atlético de Madrid-Dortmund |url=https://www.uefa.com/uefachampionsleague/match/2040493/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315172842/https://www.uefa.com/uefachampionsleague/match/2040493/ }}</ref> In the second leg, Dortmund produced a 4–2 win at home, trailing down 3–4 on aggregate in the second half and qualifying to the semi-finals 5–4 on aggregate, as Brandt, [[Ian Maatsen]], Füllkrug, [[Marcel Sabitzer]], [[Mats Hummels]] (own goal) and [[Ángel Correa]] got on the scoresheet.<ref>{{cite web |title=Dortmund-Atlético de Madrid |url=https://www.uefa.com/uefachampionsleague/match/2040499/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315172849/https://www.uefa.com/uefachampionsleague/match/2040499/ }}</ref>
+
+In the semi-finals, Dortmund were drawn against Paris Saint-Germain, making it a rematch of this season's group stage clash. In the first leg, at the Westfalenstadion, a lone winner from Füllkrug gave Dortmund a 1–0 victory.<ref>{{cite web |title=Dortmund-Paris |url=https://www.uefa.com/uefachampionsleague/match/2040501/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510142145/https://www.uefa.com/uefachampionsleague/match/2040501/ }}</ref> In the second leg, at the Parc des Princes, the visitors won 1–0 once again, with the only goal of the match coming from Hummels. Dortmund won 2–0 on aggregate to qualify for their first Champions League final in eleven years.<ref>{{cite web |title=Paris-Dortmund |url=https://www.uefa.com/uefachampionsleague/match/2040502/ |access-date=8 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510142059/https://www.uefa.com/uefachampionsleague/match/2040502/ }}</ref>
+
+===Real Madrid===
+{{see also|2023–24 Real Madrid CF season}}
+{{multiple image
+| align             = right
+| direction         = horizontal
+| total_width       = 440
+| image1            = BHA 5 v Espanyol 1 pre season 30 07 2022 15 (cropped).jpg
+| image2            = Rodrygo 2023 (cropped).jpg
+| image3            = Vinicius Jr 2021.jpg
+| footer            = Forward [[Joselu]] (left), who was on loan to [[Real Madrid CF|Real Madrid]] from [[RCD Espanyol|Espanyol]], scored two late decisive goals in the second leg of the semi-final against [[FC Bayern Munich|Bayern Munich]] to send Madrid to the final. He and fellow forwards [[Rodrygo]] (middle) and [[Vinícius Júnior]] (right) were their club's top scorers in the competition with five goals each.
+}}
+
+[[File:CSKA-RM18 (7) (cropped).jpg|thumb|upright=.8|The 2024 UEFA Champions League final marked [[Real Madrid CF|Real Madrid]] midfielder [[Toni Kroos]]' last club football match and his sixth appearance in the competition's final.]] 
+
+Real Madrid qualified for the Champions League group stage as [[2022–23 La Liga]] runners-up. They were drawn in Group C, alongside reigning Serie A champions [[SSC Napoli|Napoli]], third placed [[2022–23 Primeira Liga|Primeira Liga]] team [[S.C. Braga|Braga]], and fourth placed Bundesliga team [[1. FC Union Berlin|Union Berlin]].<ref name="GS draw"/>
+
+Madrid went on to end the group stage recording an impressive 6 out of 6 wins in all games. The team opened the group stage at the [[Santiago Bernabéu Stadium|Santiago Bernabéu]] against Union Berlin, with a late [[Jude Bellingham]] goal sealing a 1–0 win.<ref>{{cite web |title=Real Madrid-Union Berlin |url=https://www.uefa.com/uefachampionsleague/match/2039183/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=22 September 2023 |archive-url=https://web.archive.org/web/20230922003656/https://www.uefa.com/uefachampionsleague/match/2039183/ }}</ref> On matchday 2, the team grabbed a 3–2 away win against Napoli at the [[Stadio Diego Armando Maradona]], with finishes coming from [[Vinícius Júnior]], Bellingham, and an own goal from Napoli goalkeeper [[Alex Meret]], with goals coming from [[Leo Skiri Østigård|Leo Østigård]] and [[Piotr Zieliński]] for the hosts.<ref>{{cite web |title=Napoli-Real Madrid |url=https://www.uefa.com/uefachampionsleague/match/2039104--napoli-vs-real-madrid/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=6 March 2024 |archive-url=https://web.archive.org/web/20240306000742/https://www.uefa.com/uefachampionsleague/match/2039104--napoli-vs-real-madrid/ }}</ref> On matchday 3, Madrid defeated Braga away 2–1, with [[Rodrygo]] and Bellingham on the scoresheet, and [[Álvaro Djaló]] scoring for his team.<ref>{{cite web |title=Braga-Real Madrid |url=https://www.uefa.com/uefachampionsleague/match/2039119/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=22 September 2023 |archive-url=https://web.archive.org/web/20230922005157/https://www.uefa.com/uefachampionsleague/match/2039119/ }}</ref> On matchday 4, Madrid dominated Braga 3–0 at home with strikes from [[Brahim Díaz]], Vinícius, and Rodrygo.<ref>{{cite web |title=Real Madrid-Braga |url=https://www.uefa.com/uefachampionsleague/match/2039144/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=22 September 2023 |archive-url=https://web.archive.org/web/20230922003656/https://www.uefa.com/uefachampionsleague/match/2039144/ }}</ref> On matchday 5, Madrid obtained a 4–2 home win against Napoli, with goals coming from Vinícius, Bellingham, [[Nico Paz]], and [[Joselu]], as well as [[Giovanni Simeone]] and [[André-Frank Zambo Anguissa]] on the scoresheet for the visitors.<ref>{{cite web |title=Real Madrid-Napoli |url=https://www.uefa.com/uefachampionsleague/match/2039158/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=22 September 2023 |archive-url=https://web.archive.org/web/20230922005155/https://www.uefa.com/uefachampionsleague/match/2039158/ }}</ref> On matchday 6, they obtained a 3–2 win away against Union Berlin, after a Joselu brace and [[Dani Ceballos]] scoring the winner, with strikes from [[Kevin Volland]] and [[Alex Král]] for the hosts.<ref>{{cite web |title=Union Berlin-Real Madrid |url=https://www.uefa.com/uefachampionsleague/match/2039167/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=22 September 2023 |archive-url=https://web.archive.org/web/20230922003654/https://www.uefa.com/uefachampionsleague/match/2039167/ }}</ref>
+
+In the round of 16, Madrid were drawn against German club [[RB Leipzig]]. In the first leg held at the [[Red Bull Arena (Leipzig)|Red Bull Arena]], a lone Brahim strike prevailed Madrid to a 1–0 away win.<ref>{{cite web |title=Leipzig-Real Madrid |url=https://www.uefa.com/uefachampionsleague/match/2039914/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=14 February 2024 |archive-url=https://web.archive.org/web/20240214164412/https://www.uefa.com/uefachampionsleague/match/2039914/ }}</ref> In the second leg, Madrid were held to a 1–1 draw, despite [[Willi Orbán]] scoring for his team, Vinícius's goal was enough for Madrid to advance 2–1 on aggregate.<ref>{{cite web |title=Real Madrid-Leipzig |url=https://www.uefa.com/uefachampionsleague/match/2039924/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=18 December 2023 |archive-url=https://web.archive.org/web/20231218163322/https://www.uefa.com/uefachampionsleague/match/2039924/ }}</ref>
+
+In the quarter-finals, Madrid were drawn against English champions and [[2022–23 UEFA Champions League|reigning UEFA Champions League winners]]
+[[Manchester City F.C.|Manchester City]] for the third consecutive season. The first leg at the Santiago Bernabéu ended in an intense 3–3 draw, in which goals from [[Bernardo Silva]], [[Phil Foden]], and [[Joško Gvardiol]] were denied by replies from a [[Rúben Dias]] own goal, Rodrygo, and [[Federico Valverde]].<ref>{{cite web |title=Real Madrid-Man City |url=https://www.uefa.com/uefachampionsleague/match/2040494/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315172851/https://www.uefa.com/uefachampionsleague/match/2040494/ }}</ref> The second leg at the [[City of Manchester Stadium]] also ended in a draw, as Rodrygo's early goal was cancelled out by a [[Kevin De Bruyne]] equaliser. The match ended 1–1 after extra time and went into the penalty shootout to decide the winner after a 4–4 aggregate draw. It was Madrid's first Champions League shootout since the 2016 final. Goalkeeper [[Andriy Lunin]] saved two crucial penalties from Silva and [[Mateo Kovačić]], with only [[Luka Modrić]] missing his spot kick for the visitors, while [[Antonio Rüdiger]] scored the decisive final penalty to send his team to the semi-finals.<ref>{{cite web |title=Man City-Real Madrid |url=https://www.uefa.com/uefachampionsleague/match/2040496/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315172716/https://www.uefa.com/uefachampionsleague/match/2040496/ }}</ref>
+
+In the semi-finals, Madrid were drawn against German champions Bayern Munich, the first "[[Bayern Munich–Real Madrid rivalry|European Clásico]]" since the [[2017–18 UEFA Champions League]] season. In the first leg at the [[Allianz Arena]], a Vinícius double cancelled goals coming from [[Leroy Sané]] and [[Harry Kane]] for the hosts for a 2–2 draw.<ref>{{cite web |title=Bayern-Real Madrid |url=https://www.uefa.com/uefachampionsleague/match/2040500/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417222041/https://www.uefa.com/uefachampionsleague/match/2040500/ }}</ref> In the second leg at the Santiago Bernabéu, with Madrid initially trailing from an [[Alphonso Davies]] goal, Joselu's double in the closing minutes of the game stunned the visitors to bring his team to a 2–1 victory in the match and 4–3 on aggregate, as they progressed to their sixth final in ten years.<ref>{{cite web |title=Real Madrid-Bayern |url=https://www.uefa.com/uefachampionsleague/match/2040503/ |access-date=9 May 2024 |website=UEFA.com|publisher=Union of European Football Associations|url-status=live |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417222044/https://www.uefa.com/uefachampionsleague/match/2040503/ }}</ref>
+
+==Pre-match==
+===Identity===
+The visual identity of the 2024 UEFA Champions League final was unveiled at the group stage draw in Monaco on 31 August 2023.<ref>{{Cite web |title=Brand identity unveiled for the 2024 UEFA Champions League final in London |url=https://www.uefa.com/news-media/news/0284-18ddf64c1e93-e5c9c405914f-1000--brand-identity-unveiled-for-the-2024-uefa-champions-league-/ |website=UEFA.com|date=31 August 2023 |access-date=31 August 2023 |archive-date=31 August 2023 |archive-url=https://web.archive.org/web/20230831134220/https://www.uefa.com/insideuefa/news/0284-18ddf64c1e93-e5c9c405914f-1000--brand-identity-unveiled-for-the-2024-uefa-champions-league-/ |url-status=live}}</ref>
+
+===Officials===
+[[File:Slavko Vincic.jpg|thumb|upright=.8|Slovenian referee [[Slavko Vinčić]] officiated the final.]]
+
+On 13 May 2024, Slovenian referee [[Slavko Vinčić]] was appointed to take charge of the final by UEFA, along with fellow Slovenes Tomaž Klančnik and Andraž Kovačič as [[Assistant referee (association football)|assistant referees]], and Nejc Kajtazović as the [[video assistant referee]].<ref name="officials"/> The first three officials had previously officiated together in the [[2022 UEFA Europa League final]].<ref>{{cite news |url=https://www.uefa.com/news-media/news/0275-151e847d9f62-c7c70e5d01ff-1000/ |title=Referee teams appointed for 2022 UEFA club competition finals |website=UEFA.com|publisher=Union of European Football Associations |date=11 May 2022 |access-date=14 May 2024 |archive-date=11 May 2022 |archive-url=https://web.archive.org/web/20220511175324/https://www.uefa.com/insideuefa/mediaservices/mediareleases/news/0275-151e847d9f62-c7c70e5d01ff-1000/ |url-status=live}}</ref> They were joined by fellow countryman Rade Obrenović as assistant VAR and Frenchman [[François Letexier]] as the fourth official.<ref name="officials"/>
+
+===Opening ceremony===
+[[File:Lenny Kravitz 2018.jpg|thumb|[[Lenny Kravitz]], the headline act of the opening ceremony.]]
+On 16 May 2024, American singer [[Lenny Kravitz]] was named as the headline act of the opening ceremony.<ref>{{cite news |title=Lenny Kravitz to headline UEFA Champions League Final Kick Off Show by Pepsi |url=https://www.uefa.com/uefachampionsleague/news/028d-1ae6b6682ef6-eefb8c68a8da-1000--lenny-kravitz-to-headline-uefa-champions-league-final-ki/ |website=UEFA.com|date=17 May 2024 |access-date=17 May 2024 |archive-date=17 May 2024 |archive-url=https://web.archive.org/web/20240517052540/https://www.uefa.com/uefachampionsleague/news/028d-1ae6b6682ef6-eefb8c68a8da-1000--lenny-kravitz-to-headline-uefa-champions-league-final-ki/ |url-status=live}}</ref> He performed with his band a medley of his songs: "[[Fly Away (Lenny Kravitz song)|Fly Away]]", "[[Human (Lenny Kravitz song)|Human]]" and "[[Are You Gonna Go My Way (song)|Are You Gonna Go My Way]]".<ref>{{cite web |url=https://esto.com.mx/821831-champions-league-2024-lenny-kravitz-se-robo-el-show-en-el-borussia-dortmund-vs-real-madrid/ |title=¡Brutal! Así fue el show de Lenny Kravitz en la final de la Champions League 2024 |trans-title=Brutal! This was Lenny Kravitz's show in the 2024 Champions League final |work=Esto.com.mx |date=1 June 2024 |access-date=2 June 2024 |language=es |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602013408/https://esto.com.mx/821831-champions-league-2024-lenny-kravitz-se-robo-el-show-en-el-borussia-dortmund-vs-real-madrid/ |url-status=live}}</ref>
+
+==Match==
+
+===Summary===
+[[File:FC RB Salzburg v.Real Madrid (Testspiel, 7. August 2019) 29.jpg|thumb|upright=.8|[[Real Madrid CF|Real Madrid]] defender [[Dani Carvajal]] was named [[Player of the match#Association football|man of the match]] and became the first defender to score in a final since [[Sergio Ramos]] in [[2016 UEFA Champions League final|2016]].]]
+
+The match kicked off at 20:00 local time with an attendance of 86,212 fans. In the 21st minute, [[Mats Hummels]] played a pass to [[Karim Adeyemi]], who rounded [[Thibaut Courtois]] by nudging the ball to the goalkeeper's right and attempting to shoot, but [[Dani Carvajal]] tracked back to block his effort. Two minutes later, Adeyemi played a pass through the centre of the Madrid defence and released [[Niclas Füllkrug]], who struck the woodwork. Dortmund then produced a counter-attack after Brandt played a pass to Adeyemi, who was unable to beat Courtois from a tight angle, with the latter stretching out to make the initial parry, before saving Füllkrug's follow-up attempt. There were four minutes of added time after a series of [[Pitch invasion#Association football|pitch invasions]] earlier in the match.<ref name="SportingNews">{{cite web |last=Cox |first=Brad |url=https://www.sportingnews.com/us/champions-league/news/champions-league-final-2024-live-score-result-real-madrid-dortmund/0a034fd36e18781a619e15f1 |title=Champions League final score: Dortmund vs. Real Madrid result, highlights as Vinicius seals 2024 UCL title |work=Sporting News |date=2 June 2024|access-date=2 June 2024|archive-date=2 June 2024|archive-url=https://web.archive.org/web/20240602015436/https://www.sportingnews.com/us/champions-league/news/champions-league-final-2024-live-score-result-real-madrid-dortmund/0a034fd36e18781a619e15f1|url-status=live}}</ref><ref name="TheGuardian">{{cite web |last=Murray |first=Scott |url=https://www.sportingnews.com/us/champions-league/news/champions-league-final-2024-live-score-result-real-madrid-dortmund/0a034fd36e18781a619e15f1 |title=Borussia Dortmund 0–2 Real Madrid: Champions League final 2024 – as it happened |website=The Guardian |date=1 June 2024|access-date=2 June 2024|archive-date=2 June 2024|archive-url=https://web.archive.org/web/20240602015436/https://www.sportingnews.com/us/champions-league/news/champions-league-final-2024-live-score-result-real-madrid-dortmund/0a034fd36e18781a619e15f1|url-status=live}}</ref>
+
+Neither side made any lineup changes during the interval. In the 49th minute, [[Toni Kroos]] whipped in a free kick towards the Dortmund penalty area, with Carvajal sending his header over the bar. Madrid continued their pressure as [[Vinícius Júnior]] whipped a cross towards the penalty area, which [[Nico Schlotterbeck]] nodded straight to Carvajal, whose half-volley effort was blocked by [[Ian Maatsen]]. Dortmund pushed again for a goal as Adeyemi played a cross into the penalty area towards Füllkrug, who managed to direct a powerful header that was saved by Courtois. Vinícius played another cross from the left flank to former Dortmund midfielder [[Jude Bellingham]], who missed the ball which flew inches wide of the post. Dortmund then made their first substitution of the final, as Adeyemi came off for [[Marco Reus]].<ref name="SportingNews"/><ref name="TheGuardian"/>
+
+With 15 minutes to go, Carvajal gave Madrid the lead in the 74th minute, heading in Kroos' corner from the left. Madrid had another chance to score, with [[Eduardo Camavinga]] cutting the ball back from the byline on the left to Bellingham, who looked to strike the ball past [[Gregor Kobel]], only for Schlotterbeck to block his effort. Dortmund then made two attacking changes, as captain [[Emre Can]] and [[Julian Brandt]] came off for [[Donyell Malen]] and [[Sébastien Haller]]. Madrid came close to scoring a second again, as Kobel saved Camavinga's effort from outside the box and [[Nacho (footballer, born 1990)|Nacho]]'s header from a Kroos corner.<ref name="SportingNews"/><ref name="TheGuardian"/>
+
+In the 83rd minute, Maatsen played a pass that was intercepted by Bellingham, who teed up Vinícius to his left, with the latter taking a touch and putting the ball past Kobel to double Madrid's lead. Madrid then made their first changes as Bellingham and Kroos came off for [[Joselu]] and [[Luka Modrić]]. Dortmund made their last substitution, with [[Jadon Sancho]] brought off for [[Jamie Bynoe-Gittens]]. Dortmund thought they had pulled one back, as Malen played a cross into the penalty area to Füllkrug, who powered a header into the left-hand side of the net, leaving Courtois with no chance. However, the goal was immediately disallowed by the referee after Füllkrug was shown to be in an offside position. Madrid made their two other substitutions in stoppage time, with [[Rodrygo]] and Vinícius brought off for [[Éder Militão]] and [[Lucas Vázquez]]. The match ended after five minutes of stoppage time, with Madrid winning 2–0.<ref name="SportingNews"/><ref name="TheGuardian"/>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the quarter-final and semi-final draws.<ref>{{cite web |date=15 March 2024 |title=Champions League quarter-final draw: Real Madrid vs Man City, Paris vs Barcelona |url=https://www.uefa.com/uefachampionsleague/news/028b-1a6a23265d8b-103c8d8e89c6-1000/ |access-date=15 March 2024 |website=UEFA.com|publisher=Union of European Football Associations |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602064705/https://www.uefa.com/uefachampionsleague/news/028b-1a6a23265d8b-103c8d8e89c6-1000/ |url-status=live}}</ref>
+
+<onlyinclude>{{Football box
+| date = {{Start date|2024|6|1|df=y}}
+| time = {{CEST|21:00|localtz=BST}}<!--21:00 CEST, 20:00 BST-->
+| team1 = [[Borussia Dortmund]] {{fbaicon|GER}}
+| score = 0–2
+| team2 = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| goals1 = 
+| goals2 = *[[Dani Carvajal|Carvajal]] {{goal|74}}
+*[[Vinícius_Júnior|Vinícius]] {{goal|83}}
+| stadium = [[Wembley Stadium]], [[London]]
+| attendance = 86,212<ref name="report 1 June">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2024/2039970_FR.pdf |title=Full Time Report Final – Borussia Dortmund v Real Madrid |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2024 |access-date=1 June 2024 |archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603052225/http://www.uefa.com/newsfiles/UCL/2024/2039970_FR.pdf |url-status=live}}</ref>
+| referee = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+| report = https://www.uefa.com/uefachampionsleague/match/2039970/
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bvb2324c
+ |pattern_b  = _bvb2324c
+ |pattern_ra = _bvb2324c
+ |pattern_sh = _bvb2324h
+ |pattern_so = _bvb2324hl
+ |leftarm    = F7E503
+ |body       = F7E503
+ |rightarm   = F7E503
+ |shorts     = 000000
+ |socks      = F7E503
+ |title      = {{nowrap|Borussia Dortmund}}<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _realmadridcf2324h
+ |pattern_b  = _realmadridcf2324h
+ |pattern_ra = _realmadridcf2324h
+ |pattern_sh = _realmadridcf2324h
+ |pattern_so = _realmadridcf2324hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Real Madrid}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|SUI}} [[Gregor Kobel]]
+|-
+|RB ||'''26'''||{{flagicon|NOR}} [[Julian Ryerson]]
+|-
+|CB ||'''15'''||{{flagicon|GER}} [[Mats Hummels]] || {{yel|79}}
+|-
+|CB ||'''4''' ||{{flagicon|GER}} [[Nico Schlotterbeck]] || {{yel|40}}
+|-
+|LB ||'''22'''||{{flagicon|NED}} [[Ian Maatsen]]
+|-
+|CM ||'''23'''||{{flagicon|GER}} [[Emre Can]] ([[Captain (association football)|c]]) || || {{suboff|80}}
+|-
+|CM ||'''20'''||{{flagicon|AUT}} [[Marcel Sabitzer]] || {{yel|43}}
+|-
+|RW ||'''10'''||{{flagicon|ENG}} [[Jadon Sancho]] || || {{suboff|87}}
+|-
+|AM ||'''19'''||{{flagicon|GER}} [[Julian Brandt]] || || {{suboff|80}}
+|-
+|LW ||'''27'''||{{flagicon|GER}} [[Karim Adeyemi]] || || {{suboff|72}}
+|-
+|CF ||'''14'''||{{flagicon|GER}} [[Niclas Füllkrug]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''33'''||{{flagicon|GER}} [[Alexander Meyer (footballer, born 1991)|Alexander Meyer]]
+|-
+|GK ||'''35'''||{{flagicon|POL}} [[Marcel Lotka]]
+|-
+|DF ||'''25'''||{{flagicon|GER}} [[Niklas Süle]]
+|-
+|MF ||'''6''' ||{{flagicon|TUR}} [[Salih Özcan]]
+|-
+|MF ||'''8''' ||{{flagicon|GER}} [[Felix Nmecha]]
+|-
+|MF ||'''11'''||{{flagicon|GER}} [[Marco Reus]] || || {{subon|72}}
+|-
+|MF ||'''17'''||{{flagicon|GER}} [[Marius Wolf]]
+|-
+|MF ||'''38'''||{{flagicon|GER}} [[Kjell Wätjen]]
+|-
+|MF ||'''43'''||{{flagicon|ENG}} [[Jamie Bynoe-Gittens]] || || {{subon|87}}
+|-
+|FW ||'''9''' ||{{flagicon|CIV}} [[Sébastien Haller]] || || {{subon|80}}
+|-
+|FW ||'''18'''||{{flagicon|GER}} [[Youssoufa Moukoko]]
+|-
+|FW ||'''21'''||{{flagicon|NED}} [[Donyell Malen]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Edin Terzić (footballer)|Edin Terzić]]
+|}
+|valign="top"|[[File:Borussia Dortmund vs Real Madrid 2024-06-01.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BEL}} [[Thibaut Courtois]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Dani Carvajal]]
+|-
+|CB ||'''22'''||{{flagicon|GER}} [[Antonio Rüdiger]]
+|-
+|CB ||'''6''' ||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]] ([[Captain (association football)|c]])
+|-
+|LB ||'''23'''||{{flagicon|FRA}} [[Ferland Mendy]]
+|-
+|DM ||'''12'''||{{flagicon|FRA}} [[Eduardo Camavinga]]
+|-
+|CM ||'''15'''||{{flagicon|URU}} [[Federico Valverde]]
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]] || || {{suboff|85}}
+|-
+|AM ||'''5''' ||{{flagicon|ENG}} [[Jude Bellingham]] || || {{suboff|85}}
+|-
+|CF ||'''11'''||{{flagicon|BRA}} [[Rodrygo]] || || {{suboff|90}}
+|-
+|CF ||'''7''' ||{{flagicon|BRA}} [[Vinícius Júnior]] || {{yel|35}} || {{suboff|90+4}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|UKR}} [[Andriy Lunin]]
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Kepa Arrizabalaga]]
+|-
+|DF ||'''3''' ||{{flagicon|BRA}} [[Éder Militão]] || || {{subon|90}}
+|-
+|DF ||'''4''' ||{{flagicon|AUT}} [[David Alaba]]
+|-
+|DF ||'''17'''||{{flagicon|ESP}} [[Lucas Vázquez]] || || {{subon|90+4}}
+|-
+|DF ||'''20'''||{{flagicon|ESP}} [[Fran García (footballer, born 1999)|Fran García]]
+|-
+|MF ||'''10'''||{{flagicon|CRO}} [[Luka Modrić]] || || {{subon|85}}
+|-
+|MF ||'''18'''||{{flagicon|FRA}} [[Aurélien Tchouaméni]]
+|-
+|MF ||'''19'''||{{flagicon|ESP}} [[Dani Ceballos]]
+|-
+|MF ||'''21'''||{{flagicon|MAR}} [[Brahim Díaz]]
+|-
+|MF ||'''24'''||{{flagicon|TUR}} [[Arda Güler]]
+|-
+|FW ||'''14'''||{{flagicon|ESP}} [[Joselu]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Carlo Ancelotti]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Dani Carvajal]] (Real Madrid)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials">{{cite web |url=https://www.uefa.com/news-media/news/028d-1ae109919f08-661e0d65ffdb-1000/ |title=Referee teams for 2024 UEFA club competition finals announced |website=UEFA.com|publisher=Union of European Football Associations |date=13 May 2024 |access-date=13 May 2024 |archive-date=13 May 2024 |archive-url=https://web.archive.org/web/20240513142107/https://www.uefa.com/news-media/news/028d-1ae109919f08-661e0d65ffdb-1000--referee-teams-for-2024-uefa-club-competition-finals-anno/ |url-status=live}}</ref>
+<br />Tomaž Klančnik ([[Football Association of Slovenia|Slovenia]])
+<br />Andraž Kovačič ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[François Letexier]] ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Cyril Mugnier ([[French Football Federation|France]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />Nejc Kajtazović ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />Rade Obrenović ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="officials"/>
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+|style="width:60%;vertical-align:top"|
+{{Match rules
+|ref               = <ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Champions-League-2023/24-Online |title=Regulations of the UEFA Champions League, 2023/24 Season |website=UEFA.com|publisher=Union of European Football Associations|location=[[Nyon]] |year=2023|access-date=28 June 2023|archive-date=24 March 2024|archive-url=https://web.archive.org/web/20240324062339/https://documents.uefa.com/r/Regulations-of-the-UEFA-Champions-League-2023/24-Online|url-status=live}}</ref>
+|extra time        = y
+|penalties         = y
+|named subs        = 12
+|additional sub ET = y
+|subs allowed      = 5
+|sub opportunities = y
+}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2024/2039970_TS.pdf |title=Team statistics |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2024 |access-date=1 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20240617221026/https://www.uefa.com/newsfiles/UCL/2024/2039970_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Borussia Dortmund
+!scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|8
+|2
+|-
+!scope=row|Shots on target
+|2
+|0
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|40%
+|60%
+|-
+!scope=row|Corner kicks
+|5
+|1
+|-
+!scope=row|Fouls committed
+|8
+|3
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Borussia Dortmund
+!scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|0
+|2
+|-
+!scope=row|Total shots
+|5
+|11
+|-
+!scope=row|Shots on target
+|1
+|6
+|-
+!scope=row|Saves
+|4
+|1
+|-
+!scope=row|Ball possession
+|54%
+|46%
+|-
+!scope=row|Corner kicks
+|4
+|7
+|-
+!scope=row|Fouls committed
+|4
+|5
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Borussia Dortmund
+!scope="col" style="width:70px"|Real Madrid
+|-
+!scope=row|Goals scored
+|0
+|2
+|-
+!scope=row|Total shots
+|13
+|13
+|-
+!scope=row|Shots on target
+|3
+|6
+|-
+!scope=row|Saves
+|4
+|3
+|-
+!scope=row|Ball possession
+|46%
+|54%
+|-
+!scope=row|Corner kicks
+|9
+|8
+|-
+!scope=row|Fouls committed
+|12
+|8
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|3
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+[[File:Carlo Ancelotti 2016 (cropped).jpg|thumb|upright=.8|[[Real Madrid CF|Real Madrid]]'s [[Carlo Ancelotti]] won his fifth Champions League title as a manager and seventh overall.]] 
+
+With the win, Real Madrid secured their record-extending 15th European Cup/Champions League title, and their sixth in the previous eleven seasons. It maintained Madrid's perfect final record in the Champions League era with nine wins, having last lost the final in 1981.<ref name="RSSSF"/> Madrid won the Champions League [[European Cup and UEFA Champions League records and statistics#Unbeaten sides|unbeaten]] for the first time, with nine wins and four draws.<ref name="summary"/> They also completed their fifth [[Double (association football)|European double]] (after [[1956–57 Real Madrid CF season|1956–57]], [[1957–58 Real Madrid CF season|1957–58]], [[2016–17 Real Madrid CF season|2016–17]] and [[2021–22 Real Madrid CF season|2021–22]]), having won the [[2023–24 La Liga]].<ref>{{cite web |url=https://www.thescore.com/news/2921332 |title=Ancelotti: Real Madrid will be back with same winning 'desire' |work=[[theScore]] |agency=[[Agence France-Presse]] |date=1 June 2024 |access-date=2 June 2024 |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605073353/https://www.thescore.com/news/2921332 |url-status=live}}</ref>
+
+Four Madrid players (Dani Carvajal, Toni Kroos, Luka Modrić, and Nacho) equalled [[Paco Gento]]'s record of winning six European Cup/Champions League titles; all but Kroos have won all six of their titles with Real.<ref>{{cite web |last=Benge |first=James |url=https://www.cbssports.com/soccer/news/real-madrids-ucl-hero-dani-carvajal-eyes-passing-legendary-paco-gento-why-not-dream-of-getting-another/ |title=Real Madrid's UCL hero Dani Carvajal eyes passing legendary Paco Gento: 'Why not dream of getting another?' |work=[[CBS Sports]] |date=1 June 2024 |access-date=2 June 2024 |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602010952/https://www.cbssports.com/soccer/news/real-madrids-ucl-hero-dani-carvajal-eyes-passing-legendary-paco-gento-why-not-dream-of-getting-another/ |url-status=live}}</ref> In addition, Carvajal joined Gento as the only players to start in six different winning finals in the competition. Madrid manager Carlo Ancelotti extended his record as the [[List of European Cup and UEFA Champions League winning managers|most successful manager]] in the competition's history, with his fifth title, and his third in charge of ''Los Blancos''.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/ |title=Champions League final records and statistics |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2024 |access-date=2 June 2024 |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605073408/https://www.uefa.com/uefachampionsleague/news/0252-0e98c715bb79-dea77f56e2bd-1000/ |url-status=live}}</ref>
+
+Meanwhile, Borussia Dortmund manager [[Edin Terzić]] stepped down from his role on 13 June 2024, nearly two weeks after losing the final. He stated that after the final, he asked for a meeting with the club's senior management team because he felt that "the club's new era should begin with a new man on the touchline", and wished Dortmund the very best.<ref>{{cite web |url=http://www.bvb.de/eng/News/Overview/Edin-Terzic-leaves-Borussia-Dortmund |title=Edin Terzic leaves Borussia Dortmund |publisher=Borussia Dortmund |date=13 June 2024 |access-date=11 January 2025 |archive-date=13 June 2024 | archive-url=https://web.archive.org/web/20240613164447/http://www.bvb.de/eng/News/Overview/Edin-Terzic-leaves-Borussia-Dortmund |url-status=dead}}</ref> The next day, Terzić's assistant and former Dortmund player [[Nuri Şahin]] was appointed as head coach on a three-year contract.<ref>{{cite web |url=https://www.bvb.de/eng/News/Overview/Sahin-appointed-as-BVB-head-coach |title=Sahin appointed as BVB head coach |publisher=Borussia Dortmund |date=14 June 2024 |access-date=11 January 2025 |archive-date=14 June 2024 | archive-url=https://web.archive.org/web/20240614151308/https://www.bvb.de/eng/News/Overview/Sahin-appointed-as-BVB-head-coach |url-status=dead}}</ref>
+
+=== Crime===
+After the game, the [[Metropolitan Police]] said that over 2,000 officers had been on duty for the game. 53 arrests had been made, mainly for trying to enter the stadium without a ticket and five arrests for entering the field of play. The game had only just kicked off when pitch invaders approached a number of the players.<ref>{{cite web |last1=Jones |first1=Simon |last2=Jackson |first2=Liz |title=Champions League: Police arrest 53 around Wembley final |website=BBC News |date=1 June 2024 |url=https://www.bbc.co.uk/news/articles/cpdd27jem92o |access-date=2 June 2024 |archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601232350/https://www.bbc.co.uk/news/articles/cpdd27jem92o |url-status=live}}</ref> 
+
+Three people were later charged with entering the field of play contrary to Section 4 of the [[Football (Offences) Act 1991]]. Their court appearances were arranged for June and July 2024. The police said that most attempts to gain access to the ground without a ticket had been thwarted following an investment of £5&nbsp;million, on new security lanes, improved fencing, additional stewards and ticket checks and their increased enforcement of the [[public spaces protection order]], carried out after the mass unrest at the Euro 2020 final in July 2021.<ref>{{cite web |last=Howard |first=Jacqueline |title=Three people charged after Champions League pitch invasion |website=BBC News |date=3 June 2024 |url=https://www.bbc.co.uk/news/articles/c9eemvpe52lo |access-date=3 June 2024 |archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603021109/https://www.bbc.co.uk/news/articles/c9eemvpe52lo |url-status=live}}</ref> A Russian vlogger, Andrey Burim, was later reported to have offered 30&nbsp;million [[ruble]]s to anyone who entered the pitch with his handle on their t-shirts.<ref>{{cite web |last=Neal |first=Will |title=Russian vlogger 'unmasked as instigator behind Champions League chaos' |website=Metro |date=2 June 2024 |url=https://metro.co.uk/2024/06/02/50-fans-arrested-champions-league-final-chaos-20955456/ |access-date=3 June 2024 |archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603013334/https://metro.co.uk/2024/06/02/50-fans-arrested-champions-league-final-chaos-20955456/ |url-status=live}}</ref>
+On 3 June, a Ukrainian man pled guilty at [[Westminster Magistrates' Court]] to entering the field of play and admitted he was inspired by Andrey Burim. He was fined £1,000, which was cut to £660 following his guilty plea. He was also ordered to pay £85 costs and a £264 witness surcharge.<ref>{{cite web |last=Warren |first=Jess |title=Champions League final: Man handed UK ban over pitch invasion bid |website=BBC News |date=3 June 2024 |url=https://www.bbc.co.uk/news/articles/c722mnv9x2mo |access-date=4 June 2024 |archive-date=4 June 2024 |archive-url=https://web.archive.org/web/20240604002408/https://www.bbc.co.uk/news/articles/c722mnv9x2mo |url-status=live}}</ref>
+
+==Broadcasting==
+In Spain, the final was broadcast by [[Televisión Española]] (TVE), with an average of 6.1&nbsp;million viewers (48.8% of share) and a peak of 7.3&nbsp;million (52.5% of share) at 22:44 [[Central European Summer Time|CEST]].<ref name=":1">{{Cite web |last=RTVE |first=PRENSA |date=2 June 2024 |title=El Madrid conquista su 15ª Champions ante más de 6,1 millones en La 1 (48,8%), lo más visto de la temporada |url=https://www.rtve.es/rtve/20240602/madrid-conquista-15a-champions-millones-mas-visto-temporada-4-1-48-8-la-1/16129602.shtml |access-date=2 June 2024 |website=RTVE.es |language=es |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602091753/https://www.rtve.es/rtve/20240602/madrid-conquista-15a-champions-millones-mas-visto-temporada-4-1-48-8-la-1/16129602.shtml |url-status=live}}</ref> In total, at least 10.4&nbsp;million unique viewers watched the match at some point.<ref name=":1" /> In addition, public streaming service [[RTVE Play]] gathered almost 800,000 unique viewers, with a total of 1.5&nbsp;million views.<ref name=":1" /> Post-match celebrations were followed by 3.2&nbsp;million people.<ref name=":1" /> Likewise, the [[Movistar Plus+]] subscription platform broadcast the match, gathering 655,000 viewers.<ref>{{Cite web |last=Romero |first=Gabriel Arias |date=2 June 2024 |title=TVE (48.8%) arrasa con la final de la Champions y la victoria del Real Madrid ante más de 6 millones de espectadores |url=https://www.eldiario.es/vertele/audiencias-tv/sabado-1-junio-2024-final-champions-league-real-madrid-tve-la1-millones-espectadores_1_11415534.html |access-date=2 June 2024 |website=Vertele |language=es |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602090954/https://www.eldiario.es/vertele/audiencias-tv/sabado-1-junio-2024-final-champions-league-real-madrid-tve-la1-millones-espectadores_1_11415534.html |url-status=live}}</ref>
+
+==See also==
+*[[2024 UEFA Europa League final]]
+*[[2024 UEFA Europa Conference League final]]
+*[[2024 UEFA Women's Champions League final]]
+*[[2023–24 Borussia Dortmund season]]
+*[[2023–24 Real Madrid CF season]]
+*[[Borussia Dortmund in international football]] 
+*[[Real Madrid CF in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefachampionsleague/}}
+
+{{UEFA Champions League seasons}}
+{{2023–24 in European football (UEFA)}}
+{{Borussia Dortmund matches}}
+{{Real Madrid CF matches}}
+
+{{DEFAULTSORT:UEFA Champions League final}}
+[[Category:2023–24 UEFA Champions League|Final]]
+[[Category:UEFA Champions League finals|2024]]
+[[Category:Borussia Dortmund matches]]
+[[Category:Real Madrid CF matches]]
+[[Category:2023–24 in German football]]
+[[Category:2023–24 in Spanish men's football]]
+[[Category:2023–24 in English men's football]]
+[[Category:2024 in sport in London]]
+[[Category:Football matches in London]]
+[[Category:Men's football finals in England]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:June 2024 sports events in the United Kingdom]]
+[[Category:Germany–Spain sports relations]]

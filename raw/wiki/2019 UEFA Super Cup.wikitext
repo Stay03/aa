@@ -1,0 +1,544 @@
+{{short description|44th edition of the annual football match organised by UEFA}}
+{{Use dmy dates|date=May 2018}}
+{{Infobox football match
+| title              = 2019 UEFA Super Cup
+| image              = 2019 UEFA Super Cup programme.jpg
+| image_size         = frameless
+| caption            = Match programme cover
+| team1              = [[Liverpool F.C.|Liverpool]]
+| team1association   = {{fbaicon|ENG|size=30px}}
+| team1score         = 2
+| team2              = [[Chelsea F.C.|Chelsea]]
+| team2association   = {{fbaicon|ENG|size=30px}}
+| team2score         = 2
+| details            = After [[Overtime (sports)#Association football|extra time]]<br />Liverpool won 5–4 on [[Penalty shoot-out (association football)|penalties]]
+| date               = {{Start date|2019|8|14|df=y}}
+| stadium            = [[Vodafone Park]]
+| city               = [[Istanbul]]
+| man_of_the_match1a = [[Sadio Mané]] (Liverpool)<ref name="motm">{{cite web |url=https://www.uefa.com/uefasupercup/news/0254-0d417f66c528-e5b666e344ce-1000/ |title=Liverpool beat Chelsea on penalties to win Super Cup |website=[[UEFA]] |publisher=Union of European Football Associations |date=14 August 2019 |access-date=14 August 2019}}</ref>
+| referee            = [[Stéphanie Frappart]] ([[French Football Federation|France]])<ref name="officials"/>
+| attendance         = 38,434<ref name="2019UEFAattendance"/>
+| weather            = Cloudy night<br />{{convert|26|°C|°F}}<br />73% [[humidity]]<ref name="lineup">{{cite web |title=Tactical line-ups |url=https://www.uefa.com/newsfiles/SuperCup/2019/2025638_LU.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=14 August 2019 |access-date=14 August 2019}}</ref>
+| previous           = [[2018 UEFA Super Cup|2018]]
+| next               = [[2020 UEFA Super Cup|2020]]
+}}
+
+The '''2019 UEFA Super Cup''' was the 44th edition of the [[UEFA Super Cup]], an annual [[association football|football]] match organised by [[UEFA]] and contested by the reigning champions of the two main European club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. The match featured two [[The Football Association|English]] sides, [[Liverpool F.C.|Liverpool]], the winners of the [[2018–19 UEFA Champions League]], and [[Chelsea F.C.|Chelsea]], the winners of the [[2018–19 UEFA Europa League]].<ref>{{cite web |url=https://www.uefa.com/uefasupercup/news/0252-0caca214aeb5-a487c182c43c-1000--2019-uefa-super-cup-liverpool-v-chelsea/ |title=2019 UEFA Super Cup: Liverpool v Chelsea |website=[[UEFA]] |publisher=Union of European Football Associations |date=1 June 2019}}</ref> The match was played at [[Vodafone Park]] in [[Istanbul]], [[Turkey]] on 14 August 2019.<ref name="venue">{{cite news |url=https://www.uefa.com/insideuefa/mediaservices/newsid=2502786.html |archive-url=https://web.archive.org/web/20170920181024/http://www.uefa.com/insideuefa/mediaservices/newsid=2502786.html |url-status=dead |archive-date=20 September 2017 |title=Madrid to host UEFA Champions League Final 2019 |website=[[UEFA]] |publisher=Union of European Football Associations |date=20 September 2017 |access-date=20 September 2017}}</ref> The match was the first all-English UEFA Super Cup, and the eighth overall Super Cup to feature two teams from the same country. For the first time, the [[video assistant referee]] (VAR) system was used in the competition.<ref>{{cite news |url=https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2573203.html |archive-url=https://archive.today/20181014043150/https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2573203.html |url-status=dead |archive-date=14 October 2018 |title=VAR to be introduced in 2019/20 UEFA Champions League |website=[[UEFA]] |publisher=Union of European Football Associations |date=27 September 2018 |access-date=27 September 2018}}</ref>
+
+Liverpool won the match 5–4 on penalties following a 2–2 draw after extra time for their fourth UEFA Super Cup title.<ref name="motm"/><ref>{{cite news |title=Adrian the hero as Liverpool beat Chelsea on penalties to win Super Cup |url=https://www.bbc.co.uk/sport/football/49332825 |date=14 August 2019 |access-date=14 August 2019 |agency=BBC}}</ref> As winners, Liverpool were rewarded £4 million in [[prize money]].<ref name="Liverpool at Club World Cup: Five reasons why Qatar tournament matters to Reds">{{citation|title = Liverpool at Club World Cup: Five reasons why Qatar tournament matters to Reds|url = https://www.bbc.com/sport/football/50763243|publisher = BBC Sport|date = 18 December 2019|access-date = 19 December 2019}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participations (bold indicates winners)
+|-
+|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|Winners of the [[2018–19 UEFA Champions League]]
+|5 ('''[[1977 European Super Cup|1977]]''', [[1978 European Super Cup|1978]], [[1984 European Super Cup|1984]], '''[[2001 UEFA Super Cup|2001]]''', '''[[2005 UEFA Super Cup|2005]]''')
+|-
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|Winners of the [[2018–19 UEFA Europa League]]
+|3 ('''[[1998 UEFA Super Cup|1998]]''', [[2012 UEFA Super Cup|2012]], [[2013 UEFA Super Cup|2013]])
+|}
+
+==Venue==
+[[File:Vodafone Park.jpg|thumb|272x272px|The [[Vodafone Park]] in [[Istanbul]] hosted the match.]]
+This was the first UEFA Super Cup held in Turkey, and the third time a UEFA club competition final was held in the country, after the [[2005 UEFA Champions League Final]] at the [[Atatürk Olympic Stadium]] and the [[2009 UEFA Cup Final]] at the [[Şükrü Saracoğlu Stadium]], both also in Istanbul.<ref name="uschost">{{cite web |url=https://www.uefa.com/uefasupercup/news/0250-0c5116bc583b-d571f2c72c22-1000--besiktas-park-istanbul-to-stage-2019-uefa-super-cup/ |title=Beşiktaş Park, Istanbul to stage 2019 UEFA Super Cup |website=[[UEFA]] |publisher=Union of European Football Associations |date=20 September 2017}}</ref>
+
+The stadium is the home ground of Turkish club [[Beşiktaş J.K.|Beşiktaş]]. UEFA regulations regarding naming rights of non-tournament sponsors required that the stadium be referred to as Beşiktaş Park in all UEFA materials.<ref name="uschost" />
+
+===Host selection===
+For the first time ever, an open bidding process was launched on 9 December 2016 by UEFA to select the venues of the club competition finals (UEFA Champions League, UEFA Europa League, UEFA Women's Champions League, and UEFA Super Cup).<ref>{{cite web |url=https://www.uefa.com/insideuefa/mediaservices/newsid=2430054.html |archive-url=https://web.archive.org/web/20170803075015/http://www.uefa.com/insideuefa/mediaservices/newsid=2430054.html |url-status=dead |archive-date=3 August 2017 |title=Lyon to host 2018 UEFA Europa League final |publisher=UEFA |date=9 December 2016}}</ref><ref>{{cite web |url=https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/42/99/42/2429942_DOWNLOAD.pdf |archive-url=https://web.archive.org/web/20170816234613/http://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/42/99/42/2429942_DOWNLOAD.pdf |url-status=dead |archive-date=16 August 2017 |title=UEFA club competition finals 2019: bid regulations |publisher=UEFA}}</ref> Associations had until 27 January 2017 to express interest, and bid dossiers had to be submitted by 6 June 2017.
+
+UEFA announced on 3 February 2017 that nine associations expressed interest in hosting,<ref>{{cite web |url=https://www.uefa.com/insideuefa/mediaservices/newsid=2438931.html |archive-url=https://web.archive.org/web/20170922065810/http://www.uefa.com/insideuefa/mediaservices/newsid=2438931.html |url-status=dead |archive-date=22 September 2017 |title=15 associations interested in hosting 2019 club finals |publisher=UEFA |date=3 February 2017}}</ref> and confirmed on 7 June 2017 that seven associations submitted bids for the 2019 UEFA Super Cup:<ref>{{cite web |url=https://www.uefa.com/insideuefa/mediaservices/newsid=2476504.html |archive-url=https://archive.today/20181014160415/https://www.uefa.com/insideuefa/mediaservices/newsid=2476504.html |url-status=dead |archive-date=14 October 2018 |title=Ten associations bidding to host 2019 club finals |publisher=7 June 2017}}</ref>
+
+{| class="wikitable sortable"
+|+Bidding associations for 2019 UEFA Super Cup
+|-
+! Country !! Stadium !! City !! Capacity !! Notes
+|-
+| {{fba|Albania}} || [[Arena Kombëtare]] || [[Tirana]] || 22,500 ||
+|-
+| {{fba|France}} || [[Stadium Municipal]] || [[Toulouse]] || 33,150 ||
+|-
+| {{fba|Israel}} || [[Sammy Ofer Stadium]] || [[Haifa]] || 30,870 ||
+|-
+| {{fba|Kazakhstan}} || [[Astana Arena]] || [[Astana]] || 30,244 || Also bid for [[2019 UEFA Women's Champions League Final]]
+|-
+| {{fba|Northern Ireland}} || [[Windsor Park]] || [[Belfast]] || 18,434 ||
+|-
+| {{fba|Poland}} || [[Stadion Energa Gdańsk]] || [[Gdańsk]] || 41,160<ref>{{Cite web |url=http://stadionenerga.pl/stadium/numbers-and-interesting-facts |title=Stadion Energa Numbers |access-date=12 March 2018 |archive-date=6 June 2017 |archive-url=https://web.archive.org/web/20170606121136/http://www.stadionenerga.pl/stadium/numbers-and-interesting-facts/ |url-status=dead }}</ref> || Preferred over [[National Stadium, Warsaw|National Stadium]], [[Warsaw]]
+|- bgcolor=#ccffcc
+| {{fba|Turkey}} || [[Vodafone Park]] || [[Istanbul]] || 41,188<ref>{{Cite web |url=http://www.tff.org/Default.aspx?pageID=394&stadID=6097 |title=Stat Arama Detay TFF |website=www.tff.org|access-date=2018-03-12}}</ref> || Also bid for [[2019 UEFA Europa League Final]]
+|}
+
+The following associations expressed interest in hosting but eventually did not submit bids:
+*[[Hungarian Football Federation|Hungary]]: [[Groupama Arena]], [[Budapest]]
+*[[Scottish Football Association|Scotland]]: [[Hampden Park]], [[Glasgow]]
+
+The bid evaluation report was published by UEFA on 14 September 2017.<ref>{{cite web |url=https://www.uefa.com/MultimediaFiles/Download/OfficialDocument/uefaorg/Regulations/02/50/17/48/2501748_DOWNLOAD.pdf |title=UEFA Club Competition Finals 2019 Evaluation Report |website=[[UEFA]] |publisher=Union of European Football Associations}}</ref> [[Vodafone Park]] was selected as the venue by the UEFA Executive Committee on 20 September 2017.<ref>{{cite web |url=https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2498908.html |archive-url=https://web.archive.org/web/20170909220537/http://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2498908.html |url-status=dead |archive-date=9 September 2017 |title=UEFA Executive Committee agenda for Nyon meeting |website=[[UEFA]] |publisher=Union of European Football Associations |date=7 September 2017}}</ref><ref name="venue"/>
+
+==Background==
+The match was the first UEFA Super Cup to feature two English teams, after all-English finals in both of UEFA's seasonal tournaments; [[Liverpool F.C.|Liverpool]] beat [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in the [[2019 UEFA Champions League Final|Champions League]] and [[Chelsea F.C.|Chelsea]] beat [[Arsenal F.C.|Arsenal]] in the [[2019 UEFA Europa League Final|Europa League]]. The match was the eighth overall Super Cup to feature two teams from the same country, previously achieved five times by Spanish teams ([[2006 UEFA Super Cup|2006]], [[2014 UEFA Super Cup|2014]], [[2015 UEFA Super Cup|2015]], [[2016 UEFA Super Cup|2016]] and [[2018 UEFA Super Cup|2018]]) and twice by Italian teams ([[1990 European Super Cup|1990]] and [[1993 European Super Cup|1993]]). This also ensured that it would be the first Super Cup to be won by an English team since Liverpool in [[2005 UEFA Super Cup|2005]].<ref>{{cite web |last=Stokkermans |first=Karel |url=https://www.rsssf.org/tabless/sup.html |title=European Super Cup |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=16 August 2018 |access-date=9 May 2019}}</ref>
+
+This was the eleventh meeting between both clubs in UEFA competition.<ref>{{cite web |url=https://www.uefa.com/printoutfiles/competitions/uefasupercup/2019/e/e_2025638_pk.pdf |archive-url=https://web.archive.org/web/20190920044730/https://www.uefa.com/printoutfiles/competitions/uefasupercup/2019/e/e_2025638_pk.pdf |url-status=dead |archive-date=20 September 2019 |title=Match Press Kit |date=14 August 2019 |work=[[UEFA]] |access-date=15 August 2019}}</ref> Liverpool and Chelsea were drawn against each other in five successive Champions League seasons between [[2004–05 UEFA Champions League|2004–05]] and [[2008–09 UEFA Champions League|2008–09]].<ref>{{cite web |url=https://www.uefa.com/uefasupercup/news/0254-0d3ee047a232-06c7e8e7e350-1000--super-cup-preview-liverpool-v-chelsea/ |title=Super Cup preview: Liverpool v Chelsea |date=13 August 2019 |work=[[UEFA]] |access-date=14 August 2019}}</ref> Chelsea had won three of these meetings (including one [[Overtime (sports)#Association football|after extra time]]) to Liverpool's two, with the other five ending in draws (including one decided on [[Penalty shoot-out (association football)|penalties]] in Liverpool's favour). Each side had advanced against the other two times apiece, with the other tie coming in the [[2005–06 UEFA Champions League]] [[2005–06 UEFA Champions League group stage#Group G|group stage]] as Liverpool's unique qualifying situation that season did not grant them association protection.<ref name="supercupfacts">{{cite web |url=https://www.uefa.com/uefasupercup/news/0254-0d329cf5d9bc-eecaec27abfd-1000--super-cup-facts-liverpool-v-chelsea/ |title=Super Cup facts: Liverpool v Chelsea |date=12 August 2019 |work=[[UEFA]] |access-date=15 August 2019}}</ref><ref>{{cite news |title=Liverpool get in Champions League |url=https://news.bbc.co.uk/sport2/hi/football/teams/l/liverpool/4613695.stm |date=10 June 2005 |access-date=15 August 2019 |agency=BBC}}</ref>
+
+The teams have met twice previously in domestic cup finals, which Chelsea have triumphed on both occasions. First was in the [[2005 Football League Cup Final]], played outside England at the [[Millennium Stadium]] in [[Wales]] while [[Wembley Stadium]] was being rebuilt, where they won 3–2 after extra time, and more recently in the [[2012 FA Cup Final]] at Wembley, winning 2–1.<ref name="supercupfacts" />  They both also contested the English super cup, the [[FA Community Shield]], in [[2006 FA Community Shield|2006]] and Liverpool won 2–1 on that occasion at [[Cardiff]]'s Millennium Stadium.<ref>{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/4780739.stm |title=Chelsea 1–2 Liverpool |agency=BBC |date=13 August 2006 |access-date=22 December 2017}}</ref>
+
+===Officials===
+[[File:2017293155419 2017-10-20 Fussball Frauen Deutschland vs Island - Sven - 1D X MK II - 0017 - B70I0638.jpg|thumb|upright|[[Stéphanie Frappart]], the [[referee]] for the match.]]
+
+On 2 August 2019, UEFA named French official [[Stéphanie Frappart]] as the referee for the match, marking the first time in history a woman would referee the final of a UEFA men's competition. Frappart has been a [[FIFA International Referees List|FIFA referee]] since 2009,<ref>{{cite web |title=Referees: France |url=https://www.fifa.com/development/education-and-technical/referees/association=fra/index.html |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=5 July 2019 |url-status=dead |archive-url=https://web.archive.org/web/20190707083706/https://www.fifa.com/development/education-and-technical/referees/association=fra/index.html |archive-date=7 July 2019}}</ref> and had officiated at the [[2019 FIFA Women's World Cup]] in the month prior, where she was appointed as the referee for the [[2019 FIFA Women's World Cup Final|final]].<ref>{{cite news |date=6 July 2019 |title=Frappart: Final role a huge source of pride |url=https://www.fifa.com/womensworldcup/news/frappart-final-role-a-huge-sense-of-pride |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=6 July 2019 |url-status=live |archive-url=https://web.archive.org/web/20190706143910/https://www.fifa.com/womensworldcup/news/frappart-final-role-a-huge-sense-of-pride |archive-date=6 July 2019}}</ref> She also previously officiated at the [[2015 FIFA Women's World Cup]], [[Football at the 2016 Summer Olympics – Women's tournament|2016 Summer Olympics]] and [[UEFA Women's Euro 2017]],<ref>{{cite news |date=12 March 2018 |title=Stéphanie Frappart retenue parmi les arbitres |language=fr |trans-title=Stéphanie Frappart among selected referees |url=https://www.eurosport.fr/football/coupe-du-monde-feminine/2019/stephanie-frappart-retenue-parmi-les-arbitres_sto7037659/story.shtml |publisher=[[Eurosport]] |agency=Agence France-Presse |access-date=6 July 2019}}</ref> and became the first woman to referee in [[Ligue 1]] in April 2019.<ref>{{cite web |url=https://www.espn.com/soccer/french-ligue-1/story/3837476/stephanie-frappart-becomes-first-woman-to-referee-ligue-1-match |title=Ligue of her own: Female ref makes historic debut |website=ESPN |date=28 April 2019 |access-date=5 July 2019}}</ref> Her compatriot Manuela Nicolosi was chosen as one of the assistant referees, along with Irish official Michelle O'Neill, while [[Cüneyt Çakır]] of Turkey was chosen as the fourth official. French referee [[Clément Turpin]] was named the [[video assistant referee]], presiding over the first use of the technology in the UEFA Super Cup. His fellow countryman [[François Letexier]] was named as one of the assistant video assistant referees for the match, along with [[Massimiliano Irrati]] of Italy, while Mark Borsch of Germany offside VAR.<ref name="officials">{{cite news |url=https://www.uefa.com/news/newsid=2617551.html |archive-url=https://web.archive.org/web/20191110060858/https://www.uefa.com/news/newsid=2617551.html |url-status=dead |archive-date=10 November 2019 |title=Stéphanie Frappart to referee UEFA Super Cup |website=[[UEFA]] |publisher=Union of European Football Associations |date=2 August 2019 |access-date=2 August 2019}}</ref>
+
+==Match==
+
+===Summary===
+[[File:Liverpool vs. Chelsea, UEFA Super Cup 2019-08-14 53.jpg|thumb|left|[[Liverpool F.C.|Liverpool]] winger [[Sadio Mané]] lifting the [[UEFA Super Cup]] after scoring twice against [[Chelsea F.C.|Chelsea]] in the final.]]
+
+Chelsea took the lead after 36 minutes when a pass from [[Christian Pulisic]] played in [[Olivier Giroud]] on the left and his first-time left-foot shot found the right corner of the net. Pulisic had a second goal ruled out shortly after for offside after confirmation from VAR. [[Sadio Mané]] made it 1–1 after 48 minutes when he scored from close range at the second attempt after a flick past the goalkeeper from substitute [[Roberto Firmino]]. The match went to extra time and Sadio Mané got his second goal of the match in the 95th minute with a side-foot into the top right-hand corner of the net after Roberto Firmino found him with a cut-back from the left.<ref>{{cite web |url=https://www.independent.co.uk/sport/football/european/liverpool-vs-chelsea-super-cup-jurgen-klopp-adrian-penalty-shootout-win-goals-a9059081.html |archive-url=https://web.archive.org/web/20190815075249/https://www.independent.co.uk/sport/football/european/liverpool-vs-chelsea-super-cup-jurgen-klopp-adrian-penalty-shootout-win-goals-a9059081.html |archive-date=2019-08-15 |url-access=limited |url-status=live |title=Super Cup joy for Jurgen Klopp as Adrian clinches penalty shootout glory |date=14 August 2019 |work=The Independent |access-date=15 August 2019}}</ref>
+
+Chelsea were awarded a penalty six minutes later when [[Adrián (footballer)|Adrián]] was adjudged to have brought down [[Tammy Abraham]] when he ran onto a pass in the penalty area. [[Jorginho (footballer, born December 1991)|Jorginho]] scored to make it 2–2 with a low shot to the right corner. The match went to a penalty shoot-out and with the score at 5–4 Tammy Abraham saw his low shot saved by Adrián with his right leg to win the game for Liverpool.<ref>{{cite web |url=https://www.theguardian.com/football/2019/aug/14/liverpool-chelsea-uefa-super-cup-match-report |title=Liverpool sink Chelsea to lift Super Cup thanks to Adrián shootout save |date=14 August 2019 |work=Guardian |access-date=15 August 2019}}</ref>
+
+===Details===
+The Champions League winners were designated as the "home" team for administrative purposes.
+
+<onlyinclude>{{Football box
+|date         = {{Start date|2019|8|14|df=y}}
+|time         = {{CEST|21:00|localtz=TRT}}<!--21:00 CEST, 22:00 TRT-->
+|team1        = [[Liverpool F.C.|Liverpool]] {{fbaicon|ENG}}
+|score        = 2–2
+|aet          = yes
+|team2        = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1       =
+*[[Sadio Mané|Mané]] {{goal|48||95}}
+|goals2       =
+*[[Olivier Giroud|Giroud]] {{goal|36}}
+*[[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|101|pen.}}
+|stadium      = [[Vodafone Park]], [[Istanbul]]
+|attendance   = 38,434<ref name="2019UEFAattendance">{{cite web |url=https://www.soccerway.com/match/chelsea-4fGZN2oK/liverpool-lId4TMwf/?mid=C6lqQEEs |title=Liverpool vs. Chelsea – 14 August 2019 |website=Soccerway |publisher=[[Perform Group]] |date=14 August 2019 |access-date=27 August 2019 |url-status=live |archive-url=https://web.archive.org/web/20191003093828/https://us.soccerway.com/matches/2019/08/14/europe/uefa-super-cup/liverpool-fc/chelsea-football-club/3023406/ |archive-date=3 October 2019}}</ref>
+|referee      = [[Stéphanie Frappart]] ([[French Football Federation|France]])
+|report       = https://www.uefa.com/uefasupercup/match/<!--round=2001078/match=-->2025638/
+|penalties1   =
+*[[Roberto Firmino|Firmino]] {{pengoal}}
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{pengoal}}
+*[[Divock Origi|Origi]] {{pengoal}}
+*[[Trent Alexander-Arnold|Alexander-Arnold]] {{pengoal}}
+*[[Mohamed Salah|Salah]] {{pengoal}}
+|penaltyscore = 5–4
+|penalties2   =
+*{{pengoal}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+*{{pengoal}} [[Ross Barkley|Barkley]]
+*{{pengoal}} [[Mason Mount|Mount]]
+*{{pengoal}} [[Emerson Palmieri|Emerson]]
+*{{penmiss}} [[Tammy Abraham|Abraham]]
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _lfc1920h
+ |pattern_b  = _liverpool1920H
+ |pattern_ra = _lfc1920h
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = DD0000
+ |body       = DD0000
+ |rightarm   = DD0000
+ |shorts     = DD0000
+ |socks      = DD0000
+ |title      = Liverpool<ref name="lineup"/>
+}}
+|{{Football kit
+ |pattern_la = _cfc1920h
+ |pattern_b  = _cfc1920H
+ |pattern_ra = _cfc1920h
+ |pattern_sh = _cfc201920h
+ |pattern_so = _cfc1920hlong
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = Chelsea<ref name="lineup"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Adrián (footballer)|Adrián]]
+|-
+|RB ||'''12'''||{{flagicon|ENG}} [[Joe Gomez (footballer)|Joe Gomez]]
+|-
+|CB ||'''32'''||{{flagicon|CMR}} [[Joël Matip]]
+|-
+|CB ||'''4''' ||{{flagicon|NED}} [[Virgil van Dijk]]
+|-
+|LB ||'''26'''||{{flagicon|SCO}} [[Andy Robertson]] || || {{suboff|91}}
+|-
+|CM ||'''7''' ||{{flagicon|ENG}} [[James Milner]] || || {{suboff|64}}
+|-
+|CM ||'''3''' ||{{flagicon|BRA}} [[Fabinho (footballer, born 1993)|Fabinho]]
+|-
+|CM ||'''14'''||{{flagicon|ENG}} [[Jordan Henderson]] ([[Captain (association football)|c]]) || {{yel|85}}
+|-
+|RF ||'''15'''||{{flagicon|ENG}} [[Alex Oxlade-Chamberlain]] || || {{suboff|46}}
+|-
+|CF ||'''11'''||{{flagicon|EGY}} [[Mohamed Salah]]
+|-
+|LF ||'''10'''||{{flagicon|SEN}} [[Sadio Mané]] || || {{suboff|103}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|ENG}} [[Andy Lonergan]]
+|-
+|GK ||'''62'''||{{flagicon|IRL}} [[Caoimhín Kelleher]]
+|-
+|DF ||'''51'''||{{flagicon|NED}} [[Ki-Jana Hoever]]
+|-
+|DF ||'''66'''||{{flagicon|ENG}} [[Trent Alexander-Arnold]] || {{yel|107}} || {{subon|91}}
+|-
+|MF ||'''5''' ||{{flagicon|NED}} [[Georginio Wijnaldum]] || || {{subon|64}}
+|-
+|MF ||'''20'''||{{flagicon|ENG}} [[Adam Lallana]]
+|-
+|MF ||'''23'''||{{flagicon|SUI}} [[Xherdan Shaqiri]]
+|-
+|MF ||'''67'''||{{flagicon|ENG}} [[Harvey Elliott]]
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Roberto Firmino]] || || {{subon|46}}
+|-
+|FW ||'''24'''||{{flagicon|ENG}} [[Rhian Brewster]]
+|-
+|FW ||'''27'''||{{flagicon|BEL}} [[Divock Origi]] || || {{subon|103}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klopp]]
+|}
+|valign="top"|[[File:Liverpool vs Chelsea 2019-08-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Kepa Arrizabalaga]]
+|-
+|RB ||'''28'''||{{flagicon|ESP}} [[César Azpilicueta]] ([[Captain (association football)|c]]) || {{yel|79}}
+|-
+|CB ||'''15'''||{{flagicon|FRA|1974}} [[Kurt Zouma]]
+|-
+|CB ||'''4''' ||{{flagicon|DEN}} [[Andreas Christensen]] || || {{suboff|85}}
+|-
+|LB ||'''33'''||{{flagicon|ITA}} [[Emerson Palmieri]]
+|-
+|DM ||'''5''' ||{{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+|-
+|CM ||'''7''' ||{{flagicon|FRA|1974}} [[N'Golo Kanté]]
+|-
+|CM ||'''17'''||{{flagicon|CRO}} [[Mateo Kovačić]] || || {{suboff|101}}
+|-
+|RF ||'''22'''||{{flagicon|USA}} [[Christian Pulisic]] || || {{suboff|74}}
+|-
+|CF ||'''18'''||{{flagicon|FRA|1974}} [[Olivier Giroud]] || || {{suboff|74}}
+|-
+|LF ||'''11'''||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ARG}} [[Willy Caballero]]
+|-
+|DF ||'''2''' ||{{flagicon|GER}} [[Antonio Rüdiger]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+|-
+|DF ||'''21'''||{{flagicon|ITA}} [[Davide Zappacosta]]
+|-
+|DF ||'''29'''||{{flagicon|ENG}} [[Fikayo Tomori]] || || {{subon|85}}
+|-
+|MF ||'''8''' ||{{flagicon|ENG}} [[Ross Barkley]] || || {{subon|101}}
+|-
+|MF ||'''19'''||{{flagicon|ENG}} [[Mason Mount]] || || {{subon|74}}
+|-
+|MF ||'''47'''||{{flagicon|SCO}} [[Billy Gilmour (footballer)|Billy Gilmour]]
+|-
+|FW ||'''9''' ||{{flagicon|ENG}} [[Tammy Abraham]] || || {{subon|74}}
+|-
+|FW ||'''10'''||{{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]]
+|-
+|FW ||'''16'''||{{flagicon|BRA}} [[Kenedy (footballer)|Kenedy]]
+|-
+|FW ||'''23'''||{{flagicon|BEL}} [[Michy Batshuayi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ENG}} [[Frank Lampard]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Sadio Mané]] (Liverpool)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Manuela Nicolosi ([[French Football Federation|France]])
+<br />Michelle O'Neill ([[Football Association of Ireland|Republic of Ireland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Clément Turpin]] ([[French Football Federation|France]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''<ref name="officials"/>
+<br />[[François Letexier]] ([[French Football Federation|France]])
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Offside video assistant referee]]:'''<ref name="officials"/>
+<br />Mark Borsch ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Super Cup 2019 |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/60/88/44/2608844_DOWNLOAD.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |url-status=dead |archive-url=https://web.archive.org/web/20200805122222/https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/60/88/44/2608844_DOWNLOAD.pdf |archive-date=5 August 2020}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of three substitutions, with a fourth allowed in extra time
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team_statistics">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2019/2025638_TS.pdf |title=Team statistics |website=[[UEFA]] |publisher=Union of European Football Associations |date=14 August 2019 |access-date=14 August 2019 |url-status=live |archive-url=https://web.archive.org/web/20240617223001/https://www.uefa.com/newsfiles/SuperCup/2019/2025638_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|9
+|7
+|-
+!scope=row|Shots on target
+|4
+|2
+|-
+!scope=row|Saves
+|1
+|4
+|-
+!scope=row|Ball possession
+|51%
+|49%
+|-
+!scope=row|Corner kicks
+|4
+|2
+|-
+!scope=row|Fouls committed
+|1
+|4
+|-
+!scope=row|Offsides
+|1
+|3
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|9
+|6
+|-
+!scope=row|Shots on target
+|5
+|0
+|-
+!scope=row|Saves
+|0
+|4
+|-
+!scope=row|Ball possession
+|53%
+|47%
+|-
+!scope=row|Corner kicks
+|3
+|4
+|-
+!scope=row|Fouls committed
+|4
+|5
+|-
+!scope=row|Offsides
+|1
+|6
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|2
+|7
+|-
+!scope=row|Shots on target
+|2
+|4
+|-
+!scope=row|Saves
+|3
+|1
+|-
+!scope=row|Ball possession
+|51%
+|49%
+|-
+!scope=row|Corner kicks
+|1
+|1
+|-
+!scope=row|Fouls committed
+|5
+|3
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|Chelsea
+|-
+!scope=row|Goals scored
+|2
+|2
+|-
+!scope=row|Total shots
+|20
+|20
+|-
+!scope=row|Shots on target
+|11
+|6
+|-
+!scope=row|Saves
+|4
+|9
+|-
+!scope=row|Ball possession
+|52%
+|48%
+|-
+!scope=row|Corner kicks
+|8
+|7
+|-
+!scope=row|Fouls committed
+|10
+|12
+|-
+!scope=row|Offsides
+|2
+|11
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2019 UEFA Champions League final]]
+*[[2019 UEFA Europa League final]]
+*[[2019–20 UEFA Champions League]]
+*[[2019–20 UEFA Europa League]]
+*[[2019–20 Chelsea F.C. season]]
+*[[2019–20 Liverpool F.C. season]] 
+*[[Chelsea F.C. in international football]]
+*[[English football clubs in international competitions]]
+*[[List of football matches between British clubs in UEFA competitions]]
+*[[Liverpool F.C. in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* {{Official website|https://www.uefa.com/uefasupercup/}}
+* [https://www.uefa.com/uefasupercup/history/2019/ 2019 UEFA Super Cup: Istanbul], UEFA.com
+* [https://www.uefa.com/newsfiles/SuperCup/2019/2025638_FR.pdf Full Time Report], UEFA.com
+
+{{UEFA Super Cup}}
+{{2019–20 in European football (UEFA)}}
+{{2019–20 European club competitions}}
+{{Liverpool F.C. matches}}
+{{Chelsea F.C. matches}}
+
+[[Category:UEFA Super Cup matches|2019]]
+[[Category:2019–20 in Turkish football|Super Cup]]
+[[Category:August 2019 sports events in Turkey]]
+[[Category:Liverpool F.C. matches|Super Cup 2019]]
+[[Category:Chelsea F.C. matches|Super Cup 2019]]
+[[Category:2019–20 in English men's football|Super Cup]]
+[[Category:Football competitions in Istanbul|2019]]
+[[Category:Football matches in Istanbul|2019]]
+[[Category:2019 in Istanbul]]
+[[Category:English football clubs in international competitions]]
+[[Category:2019–20 in European men's continental football]]
+[[Category:Football matches in Turkey]]

@@ -1,0 +1,340 @@
+{{Infobox football match
+| title      = 2024 FA Cup final
+| image      = London Wembley.jpg
+| caption    = The match took place at [[Wembley Stadium]]
+| event      = [[2023–24 FA Cup]]
+| date       = {{Start date|2024|5|25|df=y}}
+| team1      = [[Manchester City F.C.|Manchester City]]
+| team1score = 1
+| team2      = [[Manchester United F.C.|Manchester United]]
+| team2score = 2
+| details    = 
+| stadium    = [[Wembley Stadium]]
+| city       = [[London]]
+| man_of_the_match1a = [[Kobbie Mainoo]] (Manchester United)<ref name="MOTM">{{cite web|url=https://www.skysports.com/football/man-city-vs-man-utd/report/504674|title=Man City 1–2 Man Utd: Erik ten Hag's side end season on high with stunning FA Cup final win at Wembley|website=Sky Sports|date=25 May 2024|access-date=25 May 2024}}</ref>
+| referee    = [[Andrew Madley]] ([[West Riding County Football Association|West Yorkshire]])<ref name="officials">{{cite news |title=The match officials team to oversee the Emirates FA Cup Final have been appointed|publisher=[[The Football Association]] |work=TheFA.com |url=https://www.thefa.com/news/2024/may/08/emirates-fa-cup-final-match-officials-appointed-20240805 |date=8 May 2024 |accessdate=8 May 2024 }}</ref>
+| attendance = 84,814
+| weather    = Sunny
+| previous   = [[2023 FA Cup final|2023]]
+| next       = [[2025 FA Cup final|2025]]
+}}
+The '''2024 FA Cup final''' was a [[Association football|football]] match played at [[Wembley Stadium]] in London, England, on 25 May 2024 to determine the winners of the [[2023–24 FA Cup]], Manchester United. It was the [[List of FA Cup finals|143rd final]] of English football's primary cup competition in the [[FA Cup|Football Association Challenge Cup]].
+
+The final was contested between holders [[Manchester City F.C.|Manchester City]] and [[Manchester derby|local rivals]] [[Manchester United F.C.|Manchester United]]. The match was a repeat of the [[2023 FA Cup final|previous final]], which City won 2–1.<ref>{{cite web |last=McNulty |first=Phil |author-link=Phil McNulty |title=Manchester City 2–1 Manchester United: Ilkay Gundogan double settles 2023 FA Cup final |url=https://www.bbc.co.uk/sport/football/65785637 |website=[[BBC Sport]] |location=London |date=3 June 2023 |access-date=3 June 2023}}</ref> It was the second time the two sides have met in the final, and was the first to feature the same teams in consecutive seasons since [[1885 FA Cup final|1885]].
+
+Manchester United won the match for their 13th FA Cup title, avenging their defeat by the same scoreline in the previous season. As winners, Manchester United qualified for the league phase of the [[2024–25 UEFA Europa League]]. They also qualified for the [[2024 FA Community Shield]], where they faced City as the league champions. As their [[Manchester United W.F.C.|women's team]] won the [[2024 Women's FA Cup final]], Manchester United became the fifth club, and the first since City in 2019, to win both the men's and women's FA Cup in the same season.<ref>{{Cite web |date=25 May 2024 |title=Manchester United enters list of teams to win both men's and women's FA Cup in the same season |url=https://sportstar.thehindu.com/football/manchester-united-enters-list-of-teams-to-win-both-mens-and-womens-fa-cup-in-the-same-season-football-news/article68216210.ece |access-date=25 May 2024|website=The Hindu}}</ref>
+
+==Route to the final==
+{{main|2023–24 FA Cup}}
+
+===Manchester City===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;margin:0"
+|-
+|+Manchester City's route to the final
+|-
+!scope="col" style="width:25px"|Round
+!scope="col" style="width:180px"|Opposition
+!scope="col" style="width:70px"|Score
+|-
+!scope=row style="text-align:center"|3rd
+|[[Huddersfield Town A.F.C.|Huddersfield Town]] ([[City of Manchester Stadium|H]])
+|5–0
+|-
+!scope=row style="text-align:center"|4th
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]] ([[Tottenham Hotspur Stadium|A]])
+|1–0
+|-
+!scope=row style="text-align:center"|5th
+|[[Luton Town F.C.|Luton Town]] ([[Kenilworth Road|A]])
+|6–2
+|-
+!scope=row style="text-align:center"|QF
+|[[Newcastle United F.C.|Newcastle United]] ([[City of Manchester Stadium|H]])
+|2–0
+|-
+!scope=row style="text-align:center"|SF
+|[[Chelsea F.C.|Chelsea]] ([[Wembley Stadium|N]])
+|1–0
+|-
+|colspan="3"|<small>'''Key:''' (H) = Home venue; (A) = Away venue; (N) = [[Neutral venue]]</small>
+|}
+</div>
+[[Manchester City F.C.|Manchester City]] entered the tournament in the third round, as a [[Premier League]] team. They began with a 5–0 home victory over [[Huddersfield Town A.F.C.|Huddersfield Town]] at the [[City of Manchester Stadium|Etihad Stadium]] with two goals for City from [[Phil Foden]], one from [[Julián Álvarez]], an [[own goal]] from [[Ben Jackson (footballer, born 2001)|Ben Jackson]] and [[Jérémy Doku]].<ref>{{Cite news |last=Rose |first=Gary |date=7 January 2024 |title=Manchester City 5–0 Huddersfield |work=BBC Sport |url=https://www.bbc.com/sport/football/67895100 |access-date=20 April 2024}}</ref> They then defeated [[Tottenham Hotspur F.C.|Tottenham Hotspur]] away in the fourth round in a 1–0 victory with a sole goal for City from [[Nathan Aké]].<ref>{{Cite news |last=McNulty |first=Phil |date=26 January 2024 |title=Tottenham Hotspur 0–1 Manchester City |work=BBC Sport |url=https://www.bbc.com/sport/football/68097502 |access-date=20 April 2024}}</ref> In the fifth round, they beat [[Luton Town F.C.|Luton Town]] 6–2 away at [[Kenilworth Road]] with five goals from [[Erling Haaland]] and one from [[Mateo Kovačić]] and two goals for Luton from [[Jordan Clark (English footballer)|Jordan Clark]].<ref>{{Cite news |last=Drury |first=Sam |date=27 February 2024 |title=Luton Town 2–6 Manchester City |work=BBC Sport |url=https://www.bbc.com/sport/football/68417647 |access-date=20 April 2024}}</ref> 
+
+In the quarter-final match, Manchester City hosted [[Newcastle United F.C.|Newcastle United]] at the Etihad Stadium where they came out 2–0 winners in the end which put them through to the semi-finals with two goals for City from [[Bernardo Silva]].<ref>{{Cite news |last=McNulty |first=Phil |date=16 March 2024 |title=Manchester City 2–0 Newcastle United |work=BBC Sport |url=https://www.bbc.com/sport/football/68573294 |access-date=20 April 2024}}</ref> In the semi-final match, held at the neutral venue of [[Wembley Stadium]], Manchester City defeated [[Chelsea F.C.|Chelsea]] in a 1–0 victory to qualify for a second consecutive FA Cup final with the sole goal for City from Silva.<ref>{{Cite news |last=McNulty |first=Phil |date=20 April 2024 |title=Manchester City 1–0 Chelsea |work=BBC Sport |url=https://www.bbc.com/sport/football/68860454 |access-date=20 April 2024}}</ref> This was the third time that City played in consecutive FA Cup finals, having previously done so in the [[1933 FA Cup final|1933]] and [[1934 FA Cup final|1934]] as well as [[1955 FA Cup final|1955]] and [[1956 FA Cup final|1956]] finals.
+
+===Manchester United===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;margin:0"
+|-
+|+Manchester United's route to the final
+|-
+!scope="col" style="width:25px"|Round
+!scope="col" style="width:180px"|Opposition
+!scope="col" style="width:70px"|Score
+|-
+!scope=row style="text-align:center"|3rd
+|[[Wigan Athletic]] ([[DW Stadium|A]])
+|2–0
+|-
+!scope=row style="text-align:center"|4th
+|[[Newport County A.F.C.|Newport County]] ([[Rodney Parade|A]])
+|4–2
+|-
+!scope=row style="text-align:center"|5th
+|[[Nottingham Forest]] ([[City Ground|A]])
+|1–0
+|-
+!scope=row style="text-align:center"|QF
+|[[Liverpool F.C.|Liverpool]] ([[Old Trafford|H]])
+|4–3 {{aet}}
+|-
+!scope=row style="text-align:center"|SF
+|[[Coventry City]] ([[Wembley Stadium|N]])
+|3–3 {{aet}}<br />{{pso|4–2}}
+|-
+|colspan="3"|<small>'''Key:''' (H) = Home venue; (A) = Away venue; (N) = [[Neutral venue]]</small>
+|}
+</div>
+As a Premier League team, [[Manchester United F.C.|Manchester United]] also entered the tournament in the third round. They began their campaign with a 2–0 away win over [[EFL League One|League One]] side [[Wigan Athletic F.C.|Wigan Athletic]] with goals from [[Diogo Dalot]] and a [[Penalty kick (association football)|penalty]] from [[Bruno Fernandes]].<ref>{{Cite news |last=Emons |first=Michael |date=8 January 2024 |title=Wigan 0–2 Man Utd: Man Utd see off League One Wigan in FA Cup |work=BBC Sport |url= https://www.bbc.co.uk/sport/football/67914807 |access-date=21 April 2024}}</ref> before recording a 4–2 away win over [[EFL League Two|League Two]] side [[Newport County A.F.C.|Newport County]] at [[Rodney Parade]]. Fernandes scored the opener, before [[Kobbie Mainoo]] scored his first goal for United. Newport then managed to bring the tie level with goals from [[Bryn Morris]] and [[Will Evans (footballer, born 1997)|Will Evans]], but goals from [[Antony (footballer, born 2000)|Antony]] and [[Rasmus Højlund]] secured United's passage to the next round.<ref>{{Cite news |last=McNulty |first=Phil |date=28 January 2024 |title=Newport County 2–4 Man Utd: Manchester United avoid upset at Rodney Parade |work=BBC Sport |url= https://www.bbc.co.uk/sport/football/68110828 |access-date=21 April 2024}}</ref> In the fifth round, United travelled to the [[City Ground]] and defeated [[Nottingham Forest F.C.|Nottingham Forest]] 1–0, with [[Casemiro]] heading a late winner.<ref>{{Cite news |last=Stone |first=Simon |date=28 February 2024 |title=Nottingham Forest 0–1 Manchester United: Casemiro scores winner to book last-eight spot |work=BBC Sport |url= https://www.bbc.co.uk/sport/football/68428925 |access-date=21 April 2024}}</ref>
+
+In the quarter-finals, United faced rivals [[Liverpool F.C.|Liverpool]] at [[Old Trafford]]; this was only time in the FA Cup campaign that they were drawn at home. [[Scott McTominay]] gave United the lead within 10 minutes, before [[Alexis Mac Allister]] and [[Mohamed Salah]] scored within minutes to Liverpool a 2–1 lead going into half-time. United looked like they were going out of the FA Cup at the hands of their rivals at home for the first time in over 100 years, but [[Antony (footballer, born 2000)|Antony]] scored a late-equaliser to send the match to extra time. Before the interval, [[Harvey Elliott]] gave Liverpool the lead again, but [[Marcus Rashford]] made it 3–3. In the final minutes of extra time, [[Amad Diallo]] scored the winning goal. Amad was given a yellow second card and sent off for taking his shirt off in celebration, having picked up a yellow card earlier in the match.<ref>{{Cite news |last=McNulty |first=Phil |date=17 March 2024 |title=Manchester United 4–3 Liverpool (aet): Amad Diallo scores dramatic extra-time winner to send hosts into semis |work=BBC Sport |url= https://www.bbc.co.uk/sport/football/68573308 |access-date=21 April 2024}}</ref>
+
+In the semi-final match, also held at Wembley, United faced [[Coventry City F.C.|Coventry City]], who were the last side not from the top-flight still in the competition. Scott McTominay, [[Harry Maguire]] and Bruno Fernandes gave United a comfortable 3–0 lead, which they squandered, with goals from [[Ellis Simms]], [[Callum O'Hare]], and a stoppage-time penalty from [[Haji Wright]] which sent the match into extra time. In the final minute of extra time, [[Victor Torp]] looked to have completed a miraculous comeback and sent Coventry to the final, but the goal was ruled out by [[Video assistant referee|VAR]] in a moment of controversy. In the [[Penalty shoot-out (association football)|penalty shootout]], United defeated Coventry 4–2, with Højlund scoring the winning penalty to set up a [[Manchester derby]] final for a second successive season.<ref>{{Cite news |last=Stone |first=Simon |date=21 April 2024 |title=Coventry City 3–3 Manchester United (aet; 2–4 on pens): Man Utd scrape past Coventry to reach FA Cup final |work=BBC Sport |url= https://www.bbc.co.uk/sport/football/68428925 |access-date=21 April 2024}}</ref> This was the sixth time that United had played in two successive FA Cup finals and the first time since [[2004 FA Cup final|2004]] and [[2005 FA Cup final|2005]].{{cn|date=January 2026}}
+
+==Pre-match==
+[[The Football Association]] confirmed that the 2024 final would begin at 15:00, the same time as the previous FA Cup final did, as agreed by the [[Metropolitan Police]].<ref name="FA KO TV money">{{cite web |date=23 April 2024 |title=The Emirates FA Cup Final Will Take Place At Wembley At 3pm On Saturday 25 May 2024 |url=https://www.thefa.com/news/2024/apr/22/emirates-fa-cup-final-2023-24-20242204 |access-date=25 May 2024 |website=[[The Football Association]] |location=London}}</ref>
+
+Prior to the match, considerable attention was focused on the future of Manchester United manager [[Erik ten Hag]], as his side finished 8th in the Premier League, the club's lowest position since its formation in 1992. Reports indicated that the club had decided to sack him regardless of the final result.<ref name="SkySports">{{cite news|last=Yew|first=Oliver|url=https://www.skysports.com/football/man-city-vs-man-utd/report/504674|title=Man City 1-2 Man Utd: Erik ten Hag's side end season on high with stunning FA Cup final win at Wembley|date=26 May 2024|access-date=26 May 2024|website=Sky Sports}}</ref><ref>{{cite news|last=Steinberg|first=Jacob|url=https://www.theguardian.com/football/article/2024/may/24/manchester-united-decide-to-sack-erik-ten-hag-regardless-of-cup-final-outcome|title=Manchester United decide to sack Erik ten Hag regardless of Cup final outcome|newspaper=The Guardian|date=24 May 2024|access-date=26 May 2024}}</ref><ref>{{cite news|url=https://www.bbc.com/sport/football/articles/c033gxr2w7lo|title=Erik ten Hag sack rumours: Manchester United manager prepares for FA Cup final amid reports of firing|first=Simon|last=Stone|website=BBC Sport|date=24 May 2024|access-date=26 May 2024}}</ref>
+
+Manchester City were considered as heavy favourites to win the match by the English media; having clinched a record-breaking fourth successive Premier League title the previous week,<ref>{{Cite web |title=Man City make history with fourth title in a row |url=https://www.premierleague.com/news/4019801 |access-date=2025-01-06 |website=www.premierleague.com |language=en}}</ref> a win would make them the first team to win a [[Double (association football)|league and cup double]] in successive seasons and would also make them the first team to retain the FA Cup since [[Arsenal F.C.|Arsenal]] in 2015.<ref>{{Cite news |last=Murray |first=Scott |date=2015-05-30 |title=The 2015 FA Cup final: Arsenal 4-0 Aston Villa, as it happened |url=https://www.theguardian.com/football/live/2015/may/30/arsenal-v-aston-villa-fa-cup-final-live |access-date=2025-01-06 |work=the Guardian |language=en-GB |issn=0261-3077}}</ref> City had beaten United in both league fixtures between them, winning 3–0 at [[Old Trafford]]<ref>{{Cite news |date=2023-10-27 |title=Manchester United 0-3 Manchester City: Erling Haaland and Phil Foden secure derby victory |url=https://www.bbc.co.uk/sport/football/67185669 |access-date=2025-01-06 |work=BBC Sport |language=en-GB}}</ref> and 3–1 at the [[City of Manchester Stadium|Etihad Stadium]].<ref>{{Cite news |date=2024-03-01 |title=Man City 3-1 Man Utd: Phil Foden scores twice as home side come back to win Manchester derby |url=https://www.bbc.co.uk/sport/football/68395537 |access-date=2025-01-06 |work=BBC Sport |language=en-GB}}</ref> Meanwhile, a win for United would secure European football, having failed to qualify due to their league position.
+
+===Broadcasting===
+The final was shown live on [[BBC One]], [[BBC iPlayer]], [[ITV1]], [[ITVX]], [[UTV (TV channel)|UTV]] and [[STV (TV channel)|STV]].<ref name="FA KO TV money" /> Live text commentary was available on the [[BBC Sport]] website and app.<ref>{{Cite web |title=FA Cup Final TV Guide |url=https://soccersat.com/news/Where-to-watch-Man-City-vs-Man-United-in-FA-Cup-Final |access-date=2024-05-24 |website=soccersat.com}}</ref> The BBC coverage was led by [[Gary Lineker]] alongside [[Wayne Rooney]] and [[Micah Richards]], with the match commentary provided by [[Guy Mowbray]] and [[Alan Shearer]].<ref name="BBC broadcast">{{cite web | date=25 May 2024 |title=Men's FA Cup Final 2024 - How to watch Manchester City v Manchester United on TV and BBC |url=https://www.bbc.com/mediacentre/articles/2024/mens-fa-cup-final-manchester-city-v-manchester-united |website=BBC |access-date=25 May 2024}}</ref> The ITV coverage was led by [[Mark Pougatch]], who was joined by [[Karen Carney]], [[Roy Keane]] and [[Ian Wright]]; their commentary team consisted of [[Sam Matterface]], [[Lee Dixon]] and [[Ally McCoist]], with [[Gabriel Clarke]] providing interviews. National radio commentary was provided by [[BBC Radio 5 Live]] and [[Talksport]],<ref>{{cite web |first=James |last=Walters |date=23 May 2024 |title=What channel is Man City v Man Utd FA Cup final match on? TV coverage, live stream and kick-off time |url=https://www.radiotimes.com/tv/sport/football/man-city-man-utd-fa-cup-final-2023-24-preview/ |website=RadioTimes.com |access-date=25 May 2024}}</ref> while [[BBC Radio Manchester]] covered the match for local radio.<ref>{{cite web |title=BBC Radio Manchester - Manchester Total Sport: Commentary, Manchester City v Manchester United |url=https://www.bbc.co.uk/programmes/p0hxrq95 |website=BBC |access-date=25 May 2024}}</ref>
+
+===Match officials===
+The match officials were confirmed by the FA on 8 May 2024 with [[Andrew Madley]] ([[West Riding County Football Association|West Riding County football association]]) acting as the referee who previously refereed [[FA Trophy]] finals and [[FA Vase]] finals in his career. He was joined by assistant referees Harry Lennard ([[Sussex County Football Association|Sussex County football association]]) and Nick Hopton ([[Derbyshire County Football Association|Derbyshire County football association]]) with the fourth official being Simon Hooper ([[Wiltshire Football Association|Wiltshire football association]]) and the reserve assistant referee was Tim Wood ([[Gloucestershire County Football Association|Gloucestershire County football association]]). The video assistant referee was [[Michael Oliver (referee)|Michael Oliver]] ([[Durham County Football Association|Durham County football association]]), the support VAR was [[Peter Bankes]] ([[Liverpool County Football Association|Liverpool County football association]]) and the assistant VAR was Stuart Burt ([[Northamptonshire Football Association|Northamptonshire football association]]).<ref name="officials"/>
+
+==Match==
+===Summary===
+[[File:FA Cup Final.jpg|thumb|[[Wembley Stadium]] during the 2024 FA Cup final between [[Manchester City F.C.|Manchester City]] and [[Manchester United F.C.|Manchester United]].]]
+
+The match kicked off at 15:00 in front of 84,814 fans. [[Marcus Rashford]] was through on goal immediately, but [[Kyle Walker]] managed to beat the United forward to the ball. Manchester City then attacked, and [[Lisandro Martínez]] made contact with [[Erling Haaland]] in the penalty area. City appealed for a penalty, but the appeal was dismissed by the referee. Six minutes later, [[Bruno Fernandes]] found [[Alejandro Garnacho]] on the right-hand side of the penalty area, before his shot was saved comfortably by [[Stefan Ortega]]. In the 30th minute, Garnacho opened the scoring for United after a mistake at the back as [[Joško Gvardiol]] looked to head a deep pass from Diogo Dalot back to Ortega, who had come off his line too far, which enabled the United forward to pass it into an empty net. United had the ball in the back of the net again as Garnacho teed up Rashford, who guided the ball at the back post, but it did not count and the assistant referee had his flag up. In the 39th minute, Rashford played a ball over the top to Garnacho on the right-hand side, who picked out Fernandes in the centre, and the United captain played a first-time pass to Kobbie Mainoo who burst into the penalty area and scored to double United's lead.<ref name="SportingNews">{{cite web|last=Cox|first=Brad|url=https://www.sportingnews.com/us/soccer/news/man-city-man-united-fa-cup-final-updates-live-score-result-stats-lineups/25f79bc609845b204a7e7c42|title=Man City vs Man United FA Cup final score, result, stats as Garnacho and Mainoo give Ten Hag famous triumph|work=Sporting News|date=26 May 2024|access-date=26 May 2024}}</ref>
+
+In the 55th minute, substitute [[Jérémy Doku]] played a pass into the penalty area which fell to Haaland, who struck the ball off the crossbar. City continued their pressure, with Walker's effort from outside the penalty area being saved by [[André Onana]]. City came close again, as substitute Julián Álvarez scuffed his effort wide after a one-on-one against Onana. With three minutes to play, Doku received the ball on the left-hand side and shifted it onto his right before shooting towards the bottom corner from just outside the penalty area into the bottom left-hand corner of the net to pull one back. However, United held on after seven minutes of stoppage time and the match ended 2–1 in their favour.<ref name="SportingNews"/>
+
+===Details===
+<onlyinclude>{{#invoke:football box|main
+| date    = {{Start date|2024|5|25|df=y}}
+| time    = 15:00 [[British Summer Time|BST]]
+| team1   = [[Manchester City F.C.|Manchester City]]
+| score   = 1–2
+| team2   = [[Manchester United F.C.|Manchester United]]
+| goals1  =
+*[[Jérémy Doku|Doku]] {{goal|87}}
+| goals2  =
+*[[Alejandro Garnacho|Garnacho]] {{goal|30}}
+*[[Kobbie Mainoo|Mainoo]] {{goal|39}}
+| stadium = [[Wembley Stadium]], [[London]]
+| attendance = 84,814
+| referee  = [[Andrew Madley]] ([[West Riding County Football Association|West Yorkshire]])
+| report   = https://www.bbc.co.uk/sport/football/live/c2jj8k5vym5t
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mancity2324H
+ |pattern_b  = _mancity2324h
+ |pattern_ra = _mancity2324h
+ |pattern_sh = _mancity2324h
+ |pattern_so = _mancity2324hl
+ |leftarm    = 98C5E9
+ |body       = 98C5E9
+ |rightarm   = 98C5E9
+ |shorts     = FFFFFF
+ |socks      = 98C5E9
+ |title      = {{nowrap|Manchester City}}<ref name="formation2">{{cite web |url=https://www.nytimes.com/athletic/live-blogs/manchester-city-manchester-united-live-updates-fa-cup-final-score-result/h6SfexiOuy1R/ |title=How Manchester United won the FA Cup with a 2–1 victory against Manchester City thanks to Garnacho and Mainoo goals|url-access=registration |work=[[The Athletic]] |via=[[The New York Times]]|date=25 May 2024 |access-date=26 May 2024}}</ref><ref name="formation3">{{cite web |url=https://www.espn.co.uk/football/match/_/gameId/702151/manchester-united-manchester-city |title=Man United 2–1 Man City (25 May, 2024) Final Score |website=[[ESPN]] |date=25 May 2024 |access-date=26 May 2024}}</ref><ref name="formation4">{{cite web |url=https://int.soccerway.com/matches/2024/05/25/england/fa-cup/manchester-city-football-club/manchester-united-fc/4338240/ |title=Manchester City vs. Manchester United – 25 May 2024 |website=Soccerway |publisher=[[Stats Perform]] |date=25 May 2024 |access-date=26 May 2024}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _manutd2324h
+ |pattern_b  = _manutd2324h
+ |pattern_ra = _manutd2324h
+ |pattern_sh = _mufc2324h2
+ |pattern_so = _mufc2324hl
+ |leftarm    = E20E0E
+ |body       = E20E0E
+ |rightarm   = E20E0E
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = {{nowrap|Manchester United}}<ref name="formation2"/><ref name="formation3"/><ref name="formation4"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''18'''||{{#invoke:flag|icon|GER}} [[Stefan Ortega]]
+|-
+|RB ||'''2''' ||{{#invoke:flag|icon|ENG}} [[Kyle Walker]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||{{#invoke:flag|icon|ENG}} [[John Stones]]
+|-
+|CB ||'''6''' ||{{#invoke:flag|icon|NED}} [[Nathan Aké]] || || {{suboff|46}}
+|-
+|LB ||'''24'''||{{#invoke:flag|icon|CRO}} [[Joško Gvardiol]]
+|-
+|CM ||'''16'''||{{#invoke:flag|icon|ESP}} [[Rodri (footballer, born 1996)|Rodri]]
+|-
+|CM ||'''8''' ||{{#invoke:flag|icon|CRO}} [[Mateo Kovačić]] || || {{suboff|46}}
+|-
+|RW ||'''20'''||{{#invoke:flag|icon|POR}} [[Bernardo Silva]]
+|-
+|AM ||'''17'''||{{#invoke:flag|icon|BEL}} [[Kevin De Bruyne]] || || {{suboff|56}}
+|-
+|LW ||'''47'''||{{#invoke:flag|icon|ENG}} [[Phil Foden]]
+|-
+|CF ||'''9''' ||{{#invoke:flag|icon|NOR}} [[Erling Haaland]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''33'''||{{#invoke:flag|icon|ENG}} [[Scott Carson]]
+|-
+|DF ||'''3''' ||{{#invoke:flag|icon|POR}} [[Rúben Dias]]
+|-
+|DF ||'''25'''||{{#invoke:flag|icon|SUI}} [[Manuel Akanji]] || || {{subon|46}}
+|-
+|DF ||'''82'''||{{#invoke:flag|icon|ENG}} [[Rico Lewis]]
+|-
+|MF ||'''10'''||{{#invoke:flag|icon|ENG}} [[Jack Grealish]]
+|-
+|MF ||'''11'''||{{#invoke:flag|icon|BEL}} [[Jérémy Doku]] || || {{subon|46}}
+|-
+|MF ||'''27'''||{{#invoke:flag|icon|POR}} [[Matheus Nunes]]
+|-
+|MF ||'''52'''||{{#invoke:flag|icon|NOR}} [[Oscar Bobb]]
+|-
+|FW ||'''19'''||{{#invoke:flag|icon|ARG}} [[Julián Álvarez]] || {{yel|90+7}} || {{subon|56}}
+|-
+|colspan=3|'''Other disciplinary actions:'''
+|-
+|{{abbr|FS|Fitness staff member (fitness coach)}} ||colspan=2|{{#invoke:flag|icon|ESP}} Lorenzo Buenaventura<ref>{{cite web |last=Lejolivet |first=Pierre |url=https://www.ouest-france.fr/sport/football/angleterre/direct-manchester-city-manchester-united-suivez-la-finale-de-la-fa-cup-en-live-21d0e4a4-af0f-4a94-aecd-f84fc893fdd1 |title=FA Cup. Manchester United surprend Manchester City et s'offre une 13e Coupe d'Angleterre |trans-title=FA Cup: Manchester United surprises Manchester City and wins a 13th FA Cup |newspaper=[[Ouest-France]] |date=25 May 2024 |access-date=26 May 2024 |language=fr}}</ref> || {{yel|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ESP}} [[Pep Guardiola]]
+|}
+|valign="top"|[[File:Manchester City vs Manchester United 2024-05-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''24'''||{{#invoke:flag|icon|CMR}} [[André Onana]]
+|-
+|RB ||'''29'''||{{#invoke:flag|icon|ENG}} [[Aaron Wan-Bissaka]]
+|-
+|CB ||'''19'''||{{#invoke:flag|icon|FRA}} [[Raphaël Varane]]
+|-
+|CB ||'''6''' ||{{#invoke:flag|icon|ARG}} [[Lisandro Martínez]] || || {{suboff|73}}
+|-
+|LB ||'''20'''||{{#invoke:flag|icon|POR}} [[Diogo Dalot]]
+|-
+|DM ||'''37'''||{{#invoke:flag|icon|ENG}} [[Kobbie Mainoo]] || {{yel|45}}
+|-
+|DM ||'''4''' ||{{#invoke:flag|icon|MAR}} [[Sofyan Amrabat]]
+|-
+|RW ||'''17'''||{{#invoke:flag|icon|ARG}} [[Alejandro Garnacho]] || || {{suboff|90+3}}
+|-
+|LW ||'''10'''||{{#invoke:flag|icon|ENG}} [[Marcus Rashford]] || || {{suboff|74}}
+|-
+|CF ||'''8''' ||{{#invoke:flag|icon|POR}} [[Bruno Fernandes]] ([[Captain (association football)|c]])
+|-
+|CF ||'''39'''||{{#invoke:flag|icon|SCO}} [[Scott McTominay]] || {{yel|90+5}} || {{suboff|90+3}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|TUR}} [[Altay Bayındır]]
+|-
+|DF ||'''2''' ||{{#invoke:flag|icon|SWE}} [[Victor Lindelöf]] || || {{subon|90+3}}
+|-
+|DF ||'''35'''||{{#invoke:flag|icon|NIR}} [[Jonny Evans]] || || {{subon|73}}
+|-
+|DF ||'''53'''||{{#invoke:flag|icon|DRC}} [[Willy Kambwala]]
+|-
+|MF ||'''7''' ||{{#invoke:flag|icon|ENG}} [[Mason Mount]] || || {{subon|90+3}}
+|-
+|MF ||'''14'''||{{#invoke:flag|icon|DEN}} [[Christian Eriksen]]
+|-
+|MF ||'''16'''||{{#invoke:flag|icon|CIV}} [[Amad Diallo]]
+|-
+|FW ||'''11'''||{{#invoke:flag|icon|DEN}} [[Rasmus Højlund]] || || {{subon|74}}
+|-
+|FW ||'''21'''||{{#invoke:flag|icon|BRA}} [[Antony (footballer, born 2000)|Antony]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|NED}} [[Erik ten Hag]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|style="width:40%;vertical-align:top"|
+'''Man of the Match:'''
+<br />[[Kobbie Mainoo]] (Manchester United)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Harry Lennard ([[Sussex County Football Association|Sussex]])
+<br />Nick Hopton ([[Derbyshire County Football Association|Derbyshire]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Simon Hooper]] ([[Wiltshire Football Association|Wiltshire]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Tim Wood ([[Gloucestershire County Football Association|Gloucestershire]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Michael Oliver (referee)|Michael Oliver]] ([[Durham County Football Association|Durham]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />Stuart Burt ([[Northamptonshire Football Association|Northamptonshire]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="officials"/>
+<br />[[Peter Bankes]] ([[Liverpool County Football Association|Liverpool]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+* 90 minutes
+* 30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+* [[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+* Nine named substitutes
+* Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+==Post-match==
+[[File:Erik ten Hag 2017.jpg|thumb|upright=.8|[[Erik ten Hag]] became the first [[Manchester United F.C.|Manchester United]] manager to win trophies in successive seasons since [[Sir Alex Ferguson]]'s retirement, who last achieved that feat in [[2010–11 Manchester United F.C. season|2011]].]]
+
+After the match, Erik ten Hag was questioned about his future, to which he replied: "I don't think about this. I'm in a project and we are exactly where we want to be."<ref name="SkySports2">{{cite news|last=Marsh|first=Charlotte|url=https://www.skysports.com/football/news/13865/13142901/man-utd-win-the-fa-cup-erik-ten-hag-says-he-will-go-somewhere-else-and-win-trophies-if-club-doesn-t-want-him|title=Man Utd win the FA Cup: Erik ten Hag says he will go somewhere else and win trophies if club doesn't want him|date=26 May 2024|access-date=26 May 2024|website=Sky Sports}}</ref> He also addressed criticism of him and his team this season: “We didn’t have the players. We (he and the critics) have seen the same things. There was not always good football, definitely not, but we had to make, all the time, compromises. Then you can’t play the football you want to play."<ref>{{cite web|last=Lee|first=Sam|url=https://www.nytimes.com/athletic/5517688/2024/05/25/manchester-city-manchester-united-fa-cup/|title=Manchester City 1 Manchester United 2: A breathtaking team goal and Ten Hag gets it right to win FA Cup|date=26 May 2024|access-date=26 May 2024|website=The Athletic}}</ref> Pundit and former United midfielder Roy Keane suggested: "The manager has done his job today. Beating Man City in an FA Cup final is an extra bonus. Fingers crossed they support the manager."<ref name="SkySports2"/> Following weeks of speculation, reports emerged that Ten Hag would remain at United and that he was in talks with the club to sign a new deal. On 4 July, United announced that they had extended his contract until the 2025–26 season.<ref name="TenHagContractRenewal">{{cite news |url=https://www.manutd.com/en/news/detail/erik-ten-hag-extends-contract-as-manchester-united-manager |title=Ten Hag extends United contract |publisher=Manchester United |date=4 July 2024 |access-date=20 August 2024}}</ref> However, three months later, on 28 October, Ten Hag was sacked after a 2–1 defeat to [[West Ham United F.C.|West Ham United]] saw the club fall to 14th after nine games.<ref>{{Cite web |date=2024-10-28 |title=Erik ten Hag: Man Utd sack manager after defeat at West Ham |url=https://www.bbc.co.uk/sport/football/articles/cpvznn4v01yo |access-date=2025-01-06 |website=BBC Sport |language=en-GB}}</ref>
+
+With his team's victory, Ten Hag became the first manager to beat [[Pep Guardiola]]'s Manchester City in a major domestic cup final.<ref>{{Cite web|date=25 May 2024|title=Man Utd stun Man City to win FA Cup|url=https://www.premierleague.com/news/4027998|access-date=27 May 2024|publisher=Premier League}}</ref> Having finished eighth in the [[2023–24 Premier League]], United also became the lowest ranked team to win the FA Cup since [[Arsenal F.C.|Arsenal]] under [[Mikel Arteta]] in [[2019–20 Arsenal F.C. season|2019–20]], when they also finished eighth. United goalscorer and [[Player of the match#Association football|man of the match]] Kobbie Mainoo praised the togetherness at the end of a tough season, adding his goal was "an amazing moment". He and teammate Alejandro Garnacho became the first teenagers to score in an FA Cup final since [[Cristiano Ronaldo]] for United in 2004. This was also City midfielder [[Rodri (footballer, born 1996)|Rodri]]'s first club defeat since February 2023 against Tottenham Hotspur, ending his 74-game unbeaten streak across all competitions.<ref name="Opta">{{cite news|url=https://theanalyst.com/eu/2024/05/manchester-city-vs-manchester-united-stats-fa-cup-final/|title=Manchester City 1-2 Manchester United Stats: Teenage Dreams for United As They Win FA Cup Final|date=25 May 2024|access-date=26 May 2024|publisher=[[Opta Sports]]|website=TheAnalyst.com}}</ref> City manager Guardiola commented that his game plan was not good: "The players know the reason why. Tactically it wasn't good. You plan for a game and different positions, but it didn't work."<ref name="SkySports2"/> 
+
+As winners, United qualified for the [[2024–25 UEFA Europa League]] league phase and the [[2024 FA Community Shield]], where they faced City as the league champions.<ref name="SkySports"/> United earned £2{{nbsp}}million in prize money, runners-up City earned £1{{nbsp}}million.<ref name="FA KO TV money"/>
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+<references />
+
+{{FA Cup}}
+{{2023–24 in English men's football}}
+{{Manchester City F.C. matches}}
+{{Manchester United F.C. matches}}
+
+[[Category:2023–24 FA Cup]]
+[[Category:FA Cup finals]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:2024 in sport in London|FA Cup Final]]
+[[Category:May 2024 sports events in the United Kingdom|FA Cup final]]
+[[Category:Manchester City F.C. matches|FA Cup final 2024]]
+[[Category:Manchester United F.C. matches|FA Cup final 2024]]
+[[Category:Manchester derby matches|FA Cup final 2024]]
+[[Category:Football matches in London]]

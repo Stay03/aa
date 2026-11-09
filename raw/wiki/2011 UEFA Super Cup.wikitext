@@ -1,0 +1,392 @@
+{{Use dmy dates|date=September 2020}}
+{{Infobox football match
+| title                   = 2011 UEFA Super Cup
+| image                   = 2011 UEFA Super Cup match programme.jpg
+| caption                 = Match programme cover
+| team1                   = [[FC Barcelona|Barcelona]]
+| team1association        = {{fbaicon|ESP|size=30px}}
+| team1score              = 2
+| team2                   = [[FC Porto|Porto]]
+| team2association        = {{fbaicon|POR|size=30px}}
+| team2score              = 0
+| details                 =
+| date                    = 26 August 2011
+| stadium                 = [[Stade Louis II]]
+| city                    = [[Monaco]]
+| man_of_the_match1a      = [[Andrés Iniesta]] (Barcelona)<ref name="manofthematch"/>
+| referee                 = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])<ref name="referee">{{cite news|title=Referee Kuipers appointed for UEFA Super Cup |url=https://www.uefa.com/uefasupercup/news/0250-0c50f140d832-10d352ab3086-1000--referee-kuipers-appointed-for-uefa-super-cup/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=24 August 2011 |access-date=24 August 2011 |url-status=live |archive-url=https://web.archive.org/web/20111222164812/http://www.uefa.com/uefa/footballfirst/matchorganisation/refereeing/news/newsid%3D1665738.html |archive-date=22 December 2011 }}</ref>
+| attendance              = 18,048<ref name="full_time">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/SuperCup/2011/2006776_FR.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=26 August 2011 |access-date=26 August 2011 }}</ref>
+| weather                 = Clear night<br />{{convert|27|°C|°F}}<br />67% [[humidity]]<ref name="line-ups">{{cite web |title=Tactical Line-ups |url=https://www.uefa.com/newsfiles/SuperCup/2011/2006776_LU.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=26 August 2011 |access-date=27 August 2011 }}</ref>
+| previous                = [[2010 UEFA Super Cup|2010]]
+| next                    = [[2012 UEFA Super Cup|2012]]
+}}
+The '''2011 UEFA Super Cup''' was the 36th [[UEFA Super Cup]], between the reigning champions of the two club competitions organised by the [[Europe]]an [[association football|football]] governing body [[UEFA]]: the [[UEFA Champions League]] and the [[UEFA Europa League]]. It took place at the [[Stade Louis II]] in [[Monaco]] on 26 August 2011.<ref>{{cite web|url=https://www.dfb.de/index.php?id=510208 |title=Rahmenterminkalender 2011/2012|work=DFB.de |publisher=Deutscher Fussball-Bund |date=24 November 2010 |access-date=17 April 2011|language=de }}</ref><ref>{{cite web|url=http://www.lfp.fr/calendriers/2011_2012/calendrier_2011_2012.pdf |title=Calendrier Général des Compétitions 2011/2012|work=LFP.fr |publisher=Ligue de Football Professionnel |date=31 March 2011 |access-date=17 April 2011|language=fr | archive-url= https://web.archive.org/web/20110525095446/http://www.lfp.fr/calendriers/2011_2012/calendrier_2011_2012.pdf| archive-date= 25 May 2011 | url-status= live}}</ref> It was contested by the [[2010–11 UEFA Champions League]] winners [[FC Barcelona|Barcelona]] of [[Royal Spanish Football Federation|Spain]] and the [[2010–11 UEFA Europa League]] winners [[FC Porto|Porto]] of [[Portuguese Football Federation|Portugal]].<ref>{{cite web|url=https://www.uefa.com/uefasupercup/news/0250-0c50f41ca58d-1aecbba02039-1000--barcelona-and-porto-to-contest-super-cup/|title=Barcelona and Porto to contest Super Cup|publisher=[[UEFA]]|date=29 May 2011}}</ref> Barcelona won the title defeating Porto 2–0.<ref>{{Cite web|url=http://soccernet.espn.go.com/report/_/id/331104?cc=5739|title=Cesc seals Super Cup win for Barca|date=26 August 2011|work=ESPN Soccernet|access-date=30 August 2011|archive-date=2 November 2012|archive-url=https://web.archive.org/web/20121102061807/http://soccernet.espn.go.com/report/_/id/331104?cc=5739|url-status=dead}}</ref><ref>{{Cite web|url=https://www.theguardian.com/football/2011/aug/26/cesc-fabregas-barcelona-porto|title=Cesc Fábregas scores first Barcelona goal in Uefa Super Cup triumph|date=26 August 2011|work=The Guardian|access-date=30 August 2011}}</ref>
+
+==Venue==
+The [[Stade Louis II]] in [[Monaco]] has been the venue for the UEFA Super Cup every year since 1998. Built in 1985, the stadium is also the home of [[AS Monaco FC|AS Monaco]], who play in the French league system.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|[[2010–11 UEFA Champions League]] winners
+|[[1979 UEFA Super Cup|1979]], [[1982 UEFA Super Cup|1982]], [[1989 UEFA Super Cup|1989]], '''[[1992 UEFA Super Cup|1992]]''', '''[[1997 UEFA Super Cup|1997]]''', [[2006 UEFA Super Cup|2006]], '''[[2009 UEFA Super Cup|2009]]'''
+|-
+|{{fbaicon|POR}} [[FC Porto|Porto]]
+|[[2010–11 UEFA Europa League]] winners
+|'''[[1987 UEFA Super Cup|1987]]''', [[2003 UEFA Super Cup|2003]], [[2004 UEFA Super Cup|2004]]
+|}
+
+{{clear}}
+
+==Match==
+
+===Details===
+{{football box
+|date=26 August 2011
+|time=20:45 [[Central European Summer Time|CEST]]
+|team1=[[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score=2–0
+|report=https://www.uefa.com/uefasupercup/match/<!--round=2000258/match=-->2006776/
+|team2={{fbaicon|POR}} [[FC Porto|Porto]]
+|goals1=[[Lionel Messi|Messi]] {{goal|39}}<br />[[Cesc Fàbregas|Fàbregas]] {{goal|88}}
+|goals2=
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=18,048<ref name="full_time"/>
+|referee=[[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])<ref name="referee"/>
+}}
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _fcbarcelona1112h
+| pattern_b  = _fcbarcelona1112E
+| pattern_ra = _fcbarcelona1112h
+| pattern_sh = _fcbarcelona1112h
+| pattern_so = _fcbarcelona1112h
+| leftarm    = 0000BF
+| body       = 0000BF
+| rightarm   = 0000BF
+| shorts     = 0000BF
+| socks      = 0000BF
+| title      = Barcelona<ref name="line-ups"/>
+}}
+|{{Football kit
+| pattern_la =
+| pattern_b  = _porto1112h
+| pattern_ra =
+| pattern_sh =
+| pattern_so = _bluehorizontal
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title      = Porto<ref name="line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Víctor Valdés]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Dani Alves]]
+|-
+|CB ||'''14'''||{{flagicon|ARG}} [[Javier Mascherano]]
+|-
+|CB ||'''22'''||{{flagicon|FRA|1974}} [[Eric Abidal]]
+|-
+|LB ||'''21'''||{{flagicon|BRA}} [[Adriano (footballer, born 1984)|Adriano]] || || {{suboff|63}}
+|-
+|DM ||'''15'''||{{flagicon|MLI}} [[Seydou Keita]]
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]] ([[Captain (association football)|c]])
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Andrés Iniesta]] || {{yel|51}}
+|-
+|SS ||'''10'''||{{flagicon|ARG}} [[Lionel Messi]]
+|-
+|RF ||'''17'''||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]] || || {{suboff|80}}
+|-
+|LF ||'''7''' ||{{flagicon|ESP}} [[David Villa]] || || {{suboff|61}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''36'''||{{flagicon|ESP}} [[Oier Olazábal|Oier]]
+|-
+|DF ||'''24'''||{{flagicon|ESP}} [[Andreu Fontàs]]
+|-
+|MF ||'''4''' ||{{flagicon|ESP}} [[Cesc Fàbregas]] || || {{subon|80}}
+|-
+|MF ||'''11'''||{{flagicon|ESP}} [[Thiago Alcântara|Thiago]]
+|-
+|MF ||'''16'''||{{flagicon|ESP}} [[Sergio Busquets]] || || {{subon|63}}
+|-
+|MF ||'''28'''||{{flagicon|MEX}} [[Jonathan dos Santos]]
+|-
+|FW ||'''9''' ||{{flagicon|CHI}} [[Alexis Sánchez]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|valign="top"|[[File:Barcelona vs Porto 2011-08-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Helton Arruda|Helton]] ([[Captain (association football)|c]])
+|-
+|RB ||'''21'''||{{flagicon|ROU}} [[Cristian Săpunaru]]
+|-
+|CB ||'''14'''||{{flagicon|POR}} [[Rolando (footballer)|Rolando]] || {{sent off|2|65|86}}
+|-
+|CB ||'''30'''||{{flagicon|ARG}} [[Nicolás Otamendi]]
+|-
+|LB ||'''13'''||{{flagicon|URU}} [[Jorge Fucile]]
+|-
+|DM ||'''23'''||{{flagicon|BRA}} [[Josef de Souza|Souza]] || || {{suboff|77}}
+|-
+|CM ||'''6''' ||{{flagicon|COL}} [[Fredy Guarín]] || {{sent off|1|82|90}}
+|-
+|CM ||'''8''' ||{{flagicon|POR}} [[João Moutinho]]
+|-
+|RW ||'''12'''||{{flagicon|BRA}} [[Hulk (footballer)|Hulk]]
+|-
+|LW ||'''10'''||{{flagicon|URU}} [[Cristian Rodríguez]] || {{yel|30}} || {{suboff|69}}
+|-
+|CF ||'''11'''||{{flagicon|BRA}} [[Kléber Laube Pinheiro|Kléber]] || || {{suboff|77}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{flagicon|BRA}} [[Rafael Bracalli]]
+|-
+|DF ||'''4''' ||{{flagicon|BRA}} [[Maicon Pereira Roque|Maicon]]
+|-
+|MF ||'''7''' ||{{flagicon|ARG}} [[Fernando Belluschi]] || || {{subon|77}}
+|-
+|MF ||'''25'''||{{flagicon|BRA}} [[Fernando (footballer, born 1987)|Fernando]] || || {{subon|77}}
+|-
+|MF ||'''35'''||{{flagicon|BEL}} [[Steven Defour]]
+|-
+|FW ||'''17'''||{{flagicon|POR}} [[Silvestre Varela]] || || {{subon|69}}
+|-
+|FW ||'''20'''||{{flagicon|ANG}} [[Djalma Campos|Djalma]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|POR}} [[Vítor Pereira (footballer, born 1968)|Vítor Pereira]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Andrés Iniesta]] (Barcelona)<ref name="manofthematch">{{cite news |last=Ashby |first=Kevin |url=https://www.uefa.com/uefasupercup/news/0250-0c50f52cc3ba-d939d1c39e16-1000--barcelona-beat-porto-for-fourth-uefa-super-cup/ |title=Barcelona beat Porto for fourth UEFA Super Cup |website=[[UEFA]] |publisher=Union of European Football Associations |date=26 August 2011 |access-date=28 August 2011 |quote=It would have been 3-0 had Helton not denied man of the match Iniesta in added time, leaving Porto to ponder a third UEFA Super Cup defeat since 2003.}}</ref>
+
+'''Assistant referees:'''
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])<ref name="full_time"/>
+<br />Berry Simons ([[Royal Dutch Football Association|Netherlands]])<ref name="full_time"/>
+<br />'''Fourth official:'''
+<br />[[Bas Nijhuis]] ([[Royal Dutch Football Association|Netherlands]])<ref name="full_time"/>
+<br />'''Additional assistant referees:'''
+<br />Richard Liesveld ([[Royal Dutch Football Association|Netherlands]])<ref name="full_time"/>
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])<ref name="full_time"/>
+| width=55% valign=top|
+'''Match rules'''<ref name="regulations">{{cite web | url = https://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/63/04/59/1630459_DOWNLOAD.pdf | archive-url = https://web.archive.org/web/20110523224650/http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/63/04/59/1630459_DOWNLOAD.pdf | url-status = dead | archive-date = 23 May 2011 | title = Regulations of the UEFA Super Cup 2011 | publisher = [[UEFA]] }}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |title=Team statistics |url=https://www.uefa.com/newsfiles/SuperCup/2011/2006776_TS.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=26 August 2011 |access-date=20 May 2012 }}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|4
+|5
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|70%
+|30%
+|-
+!scope=row|Corner kicks
+|3
+|3
+|-
+!scope=row|Fouls committed
+|5
+|7
+|-
+!scope=row|Offsides
+|5
+|0
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|5
+|3
+|-
+!scope=row|Shots on target
+|3
+|1
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|70%
+|30%
+|-
+!scope=row|Corner kicks
+|2
+|4
+|-
+!scope=row|Fouls committed
+|4
+|11
+|-
+!scope=row|Offsides
+|3
+|0
+|-
+!scope=row|Yellow cards
+|1
+|3
+|-
+!scope=row|Red cards
+|0
+|2
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|9
+|8
+|-
+!scope=row|Shots on target
+|5
+|2
+|-
+!scope=row|Saves
+|2
+|3
+|-
+!scope=row|Ball possession
+|69%
+|31%
+|-
+!scope=row|Corner kicks
+|5
+|7
+|-
+!scope=row|Fouls committed
+|9
+|18
+|-
+!scope=row|Offsides
+|8
+|0
+|-
+!scope=row|Yellow cards
+|1
+|4
+|-
+!scope=row|Red cards
+|0
+|2
+|}
+{{col-end}}
+
+==See also==
+*[[2011–12 UEFA Champions League]]
+*[[2011–12 UEFA Europa League]]
+*[[2011–12 FC Barcelona season]] 
+*[[2011–12 FC Porto season]]
+*[[FC Barcelona in international football]]
+*[[FC Porto in international football]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.uefa.com/uefasupercup/history/2011 2011 UEFA Super Cup], UEFA.com
+
+{{UEFA Super Cup}}
+{{2011–12 in European Football (UEFA)}}
+{{FC Barcelona matches}}
+{{F.C. Porto matches}}
+
+{{DEFAULTSORT:Super Cup 2011}}
+[[Category:UEFA Super Cup matches|2011]]
+[[Category:2011–12 in European men's continental football|Super Cup]]
+[[Category:2011 in Monégasque sport]]
+[[Category:FC Barcelona matches|Super Cup 2011]]
+[[Category:FC Porto matches|Super Cup 2011]]
+[[Category:2011–12 in Spanish men's football|Super]]
+[[Category:Football matches in Monaco]]
+[[Category:August 2011 sports events in Europe]]
+[[Category:Portugal–Spain sports relations]]
+[[Category:2011–12 in Portuguese football]]

@@ -1,0 +1,260 @@
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox football match
+|              title = 2006 Football League Cup final
+|              image = CarlingCup2006.jpg
+|          imagesize = 200px
+|              event = [[2005–06 Football League Cup]]
+|              team1 = [[Manchester United F.C.|Manchester United]]
+|         team1score = 4
+|              team2 = [[Wigan Athletic F.C.|Wigan Athletic]]
+|         team2score = 0
+|            details =
+|               date = 26 February 2006
+|            stadium = [[Millennium Stadium]]
+|               city = Cardiff
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Wayne Rooney]] (Manchester United)<ref name="Man of match"/>
+|            referee = [[Alan Wiley]] ([[Staffordshire Football Association|Staffordshire]])
+|         attendance = 66,866
+|            weather = Mostly cloudy<br />{{convert|6|°C|°F}}<ref>{{cite web|url=http://www.wunderground.com/history/airport/EGFF/2006/2/26/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA|title=Weather History for Cardiff-Wales, United Kingdom - Weather Underground|work=wunderground.com|access-date=20 June 2016}}</ref>
+|           previous = [[2005 Football League Cup final|2005]]
+|               next = [[2007 Football League Cup final|2007]]
+}}
+The '''2006 Football League Cup final''' also known as the '''2006 Carling Cup final''' for sponsorship reasons, was played between [[Manchester United F.C.|Manchester United]] and [[Wigan Athletic F.C.|Wigan Athletic]] on 26 February 2006. Manchester United won the match comfortably, by four goals to nil. [[Louis Saha]] and [[Cristiano Ronaldo]] both scored one goal, and [[Wayne Rooney]] scored twice. For the trophy presentation, the Manchester United players wore special shirts reading "For You Smudge", referring to [[Alan Smith (footballer born 1980)|Alan Smith]], who had broken his left leg during a recent [[FA Cup]] match against [[Liverpool F.C.|Liverpool]].<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/league_cup/4752806.stm |title=Carling Cup final clockwatch |date=26 February 2006 |access-date=16 August 2014 |publisher=BBC}}</ref> Wigan goalkeeper [[Mike Pollitt]] picked up a hamstring injury after just 14 minutes, cutting short a dream cup final for the [[Journeyman (sports)#Association football|journeyman]] player, who started his career with the Red Devils.
+{{TOC left}}
+{{Clear}}
+
+==Route to the final==
+{{col-begin}}
+{{col-2}}
+
+{| class="wikitable" style="font-size:95%;"
+|+ Manchester United
+|'''Round 3<ref name=bye>Clubs in the [[Premier League]] receive a bye to the second and clubs in European competitions received a bye to the third round</ref>'''||align=right|Manchester United||4–1||[[Barnet F.C.|Barnet]]
+|-
+|'''Round 4'''||align=right|Manchester United||3–1||[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|-
+|'''Round 5'''||align=right|[[Birmingham City F.C.|Birmingham City]]||1–3||Manchester United
+|-
+|'''Semi-final (1st leg)'''||align=right|[[Blackburn Rovers F.C.|Blackburn Rovers]]||1–1||Manchester United
+|-
+|'''Semi-final (2nd leg)'''||align=right|Manchester United||2–1||Blackburn Rovers
+|-
+| &nbsp;||colspan=4 align=center|(Man Utd won 3–2 on aggregate)
+|}
+{{col-2}}
+
+{| class="wikitable" style="font-size:95%;"
+|+ Wigan
+|'''Round 2<ref name=bye/>'''||align=right|Wigan Athletic||1–0||[[AFC Bournemouth]]
+|-
+|'''Round 3'''||align=right|Wigan Athletic||3–0||[[Watford F.C.|Watford]]
+|-
+|'''Round 4'''||align=right|Wigan Athletic||1–0||[[Newcastle United F.C.|Newcastle United]]
+|-
+|'''Round 5'''||align=right|Wigan Athletic||2–0||[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|-
+|'''Semi-final (1st leg)'''||align=right|Wigan Athletic||1–0||[[Arsenal F.C.|Arsenal]]
+|- valign=top
+|'''Semi-final (2nd leg)'''||align=right|Arsenal||2–1||Wigan Athletic
+|-
+| &nbsp;||colspan=4 align=center|(2–2 on aggregate. Wigan Athletic won on [[away goals rule|away goals]])
+|}
+{{col-end}}
+
+==Match details==
+{{football box
+|date=26 February 2006
+|time=15:00
+|team1=[[Manchester United F.C.|Manchester United]]
+|score=4–0 
+|team2=[[Wigan Athletic F.C.|Wigan Athletic]]
+|report=[https://news.bbc.co.uk/sport2/hi/football/league_cup/4727118.stm Report]
+|goals1=[[Wayne Rooney|Rooney]] {{goal|33||61}}<br />[[Louis Saha|Saha]] {{goal|55}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|59}}
+|stadium=[[Millennium Stadium]], Cardiff
+|attendance=66,866
+|referee=[[Alan Wiley]] ([[Staffordshire Football Association|Staffordshire]])
+}}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _manutd0406h
+ | pattern_b  = _manutd0406h
+ | pattern_ra = _manutd0406h
+ | pattern_sh = _manutd0406h
+ | pattern_so = _manutd0406hl
+ | leftarm    = E20E0E
+ | body       = E20E0E
+ | rightarm   = E20E0E
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Manchester United
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _3whitestripes
+ | pattern_ra = 
+ | leftarm    = 0033FF
+ | body       = 0033FF
+ | rightarm   = 0033FF
+ | shorts     = 0033FF
+ | socks      = FFFFFF
+ | title      = Wigan Athletic
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''19'''||{{flagicon|NED}} [[Edwin van der Sar]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Gary Neville]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Wes Brown]] || || {{suboff|83}}
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Rio Ferdinand]]
+|-
+|LB ||'''27'''||{{flagicon|FRA|1974}} [[Mikaël Silvestre]] || || {{suboff|83}}
+|-
+|RM ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]] || {{yel|60}} || {{suboff|73}}
+|-
+|CM ||'''22'''||{{flagicon|IRL}} [[John O'Shea]]
+|-
+|CM ||'''11'''||{{flagicon|WAL}} [[Ryan Giggs]]
+|-
+|LM ||'''13'''||{{flagicon|KOR|1997}} [[Park Ji-sung]]
+|-
+|SS ||'''8''' ||{{flagicon|ENG}} [[Wayne Rooney]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Louis Saha]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|USA}} [[Tim Howard]]
+|-
+|DF ||'''3''' ||{{flagicon|FRA|1974}} [[Patrice Evra]] || || {{subon|83}}
+|-
+|DF ||'''15'''||{{flagicon|SCG}} [[Nemanja Vidić]] || || {{subon|83}}
+|-
+|MF ||'''23'''||{{flagicon|ENG}} [[Kieran Richardson]] || || {{subon|73}}
+|-
+|FW ||'''10'''||{{flagicon|NED}} [[Ruud van Nistelrooy]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCO}} [[Alex Ferguson|Sir Alex Ferguson]]
+|}
+|valign="top"|[[File:Man Utd vs Wigan 2006-02-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||{{flagicon|ENG}} [[Mike Pollitt]] || || {{suboff|14}}
+|-
+|RB ||'''2''' ||{{flagicon|FRA|1974}} [[Pascal Chimbonda]]
+|-
+|CB ||'''16'''||{{flagicon|NED}} [[Arjan de Zeeuw]] ([[Captain (association football)|c]]) || {{yel|45}}
+|-
+|CB ||'''6''' ||{{flagicon|SUI}} [[Stéphane Henchoz]] || || {{suboff|62}}
+|-
+|LB ||'''26'''||{{flagicon|ENG}} [[Leighton Baines]]
+|-
+|RM ||'''21'''||{{flagicon|ENG}} [[Jimmy Bullard]]
+|-
+|CM ||'''11'''||{{flagicon|IRL}} [[Graham Kavanagh]] || || {{suboff|72}}
+|-
+|CM ||'''19'''||{{flagicon|AUT}} [[Paul Scharner]]
+|-
+|LM ||'''20'''||{{flagicon|SCO}} [[Gary Teale]]
+|-
+|CF ||'''7''' ||{{flagicon|SEN}} [[Henri Camara]]
+|-
+|CF ||'''30'''||{{flagicon|GRN}} [[Jason Roberts (footballer)|Jason Roberts]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|AUS}} [[John Filan]] || || {{subon|14}}
+|-
+|DF ||'''4''' ||{{flagicon|ENG}} [[Matt Jackson (footballer)|Matt Jackson]]
+|-
+|MF ||'''8''' ||{{flagicon|SWE}} [[Andreas Johansson (footballer born 1978)|Andreas Johansson]]
+|-
+|MF ||'''23'''||{{flagicon|SUI}} [[Reto Ziegler]] || || {{subon|72}}
+|-
+|FW ||'''10'''||{{flagicon|SCO}} [[Lee McCulloch]] || || {{subon|62}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Paul Jewell]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match officials'''
+*Assistant referees:
+**John Holbrook ([[Worcestershire County Football Association|Worcestershire]])
+**Paul Norman ([[Dorset County Football Association|Dorset]])
+*Fourth official: Andy Hall ([[Birmingham County Football Association|West Midlands]])
+
+'''Man of the match'''
+*[[Wayne Rooney]] (Manchester United)<ref name="Man of match">{{cite web|title=Alan Hardaker Trophy Winners |url=http://www.football-league.co.uk/page/AlanHardakerTrophyWinners/0,,10794~1354852,00.html |publisher=The Football League |date=26 February 2012 |access-date=8 May 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120421013843/http://www.football-league.co.uk/page/AlanHardakerTrophyWinners/0%2C%2C10794~1354852%2C00.html |archive-date=21 April 2012 }}</ref>
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Five named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!width=100 |Statistic<ref name="ESPN-stats">{{cite news |title=Manchester United; Carling Cup Winners 2006 |url=http://soccernet.espn.go.com/gamecast?id=194227&cc=5739 |archive-url=https://archive.today/20130103004044/http://soccernet.espn.go.com/gamecast?id=194227&cc=5739 |url-status=dead |archive-date=3 January 2013 |work=ESPN|date=26 February 2006 |access-date=6 May 2012 }}</ref>
+!width=70 | United
+!width=70 | Wigan
+|-
+|Total shots || 14 || 16
+|-
+|Shots on target || 9 || 7
+|-
+|Ball possession || 46% || 54%
+|-
+|Corner kicks || 1 || 5
+|-
+|Fouls committed || 11 || 13
+|-
+|Offsides || 3 || 2
+|-
+|Yellow cards || 1 || 1
+|-
+|Red cards || 0 || 0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20090129153558/http://www.soccerbase.com/results3.sd?gameid=481357 Match facts] at [[soccerbase]].com
+
+{{EFL Cup}}
+{{2005–06 in English football}}
+{{Manchester United F.C. matches}}
+{{Wigan Athletic F.C. matches}}
+
+[[Category:2005–06 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:Manchester United F.C. matches|League Cup final 2006]]
+[[Category:Wigan Athletic F.C. matches|League Cup final 2006]]
+[[Category:2005–06 in Welsh football|League Cup final]]
+[[Category:EFL Cup finals|2006]]
+[[Category:2000s in Cardiff]]
+[[Category:February 2006 sports events in the United Kingdom|Football League Cup final]]
+[[Category:Football finals in Wales]]
+[[Category:Football competitions in Cardiff]]

@@ -1,0 +1,571 @@
+{{Short description|Association football match}}
+{{good article}}
+{{Infobox football match
+| title = 1999 UEFA Champions League final
+| image = 1999 CL final.jpg
+| imagesize = 200px
+| caption = Match programme cover
+| event = [[1998–99 UEFA Champions League]]
+| team1 = [[Manchester United F.C.|Manchester United]]
+| team1association = {{fbaicon|ENG|size=30px}}
+| team1score = 2
+| team2 = [[FC Bayern Munich|Bayern Munich]]
+| team2association = {{fbaicon|GER|size=30px}}
+| team2score = 1
+| date = 26 May 1999
+| stadium = [[Camp Nou]]
+| city = [[Barcelona]]
+| referee = [[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+| attendance = 90,245
+| weather = Clear<br />{{convert|21|°C|°F|abbr=on}}<br />64% [[humidity]]<ref>{{cite web |title=Weather History for Barcelona, Spain – Wednesday, May 26, 1999 |url=http://www.wunderground.com/history/airport/LEBL/1999/5/26/DailyHistory.html?req_city=Barcelona&req_state=&req_statename=Spain |work=Weather Underground |publisher=The Weather Channel |access-date=3 July 2014}}</ref>
+| previous = [[1998 UEFA Champions League final|1998]]
+| next = [[2000 UEFA Champions League final|2000]]
+}}
+The '''1999 UEFA Champions League final''' was an [[association football]] match between [[Manchester United F.C.|Manchester United]] of England and [[FC Bayern Munich|Bayern Munich]] of Germany, played at [[Camp Nou]] in [[Barcelona]], Spain, on 26 May 1999, to determine the winner of the [[1998–99 UEFA Champions League]]. [[Association football#Duration and tie-breaking methods|Injury time]] goals from Manchester United's [[Teddy Sheringham]] and [[Ole Gunnar Solskjær]] cancelled out [[Mario Basler]]'s early goal for Bayern to give Manchester United a 2–1 win and their first European Cup title since [[1968 European Cup final|1968]], their second overall. Referee [[Pierluigi Collina]] has cited this match as one of the most memorable of his career, and described the noise from the crowd at the end of the game as being like a "lion's roar".
+
+The two sides had played each other earlier in the competition, having both been drawn in Group D in the group stage; Bayern won the group, while Manchester United qualified for the knockout phase as one of the two best runners-up across all six groups. After beating [[Inter Milan]] in the quarter-finals, Manchester United beat another Italian side, [[Juventus FC|Juventus]], in the semis to reach the final; meanwhile, Bayern beat fellow Germans [[1. FC Kaiserslautern]] in the quarter-finals, before overcoming Ukrainian side [[FC Dynamo Kyiv|Dynamo Kyiv]] in the semis. The victory completed a [[1998–99 Manchester United F.C. season|treble-winning season]] for Manchester United, having already secured the [[1998–99 FA Premier League|Premier League]] and [[1998–99 FA Cup|FA Cup]] titles in the preceding 10 days. Bayern were also playing for a treble, having won the [[1998–99 Bundesliga|Bundesliga]] and reached the [[1998–99 DFB-Pokal|DFB-Pokal]] final, although they went on to lose [[1999 DFB-Pokal Final|that match]] as well to [[SV Werder Bremen|Werder Bremen]] on penalties. It has been widely regarded as one of the greatest finals in the history of the tournament.
+
+==Background==
+[[Manchester United F.C.|Manchester United]] and [[FC Bayern Munich|Bayern Munich]] had only met twice in competitive matches before the final, both meetings coming earlier in the 1998–99 season and both finished as draws.<ref name="head_to_head">{{cite web |title=United versus Bayern Munich |url=http://www.stretfordend.co.uk/opponents/bayernmunich.html |publisher=StretfordEnd.co.uk |access-date=14 January 2014}}</ref> Manchester United's only other German opponents in their history were [[Borussia Dortmund]], against whom they had an overall winning record, with three wins, two defeats and a draw in their six matches, including a 10–1 aggregate win in the second round of the [[1964–65 Inter-Cities Fairs Cup]] and a 2–0 aggregate defeat in the [[1996–97 UEFA Champions League]] semi-finals.<ref>{{cite news |title=The record: Germany v Manchester United |url=http://news.bbc.co.uk/1/hi/special_report/1999/05/99/uniteds_euro_showdown/347099.stm |work=BBC News |date=19 May 1999 |access-date=14 January 2014}}</ref> Bayern Munich had an equally narrow advantage in their 22 matches against English opposition, with seven wins, nine draws and six defeats, including a win over [[Leeds United F.C.|Leeds United]] in the [[1975 European Cup final]] and a defeat to [[Aston Villa F.C.|Aston Villa]] in the [[1982 European Cup final|1982 final]].<ref>{{cite news |title=The record: England v Bayern Munich |url=http://news.bbc.co.uk/1/hi/special_report/1999/05/99/uniteds_euro_showdown/347096.stm |work=BBC News |date=19 May 1999 |access-date=14 January 2014}}</ref>
+
+Including the victory over Leeds in 1975, Bayern Munich had won the European Cup on three occasions going into the 1999 final. With three victories in a row from [[1974 European Cup final|1974]] to [[1976 European Cup final|1976]],<ref>{{cite news |date=12 May 1976 |title=1975/76: Roth completes Bayern hat-trick |website=[[UEFA]] |publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0252-0cda61c4e92c-4a5416e93b00-1000--1975-76-roth-completes-bayern-hat-trick/|access-date=21 August 2015}}</ref> they became only the third team to achieve such a feat after [[Real Madrid CF|Real Madrid]] ([[1956 European Cup final|1956]] to [[1960 European Cup final|1960]])<ref>{{cite news |date=18 May 1960 |title=1959/60: Dazzling Madrid crush Frankfurt |website=[[UEFA]] |publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0253-0d7b1dc17e3e-c896eaba1732-1000--1959-60-dazzling-madrid-crush-frankfurt/|access-date=21 August 2015}}</ref> and [[AFC Ajax|Ajax]] ([[1971 European Cup final|1971]] to [[1973 European Cup final|1973]]).<ref>{{cite news |date=30 May 1973 |title=1972/73: Rep makes it three for Ajax |website=[[UEFA]] |publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0029-0e6a067551a7-400ba0a1c6f9-1000--1972-73-rep-makes-it-three-for-ajax/|access-date=21 August 2015}}</ref> They had also finished as runners-up twice: in 1982 against Aston Villa<ref>{{cite news |date=26 May 1982 |title=1981/82: Withe brings Villa glory |website=[[UEFA]] |publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0254-0d7b1e154752-f2cfb521c62d-1000--1981-82-withe-brings-villa-glory/|access-date=21 August 2015}}</ref> and [[1987 European Cup final|1987]] against [[FC Porto|Porto]].<ref>{{cite news |date=27 May 1987 |title=1986/87: Madjer inspires Porto triumph |website=[[UEFA]] |publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0252-0cd4291ecca1-29e5116479e2-1000/|access-date=21 August 2015}}</ref> Although Bayern had been waiting 23 years for a European Cup title, Manchester United had had to wait even longer, as their only victory had come in [[1968 European Cup final|1968]] against [[S.L. Benfica|Benfica]] at Wembley in extra time.<ref>{{cite news |title=1968: Manchester Utd win European Cup |url=http://news.bbc.co.uk/onthisday/hi/dates/stories/may/29/newsid_4464000/4464446.stm |publisher=BBC |work=BBC On This Day |access-date=21 August 2015}}</ref> Their manager then was [[Matt Busby]], who had been seriously injured 10 years earlier in the [[Munich air disaster]], which killed eight of his players on the way back from a European Cup tie in Belgrade, before rebuilding the team to become European Cup winners. Busby died in 1994; the day of the 1999 Champions League final would have been his 90th birthday.<ref name="treble_joy">{{cite news |title=Treble joy for United fans |url=http://news.bbc.co.uk/1/hi/sport/353844.stm |work=BBC News |date=27 May 1999 |access-date=30 August 2015}}</ref>
+
+Although it was the second Champions League season to feature clubs that had not won their national leagues the year before, Manchester United and Bayern Munich were the first such clubs to reach the final of the competition.<ref name="Ferris">{{cite book |last1=Ferris |first1=Ken |title=Manchester United in Europe: Tragedy, Destiny, History |edition=2nd |year=2004 |orig-year=2001 |publisher=Mainstream Publishing |location=Edinburgh |isbn=1-84018-897-9 |page=339}}</ref>{{rp|p=354}} Nevertheless, both went into the match as champions, having won their domestic leagues in 1998–99; Bayern Munich claimed the [[Bundesliga]] title with a 1–1 draw against [[Hertha BSC]] on 9 May with three games to go, while Manchester United left it until the last day of the season (16 May), when they came back from 1–0 down against [[Tottenham Hotspur F.C.|Tottenham Hotspur]] to win 2–1 and beat [[Arsenal F.C.|Arsenal]] to the title by a point.<ref>{{cite news |title=Glorious United crowned champions |url=http://news.bbc.co.uk/1/hi/sport/football/fa_carling_premiership/345445.stm |work=BBC News |date=27 May 1999 |access-date=21 August 2015}}</ref> Both teams were also playing for the [[Treble (association football)|treble]]; in addition to their league win, Manchester United had beaten [[Newcastle United F.C.|Newcastle United]] in the [[1999 FA Cup Final]] on 22 May to claim the [[Double (association football)|Double]],<ref>{{cite news |title=Double joy for Man United |url=http://news.bbc.co.uk/1/hi/sport/football/fa_cup/350192.stm |work=BBC News |date=22 May 1999 |access-date=21 August 2015}}</ref> while Bayern were due to play [[SV Werder Bremen|Werder Bremen]] in the [[1998–99 DFB-Pokal|1999 DFB-Pokal Final]] on 12 June.<ref name="sky_treble">{{cite news |first=Peter |last=Fraser |title=Treble of 1999 |url=http://www.skysports.com/football/news/11946/8620802/treble-of-1999 |work=Sky Sports (BSkyB) |date=28 January 2014 |access-date=21 August 2015}}</ref>
+
+==Route to the final==
+{{further|1998–99 UEFA Champions League}}
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+!Round
+!colspan=4|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[1998–99 UEFA Champions League qualifying rounds|Qualifying round]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|POL}} [[ŁKS Łódź]]
+|2–0
+|[[1998–99 UEFA Champions League qualifying rounds|2–0]] (H)
+|[[1998–99 UEFA Champions League qualifying rounds|0–0]] (A)
+|bgcolor=#c1e0ff|Second qualifying round
+|align=left|{{fbaicon|FRY}} [[FK Obilić|Obilić]]
+|5–1
+|[[1998–99 UEFA Champions League qualifying rounds|4–0]] (H)
+|[[1998–99 UEFA Champions League qualifying rounds|1–1]] (A)
+|- bgcolor=#c1e0ff
+|Opponent
+|colspan=3|Result
+||[[1998–99 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|3–3]] (H)
+|bgcolor=#c1e0ff|Matchday 1
+|align=left|{{fbaicon|DEN}} [[Brøndby IF|Brøndby]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|1–2]] (A)
+|-
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|2–2]] (A)
+|bgcolor=#c1e0ff|Matchday 2
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|2–2]] (H)
+|-
+|align=left|{{fbaicon|DEN}} [[Brøndby IF|Brøndby]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|6–2]] (A)
+|bgcolor=#c1e0ff|Matchday 3
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|1–0]] (H)
+|-
+|align=left|{{fbaicon|DEN}} [[Brøndby IF|Brøndby]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|5–0]] (H)
+|bgcolor=#c1e0ff|Matchday 4
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|2–1]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|3–3]] (A)
+|bgcolor=#c1e0ff|Matchday 5
+|align=left|{{fbaicon|DEN}} [[Brøndby IF|Brøndby]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|2–0]] (H)
+|-
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|1–1]] (H)
+|bgcolor=#c1e0ff|Matchday 6
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[1998–99 UEFA Champions League group stage#Group D|1–1]] (A)
+|-
+|colspan=4 align=center valign=top|'''[[1998–99 UEFA Champions League group stage#Group D|Group D]] runners-up'''
+{{:1998–99 UEFA Champions League group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=n|showteam=MUN}}
+|bgcolor=#c1e0ff|Final standings
+|colspan=4 align=center valign=top|'''[[1998–99 UEFA Champions League group stage#Group D|Group D]] winners'''
+{{:1998–99 UEFA Champions League group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=n|showteam=BAY}}
+|- bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[1998–99 UEFA Champions League knockout stage|Knockout stage]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|ITA}} [[Inter Milan]]
+|3–1
+|[[1998–99 UEFA Champions League knockout stage#Quarter-finals|2–0]] (H)
+|[[1998–99 UEFA Champions League knockout stage#Quarter-finals|1–1]] (A)
+|bgcolor=#c1e0ff|Quarter-finals
+|align=left|{{fbaicon|GER}} [[1. FC Kaiserslautern]]
+|6–0
+|[[1998–99 UEFA Champions League knockout stage#Quarter-finals|2–0]] (H)
+|[[1998–99 UEFA Champions League knockout stage#Quarter-finals|4–0]] (A)
+|-
+|align=left|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|4–3
+|[[1998–99 UEFA Champions League knockout stage#Semi-finals|1–1]] (H)
+|[[Juventus FC 2–3 Manchester United F.C.|3–2]] (A)
+|bgcolor=#c1e0ff|Semi-finals
+|align=left|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|4–3
+|[[1998–99 UEFA Champions League knockout stage#Semi-finals|3–3]] (A)
+|[[1998–99 UEFA Champions League knockout stage#Semi-finals|1–0]] (H)
+|}
+
+===Qualifying round===
+Since neither Manchester United nor Bayern Munich had won their respective leagues in 1997–98, both sides faced a qualifier to enter the 1998–99 Champions League. Manchester United were drawn against Polish champions [[ŁKS Łódź]] and won 2–0 on aggregate, goals from [[Ryan Giggs]] and [[Andy Cole]] in the first leg at [[Old Trafford]] giving them the victory.<ref>{{cite web |title=Man. United 2–0 ŁKS |url=https://www.uefa.com/uefachampionsleague/match/55581--man-utd-vs-lks/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref><ref>{{cite web |title=ŁKS 0–0 Man. United |url=https://www.uefa.com/uefachampionsleague/match/55582--lks-vs-man-utd/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref> Bayern Munich had an easier time against Yugoslavian champions [[FK Obilić|Obilić]], winning 4–0 in the first leg at the [[Olympiastadion (Munich)|Olympiastadion]] with goals from [[Stefan Effenberg]], [[Giovane Élber]], [[Alexander Zickler]] and [[Thorsten Fink]], all scored in the space of 17 second-half minutes.<ref>{{cite web |title=Bayern 4–0 FK Obilic |url=https://www.uefa.com/uefachampionsleague/match/55605--bayern-munchen-vs-fk-obilic/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref> In the second leg, played at [[FK Partizan|Partizan]]'s ground in Belgrade, an 88th-minute goal from [[Lothar Matthäus]] rescued a 1–1 draw to give Bayern a 5–1 win on aggregate.<ref>{{cite web |title=FK Obilic 1–1 Bayern |url=https://www.uefa.com/uefachampionsleague/match/55606--fk-obilic-vs-bayern-munchen/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref>
+
+===Group stage===
+In the draw for the group stage, Bayern Munich were placed in Pot 2 and Manchester United in Pot 3 as Germany was higher than England in the UEFA association club coefficient rankings. They were drawn together in Group D, along with Spanish champions [[FC Barcelona|Barcelona]] and Danish champions [[Brøndby IF|Brøndby]], in what became known as the "group of death".<ref>{{cite news |first=Rob |last=Smyth |title=The Joy of Six: groups of death |url=https://www.theguardian.com/football/2008/jun/13/euro2008groupc.euro2008 |work=The Guardian |date=13 June 2008 |access-date=4 January 2015}}</ref> United and Bayern found themselves bottom of the group after the first round of matches, in which Bayern lost 2–1 away to Brøndby after surrendering a 1–0 lead in the last three minutes;<ref>{{cite web |title=Brøndby 2–1 Bayern |url=https://www.uefa.com/uefachampionsleague/match/55718--brondby-vs-bayern-munchen/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref> United, meanwhile, played out a 3–3 draw at home to Barcelona after twice giving up the lead.<ref>{{cite news |title=Flashback: United 3 Barcelona 3 |url=http://www.manutd.com/en/News-And-Features/United-Uncovered/News/2014/May/Issue-68/Louis-van-Gaal-first-visit-to-Old-Trafford-Manchester-United-3-Barcelona-3.aspx |website=ManUtd.com |publisher=Manchester United |date=23 May 2014 |access-date=4 January 2015}}</ref> The first group stage meeting between United and Bayern took place at the Olympiastadion on matchday 2 and finished in a 2–2 draw; Élber opened the scoring for Bayern before goals from [[Dwight Yorke]] and [[Paul Scholes]] gave United the lead, only for a [[Teddy Sheringham]] own goal – brought about by an error by [[Peter Schmeichel]] – to level the scores in the 89th minute.<ref>{{cite web |title=Bayern 2–1 Man. United |url=https://www.uefa.com/uefachampionsleague/match/55731--bayern-munchen-vs-man-utd/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref>
+
+Matchdays 3 and 4 saw double-headers, with Manchester United taking on Brøndby and Bayern Munich playing Barcelona. Manchester United beat Brøndby 6–2 in their first match at [[Parken Stadium]] in Copenhagen,<ref>{{cite web |title=Brøndby 2–6 Man. United |url=https://www.uefa.com/uefachampionsleague/match/55743--brondby-vs-man-utd/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref> then 5–0 at Old Trafford two weeks later.<ref>{{cite web |title=Man. United 5–0 Brøndby |url=https://www.uefa.com/uefachampionsleague/match/55755--man-utd-vs-brondby/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref> Bayern also recorded a pair of victories over Barcelona, winning 1–0 at the Olympiastadion<ref>{{cite web |title=Bayern 1–0 Barcelona |url=https://www.uefa.com/uefachampionsleague/match/55742--bayern-munchen-vs-barcelona/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref> and 2–1 at the Camp Nou.<ref>{{cite web |title=Barcelona 1–2 Bayern |url=https://www.uefa.com/uefachampionsleague/match/55754--barcelona-vs-bayern-munchen/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref> On matchday 5, United played their second match against Barcelona – their first trip of the season to the Camp Nou – and again the two sides played out a 3–3 draw.<ref>{{cite web |title=Barcelona 3–3 Man. United |url=https://www.uefa.com/uefachampionsleague/match/55767--barcelona-vs-man-utd/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref> With Bayern beating Brøndby 2–0 at home, the German side moved onto 10 points and took top spot in the group going into the final round of matches, one point ahead of United.<ref>{{cite web |title=Bayern 2–0 Brøndby |url=https://www.uefa.com/uefachampionsleague/match/55766--bayern-munchen-vs-brondby/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref> Qualification for the quarter-finals was only guaranteed for the group winners,<ref>{{cite web |first=Bert |last=Kassies |title=UEFA European Cups 1998/1999: Results and Qualification |url=https://kassiesa.net/uefa/history/format98.html |publisher=Bert Kassies |access-date=23 January 2017 |archive-date=6 October 2016 |archive-url=https://web.archive.org/web/20161006054528/http://kassiesa.home.xs4all.nl/bert/uefa/history/format98.html |url-status=dead}}</ref> meaning that both United and Bayern had to play for victory in their final match against each other at Old Trafford. United took the lead just before half-time through a [[Roy Keane]] strike from just outside the penalty area; however, [[Hasan Salihamidžić]] equalised for Bayern in the 55th minute and the game finished as a 1–1 draw. The result meant that Bayern finished as group winners, but United's 10 points from their six matches was enough to see them go through as one of the two group runners-up with the best record.<ref>{{cite web |title=Man. United 1–1 Bayern |url=https://www.uefa.com/uefachampionsleague/match/55779--man-utd-vs-bayern-munchen/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=23 January 2017}}</ref><ref>{{cite news |title=Red Devils march on |url=http://news.bbc.co.uk/1/hi/sport/football/231733.stm |work=BBC News |publisher=British Broadcasting Corporation |date=9 December 1998 |access-date=25 January 2017}}</ref><ref>{{cite news |title=Manchester United v Bayern Munich: a very Champions League rivalry |url=https://www.theguardian.com/football/2014/mar/21/manchester-united-bayern-munich-champions-league-previous-meetings |work=The Guardian |publisher=Guardian News and Media |date=21 March 2014 |access-date=23 January 2017}}</ref>
+
+===Knockout stage===
+In the quarter-finals, Bayern Munich were drawn against Group F winners and fellow German side [[1. FC Kaiserslautern]], while Manchester United were paired with Group C winners [[Inter Milan]]. Two Yorke goals gave United a 2–0 win in their first leg at Old Trafford,<ref>{{cite news |title=Yorke double keeps United on course |url=http://news.bbc.co.uk/1/hi/sport/football/290132.stm |work=BBC News |publisher=British Broadcasting Corporation |date=3 March 1999 |access-date=18 January 2017}}</ref> while Bayern beat Kaiserslautern by the same scoreline at the Olympiastadion through goals from Élber and Effenberg.<ref>{{cite web |title=Bayern 2–0 Kaiserslautern |url=https://www.uefa.com/uefachampionsleague/match/56079--bayern-munchen-vs-kaiserslautern/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=18 January 2017}}</ref> In the second leg, [[Nicola Ventola]] pulled a goal back for Inter, but Paul Scholes secured United's passage to the semi-finals with a late away goal.<ref>{{cite news |title=Mighty United march on |url=http://news.bbc.co.uk/1/hi/sport/football/298550.stm |work=BBC News (British Broadcasting Corporation) |date=17 March 1999 |access-date=18 January 2017}}</ref> Meanwhile, Bayern won convincingly at Kaiserslautern, as goals from Effenberg, [[Carsten Jancker]], [[Mario Basler]] and an own goal from [[Uwe Rösler]] gave them a 4–0 win, 6–0 on aggregate.<ref>{{cite web |title=Kaiserslautern 0–4 Bayern |url=https://www.uefa.com/uefachampionsleague/match/56080--kaiserslautern-vs-bayern-munchen/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=18 January 2017}}</ref>
+
+United again came up against Italian opposition in the semi-finals, facing [[Juventus FC|Juventus]], who had beaten Greek side [[Olympiacos F.C.|Olympiacos]] in the quarters, and Bayern were drawn against Ukrainian side [[FC Dynamo Kyiv|Dynamo Kyiv]], who beat reigning champions Real Madrid to reach the semis. Both first legs finished as draws; Giggs scored in injury time to secure a 1–1 home draw for Manchester United after [[Antonio Conte]] had put Juventus ahead midway through the first half,<ref>{{cite news |title=Man Utd 1–1 Juventus |url=https://www.theguardian.com/football/1999/apr/07/newsstory.sport |work=The Guardian |publisher=Guardian News and Media |date=7 April 1999 |access-date=18 January 2017}}</ref> while Bayern also had to come from behind to draw 3–3 in Kyiv.<ref>{{cite web |title=Bayern make Dynamo pay for Kosovskiy miss |url=https://www.uefa.com/uefachampionsleague/news/01ff-0e6a23490ef6-16cb6c9d9f5b-1000--1998-99-fc-dynamo-kyiv-3-3-fc-bayern-munchen-report/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=7 April 1999 |access-date=18 January 2017}}</ref> A single goal from Basler proved the difference between Bayern and Dynamo in the second leg, giving the Germans a 4–3 aggregate win.<ref>{{cite web |title=Bayern 1–0 Dynamo Kyiv |url=https://www.uefa.com/uefachampionsleague/match/56335--bayern-munchen-vs-dynamo-kyiv/ |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=18 January 2017}}</ref> Manchester United fell behind early in the [[Juventus FC 2–3 Manchester United F.C.|second leg]] in Turin, as [[Filippo Inzaghi]] scored twice in the first 11 minutes. Goals from Keane and Yorke before half-time levelled the tie but gave United the advantage on away goals, before Cole secured victory with the winning goal seven minutes from the end of the match.<ref>{{cite web |title=Juventus knocked out by stunning United sucker punch |url=https://www.uefa.com/uefachampionsleague/news/01f3-0e6a258138f4-38f30e0aee1b-1000--1998-99-juventus-2-3-manchester-united-fc-report/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=21 April 1999 |access-date=18 January 2017}}</ref>
+
+==Pre-match==
+
+===Venue and ticketing===
+[[File:Camp Nou aerial (cropped).jpg|thumb|The capacity of the [[Camp Nou]] stadium was reduced from over 100,000 to 92,000 for the final.]]
+The [[Camp Nou]] stadium in [[Barcelona]], Spain, was selected as the venue for the final at a meeting of the UEFA Executive Committee in Lisbon, Portugal, on 6 October 1998.<ref>{{cite news |last1=Aguilar |first1=Francesc |date=8 October 1998 |title=La UEFA confirmó las expectativa y la Champions League se jugará en el Camp Nou |trans-title=UEFA confirmed the expectations and the Champions League will be played at the Camp Nou |url=http://hemeroteca.mundodeportivo.com/preview/1998/10/08/pagina-2/391501/pdf.html |format=PDF |editor1-last=Nolla |editor1-first=Santi |newspaper=El Mundo Deportivo |language=es |issue=24,189 |location=Barcelona |pages=2–3 |access-date=3 July 2014}}</ref> The selection process had begun more than four months earlier, in May 1998, when FC Barcelona submitted the Camp Nou as a contender to host the match in recognition of the club's centenary year.<ref>{{cite news |date=27 May 1998 |title=La final del Centenario |trans-title=The Centenary Final |url=http://hemeroteca.mundodeportivo.com/preview/1998/05/27/pagina-8/1373763/pdf.html |format=PDF |editor1-last=Nolla |editor1-first=Santi |newspaper=El Mundo Deportivo |language=es |issue=24,055 |location=Barcelona |page=8 |access-date=3 July 2014}}</ref> The other venues in contention to host the match were London's [[Wembley Stadium (1923)|Wembley Stadium]] and Marseille's [[Stade Vélodrome]], but the Camp Nou was considered by UEFA's Stadiums Commission to be the favourite for its superior security, comfort and capacity.<ref>{{cite news |date=6 October 1998 |title=Cinco estrellas |trans-title=Five stars |url=http://hemeroteca.mundodeportivo.com/preview/1998/10/06/pagina-8/397388/pdf.html |format=PDF |editor1-last=Nolla |editor1-first=Santi |newspaper=El Mundo Deportivo |language=es |issue=24,187 |location=Barcelona |page=8 |access-date=3 July 2014}}</ref> The Camp Nou had hosted one previous European Cup final: Italian club [[AC Milan|Milan]]'s 4–0 victory over [[FCSB|Steaua București]] of Romania in [[1989 European Cup final|1989]]. It had also hosted two [[UEFA Cup Winners' Cup|Cup Winners' Cup]] finals, in [[1972 European Cup Winners' Cup Final|1972]] and [[1982 European Cup Winners' Cup Final|1982]]; the latter was won on home turf by Barcelona.<ref>{{cite journal |date=4 November 1998 |editor1-last=Butler |editor1-first=Cliff |title=Return Ticket? |journal=Manchester United – Brondby IF |series=UEFA Champions League Official Programme |location=Manchester |publisher=Manchester United FC |page=25}}</ref>
+
+The Camp Nou was constructed over three years from 1954 to 1957 as a replacement for Barcelona's previous home, the nearby [[Camp de Les Corts]].<ref name="camp_nou_history">{{cite web |title=Camp Nou: the history |url=https://www.fcbarcelona.com/en/club/facilities/camp-nou/history |website=fcbarcelona.com |publisher=FC Barcelona |access-date=19 August 2021}}</ref> The original capacity of the Camp Nou was just over 93,000,<ref name="camp_nou_history"/> but its first major European final, the 1972 Cup Winners' Cup Final, was attended by just 35,000 spectators.<ref>{{cite web |title=Cup Winners' Cup 1971–72 |url=https://www.rsssf.org/ec/ec197172.html |website=RSSSF.com |publisher=Rec.Sports.Soccer Statistics Foundation |date=4 June 2015 |access-date=7 October 2021}}</ref> 1982 was the stadium's busiest year to date, hosting not only the 1982 Cup Winners' Cup Final, but also five matches at the [[1982 FIFA World Cup|FIFA World Cup]], including the opening match, all three matches in Group A of the second group stage and the semi-final between [[Poland national football team|Poland]] and [[Italy national football team|Italy]]. Subsequent renovations meant that by 1999, the stadium's capacity had reached 115,000.<ref name="camp_nou_history"/>
+
+Due to UEFA regulations regarding standing at football matches, the Camp Nou's terraced sections were closed for the 1999 Champions League final, reducing the capacity to approximately 92,000. Of these, around two-thirds were reserved for the two finalist clubs (approximately 30,000 tickets each). The remaining third was divided between fans of FC Barcelona (around 7,500 tickets), UEFA, and competition sponsors.<ref name="Ferris"/>{{rp|p=339}} After an initial announcement that the clubs would only receive 25,000 tickets each, the [[Independent Manchester United Supporters Association]] (IMUSA) called that figure "ridiculous", claiming it would push black market prices to "astronomical levels"; the group's spokesman, Lee Hodgkiss, suggested a figure closer to 50,000 would be more appropriate, given the stadium's usual capacity of around 115,000.<ref>{{cite news |title=United anger over ticket quota |url=http://news.bbc.co.uk/1/hi/sport/football/325933.stm |work=BBC News |date=22 April 1999 |access-date=30 August 2015}}</ref> Despite the club receiving only 30,000 tickets, it was estimated that up to 100,000 Manchester United fans travelled to Barcelona for the final, paying around £300 for flights and around £1,000 for match tickets.<ref name="Ferris"/>{{rp|p=346}} Many were able to buy tickets from touts, who had paid up to £400 to buy from Barcelona fans who had bought through their club for the equivalent of £28.<ref name="Ferris"/>{{rp|pp=339–340}}
+
+As well as reducing the capacity of the stadium, UEFA also mandated that the Camp Nou pitch be narrowed by {{convert|4|m}} from {{convert|72|m}} to {{convert|68|m}}, to match UEFA's 'standard' pitch size.<ref name="Ferris"/>{{rp|p=327}}
+
+===Match officials===
+[[File: Pierluigi Collina 2010.jpg|thumb|upright|[[Pierluigi Collina]] was the referee for the match.]]
+
+The match referee was [[Pierluigi Collina]] of the [[Italian Football Federation]]. Collina was promoted to the FIFA International Referees list in 1995, and took charge of his first UEFA Cup matches in the [[1995–96 UEFA Cup|1995–96 season]]. He had only refereed eight Champions League matches before the 1999 final, three of which came in the group stage earlier in the season, including the match between Barcelona and Bayern Munich at the Camp Nou on 4 November 1998; however, he had also taken charge of four matches at the [[Football at the 1996 Summer Olympics – Men's tournament|1996 Summer Olympics]], including the final between [[Nigeria national under-23 football team|Nigeria]] and [[Argentina national under-23 football team|Argentina]], and two group stage matches at the [[1998 FIFA World Cup]].<ref>{{cite web |title=Palmares for Pierluigi Collina |url=http://worldreferee.com/site/copy.php?linkID=487&linkType=referee&contextType=stats |publisher=WorldReferee |access-date=16 January 2014 |archive-date=8 July 2015 |archive-url=https://web.archive.org/web/20150708162114/http://worldreferee.com/site/copy.php?linkID=487&linkType=referee&contextType=stats |url-status=dead}}</ref> Collina was supported by fellow Italian officials Gennaro Mazzei and [[Claudio Puglisi]] as assistant referees, and fourth official Fiorenzo Treossi.<ref name="officials">{{cite news |first=Philip |last=Quinn |title=United see red as dirty tricks pitch row brews |url=http://www.independent.ie/sport/united-see-red-as-dirty-tricks-pitch-row-brews-26151153.html |work=Irish Independent |date=25 May 1999 |access-date=30 August 2014}}</ref>
+
+===Match ball===
+[[File:Nike NK 800 Geo 1999 Champions League Final.JPG|thumb|upright|left|One of the [[Nike, Inc.|Nike]] NK 800 Geo balls used for the final]]
+
+The match ball for the final was the Nike NK 800 Geo, a white ball with a standard 32-panel design. It featured a large "[[swoosh]]" across two adjacent hexagonal panels with the Champions League logo on a pentagonal panel above, and a pattern of five-pointed stars similar to those used in the UEFA Champions League logo over the entire surface of the ball.<ref>{{cite web |first=Wilson |last=Chia |title=Nike NK 800 Geo 1999 UEFA Champions League Final |url=http://www.afewgoodballs.com/nike/nike-nk-800-geo-1999-uefa-champions-league-final/ |publisher=A Few Good Balls |access-date=16 January 2014}}</ref>
+
+===Kits===
+As both Manchester United and Bayern Munich's primary kits featured significant amounts of red, UEFA regulations about kit clashes would normally have required both teams to wear their change kits. However, the two clubs felt it would have been a shame for neither to wear their traditional colours, and they agreed to toss a coin to see who would have first choice. Manchester United won the toss and therefore wore their usual European colours of red shirts, white shorts and white socks, while Bayern wore silver shirts, shorts and socks, all with maroon trim.<ref name="Ferris"/>{{rp|p=360}}
+
+===Opening ceremony===
+[[File:1999 UEFA Champions League Final opening ceremony.jpg|thumb|The opening ceremony featured inflatable versions of recognisable Barcelona landmarks.]]
+
+Before kick-off, opera singer [[Montserrat Caballé]] – moving around the field on the back of a golf cart<ref>{{cite journal |year=1999 |editor1-last=Mitten |editor1-first=Andy |title=The Long Road Trip to Victory |journal=Kings of Europe |publisher=Manchester United |page=11}}</ref> – performed a live version of "[[Barcelona (Freddie Mercury and Montserrat Caballé song)|Barcelona]]", a song she recorded with the late [[Queen (band)|Queen]] lead singer [[Freddie Mercury]] in 1987, accompanied by a recording of Mercury on the stadium's electronic screen.<ref>{{cite journal |last1=Pilger |first1=Sam |date=June 1999 |editor1-last=Barnes |editor1-first=Justyn |title=The Promised Land |journal=Manchester United |volume=7 |issue=8 |page=27}}</ref> The opening ceremony featured inflatable versions of some of Barcelona's most recognisable landmarks,<ref name="leith_132">{{cite book |last1=Leith |first1=Alex |title=Manchester United: Pride of All Europe |year=1999 |publisher=Manchester United Books |location=London |page=132 |isbn=0-233-99771-7}}</ref> as well as flag-bearers waving flags of the crests of the participating teams. Bayern Munich's fans, meanwhile, created a [[tifo]] of the name of their team with thousands of coloured cards.<ref name="leith_132"/>
+
+==Match==
+===Team selection===
+{{multiple image
+| footer = Midfielders [[Paul Scholes]] (left) and [[Roy Keane]] were both suspended for the final.
+| align = left
+| image1 = P Scholes.jpg
+| width1 = {{#expr: (200 * 1407 / 1956) round 0}}
+| alt1 = A man with red hair, wearing a red football shirt and white shorts.
+
+| image2 = Roy Keane cropped.jpg
+| width2 = {{#expr: (200 * 380 / 607) round 0}}
+| alt2 = A man with dark hair and stubble, wearing a red jacket with grey sleeves.
+}}
+Manchester United left England two days before the final, first flying from [[Manchester Airport|Manchester Ringway Airport]] to [[London Heathrow Airport|Heathrow]],<ref name="Ferris"/>{{rp|p=328}} where they boarded a [[Concorde]] aircraft for the flight to Barcelona.<ref>{{cite news |title=Barbara Harmer |url=https://www.telegraph.co.uk/news/obituaries/technology-obituaries/8457095/Barbara-Harmer.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/news/obituaries/technology-obituaries/8457095/Barbara-Harmer.html |archive-date=2022-01-12 |url-access=subscription |url-status=live |work=Telegraph.co.uk |publisher=Telegraph Media Group |date=17 April 2011 |access-date=19 June 2015}}{{cbignore}}</ref> They stayed in the Meliá Gran hotel in the town of [[Sitges]], about {{convert|20|mi|abbr=off}} down the coast south-west of Barcelona.<ref name="Ferris"/>{{rp|p=332}} Captain Roy Keane and midfielder Paul Scholes both missed out on the final due to suspension; manager [[Alex Ferguson]] had originally considered selecting Giggs to join [[Nicky Butt]] in central midfield, but ultimately picked [[David Beckham]] as a player who could help the team control possession in the middle of the pitch,<ref name="Ferris"/>{{rp|p=327}} with Giggs on the right wing and [[Jesper Blomqvist]] starting on the left.<ref name="Ferris"/>{{rp|p=338}} Keane had suffered an ankle injury in the FA Cup final that would keep him out until the start of the following season,<ref>{{cite news |title=Big two gear up for Wembley |url=http://news.bbc.co.uk/1/hi/sport/football/408265.stm |work=BBC News |date=30 July 1999 |access-date=24 March 2014}}</ref> but his suspension rendered the injury irrelevant to his selection.<ref>{{cite news |title=Treble beckons for the Reds |url=http://news.bbc.co.uk/1/hi/sport/football/350365.stm |work=BBC News |date=23 May 1999 |access-date=24 March 2014}}</ref> Norwegian defender [[Henning Berg]] also missed out through injury, meaning that his compatriot [[Ronny Johnsen]]—who had been an early contender to play alongside Butt in midfield<ref>{{cite news |title=United's chance of a lifetime |url=http://news.bbc.co.uk/1/hi/sport/football/352740.stm |work=BBC News |date=25 May 1999 |access-date=14 January 2014}}</ref>—played in central defence alongside [[Jaap Stam]], who overcame an [[Achilles tendon|Achilles]] injury.<ref>{{cite news |title=Supersonic United on final journey |url=http://news.bbc.co.uk/1/hi/sport/football/351339.stm |work=BBC News |date=24 May 1999 |access-date=14 January 2014}}</ref> With Keane out, goalkeeper Schmeichel—who in November 1998 had announced his intention to leave Manchester United at the end of the season<ref>{{cite news |title=Schmeichel to leave Old Trafford |url=http://news.bbc.co.uk/1/hi/sport/football/fa_carling_premiership/213020.stm |work=BBC News |date=12 November 1998 |access-date=25 January 2017}}</ref>—was named as captain for his final Manchester United appearance;<ref name="schmeichel_bang">{{cite news |title=Schmeichel goes out with a bang |url=http://news.bbc.co.uk/1/hi/sport/football/353885.stm |work=BBC News |date=26 May 1999 |access-date=7 July 2012}}</ref> this meant that both sides were captained by their goalkeepers, as [[Oliver Kahn]] wore the armband for Bayern.<ref name="aizelwood">{{cite news |first=John |last=Aizelwood |title=United as one: Schmeichel and Kahn |url=http://www.uefa.com/uefachampionsleague/news/newsid=2196285.html |website=[[UEFA]] |publisher=Union of European Football Associations |date=2 January 2015 |access-date=23 January 2017 |archive-url=https://web.archive.org/web/20180426151202/http://www.uefa.com/uefachampionsleague/news/newsid=2196285.html |archive-date=26 April 2018}}</ref> As Manchester United's top two goalscorers throughout the season, Cole and Yorke started up front, leaving Sheringham—who had played a part in both goals in the FA Cup Final a few days earlier—on the bench. Also on the bench were fellow striker [[Ole Gunnar Solskjær]], back-up goalkeeper [[Raimond van der Gouw]], defenders [[David May (footballer)|David May]], [[Phil Neville]] and [[Wes Brown]], and midfielder [[Jonathan Greening]].
+
+Bayern coach [[Ottmar Hitzfeld]] announced his team's line-up for the final two full days ahead of the match.<ref name="bayern_lineup">{{cite news |title=Bayern unveil final line-up |url=http://news.bbc.co.uk/1/hi/sport/football/351949.stm |work=BBC News |date=24 May 1999 |access-date=14 January 2014}}</ref> Injuries also impacted on his selections, with French left-back [[Bixente Lizarazu]] and Brazilian forward Élber having suffered season-ending knee injuries.<ref>{{cite news |title=Bayern lose Lizarazu |url=http://news.bbc.co.uk/1/hi/sport/football/348807.stm |work=BBC News |date=20 May 1999 |access-date=14 January 2014}}</ref><ref>{{cite web |title=Bayern Munich Player Profiles |url=http://sportsillustrated.cnn.com/soccer/world/1999/champions_league/news/1999/05/24/bayern_profiles/ |archive-url=https://web.archive.org/web/20000819071251/http://sportsillustrated.cnn.com/soccer/world/1999/champions_league/news/1999/05/24/bayern_profiles/ |url-status=dead |archive-date=August 19, 2000 |work=CNN/SI |access-date=14 January 2014}}</ref> Élber's absence resulted in Bayern playing a three-man attack of Basler, Jancker and Zickler, while Lizarazu was replaced on the left flank by [[Michael Tarnat]] playing in a wing-back role opposite [[Markus Babbel]] on the right.<ref>{{cite news |first=Wesly |last=Varghese |title=A look back at the 1999 Champions League Final |url=http://www.sportskeeda.com/football/1999-champions-league-final |publisher=Sportskeeda |date=13 May 2014 |access-date=4 January 2017}}</ref> Babbel was originally intended to play a man-marking role on Giggs, with his defensive abilities earning him selection ahead of the more attack-minded [[Thomas Strunz]];<ref name="bayern_lineup"/> however, this was nullified by Giggs' selection on the right wing, where he would play against Tarnat. The Bayern defence was anchored around sweeper Matthäus, who played behind [[Thomas Linke]] and Ghana international [[Samuel Kuffour]] – the only non-German in the Bayern side (by comparison, Manchester United had four Englishmen in their team); Linke and Kuffour's partnership at centre-back meant club captain [[Thomas Helmer]] had to settle for a place on the bench.<ref name="aizelwood"/> Effenberg and [[Jens Jeremies]] played in central midfield for Bayern, with Jeremies man-marking Beckham.<ref>{{cite news |title=Football: How Manchester United won the Champions League in 1999 |url=https://www.theguardian.com/football/gallery/2010/mar/24/manchester-united-bayern-munich-1999 |work=The Guardian |publisher=Guardian News and Media |date=30 March 2010 |access-date=4 January 2017}}</ref>
+
+===Summary===
+
+====First half====
+[[File:1999 UEFA Champions League Final teams line up.jpg|thumb|The teams line up ahead of kick-off.]]
+
+Six minutes into the match, Johnsen fouled Bayern striker Jancker just outside the area,<ref name="key_moments">{{cite news |title=European final – key moments |url=http://news.bbc.co.uk/1/hi/sport/football/353890.stm |work=BBC Sport |date=26 May 1999 |access-date=30 January 2009}}</ref> and Basler placed a low free kick around the United wall to score the first goal, as Schmeichel was caught flat-footed.<ref name="key_moments"/> Although they were now a goal down, United began to dominate possession, but failed to create any clear-cut chances. The Bayern defence remained strong and well-organised, as Cole found out when his close-range effort was quickly closed down by three defenders.<ref name="key_moments"/> As Bayern began to look increasingly dangerous on the counter-attack than their opponents did in possession, Jancker repeatedly tested the United back four with a number of clever runs, some of which were flagged offside.
+
+Cole once again found himself with a chance in the Bayern box, but goalkeeper Kahn hurried out of his goal to punch the ball to safety. At the other end, Basler came close with another free kick before Zickler sent a shot just wide from the edge of the box. As half-time approached, United winger Giggs, playing out of position on the right, sent a weak header towards Kahn from a Cole cross, but that was as close as they were to come to a goal in the first half.
+
+====Second half====
+The German team started the second half in a more positive mood, with Jancker forcing a save from Schmeichel within a minute after the restart.<ref name="key_moments"/> Basler was proving to be Bayern's most dangerous player, first firing a 30-yard shot towards goal and then setting up a header for Babbel, who missed the ball entirely. United put together an attack when, after a healthy period of possession, Giggs crossed towards Blomqvist, who could only knock the ball over the bar after a desperate stretch.<ref name="key_moments"/> Another chance for Basler prompted Ferguson to bring on Sheringham for Blomqvist which resulted in a return to the more common formation of Giggs on the left (having started right-wing), with Beckham moving from an uncommon central to his more familiar right midfield position. Yorke dropped further back into a central midfield position.<ref name="key_moments"/> Hitzfeld responded with a substitution of his own, bringing on [[Mehmet Scholl]], who immediately set up Effenberg for a long-range shot that went narrowly wide. Schmeichel kept his side in the game when tipping another Effenberg shot over the bar after 75 minutes.<ref name="key_moments"/><ref name="wheeler">{{cite news |title=Revisiting the 1999 Final and the 10 Most Dramatic Champions League Finals Ever |url=https://bleacherreport.com/articles/2010726-revisiting-the-1999-final-and-the-10-most-dramatic-champions-league-finals-ever |access-date=28 October 2021 |website=Bleacher Report}}</ref> Scholl then almost scored from a delicate 20-yard chip after a run from Basler, but the ball bounced back off the post and into Schmeichel's arms.<ref name="key_moments"/> With the game seemingly drifting away from the English side, Ferguson introduced Solskjær to replace Cole with 10 minutes remaining.<ref name="key_moments"/><ref name="wheeler"/> The substitute immediately forced Kahn into a diving save with a header; it was the closest United had come to scoring all game.<ref name="key_moments"/> A minute later, Bayern missed a chance to secure the trophy, when an [[Bicycle kick|overhead kick]] from Jancker came off the crossbar.<ref name="key_moments"/> As the game crept into the last five minutes, United's two substitutes forced Kahn into more saves, firstly through a Sheringham volley and then from another Solskjær header.<ref>{{cite web |first=Teddy |last=Sheringham |title=Manchester United's moment of magic that completed an historic treble |url=https://www.theguardian.com/football/blog/2009/may/26/teddy-sheringham-1999-manchester-united-bayern-munich |website=[[The Guardian]] |publisher=Guardian News and Media |date=25 May 2009 |access-date=2 January 2017}}</ref>
+
+=====Injury time=====
+{{Quote box |quoted=true |salign=center |width=30% |align=right |quote=Beckham, in towards Schmeichel. It's come for Dwight Yorke. Cleared... Giggs with the shot, ''Sheringham!'' Name on the trophy! Teddy Sheringham, with 30 seconds of added time played, has equalised for Manchester United – they are ''still'' in the European Cup! |source=[[Clive Tyldesley]] on [[ITV (TV network)|ITV]]'s broadcast call of Sheringham's injury time equaliser<ref name="The Commentator's Tale">{{cite web |first=Steve |last=Bartram |title=The Commentator's Tale |url=https://www.manutd.com/en/news/detail/itv-football-commentator-clive-tyldesley-recalls-the-1999-champions-league-final |publisher=Manchester United |date=26 May 2019 |access-date=14 September 2021}}</ref>
+}}
+United won a corner when Effenberg deflected Gary Neville's cross over the Bayern goal line just as the [[Assistant referee (association football)#Fourth official|fourth official]] indicated three minutes of injury time. With so little time left for an equaliser, Schmeichel ventured up to Bayern's [[penalty area]]. Beckham flighted the corner in just over Schmeichel's head, Yorke put the ball back towards the crowded area, and after Fink failed to clear sufficiently, the ball arrived at the feet of Giggs on the edge of the area. His right-footed snap-shot was weak and poorly struck, but it went straight to Sheringham, who swiped at the shot with his right foot, and nestled the ball in the bottom corner of the net. The goal was timed at 36 seconds into injury time.<ref>{{cite news |first=Kevin |last=Palmer |title=Why the name of Teddy Sheringham's house is a constant reminder of Man United's greatest night |url=https://www.independent.ie/sport/soccer/premier-league/why-the-name-of-teddy-sheringhams-house-is-a-constant-reminder-of-man-uniteds-greatest-night/38150676.html |work=Irish Independent |date=26 May 2019 |accessdate=26 May 2024}}</ref> It looked as if, having been behind for most of the match, United had forced extra time.
+
+{{Quote box |quoted=true |salign=center |width=30% |align=right |quote=You have to feel this is their year. Is this their moment? Beckham, into Sheringham – ''and Solskjær has won it!'' Manchester United have reached the promised land! Ole Solskjær! The two substitutes have scored the two goals in stoppage time and the treble looms large! |source=Tyldesley on ITV's broadcast of Solskjær's injury time winner<ref name="The Commentator's Tale" />
+}}
+Less than 30&nbsp;seconds after the subsequent kick-off, United forced another corner when Kuffour deflected Solskjær's cross over the Bayern goal line, but Schmeichel stayed in his penalty area this time, under instruction from Ferguson. Beckham again swung the corner in, finding the head of Sheringham, who nodded the ball down across the face of goal. Solskjær reacted fastest, stuck out a foot and poked the ball into the roof of the Bayern goal for United to take the lead with just 43 seconds of the three minutes of injury time to play. Solskjær celebrated by sliding on his knees, mimicking Basler's earlier celebration, before quickly being mobbed by the United players, substitutes and coaching staff.<ref>{{cite news |first=Rob |last=Smyth |title=Manchester United and the 1999 Treble: That night in Barcelona |url=https://www.eurosport.co.uk/football/champions-league/2018-2019/manchester-united-and-the-1998-99-treble-that-night-in-barcelona_sto7286033/story.shtml |work=Eurosport |date=27 May 2020 |access-date=1 November 2021}}</ref> Schmeichel, in his own penalty area, cartwheeled with glee.<ref>{{cite web |first=Tom |last=Adams |title=Schmeichel: The Great Dane |url=http://espnfc.com/columns/story?id=670567&cc=5739 |work=ESPN |date=28 August 2009 |access-date=14 January 2014}}</ref>
+
+The game restarted, but many Bayern players were overwhelmed with despair, virtually unable to continue and needed the assistance of referee Collina to drag themselves off the ground.<ref>{{cite book |last1=Collina |first1=Pierluigi |title=The Rules of the Game |year=2004 |publisher=Pan Books |location=London |page=108 |isbn=0-330-41872-6}}</ref> They were stunned to have lost a game they had thought won just minutes before; several celebratory flares had already been ignited by the Bayern fans moments before United equalised, and ribbons in the club's colours had already been secured to the trophy in preparation for the presentation ceremony.<ref>{{cite news |title=Bayern Munich hope to forget the pain in Spain |url=http://www.indianexpress.com/res/web/pIe/ie/daily/19991020/isp20042.html |publisher=Indian Express Newspapers |location=Mumbai |date=19 October 1999 |access-date=5 April 2008 |archive-url=https://web.archive.org/web/20081204074740/http://www.indianexpress.com/res/web/pIe/ie/daily/19991020/isp20042.html |archive-date=4 December 2008}}</ref> United held onto their lead to record their second European Cup title,<ref>{{cite news |title=United crowned kings of Europe |url=http://news.bbc.co.uk/1/hi/sport/football/353842.stm |work=BBC Sport |date=26 May 1999 |access-date=30 January 2009}}</ref> and at the final whistle, referee Collina described the cheers from the fans as being like a "lion's roar".<ref>{{cite news |first=Jeremy |last=Wilson |title=Pierluigi Collina: Nou Camp in 1999 was best |url=https://www.telegraph.co.uk/sport/football/2298110/Pierluigi-Collina-Nou-Camp-in-1999-was-best.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/2298110/Pierluigi-Collina-Nou-Camp-in-1999-was-best.html |archive-date=2022-01-12 |url-access=subscription |url-status=live |work=The Daily Telegraph |date=23 April 2008 |access-date=14 January 2014}}{{cbignore}}</ref> Kuffour broke down in tears after the game, beating the floor in despair, and Jancker collapsed in anguish.<ref>{{cite news |first=Peter |last=Fraser |title=Fergie's finest? |url=http://www1.skysports.com/football/news/12040/8700892/fergies-finest |publisher=Sky Sports |date=9 May 2013 |access-date=14 January 2014}}</ref> Matthäus had captained Bayern in the [[1987 European Cup final]] and lost in similar circumstances to two late Porto goals. He had been substituted with 10 minutes remaining, with victory seemingly assured.<ref name="mirror">{{cite news |title=Manchester United 2–1 Bayern Munich |url=http://www.mirrorfootball.co.uk/archive/1999-Champions-League-final-Manchester-United-2-1-Bayern-Munich-with-pictures-of-David-Beckham-Ole-Gunner-Solskjaer-Alex-Ferguson-and-co-plus-reports-and-features-from-our-archive-article372541.html |work=Mirror Football |access-date=14 January 2014}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date = {{Start date|1999|5|26|df=y}}
+|time = {{CEST|20:45}}
+|team1 = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score = 2–1
+|team2 = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1 =
+*[[Teddy Sheringham|Sheringham]] {{goal|90+1}}
+*[[Ole Gunnar Solskjær|Solskjær]] {{goal|90+3}}
+|goals2 =
+*[[Mario Basler|Basler]] {{goal|6}}
+|stadium = [[Camp Nou]], [[Barcelona]]
+|attendance = 90,245<ref>{{cite book |title=UEFA Champions League Statistics Handbook 2012/13 |url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/50/84/1885084_DOWNLOAD.pdf |archive-url=https://web.archive.org/web/20130128170559/http://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/50/84/1885084_DOWNLOAD.pdf |url-status=dead |archive-date=January 28, 2013 |chapter=Chapter 6 – Finals |page=114 |publisher=Union of European Football Associations |date=2013 |access-date=3 July 2014}}</ref>
+|referee = [[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+|report = https://www.uefa.com/uefachampionsleague/match/56379/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = 
+| pattern_b = _manutde9700
+| pattern_ra = 
+| pattern_sh = _manutde9700
+| pattern_so = 
+| leftarm = E20E0E
+| body = E20E0E
+| rightarm = E20E0E
+| shorts = FFFFFF
+| socks = FFFFFF
+| title = {{nowrap|Manchester United}}
+}}
+|{{Football kit
+| pattern_la = _FCBAYERN_9899t
+| pattern_b = _FCBAYERN_9899t
+| pattern_ra = _FCBAYERN_9899t
+| pattern_sh = _FCBAYERN_9899t
+| pattern_so = _FCBAYERN_9899t
+| leftarm = FFFFFF
+| body = FFFFFF
+| rightarm = FFFFFF
+| shorts = FFFFFF
+| socks = 8b7f84
+| title = {{nowrap|Bayern Munich}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|DEN}} [[Peter Schmeichel]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Gary Neville]]
+|-
+|CB ||'''5''' ||{{flagicon|NOR}} [[Ronny Johnsen]]
+|-
+|CB ||'''6''' ||{{flagicon|NED}} [[Jaap Stam]]
+|-
+|LB ||'''3''' ||{{flagicon|IRL}} [[Denis Irwin]]
+|-
+|RM ||'''11'''||{{flagicon|WAL}} [[Ryan Giggs]]
+|-
+|CM ||'''7''' ||{{flagicon|ENG}} [[David Beckham]]
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Nicky Butt]]
+|-
+|LM ||'''15'''||{{flagicon|SWE}} [[Jesper Blomqvist]] || || {{suboff|67}}
+|-
+|CF ||'''19'''||{{flagicon|TRI}} [[Dwight Yorke]]
+|-
+|CF ||'''9 '''||{{flagicon|ENG}} [[Andy Cole]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''17'''||{{flagicon|NED}} [[Raimond van der Gouw]]
+|-
+|DF ||'''4''' ||{{flagicon|ENG}} [[David May (footballer)|David May]]
+|-
+|DF ||'''12'''||{{flagicon|ENG}} [[Phil Neville]]
+|-
+|DF ||'''30'''||{{flagicon|ENG}} [[Wes Brown]]
+|-
+|MF ||'''34'''||{{flagicon|ENG}} [[Jonathan Greening]]
+|-
+|FW ||'''10'''||{{flagicon|ENG}} [[Teddy Sheringham]] || || {{subon|67}}
+|-
+|FW ||'''20'''||{{flagicon|NOR}} [[Ole Gunnar Solskjær]] || || {{subon|81}}
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan=4|{{flagicon|SCO}} [[Alex Ferguson]]
+|}
+|valign="top"|[[File:Man Utd vs Bayern Munich 1999-05-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Oliver Kahn]] ([[Captain (association football)|c]])
+|-
+|SW ||'''10'''||{{flagicon|GER}} [[Lothar Matthäus]] || || {{suboff|80}}
+|-
+|RB ||'''2''' ||{{flagicon|GER}} [[Markus Babbel]]
+|-
+|CB ||'''25'''||{{flagicon|GER}} [[Thomas Linke]]
+|-
+|CB ||'''4''' ||{{flagicon|GHA}} [[Samuel Kuffour]]
+|-
+|LB ||'''18'''||{{flagicon|GER}} [[Michael Tarnat]]
+|-
+|CM ||'''11'''||{{flagicon|GER}} [[Stefan Effenberg]] || {{yel|60}}
+|-
+|CM ||'''16'''||{{flagicon|GER}} [[Jens Jeremies]]
+|-
+|RF ||'''14'''||{{flagicon|GER}} [[Mario Basler]] || || {{suboff|87}}
+|-
+|CF ||'''19'''||{{flagicon|GER}} [[Carsten Jancker]]
+|-
+|LF ||'''21'''||{{flagicon|GER}} [[Alexander Zickler]] || || {{suboff|71}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|GER}} [[Bernd Dreher]]
+|-
+|DF ||'''5''' ||{{flagicon|GER}} [[Thomas Helmer]]
+|-
+|MF ||'''7''' ||{{flagicon|GER}} [[Mehmet Scholl]] || || {{subon|71}}
+|-
+|MF ||'''8''' ||{{flagicon|GER}} [[Thomas Strunz]]
+|-
+|MF ||'''17'''||{{flagicon|GER}} [[Thorsten Fink]] || || {{subon|80}}
+|-
+|MF ||'''20'''||{{flagicon|BIH}} [[Hasan Salihamidžić]] || || {{subon|87}}
+|-
+|FW ||'''24'''||{{flagicon|IRN}} [[Ali Daei]]
+|-
+|colspan=3|'''Coach:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Ottmar Hitzfeld]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Gennaro Mazzei ([[Italian Football Federation|Italy]])
+<br />[[Claudio Puglisi]] ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />Fiorenzo Treossi ([[Italian Football Federation|Italy]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[Golden goal#Association football|golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if no goals occur in extra time
+*Seven named substitutes, of which up to three may be used
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+
+{| class="wikitable" style="text-align:center"
+|+First half
+|-
+!width=100|Statistic
+!width=70|Manchester United
+!width=70|Bayern Munich
+|-
+|Goals scored
+| 0 || 1
+|-
+|Total shots
+| 6|| 7
+|-
+|Shots on target
+| 4 || 2
+|-
+|Ball possession
+| 55% || 45%
+|-
+|Corner kicks
+| 6 || 1
+|-
+|Fouls committed
+| 5 || 6
+|-
+|Offsides
+| 4 || 5
+|-
+|Yellow cards
+| 0 || 0
+|-
+|Red cards
+| 0 || 0
+|}
+{{col-3}}
+
+{| class="wikitable" style="text-align:center"
+|+Second half
+|-
+!width=100|Statistic
+!width=70|Manchester United
+!width=70|Bayern Munich
+|-
+|Goals scored
+| 2 || 0
+|-
+|Total shots
+| 9 || 8
+|-
+|Shots on target
+| 5 || 5
+|-
+|Ball possession
+| 51% || 49%
+|-
+|Corner kicks
+| 6 || 6
+|-
+|Fouls committed
+| 6 || 4
+|-
+|Offsides
+| 2 || 3
+|-
+|Yellow cards
+| 0 || 1
+|-
+|Red cards
+| 0 || 0
+|}
+{{col-3}}
+
+{| class="wikitable" style="text-align:center"
+|+Overall{{citation needed|date=June 2024}}
+|-
+!width=100|Statistic
+!width=70|Manchester United
+!width=70|Bayern Munich
+|-
+|Goals scored
+| 2 || 1
+|-
+|Total shots
+| 15 || 15
+|-
+|Shots on target
+| 9 || 7
+|-
+|Ball possession
+| 53% || 47%
+|-
+|Corner kicks
+| 12 || 7
+|-
+|Fouls committed
+| 11 || 10
+|-
+|Offsides
+| 6 || 8
+|-
+|Yellow cards
+| 0 || 1
+|-
+|Red cards
+| 0 || 0
+|}
+{{col-end}}
+
+==Post-match and legacy==
+{{Quote box |quoted=true |bgcolor=#FFFFF0 |salign=center
+|width=100%
+|align=center
+|quote=…For me, it was as though the world stood still. I thought, "This is – this is what paradise is all about. It's got to be." And I honestly do not remember what I did for about five minutes…And suddenly, the world was great again. And I thought, "Well, this…There is nothing ever going to be better than this."
+|source=[[Bobby Charlton]], 1966 World Cup winner with England and United's 1968 European Cup-winning captain who watched the final live at the Camp Nou, recalling his reaction to Solskjær's winner in an interview<ref>{{cite web |title=Sir Bobby Charlton perfectly sums up why we're all football fans |url=https://www.youtube.com/watch?v=3chqy_zdF_A |website=YouTube |date=21 October 2023 |publisher=The Independent |access-date=27 October 2023 |language=en}}</ref>
+}}
+[[File:1999 UEFA Champions League celebration (edited).jpg|thumb|Manchester United's players celebrate after the game.]]
+
+The game's ending was so unexpected that [[UEFA]] President [[Lennart Johansson]] had left his seat in the stands before Sheringham's equaliser to make his way down to the pitch to present the [[European Champion Clubs' Cup|European Cup trophy]], which was already decorated with red and white ribbons – the colours of both teams.<ref name="Harris">{{cite book |last1=Harris |first1=Daniel |title=The Promised Land |year=2013 |publisher=Arena Sport |location=Edinburgh |isbn=978-1-909715-05-9}}</ref>{{rp|p=261}}<ref>{{cite web |title=1998/99 Manchester United FC 2-1 FC Bayern München: Report |url=https://www.uefa.com/uefachampionsleague/news/01e8-0e6a21aa8a51-871133889c58-1000--1998-99-manchester-united-fc-2-1-fc-bayern-munchen-report/ |website=UEFA |date=1 August 2010 |publisher=UEFA |access-date=19 March 2026 |language=en}}</ref> When emerging from the tunnel at the final whistle, he was stunned, and he later said: "I can't believe it. The winners are crying and the losers are dancing."<ref name="Harris"/>{{rp|p=272}} When the two teams went to collect their medals, Matthäus received his runner-up medal but removed it from his neck almost immediately.<ref>{{cite news |first=John |last=Brewin |title=Lothar Matthäus, unsurpassed but unloved |url=http://www.espnfc.co.uk/story/629453/lothar-matth%C3%A3%C2%A4us-unsurpassed-but-unloved |work=ESPN FC |date=20 March 2009 |access-date=30 August 2015}}</ref> He never won the competition as a player, having moved to play in the United States for the [[New York Red Bulls|MetroStars]] in March 2000, the year before Bayern next won the European Cup in [[2001 UEFA Champions League final|2001]].<ref>{{cite news |first=Majid |last=Mohamed |title=The best not to have won the Champions League |url=https://www.uefa.com/uefachampionsleague/news/0221-0e90c7564eb5-3b70d5ac744b-1000--the-best-not-to-have-won-the-champions-league/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=19 May 2015 |access-date=30 August 2015}}</ref> Matthäus later commented that "it was not the best team that won but the luckiest".<ref>{{cite news |title=Matthaus: United were lucky |url=http://news.bbc.co.uk/2/hi/sport/football/353876.stm |work=BBC Sport |date=26 May 1999 |access-date=3 January 2012}}</ref> As captain of Manchester United, Schmeichel should have received his medal last, but instead he went up first before having to return to the back of the queue with Ferguson; the pair then lifted the trophy together, surrounded by the rest of Manchester United's players, including May, who climbed the presentation podium to a position of prominence in the celebration photographs.<ref name="Ferris"/>{{rp|p=401}}
+
+Staying true to his word from earlier in the season, the match was Schmeichel's last in a Manchester United shirt, and a month later he signed for Portuguese club [[Sporting CP]].<ref>{{cite news |first=Jon |last=Brodkin |title=Schmeichel takes his leave in Sporting fashion |url=https://www.theguardian.com/football/1999/jun/21/newsstory.sportinglisbon |work=The Guardian |date=21 June 1999 |access-date=30 August 2015}}</ref> He spent two seasons in Portugal before returning to England for spells with Aston Villa and [[Manchester City F.C.|Manchester City]].<ref>{{cite news |title=Villa clinch Schmeichel deal |url=http://news.bbc.co.uk/sport1/hi/football/teams/a/aston_villa/1435755.stm |work=BBC Sport |date=12 July 2001 |access-date=30 August 2015}}</ref><ref>{{cite news |title=Man City snap up Schmeichel |url=http://news.bbc.co.uk/sport1/hi/football/teams/a/aston_villa/1926287.stm |work=BBC Sport |date=13 April 2002 |access-date=30 August 2015}}</ref> It was also Blomqvist's last competitive appearance for the club. After playing in all four matches of the club's pre-season tour of Australia and China in July 1999, he suffered a succession of knee injuries that ruled him out of competitive action for the next two seasons. He made two more appearances for the first team during the 2000–01 pre-season campaign, as well as three matches for the reserves in September and October 2001, before a free transfer to [[Everton F.C.|Everton]] in November that year.<ref>{{cite book |editor1-last=Ponting |editor1-first=Ivan |title=Match of My Life: Manchester United |year=2007 |publisher=Know The Score Books |location=Studley |isbn=978-1-905449-59-0 |chapter=Jesper Blomqvist v Bayern Munich, UEFA Champions League final, May 1999 |first=Jesper |last=Blomqvist |pages=192–3}}</ref> For Bayern Munich, substitutes Helmer and [[Ali Daei]] left the club in the summer of 1999; Helmer moved to England to play for [[Sunderland A.F.C.|Sunderland]], while Daei remained in Germany with Hertha BSC.<ref>{{cite news |title=Wearsiders capture German Helmer |url=http://news.bbc.co.uk/1/hi/sport/football/393276.stm |work=BBC News |date=13 July 1999 |access-date=30 August 2015}}</ref><ref>{{cite news |title=Hertha BSC: Ali Daei der neue "Held von Berlin" |trans-title=Hertha BSC: Ali Daei, the new "Hero of Berlin" |url=http://www.spiegel.de/sport/fussball/hertha-bsc-ali-daei-der-neue-held-von-berlin-a-42915.html |website=spiegel.de |publisher=Spiegel Online |date=22 September 1999 |access-date=30 August 2015}}</ref>
+
+Bayern president [[Franz Beckenbauer]] recognised that it was a loss of concentration in the last few minutes that led to his side's defeat: "That was the cruellest defeat possible because victory was so close. We already had victory in the bag and there were only a few seconds to go. But those few seconds were enough for Manchester [United] to get back into the game. We were playing well in the last 20 minutes and should have been able to hold on to victory. But in the end, Manchester deservedly won."<ref name="quotes">{{cite news |title=Barcelona: Quotes at a glance |url=http://news.bbc.co.uk/1/hi/sport/football/353901.stm |work=BBC News |date=27 May 1999 |access-date=30 August 2015}}</ref> Manager Hitzfeld seemed more stunned by the result in his reaction: "I feel so sorry for my team because they were so close to winning this match but they have lost. It's really difficult to digest and this is inconceivable for us but then this is what football is all about. Normally when the opposition equalise you are expecting extra-time and it was a shock to our team when they scored the winner two minutes later. It could take days or even weeks to recover from this but I must say that Manchester are great champions."<ref name="quotes"/>
+
+[[File:The Champions League Winners Medal (Manchester United Museum) (262769292).jpg|thumb|A winner's medal from the 1999 Champions League final on display in the Manchester United Museum]]
+
+In winning the trophy, Manchester United became the first English team to be crowned European champions since the [[Heysel Stadium disaster]] ban in 1985, which had resulted in English clubs being excluded from UEFA competitions for five years, and also the first team to achieve the treble of the [[Premier League]], [[FA Cup]], and [[UEFA Champions League|European Cup]] in the same season.<ref>{{cite news |first=Martin |last=Thorpe |title=Solskjaer takes Treble chance |url=https://www.theguardian.com/football/1999/may/26/newsstory.sport |work=The Guardian |location=London |date=26 May 1999 |access-date=30 January 2009 |archive-url=https://web.archive.org/web/20090217094902/http://www.guardian.co.uk/football/1999/may/26/newsstory.sport |archive-date=17 February 2009 |url-status=live}}</ref> It was the first time the treble had been won since [[PSV Eindhoven]] in 1988; it would not be won again until Barcelona beat Manchester United 10 years later in the [[2009 UEFA Champions League final]].<ref>{{cite news |title=Inter join exclusive treble club |url=https://www.uefa.com/uefachampionsleague/news/0250-0c50f4b42c3a-0fbc1831ccbe-1000--inter-join-exclusive-treble-club/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=22 May 2010 |access-date=21 August 2015}}</ref> After becoming the first manager of an English club to achieve this honour, Ferguson was made a [[Knight Bachelor]] on 12 June 1999 in recognition of his services to football,<ref>{{cite news |title=Knighthood for treble-winner Ferguson |url=http://news.bbc.co.uk/1/hi/special_report/1999/06/99/queens_birthday_honours/366908.stm |work=BBC News |date=12 June 1999 |access-date=19 June 2015}}</ref> as well as a bonus from the club reported to be in the region of £350,000 (the players received bonuses of £150,000 each).<ref name="Ferris"/>{{rp|p=331}} In a post-match interview with [[ITV (TV channel)|ITV]]'s [[Gary Newbon]], Ferguson provided a succinct summary of the game: "Football, eh? Bloody hell".<ref name="Ferris"/>{{rp|p=394}} After the treble was secured, much debate arose among English football fans as to whether the 1999 Manchester United team was the greatest club side ever, alongside past European Cup-winning teams.<ref>{{cite news |title=Are Man Utd the best ever club side? |url=http://news.bbc.co.uk/1/hi/talking_point/353585.stm |work=BBC News |date=4 June 1999 |access-date=7 July 2012}}</ref> It was such a significant achievement for an English football club that [[Prime Minister of the United Kingdom|Prime Minister]] [[Tony Blair]] took the time to watch part of the match and congratulate Manchester United from the opening of the new [[National Assembly for Wales]] in Cardiff.<ref name="treble_joy"/>
+
+Manchester United became the first team to win the European Cup or Champions League without being the champions of Europe or champions of their country the preceding season.<ref name="Ferris"/>{{rp|p=354}} They had finished second behind Arsenal in the [[1997–98 FA Premier League]],<ref>{{cite web |title=England 1997/98 |url=https://www.rsssf.org/tablese/eng98.html |publisher=Rec.Sports.Soccer Statistics Foundation |date=26 January 2007 |access-date=30 August 2015}}</ref> but had qualified through UEFA's expanded 24-team format, which had been introduced a season earlier.<ref>{{cite book |title=UEFA Champions League Statistics Handbook Season 1996/97 |year=1996 |publisher=Union of European Football Associations |location=Nyon |page=283 |chapter=Season 1997/98}}</ref> Had Bayern won the cup, they would have become the first team to achieve this feat, having also finished second in the Bundesliga to Kaiserslautern the season before.<ref>{{cite web |title=Germany 1997/98 |url=https://www.rsssf.org/tablesd/duit98.html |publisher=Rec.Sports.Soccer Statistics Foundation |date=7 June 2005 |access-date=30 August 2015}}</ref> While Manchester United finished the season as treble champions, Bayern ultimately lost the DFB-Pokal final to Werder Bremen, which meant they finished the season with the Bundesliga title as their only silverware.<ref name="sky_treble"/>
+
+Manchester United received £2&nbsp;million in prize money from UEFA for winning the competition, on top of the £10&nbsp;million they had already won just for reaching the final; by comparison, Bayern Munich received £1.6&nbsp;million for finishing as runners-up.<ref>{{cite news |title=Gold Trafford |url=http://news.bbc.co.uk/1/hi/business/the_company_file/325977.stm |work=BBC News |date=22 April 1999 |access-date=30 August 2015}}</ref> Manchester United also received another financial boost in the form of an increase in the share price of their parent company on the [[London Stock Exchange]]; following the match, the price rose from 187 pence per share to 190 pence; however, this was still around 50p less than the shares were trading for earlier in the season during the attempted buyout of the club by [[Sky UK|BSkyB]].<ref>{{cite news |title=City's muted salute to United |url=http://news.bbc.co.uk/1/hi/business/the_company_file/354121.stm |work=BBC News |date=27 May 1999 |access-date=30 August 2015}}</ref>
+
+[[File:Manchester United Treble celebration.jpg|thumb|Manchester United celebrated the treble with an open-top bus down Deansgate in Manchester.]]
+
+Manchester United planned an open-top bus tour of the city of Manchester the day after the game, at which they would parade their three trophies for an expected 700,000 people lining the streets between [[Sale, Greater Manchester|Sale]] and the city centre. The parade culminated with a reception at the [[Manchester Arena]], for which 17,500 tickets were made available at £3 each; proceeds went to Ferguson's testimonial fund.<ref>{{cite news |title=Manchester plans huge victory party |url=http://news.bbc.co.uk/1/hi/sport/354082.stm |work=BBC News |date=27 May 1999 |access-date=30 August 2015}}</ref> Greater Manchester Police later estimated that the actual number of people who attended the parade was around 500,000.<ref>{{cite news |first=Lee |last=Swettenham |title=Manchester United Treble 1999: 15 years on, 30 stunning pictures as 500k Reds watched victory parade |url=http://www.manchestereveningnews.co.uk/sport/football/manchester-united-treble-1999-pictures-7176059 |work=Manchester Evening News |date=27 May 2014 |access-date=30 August 2015}}</ref>
+
+United took UEFA's berth in the [[1999 Intercontinental Cup]] by virtue of the Champions League win, as well as for the new [[FIFA]]-sanctioned [[2000 FIFA Club World Championship|Club World Championship]] the following season. The club's participation in the latter was controversial because, under pressure from [[the Football Association]], they withdrew from defending their FA Cup title in the [[1999–2000 FA Cup|1999–2000 edition]] for it.<ref>{{cite web |url=http://news.bbc.co.uk/1/hi/sport/football/fa_carling_premiership/381662.stm |title=United pull out of FA Cup |date=30 June 1999 |access-date=25 August 2011 |work=BBC Sport |publisher=BBC }}</ref>
+
+==Broadcasting==
+In the United Kingdom, [[ITV Sport]] broadcast the final with commentary from [[Clive Tyldesley]] and [[Ron Atkinson]].<ref>{{cite AV media |people=Tyldesley, Clive; Atkinson, Ron |date=26 May 1999 |title=1999 UEFA Champions League Final |medium=Television production |publisher=ITV}}</ref> The broadcast attracted an average of 15.5&nbsp;million viewers, with a peak audience of 18.8&nbsp;million at 21:30, just as Manchester United scored their two goals.<ref>{{cite news |title=Millions watch United victory |url=http://news.bbc.co.uk/1/hi/entertainment/354290.stm |work=BBC News |date=27 May 1999 |access-date=30 August 2015}}</ref> The climax of the game was voted as the fourth-greatest sporting moment ever by [[Channel 4]] viewers in a 2002 [[100 Greatest (UK TV series)|poll]].<ref>{{Cite web |url=http://www.channel4.com/entertainment/tv/microsites/G/greatest_sporting/results.html |title=100 Greatest Sporting Moments – Results |year=2002 |publisher=[[Channel 4]] |location=London|archive-url=https://web.archive.org/web/20020204090913/http://www.channel4.com/entertainment/tv/microsites/G/greatest_sporting/results.html|archive-date=4 February 2002|url-status=dead|access-date=6 December 2016}}</ref> [[Alan Green (broadcaster)|Alan Green]] and [[Mark Lawrenson]] commentated the final for [[BBC Radio 5 Live]]. In a 2024 BBC poll celebrating the station's 30th anniversary, listeners ranked it eighth on the list of most defining sporting moments in the station's history.<ref>{{cite AV media |last1=Oldroyd |first1=Eleanor |authorlink1=Eleanor Oldroyd |title=BBC Radio 5 Live's 30 Defining Sporting Moments |url=https://www.youtube.com/watch?v=Xu_qXfbZVN0 |website=YouTube |date=28 March 2024 |publisher=British Broadcasting Corporation |access-date=14 May 2024 |time=39:40}}</ref>
+
+In Germany, the match was shown on [[RTL Television]],<ref>{{cite news |title=Champions League |url=http://www.berliner-zeitung.de/archiv/champions-league,10810590,9643688.html |work=Berliner Zeitung |date=26 May 1999 |access-date=30 August 2014 |language=de |archive-date=12 May 2015 |archive-url=https://web.archive.org/web/20150512205205/http://www.berliner-zeitung.de/archiv/champions-league,10810590,9643688.html |url-status=dead}}</ref> and was seen by an average of 13.59&nbsp;million people over the course of the broadcast.<ref>{{cite news |title=It can't be – Germany left in tearful disbelief after Munich's collapse |url=http://red11.org/mufc/images/99/ecfinal/pdf/others.pdf |work=Fox Sports |agency=Associated Press |publisher=Red11 |date=27 May 1999 |access-date=30 August 2014}}</ref> In Spain, the match was shown on [[Televisión Española|TVE]].<ref>{{cite news |title=TVE se vuelca en Barcelona para enviar al extranjero la señal del Manchester–Bayern |url=http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1999/05/26/129.html |work=ABC |format=PDF |date=26 May 1999 |access-date=30 August 2014 |language=es}}</ref> In France, the match was shown on [[TF1]] with commentary by [[Thierry Roland]] and [[Jean-Michel Larqué]], the pairing who had also commentated the [[1998 FIFA World Cup final|1998 World Cup final]] for the same station.<ref>{{cite web |title=Manchester United 2–1 Bayern Munich (Finale Ligue des Champions 1998/1999 – TF1/FR) |trans-title=Manchester United 2–1 Bayern Munich (1999 Champions League Final – TF1/French) |url=https://www.youtube.com/watch?v=ImGzD-NMego |website=YouTube |date=15 May 2020 |publisher=TF1 |access-date=14 May 2024 |language=FR}}</ref>
+
+==Treble Reunion match==
+On 26 May 2019, Manchester United hosted a reunion match at [[Old Trafford]] against a Bayern Munich Legends team to mark the 20th anniversary of winning the treble and to raise money for the Manchester United Foundation.<ref>{{cite web |title=Treble Reunion |url=http://www.manutd.com/treblereunion |website=ManUtd.com |publisher=Manchester United |access-date=8 June 2019 |archive-url=https://web.archive.org/web/20190517213518/http://www.manutd.com/treblereunion |archive-date=17 May 2019 |url-status=live}}</ref> Most of the Manchester United squad from the 1998–99 season returned for the match,<ref name="reunion_squads">{{cite news |first=Adam |last=Higgins |title=Squads confirmed for Treble Reunion match |url=https://www.manutd.com/en/news/detail/squads-confirmed-for-treble-reunion-match-at-old-trafford |website=ManUtd.com |publisher=Manchester United |date=21 May 2019 |access-date=8 June 2019}}</ref> with the exception of Giggs, who was on coaching duty with the [[Wales national football team|Wales national team]].<ref>{{cite news |first=Katie |last=Newton |title=Class of '92 host kickabout for young school children |url=https://www.manutd.com/en/news/detail/mu-foundation-press-release-about-class-of-92-kickabout |website=ManUtd.com |publisher=Manchester United |date=22 March 2019 |access-date=8 June 2019}}</ref> Despite not having been with Manchester United during the 1998–99 season, [[Karel Poborský]], [[Mikaël Silvestre]] and [[Louis Saha]] completed the squad as regular participants in Manchester United Legends matches.<ref name="reunion_squads"/> Ferguson returned to manage the side, six years after his retirement from full-time management, joined by his 1999 assistant [[Steve McClaren]] and former club captain [[Bryan Robson]] as head coach.<ref name="reunion_squads"/> The Bayern squad featured six players who appeared in the 1999 final – Babbel, Kuffour, Effenberg, Matthäus, Jancker and Fink – as well as striker Élber, who missed the original match through injury.<ref name="reunion_squads"/>
+
+Manchester United won the match 5–0. Solskjær, who had been appointed as manager of Manchester United in December 2018, opened the scoring in the fifth minute, having come on for Cole in the first minute of the match due to Cole's continued struggle with kidney trouble. Yorke made it 2–0 on the half-hour mark, before second-half goals from Butt, Saha and Beckham completed the scoring.<ref>{{cite news |first=Adam |last=Marshall |title=Treble Reunion: United 5 Bayern Munich 0 |url=https://www.manutd.com/en/news/detail/match-report-man-utd-v-bayern-munich-treble-reunion-2019 |website=ManUtd.com |publisher=Manchester United |date=26 May 2019 |access-date=8 June 2019}}</ref> The match was played in front of 61,175 spectators and raised £1.5&nbsp;million for the Manchester United Foundation.<ref>{{cite news |title=Treble Reunion raises huge amount for Foundation |url=https://www.manutd.com/en/news/detail/treble-reunion-raises-over-a-million-pounds-for-the-manchester-united-foundation |website=ManUtd.com |publisher=Manchester United |date=26 May 2019 |access-date=8 June 2019}}</ref>
+
+==See also==
+* [[1999 UEFA Cup final]]
+* [[1999 UEFA Cup Winners' Cup final]]
+* [[1998–99 FC Bayern Munich season]]
+* [[1998–99 Manchester United F.C. season]]
+* [[FC Bayern Munich in international football]]
+* [[Manchester United F.C. in international football]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20110824205024/http://www.uefa.com/uefachampionsleague/season=1998/index.html 1998–99 season] at UEFA.com
+
+{{UEFA Champions League seasons}}
+{{1998–99 in European football (UEFA)}}
+{{Manchester United F.C. matches}}
+{{FC Bayern Munich matches}}
+{{authority control}}
+
+{{DEFAULTSORT:Uefa Champions League final 1999}}
+[[Category:1998–99 UEFA Champions League|Final]]
+[[Category:Manchester United F.C. matches|European Cup Final 1999]]
+[[Category:FC Bayern Munich matches|European Cup Final 1999]]
+[[Category:UEFA Champions League finals|1999]]
+[[Category:1998–99 in English men's football|Champions League Final]]
+[[Category:1998–99 in German football|Champions League Final]]
+[[Category:1998–99 in Spanish football|Champions League Final]]
+[[Category:1990s in Barcelona]]
+[[Category:May 1999 sports events in Europe]]
+[[Category:Football matches in Barcelona]]
+[[Category:International sports competitions in Catalonia]]
+[[Category:1999 in Catalan sport]]
+[[Category:England–Germany football rivalry]]

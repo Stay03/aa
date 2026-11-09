@@ -1,0 +1,389 @@
+{{Short description|1st edition of the FIFA Intercontinental Cup}}
+{{Use dmy dates|date=December 2023}}
+{{Redirect2|2024 Intercontinental Cup|2024 FIFA Club World Cup|the international football tournament that took place in India in September 2024|2024 Intercontinental Cup (India)|the next iteration of the tournament|2025 FIFA Club World Cup}}
+{{for|the final match branded as "2024 FIFA Intercontinental Cup"|2024 FIFA Intercontinental Cup final}}{{Not to be confused with|2024 FIBA Intercontinental Cup}}
+{{Infobox international football competition
+| tourney_name   = FIFA Intercontinental Cup
+| year           = 2024
+| image          = 2024 FIFA Intercontinental Cup.svg
+| size           = 175
+| country        = ''Final stages:''<br/>Qatar
+| dates          = {{nowrap|22 September – 18 December}}
+| num_teams      = 6
+| confederations = 6
+| venues         = 4
+| cities         = 4
+| champion_other = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| count          = 1
+| second_other   = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+| third_other    =
+| matches        = 5
+| goals          = 17
+| attendance     = {{#expr: <!--First round-->+ 13826 <!--Second round-->+ 51602 + 12257 <!--Play-off-->+ 38841 <!--Final-->+ 67249}}
+| top_scorer     = {{flagicon|MAR}} [[Soufiane Rahimi]] ([[Al Ain FC|Al Ain]])<br />2 goals
+| player         = {{flagicon|BRA}} [[Vinícius Júnior]] (Real Madrid)
+| fair_play      = {{fbaicon|ESP}} [[Real Madrid]]
+| prevseason     = [[2023 FIFA Club World Cup|2023]] (FIFA Club World Cup)
+| nextseason     = [[2025 FIFA Intercontinental Cup|2025]]
+}}
+The '''2024 FIFA Intercontinental Cup''' (officially known as the '''FIFA Intercontinental Cup Qatar 2024 presented by [[Saudi Aramco|Aramco]]''' for sponsorship reasons)<ref>{{cite web |url=https://inside.fifa.com/about-fifa/organisation/news/fifa-intercontinental-cup-2024-stadiums-revealed |title=FIFA Intercontinental Cup 2024 stadiums revealed |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=12 November 2024 |access-date=14 November 2024}}</ref> was the inaugural edition of the [[FIFA Intercontinental Cup]], an annual club [[association football]] tournament organised by [[FIFA]]. The tournament comprised the six teams that won the previous edition of the continental championships in each FIFA confederation, playing each other in a [[single-elimination]] bracket. It was held from 22 September to 18 December 2024. The first two games were played in the stadium of a team involved in each match, and the final three (including the [[2024 FIFA Intercontinental Cup final|final]]) were played in Qatar as a neutral venue.<ref name="FIFA">{{cite press release |date=17 December 2023 |title=FIFA Council confirms key details for FIFA Club World Cup 2025 |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-confirms-key-details-for-fifa-club-world-cup-2025-tm |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=17 December 2023}}</ref>
+
+The tournament broadly maintains the format of the previous annual versions of the [[FIFA Club World Cup]], which was expanded and reorganised into a quadrennial tournament with more entrants, with the exception of changes to venues for the initial rounds.<ref name="FIFA"/>
+
+==Format==
+The details were approved by the [[FIFA Council]] on 17 December 2023, with the format formally confirmed on 20 September 2024.<ref name="SportingNews">{{cite news |last=Bonn |first=Kyle |date=17 December 2023 |title=Club World Cup 2025 in USA: Confirmed teams, format, schedule, dates for FIFA tournament with expanded field |url=https://www.sportingnews.com/us/soccer/news/club-world-cup-2025-usa-teams-format-dates-schedule-fifa/d5370f31621951fc1e4499e7 |work=[[The Sporting News]] |access-date=17 December 2023}}</ref><ref>{{cite news |last=Nair |first=Rohith |date=17 December 2023 |title=Club World Cup set for June–July 2025, new Intercontinental Cup in 2024 –FIFA |url=https://www.reuters.com/sports/soccer/club-world-cup-set-june-july-2025-new-intercontinental-cup-2024-fifa-2023-12-17/ |agency=[[Reuters]] |access-date=17 December 2023}}</ref><ref name="key info"/><ref>{{cite web |url=https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2024/articles/bureau-council-update |title=Bureau of the Council update on FIFA Intercontinental Cup 2024 |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=19 September 2024 |access-date=21 September 2024}}</ref>
+
+* '''First round''': The winners of the [[2023–24 AFC Champions League]]{{efn|name="rounddraw"|A draw determined whether the winners of the [[2023–24 AFC Champions League]] or the [[2023–24 CAF Champions League]] would play in the first round. Consequently, the other team entered in the second round.}} hosted the winners of the [[2024 OFC Champions League]] in the "FIFA African–Asian–Pacific Cup play-off".<ref>{{Cite tweet |number=1828237517784785314 |user=AucklandCity_FC |title=Intercontinental Cup: City to face AFC Champs |date=26 August 2024}}</ref>
+* '''Second round''': The winners of the [[2023–24 CAF Champions League]] hosted the winners of the first round for the title of the "FIFA African–Asian–Pacific Cup". In parallel, the winners of the [[2024 Copa Libertadores]] and the winners of the [[2024 CONCACAF Champions Cup]] played each other in [[Doha]], Qatar, in a match that will be denominated the "FIFA Derby of the Americas".
+* '''Play-off''': The winners of the second round matches played each other in Doha, Qatar in the "FIFA Challenger Cup".
+* '''Final''': The winners of the play-off (FIFA Challenger Cup) played the winners of the [[2023–24 UEFA Champions League]] in [[Lusail]], Qatar.
+
+== Venues ==
+{| class="wikitable" style="text-align:center;margin:1em auto;"
+!{{Flagu|United Arab Emirates}}
+!{{Flagu|Egypt}}
+! colspan="2" |{{Flagu|Qatar}}
+|-
+![[Al Ain]]
+![[Cairo]]
+![[Doha]]
+![[Lusail]]<br /><small>([[Doha Metropolitan Area|Doha Area]])</small>
+|-
+|[[Hazza bin Zayed Stadium]]
+|[[Cairo International Stadium]]
+| [[Stadium 974]]
+|[[Lusail Stadium]]
+|-
+|Capacity: '''25,053'''
+|Capacity: '''75,000'''
+| Capacity: '''44,089'''
+|Capacity: '''88,966'''
+|-
+|[[File:IRN-JPN_20190128_01.jpg|200x200px]]
+|[[File:Cairo International Stadium 2019.jpg|178x178px]]
+| [[File:Stadium 974 exterior.jpg|192x192px]]
+|[[File:Aerial view of Lusail Stadium in 2022.png|195x195px]]
+|-
+!{{location map+|United Arab Emirates|float=center|width=300|caption=Location of the host city of the 2024 FIFA Intercontinental Cup in the United Arab Emirates.|places={{Location map~|United Arab Emirates|lat=24.2075|long=55.744722|label=[[Al Ain]]|position=left}}}}
+!{{location map+|Egypt|width=285|float=center|caption=Location of the host city of the 2024 FIFA Intercontinental Cup in Egypt.|places={{Location map~|Egypt|lat=30.044444|long=31.235833|label=[[Cairo]]|position=bottom}}}}
+! colspan="2" |{{location map+|Qatar|float=center|width=300|caption=Location of the host cities of the 2024 FIFA Intercontinental Cup in Qatar.|places={{Location map~|Qatar|lat=25.4175|long=51.5075|label=[[Lusail]]|position=right}}
+{{Location map~|Qatar|lat=25.286667|long=51.533333|label=[[Doha]]|position=right}}}}
+|}
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of the teams participating in the 2024 FIFA Intercontinental Cup.|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-22.912147|long=-43.230187|label_size=80|label=[[Botafogo de Futebol e Regatas|Botafogo]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=40.453058|long=-3.688337|label_size=80|label=[[Real Madrid CF|Real Madrid]]|position=left}}
+<!--AFC-->
+{{Location map~|World|lat=24.2446219|long=55.7142463|label_size=80|label=[[Al Ain FC|Al Ain]]|position=right}}
+<!--CAF-->
+{{Location map~|World|lat=30.069114|long=31.312333|label_size=80|label=[[Al Ahly FC|Al Ahly]]|position=left}}
+<!--CONCACAF-->
+{{Location map~|World|lat=20.105186|long=-98.7563288|label_size=80|label=[[C.F. Pachuca|Pachuca]]|position=left}}
+<!--OFC-->
+{{Location map~|World|lat=-36.898035|long=174.736502|label_size=80|label=[[Auckland City FC|Auckland City]]|position=left}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Qualified date
+|-
+!colspan=4|Entering in the final
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[UEFA]]
+|Winners of the [[2023–24 UEFA Champions League]]
+|1 June 2024
+|-
+!colspan=4|Entering in the second round
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2023–24 CAF Champions League]]
+|25 May 2024
+|-
+|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|[[CONCACAF]]
+|Winners of the [[2024 CONCACAF Champions Cup]]
+|1 June 2024
+|-
+|{{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|[[CONMEBOL]]
+|Winners of the [[2024 Copa Libertadores]]
+|30 November 2024
+|-
+!colspan=4|Entering in the first round
+|-
+|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2023–24 AFC Champions League]]
+|25 May 2024
+|-
+|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2024 OFC Champions League]]
+|24 May 2024
+|}
+
+==Matches==
+The match schedule was confirmed on 26 August 2024.<ref>{{cite tweet |author=Al Ain FC |author-link=Al Ain FC |user=alainfcae_en |number=1828012884367982710 |date=26 August 2024 |title=Official {{!}} The match schedule for the 2024 Intercontinental Cup has been confirmed |access-date=18 September 2024}}</ref><ref>{{cite web |url=https://digitalhub.fifa.com/m/6f5a37dde54c33ff/original/FIC-2024-Match-Schedule.pdf |title=Match Schedule – FIFA Intercontinental Cup Qatar 2024 |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=6 December 2024}}</ref> If a match was tied after normal playing time, [[Overtime (sports)#Association football|extra time]] was played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] was held to determine the winners.
+
+===Bracket===
+{{6TeamBracket-StepladderToQF
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+
+<!-- First round -->
+| RD1-text1    = 22 September – [[Hazza bin Zayed Stadium|Al Ain]]
+| RD1-team1    = {{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+| RD1-score1   = 6
+| RD1-team2    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD1-score2   = 2
+
+<!-- Second round -->
+| RD2-text1    = 11 December – [[Stadium 974|Doha]]
+| RD2-team1    = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+| RD2-score1   = 0
+| RD2-team2    = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+| RD2-score2   = 3
+
+| RD2-text2    = 29 October – [[Cairo International Stadium|Cairo]]
+| RD2-team3    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD2-score3   = 3
+| RD2-team4    = {{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+| RD2-score4   = 0
+
+<!-- Play-off -->
+| RD3-text1    = 14 December – [[Stadium 974|Doha]]
+| RD3-team1    = {{fbaicon|MEX}} '''[[C.F. Pachuca|Pachuca]]''' {{pso}}
+| RD3-score1   = 0 '''(6)'''
+| RD3-team2    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD3-score2   = 0 (5)
+
+<!-- Final -->
+| RD4-text1    = 18 December – [[Lusail Stadium|Lusail]]
+| RD4-team1    = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| RD4-score1   = 3
+| RD4-team2    = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+| RD4-score2   = 0
+}}
+
+===First round===
+{{Football box|id=event
+|event      = African–Asian–Pacific Cup play-off
+|date       = {{Start date|2024|9|22|df=y}}
+|time       = 20:00 [[Time in the United Arab Emirates|GST]]
+|team1      = [[Al Ain FC|Al Ain]] {{fbaicon|UAE}}
+|score      = 6–2
+|team2      = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|goals1     =
+*[[Fábio Cardoso|Cardoso]] {{goal|6}}
+*[[Sékou Gassama (footballer, born 2001)|Gassama]] {{goal|11}}
+*[[Matías Palacios|Palacios]] {{goal|45+1}}
+*[[Soufiane Rahimi|Rahimi]] {{goal|78||90+4}}
+*[[Kaku (footballer)|Kaku]] {{goal|90+2}}
+|goals2     =
+*[[Jerson Lagos|Lagos]] {{goal|43}}
+*[[Myer Bevan|Bevan]] {{goal|54}}
+|stadium    = [[Hazza bin Zayed Stadium]], [[Al Ain]]
+|attendance = 13,826
+|referee    = [[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+|report     = https://www.fifa.com/en/match-centre/match/107/290199/290202/400018890
+}}
+
+===Second round===
+{{Football box
+| id = event
+| event = African–Asian–Pacific Cup
+| date = {{Start date|2024|10|29|df=y}}
+| time = 20:00 [[Egypt Standard Time|EGY]]
+| team1 = [[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+| score = 3–0
+| team2 = {{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+| goals1 = *[[Wessam Abou Ali|Abou Ali]] {{goal|32}}
+*[[Emam Ashour|Ashour]] {{goal|55}}
+*[[Mohamed Magdy|Magdy]] {{goal|90+2|pen.}}
+| goals2 = 
+| stadium = [[Cairo International Stadium]], [[Cairo]]
+| attendance = 51,602
+| referee = [[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+| report = https://www.fifa.com/en/match-centre/match/107/290199/290201/400018889
+}}
+----
+{{Football box
+| id = event
+| event = Derby of the Americas
+| date = {{Start date|2024|12|11|df=y}}
+| time = 20:00 [[Arabia Standard Time|AST]]
+| team1 = [[Botafogo de Futebol e Regatas|Botafogo]] {{fbaicon|BRA}}
+| score = 0–3
+| team2 = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+| goals1 = 
+| goals2 = *[[Oussama Idrissi|Idrissi]] {{goal|50}}
+*[[Nelson Deossa|Deossa]] {{goal|66}}
+*[[Salomón Rondón|Rondón]] {{goal|80}}
+| stadium = [[Stadium 974]], [[Doha]]
+| attendance = 12,257<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce170/r8992/pdf/FullTimeMatchReport-English.pdf |title=Match Report: Botafogo v. CF Pachuca |publisher=Fédération Internationale de Football Association |date=11 December 2024 |access-date=11 December 2024}}</ref>
+| referee = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+| report = https://www.fifa.com/en/match-centre/match/107/290199/290247/400018893
+}}
+
+===Play-off===
+{{Football box
+| id = event
+| event = Challenger Cup
+| date = {{Start date|2024|12|14|df=y}}
+| time = 20:00 [[Arabia Standard Time|AST]]
+| team1 = [[C.F. Pachuca|Pachuca]] {{fbaicon|MEX}}
+| score = 0–0
+| aet = yes
+| team2 = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| stadium = [[Stadium 974]], [[Doha]]
+| attendance = 38,841<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce170/r8991/pdf/FullTimeMatchReport-English.pdf |title=Match Report: CF Pachuca v. Al Ahly FC |publisher=Fédération Internationale de Football Association |date=14 December 2024 |access-date=16 December 2024}}</ref>
+| referee = [[Alireza Faghani]] ([[Football Australia|Australia]])
+| report = https://www.fifa.com/en/match-centre/match/107/290199/290206/400018892
+| penalties1 = *[[Salomón Rondón|Rondón]] {{penmiss}}
+*[[Borja Bastón|Bastón]] {{penmiss}}
+*[[Gustavo Cabral|Cabral]] {{pengoal}}
+*[[Oussama Idrissi|Idrissi]] {{pengoal}}
+*[[Nelson Deossa|Deossa]] {{pengoal}}
+*[[Elías Montiel|Montiel]] {{pengoal}}
+*[[Luis Rodríguez (footballer, born 1991)|Rodríguez]] {{pengoal}}
+*[[Faber Gil|Gil]] {{pengoal}}
+| penaltyscore = 6–5
+| penalties2 = *{{pengoal}} [[Mohamed Magdy|Magdy]]
+*{{pengoal}} [[Ramy Rabia|Rabia]]
+*{{pengoal}} [[Marwan Attia|Attia]]
+*{{penmiss}} [[Mahmoud Kahraba|Kahraba]]
+*{{penmiss}} [[Omar Kamal|Kamal]]
+*{{pengoal}} [[Amr El Solia|El Solia]]
+*{{pengoal}} [[Percy Tau|Tau]]
+*{{penmiss}} [[Khaled Abdelfattah|Abdelfattah]]
+}}
+
+===Final===
+{{main|2024 FIFA Intercontinental Cup final}}
+
+{{:2024 FIFA Intercontinental Cup final}}
+
+==Goalscorers==
+{|class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|1
+|style="text-align:left"|{{flagicon|MAR}} [[Soufiane Rahimi]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|2
+|-
+|rowspan="15"|2
+|style="text-align:left"|{{flagicon|PLE}} [[Wessam Abou Ali]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|rowspan="15"|1
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Emam Ashour]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|NZL}} [[Myer Bevan]]
+|style="text-align:left"|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|-
+|style="text-align:left"|{{flagicon|POR}} [[Fábio Cardoso]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|-
+|style="text-align:left"|{{flagicon|COL}} [[Nelson Deossa]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|-
+|style="text-align:left"|{{flagicon|MLI}} [[Sékou Gassama (footballer, born 2001)|Sékou Gassama]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|-
+|style="text-align:left"|{{flagicon|MAR}} [[Oussama Idrissi]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|-
+|style="text-align:left"|{{flagicon|PAR}} [[Kaku (footballer)|Kaku]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|-
+|style="text-align:left"|{{flagicon|COL}} [[Jerson Lagos]]
+|style="text-align:left"|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Mohamed Magdy]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|FRA}} [[Kylian Mbappé]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Matías Palacios]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Rodrygo]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|VEN}} [[Salomón Rondón]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Vinícius Júnior]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|}
+
+==Awards==
+{{see also|FIFA Intercontinental Cup awards}}
+
+The following awards were given at the conclusion of the tournament. [[Vinícius Júnior]] of [[Real Madrid CF|Real Madrid]] won the Golden Ball award, sponsored by [[Adidas]], which was jointly awarded with the [[Saudi Aramco|Aramco]] Player of the Tournament to recognise the best player of the Intercontinental Cup.<ref>{{cite news |url=https://www.fifa.com/en/tournaments/mens/fifa-club-world-cup/articles/real-madrid-pachuca-report-final |title=Real Madrid beat Pachuca to win Intercontinental Cup |website=FIFA.com |publisher=Fédération Internationale de Football Association|date=18 December 2024 |access-date=18 December 2024}}</ref>
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Saudi Aramco|Aramco]] Player of the Tournament
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|BRA}} [[Vinícius Júnior]]<br />([[Real Madrid CF|Real Madrid]])
+|{{flagicon|URU}} [[Federico Valverde]]<br />([[Real Madrid CF|Real Madrid]])
+|{{flagicon|MEX}} [[Elías Montiel]]<br />([[C.F. Pachuca|Pachuca]])
+|}
+
+==Trophies awarded==
+For the first time, multiple trophies were awarded to winning teams in the competition. In addition to an updated trophy given to the winners of the Intercontinental Cup [[2024 FIFA Intercontinental Cup final|final]], trophies were awarded to the winning teams of the African–Asian–Pacific Cup (contested by the AFC, CAF and OFC representatives), Derby of the Americas (contested by the CONCACAF and CONMEBOL representatives) and Challenger Cup (contested by the winners of the two aforementioned matches). These trophies are similar to each other, but with different coloured globes.<ref name="key info">{{cite news |date=20 September 2024 |title=FIFA Intercontinental Cup: Key information|url=https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2024/articles/information-tournament-details|website=FIFA.com |publisher=Fédération Internationale de Football Association|access-date=20 September 2024}}</ref>
+* '''Intercontinental Cup:''' {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+* '''Challenger Cup:''' {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+* '''Derby of the Americas:''' {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+* '''African–Asian–Pacific Cup:''' {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2024}}
+
+{{FIFA Intercontinental Cup}}
+
+{{DEFAULTSORT:FIFA Intercontinental Cup}}
+[[Category:2024 FIFA Intercontinental Cup| ]]
+[[Category:FIFA Intercontinental Cup|2024]]
+[[Category:2024–25 in Qatari football]]
+[[Category:2024–25 in Emirati football]]
+[[Category:2024–25 in Egyptian football]]
+[[Category:2024–25 in Spanish men's football]]
+[[Category:2024–25 in Mexican football]]
+[[Category:2024 in Brazilian football]]
+[[Category:Men's football competitions in Qatar]]
+[[Category:Football club competitions in Qatar]]
+[[Category:Football competitions in Doha]]
+[[Category:Sport in Lusail]]
+[[Category:Sport in Al Ain]]
+[[Category:2020s in Doha]]
+[[Category:2020s in Cairo]]
+[[Category:2024 in New Zealand association football]]
+[[Category:September 2024 sports events in Asia]]
+[[Category:October 2024 sports events in Africa]]
+[[Category:December 2024 sports events in Qatar]]

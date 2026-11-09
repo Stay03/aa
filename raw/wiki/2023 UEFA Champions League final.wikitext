@@ -1,0 +1,615 @@
+{{Short description|Football match in Istanbul, Turkey}}
+{{Use dmy dates|date=September 2019}}
+{{Infobox football match
+| title = 2023 UEFA Champions League final
+| image = 2023 UEFA Champions League Final programme.jpg
+| image_size = frameless
+| caption = Match programme cover
+| event = [[2022–23 UEFA Champions League]]
+| team1 = [[Manchester City F.C.|Manchester City]]
+| team1association = {{#invoke:flag|fbaicon|ENG|size=30px}}
+| team1score = 1
+| team2 = [[Inter Milan]]
+| team2association = {{#invoke:flag|fbaicon|ITA|size=30px}}
+| team2score = 0
+| details = 
+| date = {{Start date|2023|6|10|df=y}}
+| stadium = [[Atatürk Olympic Stadium]]
+| city = [[Istanbul]]
+| man_of_the_match1a = [[Rodri (footballer, born 1996)|Rodri]] {{nowrap|(Manchester City)}}<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0282-1839b2019a75-b090def9922e-1000/ |title=Official Champions League final PlayStation Player of the Match: Rodri |publisher=UEFA |date=10 June 2023 |access-date=10 June 2023}}</ref>
+| referee = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])<ref name="officials">{{cite web |url=https://www.uefa.com/news-media/news/0281-1812baf4488c-70b9f3974d92-1000/ |title=Referee teams appointed for 2023 UEFA club competition finals |publisher=UEFA |date=22 May 2023 |access-date=22 May 2023 |archive-date=23 May 2023 |archive-url=https://web.archive.org/web/20230523002222/https://www.uefa.com/insideuefa/news/0281-1812baf4488c-70b9f3974d92-1000/ |url-status=live }}</ref>
+| attendance = 71,412<ref name="full_time"/>
+| weather = Clear night<br />{{convert|21|°C|°F|abbr=on}}<br />54% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2023/2037765_LU.pdf |title=Tactical Line-ups – Final – Saturday 10 June 2023 |publisher=UEFA |date=10 June 2023 |access-date=10 June 2023}}</ref>
+| previous = [[2022 UEFA Champions League final|2022]]
+| next = [[2024 UEFA Champions League final|2024]]
+}}
+The '''2023 UEFA Champions League final''' was the final match of the [[2022–23 UEFA Champions League]], the 68th season of Europe's premier club football tournament organised by [[UEFA]]. It was played at the [[Atatürk Olympic Stadium]] in [[Istanbul]], Turkey, on 10 June 2023,<ref>{{cite magazine |url=https://editorial.uefa.com/resources/026b-12cc960662f6-a33fcea5d68a-1000/20210719_circular_2021_51_en.zip |title=International match calendar and access list for 2022/23 |magazine=UEFA Circular Letter |publisher=Union of European Football Associations |number=51/2021 |date=19 July 2021 |access-date=5 November 2021}}</ref> between English club [[Manchester City F.C.|Manchester City]] and Italian club [[Inter Milan]], with Manchester City winning 1–0 via a second-half goal by [[Rodri (footballer, born 1996)|Rodri]], who was named [[Player of the match#Association football|man of the match]] by UEFA. For Manchester City, this was their first-ever European Cup, and first European trophy since [[1970 European Cup Winners' Cup final|1970]]. Having earlier won the [[2022–23 Premier League|Premier League]] and [[2022–23 FA Cup|FA Cup]] titles, they achieved the [[Treble (association football)#Continental trebles|continental treble]], only the second time it had been achieved in English men's football history.<ref>{{cite web |url=https://www.bbc.com/sport/football/65845807 |title=Man City win Champions League: Rodri goal secures victory against Inter and completes treble |publisher=UEFA |date=10 June 2023 |access-date=10 June 2023 |archive-date=11 June 2023 |archive-url=https://web.archive.org/web/20230611095758/https://www.bbc.com/sport/football/65845807 |url-status=live }}</ref><ref name="BBC">{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0282-1839b24603ef-36e94e63621d-1000/ |title=Man City 1–0 Inter Milan in Champions League final to claim Treble |work=[[BBC Sport]] |date=10 June 2023 |access-date=10 June 2023}}</ref> As winners, Manchester City earned the right to play against [[Sevilla FC|Sevilla]], the winners of the [[2022–23 UEFA Europa League]], in the [[2023 UEFA Super Cup]], as well as qualifying for the [[2023 FIFA Club World Cup]]; they went on to win both competitions. They also qualified for the [[2025 FIFA Club World Cup]] through UEFA's champions pathway (winners of the 2021–2024 Champions Leagues).
+
+The final was originally scheduled to be played at [[Wembley Stadium]] in [[London]], England. However, due to the postponement and relocation of the [[2020 UEFA Champions League final|2020 final]] because of the [[COVID-19 pandemic in Europe|COVID-19 pandemic]], the scheduled hosts for subsequent finals were shifted back a year, and the [[Allianz Arena]] in Munich was assigned the 2023 final.<ref name="ExCo 17 June">{{cite news |url=https://www.uefa.com/news-media/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/ |title=UEFA competitions to resume in August |website=UEFA.com|publisher=Union of European Football Associations |date=17 June 2020 |access-date=17 June 2020 |archive-date=25 August 2020 |archive-url=https://web.archive.org/web/20200825183219/https://www.uefa.com/insideuefa/about-uefa/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/?referrer=%2finsideuefa%2fnews%2fnewsid%3d2642232 |url-status=live }}</ref> When the [[2021 UEFA Champions League final|2021 final]], which had been scheduled to be played in Istanbul, also had to be relocated due to the [[Impact of the COVID-19 pandemic on association football|impact of the COVID-19 pandemic]], the 2023 final was given to Istanbul instead, and Munich received the [[2025 UEFA Champions League final|2025 final]].<ref name="ExCo 20 July">{{cite news |url=https://www.uefa.com/news-media/news/026b-12c542441355-1c2040c5e54b-1000/ |title=Venues appointed for club competition finals |website=UEFA.com|publisher=Union of European Football Associations |date=16 July 2021 |access-date=20 July 2021 |archive-date=16 July 2021 |archive-url=https://web.archive.org/web/20210716203913/https://www.uefa.com/insideuefa/mediaservices/mediareleases/news/026b-12c542441355-1c2040c5e54b-1000/ |url-status=live }}</ref>
+
+{{TOCLimit}}
+
+==Background==
+[[File:Adidas UEFA final footballs, June 2024 07.jpg|thumb|right|An example of the [[Adidas]] balls used in the final on display in London in 2024.]]
+For Manchester City, this was their third European final and second European Cup/Champions League final appearance; they won the [[1970 European Cup Winners' Cup final]] but lost the [[2021 UEFA Champions League final]] 1–0 to [[Chelsea F.C.|Chelsea]], who were the most recent new European champions, having won in [[2012 UEFA Champions League final|2012]]. Manager [[Pep Guardiola]] was looking to win his third UEFA Champions League title and the first since [[2011 UEFA Champions League final|2011]] with former employers [[FC Barcelona|Barcelona]], when they beat [[Manchester United F.C.|Manchester United]] 3–1 at [[Wembley Stadium]]. He was also aiming to become the first manager to win two European trebles, having done so with Barcelona in [[2008–09 FC Barcelona season|2008–09]]. Additionally, Manchester City were attempting to secure the [[Treble (association football)#Continental trebles|continental treble]], having earlier won the [[2022–23 Premier League|Premier League]] and [[2022–23 FA Cup|FA Cup]]. After [[West Ham United F.C.|West Ham United]]'s triumph in the [[2023 UEFA Europa Conference League final]] three days earlier, they became the English team with the longest European major trophy drought—53 years since their latest triumph. 
+
+On the other hand, this was Inter Milan's twelfth European final and sixth European Cup/Champions League final appearance, having won 3–1 in [[1964 European Cup final|1964]] against [[Real Madrid CF|Real Madrid]], 1–0 against [[S.L. Benfica|Benfica]] at [[San Siro|home]] in [[1965 European Cup final|1965]], and 2–0 against [[FC Bayern Munich|Bayern Munich]] in [[2010 UEFA Champions League final|2010]], resulting in Inter completing the continental treble; they also lost 2–1 to [[Celtic F.C.|Celtic]] in [[1967 European Cup final|1967]] and 2–0 to [[AFC Ajax|Ajax]] in [[1972 European Cup final|1972]], enabling those clubs to win the continental treble themselves. The club had also contested five UEFA Cup/UEFA Europa League finals, winning in [[1991 UEFA Cup final|1991]], [[1994 UEFA Cup final|1994]], and [[1998 UEFA Cup final|1998]] as well as losing in [[1997 UEFA Cup final|1997]] and [[2020 UEFA Europa League final|2020]]. They also contested the [[2010 UEFA Super Cup]], losing 2–0 to [[Atlético Madrid]]. Inter was also the most recent Italian club to win the Champions League; since 2010 only one other Italian club—[[Juventus FC|Juventus]]—had reached the Champions League final, losing in [[2015 UEFA Champions League final|2015]] and [[2017 UEFA Champions League final|2017]]. Having won the [[2023 Coppa Italia final]] against [[ACF Fiorentina|Fiorentina]],<ref>{{cite news |last=Onyeagwara |first=Nnamdi |url=https://www.nytimes.com/athletic/4550046/2023/05/24/inter-coppa-italia-fiorentina/ |title=Inter win second consecutive Coppa Italia after beating Fiorentina 2–1 in final |work=[[The Athletic]] |date=24 May 2023 |access-date=10 June 2023}}</ref> Inter were attempting to win a [[Double (association football)#European cup double|cup double]]. Manager [[Simone Inzaghi]] was aiming for his first European title as manager and the second in his football career, having won against Manchester United in the [[1999 UEFA Super Cup]] as a [[SS Lazio|Lazio]] player. Their midfielder [[Henrikh Mkhitaryan]] was aiming to become the 11th player to have [[UEFA club competition records and statistics#List of players to have won the three main European club competitions|won all three major European trophies]] and the first to have achieved that with three different clubs, having won the [[2016–17 UEFA Europa League]] with Manchester United and the [[2021–22 UEFA Europa Conference League]] with [[AS Roma|Roma]].
+
+This was the first meeting in [[UEFA club competitions|UEFA competitions]] between City and Inter. City had won six matches against [[Italian football clubs in international competitions|Italian clubs]], while Inter had won 16 matches against [[English football clubs in international competitions|English clubs]].<ref>{{Cite web |title=UEFA Press Kits |url=https://www.uefa.com/news-media/mediaservices/informationkits/competitions/uefachampionsleague/2023/match/2037765/ |access-date=19 May 2023 |website=UEFA.com|publisher=UEFA |archive-date=19 May 2023 |archive-url=https://web.archive.org/web/20230519093646/https://www.uefa.com/insideuefa/mediaservices/informationkits/competitions/uefachampionsleague/2023/match/2037765 |url-status=live }}</ref>
+
+===Previous finals===
+''In the following table, finals until 1992 were in the European Cup era and since 1993 were in the UEFA Champions League era.''
+
+{| class="wikitable"
+|-
+!Team
+!Previous final appearances (bold indicates winners)
+|-
+|{{#invoke:flag|fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|1 ([[2021 UEFA Champions League final|2021]])
+|-
+|{{#invoke:flag|fbaicon|ITA}} [[Inter Milan]]
+|5 ('''[[1964 European Cup final|1964]]''', '''[[1965 European Cup final|1965]]''', [[1967 European Cup final|1967]], [[1972 European Cup final|1972]], '''[[2010 UEFA Champions League final|2010]]''')
+|}
+
+==Venue==
+[[File:Istanbul Atatürk Olympic Stadium 1.jpg|thumb|right|275px|The [[Atatürk Olympic Stadium]] in [[Istanbul]] hosted the final.]]
+
+This was the second UEFA Champions League final played at the [[Atatürk Olympic Stadium]]; the first was held in [[2005 UEFA Champions League final|2005]], when [[Liverpool F.C.|Liverpool]] secured their fifth title after defeating [[AC Milan|Milan]] on [[Penalty shoot-out (association football)|penalties]].<ref>{{cite news |last=Reidy |first=Paul |url=https://en.as.com/soccer/champions-league-final-2023-venue-where-is-ataturk-olympic-stadium-and-what-is-its-capacity-n/ |title=Champions League final 2023 venue: where is the Atatürk Olympic Stadium and what is its capacity? |work=[[Diario AS]] |date=7 June 2023 |access-date=10 June 2023 |archive-date=7 June 2023 |archive-url=https://web.archive.org/web/20230607192910/https://en.as.com/soccer/champions-league-final-2023-venue-where-is-ataturk-olympic-stadium-and-what-is-its-capacity-n/ |url-status=live }}</ref>
+
+===Host selection===
+{{for|the details on the selection of London as the original host for the final|2024 UEFA Champions League final#Host selection}}
+
+An open bidding process was launched on 22 February 2019 by UEFA to select the 2022 and 2023 UEFA Champions League final venues.<ref>{{cite news |url=https://www.uefa.com/news-media/news/024e-0f8e68aa43f5-6b3adef08395-1000--9-associations-bidding-to-host-2021-club-finals/ |title=9 associations bidding to host 2021 club finals |website=UEFA.com|publisher=Union of European Football Associations |date=22 February 2019 |access-date=14 September 2019 |archive-date=18 June 2020 |archive-url=https://web.archive.org/web/20200618165213/https://www.uefa.com/insideuefa/about-uefa/news/newsid=2593491.html |url-status=live }}</ref> National associations had until 22 March 2019 to express interest, and bid dossiers had to be submitted by 1 July 2019.<ref>{{cite news |url=https://uk.reuters.com/article/uk-soccer-champions-final/london-mayor-backs-bid-to-host-2023-champions-league-final-at-wembley-idUKKCN1UQ26G |title=London Mayor backs bid to host 2023 Champions League final at Wembley |work=[[Reuters]] |date=31 July 2019 |access-date=14 September 2019 |archive-date=19 September 2020 |archive-url=https://web.archive.org/web/20200919145455/https://uk.reuters.com/article/uk-soccer-champions-final/london-mayor-backs-bid-to-host-2023-champions-league-final-at-wembley-idUKKCN1UQ26G |url-status=dead }}</ref>
+
+While the bidding associations were not confirmed by UEFA, the [[German Football Association]] was reported to have bid with the [[Allianz Arena]] in Munich, should they not be awarded the 2021 final.<ref>{{cite news |url=https://www.stuttgarter-zeitung.de/inhalt.allianz-arena-in-muenchen-dfb-kandidiert-auch-fuer-champions-league-finale-2022.175a07bc-e44a-4e6e-9f4a-a01464ca7f7f.html |title=DFB kandidiert auch für Champions-League-Finale 2022 |trans-title=DFB also bids for 2022 Champions League Final |work=[[Stuttgarter Zeitung]] |date=19 March 2019 |access-date=14 September 2019 |language=German |archive-date=18 June 2020 |archive-url=https://web.archive.org/web/20200618134235/https://www.stuttgarter-zeitung.de/inhalt.allianz-arena-in-muenchen-dfb-kandidiert-auch-fuer-champions-league-finale-2022.175a07bc-e44a-4e6e-9f4a-a01464ca7f7f.html |url-status=live }}</ref> The Allianz Arena was selected by the UEFA Executive Committee during their meeting in [[Ljubljana]], Slovenia, on 24 September 2019,<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0255-0e99f55f1d05-6273cba59e7c-1000--champions-league-final-hosts-for-2021-2022-2023-and-2024/ |title=Champions League final hosts announced for 2021, 2022 and 2023 |website=UEFA.com|publisher=Union of European Football Associations |date=24 September 2019 |access-date=24 September 2019 |archive-date=22 December 2019 |archive-url=https://web.archive.org/web/20191222151850/https://www.uefa.com/uefachampionsleague/news/newsid=2625232.html |url-status=live }}</ref> where the hosts for the 2021 and 2022 finals were also appointed.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0255-0f8e6f9636b1-db5308c8e2e5-1000--uefa-executive-committee-agenda-for-ljubljana-meeting/ |title=UEFA Executive Committee agenda for Ljubljana meeting |website=UEFA.com|publisher=Union of European Football Associations |date=17 September 2019 |access-date=17 September 2019 |archive-date=18 September 2019 |archive-url=https://web.archive.org/web/20190918021511/https://www.uefa.com/insideuefa/about-uefa/news/newsid=2623092.html |url-status=live }}</ref>
+
+On 17 June 2020, the UEFA Executive Committee announced that due to the postponement and relocation of the [[2020 UEFA Champions League final|2020 final]] due to the [[Impact of the COVID-19 pandemic on association football|impact of the COVID-19 pandemic]], Munich would instead host the 2023 edition.<ref name="ExCo 17 June"/> Istanbul had initially been appointed for the 2021 final, but after it was relocated due to the [[COVID-19 pandemic in Europe|COVID-19 pandemic]], they were awarded the 2023 final; Munich would host the [[2025 UEFA Champions League final|2025 final]] instead.<ref name="ExCo 20 July"/>
+
+==Route to the final==
+{{Further|2022–23 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{#invoke:flag|fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+!Round
+!colspan="4"|{{#invoke:flag|fbaicon|ITA}} [[Inter Milan]]
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2022–23 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Sevilla v Manchester City|4–0]] (A)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{#invoke:flag|fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Internazionale v Bayern Munich|0–2]] (H)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|GER}} [[Borussia Dortmund]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Manchester City v Borussia Dortmund|2–1]] (H)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{#invoke:flag|fbaicon|CZE}} [[FC Viktoria Plzeň|Viktoria Plzeň]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Viktoria Plzeň v Internazionale|2–0]] (A)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Manchester City v Copenhagen|5–0]] (H)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{#invoke:flag|fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Internazionale v Barcelona|1–0]] (H)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Copenhagen v Manchester City|0–0]] (A)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{#invoke:flag|fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Barcelona v Internazionale|3–3]] (A)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|GER}} [[Borussia Dortmund]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Borussia Dortmund v Manchester City|0–0]] (A)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{#invoke:flag|fbaicon|CZE}} [[FC Viktoria Plzeň|Viktoria Plzeň]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Internazionale v Viktoria Plzeň|4–0]] (H)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Manchester City v Sevilla|3–1]] (H)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{#invoke:flag|fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan="3"|[[2022–23 UEFA Champions League group stage#Bayern Munich v Internazionale|0–2]] (A)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2022–23 UEFA Champions League group stage#Group G|Group G]] winners'''
+<div class="center">{{2022–23 UEFA Champions League group tables|Group G|only_pld_pts=yes|show_matches=no|showteam=MCI}}</div>
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2022–23 UEFA Champions League group stage#Group C|Group C]] runners-up'''
+<div class="center">{{2022–23 UEFA Champions League group tables|Group C|only_pld_pts=yes|show_matches=no|showteam=INT}}</div>
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2022–23 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|GER}} [[RB Leipzig]]
+|8–1
+|[[2022–23 UEFA Champions League knockout phase#RB Leipzig v Manchester City|1–1]] (A)
+|[[2022–23 UEFA Champions League knockout phase#Manchester City v RB Leipzig|7–0]] (H)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{#invoke:flag|fbaicon|POR}} [[FC Porto|Porto]]
+|1–0
+|[[2022–23 UEFA Champions League knockout phase#Internazionale v Porto|1–0]] (H)
+|[[2022–23 UEFA Champions League knockout phase#Porto v Internazionale|0–0]] (A)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|4–1
+|[[2022–23 UEFA Champions League knockout phase#Manchester City v Bayern Munich|3–0]] (H)
+|[[2022–23 UEFA Champions League knockout phase#Bayern Munich v Manchester City|1–1]] (A)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{#invoke:flag|fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|5–3
+|[[2022–23 UEFA Champions League knockout phase#Benfica v Internazionale|2–0]] (A)
+|[[2022–23 UEFA Champions League knockout phase#Internazionale v Benfica|3–3]] (H)
+|-
+|style="text-align:left"|{{#invoke:flag|fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|5–1
+|[[2022–23 UEFA Champions League knockout phase#Real Madrid v Manchester City|1–1]] (A)
+|[[2022–23 UEFA Champions League knockout phase#Manchester City v Real Madrid|4–0]] (H)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{#invoke:flag|fbaicon|ITA}} [[AC Milan|Milan]]
+|3–0
+|[[2022–23 UEFA Champions League knockout phase#Milan v Internazionale|2–0]] (A)
+|[[2022–23 UEFA Champions League knockout phase#Internazionale v Milan|1–0]] (H)
+|}
+
+===Manchester City===
+{{see also|2022–23 Manchester City F.C. season}}
+[[File:Erling Haaland 2023 (cropped-v2).jpg|thumb|upright|[[Erling Haaland]], who joined [[Manchester City F.C.|Manchester City]] at the beginning of the [[2022–23 Manchester City F.C. season|2022–23 season]] from [[Borussia Dortmund]], was the top scorer in the competition with 12 goals en route to the final.]]
+
+Manchester City qualified for the Champions League group stage by winning the [[2021–22 Premier League]]. In the group stage, they were drawn into Group G, alongside [[2021–22 Bundesliga|Bundesliga]] runners-up [[Borussia Dortmund]], [[2021–22 La Liga|La Liga]] fourth-place team [[Sevilla FC|Sevilla]] and [[2021–22 Danish Superliga|Danish Superliga]] champions [[F.C. Copenhagen|Copenhagen]].<ref name="UEFA">{{cite web |title=UEFA Champions League group stage draw |url=https://www.uefa.com/uefachampionsleague/draws/2023/2001673/ |access-date=17 May 2023 |website=UEFA.com|archive-date=8 June 2022 |archive-url=https://web.archive.org/web/20220608120149/https://www.uefa.com/uefachampionsleague/draws/2023/2001673/ |url-status=live }}</ref>
+
+In City's opener of the group stage, they faced Sevilla at the [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]] and won 4–0, with goals from [[Phil Foden]], [[Rúben Dias]] and a brace from [[Erling Haaland]].<ref>{{cite web |title=Sevilla-Man City |url=https://www.uefa.com/uefachampionsleague/match/2035654--sevilla-vs-man-city/ |access-date=17 May 2023 |website=UEFA.com|archive-date=16 May 2023 |archive-url=https://web.archive.org/web/20230516211105/https://www.uefa.com/uefachampionsleague/match/2035654--sevilla-vs-man-city/ |url-status=live }}</ref> On matchday 2, City won 2–1 at the [[City of Manchester Stadium]] against Borussia Dortmund, with goals from [[John Stones]] and Erling Haaland.<ref>{{cite web |title=Man City-Dortmund |url=https://www.uefa.com/uefachampionsleague/match/2035669--man-city-vs-dortmund/ |access-date=17 May 2023 |website=UEFA.com|archive-date=16 May 2023 |archive-url=https://web.archive.org/web/20230516204044/https://www.uefa.com/uefachampionsleague/match/2035669--man-city-vs-dortmund/ |url-status=live }}</ref> On matchday 3, City defeated Copenhagen at home 5–0, with goals from [[Riyad Mahrez]], [[Julián Álvarez]], a brace from Erling Haaland and an own goal from [[Davit Khocholava]].<ref>{{cite web |title=Man City-Copenhagen |url=https://www.uefa.com/uefachampionsleague/match/2035685--man-city-vs-copenhagen/ |access-date=17 May 2023 |website=UEFA.com|archive-date=16 May 2023 |archive-url=https://web.archive.org/web/20230516204707/https://www.uefa.com/uefachampionsleague/match/2035685--man-city-vs-copenhagen/ |url-status=live }}</ref> On matchday 4, City drew in Copenhagen 0–0.<ref>{{cite web |title=Copenhagen-Man City |url=https://www.uefa.com/uefachampionsleague/match/2035701--copenhagen-vs-man-city/ |access-date=17 May 2023 |website=UEFA.com|archive-date=16 May 2023 |archive-url=https://web.archive.org/web/20230516204047/https://www.uefa.com/uefachampionsleague/match/2035701--copenhagen-vs-man-city/ |url-status=live }}</ref> On matchday 5, City drew against Borussia Dortmund at the [[Westfalenstadion]] 0–0.<ref>{{cite web |title=Dortmund-Man City |url=https://www.uefa.com/uefachampionsleague/match/2035718--dortmund-vs-man-city/ |access-date=17 May 2023 |website=UEFA.com|archive-date=16 May 2023 |archive-url=https://web.archive.org/web/20230516204725/https://www.uefa.com/uefachampionsleague/match/2035718--dortmund-vs-man-city/ |url-status=live }}</ref> On matchday 6, at the City of Manchester Stadium, the hosts defeated Sevilla 3–1, with goals from [[Rico Lewis]], Julian Álvarez and Riyad Mahrez.<ref>{{cite web |title=Man City-Sevilla |url=https://www.uefa.com/uefachampionsleague/match/2035733--man-city-vs-sevilla/ |access-date=17 May 2023 |website=UEFA.com|archive-date=16 May 2023 |archive-url=https://web.archive.org/web/20230516204105/https://www.uefa.com/uefachampionsleague/match/2035733--man-city-vs-sevilla/ |url-status=live }}</ref>
+
+In the round of 16, City were drawn against German club [[RB Leipzig]]. In the first leg held at the [[Red Bull Arena (Leipzig)|Red Bull Arena]], City drew 1–1, with goals from Riyad Mahrez and [[Joško Gvardiol]].<ref>{{cite web |title=Leipzig-Man City |url=https://www.uefa.com/uefachampionsleague/match/2036588--leipzig-vs-man-city/ |access-date=17 May 2023 |website=UEFA.com|archive-date=18 May 2023 |archive-url=https://web.archive.org/web/20230518135930/https://www.uefa.com/uefachampionsleague/match/2036588--leipzig-vs-man-city/ |url-status=live }}</ref> In the reverse leg, City defeated Leipzig 7–0, with five goals from Erling Haaland, tying a Champions League single game goals record, and one goal each from [[İlkay Gündoğan]] and [[Kevin De Bruyne]], to win 8–1 on aggregate and advance to the quarter-finals.<ref>{{cite web |title=Man City-Leipzig |url=https://www.uefa.com/uefachampionsleague/match/2036594--man-city-vs-leipzig/ |access-date=17 May 2023 |website=UEFA.com|archive-date=22 March 2023 |archive-url=https://web.archive.org/web/20230322214332/https://www.uefa.com/uefachampionsleague/match/2036594--man-city-vs-leipzig/ |url-status=live }}</ref>
+
+In the quarter-finals, City were drawn against German champions [[FC Bayern Munich|Bayern Munich]]. In the first leg, at the City of Manchester Stadium, the hosts won 3–0, with goals from [[Rodri (footballer, born 1996)|Rodri]], [[Bernardo Silva]] and Erling Haaland.<ref>{{cite web |title=Man City-Bayern |url=https://www.uefa.com/uefachampionsleague/match/2037770--man-city-vs-bayern/ |access-date=17 May 2023 |website=UEFA.com|archive-date=16 May 2023 |archive-url=https://web.archive.org/web/20230516215649/https://www.uefa.com/uefachampionsleague/match/2037770--man-city-vs-bayern/ |url-status=live }}</ref> In the second leg, at the [[Allianz Arena]], City drew 1–1, with goals from Erling Haaland and [[Joshua Kimmich]], winning 4–1 on aggregate and qualifying for the semi-finals.<ref>{{cite web |title=Bayern-Man City |url=https://www.uefa.com/uefachampionsleague/match/2037772--bayern-vs-man-city/ |access-date=17 May 2023 |website=UEFA.com|archive-date=27 April 2023 |archive-url=https://web.archive.org/web/20230427062434/https://www.uefa.com/uefachampionsleague/match/2037772--bayern-vs-man-city/ |url-status=live }}</ref>
+
+In the semi-finals, City were drawn against Spanish champions and [[2021–22 UEFA Champions League|reigning UEFA Champions League winners]] [[Real Madrid CF|Real Madrid]], making it a rematch of the last season's tie at the same stage, which Madrid won 6–5 on aggregate after extra time. In the first leg, at the [[Santiago Bernabéu Stadium|Santiago Bernabéu]], City and Real drew, with a first-half goal by [[Vinícius Júnior]] matched by a Kevin De Bruyne equaliser.<ref>{{cite web |title=Real Madrid-Man City |url=https://www.uefa.com/uefachampionsleague/match/2037797--real-madrid-vs-man-city/ |access-date=17 May 2023 |website=UEFA.com|archive-date=17 May 2023 |archive-url=https://web.archive.org/web/20230517005332/https://www.uefa.com/uefachampionsleague/match/2037797--real-madrid-vs-man-city/ |url-status=live }}</ref> In the second leg, at the City of Manchester Stadium, the hosts won 4–0, with a brace from Bernardo Silva and goals by [[Manuel Akanji]] and Julián Álvarez. City won 5–1 on aggregate to qualify for their second Champions League final in three years.<ref>{{cite web |title=Man City-Real Madrid |url=https://www.uefa.com/uefachampionsleague/match/2037800--man-city-vs-real-madrid/ |access-date=17 May 2023 |website=UEFA.com|archive-date=17 May 2023 |archive-url=https://web.archive.org/web/20230517005333/https://www.uefa.com/uefachampionsleague/match/2037800--man-city-vs-real-madrid/ |url-status=live }}</ref>
+
+===Inter Milan===
+{{see also|2022–23 Inter Milan season}}
+
+Inter Milan qualified for the Champions League group stage by finishing as runners-up in the [[2021–22 Serie A]]. In the group stage, they were drawn into Group C alongside [[2021–22 Bundesliga|Bundesliga]] champions [[FC Bayern Munich|Bayern Munich]], [[2021–22 La Liga|La Liga]] runners-up [[FC Barcelona|Barcelona]] and [[2021–22 Czech First League|Czech First League]] champions [[FC Viktoria Plzeň|Viktoria Plzeň]].<ref name="UEFA"/>
+
+In the opening match of the group stage, Inter faced Bayern Munich at the [[San Siro]] and lost 0–2, with goals for Bayern from [[Leroy Sané]] and an own goal by [[Danilo D'Ambrosio]].<ref>{{cite web |title=Inter-Bayern |url=https://www.uefa.com/uefachampionsleague/match/2035646--inter-vs-bayern/ |access-date=17 May 2023 |website=UEFA.com|archive-date=16 May 2023 |archive-url=https://web.archive.org/web/20230516211650/https://www.uefa.com/uefachampionsleague/match/2035646--inter-vs-bayern/ |url-status=live }}</ref> On matchday 2, Inter won 2–0 against Viktoria Plzeň at the [[Doosan Arena]], with goals from [[Edin Džeko]] and [[Denzel Dumfries]].<ref>{{cite web |title=Plzeň-Inter |url=https://www.uefa.com/uefachampionsleague/match/2035661--plzen-vs-inter/ |access-date=17 May 2023 |website=UEFA.com|archive-date=8 April 2023 |archive-url=https://web.archive.org/web/20230408025528/https://www.uefa.com/uefachampionsleague/match/2035661--plzen-vs-inter/ |url-status=live }}</ref> On matchday 3, Inter returned to the San Siro and won 1–0 against Barcelona, with the only goal of the match coming from [[Hakan Çalhanoğlu]].<ref>{{cite web |title=Inter-Barcelona |url=https://www.uefa.com/uefachampionsleague/match/2035678--inter-vs-barcelona/ |access-date=17 May 2023 |website=UEFA.com|archive-date=16 May 2023 |archive-url=https://web.archive.org/web/20230516215711/https://www.uefa.com/uefachampionsleague/match/2035678--inter-vs-barcelona/ |url-status=live }}</ref> On matchday 4, Inter drew 3–3 with Barcelona at the [[Camp Nou]], with [[Nicolò Barella]], [[Lautaro Martínez]] and [[Robin Gosens]] scoring for Inter, and [[Robert Lewandowski]] (twice) and [[Ousmane Dembélé]] scoring for the hosts.<ref>{{cite web |title=Barcelona-Inter |url=https://www.uefa.com/uefachampionsleague/match/2035693--barcelona-vs-inter/ |access-date=17 May 2023 |website=UEFA.com|archive-date=14 March 2023 |archive-url=https://web.archive.org/web/20230314214627/https://www.uefa.com/uefachampionsleague/match/2035693--barcelona-vs-inter/ |url-status=live }}</ref> On matchday 5, Inter won 4–0 against Viktoria Plzeň at the San Siro, with goals from [[Henrikh Mkhitaryan]], Džeko and [[Romelu Lukaku]], sealing qualification to the knockout phase.<ref>{{Cite web |last=UEFA.com |title=Inter-Plzeň |url=https://www.uefa.com/uefachampionsleague/match/2035709--inter-vs-plzen/ |access-date=17 May 2023 |website=UEFA.com|archive-date=14 March 2023 |archive-url=https://web.archive.org/web/20230314214627/https://www.uefa.com/uefachampionsleague/match/2035709--inter-vs-plzen/ |url-status=live }}</ref> On matchday 6, Inter lost 2–0 to Bayern Munich at the [[Allianz Arena]], with goals from [[Benjamin Pavard]] and [[Eric Maxim Choupo-Moting]].<ref>{{cite web |title=Bayern-Inter |url=https://www.uefa.com/uefachampionsleague/match/2035725--bayern-vs-inter/ |access-date=17 May 2023 |website=UEFA.com|archive-date=14 March 2023 |archive-url=https://web.archive.org/web/20230314214627/https://www.uefa.com/uefachampionsleague/match/2035725--bayern-vs-inter/ |url-status=live }}</ref>
+
+In the round of 16, Inter were drawn against Portuguese club [[FC Porto|Porto]]. In the first leg held at the San Siro, Inter won 1–0, with a goal from Lukaku.<ref>{{cite web |title=Inter-Porto |url=https://www.uefa.com/uefachampionsleague/match/2036589--inter-vs-porto/ |access-date=17 May 2023 |website=UEFA.com|archive-date=14 March 2023 |archive-url=https://web.archive.org/web/20230314214328/https://www.uefa.com/uefachampionsleague/match/2036589--inter-vs-porto/ |url-status=live }}</ref> In the reverse leg at the [[Estádio do Dragão]], Inter drew 0–0 to seal a 1–0 aggregate victory and qualify for the quarter-finals.<ref>{{cite web |title=Porto-Inter |url=https://www.uefa.com/uefachampionsleague/match/2036595--porto-vs-inter/ |access-date=17 May 2023 |website=UEFA.com|archive-date=16 March 2023 |archive-url=https://web.archive.org/web/20230316221545/https://www.uefa.com/uefachampionsleague/match/2036595--porto-vs-inter/ |url-status=live }}</ref>
+
+In the quarter-finals, Inter were drawn against another Portuguese club, [[S.L. Benfica|Benfica]]. In the first leg at the [[Estádio da Luz]], Inter won 2–0, with goals from Barella and a [[Penalty kick (association football)|penalty kick]] from Lukaku.<ref>{{cite web |title=Benfica-Inter |url=https://www.uefa.com/uefachampionsleague/match/2037769--benfica-vs-inter/ |access-date=17 May 2023 |website=UEFA.com|archive-date=16 May 2023 |archive-url=https://web.archive.org/web/20230516215711/https://www.uefa.com/uefachampionsleague/match/2037769--benfica-vs-inter/ |url-status=live }}</ref> In the second leg at the San Siro, Inter drew 3–3, with goals from Barella, Martínez and [[Joaquín Correa]] for Inter, and [[Fredrik Aursnes]], [[António Silva (footballer)|António Silva]] and [[Petar Musa]] for the visitors, winning 5–3 on aggregate and sealing semi-finals qualification.<ref>{{cite web |title=Inter-Benfica |url=https://www.uefa.com/uefachampionsleague/match/2037775--inter-vs-benfica/ |access-date=17 May 2023 |website=UEFA.com|archive-date=13 May 2023 |archive-url=https://web.archive.org/web/20230513211313/https://www.uefa.com/uefachampionsleague/match/2037775--inter-vs-benfica/ |url-status=live }}</ref>
+
+In the semi-finals, Inter were drawn against [[Derby della Madonnina|local rivals]] [[AC Milan|Milan]], their first meeting in [[UEFA club competitions|European competition]] since [[2004–05 UEFA Champions League knockout stage#Quarter-finals|2005]], with both legs being held at the San Siro. In the 'away' leg, Inter won 2–0, with goals from Džeko and Mkhitaryan.<ref>{{Cite web |last=UEFA.com |title=Milan-Inter |url=https://www.uefa.com/uefachampionsleague/match/2037798--milan-vs-inter/ |access-date=17 May 2023 |website=UEFA.com|archive-date=17 May 2023 |archive-url=https://web.archive.org/web/20230517005333/https://www.uefa.com/uefachampionsleague/match/2037798--milan-vs-inter/ |url-status=live }}</ref> In the home leg, Inter won 1–0, with the only goal of the match coming from Martínez, qualifying Inter for the final with a 3–0 aggregate victory. It was the club's sixth European Cup final appearance and their first since [[2010 UEFA Champions League final|2010]], when [[José Mourinho]] was manager.<ref>{{Cite web |last=UEFA.com |title=Inter-Milan |url=https://www.uefa.com/uefachampionsleague/match/2037799--inter-vs-milan/ |access-date=2023-05-18 |website=UEFA.com|language=en |archive-date=17 May 2023 |archive-url=https://web.archive.org/web/20230517045352/https://www.uefa.com/uefachampionsleague/match/2037799--inter-vs-milan/ |url-status=live }}</ref>
+
+==Pre-match==
+
+===Identity===
+The visual identity of the 2023 UEFA Champions League final was unveiled at the group stage draw in Istanbul on 25 August 2022.<ref>{{cite web |url=https://www.uefa.com/news-media/news/0278-15f34aee6aaa-da414088c652-1000/ |title=Brand identity for UEFA Champions League final in Istanbul unveiled |publisher=UEFA |date=25 August 2022 |access-date=10 June 2023}}</ref>
+
+===Officials===
+[[File:Szymon Marciniak.JPG|thumb|upright=.7|Polish referee [[Szymon Marciniak]] officiated the final.]]
+
+On 22 May 2023, Polish referee [[Szymon Marciniak]] was appointed to take charge of the final by UEFA, along with fellow Poles: Paweł Sokolnicki and [[Tomasz Listkiewicz]] as [[Assistant referee (association football)|assistant referees]] and Tomasz Kwiatkowski as the [[video assistant referee]].<ref>{{cite news |url=https://sports.yahoo.com/news/uefa-reveal-szymon-marciniak-referee-133600509.html |title=UEFA reveal Szymon Marciniak will referee Champions League final |work=[[Yahoo! Sports]] |date=22 May 2023 |access-date=22 May 2023 |archive-date=22 May 2023 |archive-url=https://web.archive.org/web/20230522150612/https://sports.yahoo.com/news/uefa-reveal-szymon-marciniak-referee-133600509.html |url-status=live }}</ref><ref name="officials" /> The four officials had all previously officiated together in the [[2022 FIFA World Cup final|World Cup final]] six months prior.<ref>{{cite web |date=14 December 2022 |title=Poland's Szymon Marciniak to referee FIFA World Cup final |url=https://www.fifa.com/technical/refereeing/news/szymon-marciniak-from-poland-to-referee-fifa-world-cup-final |access-date=14 December 2022 |publisher=[[FIFA]] |archive-date=16 December 2022 |archive-url=https://web.archive.org/web/20221216125623/https://www.fifa.com/technical/refereeing/news/szymon-marciniak-from-poland-to-referee-fifa-world-cup-final |url-status=live }}</ref><ref>{{cite web |title=Szymon Marciniak poprowadzi finał Mistrzostw Świata! |url=https://pzpn.pl/federacja/aktualnosci/2022-12-15/szymon-marciniak-poprowadzi-final-mistrzostw-swiata |access-date=15 December 2022 |publisher=[[Polish Football Association]] |language=pl |archive-date=15 December 2022 |archive-url=https://web.archive.org/web/20221215174017/https://pzpn.pl/federacja/aktualnosci/2022-12-15/szymon-marciniak-poprowadzi-final-mistrzostw-swiata |url-status=live }}</ref> They were joined by fellow countryman Bartosz Frankowski as assistant VAR, with Romanian [[István Kovács (referee)|István Kovács]] appointed as the fourth official.<ref name="officials" /> Some controversy regarding the appointment was raised in early June due to multiple media reports that Marciniak had been present at an event organised by [[Sławomir Mentzen]], a [[Right-wing politics|right-wing]] Polish politician and leader of the [[Libertarianism|libertarian]] [[New Hope (Poland)|New Hope]] party.<ref>{{Cite web|last1=Stone|first1=Simon|last2=Easton|first2=Adam|url=https://www.bbc.co.uk/sport/football/65785202|title=Champions League final referee Szymon Marciniak attended event organised by Polish far-right leader|website=BBC Sport|date=1 June 2023|access-date=2 June 2023|archive-date=2 June 2023|archive-url=https://web.archive.org/web/20230602101108/https://www.bbc.co.uk/sport/football/65785202|url-status=live}}</ref><ref>{{Cite web |title=Polish ref cleared of wrongdoing, will take charge of Champions League final |url=https://tvpworld.com/70289061/polish-ref-cleared-of-wrongdoing-will-take-charge-of-champions-league-final |url-status=dead |archive-url=https://web.archive.org/web/20231216134715/https://tvpworld.com/70289061/polish-ref-cleared-of-wrongdoing-will-take-charge-of-champions-league-final |archive-date=16 December 2023 |access-date=10 June 2023 |work=TVP World |publisher=[[Telewizja Polska]] }}</ref> UEFA investigated the incident and subsequently decided to maintain the original refereeing line-up on 2 June, having acknowledged Marciniak's "profound apologies and clarification".<ref>{{cite web |title=UEFA statement concerning Szymon Marciniak |url=https://www.uefa.com/news-media/news/0282-1828af52b2ad-df8e29dfca7b-1000--uefa-statement-concerning-szymon-marciniak/ |website=UEFA.com|publisher=UEFA |date=2 June 2023 |access-date=2 June 2023 |archive-date=2 June 2023 |archive-url=https://web.archive.org/web/20230602102318/https://www.uefa.com/insideuefa/news/0282-1828af52b2ad-df8e29dfca7b-1000--uefa-statement-concerning-szymon-marciniak/ |url-status=live }}</ref>
+
+===Ambassador===
+The ambassador for the final was former Turkish international [[Hamit Altıntop]], who was originally the ambassador for 2020 and 2021 finals before those matches were relocated to [[Lisbon]] and [[Porto]], respectively.<ref>{{cite news |last1=Burke |first1=Chris |last2=Tozar |first2=Türker |date=8 June 2023 |title=Hamit Altıntop on the final and Istanbul |url=https://www.uefa.com/uefachampionsleague/news/0282-18346b49c056-6665da36f49b-1000--hamit-altintop-on-the-final-and-istanbul/ |work=[[UEFA]]|publisher=UEFA |access-date=10 June 2023}}</ref>
+
+===Opening ceremony===
+{{multiple image 
+| perrow = 3
+| total_width = 300
+| image1 = Alesso profile.png
+| image2 = Untold 2024 -Burna Boy (53927293629) (cropped).jpg
+| image3 = COMBATCHY - Espaço das Américas (37663558155).jpg
+| footer = [[Alesso]], [[Burna Boy]] and [[Anitta (singer)|Anitta]] are the headline acts of the opening ceremony.
+}}
+The opening ceremony before the match, officially known as the ''2023 UEFA Champions League Final Kick Off Show by Pepsi'' for sponsorship reasons, featured Swedish DJ [[Alesso]], Nigerian singer [[Burna Boy]] and Brazilian singer [[Anitta (singer)|Anitta]].<ref>{{cite news |title=Burna Boy to perform at the 2023 UEFA Champions League Final Kick Off Show by Pepsi |url=https://www.uefa.com/uefachampionsleague/news/027f-178bc57d92bf-9b08a65e0dc4-1000--burna-boy-to-perform-at-the-2023-uefa-champions-league-final/ |publisher=UEFA |date=16 March 2023 |access-date=17 March 2023 |archive-date=17 March 2023 |archive-url=https://web.archive.org/web/20230317080237/https://www.uefa.com/uefachampionsleague/news/027f-178bc57d92bf-9b08a65e0dc4-1000--burna-boy-to-perform-at-the-2023-uefa-champions-league-final/ |url-status=live }}</ref><ref>{{Cite web |date=24 May 2023 |title=Anitta to co-headline 2023 UEFA Champions League Final Kick Off Show by Pepsi® with Burna Boy |url=https://www.uefa.com/uefachampionsleague/news/0281-181688501338-c885eed8b75e-1000--anitta-to-co-headline-2023-uefa-champions-league-final-kick-/ |access-date=24 May 2023 |website=UEFA.com|archive-date=24 May 2023 |archive-url=https://web.archive.org/web/20230524152518/https://www.uefa.com/uefachampionsleague/news/0281-181688501338-c885eed8b75e-1000--anitta-to-co-headline-2023-uefa-champions-league-final-kick-/ |url-status=live }}</ref> Hungarian pianist [[Ádám György]] performed a special rendition of the [[UEFA Champions League Anthem]] as the teams walked out for the match.<ref>{{cite web|url=https://hungarytoday.hu/hungarian-pianist-to-open-champions-league-final/|title=Hungarian Pianist to Open Champions League Final|date=7 June 2023|access-date=25 June 2023|website=Hungary today}}</ref>
+
+===Ticketing===
+With a stadium capacity of 72,000 for the final, a total amount of 47,200 tickets were available to fans and the general public, with the two finalist teams receiving 20,000 tickets each, and with the other tickets sold to fans worldwide via ''UEFA.com'' from 21 to 28 April 2023 in four price categories: €690, €490, €180 and €70. Accessibility tickets for disabled spectators cost €70. The remaining tickets were allocated to the local organising committee, national associations, commercial partners and broadcasters, and to serve the corporate hospitality programme.<ref>{{cite web |title=Ticket sales for 2023 UEFA club competition finals launched |url=https://www.uefa.com/news-media/news/0280-17d41ec484ee-05fcab4e5d9d-1000--ticket-sales-for-2023-uefa-club-competition-finals-launched/ |website=UEFA.com|publisher=Union of European Football Associations |date=21 April 2023 |access-date=13 May 2023 |archive-date=13 May 2023 |archive-url=https://web.archive.org/web/20230513150449/https://www.uefa.com/insideuefa/news/0280-17d41ec484ee-05fcab4e5d9d-1000--ticket-sales-for-2023-uefa-club-competition-finals-launched/ |url-status=live }}</ref>
+
+==Match==
+
+===Summary===
+[[File:Yokohama F. Marinos - Manchester City (3-5) - 53075487835 (Rodri) (cropped).jpg|thumb|upright=.7|City midfielder [[Rodri (footballer, born 1996)|Rodri]] was named [[Player of the match#Association football|man of the match]] after scoring its only goal.]]
+
+Manchester City began the final with [[Kyle Walker]] on the bench and replaced by [[Nathan Aké]] in the starting line-up in an unexpected change; Inter Milan started [[Marcelo Brozović]] in place of [[Henrikh Mkhitaryan]] who was returning from an injury.<ref>{{cite news |last=Herman |first=Martyn |date=10 June 2023 |title=Walker misses out for Man City, Inter starting line-up as expected |url=https://www.reuters.com/sports/soccer/champions-league-final-teams-2023-06-10/ |publisher=[[Reuters]] |accessdate=10 June 2023}}</ref> The two sides had scoring chances early in the first half, but Inter's [[André Onana]] made two saves to prevent City from taking the lead.<ref name="NYTimes">{{cite news |last1=Smith |first1=Rory |last2=Panja |first2=Tariq |last3=Das |first3=Andrew |date=10 June 2023 |title=Manchester City Wins First Champions League Title |url=https://www.nytimes.com/live/2023/06/10/sports/man-city-inter-milan-champions-league |work=[[The New York Times]] |accessdate=10 June 2023 |archive-date=11 June 2023 |archive-url=https://web.archive.org/web/20230611001937/https://www.nytimes.com/live/2023/06/10/sports/man-city-inter-milan-champions-league |url-status=live }}</ref> A misplayed pass from [[Ederson (footballer, born 1993)|Ederson]] in the 26th minute was stolen by [[Nicolò Barella]], but his shot over the goalkeeper missed.<ref name="Guardian-Live">{{cite news |last=Glendenning |first=Barry |date=10 June 2023 |title=Manchester City beat Inter 1–0 to win Champions League and seal treble – live reaction |url=https://www.theguardian.com/football/live/2023/jun/10/manchester-city-v-inter-champions-league-final-2023-live-score-updates |work=The Guardian |accessdate=10 June 2023 |archive-date=10 June 2023 |archive-url=https://web.archive.org/web/20230610163325/https://www.theguardian.com/football/live/2023/jun/10/manchester-city-v-inter-champions-league-final-2023-live-score-updates |url-status=live }}</ref><ref name="Guardian-Summary">{{cite news |last=Hytner |first=David |date=10 June 2023 |title=Rodri breaks Internazionale resistance to seal Manchester City's treble glory |url=https://www.theguardian.com/football/2023/jun/10/rodri-breaks-internazionale-resistance-to-seal-manchester-citys-treble-glory |work=The Guardian |accessdate=10 June 2023 |archive-date=10 June 2023 |archive-url=https://web.archive.org/web/20230610213408/https://www.theguardian.com/football/2023/jun/10/rodri-breaks-internazionale-resistance-to-seal-manchester-citys-treble-glory |url-status=live }}</ref> [[Kevin De Bruyne]] left the match in the 36th minute with a hamstring injury and was replaced by [[Phil Foden]].<ref>{{cite news |last=Dawson |first=Rob |date=10 June 2023 |title=Man City's Kevin De Bruyne forced off with injury in 1st half of Champions League final |url=https://www.espn.com/soccer/story/_/id/37832217/manchester-city-kevin-de-bruyne-injury-champions-league-final |publisher=ESPN |accessdate=10 June 2023}}</ref> The first half ended scoreless, with Inter playing defensively to prevent City from gaining momentum.<ref name="NYTimes"/><ref name="Guardian-Summary"/>
+
+[[Romelu Lukaku]] was brought on to replace former City striker [[Edin Džeko]] early in the second half and immediately produced a chance from a header. In the 59th minute, Ederson failed to collect a backpass from [[Manuel Akanji]] which was found by Inter's [[Lautaro Martínez]]; his shot from near the touchline was saved by Ederson.<ref name="Guardian-Summary"/> [[Rodri (footballer, born 1996)|Rodri]] scored the opening goal for City in the 68th minute with a side-footed finish to the right of the net after a pulled-back pass from [[Bernardo Silva]] on the right to the edge of the penalty area.<ref name="NYTimes"/><ref name="Guardian-Live"/> Inter had a chance to equalise three minutes later through a header by defender [[Federico Dimarco]] that hit the crossbar. Dimarco tried to capitalise on the rebound as well, but his shot was accidentally blocked by his teammate Lukaku.<ref name="NYTimes"/> The Belgian striker had his own chance to score from a close-range header in the 89th minute, which Ederson blocked with his legs.<ref name="Guardian-Summary"/> The Brazilian goalkeeper made an additional save in the sixth minute of stoppage time off [[Robin Gosens]]'s header to preserve a 1–0 victory for City.<ref name="Guardian-Live"/>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the quarter-final and semi-final draws.
+
+<onlyinclude>{{#invoke:football box|main
+|date       = {{Start date|2023|6|10|df=y}}
+|time       = {{CEST|21:00|localtz=TRT}}<!--21:00 CEST, 22:00 TRT-->
+|team1      = [[Manchester City F.C.|Manchester City]] {{#invoke:flag|fbaicon|ENG}}
+|score      = 1–0
+|team2      = {{#invoke:flag|fbaicon|ITA}} [[Inter Milan]]
+|goals1     =
+*[[Rodri (footballer, born 1996)|Rodri]] {{goal|68}}
+|goals2     =
+|stadium    = [[Atatürk Olympic Stadium]], [[Istanbul]]
+|attendance = 71,412<ref name="full_time">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2023/2037765_FR.pdf |title=Full Time Report Final – Manchester City v Internazionale |website=UEFA.com|publisher=Union of European Football Associations |date=10 June 2023 |access-date=10 June 2023 |archive-date=10 June 2023 |archive-url=https://web.archive.org/web/20230610210739/https://www.uefa.com/newsfiles/UCL/2023/2037765_FR.pdf |url-status=live }}</ref>
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2037765/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mancity2223H
+ |pattern_b  = _mancity2223H
+ |pattern_ra = _mancity2223H
+ |pattern_sh = _mancity2223h
+ |pattern_so = _mancity2223hl
+ |leftarm    = 77BBFF
+ |body       = 77BBFF
+ |rightarm   = 77BBFF
+ |shorts     = FFFFFF
+ |socks      = 77BBFF
+ |title      = {{nowrap|Manchester City}}<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _inter2223H
+ |pattern_b  = _inter2223home
+ |pattern_ra = _inter2223H
+ |pattern_sh = _inter2223H
+ |pattern_so = _inter2223H
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = {{nowrap|Inter Milan}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''31'''||{{#invoke:flag|icon|BRA}} [[Ederson (footballer, born 1993)|Ederson]] || {{yel|90+4}}
+|-
+|CB ||'''25'''||{{#invoke:flag|icon|SUI}} [[Manuel Akanji]]
+|-
+|CB ||'''3''' ||{{#invoke:flag|icon|POR}} [[Rúben Dias]]
+|-
+|CB ||'''6''' ||{{#invoke:flag|icon|NED}} [[Nathan Aké]]
+|-
+|DM ||'''5''' ||{{#invoke:flag|icon|ENG}} [[John Stones]] || || {{suboff|82}}
+|-
+|DM ||'''16'''||{{#invoke:flag|icon|ESP}} [[Rodri (footballer, born 1996)|Rodri]]
+|-
+|RW ||'''20'''||{{#invoke:flag|icon|POR}} [[Bernardo Silva]]
+|-
+|AM ||'''17'''||{{#invoke:flag|icon|BEL}} [[Kevin De Bruyne]] || || {{suboff|36}}
+|-
+|AM ||'''8''' ||{{#invoke:flag|icon|GER}} [[İlkay Gündoğan]] ([[Captain (association football)|c]])
+|-
+|LW ||'''10'''||{{#invoke:flag|icon|ENG}} [[Jack Grealish]]
+|-
+|CF ||'''9''' ||{{#invoke:flag|icon|NOR}} [[Erling Haaland]] || {{yel|90+2}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''18'''||{{#invoke:flag|icon|GER}} [[Stefan Ortega]]
+|-
+|GK ||'''33'''||{{#invoke:flag|icon|ENG}} [[Scott Carson]]
+|-
+|DF ||'''2''' ||{{#invoke:flag|icon|ENG}} [[Kyle Walker]] || || {{subon|82}}
+|-
+|DF ||'''14'''||{{#invoke:flag|icon|ESP}} [[Aymeric Laporte]]
+|-
+|DF ||'''21'''||{{#invoke:flag|icon|ESP}} [[Sergio Gómez (footballer, born 2000)|Sergio Gómez]]
+|-
+|DF ||'''82'''||{{#invoke:flag|icon|ENG}} [[Rico Lewis]]
+|-
+|MF ||'''4''' ||{{#invoke:flag|icon|ENG}} [[Kalvin Phillips]]
+|-
+|MF ||'''32'''||{{#invoke:flag|icon|ARG}} [[Máximo Perrone]]
+|-
+|MF ||'''47'''||{{#invoke:flag|icon|ENG}} [[Phil Foden]] || || {{subon|36}}
+|-
+|MF ||'''80'''||{{#invoke:flag|icon|ENG}} [[Cole Palmer]]
+|-
+|FW ||'''19'''||{{#invoke:flag|icon|ARG}} [[Julián Alvarez]]
+|-
+|FW ||'''26'''||{{#invoke:flag|icon|ALG}} [[Riyad Mahrez]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ESP}} [[Pep Guardiola]]
+|}
+|valign="top"|[[File:Manchester City vs Internazionale 2023-06-10.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''24'''||{{#invoke:flag|icon|CMR}} [[André Onana]] || {{yel|90+2}}
+|-
+|CB ||'''36'''||{{#invoke:flag|icon|ITA}} [[Matteo Darmian]] || || {{suboff|84}}
+|-
+|CB ||'''15'''||{{#invoke:flag|icon|ITA}} [[Francesco Acerbi]]
+|-
+|CB ||'''95'''||{{#invoke:flag|icon|ITA}} [[Alessandro Bastoni]] || || {{suboff|76}}
+|-
+|RM ||'''2''' ||{{#invoke:flag|icon|NED}} [[Denzel Dumfries]] || || {{suboff|76}}
+|-
+|CM ||'''23'''||{{#invoke:flag|icon|ITA}} [[Nicolò Barella]] || {{yel|59}}
+|-
+|CM ||'''77'''||{{#invoke:flag|icon|CRO}} [[Marcelo Brozović]] ([[Captain (association football)|c]])
+|-
+|CM ||'''20'''||{{#invoke:flag|icon|TUR}} [[Hakan Çalhanoğlu]] || || {{suboff|84}}
+|-
+|LM ||'''32'''||{{#invoke:flag|icon|ITA}} [[Federico Dimarco]]
+|-
+|CF ||'''10'''||{{#invoke:flag|icon|ARG}} [[Lautaro Martínez]]
+|-
+|CF ||'''9''' ||{{#invoke:flag|icon|BIH}} [[Edin Džeko]] || || {{suboff|57}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|SVN}} [[Samir Handanović]]
+|-
+|GK ||'''21'''||{{#invoke:flag|icon|ITA}} [[Alex Cordaz]]
+|-
+|DF ||'''6''' ||{{#invoke:flag|icon|NED}} [[Stefan de Vrij]]
+|-
+|DF ||'''12'''||{{#invoke:flag|icon|ITA}} [[Raoul Bellanova]] || || {{subon|76}}
+|-
+|DF ||'''33'''||{{#invoke:flag|icon|ITA}} [[Danilo D'Ambrosio]] || || {{subon|84}}
+|-
+|DF ||'''37'''||{{#invoke:flag|icon|SVK}} [[Milan Škriniar]]
+|-
+|MF ||'''5''' ||{{#invoke:flag|icon|ITA}} [[Roberto Gagliardini]]
+|-
+|MF ||'''8''' ||{{#invoke:flag|icon|GER}} [[Robin Gosens]] || || {{subon|76}}
+|-
+|MF ||'''14'''||{{#invoke:flag|icon|ALB}} [[Kristjan Asllani]]
+|-
+|MF ||'''22'''||{{#invoke:flag|icon|ARM}} [[Henrikh Mkhitaryan]] || || {{subon|84}}
+|-
+|FW ||'''11'''||{{#invoke:flag|icon|ARG}} [[Joaquín Correa]]
+|-
+|FW ||'''90'''||{{#invoke:flag|icon|BEL}} [[Romelu Lukaku]] || {{yel|83}} || {{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ITA}} [[Simone Inzaghi]] || {{yel|90+6}}
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Rodri (footballer, born 1996)|Rodri]] (Manchester City)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Paweł Sokolnicki ([[Polish Football Association|Poland]])
+<br />[[Tomasz Listkiewicz]] ([[Polish Football Association|Poland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Vasile Marinescu ([[Romanian Football Federation|Romania]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />Tomasz Kwiatkowski ([[Polish Football Association|Poland]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />[[Bartosz Frankowski]] ([[Polish Football Association|Poland]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="officials"/>
+<br />[[Marco Fritz]] ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Champions-League-2022/23-Online |title=Regulations of the UEFA Champions League, 2022/23 Season |website=UEFA.com|publisher=Union of European Football Associations |year=2022 |access-date=30 April 2021}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2023/2037765_TS.pdf |title=Team statistics |publisher=UEFA |date=10 June 2023 |access-date=10 June 2023 |url-status=live |archive-url=https://web.archive.org/web/20240617221011/https://www.uefa.com/newsfiles/UCL/2023/2037765_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Manchester City
+!scope="col" style="width:70px"|Inter Milan
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|4
+|4
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|0
+|1
+|-
+!scope=row|Fouls committed
+|4
+|8
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Manchester City
+!scope="col" style="width:70px"|Inter Milan
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|3
+|10
+|-
+!scope=row|Shots on target
+|2
+|4
+|-
+!scope=row|Saves
+|4
+|1
+|-
+!scope=row|Ball possession
+|54%
+|46%
+|-
+!scope=row|Corner kicks
+|2
+|3
+|-
+!scope=row|Fouls committed
+|7
+|9
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|2
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Manchester City
+!scope="col" style="width:70px"|Inter Milan
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|7
+|14
+|-
+!scope=row|Shots on target
+|4
+|5
+|-
+!scope=row|Saves
+|5
+|3
+|-
+!scope=row|Ball possession
+|57%
+|43%
+|-
+!scope=row|Corner kicks
+|2
+|4
+|-
+!scope=row|Fouls committed
+|11
+|17
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|2
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+[[File:Josep Guardiola 2023-10-04 Fußball, Männer, UEFA Champions League, RB Leipzig - Manchester City FC 1DX 2797 (cropped).jpg|thumb|upright=.8|Manchester City's [[Pep Guardiola]] won his third Champions League title as a manager, and fourth overall.]]
+With their victory, Manchester City secured their first UEFA Champions League title, the first new winners of the competition since fellow English club Chelsea in 2012. City became the sixth English club, and 23rd overall team, to win the European Cup, which marked the 15th time an English club were champions of the competition.<ref>{{cite web |last=Stokkermans |first=Karel |url=https://www.rsssf.org/tablese/ec1.html |title=European Champions' Cup/Champions League |work=[[RSSSF]] |date=27 January 2023 |access-date=10 June 2023 |archive-date=6 July 2009 |archive-url=https://web.archive.org/web/20090706013641/http://www.rsssf.com/tablese/ec1.html |url-status=live }}</ref> Manchester City also completed the tenth [[Treble (association football)#Continental trebles|continental treble]] in European football history, doing so as the eighth overall team and second English club after [[Manchester derby|city rivals]] [[Manchester United F.C.|Manchester United]] in [[1998–99 Manchester United F.C. season|1998–99]].<ref name="Guardian-Guardiola">{{cite news |last=Jackson |first=Jamie |date=10 June 2023 |title='You have to be lucky': Manchester City's Pep Guardiola grateful for small margins |url=https://www.theguardian.com/football/2023/jun/11/you-have-to-be-lucky-manchester-citys-pep-guardiola-grateful-for-small-margins |work=The Guardian |accessdate=10 June 2023 |archive-date=11 June 2023 |archive-url=https://web.archive.org/web/20230611001118/https://www.theguardian.com/football/2023/jun/11/you-have-to-be-lucky-manchester-citys-pep-guardiola-grateful-for-small-margins |url-status=live }}</ref> It was the 15th occasion a club [[European Cup and UEFA Champions League records and statistics#Unbeaten sides|won the European Cup unbeaten]], with City the 11th club to accomplish the feat.<ref>{{cite news |url=https://en.as.com/en/2022/03/09/soccer/1646818704_796121.html |title=Has any team won every game in a Champions League season? |work=[[Diario AS]] |date=9 March 2022 |access-date=11 June 2023 |archive-date=23 March 2023 |archive-url=https://web.archive.org/web/20230323181613/https://en.as.com/en/2022/03/09/soccer/1646818704_796121.html |url-status=live }}</ref>
+
+[[Pep Guardiola]] won his third Champions League final as a manager after his two titles with [[FC Barcelona|Barcelona]] in [[2009 UEFA Champions League final|2009]] and [[2011 UEFA Champions League final|2011]], becoming the [[List of European Cup and UEFA Champions League winning managers|second-most successful coach in the competition]], behind [[Carlo Ancelotti]]'s four victories.<ref>{{cite web |last=Di Maggio |first=Roberto |url=https://www.rsssf.org/players/ec-coach.html |title=European Cups – Performances by Coach |work=[[RSSSF]] |date=18 August 2022 |access-date=10 June 2023 |archive-date=20 November 2022 |archive-url=https://web.archive.org/web/20221120215108/https://www.rsssf.org/players/ec-coach.html |url-status=live }}</ref> He also became the first manager to win two European trebles, having also done so with Barcelona in [[2008–09 FC Barcelona season|2008–09]].<ref>{{cite web |last=Banerjee |first=Apratim |url=https://www.sportskeeda.com/football/news-pep-guardiola-makes-history-winning-treble-manchester-city |title=Pep Guardiola makes history after winning treble with Manchester City |work=[[Sportskeeda]] |date=11 June 2023 |access-date=11 June 2023}}</ref> It was Guardiola's twelfth major trophy with Manchester City; after the match, he stated that "it was written in the stars that we'd win this season—and we did."<ref name="Guardian-Guardiola"/> City midfielder [[Rodri (footballer, born 1996)|Rodri]], who scored the lone goal of the game, was selected as the [[Player of the match#Association football|man of the match]] by UEFA's technical observers.<ref name="MOTM"/> Backup goalkeeper [[Scott Carson]] was the only City player to have previously won the competition, doing so as a reserve for [[Liverpool F.C.|Liverpool]] in [[2005 UEFA Champions League final|2005]] at the same stadium. He thus equalled the record for the longest gap between a first and last European Cup title, shared with Milan's [[Paolo Maldini]] and [[Alessandro Costacurta]].<ref>{{cite web |last=Stanley |first=Colman |url=https://www.balls.ie/football/scott-carson-champions-league-558433 |title=Scott Carson On The Verge Of Astonishing Champions League Achievement |work=[[Balls.ie]] |date=10 June 2023 |access-date=10 June 2023 |archive-date=10 June 2023 |archive-url=https://web.archive.org/web/20230610181429/https://www.balls.ie/football/scott-carson-champions-league-558433 |url-status=live }}</ref> Forward [[Julián Alvarez]], who won the [[2022 FIFA World Cup]] with [[Argentina national football team|Argentina]] six months prior, became the first player to win the treble and [[FIFA World Cup|World Cup]] in the same season. This also made him the tenth player to accomplish the European Cup and World Cup double.<ref>{{cite web |last=Begley |first=Emlyn |url=https://www.bbc.com/sport/football/65859398 |title=Julian Alvarez: Manchester City striker makes history with Champions League win |work=[[BBC Sport]] |date=10 June 2023 |access-date=11 June 2023 |archive-date=10 June 2023 |archive-url=https://web.archive.org/web/20230610231606/https://www.bbc.com/sport/football/65859398 |url-status=live }}</ref>
+
+As winners, Manchester City qualified for the [[2023 UEFA Super Cup]], where they defeated Spanish club [[Sevilla FC|Sevilla]], winners of the [[2022–23 UEFA Europa League]], [[Penalty shoot-out (association football)|on penalties]] following a 1–1 draw after regulation time.<ref>{{cite news |last=Brennan |first=Feargal |url=https://www.sportingnews.com/us/soccer/news/uefa-super-cup-2023-stadium-champions-league-europa-league/zemmmyqs57bsodqzlqk8hn27 |title=Where is UEFA Super Cup 2023? Host stadium, city for match between Champions League and Europa League winners |work=[[The Sporting News]] |date=10 June 2023 |access-date=10 June 2023 |archive-date=9 June 2023 |archive-url=https://web.archive.org/web/20230609081938/https://www.sportingnews.com/us/soccer/news/uefa-super-cup-2023-stadium-champions-league-europa-league/zemmmyqs57bsodqzlqk8hn27 |url-status=live }}</ref><ref>{{cite web |date=16 August 2023 |title=Man City beat Sevilla to Lift the First European Trophy of the 2023-24 season |url=https://offsidetrap.in/man-city-beat-sevilla-to-lift-uefa-super-cup-23-24/ |access-date=16 August 2023}}</ref> City also qualified for two editions of the [[FIFA Club World Cup]]: the [[2023 FIFA Club World Cup|2023 tournament]] held in December with seven teams, and the expanded 32-team tournament in [[2025 FIFA Club World Cup|2025]].<ref>{{cite news |last=Mumford |first=Jack |url=https://www.mancity.com/news/mens/when-is-the-2023-fifa-club-world-cup-63822027 |title=When is the 2023 FIFA Club World Cup? |publisher=Manchester City F.C. |date=10 June 2023 |access-date=10 June 2023}}</ref> Following the ''Nerazzurri'' defeat, Italian teams became the first in European football history to finish runners-up in each men's [[UEFA club competitions|UEFA competition]] in a single season, including [[AS Roma|Roma]] and [[ACF Fiorentina|Fiorentina]]'s losses in the [[2023 UEFA Europa League final|Europa League final]] and in the [[2023 UEFA Europa Conference League final|Europa Conference League final]], respectively.<ref>{{cite news|language=it|first=Antonio|last=Prisco|url=https://www.ilgiornale.it/news/calcio/coppe-europee-zero-vittorie-tanti-rimpianti-calcio-italiano-2165239.html|title=Zero vittorie su tre finali europee: il flop 'record' delle italiane in coppa|work=Il Giornale|date=11 June 2023}}</ref>
+
+==See also==
+*[[2023 UEFA Europa League final]]
+*[[2023 UEFA Europa Conference League final]]
+*[[2023 UEFA Women's Champions League final]]
+*[[2022–23 Inter Milan season]]
+*[[2022–23 Manchester City F.C. season]]
+*[[Inter Milan in international football]] 
+*[[Manchester City F.C. in international football]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+<references />
+
+==External links==
+*{{Official website|https://www.uefa.com/uefachampionsleague/}}
+
+{{UEFA Champions League seasons}}
+{{2022–23 in European football (UEFA)}}
+{{Manchester City F.C. matches}}
+{{Inter Milan matches}}
+
+{{DEFAULTSORT:Uefa Champions League final 2023}}
+[[Category:UEFA Champions League finals|2023]]
+[[Category:2022–23 UEFA Champions League|Final]]
+[[Category:June 2023 sports events in Turkey]]
+[[Category:Manchester City F.C. matches|Champions League final 2023]]
+[[Category:2022–23 in English men's football]]
+[[Category:Inter Milan matches|European Cup final 2023]]
+[[Category:2022–23 in Italian football]]
+[[Category:Football matches in Istanbul]]
+[[Category:Football matches in Turkey]]
+[[Category:2023 in Istanbul]]
+[[Category:2022–23 in Turkish football]]
+[[Category:Italy–United Kingdom sports relations|2023]]

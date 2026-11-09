@@ -1,0 +1,368 @@
+{{EngvarB|date=December 2019}}
+{{Use dmy dates|date=December 2019}}
+{{Infobox football match
+| title = 2019 FIFA Club World Cup final
+| event = [[2019 FIFA Club World Cup]]
+| image = Khalifa Stadium, Doha, Brazil vs Argentina (2010).jpg
+| caption = The [[Khalifa International Stadium]] in Al Rayyan hosted the final.
+| team1 = [[Liverpool F.C.|Liverpool]]
+| team1association = {{fbaicon|ENG|size=30px}}
+| team1score = 1
+| team2 = [[CR Flamengo|Flamengo]]
+| team2association = {{fbaicon|BRA|size=30px}}
+| team2score = 0
+| details = After [[Overtime (sports)#Association football|extra time]]
+| date = {{Start date|2019|12|21|df=y}}
+| stadium = [[Khalifa International Stadium]]
+| city = [[Al Rayyan (city)|Al Rayyan]]
+| man_of_the_match1a = [[Roberto Firmino]] (Liverpool)<ref name="match report"/>
+| referee = [[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])<ref name="start list">{{cite web |url=https://digitalhub.fifa.com/m/3ef666935d492ce9/original/biachxjsxlqygoir1oeh-pdf.pdf |title=Start list – Final – Liverpool FC v CR Flamengo |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=21 December 2019 |access-date=21 December 2019}}</ref>
+| attendance = 45,416<ref name="match report"/>
+| weather = Clear night<br />{{convert|20|°C|°F|abbr=on}}<br />66% [[humidity]]<ref name="start list"/><ref>{{cite web |url=https://www.fifa.com/clubworldcup/matches/match/400089362/#match-info |archive-url=https://web.archive.org/web/20191221172542/https://www.fifa.com/clubworldcup/matches/match/400089362/#match-info |url-status=dead |archive-date=21 December 2019 |title=Final – Liverpool FC v CR Flamengo |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 December 2019 |access-date=21 December 2019}}</ref>
+| previous = [[2018 FIFA Club World Cup final|2018]]
+| next = [[2020 FIFA Club World Cup final|2020]]
+}}
+The '''2019 FIFA Club World Cup final''' was the final match of the [[2019 FIFA Club World Cup]], an international club [[association football]] tournament hosted by Qatar. It was the 16th final of the [[FIFA Club World Cup]], a [[FIFA]]-organised tournament between the club champions from each of the six continental confederations, as well as the host nation's league champions.
+
+The final was contested between [[The Football Association|English]] club [[Liverpool F.C.|Liverpool]], representing [[UEFA]] as the reigning champions of the [[UEFA Champions League]], and [[Brazilian Football Confederation|Brazilian]] club [[CR Flamengo|Flamengo]], representing [[CONMEBOL]] as the reigning champions of the [[Copa Libertadores]]. The match was played at the [[Khalifa International Stadium]] in [[Al Rayyan (city)|Al Rayyan]] on 21 December 2019.<ref>{{cite web |url=https://digitalhub.fifa.com/m/6f58d8eff6eb3ddd/original/ilg5cnmibx2sdzyim1ww-pdf.pdf |title=FIFA Club World Cup Qatar 2019 Match Schedule |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=30 September 2019 |access-date=30 September 2019}}</ref>
+
+Liverpool won the match 1–0 after extra time for their first FIFA Club World Cup title, having finished as runners-up on in [[2005 FIFA Club World Championship Final|2005]].<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/firmino-writes-liverpool-into-club-world-cup-history |title=Firmino writes Liverpool into Club World Cup history |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 December 2019 |access-date=21 December 2019}}</ref> As winners, Liverpool were rewarded with £4&nbsp;million in [[prize money]].<ref name="Liverpool at Club World Cup: Five reasons why Qatar tournament matters to Reds">{{citation|title = Liverpool at Club World Cup: Five reasons why Qatar tournament matters to Reds|url = https://www.bbc.com/sport/football/50763243|publisher = BBC Sport|date = 18 December 2019|access-date = 19 December 2019}}</ref>
+
+==Teams==
+''In the following table, finals until 2005 were in the FIFA Club World Championship era, since 2006 were in the FIFA Club World Cup era.''
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification for tournament
+!Previous club world championship finals<br />
+|-
+|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|[[UEFA]]
+|Winners of the [[2018–19 UEFA Champions League]]
+|IC: 2 ([[1981 Intercontinental Cup|1981]], [[1984 Intercontinental Cup|1984]])<br>FCWC: 1 ([[2005 FIFA Club World Championship final|2005]])
+|-
+|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|[[CONMEBOL]]
+|Winners of the [[2019 Copa Libertadores]]
+|IC: 1 ('''[[1981 Intercontinental Cup|1981]]''')
+|}
+
+==Venue==
+The final took place at the [[Khalifa International Stadium]] in [[Al Rayyan (city)|Al Rayyan]], Qatar. The venue previously hosted matches at the [[2011 AFC Asian Cup]], including the [[2011 AFC Asian Cup Final|final]], and was chosen as a venue for the [[2022 FIFA World Cup]]. Originally, the final (along with the second semi-final and third place match) was to be played at the [[Education City Stadium]], also located in Al Rayyan.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/education-city-stadium-to-host-fifa-club-world-cup-qatar-2019tm-final |archive-url=https://web.archive.org/web/20190930082950/https://www.fifa.com/clubworldcup/news/education-city-stadium-to-host-fifa-club-world-cup-qatar-2019tm-final |url-status=dead |archive-date=30 September 2019 |title=Education City Stadium to host FIFA Club World Cup Qatar 2019 final |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=30 September 2019 |access-date=30 September 2019}}</ref> However, the matches were moved after the opening of the Education City Stadium was postponed to early 2020.<ref>{{cite web |title=New FIFA Club World Cup champions to be crowned at Khalifa International Stadium |url=https://www.fifa.com/clubworldcup/news/new-fifa-club-world-cuptm-champions-to-be-crowned-at-khalifa-international-stadi |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=7 December 2019 |access-date=7 December 2019}}</ref>
+
+==Background==
+The final was a rematch of the [[1981 Intercontinental Cup]], recognised by FIFA as a [[List of world champion football clubs|club world championship]]. Flamengo won the match 3–0 for their only club world title.<ref>{{cite news |last=Law |first=Joshua |url=https://www.theguardian.com/football/blog/2019/dec/15/flamengo-liverpool-club-world-cup |title=Flamengo 3–0 Liverpool: the day Zico 'ran rings around the English' |publisher=[[The Guardian]] |date=15 December 2019 |access-date=18 December 2019}}</ref> Flamengo hadn't reached the final since while Liverpool had participated in two world championship matches in [[1984 Intercontinental Cup|1984]] and [[2005 FIFA Club World Championship Final|2005]], also losing both to [[Club Atlético Independiente|Independiente]] and [[São Paulo FC|São Paulo]] respectively.<ref>{{cite news |last=Fifield |first=Dominic |location=[[Yokohama]] |url=https://www.theguardian.com/football/2005/dec/19/newsstory.sport1 |title=Benítez makes beeline for Blatter after night of frustration |publisher=[[The Guardian]] |date=18 December 2005 |access-date=21 December 2019}}</ref>
+
+==Route to the final==
+{| class="wikitable"
+|-
+!width=350 colspan=2|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+!Team
+!width=350 colspan=2|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|- style="background:#C1E0FF"
+|align=center|Opponent
+|align=center|Result
+|align=center|[[2019 FIFA Club World Cup]]
+|align=center|Opponent
+|align=center|Result
+|-
+|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|align=center|[[2019 FIFA Club World Cup#Match 6|2–1]]
+|align=center style="background:#C1E0FF"|Semi-finals
+|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|align=center|[[2019 FIFA Club World Cup#Match 5|3–1]]
+|}
+
+===Liverpool===
+Liverpool qualified for the Club World Cup as champions of the [[2018–19 UEFA Champions League|UEFA Champions League]], having defeated [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in the [[2019 UEFA Champions League Final|final]]. The club had previously played in the [[2005 FIFA Club World Championship|2005 Club World Championship]], finishing as runners-up to São Paulo.<ref>{{cite news |date=18 December 2019 |title=Club World Cup: Liverpool aim to become seventh European winners |url=https://www.uefa.com/uefachampionsleague/news/025a-0e9f8fe852b8-ff94b0553a0e-1000--club-world-cup-firmino-wins-final-for-liverpool/ |work=[[UEFA]] |access-date=18 December 2019}}</ref> Due to their participation in the tournament, Liverpool were forced to field a squad of youth players for an [[2019–20 EFL Cup|EFL Cup]] tie against [[Aston Villa F.C.|Aston Villa]] due to the proximity of the two games, with the senior squad heading to Qatar to prepare while the reserves played in the cup game managed by U-23's manager [[Neil Critchley]].<ref>{{cite web |url=https://talksport.com/football/634773/liverpool-aston-villa-carabao-cup-under-23s-jurgen-klopp/ |title=Liverpool to field ‘youthful’ team against Aston Villa in Carabao Cup quarter-final with Under-23s coach to replace Jurgen Klopp |first=Joe |last=Moore |publisher=TalkSPORT |date=26 November 2019 |access-date=25 August 2021}}</ref> As a result, they were beaten 5–0, the club's heaviest ever defeat in the competition <ref>{{cite news |last=Percy |first=John |date=17 December 2019 |title=Aston Villa hammer five past youngest-ever Liverpool side to progress to Carabao Cup semi-finals |url=https://www.telegraph.co.uk/football/2019/12/17/aston-villa-vs-liverpool-carabao-cup-quarter-final-live-score/ |work=The Telegraph |access-date=18 December 2019}}</ref><ref>{{cite web |url=https://www.bbc.co.uk/sport/football/50723225 |title=Aston Villa 5–0 Liverpool: Dean Smith's side overwhelm young Liverpool side |first=Simon |last=Stone |publisher=BBC Sport |date=17 December 2019}}</ref>
+
+Liverpool entered with a [[bye (sports)|bye]] to the semi-finals, where they faced [[CONCACAF|North American]] champions [[C.F. Monterrey|Monterrey]] of Mexico. The Reds went ahead in the 12th minute with a strike by [[Naby Keïta]], who collected a pass from [[Mohamed Salah]] at the right side of the [[Penalty area|box]]. Monterrey equalised two minutes later as [[Rogelio Funes Mori]], who collected a rebound off [[Alisson]]'s save of a volley taken by [[Jesús Gallardo]]. Liverpool had several chances to retake the lead and switched to a new formation after half-time, but were unable to score and left themselves open to counter-attacks. Substitute [[Roberto Firmino]] scored the winning goal for Liverpool in the first minute of stoppage time, tapping in a pass from [[Trent Alexander-Arnold]] within the six-yard box.<ref>{{cite news |last=Hunter |first=Andy |date=18 December 2019 |title=Firmino's injury-time winner sends Liverpool into Club World Cup final |url=https://www.theguardian.com/football/2019/dec/18/monterrey-liverpool-fifa-club-world-cup-semi-final-match-report |work=The Guardian |access-date=18 December 2019}}</ref><ref>{{cite news |last=Sanders |first=Emma |date=18 December 2019 |title=Monterrey 1–2 Liverpool |url=https://www.bbc.com/sport/football/50817868 |publisher=[[BBC Sport]] |access-date=18 December 2019}}</ref>
+
+===Flamengo===
+Flamengo qualified for the Club World Cup as winners of the [[2019 Copa Libertadores|Copa Libertadores]], defeating [[Club Atlético River Plate|River Plate]] with two last-minute goals by [[Gabriel Barbosa]] in the [[2019 Copa Libertadores Final|final]], which was played a month before the Club World Cup.<ref>{{cite news |date=23 November 2019 |title=Gabigol brace clinches Libertadores for Flamengo |url=https://www.fifa.com/clubworldcup/news/libertadores-final-report |work=FIFA.com |access-date=18 December 2019}}</ref>
+
+Flamengo entered with a bye to their semi-final match against [[AFC Champions League]] winners [[Al Hilal SFC|Al Hilal]] of [[Saudi Arabia]]. Flamengo started poorly and nearly conceded to [[Bafétimbi Gomis]] in the 16th minute after a big rebound from goalkeeper [[Diego Alves]]. Two minutes later, [[Mohammed Al-Breik]] crossed low to [[Salem Al-Dawsari]] in the box who scored the opening goal. Flamengo did little to create good chances in the first half but returned with a different posture and higher defensive line in the second half. Within three minutes, Flamengo's attacking trio leveled the score: Gabriel Barbosa found [[Bruno Henrique Pinto|Bruno Henrique]] open inside the box, who rolled the ball across to [[Giorgian De Arrascaeta]] for the equalizer. [[Diego (footballer, born 1985)|Diego]] came on in substitute for [[Gerson (footballer, born 1997)|Gerson]] and initiated the play in the 78th minute that resulted in [[Rafinha (footballer, born 1985)|Rafinha]]'s cross to Bruno Henrique for the go-ahead header. Three minutes later, Diego found Bruno Henrique in the box whose cross was deflected in by [[Ali Al-Bulaihi]] for an own-goal. Moments later, [[André Carrillo]] of Al-Hilal was sent off after hitting De Arrascaeta. Flamengo advanced with the 3–1 victory.<ref>{{Cite web |url=https://globoesporte.globo.com/futebol/mundial-de-clubes/jogo/17-12-2019/flamengo-alhilal.ghtml |title=Flamengo 3 x 1 Al Hilal – Mundial de Clubes 2019 Semifinal – Tempo Real – Globo Esporte |website=globoesporte.com |language=pt-br|access-date=2019-12-18}}</ref>
+
+==Match==
+
+=== Summary ===
+[[Roberto Firmino]] nearly scored for Liverpool in the first minute of the match, as the ball was lifted to him past the defense but his shot sailed high. Shortly after, [[Jordan Henderson]] and [[Trent Alexander-Arnold]] of Liverpool took shots of their own. Both teams continued equally matched, with Flamengo having a spell of possession after a rocky start and maintaining nearly sixty percent possession in the half.<ref>{{cite web |url=https://globoesporte.globo.com/futebol/mundial-de-clubes/jogo/21-12-2019/Liverpool-flamengo.ghtml |title=Liverpool 1 x 0 Flamengo – Mundial de Clubes 2019 Final – Tempo Real |website=Globo Esporte |language=pt-br|access-date=24 December 2019}}</ref> At the other end, [[Bruno Henrique (footballer, born 1990)|Bruno Henrique]] had several sights of goal, though none quite as dangerous as Liverpool's.<ref>{{cite news |url=https://www.theguardian.com/football/live/2019/dec/21/liverpool-v-flamengo-club-world-cup-final-2019-live?page=with%3Ablock-5dfe5cd28f08c3972263ec4c |title=Liverpool 1–0 Flamengo: Club World Cup final 2019 – as it happened! (4 of 4) |last=Burnton |first=Simon |date=21 December 2019 |work=The Guardian|access-date=24 December 2019 |issn=0261-3077}}</ref>
+
+Two minutes into the second half, Firmino nearly scored again, this time hitting the inside of the left post.<ref>{{cite news |url=https://www.theguardian.com/football/live/2019/dec/21/liverpool-v-flamengo-club-world-cup-final-2019-live?page=with%3Ablock-5dfe6c368f087e8308e6283f&filterKeyEvents=false#liveblog-navigation |title=Liverpool 1–0 Flamengo: Club World Cup final 2019 – as it happened! (3 of 4) |last=Burnton |first=Simon |date=21 December 2019 |work=The Guardian|access-date=24 December 2019 |issn=0261-3077}}</ref> In the 53rd minute, Flamengo's [[Gabriel Barbosa]] shot high, and later forced a diving save from goalkeeper [[Alisson Becker|Alisson]] with a shot from inside the 18-yard box. In the 73rd minute, [[Alex Oxlade-Chamberlain]] was injured and came off for [[Adam Lallana]]. Flamengo brought on [[Vitinho (footballer, born October 1993)|Vitinho]] and [[Diego (footballer, born 1985)|Diego]] in place of [[Giorgian de Arrascaeta]] and [[Éverton Ribeiro]]. In the 83rd minute, Liverpool had their first dangerous shot on goal: a shot from Henderson fed by [[Mohamed Salah]] that was tipped over the frame by goalkeeper [[Diego Alves]]. Moments into stoppage time, Liverpool was awarded a penalty after [[Rafinha (footballer, born 1985)|Rafinha]] clipped the trailing foot of [[Sadio Mané]] free on goal on the edge of the penalty area. The decision was taken to [[Video assistant referee|video review]] where it appeared that the foul occurred outside the box and would result in a free kick, however the foul was waved off completely and play resumed with Flamengo.<ref>{{cite web |url=https://globoesporte.globo.com/futebol/mundial-de-clubes/jogo/21-12-2019/Liverpool-flamengo.ghtml |title=Liverpool 1 x 0 Flamengo – Mundial de Clubes 2019 Final – Tempo Real |website=Globo Esporte |language=pt-br |date=21 December 2019 |access-date=24 December 2019}}</ref> Regulation time ended with the match still scoreless.
+
+In the 99th minute, Liverpool scored the breakthrough goal. Henderson played a long ball forward to Mané which [[Rodrigo Caio]] could not deflect. One-on-one with Rafinha, Mané played to an approaching Firmino on his left who hesitated and scored around Diego Alves. For Liverpool, [[James Milner]] came on for [[Naby Keïta]], and for Flamengo [[Lincoln (footballer, born 2000)|Lincoln]] came on for midfielder [[Gerson (footballer, born 1997)|Gerson]].<ref name="Summary1">{{cite news |url=https://www.theguardian.com/football/live/2019/dec/21/liverpool-v-flamengo-club-world-cup-final-2019-live |title=Liverpool 1–0 Flamengo: Club World Cup final 2019 – as it happened! (1 of 4) |last=Burnton |first=Simon |date=21 December 2019 |work=The Guardian |access-date=24 December 2019 |issn=0261-3077}}</ref> In the second period of extra time, Flamengo found one dangerous opportunity to equalize in the 119th minute when a Vitinho cross rebounded back to him off a defender and he picked out Lincoln whose shot sailed high from ten yards out.<ref name="Summary1" />  Minutes later, the match ended and Liverpool were victors by a score of 1–0.<ref name="Firmino"/>
+
+===Details===
+<onlyinclude>{{Football box
+|id=Match 8
+|date={{Start date|2019|12|21|df=y}}
+|time=20:30 <noinclude>[[Arabia Standard Time|AST]]</noinclude>
+|team1=[[Liverpool F.C.|Liverpool]] {{fbaicon|ENG}}
+|score=1–0
+|aet=yes
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/qatar2019/match-center/400089362
+|team2={{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|goals1=
+*[[Roberto Firmino|Firmino]] {{goal|99}}
+|goals2=
+|stadium=[[Khalifa International Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance=45,416<ref name="match report">{{cite web |url=https://digitalhub.fifa.com/m/26c3eacca0b2750f/original/ynmqgvq64zq9tsdp1taq-pdf.pdf |title=Match report – Final – Liverpool FC v CR Flamengo |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=21 December 2019 |access-date=21 December 2019}}</ref>
+|referee=[[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _lfc1920h
+ |pattern_b  = _liverpool1920h
+ |pattern_ra = _lfc1920h
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = DD0000
+ |body       = DD0000
+ |rightarm   = DD0000
+ |shorts     = DD0000
+ |socks      = DD0000
+ |title      = Liverpool<ref name="lineups">{{cite web |url=https://digitalhub.fifa.com/m/28933194202570f/original/s9hp83l6ug1wka7nucms-pdf.pdf |title=Tactical Line-up – Final – Liverpool FC v CR Flamengo |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=21 December 2019 |access-date=21 December 2019}}</ref>
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _flamengo1920a
+ |pattern_ra =
+ |pattern_sh = _adidasred
+ |pattern_so = _adidasredl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Flamengo<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Alisson Becker|Alisson]]
+|-
+|RB ||'''66'''||{{flagicon|ENG}} [[Trent Alexander-Arnold]]
+|-
+|CB ||'''12'''||{{flagicon|ENG}} [[Joe Gomez (footballer)|Joe Gomez]]
+|-
+|CB ||'''4''' ||{{flagicon|NED}} [[Virgil van Dijk]]
+|-
+|LB ||'''26'''||{{flagicon|SCO}} [[Andy Robertson]]
+|-
+|CM ||'''8''' ||{{flagicon|GUI}} [[Naby Keïta]] || || {{suboff|100}}
+|-
+|CM ||'''14'''||{{flagicon|ENG}} [[Jordan Henderson]] ([[Captain (association football)|c]])
+|-
+|CM ||'''15'''||{{flagicon|ENG}} [[Alex Oxlade-Chamberlain]] || || {{suboff|75}}
+|-
+|RF ||'''11'''||{{flagicon|EGY}} [[Mohamed Salah]] || {{yel|81}} || {{suboff|120+1}}
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Roberto Firmino]] || {{yel|100}} || {{suboff|106}}
+|-
+|LF ||'''10'''||{{flagicon|SEN}} [[Sadio Mané]] || {{yel|45+1}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Adrián (footballer)|Adrián]]
+|-
+|GK ||'''22'''||{{flagicon|ENG}} [[Andy Lonergan]]
+|-
+|DF ||'''51'''||{{flagicon|NED}} [[Ki-Jana Hoever]]
+|-
+|DF ||'''72'''||{{flagicon|NED}} [[Sepp van den Berg]]
+|-
+|DF ||'''76'''||{{flagicon|WAL}} [[Neco Williams]]
+|-
+|MF ||'''5''' ||{{flagicon|NED}} [[Georginio Wijnaldum]]
+|-
+|MF ||'''7''' ||{{flagicon|ENG}} [[James Milner]] || {{yel|105}} || {{subon|100}}
+|-
+|MF ||'''20'''||{{flagicon|ENG}} [[Adam Lallana]] || || {{subon|75}}
+|-
+|MF ||'''48'''||{{flagicon|ENG}} [[Curtis Jones (footballer, born 2001)|Curtis Jones]]
+|-
+|FW ||'''23'''||{{flagicon|SUI}} [[Xherdan Shaqiri]] || || {{subon|120+1}}
+|-
+|FW ||'''27'''||{{flagicon|BEL}} [[Divock Origi]] || || {{subon|106}}
+|-
+|FW ||'''67'''||{{flagicon|ENG}} [[Harvey Elliott]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klopp]]
+|}
+|valign="top"|[[File:Liverpool vs Flamengo 2019-12-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Diego Alves]]
+|-
+|RB ||'''13'''||{{flagicon|BRA}} [[Rafinha (footballer, born 1985)|Rafinha]]
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Rodrigo Caio]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Pablo Marí]]
+|-
+|LB ||'''16'''||{{flagicon|BRA}} [[Filipe Luís]]
+|-
+|CM ||'''5''' ||{{flagicon|BRA}} [[Willian Arão]] || || {{suboff|120}}
+|-
+|CM ||'''8''' ||{{flagicon|BRA}} [[Gerson (footballer, born 1997)|Gerson]] || || {{suboff|102}}
+|-
+|RW ||'''7''' ||{{flagicon|BRA}} [[Éverton Ribeiro]] ([[Captain (association football)|c]]) || || {{suboff|82}}
+|-
+|AM ||'''14'''||{{flagicon|URU}} [[Giorgian de Arrascaeta]] || || {{suboff|77}}
+|-
+|LW ||'''27'''||{{flagicon|BRA}} [[Bruno Henrique (footballer, born 1990)|Bruno Henrique]]
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Gabriel Barbosa]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|BRA}} [[Gabriel Batista]]
+|-
+|GK ||'''37'''||{{flagicon|BRA}} [[César (footballer, born 1992)|César]]
+|-
+|DF ||'''2''' ||{{flagicon|BRA}} [[Rodinei]]
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Renê (footballer, born 1992)|Renê]]
+|-
+|DF ||'''26'''||{{flagicon|BRA}} [[Matheus Thuler]]
+|-
+|DF ||'''44'''||{{flagicon|BRA}} [[Rhodolfo]]
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Diego (footballer, born 1985)|Diego]] || {{yel|112}} || {{subon|82}}
+|-
+|MF ||'''19'''||{{flagicon|BRA}} [[Reinier Jesus|Reinier]]
+|-
+|MF ||'''25'''||{{flagicon|PAR}} [[Robert Piris Da Motta]]
+|-
+|MF ||'''28'''||{{flagicon|COL}} [[Orlando Berrío]] || || {{subon|120}}
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Vitinho (footballer, born October 1993)|Vitinho]] || {{yel|90}} || {{subon|77}}
+|-
+|FW ||'''29'''||{{flagicon|BRA}} [[Lincoln (footballer, born 2000)|Lincoln]] || || {{subon|102}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[Jorge Jesus]]
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Roberto Firmino]] (Liverpool)<ref name="match report"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="start list"/>
+<br />Taleb Al-Marri ([[Qatar Football Association|Qatar]])
+<br />Saoud Al-Maqaleh ([[Qatar Football Association|Qatar]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Mokrane Gourari ([[Algerian Football Federation|Algeria]])
+<br />'''[[Video assistant referee]]s:'''
+<br />[[Juan Martínez Munuera]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''
+<br />[[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+<br />Kyle Atkins ([[United States Soccer Federation|United States]])
+<br />[[Bakary Gassama]] ([[Gambia Football Federation|Gambia]])
+| style="width:60%; vertical-align:top" |
+'''Match rules'''<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/2faa8bad3c5c2f09/original/qnn0q2uvjare9bkl9lph-pdf.pdf |title=FIFA Club World Cup Qatar 2019 Regulations |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |year=2019 |access-date=17 December 2019}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Maximum of twelve named substitutes.
+*Maximum of three substitutions, with a fourth allowed in extra time.
+|}
+
+===Statistics===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="match report"/>
+|-
+! scope="col" style="width:100px" | Statistic
+! scope="col" style="width:70px" | Liverpool
+! scope="col" style="width:70px" | Flamengo
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|18
+|14
+|-
+!scope=row|Shots on target
+|6
+|2
+|-
+!scope=row|Saves
+|2
+|5
+|-
+!scope=row|Ball possession
+|48%
+|52%
+|-
+!scope=row|Corner kicks
+|5
+|7
+|-
+!scope=row|Fouls committed
+|22
+|16
+|-
+!scope=row|Offsides
+|3
+|6
+|-
+!scope=row|Yellow cards
+|4
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+
+==Post-match==
+[[File:Anfield Stadium Tour (51930554120).jpg|thumb|right|The FIFA Club World Cup trophy next to Jürgen Klopp's tracksuit top (from the 2019 Champions League final) in the Liverpool F.C. museum]]
+With the win, Liverpool secured their first Club World Cup title, becoming the second English club to win the competition after [[Manchester United F.C.|Manchester United]] in [[2008 FIFA Club World Cup|2008]].<ref name="Firmino">{{cite news |last=Poole |first=Harry |url=https://www.bbc.co.uk/sport/football/50869633 |title=Flamengo 0–1 Liverpool: Roberto Firmino's extra-time strike delivers first Club World Cup |website=BBC Sport |date=21 December 2019 |access-date=21 December 2019}}</ref> Liverpool's Roberto Firmino was given the man of the match award,<ref name="match report"/> while teammate Mohamed Salah was awarded the [[FIFA Club World Cup awards#Golden Ball|Golden Ball]] by FIFA's Technical Study Group, which was jointly awarded with the [[Alibaba Group|Alibaba]] Cloud Player of the Tournament award. Flamengo's Bruno Henrique won the tournament's Silver Ball award.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/salah-headlines-qatar-2019-award-winners-3063647 |title=Salah headlines Qatar 2019 award winners |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 December 2019 |access-date=21 December 2019}}</ref>
+
+==See also==
+*[[Liverpool F.C. in international football]]
+*[[1981 Intercontinental Cup]] — contested between same teams
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/clubworldcup/qatar2019}}
+
+{{FIFA Club World Cup}}
+{{Liverpool F.C. matches}}
+{{Clube de Regatas do Flamengo matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2019}}
+[[Category:2019 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2019]]
+[[Category:Liverpool F.C. matches]]
+[[Category:CR Flamengo matches]]
+[[Category:2019–20 in English men's football]]
+[[Category:2019 in Brazilian football]]
+[[Category:2019–20 in Qatari football]]
+[[Category:Football matches in Qatar]]
+[[Category:December 2019 sports events in Asia]]
+[[Category:Sport in Al Rayyan]]
+[[Category:Brazil–United Kingdom sports relations|2019]]

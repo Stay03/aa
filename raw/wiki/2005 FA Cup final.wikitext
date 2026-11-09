@@ -1,0 +1,423 @@
+{{Short description|English football match}}
+{{For|the women's event|2005 FA Women's Cup final}}
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=June 2020}}
+{{Good article}}
+{{Infobox football match
+|              title = 2005 FA Cup final
+|              image = 2005 FA Cup Final programme.jpg
+|            caption = The [[Football programme|match programme]] cover
+|              event = [[2004–05 FA Cup]]
+|              team1 = [[Arsenal F.C.|Arsenal]]
+|         team1score = 0
+|              team2 = [[Manchester United F.C.|Manchester United]]
+|         team2score = 0
+|            details = After [[Overtime (sports)#Association football|extra time]]<br />Arsenal won 5–4 on [[Penalty shoot-out (association football)|penalties]]
+|               date = 21 May 2005
+|            stadium = [[Millennium Stadium]]
+|               city = Cardiff
+| man_of_the_match1a = [[Wayne Rooney]] (Manchester United)<ref name="observer">{{cite news |first=Amy |last=Lawrence |title=Vieira holds his nerve to claim historic penalty prize for Arsenal |url=https://www.theguardian.com/football/2005/may/22/match.sport1 |newspaper=The Observer |location=London |date=22 May 2005 |access-date=19 August 2010}}</ref>
+|            referee = [[Rob Styles]] ([[Hampshire Football Association|Hampshire]])
+|         attendance = 71,876
+|            weather = Mostly cloudy, rain showers<br />{{convert|10|°C|°F}}<ref>{{cite web|title=History for Cardiff-Wales, United Kingdom|url=http://www.wunderground.com/history/airport/EGFF/2005/5/21/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA|publisher=[[Weather Underground (weather service)|Weather Underground]]|access-date=14 July 2014}}</ref>
+|           previous = [[2004 FA Cup final|2004]]
+|               next = [[2006 FA Cup final|2006]]
+}}
+The '''2005 FA Cup final''' was a [[association football|football]] match played between [[Arsenal F.C.|Arsenal]] and [[Manchester United F.C.|Manchester United]] on 21 May 2005 at the [[Millennium Stadium]], [[Cardiff]]. It was the final match of the [[2004–05 FA Cup]], the 124th season of English football's primary cup competition, the [[FA Cup]]. Arsenal became the first team to win the FA Cup via a [[Penalty shoot-out (association football)|penalty shoot-out]], after neither side managed to score in the initial 90 minutes or in 30 minutes of [[Overtime (sports)#Association football|extra time]]. The shoot-out finished 5–4 to Arsenal, with [[Patrick Vieira]] scoring the winning penalty after [[Paul Scholes]]' shot was saved by Arsenal [[Goalkeeper (association football)|goalkeeper]] [[Jens Lehmann]].
+
+As both teams were in the highest tier of English football, the [[Premier League]], Arsenal and Manchester United entered the competition in the third round. Matches up to the semi-final were contested on a one-off basis, with a [[Replay (sports)|replay]] taking place if the match ended in a draw. Both clubs only needed one replay along the way to the final; Arsenal's tie against [[Sheffield United F.C.|Sheffield United]] in the fifth round was decided by a penalty shootout, whereas Manchester United overcame non-league [[Exeter City F.C.|Exeter City]] in the third round, after the original tie ended goalless.
+
+Protests over the impending takeover of Manchester United by American businessman [[Malcolm Glazer]] had threatened to overshadow the final, though demonstrations in Cardiff required little intervention from the police. Both managers for the final made surprising changes to their team; [[Arsène Wenger]] unconventionally deployed a defensive formation, while [[Alex Ferguson|Sir Alex Ferguson]] left midfielder [[Ryan Giggs]] on the bench. Manchester United dominated the match, creating four times as many shots as their opponents, but struggled to find the breakthrough. In extra time, Arsenal's [[José Antonio Reyes]] was sent off for a second bookable offence, becoming only the second player to be sent off in an FA Cup final.
+
+The British press unanimously agreed that Arsenal were fortunate to win; Wenger himself admitted so in his press conference afterwards. A television audience of over 480&nbsp;million worldwide watched the final; in the United Kingdom, coverage of the match peaked at 12.8&nbsp;million, making it the highest-rated FA Cup match since the [[1996 FA Cup final|1996 final]]. 
+
+This was the 10th time that Arsenal won the FA Cup, and for the fourth time under Wenger's management. They would go on to play [[2004-05 FA Premier League|Premiership champions]] [[Chelsea F.C.|Chelsea]] in the [[2005 FA Community Shield]]. Since both finalists had already qualified for the following season's [[2005-06 UEFA Champions League|UEFA Champions League]], the [[2005-06 UEFA Cup|UEFA Cup]] spot for the cup winners was passed onto the sixth placed team in the Premiership, which was [[Bolton Wanderers F.C.|Bolton Wanderers]].
+
+{{TOClimit|limit=3}}
+
+==Route to the final==
+{{Main|2004–05 FA Cup}}
+The FA Cup is English football's primary [[Single-elimination tournament|cup competition]]. Clubs in the [[Premier League]] enter the FA Cup in the third round and are drawn randomly with the remaining clubs. If a match is drawn, the tie is replayed at the ground of the away team from the original match. As with league fixtures, FA Cup matches are subject to change in the event of games being selected for television coverage and this often can be influenced by clashes with other competitions.<ref>{{cite web |url=http://www.thefa.com/~/media/files/pdf/the%20fa%20cup%20and%20comps/fa-competitions-2012-13/thefacup/fac-rules-2012-2013.ashx |title=Rules of The FA Cup Challenge Cup |publisher=[[The Football Association]]|access-date=15 May 2016}}</ref> In September 2004, it was announced that the [[Millennium Stadium]] was chosen as the venue for the semi-finals, in addition to the final.<ref>{{cite news |title=Cardiff nets FA Cup semis |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/3656964.stm |publisher=BBC Sport |date=15 September 2004 |access-date=15 May 2016}}</ref>
+
+===Arsenal===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+<!-- |+ '''Arsenal''' -->
+!width="25" | Round
+!width="150" | Opposition
+!width="60" | Score
+|-
+!scope=row style="text-align:center"| 3rd
+| [[Stoke City F.C.|Stoke City]] (H)
+| 2–1
+|-
+!scope=row style="text-align:center"| 4th
+| [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (H)
+| 2–0
+|-
+!scope=row style="text-align:center" rowspan="2" | 5th
+| [[Sheffield United F.C.|Sheffield United]] (H)
+| 1–1
+|-
+| Sheffield United (A)
+| 0–0<br /><small>(4–2 [[Penalty shootout (association football)|pen]])</small>
+|-
+!scope=row style="text-align:center"| 6th
+| [[Bolton Wanderers F.C.|Bolton Wanderers]] (A)
+| 1–0
+|-
+!scope=row style="text-align:center"| SF
+| [[Blackburn Rovers F.C.|Blackburn Rovers]] (N)
+| 3–0
+|-
+| colspan="3" style="background-color:white;"| <small>'''Key:''' (h) = Home venue; (a) = Away venue; (n) = [[Home advantage#Neutral venues|Neutral venue]].</small>
+|}
+Arsenal's cup run started with a home tie against [[Stoke City F.C.|Stoke City]]. The visitors took the lead just before the break, but goals from [[José Antonio Reyes]] and [[Robin van Persie]] in the second half meant Arsenal won 2–1.<ref>{{cite news |title=Arsenal 2–1 Stoke |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4139301.stm |publisher=BBC Sport |date=9 January 2005 |access-date=14 July 2014}}</ref> They then faced [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] at home in the next round; a goal apiece from [[Patrick Vieira]] and [[Freddie Ljungberg]] secured a comfortable 2–0 victory.<ref>{{cite news |title=Arsenal 2–0 Wolves |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4197623.stm |publisher=BBC Sport |date=29 January 2005 |access-date=14 July 2014}}</ref>
+
+Arsenal's opponent in the fifth round was [[Sheffield United F.C.|Sheffield United]]. After 35 minutes [[Dennis Bergkamp]] was sent off for his apparent push on [[Danny Cullip]]. With eleven minutes of normal time remaining, [[Robert Pires]] scored for Arsenal, but the team conceded a late penalty which [[Andy Gray (footballer, born 1977)|Andy Gray]] converted.<ref>{{cite news |title=Arsenal struggle to draw breath |url=https://www.theguardian.com/football/2005/feb/21/match.arsenal |first=Paul |last=Wilson |newspaper=The Observer |location=London |date=21 February 2005 |access-date=14 July 2014}}</ref> The equaliser for Sheffield United meant the match was replayed at [[Bramall Lane]] on 1 March 2005. Both teams played out a goalless draw after full-time and throughout extra-time, so the tie was decided by a penalty shootout. Arsenal goalkeeper [[Manuel Almunia]] saved two penalties, which ensured progress into the quarter-finals.<ref>{{cite news |title=Sheff Utd 0–0 Arsenal (aet) |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4300405.stm |publisher=BBC Sport |date=1 March 2005 |access-date=14 July 2014}}</ref>
+
+[[Bolton Wanderers F.C.|Bolton Wanderers]] hosted Arsenal at the [[Reebok Stadium]] in the sixth round of the competition. Ljungberg scored the only goal of the tie after just three minutes; he had an opportunity to extend Arsenal's lead in stoppage time, but hit the ball over from six yards. It was described by [[BBC Sport]] as the "most glaring miss of the match, if not the entire season".<ref>{{cite news |title=Bolton 0–1 Arsenal |url=https://news.bbc.co.uk/sport1/hi/football/fa_cup/4327789.stm |publisher=BBC Sport |date=12 March 2005 |access-date=14 July 2014}}</ref>
+
+Arsenal faced [[Blackburn Rovers F.C.|Blackburn Rovers]] in the semi-final which was played on 16 April 2005. Two goals from Van Persie and one from Pires gave Arsenal a 3–0 win, in a match marred by Blackburn's aggressive tactics.<ref>{{cite news |title=Van Persie doubles up to deliver knockout |url=https://www.theguardian.com/football/2005/apr/17/match.sport5 |first=Paul |last=Wilson |newspaper=The Observer |location=London |date=17 April 2005 |access-date=14 July 2014}}</ref>
+
+===Manchester United===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+<!-- |+ '''Manchester United''' -->
+!width="25" | Round
+!width="150" | Opposition
+!width="60" | Score
+|-
+!scope=row style="text-align:center" rowspan="2" | 3rd
+| [[Exeter City F.C.|Exeter City]] (H)
+| 0–0
+|-
+| Exeter City (A)
+| 2–0
+|-
+!scope=row style="text-align:center"| 4th
+| [[Middlesbrough F.C.|Middlesbrough]] (H)
+| 3–0
+|-
+!scope=row style="text-align:center"| 5th
+| [[Everton F.C.|Everton]] (A)
+| 2–0
+|-
+!scope=row style="text-align:center"| 6th
+| [[Southampton F.C.|Southampton]] (A)
+| 4–0
+|-
+!scope=row style="text-align:center"| SF
+| [[Newcastle United F.C.|Newcastle United]] (N)
+| 4–1
+|-
+| colspan="3" style="background-color:white;"| <small>'''Key:''' (h) = Home venue; (a) = Away venue; (n) = [[Home advantage#Neutral venues|Neutral venue]].</small>
+|}
+Manchester United, the holders of the FA Cup, began their defence of the trophy with a home tie against non-league [[Exeter City F.C.|Exeter City]].<ref>{{cite news |title=Yeading face Newcastle in FA Cup |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4068443.stm |publisher=BBC Sport |date=16 December 2004 |access-date=14 July 2014}}</ref> United had made several first team changes and struggled to find a breakthrough in the tie. Even with the second half introductions of [[Paul Scholes]] and [[Cristiano Ronaldo]], the visitors held on for a goalless draw.<ref>{{cite news |title=Exeter leave United humbled hosts |url=https://www.telegraph.co.uk/sport/2353454/Exeter-leave-United-humbled-hosts.html |first=Derick |last=Allsop |newspaper=The Daily Telegraph |location=London |date=10 January 2005 |access-date=14 July 2014}}</ref> The match was replayed at Exeter's home ground, [[St James Park (Exeter)|St James Park]] on 19 January 2005. Ronaldo scored the opening goal of the match in the ninth minute and [[Wayne Rooney]] added a second, three minutes from normal time.<ref>{{cite news |title=Exeter 0–2 Man Utd |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4174999.stm |publisher=BBC Sport |date=19 January 2005 |access-date=14 July 2014}}</ref>
+
+Manchester United's opponents in the fourth round was [[Middlesbrough F.C.|Middlesbrough]]. Rooney scored twice in the team's 3–0 victory – he lobbed the ball over goalkeeper [[Mark Schwarzer]] for his first goal and volleyed it for his second. Middlesbrough manager [[Steve McClaren]] credited Rooney's performance afterwards and said he made the difference in the tie. [[Everton F.C.|Everton]] hosted Manchester United in the next round at [[Goodison Park]]. A goal apiece from [[Quinton Fortune]] and Ronaldo in either half ensured a 2–0 win.<ref>{{cite news |title=Everton 0–2 Man Utd |url=https://news.bbc.co.uk/sport1/hi/football/fa_cup/4259707.stm |publisher=BBC Sport |date=19 February 2005 |access-date=14 July 2014}}</ref>
+
+[[Southampton F.C.|Southampton]] was Manchester United's opponent in the sixth round. After two minutes at [[St Mary's Stadium|St Mary's]] United took the lead; a shot by [[Roy Keane]] near the penalty area hit Southampton's [[Peter Crouch]] and deflected into the goal. Ronaldo scored United's second and additional goals from Scholes meant they progressed into the last four of the competition; the final score was 4–0.<ref>{{cite news |title=Coastal breeze for United as Keane blows away resistance |url=https://www.theguardian.com/football/2005/mar/13/match.southampton |first=Amy |last=Lawrence |newspaper=The Observer |location=London |date=13 March 2005 |access-date=14 July 2014}}</ref>
+
+In the semi-final Manchester United faced [[Newcastle United F.C.|Newcastle United]] at the Millennium Stadium. They took the lead in the 19th minute when [[Ruud van Nistelrooy]] scored, and Scholes extended the team's advantage just before half time. Van Nistelrooy made it 3–0 in the 58th minute, before [[Shola Ameobi]] scored what proved a mere consolation a minute later, as Ronaldo added United's fourth late on.<ref>{{cite news |title=Ferguson's men triumph by a one-way street |url=https://www.theguardian.com/football/2005/apr/18/match.newcastleunited |first=Kevin |last=McCarra |newspaper=The Guardian |location=London |date=18 April 2005 |access-date=14 July 2014}}</ref>
+
+==Pre-match==
+The final marked the fifth meeting between the two clubs in the [[2004–05 in English football|2004–05 season]].<ref>{{cite news|title=Arsenal v Manchester United head-to-head record |url=http://www.manchesterunited-mad.co.uk/head_to_head/arsenal/vs/manchester_united/index.shtml |work=United Mad |publisher=Digital Sports Group |access-date=14 May 2016 |archive-url=https://web.archive.org/web/20130606052705/http://www.manchesterunited-mad.co.uk/head_to_head/arsenal/vs/manchester_united/index.shtml |archive-date= 6 June 2013 |url-status=live}}</ref> Despite finishing six points ahead of Manchester United in the [[2004–05 FA Premier League|league]], Arsenal had lost both league fixtures between the clubs,<ref>{{cite news |url=http://www.premierleague.com/en-gb/history/season-2004-05.html |title=2004–05 season review |publisher=Premier League |date=15 May 2005 |access-date=14 May 2016 |archive-date=10 June 2016 |archive-url=https://web.archive.org/web/20160610042829/http://www.premierleague.com/en-gb/history/season-2004-05.html |url-status=dead }}</ref> as well as a [[Football League Cup|League Cup]] fifth-round tie, which was played out by the clubs' fringe and reserve team players.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/league_cup/4047617.stm |title=Man Utd 1–0 Arsenal |publisher=BBC Sport |date=1 December 2004 |access-date=14 May 2016}}</ref> Arsenal had won the season's first encounter in the [[FA Community Shield]], also at the Millennium Stadium, by a 3–1 scoreline.<ref>{{cite news |url=https://www.telegraph.co.uk/sport/2384307/Arsenal-show-there-is-life-beyond-Vieira.html |title=Arsenal show there is life beyond Vieira |newspaper=The Daily Telegraph |location=London |first=Henry |last=Winter |date=9 August 2004 |access-date=14 May 2016}}</ref>
+
+The clubs had met in an FA Cup final before – in [[1979 FA Cup final|1979]], when Arsenal won 3–2.<ref>{{cite news |title=FA Cup vital statistic |pages=98 |newspaper=[[The Times]] |date=21 May 2005}}</ref> Manchester United were appearing in their 17th FA Cup Final, their second in as many years, and had won the FA Cup on 11 of their previous 16 appearances (including beating [[Millwall F.C.|Millwall]] in the [[2004 FA Cup final|2004 final]]). Two of these victories had yielded a domestic [[Double (association football)|double]] (in 1994 and 1996) and in [[1998–99 Manchester United F.C. season|1999]] they had [[1998–99 FA Cup|won the FA Cup]] as part of a unique [[Treble (association football)|Treble]], consisting of the cup, the [[Premier League]] and the [[UEFA Champions League]]. Arsenal were also appearing in their 17th Cup final – their fourth in five years. They had won the cup nine times previously, most recently in 2003, when they beat [[Southampton F.C.|Southampton]] in the [[2003 FA Cup final|final]].<ref>{{cite web |title=Arsenal's complete cup finals |url=http://www.statto.com/football/teams/arsenal/history/cup-finals |publisher=Statto Organisation |access-date=27 February 2016 |url-status=live |archive-url=https://web.archive.org/web/20160304082911/http://www.statto.com/football/teams/arsenal/history/cup-finals |archive-date=4 March 2016 }}</ref>
+
+[[File:Millennium Stadium (aerial view).jpg|thumb|The match was played at the [[Millennium Stadium]] in Cardiff for the fifth year in a row.]]
+Meetings between Arsenal and Manchester United were keenly contested during the 2000s and highly publicised by the media; the cup final this season had added significance as neither club won the league after a decade of dominance, and it was their only chance of silverware.<ref name="rick">{{cite news |first=Rick |last=Broadbent |title=Wenger's volley draws Chelsea into feud chain |url=https://www.thetimes.com/sport/football/article/wenger-s-volley-draws-chelsea-into-feud-chain-zc3xmzszwbg |newspaper=[[The Times]] |date=21 May 2005 |access-date=14 May 2016}} {{subscription required}}</ref> The emergence of [[Chelsea F.C.|Chelsea]], who were crowned league champions in April, had presented a long-term threat to Arsenal and Manchester United's duopoly on English football, as they were financed by Russian billionaire [[Roman Abramovich]].<ref name="rick"/> Chelsea were accused of "[[tapping-up]]" Arsenal defender [[Ashley Cole]] in January,<ref>{{cite news |title=Wenger confronts Blues over Cole |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/4219977.stm |publisher=BBC Sport |date=31 January 2005 |access-date=14 May 2016}}</ref> and were linked to Manchester United's [[Rio Ferdinand]].<ref>{{cite news |title=Chelsea deny Ferdinand interest |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/4450945.stm |publisher=BBC Sport |date=18 April 2005 |access-date=14 May 2016}}</ref>
+
+Wenger welcomed Chelsea's emergence, describing them as the "third force" in English football, but he raised concerns over their conduct and what he perceived as artificial growth.<ref name="rick"/> Asked whether Chelsea could dominate for the foreseeable, Wenger said: "I feel yes, because they are a financially doped club. They have enhancement of performances through financial resources which are unlimited. For me, it's a kind of doping because it's not in any way linked to their resources."<ref name="rick"/> Despite the absence of [[Thierry Henry]], ruled out through injury, and Arsenal's poor recent record against Manchester United, Wenger believed his team were more than capable of winning the match: "What is good in football is that it is not predictable. [...] You act now like it is a decade that we haven’t beaten Manchester United – it's not true. It's two games."<ref>{{cite news |first=Sam |last=Wallace |title=Final is a balancing act for Ferguson |url=https://www.independent.co.uk/sport/football/premier-league/final-is-a-balancing-act-for-ferguson-222381.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/premier-league/final-is-a-balancing-act-for-ferguson-222381.html |archive-date=1 May 2022 |url-access=subscription |newspaper=The Independent |location=London |date=20 May 2005 |access-date=14 May 2016}}{{cbignore}}</ref> It was reported on the eve of the final that [[Philippe Senderos]] would start ahead of first-teamer [[Sol Campbell]].<ref>{{cite news |first=Alex |last=Dunn |title=Campbell set for bench role |url=http://www.skysports.com/football/news/11667/2335896/campbell-set-for-bench-role |publisher=Sky Sports |date=20 May 2005 |access-date=14 May 2016}}</ref>
+ 
+Manchester United manager [[Alex Ferguson|Sir Alex Ferguson]] dismissed suggestions that his team had been over physical in previous meetings against Arsenal. Referring back to the [[Battle of the Buffet|league fixture in October 2004]], he told reporters: "We committed three fouls on Reyes, for instance, but that hardly constitutes ''[[The Texas Chain Saw Massacre]]'', does it? There were six by them on Cristiano Ronaldo."<ref name="dailyex">{{cite news |first1=Richard |last1=Tanner |first2=Tony |last2=Banks |title=Sir Alex: United no hatchet men |page=40 |newspaper=Daily Express |location=London |date=21 May 2005}}</ref> He questioned the character of Arsenal's players after they lost their unbeaten record, and likened their protest to propaganda, as a way to disguise their crisis – "...it was convenient for them to say they were kicked off the park."<ref name="dailyex"/> United had struggled to score goals in the lead up to the final, and Ferguson stressed the importance of his team taking their chances. "Big games are usually decided that way. They are so close so that whoever gets in front has an advantage," he said.<ref>{{cite news |first=Stuart |last=Mathieson |title=Stop your moaning! |page=48 |newspaper=Manchester Evening News |date=21 May 2005}}</ref>
+
+===Planned protests===
+The build-up to the final had focused upon many Manchester United fans' discontent at [[Glazer ownership of Manchester United|their takeover]] by American businessman and sports tycoon [[Malcolm Glazer]], and large demonstrations were planned inside and outside the Millennium Stadium. Despite this, the final was played in the rain and only a small group of around 100 supporters held protests and sang anti-Glazer songs. The police were out in force but did not have any trouble to deal with.<ref>{{cite news |title=Rainy FA Cup final dampens demonstrations |url=https://news.bbc.co.uk/1/hi/wales/4567593.stm |work=BBC News |date=21 May 2005 |access-date=23 December 2012}}</ref> Arsenal fans taunted Manchester United fans by waving [[Flag of the United States|American flags]], sarcastically chanting "U-S-A", and singing "Manchester, [[Yankee|Yank]], Yank, Yank", in reference to a chant in which "Yank" is replaced with "wank".<ref>{{cite news |title=Vieira holds his nerve to claim historic penalty prize for Arsenal |url=https://www.theguardian.com/football/2005/may/22/match.sport1 |work=The Guardian |date=22 May 2005 |access-date=12 October 2022}}</ref>
+
+==Match==
+
+===Team selection===
+Wenger opted for a [[Formation (association football)#4–5–1|4–5–1]] formation, with Bergkamp playing as a lone striker.<ref name="build-up">{{cite news |title=FA Cup final 2005 build-up |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4565691.stm |publisher=BBC Sport |date=21 May 2005 |access-date=22 December 2012 }}</ref> The absence of Henry also opened a place in midfield for [[Gilberto Silva]], while [[José Antonio Reyes]] and Pires were selected on the wings ahead of Ljungberg and [[Robin van Persie]], who were both named as substitutes.<ref name="build-up"/> As anticipated, Senderos's form saw him selected at centre-back ahead of Campbell, despite the [[England national football team|England]] international's return from injury.<ref name="build-up"/>
+
+Ferguson had a defensive selection dilemma ahead of the final, with both of his starting full-backs, [[Gabriel Heinze]] (ankle) and [[Gary Neville]] (groin), having suffered injuries.<ref>{{cite web |last1=Adams |first1=Tom |title=Double Cup blow for United |url=https://www.skysports.com/football/news/2335693/double-cup-blow-for-united |website=Sky Sports |access-date=2 September 2020}}</ref> Neville eventually recovered enough to make the substitutes' bench, despite only playing in one of the team's last five games, but Heinze missed the game entirely, [[Mikaël Silvestre]] taking his place at left-back. Neville's absence meant that [[John O'Shea]] started at right-back. Neville was joined on the bench by winger [[Ryan Giggs]] and goalkeeper [[Tim Howard]]; Giggs' omission was a surprise, and it meant that [[Darren Fletcher]] started on the right wing, while Ronaldo played on the left.<ref name="build-up"/> Howard, on the other hand, had been competing for the number 1 jersey with [[Roy Carroll]] all season, and it was ultimately the Northern Irishman who was picked.<ref name="build-up"/>
+
+[[Roy Keane]] was appearing in his seventh FA Cup Final having previously played in the 1991, 1994, 1995, 1996, 1999 and 2004 finals. This was the most number of finals for a player in the post-war period; by 2010 however, [[Ashley Cole]] had reached his eighth final.<ref>{{cite news |first=Norman |last=Hubbard |title=Father-and-son team-mates |url=http://www.espnfc.co.uk/story/873564/ask-norman-father-son-team-mates-samuel-etoos-record |publisher=ESPN FC |date=1 February 2011 |access-date=22 May 2016}}</ref>
+
+===Summary===
+====First half====
+Manchester United kicked the game off, and also fashioned the first chance of the game; Ronaldo beat [[Lauren (Cameroonian footballer)|Lauren]] on the left wing to put over a cross, only for Scholes to head the ball over the crossbar after losing his marker.<ref name=clockwatch>{{cite news |title=Clockwatch: 2005 FA Cup final |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4569045.stm |publisher=BBC Sport |date=21 May 2005 |access-date=14 May 2016}}</ref> Two minutes later, a break from [[José Antonio Reyes]] had Carroll scampering across from his goal to meet the Spaniard, forcing Reyes wide enough to allow the United defence time to get back.<ref>Lawrenson, Motson (2005). Event occurs in the seventh minute; live coverage between 15:06pm and 15:07pm.</ref>
+
+Manchester United had the ball in the back of the net on 27 minutes, when Ferdinand turned in the rebound after [[Jens Lehmann]] saved from Rooney, but the [[Assistant referee (association football)|assistant referee]] ruled that Ferdinand was offside.<ref name=clockwatch/> After a brief Arsenal attack, Silvestre played a long, diagonal ball to Van Nistelrooy on the right wing. The Dutch forward controlled the ball and then outpaced Cole to the goal line; he then cut the ball back to Rooney, whose first-time shot was turned over the bar by Lehmann.<ref name=espnclock>{{cite news |title=Arsenal v Manchester United: live commentary |url=http://www.espnfc.us/commentary/182632/commentary.html |publisher=ESPN |date=21 May 2005 |access-date=14 May 2016}}</ref> The consequent corner broke to Rooney on the edge of the penalty area, but his shot was deflected behind for another corner, which Scholes took. The England midfielder floated the ball over to the edge of the penalty area, where Rooney was waiting, only to volley it just over the bar.<ref name=espnclock/>
+
+In the closing stages of the first half, Van Nistelrooy got his first shot on goal, turning Senderos only to send the ball trickling along the floor for Lehmann to save comfortably.<ref name=espnclock/> The first half finished with a foul on Rooney, who had done well to break free of challenges from Cole, Vieira and Senderos, who eventually brought Rooney down. The English forward took the free kick himself, but it went over the bar to cheers from the Arsenal fans and the sound of the referee's half-time whistle.<ref>Lawrenson, Motson (2005). Event occurs in additional time of the first half; live coverage between 15:46pm and 15:48pm.</ref>
+
+====Second half====
+Manchester United fashioned the first chance of the second half after just three minutes, when Rooney cut inside from the right along the face of the penalty area, but his left-footed shot was blocked away for a corner kick.<ref name=clockwatch/> Soon after, Van Nistelrooy received the ball on the edge of the penalty area and held it up before playing a through-ball to Keane, but the Irishman's low cross was diverted behind by [[Kolo Touré]] before it reached Rooney.<ref name=espnclock/> United then had their third chance in the space of five minutes when Ronaldo shot just wide from 25 yards, from the left corner of the penalty area.<ref name=espnclock/>
+
+Throughout the match, Lauren committed several fouls on Ronaldo, and confronted the Portuguese winger early in the second half, before finally being booked for persistent fouling in the 62nd minute.<ref name=clockwatch/> Ronaldo took the free kick himself but put it just over the bar from 30 yards. In the 64th minute, Arsenal were awarded a free kick for an O'Shea foul on Reyes; Bergkamp took the kick, which was headed away by Ferdinand, but only as far as Pires, whose side-footed volley went over the bar.<ref name=clockwatch/> The free kick was to be Bergkamp's last contribution to the final, as he was then substituted by Ljungberg in the 65th minute.<ref name=espnclock/>
+
+United then went back downfield and Ronaldo took on Lauren, who dared not dive in for a tackle and risk a second yellow card.<ref name=clockwatch/> Ronaldo got past the [[Cameroon]]ian full-back and then chipped a cross into the penalty area, but Van Nistelrooy was unable to make enough contact with the ball to force his header on target.<ref name=espnclock/> A minute later, Silvestre found Rooney with another diagonal pass; Rooney attempted to drive in a low cross, but it ended up heading towards goal and came back off the foot of the post.<ref name=espnclock/> Fletcher was first to the ball but he fired a shot across the face of the goal and out for a goal kick. With their very next attack, United sent Ronaldo away down the left wing again; he sent over another cross, but it was again too far in front of Van Nistelrooy.<ref name=espnclock/>
+
+Reyes received his first yellow card in the 76th minute, when he was late in tackling Silvestre after the French defender had played a backpass to Carroll.<ref name=lawmot>Lawrenson, Motson (2005). Event occurs around the 76th minute; live coverage between 16:30pm and 16:32pm.</ref> The break in play allowed Manchester United to make their first substitution, bringing on Fortune for O'Shea, who appeared to be struggling with a calf injury.<ref name=lawmot/> With six minutes left in normal time, United won a corner on the left hand side, which Ronaldo played short to Scholes. Scholes returned the ball to Ronaldo, who crossed it into the penalty area, where Keane was unmarked at the back post. The ball eventually broke to the United [[Captain (association football)|captain]], who shot, only to see four Arsenal players between him and the goal, ready to block his effort behind for another corner.<ref name=espnclock/> Lehmann came to meet the second corner kick, but missed the ball, allowing it to go all the way through to Van Nistelrooy; the Dutchman headed the ball goalwards, but Ljungberg was on the line and headed it up onto the crossbar and away.<ref name=espnclock/>
+
+Arsenal then made their second substitution, bringing on Van Persie in place of [[Cesc Fàbregas]].<ref name=guardianmin>{{cite news |first=Paul |last=Doyle |title= Arsenal 0 Manchester United 0 (Arsenal win 5–4 on pens) |url=https://www.theguardian.com/football/2005/may/21/newsstory.sport8 |website=The Guardian |date=21 May 2005 |access-date=14 May 2016}}</ref> As the match entered injury time at the end of the second half, Ronaldo made yet another run down the left wing, outpacing Lauren to Rooney's through-ball. The ball broke back to Rooney 30 yards from goal, but his shot went over the bar.<ref name=lawro>Lawrenson, Motson (2005). Event occurs towards the end of the second half; live coverage between 16:50pm and 16:55pm.</ref> The second half finished with a [[Wes Brown]] cross from the right wing that made its way across the penalty area to Ronaldo, but the Portuguese could only head the ball straight at Lehmann.<ref name=lawro/>
+
+====Extra time====
+Manchester United brought Giggs on at the start of extra time, the Welshman taking Fletcher's place in the midfield.<ref name=clockwatch/> They immediately tried to play him in down the left wing, but the pass was over-hit and went beyond Giggs. Arsenal finally got their first shot on target in the seventh minute of extra time, when a Van Persie free kick – awarded for a foul by Silvestre – forced a diving save from Carroll.<ref>Lawrenson, Motson (2005). Event occurs in the 97th minute; live coverage between 17:04pm and 17:06pm.</ref> Four minutes later, Manchester United appealed for a penalty kick when a cross from Giggs struck Cole, but replays showed that the ball hit the Arsenal full-back in the midriff.<ref name=clockwatch/> United sustained their attack, and the ball came to Scholes in the penalty area, but his shot on the turn was well saved by Lehmann.<ref name=guardianmin/> The resultant corner was taken short by Scholes, before it was played back to him; his cross found Van Nistelrooy unmarked in the area, but the Dutchman headed over the bar from the edge of the [[Football pitch#goal area|goal area]].<ref name=guardianmin/> United then had another penalty shout when Giggs volleyed a long ball from Scholes into Touré's body and up onto the Ivorian's hand, but referee [[Rob Styles]] turned their claims down. Arsenal then brought on [[Edu (footballer, born 1978)|Edu]] to replace Pires for the remaining 15 minutes.<ref name=guardianmin/>
+
+The second half of extra time began with yet another chance for Manchester United, this time constructed from a Giggs break down the left wing, but Van Nistelrooy failed in his attempt to back-heel Giggs' cross into the goal and the opportunity was wasted.<ref name=clockwatch/> Five minutes into the second half, Reyes committed another late tackle on Silvestre, for which he received a final warning from referee Styles. Reyes himself was then the victim of a late tackle by Scholes, who was shown a yellow card.<ref name=guardianmin/> The match threatened to descend into a mass brawl soon after, when Fortune caught Ljungberg in the face with a flailing arm and then committed a high tackle on Edu, provoking a reaction from the Arsenal players.<ref name=clockwatch/> A shoulder-charge by Rooney on Cole resulted in an Arsenal free kick on the left wing; Van Persie swung the ball over and it was only cleared as far as Ljungberg, but the Swede struck a shot with his shin and the ball spun wide.<ref name=guardianmin/> With a couple of minutes left in the extra period, Manchester United won a free kick on the left corner of the Arsenal penalty area when Vieira lazily tripped Ronaldo and received a booking, but Giggs' cross from the free kick was headed away.<ref name=lawromot>Lawrenson, Motson (2005). Events occurs from the 110th to the 114th minute; live coverage between 17:22pm and 17:28pm.</ref> Meanwhile, Manchester United's substitute goalkeeper, Howard, was seen warming up behind the goal, suggesting that he was preparing to come on for Carroll in the event of a [[penalty shootout (football)|penalty shootout]]; however, no substitution was made.<ref name=lawromot/>
+
+The referee added two minutes of injury time at the end of extra time, during which time Manchester United won another free kick, but Scholes' shot was straight at the Arsenal defensive wall.<ref name=clockwatch/> Then, with just seconds left in regulation time, Ronaldo made a break towards the Arsenal half, only to be cynically body-checked by Reyes. Referee Styles made no hesitation and showed Reyes a second yellow card, making the Spaniard the second player to be sent off in an FA Cup Final, after Manchester United's [[Kevin Moran (footballer)|Kevin Moran]] in [[1985 FA Cup final|1985]].<ref>{{cite news |title=Sent off Reyes 'will get medal' |url=https://www.mirror.co.uk/news/world-news/sent-off-reyes-will-get-medal-1608080 |newspaper=Sunday People |location=London |date=22 May 2005 |access-date=14 May 2016}}</ref> The full-time whistle went immediately after Reyes' dismissal, and the match finished at 0–0, making it the first FA Cup Final to result in a penalty shootout.<ref name=clockwatch/>
+
+====Penalty shootout====
+Van Nistelrooy took the first penalty for Manchester United, in front of the United fans, and sent Lehmann the wrong way to give United the early advantage.<ref name=clockwatch/> Lauren then converted the next penalty for Arsenal, before Scholes stepped up to take United's second, only to see it saved by Lehmann, diving low to his right.<ref name=clockwatch/> The next six penalties were all scored – Ljungberg, Van Persie and Cole for Arsenal, Ronaldo, Rooney and Keane for Manchester United – leaving Vieira with the opportunity to win the FA Cup for his team.<ref name=clockwatch/> Although Carroll guessed the correct way to dive, Vieira's kick was just out of his reach, giving Arsenal their 10th FA Cup.<ref name=clockwatch/>
+
+===Match details===
+{{football box
+|date=21 May 2005
+|time=15:00 [[Western European Summer Time|BST]]
+|team1=[[Arsenal F.C.|Arsenal]]
+|score=0–0
+|aet=yes
+|report=[https://news.bbc.co.uk/sport1/hi/football/fa_cup/4558271.stm Report]
+|team2=[[Manchester United F.C.|Manchester United]]
+|goals1=
+|goals2=
+|stadium=[[Millennium Stadium]], Cardiff
+|attendance=71,876
+|referee=[[Rob Styles]] ([[Hampshire Football Association|Hampshire]])
+|penalties1=[[Lauren (Cameroonian footballer)|Lauren]] {{pengoal}}<br />[[Freddie Ljungberg|Ljungberg]] {{pengoal}}<br />[[Robin van Persie|Van Persie]] {{pengoal}}<br />[[Ashley Cole|Cole]] {{pengoal}}<br />[[Patrick Vieira|Vieira]] {{pengoal}}
+|penaltyscore=5–4
+|penalties2={{pengoal}} [[Ruud van Nistelrooy|Van Nistelrooy]]<br />{{penmiss}} [[Paul Scholes|Scholes]]<br />{{pengoal}} [[Cristiano Ronaldo|Ronaldo]]<br />{{pengoal}} [[Wayne Rooney|Rooney]]<br />{{pengoal}} [[Roy Keane|Keane]]}}
+
+{| width=92%
+|-
+|{{Football kit 
+ | pattern_la = _arsenalh0405
+ | pattern_b  = _arsenalh0405
+ | pattern_ra = _arsenalh0405
+ | leftarm    = E20E0E
+ | body       = E20E0E
+ | rightarm   = E20E0E
+ | shorts     = FFFFFF
+ | socks      = E20E0E
+ | title      = Arsenal
+}}
+|{{Football kit
+ | pattern_la = _manutda0305
+ | pattern_b  = _manutda0305
+ | pattern_ra = _manutda0305
+ | pattern_sh = _nikeswooshwhite
+ | pattern_so = _blacktop
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Manchester United
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{fbaicon|GER}} [[Jens Lehmann]]
+|-
+|RB ||'''12'''||{{fbaicon|CMR}} [[Lauren (Cameroonian footballer)|Lauren]] || {{yel|59}}
+|-
+|CB ||'''28'''||{{fbaicon|CIV}} [[Kolo Touré]]
+|-
+|CB ||'''20'''||{{fbaicon|SUI}} [[Philippe Senderos]]
+|-
+|LB ||'''3''' ||{{fbaicon|ENG}} [[Ashley Cole]] || {{yel|16}}
+|-
+|CM ||'''15'''||{{fbaicon|ESP}} [[Cesc Fàbregas]] || || {{suboff|86}}
+|-
+|CM ||'''4''' ||{{fbaicon|FRA|1974}} [[Patrick Vieira]] ([[Captain (association football)|c]]) || {{yel|118}}
+|-
+|CM ||'''19'''||{{fbaicon|BRA}} [[Gilberto Silva]]
+|-
+|RW ||'''7''' ||{{fbaicon|FRA|1974}} [[Robert Pires]] || || {{suboff|105}}
+|-
+|LW ||'''9''' ||{{fbaicon|ESP}} [[José Antonio Reyes]] || {{sent off|2|75|120}}
+|-
+|CF ||'''10'''||{{fbaicon|NED}} [[Dennis Bergkamp]] || || {{suboff|65}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''24'''||{{fbaicon|ESP}} [[Manuel Almunia]]
+|-
+|DF ||'''23'''||{{fbaicon|ENG}} [[Sol Campbell]] 
+|-
+|MF ||'''8''' ||{{fbaicon|SWE}} [[Freddie Ljungberg]] || || {{subon|65}}
+|-
+|MF ||'''17'''||{{fbaicon|BRA}} [[Edu (footballer, born 1978)|Edu]] || || {{subon|105}}
+|-
+|FW ||'''11'''||{{fbaicon|NED}} [[Robin van Persie]] || || {{subon|86}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{fbaicon|FRA|1974}} [[Arsène Wenger]]
+|}
+|valign="top"|[[File:Arsenal vs Man Utd 2005-05-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''13'''||{{fbaicon|NIR}} [[Roy Carroll]] 
+|-
+|RB ||'''22'''||{{fbaicon|IRL}} [[John O'Shea]] || || {{suboff|77}}
+|-
+|CB ||'''5''' ||{{fbaicon|ENG}} [[Rio Ferdinand]]
+|-
+|CB ||'''6''' ||{{fbaicon|ENG}} [[Wes Brown]]
+|-
+|LB ||'''27'''||{{fbaicon|FRA|1974}} [[Mikaël Silvestre]] || {{yel|21}}
+|-
+|RM ||'''24'''||{{fbaicon|SCO}} [[Darren Fletcher]] || || {{suboff|91}}
+|-
+|CM ||'''16'''||{{fbaicon|IRL}} [[Roy Keane]] ([[Captain (association football)|c]]) 
+|-
+|CM ||'''18'''||{{fbaicon|ENG}} [[Paul Scholes]] || {{yel|112}}
+|-
+|LM ||'''7''' ||{{fbaicon|POR}} [[Cristiano Ronaldo]] 
+|-
+|SS ||'''8''' ||{{fbaicon|ENG}} [[Wayne Rooney]]
+|-
+|CF ||'''10'''||{{fbaicon|NED}} [[Ruud van Nistelrooy]]   
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{fbaicon|USA}} [[Tim Howard]] 
+|-
+|DF ||'''2''' ||{{fbaicon|ENG}} [[Gary Neville]] 
+|-
+|DF ||'''25'''||{{fbaicon|RSA}} [[Quinton Fortune]] || || {{subon|77}}
+|-
+|MF ||'''11'''||{{fbaicon|WAL}} [[Ryan Giggs]] || || {{subon|91}}
+|-
+|FW ||'''14'''||{{fbaicon|ENG}} [[Alan Smith (footballer born 1980)|Alan Smith]] 
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{fbaicon|SCO}} [[Alex Ferguson|Sir Alex Ferguson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match officials'''
+*Assistant referees:
+**Jim Devine ([[North Riding County Football Association|North Yorkshire]])
+**Paul Canadine ([[Sheffield and Hallamshire County Football Association|South Yorkshire]])
+*Fourth official: [[Neale Barry]] ([[Lincolnshire Football Association|Lincolnshire]])
+
+'''Man of the match'''
+*[[Wayne Rooney]] (Manchester United)
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes.
+*30 minutes of extra-time if necessary.
+*Penalty shootout if scores still level.
+*Five substitutes named.
+*Maximum of three substitutions.
+|}
+
+===Statistics===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col" |Statistic
+! scope="col" style="width:70px"| Arsenal
+! scope="col" style="width:70px;"| Manchester United
+|-
+!scope=row|Goals scored
+| 0
+| 0
+|-
+!scope=row|Possession
+| 56%
+| 44%
+|-
+!scope=row|Shots on target
+| 1
+| 8
+|-
+!scope=row|Shots off target
+| 4
+| 12
+|-
+!scope=row|Corner kicks
+| 1
+| 12
+|-
+!scope=row|Offsides
+| 3
+| 6
+|-
+!scope=row|Fouls
+| 30
+| 23
+|-
+!scope=row|Yellow cards
+| 3
+| 1
+|-
+!scope=row|Red cards
+| 1
+| 0
+|-
+|colspan="3"|Source:<ref>{{cite news |title=Football: Yes I know it was boring, but we won because we are united |url=http://www.thefreelibrary.com/Football%3a+Yes+I+know+it+was+boring%2c+but+we+won+because+WE+were...-a0132666696 |first=Martin |last=Lipton |newspaper=Daily Mirror |location=London |date=22 May 2005 |access-date=14 July 2014}}</ref>
+|}
+
+==Post-match==
+As the Arsenal players ran towards Vieira and Lehmann to celebrate, Ferguson and Keane were seen consoling various players and staff members.<ref name="finalfi">Lawrenson, Motson (2005). Event occurs seconds after the match concludes; live coverage between 17:49pm and 17:51pm.</ref> [[Mark Lawrenson]], the BBC's co-commentator for the final, summarised to his counterpart [[John Motson]]: "Well, we must congratulate Arsenal on the way they took the penalties – they were excellent [...] But I have to say over the course of the 120 minutes, Manchester United have been mugged."<ref name="finalfi"/>
+
+Wenger conceded his opponents were the better side, but praised his team's resolve, telling reporters: "It was important to score the first goal and with neither team scoring it remained tight for a long, long period. There were some times in the second half when we were a bit lucky but we defended very well and to keep a clean sheet is good."<ref name=arspost>{{cite news |title=Wenger proud of players after win |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4562295.stm |publisher=BBC Sport |date=21 May 2005 |access-date=24 April 2016}}</ref> He admitted his players had practised taking penalties, but was quick to point out "you don't score because of the practising – keeping your nerve is more important."<ref name=arspost/> Lehmann, who had been side-lined by Wenger during the course of the season, credited his teammates for scoring all five penalties, and described it as a "big mental achievement".<ref name=arspost/> Cole called Arsenal's win a "...great team performance, we didn't have too many chances but we defended really well and battled really hard."<ref name=arspost/> Henry, who sat out the final due to injury expressed sympathy for Manchester United, and recollected a similar experience from his early Arsenal career: "I know how they feel because [[2001 FA Cup final|we lost against Liverpool]] and did not deserve to lose. If your name is on the cup you win it."<ref name=post>{{cite news |title=Ferguson hails his Manchester United heroes |url=http://www.independent.ie/sport/soccer/ferguson-hails-his-manchester-united-heroes-26208468.html |newspaper=Sunday Independent |location=Dublin |date=22 May 2005 |access-date=24 April 2016}}</ref>
+[[File:Wayne Rooney 2.jpg|thumb|upright|200px|[[Wayne Rooney]] (pictured in 2006) was chosen as man of the match.]]
+{{Quote box|width=275px|bgcolor=#FFFFF0 |align=left|quote="The coach decided to change the system to 4–5–1. It was different. We used to win by scoring lots of goals, but this time we won by being strong mentally and defensively. The only way we were going to win this final was on penalties."|salign=left|source=[[Robert Pires]], post match<ref>{{cite news |first=Henry |last=Winter |title=Arsenal make cautious game pay |url=https://www.telegraph.co.uk/sport/football/2360037/Arsenal-make-cautious-game-pay.html |newspaper=The Daily Telegraph |location=London |date=23 May 2005 |access-date=24 April 2016}}</ref>}}
+
+Ferguson was proud of his team's performance, but admitted their failure throughout the season to convert chances into goals, had cost them once more.<ref name=post/> Of the game, he continued: "In cup football, you need a break and we didn't get one. We've had luck in the past, so you understand it can happen. It's not a nice experience but it's one you have to accept."<ref name=post/> Ferguson criticised the referee for failing to send Vieira off during extra-time as he fouled Rooney, and labelled Arsenal as "boring" for deploying negative tactics.<ref name=mupost>{{cite news |title=Ferguson accuses Arsenal's Vieira |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4561497.stm |publisher=BBC Sport |date=21 May 2005 |access-date=24 April 2016}}</ref> Keane, like his manager, rued the missed opportunities and said it was a small consolation: "We dominated but I'm sure the Arsenal players won't be too bothered about that – they've got the winners' medals and the cup and we haven't."<ref name=mupost/>
+
+Writing for ''[[The Daily Telegraph]]'', pundit [[Alan Hansen]] felt the ease in which Manchester United dominated the final and Arsenal's inability to vary tactics highlighted why Wenger needed to make changes in the close season.<ref name=hansen>{{cite news |first=Alan |last=Hansen |title=Success can't hide need for major surgery |url=https://www.telegraph.co.uk/sport/columnists/alanhansen/2360038/Success-cant-hide-need-for-major-surgery.html |newspaper=The Daily Telegraph |location=London |date=23 May 2005 |access-date=24 April 2016}}</ref> Hansen agreed with Ferguson that United's lack of goal threat cost them on the day, but felt their future was rosier than Arsenal's.<ref name=hansen/> Nonetheless, he was of the opinion that Chelsea manager [[José Mourinho]] had little to be concerned about, concluding his piece with the sentence: "A London club did come away from Cardiff as big winners but it was not Arsenal, it was Chelsea."<ref name=hansen/> In the same newspaper, [[Paul Hayward (journalist)|Paul Hayward]] praised the performances of Rooney and Ronaldo – "surely the best one-club pairing of under-21s in world football,"<ref>{{cite news |first=Paul |last=Hayward |title=Wonder boys lift United morale |url=https://www.telegraph.co.uk/sport/football/2360039/Wonder-boys-lift-United-morale.html |newspaper=The Daily Telegraph |location=London |date=23 May 2005 |access-date=24 April 2016}}</ref> while ex-Arsenal player [[Alan Smith (footballer, born 1962)|Alan Smith]] noted his former club's win demonstrated how Wenger "for the first time, practically, in his nine-year Highbury tenure, had set up his side with the opposition in mind."<ref>{{cite news |first=Alan |last=Smith |title=Wenger's changing ways |url=https://www.telegraph.co.uk/sport/columnists/alansmith/2360044/Wengers-changing-ways.html |newspaper=The Daily Telegraph |location=London |date=23 May 2005 |access-date=24 April 2016}}</ref> Capturing United's sombre mood, ''[[The Times]]'' football correspondent [[Matt Dickinson (journalist)|Matt Dickinson]] wrote: "The black shirts turned out not to be in protest at Glazer but a reflection of their mood after the first FA Cup Final to be decided by a penalty shoot-out."<ref>{{cite news |first=Matt |last=Dickinson |title=Arsenal punish United's mistakes |pages=S1–2 |newspaper=[[The Times]] |date=23 May 2005}}</ref>
+
+The match was broadcast live in the United Kingdom by both the BBC and [[Sky Sports]], with [[BBC One]] providing the free-to-air coverage and Sky Sports 1 being the pay-TV alternative.<ref>{{cite news |title=Sport on TV: The week ahead |url=https://www.mirror.co.uk/news/world-news/sport-on-tv-the-week-ahead-1607945 |newspaper=Sunday People |location=London |date=15 May 2005 |access-date=24 April 2016}}</ref> BBC One held the majority of the viewership, with a peak audience of 12.8&nbsp;million (67.1% viewing share), which made it the most-watched final in nine years.<ref name=ratings>{{cite news |title=12.8m see Arsenal lift FA Cup |url=http://www.broadcastnow.co.uk/128m-see-arsenal-lift-fa-cup/1024814.article |journal=Broadcast |publisher=Top Right Group |date=23 May 2005 |access-date=1 September 2015}} {{subscription required}}</ref> The match itself was watched by 10&nbsp;million viewers (61%), and coverage of the final averaged at 7.3&nbsp;million (50.5%).<ref name=ratings/> Viewing figures compiled by ''[[The Guardian]]'' showed the BBC's coverage was second only to ITV's broadcast of the [[2005 UEFA Champions League Final]] between [[Liverpool F.C.|Liverpool]] and [[A.C. Milan]], which amassed 13.9&nbsp;million viewers.<ref>{{cite news |first=Owen |last=Gibson |title=ITV tops 2005 sports ratings with Champions League final |url=https://www.theguardian.com/media/2005/dec/22/broadcasting.ITV |newspaper=The Guardian |location=London |date=22 December 2005 |access-date=24 April 2016}}</ref> Global audience figures for the 2005 FA Cup Final totalled 484&nbsp;million.<ref>{{cite web |title=A history of the FA Cup |url=http://www.thefa.com/TheFACup/More/History |publisher=The Football Association |access-date=18 May 2016}}</ref>
+
+==Aftermath and legacy==
+[[File:Patrick Vieira NYCFC.JPG|thumb|upright|[[Patrick Vieira]] was sold to Juventus in the summer of 2005.]]
+The 2005 final was Vieira's last match as an Arsenal player; he joined [[Juventus FC|Juventus]] in the close season for a combined total fee of €20&nbsp;million.<ref>{{cite news |title=Arsenal accept Juve's Vieira bid |url=https://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/4670829.stm |publisher=BBC Sport |date=14 July 2005 |access-date=18 May 2016}}</ref> Wenger's decision to sell his captain was made so the team could benefit from Fàbregas, who broke into the first eleven during the season.{{citation needed|date=September 2020}} In later years, Wenger deviated from his usual counter-attacking style, and imposed a fluent system, with less emphasis on physicality.<ref>{{cite news |title=Gary Neville says Arsene Wenger's transfer strategy is either naive or arrogant, criticises Alexis Sanchez and Mesut Ozil |url=http://www.foxsports.com.au/football/gary-neville-says-arsene-wengers-transfer-strategy-is-either-naive-or-arrogant-criticises-alexis-sanchez-and-mesut-ozil/news-story/f559ed84e7496c69813def81830d9012?sv=41f0ff2c37bc353f2e31855d39151807 |work=Fox Sports |date=26 August 2015 |access-date=22 May 2016}}</ref> The immediate seasons after Arsenal relocated to the [[Emirates Stadium]] in 2006 saw Wenger sell several experienced players, and integrate more young talent, as a means of fostering an identity with the club.<ref>{{cite news |title=Arsene Wenger: Success – I make it, I won't buy it |url=https://www.independent.co.uk/sport/football/premier-league/arsene-wenger-success--i-make-it-i-wont-buy-it-906388.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/premier-league/arsene-wenger-success--i-make-it-i-wont-buy-it-906388.html |archive-date=1 May 2022 |url-access=subscription |first=Glenn |last=Moore |newspaper=The Independent |location=London |date=23 August 2008 |access-date=18 May 2016}}{{cbignore}}</ref> Financing for the stadium however meant Arsenal prioritised its expenditure instead of the squad and trophies.<ref>{{cite news |title=Young guns |url=https://www.theguardian.com/football/2008/aug/31/arsenal |newspaper=The Observer |location=London |first1=Alex |last1=Fynn |first2=Kevin |last2=Whitcher |date=31 August 2008 |access-date=18 May 2016}}</ref> Though Wenger managed to solidify the club's position in the Premier League's top four and secure the necessary funds to pay back its debtors, the 2005 Cup win represented Arsenal's last silverware for nine years. In [[2014 FA Cup final|2014]], he led Arsenal to a record-equalling 11th FA Cup,<ref>{{cite news |title=Arséne Wenger savours FA Cup win over Hull as Arsenal end drought |url=https://www.theguardian.com/football/2014/may/18/arsene-wenger-fa-cup-arsenal-hull-trophy-drought|first=David |last=Hytner |newspaper=The Guardian |location=London |date=18 May 2014 |access-date=18 May 2016}}</ref> and became the record equalling most successful manager in the competition's history [[2015 FA Cup final|a year later]], as his side beat [[Aston Villa F.C.|Aston Villa]].<ref>{{cite news |first=James |last=Walker-Roberts |title=Arsenal 4–0 Aston Villa: Dominant Gunners seal record FA Cup victory |url=http://www.skysports.com/football/arsenal-vs-a-villa/334699 |publisher=Sky Sports |date=31 May 2015 |access-date=18 May 2016}}</ref>
+
+Like Arsenal, Manchester United endured a period of transition after the final. The Glazer's takeover of the club resulted in disaffected fans setting up [[F.C. United of Manchester]], which, as of 2016, has become the largest supporter-owned football club in the United Kingdom.<ref>{{cite news|url=http://www.thenonleaguefootballpaper.com/latest-news/conference-north-step-two/15437/fc-united-of-manchester-general-manager-andy-walsh-to-step-down/|title=FC United of Manchester general manager Andy Walsh to step down |last=Coney |first=Steven |date=23 March 2016|newspaper=The Non-League Paper |location=London |archive-url=https://web.archive.org/web/20160508041739/http://www.thenonleaguefootballpaper.com/latest-news/conference-north-step-two/15437/fc-united-of-manchester-general-manager-andy-walsh-to-step-down/|archive-date=8 May 2016|url-status=live|access-date=18 May 2016}}</ref> The 2005–06 season began poorly for Manchester United, as they were eliminated in the group stages of the Champions League and Ferguson was booed at after United's home loss to [[Blackburn Rovers F.C.|Blackburn Rovers]].<ref>{{cite news |first=Samuel |last=Luckhurst |title=Dismissing Keane was Sir Alex Ferguson's best decision |url=http://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-dismissing-keane-sir-10458588 |newspaper=Manchester Evening News |date=18 November 2015 |access-date=18 May 2016}}</ref> Journalist [[Henry Winter]] in December 2005 opined that Ferguson needed to resign, writing in his column: "Under Ferguson, United became football's answer to the [[The Magic Circle (organisation)|Magic Circle]]. But the magic now drains away and so, next summer, must Ferguson."<ref>{{cite news |url=https://www.telegraph.co.uk/sport/columnists/henrywinter/2369465/Ferguson-must-go-in-the-summer.html |title=Ferguson must go in the summer |newspaper=The Daily Telegraph |location=London |first=Henry |last=Winter |date=9 December 2005 |access-date=18 May 2016}}</ref> He stayed, however, and having already called time on Keane's career at United,<ref>{{cite news |title=Keane in shock exit from Man Utd |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/4449396.stm |publisher=BBC Sport |date=18 November 2005 |access-date=18 May 2016}}</ref> he began reinvigorating his squad, by signing defenders [[Nemanja Vidić]] and [[Patrice Evra]].<ref>{{cite news |first=Tim |last=Rich |title=Manchester United will not buy in January, says Sir Alex Ferguson |url=https://www.theguardian.com/football/2011/dec/16/manchester-united-sir-alex-ferguson |newspaper=The Guardian |location=London |date=16 December 2011 |access-date=18 May 2016}}</ref> United returned to the Millennium Stadium eight months after the FA Cup loss, and beat [[Wigan Athletic F.C.|Wigan Athletic]] to win the [[2006 Football League Cup Final]].<ref>{{cite news |first=Kevin |last=McCarra |title=Rooney runs amok to wreck Wigan's dream |url=https://www.theguardian.com/football/2006/feb/27/match.wiganathletic |newspaper=The Guardian |location=London |date=27 February 2006 |access-date=18 May 2016}}</ref> Ferguson guided his team to their first League title in four years the [[2006–07 FA Premier League|following season]], after stern competition from Chelsea, and won a further 13 competitive honours until his retirement in 2013.<ref>{{cite news |title=The 49 trophies of Sir Alex Ferguson – the most successful managerial career Britain has ever known |url=https://www.independent.co.uk/sport/football/premier-league/the-49-trophies-of-sir-alex-ferguson-the-most-successful-managerial-career-britain-has-ever-known-8607136.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/premier-league/the-49-trophies-of-sir-alex-ferguson-the-most-successful-managerial-career-britain-has-ever-known-8607136.html |archive-date=1 May 2022 |url-access=subscription |newspaper=The Independent |location=London |date=8 May 2013 |access-date=18 May 2016}}{{cbignore}}</ref>
+
+[[Kevin McCarra]] regards the final as a turning point in the [[Arsenal F.C.–Manchester United F.C. rivalry|rivalry between the two clubs]]: "...Arsenal and United, who could barely be prised apart in 2005, have since gone their separate ways. The signs of divergence were already apparent that afternoon."<ref>{{cite news |url=https://www.theguardian.com/sport/blog/2008/nov/08/premierleague-arsenal |title=The May day when Arsenal's and United's paths diverged |newspaper=The Guardian |location=London |first=Kevin |last=McCarra |date=8 November 2008 |access-date=18 May 2016}}</ref> The match is considered an example of Wenger setting his team up pragmatically and going against his ideals.<ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/arsenal/10758805/Arsenal-manager-Arsene-Wenger-recalls-the-day-he-played-defensively-and-won-the-FA-Cup.html |title=Arsenal manager Arsène Wenger recalls the day he played defensively and won the FA Cup |newspaper=The Daily Telegraph |location=London |first=Matt |last=Law |date=10 April 2014 |access-date=22 May 2016 |quote=At the start, I didn't set up like that and suddenly Manchester United were all over us and I realised that physically we were not able to compete, so I said, 'OK let's defend as long as we can'}}</ref> Having later asserted he would never use the 4–5–1 system again, Wenger adopted the formation for Champions League matches and his approach resulted in Arsenal reaching the [[2006 UEFA Champions League Final]].<ref>{{cite news |title=Football: The madness of King Arsene |first=Paul |last=Smith |url=http://www.thefreelibrary.com/Football%3A+The+madness+of+King+Arsene%3B+CHAMPIONS+LEAGUE+FINAL%3A+ARSENAL...-a0145740550 |newspaper=Sunday Mirror |location=London |date=14 May 2006 |access-date=14 August 2012}}</ref>
+
+==References==
+'''General'''
+*{{cite AV media |people=[[Mark Lawrenson|Lawrenson, Mark]], [[John Motson|Motson, John]] (commentators), [[Gary Lineker|Lineker, Gary]] (presenter), [[Alan Hansen|Hansen, Alan]], [[Peter Schmeichel|Schmeichel, Peter]], [[Ian Wright|Wright, Ian]] (studio guests) |date=21 May 2005 |title=[[Match of the Day|Match of the Day Live]] |trans-title=FA Cup Final – Arsenal v Manchester United |medium=Television production |publisher=BBC}}
+
+'''Specific'''
+{{Reflist}}
+
+==Further reading==
+*{{cite news |title=Arsenal/Man Utd player ratings |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4569159.stm |publisher=BBC Sport |date=21 May 2005 |access-date=15 May 2016}}
+*{{cite news |first=Jason |last=Cowley |title=Under pressure |url=https://www.theguardian.com/football/2005/may/08/europeanfootball.sport |newspaper=The Observer |location=London |date=8 May 2005 |access-date=15 May 2016}}
+
+{{FA Cup Finals}}
+{{2004–05 in English football}}
+{{Arsenal F.C. matches}}
+{{Manchester United F.C. matches}}
+
+[[Category:2004–05 in Welsh football|Fa Cup Final]]
+[[Category:FA Cup finals|2005]]
+[[Category:Arsenal F.C. matches|Fa Cup Final 2005]]
+[[Category:Manchester United F.C. matches|Fa Cup Final 2005]]
+[[Category:Arsenal F.C.–Manchester United F.C. matches|FA Cup Final 2005]]
+[[Category:2004–05 FA Cup|Final]]
+[[Category:2000s in Cardiff]]
+[[Category:May 2005 sports events in the United Kingdom]]
+[[Category:Football competitions in Cardiff]]
+[[Category:Football finals in Wales]]

@@ -1,0 +1,303 @@
+{{Short description|Final of the 2022–23 EFL Cup}}
+{{distinguish|2023 Leagues Cup final}}
+{{Use dmy dates|date=April 2024}}
+{{Infobox football match
+| title = 2023 EFL Cup final
+| image = File:London Wembley.jpg
+| caption = [[Wembley Stadium]] hosted the match
+| event = [[2022–23 EFL Cup]]
+| team1 = [[Manchester United F.C.|Manchester United]]
+| team1association = 
+| team1score = 2
+| team2 = [[Newcastle United F.C.|Newcastle United]]
+| team2score = 0
+| details = 
+| date = {{Start date|2023|2|26|df=y}}
+| stadium = [[Wembley Stadium]]
+| city = [[London]]
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Casemiro]] (Manchester United)<ref name="MOTM"/>
+| referee = [[David Coote (referee)|David Coote]] ([[Nottinghamshire County Football Association|Nottinghamshire]])<ref name="officials"/>
+| attendance = 87,306<ref name="attendance"/>
+| weather = 
+| previous = [[2022 EFL Cup final|2022]]
+| next = [[2024 EFL Cup final|2024]]
+}}
+The '''2023 EFL Cup final''' was the final of the [[2022–23 EFL Cup]]. It was played between [[Manchester United F.C.|Manchester United]] and [[Newcastle United F.C.|Newcastle United]] at [[Wembley Stadium]] in [[London]] on 26 February 2023.<ref>{{cite news |title=EFL fixture schedule: 2022/23 |url=https://www.efl.com/news/2021/november/efl-fixture-schedule-202223/ |date=15 November 2021 |access-date=20 April 2022 |publisher=English Football League|website=EFL.com}}</ref> This was Newcastle's first final since the [[1999 FA Cup final]], in which Manchester United defeated them 2–0. 
+
+Newcastle were aiming to end one of the longest trophy droughts in English football,<ref>{{Cite web |title=Last Major Trophy Won by English Clubs from 1874-2022 |url=https://www.myfootballfacts.com/england_footy/english-domestic/last-major-trophy-won-by-english-clubs/ |access-date=23 February 2023 |website=My Football Facts |language=en-US}}</ref> with their last major honour being the [[1968–69 Inter-Cities Fairs Cup]].<ref>{{Cite web|url=https://www.football365.com/news/the-big-sixs-longest-trophy-droughts-and-how-they-ended|title=Big Six longest trophy droughts and how they eventually ended as Spurs edge towards 15 years|work=Football365.com|first=Ian|last=Watson|date=10 October 2022}}</ref> However, the scoreline from 1999 was repeated, as Manchester United won their first competitive trophy since [[2017 UEFA Europa League final|2017]].<ref>{{cite web |last=McNulty |first=Phil |url=https://www.bbc.com/sport/football/64693810|title=Manchester United 2-0 Newcastle United: Erik ten Hag's side win Carabao Cup for first trophy since 2017 |work=BBC Sport|date=26 February 2023|accessdate=26 February 2023 }}</ref> Defeat meant Newcastle had lost five cup finals in a row, and their winless run at Wembley extended to 11 games, stretching back to their last win in 1955. It also meant they still had not scored in a cup final since the [[1976 Football League Cup final]]. This proved to be the last game of these runs, with Newcastle returning to win the [[2024-25 EFL Cup]].<ref>{{cite web |title=2025 Carabao Cup Final match report |url=https://www.nufc.com/2024-25html/2025-03-16liverpool-n-lcf.html |website=nufc.com}}</ref>
+
+Both clubs were allocated 867 tickets in [[safe standing]] areas of Wembley, making this the first major domestic English men's final in nearly 35 years to allow supporters to stand.<ref>{{Cite news |title=EFL Cup: Man Utd v Newcastle Utd Wembley final to have safe standing areas |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64498736 |date=2 February 2023 |access-date=2 February 2023}}</ref> On the morning of the final, the [[Metropolitan Police|Met Police]] estimated at least 100,000 Newcastle United fans, with and without tickets, were in and around Wembley.<ref name=NUFC2023>{{Cite tweet |user=SkySportsNews |number=1629796636309307392 |title="There could be up to 100,000 Newcastle United supporters in London this weekend!" The Met Police are reporting...}}</ref>
+
+==Route to the final==
+{{main|2022–23 EFL Cup}}
+
+===Manchester United===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;float:right"
+|-
+! scope="col" style="width:25px" | Round
+! scope="col" style="width:200px" | Opposition
+! scope="col" style="width:90px" | Score
+|-
+! scope="row" style="text-align:center" |3
+| [[Aston Villa F.C.|Aston Villa]] ([[Old Trafford|H]])
+| 4–2
+|-
+! scope="row" style="text-align:center" |4
+| [[Burnley F.C.|Burnley]] ([[Old Trafford|H]])
+| 2–0
+|-
+! scope="row" style="text-align:center" |QF
+| [[Charlton Athletic F.C.|Charlton Athletic]] ([[Old Trafford|H]])
+| 3–0
+|-
+! rowspan="2" scope="row" style="text-align:center" |SF
+| [[Nottingham Forest F.C.|Nottingham Forest]] ([[City Ground|A]])
+| 3–0
+|-
+| Nottingham Forest ([[Old Trafford|H]])
+| 2–0
+|-
+| colspan="3" | <small>'''Key:''' (H) = Home; (A) = Away</small>
+|}
+</div>
+As a [[Premier League]] club involved in the [[2022–23 UEFA Europa League]], Manchester United received a [[Bye (sports)|bye]] into the third round where they were drawn at home to fellow Premier League club [[Aston Villa F.C.|Aston Villa]] with the match played at [[Old Trafford]] on 10 November. Manchester United won 4–2 with goals from [[Anthony Martial]], [[Marcus Rashford]], [[Bruno Fernandes]] and [[Scott McTominay]], while the two goals for Villa came from [[Ollie Watkins]] and an [[own goal]] by [[Diogo Dalot]].<ref>{{cite news |first=Simon |last=Stone |title=Carabao Cup: Man Utd 4-2 Aston Villa: Hosts earn win after frantic second half |url=https://www.bbc.co.uk/sport/football/63494682|website=BBC Sport|date=10 November 2022|access-date=10 November 2022}}</ref> In the fourth round, Manchester United were drawn at home again to [[EFL Championship]] club [[Burnley F.C.|Burnley]], who were managed by former [[Manchester City F.C.|Manchester City]] player [[Vincent Kompany]], with the match played on 21 December. Manchester United won 2–0 with goals from [[Christian Eriksen]] and Rashford.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 2-0 Burnley: Christian Eriksen and Marcus Rashford score in EFL Cup |url=https://www.bbc.co.uk/sport/football/63967177 |website=BBC Sport |date=21 December 2022 |access-date=21 December 2022 }}</ref> In the quarter-finals, Manchester United were drawn at home to [[EFL League One]] club [[Charlton Athletic F.C.|Charlton Athletic]] with the match played on 10 January 2023. United won 3–0 with goals from [[Antony (footballer, born 2000)|Antony]] and two from Rashford.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 3-0 Charlton Athletic: Old Trafford side into Carabao Cup semi-finals |url=https://www.bbc.co.uk/sport/football/64149053 |work=BBC Sport |date=10 January 2023 |access-date=10 January 2023 }}</ref> In the semi-final, which was played over two legs, United were drawn against [[Nottingham Forest F.C.|Nottingham Forest]] with the first-leg away at the [[City Ground]] on 25 January. United took a 3–0 lead with goals from Rashford, [[Wout Weghorst]] and Fernandes.<ref>{{cite web |last=Stone |first=Simon |url=https://www.bbc.com/sport/football/64313520 |title=Nottingham Forest 0-3 Manchester United: United take control of Carabao Cup semi |work=BBC Sport|date=25 January 2023|accessdate=25 January 2023 }}</ref> The reverse fixture was played at Old Trafford on 1 February, with Manchester United winning 2–0 (5–0 on aggregate) with goals from Martial and [[Fred (footballer, born 1993)|Fred]].<ref>{{cite web |last=Stone |first=Simon |url=https://www.bbc.com/sport/football/64395351 |title=Manchester United 2-0 Nottingham Forest (5-0 on agg): United to play Newcastle in Carabao Cup final |work=BBC Sport|date=1 February 2023|accessdate=1 February 2023 }}</ref>
+
+===Newcastle United===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;float:right"
+|-
+! scope="col" style="width:25px" | Round
+! scope="col" style="width:200px" | Opposition
+! scope="col" style="width:90px" | Score
+|-
+! scope="row" style="text-align:center" |2
+| [[Tranmere Rovers F.C.|Tranmere Rovers]] ([[Prenton Park|A]])
+| 2–1
+|-
+! scope="row" style="text-align:center" |3
+| [[Crystal Palace F.C.|Crystal Palace]] ([[St James' Park|H]])
+| 0–0 (3–2 [[Penalty shoot-out (association football)|p.]])
+|-
+! scope="row" style="text-align:center" |4
+| [[AFC Bournemouth|Bournemouth]] ([[St James' Park|H]])
+| 1–0
+|-
+! scope="row" style="text-align:center" |QF
+| [[Leicester City F.C.|Leicester City]] ([[St James' Park|H]])
+| 2–0
+|-
+! rowspan="2" scope="row" style="text-align:center" |SF
+| [[Southampton F.C.|Southampton]] ([[St Mary's Stadium|A]])
+| 1–0
+|-
+| Southampton ([[St James' Park|H]])
+| 2–1
+|-
+| colspan="3" | <small>'''Key:''' (H) = Home; (A) = Away</small>
+|}
+</div>
+As a Premier League club not involved in any [[UEFA club competitions|UEFA competitions]], Newcastle United entered the cup in the second round where they were drawn away to [[EFL League Two]] club [[Tranmere Rovers F.C.|Tranmere Rovers]], with the match played at [[Prenton Park]] on 24 August 2022. Newcastle won 2–1 with goals from [[Captain (association football)|club captain]] [[Jamaal Lascelles]] and [[Chris Wood (footballer, born 1991)|Chris Wood]], after [[Elliott Nevitt]] had given Tranmere the lead.<ref>{{Cite news |title=Newcastle beat Tranmere to progress in EFL Cup |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/62571847 |access-date=1 February 2023}}</ref> In the third round, they were drawn at home to fellow Premier League club [[Crystal Palace F.C.|Crystal Palace]], with the match played at [[St James' Park]] on 9 November. The tie ended as a 0–0 draw after 90 minutes, so a [[Penalty shoot-out (association football)|penalty shoot-out]] was used to determine the outcome, with Newcastle winning 3–2 as Wood, [[Kieran Trippier]] and [[Joelinton]] converted their penalties for the home side, while [[Sven Botman]] and [[Bruno Guimarães]] missed theirs. [[Will Hughes]] and [[Joel Ward (footballer)|Joel Ward]] converted their penalties for Palace, with club captain [[Luka Milivojević]], [[Jean-Philippe Mateta]] and [[Malcolm Ebiowei]] all having theirs saved by [[Nick Pope (footballer)|Nick Pope]].<ref>{{Cite news |title=Spot-kick hero Pope sends Newcastle through |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/63481008 |access-date=1 February 2023}}</ref> In the fourth round, Newcastle were drawn at home once more to another Premier League club in [[AFC Bournemouth|Bournemouth]], with the match played on 20 December. Newcastle won 1–0 with an own goal from [[Adam Smith (footballer, born 1991)|Adam Smith]]. The match saw Newcastle manager [[Eddie Howe]] face his former club.<ref>{{Cite news |title=Newcastle edge past Bournemouth into last eight |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/63959102 |access-date=1 February 2023}}</ref> In the quarter-finals, Newcastle were drawn at home for the third consecutive round against [[Leicester City F.C.|Leicester City]], with the match played on 10 January 2023. Newcastle won 2–0 with goals from [[Dan Burn]] and Joelinton.<ref>{{Cite news |title=Newcastle beat Leicester to reach EFL Cup semis |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64149054 |access-date=1 February 2023}}</ref> In the semi-finals, which were played over two legs, Newcastle were drawn against [[Southampton F.C.|Southampton]], who had eliminated [[Manchester City F.C.|Manchester City]] in the previous round, with the first-leg played away at [[St Mary's Stadium]] on 24 January. Newcastle took a 1–0 lead in the tie with a goal from Joelinton.<ref>{{Cite news |title=Newcastle edge Saints in EFL Cup semi-final first leg |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64299708 |access-date=1 February 2023}}</ref> The second leg was played at St James' Park on 31 January, with Newcastle winning 2–1 (3–1 on aggregate) with two goals from [[Sean Longstaff]] and a consolation goal for Southampton from [[Ché Adams]]. On 18 February, Newcastle goalkeeper Pope was sent off in a Premier League match against [[Liverpool F.C.|Liverpool]], a 2–0 defeat at St. James' Park, meaning he would miss the final.<ref>{{Cite news |title=Newcastle beat Southampton to reach EFL Cup final |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/64382325 |access-date=1 February 2023}}</ref> Back-up goalkeeper [[Martin Dúbravka]] was [[cup-tied]] due to appearing for the final opponents on loan in the earlier rounds, leaving third-choice [[Loris Karius]] to make his club debut in the showpiece.<ref>{{Cite news |title=Loris Karius urged to 'rewrite the story of his career' in Carabao Cup final |first=Damian|last=Spellman|work=The Independent |url=https://www.independent.co.uk/sport/football/loris-karius-newcastle-carabao-cup-eddie-howe-b2286765.html |date=21 February 2023 |access-date=3 April 2024}}</ref>
+
+==Match==
+===Details===
+<onlyinclude>{{#invoke:football box|main
+| date = {{Start date|2023|2|26|df=y}}
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Manchester United F.C.|Manchester United]]
+| score = 2–0
+| report = https://www.efl.com/news/2023/february/manchester-united-lift-the-carabao-cup-at-wembley/
+| team2 = [[Newcastle United F.C.|Newcastle United]]
+| goals1 =
+*[[Casemiro]] {{goal|33}}
+*[[Marcus Rashford|Rashford]] {{goal|39}}
+| goals2 =
+| stadium = [[Wembley Stadium]], [[London]]
+| attendance = 87,306<ref name="attendance">{{cite web|url=https://www.skysports.com/football/manchester-united-vs-newcastle-united/481140|title=Man Utd 2–0 Newcastle: Erik ten Hag's side win Carabao Cup to end six-year trophy drought|website=Sky Sports|date=26 February 2023|access-date=26 February 2023}}</ref>
+| referee = [[David Coote (referee)|David Coote]] ([[Nottinghamshire County Football Association|Nottinghamshire]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _mufc2223h
+ |pattern_b  = _mufc2223h
+ |pattern_ra = _mufc2223h
+ |pattern_sh = _mufc2223h
+ |pattern_so = _mufc2223h2l
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Manchester United}}<ref name="kits">{{cite news |title=All you need to know ahead of the Carabao Cup Final 2023 |url=https://www.efl.com/news/2023/february/all-you-need-to-know-ahead-of-the-carabao-cup-final-2023/ |website=EFL.com |publisher=English Football League |date=25 February 2023 |accessdate=26 February 2023 }}</ref>
+}}
+|{{Football kit
+ |pattern_la = _newcastle2223h
+ |pattern_b  = _newcastle2223h
+ |pattern_ra = _newcastle2223h
+ |pattern_sh = _newcastle2223h
+ |pattern_so = _newcastle2223h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = {{nowrap|Newcastle United}}<ref name="kits"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|ESP}} [[David de Gea]] || {{yel|84}}
+|-
+|RB ||'''20'''||{{#invoke:flag|icon|POR}} [[Diogo Dalot]] || {{yel|9}} || {{suboff|46}}
+|-
+|CB ||'''19'''||{{#invoke:flag|icon|FRA}} [[Raphaël Varane]]
+|-
+|CB ||'''6''' ||{{#invoke:flag|icon|ARG}} [[Lisandro Martínez]] || {{yel|90+6}}
+|-
+|LB ||'''23'''||{{#invoke:flag|icon|ENG}} [[Luke Shaw]] || {{yel|90+1}}
+|-
+|CM ||'''18'''||{{#invoke:flag|icon|BRA}} [[Casemiro]] || {{yel|87}}
+|-
+|CM ||'''17'''||{{#invoke:flag|icon|BRA}} [[Fred (footballer, born 1993)|Fred]] || {{yel|37}} || {{suboff|69}}
+|-
+|RW ||'''21'''||{{#invoke:flag|icon|BRA}} [[Antony (footballer, born 2000)|Antony]] || || {{suboff|83}}
+|-
+|AM ||'''8''' ||{{#invoke:flag|icon|POR}} [[Bruno Fernandes]] ([[Captain (association football)|c]])
+|-
+|LW ||'''10'''||{{#invoke:flag|icon|ENG}} [[Marcus Rashford]] || || {{suboff|88}}
+|-
+|CF ||'''27'''||{{#invoke:flag|icon|NED}} [[Wout Weghorst]] || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{#invoke:flag|icon|ENG}} [[Tom Heaton]]
+|-
+|DF ||'''2''' ||{{#invoke:flag|icon|SWE}} [[Victor Lindelöf]]
+|-
+|DF ||'''5''' ||{{#invoke:flag|icon|ENG}} [[Harry Maguire]] || || {{subon|88}}
+|-
+|DF ||'''12'''||{{#invoke:flag|icon|NED}} [[Tyrell Malacia]]
+|-
+|DF ||'''29'''||{{#invoke:flag|icon|ENG}} [[Aaron Wan-Bissaka]] || || {{subon|46}}
+|-
+|MF ||'''15'''||{{#invoke:flag|icon|AUT}} [[Marcel Sabitzer]] || || {{subon|69}}
+|-
+|MF ||'''39'''||{{#invoke:flag|icon|SCO}} [[Scott McTominay]] || || {{subon|69}}
+|-
+|FW ||'''25'''||{{#invoke:flag|icon|ENG}} [[Jadon Sancho]] || || {{subon|83}}
+|-
+|FW ||'''49'''||{{#invoke:flag|icon|ARG}} [[Alejandro Garnacho]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|NED}} [[Erik ten Hag]]
+|}
+|valign="top"|[[File:Manchester United vs Newcastle United 2023-02-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''18'''||{{#invoke:flag|icon|GER}} [[Loris Karius]]
+|-
+|RB ||'''2''' ||{{#invoke:flag|icon|ENG}} [[Kieran Trippier]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||{{#invoke:flag|icon|SUI}} [[Fabian Schär]] || {{yel|90+6}}
+|-
+|CB ||'''4''' ||{{#invoke:flag|icon|NED}} [[Sven Botman]] || {{yel|67}}
+|-
+|LB ||'''33'''||{{#invoke:flag|icon|ENG}} [[Dan Burn]]
+|-
+|DM ||'''39'''||{{#invoke:flag|icon|BRA}} [[Bruno Guimarães]] || || {{suboff|78}}
+|-
+|CM ||'''36'''||{{#invoke:flag|icon|ENG}} [[Sean Longstaff]] || || {{suboff|46}}
+|-
+|CM ||'''7''' ||{{#invoke:flag|icon|BRA}} [[Joelinton]] || {{yel|45+6}}
+|-
+|RW ||'''24'''||{{#invoke:flag|icon|PAR}} [[Miguel Almirón]] || || {{suboff|90+1}}
+|-
+|LW ||'''10'''||{{#invoke:flag|icon|FRA}} [[Allan Saint-Maximin]] || || {{suboff|78}}
+|-
+|CF ||'''9''' ||{{#invoke:flag|icon|ENG}} [[Callum Wilson]] || || {{suboff|90+1}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''29'''||{{#invoke:flag|icon|ENG}} [[Mark Gillespie (footballer)|Mark Gillespie]]
+|-
+|DF ||'''6''' ||{{#invoke:flag|icon|ENG}} [[Jamaal Lascelles]]
+|-
+|DF ||'''11'''||{{#invoke:flag|icon|SCO}} [[Matt Ritchie]] || || {{subon|90+1}}
+|-
+|DF ||'''13'''||{{#invoke:flag|icon|ENG}} [[Matt Targett]]
+|-
+|DF ||'''19'''||{{#invoke:flag|icon|ESP}} [[Javier Manquillo]]
+|-
+|MF ||'''23'''||{{#invoke:flag|icon|ENG}} [[Jacob Murphy]] || || {{subon|78}}
+|-
+|MF ||'''28'''||{{#invoke:flag|icon|ENG}} [[Joe Willock]] || || {{subon|78}}
+|-
+|MF ||'''32'''||{{#invoke:flag|icon|SCO}} [[Elliot Anderson (footballer)|Elliot Anderson]] || || {{subon|90+1}}
+|-
+|FW ||'''14'''||{{#invoke:flag|icon|SWE}} [[Alexander Isak]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ENG}} [[Eddie Howe]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Casemiro]] (Manchester United)<ref name="MOTM">{{cite news |title=Casemiro wins the battle of Brazil in midfield as Man Utd edge Newcastle in EFL Cup final |first=David |last=Segar |url=https://keepup.com.au/news/casemiro-wins-the-battle-of-brazil-in-midfield-as-man-utd-edge-newcastle-in-efl-cup-final/ |website=KeepUp.com.au |publisher=Australian Professional Leagues Company |date=27 February 2023 |access-date=27 February 2023 |quote=...man of the match Casemiro largely to thank. |archive-date=27 February 2023 |archive-url=https://web.archive.org/web/20230227164817/https://keepup.com.au/news/casemiro-wins-the-battle-of-brazil-in-midfield-as-man-utd-edge-newcastle-in-efl-cup-final/ |url-status=dead }}</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials">{{cite news |title=Carabao Cup Final 2023 referee appointments |url=https://www.efl.com/news/2023/february/carabao-cup-final-2023-referee-appointments/ |website=EFL.com |publisher=English Football League |date=14 February 2023 |accessdate=16 February 2023}}</ref>{{failed verification|date=March 2024|reason=Does not list Ref Federation}}
+<br />Nick Hopton ([[Derbyshire County Football Association|Derbyshire]])
+<br />Tim Wood ([[Gloucestershire County Football Association|Gloucestershire]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>{{failed verification|date=March 2024|reason=Does not list Ref Federation}}
+<br />[[Simon Hooper]] ([[Wiltshire Football Association|Wiltshire]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>{{failed verification|date=March 2024|reason=Does not list Ref Federation}}
+<br />Nick Greenhalgh ([[Lancashire County Football Association|Lancashire]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>{{failed verification|date=March 2024|reason=Does not list Ref Federation}}
+<br />[[Peter Bankes]] ([[Liverpool County Football Association|Liverpool]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>{{failed verification|date=March 2024|reason=Does not list Ref Federation}}
+<br />Eddie Smart ([[Birmingham County Football Association|Birmingham]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''<ref>{{cite web |url=https://www.efl.com/carabao-cup/about-the-carabao-cup/carabao-cup-rules--regulations |title=Regulations |website=EFL.com |publisher=English Football League |access-date=13 January 2022 |url-status=live |archive-url=https://web.archive.org/web/20220113093144/https://www.efl.com/carabao-cup/about-the-carabao-cup/carabao-cup-rules--regulations/ |archive-date=13 January 2022}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Nine named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+<references />
+
+==External links==
+*{{Official website|https://www.efl.com/carabao-cup/}}
+
+{{EFL Cup}}
+{{2022–23 in English men's football}}
+{{Manchester United F.C. matches}}
+{{Newcastle United F.C. matches}}
+
+[[Category:EFL Cup finals]]
+[[Category:2022–23 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:February 2023 sports events in the United Kingdom|League Cup final]]
+[[Category:2023 in sport in London|League Cup final]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:Newcastle United F.C. matches|League Cup final 2023]]
+[[Category:Manchester United F.C. matches|League Cup final 2023]]

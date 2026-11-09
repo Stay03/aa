@@ -1,0 +1,499 @@
+{{Use dmy dates|date=May 2018}}
+{{Infobox football match
+| title              = 2018 UEFA Super Cup
+| image              = 2018 UEFA Super Cup programme.jpg
+| image_size         = frameless
+| caption            = Match programme cover
+| team1              = [[Real Madrid CF|Real Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 2
+| team2              = [[Atlético Madrid]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 4
+| details            = After [[Overtime (sports)#Association football|extra time]]
+| date               = {{Start date|2018|8|15|df=y}}
+| stadium            = [[Lilleküla Stadium]]
+| city               = [[Tallinn]]
+| man_of_the_match1a = [[Diego Costa]] {{nowrap|(Atlético Madrid)}}<ref name="motm">{{cite web |title=UEFA Super Cup – Real Madrid-Atlético |url=https://www.uefa.com/uefasupercup/match/2023370--real-madrid-vs-atleti/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=15 August 2018 |access-date=15 August 2018 |quote=Costa is all smiles as he receives his man of the match award}}</ref>
+| referee            = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])<ref name="officials"/>
+| attendance         = 12,424<ref name="attendance2018UEFASuperCup"/>
+| weather            = Partly cloudy<br />{{convert|18|°C|°F}}<br />71% [[humidity]]<ref name="lineup">{{cite web |title=Tactical line-ups |url=https://www.uefa.com/newsfiles/SuperCup/2018/2023370_LU.pdf |format=PDF |website=[[UEFA]] |publisher=Union of European Football Associations |date=15 August 2018 |access-date=15 August 2018}}</ref>
+| previous           = [[2017 UEFA Super Cup|2017]]
+| next               = [[2019 UEFA Super Cup|2019]]
+}}
+The '''2018 UEFA Super Cup''' was the 43rd edition of the [[UEFA Super Cup]], an annual [[association football|football]] match organised by [[UEFA]] and contested by the reigning champions of the two main European club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. The match featured two [[Royal Spanish Football Federation|Spanish]] sides, two-time defending champions [[Real Madrid CF|Real Madrid]], the winners of the [[2017–18 UEFA Champions League]], and [[Atlético Madrid]], the winners of the [[2017–18 UEFA Europa League]],<ref name="teams">{{cite web|url=https://www.uefa.com/uefasupercup/news/0250-0c5111be24ac-5a6070315cf1-1000--all-you-need-to-know-about-the-2018-uefa-super-cup/|title=Real Madrid and Atlético bound for UEFA Super Cup|publisher=[[UEFA]]|date=26 May 2018}}</ref> setting up a [[Madrid derby]], making it another time 2 teams from the same country faced each other, and the first time 2 teams from the same city clashed. It was played at the [[Lilleküla Stadium]] in [[Tallinn]], Estonia, on 15 August 2018, and was the first European club final held in Estonia.<ref name="host">{{cite web|url=https://www.uefa.com/uefasupercup/news/0250-0c5116b49745-96678288a862-1000--tallinn-to-stage-2018-uefa-super-cup/ |title=Tallinn to stage 2018 UEFA Super Cup |website=[[UEFA]] |publisher=Union of European Football Associations |date=15 September 2016 |access-date=15 September 2016}}</ref>
+
+In March 2018, UEFA announced that a [[Substitute (association football)|fourth substitution]] would be allowed in [[Overtime (sports)#Association football (soccer)|extra time]] and that the number of eligible substitutes had been increased from 7 to 12. The kick-off time was also changed from 20:45 CEST to 21:00 CEST.<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0243-0e98912b8e5f-55d54011c9cf-1000--additional-fine-tuning-of-club-competition-regulations-for-/ |title=Additional fine-tuning of club competition regulations for 2018/19 onwards |website=[[UEFA]] |publisher=Union of European Football Associations |date=27 March 2018 |access-date=27 March 2018}}</ref>
+
+Atlético Madrid won the match 4–2 after extra time for their third UEFA Super Cup title.<ref>{{cite news |url=https://www.uefa.com/uefasupercup/news/0250-0c511a04f303-e09c8992bb78-1000--uefa-super-cup-roll-of-honour-real-madrid-claim-sixth-win/ |title=UEFA Super Cup roll of honour: Atlético make it three |website=[[UEFA]] |publisher=Union of European Football Associations |date=15 August 2018 |access-date=16 August 2018}}</ref> As of 2026, it is the most recent UEFA Super Cup to have been won by the Europa League winner.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]{{sup|[[2017 UEFA Super Cup|TH]]}}
+|Winners of the [[2017–18 UEFA Champions League]]
+|6 ([[1998 UEFA Super Cup|1998]], [[2000 UEFA Super Cup|2000]], '''[[2002 UEFA Super Cup|2002]]''', '''[[2014 UEFA Super Cup|2014]]''', '''[[2016 UEFA Super Cup|2016]]''', '''[[2017 UEFA Super Cup|2017]]''')
+|-
+|{{fbaicon|ESP}} [[Atlético Madrid]]
+|Winners of the [[2017–18 UEFA Europa League]]
+|2 ('''[[2010 UEFA Super Cup|2010]]''', '''[[2012 UEFA Super Cup|2012]]''')
+|}
+
+This was the fifth all-Spanish Super Cup, and the fourth in the last five years. This was also the first Super Cup to be played by two teams from the same city. A Spanish side has appeared in the Super Cup for nine of the previous ten years. Additionally, as both teams were from Spain, the Super Cup was guaranteed to be won by a Spanish team for the ninth time in ten seasons and for five consecutive years.
+
+Real Madrid were aiming to win their fifth Super Cup, which would tie them with record-holders [[FC Barcelona|Barcelona]] and [[A.C. Milan|Milan]], while having won the last two editions, have the chance to become the first team to win three consecutive Super Cups. On the other hand, Atlético Madrid, having won the previous two Super Cups they played in, had the chance to become the first team to win their first three Super Cups.<ref>{{cite web |url=https://www.uefa.com/printoutfiles/competitions/uefasupercup/2018/e/e_2023370_pk.pdf |archive-url=https://web.archive.org/web/20180816063140/https://www.uefa.com/printoutfiles/competitions/uefasupercup/2018/e/e_2023370_pk.pdf |url-status=dead |archive-date=16 August 2018 |title=UEFA Super Cup – 2018 season: Match Press Kits |website=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=July 2018 |access-date=15 August 2018}}</ref>
+
+This was the tenth [[Madrid Derby]] match in European competitions, with all previous nine matches having been in the [[UEFA Champions League|European Cup/UEFA Champions League]]. Real Madrid held the advantage with 5 wins, 2 draws and 2 defeats, and have never been knocked out by Atlético Madrid either over two legs or in a one-match decider.
+
+==Venue==
+[[File:Alecoq vs frankfurt eintracht.png|thumb|220x220px|The [[Lilleküla Stadium]] in [[Tallinn]]]]
+The [[Lilleküla Stadium]] was announced as the final venue on 15 September 2016, following the decision of the UEFA Executive Committee meeting in [[Athens]], Greece. The stadium was known as the "Lilleküla Arena" due to UEFA's sponsorship regulations.<ref name="host"/>
+
+==Pre-match==
+
+===Ticketing===
+[[File:A. Le Coq Arena on 15.08.2018, before uefa super cup.jpg|thumb|220px|The [[Lilleküla Stadium]] in matchday.]]With a stadium capacity of 13,000 for the match, around 70% of the tickets were available to fans and the general public, available for sale to fans worldwide via UEFA.com from 5 to 26 June 2018 in three price categories: €130, €90, and €50. The remaining tickets were allocated to the local organising committee, UEFA and national associations, commercial partners and broadcasters.<ref>{{cite web|url=https://www.uefa.com/uefasupercup/news/0250-0c5111be2014-82194400ec56-1000--uefa-super-cup-tickets-have-been-allocated/|title=Apply for UEFA Super Cup tickets now|publisher=[[UEFA]]|date=5 June 2018}}</ref>
+
+===Officials===
+On 2 August 2018, UEFA announced that [[Szymon Marciniak]] of Poland would officiate the match. Marciniak has been a [[FIFA International Referees List|FIFA referee]] since 2011, and officiated at [[UEFA Euro 2016]] and the [[2018 FIFA World Cup]]. He was joined by his fellow countrymen, with Paweł Sokolnicki and Tomasz Listkiewicz as assistant referees, [[Paweł Raczkowski]] and Tomasz Musiał as additional assistant referees, and Radosław Siejka as reserve assistant referee. The fourth official for the match was Romanian [[Ovidiu Hațegan]].<ref name="officials">{{cite news |url=https://www.uefa.com/insideuefa/about-uefa/news/newsid=2565020.html |title=Szymon Marciniak to referee 2018 UEFA Super Cup |website=[[UEFA]] |publisher=Union of European Football Associations |date=2 August 2018 |access-date=2 August 2018}}</ref>
+
+==Match==
+[[File:A. Le Coq Arena on 15.08.2018, uefa super cup.jpg|thumb|220px|The match]]
+
+===Details===
+The Champions League winners were designated as the "home" team for administrative purposes.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2018|8|15|df=y}}
+|time       = {{CEST|21:00|localtz=EEST}}<!--21:00 CEST, 22:00 EEST-->
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 2–4
+|aet        = yes
+|team2      = {{fbaicon|ESP}} [[Atlético Madrid]]
+|goals1     =
+*[[Karim Benzema|Benzema]] {{goal|27}}
+*[[Sergio Ramos|Ramos]] {{goal|63|pen.}}
+|goals2     =
+*[[Diego Costa|Costa]] {{goal|1||79}}
+*[[Saúl Ñíguez|Saúl]] {{goal|98}}
+*[[Koke (footballer, born 1992)|Koke]] {{goal|104}}
+|stadium    = [[Lilleküla Stadium]], [[Tallinn]]
+|attendance = 12,424<ref name="attendance2018UEFASuperCup">{{cite web |url=https://int.soccerway.com/matches/2018/08/15/europe/uefa-super-cup/real-madrid-club-de-futbol/club-atletico-de-madrid/2788991/ |title=Real Madrid vs. Atlético Madrid – 15 August 2018 |website=Soccerway |publisher=[[Perform Group]] |date=15 August 2018 |access-date=15 August 2018 |url-status=dead |archive-url=https://web.archive.org/web/20190715160246/https://int.soccerway.com/matches/2018/08/15/europe/uefa-super-cup/real-madrid-club-de-futbol/club-atletico-de-madrid/2788991/ |archive-date=15 July 2019}}</ref>
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefasupercup/match/<!--round=2000970/match=-->2023370/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _realmadrid1819h
+ |pattern_b  = _realmadrid1819H
+ |pattern_ra = _realmadrid1819h
+ |pattern_sh = _realmadrid1819h
+ |pattern_so = _realmadrid1819h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Real Madrid}}<ref name="lineup"/>
+}}
+|{{Football kit
+ |pattern_la = _atlmadrid1819H
+ |pattern_b  = _cadm1819H
+ |pattern_ra = _atlmadrid1819H
+ |pattern_sh = _cadm1819h
+ |pattern_so = _cadm1819h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = 0202A2
+ |socks      = FF0000
+ |title      = {{nowrap|Atlético Madrid}}<ref name="lineup"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CRC}} [[Keylor Navas]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Dani Carvajal]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Sergio Ramos]] ([[Captain (association football)|c]]) || {{yel|112}}
+|-
+|CB ||'''5''' ||{{flagicon|FRA|1974}} [[Raphaël Varane]]
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]] || {{yel|54}}
+|-
+|DM ||'''14'''||{{flagicon|BRA}} [[Casemiro]] || || {{suboff|76}}
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]] || || {{suboff|102}}
+|-
+|CM ||'''22'''||{{flagicon|ESP}} [[Isco]] || || {{suboff|83}}
+|-
+|RF ||'''11'''||{{flagicon|WAL}} [[Gareth Bale]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Karim Benzema]]
+|-
+|LF ||'''20'''||{{flagicon|ESP}} [[Marco Asensio]] || {{yel|35}} || {{suboff|57}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Kiko Casilla]]
+|-
+|GK ||'''26'''||{{flagicon|UKR}} [[Andriy Lunin]]
+|-
+|DF ||'''6''' ||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]]
+|-
+|DF ||'''29'''||{{flagicon|ESP}} [[Sergio Reguilón]]
+|-
+|DF ||'''31'''||{{flagicon|ESP}} [[Javi Sánchez (footballer)|Javi Sánchez]]
+|-
+|MF ||'''10'''||{{flagicon|CRO}} [[Luka Modrić]] || {{yel|101}} || {{subon|57}}
+|-
+|MF ||'''18'''||{{flagicon|ESP}} [[Marcos Llorente]]
+|-
+|MF ||'''24'''||{{flagicon|ESP}} [[Dani Ceballos]] || {{yel|90+1}} || {{subon|76}}
+|-
+|MF ||'''27'''||{{flagicon|URU}} [[Federico Valverde]]
+|-
+|FW ||'''17'''||{{flagicon|ESP}} [[Lucas Vázquez]] || || {{subon|83}}
+|-
+|FW ||'''21'''||{{flagicon|ESP}} [[Borja Mayoral]] || || {{subon|102}}
+|-
+|FW ||'''28'''||{{flagicon|BRA}} [[Vinícius Júnior]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Julen Lopetegui]]
+|}
+|valign="top"|[[File:Real Madrid vs Atlético Madrid 2018-08-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|SVN}} [[Jan Oblak]]
+|-
+|RB ||'''20'''||{{flagicon|ESP}} [[Juanfran (footballer, born 1985)|Juanfran]]
+|-
+|CB ||'''15'''||{{flagicon|MNE}} [[Stefan Savić]]
+|-
+|CB ||'''2''' ||{{flagicon|URU}} [[Diego Godín]] ([[Captain (association football)|c]])
+|-
+|LB ||'''21'''||{{flagicon|FRA|1974}} [[Lucas Hernandez]]
+|-
+|RM ||'''11'''||{{flagicon|FRA|1974}} [[Thomas Lemar]] || || {{suboff|90+1}}
+|-
+|CM ||'''14'''||{{flagicon|ESP}} [[Rodri (footballer, born 1996)|Rodri]] || || {{suboff|71}}
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Saúl Ñíguez|Saúl]]
+|-
+|LM ||'''6''' ||{{flagicon|ESP}} [[Koke (footballer, born 1992)|Koke]]
+|-
+|CF ||'''19'''||{{flagicon|ESP}} [[Diego Costa]] || {{yel|62}} || {{suboff|109}}
+|-
+|CF ||'''7''' ||{{flagicon|FRA|1974}} [[Antoine Griezmann]] || || {{suboff|57}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Antonio Adán]]
+|-
+|GK ||'''37'''||{{flagicon|ESP}} [[Álex dos Santos]]
+|-
+|DF ||'''3''' ||{{flagicon|BRA}} [[Filipe Luís]]
+|-
+|DF ||'''4''' ||{{flagicon|COL}} [[Santiago Arias]]
+|-
+|DF ||'''24'''||{{flagicon|URU}} [[José María Giménez|José Giménez]] || || {{subon|109}}
+|-
+|MF ||'''5''' ||{{flagicon|GHA}} [[Thomas Partey]] || || {{subon|90+1}}
+|-
+|MF ||'''18'''||{{flagicon|POR}} [[Gelson Martins]]
+|-
+|MF ||'''23'''||{{flagicon|ESP}} [[Vitolo (footballer, born 1989)|Vitolo]] || {{yel|105+3}} || {{subon|71}}
+|-
+|MF ||'''30'''||{{flagicon|ESP}} [[Roberto Olabe (footballer, born 1996)|Roberto Olabe]]
+|-
+|FW ||'''9''' ||{{flagicon|CRO}} [[Nikola Kalinić (footballer)|Nikola Kalinić]]
+|-
+|FW ||'''10'''||{{flagicon|ARG}} [[Ángel Correa]] || {{yel|60}} || {{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Germán Burgos]]{{refn|group=note|Atlético Madrid manager [[Diego Simeone]] was given a four-match touchline ban in UEFA competitions following the [[2017–18 UEFA Europa League knockout phase#Arsenal v Atlético Madrid|2017–18 UEFA Europa League semi-final first leg]]. Assistant manager [[Germán Burgos]] filled in as manager.<ref>{{cite news |url=http://www.espn.com/soccer/atletico-madrid/story/3483214/diego-simeone-handed-europa-league-final-touchline-ban |title=Diego Simeone handed Europa League final touchline ban |publisher=ESPN |date=4 May 2018 |access-date=15 August 2018}}</ref>}}
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Diego Costa]] (Atlético Madrid)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Paweł Sokolnicki ([[Polish Football Association|Poland]])
+<br />[[Tomasz Listkiewicz]] ([[Polish Football Association|Poland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="officials"/>
+<br />[[Paweł Raczkowski]] ([[Polish Football Association|Poland]])
+<br />Tomasz Musiał ([[Polish Football Association|Poland]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Radosław Siejka ([[Polish Football Association|Poland]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/55/82/87/2558287_DOWNLOAD.pdf |title=2018 UEFA Super Cup regulations |website=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=10 May 2018 |access-date=12 May 2018 |url-status=dead |archive-url=https://web.archive.org/web/20181023125725/https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/55/82/87/2558287_DOWNLOAD.pdf |archive-date=23 October 2018}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of three substitutions, with a fourth allowed in extra time.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team_statistics">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2018/2023370_TS.pdf |title=Team statistics |website=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=15 August 2018 |access-date=15 August 2018 |url-status=live |archive-url=https://web.archive.org/web/20240617222846/https://www.uefa.com/newsfiles/SuperCup/2018/2023370_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|6
+|3
+|-
+!scope=row|Shots on target
+|2
+|2
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|2
+|3
+|-
+!scope=row|Fouls committed
+|7
+|6
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|5
+|2
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|0
+|1
+|-
+!scope=row|Ball possession
+|46%
+|54%
+|-
+!scope=row|Corner kicks
+|3
+|0
+|-
+!scope=row|Fouls committed
+|10
+|8
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|0
+|2
+|-
+!scope=row|Total shots
+|3
+|3
+|-
+!scope=row|Shots on target
+|2
+|2
+|-
+!scope=row|Saves
+|0
+|1
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|7
+|1
+|-
+!scope=row|Fouls committed
+|8
+|3
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|2
+|4
+|-
+!scope=row|Total shots
+|14
+|8
+|-
+!scope=row|Shots on target
+|6
+|5
+|-
+!scope=row|Saves
+|1
+|3
+|-
+!scope=row|Ball possession
+|54%
+|46%
+|-
+!scope=row|Corner kicks
+|12
+|4
+|-
+!scope=row|Fouls committed
+|25
+|17
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|5
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2014 UEFA Champions League final]] – contested by the same sides
+*[[2016 UEFA Champions League final]] – contested by the same sides 
+*[[2018 UEFA Champions League final]]
+*[[2018 UEFA Europa League final]]
+*[[2018–19 UEFA Champions League]]
+*[[2018–19 UEFA Europa League]]
+*[[2018–19 Atlético Madrid season]]
+*[[2018–19 Real Madrid CF season]]
+*[[Atlético Madrid in European football]]
+*[[Real Madrid CF in international football]]
+*[[Spanish football clubs in international competitions]]
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Official website|https://www.uefa.com/uefasupercup/}}
+*[https://www.uefa.com/uefasupercup/history/2018 2018 UEFA Super Cup: Tallinn], UEFA.com
+*[https://www.uefa.com/newsfiles/SuperCup/2018/2023370_FR.pdf Full Time Report], UEFA.com
+
+{{UEFA Super Cup}}
+{{2018–19 in European football (UEFA)}}
+{{2018–19 European club competitions}}
+{{Real Madrid CF matches}}
+{{Atlético Madrid matches}}
+
+{{DEFAULTSORT:Uefa Super Cup 2018}}
+[[Category:UEFA Super Cup matches|2018]]
+[[Category:Sports competitions in Tallinn|Super Cup 2018]]
+[[Category:2018 in Estonian football|Super Cup]]
+[[Category:Real Madrid CF matches]]
+[[Category:Atlético Madrid matches]]
+[[Category:2018–19 in Spanish men's football]]
+[[Category:August 2018 sports events in Europe]]
+[[Category:2010s in Tallinn]]
+[[Category:Madrid derby matches]]
+[[Category:Spanish football clubs in international competitions]]
+[[Category:2018–19 in European men's continental football]]
+[[Category:Football matches in Estonia]]

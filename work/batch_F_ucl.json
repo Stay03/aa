@@ -1,0 +1,1433 @@
+[
+ {
+  "article": "1999 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Manchester United",
+  "team2": "Bayern Munich",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Sheringham",
+    "minute": "90+1",
+    "note": ""
+   },
+   {
+    "player": "Solskjær",
+    "minute": "90+3",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Basler",
+    "minute": "6",
+    "note": ""
+   }
+  ],
+  "stadium": "Camp Nou, Barcelona",
+  "attendance": "90,245",
+  "referee": "Pierluigi Collina (Italy)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefachampionsleague/match/56379/",
+  "manager1": "Alex Ferguson",
+  "cards1": [],
+  "manager2": "Ottmar Hitzfeld",
+  "cards2": [
+   {
+    "player": "Stefan Effenberg",
+    "type": "Y",
+    "minute": "60"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Gennaro Mazzei (Italy); Claudio Puglisi (Italy)",
+   "Fourth official": "Fiorenzo Treossi (Italy) |style"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2005 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Milan",
+  "team2": "Liverpool",
+  "score_raw": "3–3",
+  "aet": "yes",
+  "penaltyscore": "2–3",
+  "goals1": [
+   {
+    "player": "Maldini",
+    "minute": "1",
+    "note": ""
+   },
+   {
+    "player": "Crespo",
+    "minute": "39",
+    "note": ""
+   },
+   {
+    "player": "Crespo",
+    "minute": "44",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Gerrard",
+    "minute": "54",
+    "note": ""
+   },
+   {
+    "player": "Šmicer",
+    "minute": "56",
+    "note": ""
+   },
+   {
+    "player": "Alonso",
+    "minute": "60",
+    "note": ""
+   }
+  ],
+  "stadium": "Atatürk Olympic Stadium, Istanbul",
+  "attendance": "69,000",
+  "referee": "Manuel Mejuto González (Spain)",
+  "penalties1": "Serginho Pirlo Tomasson Kaká Shevchenko",
+  "penalties2": "Hamann Cissé Riise Šmicer",
+  "report": "https://www.uefa.com/uefachampionsleague/match/80813/",
+  "manager1": "Carlo Ancelotti",
+  "cards1": [],
+  "manager2": "Rafael Benítez",
+  "cards2": [
+   {
+    "player": "Jamie Carragher",
+    "type": "Y",
+    "minute": "75"
+   },
+   {
+    "player": "Milan Baroš",
+    "type": "Y",
+    "minute": "81"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Clemente Plou (Spain); Oscar Samaniego (Spain)",
+   "Fourth official": "Arturo Dauden Ibáñez (Spain) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "3",
+    "3"
+   ],
+   "Total shots": [
+    "22",
+    "15"
+   ],
+   "Shots on target": [
+    "10",
+    "7"
+   ],
+   "Ball possession": [
+    "55%",
+    "45%"
+   ],
+   "Corner kicks": [
+    "10",
+    "4"
+   ],
+   "Fouls committed": [
+    "16",
+    "23"
+   ],
+   "Offsides": [
+    "7",
+    "5"
+   ],
+   "Yellow cards": [
+    "0",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2006 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Barcelona",
+  "team2": "Arsenal",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Eto'o",
+    "minute": "76",
+    "note": ""
+   },
+   {
+    "player": "Belletti",
+    "minute": "80",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Campbell",
+    "minute": "37",
+    "note": ""
+   }
+  ],
+  "stadium": "Stade de France, Saint-Denis",
+  "attendance": "79,610",
+  "referee": "Terje Hauge (Norway)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefachampionsleague/match/84101/",
+  "manager1": "Frank Rijkaard",
+  "cards1": [
+   {
+    "player": "Oleguer",
+    "type": "Y",
+    "minute": "69"
+   },
+   {
+    "player": "Henrik Larsson",
+    "type": "Y",
+    "minute": "90+3"
+   }
+  ],
+  "manager2": "Arsène Wenger",
+  "cards2": [
+   {
+    "player": "Jens Lehmann",
+    "type": "R",
+    "minute": "18"
+   },
+   {
+    "player": "Emmanuel Eboué",
+    "type": "Y",
+    "minute": "22"
+   },
+   {
+    "player": "Thierry Henry",
+    "type": "Y",
+    "minute": "51"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Steinar Holvik (Norway); Arild Sundet (Norway)",
+   "Fourth official": "Tom Henning Øvrebø (Norway) |}"
+  },
+  "stats": {
+   "Goals scored": [
+    "2",
+    "1"
+   ],
+   "Total shots": [
+    "20",
+    "8"
+   ],
+   "Shots on target": [
+    "9",
+    "5"
+   ],
+   "Saves": [
+    "4",
+    "7"
+   ],
+   "Ball possession": [
+    "64%",
+    "36%"
+   ],
+   "Corner kicks": [
+    "3",
+    "4"
+   ],
+   "Fouls committed": [
+    "20",
+    "16"
+   ],
+   "Offsides": [
+    "1",
+    "1"
+   ],
+   "Yellow cards": [
+    "2",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "1"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2007 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Milan",
+  "team2": "Liverpool",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Inzaghi",
+    "minute": "45",
+    "note": ""
+   },
+   {
+    "player": "Inzaghi",
+    "minute": "82",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Kuyt",
+    "minute": "89",
+    "note": ""
+   }
+  ],
+  "stadium": "Olympic Stadium, Athens",
+  "attendance": "63,000",
+  "referee": "Herbert Fandel (Germany)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefachampionsleague/match/300099/",
+  "manager1": "Carlo Ancelotti",
+  "cards1": [
+   {
+    "player": "Marek Jankulovski",
+    "type": "Y",
+    "minute": "54"
+   },
+   {
+    "player": "Gennaro Gattuso",
+    "type": "Y",
+    "minute": "40"
+   }
+  ],
+  "manager2": "Rafael Benítez",
+  "cards2": [
+   {
+    "player": "Jamie Carragher",
+    "type": "Y",
+    "minute": "60"
+   },
+   {
+    "player": "Javier Mascherano",
+    "type": "Y",
+    "minute": "58"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Carsten Kadach (Germany); Volker Wezel (Germany)",
+   "Fourth official": "Florian Meyer (Germany) |width=50% valign=top|"
+  },
+  "stats": {
+   "Goals scored": [
+    "2",
+    "1"
+   ],
+   "Total shots": [
+    "5",
+    "12"
+   ],
+   "Shots on target": [
+    "3",
+    "4"
+   ],
+   "Saves": [
+    "3",
+    "1"
+   ],
+   "Ball possession": [
+    "53%",
+    "47%"
+   ],
+   "Corner kicks": [
+    "4",
+    "6"
+   ],
+   "Fouls committed": [
+    "15",
+    "27"
+   ],
+   "Offsides": [
+    "3",
+    "3"
+   ],
+   "Yellow cards": [
+    "2",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2008 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Manchester United",
+  "team2": "Chelsea",
+  "score_raw": "1–1",
+  "aet": "yes",
+  "penaltyscore": "6–5",
+  "goals1": [
+   {
+    "player": "Ronaldo",
+    "minute": "26",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Lampard",
+    "minute": "45",
+    "note": ""
+   }
+  ],
+  "stadium": "Luzhniki Stadium, Moscow",
+  "attendance": "67,310",
+  "referee": "Ľuboš Micheľ (Slovakia)",
+  "penalties1": "Tevez Carrick Ronaldo Hargreaves Nani Anderson Giggs",
+  "penalties2": "Ballack Belletti Lampard A. Cole Terry Kalou Anelka",
+  "report": "https://www.uefa.com/uefachampionsleague/match/301604/",
+  "manager1": "Sir Alex Ferguson",
+  "cards1": [
+   {
+    "player": "Rio Ferdinand",
+    "type": "Y",
+    "minute": "43"
+   },
+   {
+    "player": "Nemanja Vidić",
+    "type": "Y",
+    "minute": "111"
+   },
+   {
+    "player": "Paul Scholes",
+    "type": "Y",
+    "minute": "21"
+   },
+   {
+    "player": "Carlos Tevez",
+    "type": "Y",
+    "minute": "116"
+   }
+  ],
+  "manager2": "Avram Grant",
+  "cards2": [
+   {
+    "player": "Michael Essien",
+    "type": "Y",
+    "minute": "118"
+   },
+   {
+    "player": "Ricardo Carvalho",
+    "type": "Y",
+    "minute": "45+2"
+   },
+   {
+    "player": "Claude Makélélé",
+    "type": "Y",
+    "minute": "21"
+   },
+   {
+    "player": "Michael Ballack",
+    "type": "Y",
+    "minute": "116"
+   },
+   {
+    "player": "Didier Drogba",
+    "type": "R",
+    "minute": "116"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Roman Slyško (Slovakia); Martin Balko (Slovakia)",
+   "Fourth official": "Vladimir Hriňák (Slovakia) |}"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "1"
+   ],
+   "Total shots": [
+    "12",
+    "24"
+   ],
+   "Shots on target": [
+    "5",
+    "3"
+   ],
+   "Saves": [
+    "1",
+    "4"
+   ],
+   "Ball possession": [
+    "58%",
+    "42%"
+   ],
+   "Corner kicks": [
+    "5",
+    "8"
+   ],
+   "Fouls committed": [
+    "22",
+    "25"
+   ],
+   "Offsides": [
+    "1",
+    "2"
+   ],
+   "Yellow cards": [
+    "4",
+    "4"
+   ],
+   "Red cards": [
+    "0",
+    "1"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2009 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Barcelona",
+  "team2": "Manchester United",
+  "score_raw": "2–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Eto'o",
+    "minute": "10",
+    "note": ""
+   },
+   {
+    "player": "Messi",
+    "minute": "70",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Stadio Olimpico, Rome",
+  "attendance": "62,467",
+  "referee": "Massimo Busacca (Switzerland)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefachampionsleague/match/302813/",
+  "manager1": "Pep Guardiola",
+  "cards1": [
+   {
+    "player": "Gerard Piqué",
+    "type": "Y",
+    "minute": "16"
+   }
+  ],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Nemanja Vidić",
+    "type": "Y",
+    "minute": "90+3"
+   },
+   {
+    "player": "Cristiano Ronaldo",
+    "type": "Y",
+    "minute": "78"
+   },
+   {
+    "player": "Paul Scholes",
+    "type": "Y",
+    "minute": "81"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Matthias Arnet (Switzerland); Francesco Buragina (Switzerland)",
+   "Fourth official": "Claudio Circhetta (Switzerland) |}"
+  },
+  "stats": {
+   "Goals scored": [
+    "2",
+    "0"
+   ],
+   "Total shots": [
+    "11",
+    "12"
+   ],
+   "Shots on target": [
+    "8",
+    "2"
+   ],
+   "Saves": [
+    "2",
+    "5"
+   ],
+   "Ball possession": [
+    "51%",
+    "49%"
+   ],
+   "Corner kicks": [
+    "4",
+    "7"
+   ],
+   "Fouls committed": [
+    "7",
+    "10"
+   ],
+   "Offsides": [
+    "2",
+    "5"
+   ],
+   "Yellow cards": [
+    "1",
+    "3"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2011 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Barcelona",
+  "team2": "Manchester United",
+  "score_raw": "3–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Pedro",
+    "minute": "27",
+    "note": ""
+   },
+   {
+    "player": "Messi",
+    "minute": "54",
+    "note": ""
+   },
+   {
+    "player": "Villa",
+    "minute": "69",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Rooney",
+    "minute": "34",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "87,695",
+  "referee": "Viktor Kassai (Hungary)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefachampionsleague/match/2003352/",
+  "manager1": "Pep Guardiola",
+  "cards1": [
+   {
+    "player": "Víctor Valdés",
+    "type": "Y",
+    "minute": "85"
+   },
+   {
+    "player": "Dani Alves",
+    "type": "Y",
+    "minute": "60"
+   }
+  ],
+  "manager2": "Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Antonio Valencia",
+    "type": "Y",
+    "minute": "79"
+   },
+   {
+    "player": "Michael Carrick",
+    "type": "Y",
+    "minute": "61"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Gábor Erős (Hungary); György Ring (Hungary)",
+   "Fourth official": "István Vad (Hungary)",
+   "Additional assistant referees": "Mihály Fábián (Hungary); Tamás Bognár (Hungary)",
+   "Reserve assistant referee": "Robert Kispál (Hungary) |}"
+  },
+  "stats": {
+   "Goals scored": [
+    "3",
+    "1"
+   ],
+   "Total shots": [
+    "19",
+    "4"
+   ],
+   "Shots on target": [
+    "12",
+    "1"
+   ],
+   "Saves": [
+    "0",
+    "8"
+   ],
+   "Ball possession": [
+    "63%",
+    "37%"
+   ],
+   "Corner kicks": [
+    "6",
+    "0"
+   ],
+   "Fouls committed": [
+    "5",
+    "16"
+   ],
+   "Offsides": [
+    "1",
+    "5"
+   ],
+   "Yellow cards": [
+    "2",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2012 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Bayern Munich",
+  "team2": "Chelsea",
+  "score_raw": "1–1",
+  "aet": "yes",
+  "penaltyscore": "3–4",
+  "goals1": [
+   {
+    "player": "Müller",
+    "minute": "83",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Drogba",
+    "minute": "88",
+    "note": ""
+   }
+  ],
+  "stadium": "Allianz Arena, Munich",
+  "attendance": "62,500",
+  "referee": "Pedro Proença (Portugal)",
+  "penalties1": "Lahm Gómez Neuer Olić Schweinsteiger",
+  "penalties2": "Mata David Luiz Lampard Cole Drogba",
+  "report": "https://www.uefa.com/uefachampionsleague/match/2007693/",
+  "manager1": "Jupp Heynckes",
+  "cards1": [
+   {
+    "player": "Bastian Schweinsteiger",
+    "type": "Y",
+    "minute": "2"
+   }
+  ],
+  "manager2": "Roberto Di Matteo",
+  "cards2": [
+   {
+    "player": "David Luiz",
+    "type": "Y",
+    "minute": "86"
+   },
+   {
+    "player": "Ashley Cole",
+    "type": "Y",
+    "minute": "81"
+   },
+   {
+    "player": "Didier Drogba",
+    "type": "Y",
+    "minute": "93"
+   },
+   {
+    "player": "Fernando Torres",
+    "type": "Y",
+    "minute": "120"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Bertino Miranda (Portugal); Ricardo Santos (Portugal)",
+   "Fourth official": "Carlos Velasco Carballo (Spain)",
+   "Additional assistant referees": "Jorge Sousa (Portugal); Duarte Gomes (Portugal)",
+   "Reserve assistant referee": "Tiago Trigo (Portugal) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "1"
+   ],
+   "Total shots": [
+    "43",
+    "9"
+   ],
+   "Shots on target": [
+    "7",
+    "3"
+   ],
+   "Saves": [
+    "2",
+    "6"
+   ],
+   "Ball possession": [
+    "56%",
+    "44%"
+   ],
+   "Corner kicks": [
+    "20",
+    "1"
+   ],
+   "Fouls committed": [
+    "14",
+    "26"
+   ],
+   "Offsides": [
+    "1",
+    "2"
+   ],
+   "Yellow cards": [
+    "1",
+    "4"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2018 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Real Madrid",
+  "team2": "Liverpool",
+  "score_raw": "3–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Benzema",
+    "minute": "51",
+    "note": ""
+   },
+   {
+    "player": "Bale",
+    "minute": "63",
+    "note": ""
+   },
+   {
+    "player": "Bale",
+    "minute": "83",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Mané",
+    "minute": "55",
+    "note": ""
+   }
+  ],
+  "stadium": "NSC Olimpiyskiy, Kyiv",
+  "attendance": "61,561",
+  "referee": "Milorad Mažić (Serbia)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefachampionsleague/match/2021711/",
+  "manager1": "Zinedine Zidane",
+  "cards1": [],
+  "manager2": "Jürgen Klopp",
+  "cards2": [
+   {
+    "player": "Sadio Mané",
+    "type": "Y",
+    "minute": "82"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Milovan Ristić (Serbia); Dalibor Đurđević (Serbia)",
+   "Fourth official": "Clément Turpin (France)",
+   "Additional assistant referees": "Nenad Đokić (Serbia); Danilo Grujić (Serbia)",
+   "Reserve assistant referee": "Nemanja Petrović (Serbia) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "3",
+    "1"
+   ],
+   "Total shots": [
+    "12",
+    "12"
+   ],
+   "Shots on target": [
+    "5",
+    "2"
+   ],
+   "Saves": [
+    "1",
+    "2"
+   ],
+   "Ball possession": [
+    "62%",
+    "38%"
+   ],
+   "Corner kicks": [
+    "9",
+    "5"
+   ],
+   "Fouls committed": [
+    "5",
+    "18"
+   ],
+   "Offsides": [
+    "7",
+    "3"
+   ],
+   "Yellow cards": [
+    "0",
+    "1"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2019 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Tottenham Hotspur",
+  "team2": "Liverpool",
+  "score_raw": "0–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Salah",
+    "minute": "2",
+    "note": "pen."
+   },
+   {
+    "player": "Origi",
+    "minute": "87",
+    "note": ""
+   }
+  ],
+  "stadium": "Estadio Metropolitano, Madrid",
+  "attendance": "63,272",
+  "referee": "Damir Skomina (Slovenia)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefachampionsleague/match/2025486/",
+  "manager1": "Mauricio Pochettino",
+  "cards1": [],
+  "manager2": "Jürgen Klopp",
+  "cards2": [],
+  "officials": {
+   "Assistant referees": "Jure Praprotnik (Slovenia); Robert Vukan (Slovenia)",
+   "Fourth official": "Antonio Mateu Lahoz (Spain)",
+   "Video assistant referee": "Danny Makkelie (Netherlands)",
+   "Assistant video assistant referees": "Pol van Boekel (Netherlands); Felix Zwayer (Germany)",
+   "Offside video assistant referee": "Mark Borsch (Germany) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "0",
+    "2"
+   ],
+   "Total shots": [
+    "16",
+    "14"
+   ],
+   "Shots on target": [
+    "8",
+    "3"
+   ],
+   "Saves": [
+    "1",
+    "8"
+   ],
+   "Ball possession": [
+    "61%",
+    "39%"
+   ],
+   "Corner kicks": [
+    "8",
+    "9"
+   ],
+   "Fouls committed": [
+    "5",
+    "6"
+   ],
+   "Offsides": [
+    "3",
+    "2"
+   ],
+   "Yellow cards": [
+    "0",
+    "0"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2021 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Manchester City",
+  "team2": "Chelsea",
+  "score_raw": "0–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Havertz",
+    "minute": "42",
+    "note": ""
+   }
+  ],
+  "stadium": "Estádio do Dragão, Porto",
+  "attendance": "14,110",
+  "referee": "Antonio Mateu Lahoz (Spain)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefachampionsleague/match/2029498/",
+  "manager1": "Pep Guardiola",
+  "cards1": [
+   {
+    "player": "İlkay Gündoğan",
+    "type": "Y",
+    "minute": "35"
+   },
+   {
+    "player": "Gabriel Jesus",
+    "type": "Y",
+    "minute": "88"
+   }
+  ],
+  "manager2": "Thomas Tuchel",
+  "cards2": [
+   {
+    "player": "Antonio Rüdiger",
+    "type": "Y",
+    "minute": "57"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Pau Cebrián Devís (Spain); Roberto Díaz Pérez del Palomar (Spain)",
+   "Fourth official": "Carlos del Cerro Grande (Spain)",
+   "Video assistant referee": "Alejandro Hernández Hernández (Spain)",
+   "Assistant video assistant referees": "Juan Martínez Munuera (Spain); Íñigo Prieto López de Cerain (Spain); Paweł Gil (Poland) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "0",
+    "1"
+   ],
+   "Total shots": [
+    "7",
+    "8"
+   ],
+   "Shots on target": [
+    "1",
+    "2"
+   ],
+   "Saves": [
+    "1",
+    "1"
+   ],
+   "Ball possession": [
+    "58%",
+    "42%"
+   ],
+   "Corner kicks": [
+    "3",
+    "1"
+   ],
+   "Fouls committed": [
+    "14",
+    "13"
+   ],
+   "Offsides": [
+    "1",
+    "3"
+   ],
+   "Yellow cards": [
+    "2",
+    "1"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2022 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Liverpool",
+  "team2": "Real Madrid",
+  "score_raw": "0–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Vinícius",
+    "minute": "59",
+    "note": ""
+   }
+  ],
+  "stadium": "Stade de France, Saint-Denis",
+  "attendance": "75,000",
+  "referee": "Clément Turpin (France)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefachampionsleague/match/2034586/",
+  "manager1": "Jürgen Klopp",
+  "cards1": [
+   {
+    "player": "Fabinho",
+    "type": "Y",
+    "minute": "62"
+   }
+  ],
+  "manager2": "Carlo Ancelotti",
+  "cards2": [],
+  "officials": {
+   "Assistant referees": "Nicolas Danos (France); Cyril Gringore (France)",
+   "Fourth official": "Benoît Bastien (France)",
+   "Video assistant referee": "Jérôme Brisard (France)",
+   "Assistant video assistant referees": "Willy Delajod (France); Massimiliano Irrati (Italy); Filippo Meli (Italy) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "0",
+    "1"
+   ],
+   "Total shots": [
+    "23",
+    "3"
+   ],
+   "Shots on target": [
+    "9",
+    "1"
+   ],
+   "Saves": [
+    "0",
+    "9"
+   ],
+   "Ball possession": [
+    "50%",
+    "50%"
+   ],
+   "Corner kicks": [
+    "6",
+    "2"
+   ],
+   "Fouls committed": [
+    "13",
+    "7"
+   ],
+   "Offsides": [
+    "1",
+    "4"
+   ],
+   "Yellow cards": [
+    "1",
+    "0"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2023 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Manchester City",
+  "team2": "Inter Milan",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Rodri",
+    "minute": "68",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Atatürk Olympic Stadium, Istanbul",
+  "attendance": "71,412",
+  "referee": "Szymon Marciniak (Poland)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefachampionsleague/match/2037765/",
+  "manager1": "Pep Guardiola",
+  "cards1": [
+   {
+    "player": "Ederson",
+    "type": "Y",
+    "minute": "90+4"
+   },
+   {
+    "player": "Erling Haaland",
+    "type": "Y",
+    "minute": "90+2"
+   }
+  ],
+  "manager2": "Simone Inzaghi",
+  "cards2": [
+   {
+    "player": "André Onana",
+    "type": "Y",
+    "minute": "90+2"
+   },
+   {
+    "player": "Nicolò Barella",
+    "type": "Y",
+    "minute": "59"
+   },
+   {
+    "player": "Romelu Lukaku",
+    "type": "Y",
+    "minute": "83"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Paweł Sokolnicki (Poland); Tomasz Listkiewicz (Poland)",
+   "Fourth official": "István Kovács (Romania)",
+   "Reserve assistant referee": "Vasile Marinescu (Romania)",
+   "Video assistant referee": "Tomasz Kwiatkowski (Poland)",
+   "Assistant video assistant referee": "Bartosz Frankowski (Poland)",
+   "Support video assistant referee": "Marco Fritz (Germany) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "0"
+   ],
+   "Total shots": [
+    "7",
+    "14"
+   ],
+   "Shots on target": [
+    "4",
+    "5"
+   ],
+   "Saves": [
+    "5",
+    "3"
+   ],
+   "Ball possession": [
+    "57%",
+    "43%"
+   ],
+   "Corner kicks": [
+    "2",
+    "4"
+   ],
+   "Fouls committed": [
+    "11",
+    "17"
+   ],
+   "Offsides": [
+    "1",
+    "1"
+   ],
+   "Yellow cards": [
+    "2",
+    "4"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ },
+ {
+  "article": "2026 UEFA Champions League final",
+  "fb_date": "",
+  "team1": "Paris Saint-Germain",
+  "team2": "Arsenal",
+  "score_raw": "1–1",
+  "aet": "yes",
+  "penaltyscore": "4–3",
+  "goals1": [
+   {
+    "player": "Dembélé",
+    "minute": "65",
+    "note": "pen."
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Havertz",
+    "minute": "6",
+    "note": ""
+   }
+  ],
+  "stadium": "Puskás Aréna, Budapest",
+  "attendance": "61,035",
+  "referee": "Daniel Siebert (Germany)",
+  "penalties1": "Ramos Doué Mendes Hakimi Beraldo",
+  "penalties2": "Gyökeres Eze Rice Martinelli Gabriel",
+  "report": "Report<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/match/2047742/ |title=Paris Saint-Germain vs Arsenal |website=UEFA.com |publisher=Union of European Football Associations |access-date=6 May 2026}}</ref>",
+  "manager1": "Luis Enrique",
+  "cards1": [
+   {
+    "player": "Nuno Mendes",
+    "type": "Y",
+    "minute": "118"
+   },
+   {
+    "player": "João Neves",
+    "type": "Y",
+    "minute": "90+6"
+   }
+  ],
+  "manager2": "Mikel Arteta",
+  "cards2": [
+   {
+    "player": "Cristhian Mosquera",
+    "type": "Y",
+    "minute": "47"
+   },
+   {
+    "player": "Declan Rice",
+    "type": "Y",
+    "minute": "103"
+   },
+   {
+    "player": "Bukayo Saka",
+    "type": "Y",
+    "minute": "54"
+   },
+   {
+    "player": "Viktor Gyökeres",
+    "type": "Y",
+    "minute": "98"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Jan Seidel (Germany); Rafael Foltyn (Germany)",
+   "Fourth official": "Sandro Schärer (Switzerland)",
+   "Reserve assistant referee": "Guadalupe Porras Ayuso (Spain)",
+   "Video assistant referee": "Bastian Dankert (Germany)",
+   "Assistant video assistant referee": "Robert Schröder (Germany)",
+   "Support video assistant referee": "Carlos del Cerro Grande (Spain) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "1"
+   ],
+   "Total shots": [
+    "21",
+    "8"
+   ],
+   "Shots on target": [
+    "4",
+    "1"
+   ],
+   "Saves": [
+    "0",
+    "3"
+   ],
+   "Ball possession": [
+    "72%",
+    "28%"
+   ],
+   "Corner kicks": [
+    "11",
+    "3"
+   ],
+   "Fouls committed": [
+    "11",
+    "17"
+   ],
+   "Offsides": [
+    "0",
+    "3"
+   ],
+   "Yellow cards": [
+    "2",
+    "5"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "European Cup/Champions League"
+ }
+]

@@ -1,0 +1,365 @@
+{{Infobox football match
+| title                   = 2006 UEFA Super Cup
+| image                   = 2006 UEFA Super Cup match programme.jpg
+| caption                 = Match programme cover
+| event                   = 31st [[UEFA Super Cup]]
+| team1                   = [[FC Barcelona|Barcelona]]
+| team1association        = {{fbaicon|ESP|size=30px}}
+| team1score              = 0
+| team2                   = [[Sevilla FC|Sevilla]]
+| team2association        = {{fbaicon|ESP|size=30px}}
+| team2score              = 3
+| details                 = 
+| date                    = 25 August 2006
+| stadium                 = [[Stade Louis II]]
+| city                    = [[Monaco]]
+| man_of_the_match1a      = [[Dani Alves]] (Sevilla)<ref name="motm">{{cite news |url=https://www.uefa.com/uefasupercup/news/0250-0c50f22dd973-776c9f7f2737-1000--super-cup-honour-for-alves/ |title=Super Cup honour for Alves |work=[[UEFA]] |publisher=Union of European Football Associations |date=25 August 2006 |access-date=24 April 2011}}</ref>
+| referee                 = [[Stefano Farina]] ([[Italian Football Federation|Italy]])<ref name="referee">{{cite news |url=https://www.uefa.com/uefasupercup/news/0250-0c50f26e37db-816ba80bda43-1000--farina-handed-super-cup-honour/ |title=Farina handed Super Cup honour |work=[[UEFA]] |publisher=Union of European Football Associations |date=23 August 2006 |access-date=24 April 2011}}</ref>
+| attendance              = 17,480<ref name="pk-13">{{cite web |url=http://www.uefa.com/printoutfiles/competitions/uefasupercup/2013/E/E_2012139_PK.pdf |title=UEFA Super Cup – 2013 season: Match press kits |website=[[UEFA]] |publisher=Union of European Football Associations |page=23 |date=August 2013 |access-date=17 June 2024 |url-status=dead |archive-url=https://web.archive.org/web/20140513184123/http://www.uefa.com/printoutfiles/competitions/uefasupercup/2013/E/E_2012139_PK.pdf |archive-date=13 May 2014}}</ref>
+| weather                 = 
+| previous                = [[2005 UEFA Super Cup|2005]]
+| next                    = [[2007 UEFA Super Cup|2007]]
+}}
+The '''2006 UEFA Super Cup''' was the 31st edition of the annual [[UEFA Super Cup]], a [[UEFA]]-sponsored [[Association football|football]] club match that pitted the winners of the [[UEFA Champions League]] against the winners of the [[UEFA Cup]]. It took place at the [[Stade Louis II]] in [[Monaco]], on 25 August 2006, and featured two Spanish clubs: [[FC Barcelona|Barcelona]], who won the [[2005–06 UEFA Champions League]], against [[Sevilla FC|Sevilla]], who took the [[2005–06 UEFA Cup]] title. Sevilla beat Barcelona by 3–0 and added its first UEFA Super Cup trophy to its maiden [[UEFA Cup (trophy)|UEFA Cup]].<ref>[https://web.archive.org/web/20060901035553/http://www.uefa.com/competitions/SuperCup/FixturesResults/Round%3D2378/match%3D84343/Report%3DRP.html Report]</ref><ref>{{cite web |url=https://www.uefa.com/uefasupercup/history/2006/ |title=2006 Super Cup: Sevilla win big in Monaco |publisher=[[UEFA]] |date=25 August 2006 |access-date=14 March 2024 }}</ref>
+
+==Background==
+For the third time, two clubs from the same country played each other in the UEFA Super Cup, after the all-Italian [[1990 UEFA Super Cup|1990]] and [[1993 UEFA Super Cup|1993]] editions. [[FC Barcelona|Barcelona]] guaranteed a sixth presence in the UEFA Super Cup match, following their victorious campaign in the [[2005–06 UEFA Champions League]], where they defeated first-time finalists [[Arsenal F.C.|Arsenal]] by 2–1, at the [[Stade de France]] in [[Paris]]. Their first three presences—as [[1979 UEFA Cup Winners' Cup Final|1979]], [[1982 UEFA Cup Winners' Cup Final|1982]] and [[1989 UEFA Cup Winners' Cup Final|1989]] [[UEFA Cup Winners' Cup]] winners—resulted in an equal number of defeats. Having won their first European Cup title in [[1992 European Cup Final|1992]], Barcelona finally claimed the Super Cup trophy in their fourth attempt by beating [[SV Werder Bremen|Werder Bremen]] 3–2 on aggregate. Five years later, as [[1997 UEFA Cup Winners' Cup Final|1997 UEFA Cup Winners' Cup]] holders they defeated another German club ([[Borussia Dortmund]]) to add a second Super Cup to their cabinet.<ref name=barcelona-bg>{{cite web|last=Turner|first=Lucy|title=Barça hungry for third success|url=https://www.uefa.com/uefasupercup/news/0250-0c50f26b496d-e8804e8b0873-1000--barca-hungry-for-third-success/|work=[[UEFA]]|publisher=Union of European Football Associations|access-date=24 April 2011|date=22 August 2006}}</ref>
+
+Spanish side [[Sevilla FC|Sevilla]] made their debut in the UEFA Super Cup by taking the [[2005–06 UEFA Cup]] title with a 4–0 win over [[Middlesbrough F.C.|Middlesbrough]] in the final, held at the [[Philips Stadion]] in [[Eindhoven]]. This triumph was achieved in Sevilla's sixth participation in the [[UEFA Cup]] tournament, following participations in the [[1982–83 UEFA Cup|1982–83]], [[1983–84 UEFA Cup|1983–84]], [[1990–91 UEFA Cup|1990–91]], [[1995–96 UEFA Cup|1995–96]] and [[2004–05 UEFA Cup|2004–05]] editions.<ref name="sevilla-bg">{{cite web|last=Turner|first=Lucy|title=Sevilla making up for barren past|url=https://www.uefa.com/uefasupercup/news/0250-0c50f26c330d-7104f3136859-1000--sevilla-making-up-for-barren-past/|work=[[UEFA]]|publisher=Union of European Football Associations|access-date=24 April 2011|date=21 August 2006}}</ref>
+
+Before the 2006 UEFA Super Cup, the two clubs had previously met in European competition only once. It was in the third round of the 1995–96 UEFA Cup edition, and it resulted in a 4–2 aggregate win for Barcelona.<ref name="sevilla-bg"/>
+
+{{clear}}
+
+==Match==
+
+===Details===
+{{football box
+|date = 25 August 2006
+|time = 20:45 [[Central European Summer Time|CEST]]
+|team1 = [[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score = 0–3
+|report =https://www.uefa.com/uefasupercup/match/<!--round=2378/match=-->84343/
+|team2 = {{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1 = 
+|goals2 = [[Renato (footballer, born 1979)|Renato]] {{goal|7}}<br />[[Frédéric Kanouté|Kanouté]] {{goal|45}}<br />[[Vincenzo Maresca|Maresca]] {{goal|89|pen.}}
+|stadium = [[Stade Louis II]], [[Monaco]]
+|attendance = 17,480<ref name="pk-13"/>
+|referee = [[Stefano Farina]] ([[Italian Football Federation|Italy]])<ref name="referee"/>
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _barcelona0607h
+ | pattern_b  = _barcelona0607h
+ | pattern_ra = _barcelona0607h
+ | pattern_sh = _barcelona0607h
+ | pattern_so = _barcelona0607hl
+ | leftarm    = AA0000
+ | body       = AA0000
+ | rightarm   = 26559B
+ | shorts     = 26559B
+ | socks      = 26559B
+ | title      = Barcelona<ref name="line-ups">{{cite web |url=https://www.uefa.com/printoutfiles/competitions/SuperCup/2006/E/E_84343_LU.pdf |title=Line-ups |work=[[UEFA]] |publisher=Union of European Football Associations |date=25 August 2006 |access-date=24 April 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120706145209/https://www.uefa.com/printoutfiles/competitions/SuperCup/2006/E/E_84343_LU.pdf |archive-date=6 July 2012}}</ref>
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _sevilla0607esc
+ | pattern_ra =
+ | pattern_so = _monterrey1213t1
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Sevilla<ref name="line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Víctor Valdés]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Juliano Belletti]] 
+|-
+|CB ||'''4''' ||{{flagicon|MEX}} [[Rafael Márquez]] 
+|-
+|CB ||'''5''' ||{{flagicon|ESP}} [[Carles Puyol]] ([[Captain (association football)|c]])
+|-
+|LB ||'''16'''||{{flagicon|BRA}} [[Sylvinho]] || {{yel|47}} || {{suboff|72}}
+|-
+|CM ||'''20'''||{{flagicon|POR}} [[Deco]]
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]] || || {{suboff|57}}
+|-
+|CM ||'''3''' ||{{flagicon|BRA}} [[Thiago Motta]] || || {{suboff|57}}
+|-
+|RW ||'''19'''||{{flagicon|ARG}} [[Lionel Messi]]
+|-
+|LW ||'''10'''||{{flagicon|BRA}} [[Ronaldinho]]
+|-
+|CF ||'''9''' ||{{flagicon|CMR}} [[Samuel Eto'o]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Albert Jorquera]]
+|-
+|DF ||'''11'''||{{flagicon|ITA|2003}} [[Gianluca Zambrotta]]
+|-
+|DF ||'''21'''||{{flagicon|FRA|1974}} [[Lilian Thuram]] 
+|-
+|DF ||'''23'''||{{flagicon|ESP}} [[Oleguer Presas]]
+|-
+|MF ||'''8''' ||{{flagicon|FRA|1974}} [[Ludovic Giuly]] || || {{subon|72}}
+|-
+|MF ||'''24'''||{{flagicon|ESP}} [[Andrés Iniesta]] || || {{subon|57}}
+|-
+|FW ||'''7''' ||{{flagicon|ISL}} [[Eiður Guðjohnsen]] || || {{subon|57}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|NED}} [[Frank Rijkaard]]
+|}
+|valign="top"|[[File:Barcelona vs Sevilla 2006-08-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Andrés Palop]] || {{yel|77}}
+|-
+|RB ||'''4''' ||{{flagicon|BRA}} [[Dani Alves]] || {{yel|54}}
+|-
+|CB ||'''2''' ||{{flagicon|ESP}} [[Javi Navarro (footballer, born 1974)|Javi Navarro]] ([[Captain (association football)|c]]) || {{yel|60}}
+|-
+|CB ||'''14'''||{{flagicon|FRA|1974}} [[Julien Escudé]] || {{yel|85}}
+|-
+|LB ||'''3''' ||{{flagicon|ESP}} [[David Castedo]]
+|-
+|RM ||'''15'''||{{flagicon|ESP}} [[Jesús Navas]] || || {{suboff|75}}
+|-
+|CM ||'''8''' ||{{flagicon|DEN}} [[Christian Poulsen]]
+|-
+|CM ||'''11'''||{{flagicon|BRA}} [[Renato (footballer, born 1979)|Renato]]
+|-
+|LM ||'''6''' ||{{flagicon|BRA}} [[Adriano (footballer, born 1984)|Adriano]] || || {{suboff|81}}
+|-
+|CF ||'''12'''||{{flagicon|MLI}} [[Frédéric Kanouté]] || {{yel|49}}
+|-
+|CF ||'''10'''||{{flagicon|BRA}} [[Luís Fabiano]] || || {{suboff|46}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[David Cobeño]]
+|-
+|DF ||'''19'''||{{flagicon|SER|2004}} [[Ivica Dragutinović]] 
+|-
+|DF ||'''24'''||{{flagicon|GER}} [[Andreas Hinkel]]
+|-
+|MF ||'''16'''||{{flagicon|ESP}} [[Antonio Puerta]] || || {{subon|81}}
+|-
+|MF ||'''18'''||{{flagicon|ESP}} [[José Luis Martí]] || || {{subon|46}}
+|-
+|MF ||'''25'''||{{flagicon|ITA|2003}} [[Enzo Maresca]] || {{yel|90}} || {{subon|75}}
+|-
+|FW ||'''7''' ||{{flagicon|URU}} [[Javier Chevantón]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Juande Ramos]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Dani Alves]] (Sevilla)<ref name="motm"/>
+
+'''Assistant referees:'''<ref name="full time report">{{cite web |url=https://www.uefa.com/printoutfiles/competitions/SuperCup/2006/E/E_84343_FR.pdf |title=Full Time Report |work=[[UEFA]] |publisher=Union of European Football Associations|date=25 August 2006 |access-date=24 April 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111111014838/https://www.uefa.com/printoutfiles/competitions/SuperCup/2006/E/E_84343_FR.pdf |archive-date=11 November 2011}}</ref>
+<br />Marco Ivaldi ([[Italian Football Federation|Italy]])
+<br />Alessandro Griselli ([[Italian Football Federation|Italy]])
+<br />'''Fourth official:'''<ref name="full time report"/>
+<br />[[Matteo Trefoloni]] ([[Italian Football Federation|Italy]])
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="full time report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|0
+|2
+|-
+!scope=row|Total shots
+|5
+|7
+|-
+!scope=row|Shots on target
+|2
+|5
+|-
+!scope=row|Saves
+|3
+|2
+|-
+!scope=row|Ball possession
+|63%
+|37%
+|-
+!scope=row|Corner kicks
+|2
+|1
+|-
+!scope=row|Fouls committed
+|9
+|13
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="full time report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|10
+|5
+|-
+!scope=row|Shots on target
+|2
+|4
+|-
+!scope=row|Saves
+|3
+|2
+|-
+!scope=row|Ball possession
+|57%
+|43%
+|-
+!scope=row|Corner kicks
+|1
+|3
+|-
+!scope=row|Fouls committed
+|15
+|9
+|-
+!scope=row|Offsides
+|1
+|3
+|-
+!scope=row|Yellow cards
+|1
+|6
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="full time report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|0
+|3
+|-
+!scope=row|Total shots
+|15
+|12
+|-
+!scope=row|Shots on target
+|4
+|9
+|-
+!scope=row|Saves
+|6
+|4
+|-
+!scope=row|Ball possession
+|60%
+|40%
+|-
+!scope=row|Corner kicks
+|3
+|4
+|-
+!scope=row|Fouls committed
+|24
+|22
+|-
+!scope=row|Offsides
+|2
+|4
+|-
+!scope=row|Yellow cards
+|1
+|6
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2006–07 UEFA Champions League]]
+*[[2006–07 UEFA Cup]]
+*[[2006–07 FC Barcelona season]]
+*[[2006–07 Sevilla FC season]]
+*[[2015 UEFA Super Cup]] – contested between same teams
+*[[FC Barcelona in international football]]
+*[[Sevilla FC in European football]]
+*[[Spanish football clubs in international competitions]]
+
+==References==
+{{Reflist}}
+
+{{UEFA Super Cup}}
+{{2006–07 in European football (UEFA)}}
+{{FC Barcelona matches}}
+{{Sevilla F.C. matches}}
+
+{{DEFAULTSORT:Super Cup}}
+[[Category:2006–07 in European men's continental football|Super Cup]]
+[[Category:2006 in Monégasque sport]]
+[[Category:UEFA Super Cup matches|2006]]
+[[Category:FC Barcelona matches|Super Cup 2006]]
+[[Category:Sevilla FC matches|Super Cup 2006]]
+[[Category:2006–07 in Spanish men's football]]
+[[Category:Football matches in Monaco]]
+[[Category:August 2006 sports events in Europe]]
+[[Category:Spanish football clubs in international competitions]]

@@ -1,0 +1,213 @@
+{{Short description|English association football match}}
+{{Use dmy dates|date=March 2015}}
+{{Use British English|date=March 2015}}
+{{More citations needed|date=January 2007}}
+{{For|the women's event|1996 FA Women's Cup final}}
+{{Infobox football match
+|              title = 1996 FA Cup Final
+|              image = 1996 FA Cup Final programme.jpg
+|              event = [[1995–96 FA Cup]]
+|              team1 = [[Liverpool F.C.|Liverpool]]
+|         team1score = 0
+|              team2 = [[Manchester United F.C.|Manchester United]]
+|         team2score = 1
+|            details = 
+|               date = 11 May 1996
+|            stadium = [[Wembley Stadium (1923)|Wembley Stadium]]
+|               city = [[London]]
+| man_of_the_match1a = [[Roy Keane]] (Manchester United)
+|            referee = [[Dermot Gallagher]] ([[Oxfordshire County Football Association|Oxfordshire]])
+|         attendance = 79,007
+|            weather = 
+|           previous = [[1995 FA Cup final|1995]]
+|               next = [[1997 FA Cup final|1997]]
+}}
+The '''1996 FA Cup final''' was the 51st to be held at [[Wembley Stadium (1923)|Wembley Stadium]] after the [[World War II|Second World War]] and was held between two of the biggest [[Liverpool F.C.–Manchester United F.C. rivalry|rivals]] in [[Football in England|English football]], [[Manchester United F.C.|Manchester United]] and [[Liverpool F.C.|Liverpool]].
+
+== Build-up ==
+A few days before the final, Manchester United had secured their third league title in four years (1992–93, 1993–94 and 1995–96, coming second in 1994–95). The final was also their third in three seasons, having beaten [[Chelsea F.C.|Chelsea]] 4–0 in [[1994 FA Cup final|1994]] and lost 1–0 to [[Everton F.C.|Everton]] in [[1995 FA Cup final|1995]].
+
+Liverpool, on the other hand, were going through a barren spell in terms of trophies, having not won the league title since [[1989–90 in English football|1989–90]] or an [[FA Cup]] since [[1992 FA Cup final|1992]], although they had tasted success in the [[EFL Cup|League Cup]] in [[1995 Football League Cup Final|1995]].
+
+Liverpool and Manchester United were the two top scoring sides in the [[Premier League|FA Premier League]] in this season, and entered the game as the most attacking sides in English football, with Liverpool winning their last meeting 2–0 at [[Anfield]], and Manchester United equalising at [[Old Trafford]] to get a 2–2 draw in the reverse fixture, with [[Robbie Fowler]] scoring all four of Liverpool's goals against Manchester United in both meetings.
+
+Both clubs released cup final songs, as was common at the time: [[Pass & Move (It's the Liverpool Groove)]] (which reached number 4 in the [[UK Singles Chart]])<ref>{{cite book|title=[[Guinness Book of British Hit Singles & Albums|Guinness World Records: British Hit Singles and Albums]]|first=David|last=Roberts|year=2005|isbn=1-904994-00-8|publisher=[[HiT Entertainment|Guinness World Records Limited]]|page=301|edition=18th}}</ref> and [[Move Move Move (The Red Tribe)]] (which reached number 6).
+
+== Match summary ==
+The match, despite the rivalry between the two teams, was a fairly unmemorable game, rarely sparking into life, with playmakers [[Eric Cantona]] and [[Steve McManaman]], marked and closed out by [[Jamie Redknapp]] and [[John Barnes (footballer)|John Barnes]] and [[Roy Keane]] and [[Nicky Butt]] respectively. Keane went on to stop virtually every attack the Liverpool midfield threw at Manchester United, and covering as commentator [[Peter Brackley]] described, "every blade of grass", to win the man of the match award.
+
+The game started with a frenetic pace and Manchester United started with several positive chances before Liverpool came back into the game, but chances at either end were limited. Neither goalkeeper, [[Peter Schmeichel]] for Manchester United and [[David James (footballer, born 1970)|David James]] for Liverpool, was seriously tested throughout the majority of the game. However, with just five minutes remaining on the clock, David James tried to punch a corner clear. The ball landed just outside the penalty area, at the feet of Manchester United captain Eric Cantona, who had scored in his comeback game after a seven-month suspension at Old Trafford against Liverpool earlier that season in a game that ended 2–2. Cantona hit his shot goalwards, through the crowded penalty area and the ball nestled in the back of the goal, winning the game for Manchester United.<ref>{{cite news|url=https://www.theguardian.com/football/blog/2015/jul/24/golden-goal-eric-cantona-for-manchester-united-v-liverpool-1996 |title=Golden Goal: Eric Cantona for Manchester United v Liverpool (1996) |work=The Guardian |date=24 July 2015 |access-date=12 May 2020 |first=Alan |last=Smith }}</ref> Cantona had been marked out of the game, but reflecting his form all season, managed another match-winning moment.
+
+==Match details==
+{{footballbox
+|date=11 May 1996
+|time=15:00 [[Western European Summer Time|BST]]
+|team1=[[Liverpool F.C.|Liverpool]]
+|score=0–1
+|report=[http://www.thefreelibrary.com/FORMI-DOUBLE!%3b+King+Cantona+does+it+again.-a061162028 Report]
+|team2=[[Manchester United F.C.|Manchester United]]
+|goals1=
+|goals2=[[Eric Cantona|Cantona]] {{goal|85}}
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=79,007
+|referee=[[Dermot Gallagher]] ([[Oxfordshire County Football Association|Oxfordshire]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _westgermany1980
+ | pattern_b  = _liverpool9596a
+ | pattern_ra = _liverpool9596a
+ | pattern_sh = _liverpool9596a
+ | pattern_so = _liverpool9596a
+ | leftarm    = FFFFFF
+ | body       = 174C53
+ | rightarm   = 174C53
+ | shorts     = 174C53
+ | socks      = FFFFFF
+ | title      = Liverpool
+}}
+|{{Football kit
+ | pattern_la = _manutdh9496
+ | pattern_b  = _manutdh9496
+ | pattern_ra = _manutdh9496
+ | pattern_sh = _manutdh9496
+ | pattern_so = _manutdh9496
+ | leftarm    = E20E0E
+ | body       = E20E0E
+ | rightarm   = E20E0E
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Manchester United
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{fbaicon|ENG}} [[David James (footballer, born 1970)|David James]]
+|-
+|CB ||'''12'''||{{fbaicon|ENG}} [[John Scales]]
+|-
+|CB ||'''5''' ||{{fbaicon|ENG}} [[Mark Wright (footballer, born 1963)|Mark Wright]]
+|-
+|CB ||'''6''' ||{{fbaicon|IRL}} [[Phil Babb]] || {{yel|60}}
+|-
+|RWB||'''4''' ||{{fbaicon|IRL}} [[Jason McAteer]]
+|-
+|LWB||'''2''' ||{{fbaicon|ENG}} [[Rob Jones (footballer, born 1971)|Rob Jones]]||  || {{suboff|86}}
+|-
+|CM ||'''15'''||{{fbaicon|ENG}} [[Jamie Redknapp]] || {{yel|40}}
+|-
+|CM ||'''10'''||{{fbaicon|ENG}} [[John Barnes (footballer)|John Barnes]] ([[Captain (association football)|c]])
+|-
+|AM ||'''17'''||{{fbaicon|ENG}} [[Steve McManaman]]
+|-
+|CF ||'''23'''||{{fbaicon|ENG}} [[Robbie Fowler]]
+|-
+|CF ||'''8''' ||{{fbaicon|ENG}} [[Stan Collymore]] || || {{suboff|74}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''26'''||{{fbaicon|ENG}} [[Tony Warner]]
+|-
+|MF ||'''16'''||{{fbaicon|ENG}} [[Michael Thomas (footballer, born 1967)|Michael Thomas]]||  || {{subon|86}}
+|-
+|FW ||'''9''' ||{{fbaicon|WAL}} [[Ian Rush]] || || {{subon|74}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{fbaicon|ENG}} [[Roy Evans]]
+|}
+|valign="top"|[[File:Man Utd vs Liverpool 1996-05-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{fbaicon|DEN}} [[Peter Schmeichel]]
+|-
+|RB ||'''3''' ||{{fbaicon|IRL}} [[Denis Irwin]]
+|-
+|CB ||'''6''' ||{{fbaicon|ENG}} [[Gary Pallister]]
+|-
+|CB ||'''12'''||{{fbaicon|ENG}} [[David May (footballer)|David May]]
+|-
+|LB ||'''23'''||{{fbaicon|ENG}} [[Phil Neville]] || {{yel|69}}
+|-
+|RM ||'''24'''||{{fbaicon|ENG}} [[David Beckham]] || || {{suboff|90}}
+|-
+|CM ||'''16'''||{{fbaicon|IRL}} [[Roy Keane]]
+|-
+|CM ||'''19'''||{{fbaicon|ENG}} [[Nicky Butt]]
+|-
+|LM ||'''11'''||{{fbaicon|WAL}} [[Ryan Giggs]]
+|-
+|SS ||'''7''' ||{{fbaicon|FRA|1974}} [[Eric Cantona]] ([[Captain (association football)|c]])
+|-
+|CF ||'''17'''||{{fbaicon|ENG}} [[Andy Cole]] || || {{suboff|64}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|DF ||'''20'''||{{fbaicon|ENG}} [[Gary Neville]] || || {{subon|90}}
+|-
+|MF ||'''5''' ||{{fbaicon|ENG}} [[Lee Sharpe]]
+|-
+|FW ||'''22'''||{{fbaicon|ENG}} [[Paul Scholes]] || || {{subon|64}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{fbaicon|SCO}} [[Alex Ferguson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match officials'''
+*Assistant referees:
+**[[Anthony Bates]] ([[Staffordshire Football Association|Staffordshire]])<!-- Referred to as Tony Bates in the match commentary -->
+**[[Peter Walton (referee)|Peter Walton]] ([[Northamptonshire Football Association|Northamptonshire]])<!-- Referred to as Paul Walton in the match commentary -->
+*Fourth official: [[Paul Durkin]] ([[Dorset County Football Association|Dorset]])
+
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra time if necessary
+*Replay required if scores still level, to be played at 19:30 on 16 May 1996
+*Three named substitutes
+*Maximum of two substitutions
+|}
+
+== Post-match ==
+
+The win was Manchester United's third FA Cup win under [[Alex Ferguson]], having also won in [[1990 FA Cup final|1990]] and 1994. They became the first club to win the competition nine times, and also became the first club to win the [[Double (association football)|league championship and FA Cup double]] twice.
+
+After the match, the Manchester United team was presented with the FA Cup trophy by [[Katharine, Duchess of Kent|The Duchess of Kent]], wife of the President of [[The Football Association]], [[Prince Edward, Duke of Kent|Prince Edward]]. As the Manchester United players climbed the steps to the Royal Box to receive their medals, captain Eric Cantona was spat at by a spectator wearing a Liverpool shirt, while manager Alex Ferguson evaded a punch thrown by another.<ref>{{cite news |title=Wembley to act over spitting |url=https://www.independent.co.uk/sport/wembley-to-act-over-spitting-1346999.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/wembley-to-act-over-spitting-1346999.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |work=The Independent |date=13 May 1996 |access-date=14 September 2019 }}{{cbignore}}</ref>
+
+For Liverpool, the match was the final appearance of goalscoring legend [[Ian Rush]], who had scored 346 goals for the club since joining them in 1980 (sandwiched by a one-season spell at [[Juventus FC|Juventus]] in the late 1980s) and left at the end of the season to sign for [[Leeds United F.C.|Leeds United]].<ref>{{cite web |url=http://www.liverpoolfc.tv/history/past-players/ian-rush |title=Ian Rush |publisher=Liverpool FC |access-date=29 November 2018 }}</ref> [[Neil Ruddock]] was left out of the Liverpool squad despite having played in both the quarter and semi-final, as well as in each of the last six league matches of the season. Manchester United's two longest serving players, [[Steve Bruce]] and [[Brian McClair]], were dropped in favour of younger players for the final. Bruce never played for Manchester United again, as he was transferred to [[Birmingham City F.C.|Birmingham City]] 11 days later, while McClair remained at the club for a further two seasons. The only Manchester United player whose involvement with the club ended with this game was unused substitute [[Lee Sharpe]], who joined Rush at Leeds United just before the [[1996–97 in English football|1996–97 season]] began, after eight years at Old Trafford.
+
+The match gained notoriety for non-football reasons, having been picked up by the [[United Kingdom|British]] [[tabloid (newspaper format)|tabloids]] for its pre-match formalities because the Liverpool team turned up in cream-coloured [[Armani|Emporio Armani]] suits, outlandish striped ties, and white [[Gucci]] shoes, the outfit reportedly being picked by goalkeeper David James who had recently signed on to model that fashion label. Manchester United players, by contrast, wore traditional navy suits with a full button vest, black and white striped tie, and red [[carnation]] [[boutonnière]]. One commentator suggested that if Liverpool "won the cup, it would have been legendary, reminiscent of Italian flamboyance and audacity - the likes of which hadn’t been seen in English football before."<ref>{{cite web |url=https://www.liverpoolecho.co.uk/sport/football/football-news/were-liverpool-fcs-spice-boys-11054621 |title=Were Liverpool FC's Spice Boys really as bad as their white suits suggest? |work=[[Liverpool Echo]] |last1=Turton |first1=Jonathan |date=17 March 2016 |access-date=29 November 2018 }}</ref><ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4694012.stm |title=FA Cup flashback |work=[[BBC]] |last1=Wilkerson |first1=Ian |date=16 February 2006 |access-date=29 November 2018 }}</ref><ref>{{cite web |url=https://www.telegraph.co.uk/football/2017/01/28/fa-cups-100-memorable-moments-gazza-giggs-burton-bradford/liverpool-players-wearing-white-suits/ |title=The FA Cup's 100 most memorable moments - Gazza to Giggs, Burton to Bradford, but what is No 1? |work=[[BBC]] |date=18 February 2017 |access-date=29 November 2018 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.soccerbase.com/results3.sd?gameid=259040 Line-ups] {{Webarchive|url=https://web.archive.org/web/20090321152409/http://www.soccerbase.com/results3.sd?gameid=259040 |date=21 March 2009 }}
+*[http://www.lfchistory.net/viewgame.asp?game_id=2068 LFC History Match Report] {{Webarchive|url=https://web.archive.org/web/20070219075027/http://www.lfchistory.net/viewgame.asp?game_id=2068 |date=19 February 2007 }}
+*[https://web.archive.org/web/20071023204330/http://www.fa-cupfinals.co.uk/1996.htm Match at FA Cup Finals] (Archived)
+
+{{FA Cup Finals}}
+{{1995–96 in English football}}
+{{Liverpool F.C. matches}}
+{{Manchester United F.C. matches}}
+
+{{DEFAULTSORT:1996 Fa Cup Final}}
+[[Category:1995–96 FA Cup|Final]]
+[[Category:FA Cup finals]]
+[[Category:Manchester United F.C. matches|Fa Cup Final 1996]]
+[[Category:Liverpool F.C. matches|Fa Cup Final 1996]]
+[[Category:1996 in sport in London]]
+[[Category:May 1996 sports events in the United Kingdom]]

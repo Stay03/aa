@@ -1,0 +1,669 @@
+{{Short description|Football match}}
+{{Use dmy dates|date=December 2018}}
+{{Infobox football match
+| title = 2022 UEFA Europa League final
+| image = 2022 UEFA Europa League Final programme.jpg
+| image_size = frameless
+| caption = Match programme cover
+| event = [[2021–22 UEFA Europa League]]
+| team1 = [[Eintracht Frankfurt]]
+| team1association = {{fbaicon|GER|size=30px}}
+| team1score = 1
+| team2 = [[Rangers F.C.|Rangers]]
+| team2association = {{fbaicon|SCO|size=30px}}
+| team2score = 1
+| details = After [[Overtime (sports)#Association football|extra time]]<br />Eintracht Frankfurt won 5–4 on [[Penalty shoot-out (association football)|penalties]]
+| date = {{Start date|2022|5|18|df=y}}
+| stadium = [[Ramón Sánchez Pizjuán Stadium|Estadio Ramón Sánchez Pizjuán]]
+| city = [[Seville]]
+| man_of_the_match1a = [[Kevin Trapp]] {{nowrap|(Eintracht Frankfurt)}}<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefaeuropaleague/news/0275-152d4069c6c7-bb66addf55b4-1000/ |title=Kevin Trapp named official UEFA Europa League final Hankook Player of the Match |website=UEFA.com|publisher=Union of European Football Associations |date=18 May 2022 |access-date=18 May 2022}}</ref>
+| referee = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])<ref name="officials">{{cite news |url=https://www.uefa.com/news-media/news/0275-151e847d9f62-c7c70e5d01ff-1000/ |title=Referee teams appointed for 2022 UEFA club competition finals |website=UEFA.com|publisher=Union of European Football Associations |date=11 May 2022 |access-date=11 May 2022}}</ref>
+| attendance = 38,842<ref name="report"/>
+| weather = Partly cloudy night<br />{{convert|31|°C|°F}}<br />32% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2022/2033450_LU.pdf |title=Tactical Lineups – Final – Wednesday 18 May 2022 |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=18 May 2022 |access-date=18 May 2022 |archive-url=https://web.archive.org/web/20220518180224/https://www.uefa.com/newsfiles/uefacup/2022/2033450_lu.pdf |archive-date=18 May 2022 |url-status=dead}}</ref>
+| previous = [[2021 UEFA Europa League final|2021]]
+| next = [[2023 UEFA Europa League final|2023]]
+}}
+The '''2022 UEFA Europa League final''' was the final match of the [[2021–22 UEFA Europa League]], the 51st season of Europe's secondary club [[association football|football]] tournament organised by [[UEFA]], and the 13th season since it was renamed from the UEFA Cup to the [[UEFA Europa League]]. It was played at [[Ramón Sánchez Pizjuán Stadium|Estadio Ramón Sánchez Pizjuán]] in [[Seville]], Spain, on 18 May 2022,<ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0264-10fe90612aa3-37b2bc77f89e-1000/ |title=UEFA Europa Conference League: Who enters and when are the games? |website=[[UEFA]]|publisher=Union of European Football Associations |date=2 December 2020 |access-date=3 December 2020}}</ref> between German club [[Eintracht Frankfurt]] and Scottish club [[Rangers F.C.|Rangers]].
+
+The final was originally scheduled to be played at the [[Puskás Aréna]] in [[Budapest]], Hungary. However, due to the postponement and relocation of the [[2020 UEFA Europa League Final|2020 final]], the final hosts were shifted back a year, with Budapest instead hosting the 2023 final.<ref name="ExCo 17 June">{{cite news |url=https://www.uefa.com/news-media/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/ |title=UEFA competitions to resume in August |website=[[UEFA]]|publisher=Union of European Football Associations |date=17 June 2020 |access-date=17 June 2020}}</ref>
+
+Eintracht Frankfurt won the match 5–4 on [[Penalty shoot-out (association football)|penalties]], following a 1–1 draw after [[Overtime (sports)#Association football|extra time]], for their second UEFA Cup/Europa League title after [[1980 UEFA Cup Final|1980]].<ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0275-152d4568b8fe-4c36a5db723e-1000/ |title=Frankfurt 1–1 Rangers (aet, Frankfurt win 5–4 on penalties): Trapp seals shoot-out success |website=UEFA.com|publisher=Union of European Football Associations |date=18 May 2022 |access-date=25 May 2022}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2022/may/18/eintracht-frankfurt-rangers-europa-league-final-match-report|title= Rangers suffer Europa League final shootout defeat to Eintracht Frankfurt|date=18 May 2022|work=The Guardian|accessdate=20 May 2022}}</ref> That 42 years of await broke the record of the longest gap between two UEFA Cup/Europa League titles, which was held by [[Feyenoord]] before, with 28 years ([[1974 UEFA Cup final|1974]]-[[2002 UEFA Cup final|2002]]). Frankfurt became the first German side since [[FC Schalke 04|Schalke 04]] in [[1997 UEFA Cup Final|1997]] to win the competition. As winners, they earned the right to play against the winners of the [[2021–22 UEFA Champions League]], [[Real Madrid CF|Real Madrid]], in the [[2022 UEFA Super Cup]], and qualified for the [[2022–23 UEFA Champions League#Group stage|2022–23 UEFA Champions League group stage]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/61446268 |title=Eintracht Frankfurt 1–1 Rangers (AET, Frankfurt win 5–4 on pens) |publisher=British Broadcasting Corporation|website=BBC Sport|date=18 May 2022|access-date=19 May 2022}}</ref>
+
+==Venue==
+[[File:Stade Ramón Sánchez Pizjuán - Séville (ES61) - 2023-04-25 - 3.jpg|thumb|275x275px|The [[Ramón Sánchez Pizjuán Stadium|Estadio Ramón Sánchez Pizjuán]] in [[Seville]] hosted the final.]]
+This was the first Europa League final to be held at the stadium. It previously hosted the [[1986 European Cup final]]. The city of Seville hosted the [[2003 UEFA Cup final]] at the [[Estadio de La Cartuja]]. Spain had hosted four other UEFA Cup finals (holding a leg in [[1977 UEFA Cup final|1977]], [[1985 UEFA Cup final|1985]], [[1986 UEFA Cup final|1986]], and [[1988 UEFA Cup final|1988]]).
+
+===Host selection===
+{{for|the details on the selection of Budapest as the original host for the final|2023 UEFA Europa League final#Host selection}}
+
+An open bidding process was launched on 28 September 2018 by UEFA to select the venues of the finals of the UEFA Champions League, UEFA Europa League, and UEFA Women's Champions League in 2021. Associations had until 26 October 2018 to express interest, and bid dossiers must be submitted by 15 February 2019.
+
+UEFA announced on 1 November 2018 that three associations had expressed interest in hosting the 2021 UEFA Europa League final,<ref>{{cite web|url=https://www.uefa.com/news-media/news/0250-0c5119fbc7e9-b9de0907b594-1000--11-associations-interested-in-hosting-2021-club-finals/|title=11 associations interested in hosting 2021 club finals|website=UEFA.com|publisher=Union of European Football Associations|date=1 November 2018}}</ref> and on 22 February 2019 that two associations submitted their dossiers by the deadline.<ref>{{cite web|url=https://www.uefa.com/news-media/news/024e-0f8e68aa43f5-6b3adef08395-1000--9-associations-bidding-to-host-2021-club-finals/|title=9 associations bidding to host 2021 club finals|website=UEFA.com|publisher=Union of European Football Associations|date=22 February 2019}}</ref>
+
+{| class="wikitable sortable"
+|+Bidding associations for final
+|-
+! Association !! Stadium !! City !! Capacity
+|-
+| {{fba|GEO}} || [[Boris Paichadze Dinamo Arena]] || [[Tbilisi]] || 54,202
+|- bgcolor=#ccffcc
+| {{fba|ESP}} || [[Ramón Sánchez Pizjuán Stadium|Estadio Ramón Sánchez Pizjuán]] || [[Seville]] || 43,883
+|}
+
+The following associations expressed interest in hosting but eventually did not submit bids:
+*[[Austrian Football Association|Austria]]: [[Ernst-Happel-Stadion]], [[Vienna]]
+*[[Football Association of the Czech Republic|Czech Republic]]: [[Sinobo Stadium]], [[Prague]]
+*[[Hungarian Football Federation|Hungary]]: [[Puskás Aréna]], [[Budapest]]
+
+The [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]] was selected by the UEFA Executive Committee during their meeting in [[Ljubljana]], Slovenia on 24 September 2019.<ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0255-0e99f554980e-63465ec08dbc-1000--2022-uefa-europa-league-final-to-be-held-in-seville/ |title=Seville to host 2021 UEFA Europa League final |website=UEFA.com|publisher=Union of European Football Associations |date=24 September 2019 |access-date=24 September 2019}}</ref><ref>{{cite news |url=https://www.uefa.com/news-media/news/0255-0f8e6f9636b1-db5308c8e2e5-1000--uefa-executive-committee-agenda-for-ljubljana-meeting/ |title=UEFA Executive Committee agenda for Ljubljana meeting |website=UEFA.com|publisher=Union of European Football Associations |date=17 September 2019 |access-date=17 September 2019}}</ref>
+
+On 17 June 2020, the UEFA Executive Committee announced that due to the postponement and relocation of the [[2020 UEFA Europa League Final|2020 final]], Seville would instead host the 2022 final.<ref name="ExCo 17 June"/>
+
+==Background==
+This was Eintracht Frankfurt's third final in a major UEFA competition, having lost the [[1960 European Cup final]] to [[Real Madrid CF|Real Madrid]] and won the [[1980 UEFA Cup final]]. Having become the first German team in a major European final since [[FC Bayern Munich|Bayern Munich]] in the [[2020 UEFA Champions League final]] and the first UEFA Cup/Europa League finalist from Germany since [[SV Werder Bremen|Werder Bremen]] in [[2009 UEFA Cup final|2009]], they were seeking to become the first German side since [[FC Schalke 04|Schalke 04]] in [[1997 UEFA Cup final|1997]] to win the competition. Their manager [[Oliver Glasner]] was seeking to become the first Austrian to win a European trophy since [[Ernst Happel]] in the [[1983 European Cup final]] and the first Austrian to win the UEFA Cup/Europa League.
+
+This was Rangers' fifth final in a major UEFA competition, having won the [[1972 European Cup Winners' Cup final]] and lost both the [[1961 European Cup Winners' Cup final|1961]] and [[1967 European Cup Winners' Cup final|1967]] Cup Winners' Cup finals as well as the [[2008 UEFA Cup final]]. Having become the first Scottish club in any European final since themselves in 2008, they were seeking to become the first Scottish club since [[Aberdeen F.C.|Aberdeen]] in the [[1983 European Super Cup]] to win a European trophy and the first Scottish side to win the UEFA Cup/Europa League. Their manager [[Giovanni van Bronckhorst]] was seeking to become the first Dutch to win a European trophy since [[Dick Advocaat]] with [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] in the [[2008 UEFA Super Cup]]; they were qualified after defeating Rangers in the year's UEFA Cup final.<ref>{{cite web|title= 2022 UEFA Europa League Final |url=https://www.uefa.com/printoutfiles/competitions/uefaeuropaleague/2022/e/e_2033450_pk.pdf|archive-url=https://web.archive.org/web/20220517115214/https://www.uefa.com/printoutfiles/competitions/uefaeuropaleague/2022/e/e_2033450_pk.pdf|url-status=dead|archive-date=17 May 2022|date=18 May 2022|website=UEFA.com|publisher=Union of European Football Associations|access-date=18 May 2022}}</ref>
+
+The two sides previously met twice in European competitions, in the [[1959–60 European Cup]] [[1959–60 European Cup#Semi-finals|semi-finals]], with Eintracht Frankfurt winning both legs.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0272-1459a9ceeb09-fa22bad3bf99-1000--uefa-europa-league-final-head-to-head-record/|title=UEFA Europa League final: head-to-head records|website=UEFA.com|publisher=Union of European Football Associations |date=5 May 2022}}</ref>
+
+===Previous finals===
+''In the following table, finals until 2009 were in the UEFA Cup era, since 2010 were in the UEFA Europa League era.''
+
+{| class="wikitable"
+|-
+!Team
+!Previous final appearances (bold indicates winners)
+|-
+|{{fbaicon|GER}} [[Eintracht Frankfurt]]
+|1 ('''[[1980 UEFA Cup Final|1980]]''')
+|-
+|{{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|1 ([[2008 UEFA Cup Final|2008]])
+|}
+
+==Route to the final==
+{{Further|2021–22 UEFA Europa League|2021–22 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|GER}} [[Eintracht Frankfurt]]
+!Round
+!colspan="4"|{{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2021–22 UEFA Europa League|Europa League]]'''
+|
+|colspan="4"|'''[[2021–22 UEFA Champions League|Champions League]]'''
+|-
+|colspan="4" rowspan="4"|Bye
+|style="background:#C1E0FF"|Qualifying phase ([[2021–22 UEFA Europa League qualifying phase and play-off round|EL]], [[2021–22 UEFA Champions League qualifying phase and play-off round|CL]])
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|-
+|style="background:#C1E0FF"|Third qualifying round
+|align="left"|{{fbaicon|SWE}} [[Malmö FF]]
+|2–4
+|[[2021–22 UEFA Champions League qualifying phase and play-off round#Q3 CH5.1|1–2]] (A)
+|[[2021–22 UEFA Champions League qualifying phase and play-off round#Q3 CH5.2|1–2]] (H)
+|- style="background:#C1E0FF"
+|
+|colspan="4"|'''[[2021–22 UEFA Europa League|Europa League]]'''
+|-
+|style="background:#C1E0FF"|Play-off round
+|align="left"|{{fbaicon|ARM}} [[FC Alashkert|Alashkert]]
+|1–0
+|[[2021–22 UEFA Europa League qualifying phase and play-off round#PO 8.1|1–0]] (H)
+|[[2021–22 UEFA Europa League qualifying phase and play-off round#PO 8.2|0–0]] (A)
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2021–22 UEFA Europa League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Eintracht Frankfurt v Fenerbahçe|1–1]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Rangers v Lyon|0–2]] (H)
+|-
+|style="text-align:left"|{{fbaicon|BEL}} [[Royal Antwerp F.C.|Antwerp]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Antwerp v Eintracht Frankfurt|1–0]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Sparta Prague v Rangers|0–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Eintracht Frankfurt v Olympiacos|3–1]] (H)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|DEN}} [[Brøndby IF|Brøndby]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Rangers v Brøndby|2–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Olympiacos v Eintracht Frankfurt|2–1]] (A)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|DEN}} [[Brøndby IF|Brøndby]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Brøndby v Rangers|1–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|BEL}} [[Royal Antwerp F.C.|Antwerp]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Eintracht Frankfurt v Antwerp|2–2]] (H)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Rangers v Sparta Prague|2–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Fenerbahçe v Eintracht Frankfurt|1–1]] (A)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|colspan="3"|[[2021–22 UEFA Europa League group stage#Lyon v Rangers|1–1]] (A)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2021–22 UEFA Europa League group stage#Group D|Group D]] winners'''
+<div class="center">{{:2021–22 UEFA Europa League group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=no|showteam=FRA}}</div>
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2021–22 UEFA Europa League group stage#Group A|Group A]] runners-up'''
+<div class="center">{{:2021–22 UEFA Europa League group stage|transcludesection=Group A|only_pld_pts=yes|show_matches=no|showteam=RAN}}</div>
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2021–22 UEFA Europa League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|colspan="4"|Bye
+|style="background:#C1E0FF"|Knockout round play-offs
+|style="text-align:left"|{{fbaicon|GER}} [[Borussia Dortmund]]
+|6–4
+|[[2021–22 UEFA Europa League knockout phase#Borussia Dortmund v Rangers|4–2]] (A)
+|[[2021–22 UEFA Europa League knockout phase#Rangers v Borussia Dortmund|2–2]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Betis]]
+|3–2
+|[[2021–22 UEFA Europa League knockout phase#Real Betis v Eintracht Frankfurt|2–1]] (A)
+|[[2021–22 UEFA Europa League knockout phase#Eintracht Frankfurt v Real Betis|1–1]] {{aet}} (H)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|SRB}} [[Red Star Belgrade]]
+|4–2
+|[[2021–22 UEFA Europa League knockout phase#Rangers v Red Star Belgrade|3–0]] (H)
+|[[2021–22 UEFA Europa League knockout phase#Red Star Belgrade v Rangers|1–2]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|4–3
+|[[2021–22 UEFA Europa League knockout phase#Eintracht Frankfurt v Barcelona|1–1]] (H)
+|[[2021–22 UEFA Europa League knockout phase#Barcelona v Eintracht Frankfurt|3–2]] (A)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|POR}} [[S.C. Braga|Braga]]
+|3–2
+|[[2021–22 UEFA Europa League knockout phase#Braga v Rangers|0–1]] (A)
+|[[2021–22 UEFA Europa League knockout phase#Rangers v Braga|3–1]] {{aet}} (H)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|3–1
+|[[2021–22 UEFA Europa League knockout phase#West Ham United v Eintracht Frankfurt|2–1]] (A)
+|[[2021–22 UEFA Europa League knockout phase#Eintracht Frankfurt v West Ham United|1–0]] (H)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|GER}} [[RB Leipzig]]
+|3–2
+|[[2021–22 UEFA Europa League knockout phase#RB Leipzig v Rangers|0–1]] (A)
+|[[2021–22 UEFA Europa League knockout phase#Rangers v RB Leipzig|3–1]] (H)
+|}
+
+==Pre-match==
+
+===Identity===
+The logo of the 2022 UEFA Europa League Final was unveiled at the group stage draw on 27 August 2021 in [[Istanbul]], Turkey.
+
+===Ambassador===
+The ambassador for the final was former [[Sevilla FC|Sevilla]] goalkeeper [[Andrés Palop]].
+
+===Officials===
+[[File:Slavko Vincic.jpg|thumb|upright=.8|Slovenian referee [[Slavko Vinčić]] officiated the final.]]
+
+On 11 May 2022, UEFA named Slovenian official [[Slavko Vinčić]] as the referee for the final. Vinčić had been a [[FIFA International Referees List|FIFA referee]] since 2010, and was previously an additional assistant referee in the [[2017 UEFA Europa League Final]] and the fourth official in the [[2021 UEFA Europa League Final]]. He also worked as an additional assistant referee in the [[2012 UEFA Super Cup]]. He officiated ten matches in the [[2021–22 UEFA Champions League|2021–22 Champions League season]], with two matches in qualification, five in the group stage and three knockout fixtures. He served as a referee at [[UEFA Euro 2020]], where he officiated two group matches and a quarter-final. He was joined by three of his fellow countrymen, with Tomaž Klančnik and Andraž Kovačič as assistant referees, and Jure Praprotnik as one of the assistant VAR officials. [[Srđan Jovanović (referee)|Srđan Jovanović]] of Serbia served as the fourth official, while Dutchman [[Pol van Boekel]] was appointed as the video assistant referee. Spaniards [[Alejandro Hernández Hernández]] and Roberto Díaz Pérez del Palomar served as the other assistant VAR officials.<ref name="officials"/>
+
+==Match==
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the quarter-final and semi-final draws.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2022|5|18|df=y}}
+|time       = {{CEST|21:00}}
+|team1      = [[Eintracht Frankfurt]] {{fbaicon|GER}}
+|score      = 1–1
+|aet        = yes
+|team2      = {{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|goals1     =
+*[[Rafael Santos Borré|Borré]] {{goal|69}}
+|goals2     =
+*[[Joe Aribo|Aribo]] {{goal|57}}
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Estadio Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance = 38,842<ref name="report">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2022/2033450_FR.pdf |title=Full Time Summary Final – Eintracht Frankfurt v Rangers |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=18 May 2022 |access-date=18 May 2022 |archive-url=https://web.archive.org/web/20220519045001/https://www.uefa.com/newsfiles/uefacup/2022/2033450_fr.pdf |archive-date=19 May 2022 |url-status=dead}}</ref>
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|penalties1 =
+*[[Christopher Lenz|Lenz]] {{pengoal}}
+*[[Ajdin Hrustic|Hrustic]] {{pengoal}}
+*[[Daichi Kamada|Kamada]] {{pengoal}}
+*[[Filip Kostić|Kostić]] {{pengoal}}
+*[[Rafael Santos Borré|Borré]] {{pengoal}}
+|penaltyscore = 5–4
+|penalties2 =
+*{{pengoal}} [[James Tavernier|Tavernier]]
+*{{pengoal}} [[Steven Davis|Davis]]
+*{{pengoal}} [[Scott Arfield|Arfield]]
+*{{penmiss}} [[Aaron Ramsey|Ramsey]]
+*{{pengoal}} [[Kemar Roofe|Roofe]]
+|report     = https://www.uefa.com/uefaeuropaleague/match/2033450/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _rbl2021h
+ |pattern_b  = _frankfurt2021A
+ |pattern_ra = _rbl2021h
+ |pattern_sh = _frankfurt2021a
+ |pattern_so = _frankfurt2021a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Eintracht Frankfurt}}<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _rangers2122h
+ |pattern_b  = _rangers2122H
+ |pattern_ra = _rangers2122h
+ |pattern_sh = _rangers2122alt
+ |pattern_so = _rangers2122alt
+ |leftarm    = 0064CC
+ |body       = 0064CC
+ |rightarm   = 0064CC
+ |shorts     = 0064CC
+ |socks      = 0064CC
+ |title      = Rangers<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Kevin Trapp]]
+|-
+|CB ||'''35'''||{{flagicon|BRA}} [[Tuta (footballer, born 1999)|Tuta]] || || {{suboff|58}}
+|-
+|CB ||'''18'''||{{flagicon|MLI}} [[Almamy Touré]]
+|-
+|CB ||'''2''' ||{{flagicon|FRA}} [[Evan Ndicka]] || || {{suboff|100}}
+|-
+|RM ||'''36'''||{{flagicon|GER}} [[Ansgar Knauff]]
+|-
+|CM ||'''8''' ||{{flagicon|SUI}} [[Djibril Sow]] || || {{suboff|106}}
+|-
+|CM ||'''17'''||{{flagicon|GER}} [[Sebastian Rode]] ([[Captain (association football)|c]]) || || {{suboff|90}}
+|-
+|LM ||'''10'''||{{flagicon|SRB}} [[Filip Kostić]]
+|-
+|AM ||'''29'''||{{flagicon|DEN}} [[Jesper Lindstrøm]] || || {{suboff|70}}
+|-
+|AM ||'''15'''||{{flagicon|JPN}} [[Daichi Kamada]]
+|-
+|CF ||'''19'''||{{flagicon|COL}} [[Rafael Santos Borré]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{flagicon|GER}} [[Jens Grahl]]
+|-
+|DF ||'''22'''||{{flagicon|USA}} [[Timothy Chandler]]
+|-
+|DF ||'''24'''||{{flagicon|GER}} [[Danny da Costa]]
+|-
+|DF ||'''25'''||{{flagicon|GER}} [[Christopher Lenz]] || || {{subon|100}}
+|-
+|MF ||'''6''' ||{{flagicon|CRO}} [[Kristijan Jakić]] || || {{subon|90}}
+|-
+|MF ||'''7''' ||{{flagicon|AUS}} [[Ajdin Hrustic]] || || {{subon|106}}
+|-
+|MF ||'''20'''||{{flagicon|JPN}} [[Makoto Hasebe]] || || {{subon|58}}
+|-
+|MF ||'''27'''||{{flagicon|MAR}} [[Aymen Barkok]]
+|-
+|FW ||'''9''' ||{{flagicon|NED}} [[Sam Lammers]]
+|-
+|FW ||'''21'''||{{flagicon|GER}} [[Ragnar Ache]]
+|-
+|FW ||'''23'''||{{flagicon|NOR}} [[Jens Petter Hauge]] || || {{subon|70}}
+|-
+|FW ||'''39'''||{{flagicon|POR}} [[Gonçalo Paciência]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|AUT}} [[Oliver Glasner]]
+|}
+|valign="top"|[[File:Eintracht Frankfurt vs Rangers 2022-05-18.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|SCO}} [[Allan McGregor]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[James Tavernier]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Connor Goldson]]
+|-
+|CB ||'''3''' ||{{flagicon|NGA}} [[Calvin Bassey]]
+|-
+|LB ||'''31'''||{{flagicon|CRO}} [[Borna Barišić]] || || {{suboff|117}}
+|-
+|CM ||'''8''' ||{{flagicon|SCO}} [[Ryan Jack]] || || {{suboff|74}}
+|-
+|CM ||'''4''' ||{{flagicon|ENG}} [[John Lundstram]]
+|-
+|RW ||'''14'''||{{flagicon|ENG}} [[Ryan Kent]]
+|-
+|AM ||'''23'''||{{flagicon|SCO}} [[Scott Wright (footballer)|Scott Wright]] || {{yel|73}} || {{suboff|74}}
+|-
+|LW ||'''18'''||{{flagicon|FIN}} [[Glen Kamara]] || || {{suboff|91}}
+|-
+|CF ||'''17'''||{{flagicon|NGA}} [[Joe Aribo]] || {{yel|62}} || {{suboff|101}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''28'''||{{flagicon|SCO}} [[Robby McCrorie]]
+|-
+|GK ||'''33'''||{{flagicon|SCO}} [[Jon McLaughlin (footballer)|Jon McLaughlin]]
+|-
+|DF ||'''26'''||{{flagicon|NGA}} [[Leon Balogun]]
+|-
+|DF ||'''43'''||{{flagicon|SCO}} [[Leon King]]
+|-
+|MF ||'''9''' ||{{flagicon|CIV}} [[Amad (footballer)|Amad Diallo]]
+|-
+|MF ||'''10'''||{{flagicon|NIR}} [[Steven Davis]] || || {{subon|74}}
+|-
+|MF ||'''16'''||{{flagicon|WAL}} [[Aaron Ramsey]] || || || {{subon|117}}
+|-
+|MF ||'''19'''||{{flagicon|USA}} [[James Sands]] || || {{subon|101}}
+|-
+|MF ||'''37'''||{{flagicon|CAN}} [[Scott Arfield]] || || {{subon|91}}
+|-
+|MF ||'''51'''||{{flagicon|SCO}} [[Alex Lowry]]
+|-
+|FW ||'''25'''||{{flagicon|JAM}} [[Kemar Roofe]] || || {{subon|117}}
+|-
+|FW ||'''30'''||{{flagicon|ZAM}} [[Fashion Sakala]] || || {{subon|74}} || {{suboff|117}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NED}} [[Giovanni van Bronckhorst]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Kevin Trapp]] (Eintracht Frankfurt)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Tomaž Klančnik ([[Football Association of Slovenia|Slovenia]])
+<br />Andraž Kovačič ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Pol van Boekel]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''<ref name="officials"/>
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+<br />[[Alejandro Hernández Hernández]] ([[Royal Spanish Football Federation|Spain]])
+<br />Roberto Díaz Pérez del Palomar ([[Royal Spanish Football Federation|Spain]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Europa-League-2021/22-Online |title=Regulations of the UEFA Europa League, 2021/22 Season |website=UEFA.com|publisher=Union of European Football Associations|year=2021 |access-date=30 April 2021}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2022/2033450_TS.pdf |title=Team statistics |website=UEFA.com|publisher=Union of European Football Associations |format=PDF |date=18 May 2022 |access-date=18 May 2022 |url-status=live |archive-url=https://web.archive.org/web/20240617221950/https://www.uefa.com/newsfiles/uefacup/2022/2033450_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Eintracht Frankfurt
+!scope="col" style="width:70px"|Rangers
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|11
+|3
+|-
+!scope=row|Shots on target
+|3
+|1
+|-
+!scope=row|Saves
+|1
+|3
+|-
+!scope=row|Ball possession
+|41%
+|59%
+|-
+!scope=row|Corner kicks
+|4
+|2
+|-
+!scope=row|Fouls committed
+|7
+|3
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Eintracht Frankfurt
+!scope="col" style="width:70px"|Rangers
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|6
+|3
+|-
+!scope=row|Shots on target
+|1
+|1
+|-
+!scope=row|Saves
+|0
+|1
+|-
+!scope=row|Ball possession
+|53%
+|47%
+|-
+!scope=row|Corner kicks
+|5
+|0
+|-
+!scope=row|Fouls committed
+|4
+|7
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|0
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Eintracht Frankfurt
+!scope="col" style="width:70px"|Rangers
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|5
+|8
+|-
+!scope=row|Shots on target
+|0
+|4
+|-
+!scope=row|Saves
+|4
+|0
+|-
+!scope=row|Ball possession
+|46%
+|54%
+|-
+!scope=row|Corner kicks
+|2
+|0
+|-
+!scope=row|Fouls committed
+|7
+|0
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Eintracht Frankfurt
+!scope="col" style="width:70px"|Rangers
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|22
+|14
+|-
+!scope=row|Shots on target
+|4
+|6
+|-
+!scope=row|Saves
+|5
+|4
+|-
+!scope=row|Ball possession
+|47%
+|53%
+|-
+!scope=row|Corner kicks
+|11
+|2
+|-
+!scope=row|Fouls committed
+|18
+|10
+|-
+!scope=row|Offsides
+|2
+|2
+|-
+!scope=row|Yellow cards
+|0
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2022 UEFA Champions League final]]
+*[[2022 UEFA Europa Conference League final]]
+*[[2022 UEFA Women's Champions League final]]
+*[[2022 UEFA Super Cup]]
+*[[Eintracht Frankfurt in European football]]
+*[[Rangers F.C. in European football]]
+*[[2021–22 Eintracht Frankfurt season]]
+*[[2021–22 Rangers F.C. season]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefaeuropaleague/}}
+
+{{UEFA Europa League seasons}}
+{{2021–22 in European football (UEFA)}}
+{{Eintracht Frankfurt matches}}
+{{Rangers F.C. matches}}
+
+{{DEFAULTSORT:Uefa Europa League Final 2022}}
+[[Category:UEFA Europa League finals|2022]]
+[[Category:2021–22 UEFA Europa League|Final]]
+[[Category:May 2022 sports events in Spain]]
+[[Category:Eintracht Frankfurt matches|Europa League Final 2022]]
+[[Category:2021–22 in German football]]
+[[Category:Rangers F.C. matches|Europa League Final 2022]]
+[[Category:2021–22 in Scottish men's football]]
+[[Category:2021–22 in Spanish men's football]]
+[[Category:Football competitions in Seville]]
+[[Category:2022 in Seville]]
+[[Category:Football matches in Spain]]
+[[Category:Germany–United Kingdom sports relations|2022]]

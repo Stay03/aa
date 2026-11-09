@@ -1,0 +1,445 @@
+{{Use dmy dates|date=December 2017}}
+{{Infobox football match
+| title              = 2017 FIFA Club World Cup final
+| event              = [[2017 FIFA Club World Cup]]
+| image              = Gulf Cup (36).jpg
+| imagesize          = 250px
+| caption            = The Zayed Sports City Stadium in Abu Dhabi staged the final
+| team1              = [[Real Madrid CF|Real Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 1
+| team2              = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| team2association   = {{fbaicon|BRA|size=30px}}
+| team2score         = 0
+| date               = {{Start date|2017|12|16|df=y}}
+| stadium            = [[Zayed Sports City Stadium]]
+| city               = [[Abu Dhabi]]
+| man_of_the_match1a = [[Cristiano Ronaldo]] {{nowrap|(Real Madrid)}}<ref name="match overview"/>
+| referee            = [[César Arturo Ramos|César Ramos]] ([[Mexican Football Federation|Mexico]])<ref name="match overview">{{cite web |url=https://www.fifa.com/clubworldcup/matches/round=279805/match=300398163/index.html |archive-url=https://web.archive.org/web/20171204061252/http://www.fifa.com/clubworldcup/matches/round=279805/match=300398163/index.html |url-status=dead |archive-date=4 December 2017 |title=Match overview Real Madrid CF-Grêmio FBPA |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=16 December 2017 |access-date=16 December 2017}}</ref>
+| attendance         = 41,094<ref name="match report"/>
+| weather            = Cloudy<br />{{convert|22|°C|°F|abbr=on}}<br />73% [[humidity]]<ref name="match overview"/>
+| previous           = [[2016 FIFA Club World Cup final|2016]]
+| next               = [[2018 FIFA Club World Cup final|2018]]
+}}
+The '''2017 FIFA Club World Cup final''' was the final match of the [[2017 FIFA Club World Cup]], the 14th edition of the [[FIFA Club World Cup]], a [[FIFA]]-organised [[association football|football]] tournament contested by the winners of the six continental confederations, as well as the host nation's league champions. The final was played at the [[Zayed Sports City Stadium]] in [[Abu Dhabi]], United Arab Emirates on 16 December 2017 and was contested between [[Royal Spanish Football Federation|Spanish]] club and title holders [[Real Madrid CF|Real Madrid]], representing [[UEFA]] as the reigning champions of the [[UEFA Champions League]], and [[Brazilian Football Confederation|Brazilian]] club [[Grêmio Foot-Ball Porto Alegrense|Grêmio]], representing [[CONMEBOL]] as the reigning champions of the [[Copa Libertadores]].<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/87/91/93/fcwc2017_matchschedule_30112017_neutral.pdf |title=Match Schedule – FIFA Club World Cup UAE 2017 |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |year=2017 |access-date=12 December 2017 |archive-url=https://web.archive.org/web/20171215054028/http://resources.fifa.com/mm/document/tournament/competition/02/87/91/93/fcwc2017_matchschedule_30112017_neutral.pdf |archive-date=15 December 2017 |url-status=dead |df=dmy-all }}</ref>
+
+Real Madrid won the match 1–0 via a goal from [[Cristiano Ronaldo]] for their third FIFA Club World Cup title. This was the first time a team had successfully defended the FIFA Club World Cup title, after Real won the [[2016 FIFA Club World Cup|previous year]]. The victory also marked the tenth time a UEFA team had won the Club World Cup.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Previous club world championship finals<br />
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[UEFA]]
+|IC: 5 ('''[[1960 Intercontinental Cup|1960]]''', [[1966 Intercontinental Cup|1966]], '''[[1998 Intercontinental Cup|1998]]''', [[2000 Intercontinental Cup|2000]], '''[[2002 Intercontinental Cup|2002]]''')<br />FCWC: 2 ('''[[2014 FIFA Club World Cup final|2014]]''', '''[[2016 FIFA Club World Cup final|2016]]''')
+|-
+|{{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|[[CONMEBOL]]
+|None
+|}
+
+==Venue==
+The [[Zayed Sports City Stadium]] in [[Abu Dhabi]] was announced as the final venue on 11 April 2017.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2017/m=4/news=official-emblem-unveiled-as-uae-prepares-for-kick-off-2879111.html|archive-url=https://web.archive.org/web/20170411221006/http://www.fifa.com/clubworldcup/news/y=2017/m=4/news=official-emblem-unveiled-as-uae-prepares-for-kick-off-2879111.html|url-status=dead|archive-date=11 April 2017|title=Official Emblem unveiled as UAE prepares for kick-off|website=FIFA.com |publisher=Fédération Internationale de Football Association|date=11 April 2017}}</ref> The stadium had previously hosted the final in [[2009 FIFA Club World Cup final|2009]] and [[2010 FIFA Club World Cup final|2010]].
+
+==Background==
+The FIFA Club World Cup, held annually in December, is contested between the winners of continental club competitions and the winners of the host nation's league.
+
+[[Real Madrid CF|Real Madrid]] qualified for their fourth Club World Cup by winning the [[2016–17 UEFA Champions League]]. The club previously won the [[2014 FIFA Club World Cup|2014]] and [[2016 FIFA Club World Cup|2016]] editions of the Club World Cup, second only to [[FC Barcelona|Barcelona]] in number of wins.<ref>{{cite news |date=12 December 2017 |title=Real Madrid target third Club World Cup win |url=https://www.uefa.com/uefachampionsleague/news/0240-0e9820a98b4f-4fa8ccf86d53-1000--real-madrid-target-third-club-world-cup-win/ |publisher=UEFA |access-date=13 December 2017}}</ref> Madrid entered the competition in the semi-finals, facing [[UAE Pro-League]] champions [[Al-Jazira Club|Al-Jazira]], who had won against Oceania champion [[Auckland City FC]] of New Zealand and Asian champions [[Urawa Red Diamonds]] of Japan.<ref>{{cite news |last=Hammond |first=Ashley |date=11 December 2017 |title=Almunia: Jazira have fantastic future |url=http://gulfnews.com/sport/football/more-football/almunia-jazira-have-fantastic-future-1.2138898 |work=[[Gulf News]] |access-date=13 December 2017}}</ref> Real Madrid won the match 2–1, after controversial decisions by the referee and [[video assistant referee]] system.<ref>{{cite news |last=Train |first=Rob |date=13 December 2017 |title=Zinedine Zidane to blame for lacklustre Real Madrid in win vs. Al-Jazira |url=http://www.espn.co.uk/football/club/real-madrid/86/blog/post/3309636/real-madrids-lacklustre-ratings-vs-al-jazira-club-world-cup-down-to-zinedine-zidane |publisher=[[ESPN]] |access-date=13 December 2017}}</ref>
+
+Brazilian club [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] qualified for their first Club World Cup by winning the [[2017 Copa Libertadores]] in November. They entered the semi-finals round, facing North American champions [[C.F. Pachuca|Pachuca]] of Mexico, who had defeated African champions [[Wydad Casablanca]] of Morocco in the quarter-finals.<ref>{{cite news |date=9 December 2017 |title=Pachuca beat Wydad Casablanca to reach FIFA Club World Cup semi |url=http://www.espnfc.com.au/report?gameId=499169 |work=[[ESPN FC]] |access-date=13 December 2017}}</ref> Grêmio won the match 1–0 in [[Overtime (sports)#Association football|extra time]], on a goal scored by [[Éverton Soares|Éverton]] in the 95th minute.<ref>{{cite news |last=Downie |first=Andrew |date=13 December 2017 |title=FIFA Club World Cup: Gremio reach final after extra time win over Pachuca |url=http://www.smh.com.au/sport/soccer/fifa-club-world-cup-gremio-reach-final-after-extra-time-win-over-pachuca-20171212-h03kjh.html |work=[[Sydney Morning Herald]] |access-date=13 December 2017}}</ref>
+
+==Road to the final==
+{| class="wikitable"
+|-
+!width=350 colspan=2|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+!Team
+!width=350 colspan=2|{{fbaicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|-
+|align=center colspan=2|Winners of the [[2016–17 UEFA Champions League]]
+!Qualification
+|align=center colspan=2|Winners of the [[2017 Copa Libertadores]]
+|- style="background:#C1E0ff"
+|align=center|Opponent
+|align=center|Result
+|align=center|[[2017 FIFA Club World Cup]]
+|align=center|Opponent
+|align=center|Result
+|-
+|{{fbaicon|UAE}} [[Al Jazira Club|Al-Jazira]]
+|align=center|[[2017 FIFA Club World Cup#Al-Jazira v Real Madrid|2–1]]
+|align=center style="background:#C1E0ff"|Semi-finals
+|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|align=center|[[2017 FIFA Club World Cup#Grêmio v Pachuca|1–0]] {{aet}}
+|}
+
+==Match==
+===Summary===
+[[Cristiano Ronaldo]] scored the only goal of the match in the 53rd minute for Real Madrid, a right foot free-kick from 25 yards out slightly to the left that went through a gap in the defensive wall and into the left corner of the net.<ref>{{cite news |url=https://www.bbc.com/sport/football/42370685 |title=Real Madrid 1 Gremio 0 |website=[[BBC Sport]] |publisher=British Broadcasting Corporation |date=16 December 2017 |access-date=20 December 2017}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2017|12|16|df=y}}
+|time       = 21:00 <noinclude>[[Gulf Standard Time|GST]]</noinclude>
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 1–0
+|team2      = {{fbaicon|BRA}} [[Grêmio FBPA|Grêmio]]
+|goals1     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|53}}
+|goals2     =
+|stadium    = [[Zayed Sports City Stadium]], [[Abu Dhabi]]
+|attendance = 41,094<ref name="match report">{{cite web |url=https://resources.fifa.com/mm/document/tournament/competition/02/92/52/75/eng_08_1216_rma-gre_fulltime.pdf |archive-url=https://web.archive.org/web/20171217014727/http://resources.fifa.com/mm/document/tournament/competition/02/92/52/75/eng_08_1216_rma-gre_fulltime.pdf |url-status=dead |archive-date=17 December 2017 |title=Match report – Final – Real Madrid CF v Grêmio FBPA |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=16 December 2017 |access-date=16 December 2017}}</ref>
+|referee    = [[César Arturo Ramos|César Ramos]] ([[Mexican Football Federation|Mexico]])
+|report     = https://www.fifa.com/en/match-centre/match/107/276118/279805/300398163
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _realmadrid1718h
+ |pattern_b  = _rmadrid1718h wc
+ |pattern_ra = _realmadrid1718h
+ |pattern_sh = _realmadrid1718h
+ |pattern_so = _realmadrid1718h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Real Madrid}}<ref name="tactical line-ups">{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/92/52/24/eng_08_1216_rma-gre_tacticalstartlist.pdf |archive-url=https://web.archive.org/web/20171217014438/http://resources.fifa.com/mm/document/tournament/competition/02/92/52/24/eng_08_1216_rma-gre_tacticalstartlist.pdf |url-status=dead |archive-date=17 December 2017 |title=Tactical Line-up, Real Madrid CF - Grêmio FBPA |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=16 December 2017 |access-date=16 December 2017}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _gremio17h
+ |pattern_b  = _gremio17h
+ |pattern_ra = _gremio17h
+ |pattern_sh = _gremio17h
+ |pattern_so = _gremio17tl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Grêmio<ref name="tactical line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CRC}} [[Keylor Navas]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Dani Carvajal]]
+|-
+|CB ||'''5''' ||{{flagicon|FRA|1974}} [[Raphaël Varane]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Sergio Ramos]] ([[Captain (association football)|c]])
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|CM ||'''10'''||{{flagicon|CRO}} [[Luka Modrić]]
+|-
+|CM ||'''14'''||{{flagicon|BRA}} [[Casemiro]] || {{yel|27}}
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]]
+|-
+|RW ||'''22'''||{{flagicon|ESP}} [[Isco]] || || {{suboff|73}}
+|-
+|LW ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Karim Benzema]] || || {{suboff|79}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Kiko Casilla]]
+|-
+|GK ||'''35'''||{{flagicon|ESP}} [[Moha Ramos]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Jesús Vallejo]]
+|-
+|DF ||'''6''' ||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]]
+|-
+|DF ||'''15'''||{{flagicon|FRA|1974}} [[Théo Hernandez]]
+|-
+|DF ||'''19'''||{{flagicon|MAR}} [[Achraf Hakimi]]
+|-
+|MF ||'''18'''||{{flagicon|ESP}} [[Marcos Llorente]]
+|-
+|MF ||'''20'''||{{flagicon|ESP}} [[Marco Asensio]]
+|-
+|MF ||'''23'''||{{flagicon|CRO}} [[Mateo Kovačić]]
+|-
+|MF ||'''24'''||{{flagicon|ESP}} [[Dani Ceballos]]
+|-
+|FW ||'''11'''||{{flagicon|WAL}} [[Gareth Bale]] || || {{subon|79}}
+|-
+|FW ||'''17'''||{{flagicon|ESP}} [[Lucas Vázquez]] || || {{subon|73}}
+|-
+|FW ||'''21'''||{{flagicon|ESP}} [[Borja Mayoral]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA|1974}} [[Zinedine Zidane]]
+|}
+|valign="top"|[[File:Real Madrid vs Grêmio 2017-12-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Marcelo Grohe]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Edílson Mendes|Edílson]]
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Pedro Geromel]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|ARG}} [[Walter Kannemann]]
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Bruno Cortez]]
+|-
+|CM ||'''5''' ||{{flagicon|BRA}} [[Michel Ferreira dos Santos|Michel]] || || {{suboff|84}}
+|-
+|CM ||'''25'''||{{flagicon|BRA}} [[Jailson Siqueira|Jailson]]
+|-
+|RW ||'''17'''||{{flagicon|BRA}} [[Ramiro Benetti|Ramiro]] || || {{suboff|71}}
+|-
+|AM ||'''7''' ||{{flagicon|BRA}} [[Luan Vieira|Luan]]
+|-
+|LW ||'''21'''||{{flagicon|BRA}} [[Fernandinho (footballer, born November 1985)|Fernandinho]]
+|-
+|CF ||'''18'''||{{flagicon|PAR}} [[Lucas Barrios]] || || {{suboff|63}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''30'''||{{flagicon|BRA}} [[Bruno Grassi]]
+|-
+|GK ||'''48'''||{{flagicon|BRA}} [[Paulo Victor Vidotti|Paulo Victor]]
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Léo Gomes (footballer, born 1996)|Leonardo Gomes]]
+|-
+|DF ||'''14'''||{{flagicon|BRA}} [[Bruno Rodrigo]]
+|-
+|DF ||'''15'''||{{flagicon|BRA}} [[Rafael Thyere]]
+|-
+|DF ||'''22'''||{{flagicon|BRA}} [[Bressan (footballer)|Bressan]]
+|-
+|DF ||'''26'''||{{flagicon|BRA}} [[Marcelo Oliveira (footballer, born 1987)|Marcelo Oliveira]]
+|-
+|DF ||'''88'''||{{flagicon|BRA}} [[Léo Moura]]
+|-
+|MF ||'''8''' ||{{flagicon|BRA}} [[Maicon (footballer, born 1985)|Maicon]] || || {{subon|84}}
+|-
+|MF ||'''28'''||{{flagicon|BRA}} [[Kaio Mendes|Kaio]]
+|-
+|FW ||'''9''' ||{{flagicon|BRA}} [[Jael Ferreira|Jael]] || || {{subon|63}}
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Everton Soares|Everton]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BRA}} [[Renato Gaúcho]]
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Real Madrid)<ref name="match overview"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="match overview"/>
+<br />Marvin Torrentera ([[Mexican Football Federation|Mexico]])
+<br />Miguel Ángel Hernández ([[Mexican Football Federation|Mexico]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])
+<br />'''[[Video assistant referee]]s:'''
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+<br />Jakhongir Saidov ([[Uzbekistan Football Federation|Uzbekistan]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+| style="width:60%; vertical-align:top" |
+'''Match rules'''<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/91/82/38/fcwc2017uaeregulations_en_neutral.pdf |archive-url=https://web.archive.org/web/20171107030247/http://resources.fifa.com/mm/document/tournament/competition/02/91/82/38/fcwc2017uaeregulations_en_neutral.pdf |url-status=dead |archive-date=7 November 2017 |title=FIFA Club World Cup 2017 UAE: Regulations |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |year=2017 |access-date=12 December 2017}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of three substitutions, with a fourth being allowed in extra time.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/92/52/56/eng_08_1216_rma-gre_halftime.pdf |archive-url=https://web.archive.org/web/20171217014909/http://resources.fifa.com/mm/document/tournament/competition/02/92/52/56/eng_08_1216_rma-gre_halftime.pdf |url-status=dead |archive-date=17 December 2017 |title=Match report, Half-time, Real Madrid CF - Grêmio FBPA 0:0 |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=16 December 2017 |access-date=16 December 2017}}</ref>
+|-
+! scope="col" style="width:100px" | Statistic
+! scope="col" style="width:70px" | Real Madrid
+! scope="col" style="width:70px" | Grêmio
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|9
+|1
+|-
+!scope=row|Shots on target
+|1
+|0
+|-
+!scope=row|Saves
+|0
+|1
+|-
+!scope=row|Ball possession
+|63%
+|37%
+|-
+!scope=row|Corner kicks
+|6
+|1
+|-
+!scope=row|Fouls committed
+|7
+|5
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="match report"/>
+|-
+! scope="col" style="width:100px" | Statistic
+! scope="col" style="width:70px" | Real Madrid
+! scope="col" style="width:70px" | Grêmio
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|11
+|0
+|-
+!scope=row|Shots on target
+|6
+|0
+|-
+!scope=row|Saves
+|0
+|5
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|3
+|0
+|-
+!scope=row|Fouls committed
+|7
+|7
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="match report"/>
+|-
+! scope="col" style="width:100px" | Statistic
+! scope="col" style="width:70px" | Real Madrid
+! scope="col" style="width:70px" | Grêmio
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|20
+|1
+|-
+!scope=row|Shots on target
+|7
+|0
+|-
+!scope=row|Saves
+|0
+|6
+|-
+!scope=row|Ball possession
+|62%
+|38%
+|-
+!scope=row|Corner kicks
+|9
+|1
+|-
+!scope=row|Fouls committed
+|14
+|12
+|-
+!scope=row|Offsides
+|2
+|0
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[Real Madrid CF in international football competitions]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|https://www.fifa.com/tournaments/mens/clubworldcup/uae2017}}
+
+{{FIFA Club World Cup}}
+{{Real Madrid CF matches}}
+{{Grêmio Foot-Ball Porto Alegrense matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2017}}
+[[Category:2017 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2017]]
+[[Category:Real Madrid CF matches]]
+[[Category:Grêmio FBPA matches]]
+[[Category:2017–18 in Spanish men's football]]
+[[Category:2017 in Brazilian football]]
+[[Category:Football in Abu Dhabi]]
+[[Category:2010s in sport in Abu Dhabi]]
+[[Category:Football matches in the United Arab Emirates]]
+[[Category:2017–18 in Emirati football]]
+[[Category:December 2017 sports events in Asia]]
+[[Category:Brazil–Spain sports relations|2017]]

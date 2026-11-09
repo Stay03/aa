@@ -1,0 +1,472 @@
+{{Use dmy dates|date=January 2023}}
+{{Infobox international football competition
+| tourney_name = FIFA Club World Cup
+| year = 2008
+| other_titles = FIFA Club World Cup Japan 2008<br />presented by Toyota<br />Toyota プレゼンツ<br />FIFAクラブワールドカップ ジャパン2008
+| image = 2008_FIFA_Club_World_Cup.svg
+| size = 140px
+| country = Japan
+| dates = 11–21 December
+| num_teams = 7
+| confederations = 6
+| venues = 3
+| cities = 3
+| champion_other = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| count = 1
+| second_other = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+| third_other = {{fbaicon|JPN}} [[Gamba Osaka]]
+| fourth_other = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+| matches = 8
+| goals = 23
+| attendance = 355515
+| top_scorer = {{nowrap|[[Wayne Rooney]] (Manchester United)<br />3 goals}}
+| player = [[Wayne Rooney]] (Manchester United)
+| fair_play = {{fbaicon|AUS}} [[Adelaide United FC|Adelaide United]]
+| prevseason = [[2007 FIFA Club World Cup|2007]]
+| nextseason = [[2009 FIFA Club World Cup|2009]]
+}}
+The '''2008 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup Japan 2008 presented by Toyota''' for sponsorship reasons) was the fifth [[FIFA Club World Cup]], a [[association football|football]] tournament for the champion clubs from each of [[FIFA]]'s six continental confederations. The tournament was held in [[Japan]] from 11 to 21 December 2008.
+
+Defending champions [[A.C. Milan|Milan]] did not qualify, having been eliminated in the round of 16 of the [[2007–08 UEFA Champions League]]. The winners of that competition, [[Manchester United F.C.|Manchester United]], won the Club World Cup for the first time, beating [[Gamba Osaka]] 5–3 in the semi-finals before a 1–0 win over [[L.D.U. Quito|LDU Quito]] in the [[2008 FIFA Club World Cup final|final]] at the [[International Stadium Yokohama|International Stadium]] in [[Yokohama]] on 21 December. It was United's second world title, following the [[1999 Intercontinental Cup]], which was also held in Japan. It was also the first edition in which the CONMEBOL representative did not hail from either Argentina or Brazil.
+
+The fifth-place match, dropped for the [[2007 FIFA Club World Cup|2007 tournament]], was reintroduced for 2008, with the total prize money being increased by [[United States dollar|US$]]500,000 to US$16.5&nbsp;million. The winners took away US$5&nbsp;million, the losing finalists US$4&nbsp;million, the third-placed team US$2.5&nbsp;million, the fourth-placed team US$2&nbsp;million, the fifth-placed team US$1.5&nbsp;million, the sixth-placed team US$1&nbsp;million and the seventh-placed team US$500,000.<ref name="2008Changes">{{cite web |url=https://www.fifa.com/clubworldcup/organisation/media/newsid=711059.html |title=Organising committee approves tournament format with reintroduction of match for fifth place |publisher=[[FIFA]] |date=12 March 2008 |access-date=13 December 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080314224518/http://www.fifa.com/clubworldcup/organisation/media/newsid%3D711059.html |archive-date=14 March 2008}}</ref>
+
+==Host bids==
+On 13 August 2007, the Organising Committee for the FIFA Club World Cup recommended to the [[FIFA Executive Committee]] that Japan should host the 2008 tournament.<ref>{{cite web |url=http://fifa.com/clubworldcup/organisation/media/newsid%3D570740.html |title=Organising Committee strengthens FIFA Club World Cup format |publisher=[[FIFA]] |date=14 August 2007 |access-date=28 December 2022 |url-status=dead |archive-url=https://web.archive.org/web/20071011160129/http://fifa.com/clubworldcup/organisation/media/newsid=570740.html |archive-date=11 October 2007}}</ref> This was approved by the executive committee on 29 October 2007 during their meeting in [[Zürich]], Switzerland.<ref>{{cite web |url=http://www.fifa.com/aboutfifa/federation/administration/releases/newsid%3D625122.html |title=Rotation ends in 2018 |publisher=[[FIFA]] |date=29 October 2007 |access-date=28 December 2022 |url-status=dead |archive-url=https://web.archive.org/web/20081023200129/http://www.fifa.com/aboutfifa/federation/administration/releases/newsid=625122.html |archive-date=23 October 2008}}</ref>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of teams of the 2008 FIFA Club World Cup|places=
+<!--Host-->
+{{Location map~|World|lat=-34.9075|long=138.568889|label_size=80|label=[[Adelaide United FC|Adelaide United]]|position=left}}
+<!--CAF-->
+{{Location map~|World|lat=30.069114|long=31.312333|label_size=80|label=[[Al Ahly SC|Al Ahly]]|position=right}}
+<!--AFC-->
+{{Location map~|World|lat=34.810331|long=135.542752|label_size=80|label=[[Gamba Osaka]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=53.463056|long=-2.291389|label_size=80|label=[[Manchester United F.C.|Manchester United]]|position=right}}
+<!--CONCACAF-->
+{{Location map~|World|lat=20.10514|long=-98.75611|label_size=80|label=[[C.F. Pachuca|Pachuca]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-36.8001|long=174.5957|label_size=80|label=[[Waitakere United]]|position=left}}
+<!--CONMEBOL-->
+{{Location map~|World|lat=-0.107717|long=-78.489103|label_size=80|label=[[L.D.U. Quito|LDU Quito]]|position=right}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Participation
+|-
+!colspan=4|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|[[UEFA]]
+|Winners of the [[2007–08 UEFA Champions League]]
+|2nd {{small|(Previous: [[2000 FIFA Club World Championship|2000]])}}
+|-
+|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|[[CONMEBOL]]
+|Winners of the [[2008 Copa Libertadores]]
+|Debut
+|-
+!colspan=4|Entering in the [[#Quarter-finals|quarter-finals]]
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2008 CAF Champions League]]
+|3rd {{small|(Previous: [[2005 FIFA Club World Championship|2005]], [[2006 FIFA Club World Cup|2006]])}}
+|-
+|{{fbaicon|JPN}} [[Gamba Osaka]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2008 AFC Champions League]]
+|Debut
+|-
+|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|[[CONCACAF]]
+|Winners of the [[2008 CONCACAF Champions' Cup]]
+|2nd {{small|(Previous: [[2007 FIFA Club World Cup|2007]])}}
+|-
+!colspan=4|Entering in the [[#Play-off for quarter-finals|play-off for quarter-finals]]
+|-
+|{{fbaicon|AUS}} [[Adelaide United FC|Adelaide United]]
+|[[Asian Football Confederation|AFC]] ([[Japan Football Association|host]]){{efn|group=note|name=Adelaide United|Adelaide United took the host Japan's slot as Gamba Osaka won the [[2008 AFC Champions League]]. As a result, the winners of the [[2008 J.League Division 1]], later determined to be [[Kashima Antlers]] on 6 December 2008, missed out on participating.}}
+|Runners-up of the [[2008 AFC Champions League]]{{efn|group=note|name=Adelaide United}}
+|Debut
+|-
+|{{fbaicon|NZL}} [[Waitakere United]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2007–08 OFC Champions League]]
+|2nd {{small|(Previous: [[2007 FIFA Club World Cup|2007]])}}
+|}
+'''Notes'''
+{{reflist|group=note}}
+
+==Venues==
+Tokyo, Yokohama and Toyota were the three cities to serve as venues for the 2008 FIFA Club World Cup.
+
+{| class="wikitable" style="text-align:center"
+|-
+![[Yokohama]]
+![[Tokyo]]
+![[Toyota, Aichi|Toyota]]
+|-
+| [[International Stadium Yokohama]]
+| [[National Stadium (Tokyo, 1958)|National Stadium]]
+| [[Toyota Stadium (Japan)|Toyota Stadium]]
+|-
+| <small>{{Coord|35|30|36.16|N|139|36|22.49|E|type:landmark|display=inline|name=International Stadium Yokohama}}</small>
+| <small>{{Coord|35|40|41.00|N|139|42|53.00|E|type:landmark_source:dewiki|display=inline|name=National Olympic Stadium}}</small>
+| <small>{{Coord|35|05|04.02|N|137|10|14.02|E|type:landmark_source:dewiki|display=inline|name=Toyota Stadium}}</small>
+|-
+| Capacity: '''72,327'''
+| Capacity: '''57,363'''
+| Capacity: '''45,000'''
+|-
+| [[File:NISSANSTADIUM20080608.JPG|200px]]
+| [[File:KokuritshuKasumigaoka-5.JPG|200px]]
+| [[File:Toyota sta 0313 2.JPG|200px]]
+|-
+!colspan=5|{{location map+ |Japan |float=center |width=400 |places=
+{{location map~ |Japan |lat=35.510044 |long=139.606247 |label=[[Yokohama]]|position=bottom}}
+{{location map~ |Japan |lat=35.678056 |long=139.714722 |label=[[Tokyo]] |position=top}}
+{{location map~ |Japan |lat=35.084500 |long=137.170611 |label=[[Toyota, Aichi|Toyota]] |position=left}}}}
+|}
+
+==Match officials==
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+|-
+|rowspan=2|[[Asian Football Confederation|AFC]]
+|{{fbaicon|UZB}} [[Ravshan Irmatov]]
+|{{fbaicon|UZB}} Abdukhamidullo Rasulov <br/> {{fbaicon|KGZ}} Bahadyr Kochkorov
+|-
+|{{fbaicon|JPN}} [[Yuichi Nishimura]]
+|{{fbaicon|JPN}} Toru Sagara <br/> {{fbaicon|KOR|1997}} Jeong Hae-Sang
+|-
+|[[Confederation of African Football|CAF]]
+|{{fbaicon|ALG}} [[Mohamed Benouza]]
+|{{fbaicon|EGY}} Nasser Sadek Abdel Nabi <br/> {{fbaicon|ERI}} Angesom Ogbamariam
+|-
+|[[CONCACAF]]
+|{{fbaicon|MEX}} [[Benito Archundia]]
+|{{fbaicon|MEX}} Hector Delgadillo <br/> {{fbaicon|MEX}} Marvin Rivera
+|-
+|[[CONMEBOL]]
+|{{fbaicon|CHI}} [[Pablo Pozo]]
+|{{fbaicon|CHI}} Patricio Basualto <br/> {{fbaicon|CHI}} Julio Díaz
+|-
+|[[Oceania Football Confederation|OFC]]
+|{{fbaicon|NZL}} [[Peter O'Leary (referee)|Peter O'Leary]]
+|{{fbaicon|NZL}} Brent Best <br/> {{fbaicon|SOL}} Matthew Taro
+|-
+|[[UEFA]]
+|{{fbaicon|ESP}} [[Alberto Undiano Mallenco]]
+|{{fbaicon|ESP}} Fermín Martínez <br/> {{fbaicon|ESP}} Juan Carlos Yuste Jiménez
+|}
+
+==Squads==
+{{further|2008 FIFA Club World Cup squads}}
+
+==Matches==
+{{7TeamBracket-StepladderToSF
+| style       = 2
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#Play-off for quarter-finals|Play-off for quarter-finals]]
+| RD2         = [[#Quarter-finals|Quarter-finals]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD3b        = [[#Match for fifth place|Match for fifth place]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- Play-off for quarter-finals -->
+| RD1-text1    = 11 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD1-team1    = {{fbaicon|AUS}} [[Adelaide United FC|Adelaide United]]
+| RD1-score1   = 2
+| RD1-team2    = {{fbaicon|NZL}} [[Waitakere United]]
+| RD1-score2   = 1
+
+<!-- Quarter-finals -->
+| RD2-text1    = 13 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD2-team1    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD2-score1   = 2
+| RD2-team2    = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]] {{aet}}
+| RD2-score2   = 4
+
+| RD2-text2    = 14 December – [[Toyota Stadium (Japan)|Toyota]]
+| RD2-team3    = {{fbaicon|AUS}} [[Adelaide United FC|Adelaide United]]
+| RD2-score3   = 0
+| RD2-team4    = {{fbaicon|JPN}} [[Gamba Osaka]]
+| RD2-score4   = 1
+
+<!-- Semi-finals -->
+| RD3-text1    = 17 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD3-team1    = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+| RD3-score1   = 0
+| RD3-team2    = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+| RD3-score2   = 2
+
+| RD3-text2    = 18 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD3-team3    = {{fbaicon|JPN}} [[Gamba Osaka]]
+| RD3-score3   = 3
+| RD3-team4    = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| RD3-score4   = 5
+
+<!-- Final -->
+| RD4-text1    = 21 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD4-team1    = {{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+| RD4-score1   = 0
+| RD4-team2    = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| RD4-score2   = 1
+
+<!-- Match for fifth place -->
+| RD3-text3    = 18 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD3-team5    = {{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+| RD3-score5   = 0
+| RD3-team6    = {{fbaicon|AUS}} [[Adelaide United FC|Adelaide United]]
+| RD3-score6   = 1
+
+<!-- Match for third place -->
+| RD4-text2    = 21 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD4-team3    = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+| RD4-score3   = 0
+| RD4-team4    = {{fbaicon|JPN}} [[Gamba Osaka]]
+| RD4-score4   = 1
+}}
+
+''All times are [[Japan Standard Time]] ([[UTC+09:00|UTC+9]])''
+
+===Play-off for quarter-finals===
+{{football box
+|date=11 December 2008
+|time=19:45
+|team1=[[Adelaide United FC|Adelaide United]] {{fbaicon|AUS}}
+|score=2–1
+|report=https://www.fifa.com/clubworldcup/matches/round=252218/match=300073488/report.html
+|team2={{fbaicon|NZL}} [[Waitakere United]]
+|goals1=[[Daniel Mullen (footballer)|Mullen]] {{goal|39}}<br/>[[Travis Dodd|Dodd]] {{goal|83}}
+|goals2=[[Paul Seaman|Seaman]] {{goal|34}}
+|stadium=[[National Stadium (Tokyo, 1958)|National Stadium]], [[Tokyo]]
+|attendance=19,777
+|referee=[[Mohamed Benouza]] ([[Algerian Football Federation|Algeria]]) }}
+
+===Quarter-finals===
+{{football box
+|date=13 December 2008
+|time=13:45
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=2–4
+|aet=yes
+|report=https://www.fifa.com/clubworldcup/matches/round=252217/match=300073123/report.html
+|team2={{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|goals1=[[Fausto Pinto|Pinto]] {{goal|28|o.g.}}<br />[[Flávio Amado|Flávio]] {{goal|44}}
+|goals2=[[Luis Montes|Montes]] {{goal|47}}<br />[[Christian Giménez (1981)|Giménez]] {{goal|72||110}}<br />[[Damián Ariel Álvarez|Álvarez]] {{goal|98}}
+|stadium=[[National Stadium (Tokyo, 1958)|National Stadium]], [[Tokyo]]
+|attendance=30,158
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]]) }}
+----
+{{football box
+|date=14 December 2008
+|time=19:30
+|team1=[[Adelaide United FC|Adelaide United]] {{fbaicon|AUS}}
+|score=0–1
+|report=https://www.fifa.com/clubworldcup/matches/round=252217/match=300073122/report.html
+|team2={{fbaicon|JPN}} [[Gamba Osaka]]
+|goals2=[[Yasuhito Endō|Endō]] {{goal|23}}
+|stadium=[[Toyota Stadium (Japan)|Toyota Stadium]], [[Toyota, Aichi|Toyota]]
+|attendance=38,141
+|referee=[[Pablo Pozo]] ([[Football Federation of Chile|Chile]]) }}
+
+===Semi-finals===
+{{football box
+|date=17 December 2008
+|time=19:30
+|team1=[[C.F. Pachuca|Pachuca]] {{fbaicon|MEX}}
+|score=0–2
+|report=https://www.fifa.com/clubworldcup/matches/round=252222/match=300073125/report.html
+|team2={{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|goals2=[[Claudio Bieler|Bieler]] {{goal|4}}<br />[[Luis Bolaños|Bolaños]] {{goal|26}}
+|stadium=[[National Stadium (Tokyo, 1958)|National Stadium]], [[Tokyo]]
+|attendance=33,366
+|referee=[[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]]) }}
+----
+{{football box
+|date=18 December 2008
+|time=19:30
+|team1=[[Gamba Osaka]] {{fbaicon|JPN}}
+|score=3–5
+|report=https://www.fifa.com/clubworldcup/matches/round=252222/match=300073124/report.html
+|team2={{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1=[[Masato Yamazaki (footballer, born 1981)|Yamazaki]] {{goal|74}}<br />[[Yasuhito Endō|Endō]] {{goal|85|pen.}}<br />[[Hideo Hashimoto|Hashimoto]] {{goal|90+1}}
+|goals2=[[Nemanja Vidić|Vidić]] {{goal|28}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|45+1}}<br />[[Wayne Rooney|Rooney]] {{goal|75||79}}<br />[[Darren Fletcher|Fletcher]] {{goal|78}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=67,618
+|referee=[[Benito Archundia]] ([[Mexican Football Federation|Mexico]]) }}
+
+===Match for fifth place===
+{{football box
+|date=18 December 2008
+|time=16:30
+|team1=[[Al Ahly SC|Al Ahly]] {{fbaicon|EGY}}
+|score=0–1
+|report=https://www.fifa.com/clubworldcup/matches/round=252221/match=300073126/report.html
+|team2={{fbaicon|AUS}} [[Adelaide United FC|Adelaide United]]
+|goals2=[[Cristiano dos Santos Rodrigues|Cristiano]] {{goal|7}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=35,154
+|referee=[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]]) }}
+
+===Match for third place===
+{{football box
+|date=21 December 2008
+|time=16:30
+|team1=[[C.F. Pachuca|Pachuca]] {{fbaicon|MEX}}
+|score=0–1
+|report=https://www.fifa.com/clubworldcup/matches/round=252220/match=300073128/report.html
+|team2={{fbaicon|JPN}} [[Gamba Osaka]]
+|goals2=[[Masato Yamazaki (footballer, born 1981)|Yamazaki]] {{goal|29}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=62,619
+|referee=[[Pablo Pozo]] ([[Football Federation of Chile|Chile]]) }}
+
+===Final===
+{{main|2008 FIFA Club World Cup final}}
+{{football box
+|date=21 December 2008
+|time=19:30
+|team1=[[L.D.U. Quito|LDU Quito]] {{fbaicon|ECU}}
+|score=0–1
+|report=https://www.fifa.com/clubworldcup/matches/round=252219/match=300073127/report.html
+|team2={{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals2=[[Wayne Rooney|Rooney]] {{goal|73}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=68,682
+|referee=[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]]) }}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|1
+|style="text-align:left"|{{flagicon|ENG}} [[Wayne Rooney]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|3
+|-
+|rowspan=3|2
+|style="text-align:left"|{{flagicon|JPN}} [[Yasuhito Endō]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Gamba Osaka]]
+|rowspan=3|2
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Christian Giménez (1981)|Christian Giménez]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Masato Yamazaki (footballer, born 1981)|Masato Yamazaki]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Gamba Osaka]]
+|-
+|rowspan=13|5
+|style="text-align:left"|{{flagicon|ARG}} [[Damián Ariel Álvarez|Damián Álvarez]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|rowspan=13|1
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Claudio Bieler]]
+|style="text-align:left"|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|-
+|style="text-align:left"|{{flagicon|ECU}} [[Luis Bolaños]]
+|style="text-align:left"|{{fbaicon|ECU}} [[L.D.U. Quito|LDU Quito]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Cristiano dos Santos Rodrigues|Cristiano]]
+|style="text-align:left"|{{fbaicon|AUS}} [[Adelaide United FC|Adelaide United]]
+|-
+|style="text-align:left"|{{flagicon|AUS}} [[Travis Dodd]]
+|style="text-align:left"|{{fbaicon|AUS}} [[Adelaide United FC|Adelaide United]]
+|-
+|style="text-align:left"|{{flagicon|ANG}} [[Flávio Amado|Flávio]]
+|style="text-align:left"|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|-
+|style="text-align:left"|{{flagicon|SCO}} [[Darren Fletcher]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Hideo Hashimoto]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Gamba Osaka]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Luis Montes]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|-
+|style="text-align:left"|{{flagicon|AUS}} [[Daniel Mullen (footballer)|Daniel Mullen]]
+|style="text-align:left"|{{fbaicon|AUS}} [[Adelaide United FC|Adelaide United]]
+|-
+|style="text-align:left"|{{flagicon|POR}} [[Cristiano Ronaldo]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|-
+|style="text-align:left"|{{flagicon|WAL}} [[Paul Seaman]]
+|style="text-align:left"|{{fbaicon|NZL}} [[Waitakere United]]
+|-
+|style="text-align:left"|{{flagicon|SRB|2004}} [[Nemanja Vidić]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|}
+
+'''1 own goal'''
+*{{flagicon|MEX}} [[Fausto Pinto]] ([[C.F. Pachuca|Pachuca]], against [[Al Ahly SC|Al Ahly]])
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Toyota]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|ENG}} [[Wayne Rooney]]<br />([[Manchester United F.C.|Manchester United]])
+|{{flagicon|POR}} [[Cristiano Ronaldo]]<br />([[Manchester United F.C.|Manchester United]])
+|{{flagicon|ARG}} [[Damián Manso]]<br />([[L.D.U. Quito|LDU Quito]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|AUS}} [[Adelaide United FC|Adelaide United]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikivoyage}}
+*[https://www.fifa.com/tournaments/mens/clubworldcup/japan2008 FIFA Club World Cup Japan 2008], FIFA.com
+*[https://web.archive.org/web/20090107093849/http://fifa.com/clubworldcup/index.html 2008 FIFA Club World Cup Official Site] (Archived)
+*[https://web.archive.org/web/20111220060704/http://www.fifa.com/mm/document/affederation/technicaldevp/01/03/18/35/cwcjapan2008report.pdf FIFA Technical Report]
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2008 FIFA Club World Cup| ]]
+[[Category:Football competitions in Tokyo]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:2000s in Yokohama]]
+[[Category:Football in Yokohama]]
+[[Category:2008 in men's association football]]
+[[Category:2008–09 in English men's football]]
+[[Category:2008–09 in Mexican football]]
+[[Category:2008–09 in Egyptian football]]
+[[Category:2008 in Japanese men's football]]
+[[Category:2008 in Ecuadorian football]]
+[[Category:2008–09 in Australian men's soccer]]
+[[Category:2008–09 in New Zealand association football]]
+[[Category:Football club competitions in Japan]]
+[[Category:FIFA Club World Cup tournaments|2008]]
+[[Category:December 2008 sports events in Japan]]
+[[Category:2008 in Tokyo]]
+[[Category:Sport in Toyota, Aichi]]
+[[Category:Sports competitions in Aichi Prefecture]]

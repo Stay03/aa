@@ -1,0 +1,585 @@
+{{Short description|Football match}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox football match
+| title              = 2022 UEFA Europa Conference League final
+| image              = 2022 UEFA Europa Conference League Final programme.jpg
+| image_size         = frameless
+| caption            = Match programme cover
+| event              = [[2021–22 UEFA Europa Conference League]]
+| team1              = [[AS Roma|Roma]]
+| team1association   = {{fbaicon|ITA|size=30px}}
+| team1score         = 1
+| team2              = [[Feyenoord]]
+| team2association   = {{fbaicon|NED|size=30px}}
+| team2score         = 0
+| details            =
+| date               = {{Start date|2022|5|25|df=y}}
+| stadium            = [[Arena Kombëtare]]
+| city               = [[Tirana]]
+| man_of_the_match1a = [[Chris Smalling]] (Roma)<ref name="MOTM">{{cite news |url=https://www.uefa.com/uefaconferenceleague/news/0275-153b4097622c-0e79dca83403-1000/ |title=Smalling named official UEFA Europa Conference League final Laufenn Player of the Match |website=UEFA.com|publisher=Union of European Football Associations|date=25 May 2022 |access-date=25 May 2022}}</ref>
+| referee            = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])<ref name="officials">{{cite news |url=https://www.uefa.com/news-media/news/0275-151e847d9f62-c7c70e5d01ff-1000/ |title=Referee teams appointed for 2022 UEFA club competition finals |website=UEFA.com |publisher=Union of European Football Associations|date=11 May 2022 |access-date=11 May 2022}}</ref>
+| attendance         = 19,597<ref name="report"/>
+| weather            = Sunny<br />{{convert|23|°C|°F}}<br />51% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2022/2033451_LU.pdf |title=Tactical Lineups – Final – Wednesday 25 May 2022 |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=25 May 2022 |access-date=25 May 2022 |archive-url=https://web.archive.org/web/20220525175015/https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2022/2033451_lu.pdf |archive-date=25 May 2022 |url-status=dead}}</ref>
+| next               = [[2023 UEFA Europa Conference League final|2023]]
+}}
+The '''2022 UEFA Europa Conference League final''' was the final match of the [[2021–22 UEFA Europa Conference League]], the first season of Europe's tertiary club [[association football|football]] tournament organised by [[UEFA]]. It was played on 25 May 2022 at the [[Arena Kombëtare]] in [[Tirana]], Albania,<ref>{{cite news |url=https://www.uefa.com/uefaconferenceleague/news/0264-10fe90612aa3-37b2bc77f89e-1000--europa-conference-league-lowdown/ |title=UEFA Europa Conference League: all you need to know |website=UEFA.com |publisher=Union of European Football Associations|date=2 December 2020 |access-date=3 December 2020}}</ref><ref name="3 Dec">{{cite news |url=https://www.uefa.com/news-media/news/0264-11008e81d161-577edb45950b-1000/ |title=Tirana to host first UEFA Europa Conference League Final |website=UEFA.com |publisher=Union of European Football Associations|date=3 December 2020 |access-date=3 December 2020}}</ref> between Italian club [[AS Roma|Roma]] and Dutch club [[Feyenoord]].
+
+Roma won the match 1–0 to secure the inaugural UEFA Europa Conference League title, the first club from Italy to win a UEFA competition in 12 years.<ref>{{cite web|url= https://www.bbc.com/sport/football/61563232|title= Roma 1 Feyenoord 0|date=25 May 2022|work=BBC Sport|accessdate=15 June 2022}}</ref><ref>{{cite news |url=https://www.uefa.com/uefaconferenceleague/news/0275-153b4c3b58ce-9dd2bc95bfd0-1000/ |title=Roma 1–0 Feyenoord: Zaniolo strike wins the first Europa Conference League final |website=UEFA.com|publisher=Union of European Football Associations|date=25 May 2022 |access-date=25 May 2022}}</ref><ref>{{cite web|url= https://www.theguardian.com/football/live/2022/may/25/roma-v-feyenoord-europa-conference-league-final-live-score-updates|title= Roma 1-0 Feyenoord: Europa Conference League final – as it happened!|date=25 May 2022|work=The Guardian|accessdate=15 June 2022}}</ref> As they had already qualified for the group stage of the [[2022–23 UEFA Europa League]] via their domestic league performance, that competition's access list was rebalanced, with Feyenoord qualifying for the group stage instead of play-off round as the third place in the [[2021–22 Eredivisie]]. If Roma had not qualified for the Champions League or the Europa League through their league performance, they would have received a place in the Europa League group stage instead.
+
+==Venue==
+[[File:Arena Kombëtare, Tiranë.jpg|thumb|The [[Arena Kombëtare]] in [[Tirana]] hosted the final.]]
+
+The match was the first UEFA competition final to be played in Albania. The 21,690-seat [[Arena Kombëtare]] is the home stadium of the [[Albania national football team|Albania national team]], as well as clubs [[FC Dinamo City|Dinamo Tirana]] and [[FK Partizani Tirana|Partizani]]. Construction of the stadium began in 2016<ref>{{cite news|url=http://rtsh.al/lajme/fillon-zyrtarisht-prishja-e-stadiumit-qemal-stafa/|title=Fillon zyrtarisht prishja e stadiumit Qemal Stafa|trans-title=The demolition of Qemal Stafa Stadium has officially begun|agency=Albanian Public Television|language=sq|date=9 June 2016|access-date=9 June 2016|archive-date=18 August 2016|archive-url=https://web.archive.org/web/20160818073540/http://rtsh.al/lajme/fillon-zyrtarisht-prishja-e-stadiumit-qemal-stafa/|url-status=dead}}</ref> and was completed by November 2019.<ref>{{cite news |url=https://www.uefa.com/uefaconferenceleague/news/026a-129ce894fb58-b6a4b71a3659-1000/ |title=2022 UEFA Europa Conference League final: Tirana |website=UEFA.com|publisher=Union of European Football Associations |date=5 May 2022 |access-date=7 May 2022}}</ref>
+
+===Host selection===
+A bidding process was launched by UEFA to select the venues of the finals of the UEFA Europa Conference League in 2022 and [[2023 UEFA Europa Conference League Final|2023]]. Associations interested in hosting one of the finals had until 20 February 2020 to submit bid dossiers.
+
+{| class="wikitable sortable"
+|+Bidding associations for 2022 UEFA Europa Conference League Final
+|-
+! Association !! Stadium !! City !! Capacity
+|- bgcolor=#ccffcc
+| {{fba|ALB}} || [[Arena Kombëtare]] || [[Tirana]] || 22,500
+|-
+| {{fba|FRA|1974}} || [[Stade Geoffroy-Guichard]] || [[Saint-Étienne]] || 41,965
+|-
+| {{fba|GRE}} || [[Pankritio Stadium]] || [[Heraklion]] || 26,240
+|-
+| {{fba|MKD}} || [[Toše Proeski Arena]] || [[Skopje]] || 33,460
+|}
+
+[[Arena Kombëtare]] was selected by the UEFA Executive Committee during their meeting on 3 December 2020.<ref>{{cite news |url=https://www.agonasport.com/agonasport-allnews/epo-plans-to-submit-bid-to-host-uefa-europa-conference-league-final |title=EPO plans to submit bid to host UEFA Europa Conference League final |work=AGONAsport |date=28 December 2019 |access-date=12 August 2020 |archive-url=https://web.archive.org/web/20210518101847/https://www.agonasport.com/agonasport-allnews/epo-plans-to-submit-bid-to-host-uefa-europa-conference-league-final |archive-date=18 May 2021 |url-status=dead}}</ref><ref>{{cite news |url=https://www.uefa.com/news-media/news/0263-10f3e3acff13-1a62f63f75de-1000/ |title=UEFA Executive Committee agenda for December meeting |website=UEFA.com|publisher=Union of European Football Associations|date=27 November 2020 |access-date=27 November 2020}}</ref><ref name="3 Dec"/><ref>{{cite web|url=https://www.uefa.com/uefaconferenceleague/news/0264-11009159b088-292e77b2303e-1000--tirana-to-stage-europa-conference-league-final/|title=Tirana to stage first Europa Conference League final in 2022|website=UEFA.com|publisher=Union of European Football Associations|date=3 December 2020}}</ref>
+
+==Background==
+[[File:A graffito in honour of Jose Mourinho in the streets of Rome.jpg|thumb|A graffito in honour of Jose Mourinho in the streets of Rome]]
+This was Roma's third final in a major UEFA competition, having lost the [[1984 European Cup final]] to [[Liverpool F.C.|Liverpool]] and the [[1991 UEFA Cup final]] to fellow Italian club [[Inter Milan]], who were the most recent Italian club to reach a European final – losing in the [[2020 UEFA Europa League final]].<ref>{{cite web|url=https://www.uefa.com/uefaconferenceleague/match/2033448--roma-vs-leicester/|title=Roma-Leicester |website=UEFA.com|publisher=Union of European Football Associations |date=5 May 2022|access-date=5 May 2022}}</ref> Roma was seeking to win their first trophy since the [[2007–08 Coppa Italia]], and a first European title for an Italian side since Inter won the [[2010 UEFA Champions League final]]. Their head coach [[José Mourinho]], having become the first manager to reach European finals with four different clubs – including the aforementioned 2010 Champions League final, was seeking to become only the third manager – after [[Udo Lattek]] and [[Giovanni Trapattoni]] – to have [[UEFA club competition records and statistics#List of managers to have won the three main European club competitions|won all three existing major European trophies]], and the first to achieve the UEFA treble by winning the [[UEFA Champions League|European Champion Clubs' Cup/UEFA Champions League]], [[UEFA Europa League|UEFA Cup/Europa League]], and UEFA Europa Conference League (in place of the now-defunct [[UEFA Cup Winners' Cup]]).<ref name="ROMFEY"/>
+
+This was Feyenoord's fourth final in a major UEFA competition, having won the [[1970 European Cup final]] and both the [[1974 UEFA Cup final|1974]] and [[2002 UEFA Cup final|2002]] UEFA Cup finals. The first Dutch club to reach a European final since [[De Klassieker|their rivals]] [[AFC Ajax|Ajax]] lost the [[2017 UEFA Europa League final]] to Mourinho's [[Manchester United F.C.|Manchester United]] and the most recent to win a European title, they were seeking to join [[Juventus FC|Juventus]], Ajax, [[FC Bayern Munich|Bayern Munich]], [[Chelsea F.C.|Chelsea]] and Manchester United as the only clubs to have [[UEFA club competition records and statistics#List of teams to have won the main European club competitions|won all three existing major European trophies]], and the first to achieve the UEFA treble by winning the European Champion Clubs' Cup/UEFA Champions League, UEFA Cup/Europa League and UEFA Europa Conference League (again in place of the Cup Winners' Cup). Their head coach [[Arne Slot]] was seeking to become the first Dutch to win a European trophy since [[Dick Advocaat]] with [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] in the [[2008 UEFA Super Cup]].<ref>{{cite web |url=https://www.uefa.com/uefaconferenceleague/match/2033449--marseille-vs-feyenoord/|title=Marseille-Feyenoord |website=UEFA.com|publisher=Union of European Football Associations |date=5 May 2022}}</ref><ref name="ROMFEY">{{cite web|url=https://www.uefa.com/uefaconferenceleague/news/0272-148692fa0a08-b95ab7bc5187-1000--final-roma-vs-feyenoord/|title=UEFA Europa Conference League final: Roma vs Feyenoord|website=UEFA.com|publisher=Union of European Football Associations|url-status=live|archive-url=https://web.archive.org/web/20220505223803/https://www.uefa.com/uefaeuropaconferenceleague/news/0272-148692fa0a08-b95ab7bc5187-1000--final-roma-vs-feyenoord/|archive-date=5 May 2022 |date=5 May 2022}}</ref>
+
+The two sides previously met twice in European competitions, in the [[2014–15 UEFA Europa League]] [[2014–15 UEFA Europa League knockout phase#Round of 32|round of 32]], with Roma won one and drew one.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaconferenceleague/news/0272-145984bdbe35-d22360e0966d-1000--uefa-europa-conference-league-final-head-to-head-records/|title=UEFA Europa Conference League: Final head-to-head records|url-status=dead|archive-url=https://web.archive.org/web/20220506021420/https://www.uefa.com/uefaeuropaconferenceleague/news/0272-145984bdbe35-d22360e0966d-1000--uefa-europa-conference-league-final-head-to-head-records/|website=UEFA.com|publisher=Union of European Football Associations |date=5 May 2022|archive-date=6 May 2022}}</ref>
+
+==Route to the final==
+{{Further|2021–22 UEFA Europa Conference League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|ITA}} [[AS Roma|Roma]]
+!Round
+!colspan="4"|{{fbaicon|NED}} [[Feyenoord]]
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|style="background:#C1E0FF"|[[2021–22 UEFA Europa Conference League qualifying phase and play-off round|Qualifying phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|colspan="4" rowspan="2"|Bye
+|style="background:#C1E0FF"|Second qualifying round
+|align="left"|{{fbaicon|KOS}} [[FC Drita|Drita]]
+|3–2
+|[[2021–22 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#Q2 31.1|0–0]] (A)
+|[[2021–22 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#Q2 31.2|3–2]] (H)
+|-
+|style="background:#C1E0FF"|Third qualifying round
+|align="left"|{{fbaicon|SUI}} [[FC Luzern|Luzern]]
+|6–0
+|[[2021–22 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#Q3 10.1|3–0]] (A)
+|[[2021–22 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#Q3 10.2|3–0]] (H)
+|-
+|align="left"|{{fbaicon|TUR}} [[Trabzonspor]]
+|5–1
+|[[2021–22 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#PO 15.1|2–1]] (A)
+|[[2021–22 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#PO 15.2|3–0]] (H)
+|style="background:#C1E0FF"|Play-off round
+|align="left"|{{fbaicon|SWE}} [[IF Elfsborg]]
+|6–3
+|[[2021–22 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#PO 11.1|5–0]] (H)
+|[[2021–22 UEFA Europa Conference League qualifying phase and play-off round (Main Path)#PO 11.2|1–3]] (A)
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2021–22 UEFA Europa Conference League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|BUL}} [[PFC CSKA Sofia|CSKA Sofia]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#Roma v CSKA Sofia|5–1]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|ISR}} [[Maccabi Haifa F.C.|Maccabi Haifa]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#Maccabi Haifa v Feyenoord|0–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|UKR}} [[FC Zorya Luhansk|Zorya Luhansk]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#Zorya Luhansk v Roma|3–0]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|CZE}} [[SK Slavia Prague|Slavia Prague]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#Feyenoord v Slavia Prague|2–1]] (H)
+|-
+|style="text-align:left"|{{fbaicon|NOR}} [[FK Bodø/Glimt|Bodø/Glimt]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#Bodø/Glimt v Roma|1–6]] (A)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|GER}} [[1. FC Union Berlin|Union Berlin]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#Feyenoord v Union Berlin|3–1]] (H)
+|-
+|style="text-align:left"|{{fbaicon|NOR}} [[FK Bodø/Glimt|Bodø/Glimt]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#Roma v Bodø/Glimt|2–2]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|GER}} [[1. FC Union Berlin|Union Berlin]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#Union Berlin v Feyenoord|2–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|UKR}} [[FC Zorya Luhansk|Zorya Luhansk]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#Roma v Zorya Luhansk|4–0]] (H)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|CZE}} [[SK Slavia Prague|Slavia Prague]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#Slavia Prague v Feyenoord|2–2]] (A)
+|-
+|style="text-align:left"|{{fbaicon|BUL}} [[PFC CSKA Sofia|CSKA Sofia]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#CSKA Sofia v Roma|3–2]] (A)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|ISR}} [[Maccabi Haifa F.C.|Maccabi Haifa]]
+|colspan="3"|[[2021–22 UEFA Europa Conference League group stage#Feyenoord v Maccabi Haifa|2–1]] (H)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2021–22 UEFA Europa Conference League group stage#Group C|Group C]] winners'''
+<div class="center">{{2021–22 UEFA Europa Conference League group tables|Group C|only_pld_pts=yes|show_matches=no|showteam=ROM}}</div>
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2021–22 UEFA Europa Conference League group stage#Group E|Group E]] winners'''
+<div class="center">{{2021–22 UEFA Europa Conference League group tables|Group E|only_pld_pts=yes|show_matches=no|showteam=FEY}}</div>
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2021–22 UEFA Europa Conference League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|NED}} [[SBV Vitesse|Vitesse]]
+|2–1
+|[[2021–22 UEFA Europa Conference League knockout phase#Vitesse v Roma|1–0]] (A)
+|[[2021–22 UEFA Europa Conference League knockout phase#Roma v Vitesse|1–1]] (H)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|SRB}} [[FK Partizan|Partizan]]
+|8–3
+|[[2021–22 UEFA Europa Conference League knockout phase#Partizan v Feyenoord|5–2]] (A)
+|[[2021–22 UEFA Europa Conference League knockout phase#Feyenoord v Partizan|3–1]] (H)
+|-
+|style="text-align:left"|{{fbaicon|NOR}} [[FK Bodø/Glimt|Bodø/Glimt]]
+|5–2
+|[[2021–22 UEFA Europa Conference League knockout phase#Bodø/Glimt v Roma|1–2]] (A)
+|[[2021–22 UEFA Europa Conference League knockout phase#Roma v Bodø/Glimt|4–0]] (H)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|CZE}} [[SK Slavia Prague|Slavia Prague]]
+|6–4
+|[[2021–22 UEFA Europa Conference League knockout phase#Feyenoord v Slavia Prague|3–3]] (H)
+|[[2021–22 UEFA Europa Conference League knockout phase#Slavia Prague v Feyenoord|3–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Leicester City F.C.|Leicester City]]
+|2–1
+|[[2021–22 UEFA Europa Conference League knockout phase#Leicester City v Roma|1–1]] (A)
+|[[2021–22 UEFA Europa Conference League knockout phase#Roma v Leicester City|1–0]] (H)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|FRA}} [[Olympique de Marseille|Marseille]]
+|3–2
+|[[2021–22 UEFA Europa Conference League knockout phase#Feyenoord v Marseille|3–2]] (H)
+|[[2021–22 UEFA Europa Conference League knockout phase#Marseille v Feyenoord|0–0]] (A)
+|}
+
+==Pre-match==
+
+===Identity===
+The logo of the 2022 UEFA Europa Conference League Final was unveiled at the group stage draw on 27 August 2021 in [[Istanbul]].{{citation needed|date=October 2022}}
+
+===Ambassador===
+The ambassador for the final was former Albanian international [[Lorik Cana]].{{citation needed|date=October 2022}}
+
+===Officials===
+[[File:István Kovács referee.jpg|thumb|upright=.7|Romanian referee [[István Kovács (referee)|István Kovács]] officiated the final.]]
+
+On 11 May 2022, UEFA announced Romanian [[István Kovács (referee)|István Kovács]], a [[FIFA International Referees List|FIFA referee]] since 2010, would officiate the final. Kovács officiated six matches in the [[2021–22 UEFA Champions League|2021–22 Champions League]], three matches in the [[2021–22 UEFA Europa League|2021–22 Europa League]] and one group stage fixture in the 2021–22 Europa Conference League season. He served as a referee at [[UEFA Euro 2020]], where he officiated one group stage match. He also was a referee at the [[2014 UEFA European Under-19 Championship]], [[2019 UEFA European Under-21 Championship]] and [[2019 FIFA U-17 World Cup]]. He was joined by his fellow countrymen Vasile Marinescu and Ovidiu Artene as assistant referees. [[Sandro Schärer]] of Switzerland served as the fourth official, while German [[Marco Fritz]] was appointed as the video assistant referee. Fritz's compatriots [[Christian Dingert]] and [[Bastian Dankert]] served as the assistant and support VAR officials, respectively.<ref name="officials"/>
+
+==Match==
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the quarter-final and semi-final draws.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2022|5|25|df=y}}
+|time       = {{CEST|21:00}}
+|team1      = [[AS Roma|Roma]] {{fbaicon|ITA}}
+|score      = 1–0
+|team2      = {{fbaicon|NED}} [[Feyenoord]]
+|goals1     =
+*[[Nicolò Zaniolo|Zaniolo]] {{goal|32}}
+|goals2     =
+|stadium    = [[Arena Kombëtare]], [[Tirana]]
+|attendance = 19,597<ref name="report">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2022/2033451_FR.pdf |title=Full Time Summary Final – Roma v Feyenoord |website=UEFA.com |publisher=Union of European Football Associations |format=PDF |date=25 May 2022 |access-date=25 May 2022 |archive-url=https://web.archive.org/web/20220525210238/https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2022/2033451_fr.pdf |archive-date=25 May 2022 |url-status=dead}}</ref>
+|referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefaconferenceleague/match/2033451/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _roma2122h
+ |pattern_b  = _roma2122H
+ |pattern_ra = _roma2122h
+ |pattern_sh = _roma2122h
+ |pattern_so = _roma2122h
+ |leftarm    = 9D1229
+ |body       = 9D1229
+ |rightarm   = 9D1229
+ |shorts     = 9D1229
+ |socks      = 9D1229
+ |title      = Roma<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _feyenoord2122f
+ |pattern_b  = _feyenoord2122F
+ |pattern_ra = _feyenoord2122f
+ |pattern_sh = _feyenoord2122f
+ |pattern_so = _feyenoord2122f2
+ |leftarm    = 777777
+ |body       = 777777
+ |rightarm   = 777777
+ |shorts     = FFFF43
+ |socks      = FFFF43
+ |title      = Feyenoord<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|POR}} [[Rui Patrício]] || {{yel|84}}
+|-
+|CB ||'''23'''||{{flagicon|ITA}} [[Gianluca Mancini]]
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Chris Smalling]]
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Roger Ibañez]]
+|-
+|RWB ||'''2''' ||{{flagicon|NED}} [[Rick Karsdorp]] || || {{suboff|89}}
+|-
+|LWB ||'''59'''||{{flagicon|POL}} [[Nicola Zalewski]] || {{yel|66}} || {{suboff|67}}
+|-
+|DM ||'''77'''||{{flagicon|ARM}} [[Henrikh Mkhitaryan]] || || {{suboff|17}}
+|-
+|DM ||'''4''' ||{{flagicon|ITA}} [[Bryan Cristante]]
+|-
+|AM ||'''22'''||{{flagicon|ITA}} [[Nicolò Zaniolo]] || || {{suboff|67}}
+|-
+|AM ||'''7''' ||{{flagicon|ITA}} [[Lorenzo Pellegrini]] ([[Captain (association football)|c]]) || {{yel|37}}
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Tammy Abraham]] || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''87'''||{{flagicon|BRA}} [[Daniel Fuzato]]
+|-
+|DF ||'''5''' ||{{flagicon|URU}} [[Matías Viña]] || || {{subon|89}}
+|-
+|DF ||'''15'''||{{flagicon|ENG}} [[Ainsley Maitland-Niles]]
+|-
+|DF ||'''24'''||{{flagicon|ALB}} [[Marash Kumbulla]]
+|-
+|DF ||'''37'''||{{flagicon|ITA}} [[Leonardo Spinazzola]] || {{yel|90+4}} || {{subon|67}}
+|-
+|MF ||'''17'''||{{flagicon|FRA}} [[Jordan Veretout]] || || {{subon|67}}
+|-
+|MF ||'''27'''||{{flagicon|POR}} [[Sérgio Oliveira]] || || {{subon|17}}
+|-
+|MF ||'''52'''||{{flagicon|ITA}} [[Edoardo Bove]]
+|-
+|FW ||'''11'''||{{flagicon|ESP}} [[Carles Pérez]]
+|-
+|FW ||'''14'''||{{flagicon|UZB}} [[Eldor Shomurodov]] || || {{subon|89}}
+|-
+|FW ||'''64'''||{{flagicon|GHA}} [[Felix Afena-Gyan]]
+|-
+|FW ||'''92'''||{{flagicon|ITA}} [[Stephan El Shaarawy]]
+|-
+|colspan=3|'''Other disciplinary actions:'''
+|-
+|{{abbr|TS|Technical staff member (assistant manager)}} ||colspan=2|{{flagicon|ITA}} [[Salvatore Foti]]<ref>{{cite web |url=https://www.forzaroma.info/cronaca-live/roma-feyenoord-ore-21-in-diretta-live/ |title=Roma-Feyenoord 1–0: Zaniolo regala ai giallorossi la Conference League |trans-title=Roma-Feyenoord 1-0: Zaniolo gives the Giallorossi the Conference League |website=ForzaRoma.info |publisher=[[RCS MediaGroup]] |language=it |date=25 May 2022 |access-date=28 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20220629190533/https://www.forzaroma.info/cronaca-live/roma-feyenoord-ore-21-in-diretta-live/ |archive-date=29 June 2022 |quote=59': Giallo per Foti per proteste nella panchina della Roma. Poco prima il Feyenoord ancora pericoloso dalla sinistra: Kocku arriva al tiro, Smalling in scivolata salva |trans-quote=59 minutes: A yellow for Foti for protesting on the Roma bench. Shortly before that Feyenoord were still dangerous from the left: Kökçü got in a shot, Smalling saved with a slide.}}</ref> || {{yel|59}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[José Mourinho]]
+|}
+|valign="top"|[[File:Roma vs Feyenoord 2022-05-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|NED}} [[Justin Bijlow]] ([[Captain (association football)|c]])
+|-
+|RB ||'''3''' ||{{flagicon|NED}} [[Lutsharel Geertruida]]
+|-
+|CB ||'''18'''||{{flagicon|AUT}} [[Gernot Trauner]] || {{yel|25}} || {{suboff|74}}
+|-
+|CB ||'''4''' ||{{flagicon|ARG}} [[Marcos Senesi]]
+|-
+|LB ||'''5''' ||{{flagicon|NED}} [[Tyrell Malacia]] || || {{suboff|88}}
+|-
+|CM ||'''26'''||{{flagicon|NED}} [[Guus Til]] || || {{suboff|59}}
+|-
+|CM ||'''17'''||{{flagicon|NOR}} [[Fredrik Aursnes]]
+|-
+|CM ||'''10'''||{{flagicon|TUR}} [[Orkun Kökçü]] || || {{suboff|88}}
+|-
+|RF ||'''14'''||{{flagicon|ENG}} [[Reiss Nelson]] || || {{suboff|74}}
+|-
+|CF ||'''33'''||{{flagicon|NGA}} [[Cyriel Dessers]]
+|-
+|LF ||'''7''' ||{{flagicon|COL}} [[Luis Sinisterra]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|ROU}} [[Valentin Cojocaru]]
+|-
+|GK ||'''21'''||{{flagicon|ISR}} [[Ofir Marciano]]
+|-
+|GK ||'''30'''||{{flagicon|NED}} [[Thijs Jansen]]
+|-
+|DF ||'''2''' ||{{flagicon|NOR}} [[Marcus Holmgren Pedersen]] || || {{subon|74}}
+|-
+|DF ||'''13'''||{{flagicon|NED}} [[Philippe Sandler]]
+|-
+|DF ||'''25'''||{{flagicon|NED}} [[Ramon Hendriks]]
+|-
+|DF ||'''32'''||{{flagicon|NED}} [[Denzel Hall]]
+|-
+|MF ||'''6''' ||{{flagicon|NED}} [[Jorrit Hendrix]]
+|-
+|MF ||'''28'''||{{flagicon|NED}} [[Jens Toornstra]] || || {{subon|59}}
+|-
+|FW ||'''9''' ||{{flagicon|IRN}} [[Alireza Jahanbakhsh]] || || {{subon|88}}
+|-
+|FW ||'''11'''||{{flagicon|NED}} [[Bryan Linssen]] || || {{subon|74}}
+|-
+|FW ||'''23'''||{{flagicon|SWE}} [[Patrik Wålemark]] || || {{subon|88}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|NED}} [[Arne Slot]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Chris Smalling]] (Roma)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Vasile Marinescu ([[Romanian Football Federation|Romania]])
+<br />Ovidiu Artene ([[Romanian Football Federation|Romania]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Marco Fritz]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />[[Christian Dingert]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="officials" />
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Europa-Conference-League-2021/22-Online |title=Regulations of the UEFA Europa Conference League, 2021/22 Season |website=UEFA.com|publisher=Union of European Football Associations |year=2021 |access-date=30 April 2021}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2022/2033451_TS.pdf |title=Team statistics |website=UEFA.com|publisher=Union of European Football Associations |format=PDF |date=25 May 2022 |access-date=25 May 2022 |url-status=live |archive-url=https://web.archive.org/web/20240617222058/https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2022/2033451_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Roma
+!scope="col" style="width:70px"|Feyenoord
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|2
+|5
+|-
+!scope=row|Shots on target
+|1
+|2
+|-
+!scope=row|Saves
+|2
+|0
+|-
+!scope=row|Ball possession
+|41%
+|59%
+|-
+!scope=row|Corner kicks
+|2
+|1
+|-
+!scope=row|Fouls committed
+|3
+|8
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Roma
+!scope="col" style="width:70px"|Feyenoord
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|6
+|7
+|-
+!scope=row|Shots on target
+|2
+|3
+|-
+!scope=row|Saves
+|3
+|2
+|-
+!scope=row|Ball possession
+|31%
+|69%
+|-
+!scope=row|Corner kicks
+|2
+|5
+|-
+!scope=row|Fouls committed
+|5
+|10
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|3
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Roma
+!scope="col" style="width:70px"|Feyenoord
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|8
+|12
+|-
+!scope=row|Shots on target
+|3
+|5
+|-
+!scope=row|Saves
+|5
+|2
+|-
+!scope=row|Ball possession
+|36%
+|64%
+|-
+!scope=row|Corner kicks
+|4
+|6
+|-
+!scope=row|Fouls committed
+|8
+|18
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|4
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2022 UEFA Champions League final]]
+*[[2022 UEFA Europa League final]]
+*[[2022 UEFA Women's Champions League final]]
+*[[2022 UEFA Super Cup]]
+*[[AS Roma in European football]]
+*[[Feyenoord in international football]]
+*[[2021–22 AS Roma season]]
+*[[2021–22 Feyenoord season]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefaeuropaconferenceleague/}}
+
+{{UEFA Europa Conference League}}
+{{2021–22 in European football (UEFA)}}
+{{AS Roma matches}}
+{{Feyenoord matches}}
+
+{{DEFAULTSORT:UEFA Europa Conference League final}}
+[[Category:2021–22 UEFA Europa Conference League|Final]]
+[[Category:UEFA Conference League finals|2022]]
+[[Category:2021–22 in Italian football]]
+[[Category:2021–22 in Dutch football]]
+[[Category:2021–22 in Albanian men's football]]
+[[Category:AS Roma matches]]
+[[Category:Feyenoord matches]]
+[[Category:Football matches in Tirana]]
+[[Category:May 2022 sports events in Europe]]
+[[Category:Italy–Netherlands sports relations]]

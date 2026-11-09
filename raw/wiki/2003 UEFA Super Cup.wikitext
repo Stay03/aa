@@ -1,0 +1,364 @@
+{{Infobox football match
+| title              = 2003 UEFA Super Cup
+| image              = 2003 UEFA Super Cup match programme.jpg
+| caption            = Match programme cover
+| event              = [[UEFA Super Cup]]
+| team1              = [[A.C. Milan|Milan]]
+| team1association   = {{fbaicon|ITA|2003|size=30px}}
+| team1score         = 1
+| team2              = [[FC Porto|Porto]]
+| team2association   = {{fbaicon|POR|size=30px}}
+| team2score         = 0
+| date               = 29 August 2003
+| stadium            = [[Stade Louis II]]
+| city               = [[Monaco]]
+| man_of_the_match1a = [[Andriy Shevchenko]] (Milan)<ref name="motm">{{cite web|title=Shevchenko show in Monaco |url=http://en.archive.uefa.com/competitions/supercup/history/season=2003/round=1725/match=71256/report=rp.html |archive-url=https://archive.today/20130105005430/http://en.archive.uefa.com/competitions/supercup/history/season=2003/round=1725/match=71256/report=rp.html |url-status=dead |archive-date=5 January 2013 |work=[[UEFA]] |publisher=Union of European Football Associations |date=29 August 2003 |access-date=1 June 2012 }}</ref> 
+| referee            = [[Graham Barber]] ([[The Football Association|England]])<ref name="referee">{{cite news |title=Referee appointed for UEFA Super Cup in Monaco |url=https://www.uefa.com/newsfiles/95316.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=27 August 2003 |access-date=6 July 2012 }}</ref> 
+| attendance         = 16,885<ref name="pk-13">{{cite web |url=http://www.uefa.com/printoutfiles/competitions/uefasupercup/2013/E/E_2012139_PK.pdf |title=UEFA Super Cup – 2013 season: Match press kits |website=[[UEFA]] |publisher=Union of European Football Associations |page=23 |date=August 2013 |access-date=17 June 2024 |url-status=dead |archive-url=https://web.archive.org/web/20140513184123/http://www.uefa.com/printoutfiles/competitions/uefasupercup/2013/E/E_2012139_PK.pdf |archive-date=13 May 2014}}</ref>
+| weather            = 
+| previous           = [[2002 UEFA Super Cup|2002]]
+| next               = [[2004 UEFA Super Cup|2004]]
+}}
+The '''2003 UEFA Super Cup''' was played on 29 August 2003 between [[A.C. Milan|Milan]] of Italy and [[FC Porto|Porto]] of Portugal. Milan qualified by defeating [[Juventus FC|Juventus]] in the [[2003 UEFA Champions League Final]], while Porto qualified by beating [[Celtic F.C.|Celtic]] in the [[2003 UEFA Cup Final]]. Milan won the match 1–0.<ref>{{Deprecated archive|url=https://archive.today/20130105005430/http://en.archive.uefa.com/competitions/supercup/history/season=2003/round=1725/match=71256/report=rp.html|title=Report}}</ref> After the match, defeated Porto manager [[José Mourinho]] said, "We leave here convinced we can go into the UEFA Champions League with the hope and certainty we can compete with any team."<ref>{{cite web |title=2003 Super Cup: Shevchenko steals the show |url=https://www.uefa.com/uefasupercup/history/2003/ |publisher=[[UEFA]] |access-date=14 March 2024 |date=29 August 2003}}</ref> They finished the season as [[2003–04 UEFA Champions League]] winners.<ref>{{cite news |last1=McCarra |first1=Kevin |title=Mourinho leaves Porto on top |url=https://www.theguardian.com/football/2004/may/27/match.porto |access-date=14 March 2024 |work=The Guardian |date=26 May 2004}}</ref>
+
+==Venue==
+The [[Stade Louis II]] in [[Monaco]] has been the venue for the UEFA Super Cup every year since [[1998 UEFA Super Cup|1998]] until [[2012 UEFA Super Cup|2012]]. Built in 1985, the stadium is also the home of [[AS Monaco FC|AS Monaco]], who play in the French league system.<ref>{{cite web |title=UEFA Super Cup format and venues |url=https://www.uefa.com/uefasupercup/news/0250-0c50f14137c9-6f76019cc486-1000--uefa-super-cup-format-and-venues/ |publisher=[[UEFA]] |access-date=14 March 2024 |date=26 September 2023}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|ITA|2003}} [[A.C. Milan|Milan]]
+|[[2002–03 UEFA Champions League]] winners
+|[[1973 UEFA Super Cup|1973]], '''[[1989 UEFA Super Cup|1989]]''', '''[[1990 UEFA Super Cup|1990]]''', [[1993 UEFA Super Cup|1993]], '''[[1994 UEFA Super Cup|1994]]'''
+|-
+|{{fbaicon|POR}} [[FC Porto|Porto]]
+|[[2002–03 UEFA Cup]] winners
+|'''[[1987 UEFA Super Cup|1987]]'''
+|}
+
+{{clear}}
+
+==Match==
+
+===Details===
+{{football box
+|date = 29 August 2003
+|time = 20:45 [[Central European Summer Time|CEST]]
+|team1 = [[A.C. Milan|Milan]] {{fbaicon|ITA|2003}}
+|score = 1–0
+|report =https://www.uefa.com/uefasupercup/match/<!--round=1725/match=-->71256/
+|team2 = {{fbaicon|POR}} [[FC Porto|Porto]]
+|goals1 = [[Andriy Shevchenko|Shevchenko]] {{goal|10}}
+|goals2 =
+|stadium = [[Stade Louis II]], [[Monaco]]
+|attendance = 16,885<ref name="pk-13"/>
+|referee = [[Graham Barber]] ([[The Football Association|England]])<ref name="referee"/> }}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _milan0304a1
+ | pattern_b  = _milan0304a1_cockade
+ | pattern_ra = _milan0304a1
+ | pattern_sh = _milan0304h1
+ | pattern_so = _milan0304a1l
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Milan<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2003/71256_LU.pdf |title=Line-ups – Milan v Porto |website=[[UEFA]] |publisher=Union of European Football Associations |date=29 August 2003 |access-date=17 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20240617091804/https://www.uefa.com/newsfiles/SuperCup/2003/71256_LU.pdf |archive-date=17 June 2024}}</ref>
+}}
+|{{Football kit
+ | pattern_la =_porto0304h
+ | pattern_b  =_porto0304h
+ | pattern_ra =_porto0304h
+ | pattern_so =_porto0304
+ | shorts     = 2929C0
+ | socks      = 0000FF
+ | title      = Porto<ref name="lineups" />
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Dida (footballer, born 1973)|Dida]]
+|-
+|RB ||'''14'''||{{flagicon|CRO}} [[Dario Šimić]]
+|-
+|CB ||'''13'''||{{flagicon|ITA|2003}} [[Alessandro Nesta]] 
+|-
+|CB ||'''3''' ||{{flagicon|ITA|2003}} [[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|LB ||'''26'''||{{flagicon|ITA|2003}} [[Giuseppe Pancaro]]
+|-
+|RM ||'''10'''||{{flagicon|POR}} [[Rui Costa]] || || {{suboff|85}}
+|-
+|CM ||'''8''' ||{{flagicon|ITA|2003}} [[Gennaro Gattuso]]
+|-
+|CM ||'''21'''||{{flagicon|ITA|2003}} [[Andrea Pirlo]] || {{yel|83}}
+|-
+|LM ||'''20'''||{{flagicon|NED}} [[Clarence Seedorf]] || {{yel|19}} || {{suboff|71}}
+|-
+|CF ||'''7''' ||{{flagicon|UKR}} [[Andriy Shevchenko]] || || {{suboff|76}}
+|-
+|CF ||'''9''' ||{{flagicon|ITA|2003}} [[Filippo Inzaghi]] 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''77'''||{{flagicon|ITA|2003}} [[Christian Abbiati]]
+|-
+|DF ||'''2''' ||{{flagicon|BRA}} [[Cafu]] || || {{subon|85}}
+|-
+|DF ||'''24'''||{{flagicon|DEN}} [[Martin Laursen]]
+|-
+|MF ||'''23'''||{{flagicon|ITA|2003}} [[Massimo Ambrosini]] || {{yel|90+}} || {{subon|71}}
+|-
+|MF ||'''27'''||{{flagicon|BRA}} [[Serginho (footballer, born 1971)|Serginho]]
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Rivaldo]] || || {{subon|76}}
+|-
+|FW ||'''15'''||{{flagicon|DEN}} [[Jon Dahl Tomasson]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA|2003}} [[Carlo Ancelotti]]
+|}
+|valign="top"|[[File:Milan vs Porto 2003-08-29.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''99'''||{{flagicon|POR}} [[Vítor Baía]]
+|-
+|RB ||'''22'''||{{flagicon|POR}} [[Paulo Ferreira]]
+|-
+|CB ||'''2''' ||{{flagicon|POR}} [[Jorge Costa (footballer)|Jorge Costa]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|POR}} [[Ricardo Carvalho]]
+|-
+|LB ||'''5''' ||{{flagicon|POR}} [[Ricardo Costa (footballer, born 1981)|Ricardo Costa]]
+|-
+|DM ||'''6''' ||{{flagicon|POR}} [[Costinha]] || || {{suboff|67}}
+|-
+|CM ||'''10'''||{{flagicon|POR}} [[Deco]]
+|-
+|CM ||'''18'''||{{flagicon|POR}} [[Maniche]] || {{yel|90+}}
+|-
+|RW ||'''15'''||{{flagicon|RUS}} [[Dmitri Alenichev]] || || {{suboff|75}}
+|-
+|LW ||'''11'''||{{flagicon|BRA}} [[Derlei]]
+|-
+|CF ||'''77'''||{{flagicon|RSA}} [[Benni McCarthy]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|POR}} [[Nuno Espírito Santo|Nuno]]
+|-
+|DF ||'''3''' ||{{flagicon|POR}} [[Pedro Emanuel]]
+|-
+|DF ||'''17'''||{{flagicon|POR}} [[José Bosingwa]] || || {{subon|67}}
+|-
+|DF ||'''30'''||{{flagicon|POR}} [[Mário Silva (footballer)|Mário Silva]]
+|-
+|MF ||'''23'''||{{flagicon|POR}} [[Pedro Mendes (footballer, born 1979)|Pedro Mendes]]
+|-
+|MF ||'''25'''||{{flagicon|POR}} [[Ricardo Fernandes (footballer, born April 1978)|Ricardo Fernandes]] || {{yel|86}} || {{subon|75}}
+|-
+|FW ||'''9''' ||{{flagicon|LTU|1988}} [[Edgaras Jankauskas]] || || {{subon|60}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|POR}} [[José Mourinho]]
+|}
+|}
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Andriy Shevchenko]] (Milan)<ref name="motm"/>
+
+'''Assistant referees:'''
+<br />David Babski ([[The Football Association|England]])<ref name="referee"/>
+<br />David Bryan ([[The Football Association|England]])<ref name="referee"/>
+<br />'''Fourth official:'''
+<br />[[Uriah Rennie]] ([[The Football Association|England]])<ref name="referee"/>
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[Golden goal#Silver goal|silver goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes, of which up to three may be used
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="report">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2003/71256_FR.pdf |title=Full Time Report – Milan v Porto |website=[[UEFA]] |publisher=Union of European Football Associations |date=16 August 2023 |access-date=16 August 2023 |url-status=live |archive-url=https://web.archive.org/web/20200506190113/https://www.uefa.com/newsfiles/SuperCup/2003/71256_FR.pdf |archive-date=6 May 2020}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Milan
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|5
+|1
+|-
+!scope=row|Shots on target
+|1
+|0
+|-
+!scope=row|Ball possession
+|38%
+|62%
+|-
+!scope=row|Corner kicks
+|1
+|0
+|-
+!scope=row|Fouls committed
+|13
+|9
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Milan
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|4
+|11
+|-
+!scope=row|Shots on target
+|2
+|2
+|-
+!scope=row|Ball possession
+|46%
+|54%
+|-
+!scope=row|Corner kicks
+|1
+|2
+|-
+!scope=row|Fouls committed
+|12
+|11
+|-
+!scope=row|Offsides
+|3
+|2
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Milan
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|9
+|12
+|-
+!scope=row|Shots on target
+|3
+|2
+|-
+!scope=row|Ball possession
+|42%
+|58%
+|-
+!scope=row|Corner kicks
+|2
+|2
+|-
+!scope=row|Fouls committed
+|25
+|20
+|-
+!scope=row|Offsides
+|5
+|3
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2003–04 UEFA Champions League]]
+*[[2003–04 UEFA Cup]]
+*[[2003–04 AC Milan season]]
+*[[2003–04 FC Porto season]]
+*[[AC Milan in international football]]
+*[[FC Porto in international football]]
+
+==References==
+{{reflist}}
+
+{{UEFA Super Cup}}
+{{2003–04 in European football (UEFA)}}
+{{AC Milan matches}}
+{{FC Porto matches}}
+
+{{DEFAULTSORT:UEFA Super Cup 2003}}
+[[Category:UEFA Super Cup matches|2003]]
+[[Category:2003–04 in European men's continental football|Super Cup]]
+[[Category:2003 in Monégasque sport|Uefa Super Cup]]
+[[Category:AC Milan matches|Super Cup 2003]]
+[[Category:FC Porto matches|Super Cup 2003]]
+[[Category:Football matches in Monaco]]
+[[Category:August 2003 sports events in Europe]]
+[[Category:2003–04 in Italian football]]
+[[Category:2003–04 in Portuguese football]]
+[[Category:Italy–Portugal sports relations]]

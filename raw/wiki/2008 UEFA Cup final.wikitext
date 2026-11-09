@@ -1,0 +1,565 @@
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+| title              = 2008 UEFA Cup final
+| image              = 2008 UEFA Cup Final programme.jpg
+| caption            = Match programme cover
+| event              = [[2007–08 UEFA Cup]]
+| team1              = [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+| team1association   = {{fbaicon|RUS|size=30px}}
+| team1score         = 2
+| team2              = [[Rangers F.C.|Rangers]]
+| team2association   = {{fbaicon|SCO|size=30px}}
+| team2score         = 0
+| date               = 14 May 2008
+| stadium            = [[City of Manchester Stadium]]
+| city               = [[Manchester]]
+| man_of_the_match1a = [[Andrey Arshavin]] {{nowrap|(Zenit Saint Petersburg)}}
+| referee            = [[Peter Fröjdfeldt]] ([[Swedish Football Association|Sweden]])
+| attendance         = 43,878<ref name="report"/>
+| weather            = Sunny<br />{{convert|16|°C|°F}}<br />43% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2008/301605_LU.pdf |title=Line-ups |work=[[UEFA]] |publisher=Union of European Football Associations |date=14 May 2008 |access-date=28 July 2014 |archive-url=https://web.archive.org/web/20160319034922/http://www.uefa.com/newsfiles/uefacup/2008/301605_LU.pdf |archive-date=19 March 2016 |url-status=live }}</ref>
+| previous           = [[2007 UEFA Cup final|2007]]
+| next               = [[2009 UEFA Cup final|2009]]
+}}
+The '''2008 UEFA Cup final''' was a football match that took place on 14 May 2008 at the [[City of Manchester Stadium]] in [[Manchester]], England.<ref>{{cite web |first=Mark |last=Chaplin |title=Moscow chosen for 2008 final |url=http://www.uefa.com/competitions/ucl/news/kind=1/newsid=464106.html |access-date=28 August 2007 |date=4 October 2006 |work=[[UEFA]] |publisher=Union of European Football Associations |archive-url=https://web.archive.org/web/20090925093911/http://www.uefa.com/competitions/ucl/news/kind=1/newsid=464106.html |archive-date=25 September 2009 |url-status=dead }}</ref> It was the 37th annual final of the [[UEFA Europa League|UEFA Cup]], [[UEFA]]'s second tier club [[association football|football]] tournament. 
+
+The match, which was contested by [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] of Russia and [[Rangers F.C.|Rangers]] of Scotland, was won 2–0 by Zenit, with goals from [[Igor Denisov]] and [[Konstantin Zyryanov]],<ref name=zenit>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/europe/7393752.stm|title=Zenit St Petersburg 2-0 Rangers|date=14 May 2008|publisher=BBC Sport|access-date=12 October 2017|archive-url=https://web.archive.org/web/20120311080213/http://news.bbc.co.uk/sport1/hi/football/europe/7393752.stm|archive-date=11 March 2012|url-status=live}}</ref> to claim their first UEFA Cup title, making them only the second Russian side to win the competition, after [[PFC CSKA Moscow|CSKA Moscow]] in [[2004–05 UEFA Cup|2004–05]]. Zenit went on to play in the [[2008 UEFA Super Cup]], which they won after beating [[2007–08 UEFA Champions League]] winners [[Manchester United F.C.|Manchester United]] 2–1.
+
+The fixture is notable for having the largest travelling support in football history, with close to 200,000 Rangers fans travelling to Manchester for the occasion.<ref>{{cite news |title=Rangers invasion: your views |url=https://www.bbc.co.uk/manchester/content/articles/2008/05/15/150508_rangers_invasion_feature.shtml |access-date=17 December 2019 |website=BBC News |archive-url=https://web.archive.org/web/20150925071448/http://www.bbc.co.uk/manchester/content/articles/2008/05/15/150508_rangers_invasion_feature.shtml |archive-date=25 September 2015 |url-status=live }}</ref><ref>{{cite web |title=175,000-strong Rangers support the biggest in world football |url=https://www.dailyrecord.co.uk/news/scottish-news/175000-strong-rangers-support-the-biggest-in-world-977339 |work=Daily Record |date=14 May 2008 |access-date=17 December 2019 |archive-url=https://web.archive.org/web/20191217180033/https://www.dailyrecord.co.uk/news/scottish-news/175000-strong-rangers-support-the-biggest-in-world-977339 |archive-date=17 December 2019 |url-status=live }}</ref>
+
+==Background==
+Zenit and Rangers had never previously met in European competition, although Rangers had played Russian opposition on 10 prior occasions, winning seven – including a 3–2 win over [[FC Dynamo Moscow|Dynamo Moscow]] in the [[1972 European Cup Winners' Cup Final]] – drawing two and losing one. Zenit had never played against Scottish opposition, although they had played in England three times, winning once against [[Bradford City A.F.C.|Bradford City]] in the [[2000 UEFA Intertoto Cup]] and losing to [[Bolton Wanderers F.C.|Bolton Wanderers]] in the [[2005–06 UEFA Cup]] and [[Everton F.C.|Everton]] earlier in [[2007–08 UEFA Cup|2007–08]]. 
+
+Rangers' European record was significantly better than Zenit's going into this match, having reached the final of the [[UEFA Cup Winners' Cup|Cup Winners' Cup]] three times – in [[1961 European Cup Winners' Cup Final|1961]], [[1967 European Cup Winners' Cup Final|1967]] and [[1972 European Cup Winners' Cup Final|1972]], winning the last one. By winning the 1972 Cup Winners' Cup, Rangers also played in the [[1972 European Super Cup]], losing to [[AFC Ajax|Ajax]] of the Netherlands, although this is not considered official by UEFA.
+
+Rangers went into the final four points behind [[Glasgow]] rivals [[Celtic F.C.|Celtic]] in the [[2007–08 Scottish Premier League|Scottish Premier League]], albeit with three games left to play, compared to Celtic's one.<ref>{{cite web |title=Scottish Premier League 2007-2008 Table on 13.05.2008 |url=http://www.statto.com/football/stats/scotland/premier-league/2007-2008/table/2008-05-13 |work=statto.com |publisher=Statto Organisation |access-date=19 July 2012 |url-status=live |archive-url=https://web.archive.org/web/20160304064458/http://www.statto.com/football/stats/scotland/premier-league/2007-2008/table/2008-05-13 |archive-date=4 March 2016 |df=dmy-all }}</ref> However, they had already won the [[2008 Scottish League Cup Final|League Cup]] against [[Dundee United F.C.|Dundee United]] two months earlier and were due to play in the [[2008 Scottish Cup Final|Scottish Cup Final]] against [[Queen of the South F.C.|Queen of the South]] 10 days after the UEFA Cup final. Because of the difference between the Russian and Scottish football calendars at the time – Russia operated a March–November calendar until 2011 – Zenit had only played six games of their [[2008 Russian Premier League|2008 league season]] by the time of the UEFA Cup final; however, they had finished the [[2007 Russian Premier League|previous season]] in November 2007 as league winners, as well as reaching the quarter-finals of the [[2007–08 Russian Cup]] and beating [[FC Lokomotiv Moscow|Lokomotiv Moscow]] in the [[2008 Russian Super Cup|Russian Super Cup]] in March 2008.
+
+The final pitched former Rangers manager [[Dick Advocaat]], then the manager of Zenit, against incumbent Rangers boss [[Walter Smith]], both of whom had completed the Scottish [[Treble (association football)|domestic treble]]; Smith in [[1992–93 in Scottish football|1993]], Advocaat in [[1998–99 in Scottish football|1999]].
+
+==Venue==
+The [[City of Manchester Stadium]] was selected as the venue for the 2008 UEFA Cup final at the October 2006 meeting of the UEFA Executive Committee in [[Ljubljana]], [[Slovenia]].<ref>{{cite news |title=UEFA Executive Committee decisions Ljubljana |url=http://www.uefa.com/uefa/mediaservices/mediareleases/newsid=943462.html |archive-url=https://archive.today/20130205014509/http://www.uefa.com/uefa/mediaservices/mediareleases/newsid=943462.html |url-status=dead |archive-date=5 February 2013 |work=[[UEFA]] |publisher=Union of European Football Associations |date=4 October 2006 |access-date=19 July 2012 }}</ref> Other candidates to host the match included the [[Volksparkstadion|HSH Nordbank Arena]] in [[Hamburg]], Germany; the [[Stadionul Național (1953)|Stadionul Național]] in [[Bucharest]], Romania; the [[Ramat Gan Stadium]] in [[Tel Aviv District]], Israel; and the [[Şükrü Saracoğlu Stadium]] in [[Istanbul]], Turkey, which was awarded the [[2009 UEFA Cup final]].<ref>{{cite news |title=UEFA Executive Committee meeting in Ljubljana |url=http://www.uefa.com/uefa/mediaservices/mediareleases/newsid=943463.html |archive-url=https://archive.today/20130205193521/http://www.uefa.com/uefa/mediaservices/mediareleases/newsid=943463.html |url-status=dead |archive-date=5 February 2013 |work=[[UEFA]] |publisher=Union of European Football Associations |date=27 September 2006 |access-date=19 July 2012 }}</ref>
+
+The stadium was initially built as the primary venue for the [[2002 Commonwealth Games]], hosted in Manchester, but the athletics track was removed when [[Manchester City F.C.|Manchester City]] moved from their old [[Maine Road]] stadium in 2003. The conversion increased the capacity of the stadium from 41,000 for the Commonwealth Games to almost 48,000. In 2005, the stadium was selected as one of the venues for [[UEFA Women's Euro 2005]], played in five towns across north-west England. The only previous major European final held in Manchester was the [[2003 UEFA Champions League Final]] at [[Old Trafford]] between [[Juventus FC|Juventus]] and [[AC Milan|Milan]].<ref>{{cite news |first1=Paul |last1=Saffer |first2=Türker |last2=Tozer |title='Terrific news' for host stadiums |url=http://en.archive.uefa.com/competitions/uefacup/news/kind=1/newsid=464235.html |archive-url=https://archive.today/20130105005556/http://en.archive.uefa.com/competitions/uefacup/news/kind=1/newsid=464235.html |url-status=dead |archive-date=5 January 2013 |work=[[UEFA]] |publisher=Union of European Football Associations |date=5 October 2006 |access-date=19 July 2012 }}</ref>
+
+==Route to the final==
+{{further|2007–08 UEFA Champions League|2007–08 UEFA Cup}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+!colspan="2"|Round
+!colspan="4"|{{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2007–08 UEFA Cup|UEFA Cup]]'''
+|colspan="2"|
+|colspan="4"|'''[[2007–08 UEFA Champions League|Champions League]]'''
+|-
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|style="background:#C1E0FF"|[[2007–08 UEFA Cup qualifying rounds|Initial phase]]
+|style="background:#C1E0FF"|[[2007–08 UEFA Champions League qualifying rounds|Qualifying phase]]
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|SVK}} [[FC ViOn Zlaté Moravce|ViOn Zlaté Moravce]]
+|5–0
+|2–0 (A)
+|3–0 (H)
+|colspan="2" style="background:#C1E0FF"|Second qualifying round
+|style="text-align:left"|{{fbaicon|MNE}} [[FK Zeta|Zeta]]
+|3–0
+|2–0 (H)
+|1–0 (A)
+|-
+|style="text-align:left"|{{fbaicon|BEL}} [[Standard Liège]]
+|4–1
+|3–0 (H)
+|1–1 (A)
+|style="background:#C1E0FF"|[[2007–08 UEFA Cup first round|First round]]
+|style="background:#C1E0FF"|{{small|Third qualifying round}}
+|style="text-align:left"|{{fbaicon|SRB|2004}} [[Red Star Belgrade]]
+|1–0
+|1–0 (H)
+|0–0 (A)
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|colspan="2"|Group stage ([[2007–08 UEFA Cup group stage|UC]], [[2007–08 UEFA Champions League group stage|CL]])
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|NED}} [[AZ Alkmaar|AZ]]
+|colspan="3"|1–1 (H)
+|colspan="2" style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|GER}} [[VfB Stuttgart]]
+|colspan="3"|2–1 (H)
+|-
+|style="text-align:left"|{{fbaicon|GRE}} [[Athlitiki Enosi Larissa F.C.|AEL]]
+|colspan="3"|3–2 (A)
+|colspan="2" style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|colspan="3"|3–0 (A)
+|-
+|style="text-align:left"|{{fbaicon|GER}} [[1. FC Nürnberg]]
+|colspan="3"|2–2 (H)
+|colspan="2" style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan="3"|0–0 (H)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Everton F.C.|Everton]]
+|colspan="3"|0–1 (A)
+|colspan="2" style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan="3"|0–2 (A)
+|-
+|colspan="4"|Bye
+|colspan="2" style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|GER}} [[VfB Stuttgart]]
+|colspan="3"|2–3 (A)
+|-
+|colspan="4"|N/A
+|colspan="2" style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|colspan="3"|0–3 (H)
+|-
+|colspan="4" rowspan="2" style="vertical-align:top"|'''[[2007–08 UEFA Cup group stage#Group A|Group A]] third place'''
+<div class="center">{{:2007–08 UEFA Cup group stage|transcludesection=Group A|only_pld_pts=yes|show_matches=no|showteam=ZEN}}</div>
+|colspan="2" style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2007–08 UEFA Champions League group stage#Group E|Group E]] third place'''
+<div class="center">{{:2007–08 UEFA Champions League group stage|transcludesection=Group E|only_pld_pts=yes|show_matches=no|showteam=RAN}}</div>
+|- style="background:#C1E0FF"
+|colspan="2"|
+|colspan="4"|'''[[2007–08 UEFA Cup|UEFA Cup]]'''
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|colspan="2"|[[2007–08 UEFA Cup knockout stage|Knockout stage]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|2–2 ([[away goals rule|a]])
+|1–0 (H)
+|1–2 (A)
+|colspan="2" style="background:#C1E0FF"|Round of 32
+|style="text-align:left"|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|1–1 ([[away goals rule|a]])
+|0–0 (H)
+|1–1 (A)
+|-
+|style="text-align:left"|{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|3–3 ([[away goals rule|a]])
+|1–3 (A)
+|2–0 (H)
+|colspan="2" style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|2–1
+|2–0 (H)
+|0–1 (A)
+|-
+|style="text-align:left"|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|4–2
+|4–1 (A)
+|0–1 (H)
+|colspan="2" style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|POR}} [[Sporting CP]]
+|2–0
+|0–0 (H)
+|2–0 (A)
+|-
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|5–1
+|1–1 (A)
+|4–0 (H)
+|colspan="2" style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|0–0 {{pso|4–2}}
+|0–0 (H)
+|0–0 {{aet}} (A)
+|}
+
+Throughout the season in Europe, Rangers had developed a reputation for being involved in tight games, principally due to their disciplined, defensive tactics which nullified opponents – scoring 16 goals and only conceding 11 in their 18 matches in the two competitions.<ref name="GET08recap">{{cite web |url=https://www.glasgowtimes.co.uk/sport/13332515.rangers-2008-uefa-cup-how-the-light-blues-made-it-to-manchester/ |title=Rangers... 2008 UEFA Cup: How the Light Blues made it to Manchester |first=Christopher |last=Jack |work=Glasgow Times |date=12 June 2015}}</ref><ref name="BBC08recap">{{cite web |url=https://www.bbc.co.uk/sport/football/52521046 |title=Rangers' long and winding road to Manchester for 2008 Uefa Cup final |first1=Andy |last1=Campbell |first2=David |last2=Currie |work=BBC Sport |date=5 June 2020}}</ref> This approach intensified after dropping into the UEFA Cup, with none of their matches involving more than two goals; there were four 0–0 draws amongst the eight matches. This cautious tactical approach drew both criticism (for the largely unexciting and unattractive football which resulted from the tactics) and praise (for successfully limiting the opportunities created by their opponents, all of whom were considered to have more skilful, dangerous players than Rangers).<ref name="GET08recap"/><ref name="BBC08recap"/>
+
+Zenit were considered by the clubs of Western Europe to be a more unpredictable opponent (although not an unknown quantity, as they had reached the quarterfinals of the [[2005–06 UEFA Cup]] and had won the [[2007 Russian Premier League]]). In contrast to their opponents in the final, they scored 28 and conceded 15 in their 16 UEFA Cup games, which included impressive wins over Bayer Leverkusen and Bayern Munich by large margins, but also defeats by Everton, Villarreal and Marseille which had seen them close to elimination.
+
+==Pre-match==
+
+===Identity===
+For the past few years, like the Champions League final, each UEFA Cup final was branded with a unique visual identity. The identity of the 2008 final, unveiled at a ceremony at the City of Manchester Stadium on 6 December 2007, was created by Manchester artist [[Liam Spencer]], who is known for his paintings of the Manchester area; the series of paintings produced for the 2008 UEFA Cup final combines inspiration taken from both the UEFA Cup branding and the City of Manchester Stadium itself.<ref>{{cite news |title='A great opportunity for Manchester' |url=https://www.uefa.com/uefaeuropaleague/news/01c8-0e6ece98880c-618081d5de17-1000--a-great-opportunity-for-manchester/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=6 December 2007 |access-date=19 July 2012 |archive-url=https://web.archive.org/web/20191019144706/https://www.uefa.com/uefaeuropaleague/news/newsid=632797.html |archive-date=19 October 2019 |url-status=live }}</ref>
+
+===Ambassador===
+[[UEFA Champions League|European Cup]] winner and [[Manchester United F.C.|Manchester United]] legend [[Denis Law]], who also played for [[Manchester City F.C.|Manchester City]] was appointed as ambassador of the final.
+
+===Ticketing===
+
+Zenit and [[Michel Platini]] asked the British government to ease [[visa (document)|visa]] procedures for Russian fans, despite Russia having cancelled visas for British fans travelling to [[2008 UEFA Champions League Final]] in [[Moscow]]. However, the Director for British Visa Services for the CIS, Mandy Ivemy, said that "for the U.K. government, visas and biometric checks are a vital part of immigration policy, and we are not prepared to waive them".<ref>{{cite news |first=Max |last=Delany |title=50,000 British Fans Coming to Town |url=http://www.themoscowtimes.com/article/1010/42/362560.htm |work=[[The Moscow Times]] |publisher=Sanoma Independent Media |date=7 May 2008 |access-date=19 July 2012 |archive-url=https://web.archive.org/web/20080609194036/http://www.themoscowtimes.com/article/1010/42/362560.htm |archive-date=9 June 2008 |url-status=live }}</ref>
+
+Meanwhile, there was a mass flow of Rangers fans into [[Manchester]]. An estimated 150,000-200,000 Rangers supporters descended upon the city, despite the club's official ticket allocation being just 13,000 and police requests for fans to stay at home. The influx of people resulted in there being no vacant hotel rooms in a twenty-mile radius of the city and the total amount of money that was ploughed into the local economy was estimated to be around £25&nbsp;million.<ref>{{cite news|title=Fans sought over Uefa Cup rioting|url=http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7844997.stm|access-date=16 January 2017|work=BBC News|date=27 January 2009|archive-url=https://web.archive.org/web/20090215143516/http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7844997.stm|archive-date=15 February 2009|url-status=live}}</ref>
+
+Rangers' home ground, [[Ibrox Stadium|Ibrox]], was opened to show a live beamback of the match to 25,000 spectators. Fans were turned away when the capacity was reached more than two hours before kick-off.<ref>{{Cite news |date=2008-05-14 |title=Uefa Cup final as it happened |url=https://news.bbc.co.uk/sport2/hi/football/europe/7398078.stm |access-date=2025-01-14 |language=en-GB}}</ref>
+
+===Team selection===
+Zenit were without the competition's top scorer, [[Pavel Pogrebnyak]], who had picked up two bookings in the knockout stages of the tournament and was therefore suspended.<ref>{{cite news |first=Tom |last=Fordyce |title=Who are Zenit? |url=https://news.bbc.co.uk/sport2/hi/football/teams/r/rangers/7398400.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=13 May 2008 |access-date=15 May 2008 |archive-url=https://web.archive.org/web/20090225114803/http://news.bbc.co.uk/sport1/hi/football/teams/r/rangers/7398400.stm |archive-date=25 February 2009 |url-status=live }}</ref> However, they were able to call upon their other star names such as attacking midfielders [[Andrey Arshavin]] and [[Konstantin Zyryanov]], as well as holding midfielder [[Anatoliy Tymoshchuk]].
+
+Rangers manager [[Walter Smith]] started with [[Jean-Claude Darcheville]] on his own up-front, with a five-man midfield supporting him comprising [[Steven Davis]], [[Kevin Thomson]], [[Steven Whittaker]], [[Barry Ferguson]] and [[Brahim Hemdani]]. [[Neil Alexander]] was making his tenth start in goal for Rangers following his arrival in January 2008, with first choice keeper [[Allan McGregor]] injured. Other notable absentees included right-back [[Alan Hutton]] who had transferred to [[Tottenham Hotspur F.C.|Tottenham Hotspur]],<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/t/tottenham_hotspur/7215221.stm|title=Spurs complete signing of Hutton|publisher=[[BBC Sport]]|date=30 January 2008|access-date=12 June 2017|archive-url=https://web.archive.org/web/20090306123150/http://news.bbc.co.uk/sport1/hi/football/teams/t/tottenham_hotspur/7215221.stm|archive-date=6 March 2009|url-status=live}}</ref> and forward [[Steven Naismith]] who had sustained a serious injury.<ref name="semi">{{cite web|url=https://www.dailyrecord.co.uk/sport/2008/04/21/st-johnstone-1-1-rangers-86908-20390145/|title=St Johnstone 1–1 Rangers|date=21 April 2008|publisher=[[Daily Record (Scotland)|Daily Record]]|access-date=12 June 2017|archive-url=https://web.archive.org/web/20121016072929/http://www.dailyrecord.co.uk/sport/other-sports/st-johnstone-1-1-rangers-974947|archive-date=16 October 2012|url-status=live}}</ref>
+
+==Match==
+[[File:Zenit celebrating 2008 UEFA Cup Final win.png|thumb|Zenit won the match 2–0 to claim their first UEFA Cup title.]]
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2008|5|14|df=y}}
+|time       = {{CEST|20:45|localtz=BST}}<!--20:45 CEST, 19:45 BST-->
+|team1      = [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] {{fbaicon|RUS}}
+|score      = 2–0
+|team2      = {{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|goals1     =
+*[[Igor Denisov|Denisov]] {{goal|72}}
+*[[Konstantin Zyryanov|Zyryanov]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[City of Manchester Stadium]], [[Manchester]]
+|attendance = 43,878<ref name="report">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2008/301605_FR.pdf |title=Full Time Report Final – Zenit Saint Petersburg v Rangers |work=[[UEFA]] |publisher=Union of European Football Associations |date=15 May 2008 |access-date=15 May 2008 |url-status=live |archive-url=https://web.archive.org/web/20220628023157/https://www.uefa.com/newsfiles/uefacup/2008/301605_FR.pdf |archive-date=28 June 2022}}</ref>
+|referee    = [[Peter Fröjdfeldt]] ([[Swedish Football Association|Sweden]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/301605/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _aek0708T
+ |pattern_ra =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Zenit<br />{{nowrap|Saint Petersburg}}<ref name="lineups"/>
+}}
+|{{Football kit
+| pattern_la   = _rangers0708h
+| pattern_b    = _rangers0708h
+| pattern_ra   = _rangers0708h
+| pattern_sh   = _rangers0607h2
+| pattern_so   = _whitetop
+ |leftarm     = 0000FF
+ |body        = 0000FF
+ |rightarm    = 0000FF
+ |shorts      = 0000FF
+ |socks       = 0000FF
+ |title       = Rangers<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||{{flagicon|RUS}} [[Vyacheslav Malafeev]] || {{yel|90+2}}
+|-
+|CB ||'''44'''||{{flagicon|UKR}} [[Anatoliy Tymoshchuk]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|CRO}} [[Ivica Križanac]]
+|-
+|CB ||'''27'''||{{flagicon|RUS}} [[Igor Denisov]] || {{yel|72}}
+|-
+|RM ||'''22'''||{{flagicon|RUS}} [[Aleksandr Anyukov]]
+|-
+|CM ||'''18'''||{{flagicon|RUS}} [[Konstantin Zyryanov]]
+|-
+|CM ||'''20'''||{{flagicon|RUS}} [[Viktor Fayzulin]] || || {{suboff|90+3}}
+|-
+|CM ||'''15'''||{{flagicon|RUS}} [[Roman Shirokov]]
+|-
+|LM ||'''11'''||{{flagicon|CZE}} [[Radek Šírl]]
+|-
+|SS ||'''10'''||{{flagicon|RUS}} [[Andrey Arshavin]]
+|-
+|CF ||'''9''' ||{{flagicon|TUR}} [[Fatih Tekke]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|SVK}} [[Kamil Čontofalský]]
+|-
+|DF ||'''5''' ||{{flagicon|KOR|1997}} [[Kim Dong-jin]] || || {{subon|90+3}}
+|-
+|MF ||'''2''' ||{{flagicon|RUS}} [[Vladislav Radimov]]
+|-
+|MF ||'''25'''||{{flagicon|NED}} [[Fernando Ricksen]]
+|-
+|MF ||'''88'''||{{flagicon|UKR}} [[Oleksandr Horshkov]]
+|-
+|FW ||'''7''' ||{{flagicon|ARG}} [[Alejandro Domínguez (footballer, born 1981)|Alejandro Domínguez]]
+|-
+|FW ||'''57'''||{{flagicon|RUS}} [[Aleksei Ionov]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|NED}} [[Dick Advocaat]]
+|}
+|valign="top"|[[File:Zenit vs Rangers 2008-05-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|SCO}} [[Neil Alexander]]
+|-
+|RB ||'''7''' ||{{flagicon|ALG}} [[Brahim Hemdani]] || || {{suboff|80}}
+|-
+|CB ||'''3''' ||{{flagicon|SCO}} [[David Weir (Scottish footballer)|David Weir]]
+|-
+|CB ||'''24'''||{{flagicon|ESP}} [[Carlos Cuéllar]]
+|-
+|LB ||'''6''' ||{{flagicon|SCO}} [[Barry Ferguson]] ([[Captain (association football)|c]])
+|-
+|RM ||'''21'''||{{flagicon|SCO}} [[Kirk Broadfoot]] || {{yel|90+4}}
+|-
+|CM ||'''8''' ||{{flagicon|SCO}} [[Kevin Thomson]]
+|-
+|CM ||'''35'''||{{flagicon|NIR}} [[Steven Davis]]
+|-
+|LM ||'''5''' ||{{flagicon|BIH}} [[Saša Papac]] || || {{suboff|77}}
+|-
+|SS ||'''28'''||{{flagicon|SCO}} [[Steven Whittaker]] || || {{suboff|86}}
+|-
+|CF ||'''19'''||{{flagicon|FRA|1974}} [[Jean-Claude Darcheville]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|SCO}} [[Graeme Smith (footballer, born 1982)|Graeme Smith]]
+|-
+|DF ||'''30'''||{{flagicon|SCO}} [[Christian Dailly]]
+|-
+|MF ||'''11'''||{{flagicon|SCO}} [[Charlie Adam]]
+|-
+|MF ||'''39'''||{{flagicon|SEN}} [[Amdy Faye]]
+|-
+|FW ||'''9''' ||{{flagicon|SCO}} [[Kris Boyd]] || || {{subon|86}}
+|-
+|FW ||'''10'''||{{flagicon|ESP}} [[Nacho Novo]] || || {{subon|77}}
+|-
+|FW ||'''27'''||{{flagicon|SCO}} [[Lee McCulloch]] || || {{subon|80}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SCO}} [[Walter Smith]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Andrey Arshavin]] (Zenit Saint Petersburg)<ref>{{cite news |first=Eugene |last=Ravdin |title=Proud Arshavin spent by star turn |url=https://www.uefa.com/uefaeuropaleague/news/01cd-0e70d05f4035-75a38b37f24f-1000--proud-arshavin-spent-by-star-turn/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=14 May 2008 |access-date=19 July 2012 |archive-url=https://web.archive.org/web/20190212070645/https://www.uefa.com/uefaeuropaleague/news/newsid=696278.html |archive-date=12 February 2019 |url-status=live }}</ref>
+
+'''Assistant referees:'''
+<br />Stefan Wittberg ([[Swedish Football Association|Sweden]])
+<br />Henrik Andrén ([[Swedish Football Association|Sweden]])
+<br />'''Fourth official:'''
+<br />[[Martin Ingvarsson]] ([[Swedish Football Association|Sweden]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra time if necessary
+*Penalty shoot-out if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Zenit Saint Petersburg
+!scope="col" style="width:70px"|Rangers
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|10
+|3
+|-
+!scope=row|Shots on target
+|4
+|0
+|-
+!scope=row|Saves
+|0
+|4
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|4
+|0
+|-
+!scope=row|Fouls committed
+|7
+|4
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Zenit Saint Petersburg
+!scope="col" style="width:70px"|Rangers
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|9
+|5
+|-
+!scope=row|Shots on target
+|4
+|3
+|-
+!scope=row|Saves
+|2
+|1
+|-
+!scope=row|Ball possession
+|53%
+|47%
+|-
+!scope=row|Corner kicks
+|5
+|2
+|-
+!scope=row|Fouls committed
+|5
+|8
+|-
+!scope=row|Offsides
+|2
+|0
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Zenit Saint Petersburg
+!scope="col" style="width:70px"|Rangers
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|19
+|8
+|-
+!scope=row|Shots on target
+|8
+|3
+|-
+!scope=row|Saves
+|2
+|5
+|-
+!scope=row|Ball possession
+|56%
+|44%
+|-
+!scope=row|Corner kicks
+|9
+|2
+|-
+!scope=row|Fouls committed
+|12
+|12
+|-
+!scope=row|Offsides
+|3
+|0
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Fan violence==
+[[File:Piccadilly Police split Zenit and Rangers.jpg|thumb|Police split Zenit and Rangers fans]]
+{{Main|2008 UEFA Cup final riots}}
+The event was marred by Rangers supporters rioting in Manchester city centre; these riots started after a big screen that was due to show the match had failed. [[BBC News (British TV channel)|BBC News 24]] interrupted normal programming to broadcast the riots live on television{{Citation needed|date=October 2009}} and [[ITN]]'s flagship ''[[ITV News at Ten|News at Ten]]'' programme gave extensive coverage to the riots.<ref>{{cite news |first=Paul |last=Taylor |title=Pub Closed After Brawl |url=http://www.manchestereveningnews.co.uk/news/s/1049692_pub_closed_after_brawl |work=[[Manchester Evening News]] |publisher=M.E.N. Media |date=14 May 2008 |access-date=14 May 2008 |archive-url=https://web.archive.org/web/20080705173638/http://www.manchestereveningnews.co.uk/news/s/1049692_pub_closed_after_brawl |archive-date=5 July 2008 |url-status=live }}</ref><ref name="MEN">{{cite news |title=Violence marrs Uefa showpiece |url=http://www.manchestereveningnews.co.uk/news/s/1049714_violence_marrs_uefa_showpiece |work=[[Manchester Evening News]] |publisher=M.E.N. Media |date=14 May 2008 |access-date=15 May 2008 |archive-url=https://web.archive.org/web/20080708230359/http://www.manchestereveningnews.co.uk/news/s/1049714_violence_marrs_uefa_showpiece |archive-date=8 July 2008 |url-status=live }}</ref><ref>{{cite news |title=The Uefa Cup Final day in video |url=http://news.bbc.co.uk/1/hi/uk/7401188.stm |work=[[BBC News]] |publisher=British Broadcasting Corporation |date=14 May 2008 |access-date=19 July 2012 |archive-url=https://web.archive.org/web/20090112014013/http://news.bbc.co.uk/1/hi/uk/7401188.stm |archive-date=12 January 2009 |url-status=live }}</ref><ref>{{cite news |title=Violence mars Uefa final |url=http://www.itv.com/News/Articles/Violence-mars-Uefa-final-521932830.html |publisher=[[ITN|Independent Television News]] |date=14 May 2008 |access-date=14 May 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080517145455/http://www.itv.com/News/Articles/Violence-mars-Uefa-final-521932830.html |archive-date=17 May 2008 |df=dmy-all }}</ref>
+
+A Zenit fan was also attacked and stabbed, although it was later established that Rangers supporters were not responsible.<ref>{{cite news |first=Andy |last=Bloxham |title=Man stabbed in Manchester following Glasgow Rangers' Uefa defeat |url=https://www.telegraph.co.uk/news/uknews/1956368/Man-stabbed-in-Manchester-following-Glasgow-Rangers-Uefa-defeat.html |work=Telegraph.co.uk |publisher=Telegraph Media Group |date=15 May 2008 |access-date=6 April 2009 |archive-url=https://web.archive.org/web/20100710062914/http://www.telegraph.co.uk/news/uknews/1956368/Man-stabbed-in-Manchester-following-Glasgow-Rangers-Uefa-defeat.html |archive-date=10 July 2010 |url-status=live }}</ref> Eleven people were convicted of rioting and given prison sentences varying from six months to {{frac|3|1|2}} years in September 2010.<ref>{{cite news |first=Mark |last=Ogden |title=Rangers fans jailed over Manchester riot following Uefa Cup final defeat |url=https://www.telegraph.co.uk/sport/football/teams/rangers/7981012/Rangers-fans-jailed-over-Manchester-riot-following-Uefa-Cup-final-defeat.html |work=Telegraph.co.uk |publisher=Telegraph Media Group |location=London |date=3 September 2010 |access-date=4 September 2010 |archive-url=https://web.archive.org/web/20100906225210/http://www.telegraph.co.uk/sport/football/teams/rangers/7981012/Rangers-fans-jailed-over-Manchester-riot-following-Uefa-Cup-final-defeat.html |archive-date=6 September 2010 |url-status=live }}</ref>
+
+==See also==
+*[[2008 UEFA Champions League final]]
+*[[2008 UEFA Super Cup]]
+*[[FC Zenit Saint Petersburg in European football]]
+*[[Rangers F.C. in European football]]
+*[[2008 FC Zenit Saint Petersburg season]]
+*[[2007–08 Rangers F.C. season]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20100625234536/http://en.archive.uefa.com/competitions/uefacup/history/season%3D2008/intro.html 2007–08 season] at UEFA.com
+
+{{UEFA Europa League seasons}}
+{{2007–08 in European football (UEFA)}}
+{{FC Zenit Saint Petersburg matches}}
+{{Rangers F.C. matches}}
+
+{{DEFAULTSORT:Uefa Cup final 2008}}
+[[Category:UEFA Europa League finals|2008]]
+[[Category:2007–08 UEFA Cup|Final]]
+[[Category:2007–08 in English men's football|UEFA Cup Final]]
+[[Category:2007–08 in Scottish football|UEFA Cup Final]]
+[[Category:2008 in sport in Manchester|UEFA Cup Final]]
+[[Category:2008 in Russian football|UEFA Cup Final]]
+[[Category:Rangers F.C. matches|UEFA Cup Final 2008]]
+[[Category:FC Zenit Saint Petersburg matches|UEFA Cup Final 2008]]
+[[Category:Men's football finals in England]]
+[[Category:May 2008 sports events in the United Kingdom]]
+[[Category:Football matches in Manchester]]
+[[Category:Russia–United Kingdom sports relations|2008]]

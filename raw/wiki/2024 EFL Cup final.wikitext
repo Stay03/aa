@@ -1,0 +1,362 @@
+{{Short description|Final of the 2023–24 EFL Cup}}
+{{Use dmy dates|date=January 2024}}
+{{Infobox football match
+| title = 2024 EFL Cup final
+| image = File:Wembley.jpg
+| alt = 
+| event = [[2023–24 EFL Cup]]
+| caption = [[Wembley Stadium]] hosted the match
+| team1 = [[Chelsea F.C.|Chelsea]]
+| team1score = 0
+| team2 = [[Liverpool F.C.|Liverpool]]
+| team2score = 1
+| details = After [[Overtime (sports)#Association football|extra time]]
+| date = {{Start date|2024|2|25|df=y}}
+| stadium = [[Wembley Stadium]]
+| city = [[London]]
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Virgil van Dijk]] (Liverpool)<ref name="MOTM">{{Cite web |last=Reyes |first=Joel |date=26 February 2024 |title=Virgil Van Dijk: Big Game VVD Shows Up for Liverpool Again With MOTM Display in Carabao Cup Final |url=https://sportsbrief.com/football/59890-virgil-van-dijk-big-game-vvd-shows-liverpool-motm-display-carabao-cup-final/ |access-date=27 February 2024 |website=Sports Brief}}</ref>
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]] ([[Lancashire County Football Association|Lancashire]])<ref name="officials" />
+| attendance = 88,868<ref name="attendance"/>
+| weather = 
+| previous = [[2023 EFL Cup final|2023]]
+| next = [[2025 EFL Cup final|2025]]
+}}
+
+The '''2024 EFL Cup final''' was the final match of the [[2023–24 EFL Cup]]. It was played between [[Chelsea F.C.|Chelsea]] and [[Liverpool F.C.|Liverpool]], in a repeat of the [[2022 EFL Cup final|2022 final]], at [[Wembley Stadium]] in London, England, on 25 February 2024.<ref>{{cite news |last1=Brennan |first1=Feargal |title=When is the 2024 Carabao Cup final? Date, time of League Cup title match at Wembley Stadium |url=https://www.sportingnews.com/uk/football/news/when-2024-carabao-cup-final-date-time-league-cup-wembley/1b0782a7c1205fbb408c0632 |website=[[The Sporting News]] |date=10 January 2024}}</ref>
+
+Liverpool won the match 1–0 after [[Overtime (sports)#Association football|extra time]] to secure a record-extending tenth EFL Cup title.<ref name="BBC Report">{{cite web|url=https://www.bbc.co.uk/sport/football/68329936|title=Chelsea 0–1 Liverpool (aet) - Virgil van Dijk extra-time winner gives Reds Wembley glory|work=BBC Sport|date=25 February 2024|access-date=25 February 2024}}</ref><ref name="Guardian Report">{{cite web|url=https://www.theguardian.com/football/2024/feb/25/chelsea-liverpool-carabao-cup-match-report|title=Liverpool win Carabao Cup as Van Dijk’s extra-time header sinks Chelsea|date=25 February 2024|work=Guardian|access-date=26 February 2024}}</ref>
+
+==Route to the final==
+{{main|2023–24 EFL Cup}}
+
+===Chelsea===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;float:right"
+|-
+!scope=col style="width:25px"| Round
+!scope=col style="width:200px"| Opposition
+!scope=col style="width:90px"| Score
+|-
+!scope=row style="text-align:center"| 2
+| [[AFC Wimbledon]] ([[Stamford Bridge (stadium)|H]])
+| 2–1
+|-
+!scope=row style="text-align:center"| 3
+| [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] ([[Stamford Bridge (stadium)|H]])
+| 1–0
+|-
+!scope=row style="text-align:center"| 4
+| [[Blackburn Rovers F.C.|Blackburn Rovers]] ([[Stamford Bridge (stadium)|H]])
+| 2–0
+|-
+!scope=row style="text-align:center"| QF
+| [[Newcastle United F.C.|Newcastle United]] ([[Stamford Bridge (stadium)|H]])
+| 1–1 (4–2 [[Penalty shoot-out (association football)|p.]])
+|-
+!rowspan="2" scope=row style="text-align:center"| SF
+| [[Middlesbrough F.C.|Middlesbrough]] ([[Riverside Stadium|A]])
+| 0–1
+|-
+| Middlesbrough ([[Stamford Bridge (stadium)|H]])
+| 6–1
+|-
+|colspan="3"| <small>'''Key:''' (H) = Home; (A) = Away</small>
+|}
+</div>
+As a Premier League club not involved in any [[UEFA club competitions|UEFA competitions]], Chelsea entered the cup in the second round where they were drawn at home to [[EFL League Two]] club [[AFC Wimbledon]]. The match was played at [[Stamford Bridge (stadium)|Stamford Bridge]] on 30 August 2023, where Chelsea won 2–1 thanks to goals from [[Noni Madueke]] and [[Enzo Fernández]], with the latter scoring his first goal for the club.<ref>{{cite web |last1=Howell |first1=Alex |title=Chelsea survive scare to beat AFC Wimbledon |url=https://www.bbc.co.uk/sport/football/66589697 |work=BBC Sport |date=30 August 2023}}</ref> In the third round, they were drawn at home to fellow Premier League club [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]], played at Stamford Bridge on 27 September. The match finished 1–0, with the lone goal coming from striker [[Nicolas Jackson]] in the 50th minute.<ref>{{cite web |title=Chelsea 1–0 Brighton: Nicolas Jackson fires Blues into fourth round of Carabao Cup |url=https://www.skysports.com/football/news/11095/12969812/chelsea-1-0-brighton-nicolas-jackson-fires-blues-into-fourth-round-of-carabao-cup |work=[[Sky Sports]] |date=28 September 2023}}</ref> In the fourth round, Chelsea were drawn at home against [[EFL Championship]] club [[Blackburn Rovers]], with the match played on 1 November. The match saw Chelsea comfortably defeat Blackburn by a score of 2–0, with goals coming from both [[Benoît Badiashile]] and [[Raheem Sterling]].<ref>{{cite web |title=Chelsea cruise past Blackburn in Carabao Cup |url=https://www.espn.com/soccer/report/_/gameId/688409 |work=ESPN |date=1 November 2023}}</ref> 
+
+In the quarter-finals, Chelsea were drawn at home for the fourth consecutive time to Premier League club and [[2023 EFL Cup final|2023 finalists]] [[Newcastle United]], with the match played at Stamford Bridge on 19 December. A an early Newcastle goal from [[Callum Wilson]] saw them try to maintain the lead, however a defensive mistake from [[Kieran Trippier]] led to a stoppage-time equalizer from Chelsea substitute [[Mykhailo Mudryk]], sending the match to a [[Penalty shoot-out (association football)|penalty shoot-out]]. Chelsea won 4–2 on penalties with a 100% conversion rate, with [[Cole Palmer]], [[Conor Gallagher]], [[Christopher Nkunku]], and Mudryk all scoring for the Blues. Wilson and [[Bruno Guimarães]] converted their penalties for Newcastle, with Trippier missing the target and [[Matt Ritchie]] having his decisive penalty saved by [[Đorđe Petrović (footballer)|Đorđe Petrović]].<ref>{{cite web |title=Chelsea 1–1 Newcastle United (4–2 on pens) |url=https://www.bbc.co.uk/sport/football/67688633 |work=[[BBC Sport]] |date=19 December 2023}}</ref> In the semi-finals, which were played over two legs, Chelsea were drawn against EFL Championship club [[Middlesbrough F.C.|Middlesbrough]] with the first leg played away at [[Riverside Stadium]] on 9 January 2024. Middlesbrough shocked the Blues, beating them 1–0 with a goal from [[Hayden Hackney]].<ref>{{cite web |title=Middlesbrough shock Chelsea in Carabao Cup semifinal first leg |url=https://www.espn.com/soccer/report/_/gameId/693337 |work=[[ESPN]] |date=9 January 2024}}</ref> The second leg was played at Stamford Bridge on 23 January, with Chelsea winning 6–1 (6–2 on aggregate) in a must-win match, with an own goal from [[Jonny Howson]], goals from Fernández, [[Axel Disasi]], Madueke, and a brace from Palmer securing the victory for Chelsea, despite Middlesbrough's [[Morgan Rogers]] earning a consolation goal.<ref>{{cite web |title=Chelsea 6-1 Middlesbrough (Agg: 6-2): Blues blow away Boro to reach Carabao Cup final |url=https://www.bbc.co.uk/sport/football/67989655 |work=BBC Sport |date=23 January 2024}}</ref>
+
+===Liverpool===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;float:right"
+|-
+!scope=col style="width:25px"| Round
+!scope=col style="width:200px"| Opposition
+!scope=col style="width:90px"| Score
+|-
+!scope=row style="text-align:center"| 3
+| [[Leicester City F.C.|Leicester City]] ([[Anfield|H]])
+| 3–1
+|-
+!scope=row style="text-align:center"| 4
+| [[AFC Bournemouth|Bournemouth]] ([[Dean Court|A]])
+| 2–1
+|-
+!scope=row style="text-align:center"| QF
+| [[West Ham United F.C.|West Ham United]] ([[Anfield|H]])
+| 5–1
+|-
+!rowspan="2" scope=row style="text-align:center"| SF
+| [[Fulham F.C.|Fulham]] ([[Anfield|H]])
+| 2–1
+|-
+| Fulham ([[Craven Cottage|A]])
+| 1–1
+|-
+|colspan="3"| <small>'''Key:''' (H) = Home; (A) = Away</small>
+|}
+</div>
+As a Premier League club involved in [[UEFA club competitions|UEFA competitions]], Liverpool entered in the third round where they were drawn at home to [[EFL Championship]] club [[Leicester City F.C.|Leicester City]]. The match was played at [[Anfield]] on 27 September 2023, where Liverpool won 3–1 thanks to goals from [[Cody Gakpo]], [[Dominik Szoboszlai]] and [[Diogo Jota]].<ref>{{cite web |title=Dominik Szoboszlai scores stunner in Liverpool win |url=https://www.bbc.co.uk/sport/football/66862357 |work=BBC Sport |date=27 September 2023}}</ref> In the fourth round, they were drawn away to fellow Premier League club [[AFC Bournemouth|Bournemouth]], played at [[Dean Court]] on 1 November 2023. The match finished with a 2–1 victory for Liverpool, with Cody Gakpo and [[Darwin Núñez]] both getting on the scoresheet.<ref>{{cite web |last1=Jackson |first1=Bobbie |title=Darwin Nunez continues fine form to send Reds into last eight |url=https://www.bbc.co.uk/sport/football/67213051 |work=BBC Sport |date=1 November 2023}}</ref> In the quarter-finals, Liverpool were drawn at home to Premier League club [[West Ham United F.C.|West Ham United]], played at Anfield on 20 December 2023. Liverpool produced a dominant display to record a 5–1 victory, with goals coming from Dominik Szoboszlai, [[Curtis Jones (footballer, born 2001)|Curtis Jones]], Cody Gakpo and [[Mohamed Salah]]. Jones scored twice, his second goal being Liverpool's 500th in the [[EFL Cup]].<ref>{{cite web |last1=Stone |first1=Simon |title=Jurgen Klopp's side reach Carabao Cup last four |url=https://www.bbc.co.uk/sport/football/67700011 |work=BBC Sport |date=20 December 2023}}</ref> In the semi-finals, which were played over two legs, Liverpool were drawn against Premier League club [[Fulham F.C.|Fulham]] with the first leg played at home at Anfield on 10 January 2024. Despite going behind in the first-half via a goal from [[Willian (footballer, born 1988)|Willian]], Liverpool completed a turnaround to win 2–1 after two second-half goals by Curtis Jones and Cody Gakpo.<ref>{{cite web |last1=Rose |first1=Gary |title=Cody Gakpo hits winner as Reds fight back to win EFL Cup semi-final first leg |url=https://www.bbc.co.uk/sport/football/67869691 |work=BBC Sport |date=10 January 2024}}</ref> The second leg was played at [[Craven Cottage]] on 24 January, with the match ending in a 1–1 draw after [[Issa Diop (footballer)|Issa Diop]] cancelled out [[Luis Díaz (footballer, born 1997)|Luis Díaz]]'s first-half strike. As a result, Liverpool won the tie 3–2 on aggregate to progress to their second EFL Cup final in three seasons.<ref>{{cite web |last1=Begley |first1=Emlyn |title=Luis Diaz goal sends Reds to Carabao Cup final |url=https://www.bbc.co.uk/sport/football/68002571 |work=BBC Sport |date=24 January 2024}}</ref>
+
+==Pre-match==
+This was Chelsea's tenth League Cup final and Liverpool's fourteenth – the latter was the most appearances of any club in this competition.<ref>{{cite web |url=https://metro.co.uk/2022/01/12/chelsea-see-off-tottenham-to-set-up-carabao-cup-final-against-arsenal-or-liverpool-15908882/ |title=Chelsea see off Tottenham to set up Carabao Cup final against Arsenal or Liverpool |work=Metro |date=12 January 2022 |access-date=14 January 2022}}</ref> 
+This was the sides' third meeting in a League Cup final, having met in [[2005 Football League Cup final|2005]] and [[2022 EFL Cup final|2022]], with Chelsea winning the former encounter and Liverpool winning the latter.<ref>{{cite news |url=https://www.liverpoolfc.com/news/chelsea-v-liverpool-18-stats-know-about-carabao-cup-final |title=Chelsea v Liverpool: 18 stats to know about the Carabao Cup final |date=23 February 2024 |publisher=Liverpool F.C. |access-date=23 February 2024}}</ref>
+The final was initially meant to kick off at 16:30 [[Greenwich Mean Time|GMT]], but was instead switched to a 15:00 kick off after the match was designated a "high-risk" fixture by the [[Metropolitan Police]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/68136378 |title=Carabao Cup: Chelsea v Liverpool final to kick off at 3pm on police advice |work=BBC Sport |date=29 January 2024 |access-date=29 January 2024}}</ref>
+
+==Match==
+===Team selection===
+Regular starters for Liverpool [[Mohamed Salah]], [[Darwin Núñez]], [[Dominik Szoboszlai]], [[Joël Matip]], [[Trent Alexander-Arnold]], [[Alisson Becker]] and [[Diogo Jota]] were all ruled out of the final due to injury, as were [[Curtis Jones (footballer, born 2001)|Curtis Jones]], [[Thiago Alcântara]], [[Stefan Bajcetic]] and [[Ben Gannon-Doak]].<ref name="90MININJURY">{{cite web |url=https://www.90min.com/posts/liverpool-injuries-every-player-out-of-carabao-cup-final-vs-chelsea |title=Liverpool injuries: Every player out of Carabao Cup final vs Chelsea |work=90min|date=25 February 2024 |access-date=25 February 2024}}</ref>
+
+===Summary===
+The match kicked off at 15:00 in front of a crowd of 88,868.<ref name="attendance"/> Chelsea came close to opening the scoring just within the opening 20 minutes, after [[Cole Palmer]] had an effort saved at point-blank range by [[Caoimhín Kelleher]], before [[Nicolas Jackson]]'s follow up effort was thwarted by [[Wataru Endō]]. In the 32nd minute, Palmer played a [[Passing (association football)#Through pass|through-ball]] to Jackson, who then played the ball across from the right to [[Raheem Sterling]] who was left to slot the ball into the net. However, the goal was initially disallowed for [[Offside (association football)|offside]] by the [[Assistant referee (association football)|assistant referee]], and then also by the [[video assistant referee]] after making a check, confirming that Jackson was clearly in an offside position when receiving the through ball. Liverpool came close to scoring in the 40th minute after [[Andy Robertson]] played a [[Cross (association football)|cross]] towards [[Cody Gakpo]], whose [[Header (association football)|header]] rebounded off the right post.<ref name="BBC Report" />
+
+In the second half, Liverpool thought they had taken the lead in the 60th minute after a [[Free kick (association football)|free kick]] into the Chelsea penalty area by Robertson found its way towards [[Virgil van Dijk]], who headed the ball into the corner of the Chelsea goal. However, the goal was disallowed by the video assistant referee, after adjudging that Endō was blocking Chelsea defender [[Levi Colwill]] while starting in an offside position. Chelsea came close to scoring in the 76th minute after Palmer played the ball across the Liverpool penalty area, where [[Conor Gallagher]] attempted to flick the ball into the Liverpool goal, however his effort ended up striking the right post. Into [[Overtime (sports)#Association football|extra time]], Van Dijk headed the ball across to substitute [[Jayden Danns]], whose header had to be tipped over the goal by [[Đorđe Petrović (footballer)|Đorđe Petrović]]. Late into extra time, Liverpool found a dramatic winning goal after a [[Corner kick|corner]] by [[Kostas Tsimikas]] from the right found its way on to the head of Van Dijk who managed to guide the ball past Petrović and into the left corner of the net. Despite desperate late attempts from Chelsea to find a goal, Liverpool came out victorious with a 1–0 win after extra time to secure their tenth EFL Cup, and their second in three seasons.<ref name="Guardian Report" />
+
+===Details===
+<onlyinclude>{{#invoke:football box|main
+| id = 
+| date = {{Start date|2024|2|25|df=y}}
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Chelsea F.C.|Chelsea]]
+| score = 0–1
+| aet = yes
+| report = https://www.efl.com/match-centre/g2427138
+| team2 = [[Liverpool F.C.|Liverpool]]
+| goals1 = 
+| goals2 = 
+*[[Virgil van Dijk|Van Dijk]] {{goal|118}}
+| stadium = [[Wembley Stadium]]
+| location = [[London]]
+| attendance = 88,868<ref name="attendance">{{cite web|url=https://www.bbc.com/sport/live/football/67781978|title=EFL Cup final: Chelsea 0–1 Liverpool – Van Dijk heads extra-time winner|publisher=BBC Sport|date=25 February 2024|access-date=25 February 2024}}</ref>
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_b  = _chelsea2324h
+| pattern_sh = _chelsea2324h
+| pattern_la = _chelsea2324h
+| pattern_ra = _chelsea2324h
+| pattern_so = _chelsea2324hl
+| leftarm1   = 0000FF
+| rightarm1  = 0000FF
+| shorts1    = 0000FF
+| socks1     = FFFFFF
+| title      = Chelsea
+}}
+|{{Football kit
+| pattern_la = _liverpool2324h
+| pattern_b  = _liverpool2324h
+| pattern_ra = _liverpool2324h
+| leftarm    = E00000
+| body       = E00000
+| rightarm   = E00000
+| shorts     = E00000
+| socks      = E00000
+| title      = Liverpool
+}}
+|}
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''28'''||{{#invoke:flag|icon|SRB}} [[Đorđe Petrović (footballer)|Đorđe Petrović]]
+|-
+|RB ||'''27'''||{{#invoke:flag|icon|FRA}} [[Malo Gusto]]
+|-
+|CB ||'''2''' ||{{#invoke:flag|icon|FRA}} [[Axel Disasi]]
+|-
+|CB ||'''26'''||{{#invoke:flag|icon|ENG}} [[Levi Colwill]]
+|-
+|LB ||'''21'''||{{#invoke:flag|icon|ENG}} [[Ben Chilwell]] ([[Captain (association football)|c]]) || {{yel|45+3}} || {{suboff|113}}
+|-
+|CM ||'''25'''||{{#invoke:flag|icon|ECU}} [[Moisés Caicedo]]
+|-
+|CM ||'''8''' ||{{#invoke:flag|icon|ARG}} [[Enzo Fernández]]
+|-
+|RW ||'''20'''||{{#invoke:flag|icon|ENG}} [[Cole Palmer]] || {{yel|120+2}}
+|-
+|AM ||'''23'''||{{#invoke:flag|icon|ENG}} [[Conor Gallagher]] || || {{suboff|97}}
+|-
+|LW ||'''7''' ||{{#invoke:flag|icon|ENG}} [[Raheem Sterling]] || || {{suboff|67}}
+|-
+|CF ||'''15'''||{{#invoke:flag|icon|SEN}} [[Nicolas Jackson]] || || {{suboff|90}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|ESP}} [[Robert Sánchez]]
+|-
+|GK ||'''13'''||{{#invoke:flag|icon|ENG}} [[Marcus Bettinelli]]
+|-
+|DF ||'''14'''||{{#invoke:flag|icon|ENG}} [[Trevoh Chalobah]] || || {{subon|113}}
+|-
+|DF ||'''42'''||{{#invoke:flag|icon|ENG}} [[Alfie Gilchrist]]
+|-
+|MF ||'''49'''||{{#invoke:flag|icon|FIN}} [[Jimi Tauriainen]]
+|-
+|MF ||'''56'''||{{#invoke:flag|icon|ENG}} [[Billy Gee]]
+|-
+|FW ||'''10'''||{{#invoke:flag|icon|UKR}} [[Mykhailo Mudryk]] || || {{subon|90}}
+|-
+|FW ||'''11'''||{{#invoke:flag|icon|ENG}} [[Noni Madueke]] || || {{subon|97}}
+|-
+|FW ||'''18'''||{{#invoke:flag|icon|FRA}} [[Christopher Nkunku]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ARG}} [[Mauricio Pochettino]]
+|}
+|valign="top"|[[File:Chelsea vs Liverpool 2024-02-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''62'''||{{#invoke:flag|icon|IRL}} [[Caoimhín Kelleher]]
+|-
+|RB ||'''84'''||{{#invoke:flag|icon|NIR}} [[Conor Bradley]] || {{yel|45+3}} || {{suboff|72}}
+|-
+|CB ||'''5''' ||{{#invoke:flag|icon|FRA}} [[Ibrahima Konaté]] || {{yel|82}} || {{suboff|106}}
+|-
+|CB ||'''4''' ||{{#invoke:flag|icon|NED}} [[Virgil van Dijk]] ([[Captain (association football)|c]])
+|-
+|LB ||'''26'''||{{#invoke:flag|icon|SCO}} [[Andy Robertson]] || || {{suboff|87}}
+|-
+|CM ||'''10'''||{{#invoke:flag|icon|ARG}} [[Alexis Mac Allister]] || {{yel|81}} || {{suboff|87}}
+|-
+|CM ||'''3''' ||{{#invoke:flag|icon|JPN}} [[Wataru Endo|Wataru Endō]]
+|-
+|CM ||'''38'''||{{#invoke:flag|icon|NED}} [[Ryan Gravenberch]] || || {{suboff|28}}
+|-
+|RW ||'''19'''||{{#invoke:flag|icon|ENG}} [[Harvey Elliott]]
+|-
+|CF ||'''18'''||{{#invoke:flag|icon|NED}} [[Cody Gakpo]] || || {{suboff|87}}
+|-
+|LW ||'''7''' ||{{#invoke:flag|icon|COL}} [[Luis Díaz (footballer, born 1997)|Luis Díaz]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{#invoke:flag|icon|ESP}} [[Adrián (footballer)|Adrián]]
+|-
+|DF ||'''2''' ||{{#invoke:flag|icon|ENG}} [[Joe Gomez (footballer)|Joe Gomez]] || {{yel|120+3}} || {{subon|28}}
+|-
+|DF ||'''21'''||{{#invoke:flag|icon|GRE}} [[Kostas Tsimikas]] || || {{subon|87}}
+|-
+|DF ||'''78'''||{{#invoke:flag|icon|ENG}} [[Jarell Quansah]] || || {{subon|106}}
+|-
+|MF ||'''42'''||{{#invoke:flag|icon|ENG}} [[Bobby Clark (footballer, born 2005)|Bobby Clark]] || || {{subon|72}}
+|-
+|MF ||'''53'''||{{#invoke:flag|icon|ENG}} [[James McConnell (footballer, born 2004)|James McConnell]] || {{yel|107}} || {{subon|87}}
+|-
+|MF ||'''98'''||{{#invoke:flag|icon|ENG}} [[Trey Nyoni]]
+|-
+|FW ||'''67'''||{{#invoke:flag|icon|WAL}} [[Lewis Koumas]]
+|-
+|FW ||'''76'''||{{#invoke:flag|icon|ENG}} [[Jayden Danns]] || || {{subon|87}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|GER}} [[Jürgen Klopp]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Virgil van Dijk]] (Liverpool)<ref name="MOTM" />
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials">{{cite news |title=Referee appointments: Carabao Cup Final 2024 |url=https://www.efl.com/news/2024/february/14/referee-appointments--carabao-cup-final-2024/ |website=EFL.com |publisher=English Football League |date=14 February 2024 |access-date=20 February 2024}}</ref>
+<br />Mark Scholes
+<br />James Mainwaring
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials" />
+<br />[[Tim Robinson (referee)|Tim Robinson]]
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials" />
+<br />Wade Smith
+<br />'''[[Video assistant referee]]:'''<ref name="officials" />
+<br />[[John Brooks (referee)|John Brooks]]
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials" />
+<br />Marc Perry
+|style="width:60%;vertical-align:top"|
+'''Match rules'''<ref>{{cite web |url=https://www.efl.com/carabao-cup/about-the-carabao-cup/carabao-cup-rules--regulations |title=Regulations |website=EFL.com |publisher=English Football League |access-date=13 January 2022 |url-status=live |archive-url=https://web.archive.org/web/20220113093144/https://www.efl.com/carabao-cup/about-the-carabao-cup/carabao-cup-rules--regulations/ |archive-date=13 January 2022}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Nine named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+===Statistics===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref>{{cite news|url=https://www.nytimes.com/athletic/live-blogs/chelsea-liverpool-live-updates-carabao-cup-final-score-result/kK608FIecHhr/ |title=How Liverpool beat Chelsea 1–0 in Carabao Cup final on Van Dijk's extra-time goal |work=The Athletic |date=25 February 2024 |access-date=25 February 2024 |first1=Michael |last1=Dominski |first2=Max |last2=Mathews}}</ref>
+|-
+!scope="col" |Statistic
+!scope="col" style="width:70px"| Chelsea
+!scope="col" style="width:70px"| Liverpool
+|-
+!scope=row|Total shots 
+| 19 
+| 24
+|-
+!scope=row|Shots on target 
+| 9 
+| 11
+|-
+!scope=row|Ball possession 
+| 46% 
+| 54%
+|-
+!scope=row|Corner kicks 
+| 6 
+| 5
+|-
+!scope=row|Offside 
+| 3
+| 2
+|-
+!scope=row|Fouls committed 
+| 14 
+| 21
+|-
+!scope=row|Yellow cards 
+| 2 
+| 5
+|-
+!scope=row|Red cards 
+| 0 
+| 0
+|}
+
+==Post-match==
+[[File:20160604 AUT NED 8876 (cropped).jpg|thumb|upright=.8|Liverpool captain and defender [[Virgil van Dijk]] scored the winning goal and was named [[Player of the match#Association football|man of the match]].]]
+With this defeat, Chelsea became the first team to lose six successive domestic cup finals. This dismal run began when they lost the [[2019 EFL Cup final]] to [[Manchester City F.C.|Manchester City]]. They then lost two FA Cup finals in a row in [[2020 FA Cup final|2020]] and [[2021 FA Cup final|2021]] (to [[Arsenal F.C.|Arsenal]] and [[Leicester City F.C.|Leicester City]], respectively). In 2022, they reached the [[2022 EFL Cup final|final]] of the EFL Cup and their third successive FA Cup [[2022 FA Cup final|final]]; they would lose both of them on penalties to Liverpool after both matches ended in goalless draws.<ref>{{cite news |url=https://tribuna.com/en/news/chelsea-2024-02-25-chelsea-become-first-english-side-to-lose-6-domestic-cup-finals-in-a-row-3-of-them-to-liv/ |title=Chelsea become first English side to lose 6 domestic cup finals in a row – 3 of them to Liverpool |publisher=Tribuna |date=25 February 2024 |access-date=12 August 2024}}</ref> Former [[Manchester United F.C.|Manchester United]] player and [[Sky Sports]] commentator [[Gary Neville]] described the match as "Klopp's kids against the blue billion-pound bottle-jobs", referencing the Liverpool fringe players  
+and Chelsea's overspending on player transfers.<ref name="GaryNeville">{{cite news |url=https://www.bbc.co.uk/sport/football/68397980 |title=Carabao Cup: 'Jurgen Klopp's kids beat Chelsea's billion-pound bottle-jobs' - pundits react to Liverpool triumph |publisher=[[BBC Sport]] |date=25 February 2024 |access-date=12 August 2024}}</ref>
+
+For Liverpool, it was the first time under [[Jürgen Klopp]] that they had won a domestic cup final without the need of a penalty shoot-out, excluding the [[2022 FA Community Shield]], when they defeated [[Manchester City F.C.|Manchester City]] 3–1.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/62275194 |title=Community Shield: Liverpool 3-1 Man City - Darwin Nunez seals victory |publisher=[[BBC Sport]] |date=30 July 2022 |access-date=30 September 2024}}</ref> It turned out to be Klopp's final trophy with the club, having announced a month prior to the final that he would leave at the end of the season.<ref>{{Cite news |date=2024-01-26 |title=Jurgen Klopp to step down as Liverpool manager at end of season |url=https://www.bbc.com/sport/football/68104699 |access-date=2024-08-02 |work=BBC Sport |language=en-GB}}</ref>
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+<references />
+
+==External links==
+*{{Official website|https://www.efl.com/competitions/carabao-cup/}}
+
+{{EFL Cup}}
+{{2023–24 in English men's football}}
+{{Chelsea F.C. matches}}
+{{Liverpool F.C. matches}}
+
+[[Category:EFL Cup finals]]
+[[Category:2023–24 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:February 2024 sports events in the United Kingdom|League Cup final]]
+[[Category:2024 in sport in London|League Cup final]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:Chelsea F.C. matches|EFL Cup final 2024]]
+[[Category:Liverpool F.C. matches|EFL Cup final 2024]]

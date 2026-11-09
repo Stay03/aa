@@ -1,0 +1,593 @@
+{{Short description|Football match in Berlin, Germany}}
+{{Good article}}
+{{Use dmy dates|date=June 2015}}
+{{Infobox football match
+| title = 2015 UEFA Champions League final
+| image = [[File:2015 UEFA Champions League Final programme.jpg|frameless]]
+| caption = Match programme cover
+| event = [[2014–15 UEFA Champions League]]
+| team1 = [[Juventus FC|Juventus]]
+| team1association = {{fbaicon|ITA|size=30px}}
+| team1score = 1
+| team2 = [[FC Barcelona|Barcelona]]
+| team2association = {{fbaicon|ESP|size=30px}}
+| team2score = 3
+| details = 
+| date = 6 June 2015
+| stadium = [[Olympiastadion (Berlin)|Olympiastadion]]
+| city = [[Berlin]]
+| man_of_the_match1a = [[Andrés Iniesta]] (Barcelona)<ref name="motm">{{cite news |first=Andrew |last=Halsam |title=Barcelona see off Juventus to claim fifth title |url=https://www.uefa.com/uefachampionsleague/news/0252-0cd2c6a4864d-8c8d00efd1bd-1000--barcelona-see-off-juventus-to-claim-fifth-title/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=6 June 2015 |access-date=6 June 2015 |archive-url=https://web.archive.org/web/20171110151922/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000552/match=2015227/postmatch/report/index.html |archive-date=10 November 2017 |url-status=live }}</ref>
+| referee = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])<ref name="referee">{{cite news |title=Çakır to referee UEFA Champions League final |url=https://www.uefa.com/uefachampionsleague/news/0221-0e9b5c4002b3-036e126c3a93-1000--cakir-to-referee-uefa-champions-league-final/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=18 May 2015 |access-date=6 June 2015 |archive-url=https://web.archive.org/web/20190630152218/https://www.uefa.com/uefachampionsleague/news/newsid=2249342.html |archive-date=30 June 2019 |url-status=live }}</ref>
+| attendance = 70,442<ref name="fulltime report"/>
+| weather = Partly cloudy<br />{{convert|26|°C|°F|abbr=on}}<br />49% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2015/2015227_LU.pdf |title=Tactical Line-ups – Final – Saturday 6 June 2015 |website=[[UEFA]] |publisher=Union of European Football Associations |date=6 June 2015 |access-date=9 June 2015 |archive-url=https://web.archive.org/web/20190607151359/https://www.uefa.com/newsfiles/UCL/2015/2015227_LU.pdf |archive-date=7 June 2019 |url-status=live }}</ref>
+| previous = [[2014 UEFA Champions League final|2014]]
+| next = [[2016 UEFA Champions League final|2016]]
+}}
+The '''2015 UEFA Champions League final''' was the final match of the [[2014–15 UEFA Champions League]], the 60th season of Europe's premier club [[association football|football]] tournament organised by [[UEFA]], and the 23rd season since it was renamed from the European Champion Clubs' Cup to the [[UEFA Champions League]]. It was played at the [[Olympiastadion (Berlin)|Olympiastadion]] in [[Berlin]], Germany, on 6 June 2015, between Italian side [[Juventus FC|Juventus]] and Spanish side [[FC Barcelona|Barcelona]].
+
+For the second time – after [[2010 UEFA Champions League final|2010]] – both teams came into the final with the possibility of definitively winning a [[Treble (association football)#Continental trebles|continental treble]], having each won their national league and cup for the season. Barcelona scored the only goal of the first half after four minutes, through [[Ivan Rakitić]]. Ten minutes after the interval, Juventus equalised with a goal by [[Álvaro Morata]]. In the 68th minute, [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] put Barcelona back in the lead, and Barcelona's win was confirmed when [[Neymar]] scored with the last kick of the game. It was Barcelona's fifth trophy in the competition, and sealed their second treble, the other coming in [[2009 UEFA Champions League final|2009]]. It was also Juventus' sixth defeat in a European Cup final, the most by any club, a record they previously shared with [[FC Bayern Munich|Bayern Munich]] and [[S.L. Benfica|Benfica]].
+
+As winners, Barcelona earned the right to play against the winners of the [[2014–15 UEFA Europa League]], [[Sevilla FC|Sevilla]], in the [[2015 UEFA Super Cup]], and won that match 5–4. They also qualified to enter the [[2015 FIFA Club World Cup]] in Japan as the UEFA representative, going on to beat Argentina's [[CA River Plate|River Plate]] in the [[2015 FIFA Club World Cup final|final]].
+
+==Venue==
+[[File:Olympicstadium2.jpg|thumb|The Olympiastadion in Berlin hosted the final.]]
+
+The [[Olympiastadion (Berlin)|Olympiastadion]] was announced as the venue for the final at the UEFA Executive Committee meeting in London on 23 May 2013.<ref>{{cite web |title=Executive Committee decides hosts for 2015 finals |url=http://www.uefa.org/about-uefa/executive-committee/news/newsid=1954884.html |website=UEFA.org |publisher=Union of European Football Associations |date=23 May 2013 |access-date=14 February 2015 |archive-url=https://web.archive.org/web/20151004072345/http://www.uefa.org/about-uefa/executive-committee/news/newsid=1954884.html |archive-date=4 October 2015 |url-status=live }}</ref> This was the first European Cup/Champions League final hosted in Berlin.<ref>{{cite news|last=with wires|first=kla|title=Berlin to Host 2015 Final in Olympic Stadium|url=http://www.spiegel.de/international/germany/2015-champions-league-final-to-be-held-in-berlin-germany-a-901526.html|access-date=9 August 2016|newspaper=[[Der Spiegel]]|date=23 May 2013|archive-url=https://web.archive.org/web/20160414052521/http://www.spiegel.de/international/germany/2015-champions-league-final-to-be-held-in-berlin-germany-a-901526.html|archive-date=14 April 2016|url-status=live}}</ref>
+
+The current Olympiastadion was built for the [[1936 Summer Olympics]] in the western part of the city.<ref>{{cite web|url=http://www.worldsoccer.com/features/stadium-guide/stadium-guide-olympiastadion-berlin-362518|title=Stadium Guide: Olympiastadion Berlin - World Soccer|publisher=WorldSoccer.com|date=5 June 2015|access-date=9 August 2016|archive-url=https://web.archive.org/web/20160827105131/http://www.worldsoccer.com/features/stadium-guide/stadium-guide-olympiastadion-berlin-362518|archive-date=27 August 2016|url-status=live}}</ref> Since 1985, the stadium has hosted the finals of both the [[DFB-Pokal]] and its [[DFB-Pokal (women)|female equivalent]]. The Olympiastadion hosts the [[ISTAF Berlin|Internationales Stadionfest]], which was an [[IAAF Golden League]] event from 1998 to 2009. The stadium hosted the [[2009 World Championships in Athletics]].<ref name=Host1>{{cite web |title=Berlin to host 2009 World Championships |url=http://www.iaaf.org/news/Kind=512/newsId=27957.html |publisher=[[IAAF]] |date=4 April 2004 |access-date=9 August 2016 |archive-url=https://web.archive.org/web/20121022192316/http://www.iaaf.org/news/Kind=512/newsId=27957.html |archive-date=22 October 2012}}</ref>
+
+Aside from its use as an Olympic stadium, the Olympiastadion has a strong footballing tradition, having been the home of [[Hertha BSC]] since 1963.<ref>{{cite web|url=http://www.herthabsc.de/de/teams/damals-wars-nuernberg/page/4337--45--.html#.V6ovHFQrK00|title=DAMALS WAR'S: BUNDESLIGA-AUFTAKT GEGEN DEN 'CLUB'|date=24 August 2015 |publisher=herthabsc.de|access-date=9 August 2016|language=de|archive-url=https://web.archive.org/web/20160821093238/http://www.herthabsc.de/de/teams/damals-wars-nuernberg/page/4337--45--.html#.V6ovHFQrK00|archive-date=21 August 2016|url-status=live}}</ref> It was also used for three matches at the [[1974 FIFA World Cup]], and was renovated ahead of the [[2006 FIFA World Cup|2006 tournament]], at which it hosted six matches, including the [[2006 FIFA World Cup final|final]].<ref name="report">{{cite web |url=https://www.fifa.com/worldcup/matches/round=97410600/match=97410064/index.html#nosticky |title=Italy – France |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=9 August 2016 |archive-url=https://web.archive.org/web/20160811075340/http://www.fifa.com/worldcup/matches/round=97410600/match=97410064/index.html#nosticky |archive-date=11 August 2016 |url-status=dead }}</ref>
+
+==Background==
+This was the eighth European Cup/UEFA Champions League final for both Juventus and Barcelona.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0221-0e9b62f81668-026e01bbda09-1000--juventus-and-barcelona-the-final-victories/|title=Juventus and Barcelona: the final victories|publisher=[[UEFA]]|date=31 May 2015|access-date=31 May 2015|archive-url=https://web.archive.org/web/20160109213333/http://www.uefa.com/uefachampionsleague/news/newsid=2250446.html|archive-date=9 January 2016|url-status=live}}</ref> Juventus won two of their previous finals ([[1985 European Cup final|1985]], [[1996 UEFA Champions League final|1996]]) and lost five ([[1973 European Cup final|1973]], [[1983 European Cup final|1983]], [[1997 UEFA Champions League final|1997]], [[1998 UEFA Champions League final|1998]], [[2003 UEFA Champions League final|2003]]), while Barcelona won four of their previous finals ([[1992 European Cup final|1992]], [[2006 UEFA Champions League final|2006]], [[2009 UEFA Champions League final|2009]], [[2011 UEFA Champions League final|2011]]) and lost three ([[1961 European Cup final|1961]], [[1986 European Cup final|1986]], [[1994 UEFA Champions League final|1994]]). Barcelona also played in six [[UEFA Cup Winners' Cup|Cup Winners' Cup]] finals (winning in [[1979 European Cup Winners' Cup final|1979]], [[1982 European Cup Winners' Cup final|1982]], [[1989 European Cup Winners' Cup final|1989]], [[1997 UEFA Cup Winners' Cup final|1997]], and losing in [[1969 European Cup Winners' Cup final|1969]], [[1991 European Cup Winners' Cup final|1991]]), while Juventus also played in one Cup Winners' Cup final (winning in [[1984 European Cup Winners' Cup final|1984]]) and four [[UEFA Europa League|UEFA Cup]] finals (winning in [[1977 UEFA Cup final|1977]], [[1990 UEFA Cup final|1990]], [[1993 UEFA Cup final|1993]], and losing in [[1995 UEFA Cup final|1995]]).<ref>{{cite web |title=2015 UEFA Champions League Final Press Kit |url=https://www.uefa.com/printoutfiles/competitions/uefachampionsleague/2015/E/E_2015227_PK.pdf |work=[[UEFA]] |date=5 June 2015 |access-date=5 June 2015 |archive-url=https://web.archive.org/web/20151208093042/http://www.uefa.org/printoutfiles/competitions/uefachampionsleague/2015/E/E_2015227_PK.pdf |archive-date=8 December 2015 |url-status=dead }}</ref>
+
+The two teams had previously played six times in UEFA club competitions, but never in a final. In their previous UEFA club competition meetings, Barcelona won 2–1 on aggregate in the [[1985–86 European Cup]] quarter-finals and 3–2 on aggregate in the [[1990–91 European Cup Winners' Cup]] semi-finals, while Juventus won 3–2 on aggregate in the [[2002–03 UEFA Champions League]] quarter-finals.<ref>{{cite web |title=Juventus v Barcelona: past meetings |url=https://www.uefa.com/uefachampionsleague/news/0221-0e90b42c667a-601278464a05-1000--juventus-v-barcelona-past-meetings/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=13 May 2015 |access-date=26 May 2015 |archive-url=https://web.archive.org/web/20150526024715/http://www.uefa.com/uefachampionsleague/news/newsid=2246724.html |archive-date=26 May 2015 |url-status=live }}</ref> They also played in the 1952 [[Latin Cup]] semi-finals, won by Barcelona 4–2, and the [[1970–71 Inter-Cities Fairs Cup]] second round, won by Juventus 4–2 on aggregate.<ref>{{cite web|url=https://www.fifa.com/world-match-centre/uefachampionsleague/news/newsid/261/901/4/index.html|title=Barça-Juve: Five battles in three cities|publisher=FIFA.com|date=5 June 2015|access-date=4 December 2017|archive-url=https://web.archive.org/web/20160305151914/http://www.fifa.com/world-match-centre/uefachampionsleague/news/newsid/261/901/4/index.html|archive-date=5 March 2016|url-status=dead}}</ref>
+
+Similar to the [[2010 UEFA Champions League final]], both teams entered the final in the possibility of winning the [[treble (association football)|treble]] of domestic league, domestic cup and Champions League titles.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0253-0d801f260f58-ddd88205fd28-1000--barcelona-break-new-ground-with-second-treble/|title=Barcelona and Juventus go for treble glory|publisher=[[UEFA]]|date=31 May 2015|access-date=30 May 2015|archive-url=https://web.archive.org/web/20171119115620/http://www.uefa.com/uefachampionsleague/news/newsid=2251733.html|archive-date=19 November 2017|url-status=live}}</ref> Juventus were crowned champions of the [[2014–15 Serie A]] on 2 May, and won the [[2015 Coppa Italia final]] eighteen days later. Barcelona were crowned champions of the [[2014–15 La Liga]] on 17 May, and won the [[2015 Copa del Rey final]] thirteen days later. While it would have been the first treble for Juventus, Barcelona had previously won the treble in [[2008–09 FC Barcelona season|2008–09]].<ref>{{cite news |first=Phil |last=McNulty |title=Barcelona 2–0 Man Utd |work=BBC Sport |date=27 May 2009 |url=https://news.bbc.co.uk/sport2/hi/football/europe/8060878.stm |access-date=27 September 2020}}</ref>
+
+==Route to the final==
+{{further|2014–15 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+!Round
+!colspan=4|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[2014–15 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|SWE}} [[Malmö FF]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#Juventus v Malmö FF|2–0]] (H)
+|style="background:#c1e0ff"|Matchday 1
+|align=left|{{fbaicon|CYP}} [[APOEL FC|APOEL]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#Barcelona v APOEL|1–0]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Atlético Madrid]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#Atlético Madrid v Juventus|0–1]] (A)
+|style="background:#c1e0ff"|Matchday 2
+|align=left|{{fbaicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#Paris Saint-Germain v Barcelona|2–3]] (A)
+|-
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#Olympiacos v Juventus|0–1]] (A)
+|style="background:#c1e0ff"|Matchday 3
+|align=left|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#Barcelona v Ajax|3–1]] (H)
+|-
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#Juventus v Olympiacos|3–2]] (H)
+|style="background:#c1e0ff"|Matchday 4
+|align=left|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#Ajax v Barcelona|2–0]] (A)
+|-
+|align=left|{{fbaicon|SWE}} [[Malmö FF]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#Malmö FF v Juventus|2–0]] (A)
+|style="background:#c1e0ff"|Matchday 5
+|align=left|{{fbaicon|CYP}} [[APOEL FC|APOEL]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#APOEL v Barcelona|4–0]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[Atlético Madrid]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#Juventus v Atlético Madrid|0–0]] (H)
+|style="background:#c1e0ff"|Matchday 6
+|align=left|{{fbaicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan=3|[[2014–15 UEFA Champions League group stage#Barcelona v Paris Saint-Germain|3–1]] (H)
+|-
+|colspan=4 valign=top|'''[[2014–15 UEFA Champions League group stage#Group A|Group A]] runners-up'''
+{{:2014–15 UEFA Champions League group stage|transcludesection=Group A|only_pld_pts=yes|show_matches=no|showteam=JUV}}
+|style="background:#c1e0ff"|Final standings
+|colspan=4 valign=top|'''[[2014–15 UEFA Champions League group stage#Group F|Group F]] winners'''
+{{:2014–15 UEFA Champions League group stage|transcludesection=Group F|only_pld_pts=yes|show_matches=no|showteam=BAR}}
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2014–15 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|GER}} [[Borussia Dortmund]]
+|5–1
+|[[2014–15 UEFA Champions League knockout phase#Juventus v Borussia Dortmund|2–1]] (H)
+|[[2014–15 UEFA Champions League knockout phase#Borussia Dortmund v Juventus|3–0]] (A)
+|style="background:#c1e0ff"|Round of 16
+|align=left|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|3–1
+|[[2014–15 UEFA Champions League knockout phase#Manchester City v Barcelona|2–1]] (A)
+|[[2014–15 UEFA Champions League knockout phase#Barcelona v Manchester City|1–0]] (H)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[AS Monaco FC|Monaco]]
+|1–0
+|[[2014–15 UEFA Champions League knockout phase#Juventus v Monaco|1–0]] (H)
+|[[2014–15 UEFA Champions League knockout phase#Monaco v Juventus|0–0]] (A)
+|style="background:#c1e0ff"|Quarter-finals
+|align=left|{{fbaicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|5–1
+|[[2014–15 UEFA Champions League knockout phase#Paris Saint-Germain v Barcelona|3–1]] (A)
+|[[2014–15 UEFA Champions League knockout phase#Barcelona v Paris Saint-Germain|2–0]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|3–2
+|[[2014–15 UEFA Champions League knockout phase#Juventus v Real Madrid|2–1]] (H)
+|[[2014–15 UEFA Champions League knockout phase#Real Madrid v Juventus|1–1]] (A)
+|style="background:#c1e0ff"|Semi-finals
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|5–3
+|[[2014–15 UEFA Champions League knockout phase#Barcelona v Bayern Munich|3–0]] (H)
+|[[2014–15 UEFA Champions League knockout phase#Bayern Munich v Barcelona|2–3]] (A)
+|}
+
+===Juventus===
+[[File:Carlos_T%C3%A9vez,_Real_Madrid_vs_Juventus,_24_October_2013_Champions_League.JPG|thumb|upright|[[Carlos Tevez]] scored seven goals in Juventus' run to the final.]]
+
+As winners of the [[2013–14 Serie A]], Juventus qualified automatically for the [[2014–15 UEFA Champions League group stage|group stage]]. They were seeded second in Group A featuring – in seeded order – [[Atlético Madrid]] (champions of the [[2013–14 La Liga]]), [[Olympiacos F.C.|Olympiacos]] (champions of the [[2013–14 Super League Greece]]), and [[Malmö FF]] (champions of the [[2013 Allsvenskan]]).<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/history/clubs/50139--juventus/|title=Juventus Matches|access-date=9 August 2016|archive-url=https://web.archive.org/web/20160816094231/http://www.uefa.com/uefachampionsleague/season=2015/clubs/club=50139/matches/index.html|archive-date=16 August 2016|url-status=live}}</ref>
+
+Their campaign began on 16 September, hosting Malmö at the [[Juventus Stadium]], winning 2–0 through second-half goals by [[Carlos Tevez]].<ref>{{cite news|title=Tévez gets Juventus going at Malmö's expense|url=https://www.uefa.com/uefachampionsleague/match/2014316--juventus-vs-malmo/|access-date=11 April 2016|date=16 September 2014|archive-url=https://web.archive.org/web/20161211121604/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014316/index.html|archive-date=11 December 2016|url-status=live}}</ref> On 1 October, they travelled to face Atlético at the [[Vicente Calderón Stadium]], losing by a sole goal from [[Arda Turan]] late on, a result that left all four teams level on three points apiece.<ref>{{cite news|title=Arda Turan edges Atlético past Juventus|url=https://www.uefa.com/uefachampionsleague/match/2014324--atleti-vs-juventus/|access-date=11 April 2016|date=1 October 2014|archive-url=https://web.archive.org/web/20160310124533/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014324/index.html|archive-date=10 March 2016|url-status=live}}</ref> Three weeks later Juventus again lost by one goal on their travels, [[Pajtim Kasami]] scoring in the first half for Olympiacos, whose goalkeeper [[Roberto Jiménez Gago|Roberto]] played a key role.<ref>{{cite news|title=Roberto denies Juventus as Olympiacos win again|url=https://www.uefa.com/uefachampionsleague/match/2014340--olympiacos-vs-juventus/|access-date=11 April 2016|publisher=UEFA|date=22 October 2014|archive-url=https://web.archive.org/web/20151212005749/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014340/index.html|archive-date=12 December 2015|url-status=live}}</ref> On 4 November, hosting the Greeks, Juventus won 3–2 after trailing 1–2, getting two goals in as many minutes from Roberto's [[own goal]] and [[Paul Pogba]]'s winning strike.<ref>{{cite news|title=Pogba caps Juventus recovery against Olympiacos|url=https://www.uefa.com/uefachampionsleague/match/2014364--juventus-vs-olympiacos/|access-date=11 April 2016|publisher=UEFA|date=4 November 2014|archive-url=https://web.archive.org/web/20160310200059/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014364/index.html|archive-date=10 March 2016|url-status=live}}</ref>
+
+On 26 November, Juventus won away for the first time in the group, with second-half goals from [[Fernando Llorente]] and Tevez at Malmö's [[Swedbank Stadion]].<ref>{{cite news|title=Juventus end Malmö bid to close in on qualification|url=https://www.uefa.com/uefachampionsleague/match/2014372--malmo-vs-juventus/|access-date=11 April 2016|publisher=UEFA|date=26 November 2014|archive-url=https://web.archive.org/web/20150920210855/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014372/index.html|archive-date=20 September 2015|url-status=live}}</ref> In the final group game on 9 December, they hosted a goalless draw against Atlético, which sent both teams through, but Juventus in second place.<ref>{{cite news|title=Honours even for Juventus and Atlético|url=https://www.uefa.com/uefachampionsleague/match/2014396--juventus-vs-atleti/|access-date=11 April 2016|publisher=UEFA|date=9 December 2014|archive-url=https://web.archive.org/web/20160310200244/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014396/index.html|archive-date=10 March 2016|url-status=live}}</ref>
+
+As group runners-up, Juventus had to face a group winner – Germans [[Borussia Dortmund]] of Group D – in the [[2014–15 UEFA Champions League knockout phase|last 16]]. They won 2–1 at home in the first leg on 24 February 2015, with all the goals in the first half – visitor [[Marco Reus]] equalised either side of strikes from Tevez and [[Álvaro Morata]].<ref>{{cite news|title=First-half goals give Juve victory over Dortmund|url=https://www.uefa.com/uefachampionsleague/match/2014408--juventus-vs-b-dortmund/|access-date=11 April 2016|publisher=UEFA|date=24 February 2015|archive-url=https://web.archive.org/web/20160319034522/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000549/match=2014408/index.html|archive-date=19 March 2016|url-status=live}}</ref> The same forwards were on target in the second leg at the [[Westfalenstadion]] on 18 March – Tevez scored twice, including in the third minute – as Juventus won 3–0, and 5–1 on aggregate.<ref>{{cite news|title=Tévez [''sic''] leads Juventus to Dortmund stroll|url=https://www.uefa.com/uefachampionsleague/match/2014418--b-dortmund-vs-juventus/|access-date=11 April 2016|publisher=UEFA|date=18 March 2015|archive-url=https://web.archive.org/web/20160316145411/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000549/match=2014418/index.html|archive-date=16 March 2016|url-status=live}}</ref>
+
+In the quarter-finals, Juventus faced [[AS Monaco FC|Monaco]], runners-up in the [[2013–14 Ligue 1]]. The only goal of the tie came in the first leg at home on 14 April, [[Arturo Vidal]] scoring a [[Penalty kick (association football)|penalty kick]] after [[Ricardo Carvalho]] tripped Morata.<ref>{{cite news|title=Vidal gives Juventus the edge over Monaco|url=https://www.uefa.com/uefachampionsleague/news/0220-0e9b0cca7a9f-371ccb320070-1000--vidal-gives-juventus-the-edge-over-monaco/|access-date=11 April 2016|publisher=UEFA|date=14 April 2015|archive-url=https://web.archive.org/web/20160817054619/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000550/match=2014422/postmatch/report/index.html#juve+gain+narrow+lead|archive-date=17 August 2016|url-status=live}}</ref> It was their first advancement into the semi-finals for 12 years.<ref>{{cite news|title=Juventus edge past Monaco and into semis|url=https://www.uefa.com/uefachampionsleague/match/2014424--monaco-vs-juventus/|access-date=11 April 2016|publisher=UEFA|date=22 April 2015|archive-url=https://web.archive.org/web/20160316145926/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000550/match=2014424/index.html|archive-date=16 March 2016|url-status=live}}</ref>
+
+On 5 May, Juventus hosted reigning champions [[Real Madrid CF|Real Madrid]] at Juventus Stadium. Morata opened the scoring against his former team, and [[Cristiano Ronaldo]] equalised before half time. Tevez scored the winning goal from the penalty spot after he was fouled by [[Dani Carvajal]].<ref>{{cite news|title=Tévez [''sic''] gives Juventus the edge against Real Madrid|url=https://www.uefa.com/uefachampionsleague/news/0221-0e908d4a6138-0d200bf0b0d9-1000--tevez-gives-juventus-the-edge-against-real-madrid/|access-date=11 April 2016|publisher=UEFA|date=5 May 2015|archive-url=https://web.archive.org/web/20160105180434/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000551/match=2014427/postmatch/report/index.html#tevez+gives+juve+edge|archive-date=5 January 2016|url-status=live}}</ref> Eight days later, the two teams drew at the [[Santiago Bernabéu Stadium]]: Ronaldo scored a penalty after [[Giorgio Chiellini]] fouled [[James Rodríguez]], but in the second half Morata equalised. Juventus advanced to the final 3–2 on aggregate.<ref>{{cite news|title=Morata takes Juve through at Madrid's expense|url=https://www.uefa.com/uefachampionsleague/news/0221-0e90b42c4d27-040295451f90-1000--morata-takes-juve-through-at-madrid-s-expense/|access-date=11 April 2016|publisher=UEFA|date=13 May 2015|archive-url=https://web.archive.org/web/20160106194158/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000551/match=2014430/postmatch/report/index.html#juve+oust+holders+madrid|archive-date=6 January 2016|url-status=live}}</ref>
+
+===Barcelona===
+[[File:2015_UEFA_Super_Cup_64_crop.jpg|thumb|upright|[[Lionel Messi]] scored ten times in Barcelona's progress to the final, including a hat-trick away to [[APOEL FC|APOEL]].]]
+
+Barcelona qualified for the group stage as runners-up to Atlético in the previous season's La Liga. They were the top seeds in Group F, alongside – in order – [[Paris Saint-Germain FC|Paris Saint-Germain]] (winners of the [[2013–14 Ligue 1]]), [[AFC Ajax|Ajax]] (winners of the [[2013–14 Eredivisie]]) and [[APOEL FC|APOEL]] (winners of the [[2013–14 Cypriot First Division]]).<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/history/clubs/50080--barcelona/|title=Barcelona Matches|access-date=9 August 2016|archive-url=https://web.archive.org/web/20160727080335/http://www.uefa.com/uefachampionsleague/season=2015/clubs/club=50080/matches/index.html|archive-date=27 July 2016|url-status=live}}</ref>
+
+In their first game of the group, defender [[Gerard Piqué]] headed the only goal to defeat [[APOEL]] at the [[Camp Nou]] on 17 September.<ref>{{cite news|title=Piqué the head boy as Barça edge past APOEL|url=https://www.uefa.com/uefachampionsleague/match/2014309--barcelona-vs-apoel/|access-date=11 April 2016|publisher=UEFA|date=17 September 2014|archive-url=https://web.archive.org/web/20150426171257/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014309/index.html|archive-date=26 April 2015|url-status=live}}</ref> However, thirteen days later at the [[Parc des Princes]], they fell 3–2 to Paris Saint-Germain.<ref>{{cite news|title=Paris get better of Barcelona in five-goal thriller|url=https://www.uefa.com/uefachampionsleague/match/2014333--paris-vs-barcelona/|access-date=11 April 2016|publisher=UEFA|date=30 September 2014|archive-url=https://web.archive.org/web/20160413125147/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014333/index.html|archive-date=13 April 2016|url-status=live}}</ref> On 21 October, Barcelona hosted Ajax and got first-half goals through [[Neymar]] and [[Lionel Messi]]; [[Anwar El Ghazi]] scored for the visitors with two minutes to play but [[Sandro Ramírez|Sandro]]'s added-time strike confirmed a 3–1 win.<ref>{{cite news|title=Irresistible Barça brush Ajax aside|url=https://www.uefa.com/uefachampionsleague/match/2014350--barcelona-vs-ajax/|access-date=11 April 2016|publisher=UEFA|date=21 October 2014|archive-url=https://web.archive.org/web/20160306095336/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014350/index.html|archive-date=6 March 2016|url-status=live}}</ref> Barcelona travelled to the [[Amsterdam Arena]] on 5 November and defeated Ajax 2–0 with a Messi goal in each half; he equalled the tournament's record of 71 overall goals.<ref>{{cite news|title=Messi matches goal record as Barcelona advance|url=https://www.uefa.com/uefachampionsleague/match/2014358--ajax-vs-barcelona/|access-date=11 April 2016|publisher=UEFA|date=5 November 2015|archive-url=https://web.archive.org/web/20150713081329/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014358/index.html|archive-date=13 July 2015|url-status=live}}</ref>
+
+On 25 November, Barcelona played APOEL at the [[GSP Stadium]] in [[Nicosia]], winning 4–0 with a hat-trick from Messi and a further goal from [[Luis Suárez (Uruguayan footballer)|Luis Suárez]]; Messi became the competition's all-time top scorer.<ref>{{cite news|title=Record-breaker Messi leads Barça stroll at APOEL|url=https://www.uefa.com/uefachampionsleague/match/2014381--apoel-vs-barcelona/|access-date=11 April 2016|publisher=UEFA|date=25 November 2014|archive-url=https://web.archive.org/web/20180616194701/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014381/index.html|archive-date=16 June 2018|url-status=live}}</ref> Barcelona won the group with a 3–1 home win over PSG on 10 December. They initially fell behind to a goal by [[Zlatan Ibrahimović]], but replied with a goal each from the South American forward line of Messi, Neymar and Suárez.<ref>{{cite news|title=Barcelona win Group F ahead of Paris|url=https://www.uefa.com/uefachampionsleague/match/2014389--barcelona-vs-paris/|publisher=UEFA|date=10 December 2014|access-date=11 April 2016|archive-url=https://web.archive.org/web/20160413100436/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000548/match=2014389/index.html|archive-date=13 April 2016|url-status=live}}</ref>
+
+In the last 16, Barcelona faced [[Manchester City F.C.|Manchester City]], winners of the [[2013–14 Premier League]] and Group E runners-up. In the first leg at the [[City of Manchester Stadium]] on 24 February 2015, Suárez scored twice in the first 30 minutes, and [[Sergio Agüero]] got a goal back for the hosts after the break.<ref>{{cite news|title=Suárez at the double as Barcelona win at City|url=https://www.uefa.com/uefachampionsleague/match/2014404--man-city-vs-barcelona/|access-date=11 April 2016|publisher=UEFA|date=24 February 2015|archive-url=https://web.archive.org/web/20160409100023/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000549/match=2014404/index.html|archive-date=9 April 2016|url-status=live}}</ref> In the return game on 18 March, City goalkeeper [[Joe Hart]] limited Barcelona to a single goal by [[Ivan Rakitić]], and Barcelona advanced 3–1 on aggregate.<ref>{{cite news|title=Barcelona get past City despite Hart heroics|url=https://www.uefa.com/uefachampionsleague/match/2014414--barcelona-vs-man-city/|access-date=11 April 2016|date=18 March 2015|archive-url=https://web.archive.org/web/20160409100028/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000549/match=2014414/index.html|archive-date=9 April 2016|url-status=live}}</ref>
+
+Barcelona met PSG again in the quarter-finals. On 15 April in Paris, Neymar scored the only goal of the first half and Suárez added two more, with the hosts getting a consolation through [[Jérémy Mathieu]]'s own goal.<ref>{{cite news|title=Suárez at the double as Barcelona beat Paris|url=https://www.uefa.com/uefachampionsleague/match/2014419--paris-vs-barcelona/|access-date=11 April 2016|publisher=UEFA|date=15 April 2015|archive-url=https://web.archive.org/web/20160414061633/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000550/match=2014419/index.html|archive-date=14 April 2016|url-status=live}}</ref> Six days later, two first-half goals from Neymar sealed a 5–1 aggregate win.<ref>{{cite news|title=Neymar at the double as Barcelona ease through|url=https://www.uefa.com/uefachampionsleague/match/2014425--barcelona-vs-paris/|access-date=11 April 2016|publisher=UEFA|date=21 April 2015|archive-url=https://web.archive.org/web/20160409092523/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000550/match=2014425/index.html|archive-date=9 April 2016|url-status=live}}</ref>
+
+In the semi-finals, Barcelona's opponents were [[Bayern Munich]], winners of the [[2013–14 Bundesliga]]. They hosted the first leg on 6 May, breaking the deadlock with two late goals from Messi in a three-minute spell, and an added-time addition by Neymar.<ref>{{cite news|title=Messi double puts Barça in control against Bayern|url=https://www.uefa.com/uefachampionsleague/match/2014428--barcelona-vs-bayern-munchen/|access-date=11 April 2016|publisher=UEFA|date=6 May 2015|archive-url=https://web.archive.org/web/20160408190522/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000551/match=2014428/index.html|archive-date=8 April 2016|url-status=live}}</ref> Six days later at the [[Allianz Arena]], Bayern took the lead through [[Medhi Benatia]], and Neymar put Barcelona into the lead by half time. Second-half goals by [[Robert Lewandowski]] and [[Thomas Müller]] gave Bayern a 3–2 win on the night, but Barcelona advanced 5–3 on aggregate.<ref>{{cite news|title=Barcelona hold on despite Bayern fightback|url=https://www.uefa.com/uefachampionsleague/match/2014429--bayern-munchen-vs-barcelona/|access-date=11 April 2016|publisher=UEFA|date=12 May 2015|archive-url=https://web.archive.org/web/20160413130013/http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000551/match=2014429/index.html|archive-date=13 April 2016|url-status=live}}</ref>
+
+==Pre-match==
+===Ambassador===
+[[File:Karl-Heinz Riedle, 2012.jpg|thumb|upright|[[Karl-Heinz Riedle]] was named as the ambassador for the final.]]
+
+Former Germany international player [[Karl-Heinz Riedle]], who won the Champions League with [[Borussia Dortmund]] against Juventus in 1997, was named the ambassador for the final.<ref>{{cite news |title=Riedle relishing ambassadorial role |url=https://www.uefa.com/uefachampionsleague/news/0253-0d041e5b938f-e4aa01ce00f5-1000--riedle-relishing-ambassadorial-role/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=28 August 2014 |access-date=14 February 2015 |archive-url=https://web.archive.org/web/20150220034648/http://www.uefa.com/uefachampionsleague/news/newsid=2137889.html |archive-date=20 February 2015 |url-status=live }}</ref>
+
+===Logo===
+UEFA unveiled the visual identity of the final on 29 August 2014. It blends the stadium with the city's [[Brandenburg Gate]].<ref>{{cite web |title=2015 UEFA Champions League final identity revealed |url=http://www.uefa.org/about-uefa/administration/marketing/news/newsid=2137073.html |website=UEFA.org |publisher=Union of European Football Associations |date=29 August 2014 |access-date=14 February 2015 |archive-url=https://web.archive.org/web/20150419050245/http://www.uefa.org/about-uefa/administration/marketing/news/newsid=2137073.html |archive-date=19 April 2015 |url-status=live }}</ref>
+
+===Ticketing===
+With a stadium capacity of 70,500, a total amount of 46,000 tickets were available to fans and the general public, with the two finalist teams receiving 20,000 tickets each and with 6,000 tickets being available for sale to fans worldwide via UEFA.com from 5 to 23 March 2015 in four price categories: €390, €280, €160, and €70.<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2217443.html|title=Apply for Champions League final tickets from Thursday|publisher=[[UEFA]]|date=3 March 2015|access-date=17 March 2015|archive-url=https://web.archive.org/web/20150313195751/http://www.uefa.com/uefachampionsleague/news/newsid=2217443.html|archive-date=13 March 2015|url-status=dead}}</ref> The rest of 24,500 tickets were allocated to sponsors and officials.<ref>{{cite news |title=Champions League final 2015: Uefa allocate 24,500 tickets for officials, sponsors and corporate hospitality |url=https://www.independent.co.uk/sport/football/european/champions-league-final-2015-uefa-allocate-24500-tickets-for-officials-sponsors-and-corporate-hospitality-10083151.html |work=The Independent |publisher=Independent Print |date=3 March 2015 |access-date=17 March 2015 |archive-url=https://web.archive.org/web/20150329002907/http://www.independent.co.uk/sport/football/european/champions-league-final-2015-uefa-allocate-24500-tickets-for-officials-sponsors-and-corporate-hospitality-10083151.html |archive-date=29 March 2015 |url-status=live }}</ref>
+
+===Related events===
+The [[2015 UEFA Women's Champions League final]] was held on 14 May 2015 at the [[Friedrich-Ludwig-Jahn-Sportpark]] in Berlin. Unlike recent years, in which the Women's Champions League final was held in the same week as the men's Champions League final, the two matches are separated by almost a month, as the [[2015 FIFA Women's World Cup]] started in early June.<ref>{{cite news |title=Friedrich-Ludwig-Jahn-Sportpark to stage final |url=https://www.uefa.com/womenschampionsleague/news/0217-0e159a8ddd93-e1c861fc2c67-1000--friedrich-ludwig-jahn-sportpark-to-stage-final/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=16 July 2014 |access-date=14 February 2015 |archive-url=https://web.archive.org/web/20150107052319/http://www.uefa.com/womenschampionsleague/news/newsid=2123817.html |archive-date=7 January 2015 |url-status=live }}</ref>
+
+The annual UEFA Champions Festival was held between 4–7 June 2015 in the streets around [[Brandenburg Gate]].<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0221-0e90c57d3d39-57766e18aea4-1000--champions-festival-berlin-4-7-june/|title=Champions Festival: Berlin, 4–7 June|publisher=[[UEFA]]|date=18 May 2015|access-date=21 May 2015|archive-url=https://web.archive.org/web/20150522002431/http://www.uefa.com/uefachampionsleague/news/newsid=2246749.html|archive-date=22 May 2015|url-status=live}}</ref>
+
+===Opening ceremony===
+The UEFA Champions League Anthem is performed by German soprano [[Nina Maria Fischer]] and Spanish tenor [[Manuel Gomez Ruiz]], the first time it had been performed as a duet.<ref>{{Cite web |url=https://www.eldiario.es/canariasahora/sociedad/canario-cantara-Champions-final-sabado_0_395461204.html |title = Un tenor canario cantará el himno de la Champions en la final de este sábado  |date = 5 June 2015 |access-date=22 June 2019 |archive-url=https://web.archive.org/web/20190622153259/https://www.eldiario.es/canariasahora/sociedad/canario-cantara-Champions-final-sabado_0_395461204.html |archive-date=22 June 2019 |url-status=live }}</ref>
+
+==Match==
+===Officials===
+[[File:Cüneyt Çakır.JPG|thumb|upright|[[Cüneyt Çakır]] was the final's referee.]]
+
+In May 2015, the officials were chosen for the final by UEFA, led by Turkish referee [[Cüneyt Çakır]]. His compatriots Bahattin Duran and Tarık Ongun were chosen as assistant referees, and fellow Turks [[Hüseyin Göçek]] and Barış Şimşek the additional assistants, with Mustafa Emre Eyisoy the reserve assistant. [[Jonas Eriksson (referee)|Jonas Eriksson]], of Sweden, was chosen as fourth official.<ref>{{cite news|title=Turkish referee Cuneyt Cakir to take charge of Champions League final|url=http://www.espnfc.com/uefa-champions-league/story/2456059/cuneyt-cakir-to-referee-champions-league-final|access-date=6 June 2015|publisher=ESPN|date=18 May 2015|archive-url=https://web.archive.org/web/20150527164622/http://www.espnfc.com/uefa-champions-league/story/2456059/cuneyt-cakir-to-referee-champions-league-final|archive-date=27 May 2015|url-status=live}}</ref> Çakır is a UEFA elite referee, and has refereed at [[UEFA Euro 2012]] and the [[2014 FIFA World Cup]], as well as the [[2012 FIFA Club World Cup Final]].
+
+Çakır was scrutinised by the British media in 2013 when he sent off [[Manchester United F.C.|Manchester United]]'s [[Nani (footballer)|Nani]] in a Champions League round of 16 match and the English team went on to lose to Real Madrid.<ref>{{cite news|title=Turkish referee Cuneyt Cakir's history of sending off England-based players in big matches|url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/9912050/Turkish-referee-Cuneyt-Cakirs-history-of-sending-off-England-based-players-in-big-matches.html|access-date=13 April 2016|work=The Daily Telegraph|date=6 March 2013|archive-url=https://web.archive.org/web/20160426234655/http://www.telegraph.co.uk/sport/football/teams/manchester-united/9912050/Turkish-referee-Cuneyt-Cakirs-history-of-sending-off-England-based-players-in-big-matches.html|archive-date=26 April 2016|url-status=live}}</ref> Manager [[Alex Ferguson]] was so enraged by the decision that he refused to speak to the media after the game.<ref>{{cite news|title=Manchester United v Real Madrid: Sir Alex Ferguson too angry with referee Cuneyt Cakir to speak after defeat|url=https://www.telegraph.co.uk/sport/football/competitions/champions-league/9910668/Manchester-United-v-Real-Madrid-Sir-Alex-Ferguson-too-angry-with-referee-Cuneyt-Cakir-to-speak-after-defeat.html|access-date=13 April 2016|work=The Daily Telegraph|date=6 March 2013|archive-url=https://web.archive.org/web/20160426233044/http://www.telegraph.co.uk/sport/football/competitions/champions-league/9910668/Manchester-United-v-Real-Madrid-Sir-Alex-Ferguson-too-angry-with-referee-Cuneyt-Cakir-to-speak-after-defeat.html|archive-date=26 April 2016|url-status=live}}</ref> UEFA confirmed that no action would be taken against the referee, concluding that he made the correct judgement.<ref>{{cite news|last1=Nakrani|first1=Sachin|title=Nani red card: Uefa backs Champions League referee Cuneyt Cakir|url=https://www.theguardian.com/football/2013/mar/06/uefa-referee-cuneyt-cakir-nani|access-date=13 April 2016|work=The Guardian|date=6 March 2013|archive-url=https://web.archive.org/web/20160422115701/http://www.theguardian.com/football/2013/mar/06/uefa-referee-cuneyt-cakir-nani|archive-date=22 April 2016|url-status=live}}</ref>
+
+===Team selection===
+Juventus defender [[Giorgio Chiellini]] was ruled out of the final with a calf injury picked up in training on 3 June.<ref>{{cite web |title=Giorgio Chiellini out of Champions League final against Barcelona |url=https://www.theguardian.com/football/2015/jun/04/giorgio-chiellini-champions-league-final-juventus-barcelona |work=The Guardian |publisher=Guardian News and Media |date=4 June 2015 |access-date=5 June 2015 |archive-url=https://web.archive.org/web/20150605044153/http://www.theguardian.com/football/2015/jun/04/giorgio-chiellini-champions-league-final-juventus-barcelona |archive-date=5 June 2015 |url-status=live }}</ref> Barcelona had no injury concerns before the final.<ref>{{cite news |title=Juventus v Barcelona final: team news |url=http://www.uefa.com/uefachampionsleague/news/newsid=2253464.html |website=[[UEFA]] |publisher=Union of European Football Associations |date=4 June 2015 |access-date=5 June 2015 |archive-url=https://web.archive.org/web/20150621214450/http://www.uefa.com/uefachampionsleague/news/newsid=2253464.html |archive-date=21 June 2015 |url-status=dead }}</ref>
+
+Barcelona's [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] had previously been involved in two controversies with players in the Juventus squad: in 2012, he was found guilty by an FA commission of using racially insulting language towards [[Patrice Evra]] in a game between their respective former clubs [[Liverpool F.C.|Liverpool]] and Manchester United, and at the [[2014 FIFA World Cup]] he escaped punishment for biting Chiellini but was punished retrospectively. Evra stated that he would shake Suárez's hand before the game, after Suarez had refused to shake his hand in their last match.<ref>{{cite news |title=Juventus defender Patrice Evra says he'll shake Luis Suarez's hand at Champions League final |url=http://www1.skysports.com/football/news/12040/9875108/juventus-defender-patrice-evra-says-hell-shake-luis-suarezs-hand-at-champions-league-final |publisher=Sky Sports (BSkyB) |date=6 June 2015 |access-date=6 June 2015 |archive-url=https://web.archive.org/web/20150607145227/http://www1.skysports.com/football/news/12040/9875108/juventus-defender-patrice-evra-says-hell-shake-luis-suarezs-hand-at-champions-league-final |archive-date=7 June 2015 |url-status=live }}</ref>
+
+===Summary===
+[[File:2012 2013 - 06 Xavi Hernández.jpg|thumb|left|upright|[[Xavi (footballer, born 1980)|Xavi]] came on as a substitute for the last of his 767 Barcelona appearances.]]
+
+In the second minute, Barcelona's [[Javier Mascherano]] conceded a corner kick, which Juventus aimed at Evra but Barcelona cleared it. However two minutes later, [[Jordi Alba]] made a run on Barcelona's left, passing to [[Neymar]] and then [[Andrés Iniesta]] who set up [[Ivan Rakitić]] to score the first goal from close range. Rakitić's goal was Barcelona's fastest goal in a Champions League final,<ref>{{cite news|url=http://www.marca.com/en/2015/06/06/en/football/barcelona/1433622125.html|title=Rakitic scores Barça's fastest goal in Champions League final|date=6 June 2015|access-date=22 June 2015|publisher=Marca|archive-url=https://web.archive.org/web/20150622204409/http://www.marca.com/en/2015/06/06/en/football/barcelona/1433622125.html|archive-date=22 June 2015|url-status=live}}</ref> and the fourth fastest in a Champions League final overall.<ref>{{cite news|url=https://www.uefa.com/uefachampionsleague/news/0253-0d8010f2fd94-325085b39367-1000--uefa-champions-league-final-facts-and-figures/|title=UEFA Champions League final facts and figures|date=7 June 2015|access-date=22 June 2015|publisher=[[UEFA]]|archive-url=https://web.archive.org/web/20150609223222/http://www.uefa.com/uefachampionsleague/news/newsid=2255059.html|archive-date=9 June 2015|url-status=live}}</ref> In the 11th minute, [[Arturo Vidal]] of Juventus received the first yellow card for fouling [[Sergio Busquets]]. At half time, Barcelona led 1–0.<ref name=guardian>{{cite news|last1=Murray|first1=Scott|title=Juventus 1–3 Barcelona|url=https://www.theguardian.com/football/live/2015/jun/06/juventus-v-barcelona-champions-league-final-2015-live|access-date=6 June 2015|work=[[The Guardian]]|date=6 June 2015|archive-url=https://web.archive.org/web/20160326193226/http://www.theguardian.com/football/live/2015/jun/06/juventus-v-barcelona-champions-league-final-2015-live|archive-date=26 March 2016|url-status=live}}</ref>
+
+Ten minutes into the second half, Juventus equalised: [[Claudio Marchisio]] back-heeled the ball to right-back [[Stephan Lichtsteiner]], who set up [[Carlos Tevez]]. Barcelona goalkeeper [[Marc-André ter Stegen]] blocked the shot from Tevez, but [[Álvaro Morata]] levelled the scores by putting the rebound into the net. In the 67th minute, Juventus appealed for a penalty when [[Paul Pogba]] went down in the area when challenged by [[Dani Alves]], but the referee did not give it. Two minutes later, Barcelona took the lead again when [[Lionel Messi]] shot from the edge of the area, [[Gianluigi Buffon]] blocked it and Suárez put in the rebound. Soon after, Neymar put the ball into the net from Alba's cross, but it was disallowed as the referee deemed that Neymar had headed it into his own hand.<ref name=guardian/>
+
+In the 78th minute, Barcelona substituted Iniesta, who gave his captain's armband to [[Xavi (footballer, born 1980)|Xavi]], making his 767th and final appearance for Barcelona.<ref name=xavi>{{cite news|last1=Corrigan|first1=Dermot|title=Xavi Hernandez says he's happy but 'nostalgic' after final Barcelona game|url=http://www.espnfc.co.uk/barcelona/story/2481745/xavi-hernandez-happy-but-nostalgic-after-final-barca-game|access-date=11 April 2016|publisher=ESPN|date=6 June 2015|archive-url=https://web.archive.org/web/20160422162949/http://www.espnfc.co.uk/barcelona/story/2481745/xavi-hernandez-happy-but-nostalgic-after-final-barca-game|archive-date=22 April 2016|url-status=live}}</ref> Soon after, Juventus made three substitutions in quick succession: Vidal was replaced with [[Roberto Pereyra]] and Morata with [[Fernando Llorente]], while Evra made way for [[Kingsley Coman]]. In added time, Barcelona made their final two changes, as Rakitić made way for [[Jérémy Mathieu]] and the limping Suárez for [[Pedro (footballer, born 1987)|Pedro]].<ref>{{cite web|url=https://www.telegraph.co.uk/sport/football/competitions/champions-league/11652515/Champions-League-final-Juventus-vs-Barcelona-live.html|title=Barcelona crush Juventus in Champions League final: as it happened|date=6 June 2015|work=Daily Telegraph|access-date=8 June 2015|archive-url=https://web.archive.org/web/20150607180201/http://www.telegraph.co.uk/sport/football/competitions/champions-league/11652515/Champions-League-final-Juventus-vs-Barcelona-live.html|archive-date=7 June 2015|url-status=live}}</ref>
+In the final added minute, Alves handled the ball near the halfway line, and Juventus launched the resulting free kick towards the Barcelona goal, where it was cleared. The ensuing counter-attack ended with Pedro giving an assist to Neymar, who scored the final kick to make it 3–1.<ref name=guardian/>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2015|6|6|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Juventus FC|Juventus]] {{fbaicon|ITA}}
+|score      = 1–3
+|team2      = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+*[[Álvaro Morata|Morata]] {{goal|55}}
+|goals2     =
+*[[Ivan Rakitić|Rakitić]] {{goal|4}}
+*[[Luis Suárez (Uruguayan footballer)|Suárez]] {{goal|68}}
+*[[Neymar]] {{goal|90+7}}
+|stadium    = [[Olympiastadion (Berlin)|Olympiastadion]], [[Berlin]]
+|attendance = 70,442<ref name="fulltime report">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf |website=UEFA.org |publisher=Union of European Football Associations |date=6 June 2015 |access-date=6 June 2015 |archive-url=https://web.archive.org/web/20151018233252/http://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf |archive-date=18 October 2015 |url-status=live }}</ref>
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2015227/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _juve1415h
+ |pattern_b  = _juve1415home
+ |pattern_ra = _juve1415h
+ |pattern_sh = _blacksides
+ |pattern_so = _blacktop
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Juventus<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _fcbarcelona1415h
+ |pattern_b  = _barcelona1415home
+ |pattern_ra = _fcbarcelona1415h
+ |pattern_sh = _fcbarcelona1415h
+ |pattern_so = _fcbarcelona1415h
+ |leftarm    = 062a78
+ |body       = 062a78
+ |rightarm   = 062a78
+ |shorts     = 062a78
+ |socks      = 062a78
+ |title      = Barcelona<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Gianluigi Buffon]] ([[Captain (association football)|c]])
+|-
+|RB ||'''26'''||{{flagicon|SUI}} [[Stephan Lichtsteiner]]
+|-
+|CB ||'''15'''||{{flagicon|ITA}} [[Andrea Barzagli]]
+|-
+|CB ||'''19'''||{{flagicon|ITA}} [[Leonardo Bonucci]]
+|-
+|LB ||'''33'''||{{flagicon|FRA|1974}} [[Patrice Evra]] || || {{suboff|89}}
+|-
+|DM ||'''21'''||{{flagicon|ITA}} [[Andrea Pirlo]]
+|-
+|CM ||'''8''' ||{{flagicon|ITA}} [[Claudio Marchisio]]
+|-
+|CM ||'''6''' ||{{flagicon|FRA|1974}} [[Paul Pogba]] || {{yel|41}}
+|-
+|AM ||'''23'''||{{flagicon|CHI}} [[Arturo Vidal]] || {{yel|11}} || {{suboff|79}}
+|-
+|CF ||'''10'''||{{flagicon|ARG}} [[Carlos Tevez]]
+|-
+|CF ||'''9''' ||{{flagicon|ESP}} [[Álvaro Morata]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''30'''||{{flagicon|ITA}} [[Marco Storari]]
+|-
+|DF ||'''5''' ||{{flagicon|ITA}} [[Angelo Ogbonna]]
+|-
+|MF ||'''11'''||{{flagicon|FRA|1974}} [[Kingsley Coman]] || || {{subon|89}}
+|-
+|MF ||'''20'''||{{flagicon|ITA}} [[Simone Padoin]]
+|-
+|MF ||'''27'''||{{flagicon|ITA}} [[Stefano Sturaro]]
+|-
+|MF ||'''37'''||{{flagicon|ARG}} [[Roberto Pereyra]] || || {{subon|79}}
+|-
+|FW ||'''14'''||{{flagicon|ESP}} [[Fernando Llorente]] || || {{subon|85}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Massimiliano Allegri]]
+|}
+|valign="top"|[[File:Juventus vs Barcelona 2015-06-06.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Marc-André ter Stegen]]
+|-
+|RB ||'''22'''||{{flagicon|BRA}} [[Dani Alves]]
+|-
+|CB ||'''3''' ||{{flagicon|ESP}} [[Gerard Piqué]]
+|-
+|CB ||'''14'''||{{flagicon|ARG}} [[Javier Mascherano]]
+|-
+|LB ||'''18'''||{{flagicon|ESP}} [[Jordi Alba]]
+|-
+|CM ||'''4''' ||{{flagicon|CRO}} [[Ivan Rakitić]] || || {{suboff|90+1}}
+|-
+|CM ||'''5''' ||{{flagicon|ESP}} [[Sergio Busquets]]
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Andrés Iniesta]] ([[Captain (association football)|c]]) || || {{suboff|78}}
+|-
+|RF ||'''10'''||{{flagicon|ARG}} [[Lionel Messi]]
+|-
+|CF ||'''9''' ||{{flagicon|URU}} [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] || {{yel|70}} || {{suboff|90+6}}
+|-
+|LF ||'''11'''||{{flagicon|BRA}} [[Neymar]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|CHI}} [[Claudio Bravo]]
+|-
+|DF ||'''15'''||{{flagicon|ESP}} [[Marc Bartra]]
+|-
+|DF ||'''21'''||{{flagicon|BRA}} [[Adriano (footballer, born 1984)|Adriano]]
+|-
+|DF ||'''24'''||{{flagicon|FRA|1974}} [[Jérémy Mathieu]] || || {{subon|90+1}}
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]] || || {{subon|78}}
+|-
+|MF ||'''12'''||{{flagicon|BRA}} [[Rafinha (footballer, born February 1993)|Rafinha]]
+|-
+|FW ||'''7''' ||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]] || || {{subon|90+6}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Luis Enrique]]
+|}
+|}
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Andrés Iniesta]] (Barcelona)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Bahattin Duran ([[Turkish Football Federation|Turkey]])
+<br />Tarık Ongun ([[Turkish Football Federation|Turkey]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="referee"/>
+<br />[[Hüseyin Göçek]] ([[Turkish Football Federation|Turkey]])
+<br />Barış Şimşek ([[Turkish Football Federation|Turkey]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="referee"/>
+<br />Mustafa Emre Eyisoy ([[Turkish Football Federation|Turkey]])
+|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Champions League 2014/15 Season |url=http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/09/88/17/2098817_DOWNLOAD.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=1 May 2014 |access-date=6 June 2015 |archive-url=https://web.archive.org/web/20140505002223/http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/09/88/17/2098817_DOWNLOAD.pdf |archive-date=5 May 2014 |url-status=live }}</ref>
+*90 minutes
+*30 minutes of [[Extra time (association football)|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes, of which up to three may be used
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |title=Team statistics |url=https://www.uefa.com/newsfiles/UCL/2015/2015227_TS.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=6 June 2015 |access-date=7 June 2015 |archive-url=https://web.archive.org/web/20151018233257/http://www.uefa.com/newsfiles/UCL/2015/2015227_TS.pdf |archive-date=18 October 2015 |url-status=live }}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Juventus
+!scope="col" style="width:70px"|Barcelona
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|5
+|8
+|-
+!scope=row|Shots on target
+|1
+|4
+|-
+!scope=row|Saves
+|3
+|1
+|-
+!scope=row|Ball possession
+|34%
+|66%
+|-
+!scope=row|Corner kicks
+|3
+|3
+|-
+!scope=row|Fouls committed
+|15
+|4
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|2
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Juventus
+!scope="col" style="width:70px"|Barcelona
+|-
+!scope=row|Goals scored
+|1
+|2
+|-
+!scope=row|Total shots
+|9
+|10
+|-
+!scope=row|Shots on target
+|5
+|4
+|-
+!scope=row|Saves
+|2
+|4
+|-
+!scope=row|Ball possession
+|44%
+|56%
+|-
+!scope=row|Corner kicks
+|5
+|3
+|-
+!scope=row|Fouls committed
+|9
+|8
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Juventus
+!scope="col" style="width:70px"|Barcelona
+|-
+!scope=row|Goals scored
+|1
+|3
+|-
+!scope=row|Total shots
+|14
+|18
+|-
+!scope=row|Shots on target
+|6
+|8
+|-
+!scope=row|Saves
+|5
+|5
+|-
+!scope=row|Ball possession
+|39%
+|61%
+|-
+!scope=row|Corner kicks
+|8
+|6
+|-
+!scope=row|Fouls committed
+|24
+|12
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+[[File:Neymar_(16245492137).jpg|thumb|left|[[Neymar]]'s tenth goal of the season in the final meant that three players shared the honour of top scorer.]]
+With the win, Barcelona became the first European club to achieve the [[treble (association football)#Continental trebles|treble]] twice.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0253-0d801f260f58-ddd88205fd28-1000--barcelona-break-new-ground-with-second-treble/|title=Barcelona break new ground with second treble|publisher=[[UEFA]]|date=6 June 2015|access-date=30 May 2015|archive-url=https://web.archive.org/web/20171119115620/http://www.uefa.com/uefachampionsleague/news/newsid=2251733.html|archive-date=19 November 2017|url-status=live}}</ref> Their fifth European title put them joint third with [[FC Bayern Munich|Bayern Munich]] and [[Liverpool F.C.|Liverpool]], until Liverpool won the [[2019 UEFA Champions League final|2019 final]] to achieve their sixth title. Bayern also went on to win their sixth trophy a year later, in the [[2020 UEFA Champions League final|2020 final]]. If only the Champions League era is considered, this is their fourth title, putting them one title behind [[Real Madrid CF|Real Madrid]].<ref name="records">{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0252-0cd2c6a4864d-29970ae1207c-1000--barcelona-bolster-pedigree-with-fifth-triumph/|title=Barcelona bolster pedigree with fifth triumph|publisher=[[UEFA]]|date=6 June 2015|access-date=7 June 2015|archive-url=https://web.archive.org/web/20150609010355/http://www.uefa.com/uefachampionsleague/news/newsid=2251945.html|archive-date=9 June 2015|url-status=live}}</ref> Madrid extended their lead by winning a fifth title in [[2016 UEFA Champions League final|2016]] and, as of [[2024 UEFA Champions League final|2024]], they have won nine titles in the Champions League era.
+[[File:Col·leccions del Museu del FC Barcelona 27.jpg|thumb|235x235px|The UEFA Champions League trophy in [[FC Barcelona Museum]].]]
+On the other hand, Juventus became the first team to lose six finals: they previously shared the record with [[S.L. Benfica|Benfica]] and [[FC Bayern Munich|Bayern Munich]].<ref name="records"/> [[Patrice Evra]] became the first player to play in four losing UEFA Champions League finals, having previously been a runner-up in 2004 (with [[AS Monaco FC|Monaco]]), 2009 and 2011 (both with Manchester United).<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0222-0e910f1609e9-c7e3619f364b-1000--evra-first-to-lose-four-champions-league-finals/|title=Evra first to lose four Champions League finals|publisher=[[UEFA]]|date=6 June 2015|access-date=7 June 2015|archive-url=https://web.archive.org/web/20150608200033/http://www.uefa.com/uefachampionsleague/news/newsid=2254098.html|archive-date=8 June 2015|url-status=live}}</ref>
+
+Neymar's goal meant that three players shared the title of top scorer in the competition, alongside Messi and Cristiano Ronaldo. He became the first player since [[Kaká]] in [[2006–07 UEFA Champions League|2006–07]] to be top scorer apart from those two. Messi was the top assister with six, with Ronaldo among the runners-up with four. After the final, both Messi and Ronaldo had a record 77 Champions League goals, but Ronaldo had one more if qualifiers were to be included.<ref>{{cite news|title=Neymar, Messi and Ronaldo top scoring charts|url=https://www.uefa.com/uefachampionsleague/news/0252-0cd2c6a4864d-6fcf927ecffc-1000--neymar-messi-and-ronaldo-top-scoring-charts/|access-date=13 April 2016|publisher=UEFA|date=6 June 2015|archive-url=https://web.archive.org/web/20151205045913/http://www.uefa.com/news/newsid%3D2251883.html#three+joint+scorers|archive-date=5 December 2015|url-status=live}}</ref>
+
+===Reactions===
+[[File:2015 UEFA Super Cup 65.jpg|thumb|upright|Despite his victory, there was uncertainty whether Barcelona manager [[Luis Enrique]] would remain in his position.]]
+
+Speaking to [[Canal+ (French TV channel)|Canal+]] after his final game for Barcelona, Xavi said he felt nostalgic knowing that he would never play for the team again, but deemed it "incredible" to win the Champions League in his last appearance. He admitted that Barcelona had been shaken by Juventus' equaliser, but had recovered through Messi doing "his thing". Xavi praised manager [[Luis Enrique]] for his successes despite his disputes with the club's board; there was uncertainty whether Luis Enrique would remain in his position for the following season.<ref name=xavi/>
+
+Luis Enrique called the final "spectacular", and his team's opponents "absolutely top-level". Of the Juventus team, he singled out Buffon for praise. In his own side, he commented that Neymar had gone from "very, very good" in his previous season, to "spectacular" in this one, ranking him among the world's best players. Luis Enrique stated that Suárez' performances had been worth the money Barcelona paid for him, despite initial doubt whether he would adapt to a new team. In spite of Barcelona's treble, the manager concluded that it had been "a difficult year, a transitional year".<ref name=elated>{{cite news|last1=Haslam|first1=Andrew|title=Luis Enrique 'elated' after passing final test|url=https://www.uefa.com/uefachampionsleague/news/0250-0c510c2f94f8-e89bc1f52f4c-1000--luis-enrique-elated-after-passing-final-test/|access-date=13 April 2016|publisher=UEFA|date=7 June 2015|archive-url=https://web.archive.org/web/20170515035544/http://www.uefa.com/news/newsid=2247964.html#luis+enrique+elated|archive-date=15 May 2017|url-status=live}}</ref>
+
+Juventus manager [[Massimiliano Allegri]] praised his team for their efforts, and said that despite a few regrets, they could exit with confidence from their performance. He commented that the team reaching the final had inspired the city of [[Turin]] and the whole of Italy. Allegri added that to improve on the season would not mean winning a treble, but remaining within Europe's top 8 teams for the future.<ref name=elated/>
+
+===Subsequent matches===
+After winning the final, Barcelona qualified for the [[2015 UEFA Super Cup]] against compatriots [[Sevilla FC|Sevilla]], winners of the [[2014–15 UEFA Europa League]]. In the match on 11 August in [[Tbilisi]], Georgia, Barcelona won 5–4 with Pedro scoring an extra-time winner. It was their fifth win in the competition, equalling Milan's record.<ref>{{cite news|title=Pedro is Barcelona's UEFA Super Cup hero again|url=https://www.uefa.com/uefasupercup/news/0250-0c51114c505d-63dadcebc3cd-1000--pedro-is-barcelona-s-uefa-super-cup-hero-again/|access-date=11 April 2016|publisher=UEFA|date=11 August 2015|archive-url=https://web.archive.org/web/20160311125240/http://www.uefa.com/uefasupercup/season=2015/matches/round=2000639/match=2015790/postmatch/report/index.html#pedro+barcas+hero|archive-date=11 March 2016|url-status=live}}</ref>
+
+In December, Barcelona travelled to Japan as Europe's representative in the [[2015 FIFA Club World Cup]]. They defeated China's [[Guangzhou Evergrande]] 3–0 in the semi-finals and [[CA River Plate|River Plate]] of Argentina by the same score in the [[2015 FIFA Club World Cup Final|final]]. It was a record third win in the competition, and their fifth trophy of the calendar year.<ref>{{cite news|last1=Begley|first1=Emlyn|title=River Plate 0-3 Barcelona|url=https://www.bbc.co.uk/sport/football/35141742|access-date=11 April 2016|publisher=BBC Sport|date=20 December 2015|archive-url=https://web.archive.org/web/20180221230404/http://www.bbc.co.uk/sport/football/35141742|archive-date=21 February 2018|url-status=live}}</ref>
+
+==See also==
+{{Portal|Association football|Germany}}
+*[[2015 UEFA Europa League final]]
+*[[2015 UEFA Women's Champions League final]]
+*[[2014–15 FC Barcelona season]]
+*[[2014–15 Juventus FC season]]
+*[[FC Barcelona in international football]]
+*[[Football in Berlin]]
+*[[Juventus FC in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20140405083517/http://www.uefa.com/uefachampionsleague/season=2015/index.html 2014–15 UEFA Champions League]
+*[https://web.archive.org/web/20140403212457/http://www.uefa.com/uefachampionsleague/season=2015/final/index.html 2015 final: Berlin]
+{{commons category}}
+{{UEFA Champions League seasons}}
+{{2014–15 in European football (UEFA)}}
+{{Juventus F.C. matches}}
+{{FC Barcelona matches}}
+
+{{DEFAULTSORT:Uefa Champions League final 2015}}
+[[Category:UEFA Champions League finals|2015]]
+[[Category:2014–15 UEFA Champions League|Final]]
+[[Category:2014–15 in German football]]
+[[Category:2015 in Berlin]]
+[[Category:Juventus FC matches|European Cup Final 2015]]
+[[Category:FC Barcelona matches|European Cup Final 2015]]
+[[Category:2014–15 in Italian football]]
+[[Category:2014–15 in Spanish men's football]]
+[[Category:June 2015 sports events in Germany]]
+[[Category:Football matches in Berlin]]
+[[Category:Italy–Spain sports relations|2015]]
+[[Category:Football finals in Germany]]

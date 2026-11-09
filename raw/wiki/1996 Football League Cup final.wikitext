@@ -1,0 +1,238 @@
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox football match
+|                   title = 1996 Football League Cup final
+| image = File:1996 Football League Cup Final programme.jpg
+|                   event = [[1995–96 Football League Cup]]
+|                   team1 = [[Aston Villa F.C.|Aston Villa]]
+|        team1association =
+|              team1score = 3
+|                   team2 = [[Leeds United A.F.C.|Leeds United]]
+|        team2association =
+|              team2score = 0
+|                 details =
+|                    date = 24 March 1996
+|                 stadium = [[Wembley Stadium (1923)|Wembley Stadium]]
+|                    city = London
+|  man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+|      man_of_the_match1a = [[Andy Townsend]]<ref name="Man of match"/> (Aston Villa)
+|                 referee = [[Robbie Hart]] ([[Durham County Football Association|County Durham]])<ref name=Indy-report/>
+|              attendance = 77,056<ref name=Indy-report/>
+|                 weather =
+|                previous = [[1995 Football League Cup final|1995]]
+|                    next = [[1997 Football League Cup final|1997]]
+}}
+The '''1996 Football League Cup final''' took place on 24 March 1996 at [[Wembley Stadium (1923)|Wembley Stadium]] and was contested between [[Aston Villa F.C.|Aston Villa]] and [[Leeds United A.F.C.|Leeds United]]. This was the 36th final and the 30th to be played at Wembley. Aston Villa had won the trophy two years earlier, while Leeds' last victory was in their only final appearance in [[1968 Football League Cup final|1968]].
+
+In the first half the teams were separated by a goal from [[Savo Milošević]]. After half-time, Leeds United tired and Aston Villa took advantage to eventually win 3–0. Goals from [[Ian Taylor (footballer, born 1968)|Ian Taylor]] and [[Dwight Yorke]] completed the scoring.<ref name=Indy-report>{{cite news|title=Milosevic gives Villa a touch of magic|url=https://www.independent.co.uk/sport/milosevic-gives-villa-a-touch-of-magic-1343925.html|publisher=The Independent|date=25 March 1996|access-date=8 May 2012}}</ref> This was the beginning of the end for Leeds United manager [[Howard Wilkinson]], as he was heckled by the club's fans for his and the team's failure. However, it was Villa's fifth success in the competition, at the time equalling the record set by [[Liverpool F.C.|Liverpool]]. This was the last time that Aston Villa won a major trophy until [[2026 UEFA Europa League final|30 years later]] when they won the UEFA Europa League in 2026.
+
+==Road to Wembley==
+{{col-begin}}
+{{col-2}}
+{| class="wikitable" style="font-size:95%;"
+|+ Aston Villa
+|'''Round 2 (1st leg)'''||align=right|[[Aston Villa F.C.|Aston Villa]]||6–0||[[Peterborough United F.C.|Peterborough United]]
+|-
+|'''Round 2 (2nd leg)'''||align=right|Peterborough United||1–1||Aston Villa
+|-
+| &nbsp;||colspan=4 align=center|'''(Aston Villa win 7–1 on aggregate)'''
+|-
+|'''Round 3'''||align=right|Aston Villa||2–0||[[Stockport County F.C.|Stockport County]]
+|-
+|'''Round 4'''||align=right|Aston Villa||1–0||[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|-
+|'''Quarter-final'''||align=right|Aston Villa||1–0||[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|-
+|'''Semi-final (1st leg)'''||align=right|[[Arsenal F.C.|Arsenal]]||2–2||Aston Villa
+|-
+|'''Semi-final (2nd leg)'''||align=right|Aston Villa ||0–0||Arsenal
+|-
+| &nbsp;||colspan=4 align=center|'''(2–2 on aggregate. Aston Villa advance on [[away goals rule|Away Goals]])'''
+|}
+{{col-2}}
+{| class="wikitable" style="font-size:95%;"
+|+ Leeds United
+|'''Round 2 (1st leg)'''||align=right|[[Leeds United A.F.C.|Leeds United]]||0–0||[[Notts County F.C.|Notts County]]
+|-
+|'''Round 2 (2nd leg)'''||align=right|Notts County||2–3||Leeds United
+|-
+| &nbsp;||colspan=4 align=center|'''(Leeds win 3–2 on aggregate)'''
+|-
+|'''Round 3'''||align=right|[[Derby County F.C.|Derby County]]||0–1||Leeds United
+|-
+|'''Round 4'''||align=right|Leeds United||2–1||[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|-
+|'''Quarter-final'''||align=right|Leeds United||2–1||[[Reading F.C.|Reading]]
+|-
+|'''Semi-final (1st leg)'''||align=right|[[Birmingham City F.C.|Birmingham City]]||1–2||Leeds United
+|-
+|'''Semi-final (2nd leg)'''||align=right|Leeds United ||3–0||Birmingham City
+|-
+| &nbsp;||colspan=4 align=center|'''(Leeds United win 5–1 on aggregate)'''
+|}
+{{col-end}}
+
+==Match details==
+{{football box
+|date=24 March 1996
+|time=17:00
+|team1=[[Aston Villa F.C.|Aston Villa]]
+|score=3–0
+|report=[https://www.independent.co.uk/sport/milosevic-gives-villa-a-touch-of-magic-1343925.html Report]
+|team2=[[Leeds United A.F.C.|Leeds United]]
+|goals1=[[Savo Milošević|Milošević]] {{goal|20}}<br />[[Ian Taylor (footballer, born 1968)|Taylor]] {{goal|55}}<br />[[Dwight Yorke|Yorke]] {{goal|88}}
+|goals2=
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], London
+|attendance=77,056<ref name=Indy-report/>
+|referee=[[Robbie Hart]] ([[Durham County Football Association|County Durham]])<ref name=Indy-report/>
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _claretborder
+ | pattern_b  = 
+ | pattern_ra = _claretborder
+ | pattern_sh = 1E90FF
+ | pattern_so = 
+ | leftarm    = 1E90FF
+ | body       = 970045
+ | rightarm   = 1E90FF
+ | shorts     = FFFFFF
+ | socks      = 970045
+ | title      = Aston Villa
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  =
+ | pattern_ra =
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Leeds United
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|AUS}} [[Mark Bosnich]]
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Ugo Ehiogu]]
+|-
+|CB ||'''5''' ||{{flagicon|IRL}} [[Paul McGrath (footballer)|Paul McGrath]]
+|-
+|CB ||'''4''' ||{{flagicon|ENG}} [[Gareth Southgate]]
+|-
+|RWB||'''2''' ||{{flagicon|ENG}} [[Gary Charles]]
+|-
+|LWB||'''3''' ||{{flagicon|ENG}} [[Alan Wright]]
+|-
+|CM ||'''7''' ||{{flagicon|ENG}} [[Ian Taylor (footballer, born 1968)|Ian Taylor]]
+|-
+|CM ||'''11'''||{{flagicon|IRL}} [[Andy Townsend]] ([[Captain (association football)|c]])
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Mark Draper]]
+|-
+|CF ||'''10'''||{{flagicon|TRI}} [[Dwight Yorke]]
+|-
+|CF ||'''9''' ||{{flagicon|FRY}} [[Savo Milošević]]
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ENG}} [[Michael Oakes]]
+|-
+|DF ||'''12'''||{{flagicon|IRL}} [[Steve Staunton]]
+|-
+|FW ||'''14'''||{{flagicon|ENG}} [[Tommy Johnson (footballer, born 1971)|Tommy Johnson]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Brian Little (footballer)|Brian Little]]
+|}
+|valign="top"|[[File:Aston Villa vs Leeds 1996-03-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[John Lukic]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[John Pemberton (footballer)|John Pemberton]]
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[David Wetherall]]
+|-
+|CB ||'''3''' ||{{flagicon|RSA}} [[Lucas Radebe]] || || {{suboff|65}}
+|-
+|RWB||'''2''' ||{{flagicon|IRL}} [[Gary Kelly (footballer, born 1974)|Gary Kelly]]
+|-
+|LWB||'''11'''||{{flagicon|WAL}} [[Gary Speed]]
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Mark Ford (footballer)|Mark Ford]] || || {{suboff|46}}
+|-
+|CM ||'''4''' ||{{flagicon|ENG}} [[Carlton Palmer]]
+|-
+|CM ||'''10'''||{{flagicon|SCO}} [[Gary McAllister]] ([[Captain (association football)|c]])
+|-
+|CF ||'''9''' ||{{flagicon|GHA}} [[Tony Yeboah]]
+|-
+|CF ||'''7''' ||{{flagicon|SCO}} [[Andy Gray (footballer, born 1977)|Andy Gray]]
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|DF ||'''15'''||{{flagicon|NIR}} [[Nigel Worthington]]
+|-
+|FW ||'''12'''||{{flagicon|ENG}} [[Brian Deane]] || || {{subon|46}}
+|-
+|FW ||'''14'''||{{flagicon|SWE}} [[Tomas Brolin]] || || {{subon|65}}
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Howard Wilkinson]]
+|}
+|}
+
+{|  style="width:100%;font-size:90%"
+|-
+|style="width:50%;vertical-align:top"|
+'''Man of the match'''
+*[[Andy Townsend]] (Aston Villa)<ref name="Man of match">{{cite web|title=Alan Hardaker Trophy Winners |url=http://www.football-league.co.uk/page/AlanHardakerTrophyWinners/0,,10794~1354852,00.html |publisher=The Football League |date=26 February 2012 |access-date=8 May 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120421013843/http://www.football-league.co.uk/page/AlanHardakerTrophyWinners/0%2C%2C10794~1354852%2C00.html |archive-date=21 April 2012 }}</ref>
+
+'''Assistant referees'''
+<br />Brian Coddington
+<br />Martin Sims
+<br />'''Fourth official'''
+<br />Jim Rushton
+|style="width:50%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra-time if necessary
+*Penalty shoot-out if scores still level
+*Three named substitutes, of which two may be used
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.soccerbase.com/results3.sd?gameid=260062 Game facts] {{Webarchive|url=https://web.archive.org/web/20071001010618/http://www.soccerbase.com/results3.sd?gameid=260062 |date=1 October 2007 }} at soccerbase.com
+*[https://web.archive.org/web/20050504071903/http://www.soccerbase.com/cup2.sd?competitionid=60&seasonid=125 Full Results from the 1996 Football League Cup competition] at soccerbase.com
+*[https://web.archive.org/web/20061120035837/http://www.the-english-football-archive.com/domestic_competitions/results/league_cup/1996.htm League Cup 1996] at The English Football Archive
+
+{{EFL Cup}}
+{{1995–96 in English football}}
+{{Aston Villa F.C. matches}}
+{{Leeds United A.F.C. matches}}
+
+[[Category:EFL Cup finals]]
+[[Category:Aston Villa F.C. matches|League Cup final 1996]]
+[[Category:Leeds United F.C. matches|League Cup final 1996]]
+[[Category:1995–96 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:1996 in sport in London]]
+[[Category:March 1996 sports events in the United Kingdom]]

@@ -1,0 +1,451 @@
+{{Short description|Association football match}}
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+| title              = 2001 UEFA Champions League final
+| image              = Champions League Final 2001.jpg
+| image_size = 200
+| caption            = Match programme cover
+| event              = [[2000–01 UEFA Champions League]]
+| team1              = [[FC Bayern Munich|Bayern Munich]]
+| team1association   = {{fbaicon|GER|size=30px}}
+| team1score         = 1
+| team2              = [[Valencia CF|Valencia]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 1
+| details            = After [[golden goal]] [[Overtime (sports)#Association football|extra time]]<br>Bayern Munich won 5–4 on [[Penalty shoot-out (association football)|penalties]]
+| date               = 23 May 2001
+| stadium            = [[San Siro]]
+| city               = [[Milan]]
+| man_of_the_match1a = [[Oliver Kahn]] {{nowrap|(Bayern Munich)}}<ref name="attendance"/>
+| referee            = [[Dick Jol]] ([[Royal Dutch Football Association|Netherlands]])<ref name="referee">{{cite news |title=Match officials appointed for Milan final |url=https://www.uefa.com/newsfiles/3530.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=21 May 2001 |access-date=13 July 2012 }}</ref>
+| attendance         = 79,000<ref name="attendance"/>
+| weather            = Mostly cloudy<br />{{convert|22|°C|°F|abbr=on}}<br />64% [[humidity]]<ref>{{cite web |title=Peschiera Borromeo, Milan, Italy Weather History |url=https://www.wunderground.com/history/daily/LIML/date/2001-5-23 |work=Weather Underground |publisher=The Weather Channel |access-date=1 June 2025 }}</ref>
+| previous           = [[2000 UEFA Champions League final|2000]]
+| next               = [[2002 UEFA Champions League final|2002]]
+}}
+The '''2001 UEFA Champions League final''' was a [[Association football|football]] match that took place at [[San Siro]] in [[Milan]], Italy, on 23 May 2001, to decide the winner of the [[2000–01 UEFA Champions League]]. The match pitted German side [[FC Bayern Munich|Bayern Munich]] against Spanish side [[Valencia CF|Valencia]]. The match finished in a 1–1 draw, but Bayern clinched their fourth title by winning 5–4 on [[Penalty shoot-out (association football)|penalties]]. This was also their first European Cup title in a quarter-century, while it was Valencia's second consecutive defeat in the only finals they had reached in the competition. Both goals scored in the match were from [[Penalty kick (association football)|penalties]], with Bayern Munich also missing a penalty in normal time, and a penalty shoot-out was required to decide the winner, with the match being referred to as an "all-penalty" final. The 2001 event was a meeting of the two previous seasons' losing finalists – Bayern Munich lost to Manchester United in [[1999 UEFA Champions League final|1999]] and Valencia lost to Real Madrid in [[2000 UEFA Champions League final|2000]].
+
+This was the sixth European Cup final to be decided on penalties, and the second under the Champions League format. This was [[Ottmar Hitzfeld]]'s second Champions League title after he won it with Borussia Dortmund in [[1997 UEFA Champions League final|1997]], making him the second coach in European Cup history, after [[Ernst Happel]], to win the competition with two clubs. Meanwhile, it was [[Héctor Cúper]]'s third consecutive European final defeat; he lost the [[1999 UEFA Cup Winners' Cup final]] with [[RCD Mallorca|Mallorca]] before losing the 2000 Champions League final with Valencia.
+
+== Teams ==
+''In the following table, finals until 1992 were in the European Cup era, since 1993 were in the UEFA Champions League era.''
+{| class="wikitable"
+!Team
+!Previous final appearances (bold indicates winners)
+|-
+|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|6 ([[1974 European Cup final|'''1974''']], '''[[1975 European Cup final|1975]]''', '''[[1976 European Cup final|1976]]''', [[1982 European Cup final|1982]], [[1987 European Cup final|1987]], [[1999 UEFA Champions League final|1999]])
+|-
+|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|1 ([[2000 UEFA Champions League final|2000]])
+|}
+
+==Route to the final==
+{{further|2000–01 UEFA Champions League}}
+
+{|class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+!Round
+!colspan=4|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2000–01 UEFA Champions League qualifying rounds|Qualifying phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|colspan=4|Bye
+|style="background:#c1e0ff"|Third qualifying round
+|align=left|{{fbaicon|AUT}} [[FC Tirol Innsbruck|Tirol Innsbruck]]
+|4–1
+|[[2000–01 UEFA Champions League qualifying rounds#Tirol Innsbruck v Valencia|0–0]] (A)
+|[[2000–01 UEFA Champions League qualifying rounds#Valencia v Tirol Innsbruck|4–1]] (H)
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[2000–01 UEFA Champions League group stage|First group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|SWE}} [[Helsingborgs IF]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Helsingborgs IF v Bayern Munich|3–1]] (A)
+| style="background:#c1e0ff;"|Matchday 1
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Valencia v Olympiacos|2–1]] (H)
+|-
+|align=left|{{fbaicon|NOR}} [[Rosenborg BK|Rosenborg]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Bayern Munich v Rosenborg|3–1]] (H)
+| style="background:#c1e0ff;"|Matchday 2
+|align=left|{{fbaicon|NED}} [[SC Heerenveen|Heerenveen]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Heerenveen v Valencia|1–0]] (A)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Paris Saint-Germain v Bayern Munich|0–1]] (A)
+| style="background:#c1e0ff;"|Matchday 3
+|align=left|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Valencia v Lyon|1–0]] (H)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Bayern Munich v Paris Saint-Germain|2–0]] (H)
+| style="background:#c1e0ff;"|Matchday 4
+|align=left|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Lyon v Valencia|2–1]] (A)
+|-
+|align=left|{{fbaicon|SWE}} [[Helsingborgs IF]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Bayern Munich v Helsingborgs IF|0–0]] (H)
+| style="background:#c1e0ff;"|Matchday 5
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Olympiacos v Valencia|0–1]] (A)
+|-
+|align=left|{{fbaicon|NOR}} [[Rosenborg BK|Rosenborg]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Rosenborg v Bayern Munich|1–1]] (A)
+| style="background:#c1e0ff;"|Matchday 6
+|align=left|{{fbaicon|NED}} [[SC Heerenveen|Heerenveen]]
+|colspan=3|[[2000–01 UEFA Champions League group stage#Valencia v Heerenveen|1–1]] (H)
+|-
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[2000–01 UEFA Champions League group stage#Group F|Group F]] winners'''
+{{:2000–01 UEFA Champions League first group stage|transcludesection=Group F|only_pld_pts=yes|show_matches=no|showteam=BAY}}
+| style="background:#c1e0ff;"|Final standings
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[2000–01 UEFA Champions League group stage#Group C|Group C]] winners'''
+{{:2000–01 UEFA Champions League first group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=VAL}}
+|- style="background:#c1e0ff;"
+|Opponent
+|colspan=3|Result
+|[[2000–01 UEFA Champions League second group stage|Second group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Bayern Munich v Lyon|1–0]] (H)
+| style="background:#c1e0ff;"|Matchday 1
+|align=left|{{fbaicon|AUT}} [[SK Sturm Graz|Sturm Graz]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Valencia v Sturm Graz|2–0]] (H)
+|-
+|align=left|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Arsenal v Bayern Munich|2–2]] (A)
+| style="background:#c1e0ff;"|Matchday 2
+|align=left|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Panathinaikos v Valencia|0–0]] (A)
+|-
+|align=left|{{fbaicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Bayern Munich v Spartak Moscow|1–0]] (H)
+| style="background:#c1e0ff;"|Matchday 3
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Valencia v Manchester United|0–0]] (H)
+|-
+|align=left|{{fbaicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Spartak Moscow v Bayern Munich|3–0]] (A)
+| style="background:#c1e0ff;"|Matchday 4
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Manchester United v Valencia|1–1]] (A)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Lyon v Bayern Munich|0–3]] (A)
+| style="background:#c1e0ff;"|Matchday 5
+|align=left|{{fbaicon|AUT}} [[SK Sturm Graz|Sturm Graz]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Sturm Graz v Valencia|5–0]] (A)
+|-
+|align=left|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Bayern Munich v Arsenal|1–0]] (H)
+| style="background:#c1e0ff;"|Matchday 6
+|align=left|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan=3|[[2000–01 UEFA Champions League second group stage#Valencia v Panathinaikos|2–1]] (H)
+|-
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[2000–01 UEFA Champions League second group stage#Group C|Group C]] winners'''
+{{:2000–01 UEFA Champions League second group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=BAY}}
+| style="background:#c1e0ff;"|Final standings
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[2000–01 UEFA Champions League second group stage#Group A|Group A]] winners'''
+{{:2000–01 UEFA Champions League second group stage|transcludesection=Group A|only_pld_pts=yes|show_matches=no|showteam=VAL}}
+|- style="background:#c1e0ff;"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2000–01 UEFA Champions League knockout stage|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|3–1
+|[[2000–01 UEFA Champions League knockout stage#Manchester United v Bayern Munich|1–0]] (A)
+|[[2000–01 UEFA Champions League knockout stage#Bayern Munich v  Manchester United|2–1]] (H)
+| style="background:#c1e0ff;"|Quarter-finals
+|align=left|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|2–2 ([[away goals rule|a]])
+|[[2000–01 UEFA Champions League knockout stage#Arsenal v Valencia|1–2]] (A)
+|[[2000–01 UEFA Champions League knockout stage#Valencia v Arsenal|1–0]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|3–1
+|[[2000–01 UEFA Champions League knockout stage#Real Madrid v Bayern Munich|1–0]] (A)
+|[[2000–01 UEFA Champions League knockout stage#Bayern Munich v Real Madrid|2–1]] (H)
+| style="background:#c1e0ff;"|Semi-finals
+|align=left|{{fbaicon|ENG}} [[Leeds United F.C.|Leeds United]]
+|3–0
+|[[2000–01 UEFA Champions League knockout stage#Leeds United v Valencia|0–0]] (A)
+|[[2000–01 UEFA Champions League knockout stage#Valencia v Leeds United|3–0]] (H)
+|}
+
+==Match==
+
+===Summary===
+This final would come to be known for the goalkeeping heroics of Bayern keeper [[Oliver Kahn]].<ref name=guardian01>{{cite web |url=https://www.theguardian.com/football/2001/may/23/minutebyminute.sport|title=Bayern Munich 1-1 Valencia; Bayern won 5-4 on penalties |work=[[The Guardian]]|first=Matt|last=Biggs|date=23 May 2001|access-date=2 December 2018}}</ref>
+
+Valencia opened the score early on with a [[Gaizka Mendieta]] penalty in the third minute after a prostrate [[Patrik Andersson]] was deemed to have handled the ball in the penalty area. Only a few minutes later, Bayern Munich were awarded a penalty after [[Jocelyn Angloma]] fouled [[Stefan Effenberg]] in the penalty box, but [[Santiago Cañizares]] saved [[Mehmet Scholl]]'s kick with his legs. Bayern were awarded another penalty early in the second half, this time after [[Amedeo Carboni]] handled the ball while competing for a header with [[Carsten Jancker]]. This time, Effenberg took the penalty kick and sent Cañizares the wrong way to level the scores at 1–1. The scores remained level for the remainder of regulalation time and throughout the 30 minutes of [[Overtime (sports)#Association football|extra time]], thus sending the match to penalties.<ref name=guardian01/>
+
+Again, Valencia took the lead early on as [[Paulo Sérgio (footballer, born June 1969)|Paulo Sérgio]] put the first kick of the shoot-out over the bar before Mendieta sent [[Oliver Kahn]] the wrong way. [[Hasan Salihamidžić]], [[John Carew]] and [[Alexander Zickler]] then traded penalty goals before Kahn saved [[Zlatko Zahovič]]'s kick to tie the scores at 2–2 after three kicks each. The next kick from Andersson was also saved by Cañizares, and then Kahn stretched out his hand to tip Carboni's shot onto the crossbar. Both [[Rubén Baraja]] and Effenberg then scored to take the shoot-out to sudden death. [[Bixente Lizarazu]] and [[Kily González]] both scored their clubs' sixth kicks and then [[Thomas Linke]] scored for Bayern to set [[Mauricio Pellegrino]] up for the game-deciding kick. Kahn guessed the right direction and saved, winning Bayern the trophy.<ref name=guardian01/> He also won the UEFA Fair Play Award for consoling his heartbroken rival Cañizares after the penalty shoot-out.<ref>{{Cite web |last=Hoskin |first=Rob |date=2017-06-01 |title=Remember when Olivier Kahn won an award for his actions after 2001 Champions League final |url=https://www.givemesport.com/1067404-remember-when-olivier-kahn-won-an-award-for-his-actions-after-2001-champions-league-final/ |access-date=2024-08-09 |website=GiveMeSport |language=en}}</ref>
+
+This match along with the [[2001 UEFA Cup final]] that [[Deportivo Alavés|Alaves]] lost to [[Liverpool F.C.|Liverpool]] one week earlier, was the last time a Spanish club lost a UEFA final against a team from another country until [[2025 UEFA Conference League final]], when [[Real Betis]] lost to [[Chelsea F.C.|Chelsea]].
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2001|5|23|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{fbaicon|GER}}
+|score      = 1–1
+|aet        = yes
+|team2      = {{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|goals1     =
+*[[Stefan Effenberg|Effenberg]] {{goal|50|pen.}}
+|goals2     =
+*[[Gaizka Mendieta|Mendieta]] {{goal|3|pen.}}
+|stadium    = [[San Siro]], [[Milan]]
+|attendance = 79,000<ref name="attendance">{{cite book |year=2017 |chapter=2. Finals |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/02/28/56/89/2285689_DOWNLOAD.pdf |title=UEFA Champions League Statistics Handbook 2016/17 |location=Nyon, Switzerland |publisher=Union of European Football Associations |page=1 |access-date=22 April 2017}}</ref>
+|referee    = [[Dick Jol]] ([[Royal Dutch Football Association|Netherlands]])
+|penalties1 =
+*[[Paulo Sérgio (footballer, born June 1969)|Paulo Sérgio]] {{penmiss}}
+*[[Hasan Salihamidžić|Salihamidžić]] {{pengoal}}
+*[[Alexander Zickler|Zickler]] {{pengoal}}
+*[[Patrik Andersson|Andersson]] {{penmiss}}
+*[[Stefan Effenberg|Effenberg]] {{pengoal}}
+*[[Bixente Lizarazu|Lizarazu]] {{pengoal}}
+*[[Thomas Linke|Linke]] {{pengoal}}
+|penaltyscore = 5–4
+|penalties2 =
+*{{pengoal}} [[Gaizka Mendieta|Mendieta]]
+*{{pengoal}} [[John Carew|Carew]]
+*{{penmiss}} [[Zlatko Zahovič|Zahovič]]
+*{{penmiss}} [[Amedeo Carboni|Carboni]]
+*{{pengoal}} [[Rubén Baraja|Baraja]]
+*{{pengoal}} [[Kily González|Kily]]
+*{{penmiss}} [[Mauricio Pellegrino|Pellegrino]]
+|report     = https://www.uefa.com/uefachampionsleague/match/67752/
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ | pattern_la = _adidasstripeswhite
+ | pattern_b  = _FCBAYERN_0001t
+ | pattern_ra = _adidasstripeswhite
+ | pattern_sh = _adidaswhite
+ | pattern_so = _FCBAYERN_0001t
+ | leftarm    = DD0000
+ | body       = FFFFFF
+ | rightarm   = DD0000
+ | shorts     = DD0000
+ | socks      = FFFFFF
+ | title      = {{nowrap|Bayern Munich}}
+}}
+|{{Football kit
+ | pattern_la = _blackborder
+ | pattern_b  = _valencia0001H
+ | pattern_ra = _blackborder
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Valencia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Oliver Kahn]]
+|-
+|CB ||'''4''' ||{{flagicon|GHA}} [[Samuel Kuffour]]
+|-
+|CB ||'''5''' ||{{flagicon|SWE}} [[Patrik Andersson]] || {{yel|38}}
+|-
+|CB ||'''25'''||{{flagicon|GER}} [[Thomas Linke]]
+|-
+|RWB||'''2''' ||{{flagicon|FRA|1974}} [[Willy Sagnol]] || || {{suboff|46}}
+|-
+|LWB||'''3''' ||{{flagicon|FRA|1974}} [[Bixente Lizarazu]]
+|-
+|DM ||'''23'''||{{flagicon|ENG}} [[Owen Hargreaves]]
+|-
+|RM ||'''20'''||{{flagicon|BIH}} [[Hasan Salihamidžić]]
+|-
+|CM ||'''11'''||{{flagicon|GER}} [[Stefan Effenberg]] ([[Captain (association football)|c]])
+|-
+|LM ||'''7''' ||{{flagicon|GER}} [[Mehmet Scholl]] || || {{suboff|108}}
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Giovane Élber]] || || {{suboff|100}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|GER}} [[Bernd Dreher]]
+|-
+|DF ||'''18'''||{{flagicon|GER}} [[Michael Tarnat]]
+|-
+|MF ||'''10'''||{{flagicon|SUI}} [[Ciriaco Sforza]]
+|-
+|FW ||'''13'''||{{flagicon|BRA}} [[Paulo Sérgio (footballer, born June 1969)|Paulo Sérgio]] || || {{subon|108}}
+|-
+|FW ||'''19'''||{{flagicon|GER}} [[Carsten Jancker]] || || {{subon|46}}
+|-
+|FW ||'''21'''||{{flagicon|GER}} [[Alexander Zickler]] || || {{subon|100}}
+|-
+|FW ||'''24'''||{{flagicon|PAR|1990}} [[Roque Santa Cruz]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Ottmar Hitzfeld]]
+|}
+|valign="top"|[[File:Bayern Munich vs Valencia 2001-05-23.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Santiago Cañizares]] || {{yel|120}}
+|-
+|RB ||'''20'''||{{flagicon|FRA|1974}} [[Jocelyn Angloma]]
+|-
+|CB ||'''12'''||{{flagicon|ARG}} [[Roberto Ayala]] || || {{suboff|90}}
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Mauricio Pellegrino]]
+|-
+|LB ||'''15'''||{{flagicon|ITA}} [[Amedeo Carboni]] || {{yel|26}}
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[Gaizka Mendieta]] ([[Captain (association football)|c]])
+|-
+|CM ||'''19'''||{{flagicon|ESP}} [[Rubén Baraja]]
+|-
+|CM ||'''18'''||{{flagicon|ARG}} [[Kily González]] || {{yel|117}}
+|-
+|AM ||'''35'''||{{flagicon|ARG}} [[Pablo Aimar]] || || {{suboff|46}}
+|-
+|CF ||'''17'''||{{flagicon|ESP}} [[Juan Sánchez (footballer, born 1972)|Juan Ginés Sánchez]] || || {{suboff|66}}
+|-
+|CF ||'''7''' ||{{flagicon|NOR}} [[John Carew]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Andrés Palop]]
+|-
+|DF ||'''5''' ||{{flagicon|FRY}} [[Miroslav Đukić]] || || {{subon|90}}
+|-
+|DF ||'''34'''||{{flagicon|BRA}} [[Fábio Aurélio]]
+|-
+|MF ||'''4''' ||{{flagicon|FRA|1974}} [[Didier Deschamps]]
+|-
+|MF ||'''8''' ||{{flagicon|SVN}} [[Zlatko Zahovič]] || || {{subon|66}}
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Vicente Rodríguez|Vicente]]
+|-
+|MF ||'''23'''||{{flagicon|ESP}} [[David Albelda]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Héctor Cúper]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Oliver Kahn]] (Bayern Munich)<ref name="attendance"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Jaap Pool ([[Royal Dutch Football Association|Netherlands]])
+<br />Jan-Willem van Veluwen ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Jan Wegereef]] ([[Royal Dutch Football Association|Netherlands]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Golden goal#Association football|golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if no goals occur in extra time.
+*Seven named substitutes.
+*Maximum of three substitutes.
+|}
+
+===Statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!width=100|{{citation needed|date=June 2024}}
+!width=70|Bayern Munich
+!width=70|Valencia
+|-
+|Goals scored
+|1||1
+|-
+|Total shots
+|19||9
+|-
+|Shots on target
+|5||4
+|-
+|Ball possession
+|64%||36%
+|-
+|Corner kicks
+|10||3
+|-
+|Fouls committed
+|24||23
+|-
+|Offsides
+|2||6
+|-
+|Yellow cards
+|1||3
+|-
+|Red cards
+|0||0
+|}
+
+
+==See also==
+*[[2001 UEFA Cup final]]
+*[[2001 UEFA Super Cup]]
+*[[2001 Intercontinental Cup]]
+*[[2000–01 FC Bayern Munich season]]
+*[[2000–01 Valencia CF season]] 
+*[[FC Bayern Munich in international football competitions]]
+*[[Valencia CF in European football]]
+
+==References==
+{{reflist}}
+
+{{UEFA Champions League seasons}}
+{{2000–01 in European football (UEFA)}}
+{{FC Bayern Munich matches}}
+{{Valencia CF matches}}
+
+{{DEFAULTSORT:UEFA Champions League final, 2001}}
+[[Category:UEFA Champions League finals|2001]]
+[[Category:FC Bayern Munich matches|European Cup Final 2001]]
+[[Category:Valencia CF matches|European Cup Final 2001]]
+[[Category:2000–01 UEFA Champions League|Final]]
+[[Category:2000–01 in Spanish men's football|Champions League Final]]
+[[Category:2000–01 in German football|Champions League Final]]
+[[Category:May 2001 sports events in Italy]]
+[[Category:2000s in Milan|2001 UEFA Champions League Final]]
+[[Category:Football matches in Milan]]
+[[Category:Germany–Spain sports relations|2001]]
+[[Category:2000–01 in Italian football]]

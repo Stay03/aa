@@ -1,0 +1,454 @@
+{{short description|2007 edition of the FIFA Club World Cup}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2007
+| other_titles   = FIFA Club World Cup Japan 2007<br />presented by Toyota<br />Toyota プレゼンツ<br />FIFAクラブワールドカップ ジャパン2007
+| image          = 2007 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA badge}}
+| country        = Japan
+| dates          = 7–16 December
+| num_teams      = 7
+| confederations = 6
+| venues         = 3
+| cities         = 3
+| champion_other = {{fbaicon|ITA}} [[AC Milan|Milan]]
+| count          = 1
+| second_other   = {{fbaicon|ARG}} [[Boca Juniors]]
+| third_other    = {{fbaicon|JPN}} [[Urawa Red Diamonds]]
+| fourth_other   = {{fbaicon|TUN}} [[Étoile Sportive du Sahel|Étoile du Sahel]]
+| matches        = 7
+| goals          = 21
+| attendance     = 315279
+| top_scorer     = {{nowrap|[[Washington (footballer, born 1 April 1975)|Washington]] (Urawa Red Diamonds)<br>3 goals}}
+| player         = [[Kaká]] (Milan)
+| fair_play      = {{fbaicon|JPN}} [[Urawa Red Diamonds]]
+| prevseason     = [[2006 FIFA Club World Cup|2006]]
+| nextseason     = [[2008 FIFA Club World Cup|2008]]
+}}
+The '''2007 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup Japan 2007 presented by [[Toyota]]''' for sponsorship reasons) was a [[association football|football]] tournament played in [[Japan]] from 7 to 16 December 2007. It was the fourth [[FIFA Club World Cup]], a tournament organised by [[FIFA]] for the winners of each confederation's top continental club tournament.
+
+Seven teams from the six confederations entered the tournament; the other team was the host country's representatives, usually the league champions. Defending champions [[Sport Club Internacional|Internacional]] did not qualify as they were eliminated in the second stage of the [[2007 Copa Libertadores]]. 
+
+Italian side [[AC Milan|Milan]] became the first European team to win the Club World Cup with a 4–2 victory over Argentinian club [[Boca Juniors]] in the [[2007 FIFA Club World Cup Final|final]]. That title made them the most successful team in the world in terms of official international trophies won (18). 
+
+==Host bids==
+The [[FIFA Executive Committee]] appointed Japan as hosts of the 2007 tournament on 15 September 2006 during their meeting in [[Zürich]], Switzerland.<ref>{{cite web |url=http://www.fifa.com/en/media/index/0%2C1369%2C122122%2C00.html |title=Code of Ethics approved – Lord Sebastian Coe to be chairman of Ethics Committee |publisher=[[FIFA]] |date=15 September 2006 |access-date=28 December 2022 |url-status=dead |archive-url=https://web.archive.org/web/20061017034914/http://www.fifa.com/en/media/index/0,1369,122122,00.html |archive-date=17 October 2006}}</ref>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of teams of the 2007 FIFA Club World Cup|places=
+<!--Host-->
+{{Location map~|World|lat=32.482837|long=51.421574|label_size=80|label=[[Sepahan S.C.|Sepahan]]|position=right}}
+<!--CAF-->
+{{Location map~|World|lat=35.82352|long=10.612982|label_size=80|label=[[Étoile Sportive du Sahel|Étoile du Sahel]]|position=left}}
+<!--AFC-->
+{{Location map~|World|lat=35.903142|long=139.717492|label_size=80|label=[[Urawa Red Diamonds]]|position=right}}
+<!--CONCACAF-->
+{{Location map~|World|lat=20.10514|long=-98.75611|label_size=80|label=[[C.F. Pachuca|Pachuca]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-36.8001|long=174.5957|label_size=80|label=[[Waitakere United]]|position=left}}
+<!--UEFA-->
+{{Location map~|World|lat=45.47808|long=9.124|label_size=80|label=[[AC Milan|Milan]]|position=right}}
+<!--CONMEBOL-->
+{{Location map~|World|lat=-34.63565|long=-58.36465|label_size=80|label=[[Boca Juniors]]|position=right}}
+}}
+
+The qualified teams were decided during 2007 through the six major continental competitions. The winner of each regional club championship participated in the 2007 Club World Cup. In March 2007, the FIFA executive committee introduced a qualifying playoff between the 2007 OFC Champions League champion and the host nation's [[2007 J. League Division 1|2007 J. League]] champion, as opposed to previous years, in which the Oceania champions were given direct entry into the tournament.<ref>{{cite web |url=https://www.fifa.com/aboutfifa/federation/releases/newsid=113978.html |archive-url=https://web.archive.org/web/20071001150136/http://www.fifa.com/aboutfifa/federation/releases/newsid=113978.html |url-status=dead |archive-date=1 October 2007 |title=Green light for further special projects in Oceania, India and the Caribbean |access-date=5 April 2007}}</ref> In order to avoid the participation of two teams from the same country, the best-placed non-Japanese team in the AFC Champions League would take the "host" berth if a Japanese team won that competition,<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/newsid=570740.html |title=Organising Committee strengthens FIFA Club World Cup format |access-date=14 August 2007 |archive-url=https://web.archive.org/web/20071001145244/http://www.fifa.com/clubworldcup/news/newsid%3D570740.html |archive-date=1 October 2007 |url-status=dead}}</ref> which indeed happened as [[Urawa Red Diamonds]] won the 2007 AFC Champions League. Also, the fifth-place match was eliminated for this edition.
+
+It was the first participation in the FIFA Club World Cup for all seven teams that qualified.
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Participation
+|-
+!colspan=4|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|ITA}} [[A.C. Milan|Milan]]
+|[[UEFA]]
+|Winners of [[2006–07 UEFA Champions League]]
+|Debut
+|-
+|{{fbaicon|ARG}} [[Boca Juniors]]
+|[[CONMEBOL]]
+|Winners of [[2007 Copa Libertadores]]
+|Debut
+|-
+!colspan=4|Entering in the [[#Quarter-finals|quarter-finals]]
+|-
+|{{fbaicon|TUN}} [[Étoile Sportive du Sahel|Étoile du Sahel]]
+|[[Confederation of African Football|CAF]]
+|Winners of [[2007 CAF Champions League]]
+|Debut
+|-
+|{{fbaicon|JPN}} [[Urawa Red Diamonds]]
+|[[Asian Football Confederation|AFC]]
+|Winners of [[2007 AFC Champions League]]
+|Debut
+|-
+|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|[[CONCACAF]]
+|Winners of [[2007 CONCACAF Champions' Cup]]
+|Debut
+|-
+!colspan=4|Entering in the [[#Play-off for quarter-finals|play-off for quarter-finals]]
+|-
+|{{fbaicon|IRN}} [[Sepahan S.C.|Sepahan]]
+|[[Asian Football Confederation|AFC]] ([[Japan Football Association|host]]){{efn|group=note|name=Sepahan|Sepahan took the host Japan's slot as Urawa Red Diamonds won the [[2007 AFC Champions League]]. As a result, the winners of the [[2007 J.League Division 1]], later determined to be [[Kashima Antlers]] on 1 December 2007, missed out on participating.}}
+|Runners-up of [[2007 AFC Champions League]]{{efn|group=note|name=Sepahan}}
+|Debut
+|-
+|{{fbaicon|NZL}} [[Waitakere United]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of [[2007 OFC Champions League]]
+|Debut
+|}
+'''Notes'''
+{{reflist|group=note}}
+
+==Venues==
+Tokyo, Yokohama and Toyota were the three cities to serve as venues for the 2007 FIFA Club World Cup.
+
+{| class="wikitable" style="text-align:center"
+|-
+![[Yokohama]]
+![[Tokyo]]
+![[Toyota, Aichi|Toyota]]
+|-
+| [[International Stadium Yokohama]]
+| [[National Stadium (Tokyo, 1958)|National Stadium]]
+| [[Toyota Stadium (Japan)|Toyota Stadium]]
+|-
+| <small>{{Coord|35|30|36.16|N|139|36|22.49|E|type:landmark|display=inline|name=International Stadium Yokohama}}</small>
+| <small>{{Coord|35|40|41.00|N|139|42|53.00|E|type:landmark_source:dewiki|display=inline|name=National Olympic Stadium}}</small>
+| <small>{{Coord|35|05|04.02|N|137|10|14.02|E|type:landmark_source:dewiki|display=inline|name=Toyota Stadium}}</small>
+|-
+| Capacity: '''72,327'''
+| Capacity: '''57,363'''
+| Capacity: '''45,000'''
+|-
+| [[File:NISSANSTADIUM20080608.JPG|200px]]
+| [[File:KokuritshuKasumigaoka-5.JPG|200px]]
+| [[File:Toyota sta 0313 2.JPG|200px]]
+|-
+!rowspan=1 colspan=5|{{location map+ |Japan |float=center |width=400 |places=
+{{location map~ |Japan |lat=35.510044 |long=139.606247 |label=[[Yokohama]] |position=bottom}}
+{{location map~ |Japan |lat=35.678056 |long=139.714722 |label=[[Tokyo]] |position=top}}
+{{location map~ |Japan |lat=35.084500 |long=137.170611 |label=[[Toyota, Aichi|Toyota]] |position=left}}}}
+|}
+
+==Squads==
+For a list of all the squads of this tournament, see the article [[2007 FIFA Club World Cup squads]].
+
+==Match officials==
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+|-
+|[[Asian Football Confederation|AFC]]
+|[[Mark Shield]] ([[Football Federation Australia|Australia]])<br />[[Hiroyoshi Takayama]] ([[Japan Football Association|Japan]])
+|[[Benjamin Wilson (referee)|Ben Wilson]] ([[Football Federation Australia|Australia]])<br />Nathan Gibson ([[Football Federation Australia|Australia]])
+|-
+|[[Confederation of African Football|CAF]]
+|[[Coffi Codjia]] ([[Benin Football Federation|Benin]])
+|Evarist Menkouande ([[Cameroonian Football Federation|Cameroon]])<br />Celestin Ntagungira ([[Rwandese Association Football Federation|Rwanda]])
+|-
+|[[CONCACAF]]
+|[[Marco Antonio Rodríguez]] ([[Mexican Football Federation|Mexico]])
+|Jose Luis Camargo ([[Mexican Football Federation|Mexico]])<br />Pedro Rebollar ([[Mexican Football Federation|Mexico]])
+|-
+|[[CONMEBOL]]
+|[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguayan]])
+|[[Mauricio Espinosa]] ([[Uruguayan Football Association|Uruguayan]])<br />Miguel Nievas ([[Ecuadorian Football Federation|Ecuador]])
+|-
+|[[Oceania Football Confederation|OFC]]
+|[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]])
+|Brent Best ([[New Zealand Football|New Zealand]])<br />Matthew Taro ([[Solomon Islands Football Federation|Solomon Islands]])
+|-
+|[[UEFA]]
+|[[Claus Bo Larsen]] ([[Danish Football Association|Denmark]])
+|Bill Hansen ([[Danish Football Association|Denmark]])<br />Henryk Sonderby ([[Turkish Football Federation|Turkey]])
+|}
+
+==Matches==
+{{7TeamBracket-StepladderToSF
+| style       = 2
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#Play-off for quarter-finals|Play-off for quarter-finals]]
+| RD2         = [[#Quarter-finals|Quarter-finals]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- Play-off for quarter-finals -->
+| RD1-text1    = 7 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD1-team1    = {{fbaicon|IRN}} [[Sepahan S.C.|Sepahan]]
+| RD1-score1   = 3
+| RD1-team2    = {{fbaicon|NZL}} [[Waitakere United]]
+| RD1-score2   = 1
+
+<!-- Quarter-finals -->
+| RD2-text1    = 9 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD2-team1    = {{fbaicon|TUN}} [[Étoile Sportive du Sahel|Étoile du Sahel]]
+| RD2-score1   = 1
+| RD2-team2    = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+| RD2-score2   = 0
+
+| RD2-text2    = 10 December – [[Toyota Stadium (Japan)|Toyota]]
+| RD2-team3    = {{fbaicon|IRN}} [[Sepahan S.C.|Sepahan]]
+| RD2-score3   = 1
+| RD2-team4    = {{fbaicon|JPN}} [[Urawa Red Diamonds]]
+| RD2-score4   = 3
+
+<!-- Semi-finals -->
+| RD3-text1    = 12 December – [[National Stadium (Tokyo)|Tokyo]]
+| RD3-team1    = {{fbaicon|TUN}} [[Étoile Sportive du Sahel|Étoile du Sahel]]
+| RD3-score1   = 0
+| RD3-team2    = {{fbaicon|ARG}} [[Boca Juniors]]
+| RD3-score2   = 1
+
+| RD3-text2    = 13 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD3-team3    = {{fbaicon|JPN}} [[Urawa Red Diamonds]]
+| RD3-score3   = 0
+| RD3-team4    = {{fbaicon|ITA}} [[A.C. Milan|Milan]]
+| RD3-score4   = 1
+
+<!-- Final -->
+| RD4-text1    = 16 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD4-team1    = {{fbaicon|ARG}} [[Boca Juniors]]
+| RD4-score1   = 2
+| RD4-team2    = {{fbaicon|ITA}} [[A.C. Milan|Milan]]
+| RD4-score2   = 4
+
+<!-- Match for third place -->
+| RD4-text2    = 16 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD4-team3    = {{fbaicon|TUN}} [[Étoile Sportive du Sahel|Étoile du Sahel]]
+| RD4-score3   = 2 (2)
+| RD4-team4    = {{fbaicon|JPN}} '''[[Urawa Red Diamonds]]''' {{pso}}
+| RD4-score4   = '''2 (4)'''
+}}
+
+''All times local ([[UTC+09:00|UTC+9]])''
+
+===Play-off for quarter-finals===
+{{football box
+|date=7 December 2007
+|time=19:45
+|team1=[[Sepahan S.C.|Sepahan]] {{fbaicon|IRN}}
+|score=3–1
+|report=https://www.fifa.com/clubworldcup/matches/round=249928/match=61301/report.html
+|team2={{fbaicon|NZL}} [[Waitakere United]]
+|goals1=[[Emad Mohammed|Emad]] {{goal|3||4}}<br />[[Abdul-Wahab Abu Al-Hail|Abu Al-Hail]] {{goal|47}}
+|goals2=[[Hadi Aghili|Aghili]] {{goal|74|o.g.}}
+|stadium=[[National Stadium (Tokyo, 1958)|National Stadium]], [[Tokyo]]
+|attendance=24,788
+|referee=[[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]]) }}
+
+===Quarter-finals===
+{{football box
+|date=9 December 2007
+|time=14:45
+|team1=[[Étoile Sportive du Sahel|Étoile du Sahel]] {{fbaicon|TUN}}
+|score=1–0
+|report=https://www.fifa.com/clubworldcup/matches/round=249927/match=61300/report.html
+|team2={{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|goals1=[[Moussa Narry|Narry]] {{goal|85}}
+|stadium=[[National Stadium (Tokyo, 1958)|National Stadium]], [[Tokyo]]
+|attendance=34,934
+|referee=[[Mark Shield]] ([[Football Federation Australia|Australia]]) }}
+----
+{{football box
+|date=10 December 2007
+|time=19:30
+|team1=[[Sepahan S.C.|Sepahan]] {{fbaicon|IRN}}
+|score=1–3
+|report=https://www.fifa.com/clubworldcup/matches/round=249927/match=61299/report.html
+|team2={{fbaicon|JPN}} [[Urawa Red Diamonds]]
+|goals1=[[Mahmoud Karimi Sibaki|Karimi]] {{goal|80}}
+|goals2=[[Yuichiro Nagai|Nagai]] {{goal|32}}<br />[[Washington Stecanela Cerqueira|Washington]] {{goal|54}}<br />[[Hadi Aghili|Aghili]] {{goal|70|o.g.}}
+|stadium=[[Toyota Stadium (Japan)|Toyota Stadium]], [[Toyota, Aichi|Toyota]]
+|attendance=33,263
+|referee=[[Coffi Codjia]] ([[Benin Football Federation|Benin]]) }}
+
+===Semi-finals===
+{{football box
+|date=12 December 2007
+|time=19:30
+|team1=[[Étoile Sportive du Sahel|Étoile du Sahel]] {{fbaicon|TUN}}
+|score=0–1
+|report=https://www.fifa.com/clubworldcup/matches/round=249930/match=61298/report.html
+|team2={{fbaicon|ARG}} [[Boca Juniors]]
+|goals2=[[Neri Cardozo|Cardozo]] {{goal|37}}
+|stadium=[[National Stadium (Tokyo, 1958)|National Stadium]], [[Tokyo]]
+|attendance=37,255
+|referee=[[Claus Bo Larsen]] ([[Danish Football Association|Denmark]]) }}
+----
+{{football box
+|date=13 December 2007
+|time=19:30
+|team1=[[Urawa Red Diamonds]] {{fbaicon|JPN}}
+|score=0–1
+|report=https://www.fifa.com/clubworldcup/matches/round=249930/match=61297/report.html
+|team2={{fbaicon|ITA}} [[A.C. Milan|Milan]]
+|goals2=[[Clarence Seedorf|Seedorf]] {{goal|68}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=67,005
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]]) }}
+
+===Match for third place===
+{{football box
+|date=16 December 2007
+|time=16:00
+|team1=[[Étoile Sportive du Sahel|Étoile du Sahel]] {{fbaicon|TUN}}
+|score=2–2
+|report=https://www.fifa.com/clubworldcup/matches/round=249932/match=61296/report.html
+|team2={{fbaicon|JPN}} [[Urawa Red Diamonds]]
+|goals1=[[Saber Ben Frej|Ben Frej]] {{goal|5|pen.}}<br />[[Amine Chermiti|Chermiti]] {{goal|75}}
+|goals2=[[Washington Stecanela Cerqueira|Washington]] {{goal|35||70}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=53,363
+|referee=[[Peter O'Leary (referee)|Peter O'Leary]] ([[New Zealand Football|New Zealand]])
+|penaltyscore=2–4
+|penalties1=[[Mohamed Ali Nafkha|Nafkha]] {{penmiss}}<br />[[Saïf Ghezal|Ghezal]] {{pengoal}}<br />[[Bassem Ben Nasser|Ben Nasser]] {{pengoal}}<br />[[Mejdi Traoui|Traoui]] {{penmiss}}
+|penalties2={{pengoal}} [[Washington Stecanela Cerqueira|Washington]]<br />{{pengoal}} [[Yuki Abe|Abe]]<br />{{pengoal}} [[Yuichiro Nagai|Nagai]]<br />{{pengoal}} [[Hajime Hosogai|Hosogai]] }}
+
+===Final===
+{{main|2007 FIFA Club World Cup Final}}
+{{football box
+| date = 16 December 2007
+| time = 19:30
+| team1 = [[Boca Juniors]] {{fbaicon|ARG}}
+| score = 2–4
+| report = https://www.fifa.com/clubworldcup/matches/round=249933/match=61295/report.html
+| team2 = {{fbaicon|ITA}} [[A.C. Milan|Milan]]
+| goals1 = [[Rodrigo Palacio|Palacio]] {{goal|22}}<br />[[Pablo Ledesma|Ledesma]] {{goal|85}}
+| goals2 = [[Filippo Inzaghi|Inzaghi]] {{goal|21||71}}<br />[[Alessandro Nesta|Nesta]] {{goal|50}}<br />[[Kaká]] {{goal|61}}
+| stadium = [[International Stadium Yokohama]], [[Yokohama]]
+| attendance = 68,263
+| referee = [[Marco Antonio Rodríguez|Marco Rodríguez]] ([[Mexican Football Federation|Mexico]])
+| event = 
+| round = 
+| score1 = 
+| score2 = 
+}}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|1
+|style="text-align:left"|{{flagicon|BRA}} [[Washington Stecanela Cerqueira|Washington]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Urawa Red Diamonds]]
+|3
+|-
+|rowspan=2|2
+|style="text-align:left"|{{flagicon|ITA}} [[Filippo Inzaghi]]
+|style="text-align:left"|{{fbaicon|ITA}} [[A.C. Milan|Milan]]
+|rowspan=2|2
+|-
+|style="text-align:left"|{{flagicon|IRQ|2004}} [[Emad Mohammed]]
+|style="text-align:left"|{{fbaicon|IRN}} [[Sepahan S.C.|Sepahan]]
+|-
+|rowspan=11|4
+|style="text-align:left"|{{flagicon|IRQ|2004}} [[Abdul-Wahab Abu Al-Hail]]
+|style="text-align:left"|{{fbaicon|IRN}} [[Sepahan S.C.|Sepahan]]
+|rowspan=11|1
+|-
+|style="text-align:left"|{{flagicon|TUN}} [[Saber Ben Frej]]
+|style="text-align:left"|{{fbaicon|TUN}} [[Étoile Sportive du Sahel|Étoile du Sahel]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Neri Cardozo]]
+|style="text-align:left"|{{fbaicon|ARG}} [[Boca Juniors]]
+|-
+|style="text-align:left"|{{flagicon|TUN}} [[Amine Chermiti]]
+|style="text-align:left"|{{fbaicon|TUN}} [[Étoile Sportive du Sahel|Étoile du Sahel]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Kaká]]
+|style="text-align:left"|{{fbaicon|ITA}} [[A.C. Milan|Milan]]
+|-
+|style="text-align:left"|{{flagicon|IRN}} [[Mahmoud Karimi Sibaki|Mahmoud Karimi]]
+|style="text-align:left"|{{fbaicon|IRN}} [[Sepahan S.C.|Sepahan]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Yuichiro Nagai]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Urawa Red Diamonds]]
+|-
+|style="text-align:left"|{{flagicon|GHA}} [[Moussa Narry]]
+|style="text-align:left"|{{fbaicon|TUN}} [[Étoile Sportive du Sahel|Étoile du Sahel]]
+|-
+|style="text-align:left"|{{flagicon|ITA}} [[Alessandro Nesta]]
+|style="text-align:left"|{{fbaicon|ITA}} [[A.C. Milan|Milan]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Rodrigo Palacio]]
+|style="text-align:left"|{{fbaicon|ARG}} [[Boca Juniors]]
+|-
+|style="text-align:left"|{{flagicon|NED}} [[Clarence Seedorf]]
+|style="text-align:left"|{{fbaicon|ITA}} [[A.C. Milan|Milan]]
+|}
+
+'''1 own goal'''
+*{{flagicon|ITA}} [[Massimo Ambrosini]] ([[A.C. Milan|Milan]], against [[Boca Juniors]])
+
+'''2 own goals'''
+*{{flagicon|IRN}} [[Hadi Aghili]] ([[Sepahan S.C.|Sepahan]], against [[Waitakere United]] and [[Urawa Red Diamonds]])
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Toyota]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|BRA}} [[Kaká]]<br />([[A.C. Milan|Milan]])
+|{{flagicon|NED}} [[Clarence Seedorf]]<br />([[A.C. Milan|Milan]])
+|{{flagicon|ARG}} [[Rodrigo Palacio]]<br />([[Boca Juniors]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|JPN}} [[Urawa Red Diamonds]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+{{Wikivoyage}}
+*[https://www.fifa.com/tournaments/mens/clubworldcup/japan2007 FIFA Club World Cup Japan 2007], FIFA.com
+*[https://web.archive.org/web/20071231154833/http://www.fifa.com./clubworldcup/index.html 2007 FIFA Club World Cup Official Site] (Archived)
+*[https://web.archive.org/web/20081206215302/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/69/21/61/cwcjapan2007reportgesamt%5f37175.pdf FIFA Technical Report]
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2007 FIFA Club World Cup| ]]
+[[Category:Football club competitions in Japan]]
+[[Category:2007 in men's association football]]
+[[Category:2007 in Japanese men's football]]
+[[Category:2007–08 in New Zealand association football]]
+[[Category:2007–08 in Argentine football]]
+[[Category:2007–08 in Italian football]]
+[[Category:2007–08 in Tunisian football]]
+[[Category:2007–08 in Mexican football]]
+[[Category:2007–08 in Iranian football]]
+[[Category:FIFA Club World Cup tournaments|2007]]
+[[Category:December 2007 sports events in Japan]]
+[[Category:2007 in Tokyo]]
+[[Category:2000s in Yokohama]]
+[[Category:Football competitions in Tokyo]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:Football in Yokohama]]
+[[Category:Sport in Toyota, Aichi]]
+[[Category:Sports competitions in Aichi Prefecture]]

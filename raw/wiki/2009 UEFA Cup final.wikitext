@@ -1,0 +1,531 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football match
+|                   title = 2009 UEFA Cup Final
+|                   image = [[File:UEFA Cup Istanbul 2009.jpg|200px]]
+|                   event = [[2008–09 UEFA Cup]]
+|                   team1 = [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|        team1association = {{fbaicon|UKR|size=30px}}
+|              team1score = 2
+|                   team2 =  [[SV Werder Bremen|Werder Bremen]]
+|        team2association = {{fbaicon|GER|size=30px}}
+|              team2score = 1
+|                 details = After [[Overtime (sports)#Association football|extra time]]
+|                    date = 20 May 2009
+|                 stadium = [[Şükrü Saracoğlu Stadium]]
+|                    city = [[Istanbul]]
+|      man_of_the_match1a = [[Darijo Srna]] {{nowrap|(Shakhtar Donetsk)}}
+|                 referee = [[Luis Medina Cantalejo]] ([[Royal Spanish Football Federation|Spain]])<ref name="referee">{{Cite news|title=Luis Medina Cantalejo to referee UEFA Cup final |url=https://www.uefa.com/news-media/news/01d9-0e7231bc77aa-282f99def3c1-1000--luis-medina-cantalejo-to-referee-uefa-cup-final/ |publisher=UEFA |date=18 May 2009 |access-date=18 May 2009 |url-status=live |archive-url=https://web.archive.org/web/20121022231207/http://www.uefa.com/uefa/footballfirst/matchorganisation/refereeing/news/newsid%3D830830.html |archive-date=22 October 2012 }}</ref>
+|              attendance = 37,357<ref name="report"/>
+|                 weather = Partly cloudy night<br />{{convert|18|°C|°F}}<br />63% [[humidity]]<ref name="lineups">{{Cite web |title=Line-ups |url=https://www.uefa.com/newsfiles/uefacup/2009/302827_LU.pdf |publisher=UEFA |date=20 May 2009 |access-date=20 May 2009 |archive-date=20 October 2012 |archive-url=https://web.archive.org/web/20121020131905/http://www.uefa.com/newsfiles/uefacup/2009/302827_LU.pdf |url-status=live }}</ref>
+|                previous = [[2008 UEFA Cup final|2008]]
+|                    next = ''(Europa League)'' [[2010 UEFA Europa League final|2010]]
+}}
+The '''2009 UEFA Cup Final''' was the final match of the [[2008–09 UEFA Cup]], the 38th season of the [[UEFA Cup]], [[UEFA]]'s second-tier club [[association football|football]] tournament. It was also the last final to be held under the UEFA Cup name, as the competition was rebranded as the UEFA Europa League from the [[2009–10 UEFA Europa League|2009–10 season]]. The final was contested by [[FC Shakhtar Donetsk|Shakhtar Donetsk]] and [[SV Werder Bremen|Werder Bremen]], with Shakhtar winning the match 2–1 after [[Overtime (sports)#Association football|extra time]]. All three goalscorers in the game were Brazilians; lone striker [[Luiz Adriano]] opened the scoring for Shakhtar midway through the first half, before [[Naldo (footballer, born 1982)|Naldo]] equalised from a free kick ten minutes later. The second half was goalless and the match went to extra time; after only seven minutes, [[Jádson]] scored for Shakhtar to secure the club's first major European trophy.<ref>{{Cite web|url=https://www.theguardian.com/football/2009/may/20/shakhtar-donetsk-uefa-cup-werder|title=Shakhtar Donetsk claim Uefa Cup final glory over Werder Bremen|date=21 May 2009|work=The Guardian|access-date=11 August 2009|archive-date=30 July 2017|archive-url=https://web.archive.org/web/20170730065441/https://www.theguardian.com/football/2009/may/20/shakhtar-donetsk-uefa-cup-werder|url-status=live}}</ref>
+[[File:Кубок ЮЕФА В музеи Домбасс Арены - panoramio.jpg|alt=|thumb|276x276px|UEFA Cup trophy on display at the [[Donbas Arena]] museum.]]
+The match was played at the [[Şükrü Saracoğlu Stadium]] – home ground of [[Fenerbahçe S.K. (football)|Fenerbahçe]] – in [[Istanbul]], Turkey, on 20 May 2009.<ref>{{Cite web |first=Mark |last=Chaplin |title=Moscow chosen for 2008 final |url=http://www.uefa.com/competitions/ucl/news/kind=1/newsid=464106.html |access-date=28 August 2007 |date=4 October 2006 |publisher=UEFA |archive-date=12 March 2012 |archive-url=https://web.archive.org/web/20120312201736/http://www.uefa.com/uefachampionsleague/index.html |url-status=dead }}</ref> It was the second European football final to be held in Turkey, after the [[2005 UEFA Champions League Final]], which was held in another Istanbul venue, the [[Atatürk Olympic Stadium]]. It was also the first European football final to be held outside the geographical Europe, as Şükrü Saracoğlu Stadium lies across the [[Bosphorus]] from the city centre, and hence, in geographical Asia.
+
+Former Fenerbahçe player [[Can Bartu]] was appointed as ambassador of the final.
+
+==Background==
+The 2009 UEFA Cup final marked the first meeting between [[FC Shakhtar Donetsk|Shakhtar Donetsk]] and [[SV Werder Bremen|Werder Bremen]], although Shakhtar had previously played nine matches against German sides (won 4, lost 3), while Werder had played just four matches against Ukrainian teams (won 2, lost 1). Both teams were playing in their first UEFA Cup final, and Shakhtar were playing in their first final in any of the three major UEFA competitions; Werder Bremen beat [[AS Monaco FC|Monaco]] 2–0 in the [[1992 European Cup Winners' Cup Final]].<ref>{{cite news |title=Shakhtar and Bremen in Istanbul showdown |url=http://en.archive.uefa.com/competitions/uefacup/fixturesresults/round=15290/match=302827/report=mb.html |archive-url=https://archive.today/20120708004936/http://en.archive.uefa.com/competitions/uefacup/fixturesresults/round=15290/match=302827/report=mb.html |url-status=dead |archive-date=8 July 2012 |publisher=UEFA |date=20 May 2009 |access-date=11 April 2011 }}</ref>
+
+==Venue==
+The 2009 UEFA Cup final also marked the first time that the [[Şükrü Saracoğlu Stadium]] had hosted a major European final, as well as being the first time that the UEFA Cup final had been held in Turkey;<ref>{{Cite news|title=Şükrü Saracoğlu Stadium |url=http://www.uefa.com/competitions/uefacup/finals/newsid=739122.html |publisher=UEFA |date=20 March 2009 |access-date=25 May 2009 |archive-url=https://web.archive.org/web/20090415173000/http://www.uefa.com/competitions/uefacup/finals/newsid%3D739122.html |archive-date=15 April 2009 |url-status=dead }}</ref> the [[2005 UEFA Champions League Final]] was held at the [[Atatürk Olympic Stadium]] across the [[Bosporus]] from the Şükrü Saracoğlu.<ref>{{cite news|first=Adam |last=Szreter |title=Liverpool triumph in Turkey |url=http://www.uefa.com/competitions/ucl/history/season=2004/round=1972/match=1086988/index.html |publisher=UEFA |date=25 May 2005 |access-date=25 May 2009 |archive-url=https://web.archive.org/web/20090525103914/http://www.uefa.com/Competitions/UCL/history/Season%3D2004/Round%3D1972/match%3D1086988/index.html |archive-date=25 May 2009 |url-status=dead }}</ref> It is the only European final to not be played in Europe, as the Şükrü Saracoğlu Stadium is technically in Asia.
+
+==Route to the final==
+{{further|2008–09 UEFA Champions League|2008–09 UEFA Cup}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+!Round
+!colspan="4"|{{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|- style="background:#C1E0FF"
+|colspan="9"|'''[[2008–09 UEFA Champions League|Champions League]]'''
+|-
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|style="background:#C1E0FF"|[[2008–09 UEFA Champions League qualifying rounds|Qualifying phase]]
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|5–1
+|2–0 (H)
+|3–1 (A)
+|style="background:#C1E0FF"|Third qualifying round
+|colspan="4"|Bye
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2008–09 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|colspan="3"|2–1 (A)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|CYP}} [[Anorthosis Famagusta FC|Anorthosis Famagusta]]
+|colspan="3"|0–0 (H)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan="3"|1–2 (H)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|colspan="3"|1–1 (A)
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[Sporting CP]]
+|colspan="3"|0–1 (H)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan="3"|2–2 (A)
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[Sporting CP]]
+|colspan="3"|0–1 (A)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan="3"|0–3 (H)
+|-
+|style="text-align:left"|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|colspan="3"|5–0 (H)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|CYP}} [[Anorthosis Famagusta FC|Anorthosis Famagusta]]
+|colspan="3"|2–2 (A)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan="3"|3–2 (A)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|colspan="3"|2–1 (H)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2008–09 UEFA Champions League group stage#Group C|Group C]] third place'''
+<div class="center">{{:2008–09 UEFA Champions League group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=SHK}}</div>
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2008–09 UEFA Champions League group stage#Group B|Group B]] third place'''
+<div class="center">{{:2008–09 UEFA Champions League group stage|transcludesection=Group B|only_pld_pts=yes|show_matches=no|showteam=BRM}}</div>
+|- style="background:#C1E0FF"
+|colspan="9"|'''[[2008–09 UEFA Cup|UEFA Cup]]'''
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2008–09 UEFA Cup knockout stage|Knockout stage]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|3–1
+|2–0 (H)
+|1–1 (A)
+|style="background:#C1E0FF"|Round of 32
+|style="text-align:left"|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|3–3 ([[away goals rule|a]])
+|1–1 (H)
+|2–2 (A)
+|-
+|style="text-align:left"|{{fbaicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|2–1
+|0–1 (A)
+|2–0 (H)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|FRA|1974}} [[AS Saint-Étienne|Saint-Étienne]]
+|3–2
+|1–0 (H)
+|2–2 (A)
+|-
+|style="text-align:left"|{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|4–1
+|2–0 (H)
+|2–1 (A)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|ITA}} [[Udinese Calcio|Udinese]]
+|6–4
+|3–1 (H)
+|3–3 (A)
+|-
+|style="text-align:left"|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|3–2
+|1–1 (A)
+|2–1 (H)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|GER}} [[Hamburger SV]]
+|3–3 ([[away goals rule|a]])
+|0–1 (H)
+|3–2 (A)
+|}
+
+===Shakhtar Donetsk===
+As champions of the [[2007–08 Vyshcha Liha]], Shakhtar were awarded a spot in the third qualifying round of the [[2008–09 UEFA Champions League]]. Here they were drawn against Croatian league winners [[GNK Dinamo Zagreb|Dinamo Zagreb]]. Shakhtar easily progressed over the two-legged tie with two victories and an aggregate score of 5–1. Shakhtar thus qualified for the Champions League group stage for the third season in a row.
+
+Shakhtar were drawn in [[2008–09 UEFA Champions League group stage#Group C|Group C]] with [[FC Barcelona|Barcelona]], [[Sporting CP]], and [[FC Basel|Basel]]. The group stage campaign started brightly for the Ukrainians, with a 2–1 over Basel in the Swiss city. In the second game, Shakhtar hosted Barcelona and the two sides were set to share the points at 1–1 until [[Lionel Messi]] scored in the fourth minute of stoppage time in the second half and the [[Catalonia|Catalan]] giants won 2–1. Two successive 1–0 defeats to Sporting CP, home and away, saw Shakhtar's hopes of progressing to the knockout rounds of the Champions League dashed. Shakhtar, however, were well positioned to claim third place, above Basel, and secure passage to the UEFA Cup knockout rounds if they took points from their last two games in the group stage. Shakhtar dismantled Basel 5–0 in [[Donetsk]] and famously defeated a youthful Barcelona side 3–2 at the [[Camp Nou]], (Barcelona had already secured first place in the group before the final match was played and were resting players ahead of an ''[[El Clásico]]'' league game against [[Real Madrid CF|Real Madrid]]), thus Shakhtar finished the group stage with nine points in third place, eight points clear of Basel and just three points behind second placed Sporting CP.
+
+In the [[2008–09 UEFA Cup final phase#Round of 32|Round of 32]] in the UEFA Cup, Shakhtar were paired with English side [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. With the first leg at the [[Lokomotiv Stadium (Donetsk)|RSK Olimpiyskyi Stadium]], Shakhtar were frustrated by their inability to turn their dominance over Tottenham into goals, until substitute [[Yevhen Seleznyov]] scored on his first touch, with a header in the 79th minute. [[Jádson]] doubled Shakhtar's lead just two minutes later, after playing a one-two with [[Willian (footballer, born 1988)|Willian]]. Taking with them a 2–0 aggregate lead to London, Shakhtar were favoured to progress to the Round of 16, but a goal from Tottenham's [[Giovani dos Santos]] in the 55th minute gave the English side a glimmer of hope. [[Fernandinho (footballer, born May 1985)|Fernandinho]] answered with a goal, however, in the 86th minute for Shakhtar, which put Shakhtar into the next round with a 3–1 aggregate victory.
+
+The [[2008–09 UEFA Cup final phase#Round of 16|Round of 16]] saw old [[Soviet Top League|Soviet League]] rivals [[PFC CSKA Moscow|CSKA Moscow]] and Shakhtar matched against each other, with the first leg in Moscow. [[Vágner Love]] scored a [[Penalty kick (association football)|penalty]] and CSKA won the first leg 1–0. In the return leg in Donetsk, Fernandinho converted a penalty in the 54th minute and evened the aggregate scoreline to 1–1. In the 70th minute, [[2004–05 UEFA Cup]] winners CSKA were left stunned when goalkeeper [[Igor Akinfeev]], under pressure from [[Oleksandr Kucher]], could only clear a looping cross from Fernandinho just a few meters ahead of him, where [[Luiz Adriano]] was perfectly positioned to hit it first time and score. Shakhtar won the match 2–0, and on aggregate 2–1, progressing to the quarter-finals of the UEFA Cup for the first time in their history.
+
+Shakhtar were drawn against French club [[Olympique de Marseille|Marseille]] in the [[2008–09 UEFA Cup final phase#Quarter-finals|quarter-finals]]. Goals from [[Tomáš Hübschman]] and Jádson gave Shakhtar a 2–0 win in the RSK Olimpiyskyi Stadium. In the return leg in Marseille, Shakhtar got an important away goal in the 30th minute through a close-range Fernandinho strike, where he blasted it past the Marseille goalkeeper from a very tight angle, after [[Ilsinho]] had played him through. Although [[Hatem Ben Arfa]] levelled the score at 1–1 in the 43rd minute, Marseille never looked liked getting the three goals that was required of them in order to progress, and in the 90th minute, adding to Marseille's wounds, Luiz Adriano scored to make it 2–1 and thus 4–1 on aggregate. Shakhtar had progressed to a European cup competition semi-final for the first time in their history with this victory.
+
+In the [[2008–09 UEFA Cup final phase#Semi-finals|semi-finals]], Shakhtar could have been drawn against German clubs [[Hamburger SV]] or [[SV Werder Bremen|Werder Bremen]], but instead a German–Ukrainian final was guaranteed when Hamburg and Werder Bremen were paired with each other, while Shakhtar were drawn with fellow Ukrainian club [[FC Dynamo Kyiv|Dynamo Kyiv]]. Dynamo and Shakhtar have been fierce rivals since the [[Ukrainian Premier League]]'s formation in 1991 as they have often battled each other for 1st place in the league. The draw of Dynamo-Shakhtar was met with great excitement by the Ukrainian public, who eagerly anticipated the showdown. Both stadiums were easily sold out for this fixture. Dynamo hosted the first leg in [[Kyiv]], and it got off to a bad start for Shakhtar when [[Dmytro Chyhrynskyi]] scored an [[own goal]] to give Dynamo the lead 1–0. The match was tense and thus not many clear cut chances to score were made, but Dynamo were clearly on top and a Shakhtar equaliser was looking unlikely until the 68th minute when substitute Willian crossed and Fernandinho bundled it into the goal to level the score at 1–1. Dynamo's [[Olexandr Aliyev]] had a chance to give the Kyiv side the lead again in the 78th minute, but Shakhtar goalkeeper [[Andriy Pyatov]] saved well and the game ended 1–1. Shakhtar took their crucial away goal to Donetsk and things were looking very rosy when Jadson scored in the 17th minute in the return leg to put the aggregate scoreline at 2–1. In the 37th minute, Dynamo correctly had a goal ruled offsides. Shortly after the start of the second half, [[Ismaël Bangoura]] equalised after a defensive mix-up allowed for Bangoura to have a clear shot on goal, which he finished well. With the aggregate at 2–2 and heading for [[extra time]] and potentially a [[Penalty shootout (association football)|penalty shootout]], a moment of brilliance in the 89th minute from Ilsinho sent Shakhtar to Istanbul. After collecting a long pass on the right-wing, Ilsinho cut in towards goal, shifted his way past three Dynamo defenders and coolly placed the ball where the Dynamo keeper had no chance. The match finished 2–1 and Shakhtar won 3–2 on aggregate and thus became the first ever Ukrainian side to reach a UEFA Cup Final.
+
+===Werder Bremen===
+Werder finished the [[2007–08 Bundesliga]] in second place and received a spot in the 2008–09 UEFA Champions League group stage as a result. They were matched up against [[Inter Milan]], [[Panathinaikos F.C.|Panathinaikos]], and [[Anorthosis Famagusta FC|Anorthosis Famagusta]] in [[2008–09 UEFA Champions League group stage#Group B|Group B]]. The Champions League campaign got off to a poor start for Werder when the first tie of the round against heavy underdog Cypriot side Anorthosis ended in a 0–0 draw in [[Bremen]]. Werder rebounded in the second match with a 1–1 draw in [[Milan]] against Internazionale, thanks to a [[Claudio Pizarro]] equaliser in the 62nd minute. An entertaining 2–2 draw in [[Athens]] against Panathinaikos followed, before disaster struck in the return leg in Bremen, where Panathinaikos defeated their German hosts by a score of 3–0. Werder looked as though they were heading for a fourth-place finish in the group when in the next game in [[Nicosia]], Anorthosis were leading 2–0 after 72 minutes, but a trip on [[Aaron Hunt]] in the penalty area allowed for [[Diego (footballer, born 1985)|Diego]] to score a penalty kick to make the score 2–1. [[Hugo Almeida]] rescued a point for Werder in the 87th minute, when he scored after a cross from [[Mesut Özil]] was helped on by [[Duško Tošić]]. Needing a win at home against the group favourites Internazionale and an Anorthosis loss to Panathinaikos in order to secure third place and thus progression to the UEFA Cup knockout rounds, Werder were staring elimination from European cup competition in the face. Werder dominated the match against the Italians and were rewarded for their determination to score in the 63rd minute when Pizarro scored on the rebound from a spilled shot by Özil. After Werder established their lead, further good news made its way to the [[Weserstadion]], where news of a Panathinaikos goal against Anorthosis lifted spirits. [[Markus Rosenberg]] extended Werder's lead in the 81st minute, and although Internazionale pulled a goal back through an 88th minute [[Zlatan Ibrahimović]] strike, Werder came out deserved winners 2–1. Panathinaikos held on to their 1–0 lead against Anorthosis and after both games had finished, Werder secured third place and a spot in the UEFA Cup knockout rounds.
+
+Just when Werder thought things would ease for them once they parachuted into the UEFA Cup, Werder were told that they faced another trip to the [[San Siro]], except this time it would be against [[AC Milan|Milan]], the favourites to win the UEFA Cup. In the home leg in Bremen, Milan went ahead in the 36th minute thanks to a [[Filippo Inzaghi]] goal. The Germans did not give up however, and after creating a host of chances, Diego finally finished one off in the 84th minute to level the score at 1–1. Heading to the San Siro with the aggregate scoreline all even, Milan jumped ahead in the first half with two goals from [[Andrea Pirlo]] and [[Alexandre Pato]] respectively. The task was daunting, but Werder were up to it, and in the 68th minute Pizarro scored a header from a Diego [[Direct free kick|free-kick]]. Werder got the decisive goal ten minutes later after yet another Pizarro headed goal, this time from a cross from [[Sebastian Boenisch]]. The match finished 2–2 and Werder won the round with an aggregate score of 3–3, through the [[away goals rule]].
+
+In the Round of 16, Werder were paired with French side [[AS Saint-Étienne|Saint-Étienne]]. [[Naldo (footballer, born 1982)|Naldo]] put Werder ahead in the 20th minute, but Werder were left frustrated in the Weserstadion as they could not convert their dominance into more goals. In the return leg at the [[Stade Geoffroy-Guichard]], Werder got off to the best of starts, with [[Sebastian Prödl]] scoring in the fourth minute and Pizarro adding a second goal in the 27th minute. Saint-Étienne then needed four goals to win the tie. A goal in the 64th minute by [[Yohan Benalouane]] rejuvenated the match, but by the time the French got their second goal in the 90th minute, the fixture was all but over.
+
+Werder were once again facing an Italian side; this time in the quarter-finals, and with their new Italian opponents being [[Udinese Calcio|Udinese]]. It looked as though the job was done for the Bremen club when they had a 3–0 lead over Udinese after just 69 minutes at the Weserstadion, through two goals from Diego and a solitary strike from Almeida. But in the 87th minute, [[Fabio Quagliarella]] breathed new life into Udinese's hopes, when he got a goal back from close range. One of the most entertaining matches of the entire tournament followed in the return leg at the [[Stadio Friuli]]. [[Gökhan Inler]] opened the scoring for the hosts with a fantastic 30-metre goal that left Werder keeper [[Tim Wiese]] with no chance of saving. Diego equalised in the 28th minute, before Quagliarella restored the Udinese lead just two minutes later by lobbing the ball over Wiese. Quagliarella scored his second and Udinese's third only eight minutes later and the aggregate was even at 4–4 and the match heading to extra time if the score stayed at 3–1. The match restarted in the second half with the same frantic pace it had in the first half, and after Quagliarella barely missed an opportunity to score a [[hat-trick]], Diego headed in from an Almeida shot which bounced off the bar to bring the score to 3–2. Udinese now needed two more goals to go through. [[Felipe dal Belo|Felipe]] and [[Kwadwo Asamoah]] had the best scoring opportunities for Udinese, but it wasn't meant to be, and after Udinese keeper [[Samir Handanović]] saved a Diego penalty kick, on the resulting corner, Pizarro turned in [[Per Mertesacker]]'s header in the 73rd minute to wrap up the tie at 3–3 and 6–4 on aggregate.
+
+In the semi-finals, Werder were drawn against their local rivals Hamburg. Werder defeated Hamburg in a penalty shootout in a [[2008–09 DFB-Pokal#Semifinals|German Cup semi-final]] just a week before the first leg of the UEFA Cup semi-final. With animosity running high between the two clubs and their respective supporters, this promised to be a fascinating clash for German football fans. The first leg was once again hosted by Werder, but this time Werder got off to a poor start, with Hamburg having the better chances to score in the opening, before they finally converted one of their chances in the 28th minute with [[Piotr Trochowski]] heading in. The Hamburg goal woke up Werder, but Pizarro, Almeida, and substitute Rosenborg all squandered their chances to equalise. Taking a 1–0 lead with them to the [[HSH Nordbank Arena]], Hamburg were confident of progressing to the Istanbul final, while it looked as though Werder would fail in the semi-finals of the UEFA Cup for the fourth time. It looked all over in the second leg when [[Ivica Olić]] finished well in the 13th minute. But sixteen minutes later Diego and Pizarro played a one-two, and Diego put it past Hamburg 'keeper [[Frank Rost]] to level the score at 1–1 and pull the aggregate to 1–2. Shortly afterwards, Diego's shot from 25 metres rattled the crossbar. In the 41st minute, Diego received a yellow card for shoving fellow Brazilian [[Alex Sandro da Silva|Alex Silva]], which ruled him out of the final. After a host of chances for both sides, in the 66th minute, Pizarro got the ball in the middle of the pitch, made a short run, and his curling shot from about 30 metres made its way past Rost to give Werder the lead 2–1. Things got even better for Werder in the 83rd minute when [[Frank Baumann (footballer)|Frank Baumann]] headed in to make it 3–2 on aggregate; Hamburg then needed two goals in the last seven minutes plus stoppage time to progress. Olić responded in the 87th minute with another goal to even the aggregate score at 3–3, however Werder would still go through on the away goals rule. As Hamburg searched for a goal, the game fizzled out and Werder had won their ticket to Istanbul.
+
+==Match==
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2009|5|20|df=y}}
+|time       = {{CEST|20:45|localtz=EEST}}<!--20:45 CEST, 21:45 EEST-->
+|team1      = [[FC Shakhtar Donetsk|Shakhtar Donetsk]] {{fbaicon|UKR}}
+|score      = 2–1
+|aet        = yes
+|team2      = {{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|goals1     =
+*[[Luiz Adriano]] {{goal|25}}
+*[[Jádson]] {{goal|97}}
+|goals2     =
+*[[Naldo (footballer, born 1982)|Naldo]] {{goal|35}}
+|stadium    = [[Şükrü Saracoğlu Stadium]], [[Istanbul]]
+|attendance = 37,357<ref name="report">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2009/302827_FR.pdf |title=Full Time Report Final – Shakhtar Donetsk v Werder Bremen |publisher=UEFA |date=20 May 2009 |access-date=20 May 2009 |url-status=live |archive-url=https://web.archive.org/web/20221114094805/https://www.uefa.com/newsfiles/uefacup/2009/302827_FR.pdf |archive-date=14 November 2022}}</ref>
+|referee    = [[Luis Medina Cantalejo]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/302827/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = 
+| pattern_b  = _shaktar0809h
+| pattern_ra = 
+| leftarm    = FF7F00
+| body       = FF7F00
+| rightarm   = FF7F00
+| shorts     = 000000
+| socks      = FF7F00
+ |title      = Shakhtar&nbsp;Donetsk<ref name="lineups"/>
+}}
+|{{Football kit
+| pattern_la = _greenborder
+| pattern_b  = _svwb0809h
+| pattern_ra = _greenborder
+| pattern_so = _greenhorizontal
+| leftarm    = FFFFFF
+| body       = 348153
+| rightarm   = FFFFFF
+| shorts     = 348153
+| socks      = FFFFFF
+ |title      = Werder&nbsp;Bremen<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''30'''||{{flagicon|UKR}} [[Andriy Pyatov]]
+|-
+|RB ||'''33'''||{{flagicon|CRO}} [[Darijo Srna]] ([[Captain (association football)|c]]) || {{yel|57}}
+|-
+|CB ||'''5''' ||{{flagicon|UKR}} [[Oleksandr Kucher]]
+|-
+|CB ||'''27'''||{{flagicon|UKR}} [[Dmytro Chyhrynskyi]]
+|-
+|LB ||'''26'''||{{flagicon|ROU}} [[Răzvan Raț]]
+|-
+|CM ||'''18'''||{{flagicon|POL}} [[Mariusz Lewandowski]] || {{yel|77}}
+|-
+|CM ||'''7''' ||{{flagicon|BRA}} [[Fernandinho (footballer, born May 1985)|Fernandinho]]
+|-
+|RW ||'''11'''||{{flagicon|BRA}} [[Ilsinho]] || {{yel|87}} || {{suboff|100}}
+|-
+|AM ||'''8''' ||{{flagicon|BRA}} [[Jádson]] || || {{suboff|112}}
+|-
+|LW ||'''22'''||{{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]]
+|-
+|CF ||'''17'''||{{flagicon|BRA}} [[Luiz Adriano]] || || {{suboff|90}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|UKR}} [[Rustam Khudzhamov]]
+|-
+|DF ||'''32'''||{{flagicon|UKR}} [[Mykola Ischenko]]
+|-
+|DF ||'''36'''||{{flagicon|UKR}} [[Oleksandr Chyzhov]]
+|-
+|MF ||'''4''' ||{{flagicon|SRB|2004}} [[Igor Duljaj]] || || {{subon|112}}
+|-
+|MF ||'''19'''||{{flagicon|UKR}} [[Oleksiy Gai]] || || {{subon|100}}
+|-
+|FW ||'''21'''||{{flagicon|UKR}} [[Oleksandr Hladkyy]] || || {{subon|90}}
+|-
+|FW ||'''99'''||{{flagicon|BOL|football}} [[Marcelo Moreno]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ROU}} [[Mircea Lucescu]]
+|}
+|valign="top"|[[File:Shakhtar Donetsk vs Werder Bremen 2009-05-20.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Tim Wiese]]
+|-
+|RB ||'''8''' ||{{flagicon|GER}} [[Clemens Fritz]] || {{yel|82}} || {{suboff|95}}
+|-
+|CB ||'''15'''||{{flagicon|AUT}} [[Sebastian Prödl]]
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Naldo (footballer, born 1982)|Naldo]]
+|-
+|LB ||'''2''' ||{{flagicon|POL}} [[Sebastian Boenisch]] || {{yel|120+2}}
+|-
+|CM ||'''22'''||{{flagicon|GER}} [[Torsten Frings]] || {{yel|45+1}}
+|-
+|CM ||'''6''' ||{{flagicon|GER}} [[Frank Baumann (footballer)|Frank Baumann]] ([[Captain (association football)|c]])
+|-
+|RW ||'''25'''||{{flagicon|GER}} [[Peter Niemeyer]] || || {{suboff|103}}
+|-
+|LW ||'''11'''||{{flagicon|GER}} [[Mesut Özil]]
+|-
+|SS ||'''9''' ||{{flagicon|SWE}} [[Markus Rosenberg]] || || {{suboff|78}}
+|-
+|CF ||'''24'''||{{flagicon|PER|football}} [[Claudio Pizarro]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''33'''||{{flagicon|GER}} [[Christian Vander (footballer)|Christian Vander]]
+|-
+|DF ||'''3''' ||{{flagicon|FIN}} [[Petri Pasanen]] || || {{subon|95}}
+|-
+|DF ||'''5''' ||{{flagicon|SRB|2004}} [[Duško Tošić]]
+|-
+|MF ||'''7''' ||{{flagicon|CRO}} [[Jurica Vranješ]]
+|-
+|MF ||'''16'''||{{flagicon|GRE}} [[Alexandros Tziolis]] || {{yel|115}} || {{subon|103}}
+|-
+|FW ||'''14'''||{{flagicon|GER}} [[Aaron Hunt]] || || {{subon|78}}
+|-
+|FW ||'''34'''||{{flagicon|AUT}} [[Martin Harnik]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Thomas Schaaf]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Darijo Srna]] (Shakhtar Donetsk)<ref>{{Cite web |url=http://soccerlens.com/shakhtar-donetsk-v-werder-bremen-live-blog-uefa-cup-final-20-may-2009/28944/ |title=Shakhtar Donetsk 2–1 Werder Bremen – Live Blog – UEFA Cup Final – 20 May 2009 |access-date=30 August 2013 |archive-date=8 September 2015 |archive-url=https://web.archive.org/web/20150908072221/http://soccerlens.com/shakhtar-donetsk-v-werder-bremen-live-blog-uefa-cup-final-20-may-2009/28944/ |url-status=live }}</ref><ref>{{Cite web |url=http://www.uefa.com/teamsandplayers/players/player=48893/profile/index.html |title=UEFA.com: Darijo Srna |access-date=30 August 2013 |archive-date=8 November 2014 |archive-url=https://web.archive.org/web/20141108081832/http://www.uefa.com/teamsandplayers/players/player=48893/profile/index.html |url-status=dead }}</ref>
+
+'''Assistant referees:'''
+<br />Jesús Calvo Guadamuro ([[Royal Spanish Football Federation|Spain]])<ref name="referee"/>
+<br />Roberto Díaz Pérez del Palomar ([[Royal Spanish Football Federation|Spain]])<ref name="referee"/>
+<br />'''Fourth official:'''
+<br />[[Alfonso Pérez Burrull]] ([[Royal Spanish Football Federation|Spain]])<ref name="referee"/>
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra-time if necessary
+*Penalty shoot-out if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="full time">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/UCL/2008/301604_FR.pdf |publisher=UEFA |access-date=6 February 2021}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Shakhtar Donetsk
+!scope="col" style="width:70px"|Werder Bremen
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|5
+|5
+|-
+!scope=row|Shots on target
+|3
+|1
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|57%
+|43%
+|-
+!scope=row|Corner kicks
+|5
+|1
+|-
+!scope=row|Fouls committed
+|11
+|7
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half and extra time<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Shakhtar Donetsk
+!scope="col" style="width:70px"|Werder Bremen
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|10
+|14
+|-
+!scope=row|Shots on target
+|5
+|5
+|-
+!scope=row|Saves
+|5
+|4
+|-
+!scope=row|Ball possession
+|60%
+|40%
+|-
+!scope=row|Corner kicks
+|5
+|4
+|-
+!scope=row|Fouls committed
+|16
+|15
+|-
+!scope=row|Offsides
+|4
+|1
+|-
+!scope=row|Yellow cards
+|3
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Shakhtar Donetsk
+!scope="col" style="width:70px"|Werder Bremen
+|-
+!scope=row|Goals scored
+|2
+|1
+|-
+!scope=row|Total shots
+|15
+|19
+|-
+!scope=row|Shots on target
+|8
+|6
+|-
+!scope=row|Saves
+|5
+|6
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|10
+|5
+|-
+!scope=row|Fouls committed
+|27
+|22
+|-
+!scope=row|Offsides
+|5
+|2
+|-
+!scope=row|Yellow cards
+|3
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2009 UEFA Champions League final]]
+*[[2009 UEFA Super Cup]]
+*[[FC Shakhtar Donetsk in European football]]
+*[[SV Werder Bremen in European football]]
+*[[2008–09 SV Werder Bremen season]]
+*[[2008–09 FC Shakhtar Donetsk season]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20130917034224/http://en.archive.uefa.com/competitions/uefacup/history/season%3D2009/intro.html 2008–09 season] at UEFA.com
+
+{{UEFA Europa League seasons}}
+{{2008–09 in European Football (UEFA)}}
+{{FC Shakhtar Donetsk matches}}
+{{SV Werder Bremen matches}}
+
+{{DEFAULTSORT:Uefa Cup Final 2009}}
+[[Category:2008–09 UEFA Cup|Final]]
+[[Category:Football matches in Istanbul|2009 UEFA Cup Final]]
+[[Category:2008–09 in Turkish football]]
+[[Category:UEFA Europa League finals|2009]]
+[[Category:FC Shakhtar Donetsk matches]]
+[[Category:SV Werder Bremen matches]]
+[[Category:Football matches in Turkey]]
+[[Category:2008–09 in Ukrainian football]]
+[[Category:2008–09 in German football]]
+[[Category:May 2009 sports events in Turkey]]
+[[Category:2000s in Istanbul]]
+[[Category:Germany–Ukraine sports relations|2009]]

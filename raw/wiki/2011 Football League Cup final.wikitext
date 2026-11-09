@@ -1,0 +1,288 @@
+{{Use dmy dates|date=September 2020}}
+{{Infobox football match
+|              title = 2011 Football League Cup final
+|              image = Carling2011 cover.png
+|            caption = Match programme cover
+|              event = [[2010–11 Football League Cup]]
+|              team1 = [[Arsenal F.C.|Arsenal]]
+|         team1score = 1
+|              team2 = [[Birmingham City F.C.|Birmingham City]]
+|         team2score = 2
+|            details = 
+|               date = {{Start date|2011|2|27|df=y}}
+|            stadium = [[Wembley Stadium]]
+|               city = [[London]]
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Ben Foster (footballer)|Ben Foster]] (Birmingham City)<ref name="man_of_the_match"/>
+|            referee = [[Mike Dean (referee)|Mike Dean]] ([[Cheshire County Football Association|Cheshire]])<ref name="referee"/>
+|         attendance = 88,851
+|            weather = Mostly cloudy<br />{{convert|6|°C|°F}}<ref>{{cite web |title=Weather History for London, United Kingdom |url=http://www.wunderground.com/history/airport/EGLL/2011/2/27/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA |website=wunderground.com |archive-url=https://web.archive.org/web/20160305204629/http://www.wunderground.com/history/airport/EGLL/2011/2/27/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA |archive-date=5 March 2016}}</ref>
+|           previous = [[2010 Football League Cup final|2010]]
+|               next = [[2012 Football League Cup final|2012]]
+}}
+The '''2011 Football League Cup final''' was the final match of the [[2010–11 Football League Cup]], the 51st season of the [[Football League Cup]], a [[association football|football]] competition for the 92 teams in the [[Premier League]] and [[the Football League]]. The match was contested by [[Arsenal F.C.|Arsenal]] and [[Birmingham City F.C.|Birmingham City]], at [[Wembley Stadium]] in [[London]], on 27 February 2011.<ref>{{cite news |title=Carling Cup Draw Dates |url=http://www.carling.com/carlingcup/draw/ |work=Carling Cup official website |publisher=Molson Coors Brewing Company |access-date=24 January 2011 |archive-url=https://web.archive.org/web/20130720040850/http://www.carling.com/ |archive-date=20 July 2013 |url-status=dead }}</ref> Birmingham City won the game 2–1 and were guaranteed a spot in the third qualifying round of the [[2011–12 UEFA Europa League]].<ref>{{cite news |first=Kevin |last=McCarra |title=Obafemi Martins grabs glory as Birmingham beat Arsenal |url=https://www.theguardian.com/football/2011/feb/27/arsenal-birmingham-city-carling-cup-final |work=The Guardian|publisher=Guardian News and Media |date=27 February 2011 |access-date=28 February 2011 |location=London}}</ref> [[Mike Dean (referee)|Mike Dean]] was the referee.<ref name="referee">{{cite news|title=Officials named for Carling Cup final |url=http://www.football-league.co.uk/carlingcup/news/20110131/officials-named-for-carling-cup-final_2293330_2281129 |work=football-league.co.uk |publisher=The Football League |date=31 January 2011 |access-date=1 February 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110211225301/http://www.football-league.co.uk/carlingcup/news/20110131/officials-named-for-carling-cup-final_2293330_2281129 |archive-date=11 February 2011 }}</ref>
+
+==Background==
+Arsenal held the advantage over Birmingham in the league matches between the two sides in [[2010–11 in English football|2010–11]], having beaten them 2–1 at the [[Emirates Stadium]] in October and again 3–0 at [[St Andrew's (stadium)|St Andrew's]] on [[New Year's Day]].<ref>{{cite news |first=Sam |last=Sheringham |title=Arsenal 2–1 Birmingham |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/9085759.stm |work=BBC Sport|date=16 October 2010 |access-date=26 January 2011 }}</ref><ref>{{cite news |first=Alistair |last=Magowan |title=Birmingham 0–3 Arsenal |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/9328059.stm |work=BBC Sport|date=1 January 2011 |access-date=26 January 2011 }}</ref>
+
+Arsenal had played in six Football League Cup finals, but had only won two, most recently in [[1993 Football League Cup final|1993]] when they beat [[Sheffield Wednesday F.C.|Sheffield Wednesday]] 2–1. Birmingham's only League Cup title came in [[1963 Football League Cup final|1963]], when they beat [[Second City derby|local rivals]] [[Aston Villa F.C.|Aston Villa]] 3–1 on aggregate after a two-legged final. They also reached the [[2001 Football League Cup final|2001 final]], which was played at the [[Millennium Stadium]] in [[Cardiff]] against [[Liverpool F.C.|Liverpool]], but the 2011 final was Birmingham's first appearance in the final of a major competition at Wembley for nearly 55 years, their last being the [[1956 FA Cup final]].
+
+==Road to Wembley==
+{{see also|2010–11 Football League Cup}}
+
+{| class="wikitable"
+|-
+!colspan="3"|Arsenal!!Round!!colspan="3"|Birmingham City
+|-
+| ||Bye|| ||align="center"|'''Round 2'''{{ref label|bye1|A|}}||align="right"|Birmingham City||align="center"|3–2||[[Rochdale A.F.C.|Rochdale]]
+|-
+|align="right"|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]||align="center"|1–4||Arsenal ([[Overtime (sports)|a.e.t.]])||align="center"|'''Round 3'''{{ref label|bye2|B|}}||align="right"|Birmingham City||align="center"|3–1||[[Milton Keynes Dons F.C.|Milton Keynes Dons]]
+|-
+|align="right"|[[Newcastle United F.C.|Newcastle United]]||align="center"|0–4||Arsenal||align="center"|'''Round 4'''||align="right"|Birmingham City||align="center"|1–1<br />(4–3 [[Penalty shootout (association football)|pen.]])||[[Brentford F.C.|Brentford]] ([[Overtime (sports)|a.e.t.]])
+|-
+|align="right"|Arsenal||align="center"|2–0||[[Wigan Athletic F.C.|Wigan Athletic]]||align="center"|'''Round 5'''||align="right"|Birmingham City||align="center"|2–1||[[Aston Villa F.C.|Aston Villa]]
+|-
+|align="right"|[[Ipswich Town F.C.|Ipswich Town]]||align="center"|1–0||Arsenal||rowspan="3" align="center"|'''Semifinal'''||align="right"|[[West Ham United F.C.|West Ham United]]||align="center"|2–1||Birmingham City
+|-
+|align="right"|Arsenal||align="center"|3–0||Ipswich Town||align="right"|Birmingham City||align="center"|3–1||West Ham United ([[Overtime (sports)|a.e.t.]])
+|-
+|colspan="3" align="center"|Arsenal won 3–1 on aggregate||colspan="3" align="center"|Birmingham City won 4–3 on aggregate
+|}
+
+==Pre-match==
+[[File:2011leaguecupfinalprematch.png|thumb|The [[Starting lineup|starting line-ups]] being announced before [[Kick-off (association football)|kick-off]]]]
+In the build-up to the game, [[Arsène Wenger]] criticised the FA and UEFA for overpricing tickets for their finals. {{citation needed|date=February 2011}}
+
+A number of Arsenal players missed out on the final. [[Thomas Vermaelen]] was not fit, while goalkeeper [[Łukasz Fabiański]] had been ruled out for the rest of the season. [[Theo Walcott]] picked up a sprained ankle in a match against Stoke City a few days prior, and captain [[Cesc Fàbregas]] was also injured in that game; both missed the final. [[Abou Diaby]] was also injured.<ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/arsenal/8344252/Arsenals-Theo-Walcott-ruled-out-of-Carling-Cup-final-against-Birmingham-and-Cesc-Fabregas-doubtful.html |title=Arsenal's Theo Walcott ruled out of Carling Cup final against Birmingham and Cesc Fabregas doubtful |date=23 February 2011 |work=The Daily Telegraph|access-date=17 October 2019}}</ref>
+
+For Birmingham, [[Scott Dann]] was ruled out for the rest of the season following an injury in the League Cup semi-final, while [[James McFadden]] was still not recovered from an injury received in September. Former Arsenal player [[Alexander Hleb]] was injured in an FA Cup match the week before, and failed to recover in time to play. [[David Bentley]], who had replaced Hleb in that match, was [[cup-tied]], having played for Tottenham Hotspur in their defeat to Arsenal in the third round.
+
+Arsenal were rated heavy odds-on favourites for the match, with Birmingham rated at worse than 5/1 against to win the game in 90 minutes.<ref>{{cite web |title=Squad sheets: Arsenal v Birmingham City |url=https://www.theguardian.com/football/2011/feb/25/squad-sheets-arsenal-birmingham-city |website=The Guardian |access-date=30 April 2026}}</ref><ref>{{cite web |title=Arsenal v Birmingham - best odds and match prices for Carling Cup final |url=https://www.footballfancast.com/football-news/arsenal-v-birmingham-best-odds-and-match-prices-for-carling-cup-final/ |website=Football Fancast |access-date=30 April 2026}}</ref>
+
+==Match==
+===Summary===
+[[File:Kickoff2011leaguecupfinal.png|right|thumb|The teams lining up for kick-off]]
+There was a moment of contention just two minutes into the match as an early Birmingham chance was created through [[Lee Bowyer]], who appeared to be fouled by Arsenal goalkeeper [[Wojciech Szczęsny]] in what would probably have been a [[Penalty kick (association football)|penalty kick]] and red card for the keeper. However, Bowyer had already been flagged offside (a decision that replays proved was incorrect).
+
+After ten minutes, Birmingham's [[Barry Ferguson]] was involved in a collision, and played the rest of the game with what proved to be two broken ribs.<ref>{{cite news |first=John |last=Curtis |title=Barry Ferguson to play on with broken rib for Birmingham |url=https://www.independent.co.uk/sport/football/premier-league/barry-ferguson-to-play-on-with-broken-rib-for-birmingham-2236659.html |work=The Independent |publisher=Independent Digital News & Media |date=9 March 2011 |access-date=27 July 2019 |archive-date=27 July 2019 |archive-url=https://web.archive.org/web/20190727201513/https://www.independent.co.uk/sport/football/premier-league/barry-ferguson-to-play-on-with-broken-rib-for-birmingham-2236659.html |url-status=dead }}</ref>
+
+Arsenal threatened regularly throughout the course of the match, with an eventual 20 attempts on goal to Birmingham's 11 (both teams were denied by the woodwork once), however the fine work of Birmingham goalkeeper [[Ben Foster (footballer)|Ben Foster]] kept the north London team at bay. Foster would go on to win the [[man of the match]] award, and with it, the [[Alan Hardaker Trophy]] (also making Foster the first-ever player to win the trophy on two occasions).<ref name="man_of_the_match">{{cite news |title=Foster makes history at Wembley |url=http://www.football-league.co.uk/carlingcup/news/20110228/foster-makes-history-at-wembley_2293330_2304500 |archive-url=https://archive.today/20120731195939/http://www.football-league.co.uk/carlingcup/news/20110228/foster-makes-history-at-wembley_2293330_2304500 |url-status=dead |archive-date=31 July 2012 |work=football-league.co.uk |publisher=The Football League |date=28 February 2011 |access-date=4 March 2011 }}</ref>
+
+Birmingham took the lead in the 28th minute when a corner kick was sent into the box, [[Roger Johnson (footballer)|Roger Johnson]] won the initial header towards goal which was then flicked in off the head of [[Nikola Žigić]] past [[Wojciech Szczęsny]] into the net. Arsenal levelled 11 minutes later when, moments after [[Jack Wilshere]] struck the crossbar with a shot, [[Robin van Persie]] volleyed an [[Andrei Arshavin]] cross in with his right foot. However, Van Persie injured himself upon landing, and while he was initially able to continue, he struggled as the match went on and was eventually substituted by [[Nicklas Bendtner]] partway through the second half. Going into half-time the scoreline stayed at 1–1, with both teams failing to capitalise on good opportunities to score a second, including Arsenal's [[Samir Nasri]] who had a long-range effort saved, and then in the second half Birmingham's [[Keith Fahey]] was denied by the post.
+
+On 83 minutes, Birmingham brought on [[Obafemi Martins]] in place of Fahey. Six minutes later, and in the final minute of normal time, Martins scored to put Birmingham 2–1 up after a mix-up between Szczęsny and defender [[Laurent Koscielny]]. A long ball from Blues keeper Foster, flicked on by Žigić, appeared to be heading safely into the hands of the Arsenal keeper. But Koscielny attempted to play the ball, distracting Szczęsny and causing him to bobble the ball into the path of Martins, who tapped it into an empty net.
+
+Too little time was left for Arsenal to recover, and after four-and-a-half minutes of injury time was seen out, Birmingham City secured their second Football League Cup trophy.<ref name="BBC-McNulty"/>
+
+===Details===
+{{football box
+|date=27 February 2011
+|time=16:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Arsenal F.C.|Arsenal]]
+|score=1–2
+|report=[https://web.archive.org/web/20120928111137/http://www.football-league.co.uk/capitalonecup/news/20110227/carling-cup-final-match-report_2293330_2301371 Report]
+|team2=[[Birmingham City F.C.|Birmingham City]]
+|goals1=[[Robin van Persie|Van Persie]] {{goal|39}}
+|goals2=[[Nikola Žigić|Žigić]] {{goal|28}}<br />[[Obafemi Martins|Martins]] {{goal|89}}
+|stadium=[[Wembley Stadium]], London
+|attendance=88,851
+|referee=[[Mike Dean (referee)|Mike Dean]] ([[Cheshire County Football Association|Cheshire]])<ref name="referee"/>
+}}
+
+{| width=92%
+|-
+|{{Football kit
+|pattern_la = _arsenal1011h
+|pattern_b  = _arsenal1011H
+|pattern_ra = _arsenal1011h
+|pattern_sh = _redstripes
+|leftarm    = FFFFFF
+|body       = FF0000
+|rightarm   = FFFFFF
+|shorts     = FFFFFF
+|socks      = FFFFFF
+|title      = Arsenal
+}}
+|{{Football kit
+| pattern_la = _birmingham1011h
+| pattern_b  = _birmingham1011h
+| pattern_ra = _birmingham1011h
+| leftarm    = 0000FF
+| body       = 0000FF
+| rightarm   = 0000FF
+| shorts     = FFFFFF
+| socks      = 0000FF
+| title      = Birmingham City
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''53'''||{{flagicon|POL}} [[Wojciech Szczęsny]]
+|-
+|RB ||'''3''' ||{{flagicon|FRA}} [[Bacary Sagna]]
+|-
+|CB ||'''20'''||{{flagicon|SUI}} [[Johan Djourou]]
+|-
+|CB ||'''6''' ||{{flagicon|FRA}} [[Laurent Koscielny]] || {{yel|35}}
+|-
+|LB ||'''22'''||{{flagicon|FRA}} [[Gaël Clichy]] || {{yel|52}}
+|-
+|CM ||'''17'''||{{flagicon|CMR}} [[Alex Song]]
+|-
+|CM ||'''19'''||{{flagicon|ENG}} [[Jack Wilshere]]
+|-
+|RW ||'''7''' ||{{flagicon|CZE}} [[Tomáš Rosický]]
+|-
+|AM ||'''8''' ||{{flagicon|FRA}} [[Samir Nasri]]
+|-
+|LW ||'''23'''||{{flagicon|RUS}} [[Andrey Arshavin]] || || {{suboff|77}}
+|-
+|CF ||'''10'''||{{flagicon|NED}} [[Robin van Persie]] ([[Captain (association football)|c]]) || || {{suboff|69}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Manuel Almunia]]
+|-
+|DF ||'''18'''||{{flagicon|FRA}} [[Sébastien Squillaci]]
+|-
+|DF ||'''27'''||{{flagicon|CIV}} [[Emmanuel Eboué]]
+|-
+|DF ||'''28'''||{{flagicon|ENG}} [[Kieran Gibbs]]
+|-
+|MF ||'''15'''||{{flagicon|BRA}} [[Denílson (footballer, born 1988)|Denílson]]
+|-
+|FW ||'''29'''||{{flagicon|MAR}} [[Marouane Chamakh]] || || {{subon|77}}
+|-
+|FW ||'''52'''||{{flagicon|DEN}} [[Nicklas Bendtner]] || || {{subon|69}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA}} [[Arsène Wenger]]
+|}
+|valign="top"|[[File:Arsenal vs Birmingham 2011-02-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''26'''||{{flagicon|ENG}} [[Ben Foster (footballer)|Ben Foster]]
+|-
+|RB ||'''2''' ||{{flagicon|IRL}} [[Stephen Carr]] ([[Captain (association football)|c]])
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Roger Johnson (footballer)|Roger Johnson]]
+|-
+|CB ||'''28'''||{{flagicon|CZE}} [[Martin Jiránek]]
+|-
+|LB ||'''6''' ||{{flagicon|ENG}} [[Liam Ridgewell]]
+|-
+|RM ||'''7''' ||{{flagicon|SWE}} [[Sebastian Larsson]] || {{yel|41}}
+|-
+|CM ||'''12'''||{{flagicon|SCO}} [[Barry Ferguson]] || {{yel|90+4}}
+|-
+|LM ||'''18'''||{{flagicon|IRL}} [[Keith Fahey]] || || {{suboff|83}}
+|-
+|AM ||'''8''' ||{{flagicon|ENG}} [[Craig Gardner]] || || {{suboff|50}}
+|-
+|AM ||'''4''' ||{{flagicon|ENG}} [[Lee Bowyer]]
+|-
+|CF ||'''19'''||{{flagicon|SRB}} [[Nikola Žigić]] || || {{suboff|90+2}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|NIR}} [[Maik Taylor]]
+|-
+|DF ||'''3''' ||{{flagicon|ENG}} [[David Murphy (footballer, born 1984)|David Murphy]]
+|-
+|DF ||'''21'''||{{flagicon|ENG}} [[Stuart Parnaby]]
+|-
+|DF ||'''23'''||{{flagicon|CHI}} [[Jean Beausejour]] || || {{subon|50}}
+|-
+|FW ||'''9''' ||{{flagicon|ENG}} [[Kevin Phillips (footballer)|Kevin Phillips]]
+|-
+|FW ||'''10'''||{{flagicon|ENG}} [[Cameron Jerome]] || {{yel|90+3}} || {{subon|90+2}}
+|-
+|FW ||'''17'''||{{flagicon|NGA}} [[Obafemi Martins]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SCO}} [[Alex McLeish]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|width=50% valign=top|
+'''Man of the match'''
+*[[Ben Foster (footballer)|Ben Foster]] (Birmingham City)<ref name="man_of_the_match"/>
+
+'''Match officials'''
+*Assistant referees:
+**Ron Ganfield ([[Somerset County Football Association|Somerset]])<ref name="referee"/>
+**Mike Mullarkey ([[Devon County Football Association|Devon]])<ref name="referee"/>
+*Fourth official: [[Kevin Friend]] ([[Leicestershire & Rutland County Football Association|Leicestershire]])<ref name="referee"/>
+|width=50% valign=top|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra time if necessary
+*Penalty shootout if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics=== 
+{| class="wikitable" style="text-align:center"
+|-
+!width=100 |
+!width=70 | Arsenal
+!width=70 | Birmingham
+|-
+|Total shots || 20 || 11
+|-
+|Shots on target || 12 || 7
+|-
+|Ball possession || 56% || 44%
+|-
+|Corner kicks || 6 || 3
+|-
+|Fouls committed || 11 || 9
+|-
+|Offsides || 2 || 4
+|-
+|Yellow cards || 2 || 3
+|-
+|Red cards || 0 || 0
+|}
+'''Source:''' BBC Sport<ref name="BBC-McNulty">{{cite news |first=Phil |last=McNulty |title=Martins the hero for Blues |url=https://news.bbc.co.uk/sport1/hi/football/league_cup/9405702.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=27 February 2011 |access-date=8 May 2012}}</ref>
+
+==Post-match==
+Arsenal players collapsed to the pitch in devastation upon the final whistle as they suffered extension to the trophy drought that began in 2005 when they beat [[Manchester United F.C.|Manchester United]] in the [[2005 FA Cup Final|final]] of the [[2004–05 FA Cup]]. Manager [[Arsène Wenger]] admitted that the defeat was "very hard to take" but refused to blame anyone for it. He said: "The players are disappointed but we have to pick ourselves up, that's what a team is about. [...] We got what we expected from Birmingham. They are a team who fight very hard and cause a lot of problems from long balls. Congratulations to them, they got the trophy, but we have regrets with the way we conceded the [Martins] goal".<ref>{{Cite web | title=BBC Sport - Football - Carling Cup final: Wenger backs 'destroyed' Arsenal duo | url=http://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/9409056.stm | access-date=2026-09-05 | website=news.bbc.co.uk}}</ref> Despite the intention to recover from the defeat Arsenal would go on to suffer a significant drop in form, losing a great number of the remaining matches, being knocked out of the [[2010-11 UEFA Champions League|Champions League]] and the [[2010-11 FA Cup|FA Cup]] and eventually finishing 4th place in the league.<ref>{{Cite web | title=History: Barcelona 3-1 Arsenal {{!}} UEFA Champions League 2010/11 {{!}} UEFA.com | url=https://www.uefa.com/uefachampionsleague/match/2003764/ | archive-url=https://web.archive.org/web/20250222220809/https://www.uefa.com/uefachampionsleague/match/2003764/ | access-date=2026-09-05 | archive-date=2025-02-22}}</ref><ref>{{Cite web | title=BBC Sport - Football - Manchester United 2-0 Arsenal | url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/9421189.stm | access-date=2026-09-05 | website=news.bbc.co.uk}}</ref><ref>{{Cite web | title=BBC Sport - Football - Saturday football as it happened | url=http://news.bbc.co.uk/sport1/hi/football/9483110.stm | access-date=2026-09-05 | website=news.bbc.co.uk}}</ref> They would not win a trophy until 2014, beating [[Hull City A.F.C.|Hull City]] in the [[2014 FA Cup Final|final]] of the [[2013–14 FA Cup]].<ref>{{Cite web | title=Arsenal 3-2 Hull City - BBC Sport | url=https://www.bbc.co.uk/sport/football/27354148 | access-date=2026-09-05 | website=www.bbc.co.uk}}</ref>
+
+Birmingham boss [[Alex McLeish]] hailed his team's triumph, saying that the final win was his "greatest achievement" as a manager, adding: "I am so pleased for the fans, they have craved victory for a long time. [...] For a small club like ours to beat Arsenal was a titanic effort. [...] No-one gave us a prayer, we were underdogs but sometimes the bookies don't get it right". Winning goalscorer [[Obafemi Martins]] commented that "it means a lot to the fans and the players because Birmingham really needed this trophy", while man-of-the-match [[Ben Foster (footballer)|Ben Foster]] reflected on the win saying "the main thing was that the lads kept fighting. You could see how tired we were but we just kept working and working. That's the spirit we've got".<ref>{{Cite web | title=BBC Sport - Football - Carling Cup final: McLeish hails 'greatest achievement' | url=http://news.bbc.co.uk/sport1/hi/football/teams/b/birmingham_city/9407612.stm | access-date=2026-09-05 | website=news.bbc.co.uk}}</ref> Birmingham would later go on to suffer relegation in the league during the season and were knocked out in the group stage of the [[2011–12 UEFA Europa League]] the following season.<ref>{{Cite web | title=Tottenham Hotspur 2-1 Birmingham City - BBC Sport | url=https://www.bbc.co.uk/sport/football/13444710 | access-date=2026-09-05 | website=www.bbc.co.uk}}</ref><ref>{{Cite web | title=Birmingham 1-0 NK Maribor - BBC Sport | url=https://www.bbc.co.uk/sport/football/16081822 | access-date=2026-09-05 | website=www.bbc.co.uk}}</ref>
+
+==Notes==
+:A. {{note|bye1}} Clubs competing in the Premier League, but not in UEFA competitions, receive a bye to the second round.
+:B. {{note|bye2}} Clubs competing in UEFA competitions receive a bye to the third round.
+
+==References==
+{{reflist}}
+{{commons category}}
+
+{{Football League Cup seasons}}
+{{2010–11 in English football}}
+{{Arsenal F.C. matches}}
+{{Birmingham City F.C. matches}}
+
+{{DEFAULTSORT:Football League Cup final 2011}}
+[[Category:2010–11 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:2011 in sport in London|Football League Cup final]]
+[[Category:EFL Cup finals|2011]]
+[[Category:Arsenal F.C. matches|League Cup final 2011]]
+[[Category:Birmingham City F.C. matches|League Cup final 2011]]
+[[Category:February 2011 sports events in the United Kingdom]]

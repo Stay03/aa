@@ -1,0 +1,153 @@
+[
+ {
+  "referee": "Damir Skomina",
+  "nationality": "Slovenian",
+  "federation_at_final": "Football Association of Slovenia (NZS)",
+  "nationality_sources": [
+   "https://www.eurosport.com/football/champions-league/2018-2019/slovenian-official-damir-skomina-to-referee-champions-league-final_sto7271479/story.shtml",
+   "https://www.washingtontimes.com/news/2019/may/14/skomina-picked-as-referee-for-champions-league-fin/"
+  ],
+  "records": [
+   {
+    "club": "Liverpool",
+    "P": 5,
+    "W": 1,
+    "D": 0,
+    "L": 4,
+    "scope": "all competitions to 14 May 2019 (before 2019 UCL final)",
+    "source": "https://www.goal.com/en/news/who-is-the-champions-league-final-2019-referee-for-tottenham-vs-liverpool/1kg312etda1tz1gfab28875w6x",
+    "source_type": "newspaper",
+    "note": "Goal.com pre-final preview. Matches: L 1-2 v Fiorentina (H, UCL 2009); W 1-0 v Napoli (H, UCL group Dec 2018); L at Besiktas (UEL R32 2015); L at Villarreal (UEL SF 2016); L 4-2 at Roma (UCL SF 2nd leg 2018). Excludes the 2019 final (Liverpool won 2-0)."
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.goal.com/en/news/who-is-the-champions-league-final-2019-referee-for-tottenham-vs-liverpool/1kg312etda1tz1gfab28875w6x",
+    "source_type": "newspaper",
+    "note": "Goal.com mentions: W 2-0 v Ajax (2017 UEL final, Solna); W 3-1 at PSG (UCL R16 2nd leg, 6 Mar 2019, late VAR penalty). Full record not found."
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "partial list",
+    "source": "https://www.goal.com/en/news/who-is-the-champions-league-final-2019-referee-for-tottenham-vs-liverpool/1kg312etda1tz1gfab28875w6x",
+    "source_type": "newspaper",
+    "note": "Goal.com mentions: L 1-4 v Atletico Madrid (2012 UEFA Super Cup, Monaco). Full record not found."
+   },
+   {
+    "club": "Arsenal",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester City",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [
+   {
+    "date": "2019-03-06",
+    "match": "Paris Saint-Germain 1-3 Manchester United (UCL R16 2nd leg)",
+    "description": "Skomina awarded United a stoppage-time penalty after VAR review for a Presnel Kimpembe handball; Rashford scored, eliminating PSG on away goals. Described as controversial.",
+    "sources": [
+     "https://www.goal.com/en/news/who-is-the-champions-league-final-2019-referee-for-tottenham-vs-liverpool/1kg312etda1tz1gfab28875w6x"
+    ]
+   }
+  ],
+  "uncertain": [
+   "Liverpool tally is pre-2019-final; including the final would make it 6 matches but no source states that.",
+   "Goal.com is a sports-media outlet, not one of the listed papers; second source for incident not fetched (inkl/Express copy blocked)."
+  ]
+ },
+ {
+  "referee": "Daniel Siebert",
+  "nationality": "German",
+  "federation_at_final": "German Football Association (DFB)",
+  "nationality_sources": [
+   "https://wtop.com/sports/2026/05/german-referee-siebert-gets-arsenal-psg-in-champions-league-final-after-missing-out-on-world-cup/",
+   "https://www.uefa.com/uefachampionsleague/news/02a5-20bb2ead6fa0-594bc3f4ff23-1000--uefa-champions-league-final-referee-siebert-ready-for-duty/"
+  ],
+  "records": [
+   {
+    "club": "Arsenal",
+    "P": 4,
+    "W": 4,
+    "D": 0,
+    "L": 0,
+    "scope": "all competitions to 12 May 2026 (before 2026 UCL final)",
+    "source": "https://www.si.com/soccer/psg-vs-arsenal-referee-2026-champions-league-final",
+    "source_type": "newspaper",
+    "note": "Sports Illustrated: 'Arsenal have a 100% record with Siebert as referee, winning all four games' incl. UCL QF 1st leg at Sporting CP and UCL SF 2nd leg v Atletico Madrid (2026). Final (30 May 2026, Budapest): Arsenal 1-1 PSG, lost 3-4 on pens per search snippets, not included in tally. Earlier reports gave 2 and 3 matches at earlier dates."
+   },
+   {
+    "club": "Manchester City",
+    "P": 1,
+    "W": 0,
+    "D": 1,
+    "L": 0,
+    "scope": "all competitions (date of article unclear, c. 2024-25)",
+    "source": "https://cityxtra.co.uk/20563/daniel-siebert-to-referee-uefa-champions-league-clash-between-sporting-cp-and-manchester-city-in-league-phase-clash/",
+    "source_type": "aggregator snippet",
+    "note": "City fan-news site (CityXtra) said City had met Siebert once: 0-0 at Atletico Madrid (UCL QF 2nd leg, April 2022). Article previewing Sporting CP v Man City (UCL league phase, Nov 2024) which Siebert then refereed (City lost 1-4, per general knowledge - not sourced here). Low-reliability source."
+   },
+   {
+    "club": "Chelsea",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Liverpool",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   },
+   {
+    "club": "Manchester United",
+    "P": null,
+    "W": null,
+    "D": null,
+    "L": null,
+    "scope": "not found",
+    "source": null,
+    "source_type": null,
+    "note": ""
+   }
+  ],
+  "notable_prior_incidents": [],
+  "uncertain": [
+   "Arsenal record source is SI (US outlet); ESPN article on Siebert's Arsenal matches could not be fetched.",
+   "Man City record from a club fan-news site; treat as pointer only."
+  ]
+ }
+]

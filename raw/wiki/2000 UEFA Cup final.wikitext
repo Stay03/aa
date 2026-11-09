@@ -1,0 +1,486 @@
+{{good article}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox football match
+| title              = 2000 UEFA Cup final
+| image              = 2000 uefa.jpg
+| caption            = The [[Football programme|match programme]] cover
+| event              = [[1999–2000 UEFA Cup]]
+| team1              = [[Galatasaray S.K. (football)|Galatasaray]]
+| team1association   = {{fbaicon|TUR|size=30px}}
+| team1score         = 0
+| team2              = [[Arsenal F.C.|Arsenal]]
+| team2association   = {{fbaicon|ENG|size=30px}}
+| team2score         = 0
+| details            = After [[golden goal]] [[Overtime (sports)#Association football|extra time]]<br />Galatasaray won 4–1 on [[Penalty shoot-out (association football)|penalties]]
+| date               = 17 May 2000
+| stadium            = [[Parken Stadium]]
+| city               = [[Copenhagen]]
+| man_of_the_match1a = [[Cláudio Taffarel]] (Galatasaray)<ref name="man_of_the_match">{{cite news |title=Herrera named man of the match |url=https://www.uefa.com/uefaeuropaleague/news/0250-0c51179e21ca-099762eca656-1000--herrera-named-man-of-the-match/ |work=[[UEFA]] |date=24 May 2017 |access-date=24 May 2017}}</ref>
+| referee            = [[Antonio López Nieto]] ([[Royal Spanish Football Federation|Spain]])<ref name="match officials">{{cite web |url=http://www.hurriyetdailynews.com/spaniard-ref-for-the-final.aspx?pageID=438&n=spaniard-ref-for-the-final-2000-05-17 |title=Spaniard ref for the final |work=Hürriyet Daily News |date=17 May 2000 |access-date=19 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140728050442/http://www.hurriyetdailynews.com/spaniard-ref-for-the-final.aspx?pageID=438&n=spaniard-ref-for-the-final-2000-05-17 |archive-date=28 July 2014}}</ref>
+| attendance         = 38,919<ref name="handbook"/>
+| weather            = Light rain<br />{{convert|13|°C|°F|abbr=on}}<br />94% [[humidity]]<ref>{{cite web |url=http://www.wunderground.com/history/airport/EKCH/2000/5/17/DailyHistory.html?req_city=Copenhagen&req_state=&req_statename=Denmark |title=Weather information for Copenhagen, Denmark – Wednesday, May 17, 2000 |work=Weather Underground |publisher=The Weather Company |access-date=4 August 2014}}</ref>
+| previous           = [[1999 UEFA Cup final|1999]]
+| next               = [[2001 UEFA Cup final|2001]]
+}}
+The '''2000 UEFA Cup final''' was a [[Association football|football]] match that took place on 17 May 2000 at [[Telia Parken|Parken Stadium]] in Copenhagen, Denmark to decide the winner of the [[1999–2000 UEFA Cup]]. The game event pitted [[Galatasaray S.K. (football)|Galatasaray]] of Turkey and [[Arsenal F.C.|Arsenal]] of England, and was the final match of the 1999–2000 season, the 29th final of Europe's second largest club football competition, the [[UEFA Europa League|UEFA Cup]]. It was Galatasaray's first appearance in a final of a European tournament and Arsenal's first UEFA Cup final.
+
+Both clubs competed in the [[1999–2000 UEFA Champions League]] first group stage, with each team finishing in third place; Galatasaray behind [[Chelsea F.C.|Chelsea]] and [[Hertha BSC]] and Arsenal behind [[FC Barcelona|Barcelona]] and [[ACF Fiorentina|Fiorentina]], thus exiting the competition, and qualifying for the third round of the UEFA Cup. From there, the two sides advanced through the fourth round, the quarter-finals and the semi-finals to progress to the final. Galatasaray overcame [[Bologna FC 1909|Bologna]], [[Borussia Dortmund]], [[RCD Mallorca|Mallorca]] and [[Leeds United F.C.|Leeds United]] on their way, while Arsenal defeated [[FC Nantes|Nantes]], [[Deportivo de La Coruña|Deportivo La Coruña]], [[SV Werder Bremen|Werder Bremen]] and [[RC Lens|Lens]].
+
+The match was attended by 38,919 spectators, as Galatasaray won 4–1 on penalties following extra time, making it the first time for a Turkish side to win a European honour. They also obtained a [[Treble (association football)|Treble]], having also won the Turkish league championship and the Turkish domestic cup titles. As a result of their triumph, Galatasaray became the first UEFA Cup winner to compete for the [[UEFA Super Cup]], following the dissolution of the [[UEFA Cup Winners' Cup]], and also initially qualified for the later-cancelled [[2001 FIFA Club World Championship]]. The final was marred by the [[2000 UEFA Cup final riots|riots between supporters of the two sides]].
+
+==Route to the final==
+{{further|1999–2000 UEFA Champions League|1999–2000 UEFA Cup}}
+
+{|class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+!Round
+!colspan=4|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|- bgcolor=#c1e0ff
+|colspan=9|'''[[1999–2000 UEFA Champions League|UEFA Champions League]]'''
+|- bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[1999–2000 UEFA Champions League qualifying rounds|Qualifying rounds]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|AUT}} [[SK Rapid Wien|Rapid Wien]]
+|4–0
+|[[1999–2000 UEFA Champions League#Third qualifying round|3–0]] (A)
+|[[1999–2000 UEFA Champions League#Third qualifying round|1–0]] (H)
+|bgcolor=#c1e0ff|Third qualifying round
+|colspan=4|Bye
+|- bgcolor=#c1e0ff
+|Opponent
+|colspan=3|Result
+|[[1999–2000 UEFA Champions League first group stage|First group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|GER}} [[Hertha BSC]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Galatasaray v Hertha BSC|2–2]] (H)
+|bgcolor=#c1e0ff|Matchday 1
+|align=left|{{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Fiorentina v Arsenal|0–0]] (A)
+|-
+|align=left|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Milan v Galatasaray|1–2]] (A)
+|bgcolor=#c1e0ff|Matchday 2
+|align=left|{{fbaicon|SWE}} [[AIK Fotboll|AIK]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Arsenal v AIK|3–1]] (H)
+|-
+|align=left|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Chelsea v Galatasaray|0–1]] (A)
+|bgcolor=#c1e0ff|Matchday 3
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Barcelona v Arsenal|1–1]] (A)
+|-
+|align=left|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Galatasaray v Chelsea|0–5]] (H)
+|bgcolor=#c1e0ff|Matchday 4
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Arsenal v Barcelona|2–4]] (H)
+|-
+|align=left|{{fbaicon|GER}} [[Hertha BSC]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Hertha BSC v Galatasaray|4–1]] (A)
+|bgcolor=#c1e0ff|Matchday 5
+|align=left|{{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Arsenal v Fiorentina|0–1]] (H)
+|-
+|align=left|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Galatasaray v Milan|3–2]] (H)
+|bgcolor=#c1e0ff|Matchday 6
+|align=left|{{fbaicon|SWE}} [[AIK Fotboll|AIK]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#AIK v Arsenal|3–2]] (A)
+|-
+|colspan=4 align=center valign=top|'''[[1999–2000 UEFA Champions League group stage#Group H|Group H]] third place'''
+{{:1999–2000 UEFA Champions League group stage|transcludesection=Group H|show_matches=n|only_pld_pts=yes|showteam=GAL}}
+|bgcolor=#c1e0ff|Final standings
+|colspan=4 align=center valign=top|'''[[1999–2000 UEFA Champions League group stage#Group B|Group B]] third place'''
+{{:1999–2000 UEFA Champions League group stage|transcludesection=Group B|show_matches=n|only_pld_pts=yes|showteam=ARS}}
+|- bgcolor=#c1e0ff
+|colspan=9|'''[[1999–2000 UEFA Cup|UEFA Cup]]'''
+|- bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|ITA}} [[Bologna FC 1909|Bologna]]
+|3–2
+|[[1999–2000 UEFA Cup final phase#Bologna v Galatasaray|1–1]] (A)
+|[[1999–2000 UEFA Cup final phase#Galatasaray v Bologna|2–1]] (H)
+|style="background:#c1e0ff;"|[[1999–2000 UEFA Cup final phase#Third round|Third round]]
+|align=left|{{fbaicon|FRA|1974}} [[FC Nantes|Nantes]]
+|6–3
+|[[1999–2000 UEFA Cup final phase#Arsenal v Nantes|3–0]] (H)
+|[[1999–2000 UEFA Cup final phase#Nantes v Arsenal|3–3]] (A)
+|-
+|align=left|{{fbaicon|GER}} [[Borussia Dortmund]]
+|2–0
+|[[1999–2000 UEFA Cup final phase#Borussia Dortmund v Galatasaray|2–0]] (A)
+|[[1999–2000 UEFA Cup final phase#Galatasaray v Borussia Dortmund|0–0]] (H)
+|style="background:#c1e0ff;"|[[1999–2000 UEFA Cup final phase#Fourth round|Fourth round]]
+|align=left|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|6–3
+|[[1999–2000 UEFA Cup final phase#Arsenal v Deportivo La Coruña|5–1]] (H)
+|[[1999–2000 UEFA Cup final phase#Deportivo La Coruña v Arsenal|1–2]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[RCD Mallorca|Mallorca]]
+|6–2
+|[[1999–2000 UEFA Cup final phase#Mallorca v Galatasaray|4–1]] (A)
+|[[1999–2000 UEFA Cup final phase#Galatasaray v Mallorca|2–1]] (H)
+|style="background:#c1e0ff;"|[[1999–2000 UEFA Cup final phase#Quarter-finals|Quarter-finals]]
+|align=left|{{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|6–2
+|[[1999–2000 UEFA Cup final phase#Arsenal v Werder Bremen|2–0]] (H)
+|[[1999–2000 UEFA Cup final phase#Werder Bremen v Arsenal|4–2]] (A)
+|-
+|align=left|{{fbaicon|ENG}} [[Leeds United F.C.|Leeds United]]
+|4–2
+|[[1999–2000 UEFA Cup final phase#Galatasaray v Leeds United|2–0]] (H)
+|[[1999–2000 UEFA Cup final phase#Leeds United v Galatasaray|2–2]] (A)
+|style="background:#c1e0ff;"|[[1999–2000 UEFA Cup final phase#Semi-finals|Semi-finals]]
+|align=left|{{fbaicon|FRA|1974}} [[RC Lens|Lens]]
+|3–1
+|[[1999–2000 UEFA Cup final phase#Arsenal v Lens|1–0]] (H)
+|[[1999–2000 UEFA Cup final phase#Lens v Arsenal|2–1]] (A)
+|}
+
+===Galatasaray===
+[[File:Leeds United-Galatasaray match in 20 April 2000.jpg|thumb|Galatasaray playing Leeds United during the second leg match at Elland Road]]
+Galatasaray were required to qualify for the group stage, as Turkey's country coefficient only held qualifying places.<ref name="format">{{cite news |title=UEFA Champions League: 1999/2000 Format explained |url=https://www.rsssf.org/miscellaneous/ecfaq-uefa1.html |work=[[UEFA]] |publisher=Rec.Sport.Soccer Statistics Foundation |date=20 May 1999 |access-date=24 August 2014}}</ref> The Turks entered the third qualifying round of the [[1999–2000 UEFA Champions League]], the final qualifying game of the competition, where they competed against [[SK Rapid Wien|Rapid Wien]] in two matches.<ref>{{cite news |first=Okan Steven |last=Bassey |title=Rapid Vienna meets with its nemesis Cim Bom, again |url=http://www.hurriyetdailynews.com/default.aspx?pageid=438&n=rapid-vienna-meets-with-its-nemesis-cim-bom-again-1999-08-13 |work=Hürriyet Daily News |date=13 August 1999 |access-date=24 August 2014}}</ref> Galatasaray won the first leg 3–0 at the [[Ernst-Happel-Stadion]],<ref>{{cite news |title=Viyana'da tur valsi 3–0 |url=http://webarsiv.hurriyet.com.tr/1999/08/12/136050.asp |work=Hürriyet |date=12 August 1999 |access-date=24 August 2014 |language=tr |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303221358/http://webarsiv.hurriyet.com.tr/1999/08/12/136050.asp |url-status=dead }}</ref> and earned their spot in the first group stage following a 1–0 win at their home arena, [[Ali Sami Yen Stadium]] in the decisive leg.<ref>{{cite news |title=Cim Bom puts a smile back on faces of Turks |url=http://www.hurriyetdailynews.com/cim-bom-puts-a-smile-back-on-faces-of-turks.aspx?pageID=438&n=cim-bom-puts-a-smile-back-on-faces-of-turks-1999-08-27 |work=Hürriyet Daily News |date=27 August 1999 |access-date=24 August 2014}}</ref> Galatasaray were scheduled to take part in Group G, containing [[Chelsea F.C.|Chelsea]], [[Hertha BSC]] and [[AC Milan|Milan]].<ref name="champions_league_draw">{{cite news |title=Sport: Football – Draw goes easy on Man Utd |url=https://news.bbc.co.uk/2/hi/sport/football/430999.stm |work=BBC News |date=26 August 1999 |access-date=24 August 2014}}</ref> Six matches were played, as they recorded a total two wins, one draw and three defeats,<ref>{{cite web |url=https://news.bbc.co.uk/2/hi/sport/football/champions_league/533634.stm |title=Champions League stage one tables |work=BBC News |publisher=BBC |date=23 November 1999 |access-date=24 August 2014}}</ref> thus descending into the [[1999–2000 UEFA Cup#Third round|third round of the UEFA Cup]].<ref>{{cite news |title=Il Milan beffato bel finale fuori anche calla Coppa Uefa |url=http://www.repubblica.it/online/sport/champion/champion/champion.html |work=La Repubblica |date=3 November 1999 |access-date=26 August 2014 |language=it}}</ref>
+
+Galatasaray faced [[Bologna FC 1909|Bologna]] in the competition's third round.<ref name="rounds">{{cite news |title=The road to Copenhagen |url=https://news.bbc.co.uk/1/hi/sport/football/750505.stm |work=BBC News |publisher=BBC |date=16 May 2000 |access-date=20 August 2014}}</ref> The first game was played at [[Stadio Renato Dall'Ara]], which ended in a 1–1 draw; the Italian side took the lead after a [[Giuseppe Signori]] goal during the second half, before [[Hakan Şükür]] levelled the score, with eight minutes remaining.<ref>{{cite news |title=Bologna beffato bel finale Solo un pari con i turchi |url=http://www.repubblica.it/online/sport/marte/bologna/bologna.html |work=La Repubblica |date=23 November 1999 |access-date=20 August 2014 |language=it}}</ref> At home, the Turkish side scored twice during the first half, and conceded once, as they won the match 2–1, and the overall leg 3–2.<ref>{{cite news |title=Bologna eliminato |url=http://www2.raisport.rai.it/news/rubriche/coppe978/199912/09/384ff2df049fa/ |work=Rai Sport |publisher=Radiotelevisione italians S.p.A. |date=9 December 1999 |access-date=20 August 2014 |language=it |archive-url=https://web.archive.org/web/20160304105148/http://www2.raisport.rai.it/news/rubriche/coppe978/199912/09/384ff2df049fa/ |archive-date=4 March 2016 |url-status=dead }}</ref> Galatasaray were pitted against [[Borussia Dortmund]] in the fourth round.<ref name="rounds"/> ''Gala'' won 2–0 away at [[Westfalenstadion]],<ref>{{cite news |title=Galatasaray eroberte Dortmund: Nie gefährdeter Sieg der Gäste |url=https://www.kicker.de/dortmund-gegen-galatasaray-2000-europa-league-507109/spielbericht |work=Kicker |date=2 March 2000 |access-date=20 August 2014 |language=de}}</ref> while a scoreless draw in the homecoming match was enough for Galatasaray to see them through.<ref>{{cite news |title=Uefa-Cup II: Planlos, schwach, Borussia Dortmund |url=http://www.spiegel.de/sport/fussball/uefa-cup-ii-planlos-schwach-borussia-dortmund-a-68434.html |work=Der Spiegel |date=9 March 2000 |access-date=20 August 2014 |language=de}}</ref>
+
+In the quarter-finals, Galatasaray's opponents were [[RCD Mallorca|Mallorca]].<ref name="rounds"/> They won the first match 4–1, which was played at [[Iberostar Stadium|Son Moix]].<ref>{{cite news |title=Turkish delight in Istanbul |url=http://www.independent.ie/sport/turkish-delight-in-istanbul-26122263.html |work=Irish Independent |date=17 March 2000 |access-date=20 August 2014}}</ref> They booked their place in the next round by clinching a 2–1 home victory in the return leg, winning 6–2 on aggregate.<ref>{{cite news |title=Galatasaray 2–1 Real Mallorca |url=https://news.bbc.co.uk/2/hi/sport/football/688750.stm |work=BBC News |publisher=BBC |date=23 March 2000 |access-date=20 August 2014}}</ref> Galatasaray were up against [[Leeds United F.C.|Leeds United]] in the semi-finals.<ref name="rounds"/> The Istanbul side began their first game on home soil with a 2–0 win, following goals by Şükür and [[Capone (footballer)|Capone]].<ref>{{cite news |title=Leeds fall short of glory |url=https://news.bbc.co.uk/2/hi/sport/football/721107.stm |work=BBC News |publisher=BBC |date=20 April 2000 |access-date=20 August 2014}}</ref> At [[Elland Road]], their second match ended in a 2–2 stalemate, with [[Gheorghe Hagi]] and Şükür netting, thus winning the tie 4–2 and proceeding to the final.<ref>{{cite news |title=Galatasaray has final word at Leeds |url=http://espn.go.com/soccer/news/2000/0420/493348.html |archive-url=https://web.archive.org/web/20001117180000/http://espn.go.com/soccer/news/2000/0420/493348.html |url-status=dead |archive-date=17 November 2000 |publisher=ESPN (Entertainment and Sports Programming Network) |agency=Reuters |date=20 April 2000 |access-date=20 August 2014}}</ref>
+
+===Arsenal===
+Arsenal qualified automatically into the Champions League group stage because of England's country coefficient.<ref name="format"/> They were drawn in Group B, along with [[AIK Fotboll|AIK]], [[FC Barcelona|Barcelona]] and [[ACF Fiorentina|Fiorentina]].<ref name="champions_league_draw"/> Each club played six matches, with Arsenal registering two victories, two draws and two defeats.<ref name="group_b">{{cite web |url=http://www.uefa.com/ucl/Standings/Results_new.asp?Season=2000&MatchDay=6&Group=B&Round=1 |title=Group B standings |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=24 August 2014 |archive-url=https://web.archive.org/web/20000606065731/http://www.uefa.com/ucl/Standings/Results_new.asp?Season=2000&MatchDay=6&Group=B&Round=1 |archive-date=6 June 2000}}</ref> This meant they finished in third place, one point behind second place holders Fiorentina,<ref name="group_b"/> and hence entered the third round stage of the UEFA Cup.<ref>{{cite news |first=David |last=Lacey |title=Batistuta blasts the Gunners out |url=https://www.theguardian.com/football/1999/oct/28/championsleague.sport |work=The Guardian |date=28 October 1999 |access-date=26 August 2014}}</ref>
+
+Arsenal competed against [[FC Nantes|Nantes]] in the third round of the contest.<ref name="rounds"/> At their home venue, [[Arsenal Stadium]], they defeated the French club 3–0,<ref>{{cite news |first=Jon |last=Brodkin |title=Arsenal enjoy homecoming parade |url=https://www.theguardian.com/football/1999/nov/26/newsstory.sport |work=Theguardian.com |date=26 November 1999 |access-date=21 August 2014}}</ref> before recording a 3–3 draw at the [[Stade de la Beaujoire]], ensuring ''the Gunners'' a 6–3 aggregate victory.<ref>{{cite news |first=Bill |last=Pierce |title=Football: French duo seal Arsenal's advance |url=https://www.independent.co.uk/sport/football-french-duo-seal-arsenals-advance-1131518.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football-french-duo-seal-arsenals-advance-1131518.html |archive-date=1 May 2022 |url-access=subscription |work=The Independent |date=10 December 1999 |access-date=21 August 2014}}{{cbignore}}</ref> They battled [[Deportivo de La Coruña|Deportivo La Coruña]] in the fourth round.<ref name="rounds"/> Arsenal played at their home ground in the first match, and comprehensively beat the Spanish outfit by five goals to one,<ref>{{cite news |title=Gunners blow away Deportivo |url=https://news.bbc.co.uk/2/hi/sport/football/664212.stm |work=BBC News |publisher=BBC |date=2 March 2000 |access-date=21 August 2014}}</ref> before suffering a 2–1 loss at [[Estadio Riazor|Estadio Municipal de Riazor]], which was still enough to take the English side to the next round on aggregate.<ref>{{cite news |title=Arsenal stroll into quarters |url=https://news.bbc.co.uk/2/hi/sport/football/672207.stm |work=BBC News |publisher=BBC |date=9 March 2000 |access-date=21 August 2014}}</ref>
+
+[[SV Werder Bremen|Werder Bremen]] were next up in the quarter-finals.<ref name="rounds"/> Goals apiece by [[Thierry Henry]] and [[Freddie Ljungberg]] helped them to a 2–0 victory at home.<ref>{{cite news |title=Gunners blaze into Bremen |url=https://news.bbc.co.uk/2/hi/sport/football/680342.stm |work=BBC News |publisher=BBC |date=16 March 2000 |access-date=21 August 2014}}</ref> Arsenal sealed their place in the semi-finals in the second leg played at the [[Weserstadion]], a match which they won 4–2 after [[Ray Parlour]]'s hat-trick and a lone Henry goal to register a 6–2 aggregate win.<ref>{{cite news |first=Jon |last=Brodkin |title=Parlour's goals do the trick |url=http://www.ireland.com/newspaper/sport/2000/0324/soc2.htm |work=The Irish Times |date=24 March 2000 |access-date=21 August 2014 |archive-url=https://web.archive.org/web/20001028032550/http://www.ireland.com/newspaper/sport/2000/0324/soc2.htm |archive-date=28 October 2000}}</ref> In the semi-finals, Arsenal collided with [[RC Lens|Lens]].<ref name="rounds"/> The first leg took place at home, and ''the Gunners'' won by one goal to nil, through an early goal scored by [[Dennis Bergkamp]].<ref>{{cite news |title=Gunners fail to build on Bergkamp's early strike; Arsenal 1 Lens 0 |url=http://www.thefreelibrary.com/Gunners+fail+to+build+on+Bergkamp's+early+strike%3B+Arsenal+1+Lens+0.-a061360359 |work=The Birmingham Post |date=7 April 2000 |access-date=21 August 2014}}</ref> They advanced at [[Stade Félix-Bollaert]] with a 2–1 victory, overall winning 3–1 to reach the final.<ref>{{cite news |title=Henry, Kanu give Arsenal place in final |url=http://espn.go.com/soccer/news/2000/0420/493338.html |archive-url=https://web.archive.org/web/20050427140833/http://espn.go.com/soccer/news/2000/0420/493338.html |url-status=dead |archive-date=27 April 2005 |publisher=ESPN (Entertainment and Sports Programming Network) |agency=Reuters |date=20 April 2000 |access-date=21 August 2014}}</ref>
+
+==Pre-match==
+===Background===
+Galatasaray and Arsenal met each other for the first time in a European football competition, though the Turkish outfit had faced English clubs formerly on eight occasions.<ref>{{cite news |title=Galatasaray'ın İngiliz karnesi kötü |url=http://arsiv.ntvmsnbc.com/news/648.asp |work=NTV MSNBC |date=12 May 2000 |access-date=21 August 2014 |language=tr}}</ref> Their first was against [[Manchester United F.C.|Manchester United]], in the [[1993–94 UEFA Champions League|1993–94 Champions League]] second round, which they won 3–3 on [[Away goals rule|away goals]] in a two-legged match.<ref>{{cite news |first=Joe |last=Lovejoy |title=Turks find delight in upstaging United: Cantona rescues Old Trafford record – Graham's Gunners have measure of Standard – Portuguese pride dented |url=https://www.independent.co.uk/sport/football-turks-find-delight-in-upstaging-united-cantona-rescues-old-trafford-record--grahams-gunners-have-measure-of-standard--portuguese-pride-dented-1512071.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football-turks-find-delight-in-upstaging-united-cantona-rescues-old-trafford-record--grahams-gunners-have-measure-of-standard--portuguese-pride-dented-1512071.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |work=The Independent |date=21 October 1993 |access-date=21 August 2014}}{{cbignore}}</ref><ref>{{cite news |first=Joe |last=Lovejoy |title=European football: United in disarray as Turks end the dream: Cantona sent off as England's finest fail |url=https://www.independent.co.uk/sport/european-football-united-in-disarray-as-turks-end-the-dream-cantona-sent-off-as-englands-finest-fail-1502103.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/european-football-united-in-disarray-as-turks-end-the-dream-cantona-sent-off-as-englands-finest-fail-1502103.html |archive-date=1 May 2022 |url-access=subscription |work=The Independent |date=4 November 1993 |access-date=21 August 2014}}{{cbignore}}</ref> Both teams were reunited in the [[1994–95 UEFA Champions League group stage|following season]] of the group stage, which concluded in a goalless tie and a Galatasaray blow.<ref>{{cite news |title=United Draws Galatasaray, Not Blood |url=http://www.themoscowtimes.com/news/article/united-draws-galatasaray-not-blood/347601.html |work=The Moscow Times |date=30 September 1994 |access-date=21 August 2014}}</ref><ref>{{cite news |first=Ian |last=Paul |title=Four United graduates prove UEFA have degree of sense |url=http://www.heraldscotland.com/sport/spl/aberdeen/four-united-graduates-prove-uefa-have-degree-of-sense-1.704300 |work=The Herald |date=9 December 1994 |access-date=21 August 2014}}</ref> Other meetings include against [[West Bromwich Albion F.C.|West Bromwich Albion]] in the commencing round of the [[1978–79 UEFA Cup]],<ref>{{cite news |title=West Brom dominate |newspaper=The Guardian |page=20 |date=14 September 1978 }}</ref><ref>{{cite news |title=Liverpool beaten |newspaper=The Guardian |page=1 |date=28 September 1978 }}</ref> and Chelsea in this year's Champions League campaign.<ref>{{cite news |title=Petrescu keeps Chelsea dreams alive |url=https://news.bbc.co.uk/2/hi/sport/football/champions_league/460264.stm |work=BBC News |publisher=BBC |date=28 September 1999 |access-date=21 August 2014}}</ref><ref>{{cite news |first=Rob |last=Hughes |title=Champions League: Chelsea Stays Cool in Hell's Inferno |url=https://www.nytimes.com/1999/10/22/sports/22iht-soccer.2.t_7.html |work=The New York Times |date=22 October 1999 |access-date=21 August 2014}}</ref> Arsenal by contrast ran into Turkish opposition twice, both of them against [[Fenerbahçe S.K. (football)|Fenerbahçe]] in the [[1979–80 European Cup Winners' Cup]] first round; the home game was won by the English side 2–0, while the away leg ended in a 0–0 draw.<ref>{{cite news |title=Flashback: Arsenal 2–0 Fenerbahce – 1979 |url=http://www.arsenal.com/news/news-archive/flashback-arsenal-2-0-fenerbahce-1979 |publisher=Arsenal Football Club |date=4 November 2008 |access-date=21 August 2014 |archive-url=https://web.archive.org/web/20140826121008/http://www.arsenal.com/news/news-archive/flashback-arsenal-2-0-fenerbahce-1979 |archive-date=26 August 2014 |url-status=dead}}</ref><ref>{{cite news |first=Robert |last=Armstrong |title=Turks lack Arsenal's flair |work=The Guardian |page=25 |date=3 October 1979}}</ref>
+
+Arsenal had a better European record, compared to Galatasaray going into the match; they defeated [[R.S.C. Anderlecht|Anderlecht]] with a 4–3 aggregate winning result, in the [[1970 Inter-Cities Fairs Cup Final|final]] of the [[1969–70 Inter-Cities Fairs Cup]].<ref>{{cite news |first=Albert |last=Barham |title=Kennedy gives Arsenal hope |work=The Guardian |page=31 |date=23 April 1970}}</ref><ref>{{cite news |first=Albert |last=Barham |title=Triumph for Arsenal |work=The Guardian |page=21 |date=29 April 1970}}</ref> The London-based club reached the [[UEFA Cup Winners' Cup|Cup Winners' Cup]] finales three times, in [[1979–80 European Cup Winners' Cup|1980]], where they suffered a 5–4 defeat in a penalty shoot-out to [[Valencia CF|Valencia]], following a 0–0 stalemate;<ref>{{cite news |first=Robert |last=Armstrong |title=Arsenal pay the penalty |work=The Guardian |page=22 |date=15 May 1980 }}</ref> Arsenal also reached the [[1993–94 European Cup Winners' Cup|1994]] final, winning 1–0 over [[Parma Calcio 1913|Parma]],<ref>{{cite news |first=Joe |last=Lovejoy |title=Football / European Cup-Winners Cup: Smith's strike brings Arsenal European glory: Battling Londoners make light of the loss of Wright and Jensen |url=https://www.independent.co.uk/sport/football--european-cupwinners-cup-smiths-strike-brings-arsenal-european-glory-battling-londoners-make-light-of-the-loss-of-wright-and-jensen-1433888.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football--european-cupwinners-cup-smiths-strike-brings-arsenal-european-glory-battling-londoners-make-light-of-the-loss-of-wright-and-jensen-1433888.html |archive-date=1 May 2022 |url-access=subscription |work=The Independent |date=5 May 1994 |access-date=21 August 2014}}{{cbignore}}</ref> and the [[1994–95 UEFA Cup Winners' Cup|following edition]], losing 2–1 at the hands of [[Real Zaragoza|Zaragoza]].<ref>{{cite news |first=Glenn |last=Moore |title=Extraordinary Nayim strike denies Arsenal |url=https://www.independent.co.uk/sport/extraordinary-nayim-strike-denies-arsenal-1619106.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/extraordinary-nayim-strike-denies-arsenal-1619106.html |archive-date=1 May 2022 |url-access=subscription |work=The Independent |date=11 May 1995 |access-date=21 August 2014}}{{cbignore}}</ref> Their 1994 success led to them qualifying for that year's [[1994 European Super Cup|European Super Cup]], where they were beaten 2–0 by Milan on aggregate in two games.<ref>{{cite news |first=Glenn |last=Moore |title=Highbury welcomes Merson back |url=https://www.independent.co.uk/sport/highbury-welcomes-merson-back-1571207.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/highbury-welcomes-merson-back-1571207.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |work=The Independent |date=2 February 1995 |access-date=21 August 2014}}{{cbignore}}</ref><ref>{{cite news |title=Milan Captures Super Cup |url=http://www.themoscowtimes.com/news/article/milan-captures-super-cup/342868.html |work=The Moscow Times |date=10 February 1995 |access-date=21 August 2014}}</ref> This was Arsenal's first UEFA Cup (sixth in total) European final.<ref>{{cite web |url=http://www.uefa.com/teamsandplayers/teams/club=52280/profile/history/index.html |archive-url=https://web.archive.org/web/20130328002556/http://www.uefa.com/teamsandplayers/teams/club=52280/profile/history/index.html |url-status=dead |archive-date=28 March 2013 |title=Arsenal profile – History |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=21 August 2014}}</ref> The club were considered favorites to win the match.<ref>{{cite news |title=Appeal for Uefa Cup calm |url=https://news.bbc.co.uk/2/hi/sport/football/750969.stm |work=BBC News |publisher=BBC |date=16 May 2000 |access-date=25 August 2014}}</ref>
+
+Galatasaray entered the final in search for a [[Treble (association football)|Treble]].<ref>{{cite news |title=Galatasaray confident of treble victory |url=http://www.iol.co.za/sport/galatasaray-confident-of-treble-victory-1.339351 |work=Independent Online (South Africa) |date=15 May 2000 |access-date=21 August 2014}}</ref> Their fourteenth and fourth successive Turkish [[1999–2000 1.Lig|league title]] was confirmed on the final matchday.<ref>{{cite news |title=Galatasaray clinches title with Besiktas defeat |url=http://sportsillustrated.cnn.com/soccer/world/news/2000/05/14/turkish_rdp_ap/ |work=CNN Sports Illustrated |publisher=Cable News Network |agency=Reuters |date=14 May 2000 |access-date=29 July 2013 |archive-url=https://web.archive.org/web/20080410062344/http://sportsillustrated.cnn.com/soccer/world/news/2000/05/14/turkish_rdp_ap/ |archive-date=10 April 2008}}</ref> The Turkish club added the domestic cup to their trophy cabinet, after [[Antalyaspor]] was defeated with a 5–3 victory in the [[1999–2000 Turkish Cup|2000 Turkish Cup Final]].<ref>{{cite news |title=Turkey's Galatasaray on course for treble |url=http://sportsillustrated.cnn.com/soccer/world/news/2000/05/04/cnn_text/ |work=CNN Sports Illustrated |publisher=Cable News Network |date=4 May 2000 |access-date=29 July 2013 |archive-url=https://web.archive.org/web/20140203035104/http://sportsillustrated.cnn.com/soccer/world/news/2000/05/04/cnn_text/ |archive-date=3 February 2014}}</ref> The side participated in their first UEFA Cup and European competition final,<ref name="bbc">{{cite news |title=Penalty heartbreak for Arsenal |url=https://news.bbc.co.uk/2/hi/sport/football/752751.stm |work=BBC News |publisher=BBC (BBC |date=17 May 2000 |access-date=28 July 2014}}</ref> while also becoming the first ever team from Turkey to make the final in a UEFA club football competition.<ref>{{cite news|title=Galatasaray passion could be key |url=http://football.sports.com/euro_soccer/u/ce/multi/0,2138,2373940,00.html |work=Football Sports |agency=Reuters |date=16 May 2000 |access-date=14 June 2016 |archive-url=https://web.archive.org/web/20000620003633/http://football.sports.com/euro_soccer/u/ce/multi/0%2C2138%2C2373940%2C00.html |archive-date=20 June 2000 |url-status=dead }}</ref>
+
+===Ticketing===
+Before the final, both finalists were awarded 12,000 tickets.<ref name="Ticketing">{{cite news |first=Adam |last=Sills |title=Ticket sale sparks Arsenal final fears |url=https://www.theguardian.com/football/2000/apr/25/newsstory.sport6 |work=The Guardian |date=25 April 2000 |access-date=28 July 2013}}</ref> The [[Danish Football Union]] announced that 9,000 tickets would be offered, for sale to the public, while the remaining 3,000 were sold to other European countries.<ref>{{cite news |title=UEFA Cup-finalen i København: Udsolgt |url=http://www.dbu.dk/Nyheder/2000/April/uefa_cup-finalen_i_koebenhavn_udsolgt.aspx |work=Danish Football Union |date=24 April 2000 |access-date=28 July 2013 |language=da}}</ref> UEFA allocated another 3,000 tickets to their officials and VIP members.<ref name="Ticketing"/> Problems ensued after it was revealed that Galatasaray had been charging the tickets more than the original price, in order to prevent some football hooligans from entering the ground. The Turkish club's secretary general however, denied this and insisted that the tickets were being sold at their original price and to support the stadium and the club's other sporting activities.<ref>{{cite news |title=Galatasaray denies hiking tickets |url=http://sportsillustrated.cnn.com/soccer/world/news/2000/05/11/uefacup_final_ap/ |archive-url=https://archive.today/20070813054538/http://sportsillustrated.cnn.com/soccer/world/news/2000/05/11/uefacup_final_ap/ |url-status=dead |archive-date=13 August 2007 |work=CNN Sports Illustrated |publisher=Cable News Network |agency=Associated Press |date=11 May 2000 |access-date=28 July 2013 }}</ref>
+
+===Venue===
+[[File:Parken 1.jpg|thumb|Parken Stadium, the venue of the final]]
+[[Parken Stadium]] was selected as the venue for the final, after a decision made by the UEFA Executive Committee.<ref>{{cite news |title=Paris and Copenhagen awarded UEFA club competition finals |url=https://www.uefa.com/ |publisher=UEFA |access-date=25 July 2013 |url-status=live |archive-url=https://web.archive.org/web/19991114074746/http://www.uefa.com/ |archive-date=14 November 1999}}</ref> It is located in the [[Indre Østerbro]] territory in [[Copenhagen]];<ref>{{cite web|url=http://teliaparken.dk/om-parken/parkering/ |title=Parkering |work=Telia Parken |access-date=23 August 2014 |language=da |url-status=dead |archive-url=https://web.archive.org/web/20140826160733/http://teliaparken.dk/om-parken/parkering/ |archive-date=26 August 2014 }}</ref> the site was once known as [[Idrætsparken]],<ref>{{cite web |url=http://www.dbukoebenhavn.dk/oevrigt_indhold/DBUK_Historie/Spillestedernes%20historie/Idraetsparken.aspx |title=Idrætsparken |work=Danish Football Union |access-date=23 August 2014 |archive-url=https://web.archive.org/web/20141222235429/http://www.dbukoebenhavn.dk/oevrigt_indhold/DBUK_Historie/Spillestedernes%20historie/Idraetsparken.aspx |archive-date=22 December 2014 |url-status=dead }}</ref> with the opening premiere held in 1911.<ref name="stadium">{{cite news|title=Parkens historie |url=http://teliaparken.dk/presse/parkens-historie/ |work=Telia Parken |access-date=23 August 2014 |language=da |url-status=dead |archive-url=https://web.archive.org/web/20140826114454/http://teliaparken.dk/presse/parkens-historie/ |archive-date=26 August 2014 }}</ref> It was the home of the [[Denmark national football team]] and [[Kjøbenhavns Boldklub]]'s (KB) matches, until 1990,<ref>{{cite web |url=http://www.dbu.dk/landshold/Hall_of_Fame/Landsholdets%20historie |title=Landsholdets historie 1889– |work=Danish Football Union |access-date=23 August 2014 |language=da |archive-date=24 September 2014 |archive-url=https://web.archive.org/web/20140924122145/http://www.dbu.dk/landshold/Hall_of_Fame/Landsholdets%20historie |url-status=dead }}</ref><ref>{{cite web |url=http://www.foot.dk/logos/ECgamesStadium.asp?StadionID=24 |title=Samtlige Europa Cup-kampe for mesterhold / Champions League-kampe for mesterhold / Champions League-kampe spiller på Københavns Idrætspark |work=Foot.dk |access-date=23 August 2014 |language=da |archive-date=26 August 2014 |archive-url=https://web.archive.org/web/20140826133729/http://www.foot.dk/logos/ECgamesStadium.asp?StadionID=24 |url-status=dead }}</ref> when the venue underwent reconstruction by the Danish lending company Baltica Finans A/S,<ref name="stadium"/> with the former scrapped in favour of the new name, Parken Stadium.<ref name="stadium"/> The concept was supported by the Danish Football Union with a contract that all of Denmark's national games would take place at the stadium for fifteen years.<ref>{{cite news |title=DBU tilfreds med Parken |url=http://www.dbu.dk/Nyheder/2002/December/dbu_tilfreds_med_parken |work=Danish Football Union |date=12 December 2002 |access-date=23 August 2014 |language=da}}</ref> The price of the renovation was [[Danish krone|DKK]]640 million (£740&nbsp;million).<ref>{{cite news |first=Lars |last=Berendt |title=DBU forlænger med Parken |url=http://www.dbu.dk/Nyheder/2009/November/dbu_forlaenger_med_parken |work=Danish Football Union |date=17 November 2009 |access-date=23 August 2014 |language=da}}</ref> It made its debut two years later, in 1992,<ref name="stadium"/> and has since then been the home base for [[F.C. Copenhagen]]'s fixtures.<ref>{{cite news |title=Fodbold |url=http://www.parken.dk/fodbold/index.htm |work=Parken |access-date=27 August 2014 |archive-url=https://web.archive.org/web/20001011081742/http://www.parken.dk/fodbold/index.htm |archive-date=11 October 2000}}</ref>
+
+This was the second occasion that a major European final had been staged at Parken. The venue also hosted the [[1994 European Cup Winners' Cup Final|1994 Cup Winners' Cup Final]] between Arsenal and Parma.<ref>{{cite news |title=Arsenal, Galatasaray ready for final |url=http://theworldgame.sbs.com.au/article/2000/05/17/arsenal-galatasaray-ready-final |work=The World Game |publisher=Special Broadcasting Service |agency=Australian Associated Press |date=17 May 2000 |access-date=20 August 2014}}</ref>
+
+===Match ball===
+Adidas Terrestra Silverstream was the official match ball used in the final.<ref>{{cite web |first=Lars |last=Ronbog |url=http://www.gettyimages.co.uk/detail/news-photo/davala-%C3%BCmit-galatasaray-news-photo/503958557 |title=UEFA Cup finale Arsenal – Galatasaray, Parken |publisher=Getty Images |date=17 May 2000 |access-date=23 August 2014 |archive-date=3 September 2020 |archive-url=https://web.archive.org/web/20200903163040/https://www.gettyimages.co.uk/detail/news-photo/davala-%C3%BCmit-galatasaray-news-photo/503958557 |url-status=dead }}</ref> It was assembled and marketed by German sport firm [[Adidas]], and was the ninth ball in the European Championship series,<ref name="ball_evolution">{{cite news |title=Photos: The evolution adidas' official Euro 2012 match ball |url=http://sports.xin.msn.com/barclays-premier-league/photoviewer.aspx?cp-documentid=5646448&page=9#image=9 |work=Xinmsn |date=12 December 2011 |access-date=23 August 2014 |archive-url=https://web.archive.org/web/20140826120148/http://sports.xin.msn.com/barclays-premier-league/photoviewer.aspx?cp-documentid=5646448&page=9#image=9 |archive-date=26 August 2014 |url-status=dead }}</ref> as well as part of the [[Adidas Finale]].<ref>{{cite news |first=Carmen |last=Colino |title=Finale, el balón de la final de Glasgow |url=http://masdeporte.as.com/masdeporte/2002/04/20/polideportivo/1019276115_850215.html |work=Diario AS |date=20 April 2002 |access-date=23 August 2014 |language=es}}</ref> The ball's design was created by British independent brand specialist company Design Bridge,<ref name="match ball">{{cite news |first=Martin |last=Smith |title=Euro 2000 Diary |url=https://www.telegraph.co.uk/sport/4755047/Euro-2000-Diary.html |work=The Daily Telegraph |date=1 July 2000 |access-date=27 July 2014}}</ref> and influenced by the waters, in the Netherlands and Belgium.<ref name="ball_evolution"/> The ball contains synthetic foam layers, making it more comfortable to grip and smoother to control.<ref>{{cite news |title=Reporters with hunting knives become the hunted |url=https://www.thehindu.com/todays-paper/tp-miscellaneous/tp-others/reporters-with-hunting-knieves-become-the-hunted/article28020450.ece |archive-url=https://web.archive.org/web/20210818221300/https://www.thehindu.com/todays-paper/tp-miscellaneous/tp-others/reporters-with-hunting-knieves-become-the-hunted/article28020450.ece |url-status=live |archive-date=18 August 2021 |date=10 June 2000 |work=[[The Hindu]] |access-date=18 August 2021|url-access=subscription}}</ref> The Terrestra Silverstream was later unveiled as the official match ball of the [[UEFA Euro 2000]].<ref>{{cite news |title=Euro–2000: "Terrestra" a bola de cor prateada |url=http://www.record.xl.pt/Arquivo/interior.aspx?content_id=20832 |work=Record |date=14 December 1999 |access-date=23 August 2014 |language=pt |archive-date=21 May 2015 |archive-url=https://web.archive.org/web/20150521071947/http://www.record.xl.pt/Arquivo/interior.aspx?content_id=20832 |url-status=dead }}</ref>
+
+===Match officials===
+Before the final, a match official team from the [[Royal Spanish Football Federation]] was appointed, with [[Antonio Jesús López Nieto|Antonio López Nieto]] as the main referee of the final,<ref name="match_officials">{{cite news |title=UEFA Cup Final officials |url=http://www.arsenal.co.uk/content/uefa_ref.htm |work=Arsenal F.C. official website |date=15 May 2000 |access-date=28 July 2013 |archive-url=https://web.archive.org/web/20000918011407/http://www.arsenal.co.uk/content/uefa_ref.htm |archive-date=18 September 2000 |url-status=dead}}</ref> his second UEFA Cup final since [[1998 UEFA Cup Final|1998]] between [[Inter Milan]] and [[SS Lazio|Lazio]].<ref>{{cite news |title=La vigil di Lazio–Inter |url=http://www2.raisport.rai.it/news/rubriche/coppe978/199805/05/354e46db03bfc/ |work=Rai Sport |publisher=Radiotelevisione italians S.p.A. |date=5 May 1998 |access-date=20 August 2014 |language=it |archive-url=https://web.archive.org/web/20151222075626/http://www2.raisport.rai.it/news/rubriche/coppe978/199805/05/354e46db03bfc/ |archive-date=22 December 2015 |url-status=dead }}</ref> Nieto obtained his international referee badge in 1993,<ref>{{cite web |url=http://fifaworldcup.yahoo.com/en/t/rf/37316.html |title=Referees – Antonio López Nieto |publisher=FIFA (Fédération Internationale de Football Association) |access-date=27 July 2013 |archive-url=https://web.archive.org/web/20021009023917/http://fifaworldcup.yahoo.com/en/t/rf/37316.html |archive-date=9 October 2002}}</ref> and had previously taken charge of 30 European tournament games – 15 UEFA Champions League and 15 UEFA Cup matches.<ref name="profile">{{cite web |url=http://worldreferee.com/site/copy.php?linkID=804&linkType=referee&contextType=stats |title=Antonio López Nieto profile |work=Worldreferee |access-date=20 August 2014 |archive-date=2 January 2009 |archive-url=https://web.archive.org/web/20090102010648/http://worldreferee.com/site/copy.php?linkID=804&linkType=referee&contextType=stats |url-status=dead }}</ref> The Spaniard made his European debut in the second leg of the first-round tie between Manchester United and [[Budapest Honvéd FC|Kispest Honvéd]] in the [[1993–94 UEFA Champions League]].<ref name="profile"/><ref>{{cite news |title=López Nieto: El futbolista inglés se dedica a jugar y no a engañar al colegiado |url=http://hemeroteca.sevilla.abc.es/nav/Navigate.exe/hemeroteca/sevilla/abc.sevilla/1993/10/02/084.html |work=ABC Sevilla |publisher=ABC|date=2 October 1993 |access-date=20 August 2014 |language=es}}</ref> He was also present in the match referees squad during the [[UEFA Euro 1996 qualifying|UEFA Euro 1996 qualifiers]] and the [[UEFA Euro 1996|main event]],<ref name="profile"/> as well as at the [[1998 FIFA World Cup qualification (UEFA)|1998 FIFA World Cup qualifiers]].<ref name="profile"/>
+
+Nieto was joined by assistant referees Fernando Tresaco Gracia and Victoriano Giráldez Carrasco and fourth official Arturo Daudén Ibáñez.<ref name="match officials"/><ref name="match officials2">{{cite news |title=UEFA Cup Final officials |url=http://www.arsenal.co.uk/content/uefa_ref.htm |publisher=Arsenal Football Club |date=15 May 2000 |access-date=28 July 2013 |archive-url=https://web.archive.org/web/20000918011407/http://www.arsenal.co.uk/content/uefa_ref.htm |archive-date=18 September 2000 }}</ref>
+
+===Opening ceremony===
+An opening ceremony was held, prior to the match. At the start of the event, cheerleading girls dressed in pom-pom clothing stepped onto the football pitch to entertain the crowd; the routine also featured a small number of Danish–Turkish girls from a local school, performing a [[folk dance]] display containing Turkish elements.<ref name="ceremony">{{cite news |title=Stig Rossens største publikum |url=http://www.dbu.dk/Nyheder/2000/Maj/stig_rossens_stoerste_publikum |work=Danish Football Union |date=12 May 2000 |access-date=20 August 2014 |language=da}}</ref> The act was succeeded by an appearance from Danish pop singer and actor Stig Rossen, who sang an alternative version of the notable song "Wonderful Copenhagen".<ref name="ceremony"/><ref>{{cite news |first=Michael |last=Walker |title=Wasteful Arsenal pay the penalty |url=http://www.ireland.com/newspaper/sport/2000/0518/soc1.htm |work=The Irish Times |date=18 May 2000 |access-date=22 July 2014 |archive-url=https://web.archive.org/web/20000620041756/http://www.ireland.com/newspaper/sport/2000/0518/soc1.htm |archive-date=20 June 2000}}</ref> [[Prince Joachim of Denmark]], the youngest of [[Margrethe II of Denmark|Queen Margrethe II]] and [[Henrik, Prince Consort of Denmark|Prince Henrik]]'s two children, welcomed the opening ceremony by making a short speech to all the seated spectators in the stadium.<ref>{{cite news |title=Prins Joachim byder held verden velkommen |url=http://www.dbu.dk/Nyheder/2000/Maj/prins_joachim_byder_hele_verden_velkommen |work=Danish Football Union |date=12 May 2000 |access-date=20 August 2014 |language=da}}</ref><ref>{{cite news |url=http://www.cbc.ca/sports/soccer/gunners-favoured-over-galatasaray-in-uefa-cup-final-1.210706 |title=Gunners favored over Galatasaray in UEFA Cup final |work=CBC |publisher=[[Canadian Broadcasting Corporation]] |date=15 May 2000 |access-date=22 July 2014}}</ref>
+
+==Broadcasting==
+The final was made available on television, across 185 countries, with an estimated 500&nbsp;million viewers.<ref name="uefa_cup_final_broadcasting">{{cite news |title=UEFA Cup final on TV in 185 countries |url=http://www.hurriyetdailynews.com/default.aspx?pageid=438&n=uefa-cup-final-on-tv-in-185-countries-2000-05-17 |work=Hürriyet Daily News |agency=Reuters |date=17 May 2000 |access-date=27 July 2013}}</ref> Danish television channel [[DR1]] announced that they would use seventeen cameras, for the match coverage.<ref name="uefa_cup_final_broadcasting"/> In the United Kingdom, [[BBC One]], the main channel of the public television corporation, the [[BBC|British Broadcasting Corporation]] acquired the rights for the final;<ref>{{cite news |title=Gunners in Shoot-Out for Glory; UEFA Cup Final BBC 1, 7.30pm |url=http://www.thefreelibrary.com/Gunners+in+shoot-out+for+glory%3B+UEFA+Cup+Final+BBC+1,+7.30pm.-a062071790 |work=Daily Record |date=13 May 2000 |access-date=27 August 2014}}</ref> the network broadcast the event, with live commentary provided by veteran professional sports pundit and television presenter [[Barry Davies]], who was assisted by former English footballer [[Trevor Brooking]].<ref>{{cite AV media |people=Davies, Barry; Brooking, Trevor |date=17 May 2000 | title=2000 UEFA Cup Final |medium=Television production |publisher=BBC}}</ref> In the United Kingdom, the final came second in the overnight ratings list, with 9.1&nbsp;million viewers, behind an episode of ''[[Coronation Street]]''.<ref>{{cite news |title=Overnight ratings – Football scores with ITV and BBC viewers |url=http://www.broadcastnow.co.uk/overnight-ratings-football-scores-with-itv-and-bbc-viewers/1195164.article |work=Broadcast |date=26 May 2000 |access-date=20 August 2014 |url-access=subscription }}</ref> The game was shown on [[Fox Soccer|Fox Sports World]] in the United States.<ref>{{cite web |url=http://www.thefreelibrary.com/FOX+Sports+World+Kicks+Off+UEFA+Cup+2000+Sweepstakes%3B+Grand+Prize...-a060517124 |title=Fox Sports World kicks off UEFA Cup 2000 sweepstakes; grand prize winner to experience the UEFA Cup Final in Copenhagen |work=Business Wire |date=22 March 2000 |access-date=20 July 2014 |archive-date=28 July 2014 |archive-url=https://web.archive.org/web/20140728040118/http://www.thefreelibrary.com/FOX+Sports+World+Kicks+Off+UEFA+Cup+2000+Sweepstakes%3B+Grand+Prize...-a060517124 |url-status=dead }}</ref> In Turkey, the match was broadcast on the public television channel [[TRT 1]].<ref name="uefa_cup_final_broadcasting"/>
+
+==Match==
+
+===Summary===
+====First half====
+Arsenal started the match through a kick-off by Henry.<ref name="live_score">{{cite news |title=Galatasaray 0–0 Arsenal |url=https://www.theguardian.com/football/2000/may/17/uefa.sport5 |work=Theguardian.com |date=17 May 2000 |access-date=29 July 2013}}</ref> Three minutes into the match, captain [[Tony Adams]] attempted to clear the ball with a header,<ref name="report">{{cite news |first=Jon |last=Brodkin |title=Arsenal pay the penalty |url=https://www.theguardian.com/football/2000/may/18/uefa.sport1 |work=The Guardian |date=18 May 2000 |access-date=20 July 2014}}</ref> only for it to land at the feet of [[Arif Erdem]], who attempted a volley from outside the Arsenal area that was deflected on to the post, with Galatasaray being awarded a corner. Erdem took it, but failed to trouble the defence and the ball was easily cleared.<ref name="live_score"/> Arsenal responded via Bergkamp, who received the ball from [[Marc Overmars]]; Bergkamp attempted to outrun Galatasaray defenders [[Capone (footballer)|Capone]] and [[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]] and into their area, but he was unable to keep the ball in play.<ref name="live_score"/> Arsenal fashioned more chances, as Overmars won a one-on-one encounter against Capone, trying to reach Bergkamp, but the ball was easily read by Popescu and put out for a corner. The corner came to nothing, with [[Patrick Vieira]] trying to hit the ball, but an opportunity went to Henry, whose shot went over the bar.<ref name="report"/> A third of the match played, Arsenal were awarded a free-kick after [[Okan Buruk]] received a yellow card for a slide tackle on Vieira.<ref name="live_score"/>
+
+[[Martin Keown]] took the free-kick, which Popescu unsuccessfully attempted to clear, giving Overmars a shot on goal, a volley which went over. One minute later, Galatasaray's first opportunity came when Erdem received a straight ball from a Hagi-taken free-kick and took a shot, which goalkeeper [[David Seaman]] managed to keep out with his left hand for a corner. The corner was taken, but no Galatasaray player was available to direct the ball towards the goal. Arsenal would create more opportunities, when [[Sylvinho]] snatched the ball from Hagi and ran down Galatasaray's left, before putting in a cross to the running Henry, who was halted by a clearance from [[Bülent Korkmaz]].<ref name="live_score"/> As Galatasaray grew more into the game, Erdem exchanged passes with Şükür, whose bicycle kick went completely off target.<ref name="live_score"/> Arsenal began creating more chances – in the 35th minute, Overmars made a low powerful shot on goal, forcing [[Cláudio Taffarel]] to make a diving save.<ref name="live_score"/> Overmars then made another run into the area, but his attempt went across the goal. Galatasaray nearly took the lead with only two minutes of the first half remaining, when Şükür found Erdem, who beat the offside trap. However, his shot went just wide.<ref name="live_score"/>
+
+====Second half====
+Galatasaray kicked off the second half, with neither team having made any substitutions. During the third minute, Vieira picked out Parlour, but his shot hit the outside of the net. Galatasaray almost scored the opening goal, when [[Okan Buruk]] played in Hakan Şükür, whose shot hit the right post.<ref name="live_score"/> Arsenal attempted to strike, with Sylvinho passing Hagi, and finding Henry, who in turn put in a cross for Keown, only for his shot to go over.<ref name="live_score"/><ref name="report"/> Later, Parlour sent a long ball into the Galatasaray midfield, but no Arsenal player was there to pick up the ball.<ref name="live_score"/> A free-kick was given to Bergkamp after a foul on Overmars, but it was cleared with a Popescu header.<ref name="live_score"/> Galatasaray attempted an attack on the counter, with Capone giving the ball to Hagi, who lost his balance while preparing to take a shot. After receiving a pass, Hagi put in a wide cross for Şükür, but he was denied a shot on target after a clearance.<ref name="live_score"/> Arsenal had another chance, when Henry snatched the ball from Korkmaz, and entered the penalty area, only to see his shot to go off target.<ref name="live_score"/>
+
+A throw-in by Hagi led to Şükür attempting to reach Erdem, who was in the penalty area, but he was tackled and play continued,<ref name="live_score"/> which saw Arsenal attack on the counter under Parlour, whose volley went wide. Overmars then had an opportunity, after being given the ball by Henry, but the shot was off target.<ref name="live_score"/> In the 70th minute, Korkmaz exchanged passes with Erdem, but his effort was successfully blocked by [[Tony Adams]].<ref name="live_score"/> Three minutes later, Parlour attempted a bending cross for Henry, but Taffarel read it easily.<ref name="live_score"/> A well-played pass by [[Nwankwo Kanu]] ensured the ball reached Henry on the left area, who proceeded to give it to Overmars in the penalty area. Overmars's shot fell flat, but was still enough to force Taffarel to make a save.<ref name="live_score"/> With four minutes of normal time remaining, the Turks came close to a winning goal, when Şükür collected the ball from the centre and entered Arsenal's area, but lost his footing before he could make an effort on goal, allowing Seaman to pick up the ball. Two minutes of injury time were added on, just when a free-kick was awarded to Galatasaray.<ref name="live_score"/> Şükür took the shot, but the ball went around the wall and wide.<ref name="live_score"/> It proved to be the final event in normal time, as the match entered extra time.
+
+====Extra time====
+With the match entering extra time and the [[golden goal]] rule applying, both sides had chances to score the decisive goal. In the second minute, Henry beat two defenders to enter the opponent's area, but his shot went just across the goal.<ref name="live_score"/> Shortly after, Hagi received a straight red card,<ref name="live_score"/> after game footage showed the player holding and striking Adams in the back; the Arsenal captain was awarded a yellow card for hitting Hagi during the altercation.<ref name="game_summary_youtube">{{cite web|url=https://www.youtube.com/watch?v=_pcWD8XLhPI| archive-url=https://ghostarchive.org/varchive/youtube/20211114/_pcWD8XLhPI| archive-date=2021-11-14 | url-status=live|publisher=Galatasaray|title=Galatasaray 4 Arsenal 1 UEFA Cup Final (youtube.com)|date=2015-01-24|access-date=2017-08-13}}{{cbignore}}</ref> As a result, Arsenal began to put the Turkish side under pressure by creating more chances through Henry, who almost won the game when he directed a header on goal from a long cross by Parlour,<ref name="live_score"/> which Taffarel managed to keep out. Overmars's effort was then blocked by a Galatasaray defender.<ref name="live_score" />
+
+Near the start of the second half in extra time, Galatasaray's first opportunity came, when Şükür attempted a shot from a Popescu cross,<ref name="live_score"/> but the ball hit the side netting. After seven minutes, Kanu beat a defender, dribbled into the Galatasaray area and shot the ball twice,<ref name="live_score"/> only to be denied twice by Taffarel. In the dying minutes both teams continued to create decisive chances – Galatasaray's Popescu was given a free-kick, after Şükür was brought down by Keown.<ref name="report"/> However, the ball flew straight into Seaman's arms. Arsenal's Sylvinho put in a cross into the Galatasaray area to Henry, but ball was cleared away.<ref name="live_score"/> The final whistle was blown and the match moved into a penalty shoot-out.
+
+====Penalty shoot-out====
+Galatasaray's [[Ergün Penbe]] stepped up to take the first spot kick and scored. He placed the ball inside the near right-hand corner, just past Seaman, who dived to his left. [[Davor Šuker]] was the first man up to take Arsenal's penalty kick. His effort proved to be unsuccessful, as the ball hit the left-hand post and bounced off the goal. Şükür became the next player to take Galatasaray's spot kick. He scored as he lobbed the ball in the right-hand corner. With Galatasaray leading 2–0, Arsenal's next penalty taker was Parlour. He placed the ball on the spot and successfully scored by burying the ball to Taffarel's right to make it 2–1. [[Ümit Davala]] calmly placed the goal, near the centre of the goal to make it 3–1 to Galatasaray. Arsenal's only hope now was Vieira, but the midfielder missed and hit the crossbar instead. Popescu then stepped up, and netted with a powerful shot, as Galatasaray won the penalty shoot-out 4–1.<ref name="bbc"/><ref name="report"/><ref name="game_summary_youtube"/><ref>{{cite news |title=Galatasaray the pride of Turkey |url=https://www.uefa.com/uefaeuropaleague/news/016e-0e6a3091ff2c-b6d02ad6a643-1000--1999-2000-galatasaray-the-pride-of-turkey/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=1 June 2000 |access-date=24 April 2022 }}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2000|5|17|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Galatasaray S.K. (football)|Galatasaray]] {{fbaicon|TUR}}
+|score      = 0–0
+|aet        = yes
+|team2      = {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|goals1     =
+|goals2     =
+|stadium    = [[Parken Stadium]], [[Copenhagen]]
+|attendance = 38,919<ref name="handbook">{{cite book |location=Nyon |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |chapter=4. UEFA Cup Finals |title=UEFA Europa League Statistics Handbook 2012/13 |publisher=Union of European Football Associations |page=71 |date=28 May 2013 |access-date=27 August 2014 |url-status=dead |archive-url=https://web.archive.org/web/20130604201547/https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |archive-date=4 June 2013}}</ref>
+|referee    = [[Antonio López Nieto]] ([[Royal Spanish Football Federation|Spain]])
+|penalties1 =
+*[[Ergün Penbe|Ergün]] {{pengoal}}
+*[[Hakan Şükür|Şükür]] {{pengoal}}
+*[[Ümit Davala|Davala]] {{pengoal}}
+*[[Gheorghe Popescu (footballer, born 1967)|Popescu]] {{pengoal}}
+|penaltyscore = 4–1
+|penalties2 =
+*{{penmiss}} [[Davor Šuker|Šuker]]
+*{{pengoal}} [[Ray Parlour|Parlour]]
+*{{penmiss}} [[Patrick Vieira|Vieira]]
+|report     = https://www.uefa.com/uefaeuropaleague/match/64414/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _gs9900a
+ | pattern_b  = _gs9900a
+ | pattern_ra = _gs9900a
+ | pattern_sh = _gs9900a
+ | pattern_so = _goldtop
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Galatasaray<ref name="line-ups">{{cite journal |date=17 May 2000 |title=Team Line-ups – Final – Wednesday 17 May 2000 |url=http://i.ebayimg.com/00/s/MTYwMFgxMTYy/z/zUcAAOSw7I5TrtwG/$_57.JPG |journal=UEFA (Union of European Football Associations) |publisher=Ebay |access-date=28 July 2013}}</ref>
+}}
+|{{Football kit
+ | pattern_la = _arsenal9900a
+ | pattern_b  = _arsenal9900a
+ | pattern_ra = _arsenal9900a
+ | pattern_sh = _arsenal9900a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000040
+ | socks      = 000040
+ | title      = Arsenal<ref name="line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Cláudio Taffarel]]
+|-
+|RB ||'''35'''||{{flagicon|BRA}} [[Capone (footballer)|Capone]] || {{yel|71}}
+|-
+|CB ||'''4''' ||{{flagicon|ROU}} [[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]] || {{yel|63}}
+|-
+|CB ||'''3''' ||{{flagicon|TUR}} [[Bülent Korkmaz]] ([[Captain (association football)|c]]) || {{yel|18}}
+|-
+|LB ||'''67'''||{{flagicon|TUR}} [[Ergün Penbe]]
+|-
+|DM ||'''8''' ||{{flagicon|TUR}} [[Suat Kaya]] || || {{suboff|95}}
+|-
+|RM ||'''7''' ||{{flagicon|TUR}} [[Okan Buruk]] || {{yel|12}} || {{suboff|83}}
+|-
+|LM ||'''22'''||{{flagicon|TUR}} [[Ümit Davala]]
+|-
+|AM ||'''10'''||{{flagicon|ROU}} [[Gheorghe Hagi]] || {{sent off|0|94}}
+|-
+|CF ||'''6''' ||{{flagicon|TUR}} [[Arif Erdem]] || {{yel|48}} || {{suboff|95}}
+|-
+|CF ||'''9''' ||{{flagicon|TUR}} [[Hakan Şükür]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''30'''||{{flagicon|TUR}} [[Kerem İnan]]
+|-
+|DF ||'''14'''||{{flagicon|TUR}} [[Fatih Akyel]]
+|-
+|DF ||'''33'''||{{flagicon|TUR}} [[Hakan Ünsal]] || || {{subon|83}}
+|-
+|MF ||'''16'''||{{flagicon|TUR}} [[Ahmet Yıldırım]] || || {{subon|95}}
+|-
+|MF ||'''18'''||{{flagicon|TUR}} [[Mehmet Yozgatlı]]
+|-
+|FW ||'''23'''||{{flagicon|TUR}} [[Hasan Şaş]] || {{yel|119}} || {{subon|95}}
+|-
+|FW ||'''36'''||{{flagicon|BRA}} [[Márcio Mixirica]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|TUR}} [[Fatih Terim]]
+|}
+|valign="top"|[[File:Galatasaray vs Arsenal 2000-05-17.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[David Seaman]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Lee Dixon]]
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Tony Adams]] ([[Captain (association football)|c]]) || {{yel|94}}
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Martin Keown]] || {{yel|40}}
+|-
+|LB ||'''16'''||{{flagicon|BRA}} [[Sylvinho]]
+|-
+|RM ||'''15'''||{{flagicon|ENG}} [[Ray Parlour]]
+|-
+|CM ||'''17'''||{{flagicon|FRA|1974}} [[Emmanuel Petit]]
+|-
+|CM ||'''4''' ||{{flagicon|FRA|1974}} [[Patrick Vieira]] || {{yel|23}}
+|-
+|LM ||'''11'''||{{flagicon|NED}} [[Marc Overmars]] || || {{suboff|115}}
+|-
+|CF ||'''10'''||{{flagicon|NED}} [[Dennis Bergkamp]] || || {{suboff|75}}
+|-
+|CF ||'''14'''||{{flagicon|FRA|1974}} [[Thierry Henry]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''24'''||{{flagicon|ENG}} [[John Lukic]]
+|-
+|DF ||'''3''' ||{{flagicon|ENG}} [[Nigel Winterburn]]
+|-
+|DF ||'''19'''||{{flagicon|GER}} [[Stefan Malz]]
+|-
+|DF ||'''22'''||{{flagicon|UKR}} [[Oleh Luzhnyi]]
+|-
+|MF ||'''18'''||{{flagicon|FRA|1974}} [[Gilles Grimandi]]
+|-
+|FW ||'''9''' ||{{flagicon|CRO}} [[Davor Šuker]] || || {{subon|115}}
+|-
+|FW ||'''25'''||{{flagicon|NGA}} [[Nwankwo Kanu]] || || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA|1974}} [[Arsène Wenger]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Cláudio Taffarel]] (Galatasaray)<ref name="man_of_the_match"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Fernando Tresaco Gracia ([[Royal Spanish Football Federation|Spain]])<ref name="match officials"/>
+<br />Victoriano Giráldez Carrasco ([[Royal Spanish Football Federation|Spain]])<ref name="match officials"/>
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Arturo Daudén Ibáñez ([[Royal Spanish Football Federation|Spain]])<ref name="match officials2"/>
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+!scope="col" style="width:100px"|Overall<ref>{{cite web |url=http://pages.thisislondon.co.uk/weekend/football/213298.htm |title=Match statistics – Arsenal–Galatasaray |work=This is London |date=17 May 2000 |access-date=14 June 2014 |archive-url=https://web.archive.org/web/20020331095902/http://pages.thisislondon.co.uk/weekend/football/213298.htm |archive-date=31 March 2002}}</ref>
+!scope="col" style="width:70px"|Galatasaray
+!scope="col" style="width:70px"|Arsenal
+|-
+!scope=row|Goals scored
+|0||0
+|-
+!scope=row|Total shots
+|20||16
+|-
+!scope=row|Shots on target
+|8||5
+|-
+!scope=row|Ball possession
+|{{N/A}}||{{N/A}}
+|-
+!scope=row|Corner kicks
+|8||9
+|-
+!scope=row|Fouls committed
+|23||20
+|-
+!scope=row|Offsides
+|5||2
+|-
+!scope=row|Yellow cards
+|6||3
+|-
+!scope=row|Red cards
+|1||0
+|}
+{{col-end}}
+
+==Aftermath==
+After the players had collected their medals, UEFA president [[Lennart Johansson]] handed over the trophy to [[Bülent Korkmaz]]. Korkmaz celebrated by raising the silverware, together with Şükür and the rest of the Galatasaray squad on the podium, including the ejected Hagi himself as golden confetti rained down.<ref>{{cite news |first=Türker |last=Tozar |title=Cup carries special resonance for Korkmaz |url=https://www.uefa.com/uefaeuropaleague/news/01d4-0e7080da61e6-2e2d0909856d-1000--cup-carries-special-resonance-for-korkmaz/ |publisher=UEFA |date=3 December 2008 |access-date=29 July 2013}}</ref><ref>{{cite news |title=Gözümde canlanır koskoca mazi.. |url=http://www.ajansspor.com/futbol/uefakupasi/h/20100511/gozumde_canlanir_koskoca_mazi.html |work=Ajansspor |date=11 May 2010 |access-date=29 July 2013 |language=tr |archive-url=https://web.archive.org/web/20140201203547/http://www.ajansspor.com/futbol/uefakupasi/h/20100511/gozumde_canlanir_koskoca_mazi.html |archive-date=1 February 2014 |url-status=dead}}</ref> A selected UEFA panel named Taffarel as the man of the match, and presented him with a trophy after the game.<ref name="man_of_the_match"/><ref>{{cite web|url=http://www.collectsoccer.com/acatalog/Galatasaray-Arsenal-17.05.2000-UEFA.Final-PressPack.jpg |title=Press pack – Galatasaray – Arsenal |work=UEFA (Union of European Football Associations) |publisher=CollectSoccer |date=17 May 2000 |access-date=23 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20131220141720/http://collectsoccer.com/acatalog/Galatasaray-Arsenal-17.05.2000-UEFA.Final-PressPack.jpg |archive-date=20 December 2013}}</ref>
+
+Galatasaray manager [[Fatih Terim]] expressed his delight following his side's victory. He was interviewed by the Turkish press and dedicated the cup to Turkey and its public, particularly to those who lost their lives during the [[1999 İzmit earthquake]]: "Many people suffered terribly in the earthquake in Turkey last year and if this victory brings some happiness back into their lives then I am delighted and so are all the players. We are very proud if we are able to help the Turkish people in some small way and this victory is for the whole country and all of the soccer fans in Turkey. I believe they were all united behind us". Terim also praised his own players and Taffarel: "I am proud and delighted he is in my team. He was magnificent and thoroughly deserved to be man of the match". Popescu, a former defender of [[Tottenham Hotspur F.C.|Tottenham Hotspur]], also indulged in the triumph and said: "I am sure the fans at my old club are delighted as well!"<ref>{{cite news |first=Mark |last=Bradley |title=Sad Gunners feel pain of Popescu's spurs; Galatasaray 0 Arsenal 0 (AET: Galatasaray win 4–1 on penalties) |url=http://www.thefreelibrary.com/Sad+Gunners+feel+pain+of+Popescu's+spurs%3B+Galatasaray+0+Arsenal+0...-a062159560 |work=Birmingham Post |date=18 May 2000 |access-date=30 July 2013}}</ref>
+
+As some Arsenal players were seen consoling each other,<ref>{{cite web |first=Phil |last=Cole |url=http://www.gettyimages.co.uk/detail/news-photo/despair-for-marc-overmars-and-martin-keown-of-arsenal-after-news-photo/1038170 |title=Marc Overmars, Martin Keown |publisher=Getty Images |date=17 May 2000 |access-date=26 August 2014}}</ref> manager [[Arsène Wenger]] was left to rue the defeat and said that his Arsenal side could not take their chances: "It was not a huge advantage for us to have Hagi sent off, sometimes you defend better with 10 men because everybody is focused." He was displeased with the penalty shoot-out and criticised Spanish referee [[Antonio Jesús López Nieto|Antonio López Nieto]] for deciding the penalty shoot-out to take place in front of Galatasaray fans. Wenger was also unhappy with the decision made by UEFA officials regarding a coin toss during extra time, which would affect where the spot kicks would be taken.<ref>{{cite news |title=Wenger anger over shoot-out |url=https://news.bbc.co.uk/2/hi/sport/football/753010.stm |work=BBC News |date=17 May 2000 |access-date=1 August 2013}}</ref><ref>{{cite news |title=Turkish delight as Gunners lose nerve |url=http://www.heraldscotland.com/sport/spl/aberdeen/turkish-delight-as-gunners-lose-nerve-1.235279 |work=The Herald |date=18 May 2000 |access-date=1 August 2013}}</ref>
+
+The win was widely celebrated in Turkey; Galatasaray players and staff received a hero's welcome in [[Istanbul]] from the club's fans.<ref name="Galatasaray_victory">{{cite news |title=Turkey honors Galatasaray for UEFA Cup win |url=http://sportsillustrated.cnn.com/soccer/world/news/2000/05/19/galatasaray_medal_ap/ |work=CNN Sports Illustrated |publisher=Cable News Network |agency=Associated Press |date=19 May 2000 |access-date=29 July 2013 |archive-url=https://web.archive.org/web/20010712234010/http://sportsillustrated.cnn.com/soccer/world/news/2000/05/19/galatasaray_medal_ap/ |archive-date=12 July 2001}}</ref> The Turkish media hailed the match as one of the best achievements in their sports history and the biggest in football, the country's most popular sport. The [[Ministry of Youth and Sports (Turkey)|Ministry of Youth and Sports]] minister {{ill|Fikret Ünlü|tr}}, who attended the final, described the performance as "marvelous" and "a big present from Galatasaray to Turkey".<ref>{{cite news |title=Turkish delight – Galatasaray wins UEFA Cup on penalty kicks |url=http://sportsillustrated.cnn.com/soccer/world/news/2000/05/17/uefa_final_ap/ |work=CNN Sports Illustrated |publisher=Cable News Network |agency=Associated Press |date=17 May 2000 |access-date=29 July 2013 |archive-url=https://web.archive.org/web/20080408204536/http://sportsillustrated.cnn.com/soccer/world/news/2000/05/17/uefa_final_ap/ |archive-date=8 April 2008}}</ref> [[Ahmet Necdet Sezer]], the President of Turkey highlighted the club's success by awarding the team with the [[State Medal of Distinguished Service (Turkey)|State Medal of Distinguished Service]], as a result for winning the country's first European competition.<ref>{{cite news |title=Galatasaray to be awarded highest possible honors |url=http://www.hurriyetdailynews.com/default.aspx?pageid=438&n=galatasaray-to-be-awarded-highest-possible-honors-2000-05-19 |work=Hürriyet Daily News |date=19 May 2000 |access-date=29 July 2013}}</ref> In August 2013 the two sides met in an [[2013 Emirates Cup|Emirates Cup]] pre-season match. The friendly ended in a 2–1 win for Galatasaray.<ref>{{cite news |title=Emirates Cup returns for summer 2013 |url=http://www.arsenal.com/emiratescup |work=Arsenal F.C. official website |date=15 May 2013 |access-date=1 August 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130726182314/http://www.arsenal.com/emiratescup |archive-date=26 July 2013}}</ref><ref>{{cite news |first=Jim |last=Van Wijk |title=Arsenal 1 Galatasaray 2 match report: Didier Drogba returns to haunt Gunners as Turkish side win Emirates Cup |url=https://www.independent.co.uk/sport/football/premier-league/arsenal-1-galatasaray-2-match-report-didier-drogba-returns-to-haunt-gunners-as-turkish-side-win-emirates-cup-8745505.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/premier-league/arsenal-1-galatasaray-2-match-report-didier-drogba-returns-to-haunt-gunners-as-turkish-side-win-emirates-cup-8745505.html |archive-date=1 May 2022 |url-access=subscription |work=The Independent |date=4 August 2013 |access-date=7 August 2013}}{{cbignore}}</ref>
+
+==Fan riots==
+{{main|2000 UEFA Cup Final riots}}
+
+[[File:Copenhagen aerial view by night.jpg|thumb|left|220px|The City Hall Square, where the riots took place]]
+
+The final was overshadowed by [[2000 UEFA Cup Final riots|riots]] between the two sides – it began when Galatasaray fans stormed a club in [[Strøget]], composed of Arsenal supporters.<ref>{{cite news |first1=Flemming Emil |last1=Hansen |first2=Jakob |last2=Weiss |first3=Anders |last3=Wiig |title=Hooligans af værste caliber |url=http://www.b.dk/danmark/hooligans-af-vaerste-kaliber |work=Berlingske Tidende |date=19 May 2000 |access-date=28 July 2013 |language=da}}</ref> Arsenal fans responded by provoking the Galatasaray followers, along with fans of other clubs involved, as retribution for the two Leeds United supporters murdered, before the club's semi-final first leg match against Galatasaray.<ref>{{cite news |first=Denis |last=Campbell |title=Soldiers join hooligans to attack Turks in Cup clash |url=https://www.theguardian.com/uk/2000/may/14/uefa.football |work=The Guardian |date=14 May 2000 |access-date=28 July 2013}}</ref> Four Britons and Turks were apprehended by the Danish riot police following the violence.<ref>{{cite news |title=English, Turkish fans clash on eve final |url=http://espn.go.com/soccer/news/2000/0516/535506.html |archive-url=https://web.archive.org/web/20140202175359/http://espn.go.com/soccer/news/2000/0516/535506.html |url-status=dead |archive-date=2 February 2014 |publisher=ESPN (Entertainment and Sports Programming Network) |agency=Associated Press |date=16 May 2000 |access-date=28 July 2013}}</ref> The turmoil was covered by some British media; tabloid newspaper the ''[[Daily Mirror]]'', published images, believed to be the Arsenal fans involved in the onslaught,<ref>{{cite news |title=Faces of Hatred |url=http://www.thefreelibrary.com/FACES+OF+HATRED.-a062192124 |work=Daily Mirror |date=19 May 2000 |access-date=28 July 2013}}</ref> while [[BBC News]], [[ITN|ITN News]] and [[Sky News]] reported and broadcast television footage of the riots.<ref>{{cite AV media |date=17 May 2000 |title=UEFA Cup Final: Violence |medium=Video clip |url=http://www.itnsource.com/shotlist/ITN/2000/05/17/BSP170500002/BSP170500002-0 |access-date=28 July 2013 |work=ITN Source |publisher=Independent Television News}}</ref>
+
+One Arsenal supporter, Paul Dineen was stabbed in the back with a knife, during the riots in a pub, near the [[City Hall Square, Copenhagen|City Hall Square]].<ref>{{cite news |title=Teargas fired on fighting fans |url=https://news.bbc.co.uk/2/hi/sport/football/751924.stm |work=BBC News |date=17 May 2000 |access-date=28 July 2013}}</ref> The incident caused Arsenal to offer their fans full compensation, if they did not want to travel and attend the match.<ref>{{cite news |title=English fan stabbed in Copenhagen |url=https://www.theguardian.com/football/2000/may/17/newsstory.sport3 |work=Theguardian.com |date=17 May 2000 |access-date=28 July 2013}}</ref> Another three members of the public, identified as one Englishman, Turk and Dutchman were also wounded by knifing when the event was still under its way.<ref>{{cite news |title=Three more stabbed in Copenhagen |url=https://news.bbc.co.uk/2/hi/europe/752596.stm |work=BBC News |publisher=BBC |date=18 May 2000 |access-date=28 July 2013}}</ref> Sixty people, all presumed to have been involved, were detained by Danish law enforcement, while another 19 suffered injuries as a result of the violence.<ref>{{cite news |first1=Vivek |last1=Chaudhary |first2=Jamie |last2=Wilson |title=Turkish and English fans clash at airport |url=https://www.theguardian.com/uk/2000/may/19/uefa.football1 |work=The Guardian |date=19 May 2000 |access-date=28 July 2013}}</ref>
+
+{{clear}}
+
+==See also==
+*[[2000 UEFA Champions League final]]
+*[[2000 UEFA Super Cup]]
+*[[Arsenal F.C. in European football]]
+*[[Galatasaray S.K. in international football]]
+*[[1999–2000 Arsenal F.C. season]]
+*[[1999–2000 Galatasaray S.K. season]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20100719102507/http://en.archive.uefa.com/competitions/uefacup/history/season=1999/intro.html 1999–2000 season] at UEFA.com
+
+{{UEFA Europa League seasons}}
+{{1999–2000 in European football (UEFA)}}
+{{Arsenal F.C. matches}}
+{{Galatasaray S.K. matches}}
+
+{{DEFAULTSORT:UEFA Cup final}}
+[[Category:1999–2000 UEFA Cup|Final]]
+[[Category:UEFA Europa League finals|2000]]
+[[Category:1999–2000 in Turkish football]]
+[[Category:1999–2000 in English men's football]]
+[[Category:1999–2000 in Danish football]]
+[[Category:Galatasaray S.K. (football) matches]]
+[[Category:Arsenal F.C. matches]]
+[[Category:2000 in Copenhagen]]
+[[Category:Football matches in Copenhagen]]
+[[Category:May 2000 sports events in Europe]]
+[[Category:Turkey–United Kingdom sports relations]]

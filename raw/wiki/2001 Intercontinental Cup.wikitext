@@ -1,0 +1,219 @@
+{{Infobox football match
+|                   title = 2001 Intercontinental Cup
+|                   image = [[File:ToyotaCup2001.jpg]]
+|                   event =
+|                   team1 = [[FC Bayern Munich|Bayern Munich]]
+|        team1association = {{flagicon|GER|size=30px}}
+|              team1score = 1
+|                   team2 = [[Boca Juniors]]
+|        team2association = {{flagicon|ARG|size=30px}}
+|              team2score = 0
+|                 details = After [[Overtime (sports)#Association football|extra time]]
+|                    date = 27 November 2001
+|                 stadium = [[National Stadium (Tokyo, 1958)|National Stadium]]
+|                    city = [[Tokyo]]
+|      man_of_the_match1a = [[Samuel Kuffour]] ([[FC Bayern Munich|Bayern Munich]])
+| man_of_the_match1atitle =
+|      man_of_the_match1b =
+| man_of_the_match1btitle =
+|                 referee = [[Kim Milton Nielsen]] ([[Danish Football Association|Denmark]])
+|              attendance = 51,360
+|                 weather = Wind light<br />{{convert|13.3|°C|°F}}<br />36% [[humidity]]<ref name="match report">{{cite web |url=http://www.toyotacup.com/html/whatsnew/news22/news_e1127mp.html |title=Full Time Report – Bayern Munich – Boca Juniors |work=Japan Football Association |format=PDF |date=27 November 2001 |access-date=25 April 2013 |archive-url=https://web.archive.org/web/20030214153708/http://toyotacup.com/html/whatsnew/news22/news_e1127mp.html |archive-date=14 February 2003}}</ref>
+|                previous = [[2000 Intercontinental Cup|2000]]
+|                    next = [[2002 Intercontinental Cup|2002]]
+}}
+The '''2001 Intercontinental Cup''' was an [[association football]] match played on 27 November 2001 between [[FC Bayern Munich|Bayern Munich]], winners of the [[2000–01 UEFA Champions League]], and winners of the [[2001 Copa Libertadores]], [[Boca Juniors]], which was also the [[2000 Intercontinental Cup|defending champions]]. The match was played at the neutral venue of the [[National Stadium (Tokyo, 1958)|National Stadium]] in [[Tokyo]] in front of 51,360 fans. [[Samuel Kuffour]] was named as [[man of the match]].<ref>{{cite web|url=https://www.rsssf.org/tablest/toyotamvp.html |title=Toyota Cup - Most Valuable Player of the Match Award |first=Marcelo |last=Leme de Arruda |publisher=[[Rec.Sport.Soccer Statistics Foundation|RSSSF]] |date=2 January 2009 |access-date=26 January 2009 |archive-url=https://web.archive.org/web/20090211162554/http://rsssf.com/tablest/toyotamvp.html |archive-date=11 February 2009 |url-status=live }}</ref> This was the last Intercontinental Cup played in Tokyo, since [[International Stadium Yokohama]] in [[Yokohama]] was used from [[2002 Intercontinental Cup|2002 edition]].
+
+==Venue==
+[[File:Yamazaki-nabisco-Cup final 2004.jpg|thumb|left|300px|[[National Stadium (Tokyo, 1958)|Olympic Stadium]], [[Tokyo]], hosted the final]]
+{{-}}
+
+==Match details==
+{{Football box
+| date         = {{Start date|2001|11|27|df=y}}
+| time         = 19:20 [[Japan Standard Time|JST]]
+| team1        = [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+| team2        = {{flagicon|ARG}} [[Boca Juniors]]
+| score        = 1–0
+| aet          = yes
+| report       = https://www.uefa.com/uefachampionsleague/match/68577/
+| goals1       = [[Samuel Kuffour|Kuffour]] {{goal|109}}
+| stadium      = [[National Stadium (Tokyo, 1958)|National Stadium]], [[Tokyo]]
+| attendance   = 51,360
+| referee      = [[Kim Milton Nielsen]] ([[Danish Football Association|Denmark]])<ref name="Kim Milton dømmer Intercontinental Cup-finale">{{cite news |title=Kim Milton dømmer Intercontinental Cup-finale |url=http://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/article148903.ece |work=Ekstrabladet |date=1 November 2001 |access-date=10 May 2012 |language=da}}</ref>
+}}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _adidasstripeswhite
+ | pattern_b  = _FCBAYERN_0001t
+ | pattern_ra = _adidasstripeswhite
+ | pattern_sh = _adidaswhite
+ | pattern_so = _FCBAYERN_0001t
+ | leftarm    = DD0000
+ | body       = FFFFFF
+ | rightarm   = DD0000
+ | shorts     = DD0000
+ | socks      = FFFFFF
+ | title      = Bayern Munich
+}}
+|{{Football kit
+ | pattern_la = _boca0103h
+ | pattern_b  = _boca0103h
+ | pattern_ra = _boca0103h
+ | pattern_sh = _boca0103h
+ | pattern_so = _boca0103h
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Boca Juniors
+}}
+|}
+
+{| width=100%
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1'''||{{flagicon|GER}} [[Oliver Kahn]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2'''||{{flagicon|FRA|1974}} [[Willy Sagnol]]
+|-
+|CB ||'''12'''||{{flagicon|CRO}} [[Robert Kovač]]
+|-
+|CB ||'''4'''||{{flagicon|GHA}} [[Samuel Kuffour]] || {{yel|29}}
+|-
+|LB ||'''3'''||{{flagicon|FRA|1974}} [[Bixente Lizarazu]]
+|-
+|CM ||'''23'''||{{flagicon|ENG}} [[Owen Hargreaves]] || {{yel|72}} || {{suboff|76}}
+|-
+|CM ||'''8'''||{{flagicon|CRO}} [[Niko Kovač]] || || {{suboff|76}}
+|-
+|CM ||'''17'''||{{flagicon|GER}} [[Thorsten Fink]]
+|-
+|RF ||'''13'''||{{flagicon|BRA}} [[Paulo Sérgio (footballer, born June 1969)|Paulo Sérgio]]
+|-
+|CF ||'''9'''||{{flagicon|BRA}} [[Giovane Élber]] || {{yel|106}}
+|-
+|LF ||'''14'''||{{flagicon|PER|football}} [[Claudio Pizarro]] || || {{suboff|118}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|GER}} [[Bernd Dreher]]
+|-
+|GK ||'''33'''||{{flagicon|GER}} [[Stefan Wessels]]
+|-
+|DF ||'''25'''||{{flagicon|GER}} [[Thomas Linke]]
+|-
+|MF ||'''6'''||{{flagicon|GUI}} [[Pablo Thiam]] || || {{subon|118}}
+|-
+|MF ||'''10'''||{{flagicon|SUI}} [[Ciriaco Sforza]] || || {{subon|76}}
+|-
+|MF ||'''30'''||{{flagicon|FRA|1974}} [[Alou Diarra]]
+|-
+|FW ||'''19'''||{{flagicon|GER}} [[Carsten Jancker]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Ottmar Hitzfeld]]
+|}
+|valign="top"|[[File:Bayern Munich vs Boca Juniors 2001-11-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1'''||{{flagicon|COL}} [[Óscar Córdoba]] || {{yel|102}}
+|-
+|CB ||'''2'''||{{flagicon|ARG}} [[Nicolás Burdisso]]
+|-
+|CB ||'''6'''||{{flagicon|ARG}} [[Rolando Schiavi]] || {{yel|111}}
+|-
+|CB ||'''13'''||{{flagicon|ARG}} [[Cristian Traverso]]
+|-
+|RWB ||'''4'''||{{flagicon|ARG}} [[Jorge Martínez (footballer, born 1973)|Jorge Martínez]] || || {{suboff|18}}
+|-
+|LWB ||'''14'''||{{flagicon|ARG}} [[Clemente Rodríguez]] || {{yel|70}}
+|-
+|DM ||'''5'''||{{flagicon|COL}} [[Mauricio Serna]] ([[Captain (association football)|c]]) || {{yel|5}}
+|-
+|RM ||'''26'''||{{flagicon|ARG}} [[Javier Villarreal]] || || {{suboff|100}}
+|-
+|LM ||'''7'''||{{flagicon|ARG}} [[Guillermo Barros Schelotto]] || {{yel|83}}
+|-
+|AM ||'''10'''||{{flagicon|ARG}} [[Juan Román Riquelme]]
+|-
+|CF ||'''16'''||{{flagicon|ARG}} [[Marcelo Delgado]] || {{sent off|1|19|46}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ARG}} [[Roberto Abbondanzieri]]
+|-
+|DF ||'''20'''||{{flagicon|ARG}} [[Joel Barbosa]]
+|-
+|DF ||'''22'''||{{flagicon|ARG}} [[José María Calvo]] || || {{subon|18}} || {{suboff|111}}
+|-
+|MF ||'''21'''||{{flagicon|ARG}} [[Christian Giménez (footballer, born 1981)|Christian Giménez]]
+|-
+|MF ||'''28'''||{{flagicon|ARG}} [[Gustavo Pinto]] || || {{subon|100}}
+|-
+|FW ||'''9'''||{{flagicon|ARG}} [[Antonio Barijho]]
+|-
+|FW ||'''18'''||{{flagicon|ARG}} [[Ariel Carreño]] || || {{subon|111}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Carlos Bianchi]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Samuel Kuffour]] (Bayern Munich)<ref>[https://web.archive.org/web/20021204142938/http://www.toyotacup.com/html/whatsnew/news22/news_e1127mp.html Toyota Cup]</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jørgen Jepsen ([[Danish Football Association|Denmark]])<ref name="Kim Milton dømmer Intercontinental Cup-finale"/>
+<br />Mikael Nilsson ([[Swedish Football Association|Sweden]])<ref name="Kim Milton dømmer Intercontinental Cup-finale"/>
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Masayoshi Okada]] ([[Japan Football Association|Japan]])
+|}
+
+==See also==
+*[[2000–01 UEFA Champions League]]
+*[[2001 Copa Libertadores]]
+*[[FC Bayern Munich in international football competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{ccat}}
+*[https://web.archive.org/web/20091108055837/http://www.fifa.com/classicfootball/clubs/matchreport/newsid%3D510885.html#toyota+cup+2001 FIFA Article]
+*[https://web.archive.org/web/20040316115844/http://www.toyotacup.com:80/html/history/22/img/scoresheet_e.pdf Match report]
+
+{{Intercontinental Cup (football)}} 
+{{FC Bayern Munich matches}}
+{{Club Atlético Boca Juniors matches}}
+
+{{DEFAULTSORT:Intercontinental Cup 2001}}
+[[Category:2001–02 in European men's continental football]]
+[[Category:2001 in South American men's continental football]]
+[[Category:2001 in Japanese football]]
+[[Category:Intercontinental Cup (1960–2004)|2001]]
+[[Category:FC Bayern Munich matches]]
+[[Category:Boca Juniors matches]]
+[[Category:Intercontinental Cup (football) matches hosted by Japan|2001]]
+[[Category:2001–02 in German football]]
+[[Category:Football competitions in Tokyo]]
+[[Category:November 2001 sports events in Japan]]
+[[Category:2001 in Tokyo]]
+[[Category:2001 in Argentine football]]
+[[Category:Argentina–Germany sports relations]]
+[[Category:2001 in association football]]

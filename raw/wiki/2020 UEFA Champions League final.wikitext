@@ -1,0 +1,618 @@
+{{Short description|Football match in Lisbon, Portugal}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox football match
+| title = 2020 UEFA Champions League final
+| image = 2020 UEFA Champions League Final programme.jpg
+| image_size = frameless
+| caption = Match programme cover
+| event = [[2019–20 UEFA Champions League]]
+| team1 = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| team1association = {{fbaicon|FRA|size=30px}}
+| team1score = 0
+| team2 = [[FC Bayern Munich|Bayern Munich]]
+| team2association = {{fbaicon|GER|size=30px}}
+| team2score = 1
+| details = 
+| date = {{Start date|2020|8|23|df=y}}
+| stadium = [[Estádio da Luz]]
+| city = [[Lisbon]]
+| man_of_the_match1a = [[Kingsley Coman]] {{nowrap|(Bayern Munich)}}<ref name="MOTM">{{Cite news |date=23 August 2020 |title=Paris 0–1 Bayern: Coman strikes gold |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0260-1033c96091a1-3d127374ef80-1000--paris-0-1-bayern-coman-scores-champions-league-final-winner/ |access-date=23 August 2020}}</ref>
+| referee = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])<ref name="officials" />
+| attendance = 0<ref name="full_time" />{{refn|group=note|name=UCL behind closed doors}}
+| weather = Clear night<br />{{convert|25|°C|°F|abbr=on}}<br />53% [[humidity]]<ref name="lineups" />
+| previous = [[2019 UEFA Champions League final|2019]]
+| next = [[2021 UEFA Champions League final|2021]]
+}}
+
+The '''2020 UEFA Champions League final''' was the final match of the [[2019–20 UEFA Champions League]], the 65th season of Europe's premier club football tournament organised by [[UEFA]], and the 28th season since it was re-branded from the [[European Champion Clubs' Cup]] to the [[UEFA Champions League]]. It was played on 23 August 2020 at the [[Estádio da Luz]] in [[Lisbon]], Portugal, between French club [[Paris Saint-Germain FC|Paris Saint-Germain]], in their first European Cup final, and German club [[FC Bayern Munich|Bayern Munich]] having returned to the final for the first time since [[2013 UEFA Champions League final|2013]]. The match was held [[Behind closed doors (sport)|behind closed doors]] due to the [[COVID-19 pandemic in Europe]].<ref name="uefa behind closed doors" />
+
+Originally, it had been scheduled to be played at the [[Atatürk Olympic Stadium]] in [[Istanbul]], Turkey, on 30 May 2020.<ref name="auto">{{Cite news |date=23 March 2020 |title=UEFA Club Finals postponed |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/news-media/news/025b-0f8e76c8c787-b9f310787e70-1000--uefa-club-finals-postponed/ |access-date=23 March 2020}}</ref> On 17 June 2020, the UEFA Executive Committee chose to relocate the final to Lisbon as part of a "final-eight tournament" consisting of single-match knockout ties played in two stadiums across the city.<ref name="ExCo 17 June">{{Cite news |date=17 June 2020 |title=UEFA competitions to resume in August |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/news-media/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/ |access-date=17 June 2020}}</ref> The match was the first European premier tournament final to be played on a Sunday, and the first since [[2009 UEFA Champions League final|2009]] to not be played on a Saturday. It was also the first final of the competition to be played after June.
+
+Bayern Munich won the final 1–0 thanks to a 59th-minute goal scored by former Paris Saint-Germain player [[Kingsley Coman]] assisted by Joshua Kimmich, who was later selected as [[man of the match]].<ref name="MOTM" /> Bayern secured their sixth European Cup title and second [[Treble (association football)#Continental trebles|continental treble]], becoming the second European men's football team to win the continental treble twice.<ref>{{cite web |date=4 September 2020 |title=Who's won the treble? Bayern double up |url=https://www.uefa.com/uefachampionsleague/news/0251-0e99b1ba85da-ec8053dc0a29-1000--who-s-won-the-treble-bayern-double-up/|access-date=8 October 2020 |website=[[UEFA]]}}</ref> Bayern also became the first team to claim any European competition [[UEFA club competition records and statistics#Ranking main European club competitions' winning club sides by winning percentage|with a 100% winning record]].<ref name="BBC final">{{Cite news |last=McNulty |first=Phil |date=23 August 2020 |title=Paris St-Germain 0–1 Bayern Munich: German side win Champions League final |work=[[BBC Sport]] |url=https://www.bbc.co.uk/sport/football/53867676 |access-date=23 August 2020}}</ref> As winners, they earned the right to play against the winners of the [[2019–20 UEFA Europa League]], [[Sevilla FC|Sevilla]], in the [[2020 UEFA Super Cup]], and also qualified for the [[2020 FIFA Club World Cup]] in Qatar; Bayern went on to win both and complete a historic [[Sextuple (association football)|sextuple]] (six trophies in a year).<ref>{{cite news |date=11 February 2021 |title=Bayern pick up their sixth title in one year |url=https://fcbayern.com/en/news/2021/02/fifa-club-world-cup/bayern-win-their-sixth-title-in-1-year |access-date=16 February 2021 |publisher=FC Bayern Munich}}</ref>
+
+==Venue==
+{{for|the details on the selection of Istanbul as the original host for the final|2021 UEFA Champions League final#Host selection}}
+[[File:LuzLissabon.jpg|thumb|upright=1.4|The [[Estádio da Luz]] in [[Lisbon]] hosted the final.]]
+The final was originally scheduled to be played at the [[Atatürk Olympic Stadium]] in [[Istanbul]], Turkey, on 30 May 2020.<ref name="venue">{{Cite news |date=24 May 2018 |title=Istanbul to host 2020 UEFA Champions League Final |work=UEFA.com |publisher=Union of European Football Associations |url=https://www.uefa.com/news-media/news/0245-0f8e60d11f0f-78765b792753-1000--istanbul-to-host-2020-uefa-champions-league-final/ |access-date=24 May 2018}}</ref> However, UEFA announced on 23 March 2020 that the final was postponed due to the COVID-19 pandemic.<ref name="auto"/> On 17 June 2020, the UEFA Executive Committee chose to relocate the final to Lisbon as part of a "final-eight tournament" consisting of single-match knockout ties played in two stadiums across the city.<ref name="ExCo 17 June"/> The match was the first European Cup/Champions League final to be played on a Sunday and the first since [[2009 UEFA Champions League final|2009]] to not be played on a Saturday. It was also the first final of the competition to be played after June.
+
+The UEFA Executive Committee chose the [[Estádio da Luz]], officially known as the Estádio do Sport Lisboa e Benfica, in [[Lisbon]] as the final venue at their meeting on 17 June 2020.<ref name="ExCo 17 June" /> This is the second UEFA Champions League final hosted at the stadium; the first was in [[2014 UEFA Champions League final|2014]], when [[Real Madrid CF|Real Madrid]] secured their 10th title by beating [[Atlético Madrid]] 4–1 in the first final between [[Madrid derby|teams from the same city]].
+
+The home stadium of Portuguese Primeira Liga side [[S.L. Benfica|Benfica]] since 2003, it was newly built to host five matches of [[UEFA Euro 2004]], including the [[UEFA Euro 2004 Final|final]]. Before its demolition in 2003, to make way for the new 65,000-capacity ground, the [[Estádio da Luz (1954)|original Estádio da Luz]] hosted the [[1992 European Cup Winners' Cup final]], where [[SV Werder Bremen|Werder Bremen]] beat [[AS Monaco FC|Monaco]] 2–0, and the second leg of the [[1983 UEFA Cup final]], where [[R.S.C. Anderlecht|Anderlecht]] secured a 1–1 draw with Benfica to lift the trophy.<ref name="previous finals">{{Cite web |date=1 April 2014 |title=Finals in Lisbon |url=http://www.uefa.com/uefachampionsleague/news/newsid=2086381.html |url-status=dead |archive-url=https://web.archive.org/web/20140502114613/http://www.uefa.com/uefachampionsleague/news/newsid=2086381.html |archive-date=2 May 2014 |website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+Lisbon had also staged a European Cup final in [[1967 European Cup final|1967]], when Scottish side [[Celtic F.C.|Celtic]] beat [[Inter Milan]] of Italy 2–1 at the [[Estádio Nacional]]. The Portuguese capital also hosted the [[2005 UEFA Cup final]] at the [[Estádio José Alvalade]], home of Benfica's local rivals and finalists [[Sporting CP]], who lost 3–1 to [[PFC CSKA Moscow|CSKA Moscow]].<ref name="previous finals" />
+
+==Background==
+[[Paris Saint-Germain FC|Paris Saint-Germain]] (PSG) reached their first European Cup/Champions League final, becoming the fifth finalist representing France and the 41st overall. They entered the final having played 110 prior matches in the European Cup and Champions League, the most for a final debutant, surpassing [[Arsenal F.C.|Arsenal]]'s record of 90 matches prior to their final debut in [[2006 UEFA Champions League final|2006]].<ref>{{Cite news |last=Azzoni |first=Tales |date=18 August 2020 |title=PSG beats Leipzig 3–0 to reach 1st Champions League final |agency=[[Associated Press]] |url=https://apnews.com/a790952f9adf5171c3fbe1520072cfcf |access-date=19 August 2020}}</ref> The match was the seventh final to feature a French team, and the first since Monaco in [[2004 UEFA Champions League final|2004]]. [[Olympique de Marseille|Marseille]] were the only French club to have won the competition, doing so in [[1993 UEFA Champions League final|1993]].<ref name="RSSSF EC">{{Cite web |last=Stokkermans |first=Karel |date=2 April 2020 |title=European Champions' Cup |url=https://www.rsssf.org/tablese/ec1.html |url-status=live |archive-url=https://web.archive.org/web/20110208171501/http://rsssf.com/tablese/ec1.html |archive-date=8 February 2011 |access-date=18 August 2020 |website=[[RSSSF]]}}</ref> The match was the fourth time Paris Saint-Germain have appeared in the final of a UEFA competition, having previously appeared in two consecutive finals of the [[UEFA Cup Winners' Cup]]. The club won the [[1996 UEFA Cup Winners' Cup Final|1996 final]] 1–0 against [[SK Rapid Wien|Rapid Wien]], before losing 1–0 against [[FC Barcelona|Barcelona]] while attempting to defend their title in [[1997 UEFA Cup Winners' Cup Final|1997]].<ref name="ECWC">{{Cite web |last=Stokkermans |first=Karel |date=26 January 2000 |title=European Cup Winners' Cup |url=https://www.rsssf.org/tablese/ec2.html |access-date=18 August 2020 |website=RSSSF}}</ref> PSG also featured in the [[1996 UEFA Super Cup]], losing 9–2 on aggregate to [[Juventus FC|Juventus]].<ref>{{Cite web |last=Stokkermans |first=Karel |date=5 September 2019 |title=European Super Cup |url=https://www.rsssf.org/tabless/sup.html |access-date=18 August 2020 |website=RSSSF}}</ref> Paris were attempting to become the first French team to complete a continental treble, having won [[2019–20 Ligue 1|Ligue 1]], which was awarded to them based on PPG ratio as the season was ended prematurely due to the [[COVID-19 pandemic in France]],<ref>{{Cite news |date=30 April 2020 |title=Ligue 1: Paris St-Germain awarded French title as season finished early |work=[[BBC Sport]] |url=https://www.bbc.co.uk/sport/football/52484926 |access-date=18 August 2020}}</ref> and the [[2019–20 Coupe de France|Coupe de France]].<ref>{{Cite news |date=24 July 2020 |title=Paris St-Germain 1–0 Saint-Etienne: PSG win French Cup despite Kylian Mbappe injury |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/53532177 |access-date=18 August 2020}}</ref> The club also won the final season of the [[2019–20 Coupe de la Ligue|Coupe de la Ligue]] ([[league cup]]) and the [[2019 Trophée des Champions|Trophée des Champions]] ([[super cup]]),<ref>{{Cite news |date=31 July 2020 |title=Paris St-Germain beat Lyon in French League Cup final for another treble |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/53617357 |access-date=18 August 2020}}</ref><ref>{{Cite news |date=3 August 2019 |title=PSG beat Rennes to win Trophee des Champions in China |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/49221004 |access-date=18 August 2020}}</ref> thus winning all four domestic titles, though only the main domestic cup competition was considered for a continental treble.<ref>{{Cite news |last=Miller |first=Nick |date=5 June 2015 |title=Champions League treble: The seven clubs who claimed the prize |work=[[ESPN]] |url=https://www.espn.com/soccer/uefa-champions-league/2/blog/post/2477324/champions-league-treble-the-seven-clubs-who-claimed-it |access-date=18 August 2020}}</ref>
+
+In eighteen matches, Paris Saint-Germain had a record of eleven wins, two draws and five losses against German clubs in European competition. PSG won all four prior knockout ties in which they met German opposition, including earlier in the season against [[Borussia Dortmund]] in the round of 16 and [[RB Leipzig]] in the semi-finals.<ref name="press kit">{{Cite web |date=20 August 2020 |title=UEFA Champions League – 2019/20 season: Match press kits, Final |url=https://www.uefa.com/printoutfiles/competitions/uefachampionsleague/2020/e/e_2030150_pk.pdf |archive-url=https://web.archive.org/web/20200826162128/https://www.uefa.com/printoutfiles/competitions/uefachampionsleague/2020/e/e_2030150_pk.pdf |url-status=dead |archive-date=26 August 2020 |access-date=20 August 2020 |website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+[[File:Hans-Dieter Flick, Germany national football team (03).jpg|thumb|upright|Bayern Munich manager [[Hansi Flick]] appeared in his second European Cup final, having lost as a player with Bayern in [[1987 European Cup final|1987]].]]
+
+[[FC Bayern Munich|Bayern Munich]] reached their eleventh European Cup/Champions League final, tying [[AC Milan|Milan]] for the second-most finals behind Real Madrid's 16. Most recently they appeared in the [[2013 UEFA Champions League final|2013 final]], in which they won 2–1 against archrivals Borussia Dortmund for their fifth title. In their prior finals, Bayern Munich won on four other occasions in [[1974 European Cup final|1974]], [[1975 European Cup final|1975]], [[1976 European Cup final|1976]] and [[2001 UEFA Champions League final|2001]], and lost in [[1982 European Cup final|1982]], [[1987 European Cup final|1987]], [[1999 UEFA Champions League final|1999]], 2010 and [[2012 UEFA Champions League final|2012]].<ref name="RSSSF EC" /> The match was Bayern's 13th overall final in European competition, having won the [[1967 European Cup Winners' Cup Final]] 1–0 after extra time against [[Rangers F.C.|Rangers]] and the [[1996 UEFA Cup Final]] 5–1 on aggregate against [[FC Girondins de Bordeaux|Bordeaux]].<ref name="ECWC" /><ref name="UC">{{Cite web |last=Stokkermans |first=Karel |date=2 April 2020 |title=UEFA Cup |url=https://www.rsssf.org/tablese/ec3b.html |access-date=19 August 2020 |website=[[RSSSF]]}}</ref> Bayern Munich were chasing a second treble in club history (previously doing so in [[2012–13 FC Bayern Munich season|2012–13]]), having won the [[2019–20 Bundesliga|Bundesliga]] and [[2019–20 DFB-Pokal|DFB-Pokal]].<ref>{{Cite news |last=Johnston |first=Neil |date=16 June 2020 |title=Bayern Munich win eighth successive Bundesliga title after beating Werder Bremen |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/53071043 |access-date=16 June 2020}}</ref><ref>{{Cite news |last=Begley |first=Emlyn |date=4 July 2020 |title=Bayer Leverkusen 2–4 Bayern Munich: Robert Lewandowski double helps win German Cup |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/53291688 |access-date=19 August 2020}}</ref> Entering the final, Bayern are on a 20-match winning streak and undefeated in 2020, having not lost in their prior 29 matches (winning 28 and drawing once).<ref name="BBC BAY SF">{{Cite news |last=Dawkes |first=Phil |date=19 August 2020 |title=Lyon 0–3 Bayern Munich: Bayern breeze through to final showdown with PSG |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/53815521 |access-date=19 August 2020}}</ref> With their semi-final win, Bayern also tied the record for the most consecutive wins in the competition proper, as well as the most wins from the start of the competition proper, with 10.<ref>{{Cite news |date=19 August 2020 |title=Longest winning runs in the Champions League |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0260-1022b42e6217-608706466bcb-1000/ |access-date=20 August 2020}}</ref> Bayern are the second team to have entered the final with a perfect winning record, after Milan in 1993, who lost to the only French winners in competition history at that point, Marseille. Bayern are also the second club to reach the final after winning all six group stage matches, after the aforementioned Milan team in [[1992–93 UEFA Champions League|1992–93]].<ref>{{Cite web |last=Ross |first=James M. |date=16 July 2015 |title=Champions' Cup 1992–93 |url=https://www.rsssf.org/ec/ec199293.html |access-date=19 August 2020 |website=[[RSSSF]]}}</ref>
+
+Bayern Munich scored 42 goals in 10 matches during the competition prior to the final, second only to Barcelona's record of 45 goals in 16 matches during the [[1999–2000 UEFA Champions League|1999–2000 season]]. However, Bayern set a new record for the best goals per game ratio in competition history following their quarter-final (regardless of the outcome of the remainder of the competition), with 4.2 per match after their semi-final victory.<ref>{{Cite news |date=19 August 2020 |title=Most goals in a Champions League season |work=UEFA |url=https://www.uefa.com/uefachampionsleague/news/0260-1022946a3df4-505a0487e598-1000/ |access-date=20 August 2020}}</ref> Entering the final, forward [[Robert Lewandowski]] scored 15 goals in 9 matches during the Champions League season, with only [[Cristiano Ronaldo]] having scored more in a single campaign (17 in [[2013–14 UEFA Champions League|2013–14]] and 16 in [[2015–16 UEFA Champions League|2015–16]]). Lewandowski also tied [[Ruud van Nistelrooy]]'s mark from 2002–03 of scoring in nine consecutive Champions League matches, second only to Ronaldo's 11 from 2017–18.<ref name="BBC BAY SF" /> Lewandowski and [[Serge Gnabry]] set a record for the most prolific scoring partnership in a season with 24 combined goals, surpassing the record of 23 between Ronaldo and [[Gareth Bale]] in 2013–14.<ref>{{Cite news |date=20 August 2020 |title=Bayern Munich's Serge Gnabry and Robert Lewandowski break Cristiano Ronaldo-Gareth Bale goals record |publisher=Bundesliga |url=https://www.bundesliga.com/en/bundesliga/news/lewandowski-and-gnabry-break-ronaldo-bale-goals-record-champions-league-12535 |access-date=20 August 2020}}</ref> Bayern manager [[Hansi Flick]] became the 15th individual to [[European Cup and UEFA Champions League records and statistics#Final and winning records|appear in a Champions League final as both a player and manager]], having played for Bayern in their loss to [[FC Porto|Porto]] in the 1987 final.<ref name="finals">{{Cite web |year=2012 |title=European Champion Clubs' Cup – History: Finals |url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/50/84/1885084_DOWNLOAD.pdf |archive-url=https://web.archive.org/web/20130128170559/http://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/50/84/1885084_DOWNLOAD.pdf |url-status=dead |archive-date=28 January 2013 |access-date=19 August 2020 |website=UEFA.com|publisher=Union of European Football Associations }}</ref>
+
+In 34 matches, Bayern Munich had a record of 19 wins, 5 draws and ten losses against French clubs in European competition. Bayern won six of their seven previous knockout ties against French opposition, two of which were finals, including their semi-final win over [[Olympique Lyonnais|Lyon]] to reach the 2020 final. Bayern's only loss was 3–2 on aggregate against [[AS Saint-Étienne|Saint-Étienne]] in the first round of the [[1969–70 European Cup]].<ref name="press kit" />
+
+The final was the ninth meeting between Paris Saint-Germain and Bayern Munich, with a record of five wins for PSG and three wins for Bayern. The fixture was the first knockout match between the sides, with all their prior meetings occurring in the Champions League group stages. The sides most recently met in the [[2017–18 UEFA Champions League group stage#Group B|2017–18 UEFA Champions League group stage]]; Paris won the first match 3–0 at home, while Bayern won the return match 3–1.<ref>{{Cite news |date=18 August 2020 |title=Champions League final head-to-head: Paris vs Bayern |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/025f-0fd682a7776c-cf86f236346f-1000/ |access-date=19 August 2020}}</ref> As the sides were level on points, PSG won the group on head-to-head goal difference.
+
+The match was the second European Cup final to feature a French and German team, after the 1976 final between Bayern and [[A.S. Saint-Étienne|Saint-Étienne]].<ref name="RSSSF EC" /> Overall, it was the fourth final in European competition between teams from France and Germany, also occurring in the 1992 European Cup Winners' Cup Final (between Werder Bremen and Monaco) and the 1996 UEFA Cup Final (between Bayern and Bordeaux). On all three occasions, German teams were victorious.<ref name="ECWC" /><ref name="UC" /> It was also the third final in which both teams entered the match seeking a win to secure the [[Treble (association football)|treble]], previously occurring in [[2010 UEFA Champions League final|2010]], in which Bayern lost to Inter Milan, and [[2015 UEFA Champions League final|2015]], when Barcelona defeated Juventus. The 1999 final, won by [[Manchester United F.C.|Manchester United]], also had both finalists seeking a treble, though Bayern had not yet contested their domestic cup final (which they ultimately lost). Both sides came into the final having won their domestic leagues the previous season, the first time this had happened since the [[1998 UEFA Champions League final|1998 final]] between Juventus and Real Madrid.<ref>{{Cite news |date=19 August 2020 |title=Alphonso Davies, Bayern Munich cruise into 1st Champions League final in 7 years |work=[[Canadian Broadcasting Corporation]] |url=https://www.cbc.ca/sports/soccer/champions-league-bayern-munich-lyon-semifinal-1.5692768 |access-date=19 August 2020}}</ref> It was also the first time since [[1994 UEFA Champions League final|1994]] that both finalists won their domestic league in the previous and same season as reaching the final.<ref>{{Cite web |last1=Karpati |first1=Tamas |last2=Kramarsic |first2=Igor |date=30 July 2020 |title=Italy – List of Champions |url=https://www.rsssf.org/tablesi/italchamp.html |access-date=20 August 2020 |website=RSSSF}}</ref><ref>{{Cite web |last1=Carnicero |first1=Tejedor |last2=Vicente |first2=José |date=23 July 2020 |title=Spain – List of Champions |url=https://www.rsssf.org/tabless/spanchamp.html |access-date=20 August 2020 |website=RSSSF}}</ref> The final was also the second to feature two German managers, after the 2013 edition with managers [[Jürgen Klopp]] for Borussia Dortmund and [[Jupp Heynckes]] for Bayern Munich.<ref name="finals" />
+
+===Previous finals===
+''In the following table, finals until 1992 were in the European Cup era, since 1993 were in the UEFA Champions League era.''<ref name="RSSSF EC" />
+
+{| class="wikitable"
+|-
+!Team
+!Previous final appearances (bold indicates winners)
+|-
+|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|None
+|-
+|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|10 ('''[[1974 European Cup final|1974]]''', '''[[1975 European Cup final|1975]]''', '''[[1976 European Cup final|1976]]''', [[1982 European Cup final|1982]], [[1987 European Cup final|1987]], [[1999 UEFA Champions League final|1999]], '''[[2001 UEFA Champions League final|2001]]''', [[2010 UEFA Champions League final|2010]], [[2012 UEFA Champions League final|2012]], '''[[2013 UEFA Champions League final|2013]]''')
+|}
+
+==Route to the final==
+{{Further|2019–20 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away; N: neutral).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+!Round
+!colspan="4"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2019–20 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Paris Saint-Germain v Real Madrid|3–0]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|SRB}} [[Red Star Belgrade]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Bayern Munich v Red Star Belgrade|3–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Galatasaray v Paris Saint-Germain|1–0]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Tottenham Hotspur v Bayern Munich|7–2]] (A)
+|-
+|style="text-align:left"|{{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Club Brugge v Paris Saint-Germain|5–0]] (A)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Olympiacos v Bayern Munich|3–2]] (A)
+|-
+|style="text-align:left"|{{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Paris Saint-Germain v Club Brugge|1–0]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Bayern Munich v Olympiacos|2–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Real Madrid v Paris Saint-Germain|2–2]] (A)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|SRB}} [[Red Star Belgrade]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Red Star Belgrade v Bayern Munich|6–0]] (A)
+|-
+|style="text-align:left"|{{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Paris Saint-Germain v Galatasaray|5–0]] (H)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|colspan="3"|[[2019–20 UEFA Champions League group stage#Bayern Munich v Tottenham Hotspur|3–1]] (H)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2019–20 UEFA Champions League group stage#Group A|Group A]] winners'''
+{{:2019–20 UEFA Champions League group stage|transcludesection=Group A|only_pld_pts=yes|show_matches=no|showteam=PAR}}
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2019–20 UEFA Champions League group stage#Group B|Group B]] winners'''
+{{:2019–20 UEFA Champions League group stage|transcludesection=Group B|only_pld_pts=yes|show_matches=no|showteam=BAY}}
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2019–20 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|GER}} [[Borussia Dortmund]]
+|3–2
+|[[2019–20 UEFA Champions League knockout phase#Borussia Dortmund v Paris Saint-Germain|1–2]] (A)
+|[[2019–20 UEFA Champions League knockout phase#Paris Saint-Germain v Borussia Dortmund|2–0]] (H)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|7–1
+|[[2019–20 UEFA Champions League knockout phase#Chelsea v Bayern Munich|3–0]] (A)
+|[[2019–20 UEFA Champions League knockout phase#Bayern Munich v Chelsea|4–1]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ITA}} [[Atalanta BC|Atalanta]]
+|colspan="3"|[[2019–20 UEFA Champions League knockout phase#Atalanta v Paris Saint-Germain|2–1]] (N)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan="3"|[[2019–20 UEFA Champions League knockout phase#Barcelona v Bayern Munich|8–2]] (N)
+|-
+|style="text-align:left"|{{fbaicon|GER}} [[RB Leipzig]]
+|colspan="3"|[[2019–20 UEFA Champions League knockout phase#RB Leipzig v Paris Saint-Germain|3–0]] (N)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|colspan="3"|[[2019–20 UEFA Champions League knockout phase#Lyon v Bayern Munich|3–0]] (N)
+|}
+
+===Paris Saint-Germain===
+{{see also|2019–20 Paris Saint-Germain F.C. season}}
+
+[[File:PSG-Shakhter15 (2).jpg|thumb|upright|[[Ángel Di María]] of Paris Saint-Germain had the joint-most assists in the competition with six.<ref name="top scorers">{{Cite web |title=UEFA Champions League – Top Assists |url=https://www.uefa.com/uefachampionsleague/season=2020/statistics/round=2001140/players/kind=goals/index.html#order=4desc |url-status=dead |archive-url=https://archive.today/20200824193714/https://www.uefa.com/uefachampionsleague/season=2020/statistics/round=2001140/players/kind=goals/index.html%23order=4desc |archive-date=24 August 2020 |access-date=23 August 2020 |website=UEFA.com|publisher=Union of European Football Associations }}</ref>]]
+
+Paris Saint-Germain qualified for the Champions League group stage by winning the [[2018–19 Ligue 1]] season, their sixth title in seven seasons and eighth overall French title. In the group stage, they were drawn into Group A alongside Real Madrid of Spain, record winners of the European Cup, as well as [[Galatasaray S.K. (football)|Galatasaray]] of Turkey and [[Club Brugge KV|Club Brugge]] of Belgium.<ref name="GS draw">{{Cite magazine |last=Creditor |first=Avi |date=29 August 2019 |title=Champions League Group Stage Draw: Results for 2019–20 |magazine=[[Sports Illustrated]] |url=https://www.si.com/soccer/2019/08/29/champions-league-draw-group-stage-2019-20-results-pots |access-date=24 August 2020}}</ref>
+
+In the opening match of the group stage, Paris faced Real Madrid at the [[Parc des Princes]] and won 3–0 via a first-half brace from former Madrid player [[Ángel Di María]] and a second-half stoppage time goal from [[Thomas Meunier]].<ref>{{Cite news |last=Sutcliffe |first=Steve |date=18 September 2019 |title=Champions League: Paris St-Germain 3–0 Real Madrid |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/49732379 |access-date=24 August 2020}}</ref> On matchday 2, PSG won 1–0 against Galatasaray at the [[Türk Telekom Stadium]] with a 52nd-minute goal from [[Mauro Icardi]].<ref>{{Cite news |date=1 October 2019 |title=Paris St-Germain 1–0 Galatasaray: Mauro Icardi scores first PSG goal in Champions League win |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/49872942 |access-date=24 August 2020}}</ref> Paris Saint-Germain continued their perfect start to the competition by defeating Club Brugge 5–0 at the [[Jan Breydel Stadium]], with a brace from Icardi and hat-trick from [[Kylian Mbappé]].<ref>{{Cite news |date=22 October 2019 |title=Club Bruges 0–5 Paris St-Germain: Kylian Mbappe dazzles with second-half hat-trick |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/49874401 |access-date=24 August 2020}}</ref> In their home meeting against Brugge, Icardi scored PSG's lone goal in a 1–0 win to advance to the knockout stage.<ref>{{Cite news |date=6 November 2019 |title=Paris St-Germain 1–0 Club Bruges: French champions maintain perfect start to qualify |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/50296570 |access-date=24 August 2020}}</ref> On matchday 5, Paris recovered from a two-goal deficit to draw 2–2 at the [[Santiago Bernabéu Stadium|Santiago Bernabéu]] against Madrid and win Group A, with Mbappé and [[Pablo Sarabia]]'s late goals offsetting a [[Karim Benzema]] brace.<ref>{{Cite news |last=Begley |first=Emlyn |date=26 November 2019 |title=Real Madrid 2–2 Paris St-Germain: French side battle back to top Champions League group |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/50549677 |access-date=24 August 2020}}</ref> In their final match, Paris Saint-Germain won 5–0 at home against Galatasaray to finish the group stage undefeated and having only conceded two goals.<ref>{{Cite news |date=11 December 2019 |title=Paris St-Germain 5–0 Galatasaray: French champions maintain unbeaten record |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/50749875 |access-date=24 August 2020}}</ref>
+
+In the round of 16, PSG were drawn against German club Borussia Dortmund. In the first leg at the [[Westfalenstadion]], Paris lost 2–1 with [[Neymar]] scoring a goal in between a brace from [[Erling Haaland]].<ref>{{Cite news |date=18 February 2020 |title=Dortmund 2–1 Paris: Haaland gives BVB edge |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/025a-0e9f79b54fad-4ba85e60fe75-1000--dortmund-2-1-paris-haaland-gives-bvb-edge/ |access-date=24 August 2020}}</ref> The second leg was one of the last European matches played prior to the suspension of the competition due to the [[COVID-19 pandemic]], and took place [[Behind closed doors (sport)|behind closed doors]] on 11 March 2020. PSG won the match 2–0 with first-half goals from Neymar and [[Juan Bernat]], securing a 3–2 aggregate win for the Parisians and their first quarter-final appearance since the 2015–16 season.<ref>{{Cite news |date=11 March 2020 |title=Paris 2–0 Dortmund (agg: 3–2): Neymar leads Paris through |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/025b-0ee7f29885e7-27d8bd71fbcc-1000--paris-2-0-dortmund-agg-3-2-neymar-leads-paris-through/ |access-date=24 August 2020}}</ref>
+
+Paris were drawn against Italian club [[Atalanta BC|Atalanta]] in the quarter-finals, who were participating in their debut season of the Champions League. The one-off tie was played on 12 August 2020 at the neutral Estádio da Luz. Atalanta took the lead in the first-half with a goal from [[Mario Pašalić]]. PSG struggled to find an equaliser in the second half, until [[Marquinhos]] scored from close range in the 90th minute before substitute [[Eric Maxim Choupo-Moting]] scored three minutes later to snatch a late win for Paris. Paris Saint-Germain advanced to the Champions League semi-finals for the second time in their history after the [[1994–95 UEFA Champions League|1994–95 season]].<ref>{{Cite news |date=12 August 2020 |title=Atalanta 1–2 Paris: Tuchel's side pull off stunning late comeback |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0260-101dac0c3e3f-d6915cd43ac5-1000--atalanta-1-2-paris-tuchel-s-side-pull-off-stunning-late-com/ |access-date=24 August 2020}}</ref>
+
+In the semi-finals, Paris Saint-Germain faced RB Leipzig of Germany, who had qualified to the Champions League knockout stage for the first time in only their second season competing in the competition. Marquinhos and Di María scored in the first half at Estádio da Luz, while Bernat scored 11 minutes into the second period to earn PSG a 3–0 win and a spot in their first Champions League final.<ref>{{Cite news |date=18 August 2020 |title=Leipzig 0–3 Paris: Tuchel's side reach first Champions League final |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0260-1029af22ae00-e7a42bc4728b-1000--leipzig-0-3-paris-tuchel-s-side-reach-first-champions-le/ |access-date=24 August 2020}}</ref>
+
+===Bayern Munich===
+{{see also|2019–20 FC Bayern Munich season}}
+
+[[File:Robert Lewandowski123666.jpg|thumb|upright=1|Bayern striker [[Robert Lewandowski]] was the competition's leading scorer and joint-leading assister with 15 goals and 6 assists en route to the final.<ref name="top scorers" />]]
+
+Bayern Munich qualified directly for the group stage of the Champions League by winning the [[2018–19 Bundesliga]], their 7th consecutive and 29th overall German title. In the group stage, they were drawn into Group B alongside [[Tottenham Hotspur F.C.|Tottenham Hotspur]] of England, runners-up of the [[2018–19 UEFA Champions League|previous Champions League season]], as well as [[Olympiacos F.C.|Olympiacos]] of Greece and [[Red Star Belgrade]] of Serbia.<ref name="GS draw" /> The team began their season under Croatian manager [[Niko Kovač]].
+
+In their first match, Bayern faced Red Star Belgrade in a home match at the [[Allianz Arena]] and won 3–0 with goals from [[Kingsley Coman]], Robert Lewandowski and [[Thomas Müller]].<ref>{{Cite news |date=18 September 2019 |title=Coman im Flug zur 16 – FC Bayern besiegt Roter Stern |language=de |trans-title=Coman header to 16 – FC Bayern defeats Red Star |work=[[Kicker (sports magazine)|kicker]] |url=https://www.kicker.de/bayern-gegen-roter-stern-2019-champions-league-4612103/analyse |access-date=24 August 2020}}</ref> In their second fixture against Tottenham at [[Tottenham Hotspur Stadium]], Bayern won 7–2 with a goal from [[Joshua Kimmich]], a brace from Lewandowski and four goals scored by Serge Gnabry.<ref>{{Cite news |last=McNulty |first=Phil |author-link=Phil McNulty |date=1 October 2019 |title=Tottenham 2–7 Bayern Munich: Serge Gnabry scores four in Champions League demolition |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/49872949 |access-date=24 August 2020}}</ref> The result was the heaviest home loss by an English club in European competition.<ref>{{Cite news |date=1 October 2019 |title=Tottenham Hotspur F.C. in Champions League capitulation as FC Bayern Munich wins 7–2 |work=[[USA Today]] |agency=[[Associated Press]] |url=https://www.usatoday.com/story/sports/soccer/europe/2019/10/01/champions-league-tottenham-has-humiliating-loss-bayern-munich/3836144002/ |access-date=24 August 2020}}</ref> On matchday 3, Bayern faced Olympiacos at the [[Karaiskakis Stadium]] and recovered from a deficit to win 3–2 and maintain their lead in the group with a brace from Lewandowski followed by a curled goal from [[Corentin Tolisso]], while [[Youssef El-Arabi]] and [[Guilherme dos Santos Torres|Guilherme]] scored for the Greek side.<ref>{{Cite news |date=22 October 2019 |title=Robert Lewandowski: Is the Bayern Munich player the world's best striker right now? |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/50145108 |access-date=24 August 2020}}</ref>
+
+However, as Bayern lost 5–1 to [[Eintracht Frankfurt]] in the [[Bundesliga]] on 2 November, manager Niko Kovač was sacked the following day and replaced by former assistant Hansi Flick on an interim basis.<ref>{{Cite news |date=3 November 2019 |title=Bayern München trennt sich von Trainer Kovac |language=de |trans-title=Bayern Munich separates from manager Kovač |work=[[Kicker (sports magazine)|kicker]] |url=https://www.kicker.de/bayern_muenchen_trennt_sich_von_trainer_kovac-761680/artikel |access-date=3 November 2019}}</ref> In Flick's first match in charge three days later, Bayern won the rematch against Olympiacos 2–0 via second-half goals from Lewandowski and [[Ivan Perišić]], thus securing a spot in the knockout stage.<ref>{{Cite news |date=6 November 2019 |title=Bayern Munich 2–0 Olympiakos: Robert Lewandowski helps seal last-16 spot |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/50296535 |access-date=24 August 2020}}</ref> On 26 November, Bayern Munich won 6–0 against Red Star Belgrade at the [[Red Star Stadium]] to win Group B, with Lewandowski scoring four times between goals from [[Leon Goretzka]] and Tolisso.<ref>{{Cite news |date=27 November 2019 |title=Red Star Belgrade 0–6 Bayern Munich: Robert Lewandowski scores four |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/50567024 |access-date=24 August 2020}}</ref> In their final match, goals from Coman, Müller and [[Philippe Coutinho]] earned Bayern a 3–1 home win against Tottenham Hotspur to finish with a perfect group stage record, while [[Ryan Sessegnon]] scored the only goal for the visitors.<ref>{{Cite news |last=Rose |first=Gary |date=11 December 2019 |title=Bayern Munich 3–1 Tottenham Hotspur: Ryan Sessegnon scores on full debut as Spurs lose |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/50719836 |access-date=24 August 2020}}</ref> This was the seventh occasion a team finished the group stage with six wins from six, with Bayern the sixth club to do so. Following a successful spell as interim manager, Bayern announced on 22 December that Flick would remain manager until the end of season.<ref>{{Cite news |date=22 December 2019 |title=Flick to remain FC Bayern head coach until end of season |publisher=FC Bayern Munich |url=https://fcbayern.com/en/news/2019/12/hansi-flick-to-remain-fc-bayern-head-coach-until-end-of-season |access-date=26 December 2019}}</ref>
+
+Bayern were drawn against English club [[Chelsea F.C.|Chelsea]] in the round of 16, with the last Champions League meeting between the sides taking place in the 2012 final. In the first leg away at [[Stamford Bridge (stadium)|Stamford Bridge]], Bayern won 3–0 via a brace from Gnabry followed by a tap-in from Lewandowski set-up by [[Alphonso Davies]]. Chelsea defender [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]] was sent off late in the match, which was the club's heaviest home loss in European competition.<ref>{{Cite news |date=25 February 2020 |title=Chelsea 0–3 Bayern: Gnabry strikes twice |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/025a-0ec9c963f0b5-782f0510f059-1000--chelsea-0-3-bayern-gnabry-strikes-twice/ |access-date=24 August 2020}}</ref> Following the match, Bayern chairman [[Karl-Heinz Rummenigge]] suggested Flick would stay permanently as manager.<ref>{{Cite news |date=25 February 2020 |title=Bayern CEO Rummenigge hints that Flick could stay on as manager into next season |work=[[Goal (website)|Goal]] |url=https://www.goal.com/en-us/news/bayern-ceo-rummenigge-hints-that-flick-could-stay-on/10j2n6l55zw3n1cjl4w3blxdz5 |access-date=24 August 2020}}</ref> On 3 April, Flick signed a new contract with the club lasting until 2023.<ref>{{Cite news |date=3 April 2020 |title="Dauerhaft Cheftrainer": FC Bayern verlängert mit Flick bis 2023 |language=de |trans-title="Permanent head coach": FC Bayern extends until 2023 with Flick |work=kicker |url=https://www.kicker.de/_dauerhaft_cheftrainer_fc_bayern_verlaengert_mit_flick_bis_2023-771422/artikel |access-date=24 August 2020}}</ref> Due to the suspension of the competition due to the COVID-19 pandemic, the second leg was delayed from 18 March until 8 August 2020, and was played behind closed doors at the Allianz Arena. Bayern won the second meeting 4–1, with a Lewandowski brace and goals from Perišić and Tolisso earning a 7–1 victory on aggregate, while [[Tammy Abraham]] scored for the visitors.<ref>{{Cite news |date=8 August 2020 |title=Bayern 4–1 Chelsea (agg: 7–1): Lewandowski at the double |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0260-101599d04d8b-ab50b00312ef-1000--bayern-4-1-chelsea-agg-7-1-lewandowski-at-the-double/ |access-date=24 August 2020}}</ref> The result was Chelsea's heaviest defeat in a two-legged European tie.<ref>{{Cite news |date=8 August 2020 |title=Chelsea defence at its worst in 29 years after record aggregate defeat in Europe |work=[[Yahoo Sports]] |url=https://sports.yahoo.com/chelsea-defence-worst-29-years-220247512.html |access-date=24 August 2020 |archive-date=26 August 2020 |archive-url=https://web.archive.org/web/20200826162149/https://sports.yahoo.com/chelsea-defence-worst-29-years-220247512.html |url-status=dead }}</ref>
+
+As a result of the draw, Bayern faced Spanish club Barcelona in the quarter-finals. The match, played at the Estádio da Luz, finished as an [[FC Barcelona 2–8 FC Bayern Munich|8–2 win]] for Bayern Munich, with Perišić, Gnabry, Kimmich and Lewandowski scoring once each while Müller and Coutinho both earned braces. [[David Alaba]] scored an early own goal for Barcelona, who netted their only other goal via a [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] strike in the 57th minute. For Bayern Munich, the result was the most goals scored by the club in a match during the Champions League era, and the second most for them in competition history after nine scored against [[AC Omonia|Omonia]] in the [[1972–73 European Cup]].<ref>{{Cite web |last1=Zea |first1=Antonio |last2=Haisma |first2=Marcel |date=9 January 2008 |title=Champions' Cup 1972–73 |url=https://www.rsssf.org/ec/ec197273det.html |access-date=24 August 2020 |website=[[RSSSF]]}}</ref> The match was the first time Barcelona conceded six goals or more in European competition, and the first time they conceded four goals in the first half of a Champions League match.<ref>{{Cite news |date=14 August 2020 |title=Barcelona 2–8 Bayern: record-breaking win for rampant Germans |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0260-1020a197123b-5848d2b10d39-1000--barcelona-2-8-bayern-record-breaking-win-for-rampant-germans/ |access-date=24 August 2020}}</ref> It was Barcelona's heaviest defeat since 1951, when they lost 6–0 to [[RCD Espanyol|Espanyol]] in the [[1950–51 La Liga]], and the first time they conceded eight goals in a game since 1946, when they lost 8–0 to [[Sevilla FC|Sevilla]] in the [[1946 Copa del Generalísimo#Round of 16|1946 Copa del Generalísimo]].<ref>{{Cite news |last=Azzoni |first=Tales |date=14 August 2020 |title=Bayern humbles Barcelona 8–2 to reach Champions League semis |newspaper=[[The Washington Post]] |agency=[[Associated Press]] |url=https://www.washingtonpost.com/sports/soccer/bayern-stuns-barcelona-8-2-to-reach-champions-league-semis/2020/08/14/af0b9cea-de70-11ea-b4f1-25b762cdbbf4_story.html |access-date=24 August 2020}}</ref>
+
+Bayern met French club Lyon in the semi-finals of the competition at the Estádio José Alvalade, a rematch of the [[2009–10 UEFA Champions League knockout phase#Semi-finals|2009–10 semi-finals]]. Bayern won 3–0 with a brace from Gnabry followed by a late goal from Lewandowski to advance to their first Champions League final since 2013.<ref>{{Cite news |date=19 August 2020 |title=Lyon 0–3 Bayern: Gnabry leads Flick's men into final |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0260-102bbe96cbe4-17a26d865877-1000--lyon-0-3-bayern-gnabry-leads-flick-s-men-into-final/ |access-date=24 August 2020}}</ref>
+
+==Pre-match==
+[[File:2020 UCL Final identity.jpg|thumb|right|180px|Original identity of the final.]]
+[[File:Daniele Orsato 2016 (cropped).jpg|thumb|180px|Italian [[Daniele Orsato]] was the referee for the final.]]
+
+===Identity===
+The original identity of the 2020 UEFA Champions League final was unveiled at the group-stage draw on 29 August 2019.<ref>{{Cite web |date=29 August 2019 |title=UEFA Champions League launches 2020 Istanbul final identity |url=https://www.uefa.com/news-media/news/0254-0f8e6eac1e46-2ec862941370-1000--uefa-champions-league-launches-2020-istanbul-final-identity/ |website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+===Ambassador===
+The ambassador for the original Istanbul final was former Turkish international [[Hamit Altıntop]],<ref>{{Cite news |date=1 May 2020 |title=EURO 2008 spotlight: How brilliant was Turkey's Hamit Altıntop? |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefaeuro-2020/news/025d-0f4d4e874249-706b086c7e61-1000--all-hail-hamit-altintop/ |archive-url=https://web.archive.org/web/20200506221312/https://www.uefa.com/uefaeuro-2020/news/025d-0f4d4e874249-706b086c7e61-1000--all-hail-hamit-altintop/ |url-status=dead |archive-date=6 May 2020 |access-date=20 June 2020 |quote=...Turkish Football Federation's Executive Committee members planning the UEFA Champions League 2020 final in Istanbul. Hamit is a UEFA ambassador for the city.}}</ref> who finished as runner-up in the [[2009–10 UEFA Champions League]] with Bayern Munich as well as winning the [[2003 UEFA Intertoto Cup|2003]] and [[2004 UEFA Intertoto Cup]]s with [[FC Schalke 04|Schalke 04]].
+
+===Officials===
+On 20 August 2020, UEFA named Italian [[Daniele Orsato]] as the referee for the final. Orsato had been a [[FIFA International Referees List|FIFA referee]] since 2010, and was previously the fourth official in the [[2019 UEFA Europa League Final]]. He was also an assistant video assistant referee in the [[2018 FIFA World Cup Final]]. He was also an additional assistant referee at [[UEFA Euro 2016]] and a [[video assistant referee]] at the [[2018 FIFA World Cup]]. He was joined by four of his fellow countrymen, with Lorenzo Manganelli and Alessandro Giallatini as assistant referees, [[Massimiliano Irrati]] as the video assistant referee and [[Marco Guida]] as the assistant VAR official. The fourth official was [[Ovidiu Hațegan]] of Romania, while Spaniards Roberto Díaz Pérez del Palomar and [[Alejandro Hernández Hernández]] served as the offside and support VAR officials, respectively.<ref name="officials">{{Cite news |date=19 August 2020 |title=Referee team appointed for UEFA Champions League final in Lisbon |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/news-media/news/0260-102d0728ce34-c1031f033e1e-1000/ |access-date=19 August 2020}}</ref>
+
+===Team selection===
+Each team made one change to their starting line-up following the semi-finals. After recovering from injury, Paris Saint-Germain first-choice goalkeeper [[Keylor Navas]] started in place of [[Sergio Rico]]. For Bayern Munich, manager Hansi Flick decided to replace Ivan Perišić, who had started in the three prior Champions League matches, with Paris native Kingsley Coman on the left wing. Centre-back [[Jérôme Boateng]] was also deemed fit to start for Bayern, having suffered a minor injury in the semi-final which required him to be substituted off at half-time.<ref name="ESPN">{{Cite news |date=23 August 2020 |title=Bayern Munich beat Paris Saint-Germain to win Champions League |work=[[ESPN]] |url=https://www.espn.com/soccer/report?gameId=573698 |access-date=24 August 2020}}</ref>
+
+==Match==
+
+===Summary===
+[[File:Kingsley Coman (2019) (cropped).jpg|thumb|upright=.8|Bayern winger [[Kingsley Coman]] scored the only goal of the match in the 59th minute.]]
+
+Paris Saint-Germain kicked off the match, though Bayern Munich began quickly in the opening stages, before Paris found their way into the game after 10 minutes. In the 18th minute, PSG had their first clear opportunity when Kylian Mbappé passed to Neymar on the left side of the penalty area, but his shot was blocked by the leg of Bayern goalkeeper [[Manuel Neuer]]. In the 22nd minute, Bayern forward Robert Lewandowski received the ball in the penalty area, swiveling and shooting the ball towards the goal which deflected off the inside of the left post and back into play. Two minutes later, Ángel Di María found himself with space in front of goal after a one-two with [[Ander Herrera]], but shot the ball over the crossbar of Neuer's goal. During the sequence, Bayern defender Jérôme Boateng injured himself, and had to be replaced by [[Niklas Süle]]. Herrera had a drop-kick deflected wide of the Bayern goal in the 29th minute, while Lewandowski's 31st-minute dipping header was parried by PSG goalkeeper Keylor Navas. In the 45th minute, a misplaced pass by David Alaba in the Bayern back line fell in front of Mbappé, who played a one-two with Herrera before shooting the ball straight at Neuer when confronted by a clear opening on goal.<ref name="ESPN" /> In the following minute of first-half stoppage time, Kingsley Coman was hit on the shoulder by the arm of defender [[Thilo Kehrer]] and went down in the penalty area after cutting down the goal line. However, referee Daniele Orsato dismissed the Bayern appeals for a penalty, and blew for half-time with the match scoreless.<ref>{{Cite news |last=Hytner |first=David |date=23 August 2020 |title=Bayern Munich win Champions League as Kingsley Coman header sinks PSG |work=[[The Guardian]] |url=https://www.theguardian.com/football/2020/aug/23/bayern-munich-paris-saint-germain-psg-champions-league-final-match-report |access-date=23 August 2020}}</ref>
+
+In the second half, Bayern scored the only goal in the 59th minute with a header by Coman, a PSG academy graduate. Thomas Müller laid a pass from Serge Gnabry back to right-back Joshua Kimmich, who crossed the ball from the right into the box towards the unmarked Coman at the far post, which was headed across the goal past Navas and into the right corner of the net. Following the goal, Bayern quickly created additional opportunities in the Parisian half, but were unable to capitalise on the chances. Bayern subsequently switched to a more defensive approach, and in the 70th minute Neuer made another save with his leg after Marquinhos found himself clear on goal following a pass from Ángel Di María into the left side of the penalty box. Three minutes later, Mbappé was caught on the back of his foot by Kimmich after cutting inside the Bayern penalty area, but referee Orsato again decided to not award a penalty. The final chance of the match came in stoppage time, when Mbappé ran down the inside-left channel and passed to Neymar on the left side of Bayern's penalty box, who turned sharply and shot wide of the far post, with substitute Eric Maxim Choupo-Moting's outstretched leg failing to meet the ball directly in front of the goal.<ref name="ESPN" /> Minutes later, the match ended as a 1–0 win for Bayern, securing the continental treble.<ref>{{Cite news |date=23 August 2020 |title=Triple perfekt! Coman köpft Bayern auf Europas Thron |trans-title=Treble perfect! Coman heads Bayern to the European throne |work=[[Kicker (sports magazine)|kicker]] |url=https://www.kicker.de/paris-sg-gegen-bayern-2020-champions-league-4651902/analyse |access-date=23 August 2020}}</ref>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held on 10 July 2020 (after the quarter-final and semi-final draws), at the UEFA headquarters in [[Nyon]], Switzerland.<ref name="QF_SF_F_draw">{{Cite web |date=10 July 2020 |title=UEFA Champions League quarter-final, semi-final and final draws |url=https://www.uefa.com/uefachampionsleague/draws/2020/2001327/ |website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2020|8|23|df=y}}
+|time       = {{CEST|21:00|localtz=WEST}}<!--21:00 CEST, 20:00 WEST-->
+|team1      = [[Paris Saint-Germain FC|Paris Saint-Germain]] {{fbaicon|FRA}}
+|score      = 0–1
+|team2      = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+|goals2     =
+*[[Kingsley Coman|Coman]] {{goal|59}}
+|stadium    = [[Estádio da Luz]], [[Lisbon]]
+|attendance = 0<ref name="full_time">{{Cite web |date=23 August 2020 |title=Full Time Report Final – Paris Saint-Germain v Bayern Munich |url=https://www.uefa.com/newsfiles/UCL/2020/2030150_FR.pdf |access-date=23 August 2020 |website=UEFA.com|publisher=Union of European Football Associations }}</ref>{{refn|group=note|name=UCL behind closed doors|The remainder of the competition, held in August 2020, was played [[Behind closed doors (sport)|behind closed doors]] due to the [[COVID-19 pandemic in Europe]].<ref name="uefa behind closed doors">{{Cite news |date=9 July 2020 |title=Venues for Round of 16 matches confirmed |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/news-media/news/025f-0fd8ee39d484-116d3b4051d6-1000/ |access-date=10 July 2020}}</ref>}}
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2030150/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _psg1920H
+ |pattern_b  = _psg1920home
+ |pattern_ra = _psg1920H
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = 000040
+ |body       = 000040
+ |rightarm   = 000040
+ |shorts     = 000040
+ |socks      = 000040
+ |title      = {{nowrap|Paris Saint-Germain}}<ref name="lineups">{{Cite web |date=23 August 2020 |title=Tactical Line-ups – Final – Sunday 23 August 2020 |url=https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf |access-date=23 August 2020 |website=UEFA.com|publisher=Union of European Football Associations }}</ref>
+}}
+|{{Football kit
+ |pattern_la = _bayern2021h
+ |pattern_b  = _fcbm2021h
+ |pattern_ra = _bayern2021h
+ |pattern_sh = _adidascondivo20rw
+ |pattern_so = _3_stripes_white
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = {{nowrap|Bayern Munich}}<ref name="lineups" />
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CRC}} [[Keylor Navas]]
+|-
+|RB ||'''4''' ||{{flagicon|GER}} [[Thilo Kehrer]]
+|-
+|CB ||'''2''' ||{{flagicon|BRA}} [[Thiago Silva]] ([[Captain (association football)|c]]) || {{yel|83}}
+|-
+|CB ||'''3''' ||{{flagicon|FRA}} [[Presnel Kimpembe]]
+|-
+|LB ||'''14'''||{{flagicon|ESP}} [[Juan Bernat]] || || {{suboff|80}}
+|-
+|CM ||'''21'''||{{flagicon|ESP}} [[Ander Herrera]] || || {{suboff|72}}
+|-
+|CM ||'''5''' ||{{flagicon|BRA}} [[Marquinhos]]
+|-
+|CM ||'''8''' ||{{flagicon|ARG}} [[Leandro Paredes]] || {{yel|52}} || {{suboff|65}}
+|-
+|RF ||'''11'''||{{flagicon|ARG}} [[Ángel Di María]] || || {{suboff|80}}
+|-
+|CF ||'''7''' ||{{flagicon|FRA}} [[Kylian Mbappé]]
+|-
+|LF ||'''10'''||{{flagicon|BRA}} [[Neymar]] || {{yel|81}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|ESP}} [[Sergio Rico]]
+|-
+|GK ||'''30'''||{{flagicon|POL}} [[Marcin Bułka]]
+|-
+|DF ||'''20'''||{{flagicon|FRA}} [[Layvin Kurzawa]] || {{yel|86}} || {{subon|80}}
+|-
+|DF ||'''22'''||{{flagicon|FRA}} [[Abdou Diallo]]
+|-
+|DF ||'''25'''||{{flagicon|NED}} [[Mitchel Bakker]]
+|-
+|DF ||'''31'''||{{flagicon|FRA}} [[Colin Dagba]]
+|-
+|MF ||'''6''' ||{{flagicon|ITA}} [[Marco Verratti]] || || {{subon|65}}
+|-
+|MF ||'''19'''||{{flagicon|ESP}} [[Pablo Sarabia]]
+|-
+|MF ||'''23'''||{{flagicon|GER}} [[Julian Draxler]] || || {{subon|72}}
+|-
+|MF ||'''27'''||{{flagicon|SEN}} [[Idrissa Gueye]]
+|-
+|FW ||'''17'''||{{flagicon|CMR}} [[Eric Maxim Choupo-Moting]] || || {{subon|80}}
+|-
+|FW ||'''18'''||{{flagicon|ARG}} [[Mauro Icardi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Thomas Tuchel]]
+|}
+|valign="top"|[[File:Paris Saint-Germain vs Bayern Munich 2020-08-23.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Manuel Neuer]] ([[Captain (association football)|c]])
+|-
+|RB ||'''32'''||{{flagicon|GER}} [[Joshua Kimmich]]
+|-
+|CB ||'''17'''||{{flagicon|GER}} [[Jérôme Boateng]] || || {{suboff|25}}
+|-
+|CB ||'''27'''||{{flagicon|AUT}} [[David Alaba]]
+|-
+|LB ||'''19'''||{{flagicon|CAN}} [[Alphonso Davies]] || {{yel|28}}
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[Thiago Alcântara|Thiago]] || || {{suboff|86}}
+|-
+|CM ||'''18'''||{{flagicon|GER}} [[Leon Goretzka]]
+|-
+|RW ||'''22'''||{{flagicon|GER}} [[Serge Gnabry]] || {{yel|52}} || {{suboff|68}}
+|-
+|AM ||'''25'''||{{flagicon|GER}} [[Thomas Müller]] || {{yel|90+4}}
+|-
+|LW ||'''29'''||{{flagicon|FRA}} [[Kingsley Coman]] || || {{suboff|68}}
+|-
+|CF ||'''9''' ||{{flagicon|POL}} [[Robert Lewandowski]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''26'''||{{flagicon|GER}} [[Sven Ulreich]]
+|-
+|GK ||'''39'''||{{flagicon|GER}} [[Ron-Thorben Hoffmann]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Álvaro Odriozola]]
+|-
+|DF ||'''4''' ||{{flagicon|GER}} [[Niklas Süle]] || {{yel|56}} || {{subon|25}}
+|-
+|DF ||'''5''' ||{{flagicon|FRA}} [[Benjamin Pavard]]
+|-
+|DF ||'''21'''||{{flagicon|FRA}} [[Lucas Hernandez]]
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Javi Martínez]]
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Philippe Coutinho]] || || {{subon|68}}
+|-
+|MF ||'''11'''||{{flagicon|FRA}} [[Michaël Cuisance]]
+|-
+|MF ||'''14'''||{{flagicon|CRO}} [[Ivan Perišić]] || || {{subon|68}}
+|-
+|MF ||'''24'''||{{flagicon|FRA}} [[Corentin Tolisso]] || || {{subon|86}}
+|-
+|FW ||'''35'''||{{flagicon|NED}} [[Joshua Zirkzee]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Hansi Flick]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Kingsley Coman]] (Bayern Munich)<ref name="MOTM" />
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials" />
+<br />Lorenzo Manganelli ([[Italian Football Federation|Italy]])
+<br />Alessandro Giallatini (Italy)
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials" />
+<br />[[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials" />
+<br />[[Massimiliano Irrati]] (Italy)
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials" />
+<br />[[Marco Guida]] (Italy)
+<br />'''[[Video assistant referee#Assistant video assistant referee|Offside video assistant referee]]:'''<ref name="officials" />
+<br />Roberto Díaz Pérez del Palomar ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="officials" />
+<br />[[Alejandro Hernández Hernández]] (Spain)
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref>{{Cite web |year=2020 |title=Regulations of the UEFA Champions League: 2019/20 Season |url=https://documents.uefa.com/viewer/document/P04gKLB86iNwnsnVdIxRfA |url-status=live |archive-url=https://web.archive.org/web/20200821213051/https://documents.uefa.com/internal/api/webapp/documents/P04gKLB86iNwnsnVdIxRfA/content |archive-date=21 August 2020 |access-date=21 August 2020 |website=UEFA.com|publisher=Union of European Football Associations |format=PDF}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was only given three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{Cite web |date=23 August 2020 |title=Team statistics |url=https://www.uefa.com/newsfiles/UCL/2020/2030150_TS.pdf |access-date=23 August 2020 |website=UEFA.com|publisher=Union of European Football Associations |url-status=live |archive-url=https://web.archive.org/web/20240617220719/https://www.uefa.com/newsfiles/UCL/2020/2030150_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Bayern Munich
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|6
+|5
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|38%
+|62%
+|-
+!scope=row|Corner kicks
+|2
+|2
+|-
+!scope=row|Fouls committed
+|8
+|9
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Bayern Munich
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|3
+|7
+|-
+!scope=row|Shots on target
+|1
+|1
+|-
+!scope=row|Saves
+|0
+|1
+|-
+!scope=row|Ball possession
+|40%
+|60%
+|-
+!scope=row|Corner kicks
+|2
+|2
+|-
+!scope=row|Fouls committed
+|8
+|13
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|4
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Bayern Munich
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|9
+|12
+|-
+!scope=row|Shots on target
+|3
+|2
+|-
+!scope=row|Saves
+|1
+|3
+|-
+!scope=row|Ball possession
+|39%
+|61%
+|-
+!scope=row|Corner kicks
+|4
+|4
+|-
+!scope=row|Fouls committed
+|16
+|22
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|4
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+With the win, Bayern Munich secured their sixth European Cup title to draw level with [[Liverpool F.C.|Liverpool]], behind only Real Madrid (15 titles) and Milan (7 titles). As Bayern also won the Bundesliga and DFB-Pokal, they secured a second continental treble after the 2012–13 season. It was the ninth treble won in Europe, with Bayern Munich only the second club to win it twice after Barcelona in [[2008–09 FC Barcelona season|2008–09]] and [[2014–15 FC Barcelona season|2014–15]].
+
+Former Paris Saint-Germain player Kingsley Coman, who scored the winning goal for Bayern, earned the man of the match award.<ref name="MOTM" /> Bayern goalkeeper Manuel Neuer was voted as the Champions League player of the week, having made three saves during the match to keep a clean sheet.<ref>{{Cite web |date=25 August 2020 |title=Player of the Week |url=https://www.uefa.com/uefachampionsleague/player-of-the-week/ |archive-url=https://archive.today/20200828202029/https://uclpotw.uefa.com/%23/en/previous-winners#/en/ |archive-date=28 August 2020 |access-date=28 August 2020 |website=UEFA.com|publisher=Union of European Football Associations |url-status=live }}</ref> Bayern became the first club to win any European competition [[UEFA club competition records and statistics#Ranking three main European club competitions' winning club sides by winning percentage|with a perfect winning record]], emerging victorious in all 11 matches.<ref name="BBC final" /> As a result, it was also the 14th occasion a club won the Champions League unbeaten, with Bayern the 10th club to do so, and the first since Manchester United in [[2007–08 UEFA Champions League|2007–08]].<ref>{{Cite news |last=Menon |first=Anirudh |date=23 August 2020 |title=Bayern's record 11 and 35, Lewandowski first since Ronaldo: Best stats from UCL final vs. PSG |work=ESPN |url=https://www.espn.com/soccer/uefa-champions-league/story/4165041/bayern-record-11-35-lewandowski-first-since-ronaldo-best-stats-champions-league-final-psg |access-date=24 August 2020}}</ref>
+
+With the win, six Bayern players secured their second European Cup title, five of which were from the club's victorious [[2012–13 UEFA Champions League|2012–13 Champions League campaign]]: David Alaba, Jérôme Boateng, [[Javi Martínez]], Thomas Müller and Manuel Neuer. Therefore, these five joined eight other players who have won two European trebles: [[Dani Alves]], [[Sergio Busquets]], [[Andrés Iniesta]], [[Lionel Messi]], [[Pedro (footballer, born 1987)|Pedro]], [[Gerard Piqué]] and [[Xavi (footballer, born 1980)|Xavi]] with Barcelona in 2008–09 and 2014–15, as well as [[Samuel Eto'o]] with Barcelona in 2008–09 and Inter Milan in [[2009–10 Inter Milan season|2009–10]].<ref>{{Cite news |last=Kappel |first=David |date=24 August 2020 |title=All 13 Footballers Who've Won Two European Trebles |work=Soccer Laduma |url=https://www.soccerladuma.co.za/news/articles/international/categories/international/all-13-footballers-who-ve-won-two-european-trebles/684181 |access-date=24 August 2020}}</ref> [[Thiago Alcântara|Thiago]] was the only other Bayern player to have won the Champions League prior, doing so with Barcelona in [[2010–11 UEFA Champions League|2010–11]].<ref>{{Cite news |last=Pérez |first=David |date=22 August 2020 |title=Flick's Bayern Munich following Heynckes' path |work=[[Marca (newspaper)|Marca]] |url=https://www.marca.com/en/football/international-football/2020/08/22/5f404ae622601d0a1a8b4606.html |access-date=23 August 2020}}</ref> Alphonso Davies became the first Canadian male international to win the Champions League.<ref>{{Cite news |date=23 August 2020 |title=Edmonton's Alphonso Davies wins Champions League title with Bayern Munich |work=CTV News Edmonton |url=https://www.ctvnews.ca/edmonton/article/edmontons-alphonso-davies-wins-champions-league-title-with-bayern-munich/ |access-date=24 August 2020}}</ref>
+
+Paris Saint-Germain's defeat meant that the past seven final debutants since the success of Borussia Dortmund in [[1997 UEFA Champions League final|1997]] had all lost, including fellow Ligue 1 club Monaco in 2004.<ref name="BBC final" /> This also meant their [[Le Classique|arch-rival]] Marseille were still the only French club to ever win the European Cup, having done so in 1993. The match was the lowest-scoring Champions League final since the goalless [[2003 UEFA Champions League final|2003 edition]] between Juventus and Milan and the first final to be ended 1–0 since Real Madrid's victory over Juventus in 1998.<ref name="RSSSF EC" />
+
+Following the completion of the competition, UEFA's Technical Observers named nine Bayern Munich players in the Champions League squad of the season: David Alaba, Alphonso Davies, Serge Gnabry, Leon Goretzka, Joshua Kimmich, Robert Lewandowski, Thomas Müller, Manuel Neuer and Thiago. For Paris Saint-Germain, Marquinhos, Kylian Mbappé and Neymar were included in the squad.<ref>{{Cite news |date=28 August 2020 |title=UEFA Champions League Squad of the Season |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0260-103d6b6179e6-7a1932c7a58c-1000/ |access-date=28 August 2020}}</ref>
+
+As the winners, Bayern also qualified to enter the group stage of the [[2020–21 UEFA Champions League]]; however as Bayern already qualified through their league performance, the berth reserved was given to the team that was top of the abandoned [[2019–20 Eredivisie]] ([[AFC Ajax|Ajax]]), the 11th-ranked association according to next season's access list.<ref name="uefa1819">{{Cite news |date=27 February 2018 |title=Champions League and Europa League changes next season |work=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/uefachampionsleague/news/0242-0e16a85014cb-5ffe48223b95-1000--champions-league-and-europa-league-changes-next-season/ |access-date=27 February 2018}}</ref>
+
+Following the loss, Paris Saint-Germain fans clashed with [[riot police]] in [[Paris]], including on the [[Champs-Élysées]] and near the Parc des Princes.<ref>{{Cite news |date=23 August 2020 |title=Cars ignited, police attacked with fireworks as riots break out after PSG's CL defeat |work=[[Fox Sports (Australian TV network)|Fox Sports]] |url=https://www.foxsports.com.au/football/uefa-champions-league/cars-ignited-police-attacked-with-fireworks-as-riots-break-out-after-psgs-cl-defeat/news-story/8e1c88c9ff3f48d9799fe10c893fe19b |access-date=24 August 2020}}</ref> Cars were ignited, buildings were attacked, and flares and fireworks were shot at police after tear gas was used to disperse fans.<ref>{{Cite news |date=23 August 2020 |title=PSG fans clash with Paris riot police after CL defeat |work=[[USA Today]] |agency=[[Associated Press]] |url=https://www.usatoday.com/story/sports/soccer/2020/08/23/psg-fans-clash-with-paris-riot-police-after-cl-defeat/113458050/ |access-date=24 August 2020}}</ref>
+
+The two teams met again the following season at the quarter-final stage. The scores were level at 3–3 after the two legs, but Paris Saint-Germain won on away goals.
+
+===Viewership===
+In France, the final was televised on [[TF1]], and drew an average of 11.1&nbsp;million viewers, making it the third most watched Champions League final ever in France, after the 1993 and 2004 finals which also involved teams from the country. The game was also shown live on [[RMC (France)|RMC Sport]], who did not disclose their viewing figures. In Germany, the match drew a viewership of 12.8&nbsp;million, which was around 39.9% of the market share, on state-owned [[ZDF]], and another 1.04&nbsp;million viewers watching the match through pay-television broadcaster [[Sky Deutschland]].<ref name="SportBusiness">{{Cite news |last=Ross |first=Martin |date=24 August 2020 |title=TF1 nets peak-time record for PSG-Bayern final, ZDF audience nears 13m |work=SportBusiness |url=https://www.sportbusiness.com/news/tf1-nets-peak-time-record-for-psg-bayern-final-zdf-audience-nears-13m/ |access-date=24 August 2020}}</ref>
+
+==See also==
+*[[2020 UEFA Europa League Final]]
+*[[2020 UEFA Women's Champions League final]]
+*[[2019–20 FC Bayern Munich season]]
+*[[2019–20 Paris Saint-Germain FC season]] 
+*[[FC Bayern Munich in international football]]
+*[[Paris Saint-Germain FC in international football]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefachampionsleague/}}
+{{UEFA Champions League seasons}}
+{{2019–20 in European football (UEFA)}}
+{{Paris Saint-Germain FC matches}}
+{{FC Bayern Munich matches}}
+
+{{DEFAULTSORT:Uefa Champions League final 2020}}
+[[Category:UEFA Champions League finals|2020]]
+[[Category:2019–20 UEFA Champions League|Final]]
+[[Category:August 2020 sports events in Portugal]]
+[[Category:2019–20 in French men's football]]
+[[Category:FC Bayern Munich matches|European Cup Final 2020]]
+[[Category:Paris Saint-Germain FC matches]]
+[[Category:2019–20 in German football]]
+[[Category:Football matches in Lisbon|2020]]
+[[Category:2019–20 in Portuguese football]]
+[[Category:2020s in Lisbon]]
+[[Category:Association football events postponed due to the COVID-19 pandemic]]
+[[Category:France–Germany sports relations|2020]]

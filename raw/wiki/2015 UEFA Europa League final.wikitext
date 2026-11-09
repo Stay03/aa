@@ -1,0 +1,565 @@
+{{Use dmy dates|date=October 2022}}
+{{Infobox football match
+| title              = 2015 UEFA Europa League final
+| image              = 2015 UEFA Europa League Final programme.jpg
+| caption            = Match programme cover
+| event              = [[2014–15 UEFA Europa League]]
+| team1              = [[FC Dnipro|Dnipro Dnipropetrovsk]]
+| team1association   = {{fbaicon|UKR|size=30px}}
+| team1score         = 2
+| team2              = [[Sevilla FC|Sevilla]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 3
+| details            =
+| date               = 27 May 2015
+| stadium            = [[National Stadium, Warsaw|National Stadium]]
+| city               = [[Warsaw]]
+| man_of_the_match1a = [[Éver Banega]] (Sevilla)<ref name="motm">{{cite news |first=Santi |last=Retortillo |title=Sevilla overwhelmed by historic success |url=https://www.uefa.com/uefaeuropaleague/news/0221-0e90e94010ee-d2f48f00cca8-1000--sevilla-overwhelmed-by-historic-success/ |publisher=UEFA |date=28 May 2015 |access-date=28 May 2015 }}</ref>
+| referee            = [[Martin Atkinson]] ([[The Football Association|England]])<ref name="referee"/>
+| attendance         = 45,000<ref name="full_time"/>
+| weather            = Partly cloudy<br />{{convert|13|°C|°F}}<br />65% humidity<ref name="lineups">{{cite news|url=https://www.uefa.com/newsfiles/uefacup/2015/2015228_LU.pdf |title=Tactical Lineups |publisher=UEFA |date=27 May 2015 |access-date=28 May 2015 }}</ref>
+| previous           = [[2014 UEFA Europa League final|2014]]
+| next               = [[2016 UEFA Europa League final|2016]]
+}}
+The '''2015 UEFA Europa League final''' was the final match of the [[2014–15 UEFA Europa League]], the 44th season of [[Europe]]'s secondary club [[association football|football]] tournament organised by [[UEFA]], and the sixth season since it was renamed from the UEFA Cup to the [[UEFA Europa League]]. It was played at the [[National Stadium, Warsaw|National Stadium]] in [[Warsaw]], Poland, on 27 May 2015,<ref name="access">{{cite web |title=2014/15 calendar and access list |url=http://www.uefa.com/uefaeuropaleague/season=2015/accesslist/index.html |archive-url=https://web.archive.org/web/20140527215715/http://www.uefa.com/uefaeuropaleague/season=2015/accesslist/index.html |url-status=dead |archive-date=27 May 2014 |publisher=UEFA |access-date=17 May 2015 }}</ref> between Ukrainian side [[FC Dnipro|Dnipro Dnipropetrovsk]] and the title holders, Spanish side [[Sevilla FC|Sevilla]]. Sevilla won the match 3–2 for a record fourth title.<ref>{{cite news |first=Jonathan |last=Wilson |title=Carlos Bacca double breaks Dnipro hearts for Sevilla to make history |url=https://www.theguardian.com/football/2015/may/27/dnipro-dnipropetrovsk-sevilla-europa-league-final-match-report |work=The Guardian |date=28 May 2015 |access-date=28 May 2015 }}</ref><ref>{{cite news |first=Gary |last=Rose |title=Dnipro Dnipropetrovsk 2-3 Sevilla |url=https://www.bbc.com/sport/0/football/32908634 |publisher=BBC Sport (British Broadcasting Corporation) |date=28 May 2015 |access-date=28 May 2015 }}</ref>
+
+As winners, Sevilla earned the right to play against the winners of the [[2014–15 UEFA Champions League]], [[FC Barcelona|Barcelona]], in the [[2015 UEFA Super Cup]]. Moreover, for the first time, a place in the UEFA Champions League was reserved for the UEFA Europa League winners, meaning that Sevilla automatically qualified for the [[2015–16 UEFA Champions League]] despite not qualifying through their domestic league position.<ref>{{cite web |title=New approach broadens Europa League appeal |url=https://www.uefa.com/uefaeuropaleague/news/0257-0def7f60e195-fd6dc0500321-1000--new-approach-broadens-europa-league-appeal/ |publisher=UEFA |date=29 August 2014 |access-date=17 May 2015 }}</ref>
+
+==Venue==
+[[File:2015 UEFA Europa League Final.jpg|thumb|The National Stadium in Warsaw, Poland, hosted the final.|211x211px]]
+The [[National Stadium, Warsaw|National Stadium]] was announced as the venue of the final at the UEFA Executive Committee meeting on 23 May 2013.<ref>{{cite web |first=Mark |last=Chaplin |title=Executive Committee decides hosts for 2015 finals |url=http://www.uefa.org/about-uefa/executive-committee/news/newsid=1954884.html |publisher=UEFA |date=23 May 2013 |access-date=17 May 2015 }}</ref> This was the first UEFA club final hosted in Poland.
+
+The National Stadium is a retractable roof football stadium located in Warsaw, Poland. It is used mostly for football matches and it is the home stadium of [[Poland national football team]]. The stadium has a seating capacity of 58,145 which makes it the largest association football arena in Poland. Its construction started in 2008 and finished in November 2011. It is located on the site of the former [[10th-Anniversary Stadium|Stadion Dziesięciolecia]], on Aleja Zieleniecka in Praga Południe district, near the city centre. It hosted three group matches (including the opening match), a quarter-final, and a semi-final in [[UEFA Euro 2012]], co-hosted by Poland and Ukraine.
+
+==Background==
+This was Dnipro Dnipropetrovsk's first European final. They were the second Ukrainian team to reach the UEFA Cup/Europa League final, after [[FC Shakhtar Donetsk|Shakhtar Donetsk]], who defeated [[SV Werder Bremen|Werder Bremen]] in the [[2009 UEFA Cup final|2009 final]] in [[Istanbul]], and the third Ukrainian team to play a European final, after Shakhtar Donetsk and [[FC Dynamo Kyiv|Dynamo Kyiv]], who won two [[UEFA Cup Winners' Cup|Cup Winners' Cup]] finals in [[1975 European Cup Winners' Cup final|1975]] and [[1986 European Cup Winners' Cup final|1986]] as representatives of the [[Soviet Union]]. Before this final, Ukrainian clubs had won every major European final which they had competed.<ref>{{cite news |title=Ukraine's flawless record in UEFA club finals |url=https://www.uefa.com/uefaeuropaleague/news/0257-0defa0fee86a-9806927f76d2-1000--ukraine-s-flawless-record-in-uefa-club-finals/ |publisher=UEFA |date=21 May 2015 |access-date=28 May 2015 }}</ref>
+
+This was Sevilla's fourth UEFA Cup/Europa League final. They won all three of their previous finals (in [[2006 UEFA Cup final|2006]], [[2007 UEFA Cup final|2007]] and [[2014 UEFA Europa League final|2014]]). As they won their fourth title, they became the outright record holder, breaking a tie with [[Juventus FC|Juventus]], [[Inter Milan]] and [[Liverpool F.C.|Liverpool]].<ref>{{cite web |title=Sevilla target UEFA Europa League history |url=https://www.uefa.com/uefaeuropaleague/news/0253-0d817c7c9a5e-5cb61ff697a3-1000--sevilla-s-first-four-final-successes/ |publisher=UEFA |date=14 May 2015 |access-date=17 May 2015 }}</ref> Their manager [[Unai Emery]], who was also the winning manager in 2014, became the [[List of UEFA Cup and Europa League winning managers#Managers with multiple titles|fifth coach to win the title twice or more]], after [[Giovanni Trapattoni]] (Juventus in 1977 and 1993, Inter Milan in 1991), [[Luis Molowny]] ([[Real Madrid CF|Real Madrid]] in 1985 and 1986), [[Juande Ramos]] (Sevilla in 2006 and 2007) and [[Rafael Benítez]] ([[Valencia CF|Valencia]] in 2004, [[Chelsea F.C.|Chelsea]] in 2013).<ref>{{cite web |title=Dnipro to face Sevilla in UEFA Europa League final |url=https://www.uefa.com/uefaeuropaleague/news/0252-0cdbb2ed1fd3-812d757b5bf1-1000--dnipro-to-face-sevilla-in-uefa-europa-league-final/ |publisher=UEFA |date=14 May 2015 |access-date=17 May 2015 }}</ref>
+
+The two sides had never met in UEFA club competitions.<ref>{{cite web|url=https://www.uefa.com/printoutfiles/competitions/uefaeuropaleague/2015/E/E_2015228_PK.pdf|archive-url=https://web.archive.org/web/20200104041437/https://www.uefa.com/printoutfiles/competitions/uefaeuropaleague/2015/E/E_2015228_PK.pdf|url-status=dead|archive-date=4 January 2020|title= 2015 UEFA Europa League Final Press Kit|date=27 May 2015|publisher=UEFA|access-date=27 May 2015}}</ref>
+
+==Route to the final==
+{{further|2014–15 UEFA Europa League}}
+''Note: In the table, the score of the finalist is given first (H = home; A = away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|UKR}} [[FC Dnipro|Dnipro Dnipropetrovsk]]
+!Round
+!colspan="4"|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|- bgcolor="#c1e0ff"
+|colspan="4"|'''[[2014–15 UEFA Champions League|Champions League]]'''
+|
+|colspan="4"|'''[[2014–15 UEFA Europa League|Europa League]]'''
+|- bgcolor="#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|Qualifying phase ([[2014–15 UEFA Champions League qualifying phase and play-off round|CL]], [[2014–15 UEFA Europa League qualifying phase and play-off round|EL]])
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|0–2
+|[[2014–15 UEFA Champions League qualifying phase and play-off round#Dnipro Dnipropetrovsk v Copenhagen|0–0]] (H)
+|[[2014–15 UEFA Champions League qualifying phase and play-off round#Copenhagen v Dnipro Dnipropetrovsk|0–2]] (A)
+|bgcolor="#c1e0ff"|Third qualifying round
+|colspan="4" rowspan="3"|Bye
+|- bgcolor="#c1e0ff"
+|colspan="4"|'''[[2014–15 UEFA Europa League|Europa League]]'''
+|
+|-
+|align=left|{{fbaicon|CRO}} [[HNK Hajduk Split|Hajduk Split]]
+|2–1
+|[[2014–15 UEFA Europa League qualifying phase and play-off round#Dnipro Dnipropetrovsk v Hajduk Split|2–1]] (H)
+|[[2014–15 UEFA Europa League qualifying phase and play-off round#Hajduk Split v Dnipro Dnipropetrovsk|0–0]] (A)
+|bgcolor="#c1e0ff"|Play-off round
+|- bgcolor="#c1e0ff"
+|Opponent
+|colspan="3"|Result
+|[[2014–15 UEFA Europa League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|align=left|{{fbaicon|ITA}} [[Inter Milan]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Dnipro Dnipropetrovsk v Internazionale|0–1]] (H)
+|bgcolor="#c1e0ff"|Matchday 1
+|align=left|{{fbaicon|NED}} [[Feyenoord]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Sevilla v Feyenoord|2–0]] (H)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[AS Saint-Étienne|Saint-Étienne]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Saint-Étienne v Dnipro Dnipropetrovsk|0–0]] (A)
+|bgcolor="#c1e0ff"|Matchday 2
+|align=left|{{fbaicon|CRO}} [[HNK Rijeka|Rijeka]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Rijeka v Sevilla|2–2]] (A)
+|-
+|align=left|{{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Dnipro Dnipropetrovsk v Qarabağ|0–1]] (H)
+|bgcolor="#c1e0ff"|Matchday 3
+|align=left|{{fbaicon|BEL}} [[Standard Liège]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Standard Liège v Sevilla|0–0]] (A)
+|-
+|align=left|{{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Qarabağ v Dnipro Dnipropetrovsk|2–1]] (A)
+|bgcolor="#c1e0ff"|Matchday 4
+|align=left|{{fbaicon|BEL}} [[Standard Liège]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Sevilla v Standard Liège|3–1]] (H)
+|-
+|align=left|{{fbaicon|ITA}} [[Inter Milan]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Internazionale v Dnipro Dnipropetrovsk|1–2]] (A)
+|bgcolor="#c1e0ff"|Matchday 5
+|align=left|{{fbaicon|NED}} [[Feyenoord]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Feyenoord v Sevilla|0–2]] (A)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[AS Saint-Étienne|Saint-Étienne]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Dnipro Dnipropetrovsk v Saint-Étienne|1–0]] (H)
+|bgcolor="#c1e0ff"|Matchday 6
+|align=left|{{fbaicon|CRO}} [[HNK Rijeka|Rijeka]]
+|colspan="3"|[[2014–15 UEFA Europa League group stage#Sevilla v Rijeka|1–0]] (H)
+|-
+|colspan="4" valign="top"|'''[[2014–15 UEFA Europa League group stage#Group F|Group F]] runners-up'''
+{{:2014–15 UEFA Europa League group stage|transcludesection=Group F|only_pld_pts=yes|show_matches=no|showteam=DNI}}
+|bgcolor="#c1e0ff"|Final standings
+|colspan="4" valign="top"|'''[[2014–15 UEFA Europa League group stage#Group G|Group G]] runners-up'''
+{{:2014–15 UEFA Europa League group stage|transcludesection=Group G|only_pld_pts=yes|show_matches=no|showteam=SEV}}
+|- bgcolor="#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2014–15 UEFA Europa League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|4–2
+|[[2014–15 UEFA Europa League knockout phase#Dnipro Dnipropetrovsk v Olympiacos|2–0]] (H)
+|[[2014–15 UEFA Europa League knockout phase#Olympiacos v Dnipro Dnipropetrovsk|2–2]] (A)
+|bgcolor="#c1e0ff"|Round of 32
+|align=left|{{fbaicon|GER}} [[Borussia Mönchengladbach]]
+|4–2
+|[[2014–15 UEFA Europa League knockout phase#Sevilla v Borussia Mönchengladbach|1–0]] (H)
+|[[2014–15 UEFA Europa League knockout phase#Borussia Mönchengladbach v Sevilla|3–2]] (A)
+|-
+|align=left|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|2–2 ([[Away goals rule|a]])
+|[[2014–15 UEFA Europa League knockout phase#Dnipro Dnipropetrovsk v Ajax|1–0]] (H)
+|[[2014–15 UEFA Europa League knockout phase#Ajax v Dnipro Dnipropetrovsk|1–2]] {{aet}} (A)
+|bgcolor="#c1e0ff"|Round of 16
+|align=left|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|5–2
+|[[2014–15 UEFA Europa League knockout phase#Villarreal v Sevilla|3–1]] (A)
+|[[2014–15 UEFA Europa League knockout phase#Sevilla v Villarreal|2–1]] (H)
+|-
+|align=left|{{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|1–0
+|[[2014–15 UEFA Europa League knockout phase#Club Brugge v Dnipro Dnipropetrovsk|0–0]] (A)
+|[[2014–15 UEFA Europa League knockout phase#Dnipro Dnipropetrovsk v Club Brugge|1–0]] (H)
+|bgcolor="#c1e0ff"|Quarter-finals
+|align=left|{{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|4–3
+|[[2014–15 UEFA Europa League knockout phase#Sevilla v Zenit Saint Petersburg|2–1]] (H)
+|[[2014–15 UEFA Europa League knockout phase#Zenit Saint Petersburg v Sevilla|2–2]] (A)
+|-
+|align=left|{{fbaicon|ITA}} [[SSC Napoli|Napoli]]
+|2–1
+|[[2014–15 UEFA Europa League knockout phase#Napoli v Dnipro Dnipropetrovsk|1–1]] (A)
+|[[2014–15 UEFA Europa League knockout phase#Dnipro Dnipropetrovsk v Napoli|1–0]] (H)
+|bgcolor="#c1e0ff"|Semi-finals
+|align=left|{{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|5–0
+|[[2014–15 UEFA Europa League knockout phase#Sevilla v Fiorentina|3–0]] (H)
+|[[2014–15 UEFA Europa League knockout phase#Fiorentina v Sevilla|2–0]] (A)
+|}
+
+===Dnipro Dnipropetrovsk===
+As runners-up of the [[2013–14 Ukrainian Premier League]] behind Shakhtar, Dnipro were awarded a spot in the third qualifying round of the [[2014–15 UEFA Champions League]] for the first time in their history. They were drawn against Danish runners-up [[FC Copenhagen]], but a draw in the first leg at home, followed by a 2–0 defeat in Denmark, meant they dropped down into the Europa League play-off, where they defeated [[HNK Hajduk Split|Hajduk Split]] to reach the group stage for the third time in a row.
+
+Dnipro were drawn in [[2014–15 UEFA Europa League group stage#Group F|Group F]] with [[Inter Milan]], [[AS Saint-Étienne|Saint-Étienne]], and [[Qarabağ FK|Qarabağ]]. The group stage campaign started disastrously for the Ukrainians, who earned only a single point in their first three games with a 0–0 draw away to Saint-Étienne and 1–0 home defeats to both Inter and Qarabağ. On matchday 4, a 2–1 away win over the Azerbaijani team ended a winless run, but Dnipro were again defeated by Inter 2–1 in Milan, despite taking a 1–0 lead through [[Ruslan Rotan]]'s early goal. Dnipro went into their final group match at home to Saint-Étienne at the bottom of the Group F table and needing a win to stand a chance of qualifying;<ref>{{cite news |title=Europa League matchday six permutations |url=https://www.uefa.com/uefaeuropaleague/news/0253-0d0424703171-5bdbbb9c21a9-1000--europa-league-matchday-six-permutations/ |publisher=UEFA |date=10 December 2014 |access-date=17 May 2015 }}</ref> [[Artem Fedetskyi]] scored the only goal of the match midway through the second half to secure a 1–0 win.<ref>{{cite news |title=Fedetskiy takes Dnipro through |url=https://www.uefa.com/uefaeuropaleague/news/025a-0ea6f6d84d13-e4483d156081-1000--fedetskiy-takes-dnipro-through/ |publisher=UEFA |date=11 December 2014 |access-date=17 May 2015 }}</ref> With Qarabağ only managing a 0–0 draw against group winners Inter, Dnipro finished the group stage in second place with seven points.<ref>{{cite news |title=Qarabağ hold Inter but fall short |url=https://www.uefa.com/uefaeuropaleague/news/025a-0ea6f65eb0d0-11ee8ee72f85-1000--qarabag-hold-inter-but-fall-short/ |publisher=UEFA |date=11 December 2014 |access-date=17 May 2015 }}</ref>
+
+===Sevilla===
+As title holders, Sevilla qualified for the group stage automatically, and were placed in Group G with [[Feyenoord]], [[HNK Rijeka|Rijeka]] and [[Standard Liège]]. They began their campaign with a 2–0 win over Feyenoord, with first-half goals from [[Grzegorz Krychowiak]] and [[Stéphane Mbia]]. Two weeks later, Mbia earned a 2–2 draw at Rijeka. Sevilla then played Liège twice, a goalless away draw and a 3–1 home victory with goals from [[Kevin Gameiro]], [[José Antonio Reyes]] and [[Carlos Bacca]]. They then lost 2–0 away to Feyenoord, sending the Dutch side to the knockout stage ahead of Sevilla. The Spanish side secured second place in the final game with a home victory over Rijeka via [[Denis Suárez]]'s first European goal.<ref>{{cite news |first=Nick |last=Aitken |title=Suárez sends Sevilla through at Rijeka's expense |url=https://www.uefa.com/uefaeuropaleague/news/021c-0e8eac10a2e1-132f7ef452b3-1000--suarez-sends-sevilla-through-at-rijeka-s-expense/ |publisher=UEFA |date=11 December 2014 |access-date=17 May 2015 }}</ref>
+
+==Pre-match==
+===Ambassador===
+[[File:Jerzy_Dudek.jpg|thumb|upright|[[Jerzy Dudek]] was named as the ambassador for the final.]]
+Former Poland international goalkeeper [[Jerzy Dudek]], who won the Champions League with [[Liverpool F.C.|Liverpool]] in 2005, was named the ambassador for the final.<ref>{{cite web |title=Dudek named Europa League final ambassador |url=https://www.uefa.com/uefaeuropaleague/news/0257-0def7f8d1940-716ce2606c3b-1000--dudek-named-europa-league-final-ambassador/ |publisher=UEFA |date=29 August 2014 |access-date=17 May 2015 }}</ref>
+
+===Officials===
+In May 2015, English [[referee (association football)|referee]] [[Martin Atkinson]] was chosen to oversee the final. He was joined by compatriots Stephen Child and Michael Mullarkey as [[assistant referee (association football)|assistant referees]], [[Andre Marriner]] and [[Anthony Taylor (referee)|Anthony Taylor]] as [[assistant referee (association football)#Additional assistant referee|additional assistant referees]], Jake Collin as [[assistant referee (association football)#Fifth official and reserve assistant referee|reserve assistant referee]], and the Czech [[Pavel Královec]] as [[assistant referee (association football)#Fourth official|fourth official]].<ref name="referee">{{cite news |title=Atkinson to referee UEFA Europa League final |url=https://www.uefa.com/uefaeuropaleague/news/0221-0e90c6cebc4d-789c81c9956e-1000--atkinson-to-referee-uefa-europa-league-final/ |publisher=UEFA |date=18 May 2015 |access-date=18 May 2015 }}</ref>
+
+===Identity===
+UEFA unveiled the visual identity of the final on 29 August 2014.<ref>{{cite web |title=Event design unveiled for 2015 UEFA Europa League final |url=http://www.uefa.org/about-uefa/administration/marketing/news/newsid=2137071.html |publisher=UEFA |date=29 August 2014 |access-date=17 May 2015 }}</ref>
+
+===Ticketing===
+With a stadium capacity of 56,000, a total of 44,000 tickets were made available to fans and the general public, with the two finalist teams receiving 9,500 tickets each and 25,000 tickets sold to fans worldwide via the UEFA website from 26 February to 25 March 2015 in four price categories: [[Euro|€]]130, €90, €65, and €40.<ref>{{cite web |title=Warsaw final tickets go on international sale |url=https://www.uefa.com/uefaeuropaleague/news/021e-0e9ac0759b50-c58c489691ab-1000--warsaw-final-tickets-go-on-international-sale/ |publisher=UEFA |date=26 February 2015 |access-date=17 May 2015 }}</ref>
+
+===Kits===
+At the behest of club president José Castro, Sevilla chose to wear their red away kit, featuring their badge rather than the "SFC" monogram which they had previously been sporting.<ref>{{cite news|title=A la final de Varsovia, de color rojo y con el escudo actual|trans-title=At the final in Warsaw, in red and with the current badge|url=http://www.estadiodeportivo.com/sevilla/2015/05/18/final-varsovia-color-rojo-escudo-actual/41938.html|access-date=20 May 2015|work=Estadio Deportivo|date=18 May 2015|language=es}}</ref>
+
+==Match==
+
+===Summary===
+[[File:Carlos_Bacca,_2012-07-17.jpg|thumb|upright|[[Carlos Bacca]] scored twice for Sevilla, including the winning goal]]
+Although Sevilla dominated possession in the early exchanges, Dnipro opened the scoring after seven minutes when [[Nikola Kalinić (footballer)|Nikola Kalinić]] headed in a cross from [[Matheus (footballer, born 1983)|Matheus]]. In the 28th minute, Dnipro failed to clear from a free kick and Sevilla midfielder [[Grzegorz Krychowiak]] took possession of the ball, taking a step to evade [[Léo Matos]] before shooting an equaliser in his home country. Only three minutes later, the Spanish club took the lead, when captain [[José Antonio Reyes]], in what was reported to be his final match for Sevilla, found [[Carlos Bacca]] who rounded Dnipro goalkeeper [[Denys Boyko]]. Only two minutes before half time, Dnipro equalised, with [[Ruslan Rotan]] dispatching a free kick past [[Sergio Rico]].<ref name=guard>{{cite news |first=Paul |last=Doyle |title=Dnipro 2–3 Sevilla |url=https://www.theguardian.com/football/live/2015/may/27/dnipro-v-sevilla-europa-league-final-live |work=The Guardian |date=27 May 2015 |access-date=28 May 2015 }}</ref>
+
+In the 58th minute, Sevilla made the game's first substitution: Reyes made way for [[Coke (footballer)|Coke]], who went into his habitual right-back position, pushing [[Aleix Vidal]] forward into the right-wing position held by Reyes. Fifteen minutes later, Sevilla scored the winner, Bacca converting after being supplied by [[Vitolo (footballer, born 1989)|Vitolo]]. Soon after, Dnipro made an attacking change, replacing Kalinić with [[Yevhen Seleznyov]], and Sevilla substituted Bacca for [[Kevin Gameiro]]. The two teams then made their last substitutions in the closing stages, Dnipro replaced [[Jaba Kankava]] with [[Yevhen Shakhov (footballer, born 1990)|Yevhen Shakhov]] and Sevilla took off [[Éver Banega]] for [[Vicente Iborra]].<ref name=guard/>
+
+Soon after all changes had been made, Dnipro's Matheus collapsed and was taken off by medical staff. Manager [[Myron Markevych]] confirmed that he was treated at hospital for a nasal fracture and a head injury, being discharged in good health hours later to reunite with his teammates.<ref>{{cite news |first=Luke |last=Meehan |title=Matheus fine and well after collapse – Markevych |url=http://www.goal.com/en/news/166/europa-league/2015/05/28/12164792/matheus-fine-and-well-after-collapse-markevych |publisher=Goal |date=28 May 2015 |access-date=29 May 2015 }}</ref><!-- it would be nice if we could come up with a better (and more reliable) source than Goal.com -->
+
+Sevilla's record fourth title meant that Spain and Italy were tied with the most UEFA Cup/Europa League titles, with both countries having won nine times.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0221-0e90e477a0d6-7757fcd8b605-1000--sevilla-out-on-their-own-in-all-time-standings/|title=Sevilla out on their own in all-time standings|publisher=UEFA|date=27 May 2015}}</ref><ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0250-0c51090ec052-18f1e70610e7-1000--spain-join-italy-at-top-of-all-time-rankings/|title=Spain join Italy at top of all-time rankings|publisher=UEFA|date=27 May 2015}}</ref> [[José Antonio Reyes]] became the first player to win the UEFA Cup/Europa League four times, as he was also a member of the winning side for [[Atlético Madrid]] in 2010 and 2012 (although he missed the latter final) and for Sevilla in 2014.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0221-0e90e8bc7e29-8ca1d6a5f787-1000--fantastic-four-for-sevilla-s-reyes/|title=Fantastic four for Sevilla's Reyes|publisher=UEFA|date=28 May 2015}}</ref> Three players had won the title three times: [[Ray Clemence]], [[Giuseppe Bergomi]], and [[Nicola Berti]].
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2015|5|27|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[FC Dnipro|Dnipro Dnipropetrovsk]] {{fbaicon|UKR}}
+|score      = 2–3
+|team2      = {{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+*[[Nikola Kalinić (footballer)|Kalinić]] {{goal|7}}
+*[[Ruslan Rotan|Rotan]] {{goal|44}}
+|goals2     =
+*[[Grzegorz Krychowiak|Krychowiak]] {{goal|28}}
+*[[Carlos Bacca|Bacca]] {{goal|31||73}}
+|stadium    = [[National Stadium, Warsaw|National Stadium]], [[Warsaw]]
+|attendance = 45,000<ref name="full_time">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/uefacup/2015/2015228_FR.pdf |publisher=UEFA |date=27 May 2015 |access-date=28 May 2015 }}</ref>
+|referee    = [[Martin Atkinson]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2015228/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _greece1415a
+| pattern_b  = _greece1415away
+| pattern_ra = _greece1415a
+| leftarm    = 2447D5
+| body       = 2447D5
+| rightarm   = 2447D5
+| shorts     = 2447D5
+| socks      = 2447D5
+| title      = Dnipro Dnipropetrovsk<ref name="lineups"/>
+}}
+|{{Football kit
+| pattern_la        = _liverpool0405h
+| pattern_b         = 
+| pattern_ra        = _liverpool0405h
+| pattern_sh        = _liverpool0405h
+| pattern_so        = _liverpool0405h
+| leftarm           = DD0000
+| body              = FF0000
+| rightarm          = DD0000
+| shorts            = DD0000
+| socks             = FF0000
+| title      = Sevilla<ref name="lineups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''71'''||{{flagicon|UKR}} [[Denys Boyko]]
+|-
+|RB ||'''44'''||{{flagicon|UKR}} [[Artem Fedetskyi]]
+|-
+|CB ||'''23'''||{{flagicon|BRA}} [[Douglas (footballer, born April 1990)|Douglas Bacelar]]
+|-
+|CB ||'''14'''||{{flagicon|UKR}} [[Yevhen Cheberyachko]]
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Léo Matos]] || {{yel|83}}
+|-
+|DM ||'''7''' ||{{flagicon|GEO}} [[Jaba Kankava]] || {{yel|17}} || {{suboff|85}}
+|-
+|CM ||'''29'''||{{flagicon|UKR}} [[Ruslan Rotan]] ([[Captain (association football)|c]]) || {{yel|75}}
+|-
+|CM ||'''25'''||{{flagicon|UKR}} [[Valeriy Fedorchuk]] || || {{suboff|68}}
+|-
+|RW ||'''99'''||{{flagicon|BRA}} [[Matheus (footballer, born 1983)|Matheus]]
+|-
+|LW ||'''10'''||{{flagicon|UKR}} [[Yevhen Konoplyanka]]
+|-
+|CF ||'''9''' ||{{flagicon|CRO}} [[Nikola Kalinić (footballer)|Nikola Kalinić]] || {{yel|45+2}} || {{suboff|78}}
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|CZE}} [[Jan Laštůvka]]
+|-
+|DF ||'''2''' ||{{flagicon|ROU}} [[Alexandru Vlad]]
+|-
+|DF ||'''24'''||{{flagicon|UKR}} [[Valeriy Luchkevych]]
+|-
+|MF ||'''19'''||{{flagicon|UKR}} [[Roman Bezus]] || {{yel|70}} || {{subon|68}}
+|-
+|MF ||'''20'''||{{flagicon|POR}} [[Bruno Gama]]
+|-
+|MF ||'''28'''||{{flagicon|UKR}} [[Yevhen Shakhov (footballer, born 1990)|Yevhen Shakhov]] || || {{subon|85}}
+|-
+|FW ||'''11'''||{{flagicon|UKR}} [[Yevhen Seleznyov]] || || {{subon|78}}
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|UKR}} [[Myron Markevych]]
+|}
+|style="vertical-align:top"|[[File:Dnipro-Sevilla 2015-05-27.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''29'''||{{flagicon|ESP}} [[Sergio Rico]]
+|-
+|RB ||'''22'''||{{flagicon|ESP}} [[Aleix Vidal]]
+|-
+|CB ||'''6''' ||{{flagicon|POR}} [[Daniel Carriço]] || {{yel|62}}
+|-
+|CB ||'''15'''||{{flagicon|FRA|1974}} [[Timothée Kolodziejczak]]
+|-
+|LB ||'''2''' ||{{flagicon|FRA|1974}} [[Benoît Trémoulinas]]
+|-
+|DM ||'''25'''||{{flagicon|CMR}} [[Stéphane Mbia]]
+|-
+|CM ||'''19'''||{{flagicon|ARG}} [[Éver Banega]] || || {{suboff|89}}
+|-
+|CM ||'''4''' ||{{flagicon|POL}} [[Grzegorz Krychowiak]] || {{yel|45+2}}
+|-
+|RW ||'''10'''||{{flagicon|ESP}} [[José Antonio Reyes]] ([[Captain (association football)|c]]) || || {{suboff|58}}
+|-
+|LW ||'''20'''||{{flagicon|ESP}} [[Vitolo (footballer, born 1989)|Vitolo]]
+|-
+|CF ||'''9''' ||{{flagicon|COL}} [[Carlos Bacca]] || {{yel|74}} || {{suboff|82}}
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|POR}} [[Beto (footballer, born 1982)|Beto]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Fernando Navarro (Spanish footballer)|Fernando Navarro]]
+|-
+|DF ||'''5''' ||{{flagicon|POR}} [[Diogo Figueiras]]
+|-
+|DF ||'''23'''||{{flagicon|ESP}} [[Coke (footballer)|Coke]] || || {{subon|58}}
+|-
+|MF ||'''12'''||{{flagicon|ESP}} [[Vicente Iborra]] || || {{subon|89}}
+|-
+|MF ||'''17'''||{{flagicon|ESP}} [[Denis Suárez]]
+|-
+|FW ||'''7''' ||{{flagicon|FRA|1974}} [[Kevin Gameiro]] || || {{subon|82}}
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ESP}} [[Unai Emery]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Éver Banega]] (Sevilla)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Mike Mullarkey ([[The Football Association|England]])
+<br />Stephen Child ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Pavel Královec]] ([[Football Association of the Czech Republic|Czech Republic]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="referee"/>
+<br />[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+<br />[[Andre Marriner]] ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="referee"/>
+<br />Jake Collin ([[The Football Association|England]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Europa League 2014/15 Season |url=http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/09/88/37/2098837_DOWNLOAD.pdf |publisher=UEFA |date=1 May 2014 |access-date=17 May 2015 }}</ref>
+*90 minutes
+*30 minutes of [[Extra time (association football)|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes, of which up to three may be used
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2015/2015228_TS.pdf |title=Team statistics |publisher=UEFA |date=28 May 2014 |access-date=28 May 2015}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Dnipro Dnipropetrovsk
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|2
+|2
+|-
+!scope=row|Total shots
+|4
+|11
+|-
+!scope=row|Shots on target
+|3
+|3
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|39%
+|61%
+|-
+!scope=row|Corner kicks
+|2
+|4
+|-
+!scope=row|Fouls committed
+|14
+|10
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Dnipro Dnipropetrovsk
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|8
+|7
+|-
+!scope=row|Shots on target
+|2
+|2
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|45%
+|55%
+|-
+!scope=row|Corner kicks
+|3
+|7
+|-
+!scope=row|Fouls committed
+|10
+|6
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Dnipro Dnipropetrovsk
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|2
+|3
+|-
+!scope=row|Total shots
+|12
+|18
+|-
+!scope=row|Shots on target
+|5
+|5
+|-
+!scope=row|Saves
+|2
+|3
+|-
+!scope=row|Ball possession
+|42%
+|58%
+|-
+!scope=row|Corner kicks
+|5
+|11
+|-
+!scope=row|Fouls committed
+|24
+|16
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|5
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2015 UEFA Champions League final]]
+*[[2015 UEFA Super Cup]]
+*[[Sevilla FC in European football]]
+*[[2014–15 FC Dnipro season]]
+*[[2014–15 Sevilla FC season]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20140528082451/http://www.uefa.com/uefaeuropaleague/season=2015/index.html 2014–15 UEFA Europa League]
+*[https://web.archive.org/web/20140622174547/http://www.uefa.com/uefaeuropaleague/season=2015/final/index.html 2015 final: Warsaw]
+
+{{UEFA Europa League seasons}}
+{{2014–15 in European football (UEFA)}}
+{{FC Dnipro matches}}
+{{Sevilla FC matches}}
+
+{{DEFAULTSORT:Uefa Europa League Final 2015}}
+[[Category:UEFA Europa League finals|2015]]
+[[Category:2014–15 UEFA Europa League|Final]]
+[[Category:2014–15 in Polish football]]
+[[Category:Football competitions in Warsaw]]
+[[Category:2014–15 in Ukrainian football]]
+[[Category:2014–15 in Spanish men's football]]
+[[Category:FC Dnipro matches]]
+[[Category:Sevilla FC matches]]
+[[Category:May 2015 sports events in Poland]]
+[[Category:2010s in Warsaw]]
+[[Category:Spain–Ukraine sports relations|2015]]
+[[Category:Football matches in Poland]]

@@ -1,0 +1,478 @@
+{{EngvarB|date=December 2018}}
+{{Use dmy dates|date=December 2018}}
+{{Infobox football match
+| title              = 2018 FIFA Club World Cup final
+| event              = [[2018 FIFA Club World Cup]]
+| image              = Gulf Cup (36).jpg
+| imagesize          = 250
+| caption            = The Zayed Sports City Stadium in Abu Dhabi hosted the final.
+| team1              = [[Real Madrid CF|Real Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 4
+| team2              = [[Al Ain FC|Al Ain]]
+| team2association   = {{fbaicon|UAE|size=30px}}
+| team2score         = 1
+| date               = {{Start date|2018|12|22|df=y}}
+| stadium            = [[Zayed Sports City Stadium]]
+| city               = [[Abu Dhabi]]
+| man_of_the_match1a = [[Marcos Llorente]] {{nowrap|(Real Madrid)}}<ref name="match report"/>
+| referee            = [[Jair Marrufo]] {{nowrap|([[United States Soccer Federation|United States]])}}<ref name="start list">{{cite web |url=https://digitalhub.fifa.com/m/6f030d4c94cfec59/original/kyiqkc12hnsagziqd5sv-pdf.pdf |title=Start list, Final, Real Madrid CF – Al Ain FC |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 December 2018 |access-date=22 December 2018}}</ref>
+| attendance         = 40,696<ref name="match report"/>
+| weather            = Clear night<br />{{convert|22|°C|°F|abbr=on}}<br />65% [[humidity]]<ref name="start list"/>
+| previous           = [[2017 FIFA Club World Cup final|2017]]
+| next               = [[2019 FIFA Club World Cup final|2019]]
+}}
+The '''2018 FIFA Club World Cup final''' was the final match of the [[2018 FIFA Club World Cup]], an international club [[association football]] tournament hosted by the United Arab Emirates. It was the 15th final of the [[FIFA Club World Cup]], a [[FIFA]]-organised tournament between the winners of the six continental confederations, as well as the host nation's league champions.
+
+The final was contested between [[Royal Spanish Football Federation|Spanish]] club and defending champions [[Real Madrid CF|Real Madrid]] (who won the last two editions of the competition), representing [[UEFA]] as the reigning champions of the [[UEFA Champions League]], and [[United Arab Emirates Football Association|Emirati]] club [[Al Ain FC|Al Ain]], representing the host nation as the reigning champions of the [[UAE Pro-League]].<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/abu-dhabi-set-for-another-final-showpiece |title=Abu Dhabi set for another final showpiece |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=20 December 2018 |access-date=22 December 2018}}</ref> The match was played at the [[Zayed Sports City Stadium]] in [[Abu Dhabi]] on 22 December 2018.<ref>{{cite web |date=December 2018 |title=Match Schedule: FIFA Club World Cup UAE 2018 |url=https://digitalhub.fifa.com/m/254a4e309283428b/original/vqkcup2rbaefmowmvpfu-pdf.pdf |publisher=Fédération Internationale de Football Association |access-date=19 December 2018}}</ref>
+
+Real Madrid won the final 4–1 for their third consecutive and fourth overall FIFA Club World Cup title, breaking the tie with [[FC Barcelona|Barcelona]] to become the outright record winners of the competition.<ref name="match summary">{{cite news |url=https://www.fifa.com/clubworldcup/news/real-madrid-win-third-successive-global-crown |archive-url=https://web.archive.org/web/20181222230424/https://www.fifa.com/clubworldcup/news/real-madrid-win-third-successive-global-crown |url-status=dead |archive-date=22 December 2018 |title=Real Madrid win third successive global crown |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 December 2018 |access-date=22 December 2018}}</ref>
+
+==Teams==
+''In the following table, finals until 2005 were in the FIFA Club World Championship era, since 2006 were in the FIFA Club World Cup era.''
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification for tournament
+!Previous club world championship finals<br />
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[UEFA]]
+|Winners of the [[2017–18 UEFA Champions League]]
+|IC: 5 ('''[[1960 Intercontinental Cup|1960]]''', [[1966 Intercontinental Cup|1966]], '''[[1998 Intercontinental Cup|1998]]''', [[2000 Intercontinental Cup|2000]], '''[[2002 Intercontinental Cup|2002]]''')<br />FCWC: 3 ('''[[2014 FIFA Club World Cup final|2014]]''', '''[[2016 FIFA Club World Cup final|2016]]''', '''[[2017 FIFA Club World Cup final|2017]]''')
+|-
+|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|[[Asian Football Confederation|AFC]] ([[United Arab Emirates Football Association|host]])
+|Winners of the [[2017–18 UAE Pro-League]]
+|None
+|}
+
+==Venue==
+[[Zayed Sports City Stadium]] in [[Abu Dhabi]] was announced as the venue for the final in May 2018, reprising its role as the final venue in [[2009 FIFA Club World Cup final|2009]], [[2010 FIFA Club World Cup final|2010]], and [[2017 FIFA Club World Cup final|2017]].<ref>{{cite news |last=McAuley |first=John |date=16 May 2018 |title=Al Ain ready to take on 'world class' teams after confirming place at Fifa Club World Cup |url=https://www.thenationalnews.com/sport/football/al-ain-ready-to-take-on-world-class-teams-after-confirming-place-at-fifa-club-world-cup-1.731083 |work=[[The National (Abu Dhabi)|The National]] |location=Abu Dhabi |access-date=19 December 2018}}</ref> It is the largest stadium in the United Arab Emirates and is primarily used by the [[United Arab Emirates national football team|Emirati national football team]].<ref>{{cite news |date=17 December 2018 |title=Ultimate guide to the eight stadiums used at the 2019 Asian Cup in the United Arab Emirates |url=https://www.foxsports.com.au/football/asian-cup/ultimate-guide-to-the-eight-stadiums-used-at-the-2019-asian-cup-in-the-united-arab-emirates/news-story/d22f13ff7c8ad5d8e362d06ca74b3de6?nk=4571f879f99856fc09ea9029f90e8296-1545275496 |work=[[Fox Sports (Australia)|Fox Sports]] |access-date=19 December 2018}}</ref> Zayed Sports City Stadium hosted the [[1996 AFC Asian Cup|1996 Asian Cup final]] and is planned to host several matches in the [[2019 AFC Asian Cup]]. It is also featured on the 200 [[United Arab Emirates dirham|Dirham]] banknote.<ref>{{cite news |last=Parsar |first=Swapnaneel |date=24 November 2018 |title=Asian Cup 2019 stadiums: Your guide to the venues in the UAE |url=https://www.goal.com/en-us/news/asian-cup-2019-stadiums-venues-cities-uae/i9cohymbtcpc1k31gtusbqcr1 |work=[[Goal.com]] |access-date=19 December 2018}}</ref> The 43,000-seat stadium opened in 1980 and also hosted matches in the [[2003 FIFA World Youth Championship]] and the [[2013 FIFA U-17 World Cup]].<ref>{{cite web |title=Destinations: Abu Dhabi |url=https://www.fifa.com/clubworldcup/destination/cities/city/1051/ |archive-url=https://web.archive.org/web/20181220230855/https://www.fifa.com/clubworldcup/destination/cities/city/1051/ |url-status=dead |archive-date=20 December 2018 |work=FIFA.com |access-date=19 December 2018}}</ref><ref>{{cite news |last=Reedie |first=Euan |date=27 May 2015 |title=Zayed Sports City: In a league of its own |url=https://gulfnews.com/sport/uae-sport/zayed-sports-city-in-a-league-of-its-own-1.1522806 |work=[[Gulf News]] |access-date=19 December 2018}}</ref>
+
+==Background==
+Real Madrid qualified for the Club World Cup as winners of the [[2017–18 UEFA Champions League]] by defeating [[Liverpool F.C.|Liverpool]] in the [[2018 UEFA Champions League Final|final]].<ref>{{cite news |last=McAuley |first=John |date=27 May 2018 |title=Real Madrid book return trip to UAE for Fifa Club World Cup after Champions League success |url=https://www.thenationalnews.com/sport/football/real-madrid-book-return-trip-to-uae-for-fifa-club-world-cup-after-champions-league-success-1.734276 |work=The National |location=Abu Dhabi |access-date=19 December 2018}}</ref> The club won three of the four previous editions of the Club World Cup: in [[2014 FIFA Club World Cup|2014]], [[2016 FIFA Club World Cup|2016]] and [[2017 FIFA Club World Cup|2017]].<ref>{{cite news |date=28 May 2018 |title=Real Madrid write new chapter in their rich European history |url=https://www.fifa.com/clubworldcup/news/real-madrid-write-new-chapter-in-their-rich-european-history |work=FIFA.com |access-date=19 December 2018}}</ref> This was their fifth participation and third consecutive appearance in the tournament, both a record for European teams. The match was their fourth overall final (after [[2014 FIFA Club World Cup Final|2014]], [[2016 FIFA Club World Cup Final|2016]] and [[2017 FIFA Club World Cup Final|2017]]), tying the record with [[FC Barcelona|Barcelona]]. The match also was their third consecutive final, extending their record set in the previous edition. The match was the 14th consecutive and overall final featuring a European team (with only the [[2000 FIFA Club World Championship Final|first final in 2000]] including no team from Europe), and the 8th overall and 5th consecutive final featuring a Spanish team, all extending the competition records. If Real Madrid were to win, they would become the outright record winners of the Club World Cup with four titles, breaking their tie with Barcelona for the record. A win would also extended the records for most consecutive titles for a team (3), most titles for a confederation (11 for UEFA), most consecutive titles for a confederation (6 for UEFA, breaking the tie set by European teams between [[2007 FIFA Club World Cup Final|2007]] and [[2011 FIFA Club World Cup Final|2011]]), most titles for a nation (7 for Spain), and most consecutive titles for a nation (5 for Spain).<ref name="RSSSF">{{cite web |last1=Leme de Arruda |first1=Marcelo |last2=Di Maggio |first2=Roberto |url=https://www.rsssf.org/tablesf/fifawcc.html |title=FIFA Club World Cup |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=20 December 2018 |access-date=22 December 2018}}</ref>
+
+Al Ain qualified for their first Club World Cup as winners of the [[2017–18 UAE Pro-League|2017–18 season]] of the [[UAE Pro-League]], the top-level league in the United Arab Emirates.<ref>{{cite news |date=16 May 2018 |title=Al Ain qualify for Fifa Club World Cup |url=https://gulfnews.com/sport/uae-sport/al-ain-qualify-for-fifa-club-world-cup-1.2222385 |work=[[Gulf News]] |access-date=18 December 2018}}</ref> Al Ain was the first Emirati team to reach the Club World Cup final,<ref>{{cite news |last=McAuley |first=John |date=18 December 2018 |title=Fifa Club World Cup: Al Ain beat River Plate on penalties to reach historic final |url=https://www.thenational.ae/sport/2.2049/fifa-club-world-cup-al-ain-beat-river-plate-on-penalties-to-reach-historic-final-1.804186 |archive-url=https://web.archive.org/web/20181219123344/https://www.thenational.ae/sport/2.2049/fifa-club-world-cup-al-ain-beat-river-plate-on-penalties-to-reach-historic-final-1.804186 |url-status=dead |archive-date=19 December 2018 |work=The National |location=Abu Dhabi |access-date=18 December 2018}}</ref> as well as the second Asian team (after [[Kashima Antlers]] in 2016). The final was also the third final to feature the host representative (after [[Sport Club Corinthians Paulista|Corinthians]] in 2000, [[Raja Casablanca]] in 2013 and Kashima Antlers in 2016). If Al Ain were to win, they would have become the first team outside of Europe and South America to win the Club World Cup, as well as the second host representative to win the tournament (after Corinthians in [[2000 FIFA Club World Championship|2000]]).<ref name="RSSSF"/>
+
+The final was the second between an Asian and European team, after Real Madrid won against Kashima Antlers in the 2016 final. The final was also the third final between the host representative and a European team, both won by the European team, with [[FC Bayern Munich|Bayern Munich]] winning against Raja Casablanca in [[2013 FIFA Club World Cup Final|2013]], in addition to the aforementioned 2016 final. The match was the fourth final not to feature a South American team after [[2010 FIFA Club World Cup Final|2010]], 2013 and 2016 (all of which the European teams won).<ref name="RSSSF"/>
+
+==Route to the final==
+{| class="wikitable"
+|-
+!width=350 colspan=2|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+!Team
+!width=350 colspan=2|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|- style="background:#C1E0FF"
+|align=center|Opponent
+|align=center|Result
+|align=center|[[2018 FIFA Club World Cup]]
+|align=center|Opponent
+|align=center|Result
+|-
+|align=center colspan=2 rowspan=2|
+|align=center style="background:#C1E0FF"|First round
+|{{fbaicon|NZL}} [[Team Wellington]]
+|align=center|[[2018 FIFA Club World Cup#Match 1|3–3]] {{aet}} {{pso|4–3}}
+|-
+|align=center style="background:#C1E0FF"|Second round
+|{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|align=center|[[2018 FIFA Club World Cup#Match 2|3–0]]
+|-
+|{{fbaicon|JPN}} [[Kashima Antlers]]
+|align=center|[[2018 FIFA Club World Cup#Match 6|3–1]]
+|align=center style="background:#C1E0FF"|Semi-finals
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|align=center|[[2018 FIFA Club World Cup#Match 5|2–2]] {{aet}} {{pso|5–4}}
+|}
+
+===Real Madrid===
+As European champions, Real Madrid received a [[Bye (sports)|bye]] to the semi-final round, where they faced [[AFC Champions League|Asian]] champions [[Kashima Antlers]] of Japan. Kashima, who had defeated [[CONCACAF Champions League|CONCACAF]] champions [[C.D. Guadalajara|Guadalajara]], were defeated by Real Madrid in the 2016 final.<ref>{{cite news |date=16 December 2018 |title=Kashima wins to set up showdown against Real Madrid in Club World Cup semifinals |url=https://www.japantimes.co.jp/sports/2018/12/16/soccer/kashima-wins-set-showdown-real-madrid-club-world-cup-semifinals/ |work=[[Japan Times]] |agency=[[Reuters]] |access-date=19 December 2018}}</ref> Madrid defeated the Antlers 3–1 on a [[hat-trick (association football)|hat-trick]] scored by [[Gareth Bale]] over 11 minutes of play.<ref>{{cite news |date=19 December 2018 |title=Gareth Bale's 11-minute hat-trick fires Real Madrid into Club World Cup final |url=https://www.theguardian.com/football/2018/dec/19/gareth-bale-hat-trick-real-madrid-kashima-antlers-club-world-cup |work=The Guardian |agency=[[Press Association]] |access-date=19 December 2018}}</ref> Bale scored in the 44th minute and added two goals in the 53rd and 55th minutes to open the second half; [[Shoma Doi]] scored a consolation goal for Kashima in the 78th minute after it was ruled onside by the [[video assistant referee]].<ref>{{cite news |date=19 December 2018 |title=Football: Hat-trick hero Bale fires Real Madrid into Club World Cup final |url=https://www.straitstimes.com/sport/football/football-hat-trick-hero-bale-fires-real-madrid-into-club-world-cup-final |work=[[Straits Times]] |agency=[[Agence France-Presse]] |access-date=19 December 2018}}</ref><ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/brilliant-bale-bags-hat-trick-real-reach-final |title=Brilliant Bale bags hat-trick, Real reach final |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=19 December 2018 |access-date=22 December 2018}}</ref>
+
+===Al Ain===
+In the first round on 12 December, Al Ain defeated [[Team Wellington]] in a [[Penalty shoot-out (association football)|penalty shoot-out]] following a 3–3 draw at their home stadium, [[Hazza bin Zayed Stadium]]. Wellington, a semi-professional club that qualified as the [[OFC Champions League]] champion, entered halftime with a 3–1 lead that was cut back by an equalising volley from [[Marcus Berg]].<ref>{{cite news |date=13 December 2018 |title=Football: Team Wellington handed shootout defeat at World Cup Club after leading 3–0 |url=https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12175963 |work=[[New Zealand Herald]] |access-date=18 December 2018 |archive-date=30 September 2020 |archive-url=https://web.archive.org/web/20200930081131/https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12175963 |url-status=dead }}</ref> The match remained scoreless after extra time and advanced to a penalty shoot-out, which Al Ain won 4–3 after five rounds after goalkeeper [[Khalid Eisa]] made two saves.<ref>{{cite news |date=12 December 2018 |title=Eisa: I never doubted our ability to qualify |url=https://www.fifa.com/clubworldcup/news/eisa-i-never-doubted-our-ability-to-qualify |work=FIFA.com |access-date=18 December 2018}}</ref><ref>{{cite news |last=Cornwell |first=Alexander |date=12 December 2018 |title=Al Ain hit back from three behind, win on penalties |url=https://af.reuters.com/article/tunisiaNews/idAFL3N1YH4P2 |archive-url=https://web.archive.org/web/20181219090854/https://af.reuters.com/article/tunisiaNews/idAFL3N1YH4P2 |url-status=dead |archive-date=19 December 2018 |publisher=[[Reuters]] |access-date=18 December 2018}}</ref>
+
+Al Ain advanced to face African champions [[Espérance Sportive de Tunis|Espérance de Tunis]] in the second round match, held three days later at Hazza bin Zayed Stadium. The team defeated Espérance 3–0 in an [[upset (sports)|upset]] that began with two goals scored in the opening 16 minutes.<ref>{{cite news |date=15 December 2018 |title=Fifa Club World Cup: African champions Esperance lose 3–0 to Al Ain |url=https://www.bbc.com/sport/football/46581124 |publisher=[[BBC Sport]] |access-date=18 December 2018}}</ref> Al Ain produced a larger upset in the semi-finals, defeating [[Copa Libertadores]] champions [[Club Atlético River Plate|River Plate]] in a penalty shoot-out to advance to the Club World Cup final.<ref>{{cite news |date=18 December 2018 |title=River Plate stunned by Al Ain in Club World Cup shootout |url=https://www.theguardian.com/football/2018/dec/18/river-plate-al-ain-club-world-cup-match-report |work=The Guardian |agency=Associated Press |access-date=18 December 2018}}</ref> The match began with two early goals for River Plate scored by [[Rafael Santos Borré]] following an opening strike from Berg; after an equalising goal was disallowed by the [[video assistant referee]], [[Caio Lucas Fernandes]] scored for Al Ain in the 51st minute to draw the teams level at 2–2. After a scoreless extra time, aided by goalkeeper Essa's saves, Al Ain defeated River Plate 5–4 in a penalty shoot-out, its second of the competition,<ref name="Gulf-Finest">{{cite news |last=Hammond |first=Ashley |date=19 December 2018 |title=Mamic hails UAE football's finest hour as Al Ain stun River Plate |url=https://gulfnews.com/sport/football/mamic-hails-uae-footballs-finest-hour-as-al-ain-stun-river-plate-1.61021810 |work=Gulf News |access-date=19 December 2018}}</ref> with Essa making one save on River's [[Enzo Pérez]].<ref>{{cite news |date=18 December 2018 |title=River Plate fall to Al Ain on penalties in Club World Cup semifinal |url=http://www.espn.com/soccer/report?gameId=529811 |publisher=[[ESPN]] |agency=Reuters |access-date=18 December 2018}}</ref><ref>{{cite news |date=18 December 2018 |title=Club World Cup: River Plate 2–2 Al Ain (4–5 pens) |url=https://www.bbc.com/sport/football/46610375 |publisher=BBC Sport |access-date=18 December 2018}}</ref><ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/al-ain-advance-to-final-on-penalties |title=Al Ain outlast River to reach final with shoot-out win |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=18 December 2018 |access-date=22 December 2018}}</ref> The semi-final upset of River was called the "greatest achievement" in Emirati football history by Al Ain manager [[Zoran Mamić]].<ref name="Gulf-Finest"/>
+
+==Match==
+===Summary===
+Real Madrid had 70&nbsp;percent of possession in the first half, taking advantage of Al Ain's defensive lapses to produce 11 shots.<ref name="Guardian">{{cite news |last=Unwin |first=Will |date=22 December 2018 |title=Real Madrid 4-1 Al Ain: Club World Cup final – as it happened |url=https://www.theguardian.com/football/live/2018/dec/22/real-madrid-v-al-ain-club-world-cup-final-live |work=[[The Guardian]] |access-date=25 December 2018}}</ref> After a saved chance from Al Ain's [[Hussein El Shahat]], [[Luka Modrić]] opened scoring for Madrid in the 14th minute with a left-footed shot.<ref name="Marca">{{cite news |last=Bell |first=Arch |date=22 December 2018 |title=Real hit the jackpot in the final |url=https://www.marca.com/en/football/real-madrid/2018/12/22/5c1e83a4e5fdea4a6f8b4581.html |work=[[Marca (newspaper)|Marca]] |access-date=25 December 2018}}</ref> [[Caio Lucas Fernandes|Caio]] attempted to equalize a minute later, but was found to be [[Offside (association football)|offside]]. The half ended with a 1–0 lead for Madrid, with several later shots saved by Al Ain goalkeeper [[Khalid Eisa]].<ref name="NationalAE">{{cite news |last=Radley |first=Paul |date=22 December 2018 |title=Real Madrid claim record fourth Fifa Club World Cup with 4-1 victory over Al Ain |url=https://www.thenationalnews.com/sport/club-world-cup/real-madrid-claim-record-fourth-fifa-club-world-cup-with-4-1-victory-over-al-ain-1.805453 |work=The National |location=Abu Dhabi |access-date=25 December 2018}}</ref>
+
+Madrid opened the second half with another series of attacks while retaining possession of the ball, finding its second goal in the 60th minute on a long-distance strike by [[Marcos Llorente]].<ref name="Marca"/> The pace of the match slowed as Al Ain looked to find a consolation goal, with Caio taking advantage of a defensive mistake by [[Sergio Ramos]] but unable to score against goalkeeper [[Thibaut Courtois]].<ref name="Guardian"/> Ramos responded by scoring in the 79th minute, a header on a [[corner kick]] taken by Modrić after a counter-attack, to give Real Madrid a three-goal lead. Six minutes later, a free kick taken by Caio found left-back [[Tsukasa Shiotani]], who scored Al Ain's only goal of the match.<ref name="NationalAE"/> In [[stoppage time]], an [[own goal]] was scored by Al Ain's [[Yahia Nader]] on a cross by Madrid substitute [[Vinícius Júnior]]; it was Madrid's final goal to extend their lead to 4–1.<ref name="Marca"/>
+
+===Details===
+<onlyinclude>{{Football box
+|id         = Match 8
+|date       = {{Start date|2018|12|22|df=y}}
+|time       = 20:30 <noinclude>[[Gulf Standard Time|GST]]</noinclude>
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 4–1
+|team2      = {{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|goals1     =
+*[[Luka Modrić|Modrić]] {{goal|14}}
+*[[Marcos Llorente|Llorente]] {{goal|60}}
+*[[Sergio Ramos|Ramos]] {{goal|79}}
+*[[Yahia Nader|Nader]] {{goal|90+1|o.g.}}
+|goals2     =
+*[[Tsukasa Shiotani|Shiotani]] {{goal|86}}
+|stadium    = [[Zayed Sports City Stadium]], [[Abu Dhabi]]
+|attendance = 40,696<ref name="match report">{{cite web |url=https://digitalhub.fifa.com/m/5dc298258e68881b/original/e7ruleafxojvgtonzatp-pdf.pdf |title=Match report – Final – Real Madrid CF v Al Ain FC |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 December 2018 |access-date=22 December 2018}}</ref>
+|referee    = [[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+|report     = https://www.fifa.com/en/match-centre/match/107/276136/281958/300452762
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _realmadrid1819h
+ |pattern_b  = _realmadrid1819h
+ |pattern_ra = _realmadrid1819h
+ |pattern_sh = _realmadrid1819h
+ |pattern_so = _realmadrid1819h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Real Madrid}}<ref name="lineups">{{cite web |url=https://digitalhub.fifa.com/m/4300960d49804396/original/hxwacihhqnftgr8twsnv-pdf.pdf |title=Tactical Line-up, Final, Real Madrid CF – Al Ain FC |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 December 2018 |access-date=22 December 2018}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _partizan1819t
+ |pattern_b  = _alain1819t
+ |pattern_ra = _partizan1819t
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = 000000
+ |body       = 000000
+ |rightarm   = 000000
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = {{nowrap|Al Ain}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|BEL}} [[Thibaut Courtois]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Dani Carvajal]]
+|-
+|CB ||'''5''' ||{{flagicon|FRA|1974}} [[Raphaël Varane]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Sergio Ramos]] ([[Captain (association football)|c]]) || {{yel|45}}
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|CM ||'''10'''||{{flagicon|CRO}} [[Luka Modrić]]
+|-
+|CM ||'''18'''||{{flagicon|ESP}} [[Marcos Llorente]] || || {{suboff|82}}
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]] || || {{suboff|70}}
+|-
+|RF ||'''17'''||{{flagicon|ESP}} [[Lucas Vázquez]] || || {{suboff|84}}
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Karim Benzema]]
+|-
+|LF ||'''11'''||{{flagicon|WAL}} [[Gareth Bale]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|CRC}} [[Keylor Navas]]
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Kiko Casilla]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Jesús Vallejo]]
+|-
+|DF ||'''6''' ||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]]
+|-
+|DF ||'''19'''||{{flagicon|ESP}} [[Álvaro Odriozola]]
+|-
+|DF ||'''23'''||{{flagicon|ESP}} [[Sergio Reguilón]]
+|-
+|MF ||'''14'''||{{flagicon|BRA}} [[Casemiro]] || || {{subon|82}}
+|-
+|MF ||'''15'''||{{flagicon|URU}} [[Federico Valverde]]
+|-
+|MF ||'''20'''||{{flagicon|ESP}} [[Marco Asensio]]
+|-
+|MF ||'''22'''||{{flagicon|ESP}} [[Isco]]
+|-
+|MF ||'''24'''||{{flagicon|ESP}} [[Dani Ceballos]] || || {{subon|70}}
+|-
+|FW ||'''28'''||{{flagicon|BRA}} [[Vinícius Júnior]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Santiago Solari]]
+|}
+|valign="top"|[[File:Real Madrid vs Al-Ain 2018-12-22.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''17'''||{{flagicon|UAE}} [[Khalid Eisa]]
+|-
+|RB ||'''23'''||{{flagicon|UAE}} [[Mohamed Ahmed (Emirati footballer)|Mohamed Ahmed]] || || {{suboff|64}}
+|-
+|CB ||'''5''' ||{{flagicon|UAE}} [[Mohamed Ismail Ahmed Ismail|Ismail Ahmed]] ([[Captain (association football)|c]])
+|-
+|CB ||'''14'''||{{flagicon|UAE}} [[Mohammed Fayez]]
+|-
+|LB ||'''33'''||{{flagicon|JPN}} [[Tsukasa Shiotani]]
+|-
+|CM ||'''43'''||{{flagicon|UAE}} [[Rayan Yaslam]]
+|-
+|CM ||'''16'''||{{flagicon|UAE}} [[Mohammed Abdulrahman (footballer, born February 1989)|Mohamed Abdulrahman]] || || {{suboff|67}}
+|-
+|CM ||'''3''' ||{{flagicon|MLI}} [[Tongo Doumbia]]
+|-
+|RW ||'''74'''||{{flagicon|EGY}} [[Hussein El Shahat]]
+|-
+|LW ||'''7''' ||{{flagicon|BRA}} [[Caio Lucas Fernandes|Caio]]
+|-
+|CF ||'''9''' ||{{flagicon|SWE}} [[Marcus Berg]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|UAE}} [[Mohammed Abo Sandah|Mohammed Busanda]]
+|-
+|GK ||'''12'''||{{flagicon|UAE}} [[Hamad Al-Mansouri]]
+|-
+|DF ||'''19'''||{{flagicon|UAE}} [[Mohanad Salem]]
+|-
+|DF ||'''44'''||{{flagicon|UAE}} [[Saeed Jumaa]]
+|-
+|MF ||'''6''' ||{{flagicon|UAE}} [[Amer Abdulrahman]] || || {{subon|67}}
+|-
+|MF ||'''11'''||{{flagicon|UAE}} [[Bandar Al-Ahbabi]] || || {{subon|64}}
+|-
+|MF ||'''13'''||{{flagicon|UAE}} [[Ahmed Barman]]
+|-
+|MF ||'''18'''||{{flagicon|UAE}} [[Ibrahim Diaky]]
+|-
+|MF ||'''28'''||{{flagicon|UAE}} Sulaiman Nasser
+|-
+|MF ||'''30'''||{{flagicon|UAE}} [[Mohammed Khalfan (footballer, born 1992)|Mohammed Khalfan]]
+|-
+|MF ||'''88'''||{{flagicon|EGY}} [[Yahia Nader]] || || {{subon|75}}
+|-
+|FW ||'''99'''||{{flagicon|UAE}} [[Jamal Ibrahim]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|CRO}} [[Zoran Mamić]]
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Marcos Llorente]] (Real Madrid)<ref name="match report"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="start list"/>
+<br />Frank Anderson ([[United States Soccer Federation|United States]])
+<br />Corey Rockwell ([[United States Soccer Federation|United States]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Zakhele Siwela ([[South African Football Association|South Africa]])
+<br />'''[[Video assistant referee]]s:'''
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+<br />Bruno Boschilia ([[Brazilian Football Confederation|Brazil]])
+<br />[[Mauro Vigliano]] ([[Argentine Football Association|Argentina]])
+| style="width:60%; vertical-align:top" |
+'''Match rules'''<ref name="regulations">{{cite web |date=June 2018 |title=FIFA Club World Cup UAE 2018 Regulations |url=https://digitalhub.fifa.com/m/2ff319bf5f0eae5a/original/tk5uj1eczwwsxas2zjsy-pdf.pdf |publisher=Fédération Internationale de Football Association |access-date=19 December 2018 }}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of three substitutions, with a fourth allowed in extra time
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref>{{cite web |url=https://digitalhub.fifa.com/m/1f3b07721fdeef6/original/crhzunfzewy2pyi81sj6-pdf.pdf |title=Match report, Half-time, Real Madrid CF – Al Ain FC 1:0 |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 December 2018 |access-date=22 December 2018}}</ref>
+|-
+! scope="col" style="width:100px" | Statistic
+! scope="col" style="width:70px" | Real Madrid
+! scope="col" style="width:70px" | Al Ain
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|11
+|2
+|-
+!scope=row|Shots on target
+|3
+|0
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|70%
+|30%
+|-
+!scope=row|Corner kicks
+|6
+|2
+|-
+!scope=row|Fouls committed
+|6
+|3
+|-
+!scope=row|Offsides
+|3
+|1
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="match report"/>
+|-
+! scope="col" style="width:100px" | Statistic
+! scope="col" style="width:70px" | Real Madrid
+! scope="col" style="width:70px" | Al Ain
+|-
+!scope=row|Goals scored
+|3
+|1
+|-
+!scope=row|Total shots
+|10
+|6
+|-
+!scope=row|Shots on target
+|5
+|2
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|56%
+|44%
+|-
+!scope=row|Corner kicks
+|2
+|2
+|-
+!scope=row|Fouls committed
+|6
+|7
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="match report"/>
+|-
+! scope="col" style="width:100px" | Statistic
+! scope="col" style="width:70px" | Real Madrid
+! scope="col" style="width:70px" | Al Ain
+|-
+!scope=row|Goals scored
+|4
+|1
+|-
+!scope=row|Total shots
+|21
+|8
+|-
+!scope=row|Shots on target
+|8
+|2
+|-
+!scope=row|Saves
+|1
+|4
+|-
+!scope=row|Ball possession
+|63%
+|37%
+|-
+!scope=row|Corner kicks
+|8
+|4
+|-
+!scope=row|Fouls committed
+|12
+|10
+|-
+!scope=row|Offsides
+|4
+|2
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+With their win, Real Madrid became the outright record winners of the Club World Cup with four titles. They also extended the record for most consecutive titles with their third in a row.<ref name="match summary"/><ref name="NationalAE"/> It was the only trophy won by manager [[Santiago Solari]] during his reign at Real Madrid, who was hired in October 2018 and fired in March 2019; Solari complimented Al Ain on their run to the final, calling it a "remarkable achievement".<ref>{{cite news |last=Passela |first=Amith |date=23 December 2018 |title=Santiago Solari impressed by 'remarkable' Al Ain as he celebrates Real Madrid's Fifa Club World Cup win |url=https://www.thenationalnews.com/sport/football/santiago-solari-impressed-by-remarkable-al-ain-as-he-celebrates-real-madrid-s-fifa-club-world-cup-win-1.805490 |work=The National |location=Abu Dhabi |access-date=25 December 2018}}</ref>
+
+[[Marcos Llorente]], who scored one goal in the match, won the man of the match award for the final.<ref name="match summary"/> [[Gareth Bale]] of Real Madrid won the Golden Ball award as the best player of the tournament, finishing as joint-top scorer with three goals (tied with [[Rafael Santos Borré]] of [[Club Atlético River Plate|River Plate]]). [[Caio Lucas Fernandes|Caio]] of Al Ain won the Silver Ball award behind Bale. Real Madrid also won the FIFA Fair Play Award with the best disciplinary record at the tournament.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/bale-caio-and-borre-sweep-awards |title=Bale, Caio and Borre sweep awards |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=22 December 2018 |access-date=22 December 2018}}</ref>
+
+==See also==
+*[[Real Madrid CF in international football competitions]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/tournaments/mens/clubworldcup/uae2018}}
+
+{{FIFA Club World Cup}}
+{{Real Madrid CF matches}}
+{{Al Ain FC matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2018}}
+[[Category:2018 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2018]]
+[[Category:Real Madrid CF matches]]
+[[Category:Al Ain FC matches]]
+[[Category:2018–19 in Spanish men's football]]
+[[Category:2018–19 in Emirati football]]
+[[Category:Football in Abu Dhabi]]
+[[Category:2010s in sport in Abu Dhabi]]
+[[Category:Football matches in the United Arab Emirates]]
+[[Category:December 2018 sports events in Asia]]
+[[Category:Spain–United Arab Emirates relations|2018]]

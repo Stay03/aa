@@ -1,0 +1,217 @@
+{{Use dmy dates|date=June 2020}}
+{{Infobox football match
+| title              = 2008 FA Community Shield
+| image              = 2008 Community Shield programme.jpg
+| image_size = 200
+| caption = Match programme cover
+| event              = [[FA Community Shield]]
+| team1              = [[Manchester United F.C.|Manchester United]]
+| team1score         = 0
+| team2              = [[Portsmouth F.C.|Portsmouth]]
+| team2score         = 0
+| details            = Manchester United won 3–1 on [[Penalty shoot-out (association football)|penalties]]
+| date               = 10 August 2008
+| stadium            = [[Wembley Stadium]]
+| city               = [[London]]
+| man_of_the_match1a = [[Carlos Tevez]]
+| referee            = [[Peter Walton (referee)|Peter Walton]]
+| attendance         = 84,808
+| weather            = Rain<br />{{convert|20|°C|°F}}<ref>{{cite web |title=Weather History for London, United Kingdom |url=http://www.wunderground.com/history/airport/EGLL/2008/8/10/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA |website=wunderground.com |archive-url=https://web.archive.org/web/20140520040534/http://www.wunderground.com/history/airport/EGLL/2008/8/10/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA |archive-date=20 May 2014 |url-status=dead}}</ref>
+| previous           = [[2007 FA Community Shield|2007]]
+| next               = [[2009 FA Community Shield|2009]]
+}}
+The '''2008 FA Community Shield''' (also known as '''The FA Community Shield sponsored by [[McDonald's]]''' for sponsorship reasons) was the 86th staging of the [[FA Community Shield]], an annual [[association football|football]] match played between the reigning [[Premier League]] champions and [[FA Cup]] winners. The match was played on 10 August 2008 between [[2007–08 Premier League]] champions [[Manchester United F.C.|Manchester United]] and [[2007–08 FA Cup]] winners [[Portsmouth F.C.|Portsmouth]] as the "curtain-raiser" to the [[2008–09 in English football|2008–09 English football season]].<ref>{{cite web |url=http://www.thefa.com/TheFACup/TheFACommunityShield/ |archive-url=https://archive.today/20060326121547/http://www.thefa.com/TheFACup/TheFACommunityShield/ |url-status=dead |archive-date=26 March 2006 |title=The FA Community Shield sponsored by McDonald's |access-date=6 March 2009 |date=27 February 2009 |work=TheFA.com |publisher=The Football Association }}</ref> The match marked the 100th year since the [[1908 FA Charity Shield|first Charity Shield]], also won by Manchester United after a replay in August 1908.
+
+Manchester United won the game 3–1 on penalties, after the match finished 0–0 after 90 minutes; the Community Shield no longer plays extra time if the teams are level at the end of normal time.<ref>{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/7549022.stm |title =Man Utd 0-0 Portsmouth (Man Utd win 3-1 on penalties)|date=10 August 2008|work=BBC Sport|access-date=7 August 2019}}</ref><ref>{{cite web|url= https://www.telegraph.co.uk/sport/football/teams/manchester-united/2535218/Community-Shield-Manchester-United-reatin-Community-Shield-beating-Portsmouth-on-penalties-Football.html|title =Manchester United retain Community Shield beating Portsmouth on penalties|date=10 August 2008|work=The Daily Telegraph|access-date=7 August 2019}}</ref>	
+	
+The match was the second meeting between the two teams in the space of two weeks, after they had played each other in a friendly in [[Nigeria]] on 27 July 2008. It was also the first Community Shield since 1996 to feature a team from outside the big four of Manchester United, [[Chelsea F.C.|Chelsea]], [[Arsenal F.C.|Arsenal]] and [[Liverpool F.C.|Liverpool]]. With this Community Shield title, United extended their record number of wins in the competition to 13 (17 including shared titles). 
+
+==Match details==
+{{football box
+|date=10 August 2008
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Manchester United F.C.|Manchester United]]
+|score=0–0
+|report=[http://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/PastWinners/2008-ManUnitedvPortsmouth.aspx Report]
+|team2=[[Portsmouth F.C.|Portsmouth]]
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=84,808
+|referee=[[Peter Walton (referee)|Peter Walton]] ([[Northamptonshire Football Association|Northamptonshire]]){{ref label|Clattenburg|A|}}
+|penalties1=[[Carlos Tevez|Tevez]] {{pengoal}}<br />[[Ryan Giggs|Giggs]] {{pengoal}}<br />[[Michael Carrick|Carrick]] {{pengoal}}
+|penaltyscore=3–1
+|penalties2={{penmiss}} [[Lassana Diarra|Diarra]]<br />{{pengoal}} [[Jermain Defoe|Defoe]]<br />{{penmiss}} [[Arnold Mvuemba|Mvuemba]]<br />{{penmiss}} [[Glen Johnson (English footballer)|Johnson]]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la =
+| pattern_b  = _manutdh0709
+| pattern_ra =
+| pattern_sh = _thinblackline
+| pattern_so = _whiteline
+| leftarm    = E20E0E
+| body       = E20E0E
+| rightarm   = E20E0E
+| shorts     = FFFFFF
+| socks      = 000000
+| title      = Manchester United
+}}
+|{{Football kit
+| pattern_la = _goldborder_2
+| pattern_b  = _shouldersonblue
+| pattern_ra = _goldborder
+| leftarm    = 0000FF
+| body       = FFCC66
+| rightarm   = 0000FF
+| shorts     = 0000FF
+| socks      = 0000FF
+| title      = Portsmouth
+}}
+|}
+
+{| style="width:100%;"
+|-
+|style="vertical-align:top; width:50%;"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|NED}} [[Edwin van der Sar]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Gary Neville]] ([[Captain (association football)|c]]) || {{yel|61}} || {{suboff|66}}
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Rio Ferdinand]]
+|-
+|CB ||'''15'''||{{flagicon|SRB|2004}} [[Nemanja Vidić]] || {{yel|45}}
+|-
+|LB ||'''3''' ||{{flagicon|FRA|1974}} [[Patrice Evra]]
+|-
+|RM ||'''24'''||{{flagicon|SCO}} [[Darren Fletcher]]
+|-
+|CM ||'''18'''||{{flagicon|ENG}} [[Paul Scholes]]
+|-
+|CM ||'''22'''||{{flagicon|IRL}} [[John O'Shea]] || || {{suboff|66}}
+|-
+|LM ||'''17'''||{{flagicon|POR}} [[Nani (footballer)|Nani]] || || {{suboff|79}}
+|-
+|SS ||'''11'''||{{flagicon|WAL}} [[Ryan Giggs]]
+|-
+|CF ||'''32'''||{{flagicon|ARG}} [[Carlos Tevez]]
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''29'''||{{flagicon|POL}} [[Tomasz Kuszczak]]
+|-
+|DF ||'''6''' ||{{flagicon|ENG}} [[Wes Brown]] || || {{subon|66}}
+|-
+|DF ||'''21'''||{{flagicon|BRA}} [[Rafael (footballer, born 1990)|Rafael]]
+|-
+|DF ||'''23'''||{{flagicon|NIR}} [[Jonny Evans]]
+|-
+|MF ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]] || || {{subon|66}}
+|-
+|MF ||'''34'''||{{flagicon|BRA}} [[Rodrigo Possebon]]
+|-
+|FW ||'''31'''||{{flagicon|ENG}} [[Fraizer Campbell]] || || {{subon|79}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|SCO}} [[Alex Ferguson|Sir Alex Ferguson]]
+|}
+|style="vertical-align:top"|[[File:Man Utd vs Portsmouth 2008-08-10.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[David James (footballer, born 1970)|David James]]
+|-
+|RB ||'''5''' ||{{flagicon|ENG}} [[Glen Johnson]]
+|-
+|CB ||'''15'''||{{flagicon|FRA|1974}} [[Sylvain Distin]] || {{yel|37}}
+|-
+|CB ||'''23'''||{{flagicon|ENG}} [[Sol Campbell]] ([[Captain (association football)|c]])
+|-
+|LB ||'''7''' ||{{flagicon|ISL}} [[Hermann Hreiðarsson]] || || {{suboff|79}}
+|-
+|RM ||'''8''' ||{{flagicon|SEN}} [[Papa Bouba Diop]]
+|-
+|CM ||'''30'''||{{flagicon|POR}} [[Pedro Mendes (footballer, born 1979)|Pedro Mendes]] || || {{suboff|75}}
+|-
+|CM ||'''6''' ||{{flagicon|FRA|1974}} [[Lassana Diarra]]
+|-
+|LM ||'''19'''||{{flagicon|CRO}} [[Niko Kranjčar]] || || {{suboff|60}}
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Peter Crouch]]
+|-
+|CF ||'''14'''||{{flagicon|ENG}} [[Jermain Defoe]]
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''21'''||{{flagicon|ENG}} [[Jamie Ashdown]]
+|-
+|DF ||'''4''' ||{{flagicon|CMR}} [[Lauren (Cameroonian footballer)|Lauren]] || || {{subon|79}}
+|-
+|DF ||'''20'''||{{flagicon|ENG}} [[Martin Cranie]]
+|-
+|DF ||'''32'''||{{flagicon|MLI}} [[Djimi Traoré]]
+|-
+|MF ||'''18'''||{{flagicon|FRA|1974}} [[Arnold Mvuemba]] || || {{subon|75}}
+|-
+|FW ||'''17'''||{{flagicon|NGA}} [[John Utaka]] || || {{subon|60}}
+|-
+|FW ||'''26'''||{{flagicon|ISR}} [[Ben Sahar]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|ENG}} [[Harry Redknapp]]
+|}
+|}
+{| style="width:100%;font-size:90%"
+|-
+|style="width:50%;vertical-align:top"|
+'''Man of the match'''
+*[[Carlos Tevez]] (Manchester United)
+
+'''Match officials'''
+*Assistant referees:
+**Dave Richardson ([[West Riding County Football Association|West Yorkshire]])
+**Ian Gosling ([[Kent County Football Association|Kent]])
+*Fourth official: [[Andre Marriner]] ([[Birmingham County Football Association|Birmingham]])
+|style="width:50%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*Penalty shoot-out if scores level
+*Seven named substitutes, of which up to six may be used
+|}
+
+==See also==
+* [[2007–08 Premier League]]
+* [[2007–08 FA Cup]]
+
+==Footnotes==
+{{Refbegin}}
+:A.&nbsp;{{note|Clattenburg}} Mark Clattenburg was originally appointed as the match referee,<ref>{{cite news|title=Shield referee confirmed |url=http://www.thefa.com/TheFACup/TheFACommunityShield/NewsAndFeatures/Postings/2008/06/Clattenburg_FACS.htm |archive-url=https://archive.today/20080626180837/http://www.thefa.com/TheFACup/TheFACommunityShield/NewsAndFeatures/Postings/2008/06/Clattenburg_FACS.htm |url-status=dead |archive-date=26 June 2008 |work=TheFA.com |publisher=The Football Association |date=23 June 2008 |access-date=27 June 2008 }}</ref> but he was suspended over allegations of debt and replaced by [[Peter Walton (referee)|Peter Walton]].<ref>{{cite news |title=Ref Clattenburg hit by suspension |url=http://news.bbc.co.uk/sport1/hi/football/7546968.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=7 August 2008 |access-date=7 August 2008 }}</ref>
+{{Refend}}
+
+==References==
+{{Reflist}}
+
+==Sources==
+{{commons category}}
+*[https://www.theguardian.com/football/2008/aug/10/portsmouth.manchesterunited 2008 Final at Guardian]
+
+{{FA Community Shield}}
+{{2008–09 in English football}}
+{{Manchester United F.C. matches}}
+{{Portsmouth F.C. matches}}
+
+[[Category:FA Community Shield matches|2008]]
+[[Category:Football matches in London]]
+[[Category:2008–09 in English men's football cups|Fa Community Shield]]
+[[Category:2008 in sport in London|Fa Community Shield]]
+[[Category:August 2008 sports events in the United Kingdom|Fa Community Shield]]
+[[Category:Portsmouth F.C. matches|Charity Shield 2008]]
+[[Category:Manchester United F.C. matches|Charity Shield 2008]]
+[[Category:Sports events at Wembley Stadium]]

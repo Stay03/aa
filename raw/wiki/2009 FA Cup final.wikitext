@@ -1,0 +1,297 @@
+{{Short description|English football match}}
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+{{For|the women's event|2009 FA Women's Cup final}}
+{{Infobox football match
+|              title = 2009 FA Cup final
+| image = 2009 FA Cup Final programme.jpg
+| image_size = 200
+|              event = [[2008–09 FA Cup]]
+|              team1 = [[Chelsea F.C.|Chelsea]]
+|         team1score = 2
+|              team2 = [[Everton F.C.|Everton]]
+|         team2score = 1
+|            details =
+|               date = 30 May 2009
+|            stadium = [[Wembley Stadium]]
+|               city = London
+| man_of_the_match1a = [[Ashley Cole]] (Chelsea)<ref name="full_time">{{cite news|title=Full-time: Chelsea 2–1 Everton |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/TheFACupFinal2009.aspx |archive-url=https://archive.today/20090529150520/http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/TheFACupFinal2009.aspx |url-status=dead |archive-date=29 May 2009 |work=TheFA.com |publisher=The Football Association |date=30 May 2009 |access-date=30 May 2009 }}</ref>
+|            referee = [[Howard Webb]] ([[Sheffield and Hallamshire County Football Association|South Yorkshire]])<ref name="referee">{{cite news|first=Stuart |last=Mawhinney |title=Webb appointed for The Final |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/WebbForFinal.aspx |work=TheFA.com |publisher=The Football Association |date=21 April 2009 |access-date=22 April 2009 |archive-url=https://web.archive.org/web/20100122074737/http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/WebbForFinal.aspx |archive-date=22 January 2010 |url-status=dead }}</ref>
+|         attendance = 89,391<ref name="full_time"/>
+|            weather =
+|           previous = [[2008 FA Cup final|2008]]
+|               next = [[2010 FA Cup final|2010]]
+}}
+The '''2009 FA Cup final''' was the 128th [[FA Cup Final|final]] of the world's oldest domestic [[association football|football]] cup competition, the [[FA Cup]]. The final was played at [[Wembley Stadium]] in London on 30 May 2009 and marked the third time that the final has been staged at the stadium since it was rebuilt. The match was contested by [[Chelsea F.C.|Chelsea]], who beat [[Arsenal F.C.|Arsenal]] 2–1 in their semi-final, and [[Everton F.C.|Everton]] who beat [[Manchester United F.C.|Manchester United]] 4–2 on penalties after a 0–0 draw after extra time. After [[Louis Saha]] opened the scoring after just 25 seconds, which is the second fastest ever goal in an FA Cup Final, [[Didier Drogba]] equalised in the 21st minute before [[Frank Lampard]] scored the winner with 19 minutes left to play to give Chelsea their fifth FA Cup success.<ref name="bbc_sahagoal">{{cite news |first=Caroline |last=Cheese |title=Live text – FA Cup final |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/8075105.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=30 May 2009 |access-date=30 May 2009 | archive-url= https://web.archive.org/web/20090531012146/http://news.bbc.co.uk/sport1/hi/football/fa_cup/8075105.stm| archive-date= 31 May 2009 | url-status= live}}</ref>
+
+==Background==
+Chelsea went into the match as four-time FA Cup winners, having previously won in [[1970 FA Cup final|1970]], [[1997 FA Cup final|1997]], [[2000 FA Cup final|2000]] and [[2007 FA Cup final|2007]], while Everton had won the competition five times previously, having won in [[1906 FA Cup final|1906]], [[1933 FA Cup final|1933]], [[1966 FA Cup final|1966]], [[1984 FA Cup final|1984]] and [[1995 FA Cup final|1995]]. Coincidentally, both teams' most recent titles came in the FA Cup, both teams beating [[Manchester United F.C.|Manchester United]] in the final; Everton in 1995 and Chelsea in 2007.
+
+The two teams drew 0–0 in both meetings during the [[2008–09 Premier League]] season, at [[Goodison Park]] in December and at [[Stamford Bridge (stadium)|Stamford Bridge]] in April.<ref>[https://news.bbc.co.uk/sport1/hi/football/eng_prem/7775702.stm Everton 0–0 Chelsea]</ref><ref>[https://news.bbc.co.uk/sport2/hi/football/eng_prem/8000558.stm Chelsea 0–0 Everton]</ref> Prior to the 2009 final, the two teams had never met in the [[FA Cup Final]]; their most recent meeting in the FA Cup came in the Fourth Round of the [[FA Cup 2005–06|2005–06 competition]], when Chelsea won 4–1 in a replay at [[Stamford Bridge (stadium)|Stamford Bridge]] after a 1–1 draw at [[Goodison Park]]. In 157 matches between the two sides in all competitions, Chelsea had recorded 61 wins, Everton had won 49, and 47 matches finished as draws.
+
+==Route to the final==
+{{see also|2008–09 FA Cup}}
+{|width=100% border=0 class=wikitable style="text-align:center"
+|- valign=top
+!colspan=2 width=45%|Chelsea!!width=10%|Round!!colspan=2 width=45%|Everton
+|- valign=top
+|[[Southend United F.C.|Southend United]] [L1]<br>H<br>'''1–1'''||align=left|[[Salomon Kalou|Kalou]] 31'||'''Third Round'''||rowspan="2"|[[Macclesfield Town F.C.|Macclesfield Town]] [L2]<br>A<br>'''1–0'''||rowspan="2" align=left|[[Leon Osman|Osman]] 43'
+|- valign=top
+|[[Southend United F.C.|Southend United]] [L1]<br>A<br>'''4–1'''||align=left|[[Michael Ballack|Ballack]] 45', [[Salomon Kalou|Kalou]] 60', [[Nicolas Anelka|Anelka]] 78', [[Frank Lampard|Lampard]] 90'||''Replay''
+|- valign=top
+|rowspan="2"|[[Ipswich Town F.C.|Ipswich Town]] [C]<br>H<br>'''3–1'''||rowspan="2" align=left|[[Michael Ballack|Ballack]] 16', 59', [[Frank Lampard|Lampard]] 85'||'''Fourth Round'''||[[Liverpool F.C.|Liverpool]] [PL]<br>A<br>'''1–1'''||align=left|[[Joleon Lescott|Lescott]] 27'
+|- valign=top
+|''Replay''||[[Liverpool F.C.|Liverpool]] [PL]<br>H<br>'''1–0'''||align=left|[[Dan Gosling|Gosling]] 118'
+|- valign=top
+|[[Watford F.C.|Watford]] [C]<br>A<br>'''3–1'''||align=left|[[Nicolas Anelka|Anelka]] 75', 77', 90'||'''Fifth Round'''||[[Aston Villa F.C.|Aston Villa]] [PL]<br>H<br>'''3–1'''||align=left|[[Jack Rodwell|Rodwell]] 4', [[Mikel Arteta|Arteta]] 24' ([[Penalty kick (association football)|pen.]]), [[Tim Cahill|Cahill]] 76'
+|- valign=top
+|[[Coventry City F.C.|Coventry City]] [C]<br>A<br>'''2–0'''||align=left|[[Didier Drogba|Drogba]] 15', [[Alex (footballer, born June 1982)|Alex]] 72'||'''Sixth Round'''||[[Middlesbrough F.C.|Middlesbrough]] [PL]<br>H<br>'''2–1'''||align=left|[[Marouane Fellaini|Fellaini]] 50', [[Louis Saha|Saha]] 56'
+|- valign=top
+|[[Arsenal F.C.|Arsenal]] [PL]<br>[[Wembley Stadium]], London<br>'''2–1'''||align=left|[[Florent Malouda|Malouda]] 33', [[Didier Drogba|Drogba]] 84'||'''Semi-finals'''||[[Manchester United F.C.|Manchester United]] [PL]<br>[[Wembley Stadium]], London<br>'''0–0 (4–2 [[Penalty shootout (association football)|p]])'''||align=left|
+|}
+
+* Both clubs received a bye to round three.
+* In square brackets is a letter that represents the opposition's division
+** [PL] = [[Premier League]]
+** [C] = [[Football League Championship|Championship]]
+** [L1] = [[Football League One|League One]]
+** [L2] = [[Football League Two|League Two]]
+
+==Pre-match==
+===Ticketing===
+Everton and Chelsea were each allocated 25,109 tickets for the final. Having sold over 32,000 for their semi-final win over Manchester United, Everton were unhappy and disappointed with this allocation. The match was Everton's first FA Cup final in 14 years and Everton chief executive Robert Elstone predicted that the club could have sold in excess of 70,000 tickets for this game. Chelsea also said that the size of their allocation meant that it was unlikely that there would be sufficient tickets for all of their hospitality and non-hospitality season ticket holders.<ref>{{cite news |title=Everton issue Cup tickets warning |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/8015583.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=28 April 2009 |access-date=7 May 2009 | archive-url= https://web.archive.org/web/20090427183829/http://news.bbc.co.uk/sport2/hi/football/fa_cup/8015583.stm| archive-date= 27 April 2009 | url-status= live}}</ref>
+
+Club Wembley ten-year season ticket holders were also guaranteed a ticket for the match. After those tickets were allocated, 70% of the remaining tickets were distributed amongst the clubs that had competed in the [[FA Cup 2008–09|2008–09 competition]], with the other 30% given to those involved in grassroots football and the "football family".<ref>{{cite news|title=Cup Final ticket allocations |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/FACFinal2009_Ticketdetails.aspx |archive-url=https://archive.today/20090528042733/http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/FACFinal2009_Ticketdetails.aspx |url-status=dead |archive-date=28 May 2009 |work=TheFA.com |publisher=The Football Association |date=23 April 2009 |access-date=30 May 2009 }}</ref>
+
+===Kits===
+Since both finalists' first-choice kits are predominantly blue, a coin was [[coin flipping|tossed]] to determine which team would have the first choice of kit. Everton won the toss and chose to wear their traditional blue kit, meaning that Chelsea would wear their all-yellow third-choice kit.<ref>{{cite news|title=Yellow is the colour |url=http://www.chelseafc.com/page/LatestNews/0,,10268~1637219,00.html |work=ChelseaFC.com |publisher=Chelsea F.C. |date=23 April 2009 |access-date=23 April 2009 |archive-url=https://web.archive.org/web/20090426035002/http://www.chelseafc.com/page/LatestNews/0%2C%2C10268~1637219%2C00.html |archive-date=26 April 2009 |url-status=live }}</ref> Chelsea were nevertheless given the "home" [[Changeroom|dressing room]], i.e. that used by the [[England national football team|England national team]].<ref>{{cite episode |title=Chelsea 2{{ndash}}1 Everton |series=FA Cup Live |url=http://www.itv.com/sport/football/news/facup/matchreports/report-chelsea-v-everton-456172118.html |network=ITV |station=[[ITV1]] |location=London |airdate=30 May 2009 |minutes=86:00 |access-date=14 June 2009 |archive-url=https://web.archive.org/web/20090603230200/http://www.itv.com/sport/football/news/facup/matchreports/report-chelsea-v-everton-456172118.html |archive-date=3 June 2009 |url-status=dead |df=dmy-all }}</ref>
+
+===Match ball===
+The official match ball of the 2009 FA Cup Final was the ''Umbro Dynamis''. The ''Dynamis'' uses a 20-panel configuration, as opposed to a more traditional 32-panel design, which allegedly makes the ball faster. The surface of the ball is made from a Teijin microfibre material. The ''Dynamis'' was also used in the 2008 final, but the 2009 version has a gold colourway.<ref>{{cite news|title=The number one ball for The Final |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/CupFinalMatchBall.aspx |archive-url=https://archive.today/20090612063831/http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/CupFinalMatchBall.aspx |url-status=dead |archive-date=12 June 2009 |work=TheFA.com |publisher=The Football Association |date=29 May 2009 |access-date=30 May 2009 }}</ref>
+
+===Opening ceremony===
+The traditional FA Cup Final song, ''[[Abide With Me]]'', was performed by the [[London Community Gospel Choir]].<ref>{{cite news|title='Abide With Me' out now |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/AbideWithMe_outnow.aspx |archive-url=https://archive.today/20090614140336/http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/AbideWithMe_outnow.aspx |url-status=dead |archive-date=14 June 2009 |work=TheFA.com |publisher=The Football Association |date=27 May 2009 |access-date=30 May 2009 }}</ref> The [[FA Cup#Trophies|trophy]] was then brought out onto the field, followed by the two teams, before the Chief Guest of the final – former [[Secretary General of the United Nations]] [[Kofi Annan]]<ref>{{cite news|title=Kofi Annan to attend FA Cup Final |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/FACFinal2009_KofiAnnan.aspx |archive-url=https://archive.today/20090615174458/http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/FACFinal2009_KofiAnnan.aspx |url-status=dead |archive-date=15 June 2009 |work=TheFA.com |publisher=The Football Association |date=25 April 2009 |access-date=30 May 2009 }}</ref> – was introduced to the managers and players of both teams, as well as the match officials. The introductions were immediately followed by the singing of the national anthem, "[[God Save the Queen]]", sung by [[Britain's Got Talent (series 2)|Britain's Got Talent 2008]] finalist, 13-year-old [[Faryl Smith]], making her the youngest performer of the national anthem at the FA Cup final.<ref>{{cite news |first=Stuart |last=Mawhinney |title=Faryl's got the talent for The Final |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/FACupFinal_FarylSmith.aspx |archive-url=https://archive.today/20090614150814/http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/FACupFinal_FarylSmith.aspx |url-status=dead |archive-date=14 June 2009 |work=TheFA.com |publisher=The Football Association |date=28 May 2009 |access-date=30 May 2009 }}</ref>
+
+==Match==
+===Team selection===
+{{unreferenced section|date=June 2014}}
+Everton were without long-term injury victims [[Phil Jagielka]], [[Mikel Arteta]], [[Yakubu Aiyegbeni]], [[Victor Anichebe]] and [[Nuno Valente]]. On-loan Brazilian striker [[Jô]] was cup-tied. [[Andy van der Meyde]], who set up the winning goal in the fourth round tie with Liverpool, had since been released by the club. This meant that there was a place on the Everton bench for 17-year-old winger [[Jose Baxter]].
+
+===Summary===
+====First half====
+[[Louis Saha]] scored for Everton with a left-footed shot to the bottom-left corner just 25 seconds into the match.<ref name="full_time"/> The previous fastest goal was by [[Bob Chatt]] of [[Aston Villa F.C.|Aston Villa]] 30 seconds into the [[1895 FA Cup final|1895 final]].<ref name="bbc_sahagoal"/> It would the fastest goal scored in FA Cup final history until the [[2023 FA Cup final|2023 final]], when [[Manchester City F.C.|Manchester City]]'s [[İlkay Gündoğan]] scored after 13 seconds.<ref name=":1">{{Cite web |url=https://www.espn.co.uk/football/story/_/id/37787663/man-city-ilkay-gundogan-scores-fastest-ever-fa-cup-final-goal |access-date=2026-10-08 |website=www.espn.co.uk|title=Man City's Ilkay Gundogan scores fastest-ever FA Cup final goal|last=Associated Press}}</ref> [[Tony Hibbert]] received a yellow card for tripping [[Florent Malouda]] in the eighth minute.<ref name="full_time"/> [[Didier Drogba]] levelled the match for Chelsea in the 21st minute with a header set up by a left-wing cross from Malouda.<ref name="full_time"/>
+
+====Second half====
+Tony Hibbert was replaced by [[Lars Jacobsen]] for Everton to begin the second half,<ref name="full_time"/> and two minutes in, Toffees captain Phil Neville was booked.<ref name="full_time"/> Chelsea replaced [[Michael Essien]] with [[Michael Ballack]] in the 61st minute,<ref name="full_time"/> followed two minutes later by a yellow card for [[Mikel John Obi]].<ref name="full_time"/> Frank Lampard scored the winning goal for Chelsea in the 72nd minute with a left foot shot.<ref name="full_time"/> Five minutes later, a shot from Malouda appeared to crash down off the bar and over the line, but it was not given.<ref name="full_time"/> Everton replaced Saha with James Vaughan at that point.<ref name="full_time"/> Dan Gosling was the last substitute for Everton in the 81st minute, replacing Leon Osman.<ref name="full_time"/> Lampard received a yellow card in the 84th minute, while in the fourth minute of added time, Leighton Baines of Everton was booked.<ref name="full_time"/>
+
+===Details===
+<onlyinclude>{{football box
+|date=30 May 2009
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score=2–1
+|report=[https://www.telegraph.co.uk/sport/football/teams/chelsea/5412736/Chelsea-2-Everton-1-Match-report.html Report]
+|team2=[[Everton F.C.|Everton]]
+|goals1=[[Didier Drogba|Drogba]] {{goal|21}}<br />[[Frank Lampard|Lampard]] {{goal|72}}
+|goals2=[[Louis Saha|Saha]] {{goal|1}}
+|stadium=[[Wembley Stadium]], London
+|attendance=89,391
+|referee=[[Howard Webb]] ([[Sheffield and Hallamshire County Football Association|South Yorkshire]])<ref name="referee">{{cite news|first=Stuart |last=Mawhinney |title=Webb appointed for The Final |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/WebbForFinal.aspx |work=TheFA.com |publisher=The Football Association |date=21 April 2009 |access-date=22 April 2009 |archive-url=https://web.archive.org/web/20100122074737/http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/WebbForFinal.aspx |archive-date=22 January 2010 |url-status=dead }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _chelsea0809t 
+| pattern_b  = _chelsea0809t 
+| pattern_ra = _chelsea0809t 
+| pattern_sh = _adidasblue 
+| pattern_so = _adidasbluel
+| leftarm    = FFDD00 
+| body       = FFDD00 
+| rightarm   = FFDD00  
+| shorts     = FFDD00 
+| socks      = FFDD00 
+| title      = Chelsea
+}}
+|{{Football kit
+ | pattern_la = _evertonfc0809h
+ | pattern_b  = _evertonfc0809h
+ | pattern_ra = _evertonfc0809h
+ | pattern_sh =_evertonfc0809h
+ | pattern_so = _evertonfc0809hl
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = FFFFFF
+ | socks      = 0000FF
+ | title      = Everton
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{fbaicon|CZE}} [[Petr Čech]]
+|-
+|RB ||'''17'''||{{fbaicon|POR}} [[José Bosingwa]]
+|-
+|CB ||'''33'''||{{fbaicon|BRA}} [[Alex (footballer, born June 1982)|Alex]]
+|-
+|CB ||'''26'''||{{fbaicon|ENG}} [[John Terry]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||{{fbaicon|ENG}} [[Ashley Cole]]
+|-
+|DM ||'''5''' ||{{fbaicon|GHA}} [[Michael Essien]] || || {{suboff|61}}
+|-
+|CM ||'''12'''||{{fbaicon|NGA}} [[Mikel John Obi]] || {{yel|63}}
+|-
+|CM ||'''8''' ||{{fbaicon|ENG}} [[Frank Lampard]] || {{yel|84}}
+|-
+|RW ||'''39'''||{{fbaicon|FRA}} [[Nicolas Anelka]]
+|-
+|LW ||'''15'''||{{fbaicon|FRA}} [[Florent Malouda]]
+|-
+|CF ||'''11'''||{{fbaicon|CIV}} [[Didier Drogba]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''40'''||{{fbaicon|POR}} [[Hilário (footballer, born 1975)|Hilário]]
+|-
+|DF ||'''2''' ||{{fbaicon|SRB|2004}} [[Branislav Ivanović]]
+|-
+|DF ||'''35'''||{{fbaicon|BRA}} [[Juliano Belletti]]
+|-
+|DF ||'''42'''||{{fbaicon|ENG}} [[Michael Mancienne]]
+|-
+|MF ||'''13'''||{{fbaicon|GER}} [[Michael Ballack]] || || {{subon|61}}
+|-
+|FW ||'''9''' ||{{fbaicon|ARG}} [[Franco Di Santo]]
+|-
+|FW ||'''21'''||{{fbaicon|CIV}} [[Salomon Kalou]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{fbaicon|NED}} [[Guus Hiddink]]
+|}
+|valign="top"|[[File:Chelsea vs Everton 2009-05-30.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''24'''||{{fbaicon|USA}} [[Tim Howard]]
+|-
+|RB ||'''2''' ||{{fbaicon|ENG}} [[Tony Hibbert]] || {{yel|8}} || {{suboff|46}}
+|-
+|CB ||'''4''' ||{{fbaicon|NGA}} [[Joseph Yobo]]
+|-
+|CB ||'''5''' ||{{fbaicon|ENG}} [[Joleon Lescott]]
+|-
+|LB ||'''3''' ||{{fbaicon|ENG}} [[Leighton Baines]] || {{yel|90+4}}
+|-
+|RM ||'''18'''||{{fbaicon|ENG}} [[Phil Neville]] ([[Captain (association football)|c]]) || {{yel|47}}
+|-
+|CM ||'''21'''||{{fbaicon|ENG}} [[Leon Osman]] || || {{suboff|82}}
+|-
+|CM ||'''25'''||{{fbaicon|BEL}} [[Marouane Fellaini]]
+|-
+|LM ||'''20'''||{{fbaicon|RSA}} [[Steven Pienaar]]
+|-
+|AM ||'''17'''||{{fbaicon|AUS}} [[Tim Cahill]]
+|-
+|CF ||'''9''' ||{{fbaicon|FRA}} [[Louis Saha]] || || {{suboff|75}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{fbaicon|ENG}} [[Carlo Nash]]
+|-
+|DF ||'''15'''||{{fbaicon|DEN}} [[Lars Jacobsen]] || || {{subon|46}}
+|-
+|MF ||'''8''' ||{{fbaicon|ECU}} [[Segundo Castillo (footballer, born 1982)|Segundo Castillo]]
+|-
+|MF ||'''26'''||{{fbaicon|ENG}} [[Jack Rodwell]]
+|-
+|MF ||'''32'''||{{fbaicon|ENG}} [[Dan Gosling]] || || {{subon|82}}
+|-
+|MF ||'''37'''||{{fbaicon|ENG}} [[Jose Baxter]]
+|-
+|FW ||'''14'''||{{fbaicon|ENG}} [[James Vaughan (footballer, born 1988)|James Vaughan]] || || {{subon|75}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{fbaicon|SCO}} [[David Moyes]]
+|-
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match officials'''
+*Assistant referees:
+**Mike Mullarkey ([[Devon County Football Association|Devon]])<ref name="referee"/>
+**David Richardson ([[West Riding County Football Association|West Yorkshire]])<ref name="referee"/>
+*Fourth official: [[Martin Atkinson]] ([[West Riding County Football Association|West Yorkshire]])<ref name="referee"/>
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra-time if necessary
+*Penalty shoot-out if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+[[File:2009FACupFinal.jpeg|thumb|390px|The Chelsea players celebrate winning the FA Cup for the fifth time.]]
+{| class="wikitable" style="text-align:center"
+|-
+!width=100|
+!width=70 | Chelsea
+!width=70 | Everton
+|-
+|Goals scored || 2 || 1
+|-
+|Total shots || 12 || 6
+|-
+|Shots on target || 4 || 2
+|-
+|Ball possession || 58% || 42%
+|-
+|Corner kicks || 5 || 1
+|-
+|Fouls committed || 12 || 17
+|-
+|Offsides || 2 || 3
+|-
+|Yellow cards || 2 || 3
+|-
+|Red cards || 0 || 0
+|}
+
+====Records====
+*[[Louis Saha]] scored the fastest ever FA Cup Final goal when he drove home with just 25 seconds on the clock to put Everton ahead.<ref>{{cite news |first=David |last=Barber |title=Early goals and Chatt rooms |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/EarlyGoalsChattRooms.aspx |work=TheFA.com |publisher=The Football Association |date=1 June 2009 |access-date=2 June 2009 }}</ref> This was later broken in [[2023 FA Cup final|2023]] when [[İlkay Gündoğan]] scored after 12 seconds for Manchester City against Manchester United.<ref name=":1" />
+*[[Ashley Cole]] collected his fifth FA Cup winners' medal, and became the first man to win the cup five times since the 19th century.<ref>{{cite news|first=James |last=Masters |title=History man Cole |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/AshleyCole_Final.aspx |archive-url=https://archive.today/20090612111615/http://www.thefa.com/TheFACup/FACompetitions/TheFACup/NewsAndFeatures/2009/AshleyCole_Final.aspx |url-status=dead |archive-date=12 June 2009 |work=TheFA.com |publisher=The Football Association |date=30 May 2009 |access-date=2 June 2009 }}</ref>
+*Everton's defeat meant that they finished as FA Cup runners-up for the eighth time, more than any other club.<ref>{{cite web|title=Cup Final Statistics |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/History/CupFinalResults.aspx |archive-url=https://archive.today/20090616021730/http://www.thefa.com/TheFACup/FACompetitions/TheFACup/History/CupFinalResults.aspx |url-status=dead |archive-date=16 June 2009 |work=TheFA.com |publisher=The Football Association |access-date=2 June 2009 }}</ref>
+
+==References==
+{{reflist}}
+{{commons category}}
+
+==Sources==
+*[https://news.bbc.co.uk/sport1/hi/football/fa_cup/8060989.stm Chelsea - Everton 2-1]
+
+{{FA Cup seasons}}
+{{2008–09 in English football}}
+{{Chelsea F.C. matches}}
+{{Everton F.C. matches}}
+
+[[Category:FA Cup finals|2009]]
+[[Category:2008–09 FA Cup|Final]]
+[[Category:Chelsea F.C. matches|Fa Cup Final 2009]]
+[[Category:Everton F.C. matches|Fa Cup Final 2009]]
+[[Category:2009 in sport in London|Fa Cup Final]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:May 2009 sports events in the United Kingdom|Fa Cup Final]]
+[[Category:Football matches in London]]

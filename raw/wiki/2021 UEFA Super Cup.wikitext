@@ -1,0 +1,528 @@
+{{Use dmy dates|date=May 2021}}
+{{Infobox football match
+| title              = 2021 UEFA Super Cup
+| image              = 2021 UEFA Super Cup programme.jpg
+| image_size         = frameless
+| caption            = Match programme cover
+| team1              = [[Chelsea F.C.|Chelsea]]
+| team1association   = {{fbaicon|ENG|size=30px}}
+| team1score         = 1
+| team2              = [[Villarreal CF|Villarreal]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 1
+| details            = After [[Overtime (sports)#Association football|extra time]]<br />Chelsea won 6–5 on [[Penalty shoot-out (association football)|penalties]]
+| date               = {{Start date|2021|8|11|df=y}}
+| stadium            = [[Windsor Park]]
+| city               = [[Belfast]]
+| man_of_the_match1a = [[Gerard Moreno]] (Villarreal)<ref name="postmatch report">{{cite news |url=https://www.uefa.com/uefasupercup/news/026c-12f9fcd5041f-0109d61295b7-1000/ |title=Chelsea 1–1 Villarreal (pens: 6–5): Kepa edges Blues to silverware |website=[[UEFA]] |publisher=Union of European Football Associations |date=11 August 2021 |access-date=11 August 2021}}</ref>
+| referee            = [[Sergei Karasev]] ([[Russian Football Union|Russia]])<ref name="referees">{{cite news |url=https://www.uefa.com/news-media/news/026c-12ef63f079de-c67c9e1e7846-1000/ |title=Sergei Karasev to referee 2021 UEFA Super Cup match |work=UEFA |date=6 August 2021 |access-date=6 August 2021}}</ref>
+| attendance         = 10,435<ref name="full_time"/>
+| weather            = Partly cloudy<br />{{convert|18|°C|°F}}<br />59% [[humidity]]<ref name="lineup">{{cite web |title=Tactical line-ups |url=https://www.uefa.com/newsfiles/SuperCup/2021/2030316_LU.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=11 August 2021 |access-date=11 August 2021 |url-status=dead |archive-url=https://web.archive.org/web/20220829111423/https://www.uefa.com/newsfiles/SuperCup/2021/2030316_LU.pdf |archive-date=29 August 2022}}</ref>
+| previous           = [[2020 UEFA Super Cup|2020]]
+| next               = [[2022 UEFA Super Cup|2022]]
+}}
+The '''2021 UEFA Super Cup''' was the 46th edition of the [[UEFA Super Cup]], an annual [[association football|football]] match organised by [[UEFA]] and contested by the winners of the two main European club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. The match featured English club [[Chelsea F.C.|Chelsea]], the winners of the [[2020–21 UEFA Champions League]], and Spanish club [[Villarreal CF|Villarreal]], the winners of the [[2020–21 UEFA Europa League]]. It was played at [[Windsor Park]]—went by the name of National Football Stadium at Windsor Park—in [[Belfast]], [[Northern Ireland]], on 11 August 2021. A capacity limit was agreed for the 18,500-seater [[Windsor Park]], resulting in an attendance of 10,435.<ref>{{Cite web |last=UEFA.com |date=11 August 2021 |title=2021 UEFA Super Cup all you need to know: Chelsea vs Villarreal |url=https://www.uefa.com/uefasupercup/news/026a-129cb77e0721-de04db1e9f72-1000--2021-uefa-super-cup-all-you-need-to-know-chelsea-vs-villa/ |access-date=16 June 2026 |website=UEFA.com|language=en}}</ref>
+
+Chelsea won the match 6–5 on [[Penalty shoot-out (association football)|penalties]] following a 1–1 draw after [[Overtime (sports)#Association football|extra time]] for their second UEFA Super Cup title.<ref name="postmatch report"/>
+
+This was the final edition of the UEFA Super Cup to use extra-time, as they removed it in the [[2023 UEFA Super Cup|2023]] edition.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participations (bold indicates winners)
+|-
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|Winners of the [[2020–21 UEFA Champions League]]
+|4 ('''[[1998 UEFA Super Cup|1998]]''', [[2012 UEFA Super Cup|2012]], [[2013 UEFA Super Cup|2013]], [[2019 UEFA Super Cup|2019]])
+|-
+|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|Winners of the [[2020–21 UEFA Europa League]]
+|None
+|}
+
+==Venue==
+[[File:Windsor Park redevelopment .jpg|thumb|275px|[[Windsor Park]] in [[Belfast]] hosted the match.]]
+
+The match was the first UEFA club competition final to be played in Northern Ireland. The 18,500-capacity [[Windsor Park]] is the home of [[Linfield F.C.|Linfield]] and the [[Northern Ireland national football team|Northern Ireland national team]]. Opened in 1905, the stadium was most recently renovated from 2014 to 2016 with aid from UEFA's HatTrick assistance programme.<ref>{{cite web |url=https://www.uefa.com/news-media/news/026c-12f8d0f47b0b-b19edf527c7f-1000/ |title=Northern Ireland's big moment arrives with UEFA support |publisher=UEFA |date=11 August 2021 |access-date=7 May 2022}}</ref> The venue previously hosted the finals of the [[2005 UEFA European Under-19 Championship]] and [[2017 UEFA Women's Under-19 Championship]].<ref>{{cite web |url=https://www.uefa.com/uefasupercup/news/0255-0d939ff4f94d-66ebd547547f-1000/ |title=2021 Super Cup to take place in Belfast |publisher=UEFA |date=9 August 2021 |access-date=7 May 2022}}</ref>
+
+===Host selection===
+An open bidding process was launched on 28 September 2018 by UEFA to select the venues of the finals of the UEFA Champions League, UEFA Europa League, and UEFA Women's Champions League in 2021. Associations had until 26 October 2018 to express interest, and bid dossiers must be submitted by 15 February 2019.
+
+UEFA announced on 1 November 2018 that four associations had expressed interest in hosting the 2021 UEFA Super Cup,<ref>{{cite web|url=https://www.uefa.com/news-media/news/0250-0c5119fbc7e9-b9de0907b594-1000--11-associations-interested-in-hosting-2021-club-finals/|title=11 associations interested in hosting 2021 club finals|publisher=UEFA|date=1 November 2018}}</ref> and on 22 February 2019 that all four associations submitted their dossiers by the deadline.<ref>{{cite web|url=https://www.uefa.com/news-media/news/024e-0f8e68aa43f5-6b3adef08395-1000--9-associations-bidding-to-host-2021-club-finals/|title=9 associations bidding to host 2021 club finals|publisher=[[UEFA]]|date=22 February 2019}}</ref><ref>{{cite web|url=https://www.uefa.com/printoutfiles/competitions/uefasupercup/2021/e/e_2030316_pk.pdf|archive-url=https://web.archive.org/web/20210810124641/https://www.uefa.com/printoutfiles/competitions/uefasupercup/2021/e/e_2030316_pk.pdf|url-status=dead|archive-date=10 August 2021|title=Match Press Kit|date=10 August 2021|work=[[UEFA]]|access-date= 10 August 2021}}</ref>
+
+{| class="wikitable sortable"
+|+Bidding associations for 2021 UEFA Super Cup
+|-
+! Country !! Stadium !! City !! Capacity
+|-
+| {{fba|Belarus}} || [[Dinamo Stadium (Minsk)|Dinamo Stadium]] || [[Minsk]] || 22,000
+|-
+| {{fba|Finland}} || [[Helsinki Olympic Stadium|Olympic Stadium]] || [[Helsinki]] || 36,000
+|- bgcolor=#ccffcc
+| {{fba|Northern Ireland}} || [[Windsor Park]] || [[Belfast]] || 18,434
+|-
+| {{fba|Ukraine}} || [[Metalist Oblast Sports Complex|Metalist Stadium]] || [[Kharkiv]] || 40,003
+|}
+
+[[Windsor Park]] was selected by the UEFA Executive Committee during their meeting in [[Ljubljana]], Slovenia on 24 September 2019.<ref>{{cite news |url=https://www.uefa.com/uefasupercup/news/0255-0d939ff4f94d-66ebd547547f-1000--2021-super-cup-to-take-place-in-belfast/ |title=2021 Super Cup to take place in Belfast |website=[[UEFA]] |publisher=Union of European Football Associations |date=24 September 2019 |access-date=24 September 2019}}</ref><ref>{{cite news |url=https://www.uefa.com/news-media/news/0255-0f8e6f9636b1-db5308c8e2e5-1000--uefa-executive-committee-agenda-for-ljubljana-meeting/ |title=UEFA Executive Committee agenda for Ljubljana meeting |website=[[UEFA]] |publisher=Union of European Football Associations |date=17 September 2019 |access-date=17 September 2019}}</ref>
+
+==Pre-match==
+
+===Officials===
+On 6 August 2021, UEFA named Russian official [[Sergei Karasev]] as the referee for the match. Karasev had been a [[FIFA International Referees List|FIFA referee]] since 2010, and officiated at [[UEFA Euro 2016]], the [[2018 FIFA World Cup]] and [[UEFA Euro 2020]]. He was joined by fellow countrymen Igor Demeshko and Maksim Gavrilin as assistant referees, while [[Aleksei Kulbakov]] of Belarus served as the fourth official. [[Marco Fritz]] of Germany was selected as the [[video assistant referee]] (VAR), with [[Paweł Gil]] of Poland and [[Massimiliano Irrati]] of Italy serving as the assistant VAR officials. Irrati's countryman Filippo Meli was selected as the reserve assistant referee.<ref name="referees"/>
+
+==Match==
+===Summary===
+Chelsea opened the scoring after 27 minutes when [[Kai Havertz]]'s low cross from the left was swept into the net by [[Hakim Ziyech]] from seven yards out. Ziyech was substituted after a shoulder injury just before half-time. [[Alberto Moreno]] hit a volley off the underside of the crossbar in first-half injury time. Villarreal equalised in the 73rd minute when [[Gerard Moreno]] scored with a clinical right-foot finish to the top left corner of the net after a flick-back from [[Boulaye Dia]] on the right of the penalty area.<ref>{{cite web|url=https://www.theguardian.com/football/2021/aug/11/chelsea-villarreal-super-cup-final-match-report|title= Kepa the hero as Chelsea beat Villarreal on penalties to win Uefa Super Cup|date=11 August 2021|work=Guardian|accessdate= 12 August 2021}}</ref>
+The match went to extra-time with Chelsea goalkeeper [[Édouard Mendy]] being replaced in the last minute by [[Kepa Arrizabalaga]]. Arrizabalaga saved two penalties, the decisive one low to his right from [[Raúl Albiol]] allowed Chelsea to win 6–5 in the shoot-out.<ref>{{cite web|url=https://www.bbc.com/sport/football/58157867|title= Chelsea 1 Villarreal 1 (6-5 on pens)|date=11 August 2021|work=BBC Sport|accessdate= 12 August 2021}}</ref>
+
+===Details===
+The Champions League winners were designated as the "home" team for administrative purposes.
+
+<onlyinclude>{{Football box
+|date         = {{Start date|2021|8|11|df=y}}
+|time         = {{CEST|21:00|localtz=BST}}<!--21:00 CEST, 20:00 BST-->
+|team1        = [[Chelsea F.C.|Chelsea]] {{fbaicon|ENG}}
+|score        = 1–1
+|aet          = yes
+|team2        = {{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|goals1       =
+*[[Hakim Ziyech|Ziyech]] {{goal|27}}
+|goals2       =
+*[[Gerard Moreno|Gerard]] {{goal|73}}
+|stadium      = [[Windsor Park]], [[Belfast]]
+|attendance   = 10,435<ref name="full_time">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2021/2030316_FR.pdf |title=Full Time Report Final – Chelsea v Villarreal |website=[[UEFA]] |publisher=Union of European Football Associations |date=11 August 2021 |access-date=11 August 2021}}</ref>
+|referee      = [[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|report       = https://www.uefa.com/uefasupercup/match/2030316/
+|penalties1   =
+*[[Kai Havertz|Havertz]] {{penmiss}}
+*[[César Azpilicueta|Azpilicueta]] {{pengoal}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{pengoal}}
+*[[Mason Mount|Mount]] {{pengoal}}
+*[[Jorginho (footballer, born December 1991)|Jorginho]] {{pengoal}}
+*[[Christian Pulisic|Pulisic]] {{pengoal}}
+*[[Antonio Rüdiger|Rüdiger]] {{pengoal}}
+|penaltyscore = 6–5
+|penalties2   =
+*{{pengoal}} [[Gerard Moreno|Gerard]]
+*{{penmiss}} [[Aïssa Mandi|Mandi]]
+*{{pengoal}} [[Pervis Estupiñán|Estupiñán]]
+*{{pengoal}} [[Moi Gómez|Gómez]]
+*{{pengoal}} [[Dani Raba|Raba]]
+*{{pengoal}} [[Juan Foyth|Foyth]]
+*{{penmiss}} [[Raúl Albiol|Albiol]]
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _chelsea2122h
+ |pattern_b  = _chelsea2122H
+ |pattern_ra = _chelsea2122h
+ |pattern_sh = _chelsea2122h
+ |pattern_so = _chelsea2122h
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = Chelsea<ref name="lineup"/>
+}}
+|{{Football kit
+ |pattern_la = _villarreal2122H
+ |pattern_b  = _villarreal2122H
+ |pattern_ra = _villarreal2122H
+ |pattern_sh = _villarreal2122h
+ |pattern_so = _villarreal2122h
+ |leftarm    = FFFF00
+ |body       = FFFF00
+ |rightarm   = FFFF00
+ |shorts     = FFFF00
+ |socks      = FFFF00
+ |title      = Villarreal<ref name="lineup"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||{{flagicon|SEN}} [[Édouard Mendy]] || || {{suboff|119}}
+|-
+|CB ||'''15'''||{{flagicon|FRA}} [[Kurt Zouma]] || || {{suboff|66}}
+|-
+|CB ||'''14'''||{{flagicon|ENG}} [[Trevoh Chalobah]]
+|-
+|CB ||'''2''' ||{{flagicon|GER}} [[Antonio Rüdiger]] || {{yel|44}}
+|-
+|RM ||'''20'''||{{flagicon|ENG}} [[Callum Hudson-Odoi]] || || {{suboff|82}}
+|-
+|CM ||'''7''' ||{{flagicon|FRA}} [[N'Golo Kanté]] ([[Captain (association football)|c]]) || || {{suboff|65}}
+|-
+|CM ||'''17'''||{{flagicon|CRO}} [[Mateo Kovačić]]
+|-
+|LM ||'''3''' ||{{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+|-
+|AM ||'''22'''||{{flagicon|MAR}} [[Hakim Ziyech]] || || {{suboff|43}}
+|-
+|AM ||'''29'''||{{flagicon|GER}} [[Kai Havertz]]
+|-
+|CF ||'''11'''||{{flagicon|GER}} [[Timo Werner]] || || {{suboff|65}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Kepa Arrizabalaga]] || {{yel|120+}} || {{subon|119}}
+|-
+|DF ||'''4''' ||{{flagicon|DEN}} [[Andreas Christensen]] || || {{subon|66}}
+|-
+|DF ||'''6''' ||{{flagicon|BRA}} [[Thiago Silva]]
+|-
+|DF ||'''21'''||{{flagicon|ENG}} [[Ben Chilwell]]
+|-
+|DF ||'''24'''||{{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]]
+|-
+|DF ||'''28'''||{{flagicon|ESP}} [[César Azpilicueta]] || || {{subon|82}}
+|-
+|DF ||'''33'''||{{flagicon|ITA}} [[Emerson Palmieri|Emerson]]
+|-
+|MF ||'''5''' ||{{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]] || || {{subon|65}}
+|-
+|MF ||'''10'''||{{flagicon|USA}} [[Christian Pulisic]] || || {{subon|43}}
+|-
+|MF ||'''19'''||{{flagicon|ENG}} [[Mason Mount]] || || {{subon|65}}
+|-
+|FW ||'''9''' ||{{flagicon|ENG}} [[Tammy Abraham]]
+|-
+|FW ||'''12'''||{{flagicon|ENG}} [[Ruben Loftus-Cheek]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Thomas Tuchel]] || {{yel|45+1}}
+|}
+|valign="top"|[[File:Chelsea vs Villarreal 2021-08-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Sergio Asenjo]]
+|-
+|RB ||'''8''' ||{{flagicon|ARG}} [[Juan Foyth]]
+|-
+|CB ||'''3''' ||{{flagicon|ESP}} [[Raúl Albiol]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Pau Torres]]
+|-
+|LB ||'''24'''||{{flagicon|ESP}} [[Alfonso Pedraza]] || || {{suboff|58}}
+|-
+|CM ||'''14'''||{{flagicon|ESP}} [[Manu Trigueros]] || || {{suboff|70}}
+|-
+|CM ||'''25'''||{{flagicon|FRA}} [[Étienne Capoue]] || || {{suboff|70}}
+|-
+|CM ||'''18'''||{{flagicon|ESP}} [[Alberto Moreno]] || || {{suboff|85}}
+|-
+|RF ||'''21'''||{{flagicon|ESP}} [[Yéremy Pino]] || {{yel|61}} || {{suboff|91}}
+|-
+|CF ||'''7''' ||{{flagicon|ESP}} [[Gerard Moreno]]
+|-
+|LF ||'''16'''||{{flagicon|SEN}} [[Boulaye Dia]] || || {{suboff|85}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ARG}} [[Gerónimo Rulli]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Mario Gaspar]] || || {{subon|70}}
+|-
+|DF ||'''12'''||{{flagicon|ECU}} [[Pervis Estupiñán]] || || {{subon|58}}
+|-
+|DF ||'''15'''||{{flagicon|ESP}} [[Jorge Cuenca]]
+|-
+|DF ||'''20'''||{{flagicon|ESP}} [[Rubén Peña]]
+|-
+|DF ||'''22'''||{{flagicon|ALG}} [[Aïssa Mandi]] || || {{subon|91}}
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Manu Morlanes]] || || {{subon|85}}
+|-
+|MF ||'''10'''||{{flagicon|ESP}} [[Vicente Iborra]]
+|-
+|MF ||'''17'''||{{flagicon|ESP}} [[Dani Raba]] || {{yel|119}} || {{subon|85}}
+|-
+|MF ||'''23'''||{{flagicon|ESP}} [[Moi Gómez]] || || {{subon|70}}
+|-
+|FW ||'''9''' ||{{flagicon|ESP}} [[Paco Alcácer]]
+|-
+|FW ||'''34'''||{{flagicon|ESP}} [[Fer Niño]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Unai Emery]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Gerard Moreno]] (Villarreal)<ref name="postmatch report"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Igor Demeshko ([[Russian Football Union|Russia]])
+<br />Maksim Gavrilin ([[Russian Football Union|Russia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referees"/>
+<br />[[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="referees"/>
+<br />Filippo Meli ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee]]:'''<ref name="referees"/>
+<br />[[Marco Fritz]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''<ref name="referees"/>
+<br />[[Paweł Gil]] ([[Polish Football Association|Poland]])
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref>{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Super-Cup-2021-Online |title=Regulations of the UEFA Super Cup, 2021 |work=UEFA |year=2021 |access-date=30 April 2021}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="full_time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Chelsea
+!scope="col" style="width:70px"|Villarreal
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|6
+|6
+|-
+!scope=row|Shots on target
+|3
+|1
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|4
+|2
+|-
+!scope=row|Fouls committed
+|5
+|6
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|2
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="full_time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Chelsea
+!scope="col" style="width:70px"|Villarreal
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|8
+|5
+|-
+!scope=row|Shots on target
+|3
+|3
+|-
+!scope=row|Saves
+|2
+|3
+|-
+!scope=row|Ball possession
+|49%
+|51%
+|-
+!scope=row|Corner kicks
+|2
+|3
+|-
+!scope=row|Fouls committed
+|3
+|4
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="full_time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Chelsea
+!scope="col" style="width:70px"|Villarreal
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|7
+|1
+|-
+!scope=row|Shots on target
+|1
+|0
+|-
+!scope=row|Saves
+|0
+|1
+|-
+!scope=row|Ball possession
+|63%
+|37%
+|-
+!scope=row|Corner kicks
+|3
+|0
+|-
+!scope=row|Fouls committed
+|2
+|5
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="full_time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Chelsea
+!scope="col" style="width:70px"|Villarreal
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|21
+|12
+|-
+!scope=row|Shots on target
+|7
+|4
+|-
+!scope=row|Saves
+|3
+|6
+|-
+!scope=row|Ball possession
+|57%
+|43%
+|-
+!scope=row|Corner kicks
+|9
+|5
+|-
+!scope=row|Fouls committed
+|10
+|15
+|-
+!scope=row|Offsides
+|4
+|2
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2021 UEFA Champions League final]]
+*[[2021 UEFA Europa League final]]
+*[[2021–22 UEFA Champions League]]
+*[[2021–22 UEFA Europa League]]
+*[[2021–22 Chelsea F.C. season]]
+*[[2021–22 Villarreal CF season]]
+*[[Chelsea F.C. in international football]]
+*[[Villarreal CF in European football]]
+
+==References==
+{{reflist}}
+
+==Notes==
+{{reflist|group=note}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefasupercup/}}
+
+{{UEFA Super Cup}}
+{{2021–22 in European football (UEFA)}}
+{{2021–22 European club competitions}}
+{{Chelsea F.C. matches}}
+{{Villarreal CF}}
+
+{{DEFAULTSORT:Uefa Super Cup 2021}}
+[[Category:UEFA Super Cup matches|2021]]
+[[Category:2021–22 in English men's football]]
+[[Category:2021–22 in Spanish men's football]]
+[[Category:Chelsea F.C. matches]]
+[[Category:Villarreal CF matches]]
+[[Category:August 2021 sports events in the United Kingdom]]
+[[Category:Association football competitions in Northern Ireland]]
+[[Category:Sports competitions in Belfast]]
+[[Category:2021–22 in Northern Ireland association football]]
+[[Category:21st century in Belfast]]
+[[Category:Spain–United Kingdom sports relations]]
+[[Category:Men's football events in the United Kingdom]]
+[[Category:Football matches in the United Kingdom]]
+[[Category:2021–22 in European men's continental football]]

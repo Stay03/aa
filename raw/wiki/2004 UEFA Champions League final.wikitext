@@ -1,0 +1,480 @@
+{{Short description|Association football match}}
+{{Use dmy dates|date=April 2023}}
+{{Infobox football match
+| image              = [[File:UCL2004Final.JPG|200px]]
+| caption            = Match programme cover
+| event              = [[2003–04 UEFA Champions League]]
+| team1              = [[AS Monaco FC|Monaco]]
+| team1association   = {{fbaicon|FRA|1974|size=30px}}
+| team1score         = 0
+| team2              = [[FC Porto|Porto]]
+| team2association   = {{fbaicon|POR|size=30px}}
+| team2score         = 3
+| details            =
+| date               = 26 May 2004
+| stadium            = [[Arena AufSchalke]]
+| city               = [[Gelsenkirchen]]
+| man_of_the_match1a = [[Deco]] (Porto)<ref name="attendance"/>
+| referee            = [[Kim Milton Nielsen]] ([[Danish Football Association|Denmark]])
+| attendance         = 53,053<ref name="attendance"/>
+| weather            =
+| previous           = [[2003 UEFA Champions League final|2003]]
+| next               = [[2005 UEFA Champions League final|2005]]
+}}
+The '''2004 UEFA Champions League final''' was an [[association football]] match played on 26 May 2004 to decide the winner of the [[2003–04 UEFA Champions League]]. [[AS Monaco FC|AS Monaco]], a [[Monaco]]-based club representing the [[French Football Federation]], faced Portuguese side [[FC Porto|Porto]] at the [[Arena AufSchalke]] in [[Gelsenkirchen]], Germany. Porto won the match 3–0, with [[Carlos Alberto de Jesus|Carlos Alberto]], [[Deco]] and [[Dmitri Alenichev]] scoring the goals in a dominant game from Jose Mourinho's Porto. Deco was named Man of the Match.
+[[File:F.C. Porto Museum 11.jpg|thumb|260x260px|The UEFA Champions League trophy is on display at the FC Porto Museum in [[Estádio do Dragão]].]]
+Porto's previous triumph in the competition had been in [[1987 European Cup final|1987]] – although they had won the [[UEFA Europa League|UEFA Cup]] in the [[2002–03 UEFA Cup|previous season]] – while Monaco were playing in their first ever UEFA Champions League final. Both teams started their campaigns in the group stage and defeated former European champions on their way to the final: Porto beat 1968 and 1999 winners [[Manchester United F.C.|Manchester United]] while Monaco defeated nine-time champions [[Real Madrid CF|Real Madrid]].
+
+Both teams were considered [[Underdog (competition)|underdogs]] in the competition before reaching the final stages and were led by young managers. Monaco had hired former [[France national football team]] captain [[Didier Deschamps]] as manager and Porto were led by rising star [[José Mourinho]], who left the club for [[Chelsea F.C.|Chelsea]] a week after the match.
+
+Monaco became the fourth club representing the [[Ligue 1|French league]] to reach the final after [[Stade de Reims|Reims]] in [[1956 European Cup final|1956]] & [[1959 European Cup final|1959]], [[AS Saint-Étienne|Saint-Étienne]] in [[1976 European Cup final|1976]], and [[Olympique de Marseille]] in [[1991 European Cup final|1991]] & [[1993 UEFA Champions League final|1993]]. This was the fifth final in the history of the European Cup in which neither of the teams came from England, Germany, Italy or Spain and the first since the 1991 final when [[Red Star Belgrade]] of Yugoslavia beat Marseille. To date, this is the last Champions League final to feature a team from outside the [[Big Five (association football)|Big Five]] European leagues (England, France, Germany, Italy, Spain), and the last one to be won by a team from outside those five leagues.<ref>{{Cite web|url=https://backpagefootball.com/fc-porto-the-big-five-and-the-death-of-european-club-competition/120080/|title=FC Porto, The Big Five and the death of European club competition|first=Richard|last=Pike|date=15 November 2018}}</ref>
+
+==Background==
+===Monaco===
+Monaco finished second in the French [[Ligue 1]] the previous season, meaning that they entered the Champions League at the group stage. Monaco were placed in Group C, alongside [[Deportivo de La Coruña|Deportivo La Coruña]], [[PSV Eindhoven]] and [[AEK Athens F.C.|AEK Athens]]. After a 2–1 in their first win in the Netherlands and a 4–0 win at the [[Stade Louis II]] against AEK Athens, Monaco travelled to Spain, losing 1–0 by Deportivo. The Monegasque adventure really began after the return match against Deportivo, when Monaco won 8–3, which represented the highest number of goals in one match in the history of the new version of the UEFA Champions League; this record lasted until 22 November 2016, when [[Legia Warsaw]] lost 8–4 to [[Borussia Dortmund]]. Croatian striker [[Dado Pršo]] scored four times, while captain [[Ludovic Giuly]] (2), [[Jérôme Rothen]], [[Jaroslav Plašil]] and [[Édouard Cissé]] pulverised the Spanish defensive line. After two more draws against PSV and AEK Athens, Monaco finished at the top of Group C.
+
+The first knockout round saw Monaco winning against [[FC Lokomotiv Moscow|Lokomotiv Moscow]] after a 2–1 defeat in Russia and a win 1–0 at Stade Louis II. In the quarter-finals, Monaco played [[Real Madrid CF|Real Madrid]]. After a 4–2 loss in [[Madrid]] (where [[Fernando Morientes]] scored, and was applauded by his former fans), Monaco created a sensation by defeating the Spanish 3–1 at home. Monaco played against [[Chelsea F.C.|Chelsea]] in the semi-finals, and despite the exclusion of [[Akis Zikos]], Monaco found enough strength to score twice and win the game 3–1.<ref>{{Cite news |url=http://www.uefa.com/competitions/UCL/FixturesResults/Round=1715/Match=1063677/Report=RP.html |title=Ten-man Monaco dazzle Chelsea |publisher=UEFA |date=20 April 2004 |access-date=22 September 2019 |archive-url=https://web.archive.org/web/20040618003932/http://www.uefa.com/competitions/UCL/FixturesResults/Round=1715/Match=1063677/Report=RP.html |first= Matt |last=Spiro |archive-date=18 June 2004 |url-status=dead}}</ref> The last goal was scored by striker [[Shabani Nonda]], who just returned from a seven-month injury. The second leg at [[Stamford Bridge (stadium)|Stamford Bridge]] saw Monaco resisting Chelsea's strikes, for a final score of 2–2 to reach the European Cup final for the first time in their history.<ref name=bbcsport>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/champions_league/3743079.stm| title=Outsiders chase Euro glory |publisher= [[BBC Sport]] |date=26 May 2004 |access-date=22 September 2019}}</ref>
+
+===Porto===
+Porto, winners of the [[Primeira Liga]], [[Taça de Portugal]] and [[UEFA Europa League|UEFA Cup]] in 2002–03, were the only Portuguese team in the group stage, after the elimination of [[S.L. Benfica|Benfica]] in the third qualifying round by Italian side [[SS Lazio|Lazio]]. Porto was drawn in Group F, along with Real Madrid, [[Olympique de Marseille|Marseille]] and [[FK Partizan|Partizan]]. Porto's first match was at [[Partizan Stadium]] in [[Belgrade]]. [[Costinha]] scored the opening goal on 22 minutes, but [[Andrija Delibašić]] scored the equaliser on 54 minutes.<ref>{{cite news |title=Partizan seal debut point |url=http://www.uefa.com/competitions/ucl/history/season=2003/round=1712/match=1056808/index.html |publisher=UEFA |date=16 September 2003 |access-date=17 November 2007 |archive-url=https://web.archive.org/web/20080526054939/http://www.uefa.com/competitions/ucl/history/season=2003/round=1712/match=1056808/index.html |archive-date=26 May 2008 |url-status=dead}}</ref> The next match, the first at the [[Estádio das Antas]], was a 3–1 loss to Real Madrid. Costinha scored the opening goal again, on seven minutes. [[Iván Helguera]] equalised on 28 minutes; [[Santiago Solari]] on 37 minutes and [[Zinedine Zidane]] on 67 scored Real Madrid's winning goals.<ref>{{Cite news |title=Madrid comeback floors Porto |url=http://www.uefa.com/competitions/ucl/history/season=2003/round=1712/match=1056823/index.html |publisher=UEFA |date=1 October 2003 |access-date=17 November 2007 |archive-url=https://web.archive.org/web/20080212125631/http://www.uefa.com/competitions/ucl/history/season=2003/round=1712/match=1056823/index.html |first= Graham |last=Hunter |archive-date=12 February 2008 |url-status=dead}}</ref>
+
+Two straight wins against Marseille followed by a win at home against Partizan secured Porto's place in the first knockout round before the last match of the group stage, a draw in [[Madrid]].<ref>{{cite web |url=http://www.uefa.com/competitions/UCL/fixturesresults/round=1712/match=1056887/Report=RP.html |title=Madrid make positive point |publisher=UEFA |date= 9 December 2003 |access-date=22 September 2019 |first=Andy |last=Hall |archive-url=https://web.archive.org/web/20040603121408/http://www.uefa.com/competitions/UCL/fixturesresults/round=1712/match=1056887/Report=RP.html |archive-date=3 June 2004 |url-status=dead}}</ref> In the first knockout round, Porto met [[Manchester United F.C.|Manchester United]]. The Portuguese won 2–1 at home<ref>{{cite web |url=http://www.uefa.com/competitions/UCL/fixturesresults/round=1713/match=1059556/Report=RP.html |title=Majestic McCarthy undoes United |publisher=UEFA |date= 25 February 2004 |access-date=22 September 2019 |first=Fergus |last=O'Shea |archive-url=https://web.archive.org/web/20040603122433/http://www.uefa.com/competitions/UCL/fixturesresults/round=1713/match=1059556/Report=RP.html |archive-date=3 June 2004 |url-status=dead}}</ref> and managed to qualify in the final minutes of the second leg, when Costinha scored an equaliser in [[Association football#Duration and tie-breaking methods|injury time]] in a 1–1 draw at [[Old Trafford]].<ref>{{cite web |url=http://www.uefa.com/competitions/UCL/fixturesresults/round=1713/match=1059564/Report=RP.html |title=Costinha turns tables on United |publisher=UEFA |date=25 February 2004 |access-date=22 September 2019 |archive-url=https://web.archive.org/web/20040603122843/http://www.uefa.com/competitions/UCL/fixturesresults/round=1713/match=1059564/Report=RP.html |archive-date=3 June 2004 |url-status=dead}}</ref> In the quarter-finals, Porto met a French team for the second time in the tournament: a 2–0 win at home<ref>{{cite web |url=http://www.uefa.com/competitions/UCL/FixturesResults/Round=1714/Match=1062123/Report=RP.html |title=Porto press on towards last four |publisher=UEFA |date=23 March 2004 |access-date=22 September 2019 |first=Fergus |last=O'Shea |archive-url=https://web.archive.org/web/20040614220821/http://www.uefa.com/competitions/UCL/FixturesResults/Round=1714/Match=1062123/Report=RP.html |archive-date=14 June 2004 |url-status=dead}}</ref> and a 2–2 draw in France eliminated [[Olympique Lyonnais|Lyon]] from the competition.<ref>{{cite web |url=http://www.uefa.com/competitions/UCL/fixturesresults/round=1714/match=1062127/Report=RP.html |title=Away draw sees Porto progress |publisher=UEFA |date=7 April 2004 |access-date=22 September 2019 |first=Pete |last=Sanderson |archive-url=https://web.archive.org/web/20040605194437/http://www.uefa.com/competitions/UCL/fixturesresults/round=1714/match=1062127/Report=RP.html |archive-date=5 June 2004 |url-status=dead}}</ref> In the semi-finals, Porto played Deportivo La Coruña, eliminating them 1–0 on aggregate.<ref>{{cite web |url=http://www.uefa.com/competitions/UCL/fixturesresults/round=1715/match=1063678/Report=RP.html |title=Porto denied by ten-man Depor |publisher=UEFA |date=21 April 2004 |access-date=22 September 2019 |first=Fergus |last=O'Shea |archive-url=https://web.archive.org/web/20040603125321/http://www.uefa.com/competitions/UCL/fixturesresults/round=1715/match=1063678/Report=RP.html |archive-date=3 June 2004 |url-status=dead}}</ref>
+
+==Route to the final==
+{{further|2003–04 UEFA Champions League}}
+
+{|class="wikitable" style="text-align: center;"
+|-
+!colspan=4|{{fbaicon|FRA|1974}} [[AS Monaco FC|Monaco]]
+!Round
+!colspan=4|{{fbaicon|POR}} [[FC Porto|Porto]]
+|-bgcolor=#c1e0ff
+|Opponent
+|colspan=3|Result
+|[[2003–04 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|NED}} [[PSV Eindhoven]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#PSV Eindhoven v Monaco|2–1]] (A)
+|bgcolor=#c1e0ff|Matchday 1
+|align=left|{{fbaicon|SCG}} [[FK Partizan|Partizan]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#Partizan v Porto|1–1]] (A)
+|-
+|align=left|{{fbaicon|GRE}} [[AEK Athens F.C.|AEK Athens]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#Monaco v AEK Athens|4–0]] (H)
+|bgcolor=#c1e0ff|Matchday 2
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#Porto v Real Madrid|1–3]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#Deportivo La Coruña v Monaco|0–1]] (A)
+|bgcolor=#c1e0ff|Matchday 3
+|align=left|{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#Marseille v Porto|2–3]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#Monaco v Deportivo La Coruña|8–3]] (H)
+|bgcolor=#c1e0ff|Matchday 4
+|align=left|{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#Porto v Marseille|1–0]] (H)
+|-
+|align=left|{{fbaicon|NED}} [[PSV Eindhoven]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#Monaco v PSV Eindhoven|1–1]] (H)
+|bgcolor=#c1e0ff|Matchday 5
+|align=left|{{fbaicon|SCG}} [[FK Partizan|Partizan]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#Porto v Partizan|2–1]] (H)
+|-
+|align=left|{{fbaicon|GRE}} [[AEK Athens F.C.|AEK Athens]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#AEK Athens v Monaco|0–0]] (A)
+|bgcolor=#c1e0ff|Matchday 6
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan=3|[[2003–04 UEFA Champions League group stage#Real Madrid v Porto|1–1]] (A)
+|-
+|colspan=4 align=center valign=top|'''[[2003–04 UEFA Champions League group stage#Group C|Group C]] winners'''
+{{:2003–04 UEFA Champions League group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=MON}}
+|bgcolor=#c1e0ff|Final standings
+|colspan=4 align=center valign=top|'''[[2003–04 UEFA Champions League group stage#Group F|Group F]] runners-up'''
+{{:2003–04 UEFA Champions League group stage|transcludesection=Group F|only_pld_pts=yes|show_matches=no|showteam=POR}}
+|-bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2003–04 UEFA Champions League knockout stage|Knockout stage]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|RUS}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|2–2 ([[Away goals rule|a]])
+|[[2003–04 UEFA Champions League knockout stage#Lokomotiv Moscow v Monaco|1–2]] (A)
+|[[2003–04 UEFA Champions League knockout stage#Monaco v Lokomotiv Moscow|1–0]] (H)
+|bgcolor=#c1e0ff|First knockout round
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|3–2
+|[[2003–04 UEFA Champions League knockout stage#Porto v Manchester United|2–1]] (H)
+|[[2003–04 UEFA Champions League knockout stage#Manchester United v Porto|1–1]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|5–5 ([[Away goals rule|a]])
+|[[2003–04 UEFA Champions League knockout stage#Real Madrid v Monaco|2–4]] (A)
+|[[2003–04 UEFA Champions League knockout stage#Monaco v Real Madrid|3–1]] (H)
+|bgcolor=#c1e0ff|Quarter-finals
+|align=left|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|4–2
+|[[2003–04 UEFA Champions League knockout stage#Porto v Lyon|2–0]] (H)
+|[[2003–04 UEFA Champions League knockout stage#Lyon v Porto|2–2]] (A)
+|-
+|align=left|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|5–3
+|[[2003–04 UEFA Champions League knockout stage#Monaco v Chelsea|3–1]] (H)
+|[[2003–04 UEFA Champions League knockout stage#Chelsea v Monaco|2–2]] (A)
+|bgcolor=#c1e0ff|Semi-finals
+|align=left|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|1–0
+|[[2003–04 UEFA Champions League knockout stage#Porto v Deportivo La Coruña|0–0]] (H)
+|[[2003–04 UEFA Champions League knockout stage#Deportivo La Coruña v Porto|1–0]] (A)
+|}
+
+==Match==
+
+===Summary===
+[[File:FCP-CL Supporters.jpg|thumb|203x203px|FC Porto supporters at the Gelsenkirchen Arena AufSchalke.]]
+Monaco, in their first European final since the 1992 Europa Cup,<ref name=bbcsport /> were up against Porto, the UEFA Cup winners from the previous season,<ref name=bbcsport /> who were appearing in the European Cup final for a second time, after defeating [[FC Bayern Munich|Bayern Munich]] in the [[1987 European Cup final]].<ref name=uefareport>{{cite web |url=http://www.uefa.com/competitions/UCL/FixturesResults/Round=1716/Match=1065206/Report=RP.html |title=Porto perform to perfection |publisher=UEFA |date=26 May 2004 |first= Adam |last=Szreter  |access-date=22 September 2019 |archive-url= https://web.archive.org/web/20040603134348/http://www.uefa.com/competitions/UCL/FixturesResults/Round=1716/Match=1065206/Report=RP.html | archive-date=3 June 2004| url-status=dead }}</ref> Porto were the favourites after eliminating Manchester United and Deportivo La Coruña in the knockout phase, while Monaco had eliminated Real Madrid and Chelsea.{{Citation needed|date=May 2023}} Porto won the match 3–0; [[Carlos Alberto (footballer, born December 1984)|Carlos Alberto]] opened the scoring in the first half, while [[Deco]] and [[Dmitri Alenichev]] extended Porto's lead in the second half.<ref>{{cite news |last1=McCarra |first1=Kevin |title=Mourinho leaves Porto on top |url=https://www.theguardian.com/football/2004/may/27/match.porto |access-date=14 March 2024 |work=The Guardian |date=26 May 2004}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2004|5|26|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[AS Monaco FC|Monaco]] {{fbaicon|FRA|1974}}
+|score      = 0–3
+|team2      = {{fbaicon|POR}} [[FC Porto|Porto]]
+|goals1     =
+|goals2     =
+*[[Carlos Alberto (footballer, born December 1984)|Carlos Alberto]] {{goal|39}}
+*[[Deco]] {{goal|71}}
+*[[Dmitri Alenichev|Alenichev]] {{goal|75}}
+|stadium    = [[Veltins-Arena|Arena AufSchalke]], [[Gelsenkirchen]]
+|attendance = 53,053<ref name="attendance">{{cite book |location=Nyon |chapter-url=https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |chapter=2. Finals |title=UEFA Champions League Statistics Handbook 2022/23 |publisher=Union of European Football Associations |page=2 |date=4 June 2023 |access-date=17 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20230821082639/https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |archive-date=21 August 2023}}</ref>
+|referee    = [[Kim Milton Nielsen]] ([[Danish Football Association|Denmark]])
+|report     = https://www.uefa.com/uefachampionsleague/match/75433/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _thinredborder
+ | pattern_b  = _asmonac0304h
+ | pattern_ra = _thinwhiteborder
+ | pattern_so = _asmonac0304h
+ | leftarm    = FFFFFF
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FFFFFF
+ | socks      = FFFFFFF
+ | title     = Monaco<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2003/1065206_LU.pdf |title=Tactical Line-ups – Final – Wednesday 26 May 2004 |publisher=UEFA |date=26 May 2004 |access-date=29 December 2017}}</ref>
+}}
+|{{Football kit
+ | pattern_la =_porto0304h
+ | pattern_b  = _porto0304h
+ | pattern_ra =_porto0304h
+ | pattern_sh =_porto0304home
+ | pattern_so =_porto0304home
+ | leftarm    =
+ | body       = 
+ | rightarm   = 
+ | shorts     = 2929C0
+ | socks      = 0000FF
+ | title      = Porto<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''30'''||{{flagicon|ITA|2003}} [[Flavio Roma]]
+|-
+|RB ||'''4''' ||{{flagicon|ARG}} [[Hugo Ibarra]]
+|-
+|CB ||'''27'''||{{flagicon|FRA|1974}} [[Julien Rodriguez]]
+|-
+|CB ||'''32'''||{{flagicon|FRA|1974}} [[Gaël Givet]] || || {{suboff|72}}
+|-
+|LB ||'''3''' ||{{flagicon|FRA|1974}} [[Patrice Evra]]
+|-
+|CM ||'''14'''||{{flagicon|FRA|1974}} [[Édouard Cissé]] || || {{suboff|64}}
+|-
+|CM ||'''7''' ||{{flagicon|ARG}} [[Lucas Bernardi]]
+|-
+|CM ||'''15'''||{{flagicon|GRE}} [[Akis Zikos]]
+|-
+|RW ||'''8''' ||{{flagicon|FRA|1974}} [[Ludovic Giuly]] ([[Captain (association football)|c]]) || || {{suboff|23}}
+|-
+|LW ||'''25'''||{{flagicon|FRA|1974}} [[Jérôme Rothen]]
+|-
+|CF ||'''10'''||{{flagicon|ESP}} [[Fernando Morientes]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''29'''||{{flagicon|SEN}} [[Tony Sylva]]
+|-
+|DF ||'''19'''||{{flagicon|FRA|1974}} [[Sébastien Squillaci]] || || {{subon|72}}
+|-
+|MF ||'''6''' ||{{flagicon|CZE}} [[Jaroslav Plašil]]
+|-
+|MF ||'''35'''||{{flagicon|NOR}} [[Hassan El Fakiri]]
+|-
+|FW ||'''9''' ||{{flagicon|CRO}} [[Dado Pršo]] || || {{subon|23}}
+|-
+|FW ||'''18'''||{{flagicon|COD|2003}} [[Shabani Nonda]] || || {{subon|64}}
+|-
+|FW ||'''24'''||{{flagicon|TOG}} [[Emmanuel Adebayor]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA|1974}} [[Didier Deschamps]]
+|}
+|valign="top"|[[File:AS Monaco vs Porto 2004-05-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''99'''||{{flagicon|POR}} [[Vítor Baía]]
+|-
+|RB ||'''22'''||{{flagicon|POR}} [[Paulo Ferreira]]
+|-
+|CB ||'''2''' ||{{flagicon|POR}} [[Jorge Costa]] ([[Captain (association football)|c]]) || {{yel|77}}
+|-
+|CB ||'''4''' ||{{flagicon|POR}} [[Ricardo Carvalho]]
+|-
+|LB ||'''8''' ||{{flagicon|POR}} [[Nuno Valente]] || {{yel|29}}
+|-
+|DM ||'''6''' ||{{flagicon|POR}} [[Costinha]]
+|-
+|CM ||'''23'''||{{flagicon|POR}} [[Pedro Mendes (footballer, born 1979)|Pedro Mendes]]
+|-
+|CM ||'''18'''||{{flagicon|POR}} [[Maniche]]
+|-
+|AM ||'''10'''||{{flagicon|POR}} [[Deco]] || || {{suboff|85}}
+|-
+|CF ||'''19'''||{{flagicon|BRA}} [[Carlos Alberto (footballer, born December 1984)|Carlos Alberto]] || {{yel|40}} || {{suboff|60}}
+|-
+|CF ||'''11'''||{{flagicon|BRA}} [[Derlei]] || || {{suboff|78}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|POR}} [[Nuno Espírito Santo]]
+|-
+|DF ||'''3''' ||{{flagicon|POR}} [[Pedro Emanuel]] || || {{subon|85}}
+|-
+|DF ||'''5''' ||{{flagicon|POR}} [[Ricardo Costa (footballer, born 1981)|Ricardo Costa]]
+|-
+|DF ||'''17'''||{{flagicon|POR}} [[José Bosingwa]]
+|-
+|MF ||'''15'''||{{flagicon|RUS}} [[Dmitri Alenichev]] || || {{subon|60}}
+|-
+|FW ||'''9''' ||{{flagicon|LTU|1988}} [[Edgaras Jankauskas]]
+|-
+|FW ||'''77'''||{{flagicon|RSA}} [[Benni McCarthy]] || || {{subon|78}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|POR}} [[José Mourinho]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Deco]] (Porto)<ref name="attendance"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Jens Larsen ([[Danish Football Association|Denmark]])
+<br />Jørgen Jepsen ([[Danish Football Association|Denmark]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Knud Erik Fisker]] ([[Danish Football Association|Denmark]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[Golden goal#Silver goal|silver goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="statistics">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2003/1065206_FR.pdf |title=Full Time Report – Monaco – Porto |publisher=UEFA |date=26 May 2004 |access-date=6 December 2012}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Monaco
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|1
+|2
+|-
+!scope=row|Shots on target
+|0
+|1
+|-
+!scope=row|Ball possession
+|54%
+|46%
+|-
+!scope=row|Corner kicks
+|1
+|2
+|-
+!scope=row|Fouls committed
+|7
+|6
+|-
+!scope=row|Offsides
+|7
+|3
+|-
+!scope=row|Yellow cards
+|0
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Monaco
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|0
+|2
+|-
+!scope=row|Total shots
+|6
+|2
+|-
+!scope=row|Shots on target
+|0
+|2
+|-
+!scope=row|Ball possession
+|58%
+|42%
+|-
+!scope=row|Corner kicks
+|5
+|0
+|-
+!scope=row|Fouls committed
+|3
+|8
+|-
+!scope=row|Offsides
+|5
+|5
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Monaco
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|0
+|3
+|-
+!scope=row|Total shots
+|7
+|4
+|-
+!scope=row|Shots on target
+|0
+|3
+|-
+!scope=row|Ball possession
+|56%
+|44%
+|-
+!scope=row|Corner kicks
+|6
+|2
+|-
+!scope=row|Fouls committed
+|10
+|14
+|-
+!scope=row|Offsides
+|12
+|8
+|-
+!scope=row|Yellow cards
+|0
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2003–04 AS Monaco FC season]]
+*[[2003–04 FC Porto season]]
+*[[2004 UEFA Cup final]]
+*[[2004 UEFA Women's Cup final]] 
+*[[2004 UEFA Super Cup]]
+*[[2004 Intercontinental Cup]]
+*[[AS Monaco FC in European football]]
+*[[FC Porto in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20040615222807/http://www.uefa.com/competitions/UCL/fixturesresults/round%3D1716/match%3D1065206/Report%3DRP.html Official website] (archive)
+
+{{UEFA Champions League seasons}}
+{{2003–04 in European football (UEFA)}}
+{{FC Porto matches}}
+{{AS Monaco FC matches}}
+
+[[Category:2003–04 UEFA Champions League|Final]]
+[[Category:UEFA Champions League finals]]
+[[Category:AS Monaco FC matches|European Cup Final 2004]]
+[[Category:FC Porto matches|European Cup Final 2004]]
+[[Category:2003–04 in French men's football]]
+[[Category:2003–04 in Portuguese football]]
+[[Category:Sports competitions in Gelsenkirchen]]
+[[Category:21st century in Gelsenkirchen]]
+[[Category:May 2004 sports events in Germany]]
+[[Category:2000s in North Rhine-Westphalia]]
+[[Category:France–Portugal sports relations|2004]]
+[[Category:2003–04 in German football]]
+[[Category:Football competitions in North Rhine-Westphalia]]

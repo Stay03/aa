@@ -1,0 +1,411 @@
+{{Infobox football match
+| title              = 2014 UEFA Super Cup
+| image              = [[File:2014 UEFA Super Cup.png|200px]]
+| team1              = [[Real Madrid CF|Real Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 2
+| team2              = [[Sevilla FC|Sevilla]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 0
+| date               = 12 August 2014
+| stadium            = [[Cardiff City Stadium]]
+| city               = [[Cardiff]]
+| man_of_the_match1a = [[Cristiano Ronaldo]] {{nowrap|(Real Madrid)}}<ref name="MOTM"/>
+| referee            = [[Mark Clattenburg]] ([[The Football Association|England]])<ref name="officials"/>
+| attendance         = 30,854<ref name="fulltime"/>
+| weather            = Cloudy night<br />{{convert|20|°C|abbr=on}}<br />75% [[humidity]]<ref name="line-ups">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2014/2014109_LU.pdf |title=Tactical line-ups – Final – Tuesday 12 August 2014 Cardiff City Stadium – Cardiff |website=UEFA.org |publisher=Union of European Football Associations |format=PDF |date=12 August 2014 |access-date=12 August 2014}}</ref>
+| previous           = [[2013 UEFA Super Cup|2013]]
+| next               = [[2015 UEFA Super Cup|2015]]
+}}
+The '''2014 UEFA Super Cup''' was the 39th edition of the [[UEFA Super Cup]], an annual [[association football|football]] match organised by [[UEFA]] and contested by the reigning champions of the two main [[Europe]]an club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. The match featured two Spanish teams [[Real Madrid CF|Real Madrid]] and [[Sevilla FC|Sevilla]], the winners of the [[2013–14 UEFA Champions League]] and the [[2013–14 UEFA Europa League]] respectively.<ref>{{cite news |title=Cardiff date for Madrid and Sevilla |url=https://www.uefa.com/uefasupercup/news/0250-0c510566447b-a3e6782c1f72-1000--cardiff-date-for-madrid-and-sevilla/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=24 May 2014 }}</ref> It was played at the [[Cardiff City Stadium]] in [[Cardiff]], Wales,<ref name="decision">{{cite web |url=https://www.uefa.com/uefasupercup/news/0250-0c50fb8f7dbe-0d15b1a19f6c-1000--uefa-euro-2020-uefa-super-cup-decisions/ |title=UEFA EURO 2020, UEFA Super Cup decisions |website=UEFA.org |publisher=Union of European Football Associations |date=30 June 2012 }}</ref> on 12 August 2014.<ref>{{cite web |url=https://www.uefa.com/news-media/news/0253-0d7eeaa71d98-7ddf54a81673-1000--strategic-talks-in-dubrovnik/ |title=Strategic talks in Dubrovnik |website=UEFA.org |publisher=Union of European Football Associations |date=20 September 2013 }}</ref> The date was moved from Friday in late August in previous years, to mid-August starting this year, following the removal of the August international friendly date in the new [[FIFA International Match Calendar]].<ref name="decision"/>
+
+Real Madrid won 2–0 to win their second UEFA Super Cup, with both goals by [[Cristiano Ronaldo]].<ref>{{cite web |url=https://www.bbc.com/sport/football/28741099 |title=Super Cup: Cristiano Ronaldo scores twice in Real Madrid win |date=12 August 2014 |work=[[BBC Sport]] |access-date=19 August 2014 }}</ref>
+
+==Venue==
+[[File:UEFA Super Cup, Cardiff 2014.jpg|thumb|alt=Opening ceremony for the 2014 UEFA Super cup final in Cardiff, UK.|The match was played at the [[Cardiff City Stadium]] in Cardiff, Wales.]]
+The [[Cardiff City Stadium]] was announced as the venue of the Super Cup at the UEFA Executive Committee meeting on 30 June 2012.<ref name="decision"/> This was the first UEFA Super Cup hosted in Wales.
+
+The Cardiff City Stadium opened in July 2009 on the site of the [[Cardiff Athletics Stadium]]. It is the home stadium of [[Cardiff City F.C.|Cardiff City]]. The stadium had a capacity of 33,000 after expansion work.<ref>{{cite news |title=Cardiff to embrace UEFA Super Cup |url=https://www.uefa.com/uefasupercup/news/0250-0c51058da6eb-a92eadf2d40b-1000--cardiff-to-embrace-uefa-super-cup/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=17 February 2014 }}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|Winners of the [[2013–14 UEFA Champions League]]
+|[[1998 UEFA Super Cup|1998]], [[2000 UEFA Super Cup|2000]], '''[[2002 UEFA Super Cup|2002]]'''
+|-
+|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|Winners of the [[2013–14 UEFA Europa League]]
+|'''[[2006 UEFA Super Cup|2006]]''', [[2007 UEFA Super Cup|2007]]
+|}
+
+==Pre-match==
+===Ticketing===
+The international ticket sales phase for the general public ran from 5 to 27 June 2014. Tickets were available in three price categories: [[Pound sterling|£]]110, £75, and £40.<ref>{{cite news |title=UEFA Super Cup Cardiff 2014 tickets on sale |url=https://www.uefa.com/uefasupercup/news/0250-0c51058f6115-0fd36e826c2b-1000--uefa-super-cup-cardiff-2014-tickets-on-sale/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=5 June 2014 }}</ref>
+
+===Officials===
+England's [[Mark Clattenburg]] was appointed by UEFA as the referee of the match, accompanied by an all-English team of officials: assistant referees Simon Beck and Stuart Burt, fourth official [[Darren England]], and additional assistant referees [[Michael Oliver (referee)|Michael Oliver]] and [[Anthony Taylor (referee)|Anthony Taylor]].<ref name="officials">{{cite news |title=Clattenburg to referee UEFA Super Cup |url=https://www.uefa.com/news-media/news/0250-0c5104e256a7-e116d816fcf5-1000--clattenburg-to-referee-uefa-super-cup/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=30 July 2014 }}</ref>
+
+The match was the first in a UEFA club competition to use [[vanishing spray]].<ref>{{cite news |title=Vanishing spray paint approved for UEFA games |url=https://www.uefa.com/uefachampionsleague/news/0253-0d7fdd76e9aa-30a128a937cd-1000--vanishing-spray-paint-approved-for-uefa-games/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=8 August 2014 }}</ref>
+
+{{clear}}
+
+==Match==
+
+===Team selection===
+Real Madrid midfielder [[Xabi Alonso]] was suspended for the match, due to breaches of conduct in the Champions League Final, for which he was also suspended.<ref>{{cite news |title=Alonso one-match ban confirmed for Super Cup |url=https://www.uefa.com/uefasupercup/news/0250-0c510575e48c-103297d3e36a-1000--alonso-one-match-ban-confirmed-for-super-cup/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=8 August 2014 }}</ref>
+
+New signings [[Toni Kroos]] and [[James Rodríguez]] made their competitive debuts for Real Madrid; another new signing, [[Keylor Navas]], was an unused substitute. Sevilla gave competitive debuts to [[Denis Suárez]], [[Aleix Vidal]] and [[Grzegorz Krychowiak]], as well as substitute [[Iago Aspas]]. [[Nicolás Pareja]] and [[Daniel Carriço]] represented Sevilla for the first time since their loans were made permanent.<ref>{{cite web |url=https://www.telegraph.co.uk/sport/football/european/11029877/Real-Madrid-2-Sevilla-0-Cristiano-Ronaldo-at-the-double-as-European-Cup-winners-claim-Uefa-Super-Cup-in-Cardiff.html |title=Real Madrid 2 Sevilla 0: Cristiano Ronaldo at the double as European Cup winners claim Uefa Super Cup in Cardiff |date=12 August 2014 |work=Daily Telegraph |access-date=19 August 2014 }}</ref>
+
+===Details===
+{{football box
+|date=12 August 2014
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score=2–0
+|report=https://www.uefa.com/uefasupercup/match/<!--round=2000553/match=-->2014109/
+|team2={{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|30||49}}
+|goals2=
+|stadium=[[Cardiff City Stadium]], [[Cardiff]]
+|attendance=30,854<ref name="fulltime">{{cite web |title=Full Time Report – Final – Tuesday 12 August 2014 |url=https://www.uefa.com/newsfiles/SuperCup/2014/2014109_FR.pdf |website=UEFA.org |publisher=Union of European Football Associations |date=12 August 2014 }}</ref>
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rmcf1415h
+ | pattern_b  = _realmadrid1415home
+ | pattern_ra = _rmcf1415h
+ | pattern_sh = _rmcf1415h
+ | pattern_so = _rmcf1415h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid<ref name="line-ups"/>
+}}
+|{{Football kit
+ | pattern_la = _sevillafc1415t
+ | pattern_b  = _sevillafc1415t
+ | pattern_ra = _sevillafc1415t
+ | pattern_sh = _sevillafc1415t
+ | pattern_so = _sevillafc1415t
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Sevilla<ref name="line-ups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||{{flagicon|ESP}} [[Dani Carvajal]] || {{yel|45}}
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Sergio Ramos]]
+|-
+|CB ||'''3''' ||{{flagicon|POR}} [[Pepe (footballer, born 1983)|Pepe]]
+|-
+|LB ||'''5''' ||{{flagicon|POR}} [[Fábio Coentrão]] || || {{suboff|84}}
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]] || {{yel|53}}
+|-
+|CM ||'''19'''||{{flagicon|CRO}} [[Luka Modrić]] || || {{suboff|86}}
+|-
+|AM ||'''10'''||{{flagicon|COL}} [[James Rodríguez]] || || {{suboff|72}}
+|-
+|RW ||'''11'''||{{flagicon|WAL}} [[Gareth Bale]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Karim Benzema]]
+|-
+|LW ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|CRC}} [[Keylor Navas]]
+|-
+|DF ||'''2''' ||{{flagicon|FRA|1974}} [[Raphaël Varane]]
+|-
+|DF ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]] || || {{subon|84}}
+|-
+|DF ||'''17'''||{{flagicon|ESP}} [[Álvaro Arbeloa]]
+|-
+|MF ||'''22'''||{{flagicon|ARG}} [[Ángel Di María]]
+|-
+|MF ||'''23'''||{{flagicon|ESP}} [[Isco]] || || {{subon|72}}
+|-
+|MF ||'''24'''||{{flagicon|ESP}} [[Asier Illarramendi]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Carlo Ancelotti]]
+|}
+|valign="top"|[[File:Real Madrid vs Sevilla 2014-08-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|POR}} [[Beto (footballer, born 1982)|Beto]]
+|-
+|RB ||'''23'''||{{flagicon|ESP}} [[Coke (footballer)|Coke]] || || {{suboff|84}}
+|-
+|CB ||'''21'''||{{flagicon|ARG}} [[Nicolás Pareja]]
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Federico Fazio]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||{{flagicon|ESP}} [[Fernando Navarro (Spanish footballer)|Fernando Navarro]] || {{yel|66}}
+|-
+|DM ||'''4''' ||{{flagicon|POL}} [[Grzegorz Krychowiak]]
+|-
+|DM ||'''6''' ||{{flagicon|POR}} [[Daniel Carriço]]
+|-
+|RW ||'''22'''||{{flagicon|ESP}} [[Aleix Vidal]] || || {{suboff|66}}
+|-
+|AM ||'''17'''||{{flagicon|ESP}} [[Denis Suárez]] || || {{suboff|78}}
+|-
+|LW ||'''20'''||{{flagicon|ESP}} [[Vitolo (footballer, born 1989)|Vitolo]] || {{yel|42}}
+|-
+|CF ||'''9''' ||{{flagicon|COL}} [[Carlos Bacca]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ARG}} [[Mariano Barbosa]]
+|-
+|DF ||'''5''' ||{{flagicon|POR}} [[Diogo Figueiras]] || || {{subon|84}}
+|-
+|MF ||'''10'''||{{flagicon|ESP}} [[José Antonio Reyes]] || || {{subon|78}}
+|-
+|MF ||'''11'''||{{flagicon|ESP}} [[Jairo Samperio]]
+|-
+|MF ||'''12'''||{{flagicon|ESP}} [[Vicente Iborra]]
+|-
+|MF ||'''26'''||{{flagicon|ESP}} [[Luismi (footballer, born 1992)|Luismi]]
+|-
+|FW ||'''14'''||{{flagicon|ESP}} [[Iago Aspas]] || || {{subon|66}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Unai Emery]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Cristiano Ronaldo]] (Real Madrid)<ref name="MOTM">{{cite news |first1=Simon |last1=Hart |first2=Santiago |last2=Retortillo |title=Ronaldo delight at Super Cup supershow |url=https://www.uefa.com/uefasupercup/news/0250-0c51049fc081-144ce5c0b698-1000--ronaldo-delight-at-super-cup-supershow/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=13 August 2014 |access-date=14 September 2017 |quote=Cristiano Ronaldo received his man of the match award from his former manager Sir Alex Ferguson }}</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Simon Beck ([[The Football Association|England]])
+<br />Stuart Burt ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Darren England]] ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="officials"/>
+<br />[[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+<br />[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Super Cup 2014 |url=http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/09/93/05/2099305_DOWNLOAD.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=1 May 2014 |url-status=dead |archive-url=https://web.archive.org/web/20150620114408/http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/09/93/05/2099305_DOWNLOAD.pdf |archive-date=20 June 2015}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes, of which up to three may be used.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team_statistics">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2014/2014109_TS.pdf |title=Team statistics: Full time Final – Tuesday 12 August 2014 Cardiff City Stadium – Cardiff |website=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=12 August 2014 |access-date=12 August 2014}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|10
+|4
+|-
+!scope=row|Shots on target
+|3
+|2
+|-
+!scope=row|Saves
+|2
+|2
+|-
+!scope=row|Ball possession
+|58%
+|42%
+|-
+!scope=row|Corner kicks
+|9
+|3
+|-
+!scope=row|Fouls committed
+|9
+|8
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|8
+|7
+|-
+!scope=row|Shots on target
+|4
+|1
+|-
+!scope=row|Saves
+|1
+|3
+|-
+!scope=row|Ball possession
+|48%
+|52%
+|-
+!scope=row|Corner kicks
+|3
+|5
+|-
+!scope=row|Fouls committed
+|8
+|6
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|18
+|11
+|-
+!scope=row|Shots on target
+|7
+|3
+|-
+!scope=row|Saves
+|3
+|5
+|-
+!scope=row|Ball possession
+|53%
+|47%
+|-
+!scope=row|Corner kicks
+|12
+|8
+|-
+!scope=row|Fouls committed
+|17
+|14
+|-
+!scope=row|Offsides
+|3
+|1
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2014–15 UEFA Champions League]]
+*[[2014–15 UEFA Europa League]]
+*[[2014–15 Real Madrid CF season]]
+*[[2014–15 Sevilla FC season]]
+*[[2016 UEFA Super Cup]] – contested between same teams
+*[[Real Madrid CF in international football]]
+*[[Sevilla FC in European football]]
+*[[Spanish football clubs in international competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.uefa.com/uefasupercup/history/2014 2014 UEFA Super Cup], UEFA.com
+
+{{UEFA Super Cup}}
+{{2014–15 in European football (UEFA)}}
+{{2014–15 European club competitions}}
+{{Real Madrid CF matches}}
+{{Sevilla FC matches}}
+{{Sport in Cardiff}}
+
+{{DEFAULTSORT:UEFA Super Cup}}
+[[Category:UEFA Super Cup matches|2014]]
+[[Category:2014 in European men's continental football|Super Cup]]
+[[Category:2014–15 in Welsh football]]
+[[Category:2014–15 in Spanish men's football]]
+[[Category:Real Madrid CF matches]]
+[[Category:Sevilla FC matches]]
+[[Category:Football matches in Wales|2014]]
+[[Category:August 2014 sports events in the United Kingdom]]
+[[Category:2010s in Cardiff]]
+[[Category:Football competitions in Cardiff|2014]]
+[[Category:Spanish football clubs in international competitions]]

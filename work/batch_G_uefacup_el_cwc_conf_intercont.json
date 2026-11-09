@@ -1,0 +1,961 @@
+[
+ {
+  "article": "1998 UEFA Cup Winners' Cup final",
+  "fb_date": "13 May 1998",
+  "team1": "Chelsea",
+  "team2": "VfB Stuttgart",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Zola",
+    "minute": "71",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Råsunda Stadium, Stockholm",
+  "attendance": "30,216",
+  "referee": "Stefano Braschi (Italy)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefaeuropaleague/season=0/matches/round=738/match=54860/lineups/index.html",
+  "lineup_error": "found 1 tables",
+  "officials": {
+   "Assistant referees": "Gennaro Mazzei (Italy); Pietro Contente (Italy)",
+   "Reserve referee": "Livio Bazzoli (Italy) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "0"
+   ],
+   "Total shots": [
+    "19",
+    "11"
+   ],
+   "Shots on target": [
+    "5",
+    "2"
+   ],
+   "Ball possession": [
+    "48%",
+    "52%"
+   ],
+   "Corner kicks": [
+    "5",
+    "7"
+   ],
+   "Fouls committed": [
+    "26",
+    "33"
+   ],
+   "Offsides": [
+    "4",
+    "7"
+   ],
+   "Yellow cards": [
+    "1",
+    "1"
+   ],
+   "Red cards": [
+    "1",
+    "1"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Cup Winners' Cup"
+ },
+ {
+  "article": "1999 Intercontinental Cup",
+  "fb_date": "30 November 1999",
+  "team1": "Manchester United",
+  "team2": "Palmeiras",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Keane",
+    "minute": "35",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "National Stadium, Tokyo",
+  "attendance": "53,372",
+  "referee": "Hellmut Krug (Germany)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefachampionsleague/match/58531/",
+  "manager1": "Sir Alex Ferguson",
+  "cards1": [
+   {
+    "player": "Mikaël Silvestre",
+    "type": "Y",
+    "minute": "79"
+   }
+  ],
+  "manager2": "Luiz Felipe Scolari",
+  "cards2": [
+   {
+    "player": "Alex",
+    "type": "Y",
+    "minute": "28"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Jeon Young-hyun (South Korea); Yoshikazu Hiroshima (Japan)",
+   "Fourth official": "Masayoshi Okada (Japan) |}"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "0"
+   ],
+   "Total shots": [
+    "8",
+    "15"
+   ],
+   "Shots on target": [
+    "1",
+    "4"
+   ],
+   "Corner kicks": [
+    "6",
+    "12"
+   ],
+   "Offsides": [
+    "16",
+    "13"
+   ],
+   "Yellow cards": [
+    "1",
+    "1"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Intercontinental Cup"
+ },
+ {
+  "article": "2013 UEFA Europa League final",
+  "fb_date": "",
+  "team1": "Benfica",
+  "team2": "Chelsea",
+  "score_raw": "1–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Cardozo",
+    "minute": "68",
+    "note": "pen."
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Torres",
+    "minute": "60",
+    "note": ""
+   },
+   {
+    "player": "Ivanović",
+    "minute": "90+3",
+    "note": ""
+   }
+  ],
+  "stadium": "Amsterdam Arena, Amsterdam",
+  "attendance": "46,163",
+  "referee": "Björn Kuipers (Netherlands)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefaeuropaleague/match/2010095/",
+  "manager1": "Jorge Jesus",
+  "cards1": [
+   {
+    "player": "Luisão",
+    "type": "Y",
+    "minute": "61"
+   },
+   {
+    "player": "Ezequiel Garay",
+    "type": "Y",
+    "minute": "45+1"
+   }
+  ],
+  "manager2": "Rafael Benítez",
+  "cards2": [
+   {
+    "player": "Oscar",
+    "type": "Y",
+    "minute": "14"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Sander van Roekel (Netherlands); Erwin Zeinstra (Netherlands)",
+   "Fourth official": "Felix Brych (Germany)",
+   "Additional assistant referees": "Pol van Boekel (Netherlands); Richard Liesveld (Netherlands)",
+   "Reserve assistant referee": "Berry Simons (Netherlands) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "2"
+   ],
+   "Total shots": [
+    "17",
+    "11"
+   ],
+   "Shots on target": [
+    "11",
+    "7"
+   ],
+   "Saves": [
+    "5",
+    "10"
+   ],
+   "Ball possession": [
+    "54%",
+    "46%"
+   ],
+   "Corner kicks": [
+    "4",
+    "4"
+   ],
+   "Fouls committed": [
+    "18",
+    "18"
+   ],
+   "Offsides": [
+    "1",
+    "8"
+   ],
+   "Yellow cards": [
+    "2",
+    "1"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "UEFA Cup/Europa League"
+ },
+ {
+  "article": "2016 UEFA Europa League final",
+  "fb_date": "",
+  "team1": "Liverpool",
+  "team2": "Sevilla",
+  "score_raw": "1–3",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Sturridge",
+    "minute": "35",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Gameiro",
+    "minute": "46",
+    "note": ""
+   },
+   {
+    "player": "Coke",
+    "minute": "64",
+    "note": ""
+   },
+   {
+    "player": "Coke",
+    "minute": "70",
+    "note": ""
+   }
+  ],
+  "stadium": "St. Jakob-Park, Basel",
+  "attendance": "34,429",
+  "referee": "Jonas Eriksson (Sweden)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefaeuropaleague/match/2017222/",
+  "manager1": "Jürgen Klopp",
+  "cards1": [
+   {
+    "player": "Nathaniel Clyne",
+    "type": "Y",
+    "minute": "90+4"
+   },
+   {
+    "player": "Dejan Lovren",
+    "type": "Y",
+    "minute": "30"
+   },
+   {
+    "player": "Divock Origi",
+    "type": "Y",
+    "minute": "72"
+   }
+  ],
+  "manager2": "Unai Emery",
+  "cards2": [
+   {
+    "player": "Mariano",
+    "type": "Y",
+    "minute": "84"
+   },
+   {
+    "player": "Adil Rami",
+    "type": "Y",
+    "minute": "77"
+   },
+   {
+    "player": "Éver Banega",
+    "type": "Y",
+    "minute": "57"
+   },
+   {
+    "player": "Vitolo",
+    "type": "Y",
+    "minute": "56"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Mathias Klasenius (Sweden); Daniel Wärnmark (Sweden)",
+   "Fourth official": "Svein Oddvar Moen (Norway)",
+   "Additional assistant referees": "Stefan Johannesson (Sweden); Markus Strömbergsson (Sweden)",
+   "Reserve assistant referee": "Mehmet Culum (Sweden) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "3"
+   ],
+   "Total shots": [
+    "10",
+    "11"
+   ],
+   "Shots on target": [
+    "4",
+    "4"
+   ],
+   "Saves": [
+    "1",
+    "3"
+   ],
+   "Ball possession": [
+    "54%",
+    "46%"
+   ],
+   "Corner kicks": [
+    "4",
+    "7"
+   ],
+   "Fouls committed": [
+    "19",
+    "9"
+   ],
+   "Offsides": [
+    "1",
+    "3"
+   ],
+   "Yellow cards": [
+    "3",
+    "4"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": true,
+  "comp": "UEFA Cup/Europa League"
+ },
+ {
+  "article": "2017 UEFA Europa League final",
+  "fb_date": "",
+  "team1": "Ajax",
+  "team2": "Manchester United",
+  "score_raw": "0–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Pogba",
+    "minute": "18",
+    "note": ""
+   },
+   {
+    "player": "Mkhitaryan",
+    "minute": "48",
+    "note": ""
+   }
+  ],
+  "stadium": "Friends Arena, Solna",
+  "attendance": "46,961",
+  "referee": "Damir Skomina (Slovenia)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefaeuropaleague/match/2019702/",
+  "manager1": "Peter Bosz",
+  "cards1": [
+   {
+    "player": "Joël Veltman",
+    "type": "Y",
+    "minute": "58"
+   },
+   {
+    "player": "Jaïro Riedewald",
+    "type": "Y",
+    "minute": "78"
+   },
+   {
+    "player": "Amin Younes",
+    "type": "Y",
+    "minute": "64"
+   }
+  ],
+  "manager2": "José Mourinho",
+  "cards2": [
+   {
+    "player": "Juan Mata",
+    "type": "Y",
+    "minute": "78"
+   },
+   {
+    "player": "Marouane Fellaini",
+    "type": "Y",
+    "minute": "52"
+   },
+   {
+    "player": "Henrikh Mkhitaryan",
+    "type": "Y",
+    "minute": "31"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Jure Praprotnik (Slovenia); Robert Vukan (Slovenia)",
+   "Fourth official": "Gianluca Rocchi (Italy)",
+   "Additional assistant referees": "Matej Jug (Slovenia); Slavko Vinčić (Slovenia)",
+   "Reserve assistant referee": "Tomaž Klančnik (Slovenia) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "0",
+    "2"
+   ],
+   "Total shots": [
+    "17",
+    "6"
+   ],
+   "Shots on target": [
+    "3",
+    "4"
+   ],
+   "Saves": [
+    "2",
+    "3"
+   ],
+   "Ball possession": [
+    "67%",
+    "33%"
+   ],
+   "Corner kicks": [
+    "5",
+    "2"
+   ],
+   "Fouls committed": [
+    "15",
+    "17"
+   ],
+   "Offsides": [
+    "0",
+    "1"
+   ],
+   "Yellow cards": [
+    "3",
+    "3"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "UEFA Cup/Europa League"
+ },
+ {
+  "article": "2019 UEFA Europa League final",
+  "fb_date": "",
+  "team1": "Chelsea",
+  "team2": "Arsenal",
+  "score_raw": "4–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Giroud",
+    "minute": "49",
+    "note": ""
+   },
+   {
+    "player": "Pedro",
+    "minute": "60",
+    "note": ""
+   },
+   {
+    "player": "Hazard",
+    "minute": "65",
+    "note": "pen."
+   },
+   {
+    "player": "Hazard",
+    "minute": "72",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Iwobi",
+    "minute": "69",
+    "note": ""
+   }
+  ],
+  "stadium": "Olympic Stadium, Baku",
+  "attendance": "51,370",
+  "referee": "Gianluca Rocchi (Italy)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefaeuropaleague/match/2025487/",
+  "manager1": "Maurizio Sarri",
+  "cards1": [
+   {
+    "player": "Andreas Christensen",
+    "type": "Y",
+    "minute": "68"
+   },
+   {
+    "player": "Pedro",
+    "type": "Y",
+    "minute": "56"
+   }
+  ],
+  "manager2": "Unai Emery",
+  "cards2": [],
+  "officials": {
+   "Assistant referees": "Filippo Meli (Italy); Lorenzo Manganelli (Italy)",
+   "Fourth official": "Daniele Orsato (Italy)",
+   "Video assistant referee": "Massimiliano Irrati (Italy)",
+   "Assistant video assistant referees": "Marco Guida (Italy); Szymon Marciniak (Poland)",
+   "Offside video assistant referee": "Paweł Sokolnicki (Poland) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "4",
+    "1"
+   ],
+   "Total shots": [
+    "14",
+    "15"
+   ],
+   "Shots on target": [
+    "8",
+    "2"
+   ],
+   "Saves": [
+    "1",
+    "4"
+   ],
+   "Ball possession": [
+    "48%",
+    "52%"
+   ],
+   "Corner kicks": [
+    "7",
+    "5"
+   ],
+   "Fouls committed": [
+    "14",
+    "11"
+   ],
+   "Offsides": [
+    "1",
+    "3"
+   ],
+   "Yellow cards": [
+    "2",
+    "0"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "UEFA Cup/Europa League"
+ },
+ {
+  "article": "2021 UEFA Europa League final",
+  "fb_date": "",
+  "team1": "Villarreal",
+  "team2": "Manchester United",
+  "score_raw": "1–1",
+  "aet": "yes",
+  "penaltyscore": "11–10",
+  "goals1": [
+   {
+    "player": "Gerard",
+    "minute": "29",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Cavani",
+    "minute": "55",
+    "note": ""
+   }
+  ],
+  "stadium": "Stadion Gdańsk, Gdańsk",
+  "attendance": "9,412",
+  "referee": "Clément Turpin (France)",
+  "penalties1": "Gerard Raba Alcácer Moreno Parejo Gómez Albiol Coquelin Gaspar Torres Rulli",
+  "penalties2": "Mata Telles Fernandes Rashford Cavani Fred James Shaw Tuanzebe Lindelöf De Gea",
+  "report": "https://www.uefa.com/uefaeuropaleague/match/2029909/",
+  "manager1": "Unai Emery",
+  "cards1": [
+   {
+    "player": "Juan Foyth",
+    "type": "Y",
+    "minute": "84"
+   },
+   {
+    "player": "Étienne Capoue",
+    "type": "Y",
+    "minute": "54"
+   }
+  ],
+  "manager2": "Ole Gunnar Solskjær",
+  "cards2": [
+   {
+    "player": "Eric Bailly",
+    "type": "Y",
+    "minute": "82"
+   },
+   {
+    "player": "Edinson Cavani",
+    "type": "Y",
+    "minute": "113"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Nicolas Danos (France); Cyril Gringore (France)",
+   "Fourth official": "Slavko Vinčić (Slovenia)",
+   "Video assistant referee": "François Letexier (France)",
+   "Assistant video assistant referees": "Jérôme Brisard (France); Benjamin Pagès (France); Pol van Boekel (Netherlands) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "1"
+   ],
+   "Total shots": [
+    "12",
+    "14"
+   ],
+   "Shots on target": [
+    "1",
+    "2"
+   ],
+   "Saves": [
+    "2",
+    "0"
+   ],
+   "Ball possession": [
+    "43%",
+    "57%"
+   ],
+   "Corner kicks": [
+    "7",
+    "3"
+   ],
+   "Fouls committed": [
+    "10",
+    "15"
+   ],
+   "Offsides": [
+    "0",
+    "4"
+   ],
+   "Yellow cards": [
+    "2",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "UEFA Cup/Europa League"
+ },
+ {
+  "article": "2025 UEFA Conference League final",
+  "fb_date": "",
+  "team1": "Real Betis",
+  "team2": "Chelsea",
+  "score_raw": "1–4",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Ezzalzouli",
+    "minute": "9",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Fernández",
+    "minute": "65",
+    "note": ""
+   },
+   {
+    "player": "Jackson",
+    "minute": "70",
+    "note": ""
+   },
+   {
+    "player": "Sancho",
+    "minute": "83",
+    "note": ""
+   },
+   {
+    "player": "Caicedo",
+    "minute": "90+1",
+    "note": ""
+   }
+  ],
+  "stadium": "Wrocław Stadium, Wrocław",
+  "attendance": "39,754",
+  "referee": "Irfan Peljto (Bosnia and Herzegovina)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefaconferenceleague/match/2044464/",
+  "manager1": "Manuel Pellegrini",
+  "cards1": [
+   {
+    "player": "Antony",
+    "type": "Y",
+    "minute": "88"
+   },
+   {
+    "player": "Romain Perraud",
+    "type": "Y",
+    "minute": "90+5"
+   }
+  ],
+  "manager2": "Enzo Maresca",
+  "cards2": [
+   {
+    "player": "Benoît Badiashile",
+    "type": "Y",
+    "minute": "55"
+   },
+   {
+    "player": "Cole Palmer",
+    "type": "Y",
+    "minute": "79"
+   },
+   {
+    "player": "Jadon Sancho",
+    "type": "Y",
+    "minute": "85"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Senad Ibrišimbegović (Bosnia and Herzegovina); Davor Beljo (Bosnia and Herzegovina)",
+   "Fourth official": "Halil Umut Meler (Turkey)",
+   "Reserve assistant referee": "Kerem Ersoy (Turkey)",
+   "Video assistant referee": "Jérôme Brisard (France)",
+   "Assistant video assistant referee": "Willy Delajod (France)",
+   "Support video assistant referee": "Marco Di Bello (Italy) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "4"
+   ],
+   "Total shots": [
+    "13",
+    "11"
+   ],
+   "Shots on target": [
+    "3",
+    "7"
+   ],
+   "Saves": [
+    "3",
+    "2"
+   ],
+   "Ball possession": [
+    "36%",
+    "64%"
+   ],
+   "Corner kicks": [
+    "4",
+    "4"
+   ],
+   "Fouls committed": [
+    "16",
+    "12"
+   ],
+   "Offsides": [
+    "0",
+    "3"
+   ],
+   "Yellow cards": [
+    "2",
+    "3"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "Conference League"
+ },
+ {
+  "article": "2025 UEFA Europa League final",
+  "fb_date": "",
+  "team1": "Tottenham Hotspur",
+  "team2": "Manchester United",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Johnson",
+    "minute": "42",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "San Mamés, Bilbao",
+  "attendance": "49,224",
+  "referee": "Felix Zwayer (Germany)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.uefa.com/uefaeuropaleague/match/2044465/",
+  "manager1": "Ange Postecoglou",
+  "cards1": [
+   {
+    "player": "Micky van de Ven",
+    "type": "Y",
+    "minute": "49"
+   },
+   {
+    "player": "Yves Bissouma",
+    "type": "Y",
+    "minute": "68"
+   },
+   {
+    "player": "Richarlison",
+    "type": "Y",
+    "minute": "58"
+   }
+  ],
+  "manager2": "Ruben Amorim",
+  "cards2": [
+   {
+    "player": "Harry Maguire",
+    "type": "Y",
+    "minute": "88"
+   },
+   {
+    "player": "Amad Diallo",
+    "type": "Y",
+    "minute": "35"
+   },
+   {
+    "player": "Jonny Evans",
+    "type": "Y",
+    "minute": "90+2"
+   },
+   {
+    "player": "Joshua Zirkzee",
+    "type": "Y",
+    "minute": "84"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Robert Kempter (Germany); Christian Dietz (Germany)",
+   "Fourth official": "Maurizio Mariani (Italy)",
+   "Reserve assistant referee": "Daniele Bindoni (Italy)",
+   "Video assistant referee": "Bastian Dankert (Germany)",
+   "Assistant video assistant referee": "Benjamin Brand (Germany)",
+   "Support video assistant referee": "Carlos del Cerro Grande (Spain) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "1",
+    "0"
+   ],
+   "Total shots": [
+    "3",
+    "15"
+   ],
+   "Shots on target": [
+    "1",
+    "4"
+   ],
+   "Saves": [
+    "4",
+    "0"
+   ],
+   "Ball possession": [
+    "35%",
+    "65%"
+   ],
+   "Corner kicks": [
+    "4",
+    "5"
+   ],
+   "Fouls committed": [
+    "22",
+    "10"
+   ],
+   "Offsides": [
+    "1",
+    "2"
+   ],
+   "Yellow cards": [
+    "3",
+    "4"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "UEFA Cup/Europa League"
+ }
+]

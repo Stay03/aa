@@ -1,0 +1,424 @@
+{{Short description|Soccer match in East Rutherford, New Jersey}}
+{{Use American English|date=October 2024}}
+{{Use mdy dates|date=July 2025}}
+{{Infobox football match
+| title = 2025 FIFA Club World Cup final
+| image = F20250713AH-3815 President Donald Trump and First Lady Melania Trump attend the FIFA Club World Cup Final soccer match.jpg
+| alt = 
+| caption = Chelsea squad lifting the Club World Cup trophy
+| event = [[2025 FIFA Club World Cup]]
+| team1 = [[Chelsea F.C.|Chelsea]]
+| team1association = {{#invoke:flag|fbaicon|ENG|size=30px}}
+| team1score = 3
+| team2 = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| team2association = {{#invoke:flag|fbaicon|FRA|size=30px}}
+| team2score = 0
+| details = 
+| date = {{Start date|2025|07|13}}
+| stadium = [[MetLife Stadium]]
+| city = [[East Rutherford, New Jersey]]
+| man_of_the_match1a = [[Cole Palmer]] (Chelsea)<ref name="MOTM">{{cite web |url=https://play.fifa.com/potm/en/ |title=Michelob ULTRA Superior Player of the Match |publisher=Fédération Internationale de Football Association |website=FIFA.com |access-date=July 13, 2025}}</ref>
+| referee = [[Alireza Faghani]] ([[Football Australia|Australia]])<ref>{{Cite web |url=https://inside.fifa.com/refereeing/news/alireza-faghani-club-world-cup-2025-final-referee-australia |title=Australia's Alireza Faghani appointed FIFA Club World Cup 2025™ final referee |publisher=Fédération Internationale de Football Association |website=FIFA.com|access-date=July 12, 2025 |date=July 11, 2025}}</ref>
+| attendance = 81,118<ref name="report July 13"/>
+| weather = Mostly cloudy<br />{{convert|83|°F|°C|abbr=on}}<br />65% [[humidity]]<ref>{{cite web |url=https://www.wunderground.com/history/daily/us/nj/teterboro/KTEB/date/2025-7-13 |title=Teterboro, NJ Weather History |website=[[Weather Underground (weather service)|Weather Underground]] |date=July 13, 2025 |access-date=July 13, 2025}}</ref>
+| previous = [[2023 FIFA Club World Cup final|2023]]
+| next = ''[[2029 FIFA Club World Cup|2029]]''
+}}
+The '''2025 FIFA Club World Cup final''' was the final match of the [[2025 FIFA Club World Cup]], the 21st edition of the premier competition for men's club [[association football|soccer]] teams organized by [[FIFA]]. The match was played at [[MetLife Stadium]] at the [[Meadowlands Sports Complex]] in [[East Rutherford, New Jersey|East Rutherford]], [[New Jersey]], near [[New York City]], on July 13, 2025. It was contested between English club [[Chelsea F.C.|Chelsea]] and French club [[Paris Saint-Germain FC|Paris Saint-Germain]]. This final was the first since [[2000 FIFA Club World Championship final|2000]] to be contested by two teams from the same confederation—the only previous Club World Cup to feature multiple teams from the same association or country—and the first ever to feature two European teams.
+
+Chelsea won the match 3–0 for their second [[FIFA Club World Cup]] title and first under the new format.<ref>{{cite web |last1=Lev |first1=Jacob |last2=Snell |first2=Patrick |title=Cole Palmer leads Chelsea to dominant victory over PSG to win FIFA Club World Cup |url=https://edition.cnn.com/2025/07/13/sport/chelsea-psg-fifa-club-world-cup-final-spt |website=CNN |access-date=July 14, 2025|date=July 14, 2025}}</ref><ref>{{Cite web |last=DeBono |first=Matt |date=July 15, 2025 |title=How Chelsea completed their trophy set |url=https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/chelsea-first-title-wins |access-date=August 14, 2025 |website=[[FIFA]]}}</ref> Meanwhile, PSG's loss cost them the opportunity to become the first team to achieve a [[Sextuple (association football)#Seventh and eighth titles|septuple]], since it won the [[continental treble]] before the tournament and won the [[2025 UEFA Super Cup|UEFA Super Cup]], [[2025 FIFA Intercontinental Cup|FIFA Intercontinental Cup]], and [[2025 Trophée des Champions|French Super Cup]], respectively, after the tournament.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification for tournament
+!Previous FIFA Club World Cup finals<br />(bold indicates winners)
+|-
+|{{#invoke:flag|fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|[[UEFA]]
+|Winners of the [[2020–21 UEFA Champions League]]
+|2 ([[2012 FIFA Club World Cup final|2012]], '''[[2021 FIFA Club World Cup final|2021]]''')
+|-
+|{{#invoke:flag|fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|[[UEFA]]
+|Second-best ranked eligible team in the UEFA four-year ranking
+|None
+|}
+
+==Venue==
+[[File:Metlife stadium (Aerial view).jpg|thumb|right|Aerial view of [[MetLife Stadium]] in 2014, the host venue for the final|alt=Aerial image of a large American football stadium with three tiers of stands and no roof; the stands are empty and several pieces of equipment are parked around its exterior.]]
+
+The host venue for the final was [[MetLife Stadium]] in [[East Rutherford, New Jersey|East Rutherford]], [[New Jersey]], {{convert|5|mi|km}} west of [[New York City]].<ref name="BBC-Stadium">{{cite news |date=September 28, 2024 |title=Fifa names 12 US stadiums for 2025 Club World Cup |url=https://www.bbc.com/sport/football/articles/c17lw80kpdvo |work=[[BBC Sport]] |accessdate=October 1, 2024}}</ref> FIFA announced the final's host venue on September 28, 2024. MetLife Stadium is also scheduled to host the [[2026 FIFA World Cup final|FIFA World Cup final]] in July 2026.<ref>{{cite news |date=September 28, 2024 |title=2025 Club World Cup final to be at MetLife Stadium, site of 2026 World Cup final |url=https://www.seattletimes.com/sports/soccer/2025-club-world-cup-final-to-be-at-metlife-stadium-site-of-2026-world-cup-final/ |work=[[The Seattle Times]] |agency=[[Associated Press]] |accessdate=October 1, 2024}}</ref> The stadium had primarily been used by the [[New York Giants]] and [[New York Jets]] of the [[National Football League]] (NFL) since it opened in 2009.<ref>{{cite news |last=Blum |first=Ronald |date=February 4, 2024 |title=2026 World Cup final will be played at MetLife Stadium in New Jersey |url=https://www.washingtonpost.com/sports/soccer/2024/02/04/2026-world-cup-schedule/1c65f7a0-c3a0-11ee-bbc9-9b5ca9b20779_story.html |newspaper=[[The Washington Post]] |agency=Associated Press |accessdate=October 1, 2024}}</ref> It had a listed capacity of 82,500 seats and previously hosted [[Super Bowl XLVIII]] in 2014 and the [[Copa América Centenario final]] in 2016.<ref name="NYTimes-NYNJ">{{cite news |last=Waldstein |first=David |date=February 9, 2024 |title='New York New Jersey' Got the World Cup Final. Now Comes the Hard Part. |url=https://www.nytimes.com/2024/02/09/nyregion/new-york-new-jersey-world-cup-final.html |work=The New York Times |url-access=limited |accessdate=October 1, 2024}}</ref><ref>{{cite news |last1=Anzidei |first1=Melaine |last2=Rampling |first2=Ali |date=February 4, 2024 |title=New Jersey's MetLife Stadium wins the 2026 World Cup final |url=https://www.nytimes.com/athletic/5241468/2024/02/04/world-cup-final-2026-new-jersey/ |work=The Athletic |url-access=subscription |access-date=October 1, 2024}}</ref>
+
+==Entertainment==
+On June 9, 2025, FIFA and [[Global Citizen (organization)|Global Citizen]] announced the headliners for the halftime show which included [[J Balvin]], [[Doja Cat]], [[Tems]], [[Coldplay]] and [[Emmanuel Kelly]] (later added on July 12),<ref>{{Cite web |url=https://inside.fifa.com/organisation/news/origin1904-p.cxm.fifa.com/emmanuel-kelly-club-world-cup-halftime-show-x-factor-chris-martin |title=Emmanuel Kelly's awe-inspiring journey to FIFA Club World Cup™ Halftime Show |publisher=Fédération Internationale de Football Association |website=FIFA.com|accessdate=13 July 2025|date=12 July 2025}}</ref> a prelude to the halftime show for the 2026 FIFA World Cup final.<ref>{{Cite web |url=https://inside.fifa.com/organisation/media-releases/origin1904-p.cxm.fifa.com/j-balvin-doja-cat-tems-club-world-cup-final-halftime-show-global-citizen |title=J Balvin, Doja Cat and Tems to headline the inaugural FIFA Club World Cup™ Final Halftime Show, produced by Global Citizen |publisher=Fédération Internationale de Football Association |website=FIFA.com|access-date=June 15, 2025 |date=June 9, 2025}}</ref> In addition, [[Robbie Williams]] and [[Laura Pausini]] performed a pregame show at the stadium.<ref>{{Cite web |url=https://inside.fifa.com/organisation/media-releases/origin1904-p.cxm.fifa.com/robbie-williams-laura-pausini-build-up-club-world-cup-final |title=Robbie Williams and Laura Pausini to lead unforgettable build-up to FIFA Club World Cup™ final match |publisher=Fédération Internationale de Football Association |website=FIFA.com|accessdate=13 July 2025|date=12 July 2025}}</ref>
+
+The setlist of the halftime show was as follows:<ref>{{cite web|url=https://bolavip.com/en/soccer/what-songs-did-the-performers-sing-at-the-2025-fifa-club-world-cup-halftime-show|title=What songs did the performers sing at the 2025 FIFA Club World Cup halftime show? |date=13 July 2025|work=Bolavip|access-date=July 14, 2025|first=Pinheiro|last=Ariadna}}</ref>
+
+#"[[Mi Gente]]" (performed by J Balvin)
+#"[[Love Me JeJe]]" (performed by Tems)
+#"Reggaetón" (performed by J Balvin)
+#"[[Woman (Doja Cat song)|Woman]]" (performed by Doja Cat)
+#"[[A Sky Full of Stars]]" (performed by Coldplay and Emmanuel Kelly)
+
+==Route to the final==
+{| class="wikitable"
+|-
+!width=350 colspan=4|{{#invoke:flag|fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+!Team
+!width=350 colspan=4|{{#invoke:flag|fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|- style="background:#C1E0FF"
+|align=center|Opponent
+|colspan="3" align=center|Result
+|align=center|Group stage
+|align=center|Opponent
+|colspan="3" align=center|Result
+|-
+|{{#invoke:flag|fbaicon|USA}} [[Los Angeles FC]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup Group D#Chelsea vs Los Angeles FC|2–0]]
+|align=center style="background:#C1E0FF"|Matchday 1
+|{{#invoke:flag|fbaicon|ESP}} [[Atlético Madrid]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup Group B#Paris Saint-Germain vs Atlético Madrid|4–0]]
+|-
+|{{#invoke:flag|fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup Group D#Flamengo vs Chelsea|1–3]]
+|align=center style="background:#C1E0FF"|Matchday 2
+|{{#invoke:flag|fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup Group B#Paris Saint-Germain vs Botafogo|0–1]]
+|-
+|{{#invoke:flag|fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup Group D#Espérance de Tunis vs Chelsea|3–0]]
+|align=center style="background:#C1E0FF"|Matchday 3
+|{{#invoke:flag|fbaicon|USA}} [[Seattle Sounders FC]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup Group B#Seattle Sounders FC vs Paris Saint-Germain|2–0]]
+|-
+|colspan="4" style="vertical-align:top" align=center|'''[[2025 FIFA Club World Cup Group D|Group D]] runners-up'''
+<div class="center">{{2025 FIFA Club World Cup group tables|Group D|only_pld_pts=yes|show_matches=no|showteam=CHE}}</div>
+|style="background:#C1E0FF" align=center|Final standings
+|colspan="4" style="vertical-align:top" align=center|'''[[2025 FIFA Club World Cup Group B|Group B]] winners'''
+<div class="center">{{2025 FIFA Club World Cup group tables|Group B|only_pld_pts=yes|show_matches=no|showteam=PSG}}</div>
+|- style="background:#C1E0FF"
+|align=center|Opponent
+|colspan="3" align=center|Result
+|align=center|{{nowrap|[[2025 FIFA Club World Cup knockout stage|Knockout stage]]}}
+|align=center|Opponent
+|colspan="3" align=center|Result
+|-
+|{{#invoke:flag|fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup knockout stage#Benfica vs Chelsea|4–1]] {{aet}}
+|align=center style="background:#C1E0FF"|Round of 16
+|{{#invoke:flag|fbaicon|USA}} [[Inter Miami CF]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup knockout stage#Paris Saint-Germain vs Inter Miami CF|4–0]]
+|-
+|{{#invoke:flag|fbaicon|BRA}} [[SE Palmeiras|Palmeiras]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup knockout stage#Palmeiras vs Chelsea|2–1]]
+|align=center style="background:#C1E0FF"|Quarterfinals
+|{{#invoke:flag|fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup knockout stage#Paris Saint-Germain vs Bayern Munich|2–0]]
+|-
+|{{#invoke:flag|fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup knockout stage#Fluminense vs Chelsea|2–0]]
+|align=center style="background:#C1E0FF"|Semifinals
+|{{#invoke:flag|fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan="3" align=center|[[2025 FIFA Club World Cup knockout stage#Paris Saint-Germain vs Real Madrid|4–0]]
+|}
+
+===Chelsea===
+Chelsea qualified for the tournament as the winners of the [[2020–21 UEFA Champions League]].<ref>{{cite web |title=FIFA Council confirms key details for FIFA Club World Cup 2025™ |url=https://inside.fifa.com/organisation/fifa-council/media-releases/fifa-council-confirms-key-details-for-fifa-club-world-cup-2025-tm |publisher=Fédération Internationale de Football Association |website=FIFA.com |access-date=July 11, 2025 |date=December 17, 2023}}</ref> They entered the tournament having recently won the [[2024–25 UEFA Conference League]], becoming the first club to [[UEFA club competition records and statistics#List of teams to have won the main European club competitions|win all four major European trophies]] and all three of the current European competitions.<ref>{{cite web |url=https://www.uefa.com/uefaconferenceleague/news/0299-1dde1ba33803-6370dd142717-1000/ |title=Real Betis 1–4 Chelsea: The Blues complete the set with Conference League success |website=UEFA.com |publisher=Union of European Football Associations |date=May 28, 2025 |access-date=May 28, 2025}}</ref> They were drawn into group D alongside [[CR Flamengo|Flamengo]], [[Los Angeles FC]], and [[Espérance Sportive de Tunis|Espérance de Tunis]]. In the opening match, Chelsea beat Los Angeles FC 2–0, with goals coming from [[Pedro Neto]] and [[Enzo Fernández]].<ref>{{cite news |title=Chelsea 2–0 LAFC: Chelsea win their Club World Cup opener at largely empty stadium in Atlanta |url=https://www.bbc.com/sport/football/live/c626y880d67t |access-date=July 11, 2025 |work=BBC Sport |date=June 16, 2025}}</ref> Chelsea were defeated 3–1 by Flamengo in the second match, a result that meant Chelsea would at best finish second in the group.<ref>{{cite news |title=Flamengo 3–1 Chelsea (Jun 20, 2025) Game Analysis |url=https://www.espn.com/soccer/report/_/gameId/724444 |access-date=July 11, 2025 |work=ESPN |date=June 21, 2025}}</ref> In the final game, Chelsea were up against fellow knockout stage hopefuls Espérance de Tunis. Chelsea won 3–0, with goals from [[Tosin Adarabioyo]] and [[Tyrique George]], alongside new signing [[Liam Delap]]'s debut goal. The result secured Chelsea's place in the knockout stage as the second placed team in Group D.<ref>{{cite news |title=Club World Cup LIVE: ES Tunis vs Chelsea – match updates & stats |url=https://www.bbc.com/sport/football/live/cx2vlrjlkw0t |access-date=July 11, 2025 |work=BBC Sport |date=June 25, 2025}}</ref>
+
+In the round of 16, Chelsea faced [[S.L. Benfica|Benfica]], the winners of Group C. Chelsea gained the lead via a free-kick goal from captain [[Reece James (footballer, born 1999)|Reece James]], before the match was halted due to lightning for nearly two hours.<ref>{{cite news |title=Breaking down Chelsea's extraordinary four-hour Club World Cup match that was delayed by severe weather |url=https://www.nytimes.com/athletic/6453216/2025/06/28/chelsea-benfica-highlights-delay/ |access-date=July 11, 2025 |work=New York Times |date=June 28, 2025}}</ref>  A late [[Ángel Di María]] penalty sent the game to extra time, where Chelsea goals from [[Christopher Nkunku]], Pedro Neto, and [[Kiernan Dewsbury-Hall]] saw the Blues come out 4–1 winners.<ref>{{cite news |title=Benfica vs Chelsea LIVE: Club World Cup score, stats & updates |url=https://www.bbc.com/sport/football/live/c0rvz95exd4t |access-date=July 11, 2025 |work=BBC Sport |date=June 28, 2025}}</ref> In the quarterfinals, Chelsea faced [[SE Palmeiras|Palmeiras]] in a rematch of the [[2021 FIFA Club World Cup final]], which Chelsea had previously won 2–1. The result would be identical. [[Cole Palmer]] opened the scoring with his first goal of the tournament, before [[Estêvão Willian]] scored the equalizer in what would be his final appearance for Palmeiras before moving to Chelsea. Chelsea's winner came via an own goal by Palmeiras goalkeeper [[Weverton (footballer, born 1987)|Weverton]].<ref>{{cite news |title=Palmeiras 1–2 Chelsea: Blues reach Club World Cup semi-final despite Estevao's goal against his new club |url=https://www.bbc.com/sport/football/live/c4g2290v9yvt |access-date=July 11, 2025 |work=BBC Sport |date=July 5, 2025}}</ref> In the semifinals, Chelsea faced another Brazilian side [[Fluminense FC|Fluminense]], the last remaining non-European team in the tournament. Chelsea won 2–0 with a brace by newly signed and registered [[João Pedro (footballer, born 2001)|João Pedro]], a product of the Fluminense academy.<ref>{{cite news |title=Chelsea's Pedro hits debut double in Club World Cup semi to down Fluminense |url=https://www.aljazeera.com/sports/2025/7/8/chelseas-pedro-hits-debut-double-in-club-world-cup-semi-to-down-fluminense |access-date=July 11, 2025 |work=Al Jazeera |date=July 8, 2025}}</ref>
+
+===Paris Saint-Germain===
+Paris Saint-Germain qualified for the tournament via the UEFA ranking pathway as one of the best ranked European teams. They entered the tournament as the reigning European champions, having recently won the [[2024–25 UEFA Champions League]]. They were drawn into group B alongside [[Atlético Madrid]], [[Botafogo FR|Botafogo]], and [[Seattle Sounders FC]]. In the opening match, Paris Saint-Germain beat Atlético Madrid 4–0 with two first half goals from [[Fabián Ruiz]] and [[Vitinha (footballer, born February 2000)|Vitinha]] to go along with two late goals from [[Senny Mayulu]] and [[Lee Kang-in]].<ref>{{cite web |title=PSG turn up the heat in LA sunshine |url=https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/paris-saint-germain-atletico-madrid-highlights-match-report |publisher=Fédération Internationale de Football Association |website=FIFA.com|access-date=July 11, 2025|date=June 15, 2025}}</ref> In the second match, Paris Saint-Germain faced Botafogo, the reigning South American champions. In an extraordinary upset, the South Americans would win 1–0, with the only goal scored by [[Igor Jesus (footballer, born 2001)|Igor Jesus]].<ref>{{cite news |title=Botafogo stuns UCL champs PSG at FIFA Club World Cup |url=https://www.aljazeera.com/sports/2025/6/20/botafogo-upset-ucl-champs-psg-at-fifa-club-world-cup |access-date=July 11, 2025 |work=Al Jazeera|date=June 19, 2025}}</ref> In the third game, Paris Saint-Germain faced Seattle Sounders FC at their home stadium, winning 2–0 with goals from [[Khvicha Kvaratskhelia]] and [[Achraf Hakimi]]. The result secured Paris Saint-Germain's place in the knockout stage as the winner of group B, ahead of both Botafogo and Atlético Madrid — both of which also had six points — on head-to-head goal difference.<ref>{{cite news |title=PSG 2–0 Seattle Sounders: European champions seal place in last 16 |date=June 23, 2025 |url=https://www.bbc.com/sport/football/live/ce83v612mv0t |access-date=July 11, 2025 |work=BBC Sport}}</ref>
+
+In the round of 16, Paris Saint-Germain faced [[Inter Miami CF]], an American team featuring former Paris Saint-Germain player [[Lionel Messi]]. Paris Saint-Germain won with a comfortable scoreline of 4–0, with brace from [[João Neves]] and a goal from Hakimi to go with a Miami own goal.<ref>{{cite web |title=Rampant PSG send Messi and Miami home |url=https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/paris-saint-germain-inter-miami-highlights-match-report |publisher=Fédération Internationale de Football Association |website=FIFA.com|access-date=July 11, 2025|date=June 29, 2025}}</ref> In the quarterfinals, Paris Saint-Germain faced [[FC Bayern Munich|Bayern Munich]] in a rematch of the [[2020 UEFA Champions League final]], which Bayern had won 1–0. This time, Paris Saint-Germain would win 2–0 with goals from [[Désiré Doué]] and [[Ousmane Dembélé]]. The match also saw Bayern player [[Jamal Musiala]] getting seriously injured due to a clash with Paris Saint-Germain goalkeeper [[Gianluigi Donnarumma]],<ref>{{cite news |last1=Christe |first1=Andrew Timothy |title=Jamal Musiala says 'no one to blame' for serious leg injury at Club World Cup |url=https://www.newindianexpress.com/sport/football/2025/Jul/10/jamal-musiala-says-no-one-to-blame-for-serious-leg-injury-at-club-world-cup |access-date=July 11, 2025 |work=The New Indian Express |date=July 10, 2025}}</ref> while two Paris Saint-Germain players — [[Willian Pacho]] and [[Lucas Hernández]] — were sent off and earned two match suspensions each.<ref>{{cite news |title=FIFA hands two-match bans to PSG duo after Bayern red cards |url=https://onefootball.com/en/news/fifa-hands-two-match-bans-to-psg-duo-after-bayern-red-cards-41346559 |access-date=July 11, 2025 |work=OneFootball |date=July 11, 2025}}</ref> In the semifinals, Paris Saint-Germain faced [[Real Madrid CF|Real Madrid]] featuring former Paris Saint-Germain player [[Kylian Mbappe]]. Once again, Paris Saint-Germain would win comfortably, 4–0, with a brace from Ruiz and a Dembélé goal in the first half to go along with a late [[Gonçalo Ramos]] goal.<ref>{{cite news |title=PSG 4–0 Real Madrid: European champions set up Club World Cup final against Chelsea |url=https://www.bbc.com/sport/football/live/c74z0zxq825t |access-date=July 11, 2025 |date=July 9, 2025 |work=BBC Sport}}</ref>
+
+==Pre-match==
+[[File:DHS Secretary Kristi Noem Attends FIFA Club World Cup 2025 Championship Match - 54653678957.jpg|thumb|right|View of the match during the first half]]
+
+Present at the match was [[President of the United States|U.S. president]] [[Donald Trump]], who was accompanied by [[First Lady of the United States|First Lady]] [[Melania Trump]], as well as [[List of presidents of FIFA|FIFA president]] [[Gianni Infantino]] and his partner.<ref>{{Cite web |last=Bonilla |first=Melani |title=Trump attends FIFA Club World Cup final |date=July 14, 2025 |url=https://www.cnn.com/2025/07/13/sport/video/trump-attends-fifa-final-vrtc |access-date=July 14, 2025 |website=CNN}}</ref>
+
+==Match==
+
+===Summary===
+The defending UEFA Champions League champions Paris Saint-Germain were heavily favored by bookmakers before the final.<ref>{{Cite news |last=Richman |first=Darren |date=2025-07-13 |title=PSG vs Chelsea Club World Cup final odds, prediction: Can the Blues prevent another French triumph? |url=https://www.nytimes.com/athletic/6486422/2025/07/13/psg-chelsea-club-world-cup-final-odds-prediction/ |access-date=2025-08-05 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> Chelsea scored first in the 22nd minute, after [[Cole Palmer]]'s low shot reached in the far left corner off an assist from [[Malo Gusto]].<ref>{{Cite news |date=2025-07-13 |title=Chelsea beats PSG 3-0 for Club World Cup title as Palmer scores twice and sets up third goal |url=https://apnews.com/article/club-world-cup-final-chelsea-psg-score-bd3b0fb78c27cace1e8f7f6c555cb9c8 |access-date=2025-08-05 |website=AP News |language=en}}</ref> Eight minutes later, Palmer scored a second goal, once again low into the same far left corner. He became the first English player to score two goals in a Club World Cup final.<ref>{{Cite web |date=2025-07-13 |title=Chelsea 3-0 PSG LIVE REACTION: Palmer stars as Blues claim CWC victory |url=https://talksport.com/football/3365821/chelsea-vs-psg-time-commentary-free-stream-channel-club-world-cup-final/ |access-date=2025-08-05 |website=talkSPORT |language=en-gb}}</ref> Chelsea's press produced a third goal in the 43rd minute, which Palmer assisted and [[João Pedro (footballer, born 2001)|João Pedro]] scored lifting the ball over the advancing goalkeeper. PSG finished the game with 10 players after [[João Neves]] received a straight red card for pulling [[Marc Cucurella]]'s hair in the 85th minute. With the victory, Chelsea had won every international competition it had entered in history.<ref>{{Cite news |title=How Chelsea completed their trophy set |url=https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/chelsea-first-title-wins |archive-url=https://web.archive.org/web/20250716081641/https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/chelsea-first-title-wins |archive-date=2025-07-16 |access-date=2025-08-05 |website=www.fifa.com |language=en}}</ref>
+
+===Details===
+<section begin="Final" />{{#invoke:football box|main
+|date       = {{Start date|2025|7|13}}
+|time       = 3:00&nbsp;pm [[Eastern Time Zone|EDT]]
+|team1      = [[Chelsea F.C.|Chelsea]] {{#invoke:flag|fbaicon|ENG}}
+|score      = {{score link|2025 FIFA Club World Cup knockout stage#Final|3–0|2025 FIFA Club World Cup final}}
+|team2      = {{#invoke:flag|fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|goals1     =
+*[[Cole Palmer|Palmer]] {{goal|22||30}}
+*[[João Pedro (footballer, born 2001)|João Pedro]] {{goal|43}}
+|goals2     =
+|stadium    = [[MetLife Stadium]], [[East Rutherford, New Jersey|East Rutherford]]
+|attendance = 81,118<ref name="report July 13">{{cite web |url=https://fdp.fifa.org/assetspublic/ce233/r10594/pdf/FullTimeMatchReport-English.pdf |title=Match Report: Chelsea FC v. Paris Saint-Germain |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=July 13, 2025 |access-date=July 13, 2025}}</ref>
+|referee    = [[Alireza Faghani]] ([[Football Australia|Australia]])
+|report     = https://www.fifa.com/en/match-centre/match/10005/289175/289190/400019210
+}}<section end="Final" />
+<section begin=Line-ups />
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _chelsea2526h
+ |pattern_b  = _chelsea2526H
+ |pattern_ra = _chelsea2526h
+ |pattern_sh = _chelsea2526h
+ |pattern_so = _chelsea2526h
+ |leftarm    = 0040D0
+ |body       = 0040D0
+ |rightarm   = 0040D0
+ |shorts     = 0040D0
+ |socks      = FFFFFF
+ |title      = Chelsea<ref name="Match 63">{{cite web |url=https://fdp.fifa.org/assetspublic/ce233/r10594/pdf/TacticalLineup-English.pdf |title=Tactical Line-up: Chelsea FC v. Paris Saint-Germain |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=July 13, 2025 |access-date=July 13, 2025}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _psg2425a
+ |pattern_b  = _psg2425A
+ |pattern_ra = _psg2425a
+ |pattern_sh = _psg2425a
+ |pattern_so = _psg2526hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 0A1254
+ |title      = {{nowrap|Paris Saint-Germain<ref name="Match 63"/>}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|ESP}} [[Robert Sánchez]]
+|-
+|RB ||'''27'''||{{#invoke:flag|icon|FRA}} [[Malo Gusto]] || {{yel|40}}
+|-
+|CB ||'''23'''||{{#invoke:flag|icon|ENG}} [[Trevoh Chalobah]]
+|-
+|CB ||'''6''' ||{{#invoke:flag|icon|ENG}} [[Levi Colwill]] || {{yel|81}}
+|-
+|LB ||'''3''' ||{{#invoke:flag|icon|ESP}} [[Marc Cucurella]]
+|-
+|CM ||'''24'''||{{#invoke:flag|icon|ENG}} [[Reece James (footballer, born 1999)|Reece James]] ([[Captain (association football)|c]]) || || {{suboff|77}}
+|-
+|CM ||'''25'''||{{#invoke:flag|icon|ECU}} [[Moisés Caicedo]] || {{yel|36}}
+|-
+|RW ||'''10'''||{{#invoke:flag|icon|ENG}} [[Cole Palmer]]
+|-
+|AM ||'''8''' ||{{#invoke:flag|icon|ARG}} [[Enzo Fernández]] || || {{suboff|61}}
+|-
+|LW ||'''7''' ||{{#invoke:flag|icon|POR}} [[Pedro Neto]] || {{yel|34}} || {{suboff|77}}
+|-
+|CF ||'''20'''||{{#invoke:flag|icon|BRA}} [[João Pedro (footballer, born 2001)|João Pedro]] || || {{suboff|67}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{#invoke:flag|icon|DEN}} [[Filip Jörgensen]]
+|-
+|GK ||'''39'''||{{#invoke:flag|icon|BEL}} [[Mike Penders]]
+|-
+|GK ||'''44'''||{{#invoke:flag|icon|USA}} [[Gabriel Slonina]]
+|-
+|DF ||'''4''' ||{{#invoke:flag|icon|ENG}} [[Tosin Adarabioyo]]
+|-
+|DF ||'''19'''||{{#invoke:flag|icon|FRA}} [[Mamadou Sarr]]
+|-
+|DF ||'''30'''||{{#invoke:flag|icon|ARG}} [[Aarón Anselmino]]
+|-
+|DF ||'''34'''||{{#invoke:flag|icon|ENG}} [[Josh Acheampong]]
+|-
+|MF ||'''17'''||{{#invoke:flag|icon|BRA}} [[Andrey Santos]] || || {{subon|61}}
+|-
+|MF ||'''22'''||{{#invoke:flag|icon|ENG}} [[Kiernan Dewsbury-Hall]] || || {{subon|77}}
+|-
+|MF ||'''45'''||{{#invoke:flag|icon|BEL}} [[Roméo Lavia]]
+|-
+|FW ||'''9''' ||{{#invoke:flag|icon|ENG}} [[Liam Delap]] || || {{subon|67}}
+|-
+|FW ||'''15'''||{{#invoke:flag|icon|SEN}} [[Nicolas Jackson]]
+|-
+|FW ||'''18'''||{{#invoke:flag|icon|FRA}} [[Christopher Nkunku]] || || {{subon|77}}
+|-
+|FW ||'''32'''||{{#invoke:flag|icon|ENG}} [[Tyrique George]]
+|-
+|FW ||'''38'''||{{#invoke:flag|icon|ESP}} [[Marc Guiu]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ITA}} [[Enzo Maresca]]
+|}
+|valign="top"|[[File:Chelsea vs Paris Saint-Germain 2025-07-13.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{#invoke:flag|icon|ITA}} [[Gianluigi Donnarumma]]
+|-
+|RB ||'''2''' ||{{#invoke:flag|icon|MAR}} [[Achraf Hakimi]] || || {{suboff|73}}
+|-
+|CB ||'''5''' ||{{#invoke:flag|icon|BRA}} [[Marquinhos]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{#invoke:flag|icon|BRA}} [[Lucas Beraldo]]
+|-
+|LB ||'''25'''||{{#invoke:flag|icon|POR}} [[Nuno Mendes (footballer, born 2002)|Nuno Mendes]] || {{yel|90+4}}
+|-
+|DM ||'''17'''||{{#invoke:flag|icon|POR}} [[Vitinha (footballer, born February 2000)|Vitinha]]
+|-
+|CM ||'''87'''||{{#invoke:flag|icon|POR}} [[João Neves]] || {{sent off|0|85}}
+|-
+|CM ||'''8''' ||{{#invoke:flag|icon|ESP}} [[Fabián Ruiz]] || || {{suboff|73}}
+|-
+|RF ||'''14'''||{{#invoke:flag|icon|FRA}} [[Désiré Doué]] || || {{suboff|73}}
+|-
+|CF ||'''10'''||{{#invoke:flag|icon|FRA}} [[Ousmane Dembélé]] || {{yel|87}}
+|-
+|LF ||'''7''' ||{{#invoke:flag|icon|GEO}} [[Khvicha Kvaratskhelia]] || || {{suboff|58}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''39'''||{{#invoke:flag|icon|RUS}} [[Matvey Safonov]]
+|-
+|GK ||'''80'''||{{#invoke:flag|icon|ESP}} [[Arnau Tenas]]
+|-
+|DF ||'''3''' ||{{#invoke:flag|icon|FRA}} [[Presnel Kimpembe]]
+|-
+|DF ||'''43'''||{{#invoke:flag|icon|FRA}} [[Noham Kamara]]
+|-
+|MF ||'''19'''||{{#invoke:flag|icon|KOR}} [[Lee Kang-in]]
+|-
+|MF ||'''20'''||{{#invoke:flag|icon|BRA}} [[Gabriel Moscardo]]
+|-
+|MF ||'''24'''||{{#invoke:flag|icon|FRA}} [[Senny Mayulu]] || || {{subon|73}}
+|-
+|MF ||'''33'''||{{#invoke:flag|icon|FRA}} [[Warren Zaïre-Emery]] || || {{subon|73}}
+|-
+|FW ||'''9''' ||{{#invoke:flag|icon|POR}} [[Gonçalo Ramos]] || || {{subon|73}}
+|-
+|FW ||'''29'''||{{#invoke:flag|icon|FRA}} [[Bradley Barcola]] || || {{subon|58}}
+|-
+|FW ||'''49'''||{{#invoke:flag|icon|FRA}} [[Ibrahim Mbaye]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{#invoke:flag|icon|ESP}} [[Luis Enrique]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Cole Palmer]] (Chelsea)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="Match 63"/>
+<br />Anton Shchetinin ([[Football Australia|Australia]])
+<br />Ashley Beecham ([[Football Australia|Australia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Gabriel Chade ([[Argentine Football Association|Argentina]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''
+<br />[[Tatiana Guzmán]] ([[Nicaraguan Football Federation|Nicaragua]])
+<br />'''[[Video assistant referee#Support video assistant referee|Support video assistant referee]]:'''
+<br />[[Ivan Bebek]] ([[Croatian Football Federation|Croatia]])
+<includeonly>|}</includeonly><section end="Line-ups" />
+|style="width:60%; vertical-align:top;"|
+{{Match rules
+|ref               = <ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/18848e4224efbd91/original/FCWC25_Regulations_EN.pdf |title=Regulations for the FIFA Club World Cup 2025 |publisher=Fédération Internationale de Football Association |website=FIFA.com |date=November 5, 2024 |access-date=November 5, 2024}}</ref>
+|extra time        = y
+|penalties         = y
+|named subs        = 15
+|additional sub ET = y
+|subs allowed      = 5
+|sub opportunities = y
+|concussion sub    = y
+}}
+|}
+
+===Statistics===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Match statistics<ref name="report July 13"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Chelsea
+!scope="col" style="width:70px"|Paris Saint-Germain
+|-
+!scope=row|Goals scored
+|3
+|0
+|-
+!scope=row|Total shots
+|9
+|9
+|-
+!scope=row|Shots on target
+|5
+|6
+|-
+!scope=row|Ball possession
+|34%
+|66%
+|-
+!scope=row|Corner kicks
+|3
+|5
+|-
+!scope=row|Fouls committed
+|15
+|12
+|-
+!scope=row|Offsides
+|3
+|2
+|-
+!scope=row|Yellow cards
+|4
+|2
+|-
+!scope=row|Red cards
+|0
+|1
+|}
+
+==See also==
+*[[Chelsea F.C. in international football]]
+*[[Paris Saint-Germain FC in international football]]
+*[[2024–25 Chelsea F.C. season]]
+*[[2024–25 Paris Saint-Germain FC season]]
+*[[2026 FIFA World Cup final]] – played in the same venue a year later for the FIFA World Cup
+
+==References==
+<references />
+
+==External links==
+* [https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025 2025 FIFA Club World Cup official website]
+
+{{2025 FIFA Club World Cup}}
+{{FIFA Club World Cup}}
+{{Chelsea F.C. matches}}
+{{Paris Saint-Germain F.C. matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2025}}
+[[Category:2025 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2025]]
+[[Category:Men's soccer matches in the United States]]
+[[Category:21st century in East Rutherford, New Jersey|2025 FIFA Club World Cup final]]
+[[Category:July 2025 sports events in the United States|FIFA Club World Cup Final]]
+[[Category:Soccer competitions in New Jersey]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]
+[[Category:Chelsea F.C. matches]]
+[[Category:Paris Saint-Germain FC matches]]
+[[Category:2024–25 in English men's football]]
+[[Category:2024–25 in French men's football]]
+[[Category:France–United Kingdom sports relations|2025]]

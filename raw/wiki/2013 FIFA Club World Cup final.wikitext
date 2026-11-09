@@ -1,0 +1,273 @@
+{{Use dmy dates|date=December 2020}}
+{{Infobox football match
+| title              = 2013 FIFA Club World Cup final
+| event              = [[2013 FIFA Club World Cup]]
+| team1              = [[FC Bayern Munich|Bayern Munich]]
+| team1association   = {{fbaicon|GER|size=30px}}
+| team1score         = 2
+| team2              = [[Raja CA|Raja Casablanca]]
+| team2association   = {{fbaicon|MAR|size=30px}}
+| team2score         = 0
+| date               = {{Start date|2013|12|21|df=y}}
+| stadium            = [[Stade de Marrakech]]
+| city               = [[Marrakesh]]
+| man_of_the_match1a = [[Franck Ribéry]] (Bayern Munich)
+| referee            = [[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+| attendance         = 37,774
+| weather            = Clear night<br />{{convert|13|°C|°F}}<br />65% [[humidity]]
+| previous           = [[2012 FIFA Club World Cup final|2012]]
+| next               = [[2014 FIFA Club World Cup final|2014]]
+}}
+The '''2013 FIFA Club World Cup final''' was the final match of the [[2013 FIFA Club World Cup]], an [[association football]] tournament hosted by [[Morocco]]. It was the 10th final of the [[FIFA Club World Cup]], a [[FIFA]]-organised tournament between the winners of the six continental confederations as well as the host nation's league champions.
+
+The final was contested between German club [[FC Bayern Munich|Bayern Munich]], representing [[UEFA]] as the reigning champions of the [[UEFA Champions League]], and Moroccan club [[Raja CA|Raja Casablanca]], representing the host country as the reigning champions of the [[Botola]]. It was played at the [[Stade de Marrakech]] in [[Marrakesh]] on 21 December 2013.<ref>{{cite news |title=Bayern breeze into CWC final |url=http://espnfc.com/uk/en/report/383397/report.html?soccernet=true&cc=5739 |work=ESPN FC |publisher=ESPN Internet Ventures |date=17 December 2013 |access-date=19 December 2013 }}</ref><ref>{{cite news |title=Raja Casablanca 3-1 Atletico Mineiro |url=https://www.bbc.com/sport/0/football/25391214 |publisher=BBC Sport (British Broadcasting Corporation) |date=18 December 2013 |access-date=19 December 2013 }}</ref>
+
+==Background==
+
+===Bayern Munich===
+[[FC Bayern Munich|Bayern Munich]] qualified for the tournament as winners of the [[2012–13 UEFA Champions League]], following a 2–1 win against [[Borussia Dortmund]] in the [[2013 UEFA Champions League Final|final]]. This was Bayern Munich's first time competing in the tournament. They twice won the [[Intercontinental Cup (1960–2004)|Intercontinental Cup]], the predecessor of the FIFA Club World Cup, in [[1976 Intercontinental Cup|1976]] and [[2001 Intercontinental Cup|2001]].<ref>{{cite web|url=https://www.usatoday.com/story/sports/soccer/2013/12/17/club-world-cup-bayern-munich-english-league-cup-sunderland-manchester-city/4083501/ |title=Bayern Munich cruises into Club World Cup final |work=USA Today|date=2013-12-16 |access-date=2013-12-20}}</ref> They reached the final after defeating Chinese club [[Guangzhou Evergrande F.C.|Guangzhou Evergrande]] in the semi-finals.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/25425116 |title=Bayern Munich through to Fifa Club World Cup final with 3-0 win |publisher=BBC |date=2013-12-16 |access-date=2013-12-20}}</ref>
+
+===Raja Casablanca===
+[[Raja CA|Raja Casablanca]] won the [[2012–13 Botola]] to earn the host country berth of the tournament. This was Raja Casablanca's second time competing in the tournament, having participated in the competition in the inaugural edition in [[2000 FIFA Club World Championship|2000]]. They were the second team to reach the final of the competition (after [[Sport Club Corinthians Paulista|Corinthians]] in [[2000 FIFA Club World Championship Final|2000]]) under the condition of being the host nation's national champions,<ref>{{cite news |first=Karl |last=Matchett |title=Raja Casablanca vs. Atletico Mineiro: Score, Grades and Post-Match Reaction |url=https://bleacherreport.com/articles/1893764-raja-casablanca-vs-atletico-mineiro-score-grades-and-post-match-reaction |publisher=Bleacher Report |date=18 December 2013 |access-date=20 December 2013 }}</ref><ref>{{cite news |first=Kevin |last=McCauley |title=Raja Casablanca vs. Atletico Mineiro: Final score 3-1, Moroccan champions will face Bayern Munich |url=https://www.sbnation.com/soccer/2013/12/18/5224874/raja-casablanca-vs-atletico-mineiro--2013-club-world-cup-final-score-result |publisher=SBNation.com (Vox Media) |date=16 December 2013 |access-date=20 December 2013 }}</ref> as well as the second African finalist (after [[TP Mazembe]] in [[2010 FIFA Club World Cup Final|2010]]).<ref>{{cite news |title=Raja shock Atletico to reach final |url=http://www.cafonline.com/football/news/18950-raja-shock-atletico-to-reach-final.html |publisher=cafonline.com (Confederation of African Football) |date=19 December 2013 |access-date=21 April 2014 }}</ref> They reached the final after defeating New Zealand club [[Auckland City FC|Auckland City]] in the play-off round,<ref>{{cite news |title=Raja score late to beat Auckland |url=https://www.bbc.co.uk/sport/football/25318591 |publisher=BBC Sport (British Broadcasting Corporation) |date=12 December 2013 |access-date=20 December 2013 }}</ref> Mexican club [[C.F. Monterrey|Monterrey]] in the quarter-finals,<ref>{{cite news |title=Raja Casablanca reach Club World Cup semi-final |url=https://www.bbc.co.uk/sport/football/25390412 |publisher=BBC Sport (British Broadcasting Corporation) |date=15 December 2013 |access-date=20 December 2013 }}</ref> and Brazilian club [[Clube Atlético Mineiro|Atletico Mineiro]] in the semi-finals.<ref>{{cite news |first=Ian |last=Hughes |title=Raja revel in historic victory |url=https://www.bbc.co.uk/sport/football/25451200 |publisher=BBC Sport (British Broadcasting Corporation) |date=19 December 2013 |access-date=20 December 2013 }}</ref>
+
+==Route to the final==
+{| class="wikitable"
+|-
+!width=350|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+!Team
+!width=350|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|-
+|align=center|[[UEFA]]
+!Confederation
+|align=center|[[Confederation of African Football|CAF]]
+|-
+|align=center|Winners of the [[2012–13 UEFA Champions League]]
+!Qualification
+|align=center|Winners of the [[2012–13 Botola]]
+|-
+| rowspan="2" align="center" |Bye
+![[2013 FIFA Club World Cup#Play-off for quarter-finals|Play-off round]]
+|align=center|'''2–1''' {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]<br />([[Mouhcine Iajour|Iajour]] 39', [[Abdelilah Hafidi|Hafidi]] 90+2')
+|-
+![[2013 FIFA Club World Cup#Quarter-finals|Quarter-finals]]
+|align=center|'''2–1 {{aet}}''' {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]<br />([[Chemseddine Chtibi|Chtibi]] 24', [[Kouko Guehi|Guehi]] 95')
+|-
+|align=center|'''3–0''' {{fbaicon|CHN}} [[Guangzhou Evergrande F.C.|Guangzhou Evergrande]]<br />([[Franck Ribéry|Ribéry]] 40', [[Mario Mandžukić|Mandžukić]] 44', [[Mario Götze|Götze]] 47')
+![[2013 FIFA Club World Cup#Semi-finals|Semi-finals]]
+|align=center|'''3–1''' {{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]<br />([[Mouhcine Iajour|Iajour]] 51', [[Mouhcine Moutouali|Moutouali]] 84' (pen.), [[Vianney Mabidé|Mabidé]] 90+4')
+|}
+
+==Match==
+
+===Summary===
+Bayern Munich defender [[Dante (footballer)|Dante]] opened the scoring in the seventh minute; after [[Jérôme Boateng]] headed [[Xherdan Shaqiri]]'s corner into his path, he turned and shot past goalkeeper [[Khalid Askri]]. [[Thiago Alcântara|Thiago]] got the second for Bayern in the 22nd minute, when he shot right-footed into the far corner from the edge of the penalty area after a pull-back pass from the left from [[David Alaba]]. Bayern had the chance to add a third midway through the second half, but Shaqiri hit the crossbar from six yards before Thiago shot the rebound high and wide. Raja Casablanca almost got themselves back into the game late on, when [[Vianney Mabidé]] found himself onside only to shoot straight at [[Manuel Neuer]] in the Bayern goal, and captain [[Mouhcine Moutouali]] hit the rebound over the bar from just outside the goal area.<ref>{{cite news |title=Bayern Munich beat Raja Casablanca to win Club World Cup final |url=https://www.theguardian.com/football/2013/dec/21/raja-casablanca-bayern-munich-club-world-cup |work=The Observer |publisher=Guardian News and Media |date=21 December 2013 |access-date=3 January 2014 }}</ref><ref>{{cite news |title=Bayern Munich 2-0 Raja Casablanca |url=https://www.bbc.com/sport/0/football/25406403 |publisher=BBC Sport (British Broadcasting Corporation) |date=21 December 2013 |access-date=3 January 2014 }}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date=21 December 2013
+|time=19:30 <noinclude>[[UTC±00:00|UTC±0]]</noinclude>
+|team1=[[FC Bayern Munich|Bayern Munich]] {{fbaicon|GER}}
+|score=2–0
+|report=https://www.fifa.com/clubworldcup/matches/round=259717/match=300260483/report.html
+|team2={{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|goals1=[[Dante (footballer)|Dante]] {{goal|7}}<br />[[Thiago Alcântara|Thiago]] {{goal|22}}
+|goals2=
+|stadium=[[Stade de Marrakech]], [[Marrakesh]]
+|attendance=37,774
+|referee=[[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _FCBAYERN_1314h
+ | pattern_b  = _FCBAYERN_1314h
+ | pattern_ra = _FCBAYERN_1314h
+ | pattern_sh = _FCBAYERN_1314h
+ | pattern_so = _FCBAYERN_1314h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     =
+ | socks      = DD0000
+ | title      = {{nowrap|Bayern Munich}}
+}}
+|{{Football kit
+ | pattern_la = _raja13
+ | pattern_b  = _raja13
+ | pattern_ra = _raja13
+ | pattern_sh = _adidasonwhite
+ | pattern_so =
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 008000
+ | socks      = FFFFFF
+ | title      = {{nowrap|Raja Casablanca}}
+}}
+|}
+
+{| style="width:100%"
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Manuel Neuer]]
+|-
+|RB ||'''13'''||{{flagicon|BRA}} [[Rafinha (footballer, born 1985)|Rafinha]]
+|-
+|CB ||'''17'''||{{flagicon|GER}} [[Jérôme Boateng]]
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Dante (footballer)|Dante]]
+|-
+|LB ||'''27'''||{{flagicon|AUT}} [[David Alaba]]
+|-
+|DM ||'''21'''||{{flagicon|GER}} [[Philipp Lahm]] ([[Captain (association football)|c]])
+|-
+|RM ||'''11'''||{{flagicon|SUI}} [[Xherdan Shaqiri]] || || {{suboff|80}}
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[Thiago Alcântara|Thiago]]
+|-
+|CM ||'''39'''||{{flagicon|GER}} [[Toni Kroos]] || || {{suboff|60}}
+|-
+|LM ||'''7''' ||{{flagicon|FRA|1974}} [[Franck Ribéry]]
+|-
+|CF ||'''25'''||{{flagicon|GER}} [[Thomas Müller]] || || {{suboff|76}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|GER}} [[Tom Starke]]
+|-
+|GK ||'''32'''||{{flagicon|GER}} [[Lukas Raeder]]
+|-
+|DF ||'''5''' ||{{flagicon|BEL}} [[Daniel Van Buyten]]
+|-
+|DF ||'''15'''||{{flagicon|GER}} [[Jan Kirchhoff]]
+|-
+|DF ||'''26'''||{{flagicon|GER}} [[Diego Contento]]
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Javi Martínez]] || || {{subon|60}}
+|-
+|MF ||'''19'''||{{flagicon|GER}} [[Mario Götze]] || || {{subon|80}}
+|-
+|MF ||'''23'''||{{flagicon|GER}} [[Mitchell Weiser]]
+|-
+|MF ||'''34'''||{{flagicon|DEN}} [[Pierre-Emile Højbjerg]]
+|-
+|MF ||'''37'''||{{flagicon|USA}} [[Julian Green]]
+|-
+|FW ||'''9''' ||{{flagicon|CRO}} [[Mario Mandžukić]] || || {{subon|76}}
+|-
+|FW ||'''14'''||{{flagicon|PER|football}} [[Claudio Pizarro]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|style="vertical-align:top"|[[File:Bayern Munich vs Raja Casablanca 2013-12-21.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''61'''||{{flagicon|MAR}} [[Khalid Askri]]
+|-
+|RB ||'''3''' ||{{flagicon|MAR}} [[Zakaria El Hachimi]]
+|-
+|CB ||'''27'''||{{flagicon|MAR}} [[Ismail Benlamalem]]
+|-
+|CB ||'''16'''||{{flagicon|MAR}} [[Mohamed Oulhaj]] || {{yel|55}}
+|-
+|LB ||'''21'''||{{flagicon|MAR}} [[Adil Kerrouchy]]
+|-
+|CM ||'''99'''||{{flagicon|MAR}} [[Issam Erraki]]
+|-
+|CM ||'''28'''||{{flagicon|CIV}} [[Kouko Guehi]]
+|-
+|RW ||'''5''' ||{{flagicon|MAR}} [[Mouhcine Moutouali]] ([[Captain (association football)|c]])
+|-
+|AM ||'''8''' ||{{flagicon|MAR}} [[Chemseddine Chtibi]] || || {{suboff|50}}
+|-
+|LW ||'''18'''||{{flagicon|MAR}} [[Abdelilah Hafidi]] || || {{suboff|88}}
+|-
+|CF ||'''20'''||{{flagicon|MAR}} [[Mouhcine Iajour]] || || {{suboff|78}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|MAR}} [[Yassine El Had]]
+|-
+|GK ||'''37'''||{{flagicon|MAR}} [[Brahim Zaari]]
+|-
+|DF ||'''4''' ||{{flagicon|MAR}} [[Ahmed Rahmani]]
+|-
+|DF ||'''17'''||{{flagicon|MAR}} [[Rachid Soulaimani]] || {{yel|79}} || {{subon|78}}
+|-
+|DF ||'''31'''||{{flagicon|MLI}} [[Idrissa Coulibaly]]
+|-
+|MF ||'''7''' ||{{flagicon|COD}} [[Déo Kanda]]
+|-
+|MF ||'''24'''||{{flagicon|CTA}} [[Vianney Mabidé]] || || {{subon|50}}
+|-
+|MF ||'''26'''||{{flagicon|MAR}} [[Ismail Kouchame]]
+|-
+|MF ||'''30'''||{{flagicon|MAR}} [[Redouane Dardouri]]
+|-
+|FW ||'''9''' ||{{flagicon|MAR}} [[Abdelmajid Dine]]
+|-
+|FW ||'''10'''||{{flagicon|MAR}} [[Badr Kachani]] || || {{subon|88}}
+|-
+|FW ||'''25'''||{{flagicon|MAR}} [[Yassine Salhi (footballer, born 1987)|Yassine Salhi]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|TUN}} [[Faouzi Benzarti]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Franck Ribéry]] (Bayern Munich)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Emerson de Carvalho ([[Brazilian Football Confederation|Brazil]])
+<br />Marcelo Van Gasse ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Sean Hurd ([[United States Soccer Federation|United States]])
+| style="width:55%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web|url=https://www.fifa.com/mm/document/tournament/competition/02/16/81/19/fcwc2013_regulations_en_neutral.pdf|archive-url=https://web.archive.org/web/20131008070859/http://www.fifa.com/mm/document/tournament/competition/02/16/81/19/fcwc2013_regulations_en_neutral.pdf|url-status=dead|archive-date=8 October 2013|title=Regulations – FIFA Club World Cup Morocco 2013|publisher=FIFA}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (association football)|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Twelve named substitutes.
+*Maximum of three substitutions.
+|}
+
+==See also==
+*[[FC Bayern Munich in international football competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.fifa.com/tournaments/archive/clubworldcup/morocco2013/index.html FIFA Club World Cup Morocco 2013], FIFA.com
+
+{{FIFA Club World Cup}}
+{{FC Bayern Munich matches}}
+{{Raja Casablanca matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2013}}
+[[Category:2013 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2013]]
+[[Category:FC Bayern Munich matches]]
+[[Category:Raja CA matches]]
+[[Category:2013–14 in German football]]
+[[Category:2013–14 in Moroccan football]]
+[[Category:Sports competitions in Marrakesh]]
+[[Category:21st century in Marrakesh]]
+[[Category:December 2013 sports events in Africa]]
+[[Category:Men's association football finals in Africa]]
+[[Category:Germany–Morocco relations|2013]]

@@ -1,0 +1,566 @@
+{{Short description|Association football match}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox football match
+| image = Champions League Final 2003.jpg
+| image_size = 200
+|            caption = Match programme cover
+|              event = [[2002–03 UEFA Champions League]]
+|              team1 = [[Juventus FC|Juventus]]
+|   team1association = {{fbaicon|ITA|2003|size=30px}}
+|         team1score = 0
+|              team2 = [[AC Milan|Milan]]
+|   team2association = {{fbaicon|ITA|2003|size=30px}}
+|         team2score = 0
+|            details = After [[Golden goal#Silver goal|silver goal]] [[overtime (sports)#Association football|extra time]] <br> Milan won 3–2 on [[Penalty shoot-out (association football)|penalties]]
+|               date = 28 May 2003
+|            stadium = [[Old Trafford]]
+|               city = [[Manchester]]
+| man_of_the_match1a = [[Paolo Maldini]] (Milan)<ref name="attendance"/>
+|            referee = [[Markus Merk]] ([[German Football Association|Germany]])
+|         attendance = 62,315<ref name="attendance"/>
+|            weather = Clear<br />{{convert|18|°C|°F}}<ref>{{Cite web|url=http://www.wunderground.com/history/airport/EGCC/2003/5/28/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA|title = Local Weather Forecast, News and Conditions &#124; Weather Underground}}</ref>
+|           previous = [[2002 UEFA Champions League final|2002]]
+|               next = [[2004 UEFA Champions League final|2004]]
+}}
+The '''2003 UEFA Champions League final''' was a [[Association football|football]] match that took place at [[Old Trafford]] in [[Manchester]], England on 28 May 2003 to decide the winner of the [[2002–03 UEFA Champions League]]. The match was contested by two [[Italy|Italian]] teams: [[Juventus FC|Juventus]] and [[AC Milan|Milan]]. The match made history as it was the first time two clubs from Italy had faced each other in the final. It was also the second intra-national final of the competition, following the all-Spanish [[2000 UEFA Champions League final]] between [[Real Madrid CF|Real Madrid]] and [[Valencia CF|Valencia]] three years earlier. Milan won the match 3–2 via a [[Penalty shoot-out (association football)|penalty shoot-out]] after the game had finished 0–0 after extra time. It gave Milan their sixth success in the European Cup.
+
+==Background==
+The match was the first time two clubs from Italy had faced each other in the final; the second intra-national final of the competition, following the all-Spanish [[2000 UEFA Champions League final]] between Real Madrid and Valencia.
+
+Milan reached their ninth final and lost only two matches (Dortmund 1–0, and Real Madrid 3–1). In the semi-finals, they met local rivals [[Inter Milan]]; both matches finished equal (0–0; 1–1), but Milan advanced on the [[away goals rule]]. Previously Milan won finals in [[1963 European Cup final|1963]], [[1969 European Cup final|1969]], [[1989 European Cup final|1989]], [[1990 European Cup final|1990]] and [[1994 UEFA Champions League final|1994]], and lost in [[1958 European Cup final|1958]], [[1993 UEFA Champions League final|1993]] and [[1995 UEFA Champions League final|1995]].<ref name=rsssf>{{cite web|url=http://www.rsssf.com/ec/ec200203.html#cc|title=UEFA Champions League 2002-03|publisher= rsssf.com}}</ref><ref>{{Cite web|url=http://www.repubblica.it/online/calcio2002_coppe/derbyeuropa/derbyeuropa/derbyeuropa.html|title=Al Milan basta un pareggio per conquistare la finale|publisher=La Repubblica|date=13 May 2003|language=Italian}}</ref>
+
+Juventus reached their seventh final. In the semi-final, Juventus met Real Madrid; they lost the first match (2–1), but they won the second (3–1). Key midfielder [[Pavel Nedvěd]] picked up a yellow card in the second leg, for a total of three in the tournament, triggering his suspension for the final. Juventus instead deployed [[Mauro Camoranesi]].<ref>{{Cite web|url=http://www.repubblica.it/online/calcio2002_serie_a/reggjuve/reggjuve/reggjuve.html|title=Juve, esperimenti in Calabria Camoranesi fa le prove da Nedved|publisher=La Repubblica|date=17 May 2003|language=Italian}}</ref> Previously Juventus won finals in [[1985 European Cup final|1985]] and [[1996 UEFA Champions League final|1996]], and lost in [[1973 European Cup final|1973]], [[1983 European Cup final|1983]], [[1997 UEFA Champions League final|1997]], [[1998 UEFA Champions League final|1998]].<ref name=rsssf /><ref>{{Cite web|url=http://www.repubblica.it/online/calcio2002_coppe/juvereal/juvereal/juvereal.html|title=Real Madrid travolto, la Juve vola a Manchester|publisher=La Repubblica|date=14 May 2003|language=Italian}}</ref>
+
+Juventus entered the final as [[2002–03 Serie A]] winners, for the 27th time, and ahead of third placed Milan, as well as [[2002 Supercoppa Italiana]] winners. Milan won the [[2002–03 Coppa Italia]] after defeating Roma in the final.
+
+==Venue==
+[[File:Old Trafford 2 (2003 UEFA Champions League Final).jpg|thumb|Old Trafford was selected to host the final in December 2001.]]
+[[Old Trafford]], the home of [[Manchester United F.C.|Manchester United]], was selected to host the match in December 2001, following a meeting of the UEFA Executive Committee in [[Nyon]], Switzerland, at the same time as [[Estadio de La Cartuja]] in [[Seville]] was selected to host the [[2003 UEFA Cup Final]].<ref>{{cite news |title=Old Trafford to stage European final |url=https://www.standard.co.uk/sport/old-trafford-to-stage-european-final-6349493.html |work=London Evening Standard|date=13 December 2001 |access-date=6 August 2015 }}</ref> It was selected ahead of the likes of the [[Millennium Stadium|Millennium Stadium]] in [[Cardiff]], the [[Santiago Bernabeu Stadium]] in Madrid, the [[Stade de France]] in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]] near Paris, and the [[Amsterdam Arena]].<ref>{{cite journal |date=February 2002 |editor1-last=Ganguly |editor1-first=Aubrey |title=It's coming home |journal=[[Inside United|United]] |location=Manchester |publisher=[[Future plc|Future Publishing]] under licence from Manchester United |issue=112 |page=13 }}</ref>
+
+It would be the first time the stadium had hosted a major European final,<ref>{{cite book |title=UEFA Champions League Statistics Handbook 2012/13 |year=2012 |publisher=Union of European Football Associations |location=Nyon |page=154 }}</ref> although it had been the venue for both the two-legged [[1968 Intercontinental Cup]] between Manchester United and Argentine club [[Estudiantes de La Plata]], and the [[1991 European Super Cup]] between Manchester United and Yugoslavian club [[Red Star Belgrade]], which had been scheduled to be played over two legs, only for the Yugoslavian leg to be cancelled due to the [[Yugoslav Wars|wars in the country]] at the time.
+
+The stadium had recently undergone a major expansion; following the mandatory conversion to an all-seater venue as a result of the [[Taylor Report]] and ahead of England hosting [[UEFA Euro 1996]], the stadium's North Stand was expanded to three tiers, with a capacity of 25,500 spectators. This was followed by the addition of second tiers to the East and West Stands, which brought the overall capacity of the stadium to 68,217.
+
+As has taken place for every Champions League final since 1997, a ceremonial handover of the [[European Champion Clubs' Cup]] from the holders to the host city took place on 3 April 2003. After receiving the trophy from a representative of holders [[Real Madrid CF|Real Madrid]] in the ceremony at the [[Manchester Town Hall]], UEFA Chief Executive [[Gerhard Aigner]] presented it to the [[List of Mayors and Lord Mayors of Manchester|Lord Mayor of Manchester]], Roy Walters. Former Real Madrid players [[Alfredo Di Stéfano]], [[Francisco Gento]], [[Amancio Amaro|Amancio]] and [[Emilio Butragueño]], as were Manchester United manager [[Alex Ferguson]], members of the club's [[1968 European Cup final]] team, and members of [[Liverpool F.C.|Liverpool]] and [[Manchester City F.C.|Manchester City]]'s past European trophy-winning teams.<ref>{{cite news |title=Manchester welcomes Champion Clubs' Cup |url=http://www.uefa.org/news/newsid=62734.html |website=UEFA.org |publisher=Union of European Football Associations |date=2 April 2003 |access-date=6 August 2015 }}</ref>
+
+Also in April 2003, a 24-hour football match – named the "Starball Match" in reference to the logo of the UEFA Champions League – was played in Manchester's [[Albert Square, Manchester|Albert Square]]. It was the second Starball Match, after the inaugural match was held in Glasgow ahead of the [[2002 UEFA Champions League final]] at [[Hampden Park]]. Over 1,000 players participated in the match, playing for sides named "Internazionale Manchester" and "Real Mancunian", in reference to Italian club Inter Milan and Spanish club Real Madrid. Internazionale Manchester won the match 252–162.<ref>{{cite news |first=Patrick |last=Hart |title=Football for all in Manchester |url=https://www.uefa.com/news-media/news/0190-0f844ad9d05a-1900c129f3a0-1000--football-for-all-in-manchester/ |publisher=UEFA |date=3 April 2003 |access-date=6 August 2015 }}</ref>
+
+==Route to the final==
+{{further|2002–03 UEFA Champions League}}
+
+{|class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ITA|2003}} [[Juventus FC|Juventus]]
+!Round
+!colspan=4|{{fbaicon|ITA|2003}} [[AC Milan|Milan]]
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2002–03 UEFA Champions League qualifying rounds|Qualifying phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|colspan=4|Bye
+|style="background:#c1e0ff"|Third qualifying round
+|align=left|{{fbaicon|CZE}} [[FC Slovan Liberec|Slovan Liberec]]
+|2–2 ([[Away goals rule|a]])
+|[[2002–03 UEFA Champions League qualifying rounds#Milan v Slovan Liberec|1–0]] (H)
+|[[2002–03 UEFA Champions League qualifying rounds#Slovan Liberec v Milan|1–2]] (A)
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[2002–03 UEFA Champions League group stage|First group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|NED}} [[Feyenoord]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Feyenoord v Juventus|1–1]] (A)
+|style="background:#c1e0ff"|Matchday 1
+|align=left|{{fbaicon|FRA|1974}} [[RC Lens|Lens]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Valencia v Lens|2–1]] (H)
+|-
+|align=left|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Juventus v Dynamo Kyiv|5–0]] (H)
+|style="background:#c1e0ff"|Matchday 2
+|align=left|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Deportivo La Coruña v Milan|4–0]] (A)
+|-
+|align=left|{{fbaicon|ENG}} [[Newcastle United F.C.|Newcastle United]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Juventus v Newcastle United|2–0]] (H)
+|style="background:#c1e0ff"|Matchday 3
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Bayern Munich v Milan|2–1]] (A)
+|-
+|align=left|{{fbaicon|ENG}} [[Newcastle United F.C.|Newcastle United]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Newcastle United v Juventus|0–1]] (A)
+|style="background:#c1e0ff"|Matchday 4
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Milan v Bayern Munich|2–1]] (H)
+|-
+|align=left|{{fbaicon|NED}} [[Feyenoord]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Juventus v Feyenoord|2–0]] (H)
+|style="background:#c1e0ff"|Matchday 5
+|align=left|{{fbaicon|FRA|1974}} [[RC Lens|Lens]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Lens v Milan|1–2]] (A)
+|-
+|align=left|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Dynamo Kyiv v Juventus|2–1]] (A)
+|style="background:#c1e0ff"|Matchday 6
+|align=left|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|colspan=3|[[2002–03 UEFA Champions League group stage#Milan v Deportivo La Coruña|1–2]] (H)
+|-
+|colspan="4" style="text-align:center;vertical-align:top"|'''[[2002–03 UEFA Champions League group stage#Group E|Group E]] winners'''
+{{:2002–03 UEFA Champions League group stage|transcludesection=Group E|only_pld_pts=yes|show_matches=no|showteam=JUV}}
+|style="background:#c1e0ff"|Final standings
+|colspan="4" style="text-align:center;vertical-align:top"|'''[[2002–03 UEFA Champions League group stage#Group G|Group G]] winners'''
+{{:2002–03 UEFA Champions League group stage|transcludesection=Group G|only_pld_pts=yes|show_matches=no|showteam=MIL}}
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[2002–03 UEFA Champions League second group stage|Second group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Deportivo La Coruña v Juventus|2–2]] (A)
+|style="background:#c1e0ff"|Matchday 1
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Milan v Real Madrid|1–0]] (H)
+|-
+|align=left|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Juventus v Basel|4–0]] (H)
+|style="background:#c1e0ff"|Matchday 2
+|align=left|{{fbaicon|GER}} [[Borussia Dortmund]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Borussia Dortmund v Milan|1–0]] (A)
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Manchester United v Juventus|1–2]] (A)
+|style="background:#c1e0ff"|Matchday 3
+|align=left|{{fbaicon|RUS}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Milan v Lokomotiv Moscow|1–0]] (H)
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Juventus v Manchester United|0–3]] (H)
+|style="background:#c1e0ff"|Matchday 4
+|align=left|{{fbaicon|RUS}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Lokomotiv Moscow v Milan|1–0]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Juventus v Deportivo La Coruña|3–2]] (H)
+|style="background:#c1e0ff"|Matchday 5
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Real Madrid v Milan|1–3]] (A)
+|-
+|align=left|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Basel v Juventus|1–2]] (A)
+|style="background:#c1e0ff"|Matchday 6
+|align=left|{{fbaicon|GER}} [[Borussia Dortmund]]
+|colspan=3|[[2002–03 UEFA Champions League second group stage#Milan v Borussia Dortmund|0–1]] (H)
+|-
+|colspan="4" style="text-align:center;vertical-align:top"|'''[[2002–03 UEFA Champions League second group stage#Group D|Group D]] runners-up'''
+{{:2002–03 UEFA Champions League second group stage|transcludesection=Group D|only_pld_pts=yes|show_matches=no|showteam=JUV}}
+|style="background:#c1e0ff"|Final standings
+|colspan="4" style="text-align:center;vertical-align:top"|'''[[2002–03 UEFA Champions League second group stage#Group C|Group C]] winners'''
+{{:2002–03 UEFA Champions League second group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=MIL}}
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2002–03 UEFA Champions League knockout stage|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|3–2
+|[[2002–03 UEFA Champions League knockout stage#Juventus v Barcelona|1–1]] (H)
+|[[2002–03 UEFA Champions League knockout stage#Barcelona v Juventus|2–1]] {{aet}} (A)
+|style="background:#c1e0ff"|Quarter-finals
+|align=left|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|3–2
+|[[2002–03 UEFA Champions League knockout stage#Ajax v Milan|0–0]] (A)
+|[[2002–03 UEFA Champions League knockout stage#Milan v Ajax|3–2]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|4–3
+|[[2002–03 UEFA Champions League knockout stage#Real Madrid v Juventus|1–2]] (A)
+|[[2002–03 UEFA Champions League knockout stage#Juventus v Real Madrid|3–1]] (H)
+|style="background:#c1e0ff"|Semi-finals
+|align=left|{{fbaicon|ITA|2003}} [[Inter Milan]]
+|1–1 ([[Away goals rule|a]])
+|[[2002–03 UEFA Champions League knockout stage#Milan v Internazionale|0–0]] (H)
+|[[2002–03 UEFA Champions League knockout stage#Internazionale v Milan|1–1]] (A)
+|}
+
+==Match==
+===Summary===
+[[File:Edgar Davids (Juventus F.C., no. 26) clashing with Gennaro Gattuso (A.C. Milan) - 20030528.jpg|thumb|upright|[[Edgar Davids]] (no. 26) clashing with [[Gennaro Gattuso]] during the match]]
+
+Refereed by [[Markus Merk]], the final was a tactical match with both teams playing solid defensively. In the 9th minute, [[Andriy Shevchenko]] slipped in a back pass from [[Filippo Inzaghi]] who scored the goal for Milan, but was ruled offside as [[Rui Costa]] was found to obscure Juventus goalkeeper [[Gianluigi Buffon]]'s view.<ref>{{Cite web|url=http://archiviostorico.corriere.it/2003/ottobre/01/gol_Shevchenko_alla_Juve_andava_co_0_031001240.shtml|archiveurl=https://web.archive.org/web/20160101000000/http://archiviostorico.corriere.it/2003/ottobre/01/gol_Shevchenko_alla_Juve_andava_co_0_031001240.shtml|title=Il gol di Shevchenko alla Juve andava annullato|publisher=Corriere dello Sport|date=1 October 2003|archivedate=1 January 2016|language=Italian}}</ref> Later in the half, Inzaghi created danger with a hard and fast header that Buffon reflexively saved.<ref name="grandedida" >{{Cite web|url=http://www.repubblica.it/online/calcio2002_coppe/finalissima/finalissima/finalissima.html|title=Grande Dida, coppa al Milan ma la Juve piange se stessa|publisher=La Repubblica|date=28 May 2003|language=Italian}}</ref> At the end of the first half, Juventus' [[Igor Tudor]] was replaced by [[Alessandro Birindelli]] due to injury.
+
+In the second half, Juventus coach [[Marcello Lippi]] replaced [[Mauro Camoranesi]] with [[Antonio Conte]], who later struck the crossbar. [[Marcelo Zalayeta]] was the final substitution for Juventus, while Milan subbed on [[Massimo Ambrosini]], [[Roque Júnior]] and [[Serginho (footballer, born 1971)|Serginho]]; Juventus strengthened the attack, while Milan strengthened the flanks and the midfield.<ref name=grandedida/>
+
+The match ended 0–0 after regulation time. In the 95th minute, Roque Júnior was injured, but Milan having used all substitutions, remained on the pitch, while Juventus lacked attacking conviction and were unable to capitalize. After extra-time, the match remained 0–0 and went to penalty shoot-out. [[Dida (footballer, born 1973)|Dida]] saved Trezeguet's penalty, the first shooter of the penalty takers. After Serginho scored for Milan and Birindelli the subsequent penalty for Juventus, Buffon saved [[Clarence Seedorf]]'s shot. Zalayeta and [[Paolo Montero]] consecutively had their penalties saved by Dida, while Buffon saved [[Kakha Kaladze]]'s shot. [[Alessandro Nesta]] then scored for Milan and [[Alessandro Del Piero]] for Juventus, Shevchenko then had the chance to score the decisive penalty, and did; Milan won by a score of 3–2. This gave Milan their sixth European Cup, nine years after their last continental success. [[Paolo Maldini]] was named man of the match at the end of the final, and lifted the European Cup as captain of Milan, just as his father [[Cesare Maldini]] had done exactly 40 years earlier.<ref name=grandedida/>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2003|5|28|df=y}}
+|time       = {{CEST|20:45|localtz=BST}}<!--20:45 CEST, 19:45 BST-->
+|team1      = [[Juventus FC|Juventus]] {{fbaicon|ITA|2003}}
+|score      = 0–0
+|aet        = yes
+|team2      = {{fbaicon|ITA|2003}} [[AC Milan|Milan]]
+|goals1     =
+|goals2     =
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 62,315<ref name="attendance">{{cite book |location=Nyon |chapter-url=https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |chapter=2. Finals |title=UEFA Champions League Statistics Handbook 2022/23 |publisher=Union of European Football Associations |page=2 |date=4 June 2023 |access-date=17 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20230821082639/https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |archive-date=21 August 2023}}</ref>
+|referee    = [[Markus Merk]] ([[German Football Association|Germany]])
+|penalties1 =
+*[[David Trezeguet|Trezeguet]] {{penmiss}}
+*[[Alessandro Birindelli|Birindelli]] {{pengoal}}
+*[[Marcelo Zalayeta|Zalayeta]] {{penmiss}}
+*[[Paolo Montero|Montero]] {{penmiss}}
+*[[Alessandro Del Piero|Del Piero]] {{pengoal}}
+|penaltyscore = 2–3
+|penalties2 =
+*{{pengoal}} [[Serginho (footballer, born 1971)|Serginho]]
+*{{penmiss}} [[Clarence Seedorf|Seedorf]]
+*{{penmiss}} [[Kakha Kaladze|Kaladze]]
+*{{pengoal}} [[Alessandro Nesta|Nesta]]
+*{{pengoal}} [[Andriy Shevchenko|Shevchenko]]
+|report     = https://www.uefa.com/uefachampionsleague/match/71176/
+}}</onlyinclude>
+
+{| width=100%
+|-
+|{{Football kit
+|pattern_la =_juve0203h
+|leftarm = ffffff
+|pattern_b =_juve0203h1
+|body = ffffff
+|pattern_ra =_juve0203h
+|rightarm = ffffff
+|shorts = 000000
+|pattern_so =_juventus0203h
+|socks = 000000
+| title = Juventus<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2002/1045288_LU.pdf |title=Tactical Line-ups – Final – Wednesday 28 May 2003 |website=[[UEFA]] |publisher=Union of European Football Associations |date=28 May 2003 |access-date=29 December 2017}}</ref>
+}}
+|{{Football kit
+ | pattern_la = _acm away 0809
+ | pattern_b  = _acmilan0203a
+ | pattern_ra = _acm away 0809
+ | pattern_sh = _acm0203a
+ | pattern_so =
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FFFFFF
+ | title      = Milan<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA|2003}} [[Gianluigi Buffon]]
+|-
+|RB ||'''21'''||{{flagicon|FRA|1974}} [[Lilian Thuram]]
+|-
+|CB ||'''2''' ||{{flagicon|ITA|2003}} [[Ciro Ferrara]]
+|-
+|CB ||'''5''' ||{{flagicon|CRO}} [[Igor Tudor]] || || {{suboff|42}}
+|-
+|LB ||'''4''' ||{{flagicon|URU}} [[Paolo Montero]]
+|-
+|RM ||'''16'''||{{flagicon|ITA|2003}} [[Mauro Camoranesi]] || || {{suboff|46}}
+|-
+|CM ||'''3''' ||{{flagicon|ITA|2003}} [[Alessio Tacchinardi]] || {{yel|69}}
+|-
+|CM ||'''26'''||{{flagicon|NED}} [[Edgar Davids]] || || {{suboff|65}}
+|-
+|LM ||'''19'''||{{flagicon|ITA|2003}} [[Gianluca Zambrotta]]
+|-
+|CF ||'''17'''||{{flagicon|FRA|1974}} [[David Trezeguet]]
+|-
+|CF ||'''10'''||{{flagicon|ITA|2003}} [[Alessandro Del Piero]] ([[Captain (association football)|c]]) || {{yel|111}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA|2003}} [[Antonio Chimenti]]
+|-
+|DF ||'''7''' ||{{flagicon|ITA|2003}} [[Gianluca Pessotto]]
+|-
+|DF ||'''13'''||{{flagicon|ITA|2003}} [[Mark Iuliano]]
+|-
+|DF ||'''15'''||{{flagicon|ITA|2003}} [[Alessandro Birindelli]] || || {{subon|42}}
+|-
+|MF ||'''8''' ||{{flagicon|ITA|2003}} [[Antonio Conte]] || || {{subon|46}}
+|-
+|FW ||'''24'''||{{flagicon|ITA|2003}} [[Marco Di Vaio]]
+|-
+|FW ||'''25'''||{{flagicon|URU}} [[Marcelo Zalayeta]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA|2003}} [[Marcello Lippi]]
+|}
+|valign="top"|[[File:Juventus vs Milan 2003-05-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||{{flagicon|BRA}} [[Dida (footballer, born 1973)|Dida]]
+|-
+|RB ||'''19'''||{{flagicon|ITA|2003}} [[Alessandro Costacurta]] || {{yel|18}} || {{suboff|66}}
+|-
+|CB ||'''13'''||{{flagicon|ITA|2003}} [[Alessandro Nesta]]
+|-
+|CB ||'''3''' ||{{flagicon|ITA|2003}} [[Paolo Maldini]] ([[Captain (association football)|c]])
+|-
+|LB ||'''4''' ||{{flagicon|GEO|1990}} [[Kakha Kaladze]]
+|-
+|RM ||'''8''' ||{{flagicon|ITA|2003}} [[Gennaro Gattuso]]
+|-
+|CM ||'''21'''||{{flagicon|ITA|2003}} [[Andrea Pirlo]] || || {{suboff|71}}
+|-
+|LM ||'''20'''||{{flagicon|NED}} [[Clarence Seedorf]]
+|-
+|AM ||'''10'''||{{flagicon|POR}} [[Rui Costa]] || || {{suboff|87}}
+|-
+|CF ||'''7''' ||{{flagicon|UKR}} [[Andriy Shevchenko]]
+|-
+|CF ||'''9''' ||{{flagicon|ITA|2003}} [[Filippo Inzaghi]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''18'''||{{flagicon|ITA|2003}} [[Christian Abbiati]]
+|-
+|DF ||'''24'''||{{flagicon|DEN}} [[Martin Laursen]]
+|-
+|DF ||'''25'''||{{flagicon|BRA}} [[Roque Júnior]] || || {{subon|66}}
+|-
+|MF ||'''23'''||{{flagicon|ITA|2003}} [[Massimo Ambrosini]] || || {{subon|87}}
+|-
+|MF ||'''27'''||{{flagicon|BRA}} [[Serginho (footballer, born 1971)|Serginho]] || || {{subon|71}}
+|-
+|MF ||'''32'''||{{flagicon|ITA|2003}} [[Cristian Brocchi]]
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Rivaldo]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA|2003}} [[Carlo Ancelotti]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Paolo Maldini]] (Milan)<ref name="attendance"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Christian Schräer ([[German Football Association|Germany]])
+<br />Heiner Müller ([[German Football Association|Germany]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Wolfgang Stark]] ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Golden goal#Silver goal|silver goal]] [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes.
+*Maximum of three substitutions.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="report">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2002/1045288_FR.pdf |title=Full Time Report Final – Juventus v Milan |website=[[UEFA]] |publisher=Union of European Football Associations |date=28 May 2003 |access-date=17 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20151105190741/https://www.uefa.com/newsfiles/UCL/2002/1045288_FR.pdf |archive-date=5 November 2015}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Juventus
+!scope="col" style="width:70px"|Milan
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|4
+|5
+|-
+!scope=row|Shots on target
+|1
+|3
+|-
+!scope=row|Ball possession
+|46%
+|54%
+|-
+!scope=row|Corner kicks
+|2
+|7
+|-
+!scope=row|Fouls committed
+|12
+|13
+|-
+!scope=row|Offsides
+|0
+|4
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half and extra time<ref name="report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Juventus
+!scope="col" style="width:70px"|Milan
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|7
+|9
+|-
+!scope=row|Shots on target
+|1
+|3
+|-
+!scope=row|Ball possession
+|51%
+|49%
+|-
+!scope=row|Corner kicks
+|3
+|6
+|-
+!scope=row|Fouls committed
+|22
+|10
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|2
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Juventus
+!scope="col" style="width:70px"|Milan
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|11
+|14
+|-
+!scope=row|Shots on target
+|2
+|6
+|-
+!scope=row|Ball possession
+|49%
+|51%
+|-
+!scope=row|Corner kicks
+|5
+|13
+|-
+!scope=row|Fouls committed
+|34
+|23
+|-
+!scope=row|Offsides
+|1
+|6
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match and legacy==
+[[File:A.C. Milan lifting the European Cup after winning the 2002–03 UEFA Champions League - 20030528.jpg|thumb|Milan celebrate their sixth European Cup title]]
+
+Juventus collected their third defeat in the competition under Lippi's management. Juventus was criticised for being to be too dependent on Nedvěd, which struggled in his absence,<ref>{{Cite web |url=http://www.gazzetta.it/statics/speciali/champions_league/2003/finale/primipiani/pp_1.0.41782857.html|title=Juve, tutti i perché del k.o.|publisher=Gazzetta dello Sport|archiveurl=https://web.archive.org/web/20150924170437/http://www.gazzetta.it/statics/speciali/champions_league/2003/finale/primipiani/pp_1.0.41782857.html|archivedate=24 September 2015|language=Italian}}</ref> as well as for Lippi's tactical choices.<ref>{{Cite web |url=http://www.corriere.it/Primo_Piano/Sport/2003/05_Maggio/30/lippi.shtml |title=Lippi: «Se non vinco la Champions me ne vado»|publisher=Corriere dello Sport|date=30 May 2003 |language=Italian}}</ref>
+
+The teams would again meet in a feature final several months later in the [[2003 Supercoppa Italiana]] in the [[United States]]. The game again required penalties to determine the winners, this time, however, Juventus came out on top.
+
+On 28 May 2023, the 20th anniversary of this final, both teams coincidentally met on the penultimate matchday of their [[Serie A]] domestic league, with Milan once again prevailing over Juventus in a 1–0 away victory in Turin.<ref>{{cite web | url=https://www.skysports.com/football/juventus-vs-ac-milan/470263 | title=Live Commentary - Juventus vs AC Milan &#124; 28.05.2023 }}</ref> Out of all players and technical staff from both teams that were also present 20 years ago, only [[Paolo Maldini]] was still involved with his club as a technical director at the time, shortly before his resignation in early June. Ironically, [[Pavel Nedvěd]], suspended for the 2003 final through accumulation of yellow cards, had also been suspended from his executive duties at Juventus for 8 months in January 2023 due to his club's involvement in violations of [[financial fair play]], and therefore could not attend the game.<ref>{{cite web | url=https://www.cbssports.com/soccer/news/juventus-penalized-15-points-from-serie-a-standings-11-execs-banned-for-mishandling-transfer-finances/#:~:text=Juventus%20have%20been%20handed%20a,(FIGC)%20announced%20on%20Friday | title=Juventus penalized 15 points from Serie a standings; 11 execs banned for mishandling transfer finances | date=20 January 2023 }}</ref>
+
+==See also==
+*[[2003 UEFA Cup final]]
+*[[2003 UEFA Super Cup]]
+*[[2003 Intercontinental Cup]]
+*[[2003 UEFA Women's Cup final]]
+*[[2002–03 AC Milan season]]
+*[[2002–03 Juventus FC season]]
+*[[AC Milan in international football]]
+*[[Italian football clubs in international competitions]]
+*[[Juventus FC–AC Milan rivalry]]
+*[[Juventus FC in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20030608221319/http://www.uefa.com/competitions/UCL/Final2003/FixturesResults/Round%3D1640/Match%3D1045288/index.html Official Site] (Archived)
+{{commons category}}
+{{UEFA Champions League seasons}}
+{{2002–03 in European football (UEFA)}}
+{{Juventus F.C. matches}}
+{{A.C. Milan matches}}
+
+{{DEFAULTSORT:2003 Uefa Champions League final}}
+[[Category:2002–03 UEFA Champions League|Final]]
+[[Category:AC Milan matches|UEFA Champions League final]]
+[[Category:Juventus FC matches|UEFA Champions League final]]
+[[Category:Sport in Trafford|UEFA Champions League final]]
+[[Category:UEFA Champions League finals]]
+[[Category:Men's football finals in England|UEFA Champions League final]]
+[[Category:2002–03 in Italian football|Final]]
+[[Category:2002–03 in English men's football|Champ]]
+[[Category:May 2003 sports events in the United Kingdom|UEFA Champions League final]]
+[[Category:Football matches in Manchester]]
+[[Category:Italian football clubs in international competitions]]
+[[Category:2003 in sport in Manchester|UEFA Champions League final]]

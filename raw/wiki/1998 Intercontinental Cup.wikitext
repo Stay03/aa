@@ -1,0 +1,224 @@
+{{Use dmy dates|date=April 2020}}
+{{Infobox football match
+|              title = 1998 Intercontinental Cup
+| image = ToyotaCup1998.jpg
+|            caption = Match programme cover
+|              team1 = [[Real Madrid CF|Real Madrid]]
+|   team1association = {{flagicon|ESP|size=30px}}
+|         team1score = 2
+|              team2 = [[CR Vasco da Gama|Vasco da Gama]]
+|   team2association = {{flagicon|BRA|size=30px}}
+|         team2score = 1
+|               date = 1 December 1998
+|            stadium = [[National Stadium (Tokyo, 1958)|National Stadium]]
+|               city = [[Tokyo]]
+| man_of_the_match1a = [[Raúl (footballer)|Raúl]] (Real Madrid)
+|            referee = [[Mario Sánchez Yantén]] ([[Football Federation of Chile|Chile]])
+|         attendance = 51,514
+|            weather = Clear night<br />{{convert|14.6|°C|°F}}<br />68% [[humidity]]
+|           previous = [[1997 Intercontinental Cup|1997]]
+|               next = [[1999 Intercontinental Cup|1999]]
+}}
+The '''1998 Intercontinental Cup''' was an [[association football]] match played on 1 December 1998 between [[Real Madrid CF|Real Madrid]], winners of the [[1997–98 UEFA Champions League]], and [[CR Vasco da Gama|Vasco da Gama]], winners of the [[1998 Copa Libertadores]]. The match was played at a neutral venue, the [[National Stadium (Tokyo, 1958)|National Stadium]] in [[Tokyo]], in front of 51,514 fans. Real Madrid forward [[Raúl (footballer)|Raúl]] was named as [[man of the match]].<ref>{{cite web|first=Marcelo |last=Leme de Arruda |title=Toyota Cup – Most Valuable Player of the Match Award |url=https://www.rsssf.org/tablest/toyotamvp.html |publisher=[[Rec.Sport.Soccer Statistics Foundation|RSSSF]] |date=2 January 2009 |access-date=12 January 2009 |archive-url=https://web.archive.org/web/20081224143201/http://www.rsssf.com/tablest/toyotamvp.html |archive-date=24 December 2008 |url-status=live }}</ref><ref>{{cite news |title=1998: Raúl the difference for Madrid |url=http://www.uefa.com/news/newsid=734840.html |archive-url=https://web.archive.org/web/20141222160129/http://www.uefa.com/news/newsid=734840.html |url-status=dead |archive-date=22 December 2014 |work=[[UEFA]] |publisher=Union of European Football Associations |date=1 December 1998 |access-date=14 October 2014}}</ref> Raul's game winning goal is widely recognized as one of the best of his career, and became known as the "Gol del Aguanís".<ref>{{cite web |last1=Aguado |first1=José |title=20 años del aguanís, el gol más increíble de Raúl |url=https://www.larazon.es/deportes/futbol/20-anos-del-aguanis-el-gol-mas-increible-de-raul-DD20767488/ |website=La Razon |publisher=La Razon |access-date=9 August 2022}}</ref>
+
+==Venue==
+[[File:Yamazaki-nabisco-Cup final 2004.jpg|thumb|left|300px|The [[National Stadium (Tokyo, 1958)|National Stadium]] in [[Tokyo]] hosted the match]]
+{{Clear}}
+
+==Match==
+===Details===
+{{football box
+|date = 1 December 1998
+|time = 19:10 [[Japan Standard Time|JST]]
+|team1 = [[Real Madrid CF|Real Madrid]] {{flagicon|ESP}}
+|score = 2–1
+|team2 = {{flagicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|report = https://www.uefa.com/uefachampionsleague/match/56040/
+|goals1 = [[Nasa (footballer, born 1968)|Nasa]] {{goal|25|o.g.}}<br />[[Raúl (footballer)|Raúl]] {{goal|83}}
+|goals2 = [[Juninho Pernambucano|Juninho]] {{goal|56}}
+|stadium = [[National Stadium (Tokyo, 1958)|National Stadium]], [[Tokyo]]
+|attendance = 51,514
+|referee = [[Mario Sánchez Yantén]] ([[Football Federation of Chile|Chile]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rmcf9899h
+ | pattern_b  = _real9899home
+ | pattern_ra = _rmcf9899h
+ | pattern_sh = _rmcf9899h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|{{Football kit
+ | pattern_la = _vasco98a
+ | pattern_b  = _vasco98a
+ | pattern_ra = _vasco98a
+ | pattern_sh = _vasco98h
+ | pattern_so = _vasco98hl
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Vasco da Gama
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Bodo Illgner]]
+|-
+|RB ||'''2''' ||{{flagicon|ITA}} [[Christian Panucci]]
+|-
+|CB ||'''5''' ||{{flagicon|ESP}} [[Manolo Sanchís]] ([[Captain (association football)|c]])
+|-
+|CB ||'''19'''||{{flagicon|ESP}} [[Fernando Sanz]] || {{yel|73}}
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Roberto Carlos]] || {{yel|19}}
+|-
+|DM ||'''6''' ||{{flagicon|ARG}} [[Fernando Redondo]]
+|-
+|DM ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]]
+|-
+|CM ||'''10'''||{{flagicon|NED}} [[Clarence Seedorf]] || {{yel|44}}
+|-
+|RF ||'''8''' ||{{flagicon|FRY}} [[Predrag Mijatović]] || || {{suboff|86}}
+|-
+|CF ||'''7''' ||{{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+|-
+|LF ||'''11'''||{{flagicon|BRA}} [[Sávio (footballer, born 1974)|Sávio]] || || {{suboff|90}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Eduardo Almansa]]
+|-
+|DF ||'''12'''||{{flagicon|ESP}} [[Iván Campo]]
+|-
+|DF ||'''17'''||{{flagicon|CRO}} [[Robert Jarni]] || || {{subon|86}}
+|-
+|DF ||'''20'''||{{flagicon|ESP}} [[Roberto Rojas (Spanish footballer)|Roberto Rojas]]
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Guti]]
+|-
+|FW ||'''9''' ||{{flagicon|CRO}} [[Davor Šuker]] || || {{subon|90}}
+|-
+|FW ||'''15'''||{{flagicon|ESP}} [[Fernando Morientes]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|NED}} [[Guus Hiddink]]
+|}
+|valign="top"|[[File:Real Madrid vs Vasco da Gama 1998-12-01.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Carlos Germano]]
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Vágner (footballer, born 1973)|Vágner]] || || {{suboff|81}}
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Odvan]]
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[Mauro Galvão]] ([[Captain (association football)|c]])
+|-
+|LB ||'''6''' ||{{flagicon|BRA}} [[Felipe Jorge Loureiro|Felipe]]
+|-
+|DM ||'''11'''||{{flagicon|BRA}} [[Nasa (footballer, born 1968)|Nasa]] || {{yel|28}}
+|-
+|DM ||'''5''' ||{{flagicon|BRA}} [[Luisinho (footballer, born 1965)|Luisinho]] || {{yel|37}} || {{suboff|86}}
+|-
+|AM ||'''8''' ||{{flagicon|BRA}} [[Juninho Pernambucano|Juninho]]
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Ramon Menezes]] || || {{suboff|89}}
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Luizão (footballer, born 1975)|Luizão]] || {{yel|75}}
+|-
+|CF ||'''7''' ||{{flagicon|BRA}} [[Donizete Pantera|Donizete]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|BRA}} [[Márcio Fernandez Cazorla|Márcio]]
+|-
+|DF ||'''15'''||{{flagicon|BRA}} [[Alex Sandro Pinho|Alex Pinho]]
+|-
+|DF ||'''17'''||{{flagicon|BRA}} [[Válber Roel de Oliveira|Válber]] || || {{subon|89}}
+|-
+|DF ||'''31'''||{{flagicon|BRA}} [[Claudemir Vítor|Vítor]] || || {{subon|81}}
+|-
+|MF ||'''18'''||{{flagicon|BRA}} [[Nélson Domingues de Araújo|Nélson]]
+|-
+|FW ||'''20'''||{{flagicon|BRA}} [[Maurício Poggi Villela|Mauricinho]]
+|-
+|FW ||'''23'''||{{flagicon|BRA}} [[Guilherme de Cássio Alves|Guilherme]] || || {{subon|86}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA}} [[Antônio Lopes]]
+|}
+|}
+{| style="width:100%; font-size:90%"
+|
+'''Man of the Match:'''
+<br />{{flagicon|ESP}} [[Raúl (footballer)|Raúl]] (Real Madrid)<ref>[https://web.archive.org/web/20010513122633/http://toyotacup.com/html/history/19/g_ef.html Toyota Cup]</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />{{flagicon|MAS}} Halim Abdul Hamid ([[Football Association of Malaysia|Malaysia]])
+<br />{{flagicon|JPN|1947}} Keiji Kamiara ([[Japan Football Association|Japan]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />{{flagicon|JPN|1947}} Hiroyuki Umemoto ([[Japan Football Association|Japan]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes.
+*Maximum of three substitutions.
+|}
+
+==See also==
+*[[1997–98 UEFA Champions League]]
+*[[1998 Copa Libertadores]]
+*[[Real Madrid CF in international football competitions]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080702021743/http://www.fifa.com/classicfootball/clubs/matchreport/newsid%3D512289.html FIFA Article] (Archived)
+*[http://www.conmebol.com/articulos_ver.jsp?id=3593&slangab=S Copa Europea/Sudamericana - Toyota: Real Madrid 2 - Vasco da Gama 1], [[CONMEBOL]].com
+
+{{Intercontinental Cup (football)}}
+{{Real Madrid CF matches}}
+{{CR Vasco da Gama matches}}
+
+[[Category:1998–99 in European men's continental football|Intercontinental Cup]]
+[[Category:1998 in South American men's continental football|Intercontinental Cup]]
+[[Category:1998 in Japanese football|Intercontinental Cup]]
+[[Category:Intercontinental Cup (1960–2004)|1998]]
+[[Category:Real Madrid CF matches|Intercontinental Cup 1998]]
+[[Category:CR Vasco da Gama matches|Intercontinental Cup 1998]]
+[[Category:Intercontinental Cup (football) matches hosted by Japan]]
+[[Category:1998–99 in Spanish football|Intercontinental Cup]]
+[[Category:1998 in Brazilian football|Intercontinental Cup]]
+[[Category:December 1998 sports events in Japan]]
+[[Category:Football competitions in Tokyo]]
+[[Category:1998 in Tokyo]]
+[[Category:Brazil–Spain sports relations]]
+[[Category:1998 in association football]]
+[[Category:1998 in men's international association football|Intercontinental]]
+
+
+{{Footy-competition-stub}}

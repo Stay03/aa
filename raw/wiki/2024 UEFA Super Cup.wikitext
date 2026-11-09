@@ -1,0 +1,435 @@
+{{EngvarB|date=August 2024}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox football match
+| title              = 2024 UEFA Super Cup
+| image              = 2024 UEFA Super Cup programme.png
+| image_size         = frameless
+| caption            = Match programme cover
+| team1              = [[Real Madrid CF|Real Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 2
+| team2              = [[Atalanta BC|Atalanta]]
+| team2association   = {{fbaicon|ITA|size=30px}}
+| team2score         = 0
+| details            =
+| date               = {{Start date|2024|8|14|df=y}}
+| stadium            = [[Kazimierz Górski National Stadium|National Stadium]]
+| city               = [[Warsaw]]
+| man_of_the_match1a = [[Jude Bellingham]] {{nowrap|(Real Madrid)}}<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefasupercup/news/0290-1b9cbd4ef83d-8d6bf0c5163b-1000/ |title=Jude Bellingham named 2024 UEFA Super Cup Player of the Match |website=UEFA.com|publisher=Union of European Football Associations |date=14 August 2024 |access-date=14 August 2024}}</ref>
+| referee            = [[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])<ref name="referees">{{cite web |url=https://www.uefa.com/uefasupercup/news/028f-1b759144e2a9-4199716bf51c-1000/ |title=Sandro Schärer to referee the 2024 UEFA Super Cup |website=UEFA.com|publisher=Union of European Football Associations |date=26 July 2024 |access-date=26 July 2024}}</ref>
+| attendance         = 56,042<ref name="full_time"/>
+| weather            = Clear night<br />{{convert|25|°C|°F}}<br />34% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2024/2040798_LU.pdf |title=Tactical line-ups |website=UEFA.com|publisher=Union of European Football Associations |date=14 August 2024 |access-date=14 August 2024}}</ref>
+| previous           = [[2023 UEFA Super Cup|2023]]
+| next               = [[2025 UEFA Super Cup|2025]]
+}}
+The '''2024 UEFA Super Cup''' was the 49th edition of the [[UEFA Super Cup]], an annual [[association football|football]] match organised by [[UEFA]] and contested by the reigning champions of the top two European club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. It was played at the [[Kazimierz Górski National Stadium|National Stadium]] in Warsaw, Poland, on 14 August 2024. It was contested by Spanish club [[Real Madrid CF|Real Madrid]], winners of the [[2023–24 UEFA Champions League]], and Italian club [[Atalanta BC|Atalanta]], winners of the [[2023–24 UEFA Europa League]].
+
+Real Madrid won the match 2–0 for their sixth UEFA Super Cup title.<ref>{{cite web |url=https://www.uefa.com/uefasupercup/news/0290-1b9cb774481e-880cbe608abf-1000/ |title=Real Madrid 2–0 Atalanta: Mbappé scores as Los Blancos claim record sixth Super Cup |website=UEFA.com|publisher=Union of European Football Associations |date=14 August 2024 |access-date=14 August 2024}}</ref> In doing so, they became the most successful club in the competition's history, breaking a three-way tie of five victories each along with [[FC Barcelona|Barcelona]] and [[AC Milan|Milan]].<ref>{{cite web|url= https://www.uefa.com/uefasupercup/news/0290-1b91bd733bd1-4c0eaadd398e-1000--real-madrid-vs-atalanta-super-cup-preview-where-to-watch-ki/|title=Real Madrid vs Atalanta Super Cup preview: Where to watch, kick-off time, line-ups|date=13 August 2024|website=UEFA.com|publisher=Union of European Football Associations|access-date=14 August 2024}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participations<br>(bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|Winners of the [[2023–24 UEFA Champions League]]
+|8 ([[1998 UEFA Super Cup|1998]], [[2000 UEFA Super Cup|2000]], '''[[2002 UEFA Super Cup|2002]]''', '''[[2014 UEFA Super Cup|2014]]''', '''[[2016 UEFA Super Cup|2016]]''', '''[[2017 UEFA Super Cup|2017]]''', [[2018 UEFA Super Cup|2018]], '''[[2022 UEFA Super Cup|2022]]''')
+|-
+|{{fbaicon|ITA}} [[Atalanta BC|Atalanta]]
+|Winners of the [[2023–24 UEFA Europa League]]
+|None
+|}
+
+==Venue==
+[[File:Warsaw National Stadium before Germany - Italy (6).jpg|thumb|275px|The [[Kazimierz Górski National Stadium|National Stadium]] in [[Warsaw]] hosted the match.]]
+
+===Host selection===
+The [[Kazimierz Górski National Stadium|National Stadium]] in Warsaw, Poland, was selected to host the match at the meeting of the UEFA Executive Committee in Limassol, Cyprus, on 26 September 2023.<ref>{{cite news |title=Warsaw to host 2024 UEFA Super Cup |url=https://www.uefa.com/news-media/news/0285-191247fad23e-824e6cf31d48-1000--warsaw-to-host-2024-uefa-super-cup/ |website=UEFA.com|publisher=Union of European Football Associations |date=26 September 2023 |access-date=27 September 2023 }}</ref> The stadium was built for the [[UEFA Euro 2012]] tournament in Poland and Ukraine, where it hosted three [[UEFA Euro 2012 Group A|Group A]] matches, a quarter-final and a semi-final. It has since hosted the [[2015 UEFA Europa League final]], as well as being the usual venue for home matches of the [[Poland national football team]]. It has a UEFA capacity of 58,274 seats.<ref>{{cite news |title=2024 Super Cup to be held at National Stadium in Warsaw |url=https://www.uefa.com/uefasupercup/news/0285-191255d5e199-e8f0e59bb889-1000--warsaw-to-host-2024-super-cup/ |website=UEFA.com|publisher=Union of European Football Associations |date=26 September 2023 |access-date=27 September 2023 }}</ref>
+
+==Pre-match==
+
+===Officials===
+On 26 July 2024, UEFA appointed Swiss official [[Sandro Schärer]] as referee for the match. Schärer has been a FIFA referee since 2015. He was joined by compatriots Stéphane De Almeida and Jonas Erni as assistant referees, while Mykola Balakin of Ukraine acted as fourth official. Germany's [[Bastian Dankert]] had been selected as the video assistant referee (VAR), with Switzerland's [[Fedayi San]] and Dankert's fellow countrymen [[Christian Dingert]] serving as the assistant VAR officials.<ref name="referees"/>
+
+==Match==
+===Summary===
+After a goalless first half, in the 59th minute [[Vinícius Júnior]] got in on the left and cut-back low from the byline for [[Federico Valverde]] to score from close range into an empty net to put Real Madrid into the lead.<ref>{{cite web|url=https://www.bbc.com/sport/football/live/c77ljv4e5z5t#Report|title=Real Madrid 2 Atalanta 0|date=14 August 2024|work=BBC Sport|accessdate=20 August 2024}}</ref>
+In the 68th minute, [[Kylian Mbappé]] scored on his Real Madrid debut to make it 2–0 when he shot right-footed into the top right corner of the net from twelve yards out after a low pass from [[Jude Bellingham]] from the left.<ref>{{cite web|url= https://www.theguardian.com/football/article/2024/aug/14/kylian-mbappe-scores-on-debut-as-real-madrid-beat-atalanta-in-super-cup|title=Kylian Mbappé scores on debut as Real Madrid beat Atalanta in Uefa Super Cup|date=14 August 2024|work=Guardian|accessdate=20 August 2024}}</ref>
+
+===Details===
+The Champions League winners were designated as the "home" team for administrative purposes.
+
+<onlyinclude>{{Football box
+|date         = 14 August 2024
+|time         = {{CEST|21:00}}
+|team1        = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score        = 2–0
+|report       = https://www.uefa.com/uefasupercup/match/2040798/
+|team2        = {{fbaicon|ITA}} [[Atalanta BC|Atalanta]]
+|goals1       =
+*[[Federico Valverde|Valverde]] {{goal|59}}
+*[[Kylian Mbappé|Mbappé]] {{goal|68}}
+|goals2       =
+|stadium      = [[Kazimierz Górski National Stadium|National Stadium]], [[Warsaw]]
+|attendance   = 56,042<ref name="full_time">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2024/2040798_FR.pdf |title=Full Time Report Final – Real Madrid v Atalanta |website=UEFA.com|publisher=Union of European Football Associations |date=14 August 2024 |access-date=14 August 2024}}</ref>
+|referee      = [[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _realmadrid2425h
+ |pattern_b  = _realmadrid2425H
+ |pattern_ra = _realmadrid2425h
+ |pattern_sh = _realmadrid2425h
+ |pattern_so = _realmadrid2425hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Real Madrid}}<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _atalanta2425H
+ |pattern_b  = _atalanta2425H
+ |pattern_ra = _atalanta2425H
+ |pattern_sh = _atalanta2425h
+ |pattern_so = _atalanta2021C
+ |leftarm    = 0060F0
+ |body       = 0060F0
+ |rightarm   = 0060F0
+ |shorts     = 000000
+ |socks      = 000000
+ |title      = Atalanta<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BEL}} [[Thibaut Courtois]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Dani Carvajal]] ([[Captain (association football)|c]]) || || {{suboff|88}}
+|-
+|CB ||'''3''' ||{{flagicon|BRA}} [[Éder Militão]]
+|-
+|CB ||'''22'''||{{flagicon|GER}} [[Antonio Rüdiger]]
+|-
+|LB ||'''23'''||{{flagicon|FRA}} [[Ferland Mendy]]
+|-
+|CM ||'''8''' ||{{flagicon|URU}} [[Federico Valverde]]
+|-
+|CM ||'''14'''||{{flagicon|FRA}} [[Aurélien Tchouaméni]]
+|-
+|RW ||'''11'''||{{flagicon|BRA}} [[Rodrygo]] || || {{suboff|76}}
+|-
+|AM ||'''5''' ||{{flagicon|ENG}} [[Jude Bellingham]] || {{yel|35}} || {{suboff|88}}
+|-
+|LW ||'''7''' ||{{flagicon|BRA}} [[Vinícius Júnior]] || {{yel|42}} || {{suboff|88}}
+|-
+|CF ||'''9''' ||{{flagicon|FRA}} [[Kylian Mbappé]] || || {{suboff|83}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|UKR}} [[Andriy Lunin]]
+|-
+|GK ||'''26'''||{{flagicon|ESP}} [[Fran González (footballer, born 2005)|Fran González]]
+|-
+|DF ||'''18'''||{{flagicon|ESP}} [[Jesús Vallejo]]
+|-
+|DF ||'''20'''||{{flagicon|ESP}} [[Fran García (footballer, born 1999)|Fran García]]
+|-
+|DF ||'''31'''||{{flagicon|ESP}} [[Jacobo Ramón]]
+|-
+|MF ||'''6''' ||{{flagicon|FRA}} [[Eduardo Camavinga]]
+|-
+|MF ||'''10'''||{{flagicon|CRO}} [[Luka Modrić]] || || {{subon|76}}
+|-
+|MF ||'''15'''||{{flagicon|TUR}} [[Arda Güler]] || || {{subon|88}}
+|-
+|MF ||'''17'''||{{flagicon|ESP}} [[Lucas Vázquez]] || || {{subon|88}}
+|-
+|MF ||'''19'''||{{flagicon|ESP}} [[Dani Ceballos]] || || {{subon|88}}
+|-
+|MF ||'''21'''||{{flagicon|MAR}} [[Brahim Díaz]] || || {{subon|83}}
+|-
+|FW ||'''16'''||{{flagicon|BRA}} [[Endrick (footballer, born 2006)|Endrick]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Carlo Ancelotti]]
+|}
+|valign="top"|[[File:Real Madrid vs Atalanta 2024-08-14.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Juan Musso]]
+|-
+|CB ||'''19'''||{{flagicon|ALB}} [[Berat Djimsiti]] || {{yel|64}}
+|-
+|CB ||'''4''' ||{{flagicon|SWE}} [[Isak Hien]] || || {{suboff|90}}
+|-
+|CB ||'''23'''||{{flagicon|BIH}} [[Sead Kolašinac]] || || {{suboff|71}}
+|-
+|RM ||'''77'''||{{flagicon|ITA}} [[Davide Zappacosta]] || || {{suboff|62}}
+|-
+|CM ||'''15'''||{{flagicon|NED}} [[Marten de Roon]] ([[Captain (association football)|c]])
+|-
+|CM ||'''13'''||{{flagicon|BRA}} [[Éderson (footballer, born 1999)|Éderson]] || {{yel|9}}
+|-
+|LM ||'''22'''||{{flagicon|ITA}} [[Matteo Ruggeri]]
+|-
+|AM ||'''8''' ||{{flagicon|CRO}} [[Mario Pašalić]] || || {{suboff|90}}
+|-
+|CF ||'''17'''||{{flagicon|BEL}} [[Charles De Ketelaere]] || || {{suboff|62}}
+|-
+|CF ||'''11'''||{{flagicon|NGA}} [[Ademola Lookman]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''29'''||{{flagicon|ITA}} [[Marco Carnesecchi]]
+|-
+|GK ||'''31'''||{{flagicon|ITA}} [[Francesco Rossi (footballer, born 1991)|Francesco Rossi]]
+|-
+|DF ||'''5''' ||{{flagicon|ENG}} [[Ben Godfrey]] || || {{subon|62}}
+|-
+|DF ||'''20'''||{{flagicon|NED}} [[Mitchel Bakker]] || || {{subon|71}}
+|-
+|DF ||'''27'''||{{flagicon|ITA}} [[Marco Palestra]] || || {{subon|90}}
+|-
+|DF ||'''40'''||{{flagicon|ITA}} [[Pietro Comi]]
+|-
+|DF ||'''41'''||{{flagicon|ITA}} [[Pietro Tornaghi]]
+|-
+|MF ||'''6''' ||{{flagicon|GHA}} [[Ibrahim Sulemana (footballer, born 2003)|Ibrahim Sulemana]]
+|-
+|MF ||'''25'''||{{flagicon|ITA}} [[Federico Cassa]]
+|-
+|MF ||'''44'''||{{flagicon|ITA}} [[Alberto Manzoni]] || || {{subon|90}}
+|-
+|FW ||'''32'''||{{flagicon|ITA}} [[Mateo Retegui]] || || {{subon|62}}
+|-
+|FW ||'''45'''||{{flagicon|ITA}} [[Dominic Vavassori]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Gian Piero Gasperini]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Jude Bellingham]] (Real Madrid)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Stéphane De Almeida ([[Swiss Football Association|Switzerland]])
+<br />Jonas Erni ([[Swiss Football Association|Switzerland]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referees"/>
+<br />[[Mykola Balakin]] ([[Ukrainian Association of Football|Ukraine]])
+<br />'''[[Video assistant referee]]:'''<ref name="referees"/>
+<br />[[Bastian Dankert]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''<ref name="referees"/>
+<br />[[Fedayi San]] ([[Swiss Football Association|Switzerland]])
+<br />[[Christian Dingert]] ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+{{Match rules
+|ref               = <ref>{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Super-Cup-2024-Online |title=Regulations of the UEFA Super Cup (2024–27 Cycle): 2024 |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2024 |access-date=14 August 2024 |url-status=live |archive-url=https://web.archive.org/web/20240814181124/https://documents.uefa.com/api/khub/maps/gAqIk5CCLJta_rCDjA8rqw/attachments/6Ak8yK65XRncE56tQ2waIQ/content |archive-date=14 August 2024}}</ref>
+|penalties         = y
+|named subs        = 12
+|subs allowed      = 5
+|sub opportunities = y
+}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2024/2040798_TS.pdf |title=Team statistics |website=UEFA.com|publisher=Union of European Football Associations |date=14 August 2024 |access-date=14 August 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Atalanta
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|3
+|2
+|-
+!scope=row|Shots on target
+|0
+|0
+|-
+!scope=row|Saves
+|0
+|0
+|-
+!scope=row|Ball possession
+|56%
+|44%
+|-
+!scope=row|Corner kicks
+|1
+|1
+|-
+!scope=row|Fouls committed
+|8
+|11
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Atalanta
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|10
+|5
+|-
+!scope=row|Shots on target
+|6
+|1
+|-
+!scope=row|Saves
+|1
+|4
+|-
+!scope=row|Ball possession
+|49%
+|51%
+|-
+!scope=row|Corner kicks
+|4
+|1
+|-
+!scope=row|Fouls committed
+|4
+|8
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Atalanta
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|13
+|7
+|-
+!scope=row|Shots on target
+|6
+|1
+|-
+!scope=row|Saves
+|1
+|4
+|-
+!scope=row|Ball possession
+|53%
+|47%
+|-
+!scope=row|Corner kicks
+|5
+|2
+|-
+!scope=row|Fouls committed
+|12
+|19
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also== 
+* [[2024 UEFA Champions League final]] 
+* [[2024 UEFA Europa League final]] 
+* [[2024–25 UEFA Champions League]] 
+* [[2024–25 UEFA Europa League]]
+* [[2024–25 Atalanta BC season]] 
+* [[2024–25 Real Madrid CF season]]
+* [[Atalanta BC in European football]] 
+* [[Real Madrid CF in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefasupercup/}}
+
+{{UEFA Super Cup}}
+{{2024–25 in European football (UEFA)}}
+{{2024–25 European club competitions}}
+{{Real Madrid CF matches}}
+{{Atalanta BC matches}}
+
+{{DEFAULTSORT:UEFA Super Cup}}
+[[Category:UEFA Super Cup matches|2024]]
+[[Category:2024–25 in European men's continental football|Super Cup]]
+[[Category:2024–25 in Polish football]]
+[[Category:2024–25 in Spanish men's football]]
+[[Category:2024–25 in Italian football]]
+[[Category:Real Madrid CF matches]]
+[[Category:Atalanta BC matches]]
+[[Category:August 2024 sports events in Poland]]
+[[Category:2020s in Warsaw]]
+[[Category:Football competitions in Warsaw|2024]]
+[[Category:Italy–Spain sports relations]]
+[[Category:Football matches in Poland]]

@@ -1,0 +1,540 @@
+{{Use dmy dates|date=September 2020}}
+{{Infobox football match
+| title              = 2020 UEFA Super Cup
+| image              = 2020 UEFA Super Cup programme.jpg
+| image_size         = frameless
+| caption            = Match programme cover
+| team1              = [[FC Bayern Munich|Bayern Munich]]
+| team1association   = {{fbaicon|GER|size=30px}}
+| team1score         = 2
+| team2              = [[Sevilla FC|Sevilla]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 1
+| details            = After [[Overtime (sports)#Association football|extra time]]
+| date               = {{Start date|2020|9|24|df=y}}
+| stadium            = [[Puskás Aréna]]
+| city               = [[Budapest]]
+| man_of_the_match1a = [[Thomas Müller]] {{nowrap|(Bayern Munich)}}<ref name="postmatch report">{{cite news |url=https://www.uefa.com/uefasupercup/news/0261-1074396bfc42-94e9a1874231-1000--bayern-win-super-cup-javi-martinez-heads-extra-time-winner-/ |title=Bayern win Super Cup: Javi Martínez heads extra-time winner against Sevilla |website=[[UEFA]] |publisher=Union of European Football Associations |date=24 September 2020 |access-date=24 September 2020}}</ref>
+| referee            = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])<ref name="officials"/>
+| attendance         = 15,180<ref name="full_time"/>
+| weather            = Partly cloudy night<br />{{convert|20|°C|°F}}<br />60% [[humidity]]<ref name="lineup">{{cite web |title=Tactical line-ups |url=https://www.uefa.com/newsfiles/SuperCup/2020/2029141_LU.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=24 September 2020 |access-date=24 September 2020}}</ref>
+| previous           = [[2019 UEFA Super Cup|2019]]
+| next               = [[2021 UEFA Super Cup|2021]]
+}}
+The '''2020 UEFA Super Cup''' was the 45th edition of the [[UEFA Super Cup]], an annual [[association football|football]] match organised by [[UEFA]] and contested by the reigning champions of the two main European club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. The match featured German club [[FC Bayern Munich|Bayern Munich]], the winners of the [[2019–20 UEFA Champions League]], and Spanish club [[Sevilla FC|Sevilla]], the winners of the [[2019–20 UEFA Europa League]]. It was played at the [[Puskás Aréna]] in [[Budapest]], Hungary on 24 September 2020.<ref>{{cite web |url=https://www.uefa.com/uefasupercup/news/0260-102fcd8c4e57-abcb663b424c-1000/ |title=2020 Super Cup: all you need to know |publisher=[[UEFA]] |date=23 August 2020}}</ref>
+
+The match was originally scheduled to be played at the [[Estádio do Dragão]] in [[Porto]], Portugal, on 12 August 2020.<ref name="venue">{{cite news |date=24 May 2018 |title=Istanbul to host 2020 UEFA Champions League Final |website=[[UEFA]] |publisher=Union of European Football Associations |url=https://www.uefa.com/news-media/news/0245-0f8e60d11f0f-78765b792753-1000--istanbul-to-host-2020-uefa-champions-league-final/|access-date=24 May 2018}}</ref><ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0255-0e99f55a0652-b0b5d7df3d8c-1000--2020-21-uefa-champions-league-match-calendar/ |title=2020/21 UEFA Champions League match calendar |publisher=Union of European Football Associations |date=24 September 2019}}</ref> However, after the [[COVID-19 pandemic in Europe]] caused the postponements of the previous season's club finals, the UEFA Executive Committee chose to award the rescheduled [[2020 UEFA Champions League Final|Champions League final]] to Portugal, and postponed and relocated the Super Cup to Budapest.<ref name="ExCo 17 June">{{cite news |url=https://www.uefa.com/news-media/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/ |title=UEFA competitions to resume in August |website=[[UEFA]] |publisher=Union of European Football Associations |date=17 June 2020 |access-date=17 June 2020}}</ref><ref>{{cite web |url=https://www.uefa.com/uefasupercup/news/025e-0fac982802ff-19c8a84af8c0-1000--super-cup-moved-to-budapest/ |title=2020 UEFA Super Cup: new date and venue |publisher=[[UEFA]] |date=17 June 2020}}</ref>
+
+Following discussions with its 55 member associations on 19 August 2020,<ref>{{cite news |url=https://www.uefa.com/news-media/news/0260-102b2c2ace44-637fb4a08f89-1000--uefa-meets-general-secretaries/ |title=UEFA meets general secretaries of member associations |website=[[UEFA]] |publisher=Union of European Football Associations |date=19 August 2020 |access-date=19 August 2020}}</ref> the UEFA Executive Committee decided on 25 August 2020 to use the 2020 UEFA Super Cup as a pilot match for which a reduced number of spectators, up to 30% of the capacity of the stadium, can be allowed in, and it became the first official UEFA match to have spectators since their competitions were resumed in August 2020.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0260-103712e48c82-4059778ef426-1000--uefa-super-cup-to-test-partial-return-of-spectators/ |title=UEFA Super Cup to test partial return of spectators |website=[[UEFA]] |publisher=Union of European Football Associations |date=25 August 2020 |access-date=25 August 2020}}</ref>
+
+Bayern Munich won the match 2–1 [[Overtime (sports)#Association football|after extra time]] to secure their second UEFA Super Cup title.<ref name="postmatch report"/>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participations (bold indicates winners)
+|-
+|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|Winners of the [[2019–20 UEFA Champions League]]
+|4 ([[1975 European Super Cup|1975]], [[1976 European Super Cup|1976]], [[2001 UEFA Super Cup|2001]], '''[[2013 UEFA Super Cup|2013]]''')
+|-
+|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|Winners of the [[2019–20 UEFA Europa League]]
+|5 ('''[[2006 UEFA Super Cup|2006]]''', [[2007 UEFA Super Cup|2007]], [[2014 UEFA Super Cup|2014]], [[2015 UEFA Super Cup|2015]], [[2016 UEFA Super Cup|2016]])
+|}
+
+==Venue==
+[[File:Puskás Aréna 01.jpg|alt=|thumb|275x275px|The [[Puskás Aréna]] in [[Budapest]] hosted the match.]]
+
+The [[Estádio do Dragão]] was scheduled to stage its first ever UEFA Super Cup match. It had hosted the [[UEFA Euro 2004]] and the [[2019 UEFA Nations League Final]]. The city of [[Porto]] and Portugal as a whole, however, had seen one Super Cup match before in [[1987 European Super Cup|1987]], as the now-demolished [[Estádio das Antas]] hosted the second leg.
+
+This was the first UEFA club competition final hosted at the [[Puskás Aréna]] and the second for [[Budapest]] and Hungary, having hosted the [[2019 UEFA Women's Champions League Final]] at the [[Groupama Arena]]. Prior to the relocation, the stadium had been selected as one of the hosts for the [[UEFA Euro 2020]] as well as hosting the [[2022 UEFA Europa League Final]],<ref>{{cite news |url=https://www.uefa.com/news-media/news/025a-0f8e7599aae5-eab7d48ee1f2-1000--uefa-executive-committee-agenda-for-amsterdam-meeting/ |title=UEFA Executive Committee agenda for Amsterdam meeting |website=[[UEFA]] |publisher=Union of European Football Associations |date=27 February 2020 |access-date=27 February 2020}}</ref> before being rescheduled to [[2023 UEFA Europa League Final|2023]].<ref name="ExCo 17 June"/><ref>{{cite web |url=https://www.uefa.com/uefasupercup/news/0261-105efeafe368-6013a89b1748-1000--bayern-vs-sevilla-uefa-super-cup-preview-where-to-watch-team/ |title=Bayern vs Sevilla UEFA Super Cup preview: where to watch, team news |date=23 September 2020 |work=[[UEFA]] |access-date=24 September 2020}}</ref>
+
+===Original host selection===
+An open bidding process was launched on 8 December 2017 by UEFA to select the venue of the UEFA Super Cup in 2020. Associations had until 12 January 2018 to express interest, and bid dossiers had to be submitted by 29 March 2018. Associations hosting matches at [[UEFA Euro 2020]] were not allowed to bid for the 2020 UEFA Super Cup.
+
+UEFA announced on 15 January 2018 that nine associations had expressed interest in hosting the 2020 UEFA Super Cup.<ref>{{cite web |date=15 January 2018 |title=Nine associations interested in hosting 2020 UEFA Super Cup |url=https://www.uefa.com/uefasupercup/news/0250-0c511a1a8888-db0f3fd55e35-1000--nine-associations-interested-in-hosting-2020-uefa-super-cup/|website=[[UEFA]] |publisher=Union of European Football Associations}}</ref>
+
+{| class="wikitable sortable"
+|+Bidding associations for 2020 UEFA Super Cup
+|-
+! Country !! Stadium !! City !! Capacity !! Notes
+|-
+| {{fba|Albania}} || [[Arena Kombëtare]] || [[Tirana]] || 22,500 ||
+|-
+| {{fba|Belarus}} || [[Dinamo Stadium (Minsk)|Dinamo Stadium]] || [[Minsk]] || 22,000 ||
+|-
+| {{fba|Finland}} || [[Helsinki Olympic Stadium|Olympic Stadium]] || [[Helsinki]] || 36,000 ||
+|-
+| {{fba|France}} || [[Allianz Riviera]] || [[Nice]] || 35,624 ||
+|-
+| {{fba|Israel}} || [[Sammy Ofer Stadium]] || [[Haifa]] || 30,870 ||
+|-
+| {{fba|Kazakhstan}} || [[Almaty Central Stadium|Central Stadium]] || [[Almaty]] || 23,804 ||
+|-
+| {{fba|Moldova}} || [[Zimbru Stadium]] || [[Chișinău]] || 10,400 || Withdrew, did not submit bid<ref>{{cite news |url=http://fmf.md/ro/news/supercupa-europei-uefa-0 |title=Supercupa Europei |language=ro |website=fmf.md|access-date=20 May 2018|archive-url=https://web.archive.org/web/20180813020008/http://fmf.md/ro/news/supercupa-europei-uefa-0|archive-date=13 August 2018|url-status=dead}}</ref>
+|-
+| {{fba|Northern Ireland}} || [[Windsor Park]] || [[Belfast]] || 18,434 ||
+|- bgcolor=#ccffcc
+| {{fba|Portugal}} || [[Estádio do Dragão]] || [[Porto]] || 50,033 || Also bid for [[2020 UEFA Europa League Final]]
+|}
+
+The [[Estádio do Dragão]] was selected by the UEFA Executive Committee during their meeting in [[Kyiv]] on 24 May 2018.<ref>{{cite web |date=8 May 2018 |title=UEFA Executive Committee agenda for Kyiv meeting |url=https://www.uefa.com/news-media/news/0245-0f8e603ea9eb-32460bb75cf2-1000--uefa-executive-committee-agenda-for-kyiv-meeting/|website=[[UEFA]] |publisher=Union of European Football Associations}}</ref><ref name="venue"/>
+
+===Relocation to Budapest===
+As a result of the [[COVID-19 pandemic in Europe]], the previous season's club finals were postponed and relocated. This includes the [[2020 UEFA Champions League Final]], which the UEFA Executive Committee moved to the [[Estádio do Dragão]] in [[Porto]] on 17 June 2020. At the same time, UEFA postponed and relocated the Super Cup from the Estádio do Dragão to the [[Puskás Aréna]] in [[Budapest]].<ref name="ExCo 17 June"/>
+
+==Pre-match==
+
+===Ticketing===
+Tickets were on sale for the general public until 9 September 2020.<ref>{{cite web |url=https://www.uefa.com/uefasupercup/news/0261-1053064aa854-a1592f832670-1000--super-cup-tickets-on-sale/ |title=Super Cup tickets on sale: apply before Wednesday deadline |publisher=[[UEFA]] |date=7 September 2020}}</ref> Moreover, 3,000 tickets were available for the supporters of each team. In total, 15,500 tickets were sold.<ref>{{cite web|url=https://www.uefa.com/news-media/news/0261-10735cb08dbd-62041a47bb3c-1000--safety-message-for-super-cup-fans/|title=UEFA Super Cup: fans must comply with special measures to protect health|publisher=[[UEFA]]|date=24 September 2020}}</ref> Strict hygiene measures, including social distancing and wearing of face masks when social distancing could not be respected, were in place during the match. Ticket holders from overseas had to present proof of a negative [[Severe acute respiratory syndrome coronavirus 2|SARS-CoV-2]] [[COVID-19 testing|PCR test]] performed within three days of entry, and had to leave the country within 72 hours after their entry.
+
+Despite [[Government of Hungary|Hungarian government]] insisting that the match would be safe to attend, there was opposition to the decision to have spectators. Hungarian politician Ildikó Borbély called the game an "unacceptable experiment", while [[List of Ministers-President of Bavaria|Minister President of Bavaria]] [[Markus Söder]] urged Bayern fans not to travel, fearing that the match could turn into a "hotbed for [[COVID-19]] to spread". Hungarian Medical Chamber advisor, [[Epidemiology|epidemiologist]] András Csilek, stated that the Chamber also considered it wrong, saying that it "carries unnecessary risk adding" and "shouldn't be allowed".<ref>{{Cite news |title=Fans at Super Cup in Hungary 'safe' |language=en-GB |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/54270055|access-date=23 September 2020}}</ref>
+
+===Officials===
+On 15 September 2020, UEFA named English official [[Anthony Taylor (referee)|Anthony Taylor]] as the referee for the match. Taylor had been a [[FIFA International Referees List|FIFA referee]] since 2013, and previously worked as one of the [[Assistant referee (association football)#Additional assistant referee|additional assistant referees]] in the [[2014 UEFA Super Cup]], [[2015 UEFA Europa League Final]], [[2016 UEFA Champions League Final]] and [[UEFA Euro 2016 Final]]. He was joined by his fellow countrymen, with Gary Beswick and Adam Nunn as assistant referees, [[Stuart Attwell]] as the [[video assistant referee]] (VAR) and [[Paul Tierney (referee)|Paul Tierney]] as the assistant VAR. Israeli referee [[Orel Grinfeld]] served as the fourth official.<ref name="officials">{{cite news |url=https://www.uefa.com/uefasupercup/news/0261-1060f62078f8-06953e10bb08-1000/ |title=Anthony Taylor to referee 2020 UEFA Super Cup |website=[[UEFA]] |publisher=Union of European Football Associations |date=15 September 2020 |access-date=15 September 2020}}</ref>
+
+==Match==
+
+===Summary===
+Sevilla were awarded a penalty after 13 minutes when [[Ivan Rakitić]] was blocked and bundled over in the penalty area by [[David Alaba]]. [[Lucas Ocampos]] scored the penalty shooting to the left corner to put Sevilla ahead. [[Leon Goretzka]] made it 1–1 in the 34th minute, with a side foot finish to the left corner of the net after a take down assist from [[Robert Lewandowski]].<ref>{{cite web|url= https://www.theguardian.com/football/2020/sep/24/bayern-munich-sevilla-super-cup-match-report|title = Javi Martínez's extra-time header wins Super Cup for Bayern against Sevilla|date= 24 September 2020 |work=Guardian|access-date=25 September 2020}}</ref>	
+The game went into [[Overtime (sports)#Association football|extra time]], with substitute [[Javi Martínez]] getting the winner for Bayern in the 104th minute with a powerful header to the top left corner of the net when the ball fell to him, after Sevilla goalkeeper [[Yassine Bounou]] had punched the ball back into play.<ref>{{cite web|url= https://www.bbc.com/sport/football/54270055|title = Bayern Munich 2 Sevilla 1|date= 24 September 2020 |work=BBC Sport|access-date=25 September 2020}}</ref>
+
+===Details===
+The Champions League winners were designated as the "home" team for administrative purposes.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2020|9|24|df=y}}
+|time       = {{CEST|21:00}}
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{fbaicon|GER}}
+|score      = 2–1
+|aet        = yes
+|team2      = {{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+*[[Leon Goretzka|Goretzka]] {{goal|34}}
+*[[Javi Martínez|Martínez]] {{goal|104}}
+|goals2     =
+*[[Lucas Ocampos|Ocampos]] {{goal|13|pen.}}
+|stadium    = [[Puskás Aréna]], [[Budapest]]
+|attendance = 15,180<ref name="full_time">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2020/2029141_FR.pdf |title=Full Time Report Final – Bayern Munich v Sevilla |website=[[UEFA]] |publisher=Union of European Football Associations |date=24 September 2020 |access-date=24 September 2020}}</ref>
+|referee    = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefasupercup/match/2029141/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bayern2021h
+ |pattern_b  = _fcbm2021h
+ |pattern_ra = _bayern2021h
+ |pattern_sh = _adidascondivo20rw
+ |pattern_so = _3_stripes_white
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = {{nowrap|Bayern Munich}}<ref name="lineup"/>
+}}
+|{{Football kit
+ |pattern_la = _redborder
+ |pattern_b  = _sevilla2021H
+ |pattern_ra = _redborder
+ |pattern_sh = _spartak1718a
+ |pattern_so = _fcsm2021a
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 000000
+ |title      = Sevilla<ref name="lineup"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Manuel Neuer]] ([[Captain (association football)|c]])
+|-
+|RB ||'''5''' ||{{flagicon|FRA}} [[Benjamin Pavard]]
+|-
+|CB ||'''21'''||{{flagicon|FRA}} [[Lucas Hernandez]] || {{yel|90+1}} || {{suboff|99}}
+|-
+|CB ||'''4''' ||{{flagicon|GER}} [[Niklas Süle]]
+|-
+|LB ||'''27'''||{{flagicon|AUT}} [[David Alaba]] || {{yel|12}} || {{suboff|112}}
+|-
+|CM ||'''18'''||{{flagicon|GER}} [[Leon Goretzka]] || || {{suboff|99}}
+|-
+|CM ||'''6''' ||{{flagicon|GER}} [[Joshua Kimmich]]
+|-
+|RW ||'''7''' ||{{flagicon|GER}} [[Serge Gnabry]]
+|
+|
+|-
+|AM ||'''25'''||{{flagicon|GER}} [[Thomas Müller]]
+|-
+|LW ||'''10'''||{{flagicon|GER}} [[Leroy Sané]] || || {{suboff|70}}
+|-
+|CF ||'''9''' ||{{flagicon|POL}} [[Robert Lewandowski]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''26'''||{{flagicon|GER}} [[Sven Ulreich]]
+|-
+|GK ||'''35'''||{{flagicon|GER}} [[Alexander Nübel]]
+|-
+|DF ||'''17'''||{{flagicon|GER}} [[Jérôme Boateng]] || || {{subon|112}}
+|-
+|DF ||'''41'''||{{flagicon|USA}} [[Chris Richards (soccer)|Chris Richards]]
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Javi Martínez]] || || {{subon|99}}
+|-
+|MF ||'''11'''||{{flagicon|FRA}} [[Michaël Cuisance]]
+|-
+|MF ||'''19'''||{{flagicon|CAN}} [[Alphonso Davies]] || || {{subon|99}}
+|-
+|MF ||'''24'''||{{flagicon|FRA}} [[Corentin Tolisso]] || || {{subon|70}}
+|-
+|MF ||'''30'''||{{flagicon|GER}} [[Adrian Fein]]
+|-
+|MF ||'''40'''||{{flagicon|GER}} [[Malik Tillman]]
+|-
+|MF ||'''42'''||{{flagicon|ENG<!--Did not declare for Germany at the time of the match-->}} [[Jamal Musiala]]
+|-
+|FW ||'''14'''||{{flagicon|NED}} [[Joshua Zirkzee]]
+|-
+|colspan=3|'''Other disciplinary actions:'''
+|-
+|{{abbr|TS|Technical staff member (sporting director)}} ||colspan=2|{{flagicon|BIH}} [[Hasan Salihamidžić]]<ref name="kicker">{{cite news |url=https://www.kicker.de/bayern-gegen-fc-sevilla-2020-uefa-supercup-4651922/analyse |title=Joker Javi Martinez köpft Bayern zum Supercup |trans-title=Super-sub Javi Martinez heads Bayern to the Super Cup |work=[[Kicker (sports magazine)|kicker]] |date=24 September 2020 |access-date=24 September 2020 |language=de}}</ref> || {{yel|64}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Hansi Flick]]
+|}
+|valign="top"|[[File:Bayern Munich vs Sevilla 2020-09-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|MAR}} [[Yassine Bounou]]
+|-
+|RB ||'''16'''||{{flagicon|ESP}} [[Jesús Navas]] ([[Captain (association football)|c]])
+|-
+|CB ||'''20'''||{{flagicon|BRA}} [[Diego Carlos (footballer, born 1993)|Diego Carlos]]
+|-
+|CB ||'''12'''||{{flagicon|FRA}} [[Jules Koundé]] || {{yel|55}}
+|-
+|LB ||'''18'''||{{flagicon|ESP}} [[Sergio Escudero (footballer, born 1989)|Sergio Escudero]] || {{yel|119}}
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Joan Jordán]] || {{yel|45+1}} || {{suboff|94}}
+|-
+|CM ||'''25'''||{{flagicon|BRA}} [[Fernando (footballer, born 1987)|Fernando]] || {{yel|70}}
+|-
+|CM ||'''10'''||{{flagicon|CRO}} [[Ivan Rakitić]] || || {{suboff|56}}
+|-
+|RF ||'''7''' ||{{flagicon|ESP}} [[Suso (footballer)|Suso]] || || {{suboff|73}}
+|-
+|CF ||'''9''' ||{{flagicon|NED}} [[Luuk de Jong]] || || {{suboff|56}}
+|-
+|LF ||'''5''' ||{{flagicon|ARG}} [[Lucas Ocampos]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|CZE}} [[Tomáš Vaclík]]
+|-
+|GK ||'''31'''||{{flagicon|ESP}} [[Javi Díaz]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Sergi Gómez]]
+|-
+|MF ||'''6''' ||{{flagicon|SRB}} [[Nemanja Gudelj]] || || {{subon|73}}
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Óscar Rodríguez (footballer, born 1998)|Óscar]]
+|-
+|MF ||'''19'''||{{flagicon|ARG}} [[Marcos Acuña]]
+|-
+|MF ||'''21'''||{{flagicon|ESP}} [[Óliver Torres]] || || {{subon|56}}
+|-
+|MF ||'''22'''||{{flagicon|ARG}} [[Franco Vázquez]] || || {{subon|94}}
+|-
+|FW ||'''11'''||{{flagicon|ESP}} [[Munir El Haddadi|Munir]]
+|-
+|FW ||'''15'''||{{flagicon|MAR}} [[Youssef En-Nesyri]] || || {{subon|56}}
+|-
+|FW ||'''24'''||{{flagicon|ESP}} [[Carlos Fernández (footballer, born 1996)|Carlos Fernández]]
+|-
+|FW ||'''29'''||{{flagicon|ESP}} [[Bryan Gil]]
+|-
+|colspan=3|'''Other disciplinary actions:'''
+|-
+|{{abbr|TS|Technical staff member (assistant manager)}} ||colspan=2|{{flagicon|ESP}} [[Pablo Sanz (footballer, born 1973)|Pablo Sanz]]<ref name="kicker"/> || {{yel|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Julen Lopetegui]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br>[[Thomas Müller]] (Bayern Munich)<ref name="postmatch report"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Gary Beswick ([[The Football Association|England]])
+<br />Adam Nunn ([[The Football Association|England]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Orel Grinfeld]] ([[Israel Football Association|Israel]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Stuart Attwell]] ([[The Football Association|England]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />[[Paul Tierney (referee)|Paul Tierney]] ([[The Football Association|England]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref>{{cite web |url=https://documents.uefa.com/reader/ZxvJJTTK8NKyPDpJXbY7Xg/root |title=Regulations of the UEFA Super Cup: 2020 |website=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |year=2020 |access-date=25 August 2020 |url-status=live |archive-url=https://web.archive.org/web/20200825201158/https://documents.uefa.com/internal/api/webapp/maps/ZxvJJTTK8NKyPDpJXbY7Xg/attachments/t4KU6HiWg6wm_6toFOTGMw/content |archive-date=25 August 2020}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of three substitutions, with a fourth allowed in extra time
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team_statistics">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2020/2029141_TS.pdf |title=Team statistics |website=[[UEFA]] |publisher=Union of European Football Associations |date=24 September 2020 |access-date=24 September 2020 |url-status=live |archive-url=https://web.archive.org/web/20240617223011/https://www.uefa.com/newsfiles/SuperCup/2020/2029141_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Bayern Munich
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|7
+|1
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|0
+|1
+|-
+!scope=row|Ball possession
+|62%
+|38%
+|-
+!scope=row|Corner kicks
+|2
+|0
+|-
+!scope=row|Fouls committed
+|5
+|7
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Bayern Munich
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|8
+|3
+|-
+!scope=row|Shots on target
+|2
+|3
+|-
+!scope=row|Saves
+|3
+|2
+|-
+!scope=row|Ball possession
+|60%
+|40%
+|-
+!scope=row|Corner kicks
+|5
+|5
+|-
+!scope=row|Fouls committed
+|7
+|6
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|1
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Extra time<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Bayern Munich
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|10
+|2
+|-
+!scope=row|Shots on target
+|3
+|1
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|3
+|1
+|-
+!scope=row|Fouls committed
+|3
+|4
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-4}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team_statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Bayern Munich
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|2
+|1
+|-
+!scope=row|Total shots
+|25
+|6
+|-
+!scope=row|Shots on target
+|7
+|5
+|-
+!scope=row|Saves
+|4
+|5
+|-
+!scope=row|Ball possession
+|60%
+|40%
+|-
+!scope=row|Corner kicks
+|10
+|6
+|-
+!scope=row|Fouls committed
+|15
+|17
+|-
+!scope=row|Offsides
+|3
+|3
+|-
+!scope=row|Yellow cards
+|2
+|4
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2020 UEFA Champions League final]]
+*[[2020 UEFA Europa League final]]
+*[[2020–21 UEFA Champions League]]
+*[[2020–21 UEFA Europa League]]
+*[[2020–21 FC Bayern Munich season]]
+*[[2020–21 Sevilla FC season]]
+*[[FC Bayern Munich in international football]]
+*[[Sevilla FC in European football]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Official website|https://www.uefa.com/uefasupercup/}}
+
+{{UEFA Super Cup}}
+{{2020–21 in European football (UEFA)}}
+{{2020–21 European club competitions}}
+{{FC Bayern Munich matches}}
+{{Sevilla FC matches}}
+
+{{DEFAULTSORT:Uefa Super Cup 2020}}
+[[Category:UEFA Super Cup matches|2020]]
+[[Category:2020–21 in European men's continental football|Super Cup]]
+[[Category:September 2020 sports events in Europe]]
+[[Category:FC Bayern Munich matches]]
+[[Category:Sevilla FC matches]]
+[[Category:2020–21 in Spanish men's football]]
+[[Category:International sports competitions in Budapest|2020]]
+[[Category:Football matches in Hungary]]
+[[Category:2020s in Budapest]]
+[[Category:2020–21 in Hungarian football]]
+[[Category:Association football events postponed due to the COVID-19 pandemic]]
+[[Category:2020–21 in German football]]
+[[Category:Germany–Spain sports relations]]
+[[Category:Football in Budapest]]

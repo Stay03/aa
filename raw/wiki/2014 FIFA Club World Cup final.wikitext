@@ -1,0 +1,271 @@
+{{Use dmy dates|date=April 2019}}
+{{Infobox football match
+| title              = 2014 FIFA Club World Cup final
+| event              = [[2014 FIFA Club World Cup]]
+| image              = Stade de marrakech.jpg
+| caption            = The [[Stade de Marrakech]] staged the final
+| team1              = [[Real Madrid CF|Real Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 2
+| team2              = [[San Lorenzo de Almagro|San Lorenzo]]
+| team2association   = {{fbaicon|ARG|size=30px}}
+| team2score         = 0
+| date               = {{Start date|2014|12|20|df=y}}
+| stadium            = [[Stade de Marrakech]]
+| city               = [[Marrakesh]]
+| man_of_the_match1a = [[Sergio Ramos]] (Real Madrid)
+| referee            = [[Walter López Castellanos|Walter López]] ([[National Football Federation of Guatemala|Guatemala]])
+| attendance         = 38,345
+| weather            = Clear night<br />{{convert|18|°C|°F}}<br />59% [[humidity]]
+| previous           = [[2013 FIFA Club World Cup final|2013]]
+| next               = [[2015 FIFA Club World Cup final|2015]]
+}}
+The '''2014 FIFA Club World Cup final''' was the final match of the [[2014 FIFA Club World Cup]], a [[association football|football]] tournament hosted by [[Morocco]]. It was the 11th final of the [[FIFA Club World Cup]], a tournament organised by [[FIFA]] between the winners of the six continental confederations, as well as the host nation's league champions.
+
+The final was contested between Spanish club [[Real Madrid CF|Real Madrid]], representing [[UEFA]] as the reigning champions of the [[UEFA Champions League]], and Argentine club [[San Lorenzo de Almagro|San Lorenzo]], representing [[CONMEBOL]] as the reigning champions of the [[Copa Libertadores]]. It was played at the [[Stade de Marrakech]] in [[Marrakesh]] on 20 December 2014. The Spanish club won the match 2–0 and won their first FIFA Club World Cup title,<ref>{{cite web|url=https://www.fifa.com/clubworldcup/matches/round=259701/match=300298898/match-report.html|archive-url=https://web.archive.org/web/20141220234228/http://www.fifa.com/clubworldcup/matches/round=259701/match=300298898/match-report.html|url-status=dead|archive-date=20 December 2014|work=FIFA|title=Real Madrid coast to Morocco 2014 title|access-date=20 December 2014}}</ref> and their fourth world club title counting the 1960, 1998 and 2002 Intercontinental Cups, equalling [[A.C. Milan|Milan]]'s record.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2014/m=12/news=real-madrid-turn-their-winning-run-into-a-world-title-2495659.html|archive-url=https://web.archive.org/web/20141222031533/http://www.fifa.com//clubworldcup/news/y=2014/m=12/news=real-madrid-turn-their-winning-run-into-a-world-title-2495659.html|url-status=dead|archive-date=22 December 2014|work=FIFA|title=Real Madrid turn winning run into a world title|access-date=21 December 2014|quote=In terms of making history, Real, who have now equalled Milan's record of four World and Intercontinental Cup wins, ...}}<br/>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/025a-0ea6e105e132-ed9adc68e1ac-1000--real-madrid-claim-fifa-club-world-cup/|work=UEFA|title=Real Madrid claim FIFA Club World Cup|access-date=20 December 2014|quote=Madrid equal AC Milan's record of four world club titles, having both also lifted the old European-South American Cup three times before clinching the successor trophy, each under Carlo Ancelotti.}}</ref>
+
+==Background==
+
+===Real Madrid===
+[[Real Madrid C.F.|Real Madrid]] qualified for the tournament as winners of the [[2013–14 UEFA Champions League]], following a 4–1 extra time win against [[Atlético Madrid]] in the [[2014 UEFA Champions League Final|final]]. This was Real Madrid's second time competing in the tournament, after finishing fourth in the inaugural tournament in [[2000 FIFA Club World Championship|2000]]. They have played five times in the [[Intercontinental Cup (1960–2004)|Intercontinental Cup]], the predecessor of the FIFA Club World Cup, with three wins ([[1960 Intercontinental Cup|1960]], [[1998 Intercontinental Cup|1998]], [[2002 Intercontinental Cup|2002]]) and two losses ([[1966 Intercontinental Cup|1966]], [[2000 Intercontinental Cup|2000]]). They reached the final after defeating Mexican club [[Cruz Azul]] in the semi-finals.
+
+===San Lorenzo===
+[[San Lorenzo de Almagro|San Lorenzo]] qualified for the tournament as winners of the [[2014 Copa Libertadores]], following a 2–1 aggregate win against [[Club Nacional|Nacional]] in the [[2014 Copa Libertadores Finals|final]]. This was San Lorenzo's first time competing in the tournament. They reached the final after defeating New Zealand club [[Auckland City FC|Auckland City]] in the semi-finals.
+
+==Route to the final==
+{| class="wikitable"
+|-
+!width=350|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+!Team
+!width=350|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|-
+|align=center|[[UEFA]]
+!Confederation
+|align=center|[[CONMEBOL]]
+|-
+|align=center|Winners of the [[2013–14 UEFA Champions League]]
+!Qualification
+|align=center|Winners of the [[2014 Copa Libertadores]]
+|-
+|align=center|Bye
+![[2014 FIFA Club World Cup#Play-off for quarter-finals|Play-off round]]
+|align=center|Bye
+|-
+|align=center|Bye
+![[2014 FIFA Club World Cup#Quarter-finals|Quarter-finals]]
+|align=center|Bye
+|-
+|align=center|'''4–0''' {{fbaicon|MEX}} [[Cruz Azul]]<br />([[Sergio Ramos|Ramos]] 15', [[Karim Benzema|Benzema]] 36', [[Gareth Bale|Bale]] 50', [[Isco]] 72')
+![[2014 FIFA Club World Cup#Semi-finals|Semi-finals]]
+|align=center|'''2–1 ([[Extra time (association football)|a.e.t.]])''' {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]<br />([[Pablo Barrientos|Barrientos]] 45+2', [[Mauro Matos|Matos]] 93')
+|}
+
+== Match details ==
+<onlyinclude>{{Football box
+|date=20 December 2014
+|time=19:30 <noinclude>[[UTC±00:00|UTC±0]]</noinclude>
+|team1=[[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score=2–0
+|report=https://www.fifa.com/en/match-centre/match/107/259689/259701/300298898
+|team2={{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|goals1=
+*[[Sergio Ramos|Ramos]] {{goal|37}}
+*[[Gareth Bale|Bale]] {{goal|51}}
+|goals2=
+|stadium=[[Stade de Marrakech]], [[Marrakesh]]
+|attendance=38,345
+|referee=[[Walter López Castellanos|Walter López]] ([[National Football Federation of Guatemala|Guatemala]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rmcf1415h
+ | pattern_b  = _realmadrid1415home
+ | pattern_ra = _rmcf1415h
+ | pattern_sh = _rmcf1415h
+ | pattern_so = _rmcf1415h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|{{Football kit
+ | pattern_la = _sl14h
+ | pattern_b  = _sl2014h
+ | pattern_ra = _sl14h
+ | pattern_sh = _sl14h
+ | pattern_so = _slorenzo1415h
+ | leftarm    = 000088
+ | body       = 000088
+ | rightarm   = 000088
+ | shorts     = 000088
+ | socks      = 172442
+ | title      = San Lorenzo
+}}
+|}
+
+{| style="width:100%"
+|style="vertical-align:top;width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+|RB ||'''15'''||{{flagicon|ESP}} [[Dani Carvajal]] || {{yel|30}} || {{suboff|73}}
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Sergio Ramos]] || {{yel|22}} || {{suboff|89}}
+|-
+|CB ||'''3''' ||{{flagicon|POR}} [[Pepe (footballer, born 1983)|Pepe]]
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]] || || {{suboff|44}}
+|-
+|CM ||'''23'''||{{flagicon|ESP}} [[Isco]]
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]]
+|-
+|RM ||'''11'''||{{flagicon|WAL}} [[Gareth Bale]]
+|-
+|LM ||'''10'''||{{flagicon|COL}} [[James Rodríguez]]
+|-
+|CF ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Karim Benzema]]
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|CRC}} [[Keylor Navas]]
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Fernando Pacheco Flores|Fernando Pacheco]]
+|-
+|DF ||'''2''' ||{{flagicon|FRA|1974}} [[Raphaël Varane]] || || {{subon|89}}
+|-
+|DF ||'''5''' ||{{flagicon|POR}} [[Fábio Coentrão]] || || {{subon|44}}
+|-
+|MF ||'''6''' ||{{flagicon|GER}} [[Sami Khedira]]
+|-
+|FW ||'''14'''||{{flagicon|MEX}} [[Javier Hernández]]
+|-
+|DF ||'''17'''||{{flagicon|ESP}} [[Álvaro Arbeloa]] || || {{subon|73}}
+|-
+|DF ||'''18'''||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]]
+|-
+|FW ||'''20'''||{{flagicon|ESP}} [[Jesé]]
+|-
+|MF ||'''24'''||{{flagicon|ESP}} [[Asier Illarramendi]]
+|-
+|MF ||'''26'''||{{flagicon|ESP}} [[Álvaro Medrán]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|ITA}} [[Carlo Ancelotti]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''12'''||{{flagicon|ARG}} [[Sebastián Torrico]]
+|-
+|RB ||'''7''' ||{{flagicon|ARG}} [[Julio Buffarini]] || {{yel|55}}
+|-
+|CB ||'''14'''||{{flagicon|ARG}} [[Walter Kannemann]] || {{yel|85}}
+|-
+|CB ||'''3''' ||{{flagicon|COL}} [[Mario Yepes]] || || {{suboff|61}}
+|-
+|LB ||'''21'''||{{flagicon|ARG}} [[Emmanuel Más]]
+|-
+|DM ||'''20'''||{{flagicon|PAR}} [[Néstor Ortigoza]] || {{yel|12}}
+|-
+|DM ||'''5''' ||{{flagicon|ARG}} [[Juan Ignacio Mercier|Juan Mercier]] ([[Captain (association football)|c]])
+|-
+|CM ||'''8''' ||{{flagicon|ARG}} [[Enzo Kalinski]]
+|-
+|RM ||'''30'''||{{flagicon|ARG}} [[Gonzalo Verón]] || || {{suboff|57}}
+|-
+|LM ||'''11'''||{{flagicon|ARG}} [[Pablo Barrientos]] || {{yel|16}}
+|-
+|CF ||'''9''' ||{{flagicon|URU}} [[Martín Cauteruccio]] || || {{suboff|68}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Leo Franco]]
+|-
+|GK ||'''33'''||{{flagicon|ARG}} [[José Devecchi]]
+|-
+|DF ||'''2''' ||{{flagicon|ARG}} [[Mauro Cetto]] || || {{subon|61}}
+|-
+|MF ||'''10'''||{{flagicon|ARG}} [[Leandro Romagnoli]] || || {{subon|57}}
+|-
+|DF ||'''13'''||{{flagicon|ARG}} [[Ramiro Arias]]
+|-
+|FW ||'''15'''||{{flagicon|ARG}} [[Héctor Villalba]]
+|-
+|FW ||'''22'''||{{flagicon|ARG}} [[Nicolás Blandi]]
+|-
+|MF ||'''24'''||{{flagicon|ARG}} [[Juan Cavallaro]]
+|-
+|FW ||'''26'''||{{flagicon|ARG}} [[Mauro Matos]] || || {{subon|68}}
+|-
+|DF ||'''27'''||{{flagicon|ARG}} [[Matías Catalán]]
+|-
+|DF ||'''29'''||{{flagicon|ARG}} [[Fabricio Fontanini]]
+|-
+|MF ||'''31'''||{{flagicon|ARG}} [[Facundo Quignon]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|ARG}} [[Edgardo Bauza]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Sergio Ramos]] (Real Madrid)<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2014/m=12/news=ramos-outshines-the-rest-2495409-2495436.html|archive-url=https://web.archive.org/web/20141221050123/http://www.fifa.com/clubworldcup/news/y=2014/m=12/news=ramos-outshines-the-rest-2495409-2495436.html|url-status=dead|archive-date=21 December 2014|title=Ramos outshines the rest|publisher=FIFA.com|date=20 December 2014}}</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Leonel Leal ([[Costa Rican Football Federation|Costa Rica]])
+<br />Gerson López ([[National Football Federation of Guatemala|Guatemala]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Noumandiez Doué]] ([[Ivorian Football Federation|Ivory Coast]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''
+<br />Songuifolo Yéo ([[Ivorian Football Federation|Ivory Coast]])
+|style="width:55%;vertical-align:top"|
+'''Match rules'''<ref name="regulations">{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/33/64/35/clubwc2014e_neutral.pdf|title=Regulations – FIFA Club World Cup Morocco 2014|publisher=FIFA|access-date=19 December 2014|archive-date=3 December 2014|archive-url=https://web.archive.org/web/20141203004255/http://resources.fifa.com/mm/document/tournament/competition/02/33/64/35/clubwc2014e_neutral.pdf|url-status=dead}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (association football)|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes, of which three may be used
+|}
+
+==See also==
+*[[Real Madrid CF in international football competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20150808204827/http://www.fifa.com/clubworldcup/archive/morocco2014/index.html FIFA Club World Cup Morocco 2014], FIFA.com
+
+{{FIFA Club World Cup}}
+{{Real Madrid C.F. matches}}
+{{San Lorenzo matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2014}}
+[[Category:2014 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2014]]
+[[Category:Real Madrid CF matches]]
+[[Category:San Lorenzo de Almagro matches]]
+[[Category:2014–15 in Spanish men's football]]
+[[Category:2014 in Argentine football|FIFA]]
+[[Category:Sports competitions in Marrakesh]]
+[[Category:21st century in Marrakesh]]
+[[Category:2014–15 in Moroccan football]]
+[[Category:December 2014 sports events in Africa]]
+[[Category:Men's association football finals in Africa]]
+[[Category:Argentina–Spain sports relations|2014]]

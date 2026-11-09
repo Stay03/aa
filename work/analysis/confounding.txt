@@ -1,0 +1,31 @@
+== referee_english x competition_type
+competition_type  European  domestic  world
+referee_english                            
+False                    2         0      1
+True                     0         2      0
+
+== referee_english x venue_category
+venue_category   Neutral venue abroad  Wembley (London)
+referee_english                                        
+False                               3                 0
+True                                0                 2
+
+== referee_english x has_foreign_opponent
+has_foreign_opponent  False  True 
+referee_english                   
+False                     0      3
+True                      2      0
+
+== var_in_use x era
+date        1996-2005  2006-2015
+var_in_use                      
+False               2          3
+
+== competition x var_in_use
+var_in_use              False
+competition                  
+Cup Winners' Cup            1
+Intercontinental Cup        1
+League Cup                  2
+UEFA Cup/Europa League      1
+

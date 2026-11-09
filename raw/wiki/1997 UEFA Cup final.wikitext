@@ -1,0 +1,440 @@
+{{Infobox football match
+| title            = 1997 UEFA Cup final
+| image            = [[File:1997 UEFA Cup Final programme.jpg|200px]]
+| caption          = Second leg match programme cover
+| event            = [[1996–97 UEFA Cup]]
+| team1            = [[FC Schalke 04|Schalke 04]]
+| team1association = {{flagicon|GER|size=30px}}
+| team1score       = 1
+| team2            = [[Inter Milan]]
+| team2association = {{flagicon|ITA|size=30px}}
+| team2score       = 1
+| details          = on aggregate<br />Schalke 04 won 4–1 on [[Penalty shoot-out (association football)|penalties]]
+| firstleg         = First leg
+| team1score1      = 1
+| team2score1      = 0
+| date1            = 7 May 1997
+| stadium1         = [[Parkstadion]]
+| city1            = [[Gelsenkirchen]]
+| referee1         = [[Marc Batta]] ([[France Football Association|France]])
+| attendance1      = 56,824
+| weather1         = 
+| secondleg        = Second leg
+| team1score2      = 0
+| team2score2      = 1
+| details2         = After [[golden goal]] [[Overtime (sports)#Association football|extra time]]
+| date2            = 21 May 1997
+| stadium2         = [[San Siro|Stadio Giuseppe Meazza]]
+| city2            = [[Milan]]
+| referee2         = [[José María García-Aranda]] ([[Royal Spanish Football Federation|Spain]])
+| attendance2      = 81,675
+| weather2         = 
+| previous         = [[1996 UEFA Cup final|1996]]
+| next             = [[1998 UEFA Cup final|1998]]
+}}
+The '''1997 UEFA Cup final''' was a two-legged football match contested between [[FC Schalke 04|Schalke 04]] of Germany and [[Inter Milan]] of Italy. The tie was a tight affair, with each leg being won 1–0 by the home-team. After 210 minutes of football, the tie was eventually settled on [[Penalty shoot-out (association football)|penalties]], with Schalke winning 4–1 at the [[San Siro|Stadio Giuseppe Meazza]]. It was to be the last UEFA Cup final to be played over two legs, future finals being one-off games at a neutral ground.
+
+==Route to the final==
+{{further|1996–97 UEFA Cup}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{flagicon|GER}} [[FC Schalke 04|Schalke 04]]
+!Round
+!colspan="4"|{{flagicon|ITA}} [[Inter Milan]]
+|- bgcolor=#c1e0ff
+|colspan="4"|'''[[1996–97 UEFA Cup|UEFA Cup]]'''
+|
+|colspan="4"|'''[[1996–97 UEFA Cup|UEFA Cup]]'''
+|- bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{flagicon|NED}} [[Roda JC Kerkrade|Roda]]
+|5–2
+|3–0 (H)
+|2–2 (A)
+|bgcolor=#c1e0ff|First round
+|align=left|{{flagicon|FRA|1974}} [[En Avant Guingamp|Guingamp]]
+|4–1
+|3–0 (A)
+|1–1 (H)
+|-
+|align=left|{{flagicon|TUR}} [[Trabzonspor]]
+|4–3
+|1–0 (H)
+|3–3 (A)
+|bgcolor=#c1e0ff|Second round
+|align=left|{{flagicon|AUT}} [[Grazer AK|GAK]]
+|1–1 ([[Penalty shoot-out (association football)|p]])
+|1–0 (H)
+|0–1 (A)
+|-
+|align=left|{{flagicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|3–2
+|1–2 (A)
+|2–0 (H)
+|bgcolor=#c1e0ff|Third round
+|align=left|{{flagicon|POR}} [[Boavista F.C.|Boavista]]
+|7–1
+|5–1 (H)
+|2–0 (A)
+|-
+|align=left|{{flagicon|ESP}} [[Valencia CF|Valencia]]
+|3–1
+|2–0 (H)
+|1–1 (A)
+|bgcolor=#c1e0ff|Quarter-finals
+|align=left|{{flagicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|3–2
+|1–1 (A)
+|2–1 (H)
+|-
+|align=left|{{flagicon|ESP}} [[CD Tenerife|Tenerife]] 
+|2–1
+|0–1 (A)
+|2–0 ([[Overtime (sports)#Association football|aet]]) (H)
+|bgcolor=#c1e0ff|Semi-finals
+|align=left|{{flagicon|FRA|1974}} [[AS Monaco FC|Monaco]]
+|3–2
+|3–1 (H)
+|0–1 (A)
+|}
+
+==Match==
+===Details===
+====First leg====
+{{football box
+|date = 7 May 1997
+|time = 20:45 [[Central European Summer Time|CEST]]
+|team1 = [[FC Schalke 04|Schalke 04]] {{flagicon|GER}}
+|score = 1–0
+|report = [https://www.uefa.com/uefaeuropaleague/match/53913--schalke-vs-inter/ Report]
+|team2 = {{flagicon|ITA}} [[Inter Milan]]
+|goals1 = [[Marc Wilmots|Wilmots]] {{goal|69}}
+|stadium = [[Parkstadion]], [[Gelsenkirchen]]
+|attendance = 56,824
+|referee = [[Marc Batta]] ([[French Football Federation|France]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_b  = _SCHALKE04_9697h
+ | pattern_sh = _SCHALKE04_9697
+ | pattern_so = _3_stripes_white
+ | leftarm    = 0000FF
+ | body       = FFFFFF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Schalke 04
+}}
+|{{Football kit
+ | pattern_la = _inter9697a
+ | pattern_b  = _inter9697a
+ | pattern_ra = _inter9697a
+ | pattern_sh = _inter199697a
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Internazionale
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Jens Lehmann]]
+|-
+|SW ||'''10'''||{{flagicon|GER}} [[Olaf Thon]] ([[Captain (association football)|c]])
+|-
+|CB ||'''25'''||{{flagicon|NED}} [[Johan de Kock]]
+|-
+|CB ||'''2''' ||{{flagicon|GER}} [[Thomas Linke]]
+|-
+|RWB||'''4''' ||{{flagicon|GER}} [[Yves Eigenrauch]]
+|-
+|LWB||'''19'''||{{flagicon|GER}} [[Mike Büskens]] || || {{suboff|66}}
+|-
+|CM ||'''20'''||{{flagicon|CZE}} [[Jiří Němec]]
+|-
+|CM ||'''6''' ||{{flagicon|GER}} [[Andreas Müller (footballer, born 1962)|Andreas Müller]]
+|-
+|CM ||'''3''' ||{{flagicon|CZE}} [[Radoslav Látal]]
+|-
+|AM ||'''8''' ||{{flagicon|GER}} [[Ingo Anderbrügge]]
+|-
+|CF ||'''24'''||{{flagicon|BEL}} [[Marc Wilmots]]
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|GER}} [[Mathias Schober]]
+|-
+|DF ||'''5''' ||{{flagicon|USA}} [[Thomas Dooley]]
+|-
+|DF ||'''21'''||{{flagicon|GER}} [[Marco Kurz]]
+|-
+|MF ||'''16'''||{{flagicon|GER}} [[Oliver Held]]
+|-
+|FW ||'''11'''||{{flagicon|GER}} [[Martin Max]] || || {{subon|66}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|NED}} [[Huub Stevens]]
+|}
+|valign="top"|[[File:Schalke 04-Internazionale 1997-05-07.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Gianluca Pagliuca]]
+|- 
+|SW ||'''7''' ||{{flagicon|ITA}} [[Salvatore Fresi]] || || {{suboff|61}}
+|-
+|RB ||'''2''' ||{{flagicon|ITA}} [[Giuseppe Bergomi]] ([[Captain (association football)|c]])
+|-
+|CB ||'''19'''||{{flagicon|ITA}} [[Massimo Paganin]]
+|-
+|CB ||'''5''' ||{{flagicon|ITA}} [[Fabio Galante]] || {{yel|14}}
+|-
+|LB ||'''3''' ||{{flagicon|ITA}} [[Alessandro Pistone]]
+|-
+|CM ||'''4''' ||{{flagicon|ARG}} [[Javier Zanetti]]
+|-
+|CM ||'''21'''||{{flagicon|SUI}} [[Ciriaco Sforza]]
+|-
+|CM ||'''14'''||{{flagicon|NED}} [[Aron Winter]]
+|-
+|CF ||'''23'''||{{flagicon|ITA}} [[Maurizio Ganz]]
+|-
+|CF ||'''9''' ||{{flagicon|CHI}} [[Iván Zamorano]]
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA}} [[Andrea Mazzantini]]
+|-
+|MF ||'''15'''||{{flagicon|ITA}} [[Sergio D'Autilia]]
+|-
+|MF ||'''16'''||{{flagicon|ITA}} [[Tiziano Polenghi]]
+|-
+|MF ||'''18'''||{{flagicon|ITA}} [[Nicola Berti]] || || {{subon|61}}
+|-
+|FW ||'''27'''||{{flagicon|ITA}} [[Marco Branca]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|ENG}} [[Roy Hodgson]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />{{flagicon|FRA|1974}} Pierre Ufrasi ([[French Football Federation|France]])
+<br />{{flagicon|FRA|1974}} Jacques Poudevigne ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />{{flagicon|FRA|1974}} [[Gilles Veissière]] ([[French Football Federation|France]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*Five named substitutes
+*Maximum of three substitutions
+|}
+
+====Second leg====
+{{football box
+|date = 21 May 1997
+|time = 20:45 [[Central European Summer Time|CEST]]
+|team1 = [[Inter Milan]] {{flagicon|ITA}}
+|score = 1–0
+|aet = yes
+|report = [https://www.uefa.com/uefaeuropaleague/match/53914--inter-vs-schalke/ Report]
+|team2 = {{flagicon|GER}} [[FC Schalke 04|Schalke 04]]
+|goals1 = [[Iván Zamorano|Zamorano]] {{goal|84}}
+|stadium = [[San Siro|Stadio Giuseppe Meazza]], [[Milan]]
+|attendance = 81,675
+|referee = [[José María García-Aranda]] ([[Royal Spanish Football Federation|Spain]])
+|penalties1 = [[Iván Zamorano|Zamorano]] {{penmiss}}<br />[[Youri Djorkaeff|Djorkaeff]] {{pengoal}}<br />[[Aron Winter|Winter]] {{penmiss}}
+|penaltyscore = 1–4
+|penalties2 = {{pengoal}} [[Ingo Anderbrügge|Anderbrügge]]<br />{{pengoal}} [[Olaf Thon|Thon]]<br />{{pengoal}} [[Martin Max|Max]]<br />{{pengoal}} [[Marc Wilmots|Wilmots]]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _inter9697h
+ | pattern_b  = _inter9697h
+ | pattern_ra = _inter9697h
+ | leftarm    = 3344CC
+ | body       = 3344CC
+ | rightarm   = 3344CC
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Internazionale
+}}
+|{{Football kit
+ | pattern_b  = _SCHALKE04_9697a
+ | pattern_sh = _SCHALKE04_9697
+ | pattern_so = _3_stripes_blue
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Schalke 04
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Gianluca Pagliuca]]
+|-
+|RB ||'''2''' ||{{flagicon|ITA}} [[Giuseppe Bergomi]] ([[Captain (association football)|c]]) || || {{suboff|70}}
+|-
+|CB ||'''19'''||{{flagicon|ITA}} [[Massimo Paganin]]
+|-
+|CB ||'''7''' ||{{flagicon|ITA}} [[Salvatore Fresi]] || {{sent off|2|20|89}}
+|-
+|LB ||'''3''' ||{{flagicon|ITA}} [[Alessandro Pistone]]
+|-
+|RM ||'''4''' ||{{flagicon|ARG}} [[Javier Zanetti]] || || {{suboff|119}}
+|- 
+|CM ||'''8''' ||{{flagicon|ENG}} [[Paul Ince]]
+|-
+|LM ||'''21'''||{{flagicon|SUI}} [[Ciriaco Sforza]] || || {{suboff|80}}
+|-
+|AM ||'''6''' ||{{flagicon|FRA|1974}} [[Youri Djorkaeff]] || {{yel|101}}
+|-
+|CF ||'''23'''||{{flagicon|ITA}} [[Maurizio Ganz]] || {{yel|2}}
+|-
+|CF ||'''9''' ||{{flagicon|CHI}} [[Iván Zamorano]] || {{yel|98}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA}} [[Andrea Mazzantini]]
+|-
+|DF ||'''20'''||{{flagicon|FRA|1974}} [[Jocelyn Angloma]] || || {{subon|70}}
+|-
+|MF ||'''14'''||{{flagicon|NED}} [[Aron Winter]] || || {{subon|80}}
+|-
+|MF ||'''15'''||{{flagicon|ITA}} [[Sergio D'Autilia]]
+|-
+|MF ||'''18'''||{{flagicon|ITA}} [[Nicola Berti]] || || {{subon|119}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|ENG}} [[Roy Hodgson]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Jens Lehmann]] || {{yel|58}}
+|-
+|SW ||'''10'''||{{flagicon|GER}} [[Olaf Thon]] ([[Captain (association football)|c]]) || {{yel|66}}
+|-
+|CB ||'''25'''||{{flagicon|NED}} [[Johan de Kock]]
+|-
+|CB ||'''2''' ||{{flagicon|GER}} [[Thomas Linke]]
+|-
+|RWB||'''3''' ||{{flagicon|CZE}} [[Radoslav Látal]] || {{yel|104}} || {{suboff|111}}
+|-
+|LWB||'''19'''||{{flagicon|GER}} [[Mike Büskens]]
+|-
+|CM||'''4''' ||{{flagicon|GER}} [[Yves Eigenrauch]] || {{yel|8}}
+|-
+|CM ||'''20'''||{{flagicon|CZE}} [[Jiří Němec]]
+|-
+|CM ||'''6''' ||{{flagicon|GER}} [[Andreas Müller (footballer, born 1962)|Andreas Müller]] || || {{suboff|97}}
+|-
+|CF ||'''11'''||{{flagicon|GER}} [[Martin Max]]
+|-
+|CF ||'''24'''||{{flagicon|BEL}} [[Marc Wilmots]] || {{yel|70}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|GER}} [[Mathias Schober]]
+|-
+|DF ||'''21'''||{{flagicon|GER}} [[Marco Kurz]]
+|-
+|MF ||'''8''' ||{{flagicon|GER}} [[Ingo Anderbrügge]] || || {{subon|97}}
+|-
+|MF ||'''16'''||{{flagicon|GER}} [[Oliver Held]] || || {{subon|111}}
+|-
+|FW ||'''14'''||{{flagicon|USA}} [[David Wagner (soccer)|David Wagner]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|NED}} [[Huub Stevens]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />{{flagicon|ESP}} Fernando Tresaco Gracia ([[Royal Spanish Football Federation|Spain]])
+<br />{{flagicon|ESP}} Manuel López Fernández ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />{{flagicon|ESP}} Victor José Esquinas Torres ([[Royal Spanish Football Federation|Spain]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Five named substitutes
+*Maximum of three substitutions
+|}
+
+==See also==
+*[[1997 UEFA Champions League final]]
+*[[1997 UEFA Cup Winners' Cup final]]
+*[[FC Schalke 04 in European football]]
+*[[Inter Milan in international football]]
+*[[1996–97 Inter Milan season]]
+*[[1996–97 FC Schalke 04 season]]
+
+==External links==
+*[https://web.archive.org/web/20110924062727/http://www.uefa.com/uefaeuropaleague/season=1996/index.html 1996–97 season] at UEFA.com
+
+{{UEFA Europa League seasons}}
+{{1996–97 in European football (UEFA)}}
+{{FC Schalke 04 matches}}
+{{Inter Milan matches}}
+
+{{DEFAULTSORT:Uefa Cup final 1997}}
+[[Category:1996–97 UEFA Cup|Final]]
+[[Category:Football finals in Germany]]
+[[Category:FC Schalke 04 matches]]
+[[Category:Inter Milan matches]]
+[[Category:UEFA Europa League finals|1997]]
+[[Category:1996–97 in German football]]
+[[Category:1996–97 in Italian football]]
+[[Category:1990s in Milan]]
+[[Category:May 1997 sports events in Europe]]
+[[Category:May 1997 sports events in Germany]]
+[[Category:Sports competitions in Gelsenkirchen]]
+[[Category:20th century in Gelsenkirchen]]
+[[Category:1990s in North Rhine-Westphalia]]
+[[Category:Football matches in Milan]]
+[[Category:Germany–Italy sports relations|1997]]
+[[Category:Football competitions in North Rhine-Westphalia]]

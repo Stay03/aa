@@ -1,0 +1,1138 @@
+{{Short description|European association football tournament}}
+{{Use dmy dates|date=June 2024}}
+{{Infobox football tournament
+|name = UEFA Conference League
+|logo = [[File:UEFA Conference League full logo (2024 version).svg|frameless|240px|class=skin-invert]]
+|organiser = [[UEFA]]
+|founded = {{Start date and age|2021}}<br />(rebranded in 2024)
+|region = Europe
+|number of teams = 36 (league phase)<br />184 (total)
+|qualifier for = [[UEFA Europa League]]
+|related comps = {{nowrap|[[UEFA Champions League]]<br />(1st tier)<br />UEFA Europa League<br />(2nd tier)}}
+|current champions = {{nowrap|{{fbaicon|ENG}} [[Crystal Palace F.C.|Crystal Palace]] (1st title)}}
+|most successful club = {{nowrap|{{nowrap|{{fbaicon|ITA}} [[AS Roma|Roma]]}}<br />{{nowrap|{{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]<br />{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]}}}}<br />{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]<br />{{fbaicon|ENG}} Crystal Palace<br />(1 title each)
+|website = {{Official URL}}
+|current = [[2026–27 UEFA Conference League]]
+}}
+
+The '''UEFA Conference League''' ('''UECL'''),{{efn|group=note|Despite the competition having been renamed from UEFA Europa Conference League to UEFA Conference League, the official abbreviation remains UECL, in order to disambiguate from the UEFA Champions League, which already uses "UCL" as an abbreviation.<ref>{{cite web |url=https://editorial.uefa.com/resources/028b-1a7880138a24-7a993e2e33d1-1000/20240322_circular_2024_13_en.pdf |title=Distribution to clubs from the UEFA Champions League, UEFA Europa League, UEFA Conference League and the UEFA Super Cup for the 2024–27 cycle (2024/25 season). Payments for the qualifying phases. Solidarity payments for non-participating clubs. |magazine=UEFA Circular Letter |number=13/2024 |publisher=Union of European Football Associations |date=22 March 2024 |access-date=28 August 2024 |quote=We are pleased to provide you with information about the distribution of commercial revenues from the 2024/25 UEFA Champions League (UCL), UEFA Europa League (UEL) and UEFA Conference League (UECL) and the 2024 UEFA Super Cup (SCUP). |archive-date=28 March 2024 |archive-url=https://web.archive.org/web/20240328091952/https://editorial.uefa.com/resources/028b-1a7880138a24-7a993e2e33d1-1000/20240322_circular_2024_13_en.pdf |url-status=live }}</ref>}} known simply as the '''Conference League''', is an annual [[association football|football]] competition organised since 2021 by the [[UEFA|Union of European Football Associations]] (UEFA) for eligible European clubs. It is the third-tier competition of [[UEFA club competitions|European club football]], ranking below the second-tier [[UEFA Europa League]], and the first-tier [[UEFA Champions League]].
+
+The competition was intended as the lowest level of the UEFA Europa League and named the ''UEFA Europa League 2'' as a working title.<ref>{{cite web |date=6 July 2021 |title=UEFA Europa Conference League: All you need to know |url=https://www.espn.com.au/football/story/_/id/37576934/all-need-know |access-date=17 September 2025 |website=ESPN |archive-date=10 September 2025 |archive-url=https://web.archive.org/web/20250910234459/https://www.espn.com.au/football/story/_/id/37576934/all-need-know |url-status=live }}</ref> It was then renamed to the '''UEFA Europa Conference League''', before its current name was adopted. Teams from lower-ranked UEFA member associations primarily contest the competition.<ref name="BBCannouncement">{{cite news |date=2 December 2018 |title='Europa League 2': Uefa confirms new tournament from 2021 |work=BBC Sport |url=https://www.bbc.com/sport/football/46421656 |url-status=live |access-date=2 December 2018 |archive-url=https://web.archive.org/web/20181208234948/https://www.bbc.co.uk/sport/football/46421656 |archive-date=8 December 2018}}</ref> From the [[2024–25 UEFA Conference League|2024–25 season]], the competition was rebranded to the UEFA Conference League, and the group stage was replaced with an expanded league phase of 36 teams. No teams qualify directly for the league phase; instead, the teams eliminated in the Europa League play-off round qualify, with the rest coming from the Conference League qualifying and play-off rounds. 
+
+The winner of the competition qualifies for the following season's [[UEFA Europa League]] league phase, unless qualified for the Champions League via their domestic league position.<ref name=uefa021218>{{cite press release |url=https://www.uefa.com/news-media/news/024c-0e9941616a90-f26bd21de788-1000--uefa-executive-committee-approves-new-club-competition/ |title=UEFA Executive Committee approves new club competition |website=UEFA.com|publisher=Union of European Football Associations |date=2 December 2018 |access-date=2 December 2018 |archive-date=13 May 2019 |archive-url=https://web.archive.org/web/20190513044147/https://www.uefa.com/insideuefa/about-uefa/news/newsid%3D2585829.html |url-status=live }}</ref> In that case, the Conference League champion has the right to choose the competition.<ref>{{cite web |url=https://www.espn.com/soccer/story/_/id/44372662/how-premier-league-teams-qualify-champions-league-europe |title=Which Premier League teams have qualified for Champions League, Europe |first=Dale |last=Johnson |website=ESPN |date=25 May 2025 |access-date=25 February 2026 |archive-date=19 April 2025 |archive-url=https://web.archive.org/web/20250419032521/https://www.espn.com/soccer/story/_/id/44372662/how-premier-league-teams-qualify-champions-league-europe |url-status=live }}</ref> English clubs have the most wins, with three, followed by Italy and Greece with one each. [[AS Roma|Roma]] were the inaugural winners of the competition, having beaten [[Feyenoord]] 1–0 in the [[2022 UEFA Europa Conference League final|2022 final]]. The current title holders are [[Crystal Palace F.C.|Crystal Palace]], who defeated [[Rayo Vallecano]] 1–0 in the [[2026 UEFA Conference League final|2026 final]].
+
+== History ==
+{{See also|List of UEFA Conference League finals}}
+
+{| class="wikitable floatright" style="text-align:left; margin-top:15px; font-size:85%"
+|+ Winners<br />UEFA Conference League
+! scope="col" |Season
+! scope="col" style="width:210px" |Winners
+|-
+!colspan="2"|UEFA Europa Conference League
+|-
+| style="text-align:center" |[[2021–22 UEFA Europa Conference League|2021–22]]
+| {{fbaicon|ITA}} [[AS Roma|Roma]]
+|-
+| style="text-align:center" | [[2022–23 UEFA Europa Conference League|2022–23]]
+| {{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|-
+| style="text-align:center" | [[2023–24 UEFA Europa Conference League|2023–24]]
+| {{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|-
+!colspan="2"|UEFA Conference League
+|-
+| style="text-align:center" | [[2024–25 UEFA Conference League|2024–25]]
+| {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|-
+| style="text-align:center" | [[2025–26 UEFA Conference League|2025–26]]
+| {{fbaicon|ENG}} [[Crystal Palace F.C.|Crystal Palace]] 
+|-<!-- 
+| style="text-align:center" | [[2026–27 UEFA Conference League|2026–27]]
+|-->
+|}
+[[File:UEFA Europa Conference League Trophy.jpg|thumb|The UEFA Conference League trophy on display in [[Rome]]]]
+
+[[UEFA]] had reportedly considered adding a third-tier competition since at least 2015, believing that a bottom-level tournament could act as a means of giving clubs from lower-ranked UEFA member countries a chance of progressing beyond their customary elimination from the [[UEFA Champions League|Champions League]] and [[UEFA Europa League|Europa League]].<ref>{{cite news |url=https://www.theguardian.com/football/2015/sep/16/uefa-third-competition-europa-champions-league |title=Uefa ponders third competition beneath Champions League and Europa League |work=[[The Guardian]] |agency=[[Associated Press]] |date=16 September 2015 |access-date=2 December 2018 |archive-date=28 April 2019 |archive-url=https://web.archive.org/web/20190428084849/https://www.theguardian.com/football/2015/sep/16/uefa-third-competition-europa-champions-league |url-status=live }}</ref> In mid-2018, talk of an announcement intensified, with news sources claiming an agreement had already been reached for the competition to be launched and that the 48-team Europa League group stage would be split in two, with the lower half forming the nucleus of what would be the new event.<ref>{{cite news |url=https://www.theguardian.com/football/2018/sep/11/uefa-third-european-competition-2021 |title=Uefa set to introduce third European club competition from 2021–22 |work=The Guardian |agency=[[PA Media]] |date=11 September 2018 |access-date=2 December 2018 |archive-date=28 April 2019 |archive-url=https://web.archive.org/web/20190428084852/https://www.theguardian.com/football/2018/sep/11/uefa-third-european-competition-2021 |url-status=live }}</ref>
+
+On 2 December 2018, UEFA announced that the competition – provisionally known as "Europa League 2" or just "UEL2" – was to be launched as part of the 2021–24 three-year competition cycle, with UEFA adding that the new tournament would bring "more matches for more clubs and more associations".<ref name=uefa021218/>
+
+The original official name of the competition, "UEFA Europa Conference League", was announced on 24 September 2019.<ref>{{cite press release|url=https://www.uefa.com/news-media/news/0255-0e99f578e557-a64ea0ed91c9-1000--format-change-for-2020-21-uefa-nations-league/|title=Format change for 2020/21 UEFA Nations League|website=UEFA.com|publisher=Union of European Football Associations|date=24 September 2019|access-date=24 September 2019|archive-date=26 September 2019|archive-url=https://web.archive.org/web/20190926223650/https://www.uefa.com/insideuefa/about-uefa/news/newsid=2625412.html|url-status=live}}</ref>
+
+On 24 May 2021, UEFA revealed the competition's trophy and brand identity. The Europa Conference League Trophy stands {{cvt|57.5|cm}} tall and weighs {{cvt|11|kg}}.<ref>{{cite web |url=https://www.uefa.com/uefaconferenceleague/news/0269-125a11b2e4f9-8459a7575502-1000--europa-conference-league-trophy/ |title=UEFA Europa Conference League – What Do the Winners Get? |website=UEFA.com |publisher=Union of European Football Associations |date=1 September 2022 |access-date=24 March 2023 |archive-date=16 July 2024 |archive-url=https://web.archive.org/web/20240716022357/https://www.uefa.com/uefaconferenceleague/news/0269-125a11b2e4f9-8459a7575502-1000--europa-conference-league-trophy/ |url-status=live }}</ref>
+
+The first goal in the then-named Europa Conference League qualifiers was scored on 6 July 2021 by [[Mosta F.C.|Mosta]] player Evo Chris in a [[2021–22 UEFA Europa Conference League qualifying phase and play-off round (Main Path)|2021–22 qualifying round]] match against [[FC Spartak Trnava|Spartak Trnava]].<ref>{{cite web|title=Mosta vs Spartak Trnava – stats, H2H, lineups|url=https://www.fotmob.com/livescores/3608992/matchfacts/mosta-vs-spartak-trnava|access-date=2021-07-06|website=FotMob|date=6 July 2021|archive-date=9 July 2021|archive-url=https://web.archive.org/web/20210709184830/https://www.fotmob.com/livescores/3608992/matchfacts/mosta-vs-spartak-trnava|url-status=live}}</ref> The first goal in the then-named Europa Conference League group stage was scored on 14 September 2021 by [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]] player [[Stipe Perica]] in a [[2021–22 UEFA Europa Conference League group stage|2021–22 group stage]] match against [[FC Alashkert|Alashkert]].<ref>{{Cite web|url=https://www.uefa.com/uefaconferenceleague/news/0253-0d8226f62167-bb95306965de-1000--who-scored-the-first-goals-in-uefa-s-competitions/|title=Who Scored the First Goals in UEFA's Competitions?|work=UEFA Europa Conference League|publisher=Union of European Football Association|date=14 September 2021|access-date=13 March 2023|archive-date=16 July 2024|archive-url=https://web.archive.org/web/20240716022359/https://www.uefa.com/uefaconferenceleague/news/0253-0d8226f62167-bb95306965de-1000--who-scored-the-first-goals-in-uefa-s-competitions/|url-status=live}}</ref> On 30 September 2021, the competition's first hat-trick was scored by [[Harry Kane]] for [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in a group stage match against [[NŠ Mura|Mura]]. Kane came on as a 59th minute substitute at 2–1 before scoring three goals within 20 minutes of each other to finish off the game (5–1).<ref>{{cite web |url=https://www.skysports.com/football/news/11675/12422634/kane-marvels-at-bonus-hat-trick |title=Harry Kane marvels at bonus Europa Conference League hat-trick &#124; Football News |work=Sky Sports |date=2021-10-01 |access-date=2022-02-19 |archive-date=2 February 2022 |archive-url=https://web.archive.org/web/20220202064048/https://www.skysports.com/football/news/11675/12422634/kane-marvels-at-bonus-hat-trick |url-status=live}}</ref>
+
+On 5 May 2022, [[Feyenoord]] and [[AS Roma|Roma]] became the first teams ever to reach the Europa Conference League final, ending with Roma being crowned the inaugural champions.<ref>{{cite web |title=Hein the GOAT Vanhaezebrouck: 'A serial winner who has brought Gent to life' |url=https://www.bbc.com/sport/football/61588209 |website=BBC Sport |access-date=25 May 2022 |date=25 May 2022 |archive-date=25 May 2022 |archive-url=https://web.archive.org/web/20220525230946/https://www.bbc.com/sport/football/61588209 |url-status=live }}</ref>
+
+On 3 November 2022, [[West Ham United F.C.|West Ham United]] became the first side to win all six of their Europa Conference League group stage matches, picking up wins against [[FCSB]], [[Silkeborg IF|Silkeborg]] and [[RSC Anderlecht|Anderlecht]].<ref>{{cite web |url=https://www.eurosport.co.uk/football/uefa-europa-conference-league/2021-2022/fcsb-v-west-ham-united-europa-conference-league-live_sto9209218/story.shtml |title=West Ham Score Three to Beat FCSB, Secure Perfect Europa Conference League Run and Top Group |website=eurosport.co.uk |last=Magee |first=Will |date=3 November 2022 |access-date=24 March 2023 }}</ref> They went on to win the competition by defeating [[ACF Fiorentina|Fiorentina]] 2–1 in the [[2023 UEFA Europa Conference League Final|2023 final]], in the process becoming the first side to finish the competition undefeated, with 12 wins and one draw.
+
+On 28 June 2023, UEFA announced that the competition would be renamed to the UEFA Conference League from the [[2024–25 UEFA Conference League|2024–25 season]] onwards. According to UEFA, removing 'Europa' from the name of the competition would enable further development as a stand-alone competition in their research amongst fans and commercial partners.<ref>{{Cite web |last=Burrows |first=Ben |date=2023-06-28 |title=UEFA Europa Conference League to be renamed |url=https://www.nytimes.com/athletic/4647809/2023/06/28/uefa-europa-conference-league-name/ |access-date=2023-06-28 |website=The Athletic |archive-date=12 June 2025 |archive-url=https://web.archive.org/web/20250612153937/https://www.nytimes.com/athletic/4647809/2023/06/28/uefa-europa-conference-league-name/ |url-status=live }}</ref><ref>{{Cite web|date=28 June 2023|title=UEFA Europa Conference League to be renamed UEFA Conference League next season|url=https://www.uefa.com/uefaconferenceleague/news/0282-185d6b03cbe4-4763e115dd7f-1000--uefa-europa-conference-league-to-be-renamed-uefa-conferenc/|access-date=28 June 2023|website=UEFA.com|publisher=Union of European Football Associations|archive-date=23 March 2025|archive-url=https://web.archive.org/web/20250323235908/https://www.uefa.com/uefaconferenceleague/news/0282-185d6b03cbe4-4763e115dd7f-1000--uefa-europa-conference-league-to-be-renamed-uefa-conferenc/|url-status=live}}</ref> In the same season, the 32-team group stage was replaced with a 36-team league phase, in line with similar changes made to the [[UEFA Champions League]] and [[UEFA Europa League]].
+
+In the [[2024 UEFA Europa Conference League final|2024 final]], [[Olympiacos F.C.|Olympiacos]] beat Fiorentina 1–0, becoming the first Greek club to win a major European trophy.<ref>{{Cite web |last=Grez |first=Matias |date=2024-05-30 |title=Olympiacos makes Greek history with victory over Fiorentina in Conference League final |url=https://www.cnn.com/2024/05/30/sport/olympiacos-fiorentina-conference-league-final-spt-intl/index.html |access-date=2024-06-12 |website=CNN |archive-date=12 June 2024 |archive-url=https://web.archive.org/web/20240612234221/https://www.cnn.com/2024/05/30/sport/olympiacos-fiorentina-conference-league-final-spt-intl/index.html |url-status=live }}</ref>
+
+[[File:UEFA Europa Conference League CSKA Sofia - Roma, 2021-12-09 03.jpg|thumb|A match between [[PFC CSKA Sofia|CSKA Sofia]] and [[AS Roma|Roma]] in the inaugural [[2021-22 UEFA Europa Conference League|2021–22 season]]]]
+
+== Trophy ==
+The Conference League trophy, designed by [[Pentagram (design firm)|Pentagram]], is made from brass, with galvanic steel and silver plating. It features 32 hexagonal columns, to represent the 32 teams in the original group stage, curving upwards in a manner intended to resemble a football curling through the air towards the goal.<ref>{{cite web
+| title = UEFA Europa Conference League trophy – what do the winners get?
+| url = https://www.uefa.com/uefaconferenceleague/news/0269-125a11b2e4f9-8459a7575502-1000--uefa-europa-conference-league-trophy-what-do-the-winners-get/
+| website = UEFA.com
+| publisher = Union of European Football Associations
+| date = 17 May 2022
+| access-date = 30 May 2024
+| archive-date = 1 August 2024
+| archive-url = https://web.archive.org/web/20240801155539/https://www.uefa.com/uefaconferenceleague/news/0269-125a11b2e4f9-8459a7575502-1000--uefa-europa-conference-league-trophy-what-do-the-winners-get/
+| url-status = live
+}}</ref>
+
+== Format ==
+=== Qualification ===
+{{See also|UEFA coefficient}}
+[[File:UEFA Conference League main phase countries.svg|right|thumb|upright=1.13|Map of UEFA associations whose teams reached the group stage/league stage of the [[UEFA Conference League]] {{legend|#67E863|UEFA member association that has been represented in the group stage/league phase}} {{legend|#6085EF|UEFA member association that has not been represented in the group stage/league phase}} {{legend|#C0C0C0|Not a UEFA member}}]]
+[[File:UEFA members Europa Conference League stages.svg|alt=A color-coded map of each country that is a member of UEFA, sorted by the best stage a club hailing from each country has respectively reached.|thumb|upright=1.13|UEFA countries, stages reached by teams in the '''UEFA Conference League''':
+{{legend|#6085EF|UEFA member nation with winning clubs}}
+{{legend|#67E863|UEFA member nation with runner-up clubs}}
+{{legend|#D7E863|UEFA member nation that has been represented in the semi-final}}
+{{legend|#E8B563|UEFA member nation that has been represented in the round of 16 or quarter-final}}
+{{legend|#E87C63|UEFA member nation that has been represented in the group stage or play-offs}}
+{{legend|#A0A0A0|UEFA member nation that has not been represented in the group stage}}
+{{legend|#C0C0C0|Not a UEFA member}}
+]]
+Similar to the [[UEFA Champions League]], qualification to the Conference League is split into two paths – separating champions and non-champions – and contains three rounds plus a play-off.<ref name="UEL2accesslist" /> However, unlike the Champions League, the Champions Path will only be contested by teams eliminated from Champions League qualifying and consequently relegated either directly into the Conference League{{efn|group=note|From Champions League first qualifying round to Conference League second qualifying round.}} or via a second relegation from the [[UEFA Europa League]] as a result of two straight eliminations.{{efn|group=note|From Champions League second qualifying round to Europa League third qualifying round, and then to Conference League play-off round.}}<ref name="UEL2accesslist" />
+
+The association ranking based on the [[UEFA coefficient|UEFA country coefficients]] is used to determine the number of participating teams in main path qualification for each association:{{efn|group=note|Excluding three relegations from Europa League third qualifying round out of five runners-up from associations 10–15 and three cup winners from associations 13–15.}}<ref name="UEL2accesslist">{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/58/61/42/2586142_DOWNLOAD.pdf|title=UEL2 Access List 2021–24|website=UEFA.com|publisher=Union of European Football Associations|date=2 December 2018|access-date=2 December 2018|archive-date=4 December 2018|archive-url=https://web.archive.org/web/20181204074949/https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/58/61/42/2586142_DOWNLOAD.pdf|url-status=live}}</ref>
+* Nations ranked 1 to 5 have one team;
+* Nations ranked 6 to 15 have two teams;
+* Nations ranked 16 to 50 have three teams;
+* Nations ranked 51 to 55 have two teams;
+* [[Liechtenstein Football Association|Liechtenstein]] does not have a domestic league and will provide the winner of the [[Liechtenstein Football Cup]] irrespective of their coefficient ranking.
+
+Based on this reorganisation, no association benefits from more berths to continental football than they had before the 2021–24 competition cycle, with the tournament essentially being the lower orders of the previous Europa League tournament split off into a secondary tournament.
+
+=== League phase and knockout phase ===
+The format involves a league phase and a knockout phase consisting of preliminary knockout play-offs, followed by a round of 16, quarter-finals, semi-finals and final (all of the knockout matches except the final are played over two legs). The top eight teams from the league phase receive a bye to the round of 16, while the teams ranked 9th to 24th contest the knockout play-offs with the winners advancing to the round of 16. The teams ranked 25th to 36th in the league phase and the losers of the play-offs are eliminated from the competition.<ref>{{cite web |date=29 August 2024 |title=Champions League, Europa League and Conference League league phase draws: All you need to know about the European Club Football Season Kick-off in Monaco |url=https://www.uefa.com/uefachampionsleague/news/0290-1bae12b1cac5-290efb63f023-1000--champions-league-europa-league-and-conference-league-lea/ |website=UEFA.com |publisher=Union of European Football Associations |access-date=22 September 2024 |archive-date=27 September 2024 |archive-url=https://web.archive.org/web/20240927170832/https://www.uefa.com/uefachampionsleague/news/0290-1bae12b1cac5-290efb63f023-1000--champions-league-europa-league-and-conference-league-lea/ |url-status=live }}</ref>
+
+The final is played at a neutral venue. The winner of the competition is entitled to participate in the UEFA Europa League league phase the following season. The competition's matches are usually played on Thursdays.<ref name=uefa021218/>
+
+=== Distribution (from 2024–25) ===
+{{Expand section|date=May 2024}}<ref>{{cite news |title=UEFA approves final format and access list for its club competitions as of the 2024/25 season |url=https://www.uefa.com/news-media/news/0275-151c779310c3-b92bbf0d24f9-1000--format-access-list-for-24-25-onwards-approved/ |website=UEFA.com|publisher=Union of European Football Associations |date=10 May 2022 |url-status=live |archive-url=https://web.archive.org/web/20220511080232/https://www.uefa.com/returntoplay/news/0275-151c779310c3-b92bbf0d24f9-1000--format-access-list-for-24-25-onwards-approved/ |archive-date=11 May 2022 }}</ref>
+
+{| class="wikitable"
+|-
+!colspan=2|
+!Teams entering in this round
+!Teams advancing from previous round
+!Teams transferred from Champions League
+!Teams transferred from Europa League
+|-
+!colspan=2|First qualifying round<br />(58 teams)
+|
+* 17 domestic cup winners from associations 39–55
+* 21 domestic league runners-up from associations 34–55 (except Liechtenstein)
+* 20 domestic league third-placed teams from associations 30–50 (except Liechtenstein)
+|
+|
+|
+|-
+!rowspan=2|Second qualifying round<br />
+!Champions<br />(16 teams)
+|
+|
+|
+* 16 teams eliminated from Champions League first qualifying round
+|
+|-
+!Non-champions<br />(88 teams)
+|
+* 5 domestic cup winners from associations 34–38
+* 18 domestic league runners-up from associations 16–33
+* 17 domestic league third-placed teams from associations 13–29
+* 9 domestic league fourth-placed teams from associations 7–15
+* 1 domestic league fifth-placed team from association 6
+|
+* 29 winners from the first qualifying round
+|
+|
+* 9 teams eliminated from Europa League first qualifying round
+|-
+!rowspan=2|Third qualifying round<br />
+!Champions<br />(8 teams)
+|
+|
+* 8 winners from the second qualifying round for champions
+|
+|-
+!Non-champions<br />(52 teams)
+|
+|
+* 44 winners from the second qualifying round for non-champions
+|
+|
+* 8 teams eliminated from Europa League second qualifying round
+|-
+!rowspan=2|Play-off round<br />
+!Champions<br />(10 teams)
+|
+|
+* 4 winners from the third qualifying round for champions
+|
+|
+* 6 teams eliminated from Europa League third qualifying round for champions
+|-
+!Non-champions<br />(38 teams)
+|
+* 5 domestic league sixth-placed teams from associations 1–5 (EFL Cup winners for England)
+|
+* 26 winners from the third qualifying round for non-champions
+|
+|
+* 7 teams eliminated from Europa League third qualifying round for non-champions
+|-
+!colspan=2|League phase<br />(36 teams)
+|
+|
+* 5 winners from the play-off round for champions
+* 19 winners from the play-off round for non-champions
+|
+|
+* 12 teams eliminated from Europa League play-off round
+|}
+
+Changes will be made to the access list above if the Conference League title holder qualifies for the tournament via their domestic leagues.
+* If the Conference League title holders qualify for the league phase via their domestic league's standard berth allocation, the best-ranked club in the qualifying rounds enter the league phase, without leapfrogging, then clubs of associations in the UEFA coefficient ranking are promoted to later qualifying rounds, and teams of the highest-ranked associations in earlier rounds are also promoted accordingly.
+* If the Conference League title holders qualify for the qualifying rounds via their domestic league, their spot in the qualifying rounds is vacated, and teams of the highest-ranked associations in earlier rounds are promoted accordingly.
+
+== Prize money ==
+Similar to the UEFA Champions League and UEFA Europa League, the prize money received by the clubs is divided into fixed payments based on participation and results, and variable amounts that depend on the value of their TV market.<ref>{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/publications/uefa/uefamedia/83/97/47/839747_download.pdf |title=uefadirect 7/09 |archive-url=https://web.archive.org/web/20200812212255/https://www.uefa.com/MultimediaFiles/Download/publications/uefa/uefamedia/83/97/47/839747_download.pdf |archive-date=12 August 2020 |url-status=live |page=7}}</ref>
+
+For the [[2024–25 UEFA Conference League|2024–25 season]], League Phase participation in the Conference League was awarded a base fee of €3,170,000. A victory in the group pays €400,000 and a draw €133,000. Teams which placed in the top 8 of the League Phase earned €400,000 and progressed automatically to the Round of 16. Teams which placed between 9th and 24th qualified for the knockout round play-offs and earned €200,000. Reaching the knock-out stage triggered additional bonuses: €800,000 for the round of 16, €1,300,000 for the quarter-finals and €2,500,000 for the semi-finals. The losing finalists received €4,000,000 and the champions received €7,000,000.<ref>{{cite press release|title=Distribution to clubs from the UEFA Champions League, UEFA Europa League, UEFA Conference League and the UEFA Super Cup for the 2024–27 cycle (2024/25 season). Payments for the qualifying phases. Solidarity payments for non-participating clubs.|url=https://editorial.uefa.com/resources/028b-1a7880138a24-7a993e2e33d1-1000/20240322_circular_2024_13_en.pdf#page6|website=UEFA.com|publisher=Union of European Football Associations|date=22 March 2024|access-date=24 October 2024|archive-date=7 October 2024|archive-url=https://web.archive.org/web/20241007091654/https://editorial.uefa.com/resources/028b-1a7880138a24-7a993e2e33d1-1000/20240322_circular_2024_13_en.pdf#page6|url-status=live}}</ref>
+* First qualifying round elimination: €150,000 + €175,000 per qualifying round played
+* Second qualifying round elimination: €350,000 + €175,000 per qualifying round played
+* Third qualifying round elimination: €550,000 + €175,000 per qualifying round played
+* Play-off round elimination: €750,000 + €175,000 per qualifying round played
+* Qualified to League Phase: €3,170,000
+* Match won in League Phase: €400,000
+* Match drawn in League Phase: €133,000
+* 1st–8th in League Phase: €400,000
+* 9th–24th in League Phase: €200,000
+* Round of 16: €800,000
+* Quarter-finals: €1,300,000
+* Semi-finals: €2,500,000
+* Runners-up: €4,000,000
+* Winners: €7,000,000
+
+Additionally, each domestic champion not qualifying for the League Phase of any tournament received an additional €260,000.
+
+Each club that qualifies for the League Phase will also receive a bonus payment based on their league ranking. The total amount initially available for the league ranking bonus is €18,648,000 divided into 666 equal shares of €28,000. As €400,000 is available for each match played in the league phase, for every draw in the League Phase, €133,000 is unallocated and is added to the total league ranking bonus fund, increasing the value of each share. The team that finishes 1st in the League Phase receives 36 shares, with the amount of shares received falling by 1 for each subsequent position, with the 36th place team receiving a single share.
+
+== Records and statistics ==
+=== Performances by club ===
+{{Main|List of UEFA Conference League finals}}
+
+{| class="wikitable plainrowheaders sortable"
+|+Performance in the UEFA Conference League by club
+|-
+!scope=col|Club
+!scope=col|Winners
+!scope=col|Runners-up
+!scope=col class="unsortable"|Years won
+!scope=col class="unsortable"|Years runner-up
+|-
+!scope=row|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|align=center|1
+|align=center|0
+|align=center|[[2021–22 UEFA Europa Conference League|2022]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|align=center|1
+|align=center|0
+|align=center|[[2022–23 UEFA Europa Conference League|2023]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|align=center|1
+|align=center|0
+|align=center|[[2023–24 UEFA Europa Conference League|2024]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|align=center|1
+|align=center|0
+|align=center|[[2024–25 UEFA Conference League|2025]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ENG}} [[Crystal Palace F.C.|Crystal Palace]]
+|align=center|1
+|align=center|0
+|align=center|[[2025–26 UEFA Conference League|2026]]
+|align=center|—
+|-
+!scope=row|{{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|align=center|0
+|align=center|2
+|align=center|—
+|align=center|[[2022–23 UEFA Europa Conference League|2023]], [[2023–24 UEFA Europa Conference League|2024]]
+|-
+!scope=row|{{fbaicon|NED}} [[Feyenoord]]
+|align=center|0
+|align=center|1
+|align=center|—
+|align=center|[[2021–22 UEFA Europa Conference League|2022]]
+|-
+!scope=row|{{fbaicon|ESP}} [[Real Betis]]
+|align=center|0
+|align=center|1
+|align=center|—
+|align=center|[[2024–25 UEFA Conference League|2025]]
+|-
+!scope=row|{{fbaicon|ESP}} [[Rayo Vallecano]]
+|align=center|0
+|align=center|1
+|align=center|—
+|align=center|[[2025–26 UEFA Conference League|2026]]
+|}
+
+=== Performances by nation ===
+{| class="wikitable plainrowheaders sortable"
+|+Performance in finals by nation
+!scope=col| Nation
+!scope=col| Winners
+!scope=col| Runners-up
+!scope=col|Total
+|-
+!scope=row| {{fba|ENG}}
+|align=center| 3
+|align=center| 0
+|align=center| 3
+|-
+!scope=row| {{fba|ITA}}
+|align=center| 1
+|align=center| 2
+|align=center| 3
+|-
+!scope=row| {{fba|GRE}}
+|align=center| 1
+|align=center| 0
+|align=center| 1
+|-
+!scope=row| {{fba|ESP}}
+|align=center| 0
+|align=center| 2
+|align=center| 2
+|-
+!scope=row| {{fba|NED}}
+|align=center| 0
+|align=center| 1
+|align=center| 1
+|}
+
+=== Number of participating clubs ===
+{{Main|UEFA Conference League clubs performance comparison}}
+
+The following is a list of clubs that have played in or qualified for the Conference League league phase (group stage prior to the 2024–25 season).<ref>{{cite web | url=https://www.uefa.com/uefaconferenceleague/history/clubs/ | title=Teams | work=History | series=UEFA Conference League | publisher=[[UEFA]] | access-date=8 September 2025 | archive-date=10 October 2025 | archive-url=https://web.archive.org/web/20251010063214/https://www.uefa.com/uefaconferenceleague/history/clubs/ | url-status=live }}</ref> Season in '''bold''' represents teams that qualified for the knockout phase that season. In the first three seasons, the eight group winners as well as the eight play-off winners are considered to be qualified. Starting from the [[2024–25 UEFA Conference League|2024–25 season]] with the introduction of a league phase, the top eight as well as the eight play-off winners are considered to be qualified.
+{| class="wikitable sortable"
+|+
+!Nation
+!No.
+!Clubs
+!Seasons
+|-
+| rowspan="7"|{{fbaicon|CZE}} [[Czech First League|Czech Republic]] (7) || style="text-align: center;"|2 || [[SK Slavia Prague|Slavia Prague]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]''', [[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+| style="text-align: center;"|2 || [[FK Jablonec|Jablonec]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]], [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|1 || [[1. FC Slovácko|Slovácko]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+| style="text-align: center;"|1 || [[FC Viktoria Plzeň|Viktoria Plzeň]] || <small>'''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| style="text-align: center;"|1 || [[FK Mladá Boleslav|Mladá Boleslav]] || <small>[[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| style="text-align: center;"|1 || [[SK Sigma Olomouc|Sigma Olomouc]] || <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| style="text-align: center;"|1 || [[AC Sparta Prague|Sparta Prague]] || <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| rowspan="6"|{{fbaicon|BEL}} [[Belgian Pro League|Belgium]] (6) || style="text-align: center;"|5 || [[KAA Gent|Gent]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]''', '''[[2022–23 UEFA Europa Conference League|2022–23]]''', '''[[2023–24 UEFA Europa Conference League|2023–24]]''', [[2024–25 UEFA Conference League|2024–25]], [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|1 || [[RSC Anderlecht|Anderlecht]] || <small>'''[[2022–23 UEFA Europa Conference League|2022–23]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Club Brugge KV|Club Brugge]] || <small>'''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| style="text-align: center;"|1 || [[KRC Genk|Genk]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]]</small>
+|-
+| style="text-align: center;"|1 || [[Cercle Brugge KSV|Cercle Brugge]] || <small>'''[[2024–25 UEFA Conference League|2024–25]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Sint-Truidense VV|Sint-Truiden]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="6"|{{fbaicon|DEN}} [[Danish Superliga|Denmark]] (6) || style="text-align: center;"|3 || [[F.C. Copenhagen|Copenhagen]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]''', '''[[2024–25 UEFA Conference League|2024–25]]''', [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|2 || [[FC Nordsjælland|Nordsjælland]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]], [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|1 || [[Randers FC|Randers]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Silkeborg IF|Silkeborg]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+| style="text-align: center;"|1 ||[[Aarhus Gymnastikforening|AGF]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|1 || [[FC Midtjylland|Midtjylland]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="6"|{{fbaicon|CYP}} [[Cypriot First Division|Cyprus]] (6) || style="text-align: center;"|3 || [[AC Omonia|Omonia]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]], [[2024–25 UEFA Conference League|2024–25]], [[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| style="text-align: center;"|2 || [[Pafos FC|Pafos]] || <small>'''[[2024–25 UEFA Conference League|2024–25]]''', [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|1 || [[Anorthosis Famagusta FC|Anorthosis]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]]</small>
+|-
+| style="text-align: center;"|1 || [[Apollon Limassol FC|Apollon Limassol]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+| style="text-align: center;"|1 || [[APOEL FC|APOEL]] || <small>[[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| style="text-align: center;"|1 || [[AEK Larnaca FC|AEK Larnaca]] || <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| rowspan="6"|{{fbaicon|TUR}} [[Süper Lig|Turkey]] (6) || style="text-align: center;"|2 || [[İstanbul Başakşehir F.K.|İstanbul Başakşehir]] || <small>'''[[2022–23 UEFA Europa Conference League|2022–23]]''', [[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| style="text-align: center;"|1 || [[Sivasspor]] || <small>'''[[2022–23 UEFA Europa Conference League|2022–23]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Beşiktaş J.K.|Beşiktaş]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]]</small>
+|-
+| style="text-align: center;"|1 || [[Fenerbahçe S.K. (football)|Fenerbahçe]] || <small>'''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Samsunspor]] || <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Trabzonspor]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="6"|{{fbaicon|ENG}} [[Premier League|England]] (6) || style="text-align: center;"|1 || [[Tottenham Hotspur F.C.|Tottenham Hotspur]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]]</small>
+|-
+| style="text-align: center;"|1 || [[West Ham United F.C.|West Ham United]] || <small>'''[[2022–23 UEFA Europa Conference League|2022–23]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Aston Villa F.C.|Aston Villa]] || <small>'''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Chelsea F.C.|Chelsea]] || <small>'''[[2024–25 UEFA Conference League|2024–25]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Crystal Palace F.C.|Crystal Palace]] || <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="6"|{{fbaicon|GER}} [[Bundesliga|Germany]] (6) || style="text-align: center;"|1 || [[1. FC Union Berlin|Union Berlin]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]]</small>
+|-
+| style="text-align: center;"|1 || [[1. FC Köln]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+| style="text-align: center;"|1 || [[Eintracht Frankfurt]] || <small>'''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| style="text-align: center;"|1 || [[1. FC Heidenheim]] || <small>[[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| style="text-align: center;"|1 || [[1. FSV Mainz 05|Mainz 05]] || <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| style="text-align: center;"|1 || [[SC Freiburg]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="5"|{{fbaicon|NED}} [[Eredivisie|Netherlands]] (5) || style="text-align: center;"|4 || [[AZ Alkmaar|AZ]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]''', '''[[2022–23 UEFA Europa Conference League|2022–23]]''', [[2023–24 UEFA Europa Conference League|2023–24]], '''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Feyenoord]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]'''</small>
+|-
+| style="text-align: center;"|1 || [[SBV Vitesse|Vitesse]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]'''</small>
+|-
+| style="text-align: center;"|1 || [[AFC Ajax|Ajax]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|1 || [[FC Twente|Twente]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="5"|{{fbaicon|SUI}} [[Swiss Super League|Switzerland]] (5) || style="text-align: center;"|3 || [[FC Lugano|Lugano]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]], '''[[2024–25 UEFA Conference League|2024–25]]''', [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|2 || [[FC Basel|Basel]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]''', '''[[2022–23 UEFA Europa Conference League|2022–23]]'''</small>
+|-
+| style="text-align: center;"|1 || [[FC St. Gallen|St. Gallen]] || <small>[[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| style="text-align: center;"|1 || [[FC Lausanne-Sport|Lausanne-Sport]] || <small>[[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| style="text-align: center;"|1 || [[FC Thun|Thun]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="5"|{{fbaicon|FRA}} [[Ligue 1|France]] (5) || style="text-align: center;"|1 || [[Stade Rennais FC|Rennes]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]'''</small>
+|-
+| style="text-align: center;"|1 || [[OGC Nice|Nice]] || <small>'''[[2022–23 UEFA Europa Conference League|2022–23]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Lille OSC|Lille]] || <small>'''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| style="text-align: center;"|1 || [[RC Strasbourg Alsace|Strasbourg]] || <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| style="text-align: center;"|1 || [[AS Monaco FC|Monaco]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="4"|{{fbaicon|POL}} [[Ekstraklasa|Poland]] (4) || style="text-align: center;"|3 || [[Legia Warsaw]] || <small>'''[[2023–24 UEFA Europa Conference League|2023–24]]''', '''[[2024–25 UEFA Conference League|2024–25]]''', [[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+|style="text-align: center;"|2 || [[Lech Poznań]] || <small>'''[[2022–23 UEFA Europa Conference League|2022–23]]''', '''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| style="text-align: center;"|2 || [[Jagiellonia Białystok]] || <small>'''[[2024–25 UEFA Conference League|2024–25]]''', [[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| style="text-align: center;"|1 || [[Raków Częstochowa]] || <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| rowspan="4"|{{fbaicon|SRB}} [[Serbian SuperLiga|Serbia]] (4) || style="text-align: center;"|2 || [[FK Partizan|Partizan]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]''', '''[[2022–23 UEFA Europa Conference League|2022–23]]'''</small>
+|-
+| style="text-align: center;"|1 || [[FK Čukarički|Čukarički]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]]</small>
+|-
+| style="text-align: center;"|1 || [[FK TSC|TSC]] || <small>[[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| style="text-align: center;"|1 || [[Red Star Belgrade]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="4"|{{fbaicon|UKR}} [[Ukrainian Premier League|Ukraine]] (4) || style="text-align: center;"|2 || [[FC Zorya Luhansk|Zorya Luhansk]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]], [[2023–24 UEFA Europa Conference League|2023–24]]</small>
+|-
+| style="text-align: center;"|1 || [[SC Dnipro-1|Dnipro-1]] || <small>'''[[2022–23 UEFA Europa Conference League|2022–23]]'''</small>
+|-
+| style="text-align: center;"|1 || [[FC Dynamo Kyiv|Dynamo Kyiv]] || <small>[[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| style="text-align: center;"|1 || [[FC Shakhtar Donetsk|Shakhtar Donetsk]] || <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| rowspan="4"|{{fbaicon|ESP}} [[La Liga|Spain]] (4) || style="text-align: center;"|1 || [[Villarreal CF|Villarreal]] || <small>'''[[2022–23 UEFA Europa Conference League|2022–23]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Real Betis]] || <small>'''[[2024–25 UEFA Conference League|2024–25]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Rayo Vallecano]] || <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Getafe CF|Getafe]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="3"|{{fbaicon|ITA}} [[Serie A|Italy]] (3) || style="text-align: center;"|4 || [[ACF Fiorentina|Fiorentina]] || <small>'''[[2022–23 UEFA Europa Conference League|2022–23]]''', '''[[2023–24 UEFA Europa Conference League|2023–24]]''', '''[[2024–25 UEFA Conference League|2024–25]]''', '''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| style="text-align: center;"|1 || [[AS Roma|Roma]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Atalanta BC|Atalanta]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="3"|{{fbaicon|NOR}} [[Eliteserien|Norway]] (3) || style="text-align: center;"|2 || [[FK Bodø/Glimt|Bodø/Glimt]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]''', '''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| style="text-align: center;"|2 || [[Molde FK|Molde]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]], '''[[2024–25 UEFA Conference League|2024–25]]'''</small>
+|-
+| style="text-align: center;"|1 || [[SK Brann|Brann]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="3" |{{fbaicon|GRE}} [[Super League Greece|Greece]] (3) || style="text-align: center;" |2 || [[PAOK FC|PAOK]]|| <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]''', '''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| style="text-align: center;"|2 || [[Panathinaikos F.C.|Panathinaikos]]|| <small>'''[[2024–25 UEFA Conference League|2024–25]]''', [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|1 || [[AEK Athens F.C.|AEK Athens]]|| <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| rowspan="3"|{{fbaicon|AUT}} [[Austrian Football Bundesliga|Austria]] (3) || style="text-align: center;"|2 || [[LASK]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]''', [[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| style="text-align: center;"|2 || [[SK Rapid Wien|Rapid Wien]] || <small>'''[[2024–25 UEFA Conference League|2024–25]]''', [[2025–26 UEFA Conference League|2025–26]] </small>
+|-
+| style="text-align: center;"|1 || [[FK Austria Wien|Austria Wien]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+| rowspan="3"|{{fbaicon|SVN}} [[Slovenian PrvaLiga|Slovenia]] (3) || style="text-align: center;"|2 || [[NK Olimpija Ljubljana|Olimpija Ljubljana]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]], [[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| style="text-align: center;"|2 || [[NK Celje|Celje]] || <small>'''[[2024–25 UEFA Conference League|2024–25]]''', '''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| style="text-align: center;"|1 || [[NŠ Mura|Mura]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]]</small>
+|-
+| rowspan="3"|{{fbaicon|ROU}} [[Liga I|Romania]] (3) || style="text-align: center;"|2 || [[CFR Cluj]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]], '''[[2022–23 UEFA Europa Conference League|2022–23]]'''</small>
+|-
+| style="text-align: center;"|2 || [[CS Universitatea Craiova|Universitatea Craiova]] || <small>[[2025–26 UEFA Conference League|2025–26]], [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|1 || [[FCSB]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+| rowspan="3"|{{fbaicon|ARM}} [[Armenian Premier League|Armenia]] (3) || style="text-align: center;"|2 || [[FC Noah|Noah]] || <small>[[2024–25 UEFA Conference League|2024–25]], [[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+|style="text-align: center;"|1 || [[FC Alashkert|Alashkert]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]]</small>
+|-
+| style="text-align: center;"|1 || [[FC Pyunik|Pyunik]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+|rowspan="3"|{{fbaicon|SWE}} [[Allsvenskan|Sweden]] (3) || style="text-align: center;"|2 || [[Djurgårdens IF Fotboll|Djurgårdens IF]] || <small>'''[[2022–23 UEFA Europa Conference League|2022–23]]''', '''[[2024–25 UEFA Conference League|2024–25]]'''</small>
+|-
+| style="text-align: center;"|1 || [[BK Häcken]] || <small>[[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| style="text-align: center;"|1 || [[Mjällby AIF]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="3"|{{fbaicon|ISR}} [[Israeli Premier League|Israel]] (3) || style="text-align: center;"|2 || [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]''', '''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| style="text-align: center;"|1 || [[Maccabi Haifa F.C.|Maccabi Haifa]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]]</small>
+|-
+| style="text-align: center;"|1 || [[Hapoel Be'er Sheva F.C.|Hapoel Be'er Sheva]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+|rowspan="3"|{{fbaicon|CRO}} [[Croatian Football League|Croatia]] (3) || style="text-align: center;"|1 || [[GNK Dinamo Zagreb|Dinamo Zagreb]] || <small>'''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| style="text-align: center;"|1 || [[HNK Rijeka|Rijeka]] || <small>'''[[2025–26 UEFA Conference League|2025–26]]'''</small>
+|-
+| style="text-align: center;"|1 || [[HNK Hajduk Split|Hajduk Split]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="2" |{{fbaicon|SVK}} [[Slovak First Football League|Slovakia]] (2) || style="text-align: center;"|4 ||[[ŠK Slovan Bratislava|Slovan Bratislava]] ||<small>[[2021–22 UEFA Europa Conference League|2021–22]], '''[[2022–23 UEFA Europa Conference League|2022–23]]''', '''[[2023–24 UEFA Europa Conference League|2023–24]]''', [[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| style="text-align: center;"|1 || [[FC Spartak Trnava|Spartak Trnava]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]]</small>
+|-
+| rowspan="2"|{{fbaicon|FIN}} [[Veikkausliiga|Finland]] (2) || style="text-align: center;"|3 || [[Helsingin Jalkapalloklubi|HJK]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]], [[2023–24 UEFA Europa Conference League|2023–24]], [[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| style="text-align: center;"|2 || [[Kuopion Palloseura|KuPS]] || <small>[[2025–26 UEFA Conference League|2025–26]], [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="2"|{{fbaicon|SCO}} [[Scottish Premiership|Scotland]] (2) || style="text-align: center;"|3 || [[Heart of Midlothian F.C.|Heart of Midlothian]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]], [[2024–25 UEFA Conference League|2024–25]], [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|2 || [[Aberdeen F.C.|Aberdeen]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]], [[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| rowspan="2"|{{fbaicon|IRL}} [[League of Ireland Premier Division|Republic of Ireland]] (2) || style="text-align: center;"|3 || [[Shamrock Rovers F.C.|Shamrock Rovers]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]], '''[[2024–25 UEFA Conference League|2024–25]]''', [[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| style="text-align: center;"|1 || [[Shelbourne F.C.|Shelbourne]] || <small>[[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| rowspan="2"|{{fbaicon|KAZ}} [[Kazakhstan Premier League|Kazakhstan]] (2) || style="text-align: center;"|2 || [[FC Astana|Astana]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]], [[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| style="text-align: center;"|2 || [[FC Kairat|Kairat]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]], [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="2"|{{fbaicon|BIH}} [[Premier League of Bosnia and Herzegovina|Bosnia and Herzegovina]] (2) || style="text-align: center;"|2 || [[HŠK Zrinjski Mostar|Zrinjski Mostar]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]], [[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| style="text-align: center;"|2 || [[FK Borac Banja Luka|Borac Banja Luka]] || <small>'''[[2024–25 UEFA Conference League|2024–25]]''', [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="2"|{{fbaicon|KOS}} [[Football Superleague of Kosovo|Kosovo]] (2) || style="text-align: center;"|2 || [[FC Ballkani|Ballkani]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]], [[2023–24 UEFA Europa Conference League|2023–24]]</small>
+|-
+| style="text-align: center;"|1 || [[FC Drita|Drita]] || <small>[[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| rowspan="2"|{{fbaicon|ISL}} [[Besta deild karla|Iceland]] (2) || style="text-align: center;"|2 || [[Breiðablik (men's football)|Breiðablik]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]], [[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| style="text-align: center;"|1 || [[Víkingur Reykjavík]] || <small>[[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| rowspan="2"|{{fbaicon|BUL}} [[First Professional Football League (Bulgaria)|Bulgaria]] (2) || style="text-align: center;"|2 || [[PFC CSKA Sofia|CSKA Sofia]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]], [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| style="text-align: center;"|1 || [[PFC Ludogorets Razgrad|Ludogorets Razgrad]] || <small>'''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| rowspan="2"|{{fbaicon|LVA}} [[Latvian Higher League|Latvia]] (2) || style="text-align: center;"|1 || [[FK RFS|RFS]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+| style="text-align: center;"|1 || [[Riga FC|Riga]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="2"|{{fbaicon|LTU}} [[Toplyga|Lithuania]] (2) || style="text-align: center;"|1 || [[FK Žalgiris|Žalgiris]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+| style="text-align: center;"|1 || [[FK Kauno Žalgiris|Kauno Žalgiris]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| rowspan="2"|{{fbaicon|POR}} [[Primeira Liga|Portugal]] (2) || style="text-align: center;"|1 || [[Vitória S.C.|Vitória de Guimarães]] || <small>'''[[2024–25 UEFA Conference League|2024–25]]'''</small>
+|-
+| style="text-align: center;"|1 || [[S.C. Braga|Braga]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| {{fbaicon|GIB}} [[Gibraltar Football League|Gibraltar]] (1) || style="text-align: center;"|3 || [[Lincoln Red Imps F.C.|Lincoln Red Imps]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]], [[2025–26 UEFA Conference League|2025–26]], [[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| {{fbaicon|AZE}} [[Azerbaijan Premier League|Azerbaijan]] (1) || style="text-align: center;"|1 || [[Qarabağ FK|Qarabağ]] || <small>'''[[2021–22 UEFA Europa Conference League|2021–22]]'''</small>
+|-
+| {{fbaicon|EST}} [[Meistriliiga|Estonia]] (1) || style="text-align: center;"|1 || [[FC Flora|Flora]] || <small>[[2021–22 UEFA Europa Conference League|2021–22]]</small>
+|-
+| {{fbaicon|LIE}} [[Liechtenstein Football Cup|Liechtenstein]] (1) || style="text-align: center;"|1 || [[FC Vaduz|Vaduz]] || <small>[[2022–23 UEFA Europa Conference League|2022–23]]</small>
+|-
+| {{fbaicon|FRO}} [[Faroe Islands Premier League|Faroe Islands]] (1) || style="text-align: center;"|1 || [[Klaksvíkar Ítróttarfelag|KÍ]] || <small>[[2023–24 UEFA Europa Conference League|2023–24]]</small>
+|-
+| {{fbaicon|HUN}} [[Nemzeti Bajnokság I|Hungary]] (1) || style="text-align: center;"|1 || [[Ferencvárosi TC|Ferencváros]] || <small>'''[[2023–24 UEFA Europa Conference League|2023–24]]'''</small>
+|-
+| {{fbaicon|BLR}} [[Belarusian Premier League|Belarus]] (1) || style="text-align: center;"|1 || [[FC Dinamo Minsk|Dinamo Minsk]] || <small>[[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| {{fbaicon|MDA}} [[Moldovan Liga|Moldova]] (1) || style="text-align: center;"|1 || [[FC Petrocub Hîncești|Petrocub Hîncești]] || <small>[[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| {{fbaicon|NIR}} [[NIFL Premiership|Northern Ireland]] (1) || style="text-align: center;"|1 || [[Larne F.C.|Larne]] || <small>[[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| {{fbaicon|WAL}} [[Cymru Premier|Wales]] (1) || style="text-align: center;"|1 || [[The New Saints F.C.|The New Saints]] || <small>[[2024–25 UEFA Conference League|2024–25]]</small>
+|-
+| {{fbaicon|MLT}} [[Maltese Premier League|Malta]] (1) || style="text-align: center;"|1 || [[Hamrun Spartans F.C.|Hamrun Spartans]] || <small>[[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| {{fbaicon|MKD}} [[Macedonian First Football League|North Macedonia]] (1) || style="text-align: center;"|1 || [[KF Shkëndija|Shkëndija]] || <small>[[2025–26 UEFA Conference League|2025–26]]</small>
+|-
+| {{fbaicon|ALB}} [[Kategoria Superiore|Albania]] (1) || style="text-align: center;"|1 || [[KF Egnatia|Egnatia]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| {{fbaicon|AND}} [[Primera Divisió|Andorra]] (1) || style="text-align: center;"|1 || [[Inter Club d'Escaldes]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|-
+| {{fbaicon|GEO}} [[Erovnuli Liga|Georgia]] (1) || style="text-align: center;"|1 || [[FC Iberia 1999|Iberia 1999]] || <small>[[2026–27 UEFA Conference League|2026–27]]</small>
+|}
+
+=== Most appearances ===
+
+:Players taking part in the [[2026–27 UEFA Conference League]] are highlighted in '''bold'''.<br />
+:Players still active but not in this year's Conference League are highlighted in ''italics''.
+
+====Group/league phase to final====
+
+{{updated|5 November 2026}}<ref name=alltimeapps>{{cite web |title=Conference League All-Time Appearances: Most Matches {{!}} worldfootball.net | url=https://www.worldfootball.net/competition/co6395/uefa-conference-league/records-all-time-appearances/|access-date=29 October 2026|website=WorldFootball.net}}</ref>
+
+:The table below does not include appearances made in the qualification phase of the competition.
+
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" | Rank
+! scope="col" | Player
+! scope="col" | Nation
+! scope="col" | {{Abbr|Apps|Appearances}}
+! scope="col" | Years
+! scope="col" <noinclude>style="width:50%;"</noinclude> | Club(s) ({{Abbr|Apps|Appearances}})
+|-
+| 1
+! scope="row" data-sort-value="Mandragora, Rolando" | {{nowrap|''[[Rolando Mandragora]]''}}
+| style="text-align:left;" | {{flag|Italy}}
+| 49
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | [[ACF Fiorentina|Fiorentina]]
+|-
+| 2
+! scope="row" data-sort-value="Ranieri, Luca" | {{nowrap|''[[Luca Ranieri]]''}}
+| style="text-align:left;" | {{flag|Italy}}
+| 35
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | [[ACF Fiorentina|Fiorentina]]
+|-
+| 3
+! scope="row" data-sort-value="Dodo" | {{nowrap|''[[Dodô (footballer, born 1998)|Dodô]]''}}
+| style="text-align:left;" | {{flag|Brazil}}
+| 34
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | [[ACF Fiorentina|Fiorentina]]
+|-
+| rowspan="2" | 4
+! scope="row" data-sort-value="Kouame, Christian" | {{nowrap|''[[Christian Kouamé]]''}}
+| style="text-align:left;" | {{flag|Ivory Coast}}
+| rowspan="2" | 30
+| {{nowrap|2022–2025}}
+| style="text-align:left;" | [[ACF Fiorentina|Fiorentina]]
+|-
+! scope="row" data-sort-value="Kums, Sven" | {{nowrap|[[Sven Kums]]}}
+| style="text-align:left;" | {{flag|Belgium}}
+| {{nowrap|2021–2025}}
+| style="text-align:left;" | [[KAA Gent|Gent]]
+|-
+| rowspan="3" | 6
+! scope="row" data-sort-value="Biraghi, Cristiano" | {{nowrap|''[[Cristiano Biraghi]]''}}
+| style="text-align:left;" | {{flag|Italy}}
+| rowspan="3" | 28
+| {{nowrap|2022–2024}}
+| style="text-align:left;" | [[ACF Fiorentina|Fiorentina]]
+|-
+! scope="row" data-sort-value="Ikone, Jonathan" | {{nowrap|''[[Jonathan Ikoné]]''}}
+| style="text-align:left;" | {{flag|France}}
+| {{nowrap|2022–2024}}
+| style="text-align:left;" | [[ACF Fiorentina|Fiorentina]]
+|-
+! scope="row" data-sort-value="Hong, Hyun-seok" | {{nowrap|'''[[Hong Hyun-seok]]'''}}
+| style="text-align:left;" | {{flag|South Korea}}
+| {{nowrap|2021–}}
+| style="text-align:left;" | {{nowrap|[[LASK]] (8)}}, {{nowrap|[[KAA Gent|Gent]] (17)}}, {{nowrap|'''[[FC Midtjylland|Midtjylland]]''' (3)}}
+|-
+| rowspan="2" | 9
+! scope="row" data-sort-value="Chatzidiakos, Pantelis" | {{nowrap|''[[Pantelis Chatzidiakos]]''}}
+| style="text-align:left;" | {{flag|Greece}}
+| rowspan="2" | 27
+| {{nowrap|2021–2025}}
+| style="text-align:left;" | {{nowrap|[[AZ Alkmaar|AZ]] (18)}}, {{nowrap|[[F.C. Copenhagen|Copenhagen]] (9)}}
+|-
+! scope="row" data-sort-value="Roef, Davy" | {{nowrap|'''[[Davy Roef]]'''}}
+| style="text-align:left;" | {{flag|Belgium}}
+| {{nowrap|2021–}}
+| style="text-align:left;" | '''[[KAA Gent|Gent]]'''
+|-
+|}
+
+====Including qualifying rounds====
+
+{{updated|5 November 2026}}<ref name=alltimeapps/><ref>{{cite web|title=Conference League Qual. All-Time Appearances: Most Matches {{!}} worldfootball.net|url=https://www.worldfootball.net/competition/co6495/uefa-conference-league-qual/records-all-time-appearances/|access-date=29 October 2026|website=WorldFootball.net}}</ref><ref>{{cite web |title=All-time Player {{!}} Matches played Stats {{!}} UEFA Conference League {{!}} UEFA.com | url=https://www.uefa.com/uefaconferenceleague/history/rankings/players/matches_played/ | access-date=29 October 2026 | series=UEFA Conference League | publisher=[[UEFA]]}}</ref>
+
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" | Rank
+! scope="col" | Player
+! scope="col" | Nation
+! scope="col" | {{Abbr|Apps|Appearances}}
+! scope="col" | Years
+! scope="col" <noinclude>style="width:50%;"</noinclude> | Club(s) ({{Abbr|Apps|Appearances}})
+|-
+| 1
+! scope="row" data-sort-value="Mandragora, Rolando" | {{nowrap|''[[Rolando Mandragora]]''}}
+| style="text-align:left;" | {{flag|Italy}}
+| 56
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | [[ACF Fiorentina|Fiorentina]]
+|-
+| 2
+! scope="row" data-sort-value="Kums, Sven" | {{nowrap|[[Sven Kums]]}}
+| style="text-align:left;" | {{flag|Belgium}}
+| 46
+| {{nowrap|2021–2025}}
+| style="text-align:left;" | [[KAA Gent|Gent]]
+|-
+| 3
+! scope="row" data-sort-value="Roef, Davy" | {{nowrap|'''[[Davy Roef]]'''}}
+| style="text-align:left;" | {{flag|Belgium}}
+| 44
+| {{nowrap|2021–}}
+| style="text-align:left;" | '''[[KAA Gent|Gent]]'''
+|-
+| 4
+! scope="row" data-sort-value="Hong, Hyun-seok" | {{nowrap|'''[[Hong Hyun-seok]]'''}}
+| style="text-align:left;" | {{flag|South Korea}}
+| 42
+| {{nowrap|2021–}}
+| style="text-align:left;" | {{nowrap|[[LASK]] (12)}}, {{nowrap|[[KAA Gent|Gent]] (27)}}, {{nowrap|'''[[FC Midtjylland|Midtjylland]]''' (3)}}
+|-
+| rowspan="2" | 5
+! scope="row" data-sort-value="Dodo" | {{nowrap|''[[Dodô (footballer, born 1998)|Dodô]]''}}
+| style="text-align:left;" | {{flag|Brazil}}
+| rowspan="2" | 41
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | [[ACF Fiorentina|Fiorentina]]
+|-
+! scope="row" data-sort-value="Ranieri, Luca" | {{nowrap|''[[Luca Ranieri]]''}}
+| style="text-align:left;" | {{flag|Italy}}
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | [[ACF Fiorentina|Fiorentina]]
+|-
+| 7
+! scope="row" data-sort-value="Chatzidiakos, Pantelis" | {{nowrap|''[[Pantelis Chatzidiakos]]''}}
+| style="text-align:left;" | {{flag|Greece}}
+| 39
+| {{nowrap|2021–2026}}
+| style="text-align:left;" | {{nowrap|[[AZ Alkmaar|AZ]] (28)}}, {{nowrap|[[F.C. Copenhagen|Copenhagen]] (9)}}, {{nowrap|[[PAOK FC|PAOK]] (2)}}
+|-
+| rowspan="3" | 8
+! scope="row" data-sort-value="Gulliksen, Tobias" | {{nowrap|''[[Tobias Gulliksen]]''}}
+| style="text-align:left;" | {{flag|Norway}}
+| rowspan="3" | 38
+| {{nowrap|2023–2026}}
+| style="text-align:left;" | {{nowrap|[[FK Bodø/Glimt|Bodø/Glimt]] (11)}}, {{nowrap|[[Djurgårdens IF Fotboll|Djurgårdens IF]] (18)}}, {{nowrap|[[SK Rapid Wien|Rapid Wien]] (9)}}
+|-
+! scope="row" data-sort-value="Samoise, Matisse" | {{nowrap|'''[[Matisse Samoise]]'''}}
+| style="text-align:left;" | {{flag|Belgium}}
+| {{nowrap|2021–}}
+| style="text-align:left;" | '''[[KAA Gent|Gent]]'''
+|-
+! scope="row" data-sort-value="Traore, Ibrahim" | {{nowrap|[[Ibrahim Traoré (footballer)|Ibrahim Traoré]]}}
+| style="text-align:left;" | {{flag|Ivory Coast}}
+| {{nowrap|2021–2024}}
+| style="text-align:left;" | {{nowrap|[[SK Slavia Prague|Slavia Prague]] (22)}}, {{nowrap|[[FC Viktoria Plzeň|Viktoria Plzeň]] (16)}}
+|-
+|}
+
+=== All-time top scorers ===
+
+:Players taking part in the [[2026–27 UEFA Conference League]] are highlighted in '''bold'''.<br />
+:Players still active but not in this year's Conference League are highlighted in ''italics''.
+
+====Group/league phase to final====
+
+{{updated|5 November 2026}}<ref name=topscorer>{{cite web |title=Conference League 2025/2026 » History: All-Time Top Scorers | url=https://www.worldfootball.net/competition/co6395/uefa-conference-league/records-all-time-goals/|access-date=14 November 2025|website=WorldFootball.net}}</ref>
+
+:The table below does not include goals scored in the qualification phase of the competition.
+
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" | Rank
+! scope="col" | Player
+! scope="col" | Goals
+! scope="col" | {{Abbr|Apps|Appearances}}
+! scope="col" | Ratio
+! scope="col" | Years
+! scope="col" | Club(s) (Goals/Apps)
+|-
+| rowspan="2"| 1
+! scope="row" data-sort-value="Dessers, Cyriel" | {{nowrap|{{flagicon|NGA}} '''[[Cyriel Dessers]]'''}}
+| rowspan="2"| 13
+| 16
+| {{#expr:13/16 round 2}}
+| {{nowrap|2021–}}
+| style="text-align:left;" | {{nowrap|[[Feyenoord]] (10/13)}}, {{nowrap|'''[[Panathinaikos F.C.|Panathinaikos]]''' (3/3)}}
+|-
+! scope="row" data-sort-value="Ishak, Mikael" | {{nowrap|{{flagicon|SWE}} ''[[Mikael Ishak]]''}}
+| 22
+| {{#expr:13/22 round 2}}
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | [[Lech Poznań]]
+|-
+| rowspan="3"| 3
+! scope="row" data-sort-value="Zahavi, Eran" | {{nowrap|{{flagicon|ISR}} [[Eran Zahavi]]}}
+| rowspan="3" | 12
+| 14
+| {{#expr:12/14 round 2}}
+| {{nowrap|2022–2024}}
+| style="text-align:left;" | {{nowrap|[[PSV Eindhoven]] (4/6)}}, {{nowrap|[[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]] (8/8)}}
+|-
+! scope="row" data-sort-value="Cabral, Arthur" | {{nowrap|{{flagicon|BRA}} ''[[Arthur Cabral]]''}}
+| 20
+| {{#expr:12/20 round 2}}
+| {{nowrap|2021–2023}}
+| style="text-align:left;" | {{nowrap|[[FC Basel|Basel]] (5/6)}}, {{nowrap|[[ACF Fiorentina|Fiorentina]] (7/14)}}
+|-
+! scope="row" data-sort-value="Pavlidis, Vangelis" | {{nowrap|{{flagicon|GRE}} ''[[Vangelis Pavlidis]]''}}
+| 21
+| {{#expr:12/21 round 2}}
+| {{nowrap|2021–2023}}
+| style="text-align:left;" | [[AZ Alkmaar|AZ]]
+|-
+| 6
+! scope="row" data-sort-value="El Kaabi, Ayoub" | {{nowrap|{{flagicon|MAR}} ''[[Ayoub El Kaabi]]''}}
+| 11
+| 9
+| {{#expr:11/9 round 2}}
+| {{nowrap|2024}}
+| style="text-align:left;" | [[Olympiacos F.C.|Olympiacos]]
+|-
+| 7
+! scope="row" data-sort-value="Orban, Gift" | {{nowrap|{{flagicon|NGA}} ''[[Gift Orban]]''}}
+| 10
+| 11
+| {{#expr:10/11 round 2}}
+| {{nowrap|2023}}
+| style="text-align:left;" | [[KAA Gent|Gent]]
+|-
+| rowspan="7" | 8
+! scope="row" data-sort-value="Abraham, Tammy" | {{nowrap|{{flagicon|ENG}} ''[[Tammy Abraham]]''}}
+| rowspan="7" | 9
+| 13
+| {{#expr:9/13 round 2}}
+| {{nowrap|2021–2022}}
+| style="text-align:left;" | [[AS Roma|Roma]]
+|-
+! scope="row" data-sort-value="Sarr, Ismaila" | {{nowrap|{{flagicon|SEN}} ''[[Ismaïla Sarr]]''}}
+| 13
+| {{#expr:9/13 round 2}}
+| {{nowrap|2025–2026}}
+| style="text-align:left;" | [[Crystal Palace F.C.|Crystal Palace]]
+|-
+! scope="row" data-sort-value="Cuypers, Hugo" | {{nowrap|{{flagicon|BEL}} ''[[Hugo Cuypers]]''}}
+| 16
+| {{#expr:9/16 round 2}}
+| {{nowrap|2022–2023}}
+| style="text-align:left;" | [[KAA Gent|Gent]]
+|-
+! scope="row" data-sort-value="Pululu, Afimico" | {{nowrap|{{flagicon|COD}} ''[[Afimico Pululu]]''}}
+| 19
+| {{#expr:9/19 round 2}}
+| {{nowrap|2024–2026}}
+| style="text-align:left;" | [[Jagiellonia Białystok]]
+|-
+! scope="row" data-sort-value="Cavric, Aleksandar" | {{nowrap|{{flagicon|SRB}} ''[[Aleksandar Čavrić]]''}}
+| 20
+| {{#expr:9/20 round 2}}
+| {{nowrap|2021–2023}}
+| style="text-align:left;" | [[ŠK Slovan Bratislava|Slovan Bratislava]]
+|-
+! scope="row" data-sort-value="Jovic, Luka" | {{nowrap|{{flagicon|SRB}} ''[[Luka Jović]]''}}
+| 22
+| {{#expr:9/22 round 2}}
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | {{nowrap|[[ACF Fiorentina|Fiorentina]] (6/13)}}, {{nowrap|[[AEK Athens F.C.|AEK Athens]] (3/8)}}
+|-
+! scope="row" data-sort-value="Mandragora, Rolando" | {{nowrap|{{flagicon|ITA}} ''[[Rolando Mandragora]]''}}
+| 49
+| {{#expr:9/49 round 2}}
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | [[ACF Fiorentina|Fiorentina]]
+|-
+|}
+
+====Including qualifying rounds====
+
+{{updated|5 November 2026}}<ref name=topscorer/><ref>{{cite web|title=Conference League Qual. 2025/2026 » History: All-Time Top Scorers|url=https://www.worldfootball.net/competition/co6495/uefa-conference-league-qual/records-all-time-goals/|access-date=14 November 2025|website=WorldFootball.net|archive-date=23 December 2025|archive-url=https://web.archive.org/web/20251223000743/https://www.worldfootball.net/competition/co6495/uefa-conference-league-qual/records-all-time-goals/|url-status=live}}</ref><ref>{{cite web |title=Top goalscorers | url=https://www.uefa.com/uefaconferenceleague/history/rankings/players/goals_scored/ | access-date=26 September 2025 | work=All-time stats | series=UEFA Conference League | publisher=[[UEFA]]}}</ref>
+
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" | Rank
+! scope="col" | Player
+! scope="col" | Goals
+! scope="col" | {{Abbr|Apps|Appearances}}
+! scope="col" | Ratio
+! scope="col" | Years
+! scope="col" | Club(s) (Goals/Apps)
+|-
+| 1
+! scope="row" data-sort-value="Cabral, Arthur" | {{nowrap|{{flagicon|BRA}} ''[[Arthur Cabral]]''}}
+| 21
+| 28
+| {{#expr:21/28 round 2}}
+| {{nowrap|2021–2023}}
+| style="text-align:left;" | {{nowrap|[[FC Basel|Basel]] (13/12)}}, {{nowrap|[[ACF Fiorentina|Fiorentina]] (8/16)}}
+|-
+| 2
+! scope="row" data-sort-value="Zahavi, Eran" | {{nowrap|{{flagicon|ISR}} [[Eran Zahavi]]}}
+| 19
+| 24
+| {{#expr:19/24 round 2}}
+| {{nowrap|2022–2024}}
+| style="text-align:left;" | {{nowrap|[[PSV Eindhoven]] (4/6)}}, {{nowrap|[[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]] (15/18)}}
+|-
+| rowspan="4" | 3
+! scope="row" data-sort-value="Dessers, Cyriel" | {{nowrap|{{flagicon|NGA}} '''[[Cyriel Dessers]]'''}}
+| rowspan="4" | 16
+| 19
+| {{#expr:16/19 round 2}}
+| {{nowrap|2021–}}
+| style="text-align:left;" | {{nowrap|[[Feyenoord]] (10/13)}}, {{nowrap|'''[[Panathinaikos F.C.|Panathinaikos]]''' (6/6)}}
+|-
+! scope="row" data-sort-value="Cuypers, Hugo" | {{nowrap|{{flagicon|BEL}} ''[[Hugo Cuypers]]''}}
+| 22
+| {{#expr:16/22 round 2}}
+| {{nowrap|2022–2023}}
+| style="text-align:left;" | [[KAA Gent|Gent]]
+|-
+! scope="row" data-sort-value="Ishak, Mikael" | {{nowrap|{{flagicon|SWE}} ''[[Mikael Ishak]]''}}
+| 30
+| {{#expr:16/30 round 2}}
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | [[Lech Poznań]]
+|-
+! scope="row" data-sort-value="Pavlidis, Vangelis" | {{nowrap|{{flagicon|GRE}} ''[[Vangelis Pavlidis]]''}}
+| 31
+| {{#expr:16/31 round 2}}
+| {{nowrap|2021–2023}}
+| style="text-align:left;" | [[AZ Alkmaar|AZ]]
+|-
+| rowspan="2" | 7
+! scope="row" data-sort-value="Orban, Gift" | {{nowrap|{{flagicon|NGA}} ''[[Gift Orban]]''}}
+| rowspan="2" | 14
+| 16
+| {{#expr:14/16 round 2}}
+| {{nowrap|2023}}
+| style="text-align:left;" | [[KAA Gent|Gent]]
+|-
+! scope="row" data-sort-value="Gomes, Ricardo" | {{nowrap|{{flagicon|CPV}} ''[[Ricardo Gomes (Cape Verdean footballer)|Ricardo Gomes]]''}}
+| 24
+| {{#expr:14/24 round 2}}
+| {{nowrap|2021–2023}}
+| style="text-align:left;" | [[FK Partizan|Partizan]]
+|-
+| rowspan="5" | 9
+! scope="row" data-sort-value="Abraham, Tammy" | {{nowrap|{{flagicon|ENG}} ''[[Tammy Abraham]]''}}
+| rowspan="5" | 13
+| 18
+| {{#expr:13/18 round 2}}
+| {{nowrap|2021–2025}}
+| style="text-align:left;" | {{nowrap|[[AS Roma|Roma]] (9/14)}}, {{nowrap|[[Beşiktaş J.K.|Beşiktaş]] (4/4)}}
+|-
+! scope="row" data-sort-value="Pululu, Afimico" | {{nowrap|{{flagicon|COD}} ''[[Afimico Pululu]]''}}
+| 26
+| {{#expr:13/26 round 2}}
+| {{nowrap|2021–2026}}
+| style="text-align:left;" | {{nowrap|[[FC Basel|Basel]] (0/2)}}, {{nowrap|[[Jagiellonia Białystok]] (13/24)}}
+|-
+! scope="row" data-sort-value="Rrahmani, Albion" | {{nowrap|{{flagicon|KOS}} ''[[Albion Rrahmani]]''}}
+| 27
+| {{#expr:13/27 round 2}}
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | {{nowrap|[[FC Ballkani|Ballkani]] (9/14)}}, {{nowrap|[[AC Sparta Prague|Sparta Prague]] (4/13)}}
+|-
+! scope="row" data-sort-value="Pellegrino, Amahl" | {{nowrap|{{flagicon|NOR}} ''[[Amahl Pellegrino]]''}}
+| 27
+| {{#expr:13/27 round 2}}
+| {{nowrap|2021–2023}}
+| style="text-align:left;" | [[FK Bodø/Glimt|Bodø/Glimt]]
+|-
+! scope="row" data-sort-value="Korenica, Meriton" | {{nowrap|{{flagicon|KOS}} ''[[Meriton Korenica]]''}}
+| 29
+| {{#expr:13/29 round 2}}
+| {{nowrap|2022–2026}}
+| style="text-align:left;" | {{nowrap|[[FC Ballkani|Ballkani]] (8/18)}}, {{nowrap|[[CFR Cluj]] (5/11)}}
+|-
+|}
+
+=== Other records ===
+* The [[2024–25 UEFA Conference League|2024–25 edition]] victory made Chelsea the first club to [[UEFA club competition records and statistics#List of teams to have won the main European club competitions|win all four major European trophies]], including all three of the current European competitions. They received a special UEFA award for this achievement in 2025.<ref>{{cite news | title=Chelsea handed special award by Uefa before Champions League draw in front of co-owner Todd Boehly | work=The Irish Sun | date=28 August 2025 | url=https://www.thesun.ie/sport/15756503/chelsea-uefa-champions-league-draw-todd-boehly/ | archive-date=5 August 2026 | access-date=5 August 2026 | archive-url=https://web.archive.org/web/20260805165025/https://www.thesun.ie/sport/15756503/chelsea-uefa-champions-league-draw-todd-boehly/ | url-status=live }}</ref>
+
+* The largest single-match margin of victory in the current Conference League format is 8–0, with [[Chelsea F.C.|Chelsea]]'s victory over [[FC Noah]] in the [[2024–25 UEFA Conference League|2024–25 edition]]'s league stage.<ref>{{Cite web|url=https://statorium.com/football-api|title=Football API – stats and data|date=November 8, 2024|website=Statorium|access-date=8 November 2024|archive-date=13 November 2024|archive-url=https://web.archive.org/web/20241113044320/https://statorium.com/football-api|url-status=live}}</ref> 
+* Only one club has won the competition unbeaten: [[West Ham United F.C.|West Ham]], who won 12 games and drew one in the [[2022–23 UEFA Europa Conference League|2022–23 edition]].
+* West Ham and Chelsea share the record for the most wins in one singular Conference League campaign, with 12 wins each in 2022–23 and 2024–25 respectively.
+* Chelsea scored a record of 42 goals in 13 matches in their 2024–25 winning campaign.
+
+== Awards ==
+=== Player of the Season ===
+Starting from the first edition of the competition, UEFA introduced the UEFA Conference League Player of the Season award. It was known as the UEFA Europa Conference League Player of the Season award before the renaming of the competition in 2024.
+
+The jury is composed of the coaches of the clubs which participate in the league phase (group stage prior to 2024–25 season) of the competition, together with 55 journalists selected by the [[European Sports Media]] (ESM) group, one from each UEFA member association.
+
+[[File:FC Salzburg gegen AS Roma Pellegrini.jpg|thumb|Pellegrini, the first winner of the Player of the Season award in 2022]]
+[[File:Luis Sinisterra.png|thumb|Sinisterra, the first winner of the Young Player of the Season award in 2022]]
+
+{| class="wikitable"
+|-
+!Season
+!Player
+!Club
+|-
+!colspan="4"|UEFA Conference League Player of the Season
+|-
+|[[2021–22 UEFA Europa Conference League|2021–22]]
+|{{flagicon|ITA}} [[Lorenzo Pellegrini]]
+|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|-
+|[[2022–23 UEFA Europa Conference League|2022–23]]
+|{{flagicon|ENG}} [[Declan Rice]]
+|{{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|-
+|[[2023–24 UEFA Europa Conference League|2023–24]]
+|{{flagicon|MAR}} [[Ayoub El Kaabi]]
+|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|-
+|[[2024–25 UEFA Conference League|2024–25]]
+|{{flagicon|ESP}} [[Isco]]
+|{{fbaicon|ESP}} [[Real Betis]]
+|-
+|[[2025–26 UEFA Conference League|2025–26]]
+|{{flagicon|SEN}} [[Ismaïla Sarr]]
+|{{fbaicon|ENG}} [[Crystal Palace F.C.|Crystal Palace]]
+|}
+
+=== Young Player of the Season ===
+UEFA also introduced the UEFA Conference League Young Player of the Season award. It was known as the UEFA Europa Conference League Young Player of the Season award before the renaming of the competition in 2024.
+
+{| class="wikitable"
+|-
+!Season
+!Player
+!Club
+|-
+!colspan="4"|UEFA Conference League Young Player of the Season
+|-
+|[[2021–22 UEFA Europa Conference League|2021–22]]
+|{{flagicon|COL}} [[Luis Sinisterra]]
+|{{fbaicon|NED}} [[Feyenoord]]
+|-
+|[[2022–23 UEFA Europa Conference League|2022–23]]
+|{{flagicon|FRA}} [[Andy Diouf]]
+|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|-
+|[[2023–24 UEFA Europa Conference League|2023–24]]
+|{{flagicon|BRA}} [[Igor Thiago]]
+|{{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|-
+|[[2024–25 UEFA Conference League|2024–25]]
+|{{flagicon|NOR}} [[Tobias Gulliksen]]
+|{{fbaicon|SWE}} [[Djurgårdens IF Fotboll|Djurgårdens IF]]
+|-
+|[[2025–26 UEFA Conference League|2025–26]]
+|{{flagicon|NED}} [[Kees Smit]]
+|{{fbaicon|NED}} [[AZ Alkmaar|AZ]]
+|}
+
+== Sponsorship ==
+The UEFA Conference League is sponsored by international corporations, sharing the same partners as the [[UEFA Europa League]]. Among the main sponsors of the tournament for the 2024–2027 cycle are:
+* [[Just Eat Takeaway.com|Just Eat Takeaway]]<ref>{{cite web |title=Just Eat Takeaway.com and UEFA renew partnership |url=https://www.uefa.com/news-media/news/028a-1a29786d33ad-b4ece8778147-1000--just-eat-takeaway-com-and-uefa-renew-partnership/ |website=UEFA.com |publisher=Union of European Football Associations |access-date=26 July 2024 |date=12 February 2024 |archive-date=26 July 2024 |archive-url=https://web.archive.org/web/20240726004158/https://www.uefa.com/news-media/news/028a-1a29786d33ad-b4ece8778147-1000--just-eat-takeaway-com-and-uefa-renew-partnership/ |url-status=live }}</ref>
+* [[Hankook|Laufenn]]<ref>{{Cite web|date=23 May 2024|title=Hankook Tire renews UEFA Europa League and UEFA Conference League sponsorships|url=https://www.uefa.com/news-media/news/028d-1af53db198cd-2d3d6cad24f5-1000--hankook-tire-renews-uefa-europa-league-and-uefa-conference/|access-date=26 July 2024|website=UEFA.com|publisher=Union of European Football Associations|archive-date=26 July 2024|archive-url=https://web.archive.org/web/20240726004159/https://www.uefa.com/news-media/news/028d-1af53db198cd-2d3d6cad24f5-1000--hankook-tire-renews-uefa-europa-league-and-uefa-conference/|url-status=live}}</ref>
+* [[Strauss (company)|Engelbert Strauss]]<ref>{{Cite web|date=29 September 2023|title=STRAUSS renews UEFA Europa League and UEFA Europa Conference League partnership|url=https://www.uefa.com/news-media/news/0285-1917f7468093-3d5fdeeac8eb-1000--strauss-renews-uefa-europa-league-and-uefa-europa-conferenc/|access-date=26 July 2024|website=UEFA.com|publisher=Union of European Football Associations|archive-date=26 July 2024|archive-url=https://web.archive.org/web/20240726004159/https://www.uefa.com/news-media/news/0285-1917f7468093-3d5fdeeac8eb-1000--strauss-renews-uefa-europa-league-and-uefa-europa-conferenc/|url-status=live}}</ref>
+* [[Swissquote]]<ref>{{Cite web|date=27 February 2024|title=UEFA and Swissquote renew partnership|url=https://www.uefa.com/news-media/news/028a-1a47ba962341-c624356ae9cb-1000--uefa-and-swissquote-renew-partnership/|access-date=26 July 2024|website=UEFA.com|publisher=Union of European Football Associations|archive-date=26 July 2024|archive-url=https://web.archive.org/web/20240726004158/https://www.uefa.com/news-media/news/028a-1a47ba962341-c624356ae9cb-1000--uefa-and-swissquote-renew-partnership/|url-status=live}}</ref>
+* [[Betano (company)|Betano]]<ref>{{Cite web|date=29 August 2024|title=Betano becomes official global sponsor of UEFA Europa League and UEFA Conference League|url=https://www.uefa.com/news-media/news/0290-1bb9cb6171cd-cc0c7ebb2d7c-1000--betano-becomes-official-global-sponsor-of-uefa-europa-lea/|access-date=30 August 2024|website=UEFA.com|publisher=Union of European Football Associations|archive-date=30 August 2024|archive-url=https://web.archive.org/web/20240830051534/https://www.uefa.com/news-media/news/0290-1bb9cb6171cd-cc0c7ebb2d7c-1000--betano-becomes-official-global-sponsor-of-uefa-europa-lea/|url-status=live}}</ref>
+* [[Lidl]]
+[[Decathlon (retailer)|Decathlon]] sub-brand, Kipsta, is the official match ball supplier from the 2024–25 season onwards for a three-year period.<ref>{{Cite web |title=UEFA chooses KIPSTA for the UEFA Europa League and UEFA Europa Conference League|url=https://www.kipsta.com/uefa-chooses-kipsta-for-the-uefa-europa-league-and-uefa-europa-conference-league|url-status=live|archive-url=https://web.archive.org/web/20231120142433/https://www.kipsta.com/uefa-chooses-kipsta-for-the-uefa-europa-league-and-uefa-europa-conference-league|archive-date=20 November 2023|access-date=20 November 2023|website=Kipsta.com}}</ref>
+
+== See also ==
+* [[UEFA club competition records]]
+* [[UEFA Intertoto Cup]]
+* [[UEFA Cup Winners' Cup]]
+
+== Notes ==
+{{reflist|group=note}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Official website|https://www.uefa.com/uefaconferenceleague/}}
+* {{Official website|https://www.uefa.com/|name=UEFA – Official website}}
+
+{{commons category}}
+
+{{Navboxes
+|title = Articles related to the UEFA Conference League
+|list =
+{{UEFA Conference League}}
+{{UEFA Conference League winners}}
+{{UEFA Conference League final venues}}
+{{UEFA Conference League winning managers}}
+{{UEFA Conference League top scorers}}
+{{UEFA competitions}}
+{{International club football}}
+{{European sport club competitions}}
+}}
+{{Authority control}}
+{{Portal bar|Sports|Association football|Europe}}
+
+[[Category:UEFA Conference League| ]]
+[[Category:Men's continental association football competitions in Europe|3]]
+[[Category:Men's association football club competitions in Europe|3]]
+[[Category:UEFA club competitions|Conference League]]
+[[Category:Recurring sporting events established in 2021]]
+[[Category:2021 establishments in Europe]]

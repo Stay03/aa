@@ -1,0 +1,352 @@
+{{good article}}
+{{Short description|Association football championship match between Chelsea and Leicester City in 2021}}
+{{Use British English|date=August 2020}}
+{{Use dmy dates|date=May 2021}}
+{{For|the women's event|2021 Women's FA Cup final}}
+{{Infobox football match
+| title              = 2021 FA Cup final
+| image              = Wembley-Stadion 2013.JPG
+| image_size         = 
+| caption            = The match took place at [[Wembley Stadium]].
+| event              = [[2020–21 FA Cup]]
+| team1              = [[Chelsea F.C.|Chelsea]]
+| team1score         = 0
+| team2              = [[Leicester City F.C.|Leicester City]]
+| team2score         = 1
+| details            =
+| date               = {{Start date|2021|5|15|df=y}}
+| stadium            = [[Wembley Stadium]]
+| city               = [[London]]
+| man_of_the_match1a = [[Youri Tielemans]] (Leicester City)
+| referee            = [[Michael Oliver (referee)|Michael Oliver]] ([[Durham County Football Association|County Durham]])
+| attendance         = 20,000{{refn|group=note|name=Attendance cap}}
+| weather            = Rain
+| previous           = [[2020 FA Cup final|2020]]
+| next               = [[2022 FA Cup final|2022]]
+}}
+The '''2021 FA Cup final''' was an [[association football]] match played between [[Chelsea F.C.|Chelsea]] and [[Leicester City F.C.|Leicester City]] at [[Wembley Stadium]], London, England on 15 May 2021. Organised by [[the Football Association]] (FA), it was the [[List of FA Cup Finals|140th final]] of the [[Football Association Challenge Cup]] (FA Cup) and the showpiece match of English football's primary cup competition. The match was among the first football events where the return of large crowds was piloted after the [[COVID-19 pandemic in England]], with an official attendance of 20,000 after [[2020 FA Cup final|the previous year's final]] was held [[Behind closed doors (sport)|behind closed doors]]. The match was televised live in the United Kingdom on free-to-air channel [[BBC One]] and on pay TV channel [[BT Sport|BT Sport 1]]. In the UK, live radio coverage was provided by [[BBC Radio 5 Live]], [[Talksport]] and local stations [[BBC Radio London]] and [[BBC Radio Leicester]]. The match was watched by more than 9&nbsp;million people in the United Kingdom.
+
+[[Michael Oliver (referee)|Michael Oliver]] was the [[Referee (association football)|referee]]. After a goalless first half, [[Youri Tielemans]] scored midway through the second half with a strike from distance which flew into the top-left corner of Chelsea's goal past [[Kepa Arrizabalaga]]. In the final minute of regular time, [[Thiago Silva]] passed to [[Ben Chilwell]], who shot; [[Çağlar Söyüncü]] cleared Chilwell's shot off the line but it deflected back off [[Wes Morgan]] and into the Leicester City net. The goal was referred to the [[video assistant referee]], who deemed Chilwell was [[Offside (association football)|offside]] in the build-up; the goal was disallowed and the match ended 1–0 to Leicester City who won the first FA Cup title in their history. Tielemans was named as [[Player of the match|man of the match]]. As winners, Leicester City entered the group stage of the [[2021–22 UEFA Europa League]]. They also faced [[2020–21 Premier League]] champions [[Manchester City F.C.|Manchester City]] in the [[2021 FA Community Shield]].
+
+==Route to the final==
+{{main|2020–21 FA Cup}}
+
+===Chelsea===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;margin:0"
+|-
+|+Chelsea's route to the final
+|-
+!scope="col" style="width:25px"|Round
+!scope="col" style="width:180px"|Opposition
+!scope="col" style="width:70px"|Score
+|-
+!scope=row style="text-align:center"|3rd
+|[[Morecambe F.C.|Morecambe]] ([[Stamford Bridge (stadium)|H]])
+|4–0<br />
+|-
+!scope=row style="text-align:center"|4th
+|[[Luton Town F.C.|Luton Town]] ([[Stamford Bridge (stadium)|H]])
+|3–1
+|-
+!scope=row style="text-align:center"|5th
+|[[Barnsley F.C.|Barnsley]] ([[Oakwell|A]])
+|1–0
+|-
+!scope=row style="text-align:center"|QF
+|[[Sheffield United F.C.|Sheffield United]] ([[Stamford Bridge (stadium)|H]])
+|2–0
+|-
+!scope=row style="text-align:center"|SF
+|[[Manchester City F.C.|Manchester City]] ([[Wembley Stadium|N]])
+|1–0
+|-
+|colspan="3"|<small>'''Key:''' (H) = Home venue; (A) = Away venue; (N) = [[Neutral venue]]</small>
+|}
+</div>
+As a [[Premier League]] team, Chelsea entered the competition in the third round where they played at home at [[Stamford Bridge (stadium)|Stamford Bridge]] against [[EFL League Two|League Two]] side [[Morecambe F.C.|Morecambe]], whom had been affected by a [[COVID-19]] outbreak at the club prior to the match.<ref>{{cite web |first=James |last=Robson |url=https://www.standard.co.uk/sport/football/chelsea-fc-news-fa-cup-morecambe-covid-coronavirus-outbreak-b695490.html |title=Chelsea's FA Cup tie against Morecambe expected to get go-ahead after Covid outbreak |work=[[Evening Standard]] |date=5 January 2021 |access-date=24 January 2021}}</ref>  [[Mason Mount]] opened the scoring in the 18th minute with a {{convert|25|yd|adj=on}} strike before [[Timo Werner]] made it 2–0 to Chelsea before half-time from close range.  [[Callum Hudson-Odoi]] scored four minutes after the interval and [[Kai Havertz]] made it 4–0 after [[Header (association football)|heading]] in a [[Cross (association football)|cross]] from [[César Azpilicueta]].<ref>{{cite web|title=Werner scores as Chelsea see off Morecambe|publisher=[[BBC Sport]]|date=8 January 2021|url=https://www.bbc.co.uk/sport/football/55575484|access-date=17 April 2021| first= Neil | last= Johnston | archive-date=24 January 2021|archive-url=https://web.archive.org/web/20210124041423/https://www.bbc.co.uk/sport/football/55575484|url-status=live}}</ref> In the fourth round, they played [[EFL Championship|Championship]] side [[Luton Town F.C.|Luton Town]] at home.  Chelsea were 2–0 ahead inside 17 minutes with two goals from [[Tammy Abraham]].  [[Jordan Clark (English footballer)|Jordan Clark]] reduced the deficit, scoring after an error from [[Kepa Arrizabalaga]], but Abraham completed his [[Hat-trick (association football)|hat-trick]] in the 74th minute.  Werner missed a late [[Penalty kick (association football)|penalty]] and the match ended 3–1 to Chelsea.<ref>{{cite web|title=Abraham hat-trick sees off Luton| first= Jess | last = Anderson | publisher=[[BBC Sport]]|date=22 January 2021|url=https://www.bbc.co.uk/sport/football/55770051|access-date=17 April 2021|archive-date=25 February 2021|archive-url=https://web.archive.org/web/20210225234912/https://www.bbc.co.uk/sport/football/55770051|url-status=live}}</ref> 
+
+Their opposition for the fifth round was Championship team [[Barnsley F.C.|Barnsley]] who they played away at [[Oakwell]].  After a goalless first half, Abraham gave Chelsea the lead midway through the second, with his side's only shot on target in the match. A late shot from [[Michael Sollbauer]] was cleared off the goalline by Abraham, and Chelsea progressed to the quarter-final with a 1–0 victory.<ref>{{cite web|title=Chelsea beat Barnsley to set up Sheff Utd tie|publisher=[[BBC Sport]]| first= Neil | last= Johnston | date=10 February 2021| url=https://www.bbc.co.uk/sport/football/55955768| access-date=17 April 2021| archive-date=21 February 2021 |archive-url=https://web.archive.org/web/20210221222359/https://www.bbc.co.uk/sport/football/55955768|url-status=live}}</ref> There they played fellow Premier League side [[Sheffield United F.C.|Sheffield United]] at Stamford Bridge.  Midway through the first half, Chelsea took the lead when [[Oliver Norwood]] deflected [[Ben Chilwell]]'s cross into the Sheffield United net for an [[own goal]].  In second-half [[stoppage time]], Chelsea counter-attacked as Sheffield United pushed players up the field, and [[Hakim Ziyech]]'s 92nd minute strike secured a 2–0 win.<ref>{{cite web|title=Chelsea move into FA Cup semi-finals|publisher=[[BBC Sport]]|date=19 March 2021|url=https://www.bbc.co.uk/sport/football/56415023| first = Michael | last= Emons| access-date=17 April 2017|archive-date=19 March 2021|archive-url=https://web.archive.org/web/20210319141154/https://www.bbc.co.uk/sport/football/56415023|url-status=live}}</ref> Chelsea then faced the Premier League leaders Manchester City in the semi-final at Wembley Stadium which was being used as a neutral venue.  The first half ended goalless and ten minutes into the second half, Ziyech scored from Werner's pass. 
+No further goals were scored and Chelsea reached their fourth final in five years with a 1–0 victory.<ref>{{cite web|title=Thomas Tuchel's side advance to FA Cup final to end City's quadruple hopes|publisher=[[BBC Sport]]|date=17 April 2021| first= Phil | last = McNulty |authorlink = Phil McNulty | url=https://www.bbc.co.uk/sport/football/56725442|access-date=17 April 2021|archive-date=17 April 2021|archive-url=https://web.archive.org/web/20210417082002/https://www.bbc.co.uk/sport/football/56725442|url-status=live}}</ref>
+
+===Leicester City===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;margin:0"
+|-
+|+Leicester City's route to the final
+|-
+!scope="col" style="width:25px"|Round
+!scope="col" style="width:180px"|Opposition
+!scope="col" style="width:70px"|Score
+|-
+!scope=row style="text-align:center"|3rd
+|[[Stoke City F.C.|Stoke City]] ([[Bet365 Stadium|A]])
+|4–0<br />
+|-
+!scope=row style="text-align:center"|4th
+|[[Brentford F.C.|Brentford]] ([[Brentford Community Stadium|A]])
+|3–1
+|-
+!scope=row style="text-align:center"|5th
+|[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] ([[King Power Stadium|H]])
+|1–0
+|-
+!scope=row style="text-align:center"|QF
+|[[Manchester United F.C.|Manchester United]] ([[King Power Stadium|H]])
+|3–1
+|-
+!scope=row style="text-align:center"|SF
+|[[Southampton F.C.|Southampton]] ([[Wembley Stadium|N]])
+|1–0
+|-
+|colspan="3"|<small>'''Key:''' (H) = Home venue; (A) = Away venue; (N) = [[Neutral venue]]</small>
+|}
+</div>
+As a Premier League team, Leicester City started in the third round, playing Championship team [[Stoke City F.C.|Stoke City]] away at the [[Bet365 Stadium]].  The home side's [[Sam Vokes]] struck his shot over the crossbar before [[James Justin]] opened the scoring for Leicester in the 34th minute.  [[Marc Albrighton]] doubled the lead fourteen minutes into the second half before strikes from [[Ayoze Pérez]] and [[Harvey Barnes]] secured a 4–0 victory.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/55574481|title=Foxes power past Stoke in FA Cup|date=9 January 2021|access-date=18 April 2021|publisher=[[BBC Sport]] | archive-date=24 January 2021|archive-url=https://web.archive.org/web/20210124041258/https://www.bbc.co.uk/sport/football/55574481|url-status=live}}</ref> In the fourth round, they played Championship side [[Brentford F.C.|Brentford]] at the [[Brentford Community Stadium]].  [[Mads Bech Sørensen]] put the home side ahead after seven minutes to give them a 1–0 half-time lead.  Within a minute of the restart, [[Cengiz Ünder]] scored from a [[James Maddison]] pass to level the score.  [[Youri Tielemans]] was then fouled in the Brentford penalty area and scored the resulting penalty to make it 2–1 to Leicester City.  Maddison then scored from a rebound after Brentford's goalkeeper [[Luke Daniels]] failed to hold on to Barnes' shot, to give Leicester City a 3–1 win.<ref>{{cite web |title=Leicester overcome Brentford scare |publisher=[[BBC Sport]] |date=22 January 2021 |url=https://www.bbc.co.uk/sport/football/55770058 |access-date=18 April 2021 |archive-date=28 February 2021 | first= Stephan | last= Shemilt |archive-url=https://web.archive.org/web/20210228140059/https://www.bbc.co.uk/sport/football/55770058 |url-status=live }}</ref> 
+
+Leicester's fifth round home match was at home at the [[King Power Stadium]] against fellow Premier League team [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]. After a goalless first half, both Ünder and Brighton's [[Andi Zeqiri]] had goals disallowed before [[Kelechi Iheanacho]] headed in a Tielemans cross four minutes into second-half stoppage time to give his side a 1–0 victory.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/55953166|title=Iheanacho winner sends Leicester through|date=10 February 2021|access-date=18 April 2021|publisher=[[BBC Sport]]| archive-date=21 February 2021| first= Shamoon | last= Hafez | archive-url=https://web.archive.org/web/20210221155757/https://www.bbc.co.uk/sport/football/55953166|url-status=live}}</ref> Leicester played fellow Premier League side Manchester United at home in the quarter-final.  Iheanacho capitalised on a poor backpass by [[Fred (footballer, born 1993)|Fred]] to score past [[Dean Henderson]] in the 24th minute.  [[Mason Greenwood]] equalised for Manchester United seven minutes before half time but Tielemans restored Leicester's one-goal lead with a low shot in the 52nd minute. Iheanacho scored his second and Leicester's third twelve minutes before the end of the match to secure a 3–1 win.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/56415040|title=Leicester see off Man Utd to reach semis|date=21 March 2021|access-date=18 April 2021|publisher=[[BBC Sport]] | first = Phil | last= McNulty | authorlink = Phil McNulty| archive-date=17 April 2021|archive-url=https://web.archive.org/web/20210417085407/https://www.bbc.co.uk/sport/football/56415040|url-status=live}}</ref>  Wembley Stadium hosted the semi-final as a neutral venue where Leicester City faced [[Southampton F.C.|Southampton]], another Premier League team, in front of 4,000 spectators as part of a pilot scheme with coronavirus restrictions easing.  No goals were scored in the first half but Iheanacho's 55th minute strike secured a 1–0 win for Leicester City and qualification for their first FA Cup final since 1969.<ref name=lc>{{Cite web|url=https://www.bbc.co.uk/sport/football/56725449|title=Leicester reach first FA Cup final since 1969|date=18 April 2021|access-date=18 April 2021| first = Phil | last= McNulty | authorlink = Phil McNulty | publisher=[[BBC Sport]]|archive-date=18 April 2021|archive-url=https://web.archive.org/web/20210418081150/https://www.bbc.co.uk/sport/football/56725449|url-status=live}}</ref>
+
+==Background==
+This was [[Chelsea F.C.|Chelsea]]'s fifteenth [[FA Cup Final]] appearance and their fourth in the last five seasons, having missed out in [[2019 FA Cup final|2019]]. However, they won only one of those four, beating [[Manchester United F.C.|Manchester United]] 1–0 in [[2018 FA Cup final|2018]]. They had lost 2020's final to [[Arsenal F.C.|Arsenal]].<ref>{{cite web |first=Phil |last=McNulty |authorlink=Phil McNulty |url=https://www.bbc.co.uk/sport/football/53546100 |title=FA Cup final 2020: Arsenal 2–1 Chelsea |publisher=[[BBC Sport]] |date=1 August 2020 |access-date=17 April 2021 |archive-date=1 August 2020 |archive-url=https://web.archive.org/web/20200801202716/https://www.bbc.co.uk/sport/football/53546100 |url-status=live }}</ref> Chelsea had won eight finals, seven of those occurred since [[1997 FA Cup final|1997]]. [[Leicester City F.C.|Leicester City]] appeared in four FA Cup Finals prior to 2021, losing them all; their most recent appearance was in [[1969 FA Cup final|1969]], when they were defeated 1&ndash;0 by [[Manchester City F.C.|Manchester City]].<ref name=thefa>{{Cite web |url=https://www.thefa.com/competitions/thefacup/stories/fa-cup-finals |publisher=[[The Football Association]] |title=FA Cup Finals – the winner's list |access-date=26 April 2021 |archive-date=10 April 2021 |archive-url=https://web.archive.org/web/20210410202646/https://www.thefa.com/competitions/thefacup/stories/fa-cup-finals |url-status=live }}</ref>
+In the clubs' 118 previous meetings, Chelsea won 57, Leicester City won 27 and the remaining 34 were drawn.  Leicester City had never beaten Chelsea in their seven previous FA Cup ties, although two had gone to a replay.<ref>{{cite web |title=Chelsea football club: record v Leicester City |url=https://www.11v11.com/teams/chelsea/tab/opposingTeams/opposition/Leicester%20City/ | website=11v11 |access-date=15 May 2021 |publisher=AFS Enterprises |archive-date=14 October 2019 |archive-url=https://web.archive.org/web/20191014011631/https://www.11v11.com/teams/chelsea/tab/opposingTeams/opposition/Leicester%20City/ |url-status=live }}</ref>  Their most recent meeting was in the [[2020–21 Premier League]] on 19 January 2021 where Leicester won 2–0 with goals from [[Wilfred Ndidi]] and Maddison.<ref>{{cite web |first=Phil |last=McNulty |authorlink=Phil McNulty |title=Leicester City 2–0 Chelsea: Leicester win to go top of Premier League |url=https://www.bbc.co.uk/sport/football/55627849 |publisher=[[BBC Sport]] |date=19 January 2021 |access-date=15 May 2021 |archive-date=16 May 2021 |archive-url=https://web.archive.org/web/20210516015542/https://www.bbc.co.uk/sport/football/55627849 |url-status=live }}</ref>  This was the first FA Cup Final since [[2013 FA Cup final|2013]] held before the Premier League season ended.<ref name="talkSPORT" /> With two league games remaining, Leicester were in third place, two points ahead of Chelsea in fourth.<ref>{{Cite episode|title=MOTD Live: FA Cup final|series=The FA Cup|network=[[BBC]]|station=[[BBC One HD]]|date=15 May 2021|minutes=5}}</ref> Leicester went into the final as the only prior [[List of English football champions|league champions of England]] not to have won the FA Cup.<ref>{{cite web|first1=Conor|last1=Pope|first2=Mark|last2=White|title=Leicester win their first FA Cup, live! Follow the Foxes win over Chelsea in the FA Cup Final 2021|url=https://www.fourfourtwo.com/features/live/chelsea-vs-leicester-fa-cup-final-2021|work=[[FourFourTwo]]|date=15 May 2021|access-date=16 May 2021|quote=...{{nbsp}}and are the only team to have won the league and not won the FA Cup.|archive-date=15 May 2021|archive-url=https://web.archive.org/web/20210515174944/https://www.fourfourtwo.com/features/live/chelsea-vs-leicester-fa-cup-final-2021|url-status=live}}</ref> This was also the first cup final Leicester participated in since the [[2000 Football League Cup Final]].<ref>{{Cite web | url = https://www.fchd.info/LEICESTC.HTM | website = Football Club History Database | access-date = 22 May 2021 | title = Leicester City | archive-date = 31 October 2020 | archive-url = https://web.archive.org/web/20201031103831/http://www.fchd.info/LEICESTC.HTM | url-status = live }}</ref>
+
+[[Michael Oliver (referee)|Michael Oliver]] ([[Durham County Football Association|Durham]]) was the [[Referee (association football)|referee]], [[assistant referee (association football)|assisted]] by Stuart Burt and Simon Bennett. [[Stuart Attwell]] was the [[fourth official]], and Dan Cook the [[reserve assistant referee]]. [[Chris Kavanagh (referee)|Chris Kavanagh]] was the [[video assistant referee]] (VAR) and [[Sian Massey-Ellis]], acting as assistant VAR, became the first female referee involved in an FA Cup final.<ref name="referees">{{cite news |last=Veevers |first=Nicholas |url=https://www.thefa.com/news/2021/apr/20/michael-oliver-to-referee-emirates-fa-cup-final-20210420 |title=The lineup of match officials for the 2021 Emirates FA Cup Final has been selected |publisher=[[The Football Association]] |date=20 April 2021 |access-date=20 April 2021 |archive-date=20 April 2021 |archive-url=https://web.archive.org/web/20210420143146/https://www.thefa.com/news/2021/apr/20/michael-oliver-to-referee-emirates-fa-cup-final-20210420 |url-status=live }}</ref>
+
+For their team selections, Chelsea dropped Abraham and brought in Ziyech. Leicester started [[Jonny Evans]] and had their captain [[Wes Morgan]] on the bench.<ref>{{Cite web |first=Gary |last=Rose |url=https://www.bbc.co.uk/sport/live/football/55503216 |title=Leicester win FA Cup after late VAR drama – player, manager & pundit reaction |publisher=[[BBC Sport]] |date=15 May 2021 |access-date=20 May 2021 |archive-date=20 May 2021 |archive-url=https://web.archive.org/web/20210520082240/https://www.bbc.co.uk/sport/live/football/55503216 |url-status=live }}</ref>
+
+==Pre-match==
+===Ticketing and attendance===
+Due to the [[COVID-19 pandemic in the United Kingdom]], crowds at football matches in England had not exceeded 8,000 since March 2020.<ref name=lc /><ref>{{Cite web|url=https://www.independent.co.uk/sport/football/fa-league-cups/fa-cup-final-covid-wembley-fans-b1816932.html|title=FA Cup final could see 10,000 fans at Wembley Stadium|date=14 March 2021|work=[[The Independent]]|access-date=17 April 2021|archive-date=17 April 2021|archive-url=https://web.archive.org/web/20210417180532/https://www.independent.co.uk/sport/football/fa-league-cups/fa-cup-final-covid-wembley-fans-b1816932.html|url-status=live}}</ref><ref>{{Cite web |url=https://www.itv.com/news/granada/2021-04-25/a-cup-final-with-a-crowd-fans-watch-man-city-take-on-tottenham-at-wembley |title=A Cup final with a crowd: Fans watch Man City take on Tottenham at Wembley |publisher=[[ITV (TV network)|ITV]] |date=26 April 2021 |access-date=26 April 2021 |archive-date=26 April 2021 |archive-url=https://web.archive.org/web/20210426130811/https://www.itv.com/news/granada/2021-04-25/a-cup-final-with-a-crowd-fans-watch-man-city-take-on-tottenham-at-wembley |url-status=live }}</ref> [[The Football Association]] planned for the FA Cup Final to be part of a pilot scheme to allow fans to attend.<ref name=ss>{{Cite web|url=https://www.skysports.com/football/news/34651/12244148/fa-cup-final-among-events-to-be-used-as-pilot-for-large-scale-return-of-spectators|title=FA Cup final could see 20,000 fans at Wembley as pilot for large-scale return of spectators|publisher=[[Sky Sports]] |access-date=17 April 2021|archive-date=17 April 2021|archive-url=https://web.archive.org/web/20210417180532/https://www.skysports.com/football/news/34651/12244148/fa-cup-final-among-events-to-be-used-as-pilot-for-large-scale-return-of-spectators|url-status=live}}</ref> The [[English Football League]] had delayed the [[2021 EFL Cup Final]], hoping to admit supporters under the same scheme.<ref name=ss /> 
+
+On 14 March 2021, it was announced that up to 20,000 fans would be able to attend the final after it was selected for the pilot.<ref name=t>{{Cite news|url=https://www.telegraph.co.uk/politics/2021/03/13/fa-cup-final-world-snooker-championships-will-kickstart-return/|title=Wembley Stadium to admit 20,000 fans to FA Cup final in cautious restart for spectator sport|first=Christopher|last=Hope|date=13 March 2021|access-date=17 April 2021|work=[[The Daily Telegraph]]|archive-date=17 April 2021|archive-url=https://web.archive.org/web/20210417143109/https://www.telegraph.co.uk/politics/2021/03/13/fa-cup-final-world-snooker-championships-will-kickstart-return/|url-status=live}}</ref> This also came as Wembley was due to host several matches, including the final, of [[UEFA Euro 2020]] in the summer.<ref name=t /> Initial government plans required fans to provide evidence of their COVID vaccine status.<ref>{{Cite web|url=https://www.bbc.com/news/uk-56634176|title=Covid: Passports showing vaccine status would be time-limited, says minister|date=4 April 2021|access-date=17 April 2021|publisher=[[BBC News]]|archive-date=18 April 2021|archive-url=https://web.archive.org/web/20210418020946/https://www.bbc.com/news/uk-56634176|url-status=live}}</ref> Following opposition, the government announced fans would not need vaccine passports but would still have to provide evidence of a recent negative COVID-19 [[lateral flow test]] in order to enter the stadium. After the event fans were requested to take a [[Polymerase chain reaction|PCR]] test to track whether the event caused any spread of COVID-19.<ref>{{Cite web|url=https://inews.co.uk/news/politics/fans-show-negative-covid-tests-not-vaccine-passports-fa-cup-final-960065|title=Fans have to show negative Covid tests – not 'vaccine passports' – to get into FA Cup final|date=16 April 2021|work=[[i (newspaper)|i]]|access-date=17 April 2021|archive-date=16 April 2021|archive-url=https://web.archive.org/web/20210416154642/https://inews.co.uk/news/politics/fans-show-negative-covid-tests-not-vaccine-passports-fa-cup-final-960065|url-status=live}}</ref>
+
+===Broadcasting===
+[[File:Gary Lineker (cropped).jpg|thumb|upright|alt=Gary Lineker|Former Leicester City player [[Gary Lineker]] ''(pictured in 2010)'' presented the BBC One coverage of the final.]]
+
+The match was televised live in the United Kingdom on [[BBC One]] and [[BT Sport|BT Sport 1]]. BBC One's coverage was presented by former Leicester City player [[Gary Lineker]] alongside former [[Newcastle United F.C.|Newcastle United]] forward [[Alan Shearer]], former Arsenal forward and two-time FA Cup winner [[Ian Wright]], and former Chelsea defender [[Ashley Cole]], with commentary from [[Guy Mowbray]] and former [[Tottenham Hotspur F.C.|Tottenham Hotspur]] midfielder [[Jermaine Jenas]]. BBC coverage of the final was watched by 9.1 million people in the United Kingdom, making it the most watched match of the season.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/57134944 |title=FA Cup final on BBC becomes the most-watched game of the season so far |publisher=[[BBC Sport]] |date=16 May 2021 |access-date=19 May 2021 |archive-date=19 May 2021 |archive-url=https://web.archive.org/web/20210519080216/https://www.bbc.co.uk/sport/football/57134944 |url-status=live }}</ref> [[BBC Sport]] presenter [[Dan Walker (broadcaster)|Dan Walker]] presented the preview to the final on [[Football Focus]] with former [[Aston Villa F.C.|Aston Villa]] player [[Dion Dublin]] and former [[Arsenal W.F.C.|Arsenal Women]]'s player [[Alex Scott (footballer, born 1984)|Alex Scott]].<ref>{{Cite news|title=FA Cup final: How to watch and follow Chelsea v Leicester on the BBC|url=https://www.bbc.co.uk/sport/football/57073294|publisher=[[BBC Sport]]|access-date=15 May 2021|archive-date=15 May 2021|archive-url=https://web.archive.org/web/20210515105600/https://www.bbc.co.uk/sport/football/57073294|url-status=live}}</ref><ref>{{cite web |title=FA Cup final: Fans drown out TV interviews in raucous Wembley celebrations |url=https://www.bbc.co.uk/sport/football/57130885 |publisher=[[BBC Sport]] |date=15 May 2021 |access-date=15 May 2021 |archive-date=15 May 2021 |archive-url=https://web.archive.org/web/20210515191240/https://www.bbc.co.uk/sport/football/57130885 |url-status=live }}</ref> BT Sport's broadcast was presented by [[Jake Humphrey]], former Chelsea midfielder [[Joe Cole]], former Leicester City forward [[Emile Heskey]], and former players [[Rio Ferdinand]] and [[Michael Owen]]. [[Ian Darke]] was BT's main commentator, joined by former Leicester midfielder [[Robbie Savage]] and former Chelsea player-manager [[Glenn Hoddle]]. Former referee [[Peter Walton (referee)|Peter Walton]] provided commentary on the match officiating.<ref>{{cite web |title=Emirates FA Cup Final 2020/21: Why BT Sport is THE best place to watch Chelsea vs Leicester |url=https://www.bt.com/sport/football/fa-cup/chelsea-leicester-fa-cup-final-best-channel-to-watch-live |publisher=[[BT Group|BT]] |date=10 May 2021 |access-date=15 May 2021 |archive-date=14 May 2021 |archive-url=https://web.archive.org/web/20210514213728/https://www.bt.com/sport/football/fa-cup/chelsea-leicester-fa-cup-final-best-channel-to-watch-live |url-status=live }}</ref> Under the terms of the broadcasting deal they struck with the FA in 2013,<ref>{{cite news |first=Owen |last=Gibson |title=BBC and BT Sport to share FA Cup TV rights |url=https://www.theguardian.com/media/2013/jul/17/bbc-bt-sport-fa-cup-tv-rights |work=[[The Guardian]] |publisher=Guardian News & Media |date=17 July 2013 |access-date=15 May 2021 |archive-date=23 May 2019 |archive-url=https://web.archive.org/web/20190523180515/https://www.theguardian.com/media/2013/jul/17/bbc-bt-sport-fa-cup-tv-rights |url-status=live }}</ref><ref>{{cite news |first=Mark |last=Sweney |title=FA Cup to stay on BBC and BT Sport until 2021 |url=https://www.theguardian.com/media/2016/apr/12/fa-cup-bbc-bt-sport-gary-lineker-womens-football |work=[[The Guardian]] |date=12 April 2016 |access-date=15 May 2021 |archive-date=15 May 2021 |archive-url=https://web.archive.org/web/20210515205731/https://www.theguardian.com/media/2016/apr/12/fa-cup-bbc-bt-sport-gary-lineker-womens-football |url-status=live }}</ref> it was the last time BT Sport showed the FA Cup final, having lost the rights for the 2021–2025 broadcasting cycle to [[ITV (network)|ITV]] in 2019.<ref>{{cite web |title=FA Cup to be shown exclusively on free-to-air television from 2021 on BBC and ITV |url=https://www.bbc.co.uk/sport/football/48388980 |publisher=[[BBC Sport]] |date=23 May 2019 |access-date=15 May 2021 |archive-date=15 May 2021 |archive-url=https://web.archive.org/web/20210515210246/https://www.bbc.co.uk/sport/football/48388980 |url-status=live }}</ref>
+
+[[Talksport]]'s coverage was presented by [[Mark Saggers]]; [[Sam Matterface]] and [[Andy Townsend]] provided commentary.<ref>{{Cite web|last=Williams|first=Marc|date=15 May 2021|title=FA Cup final live: Chelsea vs Leicester time and how to follow on talkSPORT|url=https://talksport.com/football/fa-cup/869878/fa-cup-final-live-commentary-chelsea-leicester-live-stream-kick-off-time-tv-channel-team-news/|access-date=15 May 2021|publisher=[[Talksport]]|archive-date=14 May 2021|archive-url=https://web.archive.org/web/20210514230736/https://talksport.com/football/fa-cup/869878/fa-cup-final-live-commentary-chelsea-leicester-live-stream-kick-off-time-tv-channel-team-news/|url-status=live}}</ref> [[BBC Radio]] also covered the match nationally on [[BBC Radio 5 Live]], whose commentary team comprised [[John Murray (sports broadcaster)|John Murray]] and Dion Dublin,<ref>{{Cite tweet |user=5liveSport |number=1393601058463784965 |title=The commentary team of @bbcjohnmurray & @DionDublinsDube are ready. The 2021 #FACup final.}}</ref> and on the local stations for the two clubs, [[BBC Radio London]] and [[BBC Radio Leicester]].<ref name="talkSPORT">{{cite web |title=FA Cup final: Chelsea v Leicester City |url=https://www.bbc.co.uk/programmes/m000w8fy |publisher=[[BBC]] |access-date=13 May 2021 |archive-date=13 May 2021 |archive-url=https://web.archive.org/web/20210513221411/https://www.bbc.co.uk/programmes/m000w8fy |url-status=live }}</ref><ref>{{cite web |title=BBC Radio Leicester Sport: Commentary, 15/05/2021 |url=https://www.bbc.co.uk/programmes/p09gtgrq |publisher=[[BBC]] |access-date=13 May 2021 |archive-date=13 May 2021 |archive-url=https://web.archive.org/web/20210513221332/https://www.bbc.co.uk/programmes/p09gtgrq |url-status=live}}</ref><ref>{{cite web |title=BBC Radio London Sport, Chelsea v Leicester City |url=https://www.bbc.co.uk/programmes/p09hbwds |publisher=[[BBC]] |access-date=13 May 2021 |archive-date=13 May 2021 |archive-url=https://web.archive.org/web/20210513221409/https://www.bbc.co.uk/programmes/p09hbwds |url-status=live }}</ref>
+
+===Opening ceremony===
+British singer-songwriter [[Becky Hill]] sang the [[national anthem]] "[[God Save the Queen]]" alongside the [[B Positive Choir]] and the [[Band of the Coldstream Guards]]. The B Positive Choir also sang "[[Abide with Me]]", the traditional FA Cup Final hymn. [[Prince William, Duke of Cambridge]], led the presentation party of FA interim chairman [[Peter McCormick]], [[Emirates (airline)|Emirates]]' UK divisional vice president Richard Jewsbury and chairman of the FA Cup Challenge Committee Steve Curwood.<ref>{{Cite web|title=The Emirates FA Cup Final will celebrate those who helped 2021 competition take place|url=http://www.thefa.com/news/2021/may/10/emirates-fa-cup-thank-you-to-heroes-20210510|access-date=15 May 2021|publisher=[[The Football Association]]|archive-date=15 May 2021|archive-url=https://web.archive.org/web/20210515121312/https://www.thefa.com/news/2021/may/10/emirates-fa-cup-thank-you-to-heroes-20210510|url-status=live}}</ref> The [[coin flipping|coin toss]] featured a commemorative coin with a red poppy, marking the [[Royal British Legion]]'s centenary.<ref>{{Cite web |last=Troughton |first=Adrian |title=Leicester City and Chelsea captains to use special coin for toss-up at FA Cup final |url=https://www.leicestermercury.co.uk/news/leicester-news/leicester-city-chelsea-captains-use-5398682 |date=11 May 2021 |access-date=15 May 2021 |work=[[Leicester Mercury]] |archive-date=12 May 2021 |archive-url=https://web.archive.org/web/20210512112432/https://www.leicestermercury.co.uk/news/leicester-news/leicester-city-chelsea-captains-use-5398682 |url-status=live }}</ref> Players from both teams dropped to one knee immediately prior to kick-off, in support of the No Room For Racism campaign;<ref>{{Cite episode|title=MOTD Live: FA Cup final|series=The FA Cup|network=[[BBC]]|station=[[BBC One HD]]|date=15 May 2021|minutes=61}}</ref> this was booed by some sections of the crowd.<ref>{{cite news |url=https://www.independent.co.uk/sport/football/fa-cup-final-fans-boo-knee-b1848167.html |title=FA Cup final fans boo Chelsea and Leicester players as they take the knee before kick-off |work=[[The Independent]] |date=15 May 2021 |access-date=16 May 2021 |archive-date=15 May 2021 |archive-url=https://web.archive.org/web/20210515170654/https://www.independent.co.uk/sport/football/fa-cup-final-fans-boo-knee-b1848167.html |url-status=live }}</ref>
+
+==Match==
+===Summary===
+====First half====
+[[File:Youri Tielemans 2019.jpg|thumb|upright|alt=Youri Tielemans|[[Youri Tielemans]] ''(pictured in 2019)'' scored the only goal of the game.]]
+
+Leicester City [[Kick-off (association football)|kicked off]] the match around 5:15{{nbsp}}p.m. in front of an official attendance of 20,000.<ref name=hr>{{cite web |first1=Conor |first2=Mark |last1=Pope |last2=White |url=https://www.fourfourtwo.com/features/live/chelsea-vs-leicester-fa-cup-final-2021 |title=Leicester win their first FA Cup, Live! |work=[[FourFourTwo]] |date=15 May 2021 |access-date=19 May 2021 |archive-date=15 May 2021 |archive-url=https://web.archive.org/web/20210515174944/https://www.fourfourtwo.com/features/live/chelsea-vs-leicester-fa-cup-final-2021 |url-status=live }}</ref><ref name=":0">{{Cite web |url=https://www.11v11.com/matches/leicester-city-v-chelsea-15-may-2021-370268/ |website=11v11 |publisher=AFS Enterprises |access-date=16 May 2021 |title=Leicester City v Chelsea, 15 May 2021 |archive-date=16 May 2021 |archive-url=https://web.archive.org/web/20210516201523/https://www.11v11.com/matches/leicester-city-v-chelsea-15-may-2021-370268/ |url-status=live }}</ref><ref>{{Cite web|url=https://www.chelseafc.com/en/news/2021/05/15/fa-cup-final-report--chelsea-vs-leicester-city|title=FA Cup final report: Chelsea 0 Leicester City 1 | publisher = [[Chelsea F.C.]] |access-date=16 May 2021|archive-date=15 May 2021|archive-url=https://web.archive.org/web/20210515233255/https://www.chelseafc.com/en/news/2021/05/15/fa-cup-final-report--chelsea-vs-leicester-city|url-status=live}}</ref> Chelsea started the match the dominant side but [[Antonio Rüdiger]]'s 15th minute shot from {{convert|30|yd}} went wide of Leicester City's goal. [[Timothy Castagne]] then sent in a low cross which [[Jamie Vardy]] struck towards the Chelsea goal but the ball was blocked by [[Reece James (footballer, born 1999)|Reece James]]. In the 20th minute, [[Thiago Silva]] was adjudged to have handled the ball after Leicester City's Iheanacho tried to get past him. Tielemans' resulting [[Free kick (association football)|free kick]] was headed over the Chelsea crossbar by [[Çağlar Söyüncü]] from around {{convert|6|yd}}. 
+Midway through the first half, rain began to heavily fall.<ref>{{Cite web |url=https://www.theguardian.com/football/live/2021/may/15/chelsea-v-leicester-city-fa-cup-final-live?page=with:block-609ff8cd8f08e659a47e63d9#liveblog-navigation |work=[[The Guardian]] |access-date=16 May 2021 |date=15 May 2021 |title=Chelsea 0–1 Leicester (3 of 3) |first=Scott |last=Murray }}</ref>
+
+[[Marcos Alonso (footballer, born 1990)|Marcos Alonso]] had a scoring opportunity cleared by Tielemans before Mount's strike from the edge of Leicester City's [[penalty area]] took a deflection from [[Wesley Fofana (footballer)|Wesley Fofana]], going just wide of Leicester City's goal. Werner then struck high over the crossbar from distance before both he and Azpilicueta missed a cross from Mount. Evans became the match's first [[substitute (association football)|substituted]] player when he picked up an injury in the 34th minute and was replaced by Albrighton. A minute later, Fofana was shown the game's first [[Penalty card#Yellow card|yellow card]] after fouling Werner; Werner was booked minutes later after a lunging slide on Fofana. With three minutes of the half remaining, Pérez was brought down by [[Jorginho (footballer, born December 1991)|Jorginho]] and Söyüncü headed Tielemans' resulting free kick wide from {{convert|12|yd}}. Werner had a shot deflected out for a corner by Fofana. Vardy's stoppage time header from that corner went wide of the Chelsea goal. The half ended 0–0 with neither team registering a shot on target.<ref name=guardasit2>{{Cite web |url=https://www.theguardian.com/football/live/2021/may/15/chelsea-v-leicester-city-fa-cup-final-live?page=with:block-60a006238f08e757a7355de4#liveblog-navigation |work=[[The Guardian]] |access-date=16 May 2021 |date=15 May 2021 |title=Chelsea 0–1 Leicester (2 of 3) |first=Scott |last=Murray }}</ref>
+
+====Second half====
+No substitutions were made during the interval. Chelsea kicked off the second half. Eight minutes in, after Leicester City had dominated, Chelsea's [[N'Golo Kanté]] delivered a cross, but Leicester City goalkeeper [[Kasper Schmeichel]] easily caught Alonso's weak header.<ref name=guardasit2/> Schmeichel then saved Azpilicueta's shot. In the 63rd minute, [[Luke Thomas (footballer, born 2001)|Luke Thomas]] passed to Tielemans whose strike from distance flew into the top-left corner of Chelsea's goal, giving Leicester City a 1–0 lead. Despite claims from Chelsea that there had been a handball during the build-up, the goal stood. Chelsea's Ziyech then shot but his strike was deflected out for a corner which came to nothing. Midway through the second half, Iheanacho was replaced by Maddison before Chelsea made a double-substitution, with Ziyech and Alonso coming off for [[Christian Pulisic]] and Chilwell. With 19 minutes remaining, Mount went down after being tackled by Söyüncü but Chelsea's claims for a penalty were denied by the referee.<ref name=guardasit/>
+
+Azpilicueta was then substituted in the 75th minute after a clash of heads. Jorginho was also substituted at the same time, with Havertz and Hudson-Odoi replacing them. Kanté's 78th minute cross was headed goalbound by Chilwell but Schmeichel saved the attempt. With eight minutes of regular time remaining, Chelsea replaced Werner with Giroud; Leicester City's Thomas and Pérez were substituted for [[Hamza Choudhury]] and Morgan. A minute later, Rudiger's shot was high over Leicester City's crossbar before Mount's rising shot was pushed out for a corner by Schmeichel. In the final minute of regular time, Silva passed to Chilwell, who shot; Söyüncü cleared Chilwell's shot off the line but it deflected back off Chilwell and into the Leicester City net. The goal was referred to the VAR, who deemed Chilwell was [[Offside (association football)|offside]] in the build-up and the goal was disallowed. Five minutes of stoppage time were played but there were no more goals. The match ended 1–0 to Leicester City, who won the FA Cup for the first time.<ref name=guardasit>{{Cite web |url=https://www.theguardian.com/football/live/2021/may/15/chelsea-v-leicester-city-fa-cup-final-live |title=Chelsea 0–1 Leicester City (1 of 3) |work=[[The Guardian]] |access-date=16 May 2021 |date=15 May 2021 |first=Scott |last=Murray |archive-date=16 May 2021 |archive-url=https://web.archive.org/web/20210516004449/https://www.theguardian.com/football/live/2021/may/15/chelsea-v-leicester-city-fa-cup-final-live |url-status=live }}</ref> Tielemans was named [[man of the match]].<ref name="BBC">{{cite web|first=Phil|last=McNulty|authorlink=Phil McNulty|title=Youri Tielemans produced one of the great FA Cup final goals to give Leicester City the trophy for the first time in their history with victory over Chelsea at Wembley|publisher=[[BBC Sport]]|url=https://www.bbc.com/sport/football/57055571|access-date=17 May 2021|date=15 May 2021|archive-date=16 May 2021|archive-url=https://web.archive.org/web/20210516212608/https://www.bbc.com/sport/football/57055571|url-status=live}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2021|5|15|df=y}}
+|time       = 17:15 [[British Summer Time|BST]]
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 0–1
+|report     = https://www.bbc.co.uk/sport/football/57055571
+|team2      = [[Leicester City F.C.|Leicester City]]
+|goals2     = [[Youri Tielemans|Tielemans]] {{goal|63}}
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 20,000{{refn|group=note|name=Attendance cap|Attendance was capped at 20,000 due to the [[COVID-19 pandemic in the United Kingdom]].<ref name="attendance">{{cite web|url=https://www.thefa.com/news/2021/may/15/chelsea-leicester-fa-cup-final-20210515|title=Youri Tielemans stunner fires Leicester City to maiden Emirates FA Cup crown|publisher=[[The Football Association]]|date=15 May 2021|access-date=15 May 2021|archive-date=15 May 2021|archive-url=https://web.archive.org/web/20210515203556/https://www.thefa.com/news/2021/may/15/chelsea-leicester-fa-cup-final-20210515|url-status=live}}</ref>}}
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[Durham County Football Association|County Durham]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _chelsea2122h
+ |pattern_b  = _chelsea2122H
+ |pattern_ra = _chelsea2122h
+ |pattern_sh = _chelsea2122h
+ |pattern_so = _chelsea2122h
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = Chelsea
+}}
+|{{Football kit
+ |pattern_la = _leicester2021t
+ |pattern_b  = _leicester2021t
+ |pattern_ra = _leicester2021t
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_white
+ |leftarm    = 600020
+ |body       = 600020
+ |rightarm   = 600020
+ |shorts     = 600020
+ |socks      = 600020
+ |title      = {{nowrap|Leicester City}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagathlete|[[Kepa Arrizabalaga]]|ESP}}
+|-
+|CB ||'''28'''||{{flagathlete|[[César Azpilicueta]]|ESP}} ([[Captain (association football)|c]]) || || {{suboff|76}}
+|-
+|CB ||'''6''' ||{{flagathlete|[[Thiago Silva]]|BRA}} 
+|-
+|CB ||'''2''' ||{{flagathlete|[[Antonio Rüdiger]]|GER}} 
+|-
+|RM ||'''24'''||{{flagathlete|[[Reece James (footballer, born 1999)|Reece James]]|ENG}} 
+|-
+|CM ||'''7''' ||{{flagathlete|[[N'Golo Kanté]]|FRA}} 
+|-
+|CM ||'''5''' ||{{flagathlete|[[Jorginho (footballer, born December 1991)|Jorginho]]|ITA}} || || {{suboff|75}}
+|-
+|LM ||'''3''' ||{{flagathlete|[[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]|ESP}} || || {{suboff|68}}
+|-
+|AM ||'''22'''||{{flagathlete|[[Hakim Ziyech]]|MAR}}  || || {{suboff|68}}
+|-
+|AM ||'''19'''||{{flagathlete|[[Mason Mount]]|ENG}} 
+|-
+|CF ||'''11'''||{{flagathlete|[[Timo Werner]]|GER}}  || {{yel|40}} || {{suboff|82}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagathlete|[[Édouard Mendy]]|SEN}} 
+|-
+|DF ||'''15'''||{{flagathlete|[[Kurt Zouma]]|FRA}} 
+|-
+|DF ||'''21'''||{{flagathlete|[[Ben Chilwell]]|ENG}}  || || {{subon|68}}
+|-
+|DF ||'''33'''||{{flagathlete|[[Emerson Palmieri|Emerson]]|ITA}} 
+|-
+|MF ||'''10'''||{{flagathlete|[[Christian Pulisic]]|USA}}  || || {{subon|68}}
+|-
+|MF ||'''20'''||{{flagathlete|[[Callum Hudson-Odoi]]|ENG}} || || {{subon|76}}
+|-
+|MF ||'''23'''||{{flagathlete|[[Billy Gilmour (footballer)|Billy Gilmour]]|SCO}} 
+|-
+|MF ||'''29'''||{{flagathlete|[[Kai Havertz]]|GER}} || || {{subon|75}}
+|-
+|FW ||'''18'''||{{flagathlete|[[Olivier Giroud]]|FRA}}  || || {{subon|82}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagathlete|[[Thomas Tuchel]]|GER}} 
+|}
+|valign="top"|[[File:Chelsea vs Leicester City 2021-05-15.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagathlete|[[Kasper Schmeichel]]|DEN}} ([[Captain (association football)|c]])
+|-
+|CB ||'''3''' ||{{flagathlete|[[Wesley Fofana (footballer)|Wesley Fofana]]|FRA}}  || {{yel|36}}
+|-
+|CB ||'''6''' ||{{flagathlete|[[Jonny Evans]]|NIR}}|| || {{suboff|34}}
+|-
+|CB ||'''4''' ||{{flagathlete|[[Çağlar Söyüncü]]|TUR}} 
+|-
+|RM ||'''27'''||{{flagathlete|[[Timothy Castagne]]|BEL}} 
+|-
+|CM ||'''8''' ||{{flagathlete|[[Youri Tielemans]]|BEL}} 
+|-
+|CM ||'''25'''||{{flagathlete|[[Wilfred Ndidi]]|NGA}} 
+|-
+|LM ||'''33'''||{{flagathlete|[[Luke Thomas (footballer, born 2001)|Luke Thomas]]|ENG}}  || || {{suboff|82}}
+|-
+|AM ||'''17'''||{{flagathlete|[[Ayoze Pérez]]|ESP}}  || || {{suboff|82}}
+|-
+|CF ||'''14'''||{{flagathlete|[[Kelechi Iheanacho]]|NGA}}  || || {{suboff|67}}
+|-
+|CF ||'''9''' ||{{flagathlete|[[Jamie Vardy]]|ENG}} 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagathlete|[[Danny Ward (Welsh footballer)|Danny Ward]]|WAL}} 
+|-
+|DF ||'''5''' ||{{flagathlete|[[Wes Morgan]]|JAM}} || || {{subon|82}}
+|-
+|DF ||'''18'''||{{flagathlete|[[Daniel Amartey]]|GHA}} 
+|-
+|DF ||'''21'''||{{flagathlete|[[Ricardo Pereira (footballer, born 1993)|Ricardo Pereira]]|POR}} 
+|-
+|MF ||'''10'''||{{flagathlete|[[James Maddison]]|ENG}} || || {{subon|67}}
+|-
+|MF ||'''11'''||{{flagathlete|[[Marc Albrighton]]|ENG}} || || {{subon|34}}
+|-
+|MF ||'''20'''||{{flagathlete|[[Hamza Choudhury]]|BAN}} || || {{subon|82}}
+|-
+|MF ||'''24'''||{{flagathlete|[[Nampalys Mendy]]|SEN}} 
+|-
+|MF ||'''26'''||{{flagathlete|[[Dennis Praet]]|BEL}} 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagathlete|[[Brendan Rodgers]]|NIR}} 
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|style="width:40%; vertical-align:top;"|
+'''Man of the Match:'''
+<br />[[Youri Tielemans]] (Leicester City)<ref name="BBC"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees"/>
+<br />Stuart Burt ([[Northamptonshire Football Association|Northamptonshire]])
+<br />Simon Bennett ([[Staffordshire Football Association|Staffordshire]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referees"/>
+<br />[[Stuart Attwell]] ([[Birmingham County Football Association|Birmingham]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="referees"/>
+<br />Dan Cook ([[Hampshire Football Association|Hampshire]])
+<br />'''[[Video assistant referee]]:'''<ref name="referees"/>
+<br />[[Chris Kavanagh (referee)|Chris Kavanagh]] ([[Manchester Football Association|Manchester]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="referees"/>
+<br />[[Sian Massey-Ellis]] ([[Birmingham County Football Association|Birmingham]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref>{{Cite web |url=https://www.thefa.com/-/media/thefacom-new/files/competitions/2020-21/fa-cup/rules-of-the-fa-challenge-cup-2020-21.ashx |format=PDF |publisher=[[The Football Association]] |access-date=17 May 2021 |title=Rules of the FA Challenge Cup competition |archive-date=19 May 2021 |archive-url=https://web.archive.org/web/20210519052810/https://www.thefa.com/-/media/thefacom-new/files/competitions/2020-21/fa-cup/rules-of-the-fa-challenge-cup-2020-21.ashx |url-status=live }}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Nine named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+==Post-match==
+[[File:Brendan Rodgers 2014 (cropped).jpg|thumb|upright|alt=Brendan Rodgers|Brendan Rodgers ''(pictured in 2014)'' won his seventh final as a manager.]]
+
+As President of The Football Association, Prince William, Duke of Cambridge, presented the FA Cup to Schmeichel, Leicester City's [[Captain (association football)|captain]]. Due to the [[COVID-19 pandemic in England]], the presentation took place on the pitch instead of in the Royal Box. Players and managers of both clubs picked up their own medals.<ref>{{Cite web|last=Coke|first=Hope|title=The Duke of Cambridge to champion the return of spectator sports at FA Cup final|url=https://www.tatler.com/article/prince-william-will-attend-fa-cup-final|access-date=15 May 2021|work=[[Tatler]]|date=11 May 2021 |archive-date=15 May 2021|archive-url=https://web.archive.org/web/20210515105601/https://www.tatler.com/article/prince-william-will-attend-fa-cup-final|url-status=live}}</ref> The FA did not punish Leicester players Choudhury and Fofana for parading the [[flag of Palestine]] during the post-match celebrations.<ref>{{cite web|url=https://www.independent.co.uk/sport/football/leicester-fa-cup-palestinian-flag-fofana-choudhury-b1848681.html|title=No punishment for Leicester's Palestinian flag celebrations at FA Cup final|work=[[The Independent]]|date=17 May 2021|access-date=18 May 2021|archive-date=17 May 2021|archive-url=https://web.archive.org/web/20210517102812/https://www.independent.co.uk/sport/football/leicester-fa-cup-palestinian-flag-fofana-choudhury-b1848681.html|url-status=live}}</ref> This was despite it being claimed that such an action was against The FA's rules on political statements.<ref>{{Cite web |first=Sam |last=Cunningham |url=https://inews.co.uk/sport/football/hamza-choudhury-palestine-flag-fa-cup-final-leicester-rules-uefa-1005406 |title=Lack of action over Hamza Choudhury's Palestinian flag shows up football's contradictory rules about politics |publisher=I News |date=2021-05-18 |access-date=2021-05-24}}</ref>
+
+The Leicester City [[Manager (association football)|manager]] [[Brendan Rodgers]] paid tribute to his side and the supporters: "I'm very proud, it's a historic day for the club. Winning the FA Cup for the first time is clearly a special day. The players were so courageous in the game{{nbsp}}... It was a fantastic atmosphere and I'm so happy Leicester supporters could be there to see us win it."<ref name=indyrep>{{Cite web | url = https://www.independent.co.uk/sport/football/brendan-rodgers-leicester-fa-cup-b1848211.html | work = [[The Independent]] | access-date = 22 May 2021 | title = Brendan Rodgers hails Leicester's courage after FA Cup final triumph | first = Nick | last = Mashiter | date = 16 May 2021 | archive-date = 15 May 2021 | archive-url = https://web.archive.org/web/20210515202639/https://www.independent.co.uk/sport/football/brendan-rodgers-leicester-fa-cup-b1848211.html | url-status = live }}</ref>  He described Tielemans' strike as "an old-school FA Cup-winning goal" but highlighted his goalkeeper's influence on the game, saying "{{nbsp}}... Kasper Schmeichel's saves – those are the special moments you need in games."<ref name=bbcreact/> It was Rodgers' seventh final win in seven attempts as a manager.<ref name=indyrep/> Schmeichel himself was jubilant: "To think of the people who have lifted this trophy, and to be able to do it today is beyond my wildest dreams."<ref name=bbcreact>{{Cite web | url = https://www.bbc.co.uk/sport/football/57130809 | publisher = [[BBC Sport]] | access-date = 22 May 2021 | title = Leicester City: FA Cup-winning captain Kasper Schmeichel says joy 'indescribable' | date = 15 May 2021 | archive-date = 19 May 2021 | archive-url = https://web.archive.org/web/20210519192806/https://www.bbc.co.uk/sport/football/57130809 | url-status = live }}</ref>  [[Thomas Tuchel]], the Chelsea manager, suggested that his team were "simply unlucky" and suggested that VAR had missed a handball in the build-up to the winning goal.<ref name=chelsreact>{{Cite web | url = https://www.chelseafc.com/en/news/2021/05/15/thomas-tuchel-reaction-to-chelsea-vs-leicester-in-the-fa-cup-fin | title = Tuchel labels Chelsea Cup Final performance unlucky and fives view on handball call | publisher = [[Chelsea F.C.]] | access-date = 22 May 2021 | date = 15 May 2021 | archive-date = 16 May 2021 | archive-url = https://web.archive.org/web/20210516181224/https://www.chelseafc.com/en/news/2021/05/15/thomas-tuchel-reaction-to-chelsea-vs-leicester-in-the-fa-cup-fin | url-status = live }}</ref>  He also described Tielemans' goal as "fantastic{{nbsp}}... but lucky".<ref name=chelsreact/>
+
+Tielemans' goal was lauded in the media: the BBC described it as a "stunner",<ref>{{Cite web | url = https://www.bbc.co.uk/sport/av/football/57129634 | publisher = [[BBC Sport]] | access-date = 21 May 2021 | title = FA Cup final: Youri Tielemans scores a stunner to give Leicester City the lead | date = 15 May 2021 | archive-date = 17 May 2021 | archive-url = https://web.archive.org/web/20210517170006/https://www.bbc.co.uk/sport/av/football/57129634 | url-status = live }}</ref> Miguel Delaney of ''[[The Independent]]'' said that it was "one of the most spectacular FA Cup winners this competition will ever see",<ref>{{Cite web | url = https://www.independent.co.uk/sport/football/chelsea-leicester-result-score-fa-cup-final-b1848178.html | work = [[The Independent]] | access-date = 21 May 2021 | date = 16 May 2021 | first = Miguel | last = Delaney | title = Leicester win maiden FA Cup after Youri Tielemans' stunner sinks Chelsea | archive-date = 16 May 2021 | archive-url = https://web.archive.org/web/20210516095232/https://www.independent.co.uk/sport/football/chelsea-leicester-result-score-fa-cup-final-b1848178.html | url-status = live }}</ref> while David Hytner of ''[[The Observer]]'' called the goal a "firecracker" and one that "will live forever".<ref>{{Cite news | url = https://www.theguardian.com/football/2021/may/15/chelsea-leicester-city-fa-cup-final-match-report-youri-tielemans | work = [[The Observer]] | access-date = 21 May 2021 | first = David | last = Hytner | title = Leicester City win first FA Cup after Youri Tielemans screamer sinks Chelsea | date = 15 May 2021 | archive-date = 21 May 2021 | archive-url = https://web.archive.org/web/20210521080857/https://www.theguardian.com/football/2021/may/15/chelsea-leicester-city-fa-cup-final-match-report-youri-tielemans | url-status = live }}</ref>  It was declared "a remarkable goal, a thunderous strike" by [[CBS Sports]] and "a moment of magic" by Ali Humayun in ''[[The Athletic]]''.<ref>{{Cite web | url = https://www.cbssports.com/soccer/news/chelsea-vs-leicester-city-score-youri-tielemans-fires-foxes-to-their-first-fa-cup-win/live/ | work = [[CBS Sports]] | access-date = 21 May 2021 | date = 15 May 2021 | title = Chelsea vs. Leicester City score: Youri Tielemans fires Foxes to their first FA Cup win | first1 = James | last1 = Benge | first2 = Roger | last2 = Gonzalez | archive-date = 16 May 2021 | archive-url = https://web.archive.org/web/20210516065644/https://www.cbssports.com/soccer/news/chelsea-vs-leicester-city-score-youri-tielemans-fires-foxes-to-their-first-fa-cup-win/live/ | url-status = live }}</ref><ref>{{Cite web | url = https://www.nytimes.com/athletic/4212455/2021/05/15/leicester-win-fa-cup-after-beating-chelsea-1-0/ | work = [[The Athletic]] | access-date = 21 May 2021 | title = Leicester win FA Cup after beating Chelsea 1–0 | date = 15 May 2021 | url-access = subscription | first = Ali | last = Humayun | archive-date = 16 May 2021 | archive-url = https://web.archive.org/web/20210516152131/https://theathletic.com/news/fa-cup-final-chelsea-leicester-tielemans/Z0J3ex5bQnPd | url-status = live }}</ref>
+
+As winners, Leicester City earned £1.8&nbsp;million in prize money, while runners-up Chelsea earned £900,000.<ref>{{cite web|date=28 April 2021|title=What time does the Emirates FA Cup Final kick-off and where can you watch it?|url=https://www.thefa.com/news/2021/apr/28/emirates-fa-cup-final-kick-off-confirmed-20210428|url-status=live|archive-url=https://web.archive.org/web/20210507150601/https://www.thefa.com/news/2021/apr/28/emirates-fa-cup-final-kick-off-confirmed-20210428|archive-date=7 May 2021|access-date=14 May 2021|publisher=[[The Football Association]]}}</ref> Leicester City also qualified for the [[2021–22 UEFA Europa League]] group stage.<ref>{{Cite web | url = https://www.skysports.com/football/news/11095/12276223/champions-league-europa-league-europa-conference-league-qualification-explained-who-will-be-playing-in-europe-next-season | publisher = [[Sky Sports]] | access-date = 21 May 2021 | title = Champions League, Europa League, Europa Conference League qualification explained: Who will be playing in Europe next season? | date = 20 May 2021 | archive-date = 20 May 2021 | archive-url = https://web.archive.org/web/20210520114305/https://www.skysports.com/football/news/11095/12276223/champions-league-europa-league-europa-conference-league-qualification-explained-who-will-be-playing-in-europe-next-season | url-status = live }}</ref> Furthermore, Leicester qualified for the [[2021 FA Community Shield]], where they beat [[2020–21 Premier League]] champions [[Manchester City F.C.|Manchester City]] 1–0.<ref>{{cite web |last1=Wilson |first1=Amie |title=Bertrand, Daka and Soumare outshine Man City's £100m man in Community Shield |url=https://www.leicestermercury.co.uk/sport/football/football-news/bertrand-daka-soumare-community-shield-5756717 |website=leicestermercury.co.uk|access-date=8 August 2021 |language=en |date=7 August 2021}}</ref> Chelsea became the first team since [[Newcastle United F.C.|Newcastle United]] in [[1998 FA Cup final|1998]] and [[1999 FA Cup final|1999]] to lose two consecutive FA Cup finals.<ref name=":0" />
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+{{FA Cup}}
+{{2020–21 in English men's football}}
+{{Chelsea F.C. matches}}
+{{Leicester City F.C. matches}}
+
+[[Category:2020–21 FA Cup|Final]]
+[[Category:FA Cup finals]]
+[[Category:May 2021 sports events in the United Kingdom|FA Cup Final]]
+[[Category:2021 in sport in London|Fa Cup Final]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:Chelsea F.C. matches|Fa Cup Final 2021]]
+[[Category:Leicester City F.C. matches|Fa Cup Final 2021]]
+[[Category:Football matches in London]]

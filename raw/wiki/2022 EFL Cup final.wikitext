@@ -1,0 +1,338 @@
+{{Short description|Final of the 2021–22 EFL Cup}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title = 2022 EFL Cup final
+| image = 2022 EFL Cup Final match programme.jpg
+| caption = Match programme cover
+| event = [[2021–22 EFL Cup]]
+| team1 = [[Chelsea F.C.|Chelsea]]
+| team1association = 
+| team1score = 0
+| team2 = [[Liverpool F.C.|Liverpool]]
+| team2score = 0
+| details = After [[Overtime (sports)#Association football|extra time]]<br />Liverpool won 11–10 on [[Penalty shoot-out (association football)|penalties]]
+| date = {{Start date|2022|2|27|df=y}}
+| stadium = [[Wembley Stadium]]
+| city = [[London]]
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Virgil van Dijk]] (Liverpool)<ref name="MOTM">{{cite news |title=Virgil van Dijk receives the Alan Hardaker Trophy |url=https://www.efl.com/news/2022/february/virgil-van-dijk-receives-the-alan-hardaker-trophy/ |work=[[English Football League]] |date=28 February 2022 |access-date=1 March 2022 }}</ref>
+|referee = [[Stuart Attwell]] ([[Birmingham County Football Association|Warwickshire]])<ref name="officials">{{Cite web |url=https://www.efl.com/news/2022/february/carabao-cup-final-match-officials/ |title=Carabao Cup Final match officials |work=[[English Football League]] |date=14 February 2022 |access-date=16 February 2022}}</ref>
+| attendance = 85,512<ref name="attendance"/>
+| weather = 
+| previous = [[2021 EFL Cup final|2021]]
+| next = [[2023 EFL Cup final|2023]]
+}}
+The '''2022 EFL Cup final''' was the final of the [[2021–22 EFL Cup]]. It was played between [[Chelsea F.C.|Chelsea]] and [[Liverpool F.C.|Liverpool]] at [[Wembley Stadium]] in London, England, on 27 February 2022. The match saw no goals in the initial 90 minutes or the additional 30 minutes of extra time and went to a [[Penalty shoot-out (association football)|penalty shoot-out]]; each of the first 21 kicks in the shoot-out was scored before Chelsea goalkeeper [[Kepa Arrizabalaga]] missed his to give Liverpool an 11–10 victory and a record ninth EFL Cup title.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/60450274 |title=Chelsea 0–0 Liverpool |first=Phil|last=McNulty |website=BBC Sport |date=27 February 2022 |access-date=27 February 2022}}</ref>
+
+It was the first EFL Cup final since [[2017 EFL Cup final|2017]] not to feature [[Manchester City F.C.|Manchester City]], who had been knocked out in the fourth round by [[West Ham United F.C.|West Ham United]].<ref>{{cite news |title=Holders Manchester City knocked out of the Carabao Cup |url=https://www.bbc.co.uk/sport/football/58976565 |website=BBC Sport |date=27 October 2021 |access-date=27 October 2021 }}</ref>
+
+==Route to the final==
+{{main|2021–22 EFL Cup}}
+
+===Chelsea===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;float:right"
+|-
+!scope="col" style="width:25px"| Round
+!scope="col" style="width:200px"| Opposition
+!scope="col" style="width:90px"| Score
+|-
+!scope=row style="text-align:center"|3
+| [[Aston Villa F.C.|Aston Villa]] (H)
+| 1–1 (4–3 [[Penalty shoot-out (association football)|p.]])
+|-
+!scope=row style="text-align:center"|4
+| [[Southampton F.C.|Southampton]] (H)
+| 1–1 (4–3 [[Penalty shoot-out (association football)|p.]])
+|-
+!scope=row style="text-align:center"|QF
+| [[Brentford F.C.|Brentford]] (A)
+| 2–0
+|-
+!scope=row style="text-align:center" rowspan="2" |SF
+| [[Tottenham Hotspur F.C.|Tottenham Hotspur]] (H)
+| 2–0
+|-
+| Tottenham Hotspur (A)
+| 1–0
+|-
+| colspan="3" | <small>'''Key:''' (H) = Home; (A) = Away</small>
+|}
+</div>
+Chelsea, as a [[Premier League]] team involved in the [[2021–22 UEFA Champions League]], started in the Third Round. Their first match was at home to fellow Premier League side [[Aston Villa F.C.|Aston Villa]]. [[Timo Werner]] put Chelsea ahead in the second half, only for [[Cameron Archer]] to equalise for Villa. The match went to a [[Penalty shoot-out (association football)|penalty shoot-out]], which Chelsea won 4–3.<ref>{{cite news |title=Chelsea 1–1 Aston Villa (4–3 on pens): Blues win shootout to reach Carabao Cup last 16 |url=https://www.bbc.co.uk/sport/football/58566909 |website=BBC Sport |access-date=12 January 2022}}</ref> In the next round, they were again given a home draw against a Premier League side, this time [[Southampton F.C.|Southampton]]. Chelsea again took the lead through [[Kai Havertz]] just before half-time, but [[Ché Adams]] equalised just after the interval to again take the tie to a penalty shoot-out, which Chelsea again won 4–3.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/58963258 |title=Chelsea 1–1 Southampton (4–3 pens): Chelsea edge Southampton to reach Carabao Cup quarter-finals |website=BBC Sport |access-date=12 January 2022}}</ref> In the quarter-finals, Chelsea received their first away draw, coming up against [[West London derby|West London rivals]] and fellow Premier League side [[Brentford F.C.|Brentford]]. The match went goalless until 10 minutes from the end, when Brentford's [[Pontus Jansson]] scored an [[own goal]], before [[Jorginho (footballer, born December 1991)|Jorginho]] sealed a 2–0 win for Chelsea with a penalty.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/59662104 |title=Brentford 0–2 Chelsea: Blues overcome neighbours to reach Carabao Cup semis |website=BBC Sport |access-date=12 January 2022}}</ref> In the two-legged semi-final, Chelsea drew yet another Premier League side in [[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|London rivals]] [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. In the first leg at [[Stamford Bridge (stadium)|Stamford Bridge]], Chelsea won 2–0; both goals came in the first half, first from Havertz before Tottenham's [[Ben Davies (footballer, born 1993)|Ben Davies]] scored an own goal.<ref>{{cite news |first=Emlyn |last=Begley |title=Chelsea 2-0 Tottenham Hotspur: Blues win Carabao Cup semi-final first leg |url=https://www.bbc.co.uk/sport/football/59814563 |website=BBC Sport |date=5 January 2022 |access-date=12 January 2022 }}</ref> In the return leg at [[Tottenham Hotspur Stadium]], a 1–0 win thanks to a goal from [[Antonio Rüdiger]] was enough to put Chelsea through to the final 3–0 on aggregate.<ref>{{Cite news |first=Phil |last=McNulty |title=Chelsea beat Spurs to reach EFL Cup final |url=https://www.bbc.co.uk/sport/football/59876396 |website=BBC Sport |date=12 January 2022 |access-date=13 January 2022 }}</ref>
+
+===Liverpool===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;float:right"
+|-
+!scope="col" style="width:25px"| Round
+!scope="col" style="width:200px"| Opposition
+!scope="col" style="width:90px"| Score
+|-
+!scope=row style="text-align:center"|3
+| [[Norwich City F.C.|Norwich City]] (A)
+| 3–0
+|-
+!scope=row style="text-align:center"|4
+| [[Preston North End F.C.|Preston North End]] (A)
+| 2–0
+|-
+!scope=row style="text-align:center"|QF
+| [[Leicester City F.C.|Leicester City]] (H)
+| 3–3 (5–4 [[Penalty shoot-out (association football)|p.]])
+|-
+!scope=row style="text-align:center" rowspan="2" |SF
+| [[Arsenal F.C.|Arsenal]] (H)
+| 0–0
+|-
+| Arsenal (A)
+| 2–0
+|-
+| colspan="3" | <small>'''Key:''' (H) = Home; (A) = Away</small>
+|}
+</div>
+As another Premier League team involved in the [[2021–22 UEFA Champions League]], Liverpool also started in the Third Round. Their first game of the competition was away to fellow Premier League club [[Norwich City F.C.|Norwich City]], which they won 3–0; [[Takumi Minamino]] opened the scoring in the first five minutes, and [[Divock Origi]] also scored early in the second half before Minamino scored his second goal with 10 minutes left to play.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/58553817 |title=Minamino double as Liverpool progress |date=21 September 2021 |work=BBC Sport |access-date=21 January 2022 }}</ref> Liverpool received another away draw in the Fourth Round, where they defeated [[EFL Championship]] side [[Preston North End F.C.|Preston North End]] 2–0, thanks again to goals from Minamino and Origi.<ref>{{cite web |title=Liverpool reach Carabao Cup last eight |url=https://www.bbc.co.uk/sport/football/58976551 |website=BBC Sport |access-date=28 February 2022 |date=27 October 2021}}</ref> Liverpool were 3–1 down at half-time in their Fifth Round match at home to [[Leicester City F.C.|Leicester City]], with two goals from [[Jamie Vardy]] and one from [[James Maddison]] either side of one from [[Alex Oxlade-Chamberlain]]; [[Diogo Jota]] pulled a goal back midway through the second half, before Minamino scored his fourth goal of the competition in the fifth minute of injury time to take the game to penalties. After [[Caoimhín Kelleher]] saved [[Luke Thomas (footballer, born 2001)|Luke Thomas']] kick, Minamino had the chance to win it for Liverpool, only to shoot over; however, [[Ryan Bertrand]] missed with Leicester's next attempt, allowing Jota to give Liverpool a 5–4 shoot-out win.<ref>{{cite web |title=Liverpool win shootout to knock out Foxes |url=https://www.bbc.co.uk/sport/football/59662105 |website=BBC Sport |access-date=28 February 2022 |date=22 December 2021}}</ref> They were drawn against [[Arsenal F.C.|Arsenal]] in the semi-finals, but an outbreak of COVID-19 in the Liverpool squad meant the first leg had to be postponed after the team's training facility was shut.<ref>{{cite news |title=Liverpool request Carabao Cup match at Arsenal is postponed because of rise in Covid cases |url=https://www.bbc.co.uk/sport/football/59872772 |website=BBC Sport |date=4 January 2022 |accessdate=7 March 2022 }}</ref><ref>{{cite news |title=Liverpool shut first-team training facilities with assistant Pep Lijnders isolating |url=https://www.bbc.co.uk/sport/football/59878393 |website=BBC Sport |date=5 January 2022 |accessdate=7 March 2022 }}</ref> In what was originally meant to be the second leg at [[Anfield]], Liverpool failed to score despite having a man advantage for almost three quarters of the game after [[Granit Xhaka]] was sent off, and the game finished 0–0.<ref>{{cite news |first=Harry |last=Poole |title=Liverpool 0-0 Arsenal: Hosts frustrated by 10-man Gunners in their Carabao Cup semi-final first leg |url=https://www.bbc.co.uk/sport/football/59889970 |website=BBC Sport |date=13 January 2022 |accessdate=7 March 2022 }}</ref> In the delayed second leg, [[Diogo Jota]] scored both goals at the [[Emirates Stadium]] to send Liverpool to the final.<ref>{{cite news |first=Phil |last=McNulty |title=Arsenal 0-2 Liverpool (0-2 agg): Diogo Jota double sets up Chelsea final for Reds |url=https://www.bbc.co.uk/sport/football/59824287 |website=BBC Sport |date=20 January 2022 |accessdate=7 March 2022 }}</ref>
+
+==Pre-match==
+This was Chelsea's ninth League Cup final and Liverpool's thirteenth – the latter is the most appearances of any club in this competition.<ref>{{cite web|url=https://metro.co.uk/2022/01/12/chelsea-see-off-tottenham-to-set-up-carabao-cup-final-against-arsenal-or-liverpool-15908882/ |title=Chelsea see off Tottenham to set up Carabao Cup final against Arsenal or Liverpool |work=Metro |date=12 January 2022 |access-date=14 January 2022}}</ref> It also meant that Chelsea's manager [[Thomas Tuchel]] had led them to the finals of the [[UEFA Champions League]], [[FA Cup]] and EFL Cup within a year of being appointed.<ref>{{cite news |first=Kyle |last=Bonn |title=Tottenham vs. Chelsea result: Rudiger header sends Blues to Carabao Cup final, shoving Spurs aside in EFL Cup semifinals |url=https://www.sportingnews.com/us/soccer/news/chelsea-tottenham-live-score-highlights-carabao-cup-semi/5ai88a3o3qezzr9810gtimpe |work=Sporting News |date=12 January 2022 |access-date=14 January 2022}}</ref>
+
+This was the sides' second meeting in a League Cup final, having met in [[2005 Football League Cup final|2005]], when then-Chelsea manager [[José Mourinho]] guided the club to its first trophy since the [[2000 FA Charity Shield]]. They also met in three more title-deciding matches, the [[2006 FA Community Shield]], the [[2012 FA Cup final]], and the [[2019 UEFA Super Cup]]; Chelsea won in 2012, and Liverpool won the other two meetings.{{citation needed|date=April 2022}}
+
+==Match==
+===Team selection===
+Following Liverpool's semi-final second leg victory over Arsenal, manager [[Jürgen Klopp]] confirmed that goalkeeper Caoimhín Kelleher would play in the final; Kelleher had only missed one EFL Cup match during the season – the fourth-round win over Preston.<ref>{{cite news |title=Caoimhin Kelleher: Liverpool keeper to start Carabao Cup final v Chelsea |url=https://www.bbc.co.uk/sport/football/60096122 |date=22 January 2022 |work=BBC Sport |access-date=28 February 2022}}</ref> In a much-publicised move, Chelsea started the game with [[Kai Havertz]] in the central attacking position rather than [[Romelu Lukaku]]. Liverpool were forced into a late change as an injury to [[Thiago Alcântara]] in the warm-up meant [[Naby Keïta]] came into their starting lineup and [[Harvey Elliott]] came into the substitutes.<ref>{{cite web|url=https://www.theguardian.com/football/live/2022/feb/27/chelsea-v-liverpool-carabao-cup-final-live|title=2022 Carabao Cup Final: as it happened|date=25 February 2022|work=The Guardian|accessdate=1 March 2022}}</ref>
+
+===Summary===
+Chelsea started the game stronger, creating the first clear chance of the game in the sixth minute, when Liverpool goalkeeper Caoimhín Kelleher parried a shot by [[Christian Pulisic]]. Gradually Liverpool grew into the game, with increasing intensity, culminating in a double save from Chelsea goalkeeper [[Édouard Mendy]] after efforts from [[Naby Keïta]] and [[Sadio Mané]]. [[Luis Díaz (footballer, born 1997)|Luis Díaz]], lively on the left wing, was the standout player for Liverpool, with much of their play focused on that side of the pitch. Towards the end of the first half, [[Mason Mount]] had a clear chance but spurned it wide. The first half concluded with Liverpool enjoying most of the possession, but with Chelsea having the better chances. Chelsea created five chances in the first half with Havertz contributing four and [[César Azpilicueta]] one. The German would go on to end the game with five chances created, the most in an EFL Cup final since [[David Silva]]. However, Liverpool full-back [[Trent Alexander-Arnold]] exceeded that number with six chances created.<ref>{{cite web |url=https://www.squawka.com/en/chelsea-liverpool-player-analysis-league-cup-final/|title=Liverpool triumph in League Cup final against Chelsea despite getting 'Firmino'd' by Kai Havertz|work=Squawka|date=27 February 2022|access-date=2 March 2022}}</ref> 
+
+Four minutes into the second half, Mount was presented with yet another good opportunity, only for him to hit the post after Kelleher seemed beaten. In the 69th minute, Liverpool thought they had taken the lead via a [[Joël Matip]] header, but the goal was ruled out after the [[video assistant referee]] (VAR) intervened, judging that [[Virgil van Dijk]], from an offside position, had fouled [[Reece James (footballer, born 1999)|Reece James]] in the build-up. Both Liverpool and Chelsea continued to create chances, but neither side was able to score during regulation time.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/60450274|title=Reds wins Carabao Cup final on penalties|work=BBC Sport|date=27 February 2022|access-date=1 March 2022}}</ref>
+
+In extra-time, Chelsea had goals from [[Romelu Lukaku]] and [[Kai Havertz]] ruled out for offside. Chelsea goalkeeper [[Kepa Arrizabalaga]] was brought on for Mendy for the penalty shoot-out. Both teams scored their initial five spot kicks, and the shoot-out went to sudden death. All ten outfield players from both sides converted their penalties to make it 10–10. Liverpool's goalkeeper Kelleher then scored his team's eleventh penalty. With Liverpool leading 11–10, Arrizabalaga stepped up to take Chelsea's eleventh, but he shot over the crossbar, meaning Liverpool had achieved a record ninth EFL Cup win, their first in a decade, and Jürgen Klopp's first domestic cup as Liverpool manager.<ref>{{cite web|url=https://www.theguardian.com/football/2022/feb/27/chelsea-liverpool-carabao-cup-final-match-report|title=Liverpool win Carabao Cup final after beating Chelsea in penalty shootout|date=27 February 2022|work=The Guardian|accessdate=1 March 2022}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2022|2|27|df=y}}
+|time       = 16:30 [[Greenwich Mean Time|GMT]]
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 0–0
+|aet        = yes
+|report     = https://www.bbc.co.uk/sport/football/60450274
+|team2      = [[Liverpool F.C.|Liverpool]]
+|goals1     =
+|goals2     =
+|penalties1 =
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{pengoal}}
+*[[Romelu Lukaku|Lukaku]] {{pengoal}}
+*[[Kai Havertz|Havertz]] {{pengoal}}
+*[[Reece James (footballer, born 1999)|James]] {{pengoal}}
+*[[Jorginho (footballer, born December 1991)|Jorginho]] {{pengoal}}
+*[[Antonio Rüdiger|Rüdiger]] {{pengoal}}
+*[[N'Golo Kanté|Kanté]] {{pengoal}}
+*[[Timo Werner|Werner]] {{pengoal}}
+*[[Thiago Silva|Silva]] {{pengoal}}
+*[[Trevoh Chalobah|Chalobah]] {{pengoal}}
+*[[Kepa Arrizabalaga|Arrizabalaga]] {{penmiss}}
+|penaltyscore = 10–11
+|penalties2 =
+*{{pengoal}} [[James Milner|Milner]]
+*{{pengoal}} [[Fabinho (footballer, born 1993)|Fabinho]]
+*{{pengoal}} [[Virgil van Dijk|Van Dijk]]
+*{{pengoal}} [[Trent Alexander-Arnold|Alexander-Arnold]]
+*{{pengoal}} [[Mohamed Salah|Salah]]
+*{{pengoal}} [[Diogo Jota|Jota]]
+*{{pengoal}} [[Divock Origi|Origi]]
+*{{pengoal}} [[Andy Robertson|Robertson]]
+*{{pengoal}} [[Harvey Elliott|Elliott]]
+*{{pengoal}} [[Ibrahima Konaté|Konaté]]
+*{{pengoal}} [[Caoimhín Kelleher|Kelleher]]
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 85,512<ref name="attendance">{{cite news|url=https://www.bbc.co.uk/sport/football/60450274|title=Chelsea 0–0 Liverpool – Reds win Carabao Cup on penalties|work=[[BBC Sport]]|date=27 February 2022|access-date=2 March 2022}}</ref>
+|referee    = [[Stuart Attwell]] ([[Birmingham County Football Association|Warwickshire]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _chelsea2122h
+ |pattern_b  = _chelsea2122h
+ |pattern_ra = _chelsea2122h
+ |pattern_sh = _chelsea2122h
+ |pattern_so = _chelsea2122h
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = Chelsea
+}}
+|{{Football kit
+ |pattern_la = _liverpool2122H
+ |pattern_b  = _liverpool2122home
+ |pattern_ra = _liverpool2122H
+ |pattern_sh = _liverpool2122H
+ |pattern_so = _liverpool2122H
+ |leftarm    = DD0000
+ |body       = DD0000
+ |rightarm   = DD0000
+ |shorts     = DD0000
+ |socks      = DD0000
+ |title      = Liverpool
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''16'''||{{flagicon|SEN}} [[Édouard Mendy]] || || {{suboff|120}}
+|-
+|CB ||'''14'''||{{flagicon|ENG}} [[Trevoh Chalobah]]
+|-
+|CB ||'''6''' ||{{flagicon|BRA}} [[Thiago Silva]]
+|-
+|CB ||'''2''' ||{{flagicon|GER}} [[Antonio Rüdiger]]
+|-
+|RM ||'''28'''||{{flagicon|ESP}} [[César Azpilicueta]] ([[Captain (association football)|c]]) || || {{suboff|57}}
+|-
+|CM ||'''7''' ||{{flagicon|FRA}} [[N'Golo Kanté]] || {{yel|99}}
+|-
+|CM ||'''8''' ||{{flagicon|CRO}} [[Mateo Kovačić]] || {{yel|90}} || {{suboff|106}}
+|-
+|LM ||'''3''' ||{{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+|-
+|AM ||'''19'''||{{flagicon|ENG}} [[Mason Mount]] || || {{suboff|74}}
+|-
+|AM ||'''10'''||{{flagicon|USA}} [[Christian Pulisic]] || || {{suboff|74}}
+|-
+|CF ||'''29'''||{{flagicon|GER}} [[Kai Havertz]] || {{yel|105+2}} 
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Kepa Arrizabalaga]] || || {{subon|120}}
+|-
+|DF ||'''24'''||{{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]] || || {{subon|57}}
+|-
+|DF ||'''31'''||{{flagicon|FRA}} [[Malang Sarr]]
+|-
+|MF ||'''5''' ||{{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]] || || {{subon|106}}
+|-
+|MF ||'''12'''||{{flagicon|ENG}} [[Ruben Loftus-Cheek]]
+|-
+|MF ||'''17'''||{{flagicon|ESP}} [[Saúl (footballer, born 1994)|Saúl]]
+|-
+|MF ||'''20'''||{{flagicon|ENG}} [[Callum Hudson-Odoi]]
+|-
+|FW ||'''9''' ||{{flagicon|BEL}} [[Romelu Lukaku]] || || {{subon|74}}
+|-
+|FW ||'''11'''||{{flagicon|GER}} [[Timo Werner]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Thomas Tuchel]]
+|}
+|valign="top"|[[File:Chelsea vs Liverpool 2022-02-27.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''62'''||{{flagicon|IRL}} [[Caoimhín Kelleher]]
+|-
+|RB ||'''66'''||{{flagicon|ENG}} [[Trent Alexander-Arnold]] || {{yel|105+2}}
+|-
+|CB ||'''32'''||{{flagicon|CMR}} [[Joël Matip]] || || {{suboff|91}}
+|-
+|CB ||'''4''' ||{{flagicon|NED}} [[Virgil van Dijk]]
+|-
+|LB ||'''26'''||{{flagicon|SCO}} [[Andy Robertson]]
+|-
+|CM ||'''14'''||{{flagicon|ENG}} [[Jordan Henderson]] ([[Captain (association football)|c]]) || || {{suboff|79}}
+|-
+|CM ||'''3''' ||{{flagicon|BRA}} [[Fabinho (footballer, born 1993)|Fabinho]]
+|-
+|CM ||'''8''' ||{{flagicon|GUI}} [[Naby Keïta]] || || {{suboff|80}}
+|-
+|RF ||'''11'''||{{flagicon|EGY}} [[Mohamed Salah]]
+|-
+|CF ||'''10'''||{{flagicon|SEN}} [[Sadio Mané]] || || {{suboff|80}}
+|-
+|LF ||'''23'''||{{flagicon|COL}} [[Luis Díaz (footballer, born 1997)|Luis Díaz]] || || {{suboff|97}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|BRA}} [[Alisson]]
+|-
+|DF ||'''5''' ||{{flagicon|FRA}} [[Ibrahima Konaté]] || || {{subon|91}}
+|-
+|DF ||'''21'''||{{flagicon|GRE}} [[Kostas Tsimikas]]
+|-
+|MF ||'''7''' ||{{flagicon|ENG}} [[James Milner]] || || {{subon|80}}
+|-
+|MF ||'''15'''||{{flagicon|ENG}} [[Alex Oxlade-Chamberlain]]
+|-
+|MF ||'''67'''||{{flagicon|ENG}} [[Harvey Elliott]] || || {{subon|79}}
+|-
+|FW ||'''18'''||{{flagicon|JPN}} [[Takumi Minamino]]
+|-
+|FW ||'''20'''||{{flagicon|POR}} [[Diogo Jota]] || || {{subon|80}}
+|-
+|FW ||'''27'''||{{flagicon|BEL}} [[Divock Origi]] || || {{subon|97}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klopp]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Virgil van Dijk]] (Liverpool)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>{{failed verification|date=March 2024|reason=Does not list Ref Federation}}
+<br />Dan Cook ([[Manchester Football Association|Manchester]])
+<br />Daniel Robathan ([[Norfolk County Football Association|Norfolk]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>{{failed verification|date=March 2024|reason=Does not list Ref Federation}}
+<br />[[Andrew Madley]] ([[West Riding County Football Association|Huddersfield]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>{{failed verification|date=March 2024|reason=Does not list Ref Federation}}
+<br />Tim Wood ([[Gloucestershire County Football Association|Gloucestershire]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>{{failed verification|date=March 2024|reason=Does not list Ref Federation}}
+<br />[[Darren England]] ([[Sheffield & Hallamshire County Football Association|Doncaster]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>{{failed verification|date=March 2024|reason=Does not list Ref Federation}}
+<br />Simon Bennett ([[Staffordshire Football Association|Staffordshire]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref>{{cite web |url=https://www.efl.com/carabao-cup/about-the-carabao-cup/carabao-cup-rules--regulations |title=Regulations |website=EFL.com |publisher=English Football League |access-date=13 January 2022 |url-status=live |archive-url=https://web.archive.org/web/20220113093144/https://www.efl.com/carabao-cup/about-the-carabao-cup/carabao-cup-rules--regulations/ |archive-date=13 January 2022}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Nine named substitutes
+*Maximum of five substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+|}
+
+==Broadcasting==
+The match was broadcast in the United Kingdom by pay TV network [[Sky Sports]], with an average of 3.16&nbsp;million viewers and a peak of more than 4&nbsp;million.<ref>{{cite news |title=Liverpool beating Chelsea in Carabao Cup final watched by over 4m people, Sky Sports' highest League Cup final viewing figures on record |url=https://www.skysports.com/football/news/13866/12555457/liverpool-beating-chelsea-in-carabao-cup-final-watched-by-over-4m-people-sky-sports-highest-league-cup-final-viewing-figures-on-record |website=Sky Sports |date=2 March 2022 |accessdate=3 March 2022 }}</ref>
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|https://www.efl.com/carabao-cup/}}
+
+{{EFL Cup}}
+{{2021–22 in English men's football}}
+{{Chelsea F.C. matches}}
+{{Liverpool F.C. matches}}
+
+[[Category:EFL Cup finals]]
+[[Category:2021–22 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:February 2022 sports events in the United Kingdom|EFL Cup final]]
+[[Category:2022 in sport in London|EFL Cup final]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:Chelsea F.C. matches|League Cup final 2022]]
+[[Category:Liverpool F.C. matches|League Cup final 2022]]

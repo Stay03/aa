@@ -1,0 +1,1161 @@
+[
+ {
+  "article": "2011 FA Cup final",
+  "fb_date": "14 May 2011",
+  "team1": "Manchester City",
+  "team2": "Stoke City",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Y. Touré",
+    "minute": "74",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "88,643",
+  "referee": "Martin Atkinson (West Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://www.thefa.com/thefacup/more/pastresults Report]<br><ref name=\"line-ups\">{{cite web |title=The FA Cup sponsored by E.ON 2011 Final – Manchester City v Stoke City |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/Match-Centres-2010-11/Final/Manchester-City-v-Stoke-City/~/media/Files/PDF/The%20FA%20Cup%20And%20Comps/FACup/FACupFinal-2011-teamsheet.ashx/FACupFinal-2011-teamsheet.pdf |work=TheFA.com |publisher=The Football Association |date=14 May 2011 |access-date=17 May 2011 }}</ref>",
+  "manager1": "Roberto Mancini",
+  "cards1": [],
+  "manager2": "Tony Pulis",
+  "cards2": [
+   {
+    "player": "Andy Wilkinson",
+    "type": "Y",
+    "minute": "76"
+   },
+   {
+    "player": "Robert Huth",
+    "type": "Y",
+    "minute": "40"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2012 FA Cup final",
+  "fb_date": "5 May 2012",
+  "team1": "Chelsea",
+  "team2": "Liverpool",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Ramires",
+    "minute": "11",
+    "note": ""
+   },
+   {
+    "player": "Drogba",
+    "minute": "52",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Carroll",
+    "minute": "64",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "89,102",
+  "referee": "Phil Dowd (Staffordshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://www.bbc.co.uk/sport/football/17878435 Report]",
+  "manager1": "Roberto Di Matteo (interim)",
+  "cards1": [
+   {
+    "player": "Mikel John Obi",
+    "type": "Y",
+    "minute": "36"
+   }
+  ],
+  "manager2": "Kenny Dalglish",
+  "cards2": [
+   {
+    "player": "Daniel Agger",
+    "type": "Y",
+    "minute": "44"
+   },
+   {
+    "player": "Luis Suárez",
+    "type": "Y",
+    "minute": "81"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Total shots": [
+    "14",
+    "18"
+   ],
+   "Shots on target": [
+    "6",
+    "10"
+   ],
+   "Ball possession": [
+    "45%",
+    "55%"
+   ],
+   "Corner kicks": [
+    "1",
+    "7"
+   ],
+   "Fouls committed": [
+    "5",
+    "8"
+   ],
+   "Offsides": [
+    "3",
+    "4"
+   ],
+   "Yellow cards": [
+    "1",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2013 FA Cup final",
+  "fb_date": "11 May 2013",
+  "team1": "Manchester City",
+  "team2": "Wigan Athletic",
+  "score_raw": "0–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Watson",
+    "minute": "90+1",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "86,254",
+  "referee": "Andre Marriner (West Midlands)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://www.bbc.co.uk/sport/football/22409634 Report], [https://www.11v11.com/matches/manchester-city-v-wigan-athletic-11-may-2013-301401/ Statistics], [https://www.11v11.com/teams/manchester-city/tab/players/season/2013/ Manchester City squad numbers], [https://www.11v11.com/teams/wigan-athletic/tab/players/season/2013/ Wigan Athletic squad numbers]",
+  "manager1": "Roberto Mancini",
+  "cards1": [
+   {
+    "player": "Pablo Zabaleta",
+    "type": "2Y",
+    "minute": "60,84"
+   },
+   {
+    "player": "Matija Nastasić",
+    "type": "Y",
+    "minute": "75"
+   },
+   {
+    "player": "Gareth Barry",
+    "type": "Y",
+    "minute": "87"
+   }
+  ],
+  "manager2": "Roberto Martínez",
+  "cards2": [
+   {
+    "player": "Joel Robles",
+    "type": "Y",
+    "minute": "90+3"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2014 FA Cup final",
+  "fb_date": "17 May 2014",
+  "team1": "Arsenal",
+  "team2": "Hull City",
+  "score_raw": "3–2",
+  "aet": "yes",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Cazorla",
+    "minute": "17",
+    "note": ""
+   },
+   {
+    "player": "Koscielny",
+    "minute": "71",
+    "note": ""
+   },
+   {
+    "player": "Ramsey",
+    "minute": "109",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Chester",
+    "minute": "4",
+    "note": ""
+   },
+   {
+    "player": "Davies",
+    "minute": "8",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "89,345",
+  "referee": "Lee Probert (Wiltshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://www.thefa.com/news/the-fa-cup/2014/may/arsenal-v-hull-city-fa-cup-final-2014-match-report Report]<br />[https://www.11v11.com/matches/arsenal-v-hull-city-17-may-2014-308633/ Statistics]",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Olivier Giroud",
+    "type": "Y",
+    "minute": "85"
+   }
+  ],
+  "manager2": "Steve Bruce",
+  "cards2": [
+   {
+    "player": "Curtis Davies",
+    "type": "Y",
+    "minute": "86"
+   },
+   {
+    "player": "Tom Huddlestone",
+    "type": "Y",
+    "minute": "60"
+   },
+   {
+    "player": "David Meyler",
+    "type": "Y",
+    "minute": "70"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2015 FA Cup final",
+  "fb_date": "30 May 2015",
+  "team1": "Arsenal",
+  "team2": "Aston Villa",
+  "score_raw": "4–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Walcott",
+    "minute": "40",
+    "note": ""
+   },
+   {
+    "player": "Sánchez",
+    "minute": "50",
+    "note": ""
+   },
+   {
+    "player": "Mertesacker",
+    "minute": "62",
+    "note": ""
+   },
+   {
+    "player": "Giroud",
+    "minute": "90+3",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "89,283",
+  "referee": "Jon Moss (West Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://www.thefa.com/news/the-fa-cup/2015/may/the-final-report-300515 Report], [https://www.bbc.co.uk/sport/football/32856754 positions],<br>[https://www.11v11.com/matches/arsenal-v-aston-villa-30-may-2015-313863/ nationalities]",
+  "manager1": "Arsène Wenger",
+  "cards1": [],
+  "manager2": "Tim Sherwood",
+  "cards2": [
+   {
+    "player": "Alan Hutton",
+    "type": "Y",
+    "minute": "33"
+   },
+   {
+    "player": "Ashley Westwood",
+    "type": "Y",
+    "minute": "52"
+   },
+   {
+    "player": "Tom Cleverley",
+    "type": "Y",
+    "minute": "14"
+   },
+   {
+    "player": "Fabian Delph",
+    "type": "Y",
+    "minute": "37"
+   },
+   {
+    "player": "Gabriel Agbonlahor",
+    "type": "Y",
+    "minute": "83"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2016 FA Cup final",
+  "fb_date": "",
+  "team1": "Crystal Palace",
+  "team2": "Manchester United",
+  "score_raw": "1–2",
+  "aet": "yes",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Puncheon",
+    "minute": "78",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Mata",
+    "minute": "81",
+    "note": ""
+   },
+   {
+    "player": "Lingard",
+    "minute": "110",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "88,619",
+  "referee": "Mark Clattenburg (County Durham)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://www.bbc.co.uk/sport/football/36292265 Report], [https://www.11v11.com/matches/crystal-palace-v-manchester-united-21-may-2016-319189/ Statistics]",
+  "manager1": "Alan Pardew",
+  "cards1": [
+   {
+    "player": "Scott Dann",
+    "type": "Y",
+    "minute": "47"
+   },
+   {
+    "player": "Damien Delaney",
+    "type": "Y",
+    "minute": "62"
+   },
+   {
+    "player": "James McArthur",
+    "type": "Y",
+    "minute": "108"
+   }
+  ],
+  "manager2": "Louis van Gaal",
+  "cards2": [
+   {
+    "player": "Chris Smalling",
+    "type": "2Y",
+    "minute": "18,105"
+   },
+   {
+    "player": "Marcos Rojo",
+    "type": "Y",
+    "minute": "40"
+   },
+   {
+    "player": "Wayne Rooney",
+    "type": "Y",
+    "minute": "87"
+   },
+   {
+    "player": "Juan Mata",
+    "type": "Y",
+    "minute": "45"
+   },
+   {
+    "player": "Marouane Fellaini",
+    "type": "Y",
+    "minute": "101"
+   },
+   {
+    "player": "Jesse Lingard",
+    "type": "Y",
+    "minute": "111"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2017 FA Cup final",
+  "fb_date": "",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Sánchez",
+    "minute": "4",
+    "note": ""
+   },
+   {
+    "player": "Ramsey",
+    "minute": "79",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Costa",
+    "minute": "76",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "89,472",
+  "referee": "Anthony Taylor (Cheshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "http://www.thefa.com/news/2017/may/27/arsenal-chelsea-emirates-fa-cup-final-report-270517",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Rob Holding",
+    "type": "Y",
+    "minute": "53"
+   },
+   {
+    "player": "Aaron Ramsey",
+    "type": "Y",
+    "minute": "9"
+   },
+   {
+    "player": "Granit Xhaka",
+    "type": "Y",
+    "minute": "81"
+   },
+   {
+    "player": "Francis Coquelin",
+    "type": "Y",
+    "minute": "83"
+   }
+  ],
+  "manager2": "Antonio Conte",
+  "cards2": [
+   {
+    "player": "Victor Moses",
+    "type": "2Y",
+    "minute": "57,68"
+   },
+   {
+    "player": "N'Golo Kanté",
+    "type": "Y",
+    "minute": "59"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Gary Beswick (Durham); Marc Perry (West Midlands)",
+   "Fourth official": "Bobby Madley (West Yorkshire)",
+   "Fifth official": "Adam Nunn (Wiltshire) |style"
+  },
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2018 FA Cup final",
+  "fb_date": "",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Hazard",
+    "minute": "22",
+    "note": "pen."
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "87,647",
+  "referee": "Michael Oliver (Northumberland)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "Reports<ref name=eleven>{{Cite web |url=https://www.11v11.com/matches/chelsea-v-manchester-united-19-may-2018-357565/ |website=11v11.com |publisher=AFS Enterprises |access-date=9 July 2020 |title=Chelsea v Manchester United, 19 May 2018 |archive-url=https://web.archive.org/web/20190411031904/https://www.11v11.com/matches/chelsea-v-manchester-united-19-may-2018-357565/ |archive-date=11 April 2019 |url-status=live }}</ref><ref name=\"report\">{{cite web |title=Eden Hazard penalty wins Emirates FA Cup for Chelsea |url=http://www.thefa.com/news/2018/may/19/fa-cup-final-chelsea-manchester-united-190518 |publisher=[[The Football Association]] |date=19 May 2018 |access-date=24 May 2018 |archive-url=https://web.archive.org/web/20190323200119/http://www.thefa.com/news/2018/may/19/fa-cup-final-chelsea-manchester-united-190518 |archive-date=23 March 2019 |url-status=live }}</ref><ref name=summary>{{cite web|last1=McNulty|first1=Phil|author-link=Phil McNulty|title=Chelsea 1–0 Manchester United|url=https://www.bbc.co.uk/sport/football/44091559|access-date=19 May 2018|publisher=[[BBC Sport]]|date=19 May 2018|archive-url=https://web.archive.org/web/20180718123013/https://www.bbc.co.uk/sport/football/44091559|archive-date=18 July 2018|url-status=live}}</ref>",
+  "manager1": "Antonio Conte",
+  "cards1": [
+   {
+    "player": "Thibaut Courtois",
+    "type": "Y",
+    "minute": "90+3"
+   }
+  ],
+  "manager2": "José Mourinho",
+  "cards2": [
+   {
+    "player": "Antonio Valencia",
+    "type": "Y",
+    "minute": "58"
+   },
+   {
+    "player": "Phil Jones",
+    "type": "Y",
+    "minute": "21"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Ian Hussin (Liverpool); Lee Betts (Norfolk)",
+   "Fourth official": "Lee Mason (Lancashire)",
+   "Reserve assistant referee": "Constantine Hatzidakis (Kent)",
+   "Video assistant referee": "Neil Swarbrick (Lancashire)",
+   "Assistant video assistant referee": "Mick McDonough (Northumberland) |style"
+  },
+  "stats": {
+   "Total shots": [
+    "6",
+    "18"
+   ],
+   "Shots on target": [
+    "3",
+    "5"
+   ],
+   "Corner kicks": [
+    "5",
+    "9"
+   ],
+   "Fouls committed": [
+    "11",
+    "13"
+   ],
+   "Possession": [
+    "33%",
+    "67%"
+   ],
+   "Yellow cards": [
+    "1",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2019 FA Cup final",
+  "fb_date": "",
+  "team1": "Manchester City",
+  "team2": "Watford",
+  "score_raw": "6–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "D. Silva",
+    "minute": "26",
+    "note": ""
+   },
+   {
+    "player": "Gabriel Jesus",
+    "minute": "38",
+    "note": ""
+   },
+   {
+    "player": "Gabriel Jesus",
+    "minute": "68",
+    "note": ""
+   },
+   {
+    "player": "De Bruyne",
+    "minute": "61",
+    "note": ""
+   },
+   {
+    "player": "Sterling",
+    "minute": "81",
+    "note": ""
+   },
+   {
+    "player": "Sterling",
+    "minute": "87",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "85,854",
+  "referee": "Kevin Friend (Leicestershire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "<ref name=guardlive3>{{Cite web | url = https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live | work = [[The Guardian]] | title = Man City 6–0 Watford (1 of 3) | access-date = 16 July 2020 | date = 19 May 2019 | first = Barry | last = Glendenning | author-link = Barry Glendenning | archive-url = https://web.archive.org/web/20191202111157/https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live | archive-date = 2 December 2019 | url-status = live }}</ref><ref name=guardlive>{{Cite web | url = https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live | work = [[The Guardian]] | title = Man City 6–0 Watford (3 of 3) | access-date = 16 July 2020 | date = 19 May 2019 | first = Barry | last = Glendenning | author-link = Barry Glendenning | archive-url = https://web.archive.org/web/20191202111157/https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live | archive-date = 2 December 2019 | url-status = live }}</ref><ref name=guardlive2>{{Cite web | url = https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live?page=with:block-5ce03dfb8f08d2b474ebe6d4#liveblog-navigation | work = [[The Guardian]] | title = Man City 6–0 Watford (2 of 3) | access-date = 16 July 2020 | date = 19 May 2019 | first = Barry | last = Glendenning | author-link = Barry Glendenning | archive-url = https://web.archive.org/web/20190518175840/https://www.theguardian.com/football/live/2019/may/18/manchester-city-v-watford-fa-cup-final-live?page=with%3Ablock-5ce03dfb8f08d2b474ebe6d4#liveblog-navigation | archive-date = 18 May 2019 | url-status = live }}</ref><ref name=rep11v11>{{Cite web | url = https://www.11v11.com/matches/manchester-city-v-watford-18-may-2019-362301/ | website = 11v11.com | access-date = 16 July 2020 | title = Manchester City v Watford, 18 May 2019 | publisher = AFS Enterprises | archive-url = https://web.archive.org/web/20190901174644/https://www.11v11.com/matches/manchester-city-v-watford-18-may-2019-362301/ | archive-date = 1 September 2019 | url-status = live }}</ref>",
+  "manager1": "Pep Guardiola",
+  "cards1": [
+   {
+    "player": "David Silva",
+    "type": "Y",
+    "minute": "60"
+   }
+  ],
+  "manager2": "Javi Gracia",
+  "cards2": [
+   {
+    "player": "Kiko Femenía",
+    "type": "Y",
+    "minute": "80"
+   },
+   {
+    "player": "Abdoulaye Doucouré",
+    "type": "Y",
+    "minute": "21"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Constantine Hatzidakis (Kent); Matthew Wilkes (Birmingham)",
+   "Fourth official": "Graham Scott (Berks & Bucks)",
+   "Reserve assistant referee": "Edward Smart (Birmingham)",
+   "Video assistant referee": "Andre Marriner (Birmingham)",
+   "Assistant video assistant referee": "Harry Lennard (Sussex) |style"
+  },
+  "stats": {
+   "Total shots": [
+    "23",
+    "11"
+   ],
+   "Shots on target": [
+    "12",
+    "2"
+   ],
+   "Corner kicks": [
+    "13",
+    "1"
+   ],
+   "Fouls committed": [
+    "8",
+    "5"
+   ],
+   "Possession": [
+    "66%",
+    "34%"
+   ],
+   "Yellow cards": [
+    "1",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2020 FA Cup final",
+  "fb_date": "",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Aubameyang",
+    "minute": "28",
+    "note": "pen."
+   },
+   {
+    "player": "Aubameyang",
+    "minute": "67",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Pulisic",
+    "minute": "5",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "0",
+  "referee": "Anthony Taylor (Cheshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/53546100",
+  "manager1": "Mikel Arteta",
+  "cards1": [
+   {
+    "player": "Dani Ceballos",
+    "type": "Y",
+    "minute": "73"
+   }
+  ],
+  "manager2": "Frank Lampard",
+  "cards2": [
+   {
+    "player": "César Azpilicueta",
+    "type": "Y",
+    "minute": "26"
+   },
+   {
+    "player": "Antonio Rüdiger",
+    "type": "Y",
+    "minute": "75"
+   },
+   {
+    "player": "Mateo Kovačić",
+    "type": "2Y",
+    "minute": "14,73"
+   },
+   {
+    "player": "Mason Mount",
+    "type": "Y",
+    "minute": "45+4"
+   },
+   {
+    "player": "Ross Barkley",
+    "type": "Y",
+    "minute": "89"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Gary Beswick (Durham); Adam Nunn (Wiltshire)",
+   "Fourth official": "Chris Kavanagh (Manchester)",
+   "Reserve assistant referee": "Lee Betts (Norfolk)",
+   "Video assistant referee": "Stuart Attwell (Birmingham)",
+   "Assistant video assistant referee": "Stephen Child (London) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2021 FA Cup final",
+  "fb_date": "",
+  "team1": "Chelsea",
+  "team2": "Leicester City",
+  "score_raw": "0–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Tielemans",
+    "minute": "63",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "20,000",
+  "referee": "Michael Oliver (County Durham)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/57055571",
+  "manager1": "",
+  "cards1": [
+   {
+    "player": "Timo Werner",
+    "type": "Y",
+    "minute": "40"
+   }
+  ],
+  "manager2": "",
+  "cards2": [
+   {
+    "player": "Wesley Fofana",
+    "type": "Y",
+    "minute": "36"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Stuart Burt (Northamptonshire); Simon Bennett (Staffordshire)",
+   "Fourth official": "Stuart Attwell (Birmingham)",
+   "Reserve assistant referee": "Dan Cook (Hampshire)",
+   "Video assistant referee": "Chris Kavanagh (Manchester)",
+   "Assistant video assistant referee": "Sian Massey-Ellis (Birmingham) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2022 FA Cup final",
+  "fb_date": "",
+  "team1": "Chelsea",
+  "team2": "Liverpool",
+  "score_raw": "0–0",
+  "aet": "yes",
+  "penaltyscore": "5–6",
+  "goals1": [],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "84,897",
+  "referee": "Craig Pawson (Sheffield & Hallamshire)",
+  "penalties1": "Alonso Azpilicueta James Barkley Jorginho Ziyech Mount",
+  "penalties2": "Milner Thiago Firmino Alexander-Arnold Mané Jota Tsimikas",
+  "report": "https://www.bbc.co.uk/sport/football/61429640",
+  "manager1": "Thomas Tuchel",
+  "cards1": [
+   {
+    "player": "Reece James",
+    "type": "Y",
+    "minute": "77"
+   }
+  ],
+  "manager2": "Jürgen Klopp",
+  "cards2": [],
+  "officials": {
+   "Assistant referees": "Dan Cook (Hampshire); Edward Smart (Birmingham)",
+   "Fourth official": "David Coote (Nottinghamshire)",
+   "Reserve assistant referee": "Dan Robathan (Norfolk)",
+   "Video assistant referee": "Paul Tierney (Lancashire)",
+   "Assistant video assistant referee": "Simon Bennett (Staffordshire) |style"
+  },
+  "stats": {
+   "Goals scored": [
+    "0",
+    "0"
+   ],
+   "Total shots": [
+    "10",
+    "17"
+   ],
+   "Shots on target": [
+    "2",
+    "2"
+   ],
+   "Saves": [
+    "2",
+    "2"
+   ],
+   "Ball possession": [
+    "47%",
+    "53%"
+   ],
+   "Corner kicks": [
+    "5",
+    "5"
+   ],
+   "Fouls committed": [
+    "13",
+    "12"
+   ],
+   "Offsides": [
+    "1",
+    "1"
+   ],
+   "Yellow cards": [
+    "1",
+    "0"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2023 FA Cup final",
+  "fb_date": "",
+  "team1": "Manchester City",
+  "team2": "Manchester United",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Gündoğan",
+    "minute": "1",
+    "note": ""
+   },
+   {
+    "player": "Gündoğan",
+    "minute": "51",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Fernandes",
+    "minute": "33",
+    "note": "pen."
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "83,179",
+  "referee": "Paul Tierney (Lancashire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/65785637",
+  "manager1": "Pep Guardiola",
+  "cards1": [
+   {
+    "player": "Stefan Ortega",
+    "type": "Y",
+    "minute": "81"
+   },
+   {
+    "player": "Rodri",
+    "type": "Y",
+    "minute": "90"
+   }
+  ],
+  "manager2": "Erik ten Hag",
+  "cards2": [
+   {
+    "player": "Aaron Wan-Bissaka",
+    "type": "Y",
+    "minute": "45+4"
+   },
+   {
+    "player": "Fred",
+    "type": "Y",
+    "minute": "79"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Neil Davies (London); Scott Ledger (South Yorkshire)",
+   "Fourth official": "Peter Bankes (Merseyside)",
+   "Reserve assistant referee": "Adrian Holmes (West Yorkshire)",
+   "Video assistant referee": "David Coote (Nottinghamshire)",
+   "Assistant video assistant referee": "Simon Long (Cornwall) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2024 FA Cup final",
+  "fb_date": "",
+  "team1": "Manchester City",
+  "team2": "Manchester United",
+  "score_raw": "1–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Doku",
+    "minute": "87",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Garnacho",
+    "minute": "30",
+    "note": ""
+   },
+   {
+    "player": "Mainoo",
+    "minute": "39",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "84,814",
+  "referee": "Andrew Madley (West Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/live/c2jj8k5vym5t",
+  "manager1": "Pep Guardiola",
+  "cards1": [
+   {
+    "player": "Julián Álvarez",
+    "type": "Y",
+    "minute": "90+7"
+   },
+   {
+    "player": "Ouest-France",
+    "type": "Y",
+    "minute": "90"
+   }
+  ],
+  "manager2": "Erik ten Hag",
+  "cards2": [
+   {
+    "player": "Kobbie Mainoo",
+    "type": "Y",
+    "minute": "45"
+   },
+   {
+    "player": "Scott McTominay",
+    "type": "Y",
+    "minute": "90+5"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Harry Lennard (Sussex); Nick Hopton (Derbyshire)",
+   "Fourth official": "Simon Hooper (Wiltshire)",
+   "Reserve assistant referee": "Tim Wood (Gloucestershire)",
+   "Video assistant referee": "Michael Oliver (Durham)",
+   "Assistant video assistant referee": "Stuart Burt (Northamptonshire)",
+   "Support video assistant referee": "Peter Bankes (Liverpool) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2025 FA Cup final",
+  "fb_date": "",
+  "team1": "Crystal Palace",
+  "team2": "Manchester City",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Eze",
+    "minute": "16",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "84,163",
+  "referee": "Stuart Attwell (Birmingham)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/live/cm23zrkn7ryt",
+  "manager1": "Oliver Glasner",
+  "cards1": [
+   {
+    "player": "Dean Henderson",
+    "type": "Y",
+    "minute": "90+1"
+   }
+  ],
+  "manager2": "Pep Guardiola",
+  "cards2": [
+   {
+    "player": "Rúben Dias",
+    "type": "Y",
+    "minute": "82"
+   },
+   {
+    "player": "Nico O'Reilly",
+    "type": "Y",
+    "minute": "66"
+   },
+   {
+    "player": "Bernardo Silva",
+    "type": "Y",
+    "minute": "75"
+   },
+   {
+    "player": "Kevin De Bruyne",
+    "type": "Y",
+    "minute": "85"
+   },
+   {
+    "player": "Claudio Echeverri",
+    "type": "Y",
+    "minute": "90+4"
+   }
+  ],
+  "officials": {
+   "Assistant referees": "Adam Nunn (Wiltshire); Dan Robathan (Norfolk)",
+   "Fourth official": "Darren England (Sheffield & Hallamshire)",
+   "Reserve assistant referee": "Craig Taylor (Staffordshire)",
+   "Video assistant referee": "Jarred Gillett (Liverpool)",
+   "Assistant video assistant referee": "Michael Salisbury (Lancashire)",
+   "Support video assistant referee": "Darren Cann (Norfolk) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ },
+ {
+  "article": "2026 FA Cup final",
+  "fb_date": "16 May 2026",
+  "team1": "Chelsea",
+  "team2": "Manchester City",
+  "score_raw": "0–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [],
+  "goals2": [
+   {
+    "player": "Semenyo",
+    "minute": "72",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium",
+  "attendance": "83,337",
+  "referee": "Darren England (South Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "https://www.bbc.co.uk/sport/football/live/clypx2em7drt",
+  "lineup_error": "found 1 tables",
+  "officials": {
+   "Assistant referees": "Tim Wood (Gloucestershire); Akil Howson (Leicestershire)",
+   "Fourth official": "Sam Barrott (West Yorkshire)",
+   "Reserve assistant referee": "Steve Meredith (Nottinghamshire)",
+   "Video assistant referee": "Peter Bankes (Merseyside)",
+   "Assistant video assistant referee": "Nick Hopton (Derbyshire) |style"
+  },
+  "stats": {},
+  "var_mentioned": true,
+  "glt_mentioned": false,
+  "comp": "FA Cup"
+ }
+]

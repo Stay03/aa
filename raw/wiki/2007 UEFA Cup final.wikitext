@@ -1,0 +1,509 @@
+{{Use dmy dates|date=June 2017}}
+{{Infobox football match
+| title              = 2007 UEFA Cup final
+| image              = Glasgow 2007.jpg
+| caption                 = Match programme logo
+| event              = [[2006–07 UEFA Cup]]
+| team1              = [[RCD Espanyol|Espanyol]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 2
+| team2              = [[Sevilla FC|Sevilla]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 2
+| details            = After [[Overtime (sports)#Association football|extra time]]<br />Sevilla won 3–1 on [[Penalty shoot-out (association football)|penalties]]
+| date               = 16 May 2007
+| stadium            = [[Hampden Park]]
+| city               = [[Glasgow]]
+| man_of_the_match1a = [[Andrés Palop]] (Sevilla)
+| referee            = [[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+| attendance         = 47,602<ref name="handbook"/>
+| weather            = Rain<br />{{convert|15|°C|°F}}<br />69% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2006/300100_LU.pdf |title=Line-ups |work=[[UEFA]] |publisher=Union of European Football Associations |date=16 May 2007 |access-date=28 July 2014}}</ref>
+| previous           = [[2006 UEFA Cup final|2006]]
+| next               = [[2008 UEFA Cup final|2008]]
+}}
+The '''2007 UEFA Cup final''' was a football match that took place on 16 May 2007 at [[Hampden Park]] in [[Glasgow]], Scotland.
+
+In an all-Spanish final, holders [[Sevilla FC|Sevilla]] defeated [[RCD Espanyol|Espanyol]] 3–1 on [[Penalty shoot-out (association football)|penalties]] after drawing 2–2 after extra-time, becoming the first club to win the competition two years in succession since the mid-1980s ([[Real Madrid CF|Real Madrid]] won the competition in [[1984–85 UEFA Cup|1985]] and [[1985–86 UEFA Cup|1986]]).<ref>{{cite web|url= http://news.bbc.co.uk/sport2/hi/football/europe/6657065.stm|title=Espanyol 2-2 Sevilla|date=16 May 2007|work=BBC Sport|accessdate=23 May 2024}}</ref><ref>{{cite web|url= https://www.theguardian.com/football/2007/may/16/minutebyminute.sport|title=Sevilla 2 - 2 Espanyol (aet; Sevilla win 3-1 on pens)|date=16 May 2007|work=Guardian|accessdate=23 May 2024}}</ref> [[Frédéric Kanouté]] was among the scorers for a second successive year.
+
+Sevilla also won the [[2006–07 Copa del Rey]] a month later, having also claimed the [[2006 UEFA Super Cup]] at the start of the season. Both the continental title and domestic cup would have entitled them to defend the UEFA Cup again, but their 3rd-place finish in the [[2006–07 La Liga]] instead placed them into the [[2007–08 UEFA Champions League]], where their performance (reaching the group stage then winning the group) did not lead to them falling back into the UEFA Cup pathway.
+
+It was a second UEFA Cup final loss for Espanyol in as many appearances; the previous occasion in [[1988 UEFA Cup final|1988]] also ended in defeat on penalties (following a 3–0 home win and a 3–0 away defeat against [[Bayer Leverkusen]]).
+
+Each club endured a tragedy in the period following their 2007 meeting with the sudden death of a much-loved serving and homegrown player who had played the entirety of the Glasgow final, both from heart-related issues and with the partners of both men expecting their child at the time of their death: [[Antonio Puerta]] of Sevilla (August 2007, aged 22)<ref name=Guardian>{{cite news|url=https://www.theguardian.com/football/2007/aug/28/europeanfootball.sevilla|title=Sevilla midfielder Puerta dies|newspaper=[[The Guardian]]|date=28 August 2007|access-date=5 April 2025}}</ref> and [[Daniel Jarque]] of Espanyol (August 2009, aged 26).<ref name=Mourn>{{cite web|url=https://www.uefa.com/news-media/news/01dc-0f85c6e0fd2a-df9ed68f90a5-1000--spain-in-mourning-for-jarque/|title=Spain in mourning for Jarque|publisher=UEFA|date=8 August 2009|access-date=5 April 2025}}</ref>
+
+==Route to the final==
+{{further|2006–07 UEFA Cup}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ESP}} [[RCD Espanyol|Espanyol]]
+!Round
+!colspan=4|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|-bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|Initial phase
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|SVK}} [[FC Petržalka|Artmedia Bratislava]]
+|5–3
+|2–2 (A)
+|3–1 (H)
+|bgcolor=#cle0ff|[[2006–07 UEFA Cup first round|First round]]
+|align=left|{{fbaicon|GRE}} [[Atromitos F.C.|Atromitos]]
+|6–1
+|2–1 (A)
+|4–0 (H)
+|-bgcolor=#cle0ff
+|Opponent
+|colspan=3|Result
+|[[2006–07 UEFA Cup group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]]
+|colspan=3|2–0 (A)
+|bgcolor=#cle0ff|Matchday 1
+|align=left|{{fbaicon|CZE}} [[FC Slovan Liberec|Slovan Liberec]]
+|colspan=3|0–0 (A)
+|-
+|colspan=4|Bye
+|bgcolor=#cle0ff|Matchday 2
+|colspan=4|Bye
+|-
+|align=left|{{fbaicon|BEL}} [[SV Zulte Waregem|Zulte Waregem]]
+|colspan=3|6–2 (H)
+|bgcolor=#cle0ff|Matchday 3
+|align=left|{{fbaicon|POR}} [[S.C. Braga|Braga]]
+|colspan=3|2–0 (H)
+|-
+|align=left|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|colspan=3|2–0 (A)
+|bgcolor=#cle0ff|Matchday 4
+|align=left|{{fbaicon|SUI}} [[Grasshopper Club Zurich|Grasshopper]]
+|colspan=3|4–0 (A)
+|-
+|align=left|{{fbaicon|AUT}} [[FK Austria Wien|Austria Wien]]
+|colspan=3|1–0 (H)
+|bgcolor=#cle0ff|Matchday 5
+|align=left|{{fbaicon|NED}} [[AZ Alkmaar|AZ]]
+|colspan=3|1–2 (H)
+|-
+|colspan=4 align=center valign=top|'''[[2006–07 UEFA Cup group stage#Group F|Group F]] winners'''
+{{:2006–07 UEFA Cup group stage|show_matches=no|only_pld_pts=yes|transcludesection=Group F|showteam=ESP}}
+|bgcolor=#cle0ff|Final standings
+|colspan=4 align=center valign=top|'''[[2006–07 UEFA Cup group stage#Group C|Group C]] runners-up'''
+{{:2006–07 UEFA Cup group stage|show_matches=no|only_pld_pts=yes|transcludesection=Group C|showteam=SEV}}
+|-bgcolor=#cle0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2006–07 UEFA Cup knockout stage|Knockout stage]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|ITA}} [[US Livorno 1915|Livorno]]
+|4–1
+|2–1 (A)
+|2–0 (H)
+|bgcolor=#cle0ff|Round of 32
+|align=left|{{fbaicon|ROU}} [[FCSB|Steaua București]]
+|3–0
+|2–0 (A)
+|1–0 (H)
+|-
+|align=left|{{fbaicon|ISR}} [[Maccabi Haifa F.C.|Maccabi Haifa]]
+|4–0
+|0–0 (A)
+|4–0 (H)
+|bgcolor=#cle0ff|Round of 16
+|align=left|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|5–4 ([[Overtime (sports)#Association football|a.e.t.]])
+|2–2 (H)
+|3–2 ([[Overtime (sports)#Association football|a.e.t.]]) (A)
+|-
+|align=left|{{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|3–2
+|3–2 (H)
+|0–0 (A)
+|bgcolor=#cle0ff|Quarter-finals
+|align=left|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|4–3
+|2–1 (H)
+|2–2 (A)
+|-
+|align=left|{{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|5–1
+|3–0 (H)
+|2–1 (A)
+|bgcolor=#cle0ff|Semi-finals
+|align=left|{{fbaicon|ESP}} [[CA Osasuna|Osasuna]]
+|2–1
+|0–1 (A)
+|2–0 (H)
+|}
+
+==Match==
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2007|5|16|df=y}}
+|time       = {{CEST|20:45|localtz=BST}}<!--20:45 CEST, 19:45 BST-->
+|team1      = [[RCD Espanyol|Espanyol]] {{fbaicon|ESP}}
+|score      = 2–2
+|aet        = yes
+|team2      = {{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+*[[Albert Riera|Riera]] {{goal|28}}
+*[[Jônatas Domingos|Jônatas]] {{goal|115}}
+|goals2     =
+*[[Adriano (footballer, born 1984)|Adriano]] {{goal|18}}
+*[[Frédéric Kanouté|Kanouté]] {{goal|105}}
+|stadium    = [[Hampden Park]], [[Glasgow]]
+|attendance = 47,602<ref name="handbook">{{cite book |location=Nyon |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |chapter=4. UEFA Cup Finals |title=UEFA Europa League Statistics Handbook 2012/13 |publisher=Union of European Football Associations |page=72 |date=28 May 2013 |access-date=27 September 2024 |url-status=dead |archive-url=https://web.archive.org/web/20130604201547/https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |archive-date=4 June 2013}}</ref>
+|referee    = [[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|penalties1 =
+*[[Luis García (footballer, born 1981)|L. García]] {{penmiss}}
+*[[Walter Pandiani|Pandiani]] {{pengoal}}
+*[[Jônatas Domingos|Jônatas]] {{penmiss}}
+*[[Marc Torrejón|Torrejón]] {{penmiss}}
+|penaltyscore = 1–3
+|penalties2 =
+*{{pengoal}} [[Frédéric Kanouté|Kanouté]]
+*{{pengoal}} [[Ivica Dragutinović|Dragutinović]]
+*{{penmiss}} [[Dani Alves]]
+*{{pengoal}} [[Antonio Puerta|Puerta]]
+|report     = https://www.uefa.com/uefaeuropaleague/match/300100/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la =_whiteshoulders
+ | pattern_b  =_thickwhitestripes
+ | pattern_ra =_whiteshoulders
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Espanyol<ref name="lineups"/>
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _sevilla0607ef
+ | pattern_ra =
+ | leftarm    = ff0000
+ | body       = ff0000
+ | rightarm   = ff0000
+ | shorts     = ff0000
+ | socks      = 000000
+ | title      = Sevilla<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Gorka Iraizoz]]
+|-
+|RB ||'''8''' ||{{flagicon|ARG}} [[Pablo Zabaleta]]
+|-
+|CB ||'''21'''||{{flagicon|ESP}} [[Daniel Jarque]]
+|-
+|CB ||'''19'''||{{flagicon|ESP}} [[Marc Torrejón]]
+|-
+|LB ||'''3''' ||{{flagicon|ESP}} [[David García (footballer, born 1981)|David García]]
+|-
+|DM ||'''22'''||{{flagicon|ESP}} [[Moisés Hurtado]] || {{sent off|2|23|68}}
+|-
+|RM ||'''18'''||{{flagicon|ESP}} [[Francisco Rufete]] || || {{suboff|56}}
+|-
+|LM ||'''11'''||{{flagicon|ESP}} [[Albert Riera]]
+|-
+|AM ||'''9''' ||{{flagicon|ESP}} [[Iván de la Peña]] || || {{suboff|87}}
+|-
+|CF ||'''10'''||{{flagicon|ESP}} [[Luis García (footballer, born 1981)|Luis García]]
+|-
+|CF ||'''23'''||{{flagicon|ESP}} [[Raúl Tamudo]] ([[Captain (association football)|c]]) || || {{suboff|73}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|CMR}} [[Carlos Kameni]]
+|-
+|DF ||'''4''' ||{{flagicon|ESP}} [[Jesús María Lacruz]] || || {{subon|73}}
+|-
+|DF ||'''30'''||{{flagicon|ESP}} [[Javi Chica]]
+|-
+|MF ||'''6''' ||{{flagicon|BRA}} [[Eduardo Costa]]
+|-
+|MF ||'''16'''||{{flagicon|BRA}} [[Jônatas Domingos|Jônatas]] || || {{subon|87}}
+|-
+|FW ||'''7''' ||{{flagicon|URU}} [[Walter Pandiani]] || || {{subon|56}}
+|-
+|FW ||'''20'''||{{flagicon|ESP}} [[Coro (footballer)|Coro]]
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|ESP}} [[Ernesto Valverde]]
+|}
+|valign="top"|[[File:Espanyol vs Sevilla 2007-05-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Andrés Palop]]
+|-
+|RB ||'''4''' ||{{flagicon|BRA}} [[Dani Alves]]
+|-
+|CB ||'''2''' ||{{flagicon|ESP}} [[Javi Navarro (footballer, born 1974)|Javi Navarro]] ([[Captain (association football)|c]])
+|-
+|CB ||'''19'''||{{flagicon|SRB|2004}} [[Ivica Dragutinović]]
+|-
+|LB ||'''16'''||{{flagicon|ESP}} [[Antonio Puerta]] || {{yel|115}}
+|-
+|DM ||'''8''' ||{{flagicon|DEN}} [[Christian Poulsen]]
+|-
+|RM ||'''18'''||{{flagicon|ESP}} [[José Luis Martí]]
+|-
+|LM ||'''6''' ||{{flagicon|BRA}} [[Adriano (footballer, born 1984)|Adriano]] || || {{suboff|76}}
+|-
+|AM ||'''25'''||{{flagicon|ITA}} [[Enzo Maresca]] || || {{suboff|46}}
+|-
+|CF ||'''12'''||{{flagicon|MLI}} [[Frédéric Kanouté]] || {{yel|82}}
+|-
+|CF ||'''10'''||{{flagicon|BRA}} [[Luís Fabiano]] || {{yel|62}} || {{suboff|64}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[David Cobeño]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[David Castedo]]
+|-
+|DF ||'''20'''||{{flagicon|ESP}} [[Aitor Ocio]]
+|-
+|MF ||'''11'''||{{flagicon|BRA}} [[Renato (footballer, born 1979)|Renato]] || || {{subon|76}}
+|-
+|MF ||'''15'''||{{flagicon|ESP}} [[Jesús Navas]] || ||{{subon|46}}
+|-
+|FW ||'''7''' ||{{flagicon|URU}} [[Javier Chevantón]]
+|-
+|FW ||'''9''' ||{{flagicon|RUS}} [[Aleksandr Kerzhakov]] || || {{subon|64}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|ESP}} [[Juande Ramos]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Andrés Palop]] (Sevilla)
+
+'''Assistant referees:'''
+<br />Matthias Arnet ([[Swiss Football Association|Switzerland]])
+<br />Stéphane Cuhat ([[Swiss Football Association|Switzerland]])
+<br />'''Fourth official:'''
+<br />Carlo Bertolini ([[Swiss Football Association|Switzerland]])
+|style="width:60%; vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra time if necessary
+*Penalty shoot-out if scores still level
+*Seven named substitutes, of which three may be used
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="report">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2006/300100_FR.pdf |title=Full Time Report Final – Espanyol v Sevilla |work=[[UEFA]] |publisher=Union of European Football Associations |date=16 May 2007 |access-date=16 May 2007 |url-status=live |archive-url=https://web.archive.org/web/20201001124751/https://www.uefa.com/newsfiles/uefacup/2006/300100_FR.pdf |archive-date=1 October 2020}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Espanyol
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|9
+|8
+|-
+!scope=row|Shots on target
+|5
+|1
+|-
+!scope=row|Saves
+|0
+|4
+|-
+!scope=row|Ball possession
+|56%
+|44%
+|-
+!scope=row|Corner kicks
+|3
+|2
+|-
+!scope=row|Fouls committed
+|8
+|6
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half and extra time<ref name="report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Espanyol
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|6
+|20
+|-
+!scope=row|Shots on target
+|4
+|8
+|-
+!scope=row|Saves
+|7
+|3
+|-
+!scope=row|Ball possession
+|35%
+|65%
+|-
+!scope=row|Corner kicks
+|7
+|12
+|-
+!scope=row|Fouls committed
+|15
+|9
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|1
+|3
+|-
+!scope=row|Red cards
+|1
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Espanyol
+!scope="col" style="width:70px"|Sevilla
+|-
+!scope=row|Goals scored
+|2
+|2
+|-
+!scope=row|Total shots
+|15
+|28
+|-
+!scope=row|Shots on target
+|9
+|9
+|-
+!scope=row|Saves
+|7
+|7
+|-
+!scope=row|Ball possession
+|43%
+|57%
+|-
+!scope=row|Corner kicks
+|10
+|14
+|-
+!scope=row|Fouls committed
+|23
+|15
+|-
+!scope=row|Offsides
+|0
+|4
+|-
+!scope=row|Yellow cards
+|2
+|3
+|-
+!scope=row|Red cards
+|1
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2007 UEFA Champions League final]]
+*[[2007 UEFA Super Cup]]
+*[[RCD Espanyol in European football]]
+*[[Sevilla FC in European football]]
+*[[Spanish football clubs in international competitions]]
+*[[2006–07 RCD Espanyol season]]
+*[[2006–07 Sevilla FC season]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|UEFA Cup 2006-07 Final in Glasgow}}
+*[https://web.archive.org/web/20100623152646/http://en.archive.uefa.com/competitions/uefacup/history/season=2006/intro.html 2006–07 season] at UEFA.com
+
+{{UEFA Europa League seasons}}
+{{2006-07 in European Football (UEFA)}}
+{{RCD Espanyol matches}}
+{{Sevilla F.C. matches}}
+
+{{DEFAULTSORT:Uefa Cup final 2007}}
+[[Category:RCD Espanyol matches|UEFA Cup Final 2007]]
+[[Category:Sevilla FC matches|UEFA Cup Final 2007]]
+[[Category:International sports competitions in Glasgow|UEFA Cup Final 2007]]
+[[Category:UEFA Europa League finals|2007]]
+[[Category:2006–07 in Scottish football]]
+[[Category:2006–07 UEFA Cup|Final]]
+[[Category:2006–07 in Spanish men's football|UEFA]]
+[[Category:May 2007 sports events in the United Kingdom]]
+[[Category:2000s in Glasgow]]
+[[Category:Football matches in Glasgow]]
+[[Category:Football finals in Scotland]]
+[[Category:Spanish football clubs in international competitions]]

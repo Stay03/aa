@@ -1,0 +1,699 @@
+{{Short description|Football match in Rome, Italy}}
+{{Use British English|date=June 2025}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox football match
+| title = 2009 UEFA Champions League final
+| image = 2009 UEFA Champions League Final programme.jpg
+| caption = Match programme cover
+| event = [[2008–09 UEFA Champions League]]
+| team1 = [[FC Barcelona|Barcelona]]
+| team1association = {{fbaicon|ESP|size=30px}}
+| team1score = 2
+| team2 = [[Manchester United F.C.|Manchester United]]
+| team2association = {{fbaicon|ENG|size=30px}}
+| team2score = 0
+| details = 
+| date = 27 May 2009
+| stadium = [[Stadio Olimpico]]
+| city = [[Rome]]<ref name="olimpico"/>
+| man_of_the_match1a = [[Xavi (footballer, born 1980)|Xavi]] (Barcelona)<ref name="xavi"/>
+| man_of_the_match1atitle = UEFA
+| man_of_the_match1b = [[Lionel Messi]] (Barcelona)<ref name="messi"/>
+| man_of_the_match1btitle = Fans'
+| referee = [[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])<ref name="referee">{{cite news |title=Busacca to referee Rome final |url=https://www.uefa.com/news-media/news/01d9-0f85bfdf3c99-c2555269cc0c-1000--busacca-to-referee-rome-final/ |publisher=UEFA |date=25 May 2009 |access-date=24 March 2010}}</ref>
+| attendance = 62,467<ref name="full_time"/>
+| weather = Clear night<br />{{convert|23|°C|°F}}<br />71% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2009/302813_LU.pdf |title=Tactical Line-ups – Final – Wednesday 27 May 2009 |publisher=UEFA |date=27 May 2009 |access-date=27 May 2009}}</ref>
+| previous = [[2008 UEFA Champions League final|2008]]
+| next = [[2010 UEFA Champions League final|2010]]
+}}
+The '''2009 UEFA Champions League final''' was played on 27 May 2009 at the [[Stadio Olimpico]] in Rome, Italy. The match determined the winners of the [[2008–09 UEFA Champions League|2008–09 season]] of the [[UEFA Champions League]], a tournament for the top [[association football|football]] clubs in Europe. The match was won by [[FC Barcelona|Barcelona]] of Spain, who beat England's [[Manchester United F.C.|Manchester United]] 2–0. [[Samuel Eto'o]] opened the scoring in the 10th minute, and [[Lionel Messi]] added another goal 20&nbsp;minutes from the end to earn Barcelona a historic [[Continental Treble|treble]] of [[La Liga]], the [[Copa del Rey]] and the Champions League, a feat never before achieved by a Spanish club.<ref name="guardiola_salutes">{{cite news |first=Kevin |last=Ashby |title=Guardiola salutes his treble winners |url=https://www.uefa.com/uefachampionsleague/match/302813--barcelona-vs-man-utd/ |publisher=[[UEFA]] |date=27 May 2009 |access-date=28 May 2009}}</ref> This was the only UEFA Champions League final where [[Messi–Ronaldo rivalry|Lionel Messi and Cristiano Ronaldo]] have met, as well as the last match Ronaldo played for Manchester United until his return to the club in 2021. The match was refereed by Swiss [[referee (association football)|referee]] [[Massimo Busacca]].<ref name="referee"/>
+
+This was Barcelona's third victory in the competition, 17 years after their first European Cup win in [[1992 European Cup final|1992]].<ref>{{cite news |first=Andrew |last=Haslam |title=Spain savour European pre-eminence |url=https://www.uefa.com/uefachampionsleague/news/01d9-0e723fb00248-203b61703893-1000--spain-savour-european-pre-eminence/ |publisher=UEFA |date=27 May 2009 |access-date=28 May 2009}}</ref> Manchester United went into the match as the competition's defending champions, the first title holders to reach the final since [[Juventus FC|Juventus]] in [[1997 UEFA Champions League final|1997]]. Manchester United also sought to be the first team to retain the European Cup since the [[AC Milan|Milan]] win in [[1990 European Cup final|1990]]. It was the fifth consecutive year that the final involved at least one English team.<ref name="rome_ready">{{cite news |title=Rome ready to welcome European superpowers |url=https://www.uefa.com/uefachampionsleague/news/01d9-0e722accf133-5923432425c3-1000--rome-ready-to-welcome-european-superpowers/ |archive-url=https://web.archive.org/web/20110604141159/http://www.uefa.com/uefachampionsleague/matches/season%3D2009/round%3D15280/match%3D302813/prematch/background/index.html |url-status=live |archive-date=4 June 2011 |publisher=UEFA |date=26 May 2009 |access-date=28 May 2009}}</ref> The Stadio Olimpico had hosted three previous Champions League finals, in [[1977 European Cup final|1977]], [[1984 European Cup final|1984]] and [[1996 UEFA Champions League final|1996]].<ref name="olimpico">{{cite web |title=Stadio Olimpico |url=http://en.archive.uefa.com/competitions/ucl/finals/newsid=739497.html |publisher=UEFA |date=20 March 2009 |access-date=6 May 2009 |archive-url=https://web.archive.org/web/20140520175228/http://en.archive.uefa.com/competitions/ucl/finals/newsid=739497.html |archive-date=20 May 2014 |url-status=dead}}</ref>
+
+Prequalified as the winners of the 2008–09 Champions League, Barcelona played [[2008–09 UEFA Cup]] winners [[FC Shakhtar Donetsk|Shakhtar Donetsk]] in the [[2009 UEFA Super Cup]],<ref name="super_cup">{{cite news |first=Andrew |last=Haslam |title=Pedro pounces to add to Barça glory |url=http://en.archive.uefa.com/competitions/supercup/fixturesresults/round=2000023/match=2001219/report=rp.html |publisher=UEFA |date=28 August 2009 |access-date=8 September 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100211153548/http://en.archive.uefa.com/competitions/supercup/fixturesresults/round%3D2000023/match%3D2001219/report%3Drp.html |archive-date=11 February 2010}}</ref> and they represented UEFA at the [[2009 FIFA Club World Cup]].<ref name="club_world_cup">{{cite news |title=Club elite take shape |url=http://www.fifa.com/clubworldcup/news/y=2009/m=7/news=club-elite-taking-shape-1083350.html |url-status=dead |archive-url=https://web.archive.org/web/20151009033318/http://www.fifa.com/clubworldcup/news/y=2009/m=7/news=club-elite-taking-shape-1083350.html |archive-date=9 October 2015 |publisher=FIFA |date=22 July 2009 |access-date=16 June 2010}}</ref> For winning the final, Barcelona won €7&nbsp;million in prize money, and Manchester United received €4&nbsp;million as runners-up.<ref name="distribution">{{cite journal |date=July 2009 |title=Distribution of revenue to participating clubs |journal=Uefadirect |issue=87 |pages=6–7 |url=https://www.uefa.com/MultimediaFiles/Download/publications/uefa/uefamedia/83/97/47/839747_download.pdf |access-date=26 July 2009}}</ref>
+{{TOClimit}}
+
+==Background==
+Barcelona and Manchester United had previously faced each other nine times in European competitions: three times in the [[UEFA Cup Winners' Cup]] and six times in the UEFA Champions League. Of those nine matches, Manchester United had recorded three wins to Barcelona's two, with the remaining four matches finishing in draws. The only time that the two teams met in a final came in 1991, when they contested the [[1991 European Cup Winners' Cup final|1991 Cup Winners' Cup final]]. The first meeting between the two sides came in the third round of the [[1983–84 European Cup Winners' Cup|1983–84 Cup Winners' Cup]]; Barcelona won the first leg at the [[Camp Nou]] 2–0, but Manchester United won the return leg 3–0 at [[Old Trafford]] to reach the semi-finals. That result marked Manchester United's biggest win over Barcelona; Barcelona's biggest win was a 4–0 home victory in the group stage of the [[1994–95 UEFA Champions League|1994–95 Champions League]]. The most recent meeting between the teams came in the semi-finals of the [[2007–08 UEFA Champions League|2007–08 Champions League]], when United held Barcelona to a 0–0 draw at the Camp Nou before beating them 1–0 at Old Trafford.<ref>{{cite web |title=United versus Barcelona |url=http://www.stretfordend.co.uk/opponents/barcelona.html |publisher=StretfordEnd.co.uk |access-date=7 May 2009}}</ref> Despite their record against Manchester United, Barcelona had an overall winning record against English clubs, having won 20 and lost 15 of their 52 matches against English opposition. Manchester United, on the other hand, had a losing record against Spanish teams; they had lost 11 and won 10 of their 37 matches.<ref name="rome_ready"/>
+
+Both teams had won the UEFA Champions League before; Manchester United had three titles, while Barcelona had two. The most recent of these had come only the season before, when Manchester United beat [[Chelsea F.C.|Chelsea]] on [[penalty shoot-out (association football)|penalties]] in the [[Luzhniki Stadium]] in Moscow. They won the first of their European Cups in [[1968 European Cup final|1968]], beating [[S.L. Benfica|Benfica]] 4–1 at [[Wembley Stadium (1923)|Wembley Stadium]], while their second was achieved in [[1999 UEFA Champions League final|1999]] with a 2–1 win over [[FC Bayern Munich|Bayern Munich]] at Barcelona's home ground, the [[Camp Nou]], in which they overturned a 1–0 Bayern lead with two goals in second-half injury time. Barcelona's first European Cup was won as recently as [[1992 European Cup final|1992]], when they beat [[UC Sampdoria|Sampdoria]] 1–0 after [[extra time]] at Wembley; their only other title came in [[2006 UEFA Champions League final|2006]] with a 2–1 win over another English side, [[Arsenal F.C.|Arsenal]]. Prior to 2009, unlike Barcelona, Manchester United had never lost a European Cup final; Barcelona had lost three – in [[1961 European Cup final|1961]], [[1986 European Cup final|1986]] and [[1994 UEFA Champions League final|1994]], to Benfica, [[FCSB|Steaua București]] and [[AC Milan|Milan]] respectively.<ref name="rome_ready"/>
+
+Both teams went into the match as the champions of their respective countries – the first time that the final had been contested by domestic champions since 1999 – both winning with games to spare. Manchester United won their 11th [[Premier League]] title with a 0–0 draw at home to [[Arsenal F.C.|Arsenal]] on 16 May,<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 0–0 Arsenal |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/8038259.stm |work=BBC Sport |date=16 May 2009 |access-date=17 May 2009 |archive-url=https://web.archive.org/web/20090516233102/http://news.bbc.co.uk/sport1/hi/football/eng_prem/8038259.stm |archive-date=16 May 2009 |url-status=live}}</ref> while Barcelona were confirmed as [[La Liga]] champions for the first time in three years when [[Real Madrid CF|Real Madrid]] lost to [[Villarreal CF|Villarreal]] on the same day.<ref name="spanish_title">{{cite news |title=Barca clinch Spanish league title |url=https://news.bbc.co.uk/sport2/hi/football/europe/8054011.stm |work=BBC Sport |date=16 May 2009 |access-date=17 May 2009 |archive-url=https://web.archive.org/web/20090517012730/http://news.bbc.co.uk/sport1/hi/football/europe/8054011.stm |archive-date=17 May 2009 |url-status=live}}</ref> Both Manchester United and Barcelona were also looking for another Champions League title to cap a season in which they had won multiple trophies: Manchester United had already won four out of a possible seven trophies in [[2008–09 Manchester United F.C. season|2008–09]] and were playing for the possibility of becoming the third team to retain the [[double (association football)#European doubles|European double]] (the domestic league and the European Cup) and win a [[treble (association football)|treble]] along with the [[2008–09 Football League Cup|Football League Cup]], while Barcelona were aiming to become the first Spanish club to win the [[treble (association football)#Continental trebles|continental treble]] of [[2008–09 La Liga|La Liga]], the [[2008–09 Copa del Rey|Copa del Rey]] and the UEFA Champions League.<ref name="spanish_title"/> United also entered the final on a 25-match undefeated streak in the Champions League, a then-competition record.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0243-0e9cafe88e22-3c9a4d092ca1-1000/ |title=Champions League: Longest unbeaten runs, winning streaks and consecutive clean sheets |publisher=UEFA |date=11 December 2024 |access-date=14 December 2024}}</ref>
+
+==Venue==
+The [[Stadio Olimpico]] in Rome was selected as the venue for the 2009 UEFA Champions League final at a meeting of the UEFA Executive Committee in [[Ljubljana]], [[Slovenia]], on 4 October 2006. The committee – who decided the venue for the 2008 final and the [[2008 UEFA Cup final|2008]] and [[2009 UEFA Cup final]]s at the same meeting – based their decision on a number of factors, including stadium capacity, safety and security facilities, and accessibility.<ref>{{cite news |first=Mark |last=Chaplin |title=Moscow chosen for 2008 final |url=http://en.archive.uefa.com/competitions/ucl/news/kind=1/newsid=464106.html |publisher=UEFA |location=Ljubljana |date=4 October 2006 |access-date=12 May 2009 |url-status=dead |archive-url=https://web.archive.org/web/20160120233027/http://en.archive.uefa.com/competitions/ucl/news/kind%3D1/newsid%3D464106.html |archive-date=20 January 2016}}</ref>
+
+The Stadio Olimpico had hosted three [[List of European Cup and UEFA Champions League finals|European Cup finals]] before 2009: the [[1977 European Cup final|1977]] and [[1984 European Cup final|1984 finals]], both of which were won by Liverpool – Liverpool beat [[Borussia Mönchengladbach]] 3–1 in 1977 before beating home side Roma 4–2 on [[Penalty shoot-out (association football)|penalties]] after the match finished 1–1 after extra time; the most recent final to be held at the Stadio Olimpico was the [[1996 UEFA Champions League final|1996 final]], which Juventus also won 4–2 on penalties after a 1–1 draw with Ajax.<ref>{{cite news |first1=Eugene |last1=Ravdin |first2=Paolo |last2=Menicucci |title=Moscow and Rome feast on finals |url=http://en.archive.uefa.com/competitions/ucl/news/kind=1/newsid=464251.html |publisher=UEFA |location=Riga & Milan |date=5 October 2006 |access-date=12 May 2009 |archive-url=https://web.archive.org/web/20160120233027/http://en.archive.uefa.com/competitions/ucl/news/kind=1/newsid=464251.html |archive-date=20 January 2016 |url-status=dead}}</ref>
+
+The construction of the stadium was commissioned by Italian dictator [[Benito Mussolini]] in the mid-1930s as the centrepiece of a new sports complex in the city, to be named ''Foro Mussolini''. After World War II, the complex was renamed ''Foro Italico'' and the stadium was radically redesigned as a 54,000-capacity arena for the [[1960 Summer Olympics]]. After hosting the [[1987 World Championships in Athletics|1987 World Athletics Championships]], the stadium was redeveloped in time for the [[1990 FIFA World Cup]], at which [[Germany national football team|West Germany]]'s 1–0 win over [[Argentina national football team|Argentina]] in the [[1990 FIFA World Cup final|final]] was played there. The stadium's most recent renovation, in 2008, brought the capacity to 72,689.<ref name="olimpico"/>
+
+==Route to the final==
+{{further|2008–09 UEFA Champions League}}
+
+{|class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+!Round
+!colspan=4|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2008–09 UEFA Champions League qualifying rounds|Qualifying phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|POL}} [[Wisła Kraków]]
+|4–1
+|[[2008–09 UEFA Champions League qualifying rounds#Barcelona v Wisła Kraków|4–0]] (H)
+|[[2008–09 UEFA Champions League qualifying rounds#Wisła Kraków v Barcelona|0–1]] (A)
+|style="background:#c1e0ff"|Third qualifying round
+|colspan=4|Bye
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[2008–09 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|POR}} [[Sporting CP]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#Barcelona v Sporting CP|3–1]] (H)
+|style="background:#c1e0ff"|Matchday 1
+|align=left|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#Manchester United v Villarreal|0–0]] (H)
+|-
+|align=left|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#Shakhtar Donetsk v Barcelona|2–1]] (A)
+|style="background:#c1e0ff"|Matchday 2
+|align=left|{{fbaicon|DEN}} [[AaB Fodbold|AaB]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#AaB v Manchester United|3–0]] (A)
+|-
+|align=left|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#Basel v Barcelona|5–0]] (A)
+|style="background:#c1e0ff"|Matchday 3
+|align=left|{{fbaicon|SCO}} [[Celtic F.C.|Celtic]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#Manchester United v Celtic|3–0]] (H)
+|-
+|align=left|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#Barcelona v Basel|1–1]] (H)
+|style="background:#c1e0ff"|Matchday 4
+|align=left|{{fbaicon|SCO}} [[Celtic F.C.|Celtic]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#Celtic v Manchester United|1–1]] (A)
+|-
+|align=left|{{fbaicon|POR}} [[Sporting CP]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#Sporting CP v Barcelona|5–2]] (A)
+|style="background:#c1e0ff"|Matchday 5
+|align=left|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#Villarreal v Manchester United|0–0]] (A)
+|-
+|align=left|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#Barcelona v Shakhtar Donetsk|2–3]] (H)
+|style="background:#c1e0ff"|Matchday 6
+|align=left|{{fbaicon|DEN}} [[AaB Fodbold|AaB]]
+|colspan=3|[[2008–09 UEFA Champions League group stage#Manchester United v AaB|2–2]] (H)
+|-
+|colspan="4" style="text-align:center;vertical-align:top"|'''[[2008–09 UEFA Champions League group stage#Group C|Group C]] winner'''
+{{:2008–09 UEFA Champions League group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=BAR}}
+|style="background:#c1e0ff"|Final standings
+|colspan="4" style="text-align:center;vertical-align:top"|'''[[2008–09 UEFA Champions League group stage#Group E|Group E]] winner'''
+{{:2008–09 UEFA Champions League group stage|transcludesection=Group E|only_pld_pts=yes|show_matches=no|showteam=MUN}}
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2008–09 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|6–3
+|[[2008–09 UEFA Champions League knockout phase#Lyon v Barcelona|1–1]] (A)
+|[[2008–09 UEFA Champions League knockout phase#Barcelona v Lyon|5–2]] (H)
+|style="background:#c1e0ff"|First knockout round
+|align=left|{{fbaicon|ITA}} [[Inter Milan]]
+|2–0
+|[[2008–09 UEFA Champions League knockout phase#Internazionale v Manchester United|0–0]] (A)
+|[[2008–09 UEFA Champions League knockout phase#Manchester United v Internazionale|2–0]] (H)
+|-
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|5–1
+|[[2008–09 UEFA Champions League knockout phase#Barcelona v Bayern Munich|4–0]] (H)
+|[[2008–09 UEFA Champions League knockout phase#Bayern Munich v Barcelona|1–1]] (A)
+|style="background:#c1e0ff"|Quarter-finals
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|3–2
+|[[2008–09 UEFA Champions League knockout phase#Manchester United v Porto|2–2]] (H)
+|[[2008–09 UEFA Champions League knockout phase#Porto v Manchester United|1–0]] (A)
+|-
+|align=left|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|1–1 ([[Away goals rule|a]])
+|[[2008–09 UEFA Champions League knockout phase#Barcelona v Chelsea|0–0]] (H)
+|[[2008–09 UEFA Champions League knockout phase#Chelsea v Barcelona|1–1]] (A)
+|style="background:#c1e0ff"|Semi-finals
+|align=left|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|4–1
+|[[2008–09 UEFA Champions League knockout phase#Manchester United v Arsenal|1–0]] (H)
+|[[2008–09 UEFA Champions League knockout phase#Arsenal v Manchester United|3–1]] (A)
+|}
+
+===Barcelona===
+[[File:Wisla Krakow v Barcelona 2008-08-26.jpg|thumb|alt=A photograph from behind the goal shows Barcelona and Wisła Kraków players gathering in the near penalty area for a corner kick. Wisła Kraków players are standing closer to the goal, and the referee is standing on the edge of the penalty area.|Barcelona's players prepare to attack a corner in the second leg of their third qualifying round tie against [[Wisła Kraków]].]]
+
+By virtue of their third-place finish in the [[2007–08 La Liga]], Barcelona entered the 2008–09 Champions League at the [[2008–09 UEFA Champions League#Third qualifying round|third qualifying round]]. Based on their [[UEFA club coefficient|UEFA coefficient]], Barcelona were seeded for the third qualifying round draw,<ref>{{cite news |title=Continental powers to learn fate |url=https://www.uefa.com/uefachampionsleague/news/01cf-0e6f89b9126d-fbcc35bc7f8a-1000--continental-powers-to-learn-fate/ |publisher=UEFA |date=31 July 2008 |access-date=7 May 2009}}</ref> and drawn against Polish champions [[Wisła Kraków]].<ref>{{cite news |title=Schalke-Atlético pick of the draw |url=https://www.uefa.com/uefachampionsleague/news/01d0-0e6f8e85f81b-0ab99ce0a7d9-1000--schalke-atletico-pick-of-the-draw/ |publisher=UEFA |date=1 August 2008 |access-date=6 May 2009}}</ref> A 4–0 win in the first leg at the [[Camp Nou]] made defeat in the second leg immaterial and Barcelona were entered into the group stage draw.<ref>{{cite news |first=Delfín |last=Ramírez |title=Brilliant Barça sweep Wisła aside |url=https://www.uefa.com/uefachampionsleague/news/01d0-0e6fa3bd3762-2d74e3909dc2-1000--brilliant-barca-sweep-wisla-aside/ |publisher=UEFA |date=13 August 2008 |access-date=7 May 2009}}</ref><ref>{{cite news |first=Luciano |last=Mera |title=Cléber rouses Wisła but Barça pass test |url=https://www.uefa.com/uefachampionsleague/news/01d0-0e6fb615f5d2-0519876f6534-1000--cleber-rouses-wisla-but-barca-pass-test/ |publisher=UEFA |date=26 August 2008 |access-date=7 May 2009}}</ref>
+
+Barcelona's UEFA coefficient placed them in the top eight seeds for the draw, meaning that they would avoid having to play against [[Inter Milan]], [[Liverpool F.C.|Liverpool]], [[Chelsea F.C.|Chelsea]] or holders and their semi-final opponents from 2007 to 2008, Manchester United. However, they could still draw [[FC Bayern Munich|Bayern Munich]], [[AS Roma|Roma]] or [[Juventus FC|Juventus]].<ref>{{cite news |title=Europe's finest set for group stage draw |url=https://www.uefa.com/uefachampionsleague/news/01d0-0e6fbbf06f5b-ba0946edfe33-1000--europe-s-finest-set-for-group-stage-draw/ |publisher=UEFA |date=28 August 2008 |access-date=7 May 2009}}</ref> In the end, Barcelona were drawn into Group C against [[Sporting CP]], [[FC Basel|Basel]] and [[FC Shakhtar Donetsk|Shakhtar Donetsk]].<ref>{{cite news |title=Hard work ahead for Laporta's Barça |url=https://www.uefa.com/uefachampionsleague/news/01d0-0e6fc087170e-5f37c08e6b16-1000--hard-work-ahead-for-laporta-s-barca/ |publisher=UEFA |date=28 August 2008 |access-date=7 May 2009}}</ref>
+
+Four wins and a draw at home to Basel placed Barcelona on top of their group with a game to spare, and despite defeat to Shakhtar Donetsk on Matchday 6, they still had the third-best record among the qualifiers for the first knockout round.<ref>{{cite news |first=Andy |last=Brassell |title=Breathtaking Barça continue goal glut |url=https://www.uefa.com/uefachampionsleague/news/01d3-0e7071cf714c-b9c8c75c4d34-1000--breathtaking-barca-continue-goal-glut/ |publisher=UEFA |date=26 November 2008 |access-date=7 May 2009}}</ref> As group winners, Barcelona would avoid being drawn with other group winners, including Manchester United, Liverpool, Juventus and Bayern Munich, but they could still be drawn against runners-up such as Chelsea, Inter and [[Arsenal F.C.|Arsenal]].<ref>{{cite news |title=Europe awaits UEFA Champions League draw |url=https://www.uefa.com/uefachampionsleague/news/01d4-0e70a48e5daa-4b61339d0992-1000--europe-awaits-uefa-champions-league-draw/ |publisher=UEFA |date=19 December 2008 |access-date=7 May 2009}}</ref> The draw eventually paired them with [[Olympique Lyonnais|Lyon]] and, as group winners, they would play the second leg at home.<ref>{{cite news |title=Holders United to take on Inter |url=https://www.uefa.com/uefachampionsleague/news/01d4-0e70a5af1d26-93a84093fec4-1000--holders-united-to-take-on-inter/ |publisher=UEFA |date=19 December 2008 |access-date=7 May 2009}}</ref>
+
+In the first leg in Lyon, Barcelona fell behind to a seventh-minute free kick from [[Juninho Pernambucano|Juninho]], only for [[Thierry Henry]] to equalise halfway through the second half, giving Barcelona an [[away goals rule|away goal]] to take back to the Camp Nou.<ref>{{cite news |first=Matthew |last=Spiro |title=Henry header brings Barça reward |url=https://www.uefa.com/uefachampionsleague/news/01d6-0e70eacdf7ad-28ab4d3368e4-1000--henry-header-brings-barca-reward/ |publisher=UEFA |date=24 February 2009 |access-date=7 May 2009}}</ref> They needed a win or a no-score draw to guarantee passage, but a 4–1 half-time lead set the stage for a convincing 5–2 win. Two first-half goals from Henry and one each from [[Lionel Messi]] and [[Samuel Eto'o]] were followed by goals from [[Jean Makoun]] and Juninho either side of the interval to reduce Lyon's deficit. However, a goal from [[Seydou Keita]] in the fifth&nbsp;minute of injury time secured a 6–3 aggregate win and passage to the next round.<ref>{{cite news |first=Graham |last=Hunter |title=First-half flurry seals Barça passage |url=https://www.uefa.com/uefachampionsleague/news/01d7-0e710c995a44-66ece889b443-1000--first-half-flurry-seals-barca-passage/ |publisher=UEFA |date=11 March 2009 |access-date=7 May 2009}}</ref>
+
+In the quarter-finals, Barcelona were drawn against their fellow leading-scorers in the competition, Bayern Munich, who had beaten Barcelona's group stage opposition, Sporting CP, 12–1 on aggregate in the previous round.<ref>{{cite news |title=English teams dominate draw lineup |url=https://www.uefa.com/uefachampionsleague/news/01d7-0e710dae12e8-b0396898202d-1000--english-teams-dominate-draw-lineup/ |publisher=UEFA |date=20 March 2009 |access-date=7 May 2009}}</ref><ref name="draw">{{cite news |title=Porto placed in United's path |url=https://www.uefa.com/uefachampionsleague/news/01d7-0e711fe63006-504a381be12b-1000--porto-placed-in-united-s-path/ |publisher=UEFA |date=20 March 2009 |access-date=7 May 2009}}</ref> However, despite Bayern's impressive scoring record, goals from Messi and Eto'o gave Barcelona a 2–0 lead within the first 12&nbsp;minutes. Messi and Henry also scored to seal a 4–0 home victory before half-time.<ref>{{cite news |first=Graham |last=Turner |title=Barça brilliance turns tables on Bayern |url=https://www.uefa.com/uefachampionsleague/news/01d8-0e7133148a4f-a7499db3c5a4-1000--barca-brilliance-turns-tables-on-bayern/ |publisher=UEFA |date=8 April 2009 |access-date=7 May 2009}}</ref> The lack of an away goal meant Bayern Munich would have to win by five clear goals to qualify for the semi-finals. After a goalless first half, they took the lead through [[Franck Ribéry]] in the 47th minute, but it was not enough for Bayern as Keita equalised in the 73rd minute to clinch a 5–1 aggregate win for the Spanish side.<ref>{{cite news |first=Gavin |last=Jackson |title=Bayern save face as Barcelona keep apace |url=https://www.uefa.com/uefachampionsleague/news/01d8-0e7204e7ca59-9e32df6b67cf-1000--bayern-save-face-as-barcelona-keep-apace/ |publisher=UEFA |date=14 April 2009 |access-date=7 May 2009}}</ref>
+
+[[File:CHELSEA (1) v (1) barcelona.jpg|thumb|left|alt=Chelsea (blue) and Barcelona players (yellow) leave the pitch at the end of the first half of their semi-final second leg at Stamford Bridge. The referee is talking to two Barcelona players.|Barcelona take on [[Chelsea F.C.|Chelsea]] at [[Stamford Bridge (stadium)|Stamford Bridge]] in the semi-final second leg.]]
+
+The quarter-final draw also determined the teams' routes to the final, with Barcelona facing the prospect of meeting either Chelsea or Liverpool in the semi-finals.<ref name="draw"/> After a 3–1 win at [[Anfield]],<ref>{{cite news |first=Phil |last=McNulty |title=Liverpool 1–3 Chelsea |url=https://news.bbc.co.uk/sport2/hi/football/europe/7977013.stm |work=BBC Sport |date=8 April 2009 |access-date=7 May 2009 |archive-url=https://web.archive.org/web/20090413233036/http://news.bbc.co.uk/sport1/hi/football/europe/7977013.stm |archive-date=13 April 2009 |url-status=live}}</ref> Chelsea qualified for the semi-finals with a 4–4 draw at [[Stamford Bridge (stadium)|Stamford Bridge]].<ref>{{cite news |first=Paul |last=Fletcher |title=Chelsea 4–4 Liverpool (agg: 7–5) |url=https://news.bbc.co.uk/sport2/hi/football/europe/7977038.stm |work=BBC Sport |date=14 April 2009 |access-date=7 May 2009 |archive-url=https://web.archive.org/web/20090419014745/http://news.bbc.co.uk/sport1/hi/football/europe/7977038.stm |archive-date=19 April 2009 |url-status=live}}</ref> The semi-final first leg was played at the Camp Nou; although Barcelona enjoyed the majority of the possession, Chelsea's defence was resolute and they became the first side to keep a clean sheet in Barcelona in this season's competition, coming away with a goalless draw.<ref>{{cite news |first=Jonathan |last=Stevenson |title=Barcelona 0–0 Chelsea |url=https://news.bbc.co.uk/sport2/hi/football/europe/8010833.stm |work=BBC Sport |date=28 April 2009 |access-date=7 May 2009 |archive-url=https://web.archive.org/web/20090501173646/http://news.bbc.co.uk/sport1/hi/football/europe/8010833.stm |archive-date=1 May 2009 |url-status=live}}</ref> Barcelona needed to avoid defeat to reach the final, but they found themselves a goal down within 10 minutes; after they failed to clear [[Frank Lampard]]'s pass into the penalty area, [[Michael Essien]] fired a left-footed volley past [[Víctor Valdés]] into the roof of the net. The rest of the match continued much the same as the first leg, with Barcelona retaining most of the possession. Despite this, they found themselves guilty of several fouls, while Chelsea made four unsuccessful penalty appeals during the match. Meanwhile, [[Dani Alves]] received his third yellow card of the knockout phase, ruling him out of Barcelona's next match, and [[Eric Abidal]] was given a straight red card for a foul on [[Nicolas Anelka]] as the French [[forward (association football)|forward]] was through on goal. However, television replays after the incident showed that there was little contact between Abidal and Anelka.<ref>{{cite news |title=Darren Fletcher to miss Champions League final after Uefa reject red card appeal |url=http://www.timesonline.co.uk/tol/sport/football/premier_league/manchester_united/article6267730.ece |archive-url=https://web.archive.org/web/20090514062105/http://www.timesonline.co.uk/tol/sport/football/premier_league/manchester_united/article6267730.ece |url-status=dead |archive-date=14 May 2009 |work=The Times |date=11 May 2009 |access-date=3 June 2010}}</ref> Norwegian referee [[Tom Henning Øvrebø]] allowed a minimum of four&nbsp;minutes of injury time at the end of the second half; in the third of those four&nbsp;minutes – just when it looked like Chelsea were about to secure a repeat of the [[2008 UEFA Champions League final|2008 final]] – Messi played the ball across the edge of the penalty area to [[Andrés Iniesta]], who shot just past [[Petr Čech]]'s outstretched hand for the away goal that would send Barcelona to the final.<ref>{{cite news |first=Phil |last=McNulty |title=Chelsea 1–1 Barcelona (agg 1–1) |url=https://news.bbc.co.uk/sport2/hi/football/europe/8010840.stm |work=BBC Sport |date=6 May 2009 |access-date=7 May 2009 |archive-url=https://web.archive.org/web/20090507083341/http://news.bbc.co.uk/sport1/hi/football/europe/8010840.stm |archive-date=7 May 2009 |url-status=live}}</ref>
+
+===Manchester United===
+[[File:United V Celtic-4.jpg|thumb|alt=Celtic (foreground, in yellow) and Manchester United players (background, in red) and the match officials (in grey) line up prior to the group stage match between the two sides. Each player has a child mascot wearing a navy blue shirt standing in front of him, and a television camera crew is focusing on the Celtic players.|Manchester United and [[Celtic F.C.|Celtic]] line up prior to their Group E match at [[Old Trafford]] on 21 October 2008.]]
+
+As the reigning champions of the UEFA Champions League, Manchester United began their title defence at the group stage, for which they were given the top seed. This position among the top eight European clubs meant that they would avoid drawing former European champions Barcelona, Inter and [[Real Madrid CF|Real Madrid]] until at least the first knockout round, although they were faced with the prospect of drawing Bayern Munich or Roma. Nevertheless, United ended up being drawn into Group E with two teams they had played against before: [[Villarreal CF|Villarreal]] (whom they had drawn in [[2005–06 UEFA Champions League|2005–06]]) and [[Celtic F.C.|Celtic]] ([[2006–07 UEFA Champions League|2006–07]]); and one they had not: [[AaB Fodbold|AaB]].<ref>{{cite news |title=Man Utd to face Celtic in Europe |url=https://news.bbc.co.uk/sport2/hi/football/europe/7584644.stm |work=BBC Sport |date=28 August 2008 |access-date=6 May 2009}}</ref>
+
+Two victories – away to AaB and at home to Celtic – and four draws were enough to secure passage to the knockout phase of the competition. Following a Celtic victory over Villarreal in the final group match, United went through as group winners.<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 2–2 Aalborg |url=https://news.bbc.co.uk/sport2/hi/football/europe/7763234.stm |work=BBC Sport |date=10 December 2008 |access-date=6 May 2009}}</ref> This meant that they would avoid Roma, Barcelona, Bayern Munich, [[FC Porto|Porto]] and Juventus in the first knockout round; however, their potential opposition still included Inter, Lyon and Real Madrid. The draw paired Manchester United with [[José Mourinho]]'s Inter, but since United had won their group, they were rewarded by having the second leg at home.<ref>{{cite news |title=Man Utd to face Mourinho's Inter |url=https://news.bbc.co.uk/sport2/hi/football/europe/7790235.stm |work=BBC Sport |date=19 December 2008 |access-date=6 May 2009}}</ref>
+
+United started the first leg the better of the two sides, and although Inter improved in the second half, neither side was able to find the net during the match, and United took a 0–0 draw back to [[Old Trafford]]. The draw was also United's 20th match since their last defeat in the UEFA Champions League, breaking [[AFC Ajax|Ajax]]'s 19-match record that had stood for 13 years.<ref>{{cite news |first=Mark |last=Ashenden |title=Inter Milan 0–0 Man Utd |url=https://news.bbc.co.uk/sport2/hi/football/europe/7904057.stm |work=BBC Sport |date=24 February 2009 |access-date=6 May 2009}}</ref> The lack of an [[away goals rule|away goal]] at the [[San Siro]] meant that United could not afford to concede a goal in the event of a draw. A fourth-minute headed goal from [[Nemanja Vidić]], however, got the home side off to a good start, and Cristiano Ronaldo doubled United's lead four&nbsp;minutes into the second half. Shots from both [[Zlatan Ibrahimović]] and [[Adriano (footballer, born February 1982)|Adriano]] hit the frame of the Manchester United goal in either half of the match, but they were unable to find the back of the net, and the 2–0 result sent the English champions through to the next stage of the competition.<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 2–0 Inter Milan (agg 2–0) |url=https://news.bbc.co.uk/sport2/hi/football/europe/7899577.stm |work=BBC Sport |date=11 March 2009 |access-date=6 May 2009}}</ref>
+
+The draw for the quarter-finals paired United with Porto, against whom they had played in the first knockout round of the [[2003–04 UEFA Champions League|2003–04 competition]]. The draw also determined the semi-final pairings, with United or Porto drawn to play against [[Arsenal F.C.|Arsenal]] or Villarreal.<ref>{{cite news |title=Liverpool draw Chelsea in Europe |url=https://news.bbc.co.uk/sport2/hi/football/europe/7954390.stm |work=BBC Sport |date=20 March 2009 |access-date=6 May 2009 |archive-url=https://web.archive.org/web/20090323044517/http://news.bbc.co.uk/sport1/hi/football/europe/7954390.stm |archive-date=23 March 2009 |url-status=live}}</ref> The first leg of the quarter-final was played at Old Trafford, giving Porto the chance to put the pressure on Manchester United with an away goal. That away goal came in the fourth minute of the game, but [[Wayne Rooney]] equalised 10&nbsp;minutes later and [[Carlos Tevez]] gave United the lead in the 85th minute. However, with only one&nbsp;minute left in the game, United suffered a defensive lapse, allowing [[Mariano González]] to score Porto's second away goal.<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 2–2 FC Porto |url=https://news.bbc.co.uk/sport2/hi/football/europe/7976964.stm |work=BBC Sport |date=7 April 2009 |access-date=9 May 2009 |archive-url=https://web.archive.org/web/20090410130658/http://news.bbc.co.uk/sport1/hi/football/europe/7976964.stm |archive-date=10 April 2009 |url-status=live}}</ref> Those away goals meant that United travelled to the [[Estádio do Dragão]] in [[Porto]] needing a win or a score-draw of 2–2 or higher to remain in the competition. A 40-yard goal from Ronaldo in the sixth&nbsp;minute put United into the lead, and although both sides pressed for another goal, it proved to be the only one of the game, making Manchester United the first English side to win in Porto.<ref>{{cite news |first=Paul |last=Fletcher |title=FC Porto 0–1 Man Utd (agg 2–3) |url=https://news.bbc.co.uk/sport2/hi/football/europe/7976970.stm |work=BBC Sport |date=15 April 2009 |access-date=6 May 2009 |archive-url=https://web.archive.org/web/20090421043649/http://news.bbc.co.uk/sport1/hi/football/europe/7976970.stm |archive-date=21 April 2009 |url-status=live}}</ref>
+
+[[File:Man Utd vs Arsenal 2009-04-29.jpg|thumb|left|alt=Wayne Rooney (in red) is shaping to kick the ball with an Arsenal player (in yellow) on either side of him. Cristiano Ronaldo, Carlos Tevez (both Manchester United) and Kolo Touré (Arsenal) are looking on in the background.|[[Wayne Rooney]] and [[Mikaël Silvestre]] compete for the ball during the semi-final first leg between Manchester United and [[Arsenal F.C.|Arsenal]].]]
+
+Meanwhile, a 1–1 draw in [[Villarreal]] and a 3–0 win at the [[Emirates Stadium]] secured Arsenal's status as United's semi-final opponents.<ref>{{cite news |first=Jonathan |last=Stevenson |title=Villarreal 1–1 Arsenal |url=https://news.bbc.co.uk/sport2/hi/football/europe/7976997.stm |work=BBC Sport |date=7 April 2009 |access-date=6 May 2009 |archive-url=https://web.archive.org/web/20090416201011/http://news.bbc.co.uk/sport1/hi/football/europe/7976997.stm |archive-date=16 April 2009 |url-status=live}}</ref><ref>{{cite news |first=Phil |last=Dawkes |title=Arsenal 3–0 Villarreal (agg 4–1) |url=https://news.bbc.co.uk/sport1/hi/football/europe/7976998.stm |work=BBC Sport |date=15 April 2009 |access-date=6 May 2009 |archive-url=https://web.archive.org/web/20090417064727/http://news.bbc.co.uk/sport1/hi/football/europe/7976998.stm |archive-date=17 April 2009 |url-status=live}}</ref> The draw had determined that United would play the first leg at home, and after Rooney, Tevez and Ronaldo had early chances, [[John O'Shea]] opened the scoring, firing home a [[Michael Carrick]] cross after Arsenal had failed to clear a corner. United continued to make chances throughout the game, but despite Arsenal making a couple of chances themselves, the match finished at 1–0 and United travelled to the Emirates Stadium a week later needing only to avoid defeat to become the first defending champions to reach the final since Juventus in [[1997 UEFA Champions League final|1997]].<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 1–0 Arsenal |url=https://news.bbc.co.uk/sport2/hi/football/europe/8010847.stm |work=BBC Sport |date=29 April 2009 |access-date=6 May 2009 |archive-url=https://web.archive.org/web/20090504232857/http://news.bbc.co.uk/sport1/hi/football/europe/8010847.stm |archive-date=4 May 2009 |url-status=live}}</ref> Although Arsenal only needed to overturn a one-goal deficit, their chances of victory were drastically reduced within the first 11&nbsp;minutes of the match; [[Park Ji-sung]] took advantage of a slip by [[Kieran Gibbs]] to double United's aggregate lead in the eighth&nbsp;minute, before Ronaldo fired home a 41-yard free kick in the 11th minute. With two away goals on the United scoreboard, Arsenal now had to score four goals to reach the final. However, it was United who scored the next goal, as they hit Arsenal on the break and Ronaldo scored within 15 seconds of Arsenal losing the ball at the other end of the pitch. 15&nbsp;minutes from time, Arsenal were awarded a [[Penalty kick (association football)|penalty kick]] after [[Darren Fletcher]] brought [[Cesc Fàbregas]] down in the [[penalty area]], a foul for which Fletcher was sent off – although replays showed that Fletcher knocked the ball away from Fàbregas immediately before bringing him down, resulting in some controversy as to whether Fletcher deserved a red card for the foul.<ref>{{cite news |title=Uefa rejects Fletcher appeal |url=http://www.skysports.com/story/0,19528,12046_5313949,00.html |publisher=Sky Sports (BSkyB) |date=11 May 2009 |access-date=10 May 2012}}</ref> [[Robin van Persie]] scored the penalty to make the score 3–1, but it was not enough to prevent United from reaching the final unbeaten for the fourth time in their history.<ref>{{cite news |first=Phil |last=McNulty |title=Arsenal 1–3 Man Utd (agg 1–4) |url=https://news.bbc.co.uk/sport2/hi/football/europe/8010853.stm |work=BBC Sport |date=5 May 2009 |access-date=6 May 2009 |archive-url=https://web.archive.org/web/20090507083346/http://news.bbc.co.uk/sport1/hi/football/europe/8010853.stm |archive-date=7 May 2009 |url-status=live}}</ref>
+
+==Pre-match==
+
+===Identity===
+Since [[1999 UEFA Champions League final|1999]], the UEFA Champions League final has been given a unique visual identity to increase the marketing appeal of the event. Designed by London-based design and branding agency Radiant, the theme for the 2009 final was revealed on 25 October 2008, and it incorporated several typically [[Ancient Rome|Roman]] images; the logo was centred around an outline of the [[European Champion Clubs' Cup]], upon which was written "MMIX" – "2009" in [[Roman numerals]]; around the base of the trophy was a stylised [[laurel wreath]], and in the background was a simplified image of the interior of the [[Colosseum]]. An alternative logo consisting of the UEFA Champions League logo that was surrounded by a laurel wreath was also released. The entire theme was based on a colour scheme of deep red and silver-white.<ref>{{cite news |title=Ancient and modern touch for 2009 logo |url=https://www.uefa.com/uefachampionsleague/news/01d2-0e7032015af8-393cb9c1331a-1000--ancient-and-modern-touch-for-2009-logo/ |publisher=UEFA |date=25 October 2008 |access-date=12 May 2009}}</ref>
+
+===Ticketing===
+Although the usual capacity of the Stadio Olimpico is over 72,000, this was reduced to approximately 67,000 for the 2009 UEFA Champions League final.<ref>{{cite news |title=Final in Rome will put fans first |url=http://www.uefa.com/uefa/events/ticketing/news/newsid=800961.html |publisher=UEFA |date=16 February 2009 |access-date=24 March 2010 |archive-url=https://web.archive.org/web/20100503202815/http://www.uefa.com/uefa/events/ticketing/news/newsid%3D800961.html |archive-date=3 May 2010 |url-status=dead}}</ref> Approximately 10,000 tickets were made available to the general public, with recipients determined by a random ballot following an application period that ran from 2 to 16 March 2009.<ref name="tickets">{{cite news |title=General ticket sales for Rome close |url=http://www.uefa.com/uefachampionsleague/news/newsid=810274.html |archive-url=https://web.archive.org/web/20110604141759/http://www.uefa.com/uefachampionsleague/news/newsid=810274.html |url-status=dead |archive-date=4 June 2011 |publisher=UEFA |date=16 March 2009 |access-date=12 May 2009}}</ref> Each club was also allocated approximately 20,000 tickets for distribution to fans.<ref name="tickets"/> Manchester United chose to limit ticket applications to season ticket holders, with preference given to those who had attended more of the club's Champions League away fixtures that season.<ref>{{cite news |first=Stephen |last=Powell |title=Tickets for Rome |url=http://www.manutd.com/default.sps?pagegid=%7B23A882F1-4E52-4C1A-816E-FB505E82E076%7D&newsid=6631792 |publisher=Manchester United F.C. |date=5 May 2009 |access-date=12 May 2009 |archive-url=https://web.archive.org/web/20090509144002/http://www.manutd.com/default.sps?pagegid=%7B23A882F1-4E52-4C1A-816E-FB505E82E076%7D&newsid=6631792 |archive-date=9 May 2009 |url-status=dead}}</ref> Barcelona, meanwhile, allotted 80% of their ticket allocation to fans, with the remaining 20% going to the club's corporate sponsors. Unlike United, however, Barcelona opened ticket applications to all 150,000 of their members.<ref>{{cite news |title=Tickets for Rome from Friday |url=http://www.fcbarcelona.cat/web/english/noticies/club/temporada08-09/05/n090506104891.html |archive-url=https://archive.today/20090510102832/http://www.fcbarcelona.cat/web/english/noticies/club/temporada08-09/05/n090506104891.html |url-status=dead |archive-date=10 May 2009 |work=FCBarcelona.cat |publisher=FC Barcelona |date=6 May 2009 |access-date=12 May 2009}}</ref> The remaining 17,000 tickets were retained by UEFA for the "European football family", which comprises UEFA itself, the local organising committee, UEFA's member associations and its commercial partners.<ref name="tickets"/>
+
+Tickets for the 2009 final were similar to [[ATM card]]s, with an integrated chip storing the ticket holder's personal information to ensure that the ticket is being presented by its legitimate owner. As further security, tickets also had to be presented with an adequate form of photographic identification.<ref>{{cite news |title=Warning to ticketless United fans |url=http://news.bbc.co.uk/1/hi/england/manchester/8062934.stm |work=BBC News |date=22 May 2009 |access-date=22 May 2009 |archive-url=https://web.archive.org/web/20090524011152/http://news.bbc.co.uk/1/hi/england/manchester/8062934.stm |archive-date=24 May 2009 |url-status=live}}</ref> However, despite these security measures, counterfeit tickets were still produced, forcing UEFA to issue a statement warning people against buying tickets from touts.<ref>{{cite news |title=Rome final – forged ticket warning |url=http://www.uefa.com/uefa/events/ticketing/news/newsid=833522.html |publisher=UEFA |date=26 May 2009 |access-date=24 March 2010 |archive-url=https://web.archive.org/web/20100501141228/http://www.uefa.com/uefa/events/ticketing/news/newsid%3D833522.html |archive-date=1 May 2010 |url-status=dead}}</ref>
+
+Despite only receiving 20,000 tickets for fans, it was expected that around 30,000 Manchester United fans would be travelling to Rome for the final, leading to police warning ticketless fans not to travel amidst fears of potential hooligans making the trip.<ref>{{cite news |title=Warning to ticketless United fans |url=http://news.bbc.co.uk/1/hi/england/manchester/8062934.stm |work=BBC News |date=22 May 2009 |access-date=23 May 2009 |archive-url=https://web.archive.org/web/20090524011152/http://news.bbc.co.uk/1/hi/england/manchester/8062934.stm |archive-date=24 May 2009 |url-status=live}}</ref> Fans were also warned to avoid certain areas of the city that are known to be frequented by members of Rome's [[Ultras|Ultra]] fan groups.<ref>{{cite news |title=Man Utd fans given Rome warning |url=http://news.bbc.co.uk/1/hi/england/manchester/8058877.stm |work=BBC News |date=20 May 2009 |access-date=23 May 2009 |archive-url=https://web.archive.org/web/20090523103016/http://news.bbc.co.uk/1/hi/england/manchester/8058877.stm |archive-date=23 May 2009 |url-status=live}}</ref> Despite Rome's reputation as a hotbed for knife-related crime, dubbed "Stab City" by some,<ref name="uefa_confident">{{cite news |first=Phil |last=Dawkes |title=Uefa confident of safe Euro final |url=https://news.bbc.co.uk/sport2/hi/football/europe/8034156.stm |work=BBC Sport |date=8 May 2009 |access-date=23 May 2009 |archive-url=https://web.archive.org/web/20090511122302/http://news.bbc.co.uk/sport1/hi/football/europe/8034156.stm |archive-date=11 May 2009 |url-status=live}}</ref> UEFA was confident that the 2009 final would pass without incident,<ref name="uefa_confident"/> but on the morning of the final, there were reports that a Manchester United fan had been stabbed in the leg the previous evening.<ref>{{cite news |title=United fan stabbed ahead of final |url=http://news.bbc.co.uk/1/hi/england/manchester/8069535.stm |work=BBC News |date=27 May 2009 |access-date=27 May 2009 |archive-url=https://web.archive.org/web/20090530083826/http://news.bbc.co.uk/1/hi/england/manchester/8069535.stm |archive-date=30 May 2009 |url-status=live}}</ref> It was also expected that a similar number of Barcelona fans would be arriving in Rome in the lead-up to the match.<ref>{{cite news |title=United fans begin Rome journeys |url=http://news.bbc.co.uk/1/hi/england/manchester/8067693.stm |work=BBC News |date=26 May 2009 |access-date=28 May 2009 |archive-url=https://web.archive.org/web/20090528044356/http://news.bbc.co.uk/1/hi/england/manchester/8067693.stm |archive-date=28 May 2009 |url-status=live}}</ref> After the match, UEFA president [[Michel Platini]] praised the Rome police for their arrangement of security for the final.<ref>{{cite news |title=UEFA President praises Italian police |url=https://www.uefa.com/news-media/news/01d9-0f85c0937ec4-79a2f3a6c268-1000--uefa-president-praises-italian-police/ |publisher=UEFA |date=29 May 2009 |access-date=24 March 2010}}</ref>
+
+More than 3,000 Manchester United fans congregated just outside the city in a field that came to be known as "Fergie's Field".<ref name="ticketless">{{cite news |first1=John |last1=Hooper |first2=Owen |last2=Gibson |title=Ticketless Manchester United legion sets up camp on outskirts of Rome |url=https://www.theguardian.com/football/2009/may/26/champions-league-final-manchester-united |work=The Guardian |date=26 May 2009 |access-date=27 May 2009 |archive-url=https://web.archive.org/web/20090528013951/http://www.guardian.co.uk/football/2009/may/26/champions-league-final-manchester-united |archive-date=28 May 2009 |url-status=live}}</ref> The venue provided ticketless fans with the opportunity to watch the match on a giant screen, and kept them away from the streets of Rome's city centre, although the alcohol ban that came into effect in the city at 17:00 ([[Central European Summer Time]]) on 26 May was still in force.<ref name="ticketless"/><ref>{{cite news |title=Rome puts alcohol limits on final |url=https://news.bbc.co.uk/sport2/hi/football/europe/8067274.stm |work=BBC Sport |date=25 May 2009 |access-date=28 May 2009 |archive-url=https://web.archive.org/web/20090528105702/http://news.bbc.co.uk/sport1/hi/football/europe/8067274.stm |archive-date=28 May 2009 |url-status=live}}</ref>
+
+===Related events===
+A trophy handover ceremony was held in Rome on 21 April 2009, at which [[Ole Gunnar Solskjær]], representing Manchester United as the previous season's champions, returned the trophy to UEFA president [[Michel Platini]]. Platini then presented the trophy to [[Gianni Alemanno]], the [[Mayor of Rome]], that it might be put on display in and around the city until the day of the final. Also present at the ceremony were the president and vice-president of the [[Italian Football Federation]], Giancarlo Abete and [[Demetrio Albertini]], the ambassador for the final, [[Bruno Conti]], and Emilio Di Toro on behalf of the [[Italian National Olympic Committee]].<ref>{{cite news |title=Rome ready for trophy handover |url=https://www.uefa.com/uefachampionsleague/news/01d8-0e721004c5a1-ab3bf58bc9c3-1000--rome-ready-for-trophy-handover/ |publisher=UEFA |date=21 April 2009 |access-date=2 February 2010}}</ref>
+
+===Match ball===
+[[File:Official match ball in Rome.jpg|thumb|upright|left|A giant replica of the ''adidas Finale Rome'' at the UEFA Champions Festival|alt=A giant replica football.]]
+
+The official [[ball (association football)|match ball]] for the 2009 Champions League final was the ''[[adidas]] [[Adidas Finale|Finale]] Rome''. Based on the "Starball" design that has been used for the Champions League final since [[2001 UEFA Champions League final|2001]] and become synonymous with the UEFA Champions League, the ''Finale Rome'' was unveiled on 16 March 2009. The colour scheme was a traditional Roman burgundy with a gold border around the stars. The ball used the same panel configuration as the [[UEFA Euro 2008#Match ball|Adidas Europass]] and the [[Adidas Teamgeist]] before it, and the same thermal bonding process was used to adhere the panels to each other, while the surface of the ball featured the same "PSC-Texture" as was debuted with the Europass; the surface of the ball was covered with thousands of tiny pimples, which was designed to improve the grip between [[football boot|boot]] and ball.<ref>{{cite news |title=Iconic 'Finale Rome' set for ultimate stage |url=https://www.uefa.com/uefachampionsleague/news/01d7-0e71168125a3-f3823f29736d-1000--iconic-finale-rome-set-for-ultimate-stage/ |publisher=UEFA |date=16 March 2009 |access-date=18 May 2009}}</ref><ref>{{cite news |title=adidas Roma Champions League Final Ball Revealed! |url=http://www.soccerbible.com/news/general/archive/2009/03/16/football-news-adidas-roma-champions-league-final-ball-revealed-16-03-09.aspx |website=SoccerBible |date=16 March 2009 |access-date=18 May 2009 |archive-url=https://web.archive.org/web/20090422142150/http://www.soccerbible.com/news/general/archive/2009/03/16/football-news-adidas-roma-champions-league-final-ball-revealed-16-03-09.aspx |archive-date=22 April 2009 |url-status=dead}}</ref>
+
+===Officials===
+[[File:Massimo Busacca.jpg|thumb|upright|Swiss referee [[Massimo Busacca]] at work|alt=A man wearing a bright orange shirt and grey shorts, writing in a notebook. He has dark hair.]]
+
+The [[referee (association football)|referee]] for the 2009 UEFA Champions League final was [[Massimo Busacca]], representing the [[Swiss Football Association]].<ref name="referee"/> Having been on FIFA's list of internationally accredited referees since 1999,<ref>{{cite web |title=Switzerland – Men's Referees List |url=https://www.fifa.com/aboutfifa/footballdevelopment/technicalsupport/refereeing/association=sui/peoplekind=ref.html |archive-url=https://web.archive.org/web/20121103214633/http://www.fifa.com/aboutfifa/footballdevelopment/technicalsupport/refereeing/association=sui/peoplekind=ref.html |url-status=dead |archive-date=3 November 2012 |publisher=FIFA |access-date=23 June 2011}}</ref> Busacca had experience of officiating 32 UEFA Champions League matches, six of them during the 2008–09 season, and most recently the second leg of Manchester United's quarter-final against Porto on 15 April 2009. He also took charge of the first leg of the semi-final between Manchester United and Barcelona in the [[2007–08 UEFA Champions League|2007–08 competition]].<ref>{{cite news |first=Paolo |last=Menicucci |title=Busacca relishes chance to referee final |url=https://www.uefa.com/uefachampionsleague/news/01d9-0e723d2cfeea-f1e62f3f2f68-1000--busacca-relishes-chance-to-referee-final/ |publisher=UEFA |date=27 May 2009 |access-date=27 May 2009}}</ref> Busacca also refereed at both the [[2006 FIFA World Cup]] and [[UEFA Euro 2008]], and took charge of the [[2007 UEFA Cup Final]] between [[RCD Espanyol|Espanyol]] and [[Sevilla FC|Sevilla]] at [[Hampden Park]], Glasgow, on 16 May 2007.<ref name="referee"/>
+
+As usual, the referee was supported by assistant referees and a fourth official from the same country; in the 2009 final, Massimo Busacca was assisted by Matthias Arnet and Francesco Buragina, with [[Claudio Circhetta]] as the fourth official.<ref name="referee"/>
+
+===Kits===
+Having been designated as the official [[Home (sports)|"home" team]], Barcelona were given the first choice of kits for the final and opted to wear their traditional red and blue shirts in a halved design. Since the Barcelona home kit clashed with both Manchester United's home and European away kits, the Red Devils wore their white domestic away kit for the first time in a European Cup final. They wore blue for their first European Cup final against [[S.L. Benfica|Benfica]] in [[1968 European Cup final|1968]], but wore red for both of their most recent finals in [[1999 UEFA Champions League final|1999]] and [[2008 UEFA Champions League final|2008]]. Manchester United had previously worn white against Barcelona in five matches, losing just one of them – a 2–0 defeat in 1984 – while the only win in white came in the [[1991 European Cup Winners' Cup final|1991 Cup Winners' Cup final]]. The other three matches finished in draws: two 3–3 and one 0–0. Barcelona, on the other hand, had won two of their five European Cup finals – they wore orange for their win over [[UC Sampdoria|Sampdoria]] in [[1992 European Cup final|1992]] but wore their usual blue and red stripes for their most recent win in [[2006 UEFA Champions League final|2006]] against [[Arsenal F.C.|Arsenal]]. However, two of their European Cup final defeats came against teams wearing white – against [[FCSB|Steaua București]] in [[1986 European Cup final|1986]] and against [[AC Milan|Milan]] in [[1994 UEFA Champions League final|1994]].<ref name="kits">{{cite news |first=Kevin |last=Ashby |title=Red Devils will be all white on the night |url=https://www.uefa.com/news-media/news/01d9-0e723d18fb64-255c02eb3cf3-1000--red-devils-will-be-all-white-on-the-night/ |publisher=UEFA |date=27 May 2009 |access-date=27 May 2009}}</ref>
+
+===Team selection===
+[[File:Thierry Henry 2008.jpg|thumb|upright|[[Thierry Henry]] had suffered knee ligament damage and was a doubt for the final.|alt=A black man wearing a red-and-blue halved shirt and blue shorts. His shirt reads "UNICEF" in lower-case yellow letters and his shorts have a yellow numeral "14" on the left.]]
+
+Two Barcelona players missed the final through [[Suspension (sport)|suspension]]: right-back [[Dani Alves]], who picked up his third yellow card of the tournament in Barcelona's semi-final second leg against [[Chelsea F.C.|Chelsea]] on 6 May 2009; and left-back [[Eric Abidal]], who was [[Ejection (sports)#Association football|sent off]] in the same game for a [[professional foul]] on [[Nicolas Anelka]].<ref>{{cite news |first=Phil |last=McNulty |title=Chelsea 1–1 Barcelona (agg 1–1) |url=https://news.bbc.co.uk/sport2/hi/football/europe/8010840.stm |work=BBC Sport |date=6 May 2009 |access-date=6 May 2009 |archive-url=https://web.archive.org/web/20090505235236/http://news.bbc.co.uk/sport1/hi/football/europe/8010840.stm |archive-date=5 May 2009 |url-status=live}}</ref> Defender [[Rafael Márquez]] also missed the match after he picked up a [[Bum knee|knee injury]] in the first leg of the semi-final, ruling him out for the rest of the season.<ref name="defence">{{cite news |title=Hiddink pays tribute to defence |url=https://news.bbc.co.uk/sport1/hi/football/europe/8021752.stm |work=BBC Sport |date=28 April 2009 |access-date=6 May 2009 |archive-url=https://web.archive.org/web/20090504015647/http://news.bbc.co.uk/sport1/hi/football/europe/8021752.stm |archive-date=4 May 2009 |url-status=live}}</ref> Forward [[Thierry Henry]] and semi-final-winning midfielder [[Andrés Iniesta]] were also doubts for the final; Henry damaged his right [[posterior cruciate ligament]] in Barcelona's 6–2 league win over [[Real Madrid CF|Real Madrid]] on 2 May 2009, while Iniesta was discovered to have suffered a tear in his right thigh following Barça's 3–3 draw with [[Villarreal CF|Villarreal]] on 10 May.<ref>{{cite news |title=Henry and Iniesta doubtful for United finale |url=http://www.uefa.com/uefachampionsleague/news/newsid=828379.html |archive-url=https://web.archive.org/web/20110604141908/http://www.uefa.com/uefachampionsleague/news/newsid=828379.html |url-status=dead |archive-date=4 June 2011 |publisher=UEFA |date=11 May 2009 |access-date=18 May 2009}}</ref> Both Henry and Iniesta returned to light training on 22 May, but they had not yet resumed training with the main squad and remained doubts for the final.<ref>{{cite news |title=Henry back with the first team squad |url=http://www.fcbarcelona.com/web/english/noticies/futbol/temporada08-09/05/n090522105175.html |archive-url=https://archive.today/20090525193331/http://www.fcbarcelona.com/web/english/noticies/futbol/temporada08-09/05/n090522105175.html |url-status=dead |archive-date=25 May 2009 |publisher=FC Barcelona |date=22 May 2009 |access-date=22 May 2009}}</ref> [[Carles Puyol]], however, was available for selection after he served a one-match suspension in the semi-final second leg.<ref name="defence"/>
+
+[[File:Rio Ferdinand.jpg|thumb|upright|left|[[Rio Ferdinand]] had struggled with a calf injury since the semi-final second leg.|alt=A mixed-race man with very short dark hair standing with his hands on his hips. He is wearing a red football shirt with a white V-neck and white shorts.]]
+
+Manchester United's starting right-winger from the 2008 final, [[Owen Hargreaves]], missed the match as he was still in rehabilitation after a double knee operation to cure his [[tendinitis]] problems that had seen him play little part in the 2008–09 Champions League campaign. It had been expected that defender [[Wes Brown]] would also miss the match after suffering a recurrence of a foot injury,<ref>{{cite news |title=Brown set to miss Man Utd run-in |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/8039692.stm |work=BBC Sport |date=8 May 2009 |access-date=9 May 2009 |archive-url=https://web.archive.org/web/20090511162048/http://news.bbc.co.uk/sport1/hi/football/teams/m/man_utd/8039692.stm |archive-date=11 May 2009 |url-status=live}}</ref> but he returned to training quicker than expected and was involved in United's match against [[Hull City A.F.C.|Hull City]] on 24 May,<ref>{{cite news |first=Ian |last=Hughes |title=Hull 0–1 Man Utd |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/8048308.stm |work=BBC Sport |date=24 May 2009 |access-date=25 May 2009 |archive-url=https://web.archive.org/web/20090525134346/http://news.bbc.co.uk/sport1/hi/football/eng_prem/8048308.stm |archive-date=25 May 2009 |url-status=live}}</ref> although he picked up a slight knock during the game.<ref name="rio_on_course">{{cite news |first=Gemma |last=Thompson |title=Rio on course for Rome |url=http://www.manutd.com/default.sps?pagegid=%7BF9E570E6-407E-44BC-800F-4A3110258114%7D&newsid=6633138 |publisher=Manchester United F.C. |date=24 May 2009 |access-date=25 May 2009 |archive-url=https://web.archive.org/web/20090527085929/http://www.manutd.com/default.sps?pagegid=%7BF9E570E6-407E-44BC-800F-4A3110258114%7D&newsid=6633138 |archive-date=27 May 2009 |url-status=dead}}</ref> [[Rio Ferdinand]] was also a doubt following a calf injury that has kept him out of the United side since the semi-final second leg against Arsenal; Alex Ferguson had said that Ferdinand might not start in Rome if he was not fit to play against Hull,<ref>{{cite news |title=Ferdinand faces 'toughest battle' |url=https://news.bbc.co.uk/sport1/hi/football/teams/m/man_utd/8060878.stm |work=BBC Sport |date=21 May 2009 |access-date=22 May 2009 |archive-url=https://web.archive.org/web/20090522200042/http://news.bbc.co.uk/sport1/hi/football/teams/m/man_utd/8060878.stm |archive-date=22 May 2009 |url-status=live}}</ref> but he later admitted that Ferdinand was on course to recover in time to play in the match.<ref name="rio_on_course"/> Second-choice goalkeeper [[Ben Foster (footballer)|Ben Foster]] also missed the match after requiring surgery to repair a ruptured ligament in his right thumb in May 2009.<ref>{{cite news |first=Ben |last=Hibbs |title=Injury blow for Foster |url=http://www.manutd.com/default.sps?pagegid=%7BF9E570E6-407E-44BC-800F-4A3110258114%7D&newsid=6632752 |publisher=Manchester United F.C. |date=18 May 2009 |access-date=18 May 2009 |archive-url=https://web.archive.org/web/20090521113726/http://www.manutd.com/default.sps?pagegid=%7BF9E570E6-407E-44BC-800F-4A3110258114%7D&newsid=6632752 |archive-date=21 May 2009 |url-status=dead}}</ref> On the other hand, following [[John O'Shea]]'s winning goal in Manchester United's semi-final first leg victory over [[Arsenal F.C.|Arsenal]], United manager [[Alex Ferguson]] suggested that the Irish utility player would be guaranteed a place in the starting line-up were United to reach the final.<ref>{{cite news |first=Adam |last=Bostock |title=O'Shea savours birthday gift |url=http://www.manutd.com/default.sps?pagegid=%7BB4CEE8FA-9A47-47BC-B069-3F7A2F35DB70%7D&newsid=6631668&page=2 |publisher=Manchester United F.C. |page=2 |date=29 April 2009 |access-date=29 April 2009 |archive-url=https://web.archive.org/web/20120918044648/http://www.manutd.com/default.sps?pagegid=%7BB4CEE8FA-9A47-47BC-B069-3F7A2F35DB70%7D&newsid=6631668&page=2 |archive-date=18 September 2012 |url-status=dead}}</ref> O'Shea's place in the team was confirmed at Manchester United's media day the week before the final.<ref>{{cite news |first=David |last=Ornstein |title=O'Shea eager to secure Euro glory |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/8059180.stm |work=BBC Sport |date=20 May 2009 |access-date=27 April 2011}}</ref> South Korean midfielder [[Park Ji-sung]] was also promised a place in the team after he missed the [[2008 UEFA Champions League final|2008 final]],<ref>{{cite news |first=Richard |last=Tanner |title=Un-Sung hero gets the nod |url=http://www.express.co.uk/posts/view/99410/Un-Sung-hero-gets-the-nod |work=Daily Express |date=7 May 2009 |access-date=8 May 2009}}</ref> finally making him the first Asian to appear in a European Cup final.<ref>{{cite news |title=Manchester United v Barcelona: Park Ji-Sung is first Asian in Champions League final |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/5395697/Manchester-United-v-Barcelona-Park-Ji-Sung-is-first-Asian-in-Champions-League-final.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/manchester-united/5395697/Manchester-United-v-Barcelona-Park-Ji-Sung-is-first-Asian-in-Champions-League-final.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |work=The Daily Telegraph |date=27 May 2009 |access-date=27 April 2011}}{{cbignore}}</ref> Cristiano Ronaldo suffered a slight injury scare in training the night before the final, requiring a bandage on his lower right leg, but he was eventually fit enough to play in the match.<ref>{{cite news |title=Manchester United v Barcelona: Cristiano Ronaldo in Rome training scare |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/5391848/Manchester-United-v-Barcelona-Cristiano-Ronaldo-in-Rome-training-scare.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/manchester-united/5391848/Manchester-United-v-Barcelona-Cristiano-Ronaldo-in-Rome-training-scare.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |work=The Daily Telegraph |date=27 May 2009 |access-date=27 April 2011}}{{cbignore}}</ref>
+
+[[File:Darren Fletcher vs Everton (cropped).jpg|thumb|upright|Manchester United unsuccessfully appealed [[Darren Fletcher]]'s suspension.|alt=A white man with light hair standing with his hands on his hips. He is wearing a red football shirt.]]
+
+Meanwhile, midfielder [[Darren Fletcher]] was forced to miss the final after picking up a [[Red card (sport)|red card]] in the second leg of the semi-final. While replays showed that Fletcher played the ball before felling [[Cesc Fàbregas]] in the [[penalty area]], the [[UEFA]] appeals process only allows for cards to be rescinded in the case of mistaken identity.<ref>{{cite news |title=Fletcher red card to stand – Uefa |url=https://news.bbc.co.uk/sport1/hi/football/europe/8035053.stm |work=BBC Sport |date=6 May 2009 |access-date=6 May 2009 |archive-url=https://web.archive.org/web/20090508101102/http://news.bbc.co.uk/sport1/hi/football/europe/8035053.stm |archive-date=8 May 2009 |url-status=live}}</ref> Despite this, an appeal was submitted by Manchester United on "compassionate" grounds.<ref>{{cite news |first=Steve |last=Bartram |title=UEFA to rule on Fletch |url=http://www.manutd.com/default.sps?pagegid={F9E570E6-407E-44BC-800F-4A3110258114}&newsid=6632212 |publisher=Manchester United F.C. |date=8 May 2009 |access-date=8 May 2009 |archive-url=https://web.archive.org/web/20090511124752/http://www.manutd.com/default.sps?pagegid=%7BF9E570E6-407E-44BC-800F-4A3110258114%7D&newsid=6632212 |archive-date=11 May 2009 |url-status=dead}}</ref> Barcelona decided to appeal against the suspensions of Abidal and Alves after United lodged an appeal against Fletcher's red card. Barcelona manager [[Pep Guardiola]] came out in support of overturning all three players' suspensions.<ref>{{cite news |title=Barca to appeal Abidal and Alves suspensions |url=http://soccernet.espn.go.com/news/story?id=644765&cc=5901 |work=ESPN Soccernet |publisher=ESPN |date=9 May 2009 |access-date=11 May 2009 |archive-url=https://web.archive.org/web/20090515131902/http://soccernet.espn.go.com/news/story?id=644765&cc=5901 |archive-date=15 May 2009 |url-status=dead}}</ref> The appeals were declared unsuccessful on 11 May, with UEFA saying in a statement that the appeals were not submitted within the required 24-hour deadline of the matches and that even if they had been submitted on time then "they would have been rejected as unfounded as there were no grounds for contesting the referees' original decisions."<ref>{{cite news |title=Man United, Barcelona protests not admitted |url=https://www.uefa.com/news-media/news/01d9-0f85bc77cd76-64155e9b7350-1000--man-united-barcelona-protests-not-admitted/ |publisher=UEFA |date=11 May 2009 |access-date=24 March 2010 |archive-url=https://web.archive.org/web/20100505004627/http://www.uefa.com/uefa/footballfirst/matchorganisation/disciplinary/news/newsid%3D828892.html |archive-date=5 May 2010 |url-status=live}}</ref> By upholding the suspensions, UEFA made Abidal, Alves and Fletcher the first players to miss a Champions League final through suspension since Juventus' [[Pavel Nedvěd]] sat out the [[2003 UEFA Champions League final|2003 final]] at Old Trafford.<ref>{{cite news |title=Nedved scoops top award |url=https://news.bbc.co.uk/sport2/hi/football/europe/3341645.stm |work=BBC Sport |date=22 December 2003 |access-date=19 May 2015}}</ref>
+
+===Opening ceremony===
+{{Multiple image|direction=vertical|align=left|image1=FCB Mosaic.jpg|image2=For Sir Matt mosaic.jpg|width=200|caption2=Fans of both teams form club-specific mosaics in the build-up to the match.|alt1=A full stadium, with fans holding up yellow, blue and red cards to make a giant mosaic.|alt2=A full stadium, with fans holding up white and red cards to make a giant mosaic.}}
+The 2009 UEFA Champions League final officially opened with the opening of the UEFA Champions Festival at Rome's ''[[Arch of Constantine|Arco di Costantino]]'' and the ''Parco di Colle Oppio'' above the [[Colosseum]]. The Champions Festival was opened by former [[Italy national football team|Italy]] international [[goalkeeper (association football)|goalkeeper]] [[Luca Marchegiani]] on 23 May 2009 and ran until the afternoon on the day of the final, culminating with a football match between a European side coached by former [[Netherlands national football team|Netherlands]] international [[Ruud Gullit]] and an all-Italian team featuring [[AC Milan|Milan]] one-club man [[Alessandro Costacurta]] and final ambassador [[Bruno Conti]]. Other attractions at the Champions Festival included appearances by representatives from both clubs ([[Bryan Robson]] and [[Ole Gunnar Solskjær]] for Manchester United and [[Hristo Stoichkov]] for Barcelona), exhibitions featuring memorabilia from past UEFA Champions League tournaments and the [[European Champion Clubs' Cup]] on display.<ref>{{cite news |title=UEFA Champions Festival in Rome |url=https://www.uefa.com/MultimediaFiles/Download/pressrelease/uefa/uefamedia/83/16/29/831629_download.pdf |publisher=UEFA |date=20 May 2009 |access-date=4 June 2009 |archive-url=https://web.archive.org/web/20090611180219/http://www.uefa.com/multimediafiles/download/pressrelease/uefa/uefamedia/83/16/29/831629_download.pdf |archive-date=11 June 2009 |url-status=dead}}</ref><ref>{{cite news |first=Kevin |last=Ashby |title=European legends conclude football festival |url=https://www.uefa.com/uefachampionsleague/news/01d9-0e723e13034b-a4ee4bf22d41-1000--european-legends-conclude-football-festival/ |publisher=UEFA |date=27 May 2009 |access-date=24 March 2010}}</ref>
+
+[[File:2009 Champions League Final opening ceremony.jpg|thumb|Dancers from the [[Rustavi Ensemble]] during the opening ceremony.|alt=A panoramic view of a stadium. Several people are on the pitch.]]
+
+Immediately prior to the match itself came the opening ceremony for the final. The ceremony began with 64 members of the [[Rustavi Ensemble]] dance group performing a choreographed routine to a variation of the [[UEFA Champions League Anthem]].<ref>{{cite news |title=Rustavi female dancers' magnificent performance in Rome |url=http://www.ensemblerustavi.com/eng/?q=node/318 |work=ensemblerustavi.com |publisher=Rustavi Ensemble |date=29 May 2009 |access-date=4 June 2009 |archive-url=https://web.archive.org/web/20141102085446/http://www.ensemblerustavi.com/eng/?q=node%2F318 |archive-date=2 November 2014 |url-status=dead}}</ref> At the culmination of the routine, the players emerged from the tunnel, accompanied by Italian [[tenor]] [[Andrea Bocelli]] singing ''Il Gladiatore'' – a song based on ''Earth'' from the [[Gladiator (2000 soundtrack)|soundtrack]] to the film ''[[Gladiator (2000 film)|Gladiator]]'' – before Bocelli sang supporting vocals to the UEFA Champions League Anthem.<ref>{{cite news |first=Barry |last=Glendenning |title=Champions League final: Barcelona v Manchester United – as it happened |url=https://www.theguardian.com/football/2009/may/27/champions-league-final-barcelona-manchester-united |work=The Guardian |date=27 May 2009 |access-date=14 March 2009}}</ref> Before they emerged from their dressing room, manager Pep Guardiola played the Barcelona team a specially commissioned seven-minute film showing their best moments from the season interspersed with clips from the film ''Gladiator''. The film culminated with the late [[Luciano Pavarotti]]'s version of ''[[Nessun Dorma]]'', and it left several of the players in tears. With his players motivated for the game, Guardiola said nothing as they emerged into the tunnel.<ref>{{cite news |first=Ian |last=Hawkey |title=Gladiator Josep Guardiola inspires epic win in Rome |work=The Sunday Times |date=31 May 2009 |page=Sport}}</ref>
+
+==Match==
+
+===Summary===
+
+====First half====
+Barcelona kicked the match off, but Manchester United showed their intent from the outset, forcing goalkeeper [[Víctor Valdés]] to concede a throw-in after just 10 seconds.<ref>Simons, Archibald (0:03:50–0:04:00)</ref> Further pressure on the attack resulted in [[Yaya Touré]] fouling [[Anderson (footballer, born 1988)|Anderson]] within [[Cristiano Ronaldo]]'s shooting range.<ref>Simons, Archibald (0:04:59)</ref> Ronaldo fired the free kick directly at Valdés, but the Spanish goalkeeper could only parry the ball and [[Gerard Piqué]] did well to divert [[Park Ji-sung]]'s follow-up effort over the bar.<ref>Simons, Archibald (0:05:40–0:05:44)</ref> The resulting [[corner kick|corner]] was cleared, but only as far as [[Wayne Rooney]], whose snap-shot was wayward and went out for a [[goal kick]].<ref>Simons, Archibald (0:06:10–0:06:16)</ref>
+
+Both teams struggled to put a flowing move together in the opening exchanges, but it was United who had the better chances, both falling to Ronaldo. The first came in the seventh&nbsp;minute: having been played the ball by [[Michael Carrick]], Ronaldo turned away from Piqué on the edge of the centre circle, before hitting a shot just wide from almost 40&nbsp;yards;<ref>Simons, Archibald (0:10:55–0:11:01)</ref> the second saw the ball break to Ronaldo after Anderson and [[Patrice Evra]] had linked up well down the left flank. The Portuguese winger controlled the ball on the chest before hitting the ball just past the far post.<ref>Simons, Archibald (0:12:15–0:12:21)</ref>
+
+Despite United's early pressure, it was Barcelona who scored the first goal of the match. [[Edwin van der Sar]] cleared the ball downfield for Manchester United, but it was headed away by Barcelona's [[Defensive midfielder|midfield anchor]] [[Sergio Busquets]]. Carrick was first to the ball for Manchester United, but he could only head it as far as [[Xavi (footballer, born 1980)|Xavi]], who passed to [[Andrés Iniesta]]. The Manchester United defence backed away from the Spaniard, who – after exchanging passes with [[Lionel Messi]] – played the ball into the path of [[Samuel Eto'o]] in the Manchester United penalty area. [[Nemanja Vidić]] attempted to shepherd the Cameroonian striker towards the goal line, but Eto'o easily stepped inside him and toe-poked the ball past Van der Sar to make it 1–0 to Barcelona inside 10&nbsp;minutes.<ref>Simons, Archibald (0:12:38–0:12:56)</ref>
+
+[[File:041 men at work UEFA 2009, Rome.jpg|thumb|left|Thierry Henry picks the ball out of the net after Barcelona's first goal.|alt=Four men in white shirts: three are standing and one is lying on the ground. A man wearing a yellow shirt is sitting on the ground. A man in a dark shirt is picking a football out of a goal.]]
+
+The goal shifted the balance of the game in Barcelona's favour, as United had been on top in terms of shots and possession up to that point. Almost immediately after the restart, Vidić gave away an unnecessary corner.<ref>Simons, Archibald (0:14:05–0:14:17)</ref> In a rehearsed corner move, Xavi played the ball back to the edge of the penalty area towards Messi, but the tournament's top scorer was unable to make a proper connection.<ref>Simons, Archibald (0:14:45–0:14:48)</ref> Nevertheless, Barça retained possession through some sharp inter-passing involving Xavi and Iniesta.<ref>Simons, Archibald (0:14:48–0:15:30)</ref> When United did manage to regain the ball, however, it was quickly given away by a poor pass from Carrick,<ref>Simons, Archibald (0:15:54)</ref> while Anderson mis-timed a kick and completely missed the ball.<ref>Simons, Archibald (0:16:05)</ref> It was now Barcelona's turn to pressurise the United players, forcing them into backward passes or long, hopeful balls forward.<ref>Simons, Archibald (0:16:15–0:19:00)</ref>
+
+The quality of the teams' passing remained the main difference between them; however, in the 16th minute, Barcelona lost the ball and [[Ryan Giggs]] sent a long ball forward to Ronaldo.<ref>Simons, Archibald (0:19:05–0:19:11)</ref> Ronaldo's first touch took him inside Piqué before going back outside the former Manchester United defender, who cynically blocked Ronaldo's run, earning himself the first [[yellow card (association football)|yellow card]] of the match.<ref>Simons, Archibald (0:19:13–0:19:30)</ref> Ronaldo shaped to take the free kick himself, but it was Giggs who shot for goal, only to curl the ball just over the bar.<ref>Simons, Archibald (0:20:15–0:20:34)</ref>
+
+[[File:039 men at work UEFA 2009, Rome.jpg|thumb|Michael Carrick (background) watches as Lionel Messi shoots.|alt=A man wearing a blue-and-red football shirt prepares to kick a football, while a man in a white shirt looks on.]]
+
+Barcelona responded quickly, as [[Carles Puyol]] found Eto'o with a long throw-in down the right wing.<ref>Simons, Archibald (0:22:26–0:22:32)</ref> The Cameroonian then found Messi, who cut inside and hit a curling 35-yard shot that just shaved the top of the crossbar.<ref>Simons, Archibald (0:22:33–0:22:40)</ref> A quick-passing move from United followed, culminating with a through-ball to Park in the inside right channel, only for Valdés to cut out the pass, taking out the South Korean in the process.<ref>Simons, Archibald (0:23:10–0:23:24)</ref> The resulting throw-in eventually broke to Ronaldo, whose 30-yard shot went just wide.<ref>Simons, Archibald (0:23:30–0:23:41)</ref> Valdés' clash with Park, however, left him requiring treatment, and although the injury was not sufficient to necessitate a substitution, Valdés chose to leave his next few goal kicks to Piqué.<ref>Simons, Archibald (0:24:11–0:25:20, 0:26:22, 0:45:14)</ref>
+
+[[File:035 men at work UEFA 2009, Rome.jpg|thumb|left|Andrés Iniesta (on the ground) is fouled by Anderson (number 8).|alt=A man in a blue-and-red shirt is lying on the floor with his legs above his head. Behind him, a man in a white shirt is chasing after a football.]]
+
+In the 22nd minute, a lofted through-pass from Carrick found Rooney on the left wing, but the Liverpudlian's cross was blocked by Touré and went out for a corner kick.<ref>Simons, Archibald (0:25:27–0:25:38)</ref> The corner, taken by Giggs, found Ronaldo, but the Portuguese got too far under the ball and headed over.<ref>Simons, Archibald (0:25:57–0:26:00)</ref> Precise passing from the Barcelona midfield got the Catalans moving upfield until a shoulder charge from Anderson sent Iniesta stumbling to the ground in the inside-left channel 30&nbsp;yards from goal.<ref>Simons, Archibald (0:27:45–0:29:15)</ref> The consequent free kick was taken by Xavi, who sent the ball just wide of the near post.<ref>Simons, Archibald (0:30:05)</ref> Another free kick followed, as Messi was bundled over by a double-challenge from Vidić and Carrick, but it came to nothing.<ref>Simons, Archibald (0:31:21–0:32:03)</ref>
+
+[[File:2009 Champions League Final Xavi free kick.jpg|thumb|Xavi prepares to take the consequent free kick.|alt=A wide-angle photograph of several football players preparing for a free-kick to be taken.]]
+
+With ten&nbsp;minutes left until half-time, the Manchester United defence effectively switched off and allowed Touré to dribble unopposed to within 15&nbsp;yards of their penalty area before slipping the ball out wide to Puyol, whose low cross was diverted behind by Vidić.<ref>Simons, Archibald (0:37:51–0:38:02)</ref> The corner kick was taken short and the eventual cross was headed behind for another corner on the opposite side by Evra.<ref>Simons, Archibald (0:38:29–0:38:36)</ref> The second corner was crossed in towards Piqué, but he was unable to make contact with the ball.<ref>Simons, Archibald (0:39:05–0:39:11)</ref>
+
+With half-time fast approaching, Barcelona's confidence began to show: first, Messi attempted to flick a pass over the top of the United defence to [[Thierry Henry]], which [[Rio Ferdinand]] intercepted;<ref>Simons, Archibald (0:41:19)</ref> Iniesta then tried an ambitious back-heel that Van der Sar collected;<ref>Simons, Archibald (0:46:44)</ref> and finally Messi sped through three Manchester United defenders towards the by-line, only for his cut-back cross to be pounced upon by Van der Sar and then cleared by Vidić.<ref>Simons, Archibald (0:48:07–0:48:14)</ref> On the stroke of half-time, Iniesta himself then attempted to flick the ball through to Henry, but it was just too high for the French striker, and referee [[Massimo Busacca]] took that cue to blow the whistle for the interval.<ref>Simons, Archibald (0:49:46–0:49:52)</ref>
+
+====Second half====
+[[File:021 men at work UEFA 2009, Rome.jpg|thumb|left|Thierry Henry takes on Rio Ferdinand in the Manchester United penalty area.|alt=A man in a blue-and-red shirt with a football at his feet runs at a man in a white shirt. In the background, a man in a yellow shirt prepares for the ball to be kicked towards him.]]
+
+After bringing on [[Carlos Tevez]] in place of [[Anderson (footballer, born 1988)|Anderson]] at half time, Manchester United kicked off the second half in a different formation,<ref>Simons, Archibald (0:51:14)</ref> with Tevez joining Ronaldo up front in a familiar 4–4–2.<ref>Simons, Archibald (0:51:45–0:51:50)</ref> Both teams attempted to settle into their customary passing rhythms, but – unlike the first half – it was Barcelona who settled first; Manchester United's passes in their attacking third of the field failed to find their targets, and Iniesta eventually came away with the ball before flicking a pass through to Xavi, who played a through-ball to Henry on the left wing.<ref>Simons, Archibald (0:51:14–0:54:07)</ref> The French forward turned Ferdinand inside-out, but his shot from a narrow angle was straight at Van der Sar and ended up going out for a throw-in.<ref>Simons, Archibald (0:54:11–0:54:19)</ref> Xavi then again passed the ball out to the left flank, where Henry nonchalantly left it for the on-rushing [[Sylvinho]];<ref>Simons, Archibald (0:55:16–0:55:19)</ref> the Brazilian full-back whipped in a cross for Eto'o, but it was caught on the edge of the six-yard box by Van der Sar.<ref>Simons, Archibald (0:55:20–0:55:22)</ref>
+
+[[File:019 men at work UEFA 2009, Rome.jpg|thumb|Carlos Tevez fouls Andrés Iniesta on the edge of the Manchester United penalty area.|alt=Several men in white shirts stand around a man in a blue-and-red shirt who is falling to the ground.]]
+
+Pressure high up the pitch from Barcelona kept Manchester United in their own half, forcing them into attempting long balls downfield.<ref>Simons, Archibald (0:55:25–0:55:30)</ref> A scrappy few moments in and around the centre circle followed, but Manchester United eventually came away with the ball.<ref>Simons, Archibald (0:55:39–0:56:00)</ref> However, a lapse in communication between Giggs and Evra on the left wing allowed Eto'o to steal in and advance on the Manchester United goal.<ref>Simons, Archibald (0:56:02–0:56:06)</ref> He cut in from the right wing and played a through-ball just out of reach of Messi, who went to ground after O'Shea had put his hand on Messi's shoulder.<ref>Simons, Archibald (0:56:07–0:56:10)</ref> A period of sustained pressure from Barcelona followed, culminating with a run from Iniesta, who could only be stopped by a foul from Tevez on the edge of the Manchester United penalty area.<ref>Simons, Archibald (0:56:26–0:57:14)</ref> The consequent free kick was taken by Xavi, who curled the ball around the defensive wall and onto the post with Van der Sar beaten.<ref>Simons, Archibald (0:58:36–0:58:37)</ref>
+
+[[File:Xavi al palo!.jpg|thumb|left|Xavi hits the free kick towards goal.|alt=A man in a blue-and-red shirt kicks a football past a row of men in white shirts towards a goal.]]
+
+United responded with their first extended period of possession of the half, working the ball into wide areas to be crossed into the middle, but Rooney's first couple of attempted centres were well cleared by Piqué.<ref>Simons, Archibald (0:59:21–1:00:07)</ref> At the third attempt, though, Rooney's cross evaded the Barcelona defence as Touré kicked at thin air; however, it also failed to find a Manchester United player in the penalty area, both Ronaldo and Park going close.<ref>Simons, Archibald (1:01:35–1:01:38)</ref> After Ronaldo was called offside in the 59th minute – despite appearing to be level with the last defender – Giggs stole the ball mid-way inside the Barcelona half before playing the ball to Ronaldo on the left wing.<ref>Simons, Archibald (1:05:05–1:06:53)</ref> The Portuguese forward stepped over the ball several times in an attempt to wrong-foot Puyol, before cutting inside and playing the ball across the edge of the area towards Carrick.<ref>Simons, Archibald (1:06:55–1:06:58)</ref> A sliding challenge from Busquets prevented a shot, only for the English midfielder to slide the ball out for a Barcelona goal kick while attempting to play Rooney through.<ref>Simons, Archibald (1:06:59–1:07:04)</ref> Rooney was again played down the right wing a few moments later, but his low cross was diverted behind by Piqué, and the resulting corner came to nothing.<ref>Simons, Archibald (1:08:40–1:09:17)</ref> A left-wing attack from Ronaldo followed, but after cutting inside, he gave the ball away cheaply.<ref>Simons, Archibald (1:10:20–1:10:30)</ref> Barcelona immediately went on the attack down the other end, but Henry was unable to get past O'Shea and his shot was well saved by Van der Sar low at the near post.<ref>Simons, Archibald (1:10:30–1:11:18)</ref>
+
+In the 66th minute, Alex Ferguson completed his attacking quartet by bringing [[Dimitar Berbatov]] on in place of Park.<ref>Simons, Archibald (1:11:42)</ref> Ronaldo was penalised for a high elbow when challenging for a header with Puyol a minute later,<ref>Simons, Archibald (1:12:15)</ref> before Rooney forced another corner off Piqué in the 69th minute.<ref>Simons, Archibald (1:14:52)</ref> However, United's numbers up front in search of another goal left them wanting in defence; a weak clearance from Van der Sar was cut out by Puyol who played the ball to Eto'o on the right side of the penalty area.<ref>Simons, Archibald (1:15:43–1:15:51)</ref> The ball broke to Xavi on the edge of the area, who crossed for Messi to send a looping header over the United goalkeeper and into the far side of the goal for a two-goal lead.<ref>Simons, Archibald (1:15:57–1:16:03)</ref> Immediately after the goal, Henry was replaced by [[Seydou Keita]], allowing Barcelona to adopt a more defensive stance.<ref>Simons, Archibald (1:17:20)</ref>
+
+United responded to the goal immediately, as Giggs made a surging run through the Barcelona defence before playing the ball to Berbatov in the inside-right channel.<ref>Simons, Archibald (1:17:40–1:17:45)</ref> The Bulgarian forward's low cross found Giggs in the centre, and the United captain's shot was deflected to Ronaldo on the far side of the goal, only for the Portuguese's shot to be blocked by Valdés.<ref>Simons, Archibald (1:17:47–1:17:50)</ref> The resulting corner reached Berbatov on the far side of the goal, but it was deemed to have crossed the goal line first and Barcelona were awarded a goal kick, from which they launched another attack.<ref>Simons, Archibald (1:18:11–1:18:45)</ref> Messi played a through-ball to Puyol on the right flank, but as the Barcelona captain reached the goal line, he was fouled by Ronaldo, who – despite going in two-footed – escaped the referee's book.<ref>Simons, Archibald (1:19:11–1:19:45)</ref> Puyol himself rose to head Xavi's free kick towards goal, but it was directly at Van der Sar, who claimed the ball easily.<ref>Simons, Archibald (1:20:08–1:20:10)</ref>
+
+Manchester United used their third and final substitute in the 75th minute, replacing Giggs with [[Paul Scholes]], who took over as team captain.<ref>Simons, Archibald (1:20:28–1:20:53)</ref> Ronaldo and Scholes each received yellow cards in the 78th and 80th minutes, respectively; Ronaldo's yellow card was awarded for a robust shoulder-charge on Puyol as the Barcelona right back shepherded the ball out for a goal kick,<ref>Simons, Archibald (1:23:47–1:24:08)</ref> while Scholes was booked for a late challenge on Busquets.<ref>Simons, Archibald (1:25:37, 1:26:26)</ref> While the referee played advantage after Scholes' foul, Iniesta cut inside from the left wing and hit a shot that was saved above the head of Van der Sar.<ref>Simons, Archibald (1:25:37–1:25:49)</ref> An extended spell of Barcelona possession followed, as they strung a series of around 20 passes together, culminating with Puyol attempting to clip the ball over the onrushing Van der Sar, who blocked the shot.<ref>Simons, Archibald (1:28:50–1:30:16)</ref> Both players went for the follow-up, but the Dutch goalkeeper was first to the ball and sent Puyol sprawling.<ref>Simons, Archibald (1:30:17–1:30:19)</ref>
+
+In the 85th minute, Scholes clipped the ball over the top of the Barcelona defensive line to Rooney, who chested the ball down for Tevez, only to be given offside.<ref>Simons, Archibald (1:30:51–1:30:55)</ref> Scholes then found Rooney again on the left wing with a raking ball from deep inside his own half, but Rooney's first touch was heavy, allowing Puyol to get back and put the ball out for a corner.<ref>Simons, Archibald (1:32:06–1:32:12)</ref> Rooney took the corner short to Tevez, whose cross was just beyond the reach of Berbatov and diverted behind again by Puyol.<ref>Simons, Archibald (1:32:27–1:32:35)</ref> Rooney also took the second corner, which was met by Berbatov, but he put the ball high over the crossbar.<ref>Simons, Archibald (1:32:56–1:32:59)</ref>
+
+As the match entered its closing stages, the referee allotted a minimum of three&nbsp;minutes of injury time.<ref>Simons, Archibald (1:36:17)</ref> The first of these saw Van der Sar make a poor pass after the ball was played back to him by Ferdinand, allowing Iniesta to steal in and play the ball towards Messi in the United penalty area, only for Vidić to get there ahead of the Argentine and knock the ball out for a corner.<ref>Simons, Archibald (1:36:32–1:36:43)</ref> Barcelona manager Pep Guardiola brought [[Pedro (footballer, born 1987)|Pedro]] on for Iniesta in the second&nbsp;minute of added time,<ref>Simons, Archibald (1:38:12)</ref> before Vidić was immediately shown a yellow card for a clash of heads with Messi when going for a header.<ref>Simons, Archibald (1:38:28–1:38:54)</ref> That was to be the final act of the match, as referee Massimo Busacca blew for full-time as soon as Xavi took the free kick.<ref>Simons, Archibald (1:39:20)</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2009|5|27|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score      = 2–0
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+*[[Samuel Eto'o|Eto'o]] {{goal|10}}
+*[[Lionel Messi|Messi]] {{goal|70}}
+|goals2     =
+|stadium    = [[Stadio Olimpico]], Rome
+|attendance = 62,467<ref name="full_time">{{cite web |title=Full Time Report |url=https://www.uefa.com/newsfiles/UCL/2009/302813_FR.pdf |publisher=UEFA |date=27 May 2009 |access-date=27 May 2009}}</ref>
+|referee    = [[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/302813/
+}}
+
+</onlyinclude>
+
+{| style="width:92%;"
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _bluehalf
+ |pattern_ra = 
+ |pattern_so = _blue_top
+ |leftarm    = 0000FF
+ |body       = DD0000
+ |rightarm   = DD0000
+ |shorts     = 0000FF
+ |socks      = DD0000
+ |title      = Barcelona<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _manutdaway0810
+ |pattern_ra = 
+ |pattern_sh = _manutda0810alt
+ |pattern_so = _manutda0810
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Manchester United}}<ref name="lineups"/>
+}}
+|}
+
+{| style="width:100%;"
+|-
+|  style="vertical-align:top; width:50%;"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Víctor Valdés]]
+|-
+|RB ||'''5''' ||{{flagicon|ESP}} [[Carles Puyol]] ([[Captain (association football)|c]])
+|-
+|CB ||'''24'''||{{flagicon|CIV}} [[Yaya Touré]]
+|-
+|CB ||'''3''' ||{{flagicon|ESP}} [[Gerard Piqué]] || {{yel|16}}
+|-
+|LB ||'''16'''||{{flagicon|BRA}} [[Sylvinho]]
+|-
+|DM ||'''28'''||{{flagicon|ESP}} [[Sergio Busquets]]
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]]
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Andrés Iniesta]] || || {{suboff|90+2}}
+|-
+|RW ||'''10'''||{{flagicon|ARG}} [[Lionel Messi]]
+|-
+|LW ||'''14'''||{{flagicon|FRA|1974}} [[Thierry Henry]] || || {{suboff|72}}
+|-
+|CF ||'''9''' ||{{flagicon|CMR}} [[Samuel Eto'o]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[José Manuel Pinto]]
+|-
+|DF ||'''2''' ||{{flagicon|URU}} [[Martín Cáceres]]
+|-
+|DF ||'''46'''||{{flagicon|ESP}} [[Marc Muniesa]]
+|-
+|MF ||'''15'''||{{flagicon|MLI}} [[Seydou Keita]] || || {{subon|72}}
+|-
+|FW ||'''7''' ||{{flagicon|ISL}} [[Eiður Guðjohnsen]]
+|-
+|FW ||'''11'''||{{flagicon|ESP}} [[Bojan Krkić|Bojan]]
+|-
+|FW ||'''27'''||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]] || || {{subon|90+2}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|valign="top"|[[File:Barcelona vs Man Utd 2009-05-27.svg|300px|alt=|link=]]
+|style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|NED}} [[Edwin van der Sar]]
+|-
+|RB ||'''22'''||{{flagicon|IRL}} [[John O'Shea]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Rio Ferdinand]]
+|-
+|CB ||'''15'''||{{flagicon|SRB|2004}} [[Nemanja Vidić]] || {{yel|90+3}}
+|-
+|LB ||'''3''' ||{{flagicon|FRA|1974}} [[Patrice Evra]]
+|-
+|CM ||'''8''' ||{{flagicon|BRA}} [[Anderson (footballer, born 1988)|Anderson]] || || {{suboff|46}}
+|-
+|CM ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]]
+|-
+|CM ||'''11'''||{{flagicon|WAL}} [[Ryan Giggs]] ([[Captain (association football)|c]]) || || {{suboff|75}}
+|-
+|RW ||'''13'''||{{flagicon|KOR|1997}} [[Park Ji-sung]] || || {{suboff|66}}
+|-
+|LW ||'''10'''||{{flagicon|ENG}} [[Wayne Rooney]]
+|-
+|CF ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]] || {{yel|78}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''29'''||{{flagicon|POL}} [[Tomasz Kuszczak]]
+|-
+|DF ||'''21'''||{{flagicon|BRA}} [[Rafael (footballer, born 1990)|Rafael]]
+|-
+|DF ||'''23'''||{{flagicon|NIR}} [[Jonny Evans]]
+|-
+|MF ||'''17'''||{{flagicon|POR}} [[Nani (footballer)|Nani]]
+|-
+|MF ||'''18'''||{{flagicon|ENG}} [[Paul Scholes]] || {{yel|81}} || {{subon|75}}
+|-
+|FW ||'''9''' ||{{flagicon|BUL}} [[Dimitar Berbatov]] || || {{subon|66}}
+|-
+|FW ||'''32'''||{{flagicon|ARG}} [[Carlos Tevez]] || || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SCO}} [[Alex Ferguson|Sir Alex Ferguson]]
+|}
+|}
+
+{|  style="width:100%; font-size:90%;"
+|
+'''UEFA Man of the Match:'''
+<br />[[Xavi (footballer, born 1980)|Xavi]] (Barcelona)<ref name="xavi">{{cite news |first=Andrew |last=Haslam |title=Imperious Xavi runs the show in Rome |url=https://www.uefa.com/uefachampionsleague/news/01d9-0e72412cdde1-039716e06892-1000--imperious-xavi-runs-the-show-in-rome/ |publisher=UEFA |date=28 May 2009 |access-date=28 May 2009}}</ref>
+<br />'''Fans' Man of the Match:'''
+<br />[[Lionel Messi]] (Barcelona)<ref name="messi">{{cite news |title=Gerrard and Messi share fans' vote |url=http://www.uefa.com/uefachampionsleague/news/newsid=833884.html |archive-url=https://web.archive.org/web/20110604141035/http://www.uefa.com/uefachampionsleague/news/newsid=833884.html |url-status=dead |archive-date=4 June 2011 |publisher=UEFA |date=27 May 2009 |access-date=2 July 2009}}</ref>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Matthias Arnet ([[Swiss Football Association|Switzerland]])<ref name="referee"/>
+<br />Francesco Buragina ([[Swiss Football Association|Switzerland]])<ref name="referee"/>
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Claudio Circhetta]] ([[Swiss Football Association|Switzerland]])<ref name="referee"/>
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2009/302813_TS.pdf |title=Team statistics: Full time |publisher=[[UEFA]] |date=27 May 2009 |access-date=1 June 2023}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|4
+|8
+|-
+!scope=row|Shots on target
+|1
+|1
+|-
+!scope=row|Saves
+|1
+|0
+|-
+!scope=row|Ball possession
+|54%
+|46%
+|-
+!scope=row|Corner kicks
+|3
+|2
+|-
+!scope=row|Fouls committed
+|3
+|3
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|7
+|4
+|-
+!scope=row|Shots on target
+|7
+|1
+|-
+!scope=row|Saves
+|1
+|5
+|-
+!scope=row|Ball possession
+|48%
+|52%
+|-
+!scope=row|Corner kicks
+|1
+|5
+|-
+!scope=row|Fouls committed
+|4
+|7
+|-
+!scope=row|Offsides
+|2
+|3
+|-
+!scope=row|Yellow cards
+|0
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|11
+|12
+|-
+!scope=row|Shots on target
+|8
+|2
+|-
+!scope=row|Saves
+|2
+|5
+|-
+!scope=row|Ball possession
+|51%
+|49%
+|-
+!scope=row|Corner kicks
+|4
+|7
+|-
+!scope=row|Fouls committed
+|7
+|10
+|-
+!scope=row|Offsides
+|2
+|5
+|-
+!scope=row|Yellow cards
+|1
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+
+=== Trophy presentation ===
+[[File:002 men at work UEFA 2009, Rome.jpg|thumb|Manchester United's players look on as their Barcelona counterparts receive their winners' medals.|alt=A line of men in white shirts watching men in blue-and-red shirts standing on a rostrum in the background.]]
+
+At the final whistle, Barcelona manager Pep Guardiola offered his commiserations to each of Manchester United's players, while former Manchester United defender [[Gerard Piqué]] talked with his erstwhile teammates. Both teams then retreated to either end of the stadium to applaud their fans.
+
+[[File:La cara de la derrota.jpg|thumb|left|[[Prince William, Duke of Cambridge|Prince William]] looks on as [[Cristiano Ronaldo]] receives his runners-up medal from [[UEFA]] President [[Michel Platini]].|alt=A man in a white shirt receives a medal from a man in a suit.]]
+
+While match referee [[Massimo Busacca]] and his assistants collected their mementoes of the final, the Barcelona team formed a [[guard of honour]] for the Manchester United players,<ref>Simons, Archibald (1:40:49)</ref> just as the English side had done for [[Chelsea F.C.|Chelsea]] in [[2008 UEFA Champions League final|2008]]. Led by their manager, [[Alex Ferguson]], and team captain, [[Ryan Giggs]], the Manchester United team then ascended the specially constructed rostrum to collect their runners-up medals from [[UEFA]] president [[Michel Platini]] and secretary [[David Taylor (football administrator)|David Taylor]].<ref>Simons, Archibald (1:40:43–1:41:12)</ref> Other dignitaries present included Manchester United chief executive [[David Gill (football executive)|David Gill]]; [[The Football Association]]'s president [[Prince William, Duke of Cambridge|Prince William]], and chairman [[David Triesman, Baron Triesman|Lord Triesman]]; Barcelona president [[Joan Laporta]]; [[Juan Carlos I of Spain]]; [[Royal Spanish Football Federation]] president Ángel María Villar; and Italian Prime Minister [[Silvio Berlusconi]]. Ferguson also collected a commemorative plaque from Platini, but immediately handed it to Giggs.<ref>Simons, Archibald (1:41:15–1:41:18)</ref>
+
+[[File:Celebrando la Copa de Campeones 2008-09.jpg|thumb|The Barcelona team, celebrating their victory with the [[European Champion Clubs' Cup]].|alt=A man in a blue-and-red shirt lifts a large silver trophy above his head, while other men in blue-and-red shirts look on from the background.]]
+
+After offering his commiserations to Manchester United's players,<ref>Simons, Archibald (1:41:27–1:42:34)</ref> Joan Laporta then joined the Barcelona team to lead them up the podium, closely followed by manager Guardiola.<ref>Simons, Archibald (1:42:34–1:43:06)</ref> Laporta himself collected Barcelona's commemorative plaque before accepting a medal from Platini.<ref>Simons, Archibald (1:43:22–1:43:29)</ref> Once the entire Barcelona team had collected their medals, Platini made his way to the front of the podium to present [[Carles Puyol]] with the [[European Champion Clubs' Cup]].<ref>Simons, Archibald (1:46:00–1:46:10)</ref> The Barcelona captain promptly held the trophy aloft with accompaniment from the [[UEFA Champions League Anthem]] and explosions of golden confetti, before leading his team on a lap of honour.<ref>Simons, Archibald (1:46:12–1:47:00)</ref>
+
+===Reaction===
+[[File:Lionel Messi 31mar2007.jpg|thumb|left|upright|Barcelona's [[Lionel Messi]] was voted as [[man of the match]] by ''UEFA.com'' users.|alt=A young man wearing a blue-and-red shirt. His hair is held back by a hairband.]]
+{{Quote box |quote=We're not the best team in Barça history but we've had the best season. |source=Josep Guardiola, 27 May 2009<ref name="guardiola_salutes"/> |width=206px }}
+During the match, users on ''UEFA.com'' were able to vote for their [[man of the match]]; the public vote went to the scorer of Barcelona's second goal, [[Lionel Messi]].<ref name="messi"/> The UEFA Technical Study Group, however, chose the man who provided the cross for Messi's goal, [[Xavi (footballer, born 1980)|Xavi]], as their man of the match, citing his control of the tempo of the match as the reason for their decision.<ref name="xavi"/> Barcelona manager Pep Guardiola took the time to give special praise to Messi, whom he said he moved back into the midfield to increase the team's effectiveness when in possession of the ball.<ref name="praise">{{cite news |title=Guardiola praises Barcelona bravery |url=https://news.bbc.co.uk/sport1/hi/football/europe/8071196.stm |work=BBC Sport |date=27 May 2009 |access-date=13 August 2009}}</ref> Messi had been withdrawn from his usual right-wing role into a more central position, while [[Samuel Eto'o]], who had started the match as Barcelona's lone centre-forward, was moved out to the right.<ref name="middle_men">{{cite news |first=David |last=Pleat |title=Middle men to the fore in dictating the rhythm with care |url=https://www.theguardian.com/sport/blog/2009/may/28/barcelona-manchester-united-david-pleat-chalkboard |work=The Guardian |date=28 May 2009 |access-date=13 August 2009}}</ref> Guardiola also lauded the bravery of his entire team, stating that he believed that his team's victory hinged on their hard work and propensity for taking risks in attack,<ref name="praise"/> but he admitted that although his side had had the best season in the history of the club, they were not yet the best Barcelona team.<ref name="guardiola_salutes"/>
+
+{{multiple image |footer=Barcelona's victory hinged on the performances of [[Andrés Iniesta]] (left) and [[Xavi (footballer, born 1980)|Xavi]] (right).<ref name="middle_men"/> |image1=Andrés Iniesta - 001.jpg |width1=100 |alt1=A man wearing long, dark blue shorts and a light blue sweatshirt under an orange bib. |image2=Xavi Hernández - 001.jpg |width2=106 |alt2=A man wearing a light blue sweatshirt and dark blue shorts. }}
+In the Manchester United camp, manager [[Alex Ferguson]] admitted that his team had been beaten by the better side and that the game was all but lost after the first goal.<ref name="barca_better">{{cite news |title=Barca were better side |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/8071178.stm |work=BBC Sport |date=28 May 2009 |access-date=7 September 2009}}</ref> United forward [[Cristiano Ronaldo]], however, criticised his team's tactics, saying that "everything went wrong".<ref>{{cite news |first=Giles |last=Mole |title=Manchester United v Barcelona: Cristiano Ronaldo blames tactics for Rome defeat |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/5398293/Manchester-United-v-Barcelona-Cristiano-Ronaldo-blames-tactics-for-Rome-defeat.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/manchester-united/5398293/Manchester-United-v-Barcelona-Cristiano-Ronaldo-blames-tactics-for-Rome-defeat.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |work=The Daily Telegraph |date=28 May 2009 |access-date=27 April 2011}}{{cbignore}}</ref> Ferguson paid tribute to Messi and the midfield partnership of Xavi and [[Andrés Iniesta|Iniesta]],<ref name="barca_better"/> while [[Wayne Rooney]] lauded Iniesta as "the best player in the world".<ref>{{cite news |first=Giles |last=Mole |title=Manchester United v Barcelona: Wayne Rooney backs Andres Iniesta for Ballon d'Or |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/5398387/Manchester-United-v-Barcelona-Wayne-Rooney-backs-Andres-Iniesta-for-Ballon-dOr.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/manchester-united/5398387/Manchester-United-v-Barcelona-Wayne-Rooney-backs-Andres-Iniesta-for-Ballon-dOr.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |work=The Daily Telegraph |date=28 May 2009 |access-date=27 April 2011}}{{cbignore}}</ref> Ferguson also expressed his regret at the unavailability of midfielder [[Darren Fletcher]], who was suspended for the match, and lamented at his side's "shoddy" defending and ineffectiveness when in possession.<ref name="barca_better"/><ref>{{cite news |first=Jason |last=Burt |title=Manchester United v Barcelona: Reaction |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/5396685/Manchester-United-v-Barcelona-Reaction.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/manchester-united/5396685/Manchester-United-v-Barcelona-Reaction.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |work=The Daily Telegraph |date=27 May 2009 |access-date=27 April 2011}}{{cbignore}}</ref> Nevertheless, Ferguson paid tribute to Guardiola's achievement of winning [[Continental Treble|the treble]] in his first season of management.<ref name="barca_better"/> Barcelona's victory also made Guardiola only the sixth man to win the competition as both a player and a manager, following in the footsteps of [[Miguel Muñoz]], [[Giovanni Trapattoni]], [[Johan Cruyff]], [[Carlo Ancelotti]] and, most recently, [[Frank Rijkaard]], who also won the Champions League as Barcelona manager.<ref>{{cite news |first=Andrew |last=Haslam |title=Rookie coach enters illustrious company |url=https://www.uefa.com/uefachampionsleague/news/01d9-0e731eb0209b-b9cd8f963f76-1000--rookie-coach-enters-illustrious-company/ |publisher=UEFA |date=27 May 2009 |access-date=8 September 2009}}</ref>
+
+{{Quote box |quote=You have to give credit to a very good Barcelona team – the better team won. |source=Sir Alex Ferguson, 27 May 2009<ref name="guardiola_salutes"/> |width=150px |align=left }}
+
+The match turned out to be the last for [[Carlos Tevez]] as a Manchester United player, as he chose not to make his loan spell with the club permanent and joined their local rivals, [[Manchester City F.C.|Manchester City]].<ref>{{cite news |title=Man Utd announce Tevez departure |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/8110740.stm |work=BBC Sport |date=20 June 2009 |access-date=7 September 2009}}</ref><ref>{{cite news |title=Tevez completes move to Man City |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_city/8150002.stm |work=BBC Sport |date=14 July 2009 |access-date=7 September 2009}}</ref> After announcing his intention to leave Manchester United, Tevez criticised Ferguson's team selection for the 2009 Champions League final, saying that Ferguson should have included him in the starting line-up, with the rationale that the match was the only final that Manchester United had lost in his time at the club.<ref>{{cite news |title='Alex Ferguson should have started me against Barcelona,' says Carlos Tevez |url=https://www.theguardian.com/football/2009/jun/30/carlos-tevez-champions-league-final |work=The Guardian |date=30 June 2009 |access-date=7 September 2009}}</ref>
+
+The match was also Ronaldo's last game at Manchester United for over twelve years, as he completed a world record £80&nbsp;million transfer to [[Real Madrid CF|Real Madrid]] on 1 July.<ref>{{cite news |title=Ronaldo completes £80m Real move |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/8121951.stm |work=BBC Sport |date=1 July 2009 |access-date=7 September 2009}}</ref> He would later go on to rejoin United in August 2021, and departing once more in November 2022.<ref>{{cite news |title=Cristiano Ronaldo to Man Utd: 'I'm back where I belong' and dedicates return to Sir Alex Ferguson |url=https://www.bbc.co.uk/sport/football/58367537 |work=BBC Sport |date=31 August 2021 |access-date=11 September 2021}}</ref><ref>{{cite news |title=Cristiano Ronaldo to leave Manchester United with immediate effect |url=https://www.bbc.co.uk/sport/football/63720774 |work=BBC Sport |date=22 November 2022 |access-date=23 January 2023}}</ref>
+[[File:Tevez throw.jpg|thumb|left|upright|[[Carlos Tevez]] chose to leave Manchester United at the end of his contract in June 2009.|alt=A man wearing a red football shirt, white shorts and black socks. His hair is held back by a hairband. He is holding a yellow football with a purple design.]]
+
+Television audiences for the final reached more than 10&nbsp;million in both Spain and the United Kingdom. 11.3&nbsp;million people watched the match on Spain's [[Antena 3 (Spain)|Antena 3]] network – the largest viewing figures for that station in the past year – while another 600,000 watched on [[Canal+ Spain]]. In the United Kingdom, however, although the match received the highest ratings of any programme that evening, viewing figures were down by 1.5&nbsp;million on [[2008 UEFA Champions League final|the previous year's final]], with just 9.6&nbsp;million watching on ITV1, although an additional 1.79&nbsp;million watched on [[Sky Sports|Sky Sports 1]]. Despite there being no Italian or French representative in the final, the figures were much the same in those two countries as they were in Spain and the United Kingdom, with Italy's [[Rai Uno]] garnering an average viewership of 9.63&nbsp;million and France's [[TF1]] receiving 8.25&nbsp;million. Only 6.55&nbsp;million people watched the match on Germany's [[Sat.1]] channel.<ref>{{cite news |first=Steve |last=Clarke |title=European soccer final wins TV prize |url=https://variety.com/2009/scene/markets-festivals/european-soccer-final-wins-tv-prize-1118004248/ |work=Variety |date=28 May 2009 |access-date=8 September 2009}}</ref> According to a survey, global viewing figures for the match averaged 109&nbsp;million; this put the UEFA Champions League final above the [[Super Bowl]] (106&nbsp;million viewers in [[Super Bowl XLIII|2009]]) as the most-watched annual sporting event in the world. Total figures, which included viewers who watched only part of the match, put the Champions League final even further ahead of the Super Bowl, with 206&nbsp;million viewers compared to 162&nbsp;million.<ref>{{cite news |first=Simon |last=Evans |title=Champions League final tops Super Bowl in TV survey |url=https://www.reuters.com/article/idUSTRE60U19U20100131 |work=Reuters |date=31 January 2010 |access-date=15 April 2010}}</ref>
+
+[[File:Etoo Joan Gamper Trophy 2008.jpg|thumb|upright|[[Samuel Eto'o]] scored the opening goal in the 10th minute of the game.|alt=A black man wearing a blue-and-red halved shirt and blue shorts.]]
+
+In the United Kingdom, [[bookmaker]]s made a profit from bets on a Manchester United victory. [[William Hill (bookmaker)|William Hill]] reported two bets of around £20,000 placed on Manchester United, while [[Paddy Power]] received one of £5,500 and [[Ladbrokes]] one of £3,000. Ladbrokes also took a bet of £10,000 on a Barcelona win, but bookmakers reported that most of the money was put on Manchester United. Extrabet.com paid out £12,000 to a £3,000 bet on Samuel Eto'o to score the first goal at odds of 4–1.<ref>{{cite news |first=Dan |last=Roebuck |title=Barcelona triumph keeps the bookies happy |url=https://www.theguardian.com/football/2009/may/28/champions-league-final-betting |work=The Guardian |date=28 May 2009 |access-date=8 September 2009}}</ref>
+
+===Rewards===
+Both teams received significant financial rewards; for winning the final, Barcelona won €7&nbsp;million in prize money, and Manchester United received €4&nbsp;million as runners-up.<ref name="distribution" /> Despite losing the match, Manchester United earned the most money overall from their 2008–09 Champions League campaign, receiving €38.281&nbsp;million compared to Barcelona's €30.968&nbsp;million, due to their share of the market pool, based on the value of the television market in their home countries.<ref name="distribution"/>
+
+As winners of the UEFA Champions League, Barcelona competed in the [[2009 UEFA Super Cup]], in which they beat [[2008–09 UEFA Cup]] winners [[FC Shakhtar Donetsk|Shakhtar Donetsk]] 1–0 at [[Stade Louis II]] in Monaco on 28 August 2009,<ref name="super_cup"/> and in the [[2009 FIFA Club World Cup]] in [[Abu Dhabi]],<ref name="club_world_cup"/> where they beat [[Estudiantes de La Plata|Estudiantes]] of Argentina in the final.<ref>{{cite news |title=Barcelona beat Estudiantes to win the Club World Cup |url=https://news.bbc.co.uk/sport2/hi/football/8422908.stm |work=BBC Sport |date=19 December 2009 |access-date=6 February 2010}}</ref>
+
+==See also==
+*[[1991 European Cup Winners' Cup final]] – contested by same teams
+*[[2011 UEFA Champions League final]] – contested by same teams
+*[[2008–09 FC Barcelona season]]
+*[[2008–09 Manchester United F.C. season]]
+*[[2009 UEFA Cup final]]
+*[[2009 UEFA Women's Cup final]]
+*[[FC Barcelona in international football]]
+*[[Manchester United F.C. in international football]]
+*[[Messi–Ronaldo rivalry]]
+
+==References==
+'''General'''
+*{{cite video |people=Nick Simons, [[Steve Archibald]] (commentators) |date=27 July 2009 |title=UEFA Champions League Final 2009: FC Barcelona v Manchester United |medium=DVD |publisher=FC Barcelona |asin=B002FYAGEE |asin-tld=co.uk}}
+
+'''Specific'''
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20160120170846/http://en.archive.uefa.com/competitions/ucl/history/season=2009/intro.html Official site] (Archived)
+
+{{UEFA Champions League seasons}}
+{{2008–09 in European Football (UEFA)}}
+{{FC Barcelona matches}}
+{{Manchester United F.C. matches}}
+
+{{good article}}
+
+{{DEFAULTSORT:2009 Uefa Champions League final}}
+[[Category:UEFA Champions League finals]]
+[[Category:2008–09 UEFA Champions League|Final]]
+[[Category:Football matches in Italy|European Cup Final 2009]]
+[[Category:2008–09 in Italian football|Champions League Final]]
+[[Category:Manchester United F.C. matches|European Cup Final 2009]]
+[[Category:FC Barcelona matches|European Cup Final 2009]]
+[[Category:2008–09 in Spanish men's football|Champions League Final]]
+[[Category:2008–09 in English men's football|Champions League Final]]
+[[Category:May 2009 sports events in Italy]]
+[[Category:Football competitions in Rome]]
+[[Category:2000s in Rome]]
+[[Category:Spain–United Kingdom sports relations|2009]]

@@ -1,0 +1,527 @@
+{{Use dmy dates|date=November 2017}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2015
+| other_titles   = FIFA Club World Cup Japan 2015<br />presented by Alibaba E-Auto<br />Alibaba E-Auto プレゼンツ<br />FIFAクラブワールドカップ ジャパン2015
+| image          = 2015 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA trophy}}
+| country        = Japan
+| dates          = 10–20 December
+| num_teams      = 7
+| confederations = 6
+| venues         = 2
+| cities         = 2
+| champion_other = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| count          = 3
+| second_other   = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+| third_other    = {{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+| fourth_other   = {{nowrap|{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]}}
+| matches        = 8
+| goals          = 21
+| attendance     = {{#expr: <!--Play-off-->+ 19421 <!--Quarter-finals-->+ 18772 + 23609 <!--5th place match-->+ 11686 <!--Semi-finals-->+ 20133 + 63870 <!--3rd place match-->+ 47968 <!--Final-->+ 66853}}
+| top_scorer     = [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] (Barcelona)<br />5 goals
+| player         = [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] (Barcelona)
+| fair_play      = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| prevseason     = [[2014 FIFA Club World Cup|2014]]
+| nextseason     = [[2016 FIFA Club World Cup|2016]]
+}}
+The '''2015 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup Japan 2015 presented by Alibaba E-Auto''' for sponsorship reasons)<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/y=2015/m=12/news=alibaba-e-auto-signs-as-presenting-partner-of-the-fifa-club-world-cup-2743056.html|archive-url=https://web.archive.org/web/20151211021029/http://www.fifa.com/clubworldcup/news/y=2015/m=12/news=alibaba-e-auto-signs-as-presenting-partner-of-the-fifa-club-world-cup-2743056.html|url-status=dead|archive-date=11 December 2015 |title=Alibaba E-Auto signs as Presenting Partner of the FIFA Club World Cup |website=FIFA.com |date=9 December 2015}}</ref> was the 12th edition of the [[FIFA Club World Cup]], a [[FIFA]]-organised international club [[association football|football]] tournament between the winners of the six continental confederations, as well as the host nation's league champions.<ref name="regulations">{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/70/28/09/fcwcreg2015en_neutral.pdf|archive-url=https://web.archive.org/web/20151126173136/http://resources.fifa.com/mm/document/tournament/competition/02/70/28/09/fcwcreg2015en_neutral.pdf|url-status=dead|archive-date=26 November 2015 |title=Regulations – FIFA Club World Cup Japan 2015 |publisher=FIFA}}</ref> The tournament was hosted by Japan between 10 and 20 December 2015.<ref name="hosts">{{cite web |url=https://www.fifa.com/about-fifa/news/y=2015/m=4/news=japan-set-to-host-continental-champions-in-2015-and-2016-2593526.html|archive-url=https://web.archive.org/web/20150425065733/http://www.fifa.com/about-fifa/news/y=2015/m=4/news=japan-set-to-host-continental-champions-in-2015-and-2016-2593526.html|url-status=dead|archive-date=25 April 2015 |title=Japan set to host continental champions in 2015 and 2016 |website=FIFA.com |date=23 April 2015}}</ref>
+
+Defending champions [[Real Madrid CF|Real Madrid]] did not qualify as they were eliminated in the semi-finals of the [[2014–15 UEFA Champions League]]. The eventual winners of that competition, [[FC Barcelona|Barcelona]], went on to win a record third Club World Cup title, beating [[Guangzhou F.C.|Guangzhou Evergrande]] 3–0 in the semi-finals before beating [[Club Atlético River Plate|River Plate]] by the same margin in the [[2015 FIFA Club World Cup Final|final]].
+
+==Host bids==
+The application process for the 2015–2016 as well as the 2017–2018 editions, i.e. two hosts, each hosting two years, began in February 2014.<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/newsid=2248101/index.html|archive-url=https://web.archive.org/web/20131219233246/http://www.fifa.com//clubworldcup/news/newsid=2248101/index.html|url-status=dead|archive-date=19 December 2013 |title=Blatter: A legacy for the future |website=FIFA.com |date=19 December 2013}}</ref> Member associations interested in hosting had to submit a declaration of interest by 30 March 2014, and provide the complete set of bidding documents by 25 August 2014.<ref>{{cite web |url=https://www.fifa.com/aboutfifa/organisation/news/newsid=2293621/index.html|archive-url=https://web.archive.org/web/20140306142058/http://www.fifa.com/aboutfifa/organisation/news/newsid=2293621/index.html|url-status=dead|archive-date=6 March 2014 |title=Bidding process opened for eight FIFA competitions |website=FIFA.com |date=19 December 2013}}</ref> The [[FIFA Executive Committee]] was to select the hosts at their meeting in [[Morocco]] in December 2014.<ref>{{cite web |url=http://zeenews.india.com/sports/football/india-may-get-to-host-fifa-club-world-cup_1485299.html |title=India may get to host FIFA Club World Cup |website=India.com |date=15 October 2014}}</ref> However, no such decision regarding the 2015–2016 host was made until 2015.
+
+The following countries expressed an interest in bidding to host the tournament:<ref>{{cite web |title=High interest in hosting FIFA competitions |url=https://www.fifa.com/aboutfifa/organisation/news/newsid=2336227/index.html |archive-url=https://web.archive.org/web/20140510175305/http://www.fifa.com/aboutfifa/organisation/news/newsid=2336227/index.html |url-status=dead |archive-date=10 May 2014 |website=FIFA.com |date=9 May 2014}}</ref>
+*{{fba|India}} (withdrew interest in November 2014)<ref>{{cite web |title=India not bidding for 2015 and 2016 Fifa Club World Cups |url=http://timesofindia.indiatimes.com/sports/football/top-stories/India-not-bidding-for-2015-and-2016-Fifa-Club-World-Cups/articleshow/45136849.cms |work=The Times of India |date=13 November 2014 |access-date=20 January 2015}}</ref>
+*{{fba|Japan}}
+
+Japan was officially confirmed as the host of the 2015 and [[2016 FIFA Club World Cup|2016]] tournaments on 23 April 2015.<ref name="hosts"/>
+
+==Proposed change to format==
+Under a proposed change to the competition, led by the [[Oceania Football Confederation]], the new format would mean a removal of the knockout rounds for the quarter-finals and play-off round, replacing it with two [[Round-robin tournament|round-robin]] groups of three teams, consisting of two teams from the host nation and the champions of AFC, CAF, CONCACAF, and OFC, with the group winners advancing to the semi-finals to play the champions of CONMEBOL and UEFA. This would allow for all teams to play at least two matches, avoiding the current situation where the loser of the play-off round would play only one match.<ref>{{cite news |url=http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=11366502 |title=Football: More matches likely in Club Cup |work=[[New Zealand Herald]] |date=30 November 2014 |access-date=3 December 2014}}</ref> However, this proposal was not implemented.<ref name="hosts"/>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of teams of the '''2015 FIFA Club World Cup'''.|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-34.678|long=-58.340|label_size=80|label=[[Club Atlético River Plate|River Plate]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=41.38087|long=2.122802|label_size=80|label=[[FC Barcelona|Barcelona]]|position=left}}
+<!--AFC-->
+{{Location map~|World|lat=23.33333|long=113.266667|label_size=80|label={{nowrap|[[Guangzhou F.C.|Guangzhou Evergrande]]}}|position=bottom}}
+<!--CAF-->
+{{Location map~|World|lat=-11.67837|long=27.48924|label_size=80|label={{nowrap|[[TP Mazembe]]}}|position=right}}
+<!--CONCACAF-->
+{{Location map~|World|lat=19.302911|long=-99.150442|label_size=80|label=[[Club América|América]]|position=left}}
+<!--OFC-->
+{{Location map~|World|lat=-36.898155|long=174.736487|label_size=80|label={{nowrap|[[Auckland City FC|Auckland City]]}}|position=left}}
+<!--Host-->
+{{Location map~|World|lat=34.451944|long=132.471944|label_size=80|label={{nowrap|[[Sanfrecce Hiroshima]]}}|position=left}}
+}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Qualified date
+!Participation (bold indicates winners)
+|-
+!colspan=5|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|[[CONMEBOL]]
+|Winners of the [[2015 Copa Libertadores]]
+|22 July 2015{{refn|group=note|River Plate qualified as the CONMEBOL representatives on 22 July 2015 when [[Tigres UANL|UANL]], who are from Mexico and not eligible to represent CONMEBOL in the FIFA Club World Cup, were confirmed as their opponents in the final.}}
+|Debut
+|-
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|[[UEFA]]
+|Winners of the [[2014–15 UEFA Champions League]]
+|6 June 2015
+|4th {{small|(Previous: [[2006 FIFA Club World Cup|2006]], '''[[2009 FIFA Club World Cup|2009]]''', '''[[2011 FIFA Club World Cup|2011]]''')}}
+|-
+!colspan=5|Entering in the [[#Quarter-finals|quarter-finals]]
+|-
+|{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2015 AFC Champions League]]
+|21 November 2015
+|2nd {{small|(Previous: [[2013 FIFA Club World Cup|2013]])}}
+|-
+|{{fbaicon|COD}} [[TP Mazembe]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2015 CAF Champions League]]
+|8 November 2015
+|3rd {{small|(Previous: [[2009 FIFA Club World Cup|2009]], [[2010 FIFA Club World Cup|2010]])}}
+|-
+|{{fbaicon|MEX}} [[Club América|América]]
+|[[CONCACAF]]
+|Winners of the [[2014–15 CONCACAF Champions League]]
+|29 April 2015
+|2nd {{small|(Previous: [[2006 FIFA Club World Cup|2006]])}}
+|-
+!colspan=5|Entering in the [[#Play-off for quarter-finals|play-off for quarter-finals]]
+|-
+|{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2014–15 OFC Champions League]]
+|26 April 2015
+|7th {{small|(Previous: [[2006 FIFA Club World Cup|2006]], [[2009 FIFA Club World Cup|2009]], [[2011 FIFA Club World Cup|2011]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]], [[2014 FIFA Club World Cup|2014]])}}
+|-
+|{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|[[Asian Football Confederation|AFC]] ([[Japan Football Association|host]])
+|Winners of the [[2015 J1 League]]
+|5 December 2015
+|2nd {{small|(Previous: [[2012 FIFA Club World Cup|2012]])}}
+|}
+'''Notes'''
+{{reflist|group=note}}
+
+==Venues==
+On 22 May 2015, [[Nagai Stadium]] in [[Osaka]] and [[International Stadium Yokohama]] in [[Yokohama]] were named as the two venues that would be used in the tournament.<ref>{{cite web |url=https://www.fifa.com/news/y=2015/m=5/news=osaka-to-debut-as-a-fifa-club-world-cup-venue-2607393.html|archive-url=https://web.archive.org/web/20150522135202/http://www.fifa.com/news/y=2015/m=5/news=osaka-to-debut-as-a-fifa-club-world-cup-venue-2607393.html|url-status=dead|archive-date=22 May 2015 |title=Osaka to debut as a FIFA Club World Cup venue |website=FIFA.com |date=22 May 2015}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! [[Osaka]]
+!rowspan=5|{{location map+ |Japan |float=center |width=250 |caption= |places=
+{{location map~ |Japan |lat=34.614119 |long=135.51845 |label=[[Osaka]] |position=left}}
+{{location map~ |Japan |lat=35.510044 |long=139.606247 |label=[[Yokohama]] |position=top}}}}
+! [[Yokohama]]
+|-
+| [[Nagai Stadium]]
+| [[International Stadium Yokohama]]
+|-
+| <small>{{Coord|34|36|50.83|N|135|31|6.42|E|type:landmark_source:dewiki|display=inline|name=Nagai Stadium}}</small>
+| <small>{{Coord|35|30|35|N|139|36|20|E|type:landmark|display=inline|name=International Stadium Yokohama}}</small>
+|-
+| Capacity: '''47,000'''
+| Capacity: '''72,327'''
+|-
+| [[File:Nagai stadium20040717.jpg|200px]]
+| [[File:NISSANSTADIUM20080608.JPG|200px]]
+|}
+
+==Match officials==
+The appointed match officials were:<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/y=2015/m=11/news=referees-and-assistant-referees-selected-2731609.html|archive-url=https://web.archive.org/web/20151112184549/http://www.fifa.com/clubworldcup/news/y=2015/m=11/news=referees-and-assistant-referees-selected-2731609.html|url-status=dead|archive-date=12 November 2015 |title=Referees and assistant referees selected |date=10 November 2015}}</ref><ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/73/16/14/refereesfcwc2015_neutral.pdf |title=Referees & Assistant referees for FIFA Club World Cup Japan 2015 |website=FIFA.com|access-date=10 November 2015|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303220618/http://resources.fifa.com/mm/document/tournament/competition/02/73/16/14/refereesfcwc2015_neutral.pdf|url-status=dead}}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+|-
+|[[Asian Football Confederation|AFC]]
+|[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+|Reza Sokhandan ([[Football Federation Islamic Republic of Iran|Iran]])<br>Mohammadreza Mansouri ([[Football Federation Islamic Republic of Iran|Iran]])
+|-
+|[[Confederation of African Football|CAF]]
+|[[Sidi Alioum]] ([[Cameroonian Football Federation|Cameroon]])
+|Evarist Menkouande ([[Cameroonian Football Federation|Cameroon]])<br>Elvis Guy Noupue Nguegoue ([[Cameroonian Football Federation|Cameroon]])
+|-
+|[[CONCACAF]]
+|[[Joel Aguilar]] ([[Salvadoran Football Federation|El Salvador]])
+|Juan Francisco Zumba ([[Salvadoran Football Federation|El Salvador]])<br>Marvin César Torrentera ([[Mexican Football Federation|Mexico]])
+|-
+|[[CONMEBOL]]
+|[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|Alexander Guzmán ([[Colombian Football Federation|Colombia]])<br>Cristian Jairo de la Cruz ([[Colombian Football Federation|Colombia]])
+|-
+|[[Oceania Football Confederation|OFC]]
+|[[Matthew Conger]] ([[New Zealand Football|New Zealand]])
+|Simon Lount ([[New Zealand Football|New Zealand]])<br>Tevita Makasini ([[Tonga Football Association|Tonga]])
+|-
+|[[UEFA]]
+|[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|Mathias Klasenius ([[Swedish Football Association|Sweden]])<br>Daniel Wärnmark ([[Swedish Football Association|Sweden]])
+|-
+|[[Japan Football Association|Host]] (support)
+|[[Ryuji Sato]] ([[Japan Football Association|Japan]])
+|Akane Yagi ([[Japan Football Association|Japan]])
+|}
+
+==Squads==
+{{main|2015 FIFA Club World Cup squads}}
+
+Each team had to name a 23-man squad (three of whom had to be goalkeepers) by the FIFA deadline of 30 November 2015. The squads of six of the seven teams were released by FIFA on 3 December 2015 (except Sanfrecce Hiroshima, who only confirmed their place in the tournament on 5 December 2015).<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/y=2015/m=12/news=squad-lists-released-for-club-world-cup-2741686.html|archive-url=https://web.archive.org/web/20151203223136/http://www.fifa.com/clubworldcup/news/y=2015/m=12/news=squad-lists-released-for-club-world-cup-2741686.html|url-status=dead|archive-date=3 December 2015 |title=Squad lists released for Club World Cup |website=FIFA.com |date=3 December 2015}}</ref><ref>{{cite web |url=http://www.fifadata.com/document/FCWC/2015/pdf/FCWC_2015_SquadLists.pdf |title=FIFA Club World Cup Japan 2015 – Squad Lists |website=FIFA.com|access-date=6 December 2015|archive-url=https://web.archive.org/web/20151211024602/http://fifadata.com/document/FCWC/2015/pdf/FCWC_2015_SquadLists.pdf|archive-date=11 December 2015|url-status=dead}}</ref> Injury replacements were allowed until 24 hours before the team's first match.<ref name="regulations"/>
+
+==Matches==
+The schedule of the tournament, together with the emblem, was unveiled on 24 August 2015.<ref name="ticketing">{{cite web |url=http://l-tike.com/fcwc2015-en/index.html |title=Tickets for the FIFA Club World Cup Japan 2015|access-date=24 August 2015|archive-url=https://web.archive.org/web/20150923163750/http://l-tike.com/fcwc2015-en/index.html|archive-date=23 September 2015|url-status=dead}}</ref><ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/y=2015/m=8/news=japan-reveals-official-emblem-for-fifa-club-world-cup-2672132.html|archive-url=https://web.archive.org/web/20150825164725/http://www.fifa.com/clubworldcup/news/y=2015/m=8/news=japan-reveals-official-emblem-for-fifa-club-world-cup-2672132.html|url-status=dead|archive-date=25 August 2015 |title=Japan Reveals Official Emblem for FIFA Club World Cup |publisher=FIFA |date=24 August 2015}}</ref>
+
+A draw was held on 23 September 2015, 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]), at the FIFA headquarters in [[Zürich]], [[Switzerland]], to determine the positions in the bracket for the three teams which enter the quarter-finals.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/y=2015/m=9/news=the-draw-live-on-fifa-com-2692134.html|archive-url=https://web.archive.org/web/20150925023832/http://www.fifa.com/clubworldcup/news/y=2015/m=9/news=the-draw-live-on-fifa-com-2692134.html|url-status=dead|archive-date=25 September 2015 |title=The draw LIVE on FIFA.com |date=22 September 2015}}</ref><ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/y=2015/m=9/news=draw-for-japan-2015-conducted-in-zurich-2695963.html|archive-url=https://web.archive.org/web/20150925114918/http://www.fifa.com/clubworldcup/news/y=2015/m=9/news=draw-for-japan-2015-conducted-in-zurich-2695963.html|url-status=dead|archive-date=25 September 2015 |title=Draw for Japan 2015 conducted in Zurich |publisher=FIFA |date=23 September 2015}}</ref>
+
+If a match was tied after normal playing time:<ref name="regulations"/>
+*For elimination matches, [[Overtime (sports)#Association football|extra time]] was played. If still tied after extra time, a [[Penalty shoot-out (association football)|penalty shoot-out]] was held to determine the winner.
+*For the matches for fifth place and third place, no extra time was played, and a penalty shoot-out was held to determine the winner.
+
+{{7TeamBracket-StepladderToSF
+| style       = 5
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#Play-off for quarter-finals|Play-off for quarter-finals]]
+| RD2         = [[#Quarter-finals|Quarter-finals]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD3b        = [[#Match for fifth place|Match for fifth place]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- Play-off for quarter-finals -->
+| RD1-text1    = 10 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD1-team1    = {{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+| RD1-score1   = 2
+| RD1-team2    = {{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+| RD1-score2   = 0
+
+<!-- Quarter-finals -->
+| RD2-text1    = 13 December – [[Nagai Stadium|Osaka]]
+| RD2-team1    = {{fbaicon|COD}} [[TP Mazembe]]
+| RD2-score1   = 0
+| RD2-team2    = {{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+| RD2-score2   = 3
+
+| RD2-text2    = 13 December – [[Nagai Stadium|Osaka]]
+| RD2-team3    = {{fbaicon|MEX}} [[Club América|América]]
+| RD2-score3   = 1
+| RD2-team4    = {{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+| RD2-score4   = 2
+
+<!-- Semi-finals -->
+| RD3-text1    = 16 December – [[Nagai Stadium|Osaka]]
+| RD3-team1    = {{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+| RD3-score1   = 0
+| RD3-team2    = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD3-score2   = 1
+
+| RD3-text2    = 17 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD3-team3    = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| RD3-score3   = 3
+| RD3-team4    = {{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+| RD3-score4   = 0
+
+<!-- Final -->
+| RD4-text1    = 20 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD4-team1    = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD4-score1   = 0
+| RD4-team2    = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| RD4-score2   = 3
+
+<!-- Match for fifth place -->
+| RD3-text3    = 16 December – [[Nagai Stadium|Osaka]]
+| RD3-team5    = {{fbaicon|MEX}} [[Club América|América]]
+| RD3-score5   = 2
+| RD3-team6    = {{fbaicon|COD}} [[TP Mazembe]]
+| RD3-score6   = 1
+
+<!-- Match for third place -->
+| RD4-text2    = 20 December – [[Nissan Stadium (Yokohama)|Yokohama]]
+| RD4-team3    = {{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+| RD4-score3   = 2
+| RD4-team4    = {{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+| RD4-score4   = 1
+}}
+
+All times are local, [[Japan Standard Time|JST]] ([[UTC+09:00|UTC+9]]).<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/69/63/16/fcwc2015_matchschedule_08122015_neutral.pdf |title=Match Schedule – FIFA Club World Cup Japan 2015 |website=FIFA.com|access-date=10 December 2015|archive-date=4 March 2016|archive-url=https://web.archive.org/web/20160304101355/http://resources.fifa.com/mm/document/tournament/competition/02/69/63/16/fcwc2015_matchschedule_08122015_neutral.pdf|url-status=dead}}</ref>
+
+===Play-off for quarter-finals===
+{{Football box
+|date={{Start date|2015|12|10|df=y}}
+|time=19:45
+|team1=[[Sanfrecce Hiroshima]] {{fbaicon|JPN}}
+|score=2–0
+|team2={{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|report=https://www.fifa.com/en/match-centre/match/107/275724/275778/300338751
+|goals1=
+*[[Yusuke Minagawa|Minagawa]] {{goal|9}}
+*[[Tsukasa Shiotani|Shiotani]] {{goal|70}}
+|goals2=
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=19,421<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/74/34/29/eng_01_1210_sfc-akl_fulltime.pdf |archive-url=https://web.archive.org/web/20151218201230/http://resources.fifa.com/mm/document/tournament/competition/02/74/34/29/eng_01_1210_sfc-akl_fulltime.pdf |url-status=dead |archive-date=18 December 2015 |title=Match report Sanfrecce Hiroshima – Auckland City FC 2:0 (1:0) |work=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=10 December 2015 |access-date=10 December 2015}}</ref>
+|referee=[[Sidi Alioum]] ([[Cameroonian Football Federation|Cameroon]])
+}}
+
+===Quarter-finals===
+{{Football box
+|date={{Start date|2015|12|13|df=y}}
+|time=16:00
+|team1=[[Club América|América]] {{fbaicon|MEX}}
+|score=1–2
+|team2={{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|report=https://www.fifa.com/en/match-centre/match/107/275724/275776/300338754
+|goals1=
+*[[Oribe Peralta|Peralta]] {{goal|55}}
+|goals2=
+*[[Zheng Long]] {{goal|80}}
+*[[Paulinho (footballer, born July 1988)|Paulinho]] {{goal|90+3}}
+|stadium=[[Nagai Stadium]], [[Osaka]]
+|attendance=18,772<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/74/41/74/eng_02_1213_cfa-gze_fulltime.pdf |archive-url=https://web.archive.org/web/20151218202251/http://resources.fifa.com/mm/document/tournament/competition/02/74/41/74/eng_02_1213_cfa-gze_fulltime.pdf |url-status=dead |archive-date=18 December 2015 |title=Match report Club América – Guangzhou Evergrande FC 1:2 (0:0) |work=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=13 December 2015 |access-date=13 December 2015}}</ref>
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+}}
+----
+{{Football box
+|date={{Start date|2015|12|13|df=y}}
+|time=19:30
+|team1=[[TP Mazembe]] {{fbaicon|COD}}
+|score=0–3
+|team2={{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|report=https://www.fifa.com/en/match-centre/match/107/275724/275776/300338749
+|goals1=
+|goals2=
+*[[Tsukasa Shiotani|Shiotani]] {{goal|44}}
+*[[Kazuhiko Chiba|Chiba]] {{goal|56}}
+*[[Takuma Asano|Asano]] {{goal|78}}
+|stadium=[[Nagai Stadium]], [[Osaka]]
+|attendance=23,609<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/74/43/34/eng_03_1213_tpm-sfc_fulltime.pdf |archive-url=https://web.archive.org/web/20151218202745/http://resources.fifa.com/mm/document/tournament/competition/02/74/43/34/eng_03_1213_tpm-sfc_fulltime.pdf |url-status=dead |archive-date=18 December 2015 |title=Match report TP Mazembe – Sanfrecce Hiroshima 0:3 (0:1) |work=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=13 December 2015 |access-date=13 December 2015}}</ref>
+|referee=[[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+}}
+
+===Match for fifth place===
+{{Football box
+|date={{Start date|2015|12|16|df=y}}
+|time=16:30
+|team1=[[Club América|América]] {{fbaicon|MEX}}
+|score=2–1
+|team2={{fbaicon|COD}} [[TP Mazembe]]
+|report=https://www.fifa.com/en/match-centre/match/107/275724/275788/300338753
+|goals1=
+*[[Darío Benedetto|Benedetto]] {{goal|19}}
+*[[Martín Zúñiga (footballer, born 1993)|Zúñiga]] {{goal|28}}
+|goals2=
+*[[Rainford Kalaba|Kalaba]] {{goal|43}}
+|stadium=[[Nagai Stadium]], [[Osaka]]
+|attendance=11,686<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/74/54/60/eng_04_1216_cfa-tpm_fulltime.pdf |archive-url=https://web.archive.org/web/20151218202828/http://resources.fifa.com/mm/document/tournament/competition/02/74/54/60/eng_04_1216_cfa-tpm_fulltime.pdf |url-status=dead |archive-date=18 December 2015 |title=Match report Club América – TP Mazembe 2:1 (2:1) |work=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=16 December 2015 |access-date=16 December 2015}}</ref>
+|referee=[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+}}
+
+===Semi-finals===
+{{Football box
+|date={{Start date|2015|12|16|df=y}}
+|time=19:30
+|team1=[[Sanfrecce Hiroshima]] {{fbaicon|JPN}}
+|score=0–1
+|team2={{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|report=https://www.fifa.com/en/match-centre/match/107/275724/275782/300338748
+|goals1=
+|goals2=
+*[[Lucas Alario|Alario]] {{goal|72}}
+|stadium=[[Nagai Stadium]], [[Osaka]]
+|attendance=20,133<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/74/55/83/eng_05_1216_sfc-car_fulltime.pdf |archive-url=https://web.archive.org/web/20151218203543/http://resources.fifa.com/mm/document/tournament/competition/02/74/55/83/eng_05_1216_sfc-car_fulltime.pdf |url-status=dead |archive-date=18 December 2015 |title=Match report Sanfrecce Hiroshima – River Plate 0:1 (0:0) |work=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=16 December 2015 |access-date=16 December 2015}}</ref>
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+}}
+----
+{{Football box
+|date={{Start date|2015|12|17|df=y}}
+|time=19:30
+|team1=[[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score=3–0
+|team2={{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|report=https://www.fifa.com/en/match-centre/match/107/275724/275782/300338752
+|goals1=
+*[[Luis Suárez (Uruguayan footballer)|Suárez]] {{goal|39||50||67|pen.}}
+|goals2=
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=63,870<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/74/60/72/eng_06_1217_fcb-gze_fulltime.pdf |archive-url=https://web.archive.org/web/20151218203719/http://resources.fifa.com/mm/document/tournament/competition/02/74/60/72/eng_06_1217_fcb-gze_fulltime.pdf |url-status=dead |archive-date=18 December 2015 |title=Match report FC Barcelona – Guangzhou Evergrande FC 3:0 (1:0) |work=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=17 December 2015 |access-date=17 December 2015}}</ref>
+|referee=[[Joel Aguilar]] ([[Salvadoran Football Federation|El Salvador]])
+}}
+
+===Match for third place===
+{{Football box
+|date={{Start date|2015|12|20|df=y}}
+|time=16:00
+|team1=[[Sanfrecce Hiroshima]] {{fbaicon|JPN}}
+|score=2–1
+|team2={{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|report=https://www.fifa.com/en/match-centre/match/107/275724/275786/300338747
+|goals1=
+*[[Douglas (footballer, born 1987)|Douglas]] {{goal|70||83}}
+|goals2=
+*[[Paulinho (footballer, born July 1988)|Paulinho]] {{goal|4}}
+|stadium=[[International Stadium Yokohama]], [[Yokohama]]
+|attendance=47,968<ref>{{cite web |url=http://resources.fifa.com/mm/document/tournament/competition/02/74/68/94/eng_07_1220_sfc-gze_fulltime.pdf |archive-url=https://web.archive.org/web/20151220150915/http://resources.fifa.com/mm/document/tournament/competition/02/74/68/94/eng_07_1220_sfc-gze_fulltime.pdf |url-status=dead |archive-date=20 December 2015 |title=Match report Sanfrecce Hiroshima – Guangzhou Evergrande FC 2:1 (0:1) |work=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=20 December 2015 |access-date=20 December 2015}}</ref>
+|referee=[[Matt Conger]] ([[New Zealand Football|New Zealand]])
+}}
+
+===Final===
+{{main|2015 FIFA Club World Cup final}}
+{{:2015 FIFA Club World Cup final}}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|1
+|style="text-align:left"|{{flagicon|URU}} [[Luis Suárez (Uruguayan footballer)|Luis Suárez]]
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|5
+|-
+|rowspan=3|2
+|style="text-align:left"|{{flagicon|BRA}} [[Paulinho (footballer, born July 1988)|Paulinho]]
+|style="text-align:left"|{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|rowspan=3|2
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Douglas (footballer, born 1987)|Douglas]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Tsukasa Shiotani]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|-
+|rowspan=10|5
+|style="text-align:left"|{{flagicon|ARG}} [[Darío Benedetto]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club América|América]]
+|rowspan=10|1
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Oribe Peralta]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club América|América]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Martín Eduardo Zúñiga]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club América|América]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Lionel Messi]]
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|style="text-align:left"|{{flagicon|CHN}} [[Zheng Long]]
+|style="text-align:left"|{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|-
+|style="text-align:left"|{{flagicon|ZAM}} [[Rainford Kalaba]]
+|style="text-align:left"|{{fbaicon|COD}} [[TP Mazembe]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Lucas Alario]]
+|style="text-align:left"|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Takuma Asano]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Kazuhiko Chiba]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Yusuke Minagawa]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|}
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+The following awards were given at the conclusion of the tournament.<ref>{{cite web |title=Barcelona trio sweep awards |url=https://www.fifa.com/clubworldcup/news/y=2015/m=12/news=barcelona-trio-raumt-ab-2747108-2747184.html|archive-url=https://web.archive.org/web/20151220152446/http://www.fifa.com/clubworldcup/news/y=2015/m=12/news=barcelona-trio-raumt-ab-2747108-2747184.html|url-status=dead|archive-date=20 December 2015 |website=FIFA.com|access-date=20 December 2015 |language=en-GB |date=20 December 2015}}</ref>
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Alibaba Group|Alibaba]] E-Auto Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|URU}} [[Luis Suárez (Uruguayan footballer)|Luis Suárez]]<br />([[FC Barcelona|Barcelona]])
+|{{flagicon|ARG}} [[Lionel Messi]]<br />([[FC Barcelona|Barcelona]])
+|{{flagicon|ESP}} [[Andrés Iniesta]]<br />([[FC Barcelona|Barcelona]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|}
+
+FIFA also named a [[man of the match]] for the best player in each game at the tournament.<ref name="2015 TR">{{cite web |url=https://digitalhub.fifa.com/m/7b39612ce9f3e3e5/original/cyvdhixzulx7d9ujsh5o-pdf.pdf |title=FIFA Club World Cup Japan 2015: Technical report and statistics |work=[[FIFA]] |access-date=12 February 2021}}</ref>
+
+{| class="wikitable sortable"
+|+ [[Alibaba Group|Alibaba]] E-Auto Match Award
+|-
+! Match
+! Man of the match
+! Club
+! Opponent
+|-
+!1
+|{{flagicon|BRA}} [[Douglas (footballer, born 1987)|Douglas]]||{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]||{{fbaicon|NZL}} [[Auckland City FC|Auckland City]]
+|-
+!2
+|{{flagicon|BRA}} [[Paulinho (footballer, born July 1988)|Paulinho]]||{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]||{{fbaicon|MEX}} [[Club América|América]]
+|-
+!3
+|{{flagicon|JPN}} [[Kazuyuki Morisaki]]||{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]||{{fbaicon|COD}} [[TP Mazembe]]
+|-
+!4
+|{{flagicon|PAR}} [[Osvaldo Martínez]]||{{fbaicon|MEX}} [[Club América|América]]||{{fbaicon|COD}} [[TP Mazembe]]
+|-
+!5
+|{{flagicon|ARG}} [[Lucas Alario]]||{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]||{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]
+|-
+!6
+|{{flagicon|URU}} [[Luis Suárez (Uruguayan footballer)|Luis Suárez]]||{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]||{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|-
+!7
+|{{flagicon|JPN}} [[Takuma Asano]]||{{fbaicon|JPN}} [[Sanfrecce Hiroshima]]||{{fbaicon|CHN}} [[Guangzhou F.C.|Guangzhou Evergrande]]
+|-
+!8
+|{{flagicon|URU}} [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] (2)||{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]||{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.fifa.com/tournaments/mens/clubworldcup/japan2015 FIFA Club World Cup Japan 2015], FIFA.com
+*[https://web.archive.org/web/20160307161057/http://www.fifa.com/mm/Document/FootballDevelopment/TechnicalSupport/02/76/39/98/FCWCJapan2015web_Neutral.pdf FIFA Technical Report]
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2015 FIFA Club World Cup| ]]
+[[Category:2015 in men's association football|Club World Cup]]
+[[Category:Football club competitions in Japan]]
+[[Category:2015 in Japanese football]]
+[[Category:FIFA Club World Cup tournaments|2015]]
+[[Category:Football in Osaka]]
+[[Category:Football in Yokohama]]
+[[Category:2010s in Yokohama]]
+[[Category:21st century in Osaka]]
+[[Category:Sports competitions in Osaka]]
+[[Category:Sports competitions in Yokohama]]
+[[Category:2015–16 in New Zealand association football]]
+[[Category:2015–16 in Mexican football]]
+[[Category:2015–16 in Spanish men's football]]
+[[Category:2015 in Argentine football]]
+[[Category:2015 in Chinese men's football]]
+[[Category:2015 in Democratic Republic of the Congo sport]]

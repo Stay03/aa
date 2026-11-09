@@ -1,0 +1,33 @@
+club,subset,n,wins_observed,wins_expected,obs_minus_exp,sd_under_null,exact_p_two_sided
+Chelsea,all finals with estimate,2,2.0,1.34,0.66,0.65,0.5398
+Chelsea,referee_english=False,1,1.0,0.57,0.43,0.49,1.0
+Chelsea,referee_english=True,1,1.0,0.77,0.23,0.42,1.0
+Chelsea,DIFF in mean(O-E): referee_english=False minus referee_english=True,2,,,0.195,,1.0
+Chelsea,competition_type=European,1,1.0,0.57,0.43,0.49,1.0
+Chelsea,competition_type=domestic,1,1.0,0.77,0.23,0.42,1.0
+Chelsea,DIFF in mean(O-E): competition_type=European minus competition_type=domestic,2,,,0.195,,1.0
+Chelsea,var_in_use=False,2,2.0,1.34,0.66,0.65,0.5398
+Chelsea,opponent_type=English,1,1.0,0.77,0.23,0.42,1.0
+Chelsea,opponent_type=foreign,1,1.0,0.57,0.43,0.49,1.0
+Chelsea,DIFF in mean(O-E): opponent_type=English minus opponent_type=foreign,2,,,-0.195,,1.0
+Chelsea,venue_category=Neutral venue abroad,1,1.0,0.57,0.43,0.49,1.0
+Chelsea,venue_category=Wembley (London),1,1.0,0.77,0.23,0.42,1.0
+Manchester City,all finals with estimate,1,1.0,0.89,0.11,0.31,1.0
+Manchester City,referee_english=True,1,1.0,0.89,0.11,0.31,1.0
+Manchester City,competition_type=domestic,1,1.0,0.89,0.11,0.31,1.0
+Manchester City,var_in_use=False,1,1.0,0.89,0.11,0.31,1.0
+Manchester City,opponent_type=English,1,1.0,0.89,0.11,0.31,1.0
+Manchester City,venue_category=Wembley (London),1,1.0,0.89,0.11,0.31,1.0
+ALL FIVE (pooled),all finals with estimate,3,3.0,2.23,0.77,0.72,0.5419
+ALL FIVE (pooled),referee_english=False,1,1.0,0.57,0.43,0.49,1.0
+ALL FIVE (pooled),referee_english=True,2,2.0,1.66,0.34,0.53,1.0
+ALL FIVE (pooled),DIFF in mean(O-E): referee_english=False minus referee_english=True,3,,,0.255,,0.3328
+ALL FIVE (pooled),competition_type=European,1,1.0,0.57,0.43,0.49,1.0
+ALL FIVE (pooled),competition_type=domestic,2,2.0,1.66,0.34,0.53,1.0
+ALL FIVE (pooled),DIFF in mean(O-E): competition_type=European minus competition_type=domestic,3,,,0.255,,0.3301
+ALL FIVE (pooled),var_in_use=False,3,3.0,2.23,0.77,0.72,0.5419
+ALL FIVE (pooled),opponent_type=English,2,2.0,1.66,0.34,0.53,1.0
+ALL FIVE (pooled),opponent_type=foreign,1,1.0,0.57,0.43,0.49,1.0
+ALL FIVE (pooled),DIFF in mean(O-E): opponent_type=English minus opponent_type=foreign,3,,,-0.255,,0.3312
+ALL FIVE (pooled),venue_category=Neutral venue abroad,1,1.0,0.57,0.43,0.49,1.0
+ALL FIVE (pooled),venue_category=Wembley (London),2,2.0,1.66,0.34,0.53,1.0

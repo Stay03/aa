@@ -1,0 +1,219 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title              = 2016 FA Community Shield
+| image              = 2016 FA Community Shield programme.jpeg 
+| caption            = The [[Football programme|match programme]] cover
+| team1              = [[Leicester City F.C.|Leicester City]]
+| team1score         = 1
+| team2              = [[Manchester United F.C.|Manchester United]]
+| team2score         = 2
+| details            = 
+| date               = {{Start date|2016|8|7|df=y}}
+| stadium            = [[Wembley Stadium]]
+| city               = London
+| man_of_the_match1a = [[Eric Bailly]] (Manchester United)
+| referee            = [[Craig Pawson]] ([[Sheffield & Hallamshire County Football Association|South Yorkshire]])
+| attendance         = 85,437
+| previous           = [[2015 FA Community Shield|2015]]
+| next               = [[2017 FA Community Shield|2017]]
+}}
+The '''2016 FA Community Shield''' (also known as '''The FA Community Shield supported by [[McDonald's]]''' for sponsorship reasons) was the 94th [[FA Community Shield]], an annual English [[association football|football]] match played between the winners of the previous season's [[Premier League]] and [[FA Cup]]. The match was contested by [[2015–16 FA Cup]] winners [[Manchester United F.C.|Manchester United]], and [[Leicester City F.C.|Leicester City]], champions of the [[2015–16 Premier League]]. It was held at [[Wembley Stadium]] a week before the [[2016–17 Premier League|Premier League season]] kicked off. Manchester United won the match 2–1 with goals from [[Jesse Lingard]] and [[Zlatan Ibrahimović]], either side of a goal from Leicester striker [[Jamie Vardy]].
+
+[[Arsenal F.C.|Arsenal]] were the holders, having won the [[2015 FA Community Shield|2015 edition]], but did not qualify for this match, as they finished second in the [[2015–16 Premier League|Premier League]] and got knocked out of the [[2015–16 FA Cup|FA Cup]] in the sixth round.
+
+==Background==
+Leicester City qualified as champions of the [[2015–16 Premier League]]. They won the title after then-second place [[Tottenham Hotspur F.C.|Tottenham Hotspur]] drew 2–2 to [[Chelsea F.C.|Chelsea]] in [[Stamford Bridge (stadium)|Stamford Bridge]] on 2 May 2016. It was only their second FA Charity/Community Shield, first since [[1971 FA Charity Shield|1971]], when they defeated [[Liverpool F.C.|Liverpool]] 1–0. It was also the first time they played as champions/runners–up of either top division league or FA Cup winners, as they played in 1971 as Second Division champions.
+
+Manchester United qualified as winners of the [[2015–16 FA Cup]]. They defeated [[Crystal Palace F.C.|Crystal Palace]] [[2016 FA Cup final|2–1]] after extra time on 21 May 2016 to win their 12th title (tying the then-record with [[Arsenal F.C.|Arsenal]]). It was their 30th FA Charity/Community Shield, winning a record 20.
+
+The previous match between the two sides was a 1–1 draw at [[Old Trafford]] on 1 May 2016. [[Anthony Martial]] scored for United in the eighth minute, while Leicester captain [[Wes Morgan]] equalised nine minutes later.
+
+Manchester United manager [[José Mourinho]] returned to the Community Shield for the second straight year, after managing for [[Chelsea F.C.|Chelsea]] in the [[2015 FA Community Shield]].<ref>{{cite web|url=https://www.theguardian.com/football/live/2016/aug/07/leicester-city-v-manchester-united-community-shield-live|title=Leicester 1 Man Utd 2|date=7 August 2016|work=Guardian|access-date=9 August 2016}}</ref>
+
+==Match==
+===Summary===
+[[Jesse Lingard]] opened the scoring in the 32nd minute when he ran and got past three Leicester players before shooting low with his right foot past the onrushing Leicester goalkeeper [[Kasper Schmeichel]] who managed to get something on the shot but could not prevent it going into the net.<ref>{{cite web|url= http://www.the42.ie/leicester-city-manchester-united-live-2914735-Aug2016/|title=Community Shield: Leicester City 1 Manchester United 2 as it happened|date=7 August 2016|work=The 42|access-date=23 February 2017}}</ref> [[Jamie Vardy]] made it 1–1 in the 52nd minute when he intercepted [[Marouane Fellaini]]'s no-look back-pass before rounding [[David de Gea]] and slotting the ball low to the net with his left foot.<ref>{{cite web |url=https://www.telegraph.co.uk/football/2016/08/07/manchester-united-vs-leicester-city-community-shield-live-score/ |title=Community Shield: Leicester City 1 Manchester United 2 - Zlatan Ibrahimovic late header wins United's 21st Shield |date=7 August 2016 |work=Telegraph |access-date=23 February 2017 }}</ref> [[Zlatan Ibrahimović]] got the winning goal for Manchester United in the 83rd minute when he got above Leicester captain [[Wes Morgan]] and headed in from six yards out into the right corner off the post after a cross from the right by [[Antonio Valencia]].<ref>{{cite web |url=https://www.theguardian.com/football/2016/aug/07/leicester-city-manchester-united-community-shield-match-report |title=Community Shield: Manchester United beat Leicester with Ibrahimovic header |date=7 August 2016 |work=Guardian |access-date=23 February 2017 }}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date={{Start date|2016|8|7|df=y}}
+|time=16:00 [[British Summer Time|BST]]
+|team1=[[Leicester City F.C.|Leicester City]]
+|score=1–2
+|report=https://www.bbc.com/sport/football/36934956
+|team2=[[Manchester United F.C.|Manchester United]]
+|goals1=[[Jamie Vardy|Vardy]] {{goal|52}}
+|goals2=[[Jesse Lingard|Lingard]] {{goal|32}}<br />[[Zlatan Ibrahimović|Ibrahimović]] {{goal|83}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=85,437
+|referee=[[Craig Pawson]] ([[Sheffield & Hallamshire County Football Association|South Yorkshire]])<ref>{{cite news |first=Nicholas |last=Veevers |title=Craig Pawson to take charge of the FA Community Shield |url=http://www.thefa.com/news/competitions/fa-community-shield/2016/jul/craig-pawson-to-referee-fa-community-shield-070716 |website=TheFA.com |publisher=The Football Association |date=7 July 2016 |access-date=3 August 2016 }}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _leicester1617H
+ |pattern_b  = _leicester1617H
+ |pattern_ra = _leicester1617H
+ |pattern_sh = _leicester1617H
+ |pattern_so = 
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = 0000FF
+ |title      = Leicester City
+}}
+|{{Football kit
+ |pattern_la = _manutdh2016
+ |pattern_b  = _manutdh2016
+ |pattern_ra = _manutdh2016
+ |pattern_sh = _adidas_red
+ |pattern_so = _manutdh2016
+ |leftarm    = E20E0E
+ |body       = E20E0E
+ |rightarm   = E20E0E
+ |shorts     = FFFFFF
+ |socks      = 000000
+ |title      = {{nowrap|Manchester United}}
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|DEN}} [[Kasper Schmeichel]]
+|-
+|RB ||'''17'''||{{flagicon|ENG}} [[Danny Simpson]] || {{yel|40}} || {{suboff|63}}
+|-
+|CB ||'''6''' ||{{flagicon|GER}} [[Robert Huth]] || || {{suboff|89}}
+|-
+|CB ||'''5''' ||{{flagicon|JAM}} [[Wes Morgan]] ([[Captain (association football)|c]])
+|-
+|LB ||'''28'''||{{flagicon|AUT}} [[Christian Fuchs]] || || {{suboff|80}}
+|-
+|RM ||'''26'''||{{flagicon|ALG}} [[Riyad Mahrez]]
+|-
+|CM ||'''10'''||{{flagicon|WAL}} [[Andy King (footballer, born 1988)|Andy King]] || {{yel|55}} || {{suboff|62}}
+|-
+|CM ||'''4''' ||{{flagicon|ENG}} [[Danny Drinkwater]]
+|-
+|LM ||'''11'''||{{flagicon|ENG}} [[Marc Albrighton]] || || {{suboff|46}}
+|-
+|CF ||'''20'''||{{flagicon|JPN}} [[Shinji Okazaki]] || || {{suboff|46}}
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Jamie Vardy]] || {{yel|75}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''21'''||{{flagicon|GER}} [[Ron-Robert Zieler]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Luis Hernández Rodríguez|Luis Hernández]] || || {{subon|63}}
+|-
+|DF ||'''15'''||{{flagicon|GHA}} [[Jeffrey Schlupp]] || || {{subon|80}}
+|-
+|MF ||'''22'''||{{flagicon|ENG}} [[Demarai Gray]] || || {{subon|46}}
+|-
+|MF ||'''24'''||{{flagicon|FRA|1974}} [[Nampalys Mendy]] || || {{subon|62}}
+|-
+|FW ||'''7''' ||{{flagicon|NGA}} [[Ahmed Musa (footballer)|Ahmed Musa]] || || {{subon|46}}
+|-
+|FW ||'''23'''||{{flagicon|ARG}} [[Leonardo Ulloa]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Claudio Ranieri]]
+|}
+|valign="top"|[[File:Leicester City vs Manchester United 2016-08-07.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[David de Gea]]
+|-
+|RB ||'''25'''||{{flagicon|ECU}} [[Antonio Valencia]]
+|-
+|CB ||'''3''' ||{{flagicon|CIV}} [[Eric Bailly]] || {{yel|71}}
+|-
+|CB ||'''17'''||{{flagicon|NED}} [[Daley Blind]]
+|-
+|LB ||'''23'''||{{flagicon|ENG}} [[Luke Shaw]] || || {{suboff|69}}
+|-
+|CM ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]] || || {{suboff|61}}
+|-
+|CM ||'''27'''||{{flagicon|BEL}} [[Marouane Fellaini]]
+|-
+|RW ||'''14'''||{{flagicon|ENG}} [[Jesse Lingard]] || || {{suboff|63}}
+|-
+|AM ||'''10'''||{{flagicon|ENG}} [[Wayne Rooney]] ([[Captain (association football)|c]]) || || {{suboff|87}}
+|-
+|LW ||'''11'''||{{flagicon|FRA|1974}} [[Anthony Martial]] || || {{suboff|70}}
+|-
+|CF ||'''9''' ||{{flagicon|SWE}} [[Zlatan Ibrahimović]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''20'''||{{flagicon|ARG}} [[Sergio Romero]]
+|-
+|DF ||'''5''' ||{{flagicon|ARG}} [[Marcos Rojo]] || || {{subon|69}}
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Juan Mata]] || || {{subon|63}} || {{suboff|90+3}}
+|-
+|MF ||'''21'''||{{flagicon|ESP}} [[Ander Herrera]] || || {{subon|61}}
+|-
+|MF ||'''22'''||{{flagicon|ARM}} [[Henrikh Mkhitaryan]] || || || {{subon|90+3}}
+|-
+|MF ||'''28'''||{{flagicon|FRA|1974}} [[Morgan Schneiderlin]] || || {{subon|87}}
+|-
+|FW ||'''19'''||{{flagicon|ENG}} [[Marcus Rashford]] || || {{subon|70}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|POR}} [[José Mourinho]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Eric Bailly]] (Manchester United)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Stephen Child ([[Kent County Football Association|Kent]])
+<br />Lee Betts ([[Norfolk County Football Association|Norfolk]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Bobby Madley]] ([[West Riding County Football Association|West Yorkshire]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''
+*90 minutes.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores level.
+*Seven named substitutes, of which up to six may be used.
+|}
+
+==See also==
+*[[2016–17 Premier League]]
+*[[2016–17 FA Cup]]
+
+==References==
+{{reflist}}
+
+{{FA Community Shield}}
+{{2016–17 in English football}}
+{{2016–17 in European football (UEFA)}}
+{{Leicester City F.C. matches}}
+{{Manchester United F.C. matches}}
+
+{{DEFAULTSORT:2016 Fa Community Shield}}
+[[Category:FA Community Shield matches]]
+[[Category:Football matches in London]]
+[[Category:Leicester City F.C. matches|Charity Shield 2016]]
+[[Category:Manchester United F.C. matches|Charity Shield 2016]]
+[[Category:2016–17 in English men's football cups|Community Shield]]
+[[Category:2016 in sport in London|Community Shield]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:August 2016 sports events in the United Kingdom|Community Shield]]

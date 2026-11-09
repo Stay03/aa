@@ -1,0 +1,395 @@
+{{Infobox football match
+| title              = 2012 UEFA Super Cup
+| image              = 2012 UEFA Super Cup match programme.jpg
+| caption            = Match programme cover
+| team1              = [[Chelsea F.C.|Chelsea]]
+| team1association   = {{fbaicon|ENG|size=30px}}
+| team1score         = 1
+| team2              = [[Atlético Madrid]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 4
+| details            = 
+| date               = 31 August 2012
+| stadium            = [[Stade Louis II]]
+| city               = [[Monaco]]
+| man_of_the_match1a = [[Radamel Falcao]] {{nowrap|(Atlético Madrid)}}<ref name="postmatch">{{cite web |title=Falcao fires Atlético to Super Cup glory |url=https://www.uefa.com/uefasupercup/news/0250-0c50fa589096-8b8c4d40d72f-1000--falcao-fires-atletico-to-super-cup-glory/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=31 August 2012 |access-date=1 September 2012 }}</ref>
+| referee            = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])<ref name="referee">{{cite news|title=Referee Skomina appointed for UEFA Super Cup |url=https://www.uefa.com/news-media/news/0250-0c50fc23a7b4-afcfa007c1e0-1000--referee-skomina-appointed-for-uefa-super-cup/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=29 August 2012 |access-date=29 August 2012 |url-status=live |archive-url=https://web.archive.org/web/20120830175357/http://www.uefa.com/uefa/footballfirst/matchorganisation/refereeing/news/newsid%3D1852236.html |archive-date=30 August 2012 }}</ref>
+| attendance         = 14,312<ref name="report">{{cite web |title=Full Time Report – Chelsea – Atlético Madrid |url=https://www.uefa.com/newsfiles/SuperCup/2012/2007694_FR.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=31 August 2012 |access-date=31 August 2012 }}</ref>
+| weather            = Cloudy night<br />{{convert|19|°C|abbr=on}}<br />60% [[humidity]]<ref name="line-ups">{{cite web |title=Tactical lineups |url=https://www.uefa.com/newsfiles/SuperCup/2012/2007694_LU.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=31 August 2012 |access-date=31 August 2012 }}</ref>
+| previous           = [[2011 UEFA Super Cup|2011]]
+| next               = [[2013 UEFA Super Cup|2013]]
+}}
+The '''2012 UEFA Super Cup''' was the 37th [[UEFA Super Cup]], an annual [[association football|football]] match organised by [[UEFA]] and contested by the reigning champions of the two main [[Europe]]an club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. It was played at the [[Stade Louis II]] in [[Monaco]] on 31 August 2012, between the [[2011–12 UEFA Champions League]] winners [[Chelsea F.C.|Chelsea]] of [[The Football Association|England]] and the [[2011–12 UEFA Europa League]] winners [[Atlético Madrid]] of [[Royal Spanish Football Federation|Spain]].<ref>{{cite news |title=Chelsea and Atlético to contest Super Cup |url=https://www.uefa.com/uefasupercup/news/0250-0c50fb2e5da6-6adc46556946-1000--chelsea-and-atletico-to-contest-super-cup/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=20 May 2012 |access-date=31 August 2012 }}</ref>
+
+This was the last Super Cup to be played at the Stade Louis II, which had hosted the match since 1998, as future editions began to be hosted at different venues, starting with the [[2013 UEFA Super Cup|2013 edition]], which was played at [[Eden Arena]] in [[Prague]].<ref>{{cite news |first=Ladislav |last=Josef |title=Prague celebrates 2013 Super Cup honour |url=https://www.uefa.com/uefasupercup/news/0250-0c50f41ca710-696a44dbb39d-1000--prague-celebrates-2013-super-cup-honour/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=17 June 2011 |access-date=23 June 2011 }}</ref>
+
+Atlético Madrid won 4–1 to claim their second UEFA Super Cup.<ref name="postmatch"/> [[Radamel Falcao]] scored a first-half hat-trick and [[Miranda (footballer, born 1984)|Miranda]] added a fourth for Atlético on the hour mark, before [[Gary Cahill]] scored a consolation goal for Chelsea in the 75th minute.
+
+==Venue==
+The [[Stade Louis II]] in [[Monaco]] was the venue for the UEFA Super Cup every year since 1998. Built in 1985, the stadium is also the home of [[AS Monaco FC|Monaco]], who play in the French league system.
+
+The net capacity of the Stade Louis II was 18,000. Over 70 percent of the tickets were reserved for the general public and supporters of the two clubs. Chelsea and Atlético distributed their tickets directly to their fans. The ticket category available for the general public was Category 1 (Première) opposite the main stand at a price of €70.<ref>{{cite news |title=Apply now for UEFA Super Cup tickets |url=https://www.uefa.com/uefasupercup/news/0250-0c50fb947e5f-60ad6faf6db8-1000--apply-now-for-uefa-super-cup-tickets/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=15 June 2012 |access-date=31 August 2012 }}</ref> The international general public ticket sales process began, exclusively via UEFA.com, on 15 June and ended on 2 July.<ref>{{cite news |title=UEFA Super Cup ticket sales end |url=https://www.uefa.com/uefasupercup/news/0250-0c50fb7a9a73-1bf5a0e38eef-1000--uefa-super-cup-ticket-sales-end/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=2 July 2012 |access-date=31 August 2012 }}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|[[2011–12 UEFA Champions League]] winners<ref name=guard12>{{cite web|url=https://www.theguardian.com/football/2012/may/19/bayern-munich-chelsea-champions-league-final|title=Chelsea win Champions League on penalties over Bayern Munich|work=[[The Guardian]]|author=Daniel Taylor |date=19 May 2012|access-date=19 December 2018}}</ref>
+|'''[[1998 UEFA Super Cup|1998]]'''
+|-
+|{{fbaicon|ESP}} [[Atlético Madrid]]
+|[[2011–12 UEFA Europa League]] winners<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/17995827|title=Atl Madrid 3–0 Athletic Bilbao| work=BBC Sport|date=9 May 2012|access-date=15 January 2018}}</ref>
+|'''[[2010 UEFA Super Cup|2010]]'''
+|}
+
+There had previously been four English-Spanish encounters in the UEFA Super Cup ([[1979 European Super Cup|1979]], [[1980 European Super Cup|1980]], [[1982 European Super Cup|1982]], [[1998 UEFA Super Cup|1998]]), with English teams winning three out of four.<ref>{{cite web |title=Chelsea and Atlético latest in a long line |url=https://www.uefa.com/uefasupercup/news/0250-0c50fb285e2c-44fcc5703731-1000--chelsea-and-atletico-latest-in-a-long-line/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=9 July 2012 |access-date=31 August 2012 }}</ref>
+
+{{clear}}
+
+==Match==
+
+===Details===
+{{football box
+|date=31 August 2012
+|time=20:45 [[Central European Summer Time|CEST]]
+|team1=[[Chelsea F.C.|Chelsea]] {{fbaicon|ENG}}
+|score=1–4
+|report=https://www.uefa.com/uefasupercup/match/<!--round=2000278/match=-->2007694/
+|team2={{fbaicon|ESP}} [[Atlético Madrid]]
+|goals1=[[Gary Cahill|Cahill]] {{goal|75}}
+|goals2=[[Radamel Falcao|Falcao]] {{goal|6||19||45}}<br />[[Miranda (footballer, born 1984)|Miranda]] {{goal|60}}
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=14,312<ref name="report"/>
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])<ref name="referee"/>
+}}
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _chelsea1213H
+| pattern_b  = _chelsea1213H
+| pattern_ra = _chelsea1213H
+| pattern_sh = _chelsea1213h
+| pattern_so = _chelsea1213home
+| leftarm    = 0000FF
+| body       = 0000FF
+| rightarm   = 0000FF
+| shorts     = 0000FF
+| socks      = FFFFFF
+| title      = Chelsea<ref name="line-ups"/>
+}}
+|{{Football kit
+| pattern_la = _am1213h
+| pattern_b  = _am1213h
+| pattern_ra = _am1213h
+| pattern_sh =
+| pattern_so = _bluetops
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FF0000
+| socks      = FF0000
+| title      = Atlético Madrid<ref name="line-ups"/>
+}}
+|}
+
+{| style="width:100%"
+|style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CZE}} [[Petr Čech]]
+|-
+|RB ||'''2''' ||{{flagicon|SRB}} [[Branislav Ivanović]] || {{yel|29}}
+|-
+|CB ||'''24'''||{{flagicon|ENG}} [[Gary Cahill]]
+|-
+|CB ||'''4''' ||{{flagicon|BRA}} [[David Luiz]]
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Ashley Cole]] || || {{suboff|90}}
+|-
+|CM ||'''12'''||{{flagicon|NGA}} [[Mikel John Obi]]
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Frank Lampard]] ([[Captain (association football)|c]])
+|-
+|RW ||'''7''' ||{{flagicon|BRA}} [[Ramires]] || || {{suboff|46}}
+|- 
+|AM ||'''17'''||{{flagicon|BEL}} [[Eden Hazard]]
+|-
+|LW ||'''10'''||{{flagicon|ESP}} [[Juan Mata]] || || {{suboff|81}}
+|-
+|CF ||'''9''' ||{{flagicon|ESP}} [[Fernando Torres]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|ENG}} [[Ross Turnbull]]
+|-
+|DF ||'''34'''||{{flagicon|ENG}} [[Ryan Bertrand]] || || {{subon|90}}
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Oriol Romeu]]
+|-
+|MF ||'''11'''||{{flagicon|BRA}} [[Oscar (footballer, born 1991)|Oscar]] || || {{subon|46}}
+|-
+|MF ||'''16'''||{{flagicon|POR}} [[Raul Meireles]]
+|-
+|FW ||'''23'''||{{flagicon|ENG}} [[Daniel Sturridge]] || || {{subon|81}}
+|-
+|FW ||'''13'''||{{flagicon|NGA}} [[Victor Moses]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Roberto Di Matteo]]
+|}
+|style="vertical-align:top"|[[File:Chelsea vs Atletico Madrid 2012-08-31.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|BEL}} [[Thibaut Courtois]]
+|-
+|RB ||'''20'''||{{flagicon|ESP}} [[Juanfran (footballer, born 1985)|Juanfran]]
+|-
+|CB ||'''23'''||{{flagicon|BRA}} [[Miranda (footballer, born 1984)|Miranda]]
+|-
+|CB ||'''2''' ||{{flagicon|URU}} [[Diego Godín]]
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Filipe Luís]]
+|-
+|DM ||'''4''' ||{{flagicon|ESP}} [[Mario Suárez (footballer)|Mario Suárez]]
+|-
+|DM ||'''14'''||{{flagicon|ESP}} [[Gabi (footballer, born 1983)|Gabi]] ([[Captain (association football)|c]])
+|-
+|RW ||'''7''' ||{{flagicon|ESP}} [[Adrián López|Adrián]] || || {{suboff|56}}
+|-
+|AM ||'''6''' ||{{flagicon|ESP}} [[Koke (footballer, born 1992)|Koke]] || || {{suboff|81}}
+|-
+|LW ||'''10'''||{{flagicon|TUR}} [[Arda Turan]]
+|-
+|CF ||'''9''' ||{{flagicon|COL}} [[Radamel Falcao]] || || {{suboff|87}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Sergio Asenjo]]
+|-
+|DF ||'''17'''||{{flagicon|POR}} [[Sílvio (Portuguese footballer)|Sílvio]]
+|-
+|DF ||'''18'''||{{flagicon|ARG}} [[Cata Díaz]]
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Raúl García (footballer, born 1986)|Raúl García]] || || {{subon|81}}
+|-
+|MF ||'''21'''||{{flagicon|TUR}} [[Emre Belözoğlu]] || || {{subon|87}}
+|-
+|MF ||'''11'''||{{flagicon|URU}} [[Cristian Rodríguez]] || || {{subon|56}}
+|-
+|FW ||'''19'''||{{flagicon|BRA}} [[Diego Costa]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Diego Simeone]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Radamel Falcao]] (Atlético Madrid)<ref name="postmatch"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Primož Arhar ([[Football Association of Slovenia|Slovenia]])<ref name="referee"/>
+<br />Matej Žunič ([[Football Association of Slovenia|Slovenia]])<ref name="referee"/>
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Bojan Ul ([[Football Association of Slovenia|Slovenia]])<ref name="referee"/>
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''
+<br />[[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])<ref name="referee"/>
+<br />[[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])<ref name="referee"/>
+| width=55% valign=top|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Super Cup 2012 |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/80/67/11/1806711_DOWNLOAD.pdf |archive-url=https://web.archive.org/web/20120831234100/http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/80/67/11/1806711_DOWNLOAD.pdf |url-status=dead |archive-date=August 31, 2012 |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=29 August 2012 }}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes, of which up to three may be used
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |title=Team statistics |url=https://www.uefa.com/newsfiles/SuperCup/2012/2007694_TS.pdf |work=[[UEFA]] |publisher=Union of European Football Associations |date=31 August 2012 |access-date=31 August 2012 }}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Chelsea
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|0
+|3
+|-
+!scope=row|Total shots
+|5
+|11
+|-
+!scope=row|Shots on target
+|4
+|7
+|-
+!scope=row|Saves
+|4
+|4
+|-
+!scope=row|Ball possession
+|58%
+|42%
+|-
+!scope=row|Corner kicks
+|1
+|1
+|-
+!scope=row|Fouls committed
+|5
+|9
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Chelsea
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|7
+|7
+|-
+!scope=row|Shots on target
+|3
+|5
+|-
+!scope=row|Saves
+|4
+|2
+|-
+!scope=row|Ball possession
+|56%
+|44%
+|-
+!scope=row|Corner kicks
+|2
+|5
+|-
+!scope=row|Fouls committed
+|8
+|9
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Chelsea
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|1
+|4
+|-
+!scope=row|Total shots
+|12
+|18
+|-
+!scope=row|Shots on target
+|7
+|12
+|-
+!scope=row|Saves
+|8
+|6
+|-
+!scope=row|Ball possession
+|57%
+|43%
+|-
+!scope=row|Corner kicks
+|3
+|6
+|-
+!scope=row|Fouls committed
+|13
+|18
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2012–13 UEFA Champions League]] 
+*[[2012–13 UEFA Europa League]]
+*[[2012–13 Atlético Madrid season]]
+*[[2012–13 Chelsea F.C. season]]
+*[[Atlético Madrid in European football]]
+*[[Chelsea F.C. in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.uefa.com/uefasupercup/history/2012/ 2012 UEFA Super Cup], UEFA.com
+
+{{UEFA Super Cup}}
+{{2012–13 in European football (UEFA)}}
+{{2012–13 European club competitions}}
+{{Chelsea F.C. matches}}
+{{Atlético Madrid matches}}
+
+[[Category:UEFA Super Cup matches|2012]]
+[[Category:2012 in European men's continental football|Super Cup]]
+[[Category:2012 in Monégasque sport]]
+[[Category:Chelsea F.C. matches|Super Cup 2012]]
+[[Category:Atlético Madrid matches|Super Cup 2012]]
+[[Category:2012–13 in English men's football]]
+[[Category:2012–13 in Spanish men's football]]
+[[Category:Football matches in Monaco]]
+[[Category:August 2012 sports events in Europe]]
+[[Category:Spain–United Kingdom sports relations]]

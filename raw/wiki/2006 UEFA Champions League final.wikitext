@@ -1,0 +1,528 @@
+{{Short description|Association football match}}
+{{Good article}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox football match
+| title = 2006 UEFA Champions League final
+| image = 2006 UEFA Champions League Final logo.png
+| image_size = 250
+| event = [[2005–06 UEFA Champions League]]
+| team1 = [[FC Barcelona|Barcelona]]
+| team1association = {{fbaicon|ESP|size=30px}}
+| team1score = 2
+| team2 = [[Arsenal F.C.|Arsenal]]
+| team2association = {{fbaicon|ENG|size=30px}}
+| team2score = 1
+| details =
+| date = 17 May 2006
+| stadium = [[Stade de France]]
+| city = [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+| man_of_the_match1a = [[Samuel Eto'o]] (Barcelona)<ref name="attendance"/>
+| referee = [[Terje Hauge]] ([[Football Association of Norway|Norway]])
+| attendance = 79,610<ref name="attendance"/>
+| weather = Partly cloudy<br />{{convert|15|°C|°F}}<br />33% humidity<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2005/1108503_LU.pdf |title=Tactical Line-ups – Final – Wednesday 17 May 2006 |website=[[UEFA]] |publisher=Union of European Football Associations |date=17 May 2006 |access-date=26 November 2006}}</ref>
+| previous = [[2005 UEFA Champions League final|2005]]
+| next = [[2007 UEFA Champions League final|2007]]
+}}
+The '''2006 UEFA Champions League final''' was an [[association football]] match between [[FC Barcelona|Barcelona]] of Spain and [[Arsenal F.C.|Arsenal]] of England at the [[Stade de France]] in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], [[Paris]], France, on Wednesday, 17 May 2006. It was the final match of the [[2005–06 UEFA Champions League|2005–06 season]] of Europe's primary cup competition, the [[UEFA Champions League]]. Barcelona were appearing in their fifth final, having won the competition once in [[1992 European Cup final|1992]], while it was Arsenal's first final appearance and the first appearance by a club from London.
+
+Each club progressed through the group stage and three knockout rounds to reach the final, playing 12 matches in total. Barcelona won their group and progressed to the final after beating [[Chelsea F.C.|Chelsea]], [[S.L. Benfica|Benfica]] and [[AC Milan|Milan]], respectively. Arsenal won their group to move into the knockout stage, and progressed without conceding a goal against [[Real Madrid CF|Real Madrid]], [[Juventus FC|Juventus]] and [[Villarreal CF|Villarreal]], respectively.
+
+A crowd of 79,500 watched as [[Jens Lehmann]] was sent off early in the game. Despite this setback, Arsenal took the lead through [[Sol Campbell]] towards the end of the first half. After an hour, [[Henrik Larsson]] came on for Barcelona and was involved in both of their goals. Barcelona equalised through [[Samuel Eto'o]] near the end of the second half, and a few minutes later, [[Juliano Belletti]] scored to give Barcelona a 2–1 victory.
+
+==Background==
+It was the first time Arsenal had appeared in the European Cup final, which also made them the first club from [[London]] to do so.<ref>{{Cite news |title=Arsenal aim to upset the odds |url=https://news.bbc.co.uk/sport2/hi/football/europe/4750383.stm |website=BBC Sport |date=16 May 2006 |access-date=25 November 2008}}</ref> Arsenal's appearance in the match came six years to the day since their last European final, when they faced [[Galatasaray S.K. (football)|Galatasaray]] in the [[2000 UEFA Cup final]]; they lost on penalties after the match had finished goalless after [[extra time]]. Of the players who featured in that final, only [[Thierry Henry]] and [[Dennis Bergkamp]] remained at the club, while [[Sylvinho]], who had featured for Arsenal in the final, was now a Barcelona player.<ref>{{Cite web |url=http://www.uefa.com/printoutfiles/competitions/ucl/2005/e/e_1108503_pk.pdf |title=Match Press Kit |publisher=[[UEFA]] |date=16 May 2006 |access-date=26 November 2008 |archive-url=https://web.archive.org/web/20081217232132/http://www.uefa.com/printoutfiles/competitions/ucl/2005/e/e_1108503_pk.pdf |archive-date=17 December 2008 |url-status=dead}}</ref> Barcelona were appearing in the final for the fifth time; their last appearance was a 4–0 loss to [[AC Milan|Milan]] in [[1994 UEFA Champions League final|1994]]. Two more losses preceded the 1994 final ([[1961 European Cup final|1961]] and [[1986 European Cup final|1986]]), and their only success in the competition came in [[1992 European Cup final|1992]] when they beat [[UC Sampdoria|Sampdoria]].<ref>{{Cite web |url=http://www.fcbarcelona.cat/web/english/club/historia/etapes_historia/etapa_4.html |archive-url=https://archive.today/20080621071948/http://www.fcbarcelona.cat/web/english/club/historia/etapes_historia/etapa_4.html |url-status=dead |archive-date=21 June 2008 |title=From the 75th Anniversary to the European Cup (1974–1992) |publisher=[[FC Barcelona]] |access-date=28 July 2008}}</ref> Barcelona went into the final as domestic league champions, having won [[La Liga]] a fortnight earlier.<ref>{{Cite web |url=https://news.bbc.co.uk/sport1/hi/football/europe/4970966.stm |title=Barca retain Spanish league title |publisher=[[BBC Sport]] |date=3 May 2006 |access-date=25 November 2008}}</ref> They were regarded as the best side on the continent because they possessed players such as [[Ronaldinho]] and [[Samuel Eto'o]]. Barcelona player [[Deco]] dismissed the notion of Barcelona being favourites, insisting they would not be complacent: "Milan were winning 3–0 last year against Liverpool and ended up losing in the end. We need to be serious, calm and fully concentrated so that we don't make any errors".<ref name="Deco">{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/europe/4773247.stm |title=Deco shrugging off favourites tag |publisher=[[BBC Sport]] |date=15 May 2006 |access-date=25 November 2008}}</ref>
+
+Neither side had been beaten en route to the final, with Arsenal only conceding two goals in their 12 matches before the final, including ten successive matches without conceding. This set the record for the longest time without a conceding a goal, having played 919 minutes since conceding against [[AFC Ajax|Ajax]] in the group stage. Barcelona, on the other hand, had scored 114 goals in all competitions before the final. The two finalists were guaranteed a financial windfall from their progress to the final. Arsenal would receive a revenue of around €37.3&nbsp;million if they won and approximately €34.7&nbsp;million if they lost. Barcelona would earn €31.5&nbsp;million from revenue if they won, and around €28.9&nbsp;million if they were to lose. Included in the total for participating in the final, the UEFA Champions League winners would collect approximately €6.4&nbsp;million, with the runners-up receiving approximately €3.8&nbsp;million.<ref>{{Cite web |url=http://www.uefa.com/competitions/ucl/history/season=2005/round=2205/match=1108503/report=pr.html |title=Purists set for dream final |publisher=[[UEFA]] |date=16 May 2006 |access-date=25 November 2008 |archive-url=https://web.archive.org/web/20090108025750/http://www.uefa.com/competitions/ucl/history/season%3D2005/round%3D2205/match%3D1108503/report%3Dpr.html |archive-date=8 January 2009 |url-status=dead}}</ref> The final marked the appearance of a [[European Champion Club's Cup|new trophy]] following [[Liverpool F.C.|Liverpool]]'s triumph over Milan the [[2005 UEFA Champions League final|previous year]]. As Liverpool won the competition for the fifth time they were entitled to keep the trophy, creating the need for a new one.<ref>{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/l/liverpool/4581555.stm |title=Merseyside revels in Reds victory |publisher=[[BBC Sport]] |date=26 May 2005 |access-date=25 November 2008}}</ref>
+
+==Venue==
+UEFA awarded the right to host the final to the Stade de France in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]] after considering its merits in terms of capacity, stadium infrastructure and dossiers including city and airport agreements and promotional plans. UEFA also conducted a variety of site visits.<ref name="background">{{Cite web |url=http://www.uefa.com/competitions/ucl/history/season=2005/round=2205/match=1108503/report=mb.html |archive-url=https://web.archive.org/web/20070317233504/http://www.uefa.com/competitions/ucl/history/season=2005/round=2205/match=1108503/report=mb.html |url-status=dead |archive-date=17 March 2007 |title=Match Background |publisher=[[UEFA]] |access-date=9 September 2007}}</ref> The Stade de France had previously staged the [[2000 UEFA Champions League final]] between Real Madrid and [[Valencia CF|Valencia]], which Madrid won 3–0. Saint-Denis was chosen to host the final in recognition of the 50th anniversary of the first European Cup final in [[1956 European Cup final|1956]], held in nearby [[Paris]] at the [[Parc des Princes]], now home of [[Paris Saint-Germain FC|Paris Saint-Germain]].<ref>{{Cite news |title=Anniversary reason for Paris decision |url=http://en.uefa.com/uefa/socialresponsibility/newsid=298133.html |archive-url=https://archive.today/20120708092612/http://en.uefa.com/uefa/socialresponsibility/newsid=298133.html |url-status=dead |archive-date=8 July 2012 |work=[[UEFA]] |publisher=Union of European Football Associations |date=28 April 2005 |access-date=21 June 2010}}</ref> The Parc des Princes also hosted the [[1975 European Cup final|1975]] and [[1981 European Cup final|1981]] European Cup finals, the [[1978 European Cup Winners' Cup final|1978]] and [[1995 UEFA Cup Winners' Cup final|1995]] [[UEFA Cup Winners' Cup]] finals, and the [[1998 UEFA Cup final]].<ref name="background"/>
+
+==Route to the final==
+{{further|2005–06 UEFA Champions League}}
+
+Teams qualified for the Champions League group stage, either directly or through three preliminary rounds, based on both their position in the preceding domestic league and [[UEFA coefficient#League coefficient|the strength of that league]]. Both Arsenal and Barcelona entered the competition in the group stages: Arsenal by finishing second in the [[2004–05 FA Premier League]], and Barcelona by winning [[2004–05 La Liga|La Liga]]. The group stages were contested as eight [[round robin tournament|double round robin groups]] of four teams, with the top two qualifying for the knockout stage. Knockout matches were decided based on [[two-legged match|home and away matches]], with the [[away goals rule]], [[extra time]] and [[penalty shootout (football)|penalty shootout]]s as tiebreakers if needed.<ref>{{Cite web |title=Regulations of the UEFA Champions League 2005/06 |url=https://www.uefa.com/newsfiles/19071.pdf |archive-url=https://web.archive.org/web/20051020013336/http://www.uefa.com/newsfiles/19071.pdf |year=2005 |archive-date=20 October 2005 |access-date=16 July 2008 |publisher=[[UEFA]]}}</ref>
+
+{|class="wikitable" style="text-align: center;"
+|-
+!colspan=4|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+!Round
+!colspan=4|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|-bgcolor=#c1e0ff
+|Opponent
+|colspan=3|Result
+|[[2005–06 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Werder Bremen v Barcelona|2–0]] (A)
+|bgcolor=#c1e0ff|Matchday 1
+|align=left|{{fbaicon|SUI}} [[FC Thun|Thun]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Arsenal v Thun|2–1]] (H)
+|-
+|align=left|{{fbaicon|ITA|2003}} [[Udinese Calcio|Udinese]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Barcelona v Udinese|4–1]] (H)
+|bgcolor=#c1e0ff|Matchday 2
+|align=left|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Ajax v Arsenal|2–1]] (A)
+|-
+|align=left|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Panathinaikos v Barcelona|0–0]] (A)
+|bgcolor=#c1e0ff|Matchday 3
+|align=left|{{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Sparta Prague v Arsenal|2–0]] (A)
+|-
+|align=left|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Barcelona v Panathinaikos|5–0]] (H)
+|bgcolor=#c1e0ff|Matchday 4
+|align=left|{{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Arsenal v Sparta Prague|3–0]] (H)
+|-
+|align=left|{{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Barcelona v Werder Bremen|3–1]] (H)
+|bgcolor=#c1e0ff|Matchday 5
+|align=left|{{fbaicon|SUI}} [[FC Thun|Thun]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Thun v Arsenal|1–0]] (A)
+|-
+|align=left|{{fbaicon|ITA|2003}} [[Udinese Calcio|Udinese]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Udinese v Barcelona|2–0]] (A)
+|bgcolor=#c1e0ff|Matchday 6
+|align=left|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|colspan=3|[[2005–06 UEFA Champions League group stage#Arsenal v Ajax|0–0]] (H)
+|-
+|colspan=4 align=center valign=top|'''[[2005–06 UEFA Champions League group stage#Group C|Group C]] winner'''
+{{:2005–06 UEFA Champions League group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=BAR}}
+|bgcolor=#c1e0ff|Final standings
+|colspan=4 align=center valign=top|'''[[2005–06 UEFA Champions League group stage#Group B|Group B]] winner'''
+{{:2005–06 UEFA Champions League group stage|transcludesection=Group B|only_pld_pts=yes|show_matches=no|showteam=ARS}}
+|-bgcolor=#c1e0ff
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2005–06 UEFA Champions League knockout stage|Knockout stage]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|3–2
+|[[2005–06 UEFA Champions League knockout stage#Chelsea v Barcelona|2–1]] (A)
+|[[2005–06 UEFA Champions League knockout stage#Barcelona v Chelsea|1–1]] (H)
+|bgcolor=#c1e0ff|First knockout round
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|1–0
+|[[2005–06 UEFA Champions League knockout stage#Real Madrid v Arsenal|1–0]] (A)
+|[[2005–06 UEFA Champions League knockout stage#Arsenal v Real Madrid|0–0]] (H)
+|-
+|align=left|{{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|2–0
+|[[2005–06 UEFA Champions League knockout stage#Benfica v Barcelona|0–0]] (A)
+|[[2005–06 UEFA Champions League knockout stage#Barcelona v Benfica|2–0]] (H)
+|bgcolor=#c1e0ff|Quarter-finals
+|align=left|{{fbaicon|ITA|2003}} [[Juventus FC|Juventus]]
+|2–0
+|[[2005–06 UEFA Champions League knockout stage#Arsenal v Juventus|2–0]] (H)
+|[[2005–06 UEFA Champions League knockout stage#Juventus v Arsenal|0–0]] (A)
+|-
+|align=left|{{fbaicon|ITA|2003}} [[AC Milan|Milan]]
+|1–0
+|[[2005–06 UEFA Champions League knockout stage#Milan v Barcelona|1–0]] (A)
+|[[2005–06 UEFA Champions League knockout stage#Barcelona v Milan|0–0]] (H)
+|bgcolor=#c1e0ff|Semi-finals
+|align=left|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|1–0
+|[[2005–06 UEFA Champions League knockout stage#Arsenal v Villarreal|1–0]] (H)
+|[[2005–06 UEFA Champions League knockout stage#Villareal v Arsenal|0–0]] (A)
+|}
+
+==Pre-match==
+[[Image:Barcelona vs Arsenal Teams line up.jpg|thumb|right|The two teams line up before kick off]]
+
+===Related events===
+Barcelona showed the match live from their [[Mini Estadi]] on a {{convert|70|m|ft|adj=on}} television screen for an estimated audience of 15,276. Before the final, an estimated 1.2&nbsp;million people descended into the streets of Barcelona, as the team toured the city on two open-top double-decker buses to celebrate winning La Liga.
+
+[[File:UEFA Champions League Final 2006 - Team flags.jpg|left|thumb|The team flags hoisted above the pitch before the kick-off]]
+
+===Officials===
+On the morning of the final it emerged that the assistant referee for the game [[Ole Hermann Borgan]] had posed for photographs in a Barcelona shirt for ''[[Drammens Tidende]]'', a Norwegian newspaper. After initially sticking by the official, UEFA eventually decided to replace him with fellow Norwegian Arild Sundet. Norway's head of refereeing Rune Pedersen stated: "It is an unwritten rule that referees should not do anything that can doubt their impartial stance".<ref>{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/europe/4986436.stm |title=Final linesman denies Barca bias |publisher=[[BBC Sport]] |date=16 May 2006 |access-date=25 November 2008}}</ref>
+
+===Team selection===
+Barcelona were expected to line up in a [[Formation (association football)#4–2–3–1|4–2–3–1]] formation, with Ronaldinho, [[Ludovic Giuly]] and Deco supporting Samuel Eto'o who would be deployed as the lone [[Forward (association football)|striker]].<ref name="lineup">{{Cite news |url=https://www.telegraph.co.uk/sport/columnists/henrywinter/2336987/Wengers-pledge-gives-fans-cause-for-optimism.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/columnists/henrywinter/2336987/Wengers-pledge-gives-fans-cause-for-optimism.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Wenger's pledge gives fans cause for optimism |work=[[The Daily Telegraph]] |date=15 May 2006 |access-date=26 November 2008 |location=London |first=Henry |last=Winter}}{{cbignore}}</ref> They had doubts about the fitness of [[Lionel Messi]] going into the final. He had pulled a thigh muscle during the second leg of their match with Chelsea, and had not played since, though he was included in the 22-man squad for the final. Barcelona coach [[Frank Rijkaard]] stated he would leave it late before deciding whether to select him.<ref name="Deco" /> Despite being included in the squad, Messi did not feature in the final. Arsenal were expected to line up in a [[Formation (association football)#4–5–1|4–5–1]] formation, with [[Thierry Henry]] as the sole striker. There was much discussion about whether [[José Antonio Reyes]] would take the place of [[Robert Pires]] on the left of midfield.<ref name="lineup" /> It had been announced before the match that this would be Pires' last match as he had agreed to join [[Villarreal CF|Villarreal]] next season.<ref>{{Cite news |url=https://www.independent.co.uk/sport/football/premier-league/arsenal-1-barcelona-2-barcelona-crush-heroic-arsenal-in-space-of-four-brutal-minutes-478659.html |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/sport/football/premier-league/arsenal-1-barcelona-2-barcelona-crush-heroic-arsenal-in-space-of-four-brutal-minutes-478659.html |archive-date=1 May 2022 |url-access=subscription |url-status=live |title=Arsenal 1 Barcelona 2: Barcelona crush heroic Arsenal in space of four brutal minutes |work=[[The Independent]] |date=18 May 2006 |access-date=27 November 2008 |location=London |first=Sam |last=Wallace}}{{cbignore}}</ref>
+
+Ultimately, Barcelona fielded a [[Formation (association football)#4–3–3|4–3–3]] formation with [[Mark van Bommel]] and [[Edmílson]] lining up in midfield alongside Deco, ahead of [[Xavi (footballer, born 1980)|Xavi]] and [[Andrés Iniesta]]. Lionel Messi did not feature in the matchday squad, despite returning from injury and featuring in the 22-man squad, while [[Henrik Larsson]] was among the substitutes in potentially his last game for the club. Arsenal fielded a  [[Formation (association football)#4–4–1–1|4–4–1–1]] formation, which saw [[Emmanuel Eboué]] replace the injured [[Lauren (Cameroonian footballer)|Lauren]], and [[Ashley Cole]] return at left-back to make only his third appearance in the competition that season due to injury. Thierry Henry was deployed as the lone striker, with [[Freddie Ljungberg]] playing off his shoulder.<ref name="minute" /><ref>{{Cite web |title=Tactical line-up |url=http://www.uefa.com/competitions/ucl/history/season=2005/round=2205/match=1108503/report=tl.html |publisher=[[UEFA]] |date=17 May 2006 |access-date=26 November 2008 |archive-url=https://web.archive.org/web/20090108001228/http://www.uefa.com/competitions/ucl/history/season%3D2005/round%3D2205/match%3D1108503/report%3Dtl.html |archive-date=8 January 2009 |url-status=dead}}</ref>
+
+==Match==
+
+===Summary===
+====First half====
+[[File:UEFA Champions League Final 2006 - Playing.jpg|thumb|right|Play during the first half]]
+As both teams' first-choice kits featured a shade of red, Arsenal wore their yellow away strip, while Barcelona wore their traditional blue and maroon striped kit. Arsenal won the [[Coin flipping|coin toss]] and Barcelona kicked off.<ref name="guardian">{{Cite news |url=https://www.theguardian.com/football/minbymin/report/0,,1777091,00.html |title=Arsenal v Barcelona Live |work=[[The Guardian]] |date=17 May 2006 |access-date=26 November 2008 |location=London |archive-url=https://web.archive.org/web/20081017130217/http://football.guardian.co.uk/minbymin/report/0%2C%2C1777091%2C00.html |archive-date=17 October 2008 |url-status=live}}</ref> Barcelona almost immediately came under pressure when Thierry Henry shot straight at Barcelona goalkeeper [[Víctor Valdés]], who conceded a [[Corner kick|corner]]. From the resulting corner Arsenal had another chance again courtesy of Henry, whose shot was again saved by Valdés. The next attack in the seventh minute resulted in Arsenal goalkeeper [[Jens Lehmann]] saving from Ludovic Giuly after he shot from a narrow angle. Four minutes later Barcelona were awarded a [[Direct free kick|free-kick]] 35 yards from goal; Ronaldinho shot wide of the goal.
+
+With 18 minutes played, Lehmann became the first player to be [[Misconduct (football)|sent off]] in a European Cup final after he brought down [[Samuel Eto'o]] outside the Arsenal box.<ref name="bbc">{{cite news |title=Referee regrets Lehmann red card |url=https://news.bbc.co.uk/sport2/hi/football/europe/4993994.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=18 May 2006 |access-date=12 February 2011}}</ref> Giuly subsequently put the ball in the back of the net, but the goal was not allowed due to the foul. Arsenal substituted Robert Pires for [[Manuel Almunia]], their substitute goalkeeper.<ref name="minute">{{Cite web |url=http://www.uefa.com/competitions/ucl/history/season=2005/round=2205/match=1108503/report=mbm.html |title=Minute by Minute |publisher=[[UEFA]] |date=17 May 2006 |access-date=9 September 2007|archive-url=https://web.archive.org/web/20070317233533/http://www.uefa.com/competitions/ucl/history/season=2005/round=2205/match=1108503/report=mbm.html|archive-date=17 March 2007|url-status=dead}}</ref> The free-kick was sent wide by Ronaldinho. Following Lehmann's dismissal Barcelona exerted more pressure on Arsenal, to the point where Emmanuel Eboué was cautioned for a high [[Tackle (football move)#Association football|tackle]].<ref name="minute" />
+
+In the 37th minute Arsenal overcame their numerical disadvantage to score when [[Sol Campbell]] headed in from a Thierry Henry free-kick following [[Carles Puyol]]'s foul on Emmanuel Eboué. Some believed that Eboué was guilty of [[Diving (association football)|diving]].<ref name="guardian" /><ref>{{Cite web |title=Wenger Slams Eboue For Diving |publisher=MTN Football |date=21 May 2006 |access-date=11 January 2009 |url=http://www.mtnfootball.com/live/content.php?Item_ID=3496&Revision=en%2F1 |url-status=dead |archive-url=https://web.archive.org/web/20110816021817/http://www.mtnfootball.com/live/content.php?Item_ID=3496&Revision=en%2F1 |archive-date=16 August 2011}}</ref><ref name="BBC2006">{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/europe/4773353.stm |title=Barcelona 2–1 Arsenal |publisher=[[BBC Sport]] |date=17 May 2006 |access-date=26 November 2008 | archive-url= https://web.archive.org/web/20071009001809/http://news.bbc.co.uk/sport1/hi/football/europe/4773353.stm| archive-date=9 October 2007| url-status= live}}</ref> Arsenal held onto their lead for the remainder of the half. Barcelona's best chance came from Eto'o, whose shot hit the post via a save from Almunia.<ref name="BBC2006"/>
+
+====Second half====
+At half-time, Barcelona replaced Edmílson, who had picked up an injury in the first half, with Andrés Iniesta.<ref name="minute" /> Almunia saved a shot from Iniesta six minutes into the half.
+
+After 61 minutes, Barcelona substituted Van Bommel for Larsson.<ref name="minute" /> Minutes later, [[Alexander Hleb]] received a pass from Henry but shot wide of the goal. Arsenal began to press forward and both Henry and Ljungberg saw shots saved; Henry then had another chance to score on the counter after being put through by Hleb, but his scuffed shot was straight at Valdés.<ref name="guardian" /> Following this attack, [[Oleguer Presas|Oleguer]] was replaced by [[Juliano Belletti]], and Arsenal replaced [[Cesc Fàbregas]] with [[Mathieu Flamini]].<ref name="guardian" />
+
+Next, Iniesta sent a pass through the inside-left channel to Larsson whose one-touch, right-footed lay-off quickly released Eto'o to equalise for Barcelona.<ref name="minute" /> Four minutes later, Larsson was again the provider, playing a one-two with Belletti in the inside-right channel, before the Brazilian full-back shot right-footed through Almunia's legs to score at the near post.<ref name="guardian"/>
+
+The remaining minutes saw Arsenal replace Hleb with Reyes in an attempt to equalise, but Barcelona had the best chance during this period, only for Giuly to hit his shot straight at Almunia. Following this, Larsson impeded the Arsenal goalkeeper and was cautioned.<ref name="minute" /> The match finished soon after with Barcelona winning 2–1. With this defeat, Arsenal became the first English club and third overall – after [[Hamburger SV]] and [[ACF Fiorentina|Fiorentina]] – to have been runner-up in [[UEFA club competition records and statistics#List of teams to have won the three main European club competitions|all three major European competitions]] ([[UEFA Champions League|European Champion Clubs' Cup/UEFA Champions League]], UEFA Cup/UEFA Europa League, and the now-defunct [[UEFA Cup Winners' Cup|Cup Winners' Cup]]).<ref>{{cite web |author=Roberto Di Maggio |url=https://www.rsssf.org/miscellaneous/intfinalrec.html |title=International Finalists |work=Record Sport Soccer Statistics Foundation |date=18 February 2021}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2006|5|17|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score      = 2–1
+|team2      = {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|goals1     =
+*[[Samuel Eto'o|Eto'o]] {{goal|76}}
+*[[Juliano Belletti|Belletti]] {{goal|80}}
+|goals2     =
+*[[Sol Campbell|Campbell]] {{goal|37}}
+|stadium    = [[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance = 79,610<ref name="attendance">{{cite book |location=Nyon |chapter-url=https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |chapter=2. Finals |title=UEFA Champions League Statistics Handbook 2022/23 |publisher=Union of European Football Associations |page=3 |date=4 June 2023 |access-date=17 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20230821082639/https://editorial.uefa.com/resources/0282-18407a7a3056-fed61d05639b-1000/ucl_202223_finals_md13.pdf |archive-date=21 August 2023}}</ref>
+|referee    = [[Terje Hauge]] ([[Football Association of Norway|Norway]])
+|report     = https://www.uefa.com/uefachampionsleague/match/84101/
+}}</onlyinclude>
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _barcelona0506h
+ | pattern_b = _barcelona0506h
+ | pattern_ra = _barcelona0506h
+ | leftarm = 002EC4
+ | body = 002EC4
+ | rightarm = 002EC4
+ | shorts = A60027
+ | socks = 002EC4
+ | title = Barcelona<ref name="lineups"/>
+}}
+|{{Football kit
+ | pattern_la = _arsenala0507
+ | pattern_b = _arsenala0507
+ | pattern_ra = _arsenala0507
+ | pattern_sh = _arsenala0507
+ | pattern_so = _arsenala0507
+ | leftarm = FDDA00
+ | body = FDDA00
+ | rightarm = FDDA00
+ | shorts = 2B2B2B
+ | socks = 2B2B2B
+ | title = Arsenal<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Víctor Valdés]]
+|-
+|RB ||'''23'''||{{flagicon|ESP}} [[Oleguer Presas|Oleguer]] || {{yel|69}} || {{suboff|71}}
+|-
+|CB ||'''4''' ||{{flagicon|MEX}} [[Rafael Márquez]]
+|-
+|CB ||'''5''' ||{{flagicon|ESP}} [[Carles Puyol]] ([[Captain (association football)|c]])
+|-
+|LB ||'''12'''||{{flagicon|NED}} [[Giovanni van Bronckhorst]]
+|-
+|DM ||'''15'''||{{flagicon|BRA}} [[Edmílson]] || || {{suboff|46}}
+|-
+|CM ||'''20'''||{{flagicon|POR}} [[Deco]]
+|-
+|CM ||'''17'''||{{flagicon|NED}} [[Mark van Bommel]] || || {{suboff|61}}
+|-
+|RW ||'''8''' ||{{flagicon|FRA|1974}} [[Ludovic Giuly]]
+|-
+|LW ||'''10'''||{{flagicon|BRA}} [[Ronaldinho]]
+|-
+|CF ||'''9''' ||{{flagicon|CMR}} [[Samuel Eto'o]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Albert Jorquera]]
+|-
+|DF ||'''2''' ||{{flagicon|BRA}} [[Juliano Belletti]] || || {{subon|71}}
+|-
+|DF ||'''16'''||{{flagicon|BRA}} [[Sylvinho]]
+|-
+|MF ||'''3''' ||{{flagicon|BRA}} [[Thiago Motta]]
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]]
+|-
+|MF ||'''24'''||{{flagicon|ESP}} [[Andrés Iniesta]] || || {{subon|46}}
+|-
+|FW ||'''7''' ||{{flagicon|SWE}} [[Henrik Larsson]] || {{yel|90+3}} || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|NED}} [[Frank Rijkaard]]
+|}
+|valign="top"|[[Image:Barcelona vs Arsenal 2006-05-17.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Jens Lehmann]] || {{sent off|0|18}}
+|-
+|RB ||'''27'''||{{flagicon|CIV}} [[Emmanuel Eboué]] || {{yel|22}}
+|-
+|CB ||'''28'''||{{flagicon|CIV}} [[Kolo Touré]]
+|-
+|CB ||'''23'''||{{flagicon|ENG}} [[Sol Campbell]]
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Ashley Cole]]
+|-
+|RM ||'''7''' ||{{flagicon|FRA|1974}} [[Robert Pires]] || || {{suboff|18}}
+|-
+|CM ||'''19'''||{{flagicon|BRA}} [[Gilberto Silva]]
+|-
+|CM ||'''15'''||{{flagicon|ESP}} [[Cesc Fàbregas]] || || {{suboff|74}}
+|-
+|LM ||'''13'''||{{flagicon|BLR|1995}} [[Alexander Hleb]] || || {{suboff|85}}
+|-
+|SS ||'''8''' ||{{flagicon|SWE}} [[Freddie Ljungberg]]
+|-
+|CF ||'''14'''||{{flagicon|FRA|1974}} [[Thierry Henry]] ([[Captain (association football)|c]]) || {{yel|51}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''24'''||{{flagicon|ESP}} [[Manuel Almunia]] || || {{subon|18}}
+|-
+|DF ||'''20'''||{{flagicon|SUI}} [[Philippe Senderos]]
+|-
+|DF ||'''22'''||{{flagicon|FRA|1974}} [[Gaël Clichy]]
+|-
+|MF ||'''16'''||{{flagicon|FRA|1974}} [[Mathieu Flamini]] || || {{subon|74}}
+|-
+|FW ||'''9''' ||{{flagicon|ESP}} [[José Antonio Reyes]] || || {{subon|85}}
+|-
+|FW ||'''10'''||{{flagicon|NED}} [[Dennis Bergkamp]]
+|-
+|FW ||'''11'''||{{flagicon|NED}} [[Robin van Persie]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA|1974}} [[Arsène Wenger]]
+|}
+|}
+
+{| width=100% style="font-size: 90%"
+|
+<br />'''Man of the Match:'''
+<br />[[Samuel Eto'o]] (Barcelona)<ref name="attendance"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Steinar Holvik ([[Football Association of Norway|Norway]])
+<br />Arild Sundet ([[Football Association of Norway|Norway]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Tom Henning Øvrebø]] ([[Football Association of Norway|Norway]])
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="full time">{{Cite web |url=https://www.uefa.com/newsfiles/UCL/2005/1108503_FR.pdf |title=Full time report |publisher=[[UEFA]] |date=17 May 2006 |access-date=26 November 2008 | archive-url= https://web.archive.org/web/20081217232130/http://www.uefa.com/newsfiles/UCL/2005/1108503_FR.pdf| archive-date= 17 December 2008 | url-status= live}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Arsenal
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|8
+|4
+|-
+!scope=row|Shots on target
+|3
+|3
+|-
+!scope=row|Saves
+|2
+|3
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|1
+|1
+|-
+!scope=row|Fouls committed
+|10
+|7
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|1
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Arsenal
+|-
+!scope=row|Goals scored
+|2
+|0
+|-
+!scope=row|Total shots
+|12
+|4
+|-
+!scope=row|Shots on target
+|6
+|2
+|-
+!scope=row|Saves
+|2
+|4
+|-
+!scope=row|Ball possession
+|69%
+|31%
+|-
+!scope=row|Corner kicks
+|2
+|3
+|-
+!scope=row|Fouls committed
+|10
+|9
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="full time"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Barcelona
+!scope="col" style="width:70px"|Arsenal
+|-
+!scope=row|Goals scored
+|2
+|1
+|-
+!scope=row|Total shots
+|20
+|8
+|-
+!scope=row|Shots on target
+|9
+|5
+|-
+!scope=row|Saves
+|4
+|7
+|-
+!scope=row|Ball possession
+|64%
+|36%
+|-
+!scope=row|Corner kicks
+|3
+|4
+|-
+!scope=row|Fouls committed
+|20
+|16
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|1
+|}
+{{col-end}}
+
+==Post-match==
+[[Image:Barca medals.jpg|thumb|right|The Barcelona players receiving their medals]]
+Barcelona captain Carles Puyol collected the trophy from UEFA president [[Lennart Johansson]] as Barcelona celebrated their second European Cup triumph.<ref name="guardian" />
+
+Much of the discussion after the match centred around referee [[Terje Hauge]]'s decision to send off Lehmann. Football pundit [[Mark Lawrenson]] stated: "The game changed when Arsenal goalkeeper Jens Lehmann was sent off".<ref>{{Cite web |url=https://news.bbc.co.uk/sport1/hi/football/europe/4992230.stm |title=Experts views on Arsenal |publisher=[[BBC Sport]] |date=18 May 2006 |access-date=28 November 2008}}</ref> Arsenal manager Arsène Wenger agreed: "When Jens Lehmann got sent off, that left us with 70 minutes to play with ten against eleven, against a team that retains the ball very well".<ref>{{Cite web |url=http://www.uefa.com/competitions/ucl/history/season=2005/round=2205/match=1108503/report=rw.html |title=Valdés save vital to victory |publisher=[[UEFA]] |date=17 May 2006 |access-date=26 November 2008 |archive-url=https://web.archive.org/web/20090108130502/http://www.uefa.com/competitions/ucl/history/season%3D2005/round%3D2205/match%3D1108503/report%3Drw.html |archive-date=8 January 2009 |url-status=dead}}</ref> He refused to openly criticise this decision, although he did criticise the decision to award Barcelona's first goal, as he felt that Samuel Eto'o was [[Offside (association football)|offside]]. Wenger was also adamant that his young side would bounce back from the defeat.<ref>{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/europe/4771959.stm |title=Wenger left frustrated by defeat |publisher=[[BBC Sport]] |date=18 May 2006 |access-date=26 November 2008}}</ref> One person who did criticise the referee was Thierry Henry, stating: "I was kicked all over the place. I expected the referee to do his job. I don't think he did".<ref>{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/a/arsenal/4992172.stm |title=Furious Henry hits out at referee |publisher=[[BBC Sport]] |date=18 May 2006 |access-date=27 November 2008}}</ref> There was much discussion after the match over whether Henry would remain with Arsenal or move to Barcelona, whom he had been linked with a move to over the past months. Arsène Wenger was asked post match if Henry would leave, to which the Arsenal manager replied: "I don't know. I don't think so".<ref>{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/a/arsenal/4992674.stm |title=Wenger hopeful of Henry staying |publisher=[[BBC Sport]] |date=18 May 2006 |access-date=27 November 2008}}</ref> However, on 19 May, Henry signed a new four-year contract with Arsenal, ending the speculation about a possible move to Barcelona.<ref>{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/a/arsenal/4996270.stm |title=Henry to stay a Gunner until 2010 |publisher=[[BBC Sport]] |date=19 May 2005 |access-date=27 November 2008}}</ref>
+
+[[Henrik Larsson]], who provided the two assists for the goals, was delighted with the triumph and had no regrets over deciding to leave Barcelona after the match: "I want to play football. I feel I haven't played as much as I would love to because of the great players we have at Barcelona". Fellow Barcelona player [[Giovanni van Bronckhorst]] was emotional as he won against his former club: "It's special to win the final, and even more special to do it against your old team". Samuel Eto'o, scorer of Barcelona's first goal, cited Liverpool's comeback against Milan as inspiration for Barcelona's victory: "After having seen what Liverpool did last year, we told ourselves not to throw in the towel. We followed Liverpool's example". Barcelona manager Frank Rijkaard praised the role of goalkeeper Victor Valdés in their victory, stating that he made a number of important saves to keep them in the match: "Valdes played a decisive role. He saved us at crucial moments".<ref>{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/europe/4772009.stm |title=Larsson excited about his future |publisher=[[BBC Sport]] |date=18 May 2006 |access-date=27 November 2008}}</ref> Talking to ''[[FourFourTwo]]'' in 2017, [[Deco]] regarded Henry missing a chance to make it 2–0 to Arsenal when through one-on-one with Valdés with just over 20 minutes remaining as being a decisive moment in the game.<ref>{{cite news |last=Brewin |first=Joe |title=Deco: We wouldn't have beaten Arsenal in 2006 if Valdes hadn't saved us |url=https://www.fourfourtwo.com/news/deco-we-wouldnt-have-beaten-arsenal-2006-if-valdes-hadnt-saved-us |date=22 May 2017|access-date=2 June 2026 |work=FourFourTwo}}</ref>
+
+Thierry Henry paid tribute to Larsson's contribution to Barcelona's win after the game, saying, "People always talk about Ronaldinho, Eto'o, Giuly and everything, but I didn't see them today, I saw Henrik Larsson. He came on, he changed the game, that is what killed the game. Sometimes you talk about Ronaldinho and Eto'o and people like that; you need to talk about the proper footballer who made the difference, and that was Henrik Larsson tonight."<ref name=Henry/> Henry also remarked, "You have to remember that Barcelona is a team. It's not Eto'o, it's not Ronaldinho. On Wednesday, the man who made the difference was Henrik Larsson. You have to give him credit for that because when he came on he made some amazing runs around the box and he showed he is a team player. You saw two times he fed the ball back to people and that's what I always talk about, he is a team player. He did that against us, even though the first goal was a close offside decision."<ref name=amazing/> Larsson's introduction giving Barcelona the cutting edge required to overcome Arsenal was noted by international press.<ref name=Henry>{{cite web |title=Henry questions referee |url=http://www.skysports.com/story/0,19528,11670_2377139,00.html |publisher=[[Sky Sports]] |access-date=19 September 2020}}</ref><ref name=amazing>{{Cite web |url=http://www.arsenal.com/news/news-archive/henry-amazing-larsson-made-the-difference |title="Amazing Larsson made the difference" Arsenal.com |access-date=23 July 2016 |archive-url=https://web.archive.org/web/20160809132317/http://www.arsenal.com/news/news-archive/henry-amazing-larsson-made-the-difference |archive-date=9 August 2016 |url-status=dead |df=dmy-all}}</ref><ref name=Brodkin>{{cite web |title=Larsson takes his leave in the grandest style |url=https://www.theguardian.com/football/2006/may/18/championsleague200506.championsleague1 |work=[[The Guardian]] |access-date=19 September 2020}}</ref><ref name=bleacher>{{cite web |title=5 Star Names of Champions League Finals for Barcelona |url=https://bleacherreport.com/articles/2479846-5-star-names-of-champions-league-finals-for-barcelona |publisher=[[Bleacher Report]] |access-date=19 September 2020}}</ref>
+
+As a result of winning the Champions League, Barcelona would face [[Sevilla FC|Sevilla]], the winners of the [[UEFA Cup]], in the [[UEFA Super Cup]]. Played on 25 August 2006, the [[2006 UEFA Super Cup|match was won 3–0]] by Sevilla.<ref>{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/europe/5287976.stm |title=Barcelona 0–3 Sevilla |publisher=[[BBC Sport]] |date=25 August 2006 |access-date=10 August 2008}}</ref> Barcelona's victory meant they would also participate in the [[FIFA Club World Cup]]. Receiving a bye in the first round, they beat Mexicans [[Club América]] 4–0 in the semi-finals to progress to [[2006 FIFA Club World Cup final|the final]] where they faced [[Copa Libertadores]] champions [[Sport Club Internacional|Internacional]] of Brazil, who won 1–0.<ref>{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/6187783.stm |title=Internacional sink Barca in final |publisher=[[BBC Sport]] |date=17 December 2006 |access-date=30 November 2008 | archive-url= https://web.archive.org/web/20090101130101/http://news.bbc.co.uk/sport1/hi/football/6187783.stm| archive-date= 1 January 2009 | url-status= live}}</ref>
+
+==See also==
+*[[2006 UEFA Cup final]]
+*[[2006 UEFA Women's Cup final]]
+*[[2005–06 Arsenal F.C. season]]
+*[[2005–06 FC Barcelona season]]
+*[[Arsenal F.C. in European football]]
+*[[FC Barcelona in international football]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*[https://web.archive.org/web/20100205180908/http://www.uefa.com/competitions/ucl/finals/index.html UEFA Champions League Finals official site]
+*[https://web.archive.org/web/20060615034355/http://www.uefa.com/competitions/UCL/FixturesResults/Round%3D2205/match%3D1108503/Report%3DRP.html Official Site] (Archived)
+
+{{UEFA Champions League seasons}}
+{{2005–06 in European Football (UEFA)}}
+{{Arsenal F.C. matches}}
+{{FC Barcelona matches}}
+
+{{DEFAULTSORT:2006 Uefa Champions League final}}
+[[Category:2005–06 UEFA Champions League|Final]]
+[[Category:2005–06 in French men's football|Champions League Final]]
+[[Category:Arsenal F.C. matches|Champions League Final 2006]]
+[[Category:FC Barcelona matches|European Cup Final 2006]]
+[[Category:Football in Paris|Champions League Final 2006]]
+[[Category:Football matches in France|Champions League Final 2006]]
+[[Category:UEFA Champions League finals]]
+[[Category:2005–06 in Spanish men's football|Champions]]
+[[Category:2005–06 in English men's football|Champions]]
+[[Category:May 2006 sports events in France|UEFA Champions League final]]
+[[Category:Sport in Saint-Denis, Seine-Saint-Denis]]
+[[Category:History of Seine-Saint-Denis]]
+[[Category:2006 in Paris|UEFA Champions League final]]
+[[Category:Spain–United Kingdom sports relations|2006]]

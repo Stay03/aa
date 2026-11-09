@@ -1,0 +1,1022 @@
+[
+ {
+  "article": "1996 FA Charity Shield",
+  "fb_date": "11 August 1996",
+  "team1": "Manchester United",
+  "team2": "Newcastle United",
+  "score_raw": "4–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Cantona",
+    "minute": "24",
+    "note": ""
+   },
+   {
+    "player": "Butt",
+    "minute": "30",
+    "note": ""
+   },
+   {
+    "player": "Beckham",
+    "minute": "85",
+    "note": ""
+   },
+   {
+    "player": "Keane",
+    "minute": "87",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "73,214",
+  "referee": "Paul Durkin (Dorset)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://www.thefreelibrary.com/FOUR-GET+IT%2c+KEEGAN%3b+MAN+UNITED+4+NEWCASTLE+0%3b+Kev's+men+don't+play...-a061310853 Report]",
+  "manager1": "Alex Ferguson",
+  "cards1": [
+   {
+    "player": "Roy Keane",
+    "type": "Y",
+    "minute": "40"
+   },
+   {
+    "player": "Eric Cantona",
+    "type": "Y",
+    "minute": "65"
+   }
+  ],
+  "manager2": "Kevin Keegan",
+  "cards2": [
+   {
+    "player": "Philippe Albert",
+    "type": "Y",
+    "minute": "16"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "1997 FA Charity Shield",
+  "fb_date": "3 August 1997",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_raw": "1–1",
+  "aet": "",
+  "penaltyscore": "2–4",
+  "goals1": [
+   {
+    "player": "M. Hughes",
+    "minute": "52",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Johnsen",
+    "minute": "58",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "73,636",
+  "referee": "Peter Jones (Leicestershire)",
+  "penalties1": "Sinclair Zola Di Matteo Leboeuf",
+  "penalties2": "Scholes Irwin Keane Butt",
+  "report": "[https://www.independent.co.uk/sport/united-fall-back-on-a-gritty-display-1243676.html Report]",
+  "manager1": "Ruud Gullit",
+  "cards1": [
+   {
+    "player": "Frank Sinclair",
+    "type": "Y",
+    "minute": "26"
+   },
+   {
+    "player": "Dennis Wise",
+    "type": "Y",
+    "minute": "30"
+   },
+   {
+    "player": "Dan Petrescu",
+    "type": "Y",
+    "minute": "90"
+   }
+  ],
+  "manager2": "Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Teddy Sheringham",
+    "type": "Y",
+    "minute": "43"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "1998 FA Charity Shield",
+  "fb_date": "9 August 1998",
+  "team1": "Arsenal",
+  "team2": "Manchester United",
+  "score_raw": "3–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Overmars",
+    "minute": "34",
+    "note": ""
+   },
+   {
+    "player": "Wreh",
+    "minute": "57",
+    "note": ""
+   },
+   {
+    "player": "Anelka",
+    "minute": "72",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "67,342",
+  "referee": "Graham Poll (Hertfordshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Lee Dixon",
+    "type": "Y",
+    "minute": "81"
+   },
+   {
+    "player": "Martin Keown",
+    "type": "Y",
+    "minute": "22"
+   }
+  ],
+  "manager2": "Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Gary Neville",
+    "type": "Y",
+    "minute": "3"
+   },
+   {
+    "player": "Denis Irwin",
+    "type": "Y",
+    "minute": "26"
+   },
+   {
+    "player": "Phil Neville",
+    "type": "Y",
+    "minute": "79"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "1999 FA Charity Shield",
+  "fb_date": "1 August 1999",
+  "team1": "Arsenal",
+  "team2": "Manchester United",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Kanu",
+    "minute": "67",
+    "note": "pen."
+   },
+   {
+    "player": "Parlour",
+    "minute": "78",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Yorke",
+    "minute": "36",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "70,185",
+  "referee": "Graham Barber (Hertfordshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://www.theguardian.com/football/1999/aug/02/newsstory.sport4 Report]",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Martin Keown",
+    "type": "Y",
+    "minute": "25"
+   },
+   {
+    "player": "Patrick Vieira",
+    "type": "Y",
+    "minute": "25"
+   }
+  ],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [
+   {
+    "player": "David Beckham",
+    "type": "Y",
+    "minute": "21"
+   },
+   {
+    "player": "Nicky Butt",
+    "type": "Y",
+    "minute": "25"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "2",
+    "1"
+   ],
+   "Shots on target": [
+    "3",
+    "3"
+   ],
+   "Shots off target": [
+    "5",
+    "3"
+   ],
+   "Corner kicks": [
+    "6",
+    "7"
+   ],
+   "Yellow cards": [
+    "2",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2000 FA Charity Shield",
+  "fb_date": "13 August 2000",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_raw": "2–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Hasselbaink",
+    "minute": "22",
+    "note": ""
+   },
+   {
+    "player": "Melchiot",
+    "minute": "73",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Wembley Stadium",
+  "attendance": "65,148",
+  "referee": "Mike Riley (West Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://news.bbc.co.uk/sport2/hi/football/879061.stm (Report)]<br />[https://www.11v11.com/matches/chelsea-v-manchester-united-13-august-2000-2361/ (Teams)]",
+  "manager1": "Gianluca Vialli",
+  "cards1": [],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Roy Keane",
+    "type": "R",
+    "minute": "62"
+   },
+   {
+    "player": "Paul Scholes",
+    "type": "Y",
+    "minute": "81"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2001 FA Charity Shield",
+  "fb_date": "12 August 2001",
+  "team1": "Liverpool",
+  "team2": "Manchester United",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "McAllister",
+    "minute": "2",
+    "note": "pen."
+   },
+   {
+    "player": "Owen",
+    "minute": "16",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Van Nistelrooy",
+    "minute": "51",
+    "note": ""
+   }
+  ],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "70,227",
+  "referee": "Andy D'Urso (Essex)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[https://news.bbc.co.uk/sport2/hi/football/1487037.stm Report]",
+  "manager1": "Gérard Houllier",
+  "cards1": [
+   {
+    "player": "Danny Murphy",
+    "type": "Y",
+    "minute": "35"
+   }
+  ],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Paul Scholes",
+    "type": "Y",
+    "minute": "17"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2002 FA Community Shield",
+  "fb_date": "11 August 2002",
+  "team1": "Arsenal",
+  "team2": "Liverpool",
+  "score_raw": "1–0",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Gilberto",
+    "minute": "69",
+    "note": ""
+   }
+  ],
+  "goals2": [],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "67,337",
+  "referee": "Alan Wiley (Staffordshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "{{Deprecated archive|url=https://archive.today/20040621224728/http://www.thefa.com/TheFACup/TheFACommunityShield/NewsAndFeatures/Postings/2002/08/21438.htm|title=Report}}<br /><ref>{{cite news |title=Slick Arsenal win Shield |url=https://news.bbc.co.uk/sport2/hi/football/2182875.stm |work=BBC Sport|date=11 August 2002 |access-date=23 July 2013}}</ref>",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Sylvain Wiltord",
+    "type": "Y",
+    "minute": "24"
+   },
+   {
+    "player": "Thierry Henry",
+    "type": "Y",
+    "minute": "44"
+   }
+  ],
+  "manager2": "Gérard Houllier",
+  "cards2": [
+   {
+    "player": "Steven Gerrard",
+    "type": "Y",
+    "minute": "6"
+   },
+   {
+    "player": "Danny Murphy",
+    "type": "Y",
+    "minute": "82"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "1",
+    "0"
+   ],
+   "Possession": [
+    "56%",
+    "44%"
+   ],
+   "Shots on target": [
+    "9",
+    "1"
+   ],
+   "Shots off target": [
+    "3",
+    "6"
+   ],
+   "Corner kicks": [
+    "5",
+    "7"
+   ],
+   "Offsides": [
+    "3",
+    "1"
+   ],
+   "Yellow cards": [
+    "4",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2003 FA Community Shield",
+  "fb_date": "10 August 2003",
+  "team1": "Arsenal",
+  "team2": "Manchester United",
+  "score_raw": "1–1",
+  "aet": "",
+  "penaltyscore": "3–4",
+  "goals1": [
+   {
+    "player": "Henry",
+    "minute": "20",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Silvestre",
+    "minute": "15",
+    "note": ""
+   }
+  ],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "59,923",
+  "referee": "Steve Bennett (Kent)",
+  "penalties1": "Edu Van Bronckhorst Wiltord Lauren Pires",
+  "penalties2": "Scholes Ferdinand Van Nistelrooy Solskjær Forlán",
+  "report": "{{Deprecated archive|url=https://archive.today/20120817071035/http://www.thefa.com/Competitions/FACompetitions/TheFACommunityShield/pastwinners/2003-manunitedvarsenal|title=Report}}",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Ashley Cole",
+    "type": "Y",
+    "minute": "2"
+   },
+   {
+    "player": "Patrick Vieira",
+    "type": "Y",
+    "minute": "52"
+   },
+   {
+    "player": "Francis Jeffers",
+    "type": "R",
+    "minute": "72"
+   }
+  ],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Phil Neville",
+    "type": "Y",
+    "minute": "1"
+   },
+   {
+    "player": "Quinton Fortune",
+    "type": "Y",
+    "minute": "59"
+   },
+   {
+    "player": "Paul Scholes",
+    "type": "Y",
+    "minute": "53"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2004 FA Community Shield",
+  "fb_date": "8 August 2004",
+  "team1": "Arsenal",
+  "team2": "Manchester United",
+  "score_raw": "3–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Gilberto",
+    "minute": "50",
+    "note": ""
+   },
+   {
+    "player": "Reyes",
+    "minute": "58",
+    "note": ""
+   },
+   {
+    "player": "Silvestre",
+    "minute": "79",
+    "note": "o.g."
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Smith",
+    "minute": "55",
+    "note": ""
+   }
+  ],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "63,317",
+  "referee": "Mike Dean (Cheshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "{{Deprecated archive|url=https://archive.today/20090827052020/http://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/PastWinners/2004-ArsenalvManUnited.aspx|title=Report}}",
+  "manager1": "Arsène Wenger",
+  "cards1": [],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "3",
+    "1"
+   ],
+   "Possession": [
+    "48%",
+    "52%"
+   ],
+   "Shots on target": [
+    "10",
+    "8"
+   ],
+   "Shots off target": [
+    "6",
+    "3"
+   ],
+   "Saves": [
+    "9",
+    "8"
+   ],
+   "Corner kicks": [
+    "5",
+    "7"
+   ],
+   "Offsides": [
+    "2",
+    "8"
+   ],
+   "Yellow cards": [
+    "1",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2005 FA Community Shield",
+  "fb_date": "7 August 2005",
+  "team1": "Arsenal",
+  "team2": "Chelsea",
+  "score_raw": "1–2",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Fàbregas",
+    "minute": "64",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Drogba",
+    "minute": "8",
+    "note": ""
+   },
+   {
+    "player": "Drogba",
+    "minute": "58",
+    "note": ""
+   }
+  ],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "58,014",
+  "referee": "Howard Webb (South Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "{{Deprecated archive|url=https://archive.today/20050809002204/http://www.thefa.com/TheFACup/TheFACommunityShield/NewsAndFeatures/Postings/2005/07/CommunityShield2005_MatchReport.htm|title=Report}}",
+  "manager1": "Arsène Wenger",
+  "cards1": [
+   {
+    "player": "Cesc Fàbregas",
+    "type": "Y",
+    "minute": "24"
+   }
+  ],
+  "manager2": "José Mourinho",
+  "cards2": [
+   {
+    "player": "Claude Makélélé",
+    "type": "Y",
+    "minute": "24"
+   },
+   {
+    "player": "Frank Lampard",
+    "type": "Y",
+    "minute": "82"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Goals scored": [
+    "1",
+    "2"
+   ],
+   "Shots on target": [
+    "7",
+    "3"
+   ],
+   "Shots off target": [
+    "5",
+    "5"
+   ],
+   "Corner kicks": [
+    "4",
+    "5"
+   ],
+   "Fouls committed": [
+    "7",
+    "17"
+   ],
+   "Offsides": [
+    "2",
+    "10"
+   ],
+   "Yellow cards": [
+    "1",
+    "2"
+   ],
+   "Red cards": [
+    "0",
+    "0"
+   ],
+   "Passing success": [
+    "84%",
+    "72.6%"
+   ],
+   "Possession": [
+    "58.8%",
+    "41.2%"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2006 FA Community Shield",
+  "fb_date": "13 August 2006",
+  "team1": "Liverpool",
+  "team2": "Chelsea",
+  "score_raw": "2–1",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Riise",
+    "minute": "9",
+    "note": ""
+   },
+   {
+    "player": "Crouch",
+    "minute": "80",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Shevchenko",
+    "minute": "44",
+    "note": ""
+   }
+  ],
+  "stadium": "Millennium Stadium, Cardiff",
+  "attendance": "56,275",
+  "referee": "Martin Atkinson (West Yorkshire)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://www.lfchistory.net/SeasonArchive/Game/4992 Report]",
+  "manager1": "Rafael Benítez",
+  "cards1": [
+   {
+    "player": "Xabi Alonso",
+    "type": "Y",
+    "minute": "61"
+   }
+  ],
+  "manager2": "José Mourinho",
+  "cards2": [
+   {
+    "player": "Michael Ballack",
+    "type": "Y",
+    "minute": "7"
+   },
+   {
+    "player": "Frank Lampard",
+    "type": "Y",
+    "minute": "15"
+   },
+   {
+    "player": "Lassana Diarra",
+    "type": "Y",
+    "minute": "68"
+   }
+  ],
+  "officials": {},
+  "stats": {
+   "Red cards": [
+    "0||0",
+    "}"
+   ]
+  },
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2007 FA Community Shield",
+  "fb_date": "5 August 2007",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_raw": "1–1",
+  "aet": "",
+  "penaltyscore": "0–3",
+  "goals1": [
+   {
+    "player": "Malouda",
+    "minute": "45",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Giggs",
+    "minute": "35",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "80,731",
+  "referee": "Mark Halsey (Lancashire)",
+  "penalties1": "Pizarro Lampard Wright-Phillips",
+  "penalties2": "Ferdinand Carrick Rooney",
+  "report": "[http://news.bbc.co.uk/sport1/hi/football/6929113.stm Report]",
+  "manager1": "José Mourinho",
+  "cards1": [
+   {
+    "player": "Ricardo Carvalho",
+    "type": "Y",
+    "minute": "63"
+   },
+   {
+    "player": "Tal Ben Haim",
+    "type": "Y",
+    "minute": "33"
+   },
+   {
+    "player": "Mikel John Obi",
+    "type": "Y",
+    "minute": "90+1"
+   }
+  ],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Wayne Rooney",
+    "type": "Y",
+    "minute": "45+3"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2008 FA Community Shield",
+  "fb_date": "10 August 2008",
+  "team1": "Manchester United",
+  "team2": "Portsmouth",
+  "score_raw": "0–0",
+  "aet": "",
+  "penaltyscore": "3–1",
+  "goals1": [],
+  "goals2": [],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "84,808",
+  "referee": "Peter Walton (Northamptonshire)",
+  "penalties1": "Tevez Giggs Carrick",
+  "penalties2": "Diarra Defoe Mvuemba Johnson",
+  "report": "[http://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/PastWinners/2008-ManUnitedvPortsmouth.aspx Report]",
+  "manager1": "Sir Alex Ferguson",
+  "cards1": [
+   {
+    "player": "Gary Neville",
+    "type": "Y",
+    "minute": "61"
+   },
+   {
+    "player": "Nemanja Vidić",
+    "type": "Y",
+    "minute": "45"
+   }
+  ],
+  "manager2": "Harry Redknapp",
+  "cards2": [
+   {
+    "player": "Sylvain Distin",
+    "type": "Y",
+    "minute": "37"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2009 FA Community Shield",
+  "fb_date": "9 August 2009",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_raw": "2–2",
+  "aet": "",
+  "penaltyscore": "4–1",
+  "goals1": [
+   {
+    "player": "Carvalho",
+    "minute": "52",
+    "note": ""
+   },
+   {
+    "player": "Lampard",
+    "minute": "70",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Nani",
+    "minute": "10",
+    "note": ""
+   },
+   {
+    "player": "Rooney",
+    "minute": "90+2",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "85,896",
+  "referee": "Chris Foy (Merseyside)",
+  "penalties1": "Lampard Ballack Drogba Kalou",
+  "penalties2": "Giggs Carrick Evra",
+  "report": "[http://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/FAMatchCentre/2009/Chelsea_v_ManUtd/manutd_chelsea_report_090809.aspx Report]",
+  "manager1": "Carlo Ancelotti",
+  "cards1": [
+   {
+    "player": "Branislav Ivanović",
+    "type": "Y",
+    "minute": "13"
+   }
+  ],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [
+   {
+    "player": "Patrice Evra",
+    "type": "Y",
+    "minute": "80"
+   },
+   {
+    "player": "Dimitar Berbatov",
+    "type": "Y",
+    "minute": "4"
+   },
+   {
+    "player": "Michael Owen",
+    "type": "Y",
+    "minute": "86"
+   }
+  ],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ },
+ {
+  "article": "2010 FA Community Shield",
+  "fb_date": "8 August 2010",
+  "team1": "Chelsea",
+  "team2": "Manchester United",
+  "score_raw": "1–3",
+  "aet": "",
+  "penaltyscore": "",
+  "goals1": [
+   {
+    "player": "Kalou",
+    "minute": "83",
+    "note": ""
+   }
+  ],
+  "goals2": [
+   {
+    "player": "Valencia",
+    "minute": "41",
+    "note": ""
+   },
+   {
+    "player": "Hernández",
+    "minute": "76",
+    "note": ""
+   },
+   {
+    "player": "Berbatov",
+    "minute": "90+2",
+    "note": ""
+   }
+  ],
+  "stadium": "Wembley Stadium, London",
+  "attendance": "84,623",
+  "referee": "Andre Marriner (West Midlands)",
+  "penalties1": "",
+  "penalties2": "",
+  "report": "[http://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/FAMatchCentre/2010/ChelseavManUtd/report Report]",
+  "manager1": "Carlo Ancelotti",
+  "cards1": [],
+  "manager2": "Sir Alex Ferguson",
+  "cards2": [],
+  "officials": {},
+  "stats": {},
+  "var_mentioned": false,
+  "glt_mentioned": false,
+  "comp": "Charity/Community Shield"
+ }
+]

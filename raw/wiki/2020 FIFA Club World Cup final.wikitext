@@ -1,0 +1,450 @@
+{{short description|Final of the 2020 edition of Club World Cup}}
+{{EngvarB|date=December 2020}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox football match
+| title              = 2020 FIFA Club World Cup final
+| event              = [[2020 FIFA Club World Cup]]
+| image              = Aerial view of Education City Stadium and Oxygen Park in Al Rayyan (Education City Stadium) crop.jpg
+| imagesize          = 250
+| caption            = The Education City Stadium in Al Rayyan hosted the final.
+| team1              = [[FC Bayern Munich|Bayern Munich]]
+| team1association   = {{fbaicon|GER|size=30px}}
+| team1score         = 1
+| team2              = [[Tigres UANL]]
+| team2association   = {{fbaicon|MEX|size=30px}}
+| team2score         = 0
+| date               = {{Start date|2021|2|11|df=y}}
+| stadium            = [[Education City Stadium]]
+| city               = [[Al Rayyan (city)|Al Rayyan]]
+| man_of_the_match1a = [[Joshua Kimmich]] {{nowrap|(Bayern Munich)}}<ref name="MOTM">{{cite web |url=https://www.fifa.com/clubworldcup/matches/match/400154013/#potm |title= Alibaba Cloud Match Award winner: Joshua Kimmich |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=11 February 2021 |access-date=5 March 2021 |url-status=dead |archive-url=https://archive.today/20210317071405/https://www.fifa.com/clubworldcup/matches/match/400154013/%23potm |archive-date=17 March 2021}}</ref>
+| referee            = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])<ref name="start list">{{cite web |url=https://resources.fifa.com/image/upload/eng-08-1102-bay-tig-start.pdf?cloudid=wbck9b7zrsthdmiqrow6 |archive-url=https://web.archive.org/web/20210211220334/https://resources.fifa.com/image/upload/eng-08-1102-bay-tig-start.pdf?cloudid=wbck9b7zrsthdmiqrow6 |url-status=dead |archive-date=11 February 2021 |title=Start list – Final – FC Bayern München v Tigres UANL |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=11 February 2021 |access-date=11 February 2021}}</ref>
+| attendance         = 7,411<ref name="attendance"/>
+| weather            = Clear night<br />{{convert|19|°C|°F|abbr=on}}<br />78% [[humidity]]<ref>{{cite web |url=https://www.fifa.com/clubworldcup/matches/match/400154013/#match-info |title=Match Facts: Final – FC Bayern München v Tigres UANL |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=11 February 2021 |access-date=11 February 2021 |url-status=dead |archive-url=https://archive.today/20210211211853/https://www.fifa.com/clubworldcup/matches/match/400154013/%23match-info |archive-date=11 February 2021}}</ref>
+| previous           = [[2019 FIFA Club World Cup final|2019]]
+| next               = [[2021 FIFA Club World Cup final|2021]]
+}}
+The '''2020 FIFA Club World Cup final''' was the final match of the [[2020 FIFA Club World Cup]], an international club [[association football|football]] tournament hosted by Qatar. It was the 17th final of the [[FIFA Club World Cup]], a [[FIFA]]-organised tournament between the club champions from each of the six continental confederations, as well as the host nation's league champions.
+
+The final was contested by German club [[FC Bayern Munich|Bayern Munich]], representing [[UEFA]] as the reigning champions of the [[UEFA Champions League]], and Mexican club [[Tigres UANL]], representing [[CONCACAF]] as the reigning champions of the [[CONCACAF Champions League]]. It was the first time a team from the [[CONCACAF]] region played in the final.
+
+The match was played at the [[Education City Stadium]] in [[Al Rayyan (city)|Al Rayyan]] on 11 February 2021.<ref name="schedule">{{cite web |url=https://digitalhub.fifa.com/m/8303a390a2f63f48/original/g8451lwivpdwkfumfyr3-pdf.pdf |title=FIFA Club World Cup Qatar 2020: Match schedule |work=FIFA |date=21 January 2021 |access-date=21 January 2021}}</ref> The final was originally scheduled to be played in December 2020, but was moved to February due to the impact of the [[COVID-19 pandemic]] on the scheduling of the various continental club competitions.<ref>{{cite news |url=https://www.fifa.com/who-we-are/news/update-on-fifa-club-world-cup-2020-and-women-s-youth-tournaments |title=Update on FIFA Club World Cup 2020 and women's youth tournaments |publisher=Fédération Internationale de Football Association|website=FIFA.com |date=17 November 2020 |access-date=17 November 2020}}</ref>
+
+Bayern Munich won the match 1–0 for their second FIFA Club World Cup title and fourth [[List of world champion football clubs|title at the global level]]. With the win, Bayern became the second European team to complete a sextuple (six trophies in a year) after [[FC Barcelona|Barcelona]] in 2009; they had won a [[Treble (association football)#Continental trebles|continental treble]] in the previous season, along with their [[2020 DFL-Supercup|domestic]] and [[2020 UEFA Super Cup|continental]] super cups in the 2020–21 campaign.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/pavard-completes-sextuple-for-dominant-bayern |title=Pavard completes sextuple for dominant Bayern |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=11 February 2021 |access-date=11 February 2021}}</ref>
+
+==Teams==
+{{Hatnote|In the following table, finals until 2005 were in the FIFA Club World Championship era, since 2006 were in the FIFA Club World Cup era.}}
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification for tournament
+!Previous club world championship finals<br />
+|-
+|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|[[UEFA]]
+|Winners of the [[2019–20 UEFA Champions League]]
+|IC: 2 ('''[[1976 Intercontinental Cup|1976]]''', '''[[2001 Intercontinental Cup|2001]]''')<br />FCWC: 1 ('''[[2013 FIFA Club World Cup final|2013]]''')
+|-
+|{{fbaicon|MEX}} [[Tigres UANL]]
+|[[CONCACAF]]
+|Winners of the [[2020 CONCACAF Champions League]]
+|None
+|}
+
+==Venue==
+The [[Education City Stadium]] in [[Al Rayyan (city)|Al Rayyan]], Qatar was announced as the final venue on 23 December 2020.<ref name="venues">{{cite news |url=https://www.fifa.com/clubworldcup/news/education-city-ahmad-bin-ali-and-khalifa-international-to-host-fifa-club-world-c |archive-url=https://web.archive.org/web/20201223120141/https://www.fifa.com/clubworldcup/news/education-city-ahmad-bin-ali-and-khalifa-international-to-host-fifa-club-world-c |url-status=dead |archive-date=23 December 2020 |title=Education City, Ahmad Bin Ali and Khalifa International to host FIFA Club World Cup matches |work=FIFA |date=23 December 2020 |access-date=23 December 2020}}</ref> The venue finished construction and opened in 2020, and will host matches at the [[2022 FIFA World Cup]].<ref>{{cite news |url=https://www.gulf-times.com/story/664827/Education-City-Stadium-completed |title=Education City Stadium completed |work=[[Gulf Times]] |date=4 June 2020 |access-date=28 December 2020}}</ref> Originally, the stadium was to host the second semi-final, third place play-off and [[2019 FIFA Club World Cup|final]] of the [[2019 FIFA Club World Cup]],<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/education-city-stadium-to-host-fifa-club-world-cup-qatar-2020tm-final |title=Education City Stadium to host FIFA Club World Cup Qatar 2020 final |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=30 September 2020 |access-date=30 September 2020}}{{dead link|date=October 2021|bot=medic}}{{cbignore|bot=medic}}</ref> but the matches were moved to the [[Khalifa International Stadium]] after the opening of the Education City Stadium was postponed.<ref>{{cite web |title=New FIFA Club World Cup champions to be crowned at Khalifa International Stadium |url=https://www.fifa.com/clubworldcup/news/new-fifa-club-world-cuptm-champions-to-be-crowned-at-khalifa-international-stadi |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=7 December 2020 |accessdate=7 December 2020}}</ref>
+
+==Background==
+[[FC Bayern Munich|Bayern Munich]] reached their second Club World Cup Final in two tournament appearances, having done so in [[2013 FIFA Club World Cup Final|2013]], which they won against [[Raja CA|Raja Casablanca]]. Overall, it was their fourth [[List of world champion football clubs|club world championship final]], having won their [[Intercontinental Cup (1960–2004)|Intercontinental Cup]] in [[1976 Intercontinental Cup|1976]] and [[2001 Intercontinental Cup|2001]].<ref>{{cite web |last1=Magnani |first1=Loris |last2=Stokkermans |first2=Karel |url=https://www.rsssf.org/tablest/toyota.html |title=Intercontinental Club Cup |work=[[RSSSF]] |date=17 September 2020 |access-date=11 February 2021}}</ref> Bayern Munich were seeking their sixth title in a year, having won the [[2019–20 Bundesliga|Bundesliga]], [[2019–20 DFB-Pokal|DFB-Pokal]] and [[2019–20 UEFA Champions League|UEFA Champions League]] in the [[2019–20 FC Bayern Munich season|2019–20 season]], followed by the [[2020 UEFA Super Cup|UEFA Super Cup]] and [[2020 DFL-Supercup|DFL-Supercup]] so far in the [[2020–21 FC Bayern Munich season|2020–21 campaign]]. Therefore, a victory would see become the second team to win a sextuple, consisting of a continental treble (domestic league, domestic cup and continental competition), followed by the subsequent domestic and continental [[super cup]]s and FIFA Club World Cup in the following season. This feat had only previously been achieved by [[FC Barcelona|Barcelona]] in 2009 (end of the [[2008–09 FC Barcelona season|2008–09 season]] and start of the [[2009–10 FC Barcelona season|2009–10 season]]).<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/lewandowski-bayern-can-complete-one-of-football-s-biggest-achievements |title=Lewandowski: Bayern can complete one of football's biggest achievements |work=[[FIFA]] |date=7 February 2021 |access-date=11 February 2021}}</ref>
+
+[[Tigres UANL]] became the first side from [[CONCACAF]] to reach the final of the Club World Cup. They were making their debut appearance in the competition, having qualified by winning their first [[CONCACAF Champions League]] title in [[2020 CONCACAF Champions League|2020]].<ref name="RSSSF">{{cite web |last1=Leme de Arruda |first1=Marcelo |last2=Di Maggio |first2=Roberto |url=https://www.rsssf.org/tablesf/fifawcc.html |title=FIFA Club World Cup |website=[[RSSSF]] |date=10 January 2020 |access-date=7 February 2021}}</ref>
+
+==Route to the final==
+{| class="wikitable"
+|-
+!width=350 colspan=2|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+!Team
+!width=350 colspan=2|{{fbaicon|MEX}} [[Tigres UANL]]
+|- style="background:#C1E0FF"
+|align=center|Opponent
+|align=center|Result
+|align=center|[[2020 FIFA Club World Cup]]
+|align=center|Opponent
+|align=center|Result
+|-
+|align=center colspan=2|Bye
+|align=center style="background:#C1E0FF"|Second round
+|{{fbaicon|KOR}} [[Ulsan Hyundai FC|Ulsan Hyundai]]
+|align=center|[[2020 FIFA Club World Cup#Match 2|2–1]]
+|-
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|align=center|[[2020 FIFA Club World Cup#Match 6|2–0]]
+|align=center style="background:#C1E0FF"|Semi-finals
+|{{fbaicon|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|align=center|[[2020 FIFA Club World Cup#Match 5|1–0]]
+|}
+
+==Match==
+===Summary===
+In the 59th minute, [[Benjamin Pavard]] got the only goal of the game when he shot into an empty net from six yards out after the ball came to him when [[Robert Lewandowski]] challenged for a ball in the air with Tigres UANL goalkeeper [[Nahuel Guzmán]]. The goal was reviewed by [[Video assistant referee|VAR]] for an offside before eventually being awarded.<ref>{{cite web|url=https://www.theguardian.com/football/2021/feb/11/bayern-beat-tigres-in-club-world-cup-final-to-earn-sixth-trophy-in-nine-months|title=Bayern beat Tigres in Club World Cup final to earn sixth trophy in nine months|date=11 February 2021|work=Guardian|accessdate=10 February 2022}}</ref> 
+
+===Details===
+<onlyinclude>{{Football box
+|id=Match 8
+|date={{Start date|2021|2|11|df=y}}
+|time=21:00 <noinclude>[[Arabia Standard Time|AST]]</noinclude>
+|team1=[[FC Bayern Munich|Bayern Munich]] {{fbaicon|GER}}
+|score=1–0
+|report=https://www.fifa.com/en/match-centre/match/107/284690/284696/400154013
+|team2={{fbaicon|MEX}} [[Tigres UANL]]
+|goals1=
+*[[Benjamin Pavard|Pavard]] {{goal|59}}
+|goals2=
+|stadium=[[Education City Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance=7,411<ref name="attendance">{{cite web |url=https://api.fifa.com/api/v1/live/football/2/0/0/400154013 |title=Bayern Munich vs. Tigres UANL |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=11 February 2021 |access-date=17 March 2021 |archive-date=20 August 2021 |archive-url=https://web.archive.org/web/20210820091734/https://api.fifa.com/api/v1/live/football/2/0/0/400154013 |url-status=dead }}</ref>
+|referee=[[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _bayern2021h
+ |pattern_b  = _fcbm2021h
+ |pattern_ra = _bayern2021h
+ |pattern_sh = _adidascondivo20rw
+ |pattern_so = _3_stripes_white
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FF0000
+ |socks      = FF0000
+ |title      = {{nowrap|Bayern Munich}}<ref name="lineups">{{cite web |url=https://resources.fifa.com/image/upload/eng-08-1102-bay-tig-tacticalstartlist.pdf?cloudid=cx51u0tmloc3wfp4el1w |archive-url=https://web.archive.org/web/20210211220315/https://resources.fifa.com/image/upload/eng-08-1102-bay-tig-tacticalstartlist.pdf?cloudid=cx51u0tmloc3wfp4el1w |url-status=dead |archive-date=11 February 2021 |title=Tactical Line-up – Final – FC Bayern München v Tigres UANL |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=11 February 2021 |access-date=11 February 2021}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _tigres2021h
+ |pattern_b  = _tigres2021H
+ |pattern_ra = _tigres2021h
+ |pattern_sh = _tigres2021h
+ |pattern_so = _tigres2021h
+ |leftarm    = FFCB09
+ |body       = FFCB09
+ |rightarm   = FFCB09
+ |shorts     = FFCB09
+ |socks      = FFCB09
+ |title      = Tigres UANL<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Manuel Neuer]] ([[Captain (association football)|c]])
+|-
+|RB ||'''5''' ||{{flagicon|FRA}} [[Benjamin Pavard]]
+|-
+|CB ||'''4''' ||{{flagicon|GER}} [[Niklas Süle]]
+|-
+|CB ||'''21'''||{{flagicon|FRA}} [[Lucas Hernandez]]
+|-
+|LB ||'''19'''||{{flagicon|CAN}} [[Alphonso Davies]]
+|-
+|CM ||'''6''' ||{{flagicon|GER}} [[Joshua Kimmich]]
+|-
+|CM ||'''27'''||{{flagicon|AUT}} [[David Alaba]]
+|-
+|RW ||'''10'''||{{flagicon|GER}} [[Leroy Sané]] || || {{suboff|73}}
+|-
+|AM ||'''29'''||{{flagicon|FRA}} [[Kingsley Coman]] || || {{suboff|73}}
+|-
+|LW ||'''7''' ||{{flagicon|GER}} [[Serge Gnabry]] || || {{suboff|64}}
+|-
+|CF ||'''9''' ||{{flagicon|POL}} [[Robert Lewandowski]] || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''34'''||{{flagicon|GER}} [[Lukas Schneller]]
+|-
+|GK ||'''39'''||{{flagicon|GER}} [[Ron-Thorben Hoffmann]]
+|-
+|DF ||'''20'''||{{flagicon|FRA}} [[Bouna Sarr]]
+|-
+|MF ||'''22'''||{{flagicon|ESP}} [[Marc Roca (footballer)|Marc Roca]]
+|-
+|MF ||'''24'''||{{flagicon|FRA}} [[Corentin Tolisso]] || || {{subon|64}}
+|-
+|MF ||'''28'''||{{flagicon|POR}} [[Tiago Dantas]]
+|-
+|MF ||'''42'''||{{flagicon|ENG<!--Did not declare for Germany at the time of the match-->}} [[Jamal Musiala]] || || {{subon|73}}
+|-
+|FW ||'''11'''||{{flagicon|BRA}} [[Douglas Costa]] || || {{subon|73}}
+|-
+|FW ||'''13'''||{{flagicon|CMR}} [[Eric Maxim Choupo-Moting]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Hansi Flick]]
+|}
+|valign="top"|[[File:Bayern Munich vs UANL 2021-02-11.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Nahuel Guzmán]]
+|-
+|RB ||'''28'''||{{flagicon|MEX}} [[Luis Alfonso Rodríguez|Luis Rodríguez]] || {{yel|69}} || {{suboff|80}}
+|-
+|CB ||'''13'''||{{flagicon|MEX}} [[Diego Reyes]]
+|-
+|CB ||'''3''' ||{{flagicon|MEX}} [[Carlos Salcedo]]
+|-
+|LB ||'''29'''||{{flagicon|MEX}} [[Jesús Dueñas]] || {{yel|42}}
+|-
+|RM ||'''20'''||{{flagicon|MEX}} [[Javier Aquino]]
+|-
+|CM ||'''5''' ||{{flagicon|BRA}} [[Rafael Carioca]] || {{yel|90}}
+|-
+|CM ||'''19'''||{{flagicon|ARG}} [[Guido Pizarro]] ([[Captain (association football)|c]])
+|-
+|LM ||'''23'''||{{flagicon|COL}} [[Luis Enrique Quiñones|Luis Quiñones]]
+|-
+|CF ||'''32'''||{{flagicon|PAR}} [[Carlos González Espínola|Carlos González]]
+|-
+|CF ||'''10'''||{{flagicon|FRA}} [[André-Pierre Gignac]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''35'''||{{flagicon|MEX}} [[Juan Pablo Chávez]]
+|-
+|GK ||'''50'''||{{flagicon|MEX}} [[Arturo Delgado Covarrubias|Arturo Delgado]]
+|-
+|DF ||'''4''' ||{{flagicon|MEX}} [[Hugo Ayala]]
+|-
+|DF ||'''14'''||{{flagicon|MEX}} [[Juan Sánchez (footballer, born 1998)|Juan Sánchez]]
+|-
+|DF ||'''18'''||{{flagicon|MEX}} [[Aldo Cruz]]
+|-
+|DF ||'''21'''||{{flagicon|COL}} [[Francisco Meza]]
+|-
+|DF ||'''43'''||{{flagicon|MEX}} [[Érick Ávalos]]
+|-
+|MF ||'''8''' ||{{flagicon|ECU}} [[Jordan Sierra]]
+|-
+|MF ||'''17'''||{{flagicon|URU}} [[Leonardo Fernández (Uruguayan footballer)|Leonardo Fernández]]
+|-
+|MF ||'''22'''||{{flagicon|MEX}} [[Raymundo Fulgencio]]
+|-
+|FW ||'''33'''||{{flagicon|COL}} [[Julián Quiñones]] || || {{subon|80}}
+|-
+|FW ||'''52'''||{{flagicon|MEX}} [[Patrick Ogama]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|BRA}} [[Ricardo Ferretti]]
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Joshua Kimmich]] (Bayern Munich)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="start list"/>
+<br />Nicolás Taran ([[Uruguayan Football Association|Uruguay]])
+<br />Richard Trinidad ([[Uruguayan Football Association|Uruguay]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="start list"/>
+<br />[[Edina Alves Batista]] ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="start list"/>
+<br />Neuza Back ([[Brazilian Football Confederation|Brazil]])
+<br />'''[[Video assistant referee]]:'''<ref name="start list"/>
+<br />[[Julio Bascuñán]] ([[Football Federation of Chile|Chile]]){{efn|group=note|name=VAR|Nicolás Gallo ([[Colombian Football Federation|Colombia]]) was originally appointed as the video assistant referee for the final, with [[Julio Bascuñán]] ([[Football Federation of Chile|Chile]]) serving as the assistant video assistant referee.<ref>{{cite tweet |author=Fédération Internationale de Football Association |author-link=FIFA |user=fifamedia |number=1359425981187055616 |date=10 February 2021 |title=Referee designations FCWC 2020 – Final |access-date=11 February 2021 |url-status=live |archive-url=https://web.archive.org/web/20210211211834/https://twitter.com/fifamedia/status/1359425981187055616 |archive-date=11 February 2021}}</ref> However, Gallo was later removed from the match, with Bascuñán changed to the video assistant referee, and [[Khamis Al-Marri]] ([[Qatar Football Association|Qatar]]) appointed as the assistant video assistant referee.<ref name="start list"/>}}
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="start list"/>
+<br />[[Khamis Al-Marri]] ([[Qatar Football Association|Qatar]]){{efn|group=note|name=VAR}}
+| style="width:60%; vertical-align:top" |
+'''Match rules'''<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/4a92db447a7fd1be/original/i7wininfprqxol6ylkpr-pdf.pdf |title=FIFA Club World Cup Qatar 2020 Regulations}}</ref><ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/fifa-to-trial-concussion-substitutes-at-fifa-club-world-cuptm |title=FIFA to trial concussion substitutes at FIFA Club World Cup |work=[[FIFA]] |date=8 January 2021 |access-date=1 February 2021}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Maximum of twelve named substitutes
+*Maximum of five normal substitutions, with a sixth allowed in extra time{{refn|group=note|Each team was given only three opportunities to make substitutions, with a fourth opportunity in extra time, excluding substitutions made at half-time, before the start of extra time and at half-time in extra time.}}
+*Maximum of one [[Substitute (association football)#Concussion substitute|concussion substitute]]
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref>{{cite web |url=https://resources.fifa.com/image/upload/eng-08-1102-bay-tig-halftime.pdf?cloudid=rkx9ivroagmxkhm2b7cr |archive-url=https://web.archive.org/web/20210211220238/https://resources.fifa.com/image/upload/eng-08-1102-bay-tig-halftime.pdf?cloudid=rkx9ivroagmxkhm2b7cr |url-status=dead |archive-date=11 February 2021 |title=Match report, half-time – Final – FC Bayern München v Tigres UANL |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=11 February 2021 |access-date=11 February 2021}}</ref>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Bayern Munich
+! scope="col" style="width:70px"|Tigres UANL
+|-
+!scope=row|Goals scored
+|0
+|0
+|-
+!scope=row|Total shots
+|8
+|3
+|-
+!scope=row|Shots on target
+|4
+|1
+|-
+!scope=row|Saves
+|1
+|4
+|-
+!scope=row|Ball possession
+|58%
+|42%
+|-
+!scope=row|Corner kicks
+|3
+|2
+|-
+!scope=row|Fouls committed
+|6
+|6
+|-
+!scope=row|Offsides
+|2
+|0
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics">{{cite web |url=https://resources.fifa.com/image/upload/eng-08-1102-bay-tig-fulltime.pdf?cloudid=tko7fkg8biyfrgfdmjle |archive-url=https://web.archive.org/web/20210211220202/https://resources.fifa.com/image/upload/eng-08-1102-bay-tig-fulltime.pdf?cloudid=tko7fkg8biyfrgfdmjle |url-status=dead |archive-date=11 February 2021 |title=Match report – Final – FC Bayern München v Tigres UANL |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=11 February 2021 |access-date=11 February 2021}}</ref>
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Bayern Munich
+! scope="col" style="width:70px"|Tigres UANL
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|11
+|0
+|-
+!scope=row|Shots on target
+|5
+|0
+|-
+!scope=row|Saves
+|0
+|4
+|-
+!scope=row|Ball possession
+|52%
+|48%
+|-
+!scope=row|Corner kicks
+|1
+|0
+|-
+!scope=row|Fouls committed
+|6
+|5
+|-
+!scope=row|Offsides
+|0
+|3
+|-
+!scope=row|Yellow cards
+|0
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics" />
+|-
+! scope="col" style="width:100px"|Statistic
+! scope="col" style="width:70px"|Bayern Munich
+! scope="col" style="width:70px"|Tigres UANL
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|19
+|3
+|-
+!scope=row|Shots on target
+|9
+|1
+|-
+!scope=row|Saves
+|1
+|8
+|-
+!scope=row|Ball possession
+|55%
+|45%
+|-
+!scope=row|Corner kicks
+|4
+|2
+|-
+!scope=row|Fouls committed
+|12
+|11
+|-
+!scope=row|Offsides
+|2
+|3
+|-
+!scope=row|Yellow cards
+|0
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|https://www.fifa.com/clubworldcup/}}
+
+{{FIFA Club World Cup}}
+{{FC Bayern Munich matches}}
+{{Tigres UANL matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2020}}
+[[Category:2020 FIFA Club World Cup|Final]]
+[[Category:FIFA Club World Cup finals|2020]]
+[[Category:FC Bayern Munich matches]]
+[[Category:Tigres UANL matches]]
+[[Category:2020–21 in German football]]
+[[Category:2020–21 in Mexican football]]
+[[Category:2020–21 in Qatari football]]
+[[Category:Football matches in Qatar]]
+[[Category:February 2021 sports events in Asia]]
+[[Category:Association football events postponed due to the COVID-19 pandemic|FIFA Club World Cup Final, 2020]]
+[[Category:Sport in Al Rayyan]]
+[[Category:Germany–Mexico sports relations|2020]]

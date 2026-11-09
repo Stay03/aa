@@ -1,0 +1,636 @@
+{{Short description|Inaugural FIFA Club World Cup}}
+{{Use dmy dates|date=December 2022}}
+{{Infobox international football competition
+| tourney_name = FIFA Club World Championship
+| year = 2000
+| other_titles = ''Campeonato Mundial de Clubes da FIFA''<br />''Brasil 2000''
+| image = 2000 FIFA Club World Championship.svg
+| alt = Poster depicting a multicolored ball in a blue background. The lower half contains writing in a heavily stylised font: "FIFA Club World Championship 2000 Brazil".
+| country = Brazil
+| dates = 5–14 January
+| confederations = 6
+| num_teams = 8
+| venues = 2
+| cities = 2
+| champion_other = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| count = 1
+| second_other = {{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+| third_other = {{fbaicon|MEX}} [[Club Necaxa|Necaxa]]
+| fourth_other = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| matches = 14
+| goals = 43
+| attendance = 514000
+| top_scorer = {{nowrap|[[Romário]] (Vasco da Gama)<br />[[Nicolas Anelka]] (Real Madrid)<br />3 goals each}}
+| player = [[Edílson]] (Corinthians)
+| goalkeeper = [[Dida (footballer, born 1973)|Dida]] (Corinthians)
+| nextseason = [[2005 FIFA Club World Championship|2005]]<br><s>[[2001 FIFA Club World Championship|2001]]</s>
+}}
+The '''2000 FIFA Club World Championship''' was the inaugural [[FIFA Club World Cup]], the world club championship for [[Football team|men's club]] [[association football]] teams. It took place in [[Brazil]] from 5 to 14 January 2000. [[FIFA]] as football's international [[Sport governing body|governing body]] selected Brazil as the host nation on 8 June 1999 as the bid was found to be the strongest among four candidates.<ref>{{cite web|url=https://acervo.folha.com.br/leitor.do?numero=14274&keyword=Fifa%2CMorumbi%2CMaracana&anchor=704604&origem=busca&originURL=&pd=7029a4ba61ad255fa1e44f9dcc15b10a|title=Brasil recebe o primeiro mundial de clubes|date=8 June 1999|work=Folha de S.Paulo|accessdate=7 June 2022|language=pt-br}}</ref> The draw was made at the [[Copacabana Palace]] in [[Rio de Janeiro]] on 14 October 1999.<ref>{{cite news |title=Draw for the FIFA Club World Championship Brazil 2000 |url=https://www.fifa.com/tournaments/archive/clubworldcup/brazil2000/news/newsid=71333/index.html |archive-url=https://web.archive.org/web/20140826181351/http://www.fifa.com/tournaments/archive/clubworldcup/brazil2000/news/newsid=71333/index.html |url-status=dead |archive-date=26 August 2014 |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=14 October 1999 |access-date=26 August 2014}}</ref> All matches were played in either Rio de Janeiro's [[Estádio do Maracanã]] or [[São Paulo]]'s [[Estádio do Morumbi]].
+
+Eight teams, two from South America, two from Europe and one each from North America, Africa, Asia and Oceania entered the tournament. The first Club World Cup match took place in São Paulo and saw Spanish club [[Real Madrid CF|Real Madrid]] beat Saudi Arabian side [[Al Nassr FC|Al-Nassr]] 3–1; Real Madrid's [[Nicolas Anelka]] scored the first goal in Club World Cup history in the 21st minute. Later the same day, [[Sport Club Corinthians Paulista|Corinthians]] goalkeeper [[Dida (footballer, born 1973)|Dida]] kept the first [[clean sheet]] in the tournament as his team beat Moroccan side [[Raja CA|Raja Casablanca]] 2–0.
+
+Corinthians and [[CR Vasco da Gama|Vasco da Gama]] each won their respective groups to qualify for the [[2000 FIFA Club World Championship Final|final]]. In front of a crowd of 73,000, the final finished as a 0–0 draw after extra time. The title was decided by a [[Penalty shoot-out (association football)|penalty shoot-out]] which Corinthians won 4–3.<ref>{{cite web|url=http://news.bbc.co.uk/2/hi/special_report/1999/12/99/world_club_championship/604434.stm|title=Corinthians crowned world champions|date=15 January 2000|work=BBC Sport|accessdate=6 May 2021}}</ref>
+As winners, Corinthians received [[United States dollar|$]]6&nbsp;million in prize money, while Vasco da Gama received $5&nbsp;million. Necaxa beat Real Madrid in the match for third place to claim $4&nbsp;million. Real Madrid received $3&nbsp;million, and the other remaining teams were awarded $2.5&nbsp;million.<ref>{{cite news |title=28 million dollars in prize money on offer|url=https://www.fifa.com/tournaments/archive/clubworldcup/brazil2000/news/newsid=71817/index.html|archive-url=https://web.archive.org/web/20140826193319/http://www.fifa.com/tournaments/archive/clubworldcup/brazil2000/news/newsid=71817/index.html|url-status=dead|archive-date=26 August 2014|work=FIFA.com |publisher=Fédération Internationale de Football Association |date=3 January 2000 |access-date=26 August 2014}}</ref>
+
+==Host bids==
+Initially, there were nine candidates to host the competition: China, Brazil, Mexico, Paraguay, Saudi Arabia, Tahiti, Turkey, the United States and Uruguay; of the nine, only Saudi Arabia, Mexico, Brazil and Uruguay confirmed their interest to FIFA.<ref>{{cite news |last=Bose |first=Mihir |author-link=Mihir Bose |url=https://www.newspapers.com/clip/115288447/england-spurned-chance-to-host-key/ |title=England spurned chance to host key world event |newspaper=[[The Daily Telegraph]] |page=S1 |department=Sport |number=44,815 |date=17 July 1999 |access-date=28 December 2022}}</ref> On 7 June 1999, the FIFA Emergency Committee appointed Brazil as hosts of the competition during their meeting in [[Cairo]], Egypt.<ref>{{cite news |last=Rangel |first=Sérgio |url=https://www1.folha.uol.com.br/fsp/esporte/fk08069901.htm |title=Brasil recebe o 1º Mundial de clubes |trans-title=Brazil hosts the 1st Club World Cup |work=[[Folha de S.Paulo]] |date=8 June 1999 |access-date=28 December 2022 |language=pt}}</ref>
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of teams of the 2000 FIFA Club World Cup|places=
+<!--Host-->
+{{Location map~|World|lat=-23.550000|long=-46.633333|label_size=80|label=[[Sport Club Corinthians Paulista|Corinthians]]|position=left}}
+<!--CAF-->
+{{Location map~|World|lat=33.533333|long=-7.583333|label_size=80|label=[[Raja CA|Raja Casablanca]]|position=right}}
+<!--AFC-->
+{{Location map~|World|lat=24.633333|long=46.716667|label_size=80|label=[[Al Nassr FC|Al-Nassr]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=53.479444|long=-2.245278|label_size=80|label=[[Manchester United F.C.|Manchester United]]|position=right}}
+<!--CONCACAF-->
+{{Location map~|World|lat=21.876000|long=-102.296000|label_size=80|label=[[Club Necaxa|Necaxa]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-37.813611|long=144.963056|label_size=80|label=[[South Melbourne FC|South Melbourne]]|position=right}}
+<!--CONMEBOL-->
+{{Location map~|World|lat=-22.911366|long=-43.205916|label_size=80|label=[[CR Vasco da Gama|Vasco da Gama]]|position=right}}
+<!--IC Cup-->
+{{Location map~|World|lat=40.416667|long=-3.716667|label_size=80|label=[[Real Madrid CF|Real Madrid]]|position=left}}
+}}
+
+The clubs that played in the tournament were:
+{| class="wikitable"
+!Team
+!Confederation
+!Qualification
+!Participation
+|-
+|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|[[CONMEBOL]] ([[Brazilian Football Confederation|host]])
+|Winners of the [[1998 Campeonato Brasileiro Série A|1998 Campeonato Brasileiro]]
+|Debut
+|-
+|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[1999 CAF Champions League]]
+|Debut
+|-
+|{{fbaicon|KSA}} [[Al Nassr FC|Al-Nassr]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[1998 Asian Super Cup]]
+|Debut
+|-
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|[[UEFA]]
+|Winners of the [[1998–99 UEFA Champions League]]
+|Debut
+|-
+|{{fbaicon|MEX}} [[Club Necaxa|Necaxa]]
+|[[CONCACAF]]
+|Winners of the [[1999 CONCACAF Champions' Cup]]
+|Debut
+|-
+|{{fbaicon|AUS}} [[South Melbourne FC|South Melbourne]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[1999 OFC Club Championship|1999 Oceania Club Championship]]
+|Debut
+|-
+|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|[[CONMEBOL]]
+|Winners of the [[1998 Copa Libertadores]]
+|Debut
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[UEFA]]
+|Winners of the [[1998 Intercontinental Cup]]
+|Debut
+|}
+
+==Venues==
+{| class="wikitable" style="text-align:center"
+|-
+![[São Paulo]]
+!rowspan=5|{{Location map+|Brazil|width=250|float=right|caption=|places=
+{{location map~ |Brazil |lat=-22.911667 |long=-43.230278|label=[[Rio de Janeiro]]|position=right}}
+{{location map~ |Brazil |lat=-23.600112 |long=-46.720227|label=[[São Paulo]]|position=left}}}}
+![[Rio de Janeiro]]
+|-
+|[[Estádio do Morumbi|Morumbi]]
+|[[Estádio do Maracanã|Maracanã]]
+|-
+|{{small|{{Coord|23|36|0|S|46|43|12|W|type:landmark_source:dewiki|display=inline|name=Morumbi}}}}
+|{{small|{{Coord|22|54|42|S|43|13|49|W|type:landmark|display=inline|name=Maracanã}}}}
+|-
+|Capacity: '''80,000'''
+|Capacity: '''103,022'''
+|-
+|[[Image:Sao paulo and america de cali - recopa sudamericana of 2006 - 01.jpg|200px]]
+|[[Image:Maracanã Stadium in Rio de Janeiro.jpg|200px]]
+|}
+
+==Squads==
+For a list of the squads at the 2000 FIFA Club World Championship, see ''[[2000 FIFA Club World Championship squads]]''.
+
+==Match officials==
+Eight referees were appointed from the six continental confederations, each along with an accompanying assistant referee.<ref>{{cite web |title=Officials |url=https://www.fifa.com/mm/document/footballdevelopment/technicalsupport/02/25/81/21/115816-statistics-fifaclubworldchampionshipbrazil2000_neutral.pdf |archive-url=https://web.archive.org/web/20140712134918/http://www.fifa.com/mm/document/footballdevelopment/technicalsupport/02/25/81/21/115816-statistics-fifaclubworldchampionshipbrazil2000%5fneutral.pdf |url-status=dead |archive-date=12 July 2014 |page=33 |publisher=FIFA |access-date=28 April 2015 }}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referee(s)
+!Assistant(s)
+|-
+|AFC
+|{{fbaicon|KUW}} [[Saad Mane]]
+|{{fbaicon|KAZ}} Sergei Ufimtsev
+|-
+|CAF
+|{{fbaicon|SEN}} [[Falla N'Doye]]
+|{{fbaicon|UGA}} Ali Tomusangue
+|-
+|CONCACAF
+|{{fbaicon|CRC}} [[William Mattus]]
+|{{fbaicon|TRI}} Haseeb Mohammed
+|-
+|CONMEBOL
+|{{fbaicon|ARG}} [[Horacio Elizondo]]<br />{{fbaicon|COL}} [[Óscar Ruiz (referee)|Óscar Ruiz]]
+|{{fbaicon|PAR|1990}} Miguel Giacomuzzi<br />{{fbaicon|URU}} Fernando Cresci
+|-
+|OFC
+|{{fbaicon|NZL}} [[Derek Rugg]]
+|{{fbaicon|SAM}} Lavetala Siuamoa
+|-
+|UEFA
+|{{fbaicon|ITA}} [[Stefano Braschi]]<br />{{fbaicon|NED}} [[Dick Jol]]
+|{{fbaicon|DEN}} Jens Larsen<br />{{fbaicon|POL}} Jacek Pociegiel
+|}
+
+==Format==
+Matches were played in [[São Paulo]] and [[Rio de Janeiro]]. The teams were organised in two groups of four teams, with the top team in each group going through to the final and the two second-placed teams contesting a match for third place.
+
+==Group stage==
+===Group A===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|matches_style=FBR|solid_cell=grey
+|section=Group A
+|update=complete
+|source=[https://web.archive.org/web/20131113013328/http://www.fifa.com/tournaments/archive/clubworldcup/brazil2000/matches/index.html FIFA]
+
+|team_order=COR, RMA, NSR, RCA
+|win_COR=2|draw_COR=1|loss_COR=0|gf_COR=6|ga_COR=2
+|win_RMA=2|draw_RMA=1|loss_RMA=0|gf_RMA=8|ga_RMA=5
+|win_NSR=1|draw_NSR=0|loss_NSR=2|gf_NSR=5|ga_NSR=8
+|win_RCA=0|draw_RCA=0|loss_RCA=3|gf_RCA=5|ga_RCA=9
+
+|name_COR={{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|name_RMA={{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|name_NSR={{fbaicon|KSA}} [[Al Nassr FC|Al-Nassr]]
+|name_RCA={{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+
+|res_col_header=Q
+|result1=F |result2=3P
+|col_F=green1 |text_F=Advance to [[#Final|final]]
+|col_3P=blue1 |text_3P=Advance to [[#Match for third place|match for third place]]
+
+}}</onlyinclude>
+
+{{football box
+|id = Real Madrid v Al-Nassr
+|date=5 January 2000
+|time=18:45
+|team1=[[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score=3–1
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/18534
+|team2={{fbaicon|KSA}} [[Al Nassr FC|Al-Nassr]]
+|goals1=[[Nicolas Anelka|Anelka]] {{goal|21}}<br />[[Raúl (footballer)|Raúl]] {{goal|61}}<br />[[Sávio (footballer, born 1974)|Sávio]] {{goal|69|pen.}}
+|goals2=[[Fahad Al-Bishi|Al-Bishi]] {{goal|45+1|pen.}}
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=12,000
+|referee=[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]]) }}
+
+{{football box
+|id = Corinthians v Raja Casablanca
+|date=5 January 2000
+|time=21:15
+|team1=[[Sport Club Corinthians Paulista|Corinthians]] {{fbaicon|BRA}}
+|score=2–0
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/18613
+|team2={{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|goals1=[[Luiz Bombonato Goulart|Luizão]] {{goal|50}}<br />[[Fábio Luciano]] {{goal|64}}
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=23,000
+|referee=[[Stefano Braschi]] ([[Italian Football Federation|Italy]]) }}
+----
+{{football box
+|id = Real Madrid v Corinthians
+|date=7 January 2000
+|time=18:45
+|team1=[[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score=2–2
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/18616
+|team2={{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals1=[[Nicolas Anelka|Anelka]] {{goal|19||71}}
+|goals2=[[Edílson]] {{goal|28||64}}
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=55,000
+|referee=[[William Mattus]] ([[Costa Rican Football Federation|Costa Rica]]) }}
+
+{{football box
+|id = Raja Casablanca v Al-Nassr
+|date=7 January 2000
+|time=21:15
+|team1=[[Raja CA|Raja Casablanca]] {{fbaicon|MAR}}
+|score=3–4
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/18617
+|team2={{fbaicon|KSA}} [[Al Nassr FC|Al-Nassr]]
+|goals1=[[Fahad Al-Bishi|Al-Bishi]] {{goal|25|o.g.}}{{efn|name=Own goal|Some sources credit Raja Casablanca's first goal to [[Omar Nejjary]].<ref>{{cite web |url=http://www.espn.com/soccer/news/2000/0107/275864.html |title=Dida saves Corinthians' draw with Real |website=[[ESPN]] |agency=[[Reuters]] |date=11 January 2000 |access-date=27 December 2022}}</ref><ref>{{cite web |url=https://www1.folha.uol.com.br/fol/esp/ult08012000003.htm |title=Al Nassr vence Raja Casablanca pelo Mundial |trans-title=Al Nassr defeats Raja Casablanca at the World Cup |work=[[Folha de S.Paulo]] |date=8 January 2000 |access-date=27 December 2022 |language=pt}}</ref> However, the FIFA Technical Study Group awarded it as an own goal,<ref name="2000 statistics"/> as Nejjary's free kick deflected off Al-Nassr's [[Fahad Al-Bishi]].<ref>{{cite web |url=https://www.theguardian.com/football/2000/jan/08/worldclubchampionship2 |title=Casablanca crash out to late winner |work=[[The Guardian]] |date=8 January 2000 |access-date=27 December 2022}}</ref><ref>{{cite web |url=https://www.belfasttelegraph.co.uk/imported/football-super-saib-stoops-to-conquer-28322224.html |title=Football: Super Saib stoops to conquer |work=[[Belfast Telegraph]] |date=January 2000 |access-date=27 December 2022}}</ref><ref>{{cite web |last=Arbilla |first=Mauricio |url=https://www.iol.co.za/capeargus/sport/thrilling-draw-causes-group-a-deadlock-332842 |title=Thrilling draw causes Group A deadlock |work=[[Independent Online (South Africa)|Independent Online]] |date=8 January 2000 |access-date=27 December 2022}}</ref> Some sources mistakenly credit the own goal to [[Mahdi Al-Dosari]] (who was not on the pitch) or [[Mohaisen Al-Jam'an]].<ref>{{cite web |url=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/18617 |title=FIFA Club World Championship Brazil 2000: Raja Casablanca – Al Nassr FC |publisher=[[FIFA]] |access-date=27 December 2022 |archive-url=https://web.archive.org/web/20221227104446/https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/18617 |archive-date=27 December 2022}}</ref><ref>{{cite web |url=https://www.worldfootball.net/match-report/ma1976092/lineup/ |title=Club World Cup 2000 » Group A » Raja Casablanca – Al Nassr 3:4 |website=WorldFootball.net |access-date=27 December 2022}}</ref>}}<br />[[Bouchaib El Moubarki|El Moubarki]] {{goal|67}}<br />[[Talal El Karkouri|El Karkouri]] {{goal|73}}
+|goals2=[[Fuad Amin|Al-Amin]] {{goal|4}}<br />[[Ahmed Bahja|Bahja]] {{goal|49}}<br />[[Fahad Al-Bishi|Al-Bishi]] {{goal|51}}<br />[[Moussa Saïb|Saïb]] {{goal|86}}
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=3,000
+|referee=[[Derek Rugg]] ([[New Zealand Football|New Zealand]]) }}
+----
+{{football box
+|id = Real Madrid v Raja Casablanca
+|date=10 January 2000
+|time=18:45
+|team1=[[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score=3–2
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/18620
+|team2={{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|goals1=[[Fernando Hierro|Hierro]] {{goal|49}}<br />[[Fernando Morientes|Morientes]] {{goal|53}}<br />[[Geremi]] {{goal|88}}
+|goals2=[[Youssef Achami|Achami]] {{goal|28}}<br />[[Mustapha Moustaoudia|Moustaoudia]] {{goal|59}}
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=18,000
+|referee=[[Horacio Elizondo]] ([[Argentine Football Association|Argentina]]) }}
+
+{{football box
+|id = Al-Nassr v Corinthians
+|date=10 January 2000
+|time=21:15
+|team1=[[Al Nassr FC|Al-Nassr]] {{fbaicon|KSA}}
+|score=0–2
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/18621
+|team2={{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|goals2=[[Ricardinho (footballer, born May 1976)|Ricardinho]] {{goal|24}}<br />[[Freddy Rincón|Rincón]] {{goal|81}}
+|stadium=[[Estádio do Morumbi]], [[São Paulo]]
+|attendance=31,000
+|referee=[[Dick Jol]] ([[Royal Dutch Football Association|Netherlands]]) }}
+
+===Group B===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|matches_style=FBR|solid_cell=grey
+|section=Group B
+|update=complete
+|source=[https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center FIFA]
+
+|team_order=VAS, NEC, MUN, SME
+|win_VAS=3|draw_VAS=0|loss_VAS=0|gf_VAS=7|ga_VAS=2
+|win_NEC=1|draw_NEC=1|loss_NEC=1|gf_NEC=5|ga_NEC=4
+|win_MUN=1|draw_MUN=1|loss_MUN=1|gf_MUN=4|ga_MUN=4
+|win_SME=0|draw_SME=0|loss_SME=3|gf_SME=1|ga_SME=7
+
+|name_VAS={{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|name_NEC={{fbaicon|MEX}} [[Club Necaxa|Necaxa]]
+|name_MUN ={{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|name_SME={{fbaicon|AUS}} [[South Melbourne FC|South Melbourne]]
+
+|res_col_header=Q
+|result1=F |result2=3P
+|col_F=green1 |text_F=Advance to [[#Final|final]]
+|col_3P=blue1 |text_3P=Advance to [[#Match for third place|match for third place]]
+
+}}</onlyinclude>
+
+{{football box
+|id = Manchester United v Necaxa
+|date=6 January 2000
+|time=18:15
+|team1=[[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score=1–1
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/18614
+|team2={{fbaicon|MEX}} [[Club Necaxa|Necaxa]]
+|goals1=[[Dwight Yorke|Yorke]] {{goal|81}}
+|goals2=[[Cristian Montecinos|Montecinos]] {{goal|14}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=50,000
+|referee=[[Horacio Elizondo]] ([[Argentine Football Association|Argentina]]) }}
+
+{{football box
+|id = Vasco da Gama v South Melbourne
+|date=6 January 2000
+|time=20:45
+|team1=[[CR Vasco da Gama|Vasco da Gama]] {{fbaicon|BRA}}
+|score=2–0
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/22228
+|team2={{fbaicon|AUS}} [[South Melbourne FC|South Melbourne]]
+|goals1=[[Felipe Jorge Loureiro|Felipe]] {{goal|53}}<br />[[Edmundo Alves de Souza Neto|Edmundo]] {{goal|86}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=66,000
+|referee=[[Dick Jol]] ([[Royal Dutch Football Association|Netherlands]]) }}
+----
+{{football box
+|id = Manchester United v Vasco da Gama
+|date=8 January 2000
+|time=18:15
+|team1=[[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score=1–3
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/18618
+|team2={{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|goals1=[[Nicky Butt|Butt]] {{goal|81}}
+|goals2=[[Romário]] {{goal|24||26}}<br />[[Edmundo Alves de Souza Neto|Edmundo]] {{goal|43}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=73,000
+|referee=[[Saad Mane]] ([[Kuwait Football Association|Kuwait]]) }}
+
+{{football box
+|id = South Melbourne v Necaxa
+|date=8 January 2000
+|time=20:45
+|team1=[[South Melbourne FC|South Melbourne]] {{fbaicon|AUS}}
+|score=1–3
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/22230
+|team2={{fbaicon|MEX}} [[Club Necaxa|Necaxa]]
+|goals1=[[John Anastasiadis|Anastasiadis]] {{goal|45+2}}
+|goals2=[[Cristian Montecinos|Montecinos]] {{goal|19|pen.}}<br />[[Agustín Delgado|Delgado]] {{goal|29}}<br />[[Salvador Cabrera|Cabrera]] {{goal|79|pen.}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=5,000
+|referee=[[Falla Ndoye]] ([[Senegalese Football Federation|Senegal]]) }}
+----
+{{football box
+|id = Manchester United v South Melbourne
+|date=11 January 2000
+|time=18:15
+|team1=[[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score=2–0
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/22232
+|team2={{fbaicon|AUS}} [[South Melbourne FC|South Melbourne]]
+|goals1=[[Quinton Fortune|Fortune]] {{goal|8||20}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=25,000
+|referee=[[Stefano Braschi]] ([[Italian Football Federation|Italy]]) }}
+
+{{football box
+|id = Necaxa v Vasco da Gama
+|date=11 January 2000
+|time=20:45
+|team1=[[Club Necaxa|Necaxa]] {{fbaicon|MEX}}
+|score=1–2
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/18623
+|team2={{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|goals1=[[Álex Aguinaga|Aguinaga]] {{goal|5}}
+|goals2=[[Odvan]] {{goal|14}}<br />[[Romário]] {{goal|69}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=45,000
+|referee=[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]]) }}
+
+==Knockout stage==
+{{2TeamBracket
+| seeds = no
+| score-width = 40
+| boldwinner  = yes
+
+| RD1 = Final
+| RD1-team1   = {{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]] {{pso}}
+| RD1-score1  = 0 (4)
+| RD1-team2   = {{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+| RD1-score2  = 0 (3)
+
+| RD1b = Match for third place
+| RD1b-team1   = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| RD1b-score1  = 1 (3)
+| RD1b-team2   = {{fbaicon|MEX}} [[Club Necaxa|Necaxa]] {{pso}}
+| RD1b-score2  = 1 (4)
+
+}}
+
+===Match for third place===
+{{football box
+|date=14 January 2000
+|time=17:00
+|team1=[[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score=1–1
+|aet=yes
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/22235
+|team2={{fbaicon|MEX}} [[Club Necaxa|Necaxa]]
+|goals1=[[Raúl (footballer)|Raúl]] {{goal|15}}
+|goals2=[[Agustín Delgado|Delgado]] {{goal|58}}
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=35,000
+|referee=[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+|penalties1=[[Samuel Eto'o|Eto'o]] {{pengoal}}<br />[[Ivan Helguera|Helguera]] {{pengoal}}<br />[[Steve McManaman|McManaman]] {{penmiss}}<br />[[Fernando Morientes|Morientes]] {{pengoal}}<br />[[Javier Dorado|Dorado]] {{penmiss}}
+|penaltyscore=3–4
+|penalties2={{pengoal}} [[Sergio Vázquez (Uruguayan footballer)|Vázquez]]<br />{{penmiss}} [[Salvador Cabrera|Cabrera]]<br />{{pengoal}} [[Luis Ernesto Pérez|Pérez]]<br />{{pengoal}} [[Alex Aguinaga|Aguinaga]]<br />{{pengoal}} [[Agustín Delgado|Delgado]] }}
+
+===Final===
+{{main|2000 FIFA Club World Championship final}}
+{{football box
+|date=14 January 2000
+|time=20:00
+|team1=[[Sport Club Corinthians Paulista|Corinthians]] {{fbaicon|BRA}}
+|score=0–0
+|aet=yes
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000/match-center/22236
+|team2={{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|stadium=[[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance=73,000
+|referee=[[Dick Jol]] ([[Royal Dutch Football Association|Netherlands]])
+|penalties1=[[Freddy Rincón|Rincón]] {{pengoal}}<br />[[Fernando Baiano]] {{pengoal}}<br />[[Luiz Bombonato Goulart|Luizão]] {{pengoal}}<br />[[Edu (footballer, born 1978)|Edu]] {{pengoal}}<br />[[Marcelinho Carioca|Marcelinho]] {{penmiss}}
+|penaltyscore=4–3
+|penalties2={{pengoal}} [[Romário]]<br />{{pengoal}} [[Alex Oliveira (footballer, born 1974)|Alex Oliveira]]<br />{{penmiss}} [[Gilberto da Silva Melo|Gilberto]]<br />{{pengoal}} [[Viola (footballer)|Viola]]<br />{{penmiss}} [[Edmundo Alves de Souza Neto|Edmundo]] }}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|rowspan=2|1
+|style="text-align:left"|{{flagicon|FRA}} [[Nicolas Anelka]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|rowspan=2|3
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Romário]]
+|style="text-align:left"|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|-
+|rowspan=7|3
+|style="text-align:left"|{{flagicon|KSA}} [[Fahad Al-Bishi]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Nassr FC|Al-Nassr]]
+|rowspan=7|2
+|-
+|style="text-align:left"|{{flagicon|ECU}} [[Agustín Delgado]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club Necaxa|Necaxa]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Edílson]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Edmundo Alves de Souza Neto|Edmundo]]
+|style="text-align:left"|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|-
+|style="text-align:left"|{{flagicon|RSA}} [[Quinton Fortune]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|-
+|style="text-align:left"|{{flagicon|CHI}} [[Cristian Montecinos]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club Necaxa|Necaxa]]
+|-
+|style="text-align:left"|{{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|rowspan=22|10
+|style="text-align:left"|{{flagicon|MAR}} [[Youssef Achami]]
+|style="text-align:left"|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|rowspan=22|1
+|-
+|style="text-align:left"|{{flagicon|ECU}} [[Álex Aguinaga]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club Necaxa|Necaxa]]
+|-
+|style="text-align:left"|{{flagicon|KSA}} [[Fuad Amin]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Nassr FC|Al-Nassr]]
+|-
+|style="text-align:left"|{{flagicon|AUS}} [[John Anastasiadis]]
+|style="text-align:left"|{{fbaicon|AUS}} [[South Melbourne FC|South Melbourne]]
+|-
+|style="text-align:left"|{{flagicon|MAR}} [[Ahmed Bahja]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Nassr FC|Al-Nassr]]
+|-
+|style="text-align:left"|{{flagicon|ENG}} [[Nicky Butt]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Salvador Cabrera]]
+|style="text-align:left"|{{fbaicon|MEX}} [[Club Necaxa|Necaxa]]
+|-
+|style="text-align:left"|{{flagicon|MAR}} [[Talal El Karkouri]]
+|style="text-align:left"|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|-
+|style="text-align:left"|{{flagicon|MAR}} [[Bouchaib El Moubarki]]
+|style="text-align:left"|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Felipe Jorge Loureiro|Felipe]]
+|style="text-align:left"|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|-
+|style="text-align:left"|{{flagicon|CMR}} [[Geremi]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|ESP}} [[Fernando Hierro]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Fábio Luciano]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Luiz Carlos Bombonato Goulart|Luizão]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|-
+|style="text-align:left"|{{flagicon|ESP}} [[Fernando Morientes]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|MAR}} [[Mustapha Moustaoudia]]
+|style="text-align:left"|{{fbaicon|MAR}} [[Raja CA|Raja Casablanca]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Odvan]]
+|style="text-align:left"|{{fbaicon|BRA}} [[CR Vasco da Gama|Vasco da Gama]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Ricardinho (footballer, born May 1976)|Ricardinho]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|-
+|style="text-align:left"|{{flagicon|COL}} [[Freddy Rincón]]
+|style="text-align:left"|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|-
+|style="text-align:left"|{{flagicon|ALG}} [[Moussa Saïb]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Nassr FC|Al-Nassr]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Sávio (footballer, born 1974)|Sávio]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|TRI}} [[Dwight Yorke]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|}
+
+'''1 own goal'''
+*{{flagicon|KSA}} [[Fahad Al-Bishi]] ([[Al Nassr FC|Al-Nassr]], against [[Raja CA|Raja Casablanca]]){{efn|name=Own goal}}
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+The following awards were given at the conclusion of the tournament.<ref name="2000 statistics">{{cite web |url=https://digitalhub.fifa.com/m/5fc18e27b768671f/original/p1pyn7zf6crhatkpgkwc-pdf.pdf |title=Statistics: FIFA Club World Championship Brazil 2000 |work=[[FIFA]] |format=PDF |year=2000 |access-date=12 February 2021 |archive-url=https://web.archive.org/web/20211014151203/https://digitalhub.fifa.com/m/5fc18e27b768671f/original/p1pyn7zf6crhatkpgkwc-pdf.pdf |archive-date=14 October 2021 |url-status=live }}</ref>
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|BRA}} [[Edílson]]<br />([[Sport Club Corinthians Paulista|Corinthians]])
+|{{flagicon|BRA}} [[Edmundo (footballer)|Edmundo]]<br />([[CR Vasco da Gama|Vasco da Gama]])
+|{{flagicon|BRA}} [[Romário]]<br />([[CR Vasco da Gama|Vasco da Gama]])
+|-
+!colspan="2" style="background:gold;"|[[Adidas]] Golden Shoe
+!style="background:#CC9966;"|[[Adidas]] Bronze Shoe
+|-
+|colspan="2"|{{flagicon|FRA}} [[Nicolas Anelka]] ([[Real Madrid CF|Real Madrid]])<br />{{flagicon|BRA}} [[Romário]] ([[CR Vasco da Gama|Vasco da Gama]])
+|{{flagicon|ECU}} [[Agustín Delgado]] ([[Club Necaxa|Necaxa]])<br />{{flagicon|BRA}} [[Edílson]] ([[Sport Club Corinthians Paulista|Corinthians]])<br />{{flagicon|BRA}} [[Edmundo (footballer)|Edmundo]] ([[CR Vasco da Gama|Vasco da Gama]])
+|-
+|colspan="2"|3 goals, 0 assists
+|2 goals, 1 assist
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|KSA}} [[Al Nassr FC|Al-Nassr]]
+|}
+
+Additionally, FIFA named an [[all-star]] team consisting of eleven starters and seven substitutes.<ref name="2000 statistics"/>
+
+{| class="wikitable"
+|+ FIFA All-Star Team
+|-
+! Goalkeepers
+! Defenders
+! Midfielders
+! Forwards
+|-
+|style="vertical-align:top"| {{flagicon|BRA}} [[Dida (footballer, born 1973)|Dida]] ([[Sport Club Corinthians Paulista|Corinthians]])
+|style="vertical-align:top"| {{ubl|{{flagicon|MEX}} [[Sergio Almaguer]] ([[Club Necaxa|Necaxa]])|{{flagicon|ESP}} [[Fernando Hierro]] ([[Real Madrid CF|Real Madrid]])|{{flagicon|ESP}} [[Míchel Salgado]] ([[Real Madrid CF|Real Madrid]])|{{flagicon|NED}} [[Jaap Stam]] ([[Manchester United F.C.|Manchester United]])}}
+|style="vertical-align:top"| {{ubl|{{flagicon|BRA}} [[Felipe Jorge Loureiro|Felipe]] ([[CR Vasco da Gama|Vasco da Gama]])|{{flagicon|IRL}} [[Roy Keane]] ([[Manchester United F.C.|Manchester United]])|{{flagicon|COL}} [[Freddy Rincón]] ([[Sport Club Corinthians Paulista|Corinthians]])|{{flagicon|BRA}} [[Sávio (footballer, born 1974)|Sávio]] ([[Real Madrid CF|Real Madrid]])}}
+|style="vertical-align:top"| {{ubl|{{flagicon|ECU}} [[Agustín Delgado]] ([[Club Necaxa|Necaxa]])|{{flagicon|BRA}} [[Romário]] ([[CR Vasco da Gama|Vasco da Gama]])}}
+|-
+|colspan="4" style="text-align:center"| Substitutes
+|-
+|style="vertical-align:top"| {{flagicon|BRA}} [[Helton Arruda|Helton]] ([[CR Vasco da Gama|Vasco da Gama]])
+|style="vertical-align:top"| {{flagicon|MEX}} [[José Milián]] ([[Club Necaxa|Necaxa]])
+|style="vertical-align:top"| {{ubl|{{flagicon|BRA}} [[Amaral (footballer, born 1973)|Amaral]] ([[CR Vasco da Gama|Vasco da Gama]])|{{flagicon|BRA}} [[Juninho Pernambucano|Juninho]] ([[CR Vasco da Gama|Vasco da Gama]])}}
+|style="vertical-align:top"| {{ubl|{{flagicon|MAR}} [[Ahmed Bahja]] ([[Al Nassr FC|Al-Nassr]])|{{flagicon|BRA}} [[Edílson]] ([[Sport Club Corinthians Paulista|Corinthians]])|{{flagicon|CHI}} [[Cristián Montecinos]] ([[Club Necaxa|Necaxa]])}}
+|}
+
+==Aftermath and legacy==
+Following the inaugural Club World Cup, FIFA pledged further editions of the tournament. The first of these was slated for [[2001 FIFA Club World Championship|Spain in 2001]], with an expected 12 participants.<ref name="Reference 31">{{cite web |last1=Stokkermans |first1=Karel |date=31 December 2005 |title=2001 FIFA Club World Cup |url=https://www.rsssf.org/tablesf/fifa-wcc01.html |access-date=6 March 2013 |publisher=[[Rec.Sport.Soccer Statistics Foundation]]}}</ref><ref>{{cite web |date=7 March 2001 |title=Galaxy to face Real, African and Asian teams |url=http://usatoday30.usatoday.com/sports/soccer/world/2001-03-06-world-club-championship.htm |access-date=6 March 2013 |work=[[USA Today]]}}</ref> By March of that year, group draws had even taken place. However, the second edition of the tournament was called off due to a range of factors involving partners and sponsorships, with the collapse of [[International Sport and Leisure]], FIFA's marketing partner at the time, being the most significant.<ref>{{cite news |date=18 May 2001 |title=FIFA decides to postpone 2001 Club World Championship to 2003 |url=http://de.fifa.com/tournaments/archive/tournament=107/edition=4735/releases/newsid=91574.html |url-status=dead |archive-url=https://web.archive.org/web/20131109023834/http://de.fifa.com/tournaments/archive/tournament%3D107/edition%3D4735/releases/newsid%3D91574.html |archive-date=9 November 2013 |access-date=4 January 2021 |publisher=FIFA}}</ref> The event was then rescheduled for 2003, but it didn't come to fruition either. It wasn't until 2004 that FIFA was able to officially announce the second edition of the tournament.<ref name="Reference 33">{{cite web |date=5 April 2005 |title=Logo revealed for top club competition |url=https://www.fifa.com/tournaments/archive/clubworldcup/japan2005/news/newsid=96919/index.html |url-status=dead |archive-url=https://web.archive.org/web/20140506181840/http://www.fifa.com/tournaments/archive/clubworldcup/japan2005/news/newsid=96919/index.html |archive-date=6 May 2014 |access-date=6 March 2013 |publisher=FIFA}}</ref>
+
+From the [[2005 FIFA Club World Championship|2005 edition onwards]], the competition has been held continuously but under a new format, featuring [[single-elimination tournament]] instead of a group stage plus final, and with a shorter duration, addressing scheduling concerns for national federations and continental confederations. While the two subsequent editions, 2005 and 2006, included only the six continental champions, from the [[2007 FIFA Club World Cup|2007 edition onwards]], the number of participants increased to seven – the seventh spot was typically reserved for the national champion of the host country. However, to prevent the recurrence of two clubs from the same country, as happened in 2000, FIFA introduced a mechanism: if the continental champion hailed from the host country, the national champion of that country would forfeit its spot, which would then go to the highest-ranked team from another country in the continental competition.<ref>{{cite web |title=Organising Committee strengthens FIFA Club World Cup format |url=https://www.fifa.com/clubworldcup/news/newsid=570740.html |url-status=dead |archive-url=https://web.archive.org/web/20071001145244/http://www.fifa.com/clubworldcup/news/newsid%3D570740.html |archive-date=1 October 2007 |access-date=14 August 2007}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.fifa.com/tournaments/mens/clubworldcup/brazil2000 FIFA Club World Championship Brazil 2000], FIFA.com
+*[https://web.archive.org/web/20140712134851/http://www.fifa.com/mm/document/footballdevelopment/technicalsupport/02/25/81/33/115822-technicalreport-fifaclubworldchampionshipbrazil2000%5fneutral.pdf FIFA Technical Report]
+*[https://web.archive.org/web/20140712134918/http://www.fifa.com/mm/document/footballdevelopment/technicalsupport/02/25/81/21/115816-statistics-fifaclubworldchampionshipbrazil2000%5fneutral.pdf FIFA Statistics]
+*[https://www.rsssf.org/tablesf/fifa-wcc00-det.html Tournament details] at the Rec.Sports.Soccer Statistics Foundation (RSSSF)
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Championship}}
+[[Category:2000 FIFA Club World Championship| ]]
+[[Category:FIFA Club World Cup tournaments|2000]]
+[[Category:Football club competitions in Brazil]]
+[[Category:2000 in men's association football]]
+[[Category:2000 in Brazilian football]]
+[[Category:1999–2000 in Mexican football]]
+[[Category:1999–2000 in Spanish men's football]]
+[[Category:1999–2000 in English men's football]]
+[[Category:1999–2000 in Saudi Arabian football]]
+[[Category:1999–2000 in Moroccan football]]
+[[Category:1999–2000 in Australian men's soccer]]
+[[Category:January 2000 sports events in South America]]
+[[Category:International sports competitions in São Paulo]]
+[[Category:International sports competitions in Rio de Janeiro (city)]]
+[[Category:Football competitions in Rio de Janeiro (city)]]
+[[Category:Football competitions in São Paulo (city)]]
+[[Category:2000s in São Paulo]]

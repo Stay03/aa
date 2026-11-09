@@ -1,0 +1,419 @@
+{{Use dmy dates|date=May 2018}}
+{{Infobox football match
+| title              = 2017 UEFA Super Cup
+| image              = 2017 UEFA Super Cup Programme.jpg
+| image_size         = 200
+| caption            = Match programme cover
+| team1              = [[Real Madrid CF|Real Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 2
+| team2              = [[Manchester United F.C.|Manchester United]]
+| team2association   = {{fbaicon|ENG|size=30px}}
+| team2score         = 1
+| details            =
+| date               = {{Start date|2017|8|8|df=y}}
+| stadium            = [[Toše Proeski Arena|Philip II Arena]]
+| city               = [[Skopje]]
+| man_of_the_match1a = [[Isco]] {{nowrap|(Real Madrid)}}<ref name="motm">{{cite web |title=UEFA Super Cup – Real Madrid-Man. United |url=https://www.uefa.com/uefasupercup/match/2022539--real-madrid-vs-man-utd/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=8 August 2017 |access-date=8 August 2017 |quote=Isco named man of the match in Skopje |url-status=live |archive-url=https://archive.today/20180815232957/https://www.uefa.com/uefasupercup/season=2017/matches/round=2000896/match=2022539/index.html |archive-date=15 August 2018 |df=dmy-all }}</ref>
+| referee            = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])<ref name="referee">{{cite news |title=Rocchi to referee 2017 UEFA Super Cup |url=https://www.uefa.com/uefasupercup/news/0250-0c5116e81b24-dad91879f9a9-1000--rocchi-to-referee-2017-uefa-super-cup/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=20 July 2017 |access-date=20 July 2017}}</ref>
+| attendance         = 30,421<ref name="attendance">{{cite web |title=Match report: Real Madrid 2 Manchester United 1 |url=http://www.manutd.com/en/Fixtures-And-Results/Match-Reports/2017/Aug/match-report-uefa-super-cup-real-madrid-2-manchester-united-1-in-skopje-macedonia.aspx |website=manutd.com |publisher=Manchester United F.C. |date=8 August 2017 |access-date=10 August 2017 |archive-url=https://web.archive.org/web/20170821161623/http://www.manutd.com/en/Fixtures-And-Results/Match-Reports/2017/Aug/match-report-uefa-super-cup-real-madrid-2-manchester-united-1-in-skopje-macedonia.aspx |archive-date=21 August 2017 |url-status=dead |df=dmy-all }}</ref>
+| weather            = Partly cloudy<br />{{convert|32|°C|°F}}<br />48% [[humidity]]<ref name="lineup">{{cite web |title=Tactical line-ups |url=https://www.uefa.com/newsfiles/SuperCup/2017/2022539_LU.pdf |website=[[UEFA]] |publisher=Union of European Football Associations |date=8 August 2017 |access-date=8 August 2017}}</ref>
+| previous           = [[2016 UEFA Super Cup|2016]]
+| next               = [[2018 UEFA Super Cup|2018]]
+}}
+The '''2017 UEFA Super Cup''' was the 42nd edition of the [[UEFA Super Cup]], an annual [[association football|football]] match organised by [[UEFA]] and contested by the reigning champions of the two main [[Europe]]an club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. The match featured [[Royal Spanish Football Federation|Spanish]] side [[Real Madrid CF|Real Madrid]], the title holders and winners of the [[2016–17 UEFA Champions League]], and [[The Football Association|English]] side [[Manchester United F.C.|Manchester United]], the winners of the [[2016–17 UEFA Europa League]].<ref>{{cite news|url=https://www.uefa.com/uefasupercup/news/0250-0c5117033ac2-e4519dd2909f-1000--real-madrid-to-face-manchester-united-in-super-cup/|title=Real Madrid to face Manchester United in Super Cup|publisher=Union of European Football Associations |website=[[UEFA]]|date=3 June 2017}}</ref> The match was played at the [[Toše Proeski Arena|Philip II Arena]] in [[Skopje]], [[North Macedonia|FYR Macedonia]], on 8 August 2017, and was the first UEFA final staged in the country.<ref name="host">{{cite news|url=https://www.uefa.com/uefasupercup/news/0250-0c510bc25a1e-a6363aff6bb8-1000--fyr-macedonia-to-host-2017-uefa-super-cup/|title=FYR Macedonia to host 2017 UEFA Super Cup|publisher=Union of European Football Associations |website=[[UEFA]]|date=30 June 2015}}</ref>
+
+Real Madrid won the match 2–1 for their second consecutive and fourth overall UEFA Super Cup title.<ref name="bbc"/>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]{{sup|[[2016 UEFA Super Cup|TH]]}}
+|Winners of the [[2016–17 UEFA Champions League]]
+|5 ([[1998 UEFA Super Cup|1998]], [[2000 UEFA Super Cup|2000]], '''[[2002 UEFA Super Cup|2002]]''', '''[[2014 UEFA Super Cup|2014]]''', '''[[2016 UEFA Super Cup|2016]]''')<ref>{{cite news |title=Real Madrid's previous UEFA Super Cup matches |url=https://www.uefa.com/uefasupercup/news/0250-0c5111be34d4-b6e1ab064be7-1000--real-madrid-and-atletico-s-uefa-super-cup-pedigree/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=6 June 2017 |access-date=18 June 2017 }}</ref>
+|-
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|Winners of the [[2016–17 UEFA Europa League]]
+|3 ('''[[1991 European Super Cup|1991]]''', [[1999 UEFA Super Cup|1999]], [[2008 UEFA Super Cup|2008]])<ref>{{cite news |title=Man. United's previous UEFA Super Cup matches |url=https://www.uefa.com/uefasupercup/news/0250-0c5116c19364-7e465aee3652-1000--manchester-united-s-previous-uefa-super-cup-matches/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=6 June 2017 |access-date=18 June 2017 }}</ref>
+|}
+
+While the two teams had never met in the Super Cup, they had met 10 times in the [[UEFA Champions League|European Champion Clubs' Cup/UEFA Champions League]]; Real Madrid had the advantage in the teams' previous meetings, with four wins, four draws and two losses.<ref>{{cite news |title=Real Madrid v Manchester United: past encounters |url=https://www.uefa.com/uefasupercup/news/0250-0c5116bd5127-611a7a44d8d0-1000--real-madrid-v-manchester-united-past-encounters/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=6 June 2017 |access-date=18 June 2017 }}</ref><ref>{{cite web|url=https://www.uefa.com/printoutfiles/competitions/uefasupercup/2017/e/e_2022539_pk.pdf|archive-url=https://web.archive.org/web/20170829015241/http://www.uefa.com/printoutfiles/competitions/uefasupercup/2017/e/e_2022539_pk.pdf|url-status=dead|archive-date=29 August 2017|title= Match Press Kit|date=8 August 2017|publisher=Union of European Football Associations |website=[[UEFA]]|access-date=8 August 2017}}</ref>
+
+==Venue==
+[[File:Philip II Arena Skopje.JPG|thumb|The [[Toše Proeski Arena|Philip II Arena]] in [[Skopje]] hosted the match.]]
+The [[Toše Proeski Arena|Philip II Arena]] was announced as the final venue on 30 June 2015, following the decision of the UEFA Executive Committee meeting in [[Prague]], Czech Republic.<ref name="host"/>{{Dead link|date=March 2025}}
+
+==Pre-match==
+
+===Ticketing===
+With a stadium capacity of 30,500 for the match, a total number of 23,000 tickets were available to fans and the general public, being available for sale to fans worldwide via UEFA.com from 13 June to 4 July 2017 in three price categories: €50, €30, and €15. The remaining tickets were allocated to the local organising committee, UEFA and national associations, commercial partners and broadcasters.<ref>{{cite news |url=https://www.uefa.com/uefasupercup/news/0250-0c5117115e68-61e97468de05-1000--2017-uefa-super-cup-ticket-portal-now-closed/ |title=2017 UEFA Super Cup tickets: Real Madrid v Manchester United |website=[[UEFA]] |publisher=Union of European Football Associations |date=13 June 2017 }}</ref>
+
+===Officials===
+Italian referee [[Gianluca Rocchi]] was announced as the referee by UEFA on 20 July 2017.<ref name="referee"/>
+
+==Match==
+
+===Summary===
+In the 16th minute, [[Casemiro]] headed against the bar after a corner from the left-hand side by [[Toni Kroos]], before opening the scoring eight minutes later with a left-footed strike after a pass into the box from [[Dani Carvajal]].<ref name="bbc">{{cite news |last=Jurejko |first=Jonathan |url=https://www.bbc.co.uk/sport/football/40788621 |title=Real Madrid 2 Manchester United 1 |website=BBC Sport |publisher=British Broadcasting Corporation |date=8 August 2017 |access-date=9 August 2017}}</ref> [[Isco]] made it 2–0 in the 52nd minute when he side-footed the ball into the bottom corner of the net from six yards after a pass from [[Gareth Bale]]. In the 61st minute, Bale hit the bar with a shot from the right of the penalty area. [[Romelu Lukaku]] pulled a goal back for Manchester United a minute later when he followed up on an initial shot from [[Nemanja Matić]], which was parried back into his path by [[Keylor Navas]].<ref>{{cite news |url=https://www.theguardian.com/football/live/2017/aug/08/real-madrid-v-manchester-united-super-cup-live |title=Real Madrid v Manchester United: Super Cup – as it happened |website=[[TheGuardian.com]] |publisher=[[Guardian Media Group]] |date=8 August 2017 |access-date=9 August 2017}}</ref>
+
+===Details===
+The Champions League winners were designated as the "home" team for administrative purposes.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2017|8|8|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 2–1
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+*[[Casemiro]] {{goal|24}}
+*[[Isco]] {{goal|52}}
+|goals2     = [[Romelu Lukaku|Lukaku]] {{goal|62}}
+|stadium    = [[Toše Proeski Arena|Philip II Arena]], [[Skopje]]
+|attendance = 30,421<ref name="attendance"/>
+|referee    = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefasupercup/match/<!--round=2000896/match=-->2022539/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _realmadrid1718a
+ |pattern_b  = _realmadrid1718A
+ |pattern_ra = _realmadrid1718a
+ |pattern_sh = _realmadrid1718a
+ |pattern_so = _realmadrid1718a
+ |leftarm    = 131313
+ |body       = 131313
+ |rightarm   = 131313
+ |shorts     = 131313
+ |socks      = 131313
+ |title      = {{nowrap|Real Madrid}}<ref name="lineup"/>
+}}
+|{{Football kit
+ |pattern_la = _manutdh1718
+ |pattern_b  = _manutdh1718
+ |pattern_ra = _manutdh1718
+ |pattern_sh = _adidas_black
+ |pattern_so = _mufc1718h2
+ |leftarm    = E20E0E
+ |body       = E20E0E
+ |rightarm   = E20E0E
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Manchester United}}<ref name="lineup"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CRC}} [[Keylor Navas]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Dani Carvajal]] || {{yel|84}}
+|-
+|CB ||'''5''' ||{{flagicon|FRA|1974}} [[Raphaël Varane]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Sergio Ramos]] ([[Captain (association football)|c]]) || {{yel|86}}
+|-
+|LB ||'''12'''||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+|CM ||'''10'''||{{flagicon|CRO}} [[Luka Modrić]]
+|-
+|CM ||'''14'''||{{flagicon|BRA}} [[Casemiro]]
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[Toni Kroos]]
+|-
+|RF ||'''11'''||{{flagicon|WAL}} [[Gareth Bale]] || || {{suboff|74}}
+|-
+|CF ||'''9''' ||{{flagicon|FRA|1974}} [[Karim Benzema]] || || {{suboff|83}}
+|-
+|LF ||'''22'''||{{flagicon|ESP}} [[Isco]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Kiko Casilla]]
+|-
+|DF ||'''6''' ||{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]]
+|-
+|DF ||'''15'''||{{flagicon|FRA|1974}} [[Théo Hernandez]]
+|-
+|MF ||'''20'''||{{flagicon|ESP}} [[Marco Asensio]] || || {{subon|74}}
+|-
+|MF ||'''23'''||{{flagicon|CRO}} [[Mateo Kovačić]]
+|-
+|FW ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]] || || {{subon|83}}
+|-
+|FW ||'''17'''||{{flagicon|ESP}} [[Lucas Vázquez]] || || {{subon|74}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA|1974}} [[Zinedine Zidane]]
+|}
+|valign="top"|[[File:Real Madrid vs Manchester United 2017-08-08.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[David de Gea]]
+|-
+|RB ||'''25'''||{{flagicon|ECU}} [[Antonio Valencia]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||{{flagicon|SWE}} [[Victor Lindelöf]]
+|-
+|CB ||'''12'''||{{flagicon|ENG}} [[Chris Smalling]]
+|-
+|LB ||'''36'''||{{flagicon|ITA}} [[Matteo Darmian]]
+|-
+|CM ||'''21'''||{{flagicon|ESP}} [[Ander Herrera]] || || {{suboff|56}}
+|-
+|CM ||'''31'''||{{flagicon|SRB}} [[Nemanja Matić]]
+|-
+|CM ||'''6''' ||{{flagicon|FRA|1974}} [[Paul Pogba]]
+|-
+|RW ||'''22'''||{{flagicon|ARM}} [[Henrikh Mkhitaryan]]
+|-
+|LW ||'''14'''||{{flagicon|ENG}} [[Jesse Lingard]] || {{yel|42}} || {{suboff|46}}
+|-
+|CF ||'''9''' ||{{flagicon|BEL}} [[Romelu Lukaku]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''20'''||{{flagicon|ARG}} [[Sergio Romero]]
+|-
+|DF ||'''17'''||{{flagicon|NED}} [[Daley Blind]]
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Juan Mata]]
+|-
+|MF ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]]
+|-
+|MF ||'''27'''||{{flagicon|BEL}} [[Marouane Fellaini]] || || {{subon|56}}
+|-
+|FW ||'''11'''||{{flagicon|FRA|1974}} [[Anthony Martial]]
+|-
+|FW ||'''19'''||{{flagicon|ENG}} [[Marcus Rashford]] || {{yel|90+4}} || {{subon|46}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[José Mourinho]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Isco]] (Real Madrid)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Elenito Di Liberatore ([[Italian Football Federation|Italy]])
+<br />Mauro Tonolini ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Clément Turpin]] ([[French Football Federation|France]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="referee"/>
+<br />[[Davide Massa]] ([[Italian Football Federation|Italy]])
+<br />[[Massimiliano Irrati]] ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fifth official|Reserve assistant referee]]:'''<ref name="referee"/>
+<br />Riccardo Di Fiore ([[Italian Football Federation|Italy]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/46/46/02/2464602_DOWNLOAD.pdf |title=Regulations of the UEFA Super Cup 2017 |website=[[UEFA]] |publisher=Union of European Football Associations|date=4 April 2017 |access-date=17 July 2017 |url-status=dead |archive-url=https://web.archive.org/web/20190214210550/https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/46/46/02/2464602_DOWNLOAD.pdf |archive-date=14 February 2019}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes, of which up to three may be used
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2017/2022539_TS.pdf |title=Team statistics |website=[[UEFA]] |publisher=Union of European Football Associations |date=8 August 2017 |access-date=8 August 2017}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|7
+|4
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|60%
+|40%
+|-
+!scope=row|Corner kicks
+|3
+|0
+|-
+!scope=row|Fouls committed
+|3
+|9
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|9
+|9
+|-
+!scope=row|Shots on target
+|4
+|5
+|-
+!scope=row|Saves
+|4
+|3
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|5
+|2
+|-
+!scope=row|Fouls committed
+|7
+|8
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|2
+|1
+|-
+!scope=row|Total shots
+|16
+|13
+|-
+!scope=row|Shots on target
+|6
+|6
+|-
+!scope=row|Saves
+|5
+|4
+|-
+!scope=row|Ball possession
+|59%
+|41%
+|-
+!scope=row|Corner kicks
+|8
+|2
+|-
+!scope=row|Fouls committed
+|10
+|17
+|-
+!scope=row|Offsides
+|1
+|2
+|-
+!scope=row|Yellow cards
+|2
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2017 UEFA Champions League final]]
+*[[2017 UEFA Europa League final]]
+*[[2017–18 UEFA Champions League]]
+*[[2017–18 UEFA Europa League]]
+*[[2017–18 Manchester United F.C. season]]
+*[[2017–18 Real Madrid CF season]] 
+*[[Manchester United F.C. in international football]]
+*[[Real Madrid CF in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Official website|https://www.uefa.com/uefasupercup/}}
+*[https://www.uefa.com/uefasupercup/history/2017/ 2017 UEFA Super Cup], UEFA.com
+*[https://www.uefa.com/newsfiles/SuperCup/2017/2022539_FR.pdf Full Time Report], UEFA.com
+
+{{UEFA Super Cup}}
+{{2017–18 in European football (UEFA)}}
+{{2017–18 European club competitions}}
+{{Real Madrid CF matches}}
+{{Manchester United F.C. matches}}
+
+{{DEFAULTSORT:Uefa Super Cup 2017}}
+[[Category:UEFA Super Cup matches|2017]]
+[[Category:2017–18 in Republic of Macedonia football|Super Cup]]
+[[Category:Sports competitions in Skopje|Super Cup 2017]]
+[[Category:Real Madrid CF matches]]
+[[Category:Manchester United F.C. matches]]
+[[Category:2017–18 in Spanish men's football|Super Cup]]
+[[Category:2017–18 in English men's football|Super Cup]]
+[[Category:August 2017 sports events in Europe]]
+[[Category:2010s in Skopje]]
+[[Category:Spain–United Kingdom sports relations]]
+[[Category:2017–18 in European men's continental football]]
+[[Category:Football matches in North Macedonia]]
+[[Category:Football in Skopje]]

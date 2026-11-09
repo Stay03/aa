@@ -1,0 +1,24 @@
+family,test,p_raw,p_holm_all,q_bh_all
+O-E difference by factor (p_lift_odds),ALL FIVE (pooled): competition_type,0.3301,1.0,1.0
+O-E difference by factor (p_lift_odds),ALL FIVE (pooled): opponent_type,0.3312,1.0,1.0
+O-E difference by factor (p_lift_odds),ALL FIVE (pooled): referee_english,0.3328,1.0,1.0
+observed vs expected (p_lift_odds),Chelsea: all finals with estimate,0.5398,1.0,1.0
+observed vs expected (p_lift_odds),ALL FIVE (pooled): all finals with estimate,0.5419,1.0,1.0
+win rate by factor,Chelsea: Opponent English vs foreign,1.0,1.0,1.0
+win rate by factor,Chelsea: Referee English (vs foreign),1.0,1.0,1.0
+win rate by factor,Chelsea: Competition type,1.0,1.0,1.0
+win rate by factor,ALL FIVE (pooled): Venue,1.0,1.0,1.0
+win rate by factor,ALL FIVE (pooled): Competition type,1.0,1.0,1.0
+win rate by factor,ALL FIVE (pooled): Opponent English vs foreign,1.0,1.0,1.0
+win rate by factor,ALL FIVE (pooled): Era (decade blocks),1.0,1.0,1.0
+O-E difference by factor (p_lift_odds),Chelsea: referee_english,1.0,1.0,1.0
+win rate by factor,ALL FIVE (pooled): Referee English (vs foreign),1.0,1.0,1.0
+win rate by factor,Chelsea: Venue,1.0,1.0,1.0
+win rate by factor,Chelsea: Era (decade blocks),1.0,1.0,1.0
+observed vs expected (p_lift_odds),Manchester City: all finals with estimate,1.0,1.0,1.0
+O-E difference by factor (p_lift_odds),Chelsea: opponent_type,1.0,1.0,1.0
+O-E difference by factor (p_lift_odds),Chelsea: competition_type,1.0,1.0,1.0
+net direction of contested decisions (sign test),Chelsea,1.0,1.0,1.0
+net direction of contested decisions (sign test),Manchester City,1.0,1.0,1.0
+net direction of contested decisions (sign test),Manchester United,1.0,1.0,1.0
+net direction of contested decisions (sign test),ALL FIVE vs non-five,1.0,1.0,1.0

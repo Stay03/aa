@@ -1,0 +1,391 @@
+{{good article}}
+{{Use British English|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox football match
+|              title = 2012 Football League Cup final
+|              image = 2012 League Cup cover.jpg
+|         image_size = 250
+|            caption = Match programme cover
+|              event = [[2011–12 Football League Cup]]
+|              team1 = [[Cardiff City F.C.|Cardiff City]]
+|   team1association = {{flagicon|WAL|size=30px}}
+|         team1score = 2
+|              team2 = [[Liverpool F.C.|Liverpool]]
+|   team2association = {{flagicon|ENG|size=30px}}
+|         team2score = 2
+|            details = After [[Overtime (sports)#Association football|extra time]] <br> Liverpool won 3–2 on [[Penalty shoot-out (association football)|penalties]]
+|               date = {{Start date|2012|2|26|df=y}}
+|            stadium = [[Wembley Stadium]]
+|               city = [[London]]
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Stewart Downing]] (Liverpool)<ref name="Man of match">{{cite web|title=Alan Hardaker Trophy Winners |url=http://www.football-league.co.uk/page/AlanHardakerTrophyWinners/0,,10794~1354852,00.html |publisher=The Football League |date=26 February 2012 |access-date=8 May 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120421013843/http://www.football-league.co.uk/page/AlanHardakerTrophyWinners/0%2C%2C10794~1354852%2C00.html |archive-date=21 April 2012 |df=dmy }}</ref>
+|            referee = [[Mark Clattenburg]] ([[Durham County Football Association|County Durham]])<ref name="officials">{{cite news|title=Clattenburg to oversee Carling Cup Final |url=http://www.football-league.co.uk/carlingcup/news/20120201/clattenburg-to-oversee-carling-cup-final_2293330_2597351 |archive-url=https://archive.today/20130114040431/http://www.football-league.co.uk/carlingcup/news/20120201/clattenburg-to-oversee-carling-cup-final_2293330_2597351 |url-status=dead |archive-date=14 January 2013 |publisher=The Football League |date=1 February 2012 |access-date=1 February 2012 }}</ref>
+|         attendance = 89,041<ref name="attendance">{{cite web |url=http://www.carling.com/carlingcup/fixtures/ |title=Carling Cup Final |publisher=Carling |access-date=26 February 2012 |archive-url=https://web.archive.org/web/20120302020550/http://www.carling.com/carlingcup/fixtures/ |archive-date=2 March 2012 |url-status=dead }}</ref>
+|            weather = Partly cloudy<br />{{convert|10|°C|°F}}
+|           previous = [[2011 Football League Cup final|2011]]
+|               next = [[2013 Football League Cup final|2013]]
+}}
+The '''2012 Football League Cup final''' was a [[association football|football]] match between [[Cardiff City F.C.|Cardiff City]] and [[Liverpool F.C.|Liverpool]] on 26 February 2012 at [[Wembley Stadium]], London. It was the final match of the [[2011–12 Football League Cup]], the 52nd season of the [[Football League Cup]], a [[association football|football]] competition for the 92 teams in the [[Premier League]] and the [[The Football League|Football League]]. Cardiff were appearing in their first final, while Liverpool were appearing in the final for the eleventh time; they had previously won seven and lost three finals.
+
+As Cardiff were in the Football League, they played one more round than Liverpool who received a bye in the first round. Therefore, Cardiff progressed through six rounds to reach the final, whereas Liverpool progressed through five. Matches up to the semi-final were contested on a one-off basis with the exception of the semi-finals, which were contested over two-legs with a match at each team's home ground. Both Liverpool and Cardiff's matches were close affairs; their biggest margins of victory was by two goals. Liverpool beat [[Manchester City F.C.|Manchester City]] to reach the final, whereas Cardiff progressed via a [[Penalty shoot-out (association football)|penalty shoot-out]] against [[Crystal Palace F.C.|Crystal Palace]].
+
+Watched by a crowd of 89,041, Cardiff took the lead in the first half when [[Joe Mason (footballer, born 1991)|Joe Mason]] scored. The score remained the same through half-time until Liverpool equalised in the 60th minute, when [[Martin Škrtel]] scored. With the score 1–1 at full-time, the match went to [[Overtime (sports)|extra-time]] as neither side were able to score a second goal. The first half of extra-time was goalless, but three minutes into the second half Liverpool took the lead when [[Dirk Kuyt]] scored. However two minutes before the end of extra-time Cardiff equalised to make the score 2–2, courtesy of a goal from [[Ben Turner (footballer)|Ben Turner]]. With the score at 2–2 at the end of extra-time the match went to a penalty shoot-out. Despite missing their first two penalties, Liverpool won the shoot-out 3–2 to win the League Cup for a record eighth time.
+
+Liverpool's manager [[Kenny Dalglish]] stated in the aftermath, that the victory would lead to more trophies, although Liverpool did not win another trophy until [[2019 UEFA Champions League Final|2019]]. The club reached the [[2012 FA Cup final]], but were beaten 2–1 by [[Chelsea F.C.|Chelsea]]. Their league form faltered after the victory and they finished the season in 8th place. Despite this, victory in the final ensured Liverpool had qualified for the [[2012–13 UEFA Europa League]]. Cardiff manager [[Malky Mackay]] was proud of his team despite their defeat. They finished the season in 6th place in the [[2011–12 Football League Championship]], reaching the playoffs where they were beaten by [[West Ham United F.C.|West Ham United]] over two-legs.
+
+==Route to the final==
+{{Main|2011–12 Football League Cup}}
+
+===Cardiff City===
+[[File:Cardiff City fans.jpg|thumb|left|Cardiff City fans during the final]]
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+<!-- |+ '''Cardiff''' -->
+! scope="col" style="width:25px;"| Round
+! scope="col" style="width:100px;"| Opponents
+! scope="col" style="width:50px;"| Score
+|-
+!scope=row style="text-align:center"|1st
+| [[Oxford United F.C.|Oxford United]] (a)
+| 3–1 ([[Overtime (association football)|a.e.t.]])
+|-
+!scope=row style="text-align:center"|2nd
+| [[Huddersfield Town F.C.|Huddersfield Town]] (h)
+| 5–3 (a.e.t.)
+|-
+!scope=row style="text-align:center"|3rd
+| [[Leicester City F.C.|Leicester City]] (h)
+| 2–2 (7–6 [[Penalty shoot-out (association football)|pen]])
+|-
+!scope=row style="text-align:center"|4th
+| [[Burnley F.C.|Burnley]] (h)
+| 1–0
+|-
+!scope=row style="text-align:center"|5th
+| [[Blackburn Rovers F.C.|Blackburn Rovers]] (h)
+| 2–0
+|-
+!scope=row style="text-align:center" rowspan="2" | SF
+| [[Crystal Palace F.C.|Crystal Palace]] (a)
+| 0–1
+|-
+| Crystal Palace (h)
+| 1–0 (3–1 [[Penalty shoot-out (association football)|pen]])
+|}
+Cardiff entered the [[2011–12 Football League Cup]] in the first round where they faced [[Oxford United F.C.|Oxford United]]. The match played at the [[Kassam Stadium]] saw Cardiff take the lead in the 10th minute when [[Craig Conway (footballer)|Craig Conway]] scored. Oxford equalised 20 minutes later courtesy of a [[Simon Clist]] goal. Neither side was able to score a winning goal during the remainder of the match, which went into [[Overtime (sports)|extra-time]] at 1–1. Two goals from [[Peter Whittingham]] and [[Nathaniel Jarvis]] secured a 3–1 victory for Cardiff.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/14383989 |title=Oxford 1–3 Cardiff |work=BBC Sport |publisher=British Broadcasting Corporation |date=10 August 2011 |access-date=15 April 2012 }}</ref> Their opponents in the second round were [[Huddersfield Town F.C.|Huddersfield Town]]. Two goals in the first 16 minutes courtesy of [[Gabor Gyepes]] and [[Jon Parkin]] gave Cardiff an early 2–0 lead, which they held until the 55th minute when Huddersfield reduced the deficit to 2–1 courtesy of a [[Jordan Rhodes]] goal. [[Danny Ward (footballer, born 1990)|Daniel Ward]] equalised for Huddersfield in the 69th minute before Rhodes scored his second goal of the match to give Huddersfield a 3–2 lead in the 87th minute. Cardiff equalised two minutes into stoppage time when [[Don Cowie (footballer)|Don Cowie]] headed the ball in from close range. With the score at 3–3 after 90 minutes the match went to extra-time.  A goal each from Conway and Cowie gave Cardiff a 5–3 victory and progression to the third round.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/14539104 |title=Cardiff 5–3 Huddersfield |work=BBC Sport |publisher=British Broadcasting Corporation |date=23 August 2011 |access-date=15 April 2012 }}</ref>
+
+[[Leicester City F.C.|Leicester City]] were the opponents in the third round. Cardiff playing at their home ground the [[Cardiff City Stadium]] took the lead in the 32nd minute when Cowie scored. Leicester equalised seven minutes later when [[Steve Howard]] scored from close range. Leicester then took the lead in the 65th minute courtesy of a [[Lloyd Dyer]] goal. Cardiff equalised when [[Rudy Gestede]] with nine minutes of the match remaining. The score remained 2–2 until full-time and throughout extra-time, which mean the match would be decided by a [[Penalty shoot-out (association football)|penalty shoot-out]]. Cardiff won the shoot-out 7–6 to progress to the fourth round.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/14910203 |title=Cardiff 2–2 Leicester (7–6 pens) |work=BBC Sport |publisher=British Broadcasting Corporation |date=21 September 2011 |access-date=15 April 2012 }}</ref>
+
+Cardiff were drawn at home against [[Burnley F.C.|Burnley]] in the fourth round. They won the match 1–0 courtesy of a [[Joe Mason (footballer, born 1991)|Joe Mason]] goal in the first half. The result was the first time in the competition Cardiff's match did not go into extra-time and it was the first they had reached the quarter-finals of the League Cup since 1965.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/15346240 |title=Cardiff 1–0 Burnley |work=BBC Sport |publisher=British Broadcasting Corporation |date=25 October 2011 |access-date=15 April 2012 }}</ref> Their opponents in the quarter-finals were [[Blackburn Rovers F.C.|Blackburn Rovers]]. Two goals from [[Kenny Miller]] and [[Anthony Gerrard]] secured a 2–0 victory for Cardiff and their progression to the semi-finals.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/15831896 |title=Cardiff 2–0 Blackburn |work=BBC Sport |publisher=British Broadcasting Corporation |date=29 November 2011 |access-date=15 April 2012 }}</ref>
+
+[[Crystal Palace F.C.|Crystal Palace]] were Cardiff's opponents in the semi-final which was played over two-legs. The first leg was played at Palace's home ground [[Selhurst Park]]. Cardiff started the match the better of the two sides but were unable to convert their chances. Palace took the lead in the 43rd minute when [[Anthony Gardner (footballer)|Anthony Gardner]] headed in [[Darren Ambrose]]'s cross. Neither side scored again and the match ended 1–0.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/16388644 |title=Crystal Palace 1–0 Cardiff |work=BBC Sport |publisher=British Broadcasting Corporation |date=10 January 2012 |access-date=15 April 2012 |first=Alastair |last=Magowan }}</ref> The second leg at the Cardiff City Stadium started well for Cardiff when they went ahead in the seventh minute after an own-goal from Palace defender Gardner, which levelled the aggregate score at 1–1. Palace were reduced to ten men in the second half when [[Paddy McCarthy]] was sent-off. Despite their numerical advantage Cardiff were unable to a second goal during the 90 minutes and extra-time and the tie went to a penalty shoot-out. Cardiff goalkeeper [[Tom Heaton]] saved two penalties as Cardiff won the shoot-out 3–1 to progress to their first League Cup final.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/16589189 |title=Cardiff 1–0 Crystal Palace (agg 1–1, pen 3–1) |work=BBC Sport |publisher=British Broadcasting Corporation |date=24 January 2012 |access-date=15 April 2012 }}</ref>
+
+===Liverpool===
+[[File:Liverpool fans.jpg|thumb|left|Liverpool fans during the final]]
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+<!-- |+ '''Cardiff''' -->
+! scope="col" style="width:25px;"| Round
+! scope="col" style="width:100px;"| Opponents
+! scope="col" style="width:50px;"| Score
+|-
+!scope=row style="text-align:center"|2nd
+| [[Exeter City F.C.|Exeter City]] (a)
+| 3–1
+|-
+!scope=row style="text-align:center"|3rd
+| [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] (a)
+| 2–1
+|-
+!scope=row style="text-align:center"|4th
+| [[Stoke City F.C.|Stoke City]] (a)
+| 2–1
+|-
+!scope=row style="text-align:center"|5th
+| [[Chelsea F.C.|Chelsea]] (a)
+| 2–0
+|-
+!scope=row style="text-align:center" rowspan="2" | SF
+| [[Manchester City F.C.|Manchester City]] (a)
+| 1–0
+|-
+| Manchester City (h)
+| 2–2
+|}
+Liverpool entered the competition in the second round, as one of the thirteen teams from the [[Premier League]] who were not involved in European competition during the season.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/14500213 |title=Carling Cup second round draw |work=BBC Sport |publisher=British Broadcasting Corporation |date=11 August 2011 |access-date=16 April 2012 }}</ref> They were drawn against [[Exeter City F.C.|Exeter City]] in the second round. The match, played at Exeter's home ground, [[St James Park, Exeter|St James Park]] was won by Liverpool; goals from [[Luis Suárez (Uruguayan footballer)|Luis Suárez]], [[Maxi Rodríguez]] and [[Andy Carroll]] helped the team win 3–1.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/league_cup/14569491.stm |title=Exeter 1–3 Liverpool |work=BBC Sport |publisher=British Broadcasting Corporation |date=24 August 2011 |access-date=16 April 2012 }}</ref>
+
+Liverpool's opponents in the third round were [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]. The match was played at Brighton's home ground, the [[Falmer Stadium]]. Liverpool took the lead in the 7th minute when [[Craig Bellamy]] scored. [[Dirk Kuyt]] extended the lead in the second half, scoring in the 82nd minute. Brighton pulled a goal back courtesy of an [[Ashley Barnes]] [[Penalty kick (association football)|penalty kick]], but were unable to score an equaliser; the match finished 2–1 to Liverpool.<ref>{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/league_cup/14910223.stm |title=Brighton 1–2 Liverpool |work=BBC Sport |publisher=British Broadcasting Corporation |date=21 September 2011 |access-date=16 April 2012 |first=Phil |last=McNulty }}</ref>
+
+[[Stoke City F.C.|Stoke City]] were Liverpool's opponents in the fourth round. The match, held at Stoke's home ground the [[Britannia Stadium]] saw Stoke take the lead towards the end of the first-half when [[Kenwyne Jones]] scored. Liverpool equalised in the 54th minute courtesy of a goal from Suárez, and he scored the winner in the 84th minute to give Liverpool a 2–1 victory and a place in the fifth round.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/league_cup/15363354.stm |title=Stoke 1–2 Liverpool |work=BBC Sport |publisher=British Broadcasting Corporation |date=26 October 2011 |access-date=16 April 2012 }}</ref> Liverpool were drawn against [[Chelsea F.C.|Chelsea]] in the subsequent round. At [[Stamford Bridge (stadium)|Stamford Bridge]], Carroll missed a penalty in a goalless first half. Despite this Liverpool scored twice after the interval, courtesy of goals from Maxi and [[Martin Kelly (footballer)|Martin Kelly]]. They won the match 2–0 to reach the semi-finals.<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/league_cup/15831951.stm |title=Chelsea 0–2 Liverpool |work=BBC Sport |publisher=British Broadcasting Corporation |date=29 November 2011 |access-date=16 April 2012 |first=Phil |last=McNulty }}</ref>
+
+Liverpool were drawn against [[Manchester City F.C.|Manchester City]] in the semi-finals which were held over two-legs. The first leg was at City's home ground, the [[City of Manchester Stadium|Etihad stadium]]. Liverpool won the match 1–0, courtesy of a [[Steven Gerrard]] penalty.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/16405943 |title=Manchester City 0–1 Liverpool |work=BBC Sport |publisher=British Broadcasting Corporation |date=12 January 2012 |access-date=16 April 2012 |first=Phil |last=McNulty }}</ref> The second leg was held at Liverpool's home ground [[Anfield]]. City took the lead in the first half when [[Nigel de Jong]] scored, ten minutes later Gerrard equalised when he scored a penalty. At half-time, the score was 1–1 with Liverpool leading 2–1 on aggregate. City took the lead in the match when [[Edin Džeko]] scored in the 67th minute. The goal meant the aggregate score was 2–2 but City would progress to the final if the score remained the same due to the [[away goals rule]]. Liverpool needed to find an equaliser, and seven minutes after Džeko's goal they did, when Bellamy scored. City tried to score an equaliser but to no avail, and the match finished 2–2, with Liverpool progressing to the final courtesy of a 3–2 aggregate victory.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/16606933 |title=Liverpool 2–2 Manchester City (3–2 agg) |work=BBC Sport |publisher=British Broadcasting Corporation |date=25 January 2012 |access-date=16 April 2012 |first=Phil |last=McNulty }}</ref>
+
+==Match==
+===Background===
+[[File:2012 Carling Cup Final - line-ups.jpg|thumb|right|The Liverpool and Cardiff players lining up before the start of the match.]]
+Cardiff were appearing in their first League Cup final; they had previously reached the semi-final of the competition in the [[1965–66 Football League Cup|1965–66 season]], when they were beaten by [[West Ham United F.C.|West Ham United]] 5–1 on aggregate. They were also the first team from outside the [[Premier League]] to reach the final since 2001, when [[Birmingham City F.C.|Birmingham City]] lost to Liverpool.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/9685425.stm |title=Tuesday football as it happened |work=BBC Sport |publisher=British Broadcasting Corporation |date=24 January 2012 |access-date=19 April 2012 |first=Tom |last=Rostance }}</ref> Liverpool were appearing in their eleventh final; they had won seven ([[1981 Football League Cup final|1981]], [[1982 Football League Cup final|1982]], [[1983 Football League Cup final|1983]], [[1984 Football League Cup final|1984]], [[1995 Football League Cup final|1995]], [[2001 Football League Cup final|2001]], [[2003 Football League Cup final|2003]]) and lost three ([[1978 Football League Cup final|1978]], [[1987 Football League Cup final|1987]], [[2005 Football League Cup final|2005]]). The last meeting between the two teams was in the [[2007–08 Football League Cup]] on 31 October 2007, Liverpool won 2–1 to progress to the fifth round.<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/league_cup/7065191.stm|title=Liverpool 2–1 Cardiff |date=31 October 2007|work=BBC Sport |publisher=BBC British Broadcasting Corporation|access-date=20 February 2012}}</ref>
+
+This was the fourth time in as many years that Cardiff City had played at [[Wembley Stadium]].<ref>{{cite web |title=Wembley excites Cardiff chief |url=http://www1.skysports.com/football/news/11095/7454420/Wembley-excites-Cardiff-chief |date=25 January 2012 |access-date=25 January 2012 |work=Sky Sports |publisher=BSkyB }}</ref> They played at the stadium twice during the [[2007–08 FA Cup]]; they beat [[Barnsley F.C.|Barnsley]] 1–0 in the semi-final before losing 1–0 to [[Portsmouth F.C.|Portsmouth]] in the [[2008 FA Cup final|final]].<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/7393770.stm |title=Portsmouth 1–0 Cardiff |work=BBC Sport |publisher=British Broadcasting Corporation |date=17 May 2008 |access-date=19 April 2012 |first=Phil |last=McNulty }}</ref> Their last match at the stadium was the [[2010 Football League Championship play-off final|2010 Championship play-off final]] against [[Blackpool F.C.|Blackpool]], which they lost 3–2.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/eng_div_1/8692465.stm |title=Blackpool 3–2 Cardiff |work=BBC Sport |publisher=British Broadcasting Corporation |date=22 May 2010 |access-date=19 April 2012 |first=Paul |last=Fletcher }}</ref> The final represented the first time Liverpool had visited the new Wembley Stadium; their previous appearances in the final in 2001, 2003 and 2005 had been played at the [[Millennium Stadium]] in Cardiff while Wembley was being rebuilt. Their last visit to Wembley was in 1996 when they reached the final of the FA Cup, match they lost [[1996 FA Cup final|1–0]] to [[Manchester United F.C.|Manchester United]] at the [[Wembley Stadium (1923)|old Wembley Stadium]].<ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/liverpool/9103945/Carling-Cup-final-Liverpools-return-to-Wembley-16-years-on-from-the-Spice-Boys-cream-suits-and-all-that.html |title=Carling Cup final: Liverpool's return to Wembley, 16 years on from the Spice Boys, cream suits and all that |work=The Daily Telegraph |date=24 February 2012 |access-date=19 April 2012 |first=Thom |last=Gibbs }}</ref>
+
+A week before the final Cardiff played [[Ipswich Town F.C.|Ipswich Town]] in the [[2011–12 Football League Championship]] – it was their last match before the final, which they lost 3–0.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/16995101 |title=Ipswich 3–0 Cardiff |work=BBC Sport |publisher=British Broadcasting Corporation |date=18 February 2012 |access-date=21 April 2012 }}</ref> Cardiff had a few injury concerns ahead of the final. Captain [[Mark Hudson (footballer born 1982)|Mark Hudson]] had a calf problem, while midfielder [[Stephen McPhail]] had missed Cardiff's last four matches as he was suffering from [[Sjögren's syndrome]], an immune system disorder. Goalkeeper Heaton was also a doubt with a knock on his ankle, but he was considered likely to start the match.<ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/competitions/league-cup/9101434/Cardiff-City-v-Liverpool-match-preview.html |title=Cardiff City v Liverpool: match preview |work=The Daily Telegraph |date=24 February 2012 |access-date=21 April 2012 |first=John |last=Ley }}</ref> Cardiff manager [[Malky Mackay]] acknowledged that Liverpool went into the match as favourites, but he was confident his team could provide a shock: "Obviously we are underdogs but we have a chance in the final, Maybe only a one in 10 chance but that's still a chance if you turn up motivated, fit and organised and I think I can promise that."<ref>{{cite news|url=https://www.theguardian.com/football/2012/feb/25/malky-mackay-cardiff-liverpool?INTCMP=ILCNETTXT3487 |title=Malky Mackay has Cardiff dreaming of a happy return down Wembley way |work=The Guardian |date=25 February 2012 |access-date=21 April 2012 |first=Paul |last=Wilson }}</ref>
+
+Liverpool's last match before the final was against [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] in the [[FA Cup]], which they won 6–1.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/17001835 |title=Liverpool 6–1 Brighton |work=BBC Sport |publisher=British Broadcasting Corporation |date=19 February 2012 |access-date=19 April 2012 |first=Neil |last=Johnston }}</ref> Despite the margin of victory, Liverpool manager [[Kenny Dalglish]] was adamant that the result meant nothing in regards to the final: "Defeating Brighton has got us to the next round, but it doesn't really help us in the Carling Cup, we've got a cup final but we won't get carried away." Despite missing the match against Brighton, Dalglish was confident that [[Daniel Agger]] and [[Craig Bellamy]] would be fit for the final.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/17092038 |title=Liverpool won't get carried away, says Dalglish |work=BBC Sport |publisher=British Broadcasting Corporation |date=19 February 2012 |access-date=19 April 2012 }}</ref> Going into the match Liverpool had not won a trophy since they beat West Ham United in the [[2006 FA Cup final]]. Dalglish stated that victory: "means a lot to me, more importantly it means a lot to a lot of people who have had to endure a few years when we've not been [to Wembley]."<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/17113698 |title=Kenny Dalglish keen to end Liverpool trophy drought |work=BBC Sport |publisher=British Broadcasting Corporation |date=22 February 2012 |access-date=19 April 2012 }}</ref>
+
+Both clubs received an allocation of approximately 31,000 tickets. Cardiff fans would be housed in the East End of the stadium, while Liverpool fans were allocated the West End of the stadium.<ref name=tickets1>{{cite web |url=http://www.football-league.co.uk/carlingcup/news/20120203/carling-cup-final-ticket-details_2293330_2599041 |title=Carling Cup final ticket details |publisher=The Football League |date=3 February 2012 |access-date=20 April 2012 |archive-url=https://web.archive.org/web/20120424171845/http://www.football-league.co.uk/carlingcup/news/20120203/carling-cup-final-ticket-details_2293330_2599041 |archive-date=24 April 2012 |url-status=dead |df=dmy-all }}</ref> Ticket prices were increased from last year's final, with the most expensive tickets costing £90, up £4 from the previous year. The least expensive tickets cost £40, which was £2 more than last year.<ref name=tickets1 /><ref>{{cite web |url=http://www.football-league.co.uk/carlingcup/news/20110127/carling-cup-final-ticket-details_2293330_2278000 |title=Carling Cup final ticket details |publisher=The Football League |date=27 January 2011 |access-date=20 April 2012 |archive-url=https://web.archive.org/web/20110131193509/http://www.football-league.co.uk/carlingcup/news/20110127/carling-cup-final-ticket-details_2293330_2278000 |archive-date=31 January 2011 |url-status=dead |df=dmy-all }}</ref> It was decided that before the match started national anthems would not be played. This decision was made to avoid spectators jeering the anthems, as happened during the 2008 FA Cup final between Portsmouth and Cardiff.<ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/liverpool/9100199/Carling-Cup-final-2012-no-national-anthems-to-be-played-ahead-of-Liverpools-clash-with-Cardiff-City.html |title=Carling Cup final 2012: no national anthems to be played ahead of Liverpool's clash with Cardiff City |work=The Daily Telegraph |date=23 February 2012 |access-date=21 April 2012 }}</ref>
+
+===First-half===
+[[File:Cardiff throw-in.jpg|thumb|left|Cardiff and Liverpool players compete to win possession of the ball from a throw-in]]
+Cardiff set up in a 4–4–1–1 formation with [[Rudy Gestede]] in the striker position supported by [[Kenny Miller]]. Liverpool lined up in a 4–2–3–1 formation, with [[Andy Carroll]] starting as the lone striker, with [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] playing behind him and [[Jordan Henderson]] and [[Stewart Downing]] either side.<ref name="telegraph">{{cite news|url=https://www.telegraph.co.uk/sport/football/competitions/league-cup/9103546/Cardiff-City-v-Liverpool-live.html|title=Cardiff City v Liverpool: live|date=27 February 2012|work=Daily Telegraph|access-date=27 February 2012 |first=Thom |last=Gibbs}}</ref> Cardiff kicked off, but Liverpool had the first chance of the match. [[Steven Gerrard]] passed the ball to [[Stewart Downing]] on the left hand side of the pitch, he passed to [[Glen Johnson (English footballer)|Glen Johnson]] whose shot hit the crossbar, the ball rebounded to Gerrard, but he sent his shot over the Cardiff goal.<ref name="telegraph" /> Liverpool had the best of the opening minutes of the match, with Cardiff unable to keep possession of the ball.<ref name="guardian">{{cite news|url=https://www.theguardian.com/football/2012/feb/26/carling-cup-final-cardiff-city-liverpool-mbm |title=Carling Cup final: Cardiff City v Liverpool |work=guardian.co.uk |date=26 February 2012 |access-date=29 April 2012 |first=Rob |last=Bagachi }}</ref> Liverpool had another chance in the sixth minute; Downing went past Cardiff defender [[Kevin McNaughton]] down the left of the pitch and crossed the ball into the penalty area, which was cleared for a corner kick. The resulting corner found Andy Carroll, but his header was deflected out for another corner which was caught by Cardiff goalkeeper [[Tom Heaton]].<ref name="guardian" />
+
+Cardiff began to exert themselves in the match and had their first chance in the tenth minute. [[Peter Whittingham]] and [[Aron Gunnarsson]] exchanged the ball before it was passed to Rudy Gestede, who found [[Kenny Miller]] in the Liverpool penalty area, however his resulting shot went over the Liverpool goal.<ref name="telegraph" /> Carroll had a chance to score in the 19th minute but his header was saved by Heaton. Cardiff immediately went on the attack and scored the first goal of the match. [[Martin Škrtel]]'s clearance from McNaughton's initial cross went back to the Cardiff player who passed to Miller, he passed the ball to [[Joe Mason (footballer, born 1991)|Joe Mason]] who had run onto the pass from the right hand side of the pitch. His subsequent shot went through the legs of Liverpool goalkeeper [[Pepe Reina]] and into the Liverpool goal to give Cardiff a 1–0 lead.<ref name="guardian" /> Liverpool responded by pushing men forward in an attempt to level the score. The first chance after Cardiff's goal saw defender [[Daniel Agger]] advance from his own half towards the Cardiff goal but his shot from {{convert|30|yd|m}} was blocked and went out for a throw-in.<ref name="telegraph" /> Liverpool had another chance from a similar distance a few minutes later but Carroll sent his shot over the crossbar.<ref name="bbc">{{cite news |url=https://www.bbc.co.uk/sport/football/17093419 |title=Cardiff 2–2 Liverpool |work=BBC Sport |publisher=British Broadcasting Corporation |date=26 February 2012 |access-date=29 April 2012 |first=Chris |last=Bevan }}</ref> Liverpool had a penalty appeal turned down in the 32nd minute when [[Ben Turner (footballer)|Ben Turner]] was adjudged not to have handled the ball. Immediately afterwards Johnson's cross was cleared by [[Mark Hudson (footballer, born 1982)|Mark Hudson]], the ball fell to [[Charlie Adam]] who sent his shot just wide of the Cardiff goal.<ref name="guardian" /> Just before half-time Liverpool had a chance to equalise, but Agger's header from Gerrard's free-kick was saved by Heaton.<ref name="telegraph" />
+
+===Second-half===
+Liverpool had the first attack of the half when they were awarded a free-kick for foul on [[José Enrique (footballer, born 1986)|José Enrique]]. The subsequent free-kick was cleared by Whittingham only as far as Henderson whose shot was wide of the Cardiff goal.<ref name="bbc" /> Two minutes later Cardiff had a chance to extend their lead; Whittingham went past Agger and passed to [[Don Cowie (footballer)|Don Cowie]], who back heeled the ball to Miller, his subsequent shot went wide of the Liverpool goal.<ref name="guardian" /> Henderson received the first yellow card of the match after his tackle on Mason was deemed to be too high.<ref name="telegraph" /> Cardiff had another chance in the 56th minute; a Gunnarsson long throw was punched away by Reina, but the clearance fell to Hudson, who headed the ball into the Liverpool penalty area to Gestede, his subsequent header was blocked by the Liverpool goalkeeper.<ref name="guardian" /> Liverpool made the first substitution of the match a minute later when Henderson was replaced by [[Craig Bellamy]].<ref name="bbc" /> Two minutes after the substitution, Liverpool equalised. Downing took a corner kick, which was headed on by Carroll to Suárez, whose header hit the post, it rebounded to Škrtel; his shot went into the Cardiff goal to level the match at 1–1.<ref name="telegraph" /> Cardiff had the first chance after Liverpool's goal, but Mason's shot was saved by Reina.<ref name="telegraph" />
+
+The minutes after Škrtel's goal saw Liverpool dominate, but they were unable to score a second goal despite a number of chances.<ref name="guardian" /> Liverpool conceded a free-kick {{convert|22|yd|m}} from their goal after Miller was fouled. Whittingham's subsequent shot hit Liverpool players and went out for a Cardiff throw-in. The resulting throw from Gunnarsson was flicked on by Gestede, but it was headed away by Liverpool.<ref name="guardian" /> Minutes later, Cardiff had a chance to score, but Turner's header from Cowie's pass went wide of the Liverpool goal.<ref name="bbc" /> Two minutes later, Liverpool had another chance to score, but Charlie Adam's shot was saved by Heaton.<ref name="telegraph" /> Liverpool made their second substitution of the match in the 87th minute when [[Jamie Carragher]] replaced Agger.<ref name="bbc" /> Two minutes before the end of the match, Cardiff had a chance to score: Liverpool conceded a free-kick, which was passed to Miller, who was in space, but his went over the Liverpool goal.<ref name="telegraph" /> With the scores level at 1–1, the match went into [[Overtime (sports)|extra time]] after the referee brought an end to the 90 minutes of play.<ref name="bbc" />
+
+===Extra time===
+[[File:LFCvCardiff2012.jpg|thumb|right|Players from both sides taking a break during the changeover of ends in extra time]]
+Before the start of extra time Cardiff made their first substitution of the match, goalscorer Mason was replaced by [[Filip Kiss]].<ref name="bbc" /> Liverpool had the first chance to score in extra time, but Suárez's header was cleared off the line by [[Andrew Taylor (footballer born 1986)|Andrew Taylor]].<ref name="guardian" /> Cardiff appeared to be playing for a [[Penalty shoot-out (association football)|penalty shoot-out]], as they were positioning the majority of their team behind the ball and in front of their goal.<ref name="telegraph" /> Cardiff captain Hudson was replaced in the 98th minute by [[Anthony Gerrard]] after suffering from cramp.<ref name="guardian" /> Liverpool had another chance in the 101st minute, when a pass by Gerrard was cleared for a corner kick by Taylor. The resulting corner was met by Carroll, but his header was wide of the Cardiff goal. Immediately after the attack Carroll was replaced by [[Dirk Kuyt]].<ref name="telegraph" /> Just before the end of the first half of extra time Liverpool had another chance. Bellamy went past two men down the left hand side of the pitch before exchanging passes with Kuyt, however his subsequent shot went wide.<ref name="guardian" />
+
+Just after the start of the second half of extra time Cardiff made their final substitution, replacing McNaughton with [[Darcy Blake]]. Two minutes later Kuyt made a run from deep in the Liverpool half, his initial shot was blocked, but the ball rebounded towards him. As the ball came back to him he shot again and the ball went past Heaton and into the Cardiff goal to give Liverpool a 2–1 lead.<ref name="telegraph" /> Cardiff were struggling after the goal with a number of their players suffering from cramp. Nevertheless, they had a chance in the 111th minute, when a Gunnarsson long throw was only half-cleared by Liverpool, but they were unable to convert the chance.<ref name="guardian" /> Towards the end of the half Cardiff began to exert more pressure on Liverpool. Turner, who had been moved into the striker position won a corner for Cardiff, which was punched away by Reina for a throw-in.<ref name="guardian" /> Cardiff won another from the throw, which found Kiss, whose shot was cleared off the line of the Liverpool goal by Kuyt for another corner.<ref name="bbc" /> The subsequent corner was headed on by Gunnarsson to Turner, who beat Kuyt to the ball and put his shot past Reina into the Liverpool goal to level the score at 2–2. Turner was shown a yellow card for removing his shirt during the celebration of the goal.<ref name="telegraph" /> Liverpool won a corner with a minute remaining but they were unable to score and the referee brought extra time to an end with the scores level, resulting in a penalty shoot-out.<ref name="guardian" />
+
+===Penalty shoot-out===
+Liverpool were the first team to take a penalty, but Gerrard's effort was saved by Heaton. Cardiff's first penalty was taken by Miller, but he also missed with his shot hitting the post.<ref name="telegraph" /> Adam took the next penalty for Liverpool, he also missed, placing his shot over the Cardiff goal.<ref name="guardian" /> Cowie took the next penalty for Cardiff and scored to give them a 1–0 lead. Liverpool also scored with their next penalty courtesy of Kuyt to level the shoot-out at 1–1.<ref name="bbc" /> Gestede was next for Cardiff, but his penalty hit the post. Liverpool took the lead in the shoot-out when Downing converted his penalty.<ref name="guardian" /> Whittingham was next for Cardiff and he scored to level the shoot-out at 2–2.<ref name="telegraph" /> Johnson took the next penalty for Liverpool and scored, to give Liverpool a 3–2 lead and leave Cardiff needing to score or Liverpool would win. The Cardiff penalty was taken by Anthony Gerrard, but he missed his penalty, which meant Liverpool won the shoot-out 3–2 and won their eighth League Cup.<ref name="bbc" />
+
+===Details===
+{{football box
+|date=26 February 2012
+|time=16:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Cardiff City F.C.|Cardiff City]] {{flagicon|WAL}}
+|score=2–2
+|aet=yes
+|report={{Deprecated archive|url=https://archive.today/20130114015951/http://www.football-league.co.uk/carlingcup/news/20120226/carling-cup-final-match-report_2293330_2621707|title=Report}}<br><ref name="bbc" />
+|team2={{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1=[[Joe Mason (footballer, born 1991)|Mason]] {{goal|19}}<br />[[Ben Turner (footballer)|Turner]] {{goal|118}}
+|goals2=[[Martin Škrtel|Škrtel]] {{goal|60}}<br />[[Dirk Kuyt|Kuyt]] {{goal|108}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=89,041<ref name="attendance"/>
+|referee=[[Mark Clattenburg]] ([[Durham County Football Association|County Durham]])<ref name="officials"/>
+|penalties1=[[Kenny Miller|Miller]] {{penmiss}}<br />[[Don Cowie (footballer)|Cowie]] {{pengoal}}<br />[[Rudy Gestede|Gestede]] {{penmiss}}<br />[[Peter Whittingham|Whittingham]] {{pengoal}}<br />[[Anthony Gerrard|A. Gerrard]] {{penmiss}}
+|penaltyscore=2–3
+|penalties2={{penmiss}} [[Steven Gerrard|S. Gerrard]]<br />{{penmiss}} [[Charlie Adam|Adam]]<br />{{pengoal}} [[Dirk Kuyt|Kuyt]]<br />{{pengoal}} [[Stewart Downing|Downing]]<br />{{pengoal}} [[Glen Johnson|Johnson]]
+}}
+
+{| style="width:92%;"
+|-
+|{{Football kit
+| pattern_la = _cardiff1112h
+| pattern_b  = _cardiff1112h
+| pattern_ra = _cardiff1112h
+| pattern_sh = _cardiff1112h
+| pattern_so = _cardiff1112hl
+| leftarm    = 0000DD
+| body       = 0000DD
+| rightarm   = 0000DD
+| shorts     = FFFFFF
+| socks      = 0000DD
+| title      = Cardiff City
+}}
+|{{Football kit
+| pattern_la = _liverpool1012h
+| pattern_b  = _liverpool1012h
+| pattern_ra = _liverpool1012h
+| pattern_sh = _liverpool1012h
+| pattern_so = _3_stripes_white
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FF0000
+| socks      = FF0000
+| title      = Liverpool
+}}
+|}
+
+{| style="width:100%;"
+|-
+|  style="vertical-align:top; width:50%;"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''22'''||{{flagicon|ENG}} [[Tom Heaton]]
+|-
+|RB ||'''2''' ||{{flagicon|SCO}} [[Kevin McNaughton]] || || {{suboff|106}}
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Mark Hudson (footballer, born 1982)|Mark Hudson]] ([[Captain (association football)|c]]) || || {{suboff|99}}
+|-
+|CB ||'''25'''||{{flagicon|ENG}} [[Ben Turner (footballer)|Ben Turner]] || {{yel|119}}
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Andrew Taylor (footballer, born 1986)|Andrew Taylor]]
+|-
+|RM ||'''8''' ||{{flagicon|SCO}} [[Don Cowie (footballer)|Don Cowie]]
+|-
+|CM ||'''7''' ||{{flagicon|ENG}} [[Peter Whittingham]]
+|-
+|CM ||'''17'''||{{flagicon|ISL}} [[Aron Gunnarsson]]
+|-
+|LM ||'''20'''||{{flagicon|IRL}} [[Joe Mason (footballer, born 1991)|Joe Mason]] || || {{suboff|91}}
+|-
+|SS ||'''9''' ||{{flagicon|SCO}} [[Kenny Miller]]
+|-
+|CF ||'''15'''||{{flagicon|FRA}} [[Rudy Gestede]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|SCO}} [[David Marshall (Scottish footballer)|David Marshall]]
+|-
+|DF ||'''6''' ||{{flagicon|IRL}} [[Anthony Gerrard]] || || {{subon|99}}
+|-
+|DF ||'''18'''||{{flagicon|ENG}} [[Lee Naylor (footballer)|Lee Naylor]]
+|-
+|MF ||'''4''' ||{{flagicon|SVK}} [[Filip Kiss]] || {{yel|98}} || {{subon|91}}
+|-
+|MF ||'''11'''||{{flagicon|SCO}} [[Craig Conway (footballer)|Craig Conway]]
+|-
+|MF ||'''23'''||{{flagicon|WAL}} [[Darcy Blake]] || || {{subon|106}}
+|-
+|FW ||'''10'''||{{flagicon|WAL}} [[Robert Earnshaw]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SCO}} [[Malky Mackay]]
+|}
+|valign="top"|[[File:Cardiff vs Liverpool 2012-02-26.svg|300px]]
+|  style="vertical-align:top; width:50%;"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|-
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Pepe Reina]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Glen Johnson]]
+|-
+|CB ||'''37'''||{{flagicon|SVK}} [[Martin Škrtel]]
+|-
+|CB ||'''5''' ||{{flagicon|DEN}} [[Daniel Agger]] || || {{suboff|86}}
+|-
+|LB ||'''3''' ||{{flagicon|ESP}} [[José Enrique (footballer, born 1986)|José Enrique]]
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Steven Gerrard]] ([[Captain (association football)|c]])
+|-
+|CM ||'''26'''||{{flagicon|SCO}} [[Charlie Adam]]
+|-
+|RW ||'''14'''||{{flagicon|ENG}} [[Jordan Henderson]] || {{yel|52}} || {{suboff|58}}
+|-
+|AM ||'''7''' ||{{flagicon|URU}} [[Luis Suárez (Uruguayan footballer)|Luis Suárez]]
+|-
+|LW ||'''19'''||{{flagicon|ENG}} [[Stewart Downing]]
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Andy Carroll]] || || {{suboff|103}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''32'''||{{flagicon|BRA}} [[Doni (footballer)|Doni]]
+|-
+|DF ||'''23'''||{{flagicon|ENG}} [[Jamie Carragher]] || || {{subon|86}}
+|-
+|DF ||'''34'''||{{flagicon|ENG}} [[Martin Kelly (footballer)|Martin Kelly]]
+|-
+|MF ||'''11'''||{{flagicon|ARG}} [[Maxi Rodríguez]]
+|-
+|MF ||'''20'''||{{flagicon|ENG}} [[Jay Spearing]]
+|-
+|FW ||'''18'''||{{flagicon|NED}} [[Dirk Kuyt]] || || {{subon|103}}
+|-
+|FW ||'''39'''||{{flagicon|WAL}} [[Craig Bellamy]] || || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SCO}} [[Kenny Dalglish]]
+|}
+|}
+{|  style="width:100%; font-size:90%;"
+|-
+|  style="width:50%; vertical-align:top;"|
+'''Man of the match'''
+*[[Stewart Downing]] (Liverpool)<ref name="Man of match" />
+
+'''Match officials'''
+*Assistant referees:
+**Simon Beck ([[Bedfordshire County Football Association|Bedfordshire]])<ref name="officials"/>
+**Mick McDonough ([[Northumberland Football Association|Northumberland]])<ref name="officials"/>
+*Fourth official: [[Anthony Taylor (referee)|Anthony Taylor]] ([[Manchester Football Association|Greater Manchester]])<ref name="officials"/>
+|  style="width:50%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of extra time if necessary.
+*Penalty shoot-out if scores still level.
+*Seven named substitutes.
+*Maximum of three substitutions.
+|}
+
+===Statistics===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="bbc" />
+|-
+! scope="col" style="width:100px;"|Statistic
+! scope="col" style="width:70px;"| Cardiff
+! scope="col" style="width:70px;"| Liverpool
+|-
+!scope=row|Total shots 
+| 11 
+| 39
+|-
+!scope=row|Shots on target 
+| 7 
+| 19
+|-
+!scope=row|Ball possession 
+| 47% 
+| 53%
+|-
+!scope=row|Corner kicks 
+| 3 
+| 19
+|-
+!scope=row|Fouls committed 
+| 11 
+| 14
+|-
+!scope=row|Offsides 
+| 1 
+| 5
+|-
+!scope=row|Yellow cards 
+| 2 
+| 1
+|-
+!scope=row|Red cards 
+| 0 
+| 0
+|}
+
+==Post-match==
+[[File:Liverpool players looking for family.jpg|thumb|right|The Liverpool players celebrating their victory after the trophy presentation]]
+Liverpool's victory meant they won the trophy for the eighth time, extending their record number of victories in the competition. Midfielder [[Stewart Downing]] was awarded the [[Alan Hardaker Trophy]] as the man of the match.<ref name="Man of match" /> Liverpool manager [[Kenny Dalglish]] was delighted to have won the League Cup and was adamant that the club would continue to win trophies: "Although we have won something today, that is not us finished, we don't want to stop here. We want to keep going. We've won it and we are going to really enjoy it. I know how much the players have enjoyed it and it gives you a wee flavour to come back and do it again." The victory meant that Dalglish became the seventh manager to win all three major domestic trophies in English football.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/17174308 |title=Kenny Dalglish believes Carling Cup win can inspire Liverpool |work=BBC Sport |publisher=British Broadcasting Corporation |date=26 February 2012 |access-date=20 May 2012 |first=Chris |last=Bevan }}</ref> Goalscorer [[Dirk Kuyt]] was equally delighted to have won the competition: "We wanted this so desperately, this is why I came to Anfield. To get my first medal is great." Meanwhile, captain [[Steven Gerrard]] had mixed emotions, due to his cousin [[Anthony Gerrard]] missing the deciding penalty: "One of Anthony or I was going to be sad, one was going to be celebrating. It happens. I've got mixed emotions at the moment because I feel for Anthony and Cardiff."<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/17174010 |title=Liverpool 'desperate' for Carling Cup win – Kuyt |work=BBC Sport |publisher=British Broadcasting Corporation |date=26 February 2012 |access-date=20 May 2012 }}</ref>
+
+Cardiff manager [[Malky Mackay]] was proud of his players despite their defeat: "We wanted to come here and win today but the players have done the club proud, I think today we were playing against a top team and I think we have got a lot to be proud of."<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/17174391 |title=Malky Mackay proud of Cardiff despite Carling Cup final loss |work=BBC Sport |publisher=British Broadcasting Corporation |date=26 February 2012 |access-date=21 May 2012 }}</ref> [[Anthony Gerrard]], who missed the decisive penalty took to Twitter to apologise to Cardiff fans stating that the miss would "...haunt me for the rest of my days!" Despite Gerrard's apology, Cardiff goalkeeper [[Tom Heaton]] was adamant that none of the players should take the blame for the defeat: "There is definitely no blame attached to any of the lads who missed. They all had the strength of character to stand up and take a penalty in front of 90,000 people and the world watching in a pressure situation. They should be credited and congratulated for taking them. Sadly, it wasn’t our day.”<ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/competitions/league-cup/9108476/Liverpool-v-Cardiff-Anthony-Gerrard-says-Carling-Cup-penalty-miss-will-haunt-me-forever.html |title=Anthony Gerrard says Carling Cup penalty miss 'will haunt me forever' |work=The Daily Telegraph |date=27 February 2012 |access-date=21 May 2012 }}</ref>
+
+Liverpool's first match after the final was against [[Arsenal F.C.|Arsenal]], a match the club needed to win to stay in touch with the top four. Two goals from [[Robin van Persie]], after Liverpool had scored in the first half meant that Liverpool lost 2–1 and were 10 points behind the team in 4th place, which would ensure qualification for the [[UEFA Champions League]] the following season.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/17163155 |title=Liverpool 1–2 Arsenal |work=BBC Sport |publisher=British Broadcasting Corporation |date=3 March 2012 |access-date=23 May 2012 |first=Chris |last=Bevan }}</ref> Liverpool's league form continued to falter after the final; they won four of their last thirteen matches and ended the season in eighth place.<ref>{{cite web|url=http://www.lfchistory.net/SeasonArchive/Games/121 |title=Games for the 2011–2012 season |publisher=LFC History |access-date=23 May 2012 }}</ref> Despite their poor league form, Liverpool reached the [[2012 FA Cup final|final]] of the FA Cup against [[Chelsea F.C.|Chelsea]]. But they were unable to win a second trophy and lost 2–1.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/17878435 |title=Chelsea 2–1 Liverpool |work=BBC Sport |publisher=British Broadcasting Corporation |date=5 May 2012 |access-date=23 May 2012 }}</ref> Cardiff played [[West Ham United F.C.|West Ham United]] in their first match after the final, which they lost 2–0.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/17175784 |title=Cardiff 0–2 West Ham |work=BBC Sport |publisher=British Broadcasting Corporation |date=4 March 2012 |access-date=23 May 2012 |first=Peter |last=Shuttleworth }}</ref> Despite the loss, they only needed to win one more in their remaining thirteen matches to finish in 6th place and qualify for the [[Football League Championship playoffs|Championship playoffs]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/tables |title=The Npower Football League Championship: Table |work=BBC Sport |publisher=British Broadcasting Corporation |date=28 April 2012 |access-date=23 May 2012 |archive-date=7 May 2010 |archive-url=https://web.archive.org/web/20100507112154/http://news.bbc.co.uk/sport1/hi/football/eng_div_1/table/default.stm |url-status=live }}</ref> They faced third placed West Ham United, in the playoffs, which were contested over two-legs, with one at each team's home ground. Cardiff were unable to secure a second Wembley final, as West Ham United won 5–0 on aggregate.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/17890891 |title=West Ham 3–0 Cardiff (5–0 agg) |work=BBC Sport |publisher=British Broadcasting Corporation |date=7 May 2012 |access-date=23 May 2012 }}</ref>
+
+==References==
+{{reflist}}
+{{commons category}}
+
+{{Football League Cup seasons}}
+{{2011–12 in English football}}
+{{Cardiff City F.C. matches}}
+{{Liverpool F.C. matches}}
+
+{{DEFAULTSORT:Football League Cup final 2012}}
+[[Category:EFL Cup finals|2012]]
+[[Category:2011–12 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:Cardiff City F.C. matches|League Cup final 2012]]
+[[Category:Liverpool F.C. matches|League Cup final 2012]]
+[[Category:2012 in sport in London|League Cup final 2012]]
+[[Category:2011–12 in Welsh football|League Cup final 2012]]
+[[Category:February 2012 sports events in the United Kingdom]]

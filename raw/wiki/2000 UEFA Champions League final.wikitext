@@ -1,0 +1,406 @@
+{{Short description|Association football match}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox football match
+| title            = 2000 UEFA Champions League final
+| image            = Champions League Final 2000.jpg
+| image_size       = 200
+| caption          = Match programme cover
+| event            = [[1999–2000 UEFA Champions League]]
+| team1            = [[Real Madrid CF|Real Madrid]]
+| team1association = {{fbaicon|ESP|size=30px}}
+| team1score       = 3
+| team2            = [[Valencia CF|Valencia]]
+| team2association = {{fbaicon|ESP|size=30px}}
+| team2score       = 0
+| date             = 24 May 2000
+| stadium          = [[Stade de France]]
+| city             = [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+| referee          = [[Stefano Braschi]] ([[Italian Football Federation|Italy]])<ref name="referee">{{cite news|title=UEFA Champions League Final|format=UEFA Telefax |url=http://pete.uri.edu/cgi-bin/wa?A2=ind0005d&L=socref-l&T=0&P=904 |author=J Smith|via=University of Rhode Island |date=22 May 2000 |access-date=11 August 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140812204205/http://pete.uri.edu/cgi-bin/wa?A2=ind0005d&L=socref-l&T=0&P=904 |archive-date=12 August 2014 }}</ref>
+| attendance       = 80,000<ref name="attendance"/>
+| weather          = 
+| previous         = [[1999 UEFA Champions League final|1999]]
+| next             = [[2001 UEFA Champions League final|2001]]
+}}
+The '''2000 UEFA Champions League final''' was a [[Association football|football]] match that took place on 24 May 2000. The match was played at [[Stade de France]] in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France, to determine the winner of the [[1999–2000 UEFA Champions League]]. Spanish teams [[Real Madrid CF|Real Madrid]] (playing in their eleventh final in the competition) and [[Valencia CF|Valencia]] (in their maiden appearance at this stage) were the participants in the first final in the history of the European Cup or Champions League to feature two clubs from the same country.
+
+Real Madrid won the match 3–0 to claim the trophy for a record-extending eighth time.
+
+==Route to the final==
+{{further|1999–2000 UEFA Champions League}}
+
+{|class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+!Round
+!colspan=4|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|- style="background:#c1e0ff"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[1999–2000 UEFA Champions League qualifying rounds|Qualifying phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|colspan=4|Bye
+|style="background:#c1e0ff"|Third qualifying round
+|align=left|{{fbaicon|ISR}} [[Hapoel Haifa F.C.|Hapoel Haifa]]
+|4–0
+|[[1999–2000 UEFA Champions League qualifying rounds#Valencia v Hapoel Haifa|2–0]] (H)
+|[[1999–2000 UEFA Champions League qualifying rounds#Hapoel Haifa v Valencia|2–0]] (A)
+|- style="background:#c1e0ff"
+|Opponent
+|colspan=3|Result
+|[[1999–2000 UEFA Champions League group stage|First group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Olympiacos v Real Madrid|3–3]] (A)
+| style="background:#c1e0ff;"|Matchday 1
+|align=left|{{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Valencia v Rangers|2–0]] (H)
+|-
+|align=left|{{fbaicon|NOR}} [[Molde FK|Molde]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Real Madrid v Molde|4–1]] (H)
+| style="background:#c1e0ff;"|Matchday 2
+|align=left|{{fbaicon|NED}} [[PSV Eindhoven]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#PSV Eindhoven v Valencia|1–1]] (A)
+|-
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Real Madrid v Porto|3–1]] (H)
+| style="background:#c1e0ff;"|Matchday 3
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Bayern Munich v Valencia|1–1]] (A)
+|-
+|align=left|{{fbaicon|POR}} [[FC Porto|Porto]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Porto v Real Madrid|1–2]] (A)
+| style="background:#c1e0ff;"|Matchday 4
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Valencia v Bayern Munich|1–1]] (H)
+|-
+|align=left|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Real Madrid v Olympiacos|3–0]] (H)
+| style="background:#c1e0ff;"|Matchday 5
+|align=left|{{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Rangers v Valencia|2–1]] (A)
+|-
+|align=left|{{fbaicon|NOR}} [[Molde FK|Molde]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Molde v Real Madrid|1–0]] (A)
+| style="background:#c1e0ff;"|Matchday 6
+|align=left|{{fbaicon|NED}} [[PSV Eindhoven]]
+|colspan=3|[[1999–2000 UEFA Champions League group stage#Valencia v PSV Eindhoven|1–0]] (H)
+|-
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[1999–2000 UEFA Champions League group stage#Group E|Group E]] winner'''
+{{:1999–2000 UEFA Champions League group stage|transcludesection=Group E|only_pld_pts=yes|show_matches=no|showteam=RMA}}
+| style="background:#c1e0ff;"|Final standings
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[1999–2000 UEFA Champions League group stage#Group F|Group F]] winner'''
+{{:1999–2000 UEFA Champions League group stage|transcludesection=Group F|only_pld_pts=yes|show_matches=no|showteam=VAL}}
+|- style="background:#c1e0ff;"
+|Opponent
+|colspan=3|Result
+|[[1999–2000 UEFA Champions League second group stage|Second group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Dynamo Kyiv v Real Madrid|2–1]] (A)
+| style="background:#c1e0ff;"|Matchday 1
+|align=left|{{fbaicon|FRA|1974}} [[FC Girondins de Bordeaux|Bordeaux]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Valencia v Bordeaux|3–0]] (H)
+|-
+|align=left|{{fbaicon|NOR}} [[Rosenborg BK|Rosenborg]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Real Madrid v Rosenborg|3–1]] (H)
+| style="background:#c1e0ff;"|Matchday 2
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Manchester United v Valencia|0–3]] (A)
+|-
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Real Madrid v Bayern Munich|2–4]] (H)
+| style="background:#c1e0ff;"|Matchday 3
+|align=left|{{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Fiorentina v Valencia|0–1]] (A)
+|-
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Bayern Munich v Real Madrid|1–4]] (A)
+| style="background:#c1e0ff;"|Matchday 4
+|align=left|{{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Valencia v Fiorentina|2–0]] (H)
+|-
+|align=left|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Real Madrid v Dynamo Kyiv|2–2]] (H)
+| style="background:#c1e0ff;"|Matchday 5
+|align=left|{{fbaicon|FRA|1974}} [[FC Girondins de Bordeaux|Bordeaux]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Bordeaux v Valencia|4–1]] (A)
+|-
+|align=left|{{fbaicon|NOR}} [[Rosenborg BK|Rosenborg]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Rosenborg v Real Madrid|1–0]] (A)
+| style="background:#c1e0ff;"|Matchday 6
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[1999–2000 UEFA Champions League second group stage#Valencia v Manchester United|0–0]] (H)
+|-
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[1999–2000 UEFA Champions League second group stage#Group C|Group C]] runners-up'''
+{{:1999–2000 UEFA Champions League second group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=RMA}}
+| style="background:#c1e0ff;"|Final standings
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[1999–2000 UEFA Champions League second group stage#Group B|Group B]] runners-up'''
+{{:1999–2000 UEFA Champions League second group stage|transcludesection=Group B|only_pld_pts=yes|show_matches=no|showteam=VAL}}
+|- style="background:#c1e0ff;"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[1999–2000 UEFA Champions League knockout stage|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|3–2
+|[[1999–2000 UEFA Champions League knockout stage#Real Madrid v Manchester United|0–0]] (H)
+|[[1999–2000 UEFA Champions League knockout stage#Manchester United v Real Madrid|3–2]] (A)
+| style="background:#c1e0ff;"|Quarter-finals
+|align=left|{{fbaicon|ITA}} [[SS Lazio|Lazio]]
+|5–3
+|[[1999–2000 UEFA Champions League knockout stage#Valencia v Lazio|5–2]] (H)
+|[[1999–2000 UEFA Champions League knockout stage#Lazio v Valencia|0–1]] (A)
+|-
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|3–2
+|[[1999–2000 UEFA Champions League knockout stage#Real Madrid v Bayern Munich|2–0]] (H)
+|[[1999–2000 UEFA Champions League knockout stage#Bayern Munich v Real Madrid|1–2]] (A)
+| style="background:#c1e0ff;"|Semi-finals
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|5–3
+|[[1999–2000 UEFA Champions League knockout stage#Valencia v Barcelona|4–1]] (H)
+|[[1999–2000 UEFA Champions League knockout stage#Barcelona v Valencia|1–2]] (A)
+|}
+
+==Match==
+===Summary===
+A headed goal from [[Fernando Morientes]] in the first half and a spectacular [[Steve McManaman]] volley midway through the second half put Real Madrid 2–0 ahead, before [[Raúl (footballer)|Raúl]] sealed the win with a breakaway third goal, rounding [[Santiago Cañizares]] after a Valencia corner was cleared.
+
+The win was Real Madrid's eighth European Cup victory overall and their second in three years, and was notable for being [[Vicente del Bosque]]'s first title as manager. It was also a landmark for being the first final played between two teams from the same nation. Upon this win, McManaman became the first [[English people|English]] player to win the tournament with a non-English club.
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2000|5|24|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 3–0
+|team2      = {{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|goals1     =
+*[[Fernando Morientes|Morientes]] {{goal|39}}
+*[[Steve McManaman|McManaman]] {{goal|67}}
+*[[Raúl (footballer)|Raúl]] {{goal|75}}
+|goals2     =
+|stadium    = [[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|attendance = 80,000<ref name="attendance">{{cite book |year=2017 |chapter=2. Finals |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/02/28/56/89/2285689_DOWNLOAD.pdf |title=UEFA Champions League Statistics Handbook 2016/17 |location=Nyon |publisher=Union of European Football Associations |page=1 |access-date=22 April 2017}}</ref>
+|referee    = [[Stefano Braschi]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/64833/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _realmadrid9900
+ | pattern_b  = _realmadrid9900
+ | pattern_ra = _realmadrid9900
+ | pattern_sh = _rmcf9900a
+ | pattern_so = _rmcf9900a
+ | leftarm    = E20E0E
+ | body       = E20E0E
+ | rightarm   = E20E0E
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Real Madrid
+}}
+|{{Football kit
+ | pattern_la = _val9900a
+ | pattern_b  = _val9900a
+ | pattern_ra = _val9900a
+ | pattern_sh = _val9900a
+ | pattern_so = 
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = FF7F00
+ | socks      = FF6600
+ | title      = Valencia
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''27'''||{{flagicon|ESP}} [[Iker Casillas]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Míchel Salgado]] || {{yel|37}} || {{suboff|85}}
+|-
+|CB ||'''18'''||{{flagicon|ESP}} [[Aitor Karanka]]
+|-
+|CB ||'''15'''||{{flagicon|ESP}} [[Iván Helguera]]
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Roberto Carlos]] || {{yel|59}}
+|-
+|RM ||'''8''' ||{{flagicon|ENG}} [[Steve McManaman]]
+|-
+|CM ||'''6''' ||{{flagicon|ARG}} [[Fernando Redondo]] ([[Captain (association football)|c]])
+|-
+|CM ||'''12'''||{{flagicon|ESP}} [[Iván Campo]]
+|-
+|LM ||'''7''' ||{{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+|-
+|CF ||'''9''' ||{{flagicon|ESP}} [[Fernando Morientes]] || || {{suboff|72}}
+|-
+|CF ||'''19'''||{{flagicon|FRA|1974}} [[Nicolas Anelka]] || || {{suboff|80}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Bodo Illgner]]
+|-
+|DF ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]] || || {{subon|85}}
+|-
+|DF ||'''5''' ||{{flagicon|ESP}} [[Manolo Sanchís]] || || {{subon|80}}
+|-
+|MF ||'''11'''||{{flagicon|BRA}} [[Sávio (footballer, born 1974)|Sávio]] || || {{subon|72}}
+|-
+|MF ||'''21'''||{{flagicon|CMR}} [[Geremi]]
+|-
+|MF ||'''22'''||{{flagicon|FRA|1974}} [[Christian Karembeu]]
+|-
+|FW ||'''20'''||{{flagicon|BIH}} [[Elvir Baljić]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Vicente del Bosque]]
+|}
+|valign="top"|[[File:Real Madrid vs Valencia 2000-05-24.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Santiago Cañizares]] || {{yel|63}}
+|-
+|RB ||'''20'''||{{flagicon|FRA|1974}} [[Jocelyn Angloma]]
+|-
+|CB ||'''5''' ||{{flagicon|FRY}} [[Miroslav Đukić]]
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Mauricio Pellegrino]] || {{yel|90+2}}
+|-
+|LB ||'''31'''||{{flagicon|ESP}} [[Gerardo García León|Gerardo]] || {{yel|38}} || {{suboff|69}}
+|-
+|DM ||'''8''' ||{{flagicon|ESP}} [[Javier Farinós]] || {{yel|82}}
+|-
+|RM ||'''6''' ||{{flagicon|ESP}} [[Gaizka Mendieta]] ([[Captain (association football)|c]])
+|-
+|CM ||'''14'''||{{flagicon|ESP}} [[Gerard López]]
+|-
+|LM ||'''18'''||{{flagicon|ARG}} [[Kily González]]
+|-
+|CF ||'''10'''||{{flagicon|ESP}} [[Miguel Ángel Angulo]]
+|-
+|CF ||'''7''' ||{{flagicon|ARG}} [[Claudio López (footballer)|Claudio López]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Jorge Bartual]]
+|-
+|DF ||'''3''' ||{{flagicon|SWE}} [[Joachim Björklund]]
+|-
+|MF ||'''9''' ||{{flagicon|ESP}} [[Óscar García Junyent|Óscar]]
+|-
+|MF ||'''21'''||{{flagicon|ESP}} [[Luis Milla (footballer, born 1966)|Luis Milla]]
+|-
+||MF ||'''23'''||{{flagicon|ESP}} [[David Albelda]]
+|-
+|FW ||'''11'''||{{flagicon|ROU}} [[Adrian Ilie]] || || {{subon|69}}
+|-
+|FW ||'''17'''||{{flagicon|ESP}} [[Juan Sánchez (footballer, born 1972)|Juan Ginés Sánchez]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Héctor Cúper]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Gennaro Mazzei ([[Italian Football Federation|Italy]])
+<br />Piergiuseppe Farneti ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Domenico Messina]] ([[Italian Football Federation|Italy]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[Golden goal#Association football|golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if no goals occur in extra time.
+*Seven named substitutes.
+*Maximum of three substitutes.
+|}
+
+===Statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!width=100 | Statistic<ref>{{cite web |url=http://www.ucl.uefa.org/ucl.2000/match/index.asp?MatchCode=17RMVA&Report=F |title=UEFA Champions League Final 2000 Full-Time Report |publisher=[[UEFA]] |date=24 May 2000 |access-date=2 January 2008 |archive-date=4 March 2016 |archive-url=https://web.archive.org/web/20160304124524/http://www.ucl.uefa.org/ucl.2000/match/index.asp?MatchCode=17RMVA&Report=F |url-status=dead }}</ref>
+!width=80 | Real Madrid
+!width=80 | Valencia
+|-
+|Goals scored || 3 || 0
+|-
+|Total shots || 14 || 6
+|-
+|Shots on target || 11 || 1
+|-
+|Ball possession || 53% || 47%
+|-
+|Corner kicks || 8 || 10
+|-
+|Fouls committed || 9 || 20
+|-
+|Offsides || 1 || 1
+|-
+|Yellow cards || 2 || 4
+|-
+|Red cards || 0 || 0
+|}
+
+==See also==
+*[[2000 UEFA Cup final]]
+*[[2000 UEFA Super Cup]]
+*[[2000 Intercontinental Cup]] 
+*[[1999–2000 Real Madrid CF season]]
+*[[1999–2000 Valencia CF season]]
+*[[Real Madrid CF in international football]]
+*[[Spanish football clubs in international competitions]]
+*[[Valencia CF in European football]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.uefa.com/uefachampionsleague/history/seasons/1999/matches/ 1999–2000 UEFA Champions League] at UEFA.com
+
+{{UEFA Champions League seasons}}
+{{1999–2000 in European football (UEFA)}}
+{{Real Madrid matches}}
+{{Valencia CF matches}}
+
+[[Category:Real Madrid CF matches|European Cup Final 2000]]
+[[Category:UEFA Champions League finals]]
+[[Category:Valencia CF matches|European Cup Final 2000]]
+[[Category:Football in Paris|2000]]
+[[Category:Football matches in France|2000]]
+[[Category:1999–2000 UEFA Champions League|Final]]
+[[Category:1999–2000 in French men's football|Champions]]
+[[Category:1999–2000 in Spanish men's football|Champions]]
+[[Category:2000 in Paris|UEFA Champions League final]]
+[[Category:May 2000 sports events in France|UEFA Champions League final]]
+[[Category:Spanish football clubs in international competitions]]

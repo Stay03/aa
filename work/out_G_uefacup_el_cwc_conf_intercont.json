@@ -1,0 +1,396 @@
+[
+ {
+  "article": "1998 UEFA Cup Winners' Cup final",
+  "date": "1998-05-13",
+  "competition": "UEFA Cup Winners' Cup",
+  "season": "1997-98",
+  "venue": "Råsunda Stadium",
+  "city": "Stockholm",
+  "team1": "Chelsea",
+  "team2": "VfB Stuttgart",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.irishtimes.com/sport/chelsea-triumph-thanks-to-zola-magic-1.152693",
+   "https://www.uefa.com/news/0250-0c50f0a399fa-d40486df7cf6-1000--1997-98-sub-zola-inspires-chelsea",
+   "https://www.rsssf.org/tablesd/duitec-stuttgart98.html"
+  ],
+  "core_verified": true,
+  "referee": "Stefano Braschi",
+  "referee_nationality": "Italian",
+  "referee_association": "FIGC (Italy)",
+  "referee_sources": [
+   "https://www.irishtimes.com/sport/chelsea-triumph-thanks-to-zola-magic-1.152693",
+   "https://www.rsssf.org/tablesd/duitec-stuttgart98.html"
+  ],
+  "assistants": "Gennaro Mazzei (Italian); Pietro Contente (Italian)",
+  "fourth_official": "Livio Bazzoli (Italian; reserve referee)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "Wikipedia article citing UEFA 'Team Line-ups – Chelsea-Stuttgart' (13 May 1998); not independently verified"
+  ],
+  "manager1": "Gianluca Vialli (player-manager)",
+  "manager2": "Joachim Löw",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Gianfranco Zola",
+    "minute": "71",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Dennis Wise",
+    "minute": "25",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "VfB Stuttgart",
+    "player": "Jonathan Akpoborie",
+    "minute": "33",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Dan Petrescu",
+    "minute": "84",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "VfB Stuttgart",
+    "player": "Gerhard Poschner",
+    "minute": "90+2",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.irishtimes.com/sport/chelsea-triumph-thanks-to-zola-magic-1.152693",
+   "https://www.uefa.com/news/0250-0c50f0a399fa-d40486df7cf6-1000--1997-98-sub-zola-inspires-chelsea",
+   "https://www.rsssf.org/tablesd/duitec-stuttgart98.html"
+  ],
+  "stats": {
+   "shots1": 19,
+   "shots2": 11,
+   "sot1": 5,
+   "sot2": 2,
+   "poss1": 48,
+   "poss2": 52,
+   "fouls1": 26,
+   "fouls2": 33,
+   "xg1": null,
+   "xg2": null,
+   "source": "Wikipedia statistics table (cites UEFA); not independently verified",
+   "xg_source": null,
+   "note": "UEFA figures as reproduced on Wikipedia; original UEFA document not accessed. No xG for 1998."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Graeme Le Saux (injury)",
+    "Frank Sinclair (injury)",
+    "Celestine Babayaro (injury)"
+   ],
+   "team2": [
+    "Frank Verlaat (suspension)",
+    "Martin Spanring (suspension)"
+   ],
+   "sources": [
+    "https://www.irishtimes.com/sport/chelsea-triumph-thanks-to-zola-magic-1.152693",
+    "Wikipedia citing The Independent 14 May 1998 and BBC News 12 May 1998 (http://news.bbc.co.uk/2/hi/sport/football/91693.stm) - not fetchable"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": "84",
+    "score_at_time": "1-0",
+    "type": "red card given",
+    "description": "Dan Petrescu sent off (straight red) for a foul/tackle on Murat Yakin; described as 'harshly sent off' (Irish Times) and a 'harsh red card' (Chelsea FC museum article).",
+    "favoured_team": "VfB Stuttgart",
+    "against_team": "Chelsea",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (Irish Times report; Chelsea FC official site)",
+    "impact": "possible",
+    "impact_reasoning": "Gave Stuttgart a man advantage for ~6-8 minutes at 1-0; Stuttgart did not exploit it and were themselves reduced to ten in stoppage time.",
+    "sources": [
+     "https://www.irishtimes.com/sport/chelsea-triumph-thanks-to-zola-magic-1.152693",
+     "https://www.chelseafc.com/en/news/article/from-the-museum-a-special-night-in-stockholm"
+    ]
+   }
+  ],
+  "contested_search_done": "Irish Times report, UEFA.com retrospective, RSSSF, web searches for Petrescu red card; BBC, Telegraph, Independent, NYT reports not fetchable (host blocked). Only Petrescu dismissal described as harsh.",
+  "uncertain": [
+   "Petrescu red minute: 84 (Irish Times, UEFA.com) vs 85 (Wikipedia/11v11); recorded 84.",
+   "Poschner red minute: Wikipedia 90+2, Irish Times '90', UEFA 'injury time', RSSSF 90; recorded 90+2 (Wikipedia). Wikipedia says dismissal followed arguing with referee; reason not confirmed by a second source; treated as straight red as no prior booking reported.",
+   "Booking minutes for Wise (25) and Akpoborie (33) from Wikipedia only; Irish Times confirms both were booked without minutes.",
+   "UEFA.com retrospective says Zola came on in 69th minute; Irish Times/Wikipedia say goal 71st minute (seconds after coming on at ~70). Goal minute 71 recorded.",
+   "Attendance 30,216 (Irish Times) vs 31,000 (RSSSF).",
+   "Chelsea FC museum article quoted via search snippet only (page redirected to login).",
+   "Stats from Wikipedia-reproduced UEFA table, not independently verified. Assistants/reserve referee from Wikipedia citing UEFA line-up sheet only.",
+   "No reliable pre-match odds found.",
+   "Sinclair and Babayaro absences from Wikipedia (citing Independent) only; Le Saux confirmed by Irish Times."
+  ]
+ },
+ {
+  "article": "1999 Intercontinental Cup",
+  "date": "1999-11-30",
+  "competition": "Intercontinental Cup",
+  "season": "1999-00",
+  "venue": "National Stadium",
+  "city": "Tokyo",
+  "team1": "Manchester United",
+  "team2": "Palmeiras",
+  "score_90": "1-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://rsssf.org/tablest/toyota99.html",
+   "https://www.rte.ie/sport/soccer/1999/1201/146856-soccer1/",
+   "https://trivela.com.br/mundial-de-clubes/como-foi-a-viagem-do-palmeiras-ao-japao-em-sua-ultima-tentativa-de-ser-campeao-mundial/"
+  ],
+  "core_verified": true,
+  "referee": "Hellmut Krug",
+  "referee_nationality": "German",
+  "referee_association": "DFB (Germany)",
+  "referee_sources": [
+   "https://rsssf.org/tablest/toyota99.html",
+   "https://www.jornada.com.mx/1999/12/01/dep1.html (La Jornada; seen via search summary only, page returned 403)"
+  ],
+  "assistants": "Jeon Young-hyun (South Korean); Yoshikazu Hiroshima (Japanese)",
+  "fourth_official": "Masayoshi Okada (Japanese)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "Wikipedia only (no citation given for assistants); not independently verified"
+  ],
+  "manager1": "Sir Alex Ferguson",
+  "manager2": "Luiz Felipe Scolari",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Roy Keane",
+    "minute": "35",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Palmeiras",
+    "player": "Alex",
+    "minute": "28",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Mikaël Silvestre",
+    "minute": "79",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://rsssf.org/tablest/toyota99.html",
+   "BBC match statistics (http://news.bbc.co.uk/2/hi/sport/football/543368.stm, cited by Wikipedia; 1 yellow each) - not fetchable"
+  ],
+  "stats": {
+   "shots1": 8,
+   "shots2": 15,
+   "sot1": 1,
+   "sot2": 4,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": "http://news.bbc.co.uk/2/hi/sport/football/543368.stm (as reproduced on Wikipedia; BBC page not fetchable)",
+   "xg_source": null,
+   "note": "BBC match statistics via Wikipedia; possession/fouls not given; also corners 6-12, offsides 16-13."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": [
+    "https://trivela.com.br/mundial-de-clubes/como-foi-a-viagem-do-palmeiras-ao-japao-em-sua-ultima-tentativa-de-ser-campeao-mundial/"
+   ]
+  },
+  "contested_decisions": [
+   {
+    "minute": null,
+    "score_at_time": "1-0",
+    "type": "goal disallowed",
+    "description": "Second-half Palmeiras goal by Alex (after Evair's 54' introduction) disallowed for offside on the assistant's flag. Alex maintains (incl. in his autobiography) TV footage showed him onside; TV Globo commentator and ex-FIFA referee José Roberto Wright first backed the flag, then corrected himself saying Alex was level with the United defence. Jovem Pan calls it 'controversially disallowed'.",
+    "favoured_team": "Manchester United",
+    "against_team": "Palmeiras",
+    "assessment": "genuinely debatable",
+    "assessed_by": "José Roberto Wright (former FIFA referee, TV Globo commentary, per Trivela) - said Alex was level after initially backing flag; Alex (player); Jovem Pan and Trivela journalists",
+    "impact": "likely",
+    "impact_reasoning": "A goal denied at 1-0 in a match decided by one goal; if valid it would have equalised.",
+    "sources": [
+     "https://trivela.com.br/mundial-de-clubes/como-foi-a-viagem-do-palmeiras-ao-japao-em-sua-ultima-tentativa-de-ser-campeao-mundial/",
+     "https://jovempan.com.br/esportes/futebol/palmeiras/marcos-relembra-falha-assume-culpa-por-derrota-do-palmeiras-no-mundial-e-ganha-apoio-de-alex-eu-tambem-errei/",
+     "https://www.jornada.com.mx/1999/12/01/dep1.html"
+    ]
+   }
+  ],
+  "contested_search_done": "RTÉ report, RSSSF, English and Portuguese web searches (Trivela, Jovem Pan, La Jornada via search summary). Guardian MBM, BBC, manutd.com not fetchable. Only the Alex disallowed goal found as disputed; no penalty disputes found.",
+  "uncertain": [
+   "Minute of Alex's disallowed goal not found (second half, after 54').",
+   "Only one ex-referee opinion (Wright, who changed his view live); no definitive expert ruling, so 'genuinely debatable'. La Jornada (offside flag) only seen through a search-engine summary.",
+   "Referee name spelled 'Helmut Krug' by RSSSF; he is the German referee Hellmut Krug.",
+   "Assistants/fourth official from Wikipedia only.",
+   "Season label '1999-00' chosen as the match was played in Nov 1999 (it decided the 1999 Intercontinental Cup).",
+   "Absences: Trivela says Ferguson left Henning Berg and Andy Cole in England, reason not stated (not recorded as injury/suspension). No other key absentees confirmed.",
+   "No reliable pre-match odds found."
+  ]
+ },
+ {
+  "article": "2013 UEFA Europa League final",
+  "date": "2013-05-15",
+  "competition": "UEFA Europa League",
+  "season": "2012-13",
+  "venue": "Amsterdam Arena",
+  "city": "Amsterdam",
+  "team1": "Benfica",
+  "team2": "Chelsea",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/news/8715362/where-it-was-won",
+   "https://www.sportsmole.co.uk/football/benfica/europa-league/result/chelsea-crowned-europa-league-champions_84567.html",
+   "https://www.uefa.com/uefaeuropaleague/match/2010095/"
+  ],
+  "core_verified": true,
+  "referee": "Björn Kuipers",
+  "referee_nationality": "Dutch",
+  "referee_association": "KNVB (Netherlands)",
+  "referee_sources": [
+   "https://www.uefa.com/uefaeuropaleague/news/newsid=1947750.html (UEFA preview; via search)",
+   "https://bleacherreport.com/articles/1639175-benfica-vs-chelsea-live-score-highlights-recap (via search summary)"
+  ],
+  "assistants": "Sander van Roekel; Erwin Zeinstra (both Dutch); additional assistant referees Pol van Boekel, Richard Liesveld (Dutch); reserve assistant Berry Simons (Dutch)",
+  "fourth_official": "Felix Brych (German)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "Wikipedia (citing UEFA line-ups); not independently verified"
+  ],
+  "manager1": "Jorge Jesus",
+  "manager2": "Rafael Benítez (interim)",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Fernando Torres",
+    "minute": "60",
+    "type": "open play"
+   },
+   {
+    "team": "Benfica",
+    "player": "Óscar Cardozo",
+    "minute": "68",
+    "type": "penalty"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Branislav Ivanović",
+    "minute": "90+3",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Oscar",
+    "minute": "14",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Benfica",
+    "player": "Ezequiel Garay",
+    "minute": "45+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Benfica",
+    "player": "Luisão",
+    "minute": "61",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "Wikipedia line-up table (citing UEFA); UEFA stats as reproduced on Wikipedia show 2 yellows Benfica, 1 Chelsea"
+  ],
+  "stats": {
+   "shots1": 17,
+   "shots2": 11,
+   "sot1": 11,
+   "sot2": 7,
+   "poss1": 54,
+   "poss2": 46,
+   "fouls1": 18,
+   "fouls2": 18,
+   "xg1": null,
+   "xg2": null,
+   "source": "UEFA statistics as reproduced on Wikipedia (uefa.com match page loads stats via JS, not readable)",
+   "xg_source": null,
+   "note": "UEFA official figures via Wikipedia; not independently verified. No named-provider xG found."
+  },
+  "odds": {
+   "team1": 3.2,
+   "draw": 3.4,
+   "team2": 2.4,
+   "team1_to_lift": 2.25,
+   "team2_to_lift": 1.667,
+   "bookmaker_or_source": "bet365 as quoted by International Business Times (14 May 2013)",
+   "source": "https://ibtimes.com/europa-league-final-chelsea-vs-benfica-tv-channel-preview-betting-odds-championship-match-amsterdam",
+   "note": "Fractional: Chelsea 7/5, draw 12/5, Benfica 11/5 (90 min); to lift: Chelsea 4/6, Benfica 5/4."
+  },
+  "absences": {
+   "team1": [
+    "Maxi Pereira (suspension)"
+   ],
+   "team2": [
+    "Eden Hazard (hamstring injury)",
+    "John Terry (injury)"
+   ],
+   "sources": [
+    "https://www.skysports.com/football/news/8715362/where-it-was-won",
+    "https://ibtimes.com/europa-league-final-chelsea-vs-benfica-tv-channel-preview-betting-odds-championship-match-amsterdam"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "Sky Sports 'Where it was won', Sports Mole report, IBTimes preview, web search for penalty/handball controversy. Azpilicueta handball penalty (68') described as correct ('rightly judged', Bleacher Report; arm raised, 'little choice', Daisy Cutter blog). Cardozo 52' goal ruled offside 'by the narrowest of margins' and a Torres penalty appeal (~76') waved away (Sports Mole) - neither explicitly described as wrong/disputed, so not recorded. Guardian/BBC/Telegraph not fetchable.",
+  "uncertain": [
+   "Card minutes from Wikipedia only; no fetchable independent card list (BBC/UEFA pages not readable). cards_complete=false.",
+   "Torres goal minute 59 vs 60 between sources; 60 recorded.",
+   "Cardozo offside goal (52') and Torres penalty appeal noted by Sports Mole but not called wrong by any source found.",
+   "Officials beyond referee from Wikipedia only.",
+   "Stats are UEFA figures as reproduced on Wikipedia."
+  ]
+ }
+]

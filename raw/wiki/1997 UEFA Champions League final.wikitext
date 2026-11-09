@@ -1,0 +1,324 @@
+{{Short description|Association football match}}
+{{Infobox football match
+| title            = 1997 UEFA Champions League final
+| image            = [[File:1997 UEFA Champions League Final programme.jpg|200px]]
+| caption          = Match programme cover
+| event            = [[1996–97 UEFA Champions League]]
+| team1            = [[Borussia Dortmund]]
+| team1association = {{fbaicon|GER|size=30px}}
+| team1score       = 3
+| team2            = [[Juventus FC|Juventus]]
+| team2association = {{fbaicon|ITA|size=30px}}
+| team2score       = 1
+| details          = 
+| date             = 28 May 1997
+| stadium          = [[Olympiastadion (Munich)|Olympiastadion]]
+| city             = [[Munich]]
+| referee          = [[Sándor Puhl]] ([[Hungarian Football Federation|Hungary]])
+| attendance       = 59,000<ref name="attendance"/>
+| weather          = 
+| previous         = [[1996 UEFA Champions League final|1996]]
+| next             = [[1998 UEFA Champions League final|1998]]
+}}
+The '''1997 UEFA Champions League final''' was a [[Association football|football]] match played at the [[Olympiastadion (Munich)|Olympiastadion]] in Munich on 28 May 1997 to determine the winner of the [[1996–97 UEFA Champions League]]. The match was contested by [[Borussia Dortmund]] of Germany and defending champions [[Juventus FC|Juventus]] of Italy. Borussia Dortmund won 3–1 with goals from [[Karl-Heinz Riedle]] and [[Lars Ricken]]; Juventus' only goal was scored by [[Alessandro Del Piero]]. This was the third from three consecutive finals featuring the defending champions, all of whom lost to their opponents.
+
+==Route to the final==
+{{further|1996–97 UEFA Champions League}}
+
+In their first semi-final in Europe's premier tournament since [[1963–64 European Cup#Semi-finals|1964]], Dortmund defeated [[Manchester United F.C.|Manchester United]], who themselves had not reached that stage since [[1968–69 European Cup#Semi-finals|1969]].
+
+In the other half of the draw, Juventus easily overcame [[AFC Ajax|Ajax]], the same team they had beaten on penalties in the [[1996 UEFA Champions League final|previous year's final]].
+
+{|class="wikitable" style="text-align: center;"
+|-
+!colspan=4|{{fbaicon|GER}} [[Borussia Dortmund]]
+!Round
+!colspan=4|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|- style="background:#c1e0ff;"
+|Opponent
+|colspan=3|Result
+|[[1996–97 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|POL}} [[Widzew Łódź]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Borussia Dortmund v Widzew Łódź|2–1]] (H)
+| style="background:#c1e0ff;"|Matchday 1
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Juventus v Manchester United|1–0]] (H)
+|-
+|align=left|{{fbaicon|ROU}} [[FCSB|Steaua București]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Steaua București v Borussia Dortmund|3–0]] (A)
+| style="background:#c1e0ff;"|Matchday 2
+|align=left|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Fenerbahçe v Juventus|1–0]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[Atlético Madrid]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Atlético Madrid v Borussia Dortmund|1–0]] (A)
+| style="background:#c1e0ff;"|Matchday 3
+|align=left|{{fbaicon|AUT}} [[SK Rapid Wien|Rapid Wien]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Rapid Wien v Juventus|1–1]] (A)
+|-
+|align=left|{{fbaicon|ESP}} [[Atlético Madrid]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Borussia Dortmund v Atlético Madrid|1–2]] (H)
+| style="background:#c1e0ff;"|Matchday 4
+|align=left|{{fbaicon|AUT}} [[SK Rapid Wien|Rapid Wien]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Juventus v Rapid Wien|5–0]] (H)
+|-
+|align=left|{{fbaicon|POL}} [[Widzew Łódź]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Widzew Łódź v Borussia Dortmund|2–2]] (A)
+| style="background:#c1e0ff;"|Matchday 5
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Manchester United v Juventus|1–0]] (A)
+|-
+|align=left|{{fbaicon|ROU}} [[FCSB|Steaua București]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Borussia Dortmund v Steaua București|5–3]] (H)
+| style="background:#c1e0ff;"|Matchday 6
+|align=left|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|colspan=3|[[1996–97 UEFA Champions League group stage#Juventus v Fenerbahçe|2–0]] (H)
+|-
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[1996–97 UEFA Champions League group stage#Group B|Group B]] runners-up'''
+{{:1996–97 UEFA Champions League group stage|transcludesection=Group B|only_pld_pts=yes|show_matches=n|showteam=DOR}}
+| style="background:#c1e0ff;"|Final standings
+| colspan="4" style="text-align:center; vertical-align:top;"|'''[[1996–97 UEFA Champions League group stage#Group C|Group C]] winner'''
+{{:1996–97 UEFA Champions League group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=n|showteam=JUV}}
+|- style="background:#c1e0ff;"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[1996–97 UEFA Champions League knockout stage|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|FRA|1974}} [[AJ Auxerre|Auxerre]]
+|4–1
+|[[1996–97 UEFA Champions League knockout stage#Borussia Dortmund v Auxerre|3–1]] (H)
+|[[1996–97 UEFA Champions League knockout stage#Auxerre v Borussia Dortmund|1–0]] (A)
+| style="background:#c1e0ff;"|Quarter-finals
+|align=left|{{fbaicon|NOR}} [[Rosenborg BK|Rosenborg]]
+|3–1
+|[[1996–97 UEFA Champions League knockout stage#Rosenborg v Juventus|1–1]] (A)
+|[[1996–97 UEFA Champions League knockout stage#Juventus v Rosenborg|2–0]] (H)
+|-
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|2–0
+|[[1996–97 UEFA Champions League knockout stage#Borussia Dortmund v Manchester United|1–0]] (H)
+|[[1996–97 UEFA Champions League knockout stage#Manchester United v Borussia Dortmund|1–0]] (A)
+| style="background:#c1e0ff;"|Semi-finals
+|align=left|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|6–2
+|[[1996–97 UEFA Champions League knockout stage#Ajax v Juventus|2–1]] (A)
+|[[1996–97 UEFA Champions League knockout stage#Juventus v Ajax|4–1]] (H)
+|}
+
+===Previous meetings===
+
+The match featured the same teams that competed in the [[1993 UEFA Cup final]], in which Juventus prevailed 6–1 over two legs.<ref name=background>{{cite web|title=Juventus v Dortmund background |url=https://www.uefa.com/uefachampionsleague/news/0253-0d802e69d1b2-0321ccb5c27e-1000--juventus-v-dortmund-background/ |website=UEFA.com |publisher=Union of European Football Associations |date=14 January 2015 |access-date=4 November 2017 }}</ref> Their two German players in that final, [[Jürgen Kohler]] and [[Andreas Möller]], had since moved to Dortmund<ref name=twenty>{{cite web|title=20 years on: Dortmund's European champions |url=https://www.uefa.com/uefachampionsleague/news/0239-0e9729e32785-129364f01c3f-1000--20-years-on-dortmund-s-european-champions/ |website=UEFA.com |publisher=Union of European Football Associations |date=28 May 2017 |access-date=4 November 2017 }}</ref> along with the Brazilian [[Júlio César (footballer, born 1963)|Júlio César]] (who did not feature in the 1997 final), while another two Dortmund players who did play in Munich – [[Stefan Reuter]] and [[Paulo Sousa]] – were also former Juventus players, and [[Matthias Sammer]] and [[Karl-Heinz Riedle]] had previously played in Italy's [[Serie A]]<ref name=twenty/> (the latter's replacement at [[SS Lazio|Lazio]] was [[Alen Bokšić]], who by 1997 had moved to Juventus).
+
+Goalkeepers [[Angelo Peruzzi]] and his understudy [[Michelangelo Rampulla]] were the only Juventus players from 1993 in the squad for the 1997 final ([[Moreno Torricelli]] and [[Antonio Conte]] were still at the club but were not involved), with the aforementioned Kohler and Möller having switched sides. In the Dortmund squad their goalkeeper [[Stefan Klos]], striker [[Stéphane Chapuisat]]<ref name=twenty/> and midfielders [[René Tretschok]], Reuter and club captain [[Michael Zorc]] remained from four years earlier.
+
+Besides the 1993 showpiece, the clubs had also met in the semi-finals of the [[1994–95 UEFA Cup]] with Juventus progressing to the final which they lost to [[Parma Calcio 1913|Parma]],<ref name=background/> and in the [[1995–96 UEFA Champions League group stage#Group C|group stage]] of the [[1995–96 UEFA Champions League]], with each club winning away from home, however Juventus topped the group and went on to win the trophy.<ref name=background/>
+
+In the years to follow, Juventus and Borussia Dortmund would not meet again until [[2014–15 UEFA Champions League#Round of 16|2014–15 Champions League round of 16]]<ref name=background/> – the Italian club went through,<ref>{{cite web |title=Tévez leads Juventus to Dortmund stroll |url=https://www.uefa.com/uefachampionsleague/news/021f-0e9afa448e38-eba39d3f8475-1000--tevez-leads-juventus-to-dortmund-stroll/ |website=UEFA.com |publisher=Union of European Football Associations |date=18 March 2015 |access-date=4 November 2017 }}</ref> meaning they won all four fixtures (1993, 1995 UEFA Cup, 1995 and 2015 Champions League) at Dortmund's [[Westfalenstadion]], with their only defeat on German soil having been in this final. Juventus reached [[2015 UEFA Champions League final|that season's final]]; coincidentally that match was again held at an [[Olympiastadion (Berlin)|Olympiastadion]] in Germany, but this time in [[Berlin]], and the outcome was another 3–1 loss, to [[FC Barcelona|Barcelona]].
+
+==Match==
+===Summary===
+In the 29th minute, [[Karl-Heinz Riedle]] put Dortmund ahead finishing with a low shot from inside the six yard box after [[Paul Lambert]]'s cross from the right. Five minutes later, Riedle made it 2–0 with a header from a [[Andreas Möller]] corner kick from the left. [[Christian Vieri]] later had a goal disallowed for Juventus by referee [[Sándor Puhl]] for an apparent hand-ball.<ref>{{cite news |title=Klopp, del ’97 la Juve ricorda quei tre errori dell'arbitro |url=https://www.tuttosport.com/# |access-date=17 August 2026 |work=tuttosport.com |date=24 February 2015 |language=it }}</ref><ref>{{cite web |last1=Rzouki |first1=Mina |title=Echoes of the 1997 Champions League final as Juve prepare for Dortmund |url=https://www.espn.com/soccer/story/_/id/37414792/echoes-1997-champions-league-final-juventus-prepare-dortmund-clash |website=espn.com |access-date=17 August 2026 |date=23 February 2015}}</ref> 
+
+In the second half, Juventus [[Forward (association football)|forward]] [[Alessandro Del Piero]], who had come on as a substitute, scored via a back-heel after a cross from the left by [[Alen Bokšić]] to make the score 2–1.<ref>{{cite web |title=1996/97 Borussia Dortmund 3-1 Juventus: Report |url=https://www.uefa.com/uefachampionsleague/news/01e8-0e6a18185aee-6ef03a8764c4-1000--1996-97-borussia-dortmund-3-1-juventus-report/ |website=UEFA.com |access-date=17 August 2026 |date=1 August 2010 }}</ref>
+
+In the 71st minute, 20-year-old substitute and Dortmund local boy [[Lars Ricken]] latched on to a through-pass by [[Andreas Möller]] only 16 seconds after coming onto the pitch. Ricken chipped [[Angelo Peruzzi]] in the Juve goal from over 20 yards with his first touch of the ball, to make it 3–1 for Dortmund. Ricken's goal was the fastest ever by a substitute in said event.<ref>{{cite news |url=https://www.independent.co.uk/sport/football-juventus-wrecked-by-german-bite-1264090.html |title=Football: Juventus wrecked by German bite |work=The Independent |last1=Milne |first1=David |date=29 May 1997 |access-date=1 April 2020 }}</ref>
+
+With [[Zinedine Zidane]] unable to make an impression for Juve against the close marking of Lambert,<ref>{{cite news |url=https://www.theguardian.com/sport/blog/2011/nov/25/joy-of-six-football-exports |last=Murray |first=Scott |title=The Joy of Six: British and Irish footballers abroad |work=[[The Guardian]] |publisher=Guardian News and Media |date=25 November 2011 |access-date=28 January 2013}}</ref><ref>{{cite news |url=http://www.espnstar.com/rss-feed/detail/item617249/ |title=Paul Lambert – The Norwich wizard |work=[[espnstar.com]] |access-date=4 May 2011 |url-status=usurped |archive-url=https://web.archive.org/web/20120406200748/http://www.espnstar.com/rss-feed/detail/item617249/ |archive-date=6 April 2012}}</ref><ref>{{cite news |url=http://www.heraldscotland.com/sport/english-football/norwich-city-manager-paul-lambert-on-his-vision-for-the-future-1.917708 |last=Gordon |first=Phil |title=Norwich City manager Paul Lambert on his vision for the future |work=[[Sunday Herald]] |date=6 September 2009 |access-date=28 January 2013}}</ref><ref>{{cite news|url=http://www.mirrorfootball.co.uk/opinion/columnists/michael-calvin/Ian-Holloway-Nigel-Pearson-Paul-Lambert-Kenny-Jacket-Keith-Hill-and-Eddie-Howe-the-British-Football-League-managers-capable-of-being-the-next-Roy-Hodgson-The-Michael-Calvin-Column-article411383.html |last=Calvin |first=Michael |title=Revealed: The six British Football League managers capable of being the next Roy Hodgson |work=Mirror Football |date=1 May 2010 |access-date=28 January 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120609222546/http://www.mirrorfootball.co.uk/opinion/columnists/michael-calvin/Ian-Holloway-Nigel-Pearson-Paul-Lambert-Kenny-Jacket-Keith-Hill-and-Eddie-Howe-the-British-Football-League-managers-capable-of-being-the-next-Roy-Hodgson-The-Michael-Calvin-Column-article411383.html |archive-date=9 June 2012 }}</ref><ref>{{cite news |url=http://www.scotzine.com/2011/05/paul-lambert-from-linwood-rangers-to-the-english-premier-league/ |title=PAUL LAMBERT: FROM LINWOOD RANGERS BC TO THE ENGLISH PREMIER LEAGUE |work=scotzine.com |date=3 May 2011 |access-date=28 January 2013}}</ref> the 3–1 victory gave Dortmund their first Champions League title.<ref>{{cite news |title=La GAZZETTA dello SPORT - Champions League |url=https://www.gazzetta.it/Speciali/champions_league_2007/archivio_storico/97_main.shtml |access-date=17 August 2026 |work=gazzetta.it |language=it }}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|1997|5|28|df=y}}
+|time       = {{CEST|20:30}}
+|team1      = [[Borussia Dortmund]] {{fbaicon|GER}}
+|score      = 3–1
+|team2      = {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|goals1     =
+*[[Karl-Heinz Riedle|Riedle]] {{goal|29||34}}
+*[[Lars Ricken|Ricken]] {{goal|71}}
+|goals2     =
+*[[Alessandro Del Piero|Del Piero]] {{goal|65}}
+|stadium    = [[Olympiastadion (Munich)|Olympiastadion]], [[Munich]]
+|attendance = 59,000<ref name="attendance">{{cite book |year=2017 |chapter=2. Finals |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/02/28/56/89/2285689_DOWNLOAD.pdf |title=UEFA Champions League Statistics Handbook 2016/17 |location=Nyon, Switzerland |publisher=Union of European Football Associations |page=1 |access-date=22 April 2017 }}</ref>
+|referee    = [[Sándor Puhl]] ([[Hungarian Football Federation|Hungary]])
+|report     = https://www.uefa.com/uefachampionsleague/match/53915/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _borussiadortmund9697h
+ | pattern_b  = _borussiadortmund9697h
+ | pattern_ra = _borussiadortmund9697h
+ | pattern_sh =
+ | pattern_so = _hoops_black
+ | leftarm    = FFFF00
+ | body       = FFFF00
+ | rightarm   = FFFF00
+ | shorts     = 000000
+ | socks      = D9FD43
+ | title      = Borussia&nbsp;Dortmund
+}}
+|{{Football kit
+ | pattern_la =_juventusfc9697a
+ | pattern_b  =_juventusfc9697a
+ | pattern_ra =_juventusfc9697a
+ | pattern_sh =_juventusfc9697a
+ | pattern_so =
+ | leftarm    = 042CB5
+ | body       = 042CB5
+ | rightarm   = 042CB5
+ | shorts     = 042CB5
+ | socks      = 042CB5
+ | title      = Juventus
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|GER}} [[Stefan Klos]]
+|-
+|SW ||'''6''' ||{{flagicon|GER}} [[Matthias Sammer]] ([[Captain (association football)|c]])
+|-
+|CB ||'''15''' ||{{flagicon|GER}} [[Jürgen Kohler]]
+|-
+|CB ||'''16'''||{{flagicon|GER}} [[Martin Kree]]
+|-
+|RWB||'''7''' ||{{flagicon|GER}} [[Stefan Reuter]]
+|-
+|LWB||'''17'''||{{flagicon|GER}} [[Jörg Heinrich]]
+|-
+|CM ||'''14'''||{{flagicon|SCO}} [[Paul Lambert]]
+|-
+|CM ||'''19'''||{{flagicon|POR}} [[Paulo Sousa]] || {{yel|23}}
+|-
+|AM ||'''10'''||{{flagicon|GER}} [[Andreas Möller]] || || {{suboff|89}}
+|-
+|CF ||'''13'''||{{flagicon|GER}} [[Karl-Heinz Riedle]] || || {{suboff|67}}
+|-
+|CF ||'''9''' ||{{flagicon|SUI}} [[Stéphane Chapuisat]] || || {{suboff|70}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|GER}} [[Wolfgang de Beer]]
+|-
+|MF ||'''8''' ||{{flagicon|GER}} [[Michael Zorc]] || || {{subon|89}}
+|-
+|MF ||'''18'''||{{flagicon|GER}} [[Lars Ricken]] || {{yel|71}} || {{subon|70}}
+|-
+|MF ||'''23'''||{{flagicon|GER}} [[René Tretschok]]
+|-
+|FW ||'''11'''||{{flagicon|GER}} [[Heiko Herrlich]] || || {{subon|67}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|GER}} [[Ottmar Hitzfeld]]
+|}
+|valign="top"|[[File:Borussia Dortmund vs Juventus 1997-05-28.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Angelo Peruzzi]] ([[Captain (association football)|c]])
+|-
+|RB ||'''5''' ||{{flagicon|ITA}} [[Sergio Porrini]] || {{yel|19}} || {{suboff|46}}
+|-
+|CB ||'''2''' ||{{flagicon|ITA}} [[Ciro Ferrara]]
+|-
+|CB ||'''4''' ||{{flagicon|URU}} [[Paolo Montero]]
+|-
+|LB ||'''13'''||{{flagicon|ITA}} [[Mark Iuliano]] || {{yel|90}}
+|-
+|DM ||'''14'''||{{flagicon|FRA|1974}} [[Didier Deschamps]]
+|-
+|RM ||'''7''' ||{{flagicon|ITA}} [[Angelo Di Livio]]
+|-
+|LM ||'''18'''||{{flagicon|FRY}} [[Vladimir Jugović]]
+|-
+|AM ||'''21'''||{{flagicon|FRA|1974}} [[Zinedine Zidane]]
+|-
+|CF ||'''15'''||{{flagicon|ITA}} [[Christian Vieri]] || || {{suboff|71}}
+|-
+|CF ||'''9''' ||{{flagicon|CRO}} [[Alen Bokšić]] || || {{suboff|87}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA}} [[Michelangelo Rampulla]]
+|-
+|DF ||'''22'''||{{flagicon|ITA}} [[Gianluca Pessotto]]
+|-
+|MF ||'''20'''||{{flagicon|ITA}} [[Alessio Tacchinardi]] || || {{subon|87}}
+|-
+|FW ||'''10'''||{{flagicon|ITA}} [[Alessandro Del Piero]] || || {{subon|46}}
+|-
+|FW ||'''16'''||{{flagicon|ITA}} [[Nicola Amoruso]] || || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Marcello Lippi]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />László Hamar ([[Hungarian Football Federation|Hungary]])
+<br />Imre Bozóky ([[Hungarian Football Federation|Hungary]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Attila Juhos ([[Hungarian Football Federation|Hungary]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Five named substitutes.
+*Maximum of three substitutions.
+|}
+
+==See also==
+*[[1993 UEFA Cup final]] – contested between same teams
+*[[1997 UEFA Cup Winners' Cup final]]
+*[[1997 UEFA Cup final]]
+*[[1997 UEFA Super Cup]] 
+*[[1997 Intercontinental Cup]] 
+*[[1996–97 Borussia Dortmund season]]
+*[[1996–97 Juventus FC season]] 
+*[[Borussia Dortmund in international football]]
+*[[Juventus FC in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110924091823/http://www.uefa.com/uefachampionsleague/season=1996/index.html 1996–97 UEFA Champions League] at UEFA.com
+
+{{UEFA Champions League seasons}}
+{{1996–97 in European football (UEFA)}}
+{{Borussia Dortmund matches}}
+{{Juventus F.C. matches}}
+
+{{DEFAULTSORT:Uefa Champions League final 1997}}
+[[Category:1996–97 in German football]]
+[[Category:UEFA Champions League finals|1997]]
+[[Category:Borussia Dortmund matches|European Cup Final 1997]]
+[[Category:Juventus FC matches|European Cup Final 1997]]
+[[Category:1996–97 UEFA Champions League|Final]]
+[[Category:1990s in Munich]]
+[[Category:1997 in Bavaria]]
+[[Category:May 1997 sports events in Germany]]
+[[Category:Football matches in Munich]]
+[[Category:Germany–Italy sports relations|1997]]
+[[Category:1996–97 in Italian football]]
+[[Category:Football finals in Germany]]

@@ -1,0 +1,349 @@
+{{Use dmy dates|date=December 2024}}
+{{Infobox football match
+| title              = 2024 FIFA Intercontinental Cup final
+| other_titles       = 
+| image              = Aerial view of Lusail Stadium in 2022.png
+| alt                = 
+| event              = [[2024 FIFA Intercontinental Cup]]
+| caption            = The [[Lusail Stadium]] in [[Lusail]] hosted the final.
+| team1              = [[Real Madrid CF|Real Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team2              = [[C.F. Pachuca|Pachuca]]
+| team2association   = {{fbaicon|MEX|size=30px}}
+| team1score         = 3
+| team2score         = 0
+| details            = 
+| date               = {{Start date|2024|12|18|df=y}}
+| stadium            = [[Lusail Stadium]]
+| city               = [[Lusail]]
+| man_of_the_match1a = [[Vinícius Júnior]] {{nowrap|(Real Madrid)}}<ref name="MOTM">{{cite web |last=Pike |first=Christopher |location=Doha |url=https://www.gettyimages.com/detail/news-photo/vinicius-junior-of-real-madrid-poses-for-a-photo-after-news-photo/2190579529 |title=Vinicius Junior of Real Madrid poses for a photo after being presented with the aramco Player of the Match award at the end of the FIFA Intercontinental Cup between Real Madrid and CF Pachuca at Lusail Stadium on December 18, 2024 in Doha, Qatar. |via=[[Getty Images]] |publisher=[[FIFA]] |date=18 December 2024 |access-date=18 December 2024}}</ref>
+| referee            = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])<ref name="lineups"/>
+| attendance         = 67,249<ref name="FT report"/>
+| weather = Clear<br />{{convert|18|°C|°F|abbr=on}}<br />64% [[humidity]]<ref>{{cite web |url=https://www.wunderground.com/history/daily/qa/lusail/OTHH |title=Doha, Qatar Weather History |publisher=[[Weather Underground (weather service)|Weather Underground]] |date=18 December 2024 |access-date=18 December 2024}}</ref>
+| previous           = [[2023 FIFA Club World Cup final|2023 Club World Cup]]
+| next               = [[2025 FIFA Intercontinental Cup final|2025]]
+}}
+The '''2024 FIFA Intercontinental Cup final''', also known simply as the '''2024 FIFA Intercontinental Cup''',<ref name="key info">{{cite news |date=20 September 2024 |title=FIFA Intercontinental Cup: Key information|url=https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2024/articles/information-tournament-details|work=[[FIFA]]|access-date=20 September 2024}}</ref> was the final match of the [[2024 FIFA Intercontinental Cup]], an international club [[association football|football]] tournament. It was the first final of the [[FIFA Intercontinental Cup]], a [[FIFA]]-organised tournament between the club champions from each of the six continental confederations.<ref name="Reuters-new cup">{{cite news |last=Nair |first=Rohith |date=17 December 2023 |title=Club World Cup set for June-July 2025, new Intercontinental Cup in 2024 –FIFA |url=https://www.reuters.com/sports/soccer/club-world-cup-set-june-july-2025-new-intercontinental-cup-2024-fifa-2023-12-17/ |agency=[[Reuters]] |archive-url=https://archive.today/20240206181157/https://www.reuters.com/sports/soccer/club-world-cup-set-june-july-2025-new-intercontinental-cup-2024-fifa-2023-12-17/ |archive-date=6 February 2024 |url-status=live}}</ref>
+
+The match took place at [[Lusail Stadium]] in [[Lusail]], Qatar, on 18 December 2024 between Spanish club [[Real Madrid CF|Real Madrid]], the winners of the [[2023–24 UEFA Champions League]], and Mexican club [[C.F. Pachuca|Pachuca]], the winners of play-offs contested by the other five confederations.<ref>{{cite web |last=Bonn |first=Kyle |date=17 December 2023 |title=Club World Cup 2025 in USA: Confirmed teams, format, schedule, dates for FIFA tournament with expanded field |url=https://www.sportingnews.com/us/soccer/news/club-world-cup-2025-usa-teams-format-dates-schedule-fifa/d5370f31621951fc1e4499e7 |work=[[The Sporting News]] |archive-url=https://web.archive.org/web/20240123204627/https://www.sportingnews.com/us/soccer/news/club-world-cup-2025-usa-teams-format-dates-schedule-fifa/d5370f31621951fc1e4499e7 |archive-date=23 January 2024 |url-status=live}}</ref>
+
+Real Madrid won the match 3–0 to win the inaugural FIFA Intercontinental Cup, which was also its sixth FIFA trophy and ninth [[List of world champion football clubs|club world championship]] title.<ref>{{cite news |url=https://www.fifa.com/en/tournaments/mens/fifa-club-world-cup/articles/real-madrid-pachuca-report-final |title=Real Madrid beat Pachuca to win Intercontinental Cup |publisher=[[FIFA]] |date=18 December 2024 |access-date=18 December 2024}}</ref><ref>{{cite web|url= https://www.bbc.com/sport/football/live/c205nv1yr6pt|title=Real Madrid 3 Pachuca 0|date=18 December 2024|work=BBC Sport|accessdate=19 December 2024}}</ref>
+
+==Teams==
+''In the following table, the finals until 2005 were in the FIFA Club World Championship era, and between 2006 and 2023 in the FIFA Club World Cup era.''
+
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification for tournament
+!Previous club world championship finals<br />(bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[UEFA]]
+|Winners of the [[2023–24 UEFA Champions League]]
+|IC: 5 ('''[[1960 Intercontinental Cup|1960]]''', [[1966 Intercontinental Cup|1966]], '''[[1998 Intercontinental Cup|1998]]''', [[2000 Intercontinental Cup|2000]], '''[[2002 Intercontinental Cup|2002]]''')<br />FCWC: 5 ('''[[2014 FIFA Club World Cup final|2014]]''', '''[[2016 FIFA Club World Cup final|2016]]''', '''[[2017 FIFA Club World Cup final|2017]]''', '''[[2018 FIFA Club World Cup final|2018]]''', '''[[2022 FIFA Club World Cup final|2022]]''')
+|-
+|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|[[CONCACAF]]
+|Winners of the [[2024 CONCACAF Champions Cup]]
+|None
+|}
+
+Note: On 27 October 2017, [[FIFA]] officially recognised all the champions of the Intercontinental Cup as club world champions, in equal status to the FIFA Club World Cup.<ref name="FIFA2022">{{cite press release |date=27 October 2017 |title=FIFA Council approves key organisational elements of the FIFA World Cup |url=https://www.fifa.com/about-fifa/news/y=2022/m=10/news=fifa-council-approves-key-organisational-elements-of-the-fifa-world-cu-2917722.html |publisher=FIFA |access-date=27 October 2017}}</ref>
+*IC: [[Intercontinental Cup (1960–2004)|Intercontinental Cup]] (1960–2004)
+*FCWC: [[List of FIFA Club World Cup finals|FIFA Club World Cup finals]] (2000, 2005–2023)
+
+==Route to the final==
+As the winners of the [[2023–24 UEFA Champions League]], [[Real Madrid CF|Real Madrid]] qualified directly for the final of the tournament.<ref name="Reuters-new cup" /> [[C.F. Pachuca|Pachuca]] advanced as the winners of the play-off match, known as the FIFA Challenger Cup, played on 14 December 2024.<ref>{{cite news |date=20 September 2024 |title=FIFA Intercontinental Cup: Key information |url=https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2024/articles/information-tournament-details |work=[[FIFA]]|access-date=20 September 2024}}</ref><ref>{{cite web |url=https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2024/articles/bureau-council-update |title=Bureau of the Council update on FIFA Intercontinental Cup 2024 |publisher=[[FIFA]] |date=19 September 2024 |access-date=21 September 2024}}</ref>
+
+{| class="wikitable"
+|-
+!width=350 colspan=2|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+!Team
+!width=350 colspan=2|{{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|- style="background:#C1E0FF"
+|align=center|Opponent
+|align=center|Result
+|align=center|[[2024 FIFA Intercontinental Cup]]
+|align=center|Opponent
+|align=center|Result
+|-
+|colspan=2 rowspan=2 align=center|Bye
+|align=center style="background:#C1E0FF"|Second round
+|{{fbaicon|BRA}} [[Botafogo FR|Botafogo]]
+|align=center|[[2024 FIFA Intercontinental Cup#Derby of the Americas|3–0]]
+|-
+|align=center style="background:#C1E0FF"|Play-off
+|{{fbaicon|EGY}} [[Al Ahly SC|Al Ahly]]
+|align=center|[[2024 FIFA Intercontinental Cup#Challenger Cup|0–0]] {{aet}}, 6–5 {{pso}}
+|}
+
+==Match==
+===Summary===
+In the 37th minute, [[Kylian Mbappé]] got the opening goal of the match with a low finish from close range after a run and cut-back from the left by [[Vinícius Júnior]]. In the 53rd minute, [[Rodrygo]] made it 2-0 with a right foot finish to the right corner of the net from the edge of the penalty area. Real Madrid were awarded a penalty in the 84th minute when [[Lucas Vázquez]] was tripped in the area by [[Oussama Idrissi]]. Vinícius Júnior scored the penalty with a low shot to the left under goalkeeper [[Carlos Moreno (footballer, born 1998)|Carlos Moreno]] who got a hand on it but couldn't keep it out.<ref>{{cite web|url=https://www.theguardian.com/football/2024/dec/18/intercontinental-cup-final-report-real-madrid-pachuca|title=Kylian Mbappé leads Real Madrid to Intercontinental Cup win over Pachuca|date=18 December 2024|work=Guardian|accessdate=27 August 2026}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2024|12|18|df=y}}
+|time       = 20:00 [[Arabia Standard Time|AST]]
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 3–0
+|team2      = {{fbaicon|MEX}} [[C.F. Pachuca|Pachuca]]
+|goals1     =
+*[[Kylian Mbappé|Mbappé]] {{goal|37}}
+*[[Rodrygo]] {{goal|53}}
+*[[Vinícius Júnior|Vinícius]] {{goal|84|pen.}}
+|goals2     =
+|stadium    = [[Lusail Stadium]], [[Lusail]]
+|attendance = 67,249<ref name="FT report">{{cite web |url=https://fdp.fifa.org/assetspublic/ce170/r8990/pdf/FullTimeMatchReport-English.pdf |title=Match Report: Real Madrid CF v. CF Pachuca |publisher=[[FIFA]] |date=18 December 2024 |access-date=18 December 2024}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = https://www.fifa.com/en/match-centre/match/107/290199/290205/400018891
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _realmadrid2425h
+ |pattern_b  = _realmadrid2425H
+ |pattern_ra = _realmadrid2425h
+ |pattern_sh = _realmadrid2425h
+ |pattern_so = _realmadrid2425hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Real Madrid}}<ref name="lineups">{{cite web |url=https://fdp.fifa.org/assetspublic/ce170/r8990/pdf/TacticalLineup-English.pdf |title=Tactical Line-up: Real Madrid CF v. CF Pachuca |publisher=[[FIFA]] |date=18 December 2024 |access-date=18 December 2024}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _pachuca24aw
+ |pattern_b  = _pachuca24AW
+ |pattern_ra = _pachuca24aw
+ |pattern_sh = _pachuca24aw
+ |pattern_so =
+ |leftarm    = 06183E
+ |body       = 06183E
+ |rightarm   = 06183E
+ |shorts     = 06183E
+ |socks      = 06183E
+ |title      = Pachuca<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|BEL}} [[Thibaut Courtois]]
+|-
+|RB ||'''17'''||{{flagicon|ESP}} [[Lucas Vázquez]] ([[Captain (association football)|c]]) || || {{suboff|88}}
+|-
+|CB ||'''14'''||{{flagicon|FRA}} [[Aurélien Tchouaméni]]
+|-
+|CB ||'''22'''||{{flagicon|GER}} [[Antonio Rüdiger]]
+|-
+|LB ||'''20'''||{{flagicon|ESP}} [[Fran García (footballer, born 1999)|Fran García]]
+|-
+|CM ||'''8''' ||{{flagicon|URU}} [[Federico Valverde]]
+|-
+|CM ||'''6''' ||{{flagicon|FRA}} [[Eduardo Camavinga]] || || {{suboff|61}}
+|-
+|RW ||'''11'''||{{flagicon|BRA}} [[Rodrygo]] || || {{suboff|70}}
+|-
+|AM ||'''5''' ||{{flagicon|ENG}} [[Jude Bellingham]] || || {{suboff|88}}
+|-
+|LW ||'''7''' ||{{flagicon|BRA}} [[Vinícius Júnior]]
+|-
+|CF ||'''9''' ||{{flagicon|FRA}} [[Kylian Mbappé]] || || {{suboff|61}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|UKR}} [[Andriy Lunin]]
+|-
+|GK ||'''26'''||{{flagicon|ESP}} [[Fran González (footballer, born 2005)|Fran González]]
+|-
+|DF ||'''18'''||{{flagicon|ESP}} [[Jesús Vallejo]]
+|-
+|DF ||'''29'''||{{flagicon|MAR}} [[Yusi (footballer)|Yusi]]
+|-
+|DF ||'''35'''||{{flagicon|ESP}} [[Raúl Asencio (footballer, born 2003)|Raúl Asencio]] || || {{subon|88}}
+|-
+|DF ||'''39'''||{{flagicon|ESP}} [[Lorenzo Aguado]]
+|-
+|MF ||'''10'''||{{flagicon|CRO}} [[Luka Modrić]] || || {{subon|70}}
+|-
+|MF ||'''15'''||{{flagicon|TUR}} [[Arda Güler]] || || {{subon|88}}
+|-
+|MF ||'''19'''||{{flagicon|ESP}} [[Dani Ceballos]] || || {{subon|61}}
+|-
+|FW ||'''16'''||{{flagicon|BRA}} [[Endrick (footballer, born 2006)|Endrick]]
+|-
+|FW ||'''21'''||{{flagicon|MAR}} [[Brahim Díaz]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Carlo Ancelotti]]
+|}
+|valign="top"|[[File:Real Madrid vs Pachuca 2024-12-18.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|MEX}} [[Carlos Moreno (footballer, born 1998)|Carlos Moreno]]
+|-
+|RB ||'''24'''||{{flagicon|MEX}} [[Luis Rodríguez (footballer, born 1991)|Luis Rodríguez]] || || {{suboff|75}}
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Sergio Barreto]]
+|-
+|CB ||'''33'''||{{flagicon|ECU}} [[Andrés Micolta]]
+|-
+|LB ||'''8''' ||{{flagicon|MEX}} [[Bryan González (Mexican footballer)|Bryan González]]
+|-
+|CM ||'''28'''||{{flagicon|MEX}} [[Elías Montiel]]
+|-
+|CM ||'''5''' ||{{flagicon|MEX}} [[Pedro Pedraza]] || {{yel|51}}
+|-
+|RW ||'''6''' ||{{flagicon|COL}} [[Nelson Deossa]] || || {{suboff|88}}
+|-
+|AM ||'''26'''||{{flagicon|MEX}} [[Alán Bautista]] || || {{suboff|75}}
+|-
+|LW ||'''11'''||{{flagicon|MAR}} [[Oussama Idrissi]] || || {{suboff|88}}
+|-
+|CF ||'''23'''||{{flagicon|VEN|football}} [[Salomón Rondón]] ([[Captain (association football)|c]]) || {{yel|90+3}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|MEX}} [[David Shrem]]
+|-
+|GK ||'''31'''||{{flagicon|MEX}} [[José Eulogio]]
+|-
+|DF ||'''3''' ||{{flagicon|MEX}} [[Alonso Aceves]]
+|-
+|DF ||'''22'''||{{flagicon|ARG}} [[Gustavo Cabral]]
+|-
+|DF ||'''32'''||{{flagicon|MEX}} [[Carlos Sánchez (footballer, born 2002)|Carlos Sánchez]] || || {{subon|75}}
+|-
+|DF ||'''35'''||{{flagicon|MEX}} [[Jorge Berlanga]]
+|-
+|MF ||'''10'''||{{flagicon|ECU}} [[Ángel Mena]] || || {{subon|75}}
+|-
+|MF ||'''14'''||{{flagicon|MEX}} [[Alfonso González]]
+|-
+|MF ||'''30'''||{{flagicon|MEX}} [[Sergio Hernández (footballer, born 2002)|Sergio Hernández]] || || {{subon|88}}
+|-
+|MF ||'''40'''||{{flagicon|MEX}} [[José Saldívar]]
+|-
+|FW ||'''7''' ||{{flagicon|COL}} [[Faber Gil]]
+|-
+|FW ||'''9''' ||{{flagicon|ESP}} [[Borja Bastón]]
+|-
+|FW ||'''18'''||{{flagicon|MEX}} [[Alexéi Domínguez]] || || {{subon|88}}
+|-
+|FW ||'''27'''||{{flagicon|MEX}} [[Owen González]]
+|-
+|FW ||'''29'''||{{flagicon|MEX}} [[Sergio Aguayo (footballer)|Sergio Aguayo]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|URU}} [[Guillermo Almada]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|
+'''Man of the Match:'''
+<br />[[Vinícius Júnior]] (Real Madrid)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="lineups"/>
+<br />Jorge Urrego ([[Venezuelan Football Federation|Venezuela]])
+<br />Tulio Moreno ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="lineups"/>
+<br />[[Iván Barton]] ([[Salvadoran Football Federation|El Salvador]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="lineups"/>
+<br />David Moran ([[Salvadoran Football Federation|El Salvador]])
+<br />'''[[Video assistant referee]]:'''<ref name="lineups"/>
+<br />[[Juan Soto (referee)|Juan Soto]] ([[Venezuelan Football Federation|Venezuela]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="lineups"/>
+<br />[[Tatiana Guzmán]] ([[Nicaraguan Football Federation|Nicaragua]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Support video assistant referee]]:'''<ref name="lineups"/>
+<br />Rob Dieperink ([[Royal Dutch Football Association|Netherlands]])
+|style="width:60%; vertical-align:top;"|
+{{Match rules
+|ref               =
+|extra time        = y
+|penalties         = y
+|named subs        = 15
+|additional sub ET = y
+|subs allowed      = 5
+|sub opportunities = y
+|concussion sub    = y
+}}
+|}
+
+===Statistics===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="FT report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Real Madrid
+!scope="col" style="width:70px"|Pachuca
+|-
+!scope=row|Goals scored
+|3
+|0
+|-
+!scope=row|Total shots
+|12
+|10
+|-
+!scope=row|Shots on target
+|4
+|4
+|-
+!scope=row|Ball possession
+|65%
+|35%
+|-
+!scope=row|Corner kicks
+|6
+|5
+|-
+!scope=row|Fouls committed
+|14
+|13
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|0
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+
+==References==
+{{Reflist}}
+
+{{FIFA Intercontinental Cup}}
+{{Real Madrid CF matches}}
+{{C.F. Pachuca matches}}
+
+[[Category:2024 FIFA Intercontinental Cup|Final]]
+[[Category:FIFA Intercontinental Cup finals|2024]]
+[[Category:2024–25 in Spanish men's football]]
+[[Category:Real Madrid CF matches]]
+[[Category:2024–25 in Mexican football]]
+[[Category:C.F. Pachuca matches]]
+[[Category:December 2024 sports events in Qatar|FIFA]]
+[[Category:Mexico–Spain sports relations|2024]]
+[[Category:Football matches in Qatar]]
+[[Category:Sport in Lusail]]
+[[Category:2024–25 in Qatari football]]

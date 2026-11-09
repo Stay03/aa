@@ -1,0 +1,368 @@
+{{Short description|English association football match}}
+{{Use dmy dates|date=July 2020}}
+
+{{For|the women's event|2018 FA Women's Cup final}}
+{{Infobox football match
+| title              = 2018 FA Cup Final
+| other_titles       = 
+| image              = Wembley-Stadion 2013.jpg
+| image_size         = 
+| caption            = The match was played at Wembley Stadium.
+| alt                = Wembley Stadium
+| event              = [[2017–18 FA Cup]]
+| team1              = [[Chelsea F.C.|Chelsea]]
+| team1score         = 1
+| team2              = [[Manchester United F.C.|Manchester United]]
+| team2score         = 0
+| date               = {{Start date|2018|5|19|df=y}}
+| stadium            = [[Wembley Stadium]]
+| city               = London
+| man_of_the_match1a = [[Antonio Rüdiger]] (Chelsea)
+| referee            = [[Michael Oliver (referee)|Michael Oliver]] ([[Northumberland Football Association|Northumberland]])
+| attendance         = 87,647
+| weather            = Sunny
+| previous           = [[2017 FA Cup final|2017]]
+| next               = [[2019 FA Cup final|2019]]
+}}
+The '''2018 FA Cup final''' was an [[association football]] match between [[Manchester United F.C.|Manchester United]] and [[Chelsea F.C.|Chelsea]] on 19 May 2018 at [[Wembley Stadium]] in [[London]], England. It was the 137th FA Cup final overall and was the showpiece match of English football's primary cup competition, the Football Association Challenge Cup ([[FA Cup]]), organised by [[the Football Association]] (FA). It was the second successive final for Chelsea following their defeat by [[Arsenal F.C.|Arsenal]] [[2017 FA Cup final|the previous year]]. The teams had met twice before in the FA Cup Final, winning one each between them. The first was in [[1994 FA Cup final|1994]], which Manchester United won 4–0, and most recently in [[2007 FA Cup final|2007]], when Chelsea – then managed by the incumbent Manchester United boss [[José Mourinho]] – won 1–0 after [[Overtime (sports)#Association football|extra time]].
+
+[[Michael Oliver (referee)|Michael Oliver]] refereed the match which was notable for being the first FA Cup Final to use the [[video assistant referee]] (VAR) system. [[Prince William, Duke of Cambridge]], and President of the FA, was absent as he was attending his [[Wedding of Prince Harry and Meghan Markle|brother's wedding]]. The trophy was instead presented by Jackie Wilkins, the widow of former Manchester United and Chelsea player [[Ray Wilkins]], who died in April 2018.
+
+The match was played in sunny conditions in front of a Wembley crowd of 87,647. After a relatively even start to the match, on 21 minutes, Chelsea's [[Eden Hazard]] was brought down in the Manchester United [[penalty area|box]] and Oliver awarded a penalty. Hazard scored from the spot to make it 1–0 to Chelsea, a lead they maintained to half time. Manchester United dominated the second half, and saw a 63rd-minute goal from [[Alexis Sánchez]] ruled out for [[offside (association football)|offside]] after being referred to VAR. The match ended 1–0 to Chelsea who won the FA Cup for the eighth time.
+
+As winners, Chelsea qualified for the group stage of the [[2018–19 UEFA Europa League]], although they had qualified for that phase already via their league position. Chelsea also earned the right to play [[2017–18 Premier League]] champions [[Manchester City F.C.|Manchester City]] for the [[2018 FA Community Shield]].
+
+==Route to the final==
+{{main|2017–18 FA Cup}}
+
+===Chelsea===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+|-
+!scope="col" style="width:25px"|Round
+!scope="col" style="width:175px"|Opposition
+!scope="col" style="width:70px"|Score
+|-
+!scope=row style="text-align:center"|3rd<br>Replay
+|[[Norwich City F.C.|Norwich City]] ([[Carrow Road|A]])<br>Norwich City ([[Stamford Bridge (stadium)|H]])
+|0–0<br>1–1 {{aet}}<br>{{pso|5–3}}
+|-
+!scope=row style="text-align:center"|4th
+|[[Newcastle United F.C.|Newcastle United]] (H)
+|3–0
+|-
+!scope=row style="text-align:center"|5th
+|[[Hull City A.F.C.|Hull City]] (H)
+|4–0
+|-
+!scope=row style="text-align:center"|QF
+|[[Leicester City F.C.|Leicester City]] ([[King Power Stadium|A]])
+|2–1 {{aet}}
+|-
+!scope=row style="text-align:center"|SF
+|[[Southampton F.C.|Southampton]] ([[Wembley Stadium|N]])
+|2–0
+|-
+|colspan="3"|<small>'''Key:''' (H) = Home venue; (A) = Away venue; (N) = [[Neutral venue]]</small>
+|}
+
+[[Chelsea F.C.|Chelsea]] as a [[Premier League]] team entered the [[2017–18 FA Cup|FA Cup]] in the third round, and were drawn against [[EFL Championship|Championship]] club [[Norwich City F.C.|Norwich City]] on 7 January at [[Carrow Road]]. Chelsea made nine changes to their starting eleven from their previous league match against [[Arsenal F.C.|Arsenal]] but still dominated the match, which ended goalless.<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/42519706 |title=Norwich City 0–0 Chelsea |publisher=[[BBC Sport]] |access-date=9 July 2020 |date=6 January 2018 |first=James |last=Law |archive-url=https://web.archive.org/web/20191107135011/https://www.bbc.co.uk/sport/football/42519706 |archive-date=7 November 2019 |url-status=live }}</ref> The replay was held 11 days later and was a 1–1 draw with goals from [[Michy Batshuayi]] in the 55th minute and [[Jamal Lewis (footballer)|Jamal Lewis]] in the 90th minute. The match went into [[Overtime (sports)#Association football|extra time]], during which Chelsea were reduced to nine men when both [[Pedro (footballer, born 1987)|Pedro]] and [[Álvaro Morata]] were dismissed, each for two [[Penalty card#Yellow card|yellow cards]]. With no further goals, the match went to a [[penalty shootout]] that Chelsea won 5–3 after their goalkeeper [[Willy Caballero]] saved [[Nélson Oliveira]]'s spot kick.<ref name=begley>{{cite web |last=Begley |first=Emlyn |url=https://www.bbc.co.uk/sport/football/42630626 |title=Chelsea 1–1 Norwich City (5–3 pens) |publisher=[[BBC Sport]] |date=17 January 2018 |access-date=22 April 2018 |archive-url=https://web.archive.org/web/20180402021435/http://www.bbc.co.uk/sport/football/42630626 |archive-date=2 April 2018 |url-status=live }}</ref> The match was also notable for what the [[BBC]] reporter Emlyn Begley described as the "first video refereeing controversy" in English football when, after deliberation with [[Video assistant referee|VAR]], [[Willian (footballer, born 1988)|Willian]] was booked for diving when he was brought down by [[Timm Klose]] in the Norwich [[penalty area]]; [[Alan Shearer]] described the decision as a "shambles".<ref name=begley/> In the fourth round, Chelsea met Premier League opposition [[Newcastle United F.C.|Newcastle United]] at [[Stamford Bridge (stadium)|Stamford Bridge]], and won 3–0 with two goals from Batshuayi and one from [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]].<ref>{{cite web |last=Mullen |first=Andrew |url=https://www.bbc.co.uk/sport/football/42763630 |title=Chelsea 3–0 Newcastle United |publisher=[[BBC Sport]] |date=28 January 2018 |access-date=22 April 2018 |archive-url=https://web.archive.org/web/20180406033102/http://www.bbc.co.uk/sport/football/42763630 |archive-date=6 April 2018 |url-status=live }}</ref> 
+
+In the fifth round, Chelsea faced [[Hull City A.F.C.|Hull City]], another Championship team, at home. Chelsea were dominant, scoring four times in the first half with goals from Willian (2), Pedro and [[Olivier Giroud]], winning the game 4–0.<ref name="Begley 2018">{{cite web |last=Begley |first=Emlyn |url=https://www.bbc.co.uk/sport/football/42998720 |title=Chelsea 4–0 Hull City |publisher=[[BBC Sport]] |date=16 February 2018 |access-date=22 April 2018 |archive-url=https://web.archive.org/web/20180305074241/http://www.bbc.co.uk/sport/football/42998720 |archive-date=5 March 2018 |url-status=live }}</ref> In the quarter-finals, they visited the [[King Power Stadium]] to face fellow Premier League opponents [[Leicester City F.C.|Leicester City]], where a goal for Chelsea from Morata and a Leicester equaliser from [[Jamie Vardy]] took the game to extra time. [[Substitute (association football)|Substitute]] Pedro came off the bench and scored the winning goal to take Chelsea to the semi-final.<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/43361317 |publisher=[[BBC Sport]] |access-date=9 July 2020 |date=18 March 2018 |first=Phil |last=McNulty |author-link=Phil McNulty |title=Leicester 1–2 Chelsea |archive-url=https://web.archive.org/web/20190803060752/https://www.bbc.co.uk/sport/football/43361317 |archive-date=3 August 2019 |url-status=live }}</ref> There, they played Premier League opposition in [[Southampton F.C.|Southampton]] at Wembley, and goals from [[Forward (association football)|strikers]] Giroud and Morata saw Chelsea win 2–0, and progress to the FA Cup Final for the second successive season.<ref>{{cite web |last=Abraham |first=Timothy |url=https://www.bbc.co.uk/sport/football/43772431 |title=Chelsea 2–0 Southampton |publisher=[[BBC Sport]] |date=22 April 2018 |access-date=18 May 2018 |archive-url=https://web.archive.org/web/20180508153353/https://www.bbc.co.uk/sport/football/43772431 |archive-date=8 May 2018 |url-status=live }}</ref>
+
+===Manchester United===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+|-
+!scope="col" style="width:25px"|Round
+!scope="col" style="width:175px"|Opposition
+!scope="col" style="width:70px"|Score
+|-
+!scope=row style="text-align:center"|3rd
+|[[Derby County F.C.|Derby County]] ([[Old Trafford|H]])
+|2–0
+|-
+!scope=row style="text-align:center"|4th
+|[[Yeovil Town F.C.|Yeovil Town]] ([[Huish Park|A]])
+|4–0
+|-
+!scope=row style="text-align:center"|5th
+|[[Huddersfield Town A.F.C.|Huddersfield Town]] ([[Kirklees Stadium|A]])
+|2–0
+|-
+!scope=row style="text-align:center"|QF
+|[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] (H)
+|2–0
+|-
+!scope=row style="text-align:center"|SF
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]] ([[Wembley Stadium|N]]){{efn|name=Wembley|Although Tottenham Hotspur played their home games at Wembley in 2017–18, it was designated as a neutral venue for the semi-final.<ref>{{Cite web |url=https://www.telegraph.co.uk/football/2018/04/16/tottenhams-home-fa-cup-semi-final-tie-does-not-sit/ |work=[[The Daily Telegraph]] |url-access=subscription |access-date=20 September 2020 |date=16 April 2018 |first=James |last=Ducker |title=Tottenham's 'home' FA Cup semi-final tie does not sit well |archive-date=18 April 2018 |archive-url=https://web.archive.org/web/20180418062936/https://www.telegraph.co.uk/football/2018/04/16/tottenhams-home-fa-cup-semi-final-tie-does-not-sit/ |url-status=live }}</ref>}}
+|2–1
+|-
+|colspan="3"|<small>'''Key:''' (H) = Home venue; (A) = Away venue; (N) = [[Neutral venue]]</small>
+|}
+
+Like Chelsea, [[Manchester United F.C.|Manchester United]] entered the cup in the third round because of their Premier League status. They were drawn at home against Championship side [[Derby County F.C.|Derby County]]. Despite making five changes to the starting line-up from their previous league match, the Manchester United manager [[José Mourinho]] fielded a strong side, including [[Juan Mata]], [[Paul Pogba]], [[Marcus Rashford]] and [[Henrikh Mkhitaryan]]. United dominated the game and won 2–0 with late goals from [[Jesse Lingard]] and substitute [[Romelu Lukaku]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/42508635|title=Manchester United 2–0 Derby County|date=22 April 2018|publisher=[[BBC Sport]]|access-date=22 April 2018|first=Emlyn|last=Begley|archive-url=https://web.archive.org/web/20180329043719/http://www.bbc.co.uk/sport/football/42508635|archive-date=29 March 2018|url-status=live}}</ref> Their fourth round opponents were [[EFL League Two|League Two]] club [[Yeovil Town F.C.|Yeovil Town]], the lowest ranked team remaining in the competition. Mourinho made ten changes for the match, played at [[Huish Park]], which ended in a 4–0 victory for United with goals from Rashford, [[Ander Herrera]], Lingard and Lukaku.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/42742088|title=Yeovil Town 0–4 Manchester United|date=22 April 2018|publisher=[[BBC Sport]]|first=Tom|last=Garry|access-date=22 April 2018|archive-url=https://web.archive.org/web/20180422082622/https://www.bbc.co.uk/sport/football/42742088|archive-date=22 April 2018|url-status=live}}</ref> 
+
+In the fifth round, Manchester United were drawn against fellow Premier League side [[Huddersfield Town A.F.C.|Huddersfield Town]] away at [[Kirklees Stadium]]. Although Mata had a goal ruled out following a controversial VAR review,<ref>{{Cite web |url=https://www.bbc.co.uk/sport/av/football/43100490 |publisher=[[BBC Sport]] |title=Mata 'goal' ruled out by VAR in FA Cup |access-date=9 July 2020 |date=17 February 2018 |archive-url=https://web.archive.org/web/20181117031320/https://www.bbc.co.uk/sport/av/football/43100490 |archive-date=17 November 2018 |url-status=live }}</ref> Lukaku scored in each half to secure a 2–0 win.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/43012781|title=Huddersfield Town 0–2 Manchester United|date=17 February 2018|publisher=[[BBC Sport]]|access-date=22 April 2018|first=Gary|last=Rose|archive-url=https://web.archive.org/web/20180420054850/https://www.bbc.co.uk/sport/football/43012781|archive-date=20 April 2018|url-status=live}}</ref> In the quarter-finals, they played Premier League [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] at [[Old Trafford]]. Lukaku scored in the 37th minute and with Brighton's [[Jürgen Locadia]] missing four chances to equalise, a late goal from [[Nemanja Matić]], the United [[midfielder]], secured his side 2–0 victory.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/43353566|title=Manchester United 2–0 Brighton & Hove Albion|date=17 March 2018|publisher=[[BBC Sport]]|first=Mike|last=Whalley|access-date=22 April 2018|archive-url=https://web.archive.org/web/20180422131445/https://www.bbc.co.uk/sport/football/43353566|archive-date=22 April 2018|url-status=live}}</ref> In the semi-final at Wembley Stadium, Manchester United faced fellow Premier League club [[Tottenham Hotspur F.C.|Tottenham Hotspur]], who took an early lead through [[Dele Alli]]. [[Alexis Sánchez]] equalised midway through the first half with a [[Header (association football)|header]] from Pogba's [[Cross (association football)|cross]] past the Tottenham goalkeeper [[Michel Vorm]]. Herrera then put United ahead in the second half and his team held on for the 2–1 win and progression to the final.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/43762296|title=Manchester United 2–1 Tottenham Hotspur|date=21 April 2018|publisher=[[BBC Sport]]|first=Phil|last=McNulty|author-link=Phil McNulty|access-date=22 April 2018|archive-url=https://web.archive.org/web/20180421235613/https://www.bbc.co.uk/sport/football/43762296|archive-date=21 April 2018|url-status=live}}</ref>
+
+==Match==
+===Background===
+The 2018 final was the last match of the [[2017–18 FA Cup]] and the 137th final of the FA Cup, the world's oldest football cup competition.<ref name=finals/><ref>{{Cite web |url=https://www.fourfourtwo.com/features/who-has-won-most-fa-cups-12-most-successful-clubs-arsenal-man-utd-chelsea-liverpool |work=[[FourFourTwo]] |access-date=5 October 2020 |title=Who has won the most FA Cups? The 12 most successful clubs in the world's oldest competition |first=Sam |last=Blitz |date=3 August 2020 |archive-date=5 October 2020 |archive-url=https://web.archive.org/web/20201005103153/https://www.fourfourtwo.com/features/who-has-won-most-fa-cups-12-most-successful-clubs-arsenal-man-utd-chelsea-liverpool |url-status=live }}</ref> This was Chelsea's thirteenth FA Cup final, having last progressed to the final [[2017 FA Cup final|the previous season]] where they lost 2–1 to Arsenal. Chelsea had won the cup on seven occasions, the most recent being in the [[2012 FA Cup Final]] where they defeated [[Liverpool F.C.|Liverpool]] 2–1. Manchester United had featured in nineteen finals prior to 2018: their most recent appearance was in the [[2016 FA Cup final|2016 final]] when they needed extra time to beat [[Crystal Palace F.C.|Crystal Palace]] 2–1.<ref name=finals>{{Cite web |url=http://www.thefa.com/competitions/thefacup/more/finals |publisher=[[The Football Association]] |title=FA Cup Finals, 1872 – today |access-date=9 July 2020 |archive-url=https://web.archive.org/web/20170613182709/http://www.thefa.com/competitions/thefacup/more/finals |archive-date=13 June 2017 |url-status=live }}</ref> The 2018 final was the third to see Manchester United and Chelsea face one another: United won the [[1994 FA Cup Final]] 4–0 while Chelsea were 1–0 winners in the [[2007 FA Cup final|2007 final]].<ref name=eleven/> In the two meetings between the clubs during the [[2017–18 Premier League]], Chelsea won 1–0 at Stamford Bridge in November 2017 while Manchester United won 2–1 at Old Trafford the following February.<ref>{{Cite web |url=https://www.11v11.com/teams/manchester-united/tab/opposingTeams/opposition/Chelsea/ |website=11v11.com |publisher=AFS Enterprises |access-date=9 July 2020 |title=Manchester United football club: record v Chelsea |archive-url=https://web.archive.org/web/20200614204030/https://www.11v11.com/teams/manchester-united/tab/opposingTeams/opposition/Chelsea/ |archive-date=14 June 2020 |url-status=live }}</ref> The season ended with Manchester United in second place, and Chelsea fifth, eleven points behind.<ref>{{Cite web |url=https://www.11v11.com/league-tables/premier-league/2018/ |title=Premier League end of season table for 2017–18 season |website=11v11.com |access-date=9 July 2020 |publisher=AFS Enterprises |archive-date=20 September 2020 |archive-url=https://web.archive.org/web/20200920104644/https://www.11v11.com/league-tables/premier-league/2018/ |url-status=live }}</ref>
+
+[[File:Ray Wilkins 18-10-2008 1.jpg|thumb|upright|alt=Ray Wilkins|Ray Wilkins ''(pictured in 2008)'', who had played for both Chelsea and Manchester United. He had FA Cup success with both teams, as a player for United and then a coach for Chelsea.]]
+Tributes for former Chelsea and Manchester United midfielder [[Ray Wilkins]], who died on 4 April, were held before the match on the hoardings and the screens in the stadium, as well as a feature in the [[matchday programme]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/43973829|title=FA Cup: Ray Wilkins' family invited to final between Chelsea & Man Utd|first=Simon|last=Stone|publisher=[[BBC Sport]]|date=2 May 2018|access-date=2 May 2018|archive-url=https://web.archive.org/web/20180503193622/https://www.bbc.co.uk/sport/football/43973829|archive-date=3 May 2018|url-status=live}}</ref> Wilkins won the FA Cup with both sides; in the [[1983 FA Cup final|1983 final]] for United,{{efn|name=Wilko|Manchester United won the 1983 FA Cup Final after a replay; Wilkins scored in the first match.<ref name=butch/>}} and three times as assistant manager of Chelsea – in the [[2000 FA Cup final|2000]], [[2009 FA Cup final|2009]] and [[2010 FA Cup final|2010 finals]].<ref name=butch>{{cite web |url=http://www.chelseafc.com/news/latest-news/2018/04/ray-wilkins-1956-2018.html |title=Ray Wilkins 1956–2018 |publisher=[[Chelsea F.C.]] |date=4 April 2018 |access-date=5 April 2018 |archive-url=https://web.archive.org/web/20180405053516/http://www.chelseafc.com/news/latest-news/2018/04/ray-wilkins-1956-2018.html |archive-date=5 April 2018 |url-status=live }}</ref> The traditional performance of the hymn, "[[Abide with Me]]" was performed by the choir of the [[Royal Air Force]] and 14 individual fans of 14 different clubs with a flypast by three Royal Air Force [[Eurofighter Typhoon|Typhoons]].<ref>{{cite web |title=Fan choir to sing Abide With Me before Chelsea vs Manchester United |url=https://www.standard.co.uk/sport/football/fa-cup-final-2018-fan-choir-to-sing-abide-with-me-before-chelsea-vs-manchester-united-a3842051.html |work=[[Evening Standard]] |date=17 May 2018 |access-date=18 May 2018 |archive-url=https://web.archive.org/web/20180518204446/https://www.standard.co.uk/sport/football/fa-cup-final-2018-fan-choir-to-sing-abide-with-me-before-chelsea-vs-manchester-united-a3842051.html |archive-date=18 May 2018 |url-status=live }}</ref> The national anthem, "[[God Save the Queen]]", was sung by soprano Emily Haig who also performed it at the [[2018 FA Women's Cup Final]].<ref>{{cite web |url=http://www.thefa.com/news/2018/may/15/fa-cup-final-ray-wilkins-tribute-150518 |title=Ray Wilkins tribute |publisher=[[The Football Association]] |access-date=18 May 2018 |date=15 May 2018 |archive-url=https://web.archive.org/web/20180517205750/http://www.thefa.com/news/2018/may/15/fa-cup-final-ray-wilkins-tribute-150518 |archive-date=17 May 2018 |url-status=live }}</ref>
+
+[[File:FA Cup Final 2018, Wembley, London, May 2018 (06).jpg|thumb|The opening ceremony of the final]]
+
+The referee for the match was 33-year-old [[Michael Oliver (referee)|Michael Oliver]] from [[Northumberland Football Association|Northumberland]]. He previously officiated when these two sides met in the previous season's quarter-final, in which he sent off Manchester United's Herrera. Oliver became the youngest FA Cup final referee since the [[1914 FA Cup Final]] between [[Burnley F.C.|Burnley]] and Liverpool which was officiated by the 32-year-old [[Herbert Bamlett]].<ref name=eleven/> Oliver's [[Assistant referee (association football)|assistants]] were Ian Hussin from [[Liverpool County Football Association|Liverpool]] and Lee Betts from [[Norfolk County Football Association|Norfolk]]. The [[fourth official]] was [[Lee Mason]] of [[Lancashire County Football Association|Lancashire]], and the [[fifth official]] was Constantine Hatzidakis from [[Kent County Football Association|Kent]]. For the first time in the final, there was a VAR, [[Neil Swarbrick]] of Lancashire.<ref>{{cite news |url=http://www.thefa.com/news/2018/apr/24/fa-cup-final-chelsea-man-utd-kick-off-240418 |title=Kick-off time and match officials confirmed for Emirates FA Cup Final |publisher=[[The Football Association]] |date=24 April 2018 |access-date=24 April 2018 |archive-url=https://web.archive.org/web/20180424195428/http://www.thefa.com/news/2018/apr/24/fa-cup-final-chelsea-man-utd-kick-off-240418 |archive-date=24 April 2018 |url-status=live }}</ref> His assistant was Mick McDonough, also of Northumberland.<ref name="officials">{{cite news |url=http://www.thefa.com/news/2018/apr/24/michael-oliver-fa-cup-final-240418 |title=Cup Final referee Michael Oliver humbled by wave of support |publisher=[[The Football Association]] |date=24 April 2018 |access-date=24 April 2018 |archive-url=https://web.archive.org/web/20180424200942/http://www.thefa.com/news/2018/apr/24/michael-oliver-fa-cup-final-240418 |archive-date=24 April 2018 |url-status=live }}</ref> The ball for the match was an FA Cup-branded variant of the [[Nike Ordem|Nike ''Ordem V'']], and featured the names of 137 players who had scored goals during the 2017–18 FA Cup season, in every round from the extra preliminary round through to the semi-finals.<ref>{{cite news |title=Matchball for 137th FA Cup Final to feature names of 137 goalscorers |url=http://www.thefa.com/news/2018/may/14/fa-cup-final-nike-ordem-v-ball-for-all-150518 |publisher=[[The Football Association]] |date=15 May 2018 |access-date=11 November 2018 |archive-url=https://web.archive.org/web/20180515122700/http://www.thefa.com/news/2018/may/14/fa-cup-final-nike-ordem-v-ball-for-all-150518 |archive-date=15 May 2018 |url-status=live }}</ref>
+
+Mourinho had made nine changes to his starting line-up for the final Premier League match against [[Watford F.C.|Watford]] the previous weekend.<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/44020156 |title=Manchester United 1–0 Watford |publisher=[[BBC Sport]] |access-date=9 July 2020 |first=Matt |last=Davis |date=13 May 2018 |archive-url=https://web.archive.org/web/20190921090734/https://www.bbc.co.uk/sport/football/44020156 |archive-date=21 September 2019 |url-status=live }}</ref> Of that eleven, just three were retained for the FA Cup final: [[Ashley Young]], Rashford and Sánchez. Lukaku had also recovered from an ankle injury sustained in April to be selected amongst the substitutes.<ref>{{Cite web |url=https://www.theguardian.com/football/2018/apr/30/romelu-lukaku-manchester-united-ankle-injury-fa-cup-final-chelsea |work=[[The Guardian]] |access-date=9 July 2020 |date=30 April 2018 |title=Romelu Lukaku expected to be fit to face Chelsea in FA Cup final |first=Jamie |last=Jackson |archive-url=https://web.archive.org/web/20191214122726/https://www.theguardian.com/football/2018/apr/30/romelu-lukaku-manchester-united-ankle-injury-fa-cup-final-chelsea |archive-date=14 December 2019 |url-status=live }}</ref><ref name=guardlive>{{Cite web |url=https://www.theguardian.com/football/live/2018/may/19/chelsea-v-manchester-united-2018-fa-cup-final-live?page=with:block-5b00182ae4b0738b88744274#liveblog-navigation |work=[[The Guardian]] |access-date=9 July 2020 |date=19 May 2018 |first=Scott |last=Murray |title=Chelsea 1–0 Manchester United: 2018 FA Cup final – as it happened (2 of 2) |archive-url=https://web.archive.org/web/20200709154453/https://www.theguardian.com/football/live/2018/may/19/chelsea-v-manchester-united-2018-fa-cup-final-live?page=with:block-5b00182ae4b0738b88744274#liveblog-navigation |archive-date=9 July 2020 |url-status=live }}</ref> Sánchez and Giroud became the first players to appear in consecutive FA Cup finals but for different clubs since [[Brian Talbot]] accomplished the feat representing [[Ipswich Town F.C.|Ipswich Town]] in the [[1978 FA Cup final|1978 final]] and Arsenal the [[1979 FA Cup final|following year]].<ref name=eleven/> The Chelsea manager [[Antonio Conte]] made three changes from the team which lost in the league match against Newcastle United 3–0: [[Andreas Christensen]], [[Emerson Palmieri|Emerson]] and [[Ross Barkley]] were dropped for [[Antonio Rüdiger]], Alonso and [[Cesc Fàbregas]].<ref name=guardlive/><ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/44020154 |title=Newcastle United 3–0 Chelsea |publisher=[[BBC Sport]] |access-date=9 July 2020 |date=13 May 2018 |first=Shamoon |last=Hafez |archive-url=https://web.archive.org/web/20190916140010/https://www.bbc.co.uk/sport/football/44020154 |archive-date=16 September 2019 |url-status=live }}</ref> Speculation had surrounded Conte's position as Chelsea manager for several months. He confirmed that his future with the club would be clarified after the FA Cup Final.<ref>{{Cite web |url=https://www.telegraph.co.uk/football/2018/05/08/antonio-conte-future-chelsea-will-made-clear-fa-cup-final/ |work=[[The Daily Telegraph]] |title=Antonio Conte: My future at Chelsea will be made clear after FA Cup final |date=8 May 2018 |first=Sam |last=Dean |access-date=10 July 2020 |url-access=subscription |archive-date=13 July 2020 |archive-url=https://web.archive.org/web/20200713052808/https://www.telegraph.co.uk/football/2018/05/08/antonio-conte-future-chelsea-will-made-clear-fa-cup-final/ |url-status=live }}</ref>
+
+===First half===
+[[File:FA Cup Final 2018, Wembley, London, May 2018 (18).jpg|thumb|[[Eden Hazard|Hazard's]] first half penalty was the only goal of the game]]
+The match, played in sunny conditions in front of a crowd of 87,647, was kicked off by Manchester United just after 5:15{{nbsp}}p.m. Two minutes into the game, Alonso was fouled by Herrera, but the resulting free kick from Fàbregas went straight to the Manchester United goalkeeper [[David de Gea]]. Six minutes later, Lingard was brought down by the Chelsea midfielder [[N'Golo Kanté]] who conceded a free kick. From the set piece, Young's cross was cleared by [[Gary Cahill]] but a mistake from [[Phil Jones (footballer, born 1992)|Phil Jones]] allowed [[Eden Hazard]] an opportunity: his shot was saved by the outstretched leg of De Gea.<ref name=guardlive/><ref>{{Cite web |url=https://www.bbc.co.uk/sport/av/football/44185992 |title=Highlights: Chelsea 1–0 Manchester United |publisher=[[BBC Sport]] |access-date=20 September 2020 |date=19 May 2018 |archive-date=21 May 2018 |archive-url=https://web.archive.org/web/20180521125513/https://www.bbc.co.uk/sport/football/44185992 |url-status=live }}</ref> In the fourteenth minute, Chelsea's [[Tiémoué Bakayoko]] fell in the United penalty area after contact with Matić, but Oliver decided no foul had been made. Two minutes later, Sánchez also made an unsuccessful claim for a penalty after contact with both [[Victor Moses]] and [[César Azpilicueta]] sent him to the ground in the Chelsea box. After 21 minutes, Hazard received a pass from Fàbregas and made a run into Manchester United's box, where he was fouled by Jones with a sliding tackle, who received the first yellow card of the game. Oliver awarded a penalty which Hazard himself took, sending the ball low to the right past United goalkeeper De Gea to make it 1–0 to Chelsea.<ref name=guardlive/> It was the first penalty scored outside a shootout in the FA Cup Final since [[Ruud van Nistelrooy]] scored for Manchester United in the [[2004 FA Cup final|2004 final]].<ref name="report"/>
+
+In the 26th minute, Pogba was fouled, allowing Sánchez to send a free kick toward Herrera. His misplaced shot ended back with Sánchez whose cross for Pogba was deflected out by Rüdiger: the resulting corner came to nothing. Pogba then shot wide of [[Thibaut Courtois]]' goal before a Sánchez strike from {{convert|25|yd}} went off-target.<ref name=guardlive/> On 35 minutes, Sánchez fouled Bakayoko on the edge of the United area, but the resulting free kick from Fàbregas struck the [[Glossary of association football terms#W|wall]] and was cleared. Three minutes later, Pogba won a corner from which Sánchez tried to score directly, but Fàbregas cleared at the near post. [[Chris Smalling]] then conceded a corner from another Chelsea free kick: Fàbregas' ball was punched away by De Gea. A minute before half time, Young was fouled by Moses. The free kick resulted in a corner for United, from which Young's cross was headed past Chelsea's right-hand goalpost by Jones. Rashford then missed a chance and the half ended 1–0 to Chelsea.<ref name=guardlive2>{{Cite web |url=https://www.theguardian.com/football/live/2018/may/19/chelsea-v-manchester-united-2018-fa-cup-final-live?page=with:block-5b00182ae4b0738b88744274#liveblog-navigation |work=[[The Guardian]] |access-date=9 July 2020 |date=19 May 2018 |first=Scott |last=Murray |title=Chelsea 1–0 Manchester United: 2018 FA Cup final – as it happened (1 of 2) |archive-url=https://web.archive.org/web/20200709154453/https://www.theguardian.com/football/live/2018/may/19/chelsea-v-manchester-united-2018-fa-cup-final-live?page=with:block-5b00182ae4b0738b88744274#liveblog-navigation |archive-date=9 July 2020 |url-status=live }}</ref>
+
+===Second half===
+[[File:Manchester United vs Chelsea FA Cup Final 2018.jpeg|thumb|alt=Manchester United against Chelsea in 2018|The game during the second half]]
+No changes to either team were made during half time and Chelsea kicked off the second half. Seven minutes in, Young was fouled by Moses and United were awarded a free kick which was taken by Rashford. Pogba missed his header and Courtois was able to punch the ball clear. Two minutes later, Young received the ball from Herrera but [[Chip (association football)|chipped]] his shot over the Chelsea crossbar. Herrera then sent [[Antonio Valencia]] clear in the Chelsea box: he chose to pass to Rashford whose strike was cleared by Courtois, before Pogba's attempt was gathered by the goalkeeper. In the 57th minute, a corner from Pogba was cleared, and Hazard's quick break was ended by a Valencia foul for which he received the second booking of the game. Matić then shot wide of the Chelsea goal before Hazard's strike was saved by De Gea at the other end of the pitch. On 63 minutes, Rashford was brought down, winning a free kick which he took himself, finding Jones in the middle of the Chelsea penalty area. His header to the bottom-right corner was goal-bound but Courtois pushed it away, only for Sánchez to knee the ball into the net. The goal was subsequently disallowed as Sánchez was adjudged to have been in an [[offside (association football)|offside]] position, which was then confirmed by VAR.<ref name=guardlive2/>
+
+United continued to dominate the second half but in the 71st minute, Chelsea's Kanté made a run into the United penalty area and passed to Alonso whose shot was parried by De Gea. Moses attempted to take the rebound past Young, but the ball deflected off the United player's arm. Appeals for a penalty were turned down with VAR making the decision. In the 73rd minute, Rashford was sent clear by Lingard, but his shot was saved by Courtois. United then made the first substitutions of the afternoon, with Lingard and Rashford being replaced by [[Anthony Martial]] and Lukaku. Two minutes later, a shot from Martial was deflected and caught by Courtois before a clash of heads between Giroud and Jones meant the United defender had to leave the pitch for medical attention. With ten minutes remaining, a {{convert|25|yd|adj=on}} strike from Matić was pushed away by the United goalkeeper for a corner, from which Azpilicueta's deflected shot was caught by De Gea. Pogba then sent a header wide of the Chelsea goal before Sánchez's shot from {{convert|20|yd}} went just wide of the post. With three minutes of the match left, Mata came on for Jones before Martial's lofted shot went high over the goal. In the 89th minute Chelsea made their first substitution with Morata coming on for Giroud, and shortly after, Hazard was replaced by Willian. Five minutes of additional time were indicated, and three minutes in, Courtois was booked for time-wasting. Despite late chances for both sides, no further goals were scored and the match ended 1–0 to Chelsea.<ref name=guardlive2/>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2018|5|19|df=y}}
+|time       = 17:15 [[British Summer Time|BST]]
+|team1      = [[Chelsea F.C.|Chelsea]]
+|score      = 1–0
+|report     = Reports<ref name=eleven>{{Cite web |url=https://www.11v11.com/matches/chelsea-v-manchester-united-19-may-2018-357565/ |website=11v11.com |publisher=AFS Enterprises |access-date=9 July 2020 |title=Chelsea v Manchester United, 19 May 2018 |archive-url=https://web.archive.org/web/20190411031904/https://www.11v11.com/matches/chelsea-v-manchester-united-19-may-2018-357565/ |archive-date=11 April 2019 |url-status=live }}</ref><ref name="report">{{cite web |title=Eden Hazard penalty wins Emirates FA Cup for Chelsea |url=http://www.thefa.com/news/2018/may/19/fa-cup-final-chelsea-manchester-united-190518 |publisher=[[The Football Association]] |date=19 May 2018 |access-date=24 May 2018 |archive-url=https://web.archive.org/web/20190323200119/http://www.thefa.com/news/2018/may/19/fa-cup-final-chelsea-manchester-united-190518 |archive-date=23 March 2019 |url-status=live }}</ref><ref name=summary>{{cite web|last1=McNulty|first1=Phil|author-link=Phil McNulty|title=Chelsea 1–0 Manchester United|url=https://www.bbc.co.uk/sport/football/44091559|access-date=19 May 2018|publisher=[[BBC Sport]]|date=19 May 2018|archive-url=https://web.archive.org/web/20180718123013/https://www.bbc.co.uk/sport/football/44091559|archive-date=18 July 2018|url-status=live}}</ref>
+|team2      = [[Manchester United F.C.|Manchester United]]
+|goals1     = [[Eden Hazard|Hazard]] {{goal|22|pen.}}
+|goals2     = 
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 87,647
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[Northumberland Football Association|Northumberland]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+| pattern_la = _chelsea1718h
+| pattern_b = _chelsea1718h
+| pattern_ra = _chelsea1718h
+| pattern_sh = _chelsea1718h
+| pattern_so = _chelsea1718H
+| leftarm = 0000FF
+| body = 0000FF
+| rightarm = 0000FF
+| shorts = 0000FF
+| socks = FFFFFF
+| title = Chelsea
+}}
+
+|{{Football kit
+| pattern_la = _manutdh1718
+| pattern_b = _manutdh1718
+| pattern_ra = _manutdh1718
+| pattern_sh = _adidas_black
+| pattern_so = _mufc1718h
+| leftarm = E20E0E
+| body = E20E0E
+| rightarm = E20E0E
+| shorts = FFFFFF
+| socks = 000000
+| title = {{nowrap|Manchester United}}
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|BEL}} [[Thibaut Courtois]] || {{yel|90+3}}
+|-
+|CB ||'''28'''||{{flagicon|ESP}} [[César Azpilicueta]]
+|-
+|CB ||'''24'''||{{flagicon|ENG}} [[Gary Cahill]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||{{flagicon|GER}} [[Antonio Rüdiger]]
+|-
+|RWB  ||'''15'''||{{flagicon|NGA}} [[Victor Moses]]
+|-
+|CM ||'''14'''||{{flagicon|FRA|1974}} [[Tiémoué Bakayoko]]
+|-
+|CDM  ||'''7''' ||{{flagicon|FRA|1974}} [[N'Golo Kanté]]
+|-
+|CM ||'''4''' ||{{flagicon|ESP}} [[Cesc Fàbregas]]
+|-
+|LWB  ||'''3''' ||{{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+|-
+|CF ||'''10'''||{{flagicon|BEL}} [[Eden Hazard]] || || {{suboff|90+1}}
+|-
+|CF ||'''18'''||{{flagicon|FRA|1974}} [[Olivier Giroud]] || || {{suboff|89}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Willy Caballero]]
+|-
+|DF ||'''21'''||{{flagicon|ITA}} [[Davide Zappacosta]]
+|-
+|DF ||'''50'''||{{flagicon|ENG}} [[Trevoh Chalobah]]
+|-
+|MF ||'''8''' ||{{flagicon|ENG}} [[Ross Barkley]]
+|-
+|MF ||'''11'''||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+|-
+|MF ||'''22'''||{{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]] || || {{subon|90+1}}
+|-
+|FW ||'''9''' ||{{flagicon|ESP}} [[Álvaro Morata]] || || {{subon|89}}
+|-
+|colspan=4|'''Head coach:'''
+|-
+|colspan="4"|{{flagicon|ITA}} [[Antonio Conte]]
+|}
+|style="vertical-align:top"|[[File:Chelsea vs Man Utd 2018-05-19.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[David de Gea]]
+|-
+|RB ||'''25'''||{{flagicon|ECU}} [[Antonio Valencia]] ([[Captain (association football)|c]]) || {{yel|58}}
+|-
+|CB ||'''12'''||{{flagicon|ENG}} [[Chris Smalling]]
+|-
+|CB ||'''4''' ||{{flagicon|ENG}} [[Phil Jones (footballer, born 1992)|Phil Jones]] || {{yel|21}} || {{suboff|87}}
+|-
+|LB ||'''18'''||{{flagicon|ENG}} [[Ashley Young]]
+|-
+|CM ||'''21'''||{{flagicon|ESP}} [[Ander Herrera]] 
+|-
+|CM ||'''31'''||{{flagicon|SRB}} [[Nemanja Matić]] 
+|-
+|CM ||'''6''' ||{{flagicon|FRA|1974}} [[Paul Pogba]]
+|-
+|RF ||'''14'''||{{flagicon|ENG}} [[Jesse Lingard]] || || {{suboff|73}}
+|-
+|CF ||'''19'''||{{flagicon|ENG}} [[Marcus Rashford]] || || {{suboff|73}}
+|-
+|LF ||'''7''' ||{{flagicon|CHI}} [[Alexis Sánchez]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''20'''||{{flagicon|ARG}} [[Sergio Romero]]
+|-
+|DF ||'''3''' ||{{flagicon|CIV}} [[Eric Bailly]]
+|-
+|DF ||'''36'''||{{flagicon|ITA}} [[Matteo Darmian]]
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Juan Mata]] || || {{subon|87}}
+|-
+|MF ||'''39'''||{{flagicon|SCO}} [[Scott McTominay]]
+|-
+|FW ||'''9''' ||{{flagicon|BEL}} [[Romelu Lukaku]] || || {{subon|73}}
+|-
+|FW ||'''11'''||{{flagicon|FRA|1974}} [[Anthony Martial]] || || {{subon|73}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|POR}} [[José Mourinho]]
+|}
+|}
+
+{| style="width:100%;font-size:90%"
+|style="width:40%;vertical-align:top"|
+'''Man of the Match:'''
+<br />Antonio Rüdiger (Chelsea)<ref name="report" />
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Ian Hussin ([[Liverpool County Football Association|Liverpool]])
+<br />Lee Betts ([[Norfolk County Football Association|Norfolk]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />[[Lee Mason]] ([[Lancashire County Football Association|Lancashire]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''
+<br />Constantine Hatzidakis ([[Kent County Football Association|Kent]])
+<br />'''[[Video assistant referee]]:'''
+<br />[[Neil Swarbrick]] ([[Lancashire County Football Association|Lancashire]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''
+<br />Mick McDonough ([[Northumberland Football Association|Northumberland]])
+|style="width:60%;vertical-align:top"|
+'''Match rules'''<ref>{{cite web |url=http://www.thefa.com/-/media/thefacom-new/files/competitions/2017-18/fa-cup/fa-cup-rules-2017-2018.ashx |title=Rules of the FA Challenge Cup competition |publisher=[[The Football Association]] |format=PDF |access-date=22 April 2018 |archive-url=https://web.archive.org/web/20181203153404/http://www.thefa.com/-/media/thefacom-new/files/competitions/2017-18/fa-cup/fa-cup-rules-2017-2018.ashx |archive-date=3 December 2018 |url-status=live }}</ref>
+*90 minutes
+*30 minutes of extra time if necessary
+*Penalty shoot-out if scores still level
+*Seven named substitutes
+*Maximum of three substitutions, with a fourth allowed in extra time
+|}
+
+===Statistics===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+|+Statistics<ref name=summary/>
+|-
+!scope=col width=100|
+!scope=col width=70|Chelsea
+!scope=col width=70|Manchester United
+|-
+!scope=row|Total shots
+|6
+|18
+|-
+!scope=row|Shots on target
+|3
+|5
+|-
+!scope=row|Corner kicks
+|5
+|9
+|-
+!scope=row|Fouls committed
+|11
+|13
+|-
+!scope=row|Possession
+|33%
+|67%
+|-
+!scope=row|Yellow cards
+|1
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+
+==Post-match==
+As President of [[The Football Association]], [[Prince William, Duke of Cambridge]] would normally have attended the final and presented the trophy to the winning captain at the conclusion of the game. However, as the final was scheduled for the same day as his [[Wedding of Prince Harry and Meghan Markle|brother's wedding]], for which he was serving as [[best man]],<ref>{{cite web |url=http://www.itv.com/news/2018-03-27/prince-william-will-miss-the-fa-cup-final-to-attend-harry-and-meghans-wedding/ |title=Prince William will miss the FA Cup final to attend Harry and Meghan's wedding |last=Ship |first=Chris |date=27 March 2018 |publisher=[[ITV News]] |access-date=27 April 2018 |archive-url=https://web.archive.org/web/20180428093658/http://www.itv.com/news/2018-03-27/prince-william-will-miss-the-fa-cup-final-to-attend-harry-and-meghans-wedding/ |archive-date=28 April 2018 |url-status=live }}</ref> the trophy was instead presented by Jackie Wilkins, the widow of former Manchester United and Chelsea player Ray Wilkins, who died in April 2018.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/44127712 |title=FA Cup final: Ray Wilkins' widow to present trophy to winners |date=15 May 2018 |publisher=[[BBC Sport]] |access-date=15 May 2018 |archive-url=https://web.archive.org/web/20180520012342/https://www.bbc.co.uk/sport/football/44127712 |archive-date=20 May 2018 |url-status=live }}</ref> Chelsea's Rüdiger was named [[Player of the match|man of the match]].<ref name="report"/>
+
+Cahill, the winning captain, said "We had a lot of defending to do{{nbsp}}... This is a dream come true, as this is the first one as captain".<ref name=guardlive2/> Hazard added: "We tried to defend well. We scored one goal, it's enough today."<ref name=guardlive2/> Conte was upbeat: "I'm very satisfied because today was very difficult{{nbsp}}... It showed great desire to finish the season in the right way despite the great difficulty we have had".<ref name=summary/> Mourinho was indignant in defeat: "I congratulate them because they won, but I don't think they deserve to win. I congratulate because I am a sportsman."<ref name=guardlive2/> He also opined: "Every defeat hurts, but for me personally the ones that hurt less are when you give everything and you go without any regrets".<ref name=summary/> [[BBC Sport]] correspondent [[Phil McNulty]] highlighted the performance of the Chelsea players Hazard, Courtois, Kanté, Cahill and Rüdiger, while criticising United trio Jones, Sánchez and Pogba.<ref name=summary/> Sam Wallace, writing in ''[[The Daily Telegraph]]'' declared that "this was a dreadful final".<ref>{{Cite web |url=https://www.telegraph.co.uk/football/2018/05/19/fa-cup-final-2018-chelsea-vs-manchester-united-live-score-updates/ |work=[[The Daily Telegraph]] |access-date=10 July 2020 |date=20 May 2018 |first1=Sam |last1=Wallace |first2=JJ |last2=Bull |title=Eden Hazard penalty settles FA Cup final as Chelsea edge past Man Utd |archive-url=https://web.archive.org/web/20190902214330/https://www.telegraph.co.uk/football/2018/05/19/fa-cup-final-2018-chelsea-vs-manchester-united-live-score-updates/ |archive-date=2 September 2019 |url-status=live |url-access=subscription }}</ref>
+
+Chelsea won £1.8{{nbsp}}million for winning the final and became the first club to win the FA Cup, the [[Women's FA Cup]] and the [[FA Youth Cup]] in the same season.<ref name="report"/> As winners, Chelsea qualified for the group stage of the [[2018–19 UEFA Europa League]], although they had qualified for that phase already via their league position.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/43402150 |title=Premier League and Football League: Ups & downs and European qualification |publisher=[[BBC Sport]] |date=29 April 2018 |access-date=1 May 2018 |archive-url=https://web.archive.org/web/20180430063029/https://www.bbc.co.uk/sport/football/43402150 |archive-date=30 April 2018 |url-status=live }}</ref> This meant that Arsenal, who finished sixth in the league, gained qualification for the Europa League.<ref>{{Cite web | url = https://www.bbc.co.uk/sport/football/44016356 | publisher = [[BBC Sport]] | access-date = 12 October 2020 | title = European qualification: Premier League sides set to discover their fate | date = 6 May 2018 | archive-date = 12 October 2020 | archive-url = https://web.archive.org/web/20201012150126/https://www.bbc.com/sport/football/44016356 | url-status = live }}</ref> Chelsea also earned the right to play 2017–18 Premier League champions [[Manchester City F.C.|Manchester City]] for the [[2018 FA Community Shield]].<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/44995783 |title=Chelsea 0–2 Manchester City |publisher=[[BBC Sport]] |access-date=10 July 2020 |date=5 August 2018 |first=Chris |last=Bevan |archive-url=https://web.archive.org/web/20190402174434/https://www.bbc.co.uk/sport/football/44995783 |archive-date=2 April 2019 |url-status=live }}</ref>
+
+It was the first time that Mourinho had lost a cup final in charge of an English team, after seven consecutive victories,<ref name=summary/> and the defeat sealed his third-ever full season without winning silverware.<ref>{{Cite web |url=https://www.independent.co.uk/sport/football/fa-league-cups/fa-cup-final-chelsea-manchester-united-penalty-fires-to-victory-a8359726.html |work=[[The Independent]] |access-date=10 July 2020 |date=19 May 2018 |title=Eden Hazard penalty fires Chelsea to victory against Manchester United in flat FA Cup final |first=Miguel |last=Delaney |archive-date=16 June 2019 |archive-url=https://web.archive.org/web/20190616113244/https://www.independent.co.uk/sport/football/fa-league-cups/fa-cup-final-chelsea-manchester-united-penalty-fires-to-victory-a8359726.html |url-status=live }}</ref> It was the first domestic cup won by Conte, who lost the [[2012 Coppa Italia Final]] with [[Juventus FC|Juventus]] and the previous season's FA Cup Final as Chelsea manager.<ref name=summary/> Conte was sacked by Chelsea in July 2018 before becoming the manager of [[Inter Milan]] on a three-year deal beginning with the [[2019–20 Serie A]] season.<ref>{{Cite web | url = https://www.bbc.co.uk/sport/football/44820563 | title = Antonio Conte: Chelsea sack Italian after two years in charge | date = 13 July 2018 | access-date = 10 October 2020 | publisher = [[BBC Sport]] | archive-date = 18 August 2020 | archive-url = https://web.archive.org/web/20200818174451/https://www.bbc.co.uk/sport/football/44820563 | url-status = live }}</ref><ref>{{Cite web |url=https://www.telegraph.co.uk/football/2019/05/31/antonio-conte-named-new-inter-milan-manager/ |work=[[The Daily Telegraph]] |date=31 May 2019 |access-date=10 July 2020 |title=Antonio Conte named new Inter Milan manager |agency=[[Press Association]] |archive-url=https://web.archive.org/web/20190531134247/https://www.telegraph.co.uk/football/2019/05/31/antonio-conte-named-new-inter-milan-manager/ |archive-date=31 May 2019 |url-status=live }}</ref> He was replaced by [[Maurizio Sarri]] the following day.<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/44825638 |title=Maurizio Sarri: Chelsea name ex-Napoli boss as Antonio Conte's successor |date=14 July 2018 |access-date=10 July 2020 |publisher=[[BBC Sport]] |archive-url=https://web.archive.org/web/20200615220556/https://www.bbc.co.uk/sport/football/44825638 |archive-date=15 June 2020 |url-status=live }}</ref> Mourinho remained through the summer at Manchester United, but, that December, with Manchester United 19 points behind the league leaders Liverpool, he was dismissed.<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/46603018 |publisher=[[BBC Sport]] |access-date=10 July 2020 |title=Jose Mourinho: Manchester United sack manager |first=Simon |last=Stone |date=18 December 2018 |archive-url=https://web.archive.org/web/20200616175525/https://www.bbc.co.uk/sport/football/46603018 |archive-date=16 June 2020 |url-status=live }}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{reflist}}
+{{commons category}}
+
+{{FA Cup seasons}}
+{{2017–18 in English football}}
+{{Chelsea F.C. matches}}
+{{Manchester United F.C. matches}}
+{{featured article}}
+
+[[Category:FA Cup finals]]
+[[Category:2018 in sport in London|FA Cup Final]]
+[[Category:2017–18 FA Cup|Final]]
+[[Category:Chelsea F.C. matches|Fa Cup Final 2018]]
+[[Category:Manchester United F.C. matches|Fa Cup Final 2018]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:May 2018 sports events in the United Kingdom|FA Cup Final]]
+[[Category:Football matches in London]]

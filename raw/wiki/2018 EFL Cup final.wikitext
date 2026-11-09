@@ -1,0 +1,294 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title              = 2018 EFL Cup final
+| image              = 2018 Carabao Final programme.jpg
+| caption            = Match programme cover
+| event              = [[2017–18 EFL Cup]]
+| team1              = [[Arsenal F.C.|Arsenal]]
+| team1score         = 0
+| team2              = [[Manchester City F.C.|Manchester City]]
+| team2score         = 3
+| details            =
+| date               = {{Start date|2018|2|25|df=yes}}
+| stadium            = [[Wembley Stadium]]
+| city               = [[London]]
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Vincent Kompany]] {{nowrap|(Manchester City)}}<ref name="motm">{{cite news|url=https://www.efl.com/news/2018/february/review-manchester-city-crowned-2018-champions/|title=Review: Manchester City crowned 2018 Carabao Cup Champions|publisher=[[English Football League]]|website=efl.com|date=25 February 2018|access-date=26 February 2018}}</ref>
+| referee            = [[Craig Pawson]] {{nowrap|([[Sheffield & Hallamshire County Football Association|South Yorkshire]])}}<ref name="referees" />
+| attendance         = 85,671
+| weather            =
+| previous           = [[2017 EFL Cup final|2017]]
+| next               = [[2019 EFL Cup final|2019]]
+}}
+The '''2018 EFL Cup final''' (also known as the '''2018 Carabao Cup final''' for sponsorship reasons) was the final [[association football]] match of the [[2017–18 EFL Cup]] that took place on 25 February 2018 at [[Wembley Stadium]].<ref name="EFLSchedule">{{cite web |title=Key Dates |url=https://www.efl.com/clubs-and-competitions/key-dates/ |publisher=[[English Football League]] |access-date=22 January 2018 |url-status=live |archive-url=https://web.archive.org/web/20171002184017/https://www.efl.com/clubs-and-competitions/key-dates/ |archive-date=2 October 2017 }}</ref> It was the first League Cup final contested under the "Carabao Cup" name following the sponsorship of [[Carabao Energy Drink]]. It was contested between [[Manchester City F.C.|Manchester City]] and [[Arsenal F.C.|Arsenal]], and won 3–0 by Manchester City. They would have entered the second qualifying round of the [[2018–19 UEFA Europa League]], but instead qualified  directly for the [[2018–19 UEFA Champions League]] by finishing first in the [[2017–18 Premier League]].<ref>{{cite web |url=https://kassiesa.home.xs4all.nl/bert/uefa/AccessList2018.html |title=Preliminary Access List 2018/19 |publisher=[[UEFA]] |via=Kassiesa |date=26 August 2016 |access-date=23 January 2018 |url-status=dead |archive-url=https://web.archive.org/web/20171222120724/https://kassiesa.home.xs4all.nl/bert/uefa/AccessList2018.html |archive-date=22 December 2017 }}</ref>
+
+The match was Manchester City's sixth League Cup final, and their third in five seasons<ref>{{cite web |url=http://www.skysports.com/football/bristol-c-vs-man-city/report/386991 |title=Bristol City 2–3 Manchester City (Agg 3–5): Pep Guardiola's side reach Carabao Cup final |publisher=[[Sky Sports]] |date=23 January 2018 |access-date=25 January 2018 |url-status=live |archive-url=https://web.archive.org/web/20180124014758/http://www.skysports.com/football/bristol-c-vs-man-city/report/386991 |archive-date=24 January 2018 }}</ref> – qualification for the final also marked the first time [[Pep Guardiola]] reached a final with Manchester City.<ref>{{cite web |url=http://www.goal.com/en-gh/news/4349/main/2018/01/23/41981682/bristol-city-2-manchester-city-3-3-5-agg-guardiola-through |title=Bristol City 2 Manchester City 3 (3–5 agg): Guardiola through to first English final |work=[[Goal (website)|goal.com]] |date=23 January 2018 |access-date=25 January 2018 |url-status=live |archive-url=https://web.archive.org/web/20180126070626/http://www.goal.com/en-gh/news/4349/main/2018/01/23/41981682/bristol-city-2-manchester-city-3-3-5-agg-guardiola-through |archive-date=26 January 2018 }}</ref> For Arsenal, the final was their eighth total in the competition,<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/42713408 |title=Arsenal 2–1 Chelsea |publisher=[[BBC Sport]] |date=24 January 2018 |access-date=25 January 2018 |url-status=live |archive-url=https://web.archive.org/web/20180124233821/http://www.bbc.co.uk/sport/football/42713408 |archive-date=24 January 2018 }}</ref> and their third of [[Arsène Wenger]]'s managerial reign.<ref>{{cite web |url=https://www.eurosport.co.uk/football/fa-cup/2016-2017/arsene-wengers-record-in-finals-with-arsenal-ahead-of-fa-cup-showdown-with-chelsea_sto6179356/story.shtml |title=FA Cup: Arsene Wenger's record in finals at Arsenal ahead of Wembley showdown with Chelsea |publisher=[[Eurosport]] |date=25 May 2017 |access-date=25 January 2018 |url-status=live |archive-url=https://web.archive.org/web/20170701112357/http://www.eurosport.co.uk/football/fa-cup/2016-2017/arsene-wengers-record-in-finals-with-arsenal-ahead-of-fa-cup-showdown-with-chelsea_sto6179356/story.shtml |archive-date=1 July 2017 }}</ref>
+
+==Route to the final==
+{{main|2017–18 EFL Cup}}
+The [[EFL Cup]] is a cup competition open to clubs in the [[Premier League]] and [[English Football League]]. It is played on a knockout basis, with the exception of the semi-finals, which are contested over a [[two-legged tie]]. 
+
+===Manchester City===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;margin:0"
+<!-- |+ '''Manchester City''' -->
+! scope="col" style="width:25px;"| Round
+! scope="col" style="width:120px;"| Opposition
+! scope="col" style="width:90px;"| Score
+|-
+!scope=row style="text-align:center"|3rd
+| [[West Bromwich Albion F.C.|West Bromwich Albion]] (A)
+| 2–1
+|-
+!scope=row style="text-align:center"|4th
+| [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (H)
+| 0–0 (4–1 [[Penalty shoot-out (association football)|p.]])
+|-
+!scope=row style="text-align:center"|5th
+| [[Leicester City F.C.]] (A)
+| 1–1 (4–3 [[Penalty shoot-out (association football)|p.]])
+|-
+!scope=row style="text-align:center" rowspan="2" |Semi-final
+| [[Bristol City F.C.|Bristol City]] (H)
+| 2–1
+|-
+| Bristol City (A)
+| 3–2
+|-
+| colspan="3" style="background:white;"| <small>'''Key:''' (H) = Home venue; (A) = Away venue.</small>
+|}
+</div>
+Manchester City, a Premier League club involved in the [[2017–18 UEFA Champions League|UEFA Champions League]], started their League Cup campaign in the third round, where they had been drawn away to fellow divisional opponents [[West Bromwich Albion F.C.|West Bromwich Albion]]. At [[The Hawthorns]], winger [[Leroy Sané]] scored twice to give City a 2–1 victory.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/41249726|title=West Bromwich Albion 1–2 Manchester City|date=20 September 2017|publisher=BBC Sport|access-date=25 January 2018|url-status=live|archive-url=https://web.archive.org/web/20170926081420/http://www.bbc.co.uk/sport/football/41249726|archive-date=26 September 2017}}</ref> In the fourth round they faced [[Football League Championship|Championship]] side [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] at home. The visitors defended well and became the first team to keep a clean sheet against the Premier League leaders.<ref name="BBC Sport">{{cite web|url=https://www.bbc.co.uk/sport/football/41647096|title=Man City 0–0 Wolves (aet, 4–1 on pens)|date=24 October 2017|publisher=BBC Sport|access-date=25 January 2018|url-status=live|archive-url=https://web.archive.org/web/20180217014839/http://www.bbc.co.uk/sport/football/41647096|archive-date=17 February 2018}}</ref> Neither side scored after normal and extra time meaning the tie was decided by a [[penalty shoot-out (association football)|penalty shoot-out]]. City progressed as 4–1 winners.<ref name="BBC Sport"/>
+
+For the quarter-finals, Manchester City were drawn away to [[Leicester City F.C.|Leicester City]] at the [[King Power Stadium]]. Midfielder [[Bernardo Silva]] scored for the visitors, but deep into added time, striker [[Jamie Vardy]] equalised for Leicester from the penalty spot. The game finished 1–1 and much like the previous round City needed penalties to progress, winning the shoot-out 4–3.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/42318865|title=Leicester City 1–1 Manchester City (3–4 pens)|date=19 December 2017|access-date=25 January 2018|publisher=BBC Sport|url-status=live|archive-url=https://web.archive.org/web/20171222180418/http://www.bbc.co.uk/sport/football/42318865|archive-date=22 December 2017}}</ref> The semi-final pitted Manchester City against Championship side [[Bristol City F.C.|Bristol City]]. The first leg played at the [[City of Manchester Stadium|Etihad Stadium]] saw the visitors take the lead towards the end of the first half, having been awarded a penalty that [[Bobby Reid (footballer, born 1993)|Bobby Reid]] converted. [[Kevin De Bruyne]] equalised for Manchester City and in injury time his teammate [[Sergio Agüero]] scored the winner to put the team firmly in control of the tie.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/42537815|title=Manchester City 2–1 Bristol City|date=25 January 2018|access-date=25 January 2018|publisher=BBC Sport|url-status=live|archive-url=https://web.archive.org/web/20180112205142/http://www.bbc.co.uk/sport/football/42537815|archive-date=12 January 2018}}</ref> Bristol City scored twice at [[Ashton Gate Stadium|Ashton Gate]] in the return leg, but Manchester City progressed to the final having won by three goals and recording a 5–3 aggregate score.<ref>{{cite web|url=https://www.bbc.co.uk/sport/live/football/42709985|title=FT: Bristol City 2–3 Man City&nbsp;— Guardiola reaches first final in England|date=25 January 2018|publisher=BBC Sport|access-date=25 January 2018|url-status=live|archive-url=https://web.archive.org/web/20180125020206/http://www.bbc.co.uk/sport/live/football/42709985|archive-date=25 January 2018}}</ref>
+
+===Arsenal===
+<div class="thumb floatright">
+{| class="wikitable plainrowheaders" style="text-align:center;margin:0"
+<!-- |+ '''Arsenal''' -->
+! scope="col" style="width:25px;"| Round
+! scope="col" style="width:140px;"| Opposition
+! scope="col" style="width:70px;"| Score
+|-
+!scope=row style="text-align:center"|3rd
+| [[Doncaster Rovers F.C.|Doncaster Rovers]] (H)
+| 1–0
+|-
+!scope=row style="text-align:center"|4th
+| [[Norwich City F.C.|Norwich City]] (H)
+| 2–1 ([[Overtime (Association football)|a.e.t.]])
+|-
+!scope=row style="text-align:center"|5th
+| [[West Ham United F.C.|West Ham United]] (H)
+| 1–0
+|-
+!scope=row style="text-align:center" rowspan="2" |Semi-final
+| [[Chelsea F.C.|Chelsea]] (A)
+| 0–0
+|-
+| Chelsea (H)
+| 2–1
+|-
+| colspan="3" style="background:white;"| <small>'''Key:''' (H) = Home venue; (A) = Away venue.</small>
+|}
+</div>
+Arsenal, like Manchester City were involved in Europe ([[2017–18 UEFA Europa League|UEFA Europa League]]) and entered the League Cup in the third round. They were drawn at home against [[Football League One]] side [[Doncaster Rovers F.C.|Doncaster Rovers]]. At the [[Emirates Stadium]], [[Theo Walcott]]'s goal in the 25th minute was enough to settle the outcome in favour of Arsenal.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/41249728 |title=Arsenal 1–0 Doncaster Rovers |publisher=BBC Sport |date=20 September 2017 |access-date=25 January 2018 |url-status=live |archive-url=https://web.archive.org/web/20170921161905/http://www.bbc.co.uk/sport/football/41249728 |archive-date=21 September 2017 }}</ref> In the next round they faced Championship club [[Norwich City F.C.|Norwich City]] at home. Arsenal progressed with a 2–1 win after extra time after [[Eddie Nketiah]] was brought on as a substitute and scored his first two goals for the club.<ref name=n>{{cite web |author=Gerry Cox, The Emirates |url=https://www.telegraph.co.uk/football/2017/10/24/arsenal-2-norwich-1-eddie-nketiah-becomes-instant-hit-brace/ |title=Arsenal 2 Norwich 1 (AET): Eddie Nketiah becomes instant hit with brace to spare blushes in cup comeback |work=[[The Daily Telegraph]] |date=24 October 2017 |access-date=25 January 2018 |url-status=live |archive-url=https://web.archive.org/web/20180126012903/http://www.telegraph.co.uk/football/2017/10/24/arsenal-2-norwich-1-eddie-nketiah-becomes-instant-hit-brace/ |archive-date=26 January 2018 }}</ref>
+
+Arsenal played against [[West Ham United F.C.|West Ham United]] in the quarter-finals, where at home they won 1–0 thanks to a goal from [[Danny Welbeck]].<ref>{{cite web |last=O'Keeffe |first=Greg |url=https://www.bbc.co.uk/sport/football/42318861 |title=Arsenal 1–0 West Ham United |publisher=BBC Sport |date=19 December 2017 |access-date=25 January 2018 |url-status=live |archive-url=https://web.archive.org/web/20180207110540/http://www.bbc.co.uk/sport/football/42318861 |archive-date=7 February 2018 }}</ref> The semi-finals pitted Arsenal against [[Arsenal F.C.–Chelsea F.C. rivalry|London rivals]] [[Chelsea F.C.|Chelsea]]. After a goalless first leg at [[Stamford Bridge (stadium)|Stamford Bridge]],<ref name=c>{{cite web |url=http://www.goal.com/en/news/8/main/2018/01/10/41648562/chelsea-0-arsenal-0-stamford-bridge-stalemate-leaves-efl-cup |title=Chelsea 0–0 Arsenal |work=[[Goal (website)|goal.com]] |access-date=26 January 2018 |url-status=live |archive-url=https://web.archive.org/web/20180127083815/http://www.goal.com/en/news/8/main/2018/01/10/41648562/chelsea-0-arsenal-0-stamford-bridge-stalemate-leaves-efl-cup |archive-date=27 January 2018 }}</ref> Arsenal progressed to the final after a 2–1 win at the Emirates Stadium due to an [[own goal]] from Chelsea's [[Antonio Rüdiger]] and a goal from [[Granit Xhaka]].<ref>{{cite web |last=Emons |first=Michael |url=https://www.bbc.co.uk/sport/football/42713408 |title=Arsenal 2–1 Chelsea (2–1 agg) |publisher=BBC Sport |access-date=25 January 2018 |url-status=live |archive-url=https://web.archive.org/web/20180124233821/http://www.bbc.co.uk/sport/football/42713408 |archive-date=24 January 2018 }}</ref> As a result, Arsenal reached the final without leaving London as four of their five games were at home,<ref name=rg /> with the away leg of the semi-final being played in London.<ref name=rg>{{cite web |author=Ryan Kelly |url=http://www.goal.com/en/news/when-is-the-carabao-cup-final-date-venue-and-everything-you-need-/7b1we1sbinfb1aojbscfn9dze |title=When is the Carabao Cup final? Date, venue and everything you need to know |work=[[Goal (website)|goal.com]] |access-date=4 February 2018 |url-status=live |archive-url=https://web.archive.org/web/20180205000739/http://www.goal.com/en/news/when-is-the-carabao-cup-final-date-venue-and-everything-you-need-/7b1we1sbinfb1aojbscfn9dze |archive-date=5 February 2018 }}</ref> Their tally of six goals on their way to the final represented the lowest goal-tally of any side to reach a League Cup final.<ref>{{cite web |author=Peter Smith |url=http://www.skysports.com/football/news/11096/11221547/arsenal-2-1-chelsea-talking-points-as-gunners-reach-carabao-cup-final |title=Talking points as Gunners reach Carabao Cup final |publisher=Sky Sports |date=24 January 2018 |access-date=19 February 2018 |url-status=live |archive-url=https://web.archive.org/web/20180220033433/http://www.skysports.com/football/news/11096/11221547/arsenal-2-1-chelsea-talking-points-as-gunners-reach-carabao-cup-final |archive-date=20 February 2018 }}</ref>
+
+==Match==
+
+===Summary===
+In the 18th minute of the match [[Sergio Agüero]] opened the scoring when he ran in on goal and lobbed the ball over the advancing goalkeeper [[David Ospina]] with his right foot from the edge of the penalty area after an initial clash with Arsenal defender [[Shkodran Mustafi]] who appealed for a foul.<ref>{{cite web|url=https://www.telegraph.co.uk/football/2018/02/25/arsenal-vs-manchester-city-carabao-cup-final-live-score-updates/|title=Arsenal 0 Manchester City 3: Pep Guardiola lifts League Cup as Arsene Wenger's side are swatted aside|date=25 February 2018|work=The Telegraph|access-date=26 February 2018}}</ref>
+
+[[Vincent Kompany]] got the second in the 58th minute. A corner from the right by [[Kevin De Bruyne]] found [[İlkay Gündoğan]] on the edge of the penalty area, and his low shot was diverted into the net by Kompany with his left leg from seven yards out. [[David Silva]] got the third in the 65th minute when he shot low across and past the goalkeeper with his left foot from inside the left of the penalty area from seven yards out.<ref>{{cite web|url=https://www.theguardian.com/football/live/2018/feb/25/arsenal-v-manchester-city-carabao-cup-final-live|title=Arsenal 0 Man City 3: as it happened|date=25 February 2018|work=Guardian|access-date=26 February 2018}}</ref>
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2018|2|25|df=y}}
+|time       = 16:30 [[Greenwich Mean Time|GMT]]
+|team1      = [[Arsenal F.C.|Arsenal]]
+|score      = 0–3
+|report     = https://www.bbc.co.uk/sport/football/43101681
+|team2      = [[Manchester City F.C.|Manchester City]]
+|goals1     =
+|goals2     =
+* [[Sergio Agüero|Agüero]] {{goal|18}}
+* [[Vincent Kompany|Kompany]] {{goal|58}}
+* [[David Silva|D. Silva]] {{goal|65}}
+|stadium    = [[Wembley Stadium]], [[London]]
+|attendance = 85,671
+|referee    = [[Craig Pawson]] <noinclude>([[Sheffield & Hallamshire County Football Association|South Yorkshire]])</noinclude>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arsenalfc1718h
+ |pattern_b  = _arsenalfc1718h
+ |pattern_ra = _arsenalfc1718h
+ |pattern_sh = _arsenalfc1718h
+ |pattern_so = _arsenalfc1718h2
+ |leftarm    = c70514
+ |body       = c70514
+ |rightarm   = c70514
+ |shorts     = FFFFFF
+ |socks      = FF0000
+ |title      = Arsenal
+}}
+|{{Football kit
+ |pattern_la = _mancity1718h
+ |pattern_b  = _mancity1718h
+ |pattern_ra = _mancity1718h
+ |pattern_sh = _mancity1718h
+ |pattern_so = _mancity1718h
+ |leftarm    = 71AFFA
+ |body       = 71AFFA
+ |rightarm   = 71AFFA
+ |shorts     = 71AFFA
+ |socks      = 71AFFA
+ |title      = {{nowrap|Manchester City}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|COL}} [[David Ospina]]
+|-
+|CB ||'''21'''||{{flagicon|ENG}} [[Calum Chambers]] || {{yel|47}} || {{suboff|65}}
+|-
+|CB ||'''20'''||{{flagicon|GER}} [[Shkodran Mustafi]]
+|-
+|CB ||'''6''' ||{{flagicon|FRA}} [[Laurent Koscielny]] ([[Captain (association football)|c]])
+|-
+|RM ||'''24'''||{{flagicon|ESP}} [[Héctor Bellerín]] || {{yel|24}}
+|-
+|CM ||'''10'''||{{flagicon|ENG}} [[Jack Wilshere]] || {{yel|88}}
+|-
+|CM ||'''29'''||{{flagicon|SUI}} [[Granit Xhaka]]
+|-
+|LM ||'''18'''||{{flagicon|ESP}} [[Nacho Monreal]] || || {{suboff|26}}
+|-
+|RW ||'''11'''||{{flagicon|GER}} [[Mesut Özil]]
+|-
+|LW ||'''8''' ||{{flagicon|WAL}} [[Aaron Ramsey]] || {{yel|32}}|| {{suboff|73}}
+|-
+|CF ||'''14'''||{{flagicon|GAB}} [[Pierre-Emerick Aubameyang]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''33'''||{{flagicon|CZE}} [[Petr Čech]]
+|-
+|DF ||'''4''' ||{{flagicon|GER}} [[Per Mertesacker]]
+|-
+|DF ||'''31'''||{{flagicon|BIH}} [[Sead Kolašinac]] || || {{subon|26}}
+|-
+|MF ||'''30'''||{{flagicon|ENG}} [[Ainsley Maitland-Niles]]
+|-
+|MF ||'''35'''||{{flagicon|EGY}} [[Mohamed Elneny]]
+|-
+|FW ||'''17'''||{{flagicon|NGA}} [[Alex Iwobi]] || || {{subon|73}}
+|-
+|FW ||'''23'''||{{flagicon|ENG}} [[Danny Welbeck]] || || {{subon|65}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA}} [[Arsène Wenger]]
+|}
+|valign="top"|[[File:Arsenal vs Man City 2018-02-25.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CHI}} [[Claudio Bravo]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Kyle Walker]]
+|-
+|CB ||'''4''' ||{{flagicon|BEL}} [[Vincent Kompany]] ([[Captain (association football)|c]]) || {{yel|80}}
+|-
+|CB ||'''30'''||{{flagicon|ARG}} [[Nicolás Otamendi]]
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Danilo (footballer, born July 1991)|Danilo]]
+|-
+|CM ||'''8''' ||{{flagicon|GER}} [[İlkay Gündoğan]]
+|-
+|CM ||'''25'''||{{flagicon|BRA}} [[Fernandinho (footballer, born May 1985)|Fernandinho]] || {{yel|36}} || {{suboff|52}}
+|-
+|CM ||'''21'''||{{flagicon|ESP}} [[David Silva]]
+|-
+|RW ||'''17'''||{{flagicon|BEL}} [[Kevin De Bruyne]]
+|-
+|LW ||'''19'''||{{flagicon|GER}} [[Leroy Sané]] || || {{suboff|77}}
+|-
+|CF ||'''10'''||{{flagicon|ARG}} [[Sergio Agüero]] || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{flagicon|BRA}} [[Ederson (footballer, born 1993)|Ederson]]
+|-
+|DF ||'''5''' ||{{flagicon|ENG}} [[John Stones]]
+|-
+|DF ||'''14'''||{{flagicon|FRA}} [[Aymeric Laporte]]
+|-
+|MF ||'''20'''||{{flagicon|POR}} [[Bernardo Silva]] || || {{subon|52}}
+|-
+|MF ||'''35'''||{{flagicon|UKR}} [[Oleksandr Zinchenko (footballer)|Oleksandr Zinchenko]]
+|-
+|MF ||'''47'''||{{flagicon|ENG}} [[Phil Foden]] || || {{subon|89}}
+|-
+|FW ||'''33'''||{{flagicon|BRA}} [[Gabriel Jesus]] || || {{subon|77}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|style="width:40%; vertical-align:top;"|
+'''Man of the Match:'''
+<br />[[Vincent Kompany]] (Manchester City)<ref name="motm" />
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referees">{{cite news |url=https://www.efl.com/news/2018/february/match-officials-confirmed-for-carabao-cup-final/ |title=Match Officials confirmed for Carabao Cup Final |website=EFL.com |publisher=English Football League |date=13 February 2018 |access-date=24 February 2018}}</ref>
+<br />Gary Beswick ([[Durham County Football Association|Durham]])
+<br />Adam Nunn ([[Wiltshire Football Association|Wiltshire]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referees" />
+<br />[[Graham Scott (referee)|Graham Scott]] ([[Berks & Bucks Football Association|Berks & Bucks]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="referees" />
+<br />Ian Hussin ([[Liverpool County Football Association|Liverpool]])
+<br />'''[[Video assistant referee]]:'''<ref name="referees" />
+<br />[[Neil Swarbrick]] ([[Lancashire County Football Association|Lancashire]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="referees" />
+<br />Peter Kirkup ([[Northamptonshire Football Association|Northamptonshire]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref>{{cite web |url=https://www.efl.com/clubs-and-competitions/carabao-cup/about-the-carabao-cup/carabao-cup-rules--regulations/ |title=Regulations |website=EFL.com |publisher=English Football League |access-date=24 February 2018}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] (ABBA) if scores still level
+*Seven named substitutes, of which up to three may be used; a fourth substituted is allowed in extra time
+|}
+
+==See also==
+* [[2018 FA Cup final]]
+
+==References==
+{{Reflist}}
+
+{{EFL Cup seasons}}
+{{2017–18 in English football}}
+{{Manchester City F.C. matches}}
+{{Arsenal F.C. matches}}
+
+[[Category:EFL Cup finals|2018]]
+[[Category:2017–18 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:2018 in sport in London]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:February 2018 sports events in the United Kingdom|EFL Cup]]
+[[Category:Manchester City F.C. matches|League Cup final 2018]]
+[[Category:Arsenal F.C. matches|League Cup final 2018]]

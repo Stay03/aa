@@ -1,0 +1,603 @@
+{{short description|2019 edition of the FIFA Club World Cup}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2019
+| other_titles   = FIFA Club World Cup Qatar 2019<br>presented by Alibaba Cloud<br>كأس العالم للأندية لكرة القدم قطر 2019
+| image          = 2019 FIFA Club World Cup.svg<!--2019 FIFA Club World Cup.svg has the wrong color per https://api.fifa.com/api/v1/picture/tournaments-sq-6/283878, the raw source file and is uneditable since the SVG codes are empty.-->
+| size           = {{Logo size|FIFA trophy}}
+| country        = Qatar
+| dates          = 11–21 December
+| num_teams      = 7
+| confederations = 6
+| venues         = 2
+| cities         = 1
+| champion_other = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+| count          = 1
+| second_other   = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+| third_other    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| fourth_other   = {{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+| matches        = 8
+| goals          = 30
+| attendance     = {{#expr: <!--First round--> 7047 + <!--Second round--> 7726 + 4878 + <!--Match for fifth place--> 15037 + <!--Semi-finals--> 21588 + 45416 + <!--Match for third place--> 19318 + <!--Final--> 45416}}
+| top_scorer     = {{nowrap|{{flagicon|ALG}} [[Baghdad Bounedjah]]<br>{{flagicon|LBY}} [[Hamdou Elhouni]]<br>(3 goals each)}}
+| player         = {{flagicon|EGY}} [[Mohamed Salah]]
+| fair_play      = {{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+| prevseason     = [[2018 FIFA Club World Cup|2018]]
+| nextseason     = [[2020 FIFA Club World Cup|2020]]
+}}
+The '''2019 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup Qatar 2019 presented by Alibaba Cloud''' for sponsorship reasons)<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/y=2015/m=12/news=alibaba-e-auto-signs-as-presenting-partner-of-the-fifa-club-world-cup-2743056.html |archive-url=https://web.archive.org/web/20151211021029/http://www.fifa.com/clubworldcup/news/y=2015/m=12/news=alibaba-e-auto-signs-as-presenting-partner-of-the-fifa-club-world-cup-2743056.html |url-status=dead |archive-date=11 December 2015 |title=Alibaba E-Auto signs as Presenting Partner of the FIFA Club World Cup |publisher=FIFA.com |date=9 December 2015}}</ref> was the 16th edition of the [[FIFA Club World Cup]], a [[FIFA]]-organised international club [[association football|football]] tournament between the winners of the six continental confederations, as well as the host nation's league champions. The tournament was hosted by [[Qatar]] between 11 and 21 December 2019, taking place at two venues in the city of [[Al Rayyan (city)|Al Rayyan]].<ref name="dates">{{cite news |url=https://www.fifa.com/news/fifa-club-world-cup-qatar-2019-to-be-played-from-11-to-21-december |title=FIFA Club World Cup Qatar 2019 to be played from 11 to 21 December |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=26 July 2019 |access-date=27 July 2019}}</ref>
+
+[[Real Madrid CF|Real Madrid]], winners of the last three Club World Cup titles, were unable to defend their title, having been eliminated in the round of 16 of the [[2018–19 UEFA Champions League]]. The eventual winners of that competition, [[Liverpool F.C.|Liverpool]], went on to win the Club World Cup for the first time, beating Mexican side [[C.F. Monterrey|Monterrey]] 2–1 in the semi-finals, before requiring [[Overtime (sports)#Association football|extra time]] to claim a 1–0 win over [[CR Flamengo|Flamengo]] in the [[2019 FIFA Club World Cup final|final]].<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/firmino-writes-liverpool-into-club-world-cup-history |title=Firmino writes Liverpool into Club World Cup history |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 December 2019 |access-date=21 December 2019}}</ref>
+
+==Host appointment==
+With proposals for an expanded Club World Cup, FIFA delayed the announcement of a host. A host was to be announced by FIFA on 15 March 2019, though this was later delayed.<ref>{{cite web |url=https://digitalhub.fifa.com/m/52a807370ad34108/original/vppwxetxo3lymgvh0klu-pdf.pdf |title=Agenda of meeting no. 9 of the FIFA Council |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=7 March 2019 |access-date=3 June 2019 |url-status=live |archive-url=https://web.archive.org/web/20190404155411/https://img.fifa.com/image/upload/vppwxetxo3lymgvh0klu.pdf |archive-date=4 April 2019}}</ref> On 28 May 2019,<ref>{{cite news |url=https://www.fifa.com/about-fifa/who-we-are/news/fifa-council-meeting-agenda-now-available-x4052 |title=FIFA Council meeting agenda now available |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=28 May 2019 |access-date=3 June 2019 |url-status=live |archive-url=https://web.archive.org/web/20190603070653/https://www.fifa.com/about-fifa/who-we-are/news/fifa-council-meeting-agenda-now-available-x4052 |archive-date=3 June 2019}}</ref> FIFA announced that the 2019 and 2020 tournament host would be appointed at the [[FIFA Council]] meeting in [[Paris]], France, on 3 June 2019.<ref>{{cite web |url=https://digitalhub.fifa.com/m/2b1118e9af8c4648/original/jajzpnwxmur1ru2szoo6-pdf.pdf |title=Agenda of meeting no. 10 of the FIFA Council |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=28 May 2019 |access-date=3 June 2019 |url-status=live |archive-url=https://web.archive.org/web/20190603070936/https://resources.fifa.com/image/upload/agenda-of-meeting-no10-of-the-fifa-council.pdf?cloudid=jajzpnwxmur1ru2szoo6 |archive-date=3 June 2019}}</ref>
+
+Qatar was appointed as the host for the 2019 and 2020 tournaments on 3 June 2019, serving as test events ahead of their hosting of the [[2022 FIFA World Cup]]. The Club World Cup retained its original format ahead of the expected revamp in [[2021 FIFA Club World Cup|2021]],<ref>{{cite press release |url=https://www.fifa.com/about-fifa/who-we-are/news/fifa-council-appoints-qatar-as-host-of-the-fifa-club-world-cup-in-2019-and-2020 |title=FIFA Council appoints Qatar as host of the FIFA Club World Cup in 2019 and 2020 |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=3 June 2019 |access-date=3 June 2019 |url-status=live |archive-url=https://web.archive.org/web/20190603160422/https://www.fifa.com/about-fifa/who-we-are/news/fifa-council-appoints-qatar-as-host-of-the-fifa-club-world-cup-in-2019-and-2020 |archive-date=3 June 2019}}</ref> but due to the [[COVID-19 pandemic]] the expansion only took place in [[2025 FIFA Club World Cup|2025]].
+
+==Qualified teams==
+{{Location map+|World|width=600|float=right|caption=Location of the teams participating in the 2019 FIFA Club World Cup.|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-22.908333|long=-43.196389|label_size=80|label=[[CR Flamengo|Flamengo]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=53.430819|long=-2.960828|label_size=80|label=[[Liverpool F.C.|Liverpool]]|position=right}}
+<!--AFC-->
+{{Location map~|World|lat=24.729248|long=46.623661|label_size=80|label=[[Al Hilal SFC|Al-Hilal]]|position=bottom}}
+<!--CAF-->
+{{Location map~|World|lat=36.7479797|long=10.2726928|label_size=80|label=[[Espérance Sportive de Tunis|Espérance de Tunis]]|position=right}}
+<!--CONCACAF-->
+{{Location map~|World|lat=25.666667|long=-100.3|label_size=80|label=[[C.F. Monterrey|Monterrey]]|position=right}}
+<!--OFC-->
+{{Location map~|World|lat=-20.6941|long=164.9222|label_size=80|label=[[Hienghène Sport]]|position=left}}
+<!--Host-->
+{{Location map~|World|lat=25.26736|long=51.48425|label_size=80|label=[[Al Sadd SC|Al-Sadd]]|position=right}}
+}}
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Qualified date
+!Participation
+|-
+!colspan=5|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|[[CONMEBOL]]
+|Winners of the [[2019 Copa Libertadores]]
+|{{dts|2019|11|23|format=dmy}}<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/libertadores-final-report |title=Gabigol brace clinches Libertadores for Flamengo |publisher=FIFA.com |date=23 November 2019}}</ref>
+|Debut
+|-
+|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|[[UEFA]]
+|Winners of the [[2018–19 UEFA Champions League]]
+|{{dts|2019|6|1|format=dmy}}<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/liverpool-sink-spurs-for-sixth-european-crown |title=Liverpool sink Spurs for sixth European crown |publisher=FIFA.com |date=1 June 2019}}</ref>
+|2nd {{small|(Previous: [[2005 FIFA Club World Championship|2005]])}}
+|-
+!colspan=5|Entering in the [[#Second round|second round]]
+|-
+|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2019 AFC Champions League]]
+|{{dts|2019|11|24|format=dmy}}<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/afc-champions-league-final-report |title=Al Hilal fire themselves to the Club World Cup |publisher=FIFA.com |date=24 November 2019}}</ref>
+|Debut
+|-
+|{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2018–19 CAF Champions League]]
+|{{dts|2019|8|7|format=dmy}}{{refn|group=note|The second leg of the [[2019 CAF Champions League Final|final]] was played on 31 May 2019. However, the match was abandoned and Espérance de Tunis were initially declared champions by the referee. However, on 5 June 2019 the CAF Executive Committee ordered the match to be replayed, until a decision by [[Court of Arbitration for Sport|CAS]] on 31 July 2019 ordered the decision to be taken by the CAF Disciplinary Board, who on 7 August 2019 restored the title to Espérance de Tunis.}}
+|3rd {{small|(Previous: [[2011 FIFA Club World Cup|2011]], [[2018 FIFA Club World Cup|2018]])}}
+|-
+|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|[[CONCACAF]]
+|Winners of the [[2019 CONCACAF Champions League]]
+|{{dts|2019|5|1|format=dmy}}<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/monterrey-crowned-continental-kings-for-fourth-time |title=Monterrey crowned continental kings for fourth time |publisher=FIFA.com |date=2 May 2019}}</ref>
+|4th {{small|(Previous: [[2011 FIFA Club World Cup|2011]], [[2012 FIFA Club World Cup|2012]], [[2013 FIFA Club World Cup|2013]])}}
+|-
+!colspan=5|Entering in the [[#First round|first round]]
+|-
+|{{fbaicon|NCL}} [[Hienghène Sport]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2019 OFC Champions League]]
+|{{dts|2019|5|11|format=dmy}}<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/hienghene-claim-historic-ofc-title |title=Hienghene claim historic OFC title |publisher=FIFA.com |date=11 May 2019}}</ref>
+|Debut
+|-
+|{{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]
+|[[Asian Football Confederation|AFC]] ([[Qatar Football Association|host]])
+|Winners of the [[2018–19 Qatar Stars League]]
+|{{dts|2019|8|13|format=dmy}}{{refn|group=note|name=host|[[Al Sadd SC|Al-Sadd]] won the [[2018–19 Qatar Stars League]] on 4 April 2019. Their participation in the 2019 FIFA Club World Cup was officially confirmed on 13 August 2019 after [[Al-Duhail SC|Al-Duhail]] became the last team from Qatar other than Al-Sadd to be eliminated from the [[2019 AFC Champions League]]. Al-Sadd themselves were eliminated from the 2019 AFC Champions League on 22 October 2019, confirming their first round entrance.}}
+|2nd {{small|(Previous: [[2011 FIFA Club World Cup|2011]])}}
+|}
+'''Notes'''
+{{reflist|group=note}}
+
+== Venues ==
+The tournament was held in the city of [[Al Rayyan (city)|Al Rayyan]], at [[Jassim bin Hamad Stadium]] and [[Khalifa International Stadium]], which previously hosted matches at the [[2011 AFC Asian Cup]], including the [[2011 AFC Asian Cup Final|final]] for the latter. A third venue in Al Rayyan, [[Education City Stadium]], was also originally planned to host matches during the tournament, including the final.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/education-city-stadium-to-host-fifa-club-world-cup-qatar-2019tm-final |archive-url=https://web.archive.org/web/20190930082950/https://www.fifa.com/clubworldcup/news/education-city-stadium-to-host-fifa-club-world-cup-qatar-2019tm-final |url-status=dead |archive-date=30 September 2019 |title=Education City Stadium to host FIFA Club World Cup Qatar 2019 final |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=30 September 2019 |access-date=30 September 2019}}</ref> In December 2019, FIFA moved all three matches (the second semi-final on 18 December and the third place match and final on 21 December) that were due to be played at the Education City Stadium to Khalifa International Stadium after the opening of the Education City Stadium was postponed to early 2020.<ref>{{cite web |title=New FIFA Club World Cup champions to be crowned at Khalifa International Stadium |url=https://www.fifa.com/clubworldcup/news/new-fifa-club-world-cuptm-champions-to-be-crowned-at-khalifa-international-stadi |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=7 December 2019 |access-date=7 December 2019}}</ref>
+
+{| class="wikitable" style="text-align:center;margin:1em auto;"
+|-
+! colspan="2" |[[Al Rayyan (city)|Al Rayyan]]<br /><small>([[Doha Metropolitan Area|Doha Area]])</small>
+! rowspan="4" |{{location map+|Qatar|float=center|width=300|caption=Location of the host city of the 2019 FIFA Club World Cup.|places={{Location map~|Qatar|lat=25.25|long=51.4|label=[[Al Rayyan (city)|Al Rayyan]]|position=left}}}}
+|-
+| [[Jassim bin Hamad Stadium]]
+|[[Khalifa International Stadium]]
+|-
+| Capacity: '''15,000'''
+|Capacity: '''45,857'''
+|-
+| [[File:Jassim_bin_Hamad_Stadium.jpg|200x200px]]
+|[[File:Khalifa-newStadium-Doha-2016-PTFE roof.jpg|195x195px]]
+|}
+
+==Match officials==
+Five [[referee (association football)|referee]]s, ten [[assistant referee (association football)|assistant referee]]s, and six [[video assistant referee]]s were appointed for the tournament.<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/match-officials-for-the-fifa-club-world-cup-qatar-2019tm-appointed |title=Match officials for the FIFA Club World Cup Qatar 2019 appointed |publisher=FIFA.com |date=14 November 2019|access-date=14 November 2019}}</ref><ref>{{cite web |url=http://fifa.pressfire.net/media/newsletter/List-of-Appointed-Match-Officials-FIFA-CWC-Qatar-2019.pdf |title=FIFA Club World Cup Qatar 2019 – List of Appointed Match Officials |publisher=FIFA.com |date=14 November 2019|access-date=14 November 2019}}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+!Video assistant referee
+|-
+|[[Asian Football Confederation|AFC]]
+|{{fbaicon|QAT}} [[Abdulrahman Al-Jassim]]
+|{{fbaicon|QAT}} Taleb Al-Marri<br>{{fbaicon|QAT}} Saoud Al-Maqaleh
+|{{fbaicon|CHN}} [[Fu Ming]]
+|-
+|[[Confederation of African Football|CAF]]
+|{{fbaicon|ALG}} [[Mustapha Ghorbal]]
+|{{fbaicon|EGY}} Mahmoud Abouelregal<br>{{fbaicon|ALG}} Mokrane Gourari
+|{{fbaicon|GAM}} [[Bakary Gassama]]
+|-
+|[[CONCACAF]]
+|{{fbaicon|USA}} [[Ismail Elfath]]
+|{{fbaicon|USA}} Kyle Atkins<br>{{fbaicon|USA}} Corey Parker
+|{{fbaicon|IRL}} [[Alan Kelly (referee)|Alan Kelly]]
+|-
+|[[CONMEBOL]]
+|{{fbaicon|CHI}} [[Roberto Tobar]]
+|{{fbaicon|CHI}} Christian Schiemann<br>{{fbaicon|CHI}} Claudio Ríos Ortiz
+|{{fbaicon|URU}} [[Esteban Ostojich]]
+|-
+|[[UEFA]]
+|{{fbaicon|ROU}} [[Ovidiu Hațegan]]
+|{{fbaicon|ROU}} Octavian Șovre<br>{{fbaicon|ROU}} Sebastian Gheorghe
+|{{fbaicon|ESP}} [[Juan Martínez Munuera]]<br>{{fbaicon|FRA}} [[Benoît Millot]]
+|}
+
+One support referee was also named for the tournament.
+
+{| class="wikitable"
+|-
+!Confederation
+!Support referee
+|-
+|[[Oceania Football Confederation|OFC]]
+|{{fbaicon|TAH}} [[Abdelkader Zitouni]]
+|}
+
+==Squads==
+{{main|2019 FIFA Club World Cup squads}}
+
+Each team had to name a 23-man squad (three of whom must be goalkeepers). Injury replacements were allowed until 24 hours before the team's first match.<ref name="regulations">{{cite web |url=https://digitalhub.fifa.com/m/2faa8bad3c5c2f09/original/qnn0q2uvjare9bkl9lph-pdf.pdf |title=FIFA Club World Cup Qatar 2019 Regulations}}</ref>
+
+==Matches==
+The draw of the tournament was held on 16 September 2019, 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]), at the FIFA headquarters in [[Zürich]], to decide the matchups of the second round (between the first round winner and teams from AFC, CAF, and CONCACAF), and the opponents of the two second round winners in the semi-finals (against teams from CONMEBOL and UEFA).<ref>{{cite web |url=https://www.fifa.com/clubworldcup/news/follow-the-fifa-club-world-cup-draw |title=Follow the FIFA Club World Cup draw |publisher=FIFA.com |date=12 September 2019}}</ref> At the time of the draw, the identity of the teams from AFC and CONMEBOL were not known.<ref>{{cite news |url=https://www.fifa.com/about-fifa/who-we-are/news/organising-committee-approves-draw-procedures-for-fifa-club-world-cup-qatar-2019 |title=Organising Committee approves draw procedures for FIFA Club World Cup Qatar 2019 |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=12 September 2019 |access-date=14 September 2019}}</ref><ref>{{cite web |url=https://digitalhub.fifa.com/m/2d3866d73f5d4f7/original/ebideh6bw6meftkgyo9q-pdf.pdf |title=Draw Procedures – FIFA Club World Cup Qatar 2019 |publisher=FIFA.com}}</ref>
+
+If a match was tied after normal playing time:<ref name="regulations"/>
+*For elimination matches, [[extra time (association football)|extra time]] was played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] was held to determine the winner.
+*For the matches for fifth place and third place, no extra time was played, and a penalty shoot-out was held to determine the winner.
+
+{{7TeamBracket-StepladderToSF
+| style       = 5
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#First round|First round]]
+| RD2         = [[#Second round|Second round]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD3b        = [[#Match for fifth place|Match for fifth place]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- First round -->
+| RD1-text1    = 11 December – [[Jassim bin Hamad Stadium|Al Rayyan (JBHS)]]
+| RD1-team1    = {{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]] {{aet}}
+| RD1-score1   = 3
+| RD1-team2    = {{fbaicon|NCL}} [[Hienghène Sport]]
+| RD1-score2   = 1
+
+<!-- Second round -->
+| RD2-text1    = 14 December – [[Jassim bin Hamad Stadium|Al Rayyan (JBHS)]]
+| RD2-team1    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| RD2-score1   = 3
+| RD2-team2    = {{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]
+| RD2-score2   = 2
+
+| RD2-text2    = 14 December – [[Jassim bin Hamad Stadium|Al Rayyan (JBHS)]]
+| RD2-team3    = {{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+| RD2-score3   = 1
+| RD2-team4    = {{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+| RD2-score4   = 0
+
+<!-- Semi-finals -->
+| RD3-text1    = 18 December – [[Khalifa International Stadium|Al Rayyan (KIS)]]
+| RD3-team1    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+| RD3-score1   = 1
+| RD3-team2    = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+| RD3-score2   = 2
+
+| RD3-text2    = 17 December – [[Khalifa International Stadium|Al Rayyan (KIS)]]
+| RD3-team3    = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+| RD3-score3   = 3
+| RD3-team4    = {{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+| RD3-score4   = 1
+
+<!-- Final -->
+| RD4-text1    = 21 December – [[Khalifa International Stadium|Al Rayyan (KIS)]]
+| RD4-team1    = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]] {{aet}}
+| RD4-score1   = 1
+| RD4-team2    = {{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+| RD4-score2   = 0
+
+<!-- Match for fifth place -->
+| RD3-text3    = 17 December – [[Khalifa International Stadium|Al Rayyan (KIS)]]
+| RD3-team5    = {{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]
+| RD3-score5   = 2
+| RD3-team6    = {{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+| RD3-score6   = 6
+
+<!-- Match for third place -->
+| RD4-text2    = 21 December – [[Khalifa International Stadium|Al Rayyan (KIS)]]
+| RD4-team3    = {{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]] {{pso}}
+| RD4-score3   = 2 (4)
+| RD4-team4    = {{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+| RD4-score4   = 2 (3)
+}}
+
+All times are local, [[Arabia Standard Time|AST]] ([[UTC+03:00|UTC+3]]).<ref>{{cite web |url=https://digitalhub.fifa.com/m/6f58d8eff6eb3ddd/original/ilg5cnmibx2sdzyim1ww-pdf.pdf |title=FIFA Club World Cup Qatar 2019 Match Schedule |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=30 September 2019 |access-date=30 September 2019}}</ref>
+
+===First round===
+{{Football box
+|id=Match 1
+|date={{Start date|2019|12|11|df=y}}
+|time=20:30
+|team1=[[Al Sadd SC|Al-Sadd]] {{fbaicon|QAT}}
+|score=3–1
+|aet=yes
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/qatar2019/match-center/400089363
+|team2={{fbaicon|NCL}} [[Hienghène Sport]]
+|goals1=
+*[[Baghdad Bounedjah|Bounedjah]] {{goal|26}}
+*[[Abdelkarim Hassan|Hassan]] {{goal|100}}
+*[[Ró-Ró]] {{goal|114}}
+|goals2=
+*Roïné {{goal|46}}
+|stadium=[[Jassim bin Hamad Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance=7,047<ref>{{cite web |url=https://digitalhub.fifa.com/m/5b115b531875fa1a/original/lgltkj4iji9gsmydzfvg-pdf.pdf |title=Match report – First round – Al-Sadd SC v Hienghène Sport |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=11 December 2019 |access-date=11 December 2019}}</ref>
+|referee=[[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+}}
+
+===Second round===
+{{Football box
+|id=Match 3
+|date={{Start date|2019|12|14|df=y}}
+|time=17:00
+|team1=[[Al Hilal SFC|Al-Hilal]] {{fbaicon|KSA}}
+|score=1–0
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/qatar2019/match-center/400089358
+|team2={{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|goals1=
+*[[Bafétimbi Gomis|Gomis]] {{goal|73}}
+|goals2=
+|stadium=[[Jassim bin Hamad Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance=7,726<ref>{{cite web |url=https://digitalhub.fifa.com/m/65b78346033d5de9/original/nvqnq8poezyf54pej7rc-pdf.pdf |title=Match report – Second round – Al Hilal SFC v ES Tunis |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=14 December 2019 |access-date=14 December 2019}}</ref>
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+}}
+----
+{{Football box
+|id=Match 2
+|date={{Start date|2019|12|14|df=y}}
+|time=20:30
+|team1=[[C.F. Monterrey|Monterrey]] {{fbaicon|MEX}}
+|score=3–2
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/qatar2019/match-center/400089357
+|team2={{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]
+|goals1=
+*[[Leonel Vangioni|Vangioni]] {{goal|23}}
+*[[Rogelio Funes Mori|Funes Mori]] {{goal|45+1}}
+*[[Carlos Alberto Rodríguez|Rodríguez]] {{goal|77}}
+|goals2=
+*[[Baghdad Bounedjah|Bounedjah]] {{goal|66}}
+*[[Abdelkarim Hassan|Hassan]] {{goal|89}}
+|stadium=[[Jassim bin Hamad Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance=4,878<ref>{{cite web |url=https://digitalhub.fifa.com/m/3a998778a6379cde/original/meyfutxxzcm1bvdlrf7l-pdf.pdf |title=Match report – Second round – CF Monterrey v Al-Sadd SC |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=14 December 2019 |access-date=14 December 2019}}</ref>
+|referee=[[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+}}
+
+===Match for fifth place===
+{{Football box
+|id=Match 4
+|date={{Start date|2019|12|17|df=y}}
+|time=17:30
+|team1=[[Al Sadd SC|Al-Sadd]] {{fbaicon|QAT}}
+|score=2–6
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/qatar2019/match-center/400089359
+|team2={{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|goals1=
+*[[Baghdad Bounedjah|Bounedjah]] {{goal|32|pen.}}
+*[[Hassan Al-Haydos|Al-Haydos]] {{goal|49|pen.}}
+|goals2=
+*[[Hamdou Elhouni|Elhouni]] {{goal|6||42||74}}
+*[[Anice Badri|Badri]] {{goal|13||25|pen.}}
+*[[Sameh Derbali|Derbali]] {{goal|87}}
+|stadium=[[Khalifa International Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance=15,037<ref>{{cite web |url=https://resources.fifa.com/image/upload/eng-04-1217-als-est-fulltime-pdf-3062768.pdf?cloudid=wr69djerv1pbhpuo2rma |archive-url=https://web.archive.org/web/20191217180350/https://resources.fifa.com/image/upload/eng-04-1217-als-est-fulltime-pdf-3062768.pdf?cloudid=wr69djerv1pbhpuo2rma |url-status=dead |archive-date=17 December 2019 |title=Match report – Match for fifth place – Al Sadd SC v Espérance Tunis |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=17 December 2019 |access-date=17 December 2019}}</ref>
+|referee=[[Abdelkader Zitouni]] ([[Tahitian Football Federation|Tahiti]])
+}}
+
+===Semi-finals===
+{{Football box
+|id=Match 5
+|date={{Start date|2019|12|17|df=y}}
+|time=20:30
+|team1=[[CR Flamengo|Flamengo]] {{fbaicon|BRA}}
+|score=3–1
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/qatar2019/match-center/400089360
+|team2={{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|goals1=
+*[[Giorgian De Arrascaeta|De Arrascaeta]] {{goal|49}}
+*[[Bruno Henrique Pinto|Bruno Henrique]] {{goal|78}}
+*[[Ali Al-Bulaihi|Al-Bulaihi]] {{goal|82|o.g.}}
+|goals2=
+*[[Salem Al-Dawsari|Al-Dawsari]] {{goal|18}}
+|stadium=[[Khalifa International Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance=21,588<ref>{{cite web |url=https://digitalhub.fifa.com/m/46c785355fcb6020/original/cvnu5dd3yxrkfvbya7qg-pdf.pdf |title=Match report – Semi-finals – CR Flamengo v Al Hilal SFC |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=17 December 2019 |access-date=17 December 2019}}</ref>
+|referee=[[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+}}
+----
+{{Football box
+|id=Match 6
+|date={{Start date|2019|12|18|df=y}}
+|time=20:30
+|team1=[[C.F. Monterrey|Monterrey]] {{fbaicon|MEX}}
+|score=1–2
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/qatar2019/match-center/400089364
+|team2={{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1=
+*[[Rogelio Funes Mori|Funes Mori]] {{goal|14}}
+|goals2=
+*[[Naby Keïta|Keïta]] {{goal|12}}
+*[[Roberto Firmino|Firmino]] {{goal|90+1}}
+|stadium=[[Khalifa International Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance=45,416<ref>{{cite web |url=https://digitalhub.fifa.com/m/6d77a28d400b451d/original/ajbjijilr35dcy0rniki-pdf.pdf |title=Match report – Semi-finals – CF Monterrey v Liverpool FC |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=18 December 2019 |access-date=18 December 2019}}</ref>
+|referee=[[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+}}
+
+===Match for third place===
+{{Football box
+|id=Match 7
+|date={{Start date|2019|12|21|df=y}}
+|time=17:30
+|team1=[[C.F. Monterrey|Monterrey]] {{fbaicon|MEX}}
+|score=2–2
+|report=https://www.fifa.com/tournaments/mens/clubworldcup/qatar2019/match-center/400089361
+|team2={{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|goals1=
+*[[Alfonso González|A. González]] {{goal|55}}
+*[[Maximiliano Meza (footballer, born 1992)|Meza]] {{goal|60}}
+|goals2=
+*[[Carlos Eduardo de Oliveira Alves|Carlos Eduardo]] {{goal|35}}
+*[[Bafétimbi Gomis|Gomis]] {{goal|66}}
+|stadium=[[Khalifa International Stadium]], [[Al Rayyan (city)|Al Rayyan]]
+|attendance=19,318<ref>{{cite web |url=https://resources.fifa.com/image/upload/eng-07-1221-mon-hil-fulltime-pdf-3063454.pdf?cloudid=q9unaf8gkqs9yyu7tz8o |archive-url=https://web.archive.org/web/20191221233223/https://resources.fifa.com/image/upload/eng-07-1221-mon-hil-fulltime-pdf-3063454.pdf?cloudid=q9unaf8gkqs9yyu7tz8o |url-status=dead |archive-date=21 December 2019 |title=Match report – Match for third place – CF Monterrey v Al Hilal SFC |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=21 December 2019 |access-date=21 December 2019}}</ref>
+|referee=[[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|penalties1=
+*[[Jonathan González (footballer, born 1999)|J. González]] {{pengoal}}
+*[[Stefan Medina|Medina]] {{pengoal}}
+*[[Rogelio Funes Mori|Funes Mori]] {{pengoal}}
+*[[Johan Vásquez (footballer, born 1998)|Vásquez]] {{penmiss}}
+*[[Luis Cárdenas (footballer)|Cárdenas]] {{pengoal}}
+|penaltyscore=4–3
+|penalties2=
+*{{pengoal}} [[Bafétimbi Gomis|Gomis]]
+*{{pengoal}} [[Sebastian Giovinco|Giovinco]]
+*{{penmiss}} [[Carlos Eduardo de Oliveira Alves|Carlos Eduardo]]
+*{{pengoal}} [[Jang Hyun-soo]]
+*{{penmiss}} [[Mohamed Kanno|Kanno]]
+}}
+
+===Final===
+{{main|2019 FIFA Club World Cup final}}
+
+{{:2019 FIFA Club World Cup final}}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|rowspan=2|1
+|style="text-align:left"|{{flagicon|ALG}} [[Baghdad Bounedjah]]
+|style="text-align:left"|{{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]
+|rowspan=2|3
+|-
+|style="text-align:left"|{{flagicon|LBY}} [[Hamdou Elhouni]]
+|style="text-align:left"|{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|-
+|rowspan=5|3
+|style="text-align:left"|{{flagicon|TUN}} [[Anice Badri]]
+|style="text-align:left"|{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|rowspan=5|2
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Roberto Firmino]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Rogelio Funes Mori]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|FRA}} [[Bafétimbi Gomis]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|QAT}} [[Abdelkarim Hassan]]
+|style="text-align:left"|{{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]
+|-
+|rowspan=13|8
+|style="text-align:left"|{{flagicon|BRA}} [[Bruno Henrique Pinto|Bruno Henrique]]
+|style="text-align:left"|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|rowspan=13|1
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Carlos Eduardo de Oliveira Alves|Carlos Eduardo]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|KSA}} [[Salem Al-Dawsari]]
+|style="text-align:left"|{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|-
+|style="text-align:left"|{{flagicon|URU}} [[Giorgian De Arrascaeta]]
+|style="text-align:left"|{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|-
+|style="text-align:left"|{{flagicon|TUN}} [[Sameh Derbali]]
+|style="text-align:left"|{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Alfonso González]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|QAT}} [[Hassan Al-Haydos]]
+|style="text-align:left"|{{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]
+|-
+|style="text-align:left"|{{flagicon|GUI}} [[Naby Keïta]]
+|style="text-align:left"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Carlos Alberto Rodríguez|Carlos Rodríguez]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+|style="text-align:left"|{{flagicon|NCL|football}} [[Antoine Roïné]]
+|style="text-align:left"|{{fbaicon|NCL}} [[Hienghène Sport]]
+|-
+|style="text-align:left"|{{flagicon|QAT}} [[Ró-Ró]]
+|style="text-align:left"|{{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Leonel Vangioni]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|}
+
+'''1 own goal'''
+*{{flagicon|KSA}} [[Ali Al-Bulaihi]] ([[Al Hilal SFC|Al-Hilal]], against [[CR Flamengo|Flamengo]])
+
+==Final ranking==
+<small>Per statistical convention in football, matches decided in [[Overtime (sports)#Association football|extra time]] were counted as wins and losses, while matches decided by [[Penalty shoot-out (association football)|penalty shoot-out]] were counted as draws.</small>
+
+{{#invoke:Sports table|main|style=WDL
+
+|source=[https://www.fifa.com/en/news/liverpool-on-top-as-doha-welcomes-the-world FIFA]
+|name_LIV={{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]] {{small|([[UEFA]])}}
+|name_FLA={{fbaicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] {{small|([[CONMEBOL]])}}
+|name_MON={{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]] {{small|([[CONCACAF]])}}
+|name_HIL={{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]] {{small|([[Asian Football Confederation|AFC]])}}
+|name_EST={{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]] {{small|([[Confederation of African Football|CAF]])}}
+|name_ALS={{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]] {{small|([[Asian Football Confederation|AFC]])}}
+|name_HIE={{fbaicon|NCL}} [[Hienghène Sport]] {{small|([[Oceania Football Confederation|OFC]])}}
+
+|update=complete
+|win_LIV=2 |draw_LIV=0 |loss_LIV=0 |gf_LIV=3 |ga_LIV=1
+|win_FLA=1 |draw_FLA=0 |loss_FLA=1 |gf_FLA=3 |ga_FLA=2
+|win_MON=1 |draw_MON=1 |loss_MON=1 |gf_MON=6 |ga_MON=6
+|win_HIL=1 |draw_HIL=1 |loss_HIL=1 |gf_HIL=4 |ga_HIL=5
+|win_EST=1 |draw_EST=0 |loss_EST=1 |gf_EST=6 |ga_EST=3
+|win_ALS=1 |draw_ALS=0 |loss_ALS=2 |gf_ALS=7 |ga_ALS=10 |status_ALS=H
+|win_HIE=0 |draw_HIE=0 |loss_HIE=1 |gf_HIE=1 |ga_HIE=3
+
+|team1=LIV |team2=FLA |team3=MON |team4=HIL |team5=EST |team6=ALS |team7=HIE
+|pos_LIV={{gold01}} |pos_FLA={{silver02}} |pos_MON={{bronze03}}
+}}
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+The following awards were given at the conclusion of the tournament. [[Mohamed Salah]] of [[Liverpool F.C.|Liverpool]] won the [[FIFA Club World Cup awards#Golden Ball|Golden Ball]] award, sponsored by [[Adidas]], which is jointly awarded with the [[Alibaba Group|Alibaba Cloud]] Award to recognise the player of the tournament.<ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/salah-headlines-qatar-2019-award-winners-3063647 |title=Salah headlines Qatar 2019 award winners |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 December 2019 |access-date=21 December 2019}}</ref>
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Alibaba Cloud]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|EGY}} [[Mohamed Salah]]<br />([[Liverpool F.C.|Liverpool]])
+|{{flagicon|BRA}} [[Bruno Henrique Pinto|Bruno Henrique]]<br />([[CR Flamengo|Flamengo]])
+|{{flagicon|BRA}} [[Carlos Eduardo de Oliveira Alves|Carlos Eduardo]]<br />([[Al Hilal SFC|Al-Hilal]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|}
+
+FIFA also named a [[man of the match]] for the best player in each game at the tournament.<ref>{{cite web |url=https://www.fifa.com/clubworldcup/awards/player-of-the-match |title=Alibaba Cloud Match Award winners |work=[[FIFA]] |year=2019 |access-date=12 February 2021 |url-status=dead |archive-url=https://web.archive.org/web/20191231184654/https://www.fifa.com/clubworldcup/awards/player-of-the-match |archive-date=31 December 2019}}</ref>
+
+{| class="wikitable sortable"
+|+ [[Alibaba Cloud]] Match Award
+|-
+! Match
+! Man of the match
+! Club
+! Opponent
+|-
+!1
+|{{flagicon|ALG}} [[Baghdad Bounedjah]]||{{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]||{{fbaicon|NCL}} [[Hienghène Sport]]
+|-
+!2
+|{{flagicon|MEX}} [[Rodolfo Pizarro]]||{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]||{{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]
+|-
+!3
+|{{flagicon|PER|football}} [[André Carrillo]]||{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]||{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|-
+!4
+|{{flagicon|LBY}} [[Hamdou Elhouni]]||{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]||{{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]
+|-
+!5
+|{{flagicon|BRA}} [[Bruno Henrique Pinto|Bruno Henrique]]||{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]||{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|-
+!6
+|{{flagicon|EGY}} [[Mohamed Salah]]||{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]||{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|-
+!7
+|{{flagicon|MEX}} [[Luis Cárdenas (footballer)|Luis Cárdenas]]||{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]||{{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]]
+|-
+!8
+|{{flagicon|BRA}} [[Roberto Firmino]]||{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]||{{fbaicon|BRA}} [[CR Flamengo|Flamengo]]
+|}
+
+==Criticism==
+In 2017, three member countries of the [[Gulf Cooperation Council]] along with Egypt [[Qatar diplomatic crisis|cut diplomatic ties]] with Qatar and criminalised trips for their citizens to the country. In October, FIFA sold 200 Club World Cup tickets to fans from Saudi Arabia and Bahrain, and 500 to those from the United Arab Emirates and Egypt. In November 2019, [[Human Rights Watch]] (HRW) criticised FIFA for neglecting fan welfare and selling tickets for the Club World Cup to those banned by their governments. HRW stated that FIFA should be aware of the risks that the football supporters can face in their countries and ensure that they are not exposed to the risk of harassment or prosecution.<ref>{{cite web |title=FIFA criticised over ticket sales to fans banned from Qatar |url=https://www.theticketingbusiness.com/2019/11/13/fifa-criticised-ticket-sales-fans-banned-qatar/ |website=TheTicketingBusiness |access-date=13 November 2019}}</ref>
+
+On 5 November 2019, [[Liverpool F.C.|Liverpool]] Chief Executive [[Peter Moore (businessman)|Peter Moore]] assured that the Qatari authorities had permitted [[LGBT]] football fans to attend the FIFA Club World Cup matches in December 2019.<ref>{{cite web |url=http://www.lgbtlife.co.uk/liverpool-assured-lgbt-fans-welcome-at-club-world-cup-in-qatar/ |title=Liverpool assured LGBT fans welcome at Club World Cup in Qatar|access-date=5 November 2019 |website=LGBT Life|archive-date=19 October 2020|archive-url=https://web.archive.org/web/20201019140407/http://79.170.44.8/inactive.cgi?site=lgbtlife.co.uk;key=b95dd70a45a311d85cb24a00faeff8fc|url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.fifa.com/tournaments/mens/clubworldcup/qatar2019 FIFA Club World Cup Qatar 2019], FIFA.com
+*[https://web.archive.org/web/20200113192615/https://www.fifa.com/clubworldcup/ Official website] (Archived)
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:Fifa Club World Cup 2019}}
+[[Category:2019 FIFA Club World Cup| ]]
+[[Category:2019 in men's association football|Club World Cup]]
+[[Category:Men's football competitions in Qatar|2019]]
+[[Category:2019–20 in Qatari football]]
+[[Category:December 2019 sports events in Asia]]
+[[Category:FIFA Club World Cup tournaments|2019]]
+[[Category:Sport in Al Rayyan]]
+[[Category:2019–20 in English men's football]]
+[[Category:2019 in Brazilian football]]
+[[Category:2019–20 in Saudi Arabian football]]
+[[Category:2019–20 in Mexican football]]
+[[Category:2019–20 in Tunisian football]]
+[[Category:2019 in New Caledonian football]]

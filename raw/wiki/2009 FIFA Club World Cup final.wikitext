@@ -1,0 +1,261 @@
+{{Use dmy dates|date=February 2021}}
+{{Infobox football match
+|              title = 2009 FIFA Club World Cup final
+|              image = 2009 FIFA Club World Cup Final match programme.jpg
+|            caption = Match programme cover
+|              event = [[2009 FIFA Club World Cup]]
+|              team1 = [[Estudiantes de La Plata|Estudiantes (LP)]]
+|   team1association = {{fbaicon|ARG|size=30px}}
+|         team1score = 1
+|              team2 = [[FC Barcelona|Barcelona]]
+|   team2association = {{fbaicon|ESP|size=30px}}
+|         team2score = 2
+|            details = After [[extra time]]
+|               date = 19 December 2009
+|            stadium = [[Zayed Sports City Stadium|Zayed Sports City]]
+|               city = [[Abu Dhabi]]<ref name="match_report"/>
+|            referee = [[Benito Archundia]] ([[Mexican Football Federation|Mexico]])<ref name="match_report"/>
+|         attendance = 43,050<ref name="match_report"/>
+|            weather = Partly cloudy<br />{{convert|22|°C|°F}}<br />60% [[humidity]]
+|           previous = [[2008 FIFA Club World Cup final|2008]]
+|               next = [[2010 FIFA Club World Cup final|2010]]
+}}
+The '''2009 FIFA Club World Cup final''' was the final match of the [[2009 FIFA Club World Cup]], a [[association football|football]] tournament for the champion clubs from each of [[FIFA]]'s six continental confederations. The match took place at the [[Zayed Sports City Stadium|Sheikh Zayed Stadium]], [[Abu Dhabi]], on 19 December 2009, and pitted [[Estudiantes de La Plata]] of Argentina, the [[CONMEBOL]] club champions, against [[FC Barcelona|Barcelona]] of Spain, the [[UEFA]] club champions.
+
+Estudiantes forward [[Mauro Boselli]] opened the scoring in the 37th minute, but [[Pedro (footballer, born 1987)|Pedro]] equalised for Barcelona with one minute left in regulation time. [[Lionel Messi]] scored the winning goal in the fifth minute of the second half of extra time, securing Barcelona's record sixth trophy for the 2009 calendar year.<ref>{{cite news |title=Barcelona beat Estudiantes to win the Club World Cup |url=https://news.bbc.co.uk/sport2/hi/football/8422908.stm |work=BBC Sport |publisher=BBC |date=19 December 2009 |access-date=21 December 2009 }}</ref><ref>{{cite news |title=Messi seals number six |url=http://soccernet.espn.go.com/report?id=285375&league=FIFA.CWC&cc=5739 |work=ESPN Soccernet |date=19 December 2009 |access-date=21 December 2009 |archive-date=20 October 2012 |archive-url=https://web.archive.org/web/20121020091844/http://soccernet.espn.go.com/report?id=285375&league=FIFA.CWC&cc=5739 |url-status=dead }}</ref>
+
+==Road to final==
+{| class="wikitable"
+|-
+!width=300|{{fbaicon|ARG}} [[Estudiantes de La Plata|Estudiantes (LP)]]
+!Team
+!width=300|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=center|[[CONMEBOL]]
+!Confederation
+|align=center|[[UEFA]]
+|-
+|align=center|Winner of the [[2009 Copa Libertadores]]
+!Qualification
+|align=center|Winner of the [[2008–09 UEFA Champions League]]
+|-
+|align=center|Bye
+![[2009 FIFA Club World Cup#Play-off for Quarter-finals|Play-off round]]
+|align=center|Bye
+|-
+|align=center|Bye
+![[2009 FIFA Club World Cup#Quarter-finals|Quarter-finals]]
+|align=center|Bye
+|-
+|align=center|'''2–1''' v. {{fbaicon|KOR|1997}} [[Pohang Steelers]]
+![[2009 FIFA Club World Cup#Semi-finals|Semi-finals]]
+|align=center|'''3–1''' v. {{fbaicon|MEX}} [[Atlante F.C.|Atlante]]
+|}
+
+==Match==
+
+===Details===
+{{multiple image
+|align = left
+|direction =  
+|total_width = 400
+|image1 = Veron Corener.JPG
+|image2 = Xavi Corner.JPG
+|footer = Two moments of the match, with both teams taking a corner kick: [[Juan Sebastián Verón]] for Estudiantes on the left and [[Xavi (footballer, born 1980)|Xavi]] for Barcelona on the right.
+}}
+{{football box
+|date=19 December 2009
+|time=20:00 [[UTC+04:00|UTC+4]]
+|team1=[[Estudiantes de La Plata|Estudiantes (LP)]] {{fbaicon|ARG}}
+|score=1–2
+|aet=yes
+|report=https://www.fifa.com/clubworldcup/matches/round=252913/match=300111971/report.html
+|team2={{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1=[[Mauro Boselli|Boselli]] {{goal|37}}
+|goals2=[[Pedro (footballer, born 1987)|Pedro]] {{goal|89}}<br />[[Lionel Messi|Messi]] {{goal|110}}
+|stadium=[[Zayed Sports City Stadium|Zayed Sports City]], [[Abu Dhabi]]
+|attendance=43,050<ref name="match_report">{{cite web |title=Match Report |url=https://www.fifa.com/mm/document/tournament/competition/01/15/07/65/08_1219_arg-esp_fulltime.pdf|archive-url=https://web.archive.org/web/20131023163616/http://www.fifa.com/mm/document/tournament/competition/01/15/07/65/08%5f1219%5farg-esp%5ffulltime.pdf|url-status=dead|archive-date=23 October 2013|work=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=28 May 2012 }}</ref>
+|referee=[[Benito Archundia]] ([[Mexican Football Federation|Mexico]])<ref name="match_report"/>
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la  =_edelp2008A 
+ |pattern_b   = _edelp2009mdc
+ |pattern_ra  =_edelp2008A 
+ |pattern_sh  = 
+ |pattern_so  =_edelp09a 
+ |leftarm     = FFFFFF
+ |body        = FFFFFF
+ |rightarm    = FFFFFF
+ |shorts      = FFFFFF
+ |socks       = FFFFFF
+ |title       = {{nowrap|Estudiantes (LP)}}
+}}
+|{{Football kit
+ |pattern_la  = _barcelona0910a
+ |pattern_b   = _barcelona0910a
+ |pattern_ra  = _barcelona0910a
+ |pattern_sh  = _barcelona0910a
+ |pattern_so  = _barcelona0910a
+ |leftarm     = FF8880
+ |body        = FF8880
+ |rightarm    = FF8880
+ |shorts      = 082567
+ |socks       = FF543D
+ |title       = Barcelona
+}}
+|}
+
+{| width=100%
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|ARG}} [[Damián Albil]]
+|-
+|CB ||'''2''' ||{{flagicon|ARG}} [[Leandro Desábato]] || {{yel|119}}
+|-
+|CB ||'''16'''||{{flagicon|ARG}} [[Germán Ré]] || || {{suboff|90+1}}
+|-
+|CB ||'''3''' ||{{flagicon|ARG}} [[Christian Cellay]]
+|-
+|RM ||'''13'''||{{flagicon|URU}} [[Juan Manuel Díaz]] || {{yel|45+2}}
+|-
+|CM ||'''8''' ||{{flagicon|ARG}} [[Enzo Pérez]] || {{yel|65}} || {{suboff|79}}
+|-
+|CM ||'''22'''||{{flagicon|ARG}} [[Rodrigo Braña]] || {{yel|119}}
+|-
+|LM ||'''30'''||{{flagicon|ARG}} [[Clemente Rodríguez]] || {{yel|58}}
+|-
+|AM ||'''11'''||{{flagicon|ARG}} [[Juan Sebastián Verón]] ([[Captain (association football)|c]])
+|-
+|AM ||'''23'''||{{flagicon|ARG}} [[Leandro Benítez]] || || {{suboff|76}}
+|-
+|CF ||'''17'''||{{flagicon|ARG}} [[Mauro Boselli]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|MF ||'''5''' ||{{flagicon|ARG}} [[Matías Sánchez (footballer, born 1987)|Matías Sánchez]] || {{yel|94}} || {{subon|76}}
+|-
+|MF ||'''18'''||{{flagicon|ARG}} [[Maximiliano Núñez]] || || {{subon|79}}
+|-
+|DF ||'''21'''||{{flagicon|ARG}} [[Marcos Rojo]] || {{yel|112}} || {{subon|90+1}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ARG}} [[Alejandro Sabella]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Víctor Valdés]] || {{yel|118}}
+|-
+|RB ||'''2''' ||{{flagicon|BRA}} [[Dani Alves]]
+|-
+|CB ||'''3''' ||{{flagicon|ESP}} [[Gerard Piqué]]
+|-
+|CB ||'''5''' ||{{flagicon|ESP}} [[Carles Puyol]] ([[Captain (association football)|c]])
+|-
+|LB ||'''22'''||{{flagicon|FRA|1974}} [[Eric Abidal]]
+|-
+|DM ||'''15'''||{{flagicon|MLI}} [[Seydou Keita]] || || {{suboff|46}}
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]]
+|-
+|CM ||'''16'''||{{flagicon|ESP}} [[Sergio Busquets]] || || {{suboff|79}}
+|-
+|RW ||'''10'''||{{flagicon|ARG}} [[Lionel Messi]] || {{yel|23}}
+|-
+|LW ||'''14'''||{{flagicon|FRA|1974}} [[Thierry Henry]] || {{yel|82}} || {{suboff|83}}
+|-
+|CF ||'''9''' ||{{flagicon|SWE}} [[Zlatan Ibrahimović]]
+|-
+|colspan=3|'''Substitutions:'''
+|-
+|FW ||'''17'''||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]] || || {{subon|46}}
+|-
+|MF ||'''24'''||{{flagicon|CIV}} [[Yaya Touré]] || || {{subon|79}}
+|-
+|FW ||'''7''' ||{{flagicon|ESP}} [[Jeffrén Suárez|Jeffrén]] || || {{subon|83}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />[[Héctor Vergara]] ([[Canadian Soccer Association|Canada]])<ref name="match_report"/>
+<br />Marvin Torrentera ([[Mexican Football Federation|Mexico]])<ref name="match_report"/>
+<br />'''Fourth official:'''
+<br />[[Ravshan Irmatov]] ([[Uzbekistan Football Federation|Uzbekistan]])<ref name="match_report"/>
+<br />'''Reserve assistant referee:'''
+<br />Abdukhamidullo Rasulov ([[Uzbekistan Football Federation|Uzbekistan]])<ref name="match_report"/>
+| width=55% valign=top|
+'''Match rules'''
+*90 minutes.
+*30 minutes of extra-time if necessary.
+*Penalty shoot-out if scores still level.
+*Twelve named substitutes.
+*Maximum of three substitutions.
+|}
+
+===Statistics===
+[[File:Barca_players_celebration.jpg|thumb|[[FC Barcelona|Barcelona]] players celebrate after the match]]
+{| class="wikitable" style="text-align: center"
+|+Overall<ref name="stats">{{cite web|title=Match Statistics |url=https://www.fifa.com/tournaments/archive/clubworldcup/uae2009/results/match=300111971/statistics.html |access-date=28 May 2012 |publisher=FIFA |archive-url=https://web.archive.org/web/20101017055553/http://www.fifa.com/tournaments/archive/clubworldcup/uae2009/results/match%3D300111971/statistics.html |archive-date=17 October 2010 |url-status=dead}}</ref> 
+|-
+!width=100 |  
+!width=70 | Estudiantes
+!width=70 | Barcelona
+|-
+|Goals scored || 1 || 2
+|-
+|Total shots || 3 || 16
+|-
+|Shots on target || 1 || 4
+|-
+|Ball possession || 36% || 64%
+|-
+|Corner kicks || 3 || 10
+|-
+|Fouls committed || 29 || 19
+|-
+|Offsides || 8 || 1
+|-
+|Yellow cards || 7 || 3
+|-
+|Red cards || 0 || 0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.fifa.com/tournaments/mens/clubworldcup/uae2009/match-center FIFA Club World Cup UAE 2009], FIFA.com
+*[https://web.archive.org/web/20111220060330/http://www.fifa.com/mm/document/affederation/technicaldevp/01/25/67/06/reportstatisticsfcwc09inhalt.pdf Technical Report and Statistics (PDF)], FIFA.com
+
+{{FIFA Club World Cup}}
+{{FC Barcelona matches}}
+{{Estudiantes de La Plata matches}}
+
+{{DEFAULTSORT:Fifa Club World Cup Final 2009}}
+[[Category:2009–10 in Emirati football]]
+[[Category:2009–10 in Spanish men's football|World]]
+[[Category:2009 FIFA Club World Cup|Final]]
+[[Category:FC Barcelona matches]]
+[[Category:Estudiantes de La Plata matches]]
+[[Category:FIFA Club World Cup finals|2009]]
+[[Category:2009–10 in Argentine football|World]]
+[[Category:Football in Abu Dhabi]]
+[[Category:21st century in Abu Dhabi]]
+[[Category:Football matches in the United Arab Emirates]]
+[[Category:December 2009 sports events in Asia]]
+[[Category:Argentina–Spain sports relations|2009]]

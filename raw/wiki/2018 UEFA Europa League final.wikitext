@@ -1,0 +1,562 @@
+{{Use dmy dates|date=May 2018}}
+{{Infobox football match
+| title              = 2018 UEFA Europa League final
+| image              = 2018 UEFA Europa League Final programme.jpg
+| image_size         = frameless
+| caption            = Match programme cover
+| event              = [[2017–18 UEFA Europa League]]
+| team1              = [[Olympique de Marseille|Marseille]]
+| team1association   = {{fbaicon|FRA|1974|size=30px}}
+| team1score         = 0
+| team2              = [[Atlético Madrid]]
+| team2association   = {{fbaicon|ESP|size=30px}}
+| team2score         = 3
+| details            =
+| date               = {{Start date|2018|5|16|df=y}}
+| stadium            = [[Parc Olympique Lyonnais]]
+| city               = [[Décines-Charpieu]]
+| man_of_the_match1a = [[Antoine Griezmann]] {{nowrap|(Atlético Madrid)}}<ref name="motm">{{cite web |url=https://www.uefa.com/uefaeuropaleague/news/0269-125f1911d030-00b43a590225-1000--etienne-capoue-named-official-uefa-europa-league-final-m/ |title=Griezmann named official man of the match |work=UEFA.com |publisher=Union of European Football Associations |date=16 May 2018 |access-date=16 May 2018}}</ref>
+| referee            = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])<ref name="officials"/>
+| attendance         = 55,768<ref name="attendance"/>
+| weather            = Cloudy night<br />{{convert|18|°C|°F}}<br />66% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2018/2022218_LU.pdf |title=Tactical Lineups – Final – Wednesday 16 May 2018 |work=UEFA.com |publisher=Union of European Football Associations |date=16 May 2018 |access-date=16 May 2018}}</ref>
+| previous           = [[2017 UEFA Europa League final|2017]]
+| next               = [[2019 UEFA Europa League final|2019]]
+}}
+The '''2018 UEFA Europa League final''' was the final match of the [[2017–18 UEFA Europa League]], the 47th season of [[Europe]]'s secondary club [[association football|football]] tournament organised by [[UEFA]], and the 9th season since it was renamed from the UEFA Cup to the [[UEFA Europa League]]. It was played at the [[Parc Olympique Lyonnais]] in [[Décines-Charpieu]], [[Lyon Metropolis|Lyon]], France on 16 May 2018,<ref name="host">{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0252-0cd2199fd757-085c4991f75c-1000--lyon-to-host-2018-uefa-europa-league-final/ |title=Lyon to host 2018 UEFA Europa League final |work=UEFA.com |publisher=Union of European Football Associations |date=9 December 2016 |access-date=9 December 2016}}</ref> between [[French Football Federation|French]] side [[Olympique de Marseille|Marseille]] and [[Royal Spanish Football Federation|Spanish]] side [[Atlético Madrid]].<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0245-0e98c298b3d9-e3234be6af4d-1000--all-you-need-to-know-uefa-europa-league-final/|title=All you need to know: UEFA Europa League final|publisher=[[UEFA]]|date=3 May 2018}}</ref><ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0245-0e98c2988cd1-9002b1530af6-1000--marseille-v-atletico-meet-the-europa-league-finalists/|title=Marseille v Atlético: Meet the Europa League finalists|publisher=[[UEFA]]|date=3 May 2018}}</ref>
+
+Atlético Madrid won the match 3–0 for their third Europa League title.<ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0245-0e98ccf1cec2-0418a5d239cc-1000--griezmann-inspires-atletico-to-europa-league-glory/ |title=Griezmann inspires Atlético to Europa League glory |work=UEFA.com |publisher=Union of European Football Associations |date=16 May 2018 |access-date=18 May 2018}}</ref> As winners, Atlético Madrid earned the right to play against the winners of the [[2017–18 UEFA Champions League]], [[Real Madrid CF|Real Madrid]], in the [[2018 UEFA Super Cup]]. They also qualified to enter the group stage of the [[2018–19 UEFA Champions League]],<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0253-0d81c2c9caf3-d5f66f92b4db-1000--evolution-of-uefa-club-competitions-from-2018/|title=Evolution of UEFA club competitions from 2018|publisher=[[UEFA]]|date=26 August 2016}}</ref> but since they already qualified through their league performance, the berth reserved was given to the third-placed team of the [[2017–18 Ligue 1]], [[Olympique Lyonnais|Lyon]], as Ligue 1 was the 5th-ranked association according to next season's access list.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0248-0e98d6a7579b-b83f689f894f-1000--who-is-in-the-champions-league-group-stage/|title=Who is in the 2018/19 Champions League group stage?|publisher=[[UEFA]]|date=26 May 2018}}</ref>
+
+==Venue==
+[[File:OL-Angers Groupama Stadium 11.jpg|thumb|275px|left|The [[Parc Olympique Lyonnais]] was renamed to "Stade de Lyon" for the match]]
+The [[Parc Olympique Lyonnais]] was announced as the final venue on 9 December 2016, following the decision of the UEFA Executive Committee meeting in [[Nyon]], Switzerland.<ref name="host"/>
+
+==Background==
+[[Olympique de Marseille|Marseille]] reached their third final after a 3–2 aggregate win against [[Austrian Football Bundesliga|Austrian]] side [[FC Red Bull Salzburg|Red Bull Salzburg]], clinched after extra time. They lost the final in both previous occasions ([[1999 UEFA Cup Final|1999]] and [[2004 UEFA Cup Final|2004]]). This was also their fifth final in all seasonal UEFA competitions, having also played in two [[UEFA Champions League|European Cup/Champions League]] finals (winning in [[1993 UEFA Champions League Final|1993]]; and losing in [[1991 European Cup Final|1991]]).
+
+[[Atlético Madrid]] also reached their third final after a 2–1 aggregate win against [[Premier League|English]] side [[Arsenal F.C.|Arsenal]]. They won the final in both previous occasions ([[2010 UEFA Europa League Final|2010]] and [[2012 UEFA Europa League Final|2012]]). This was also their ninth final in UEFA seasonal competitions, having played in three [[UEFA Champions League|European Cup/Champions League]] finals (losing in [[1974 European Cup Final|1974]], [[2014 UEFA Champions League Final|2014]] and [[2016 UEFA Champions League Final|2016]]) and three [[UEFA Cup Winners' Cup|Cup Winners' Cup]] final (winning in [[1962 European Cup Winners' Cup Final|1962]]; and losing in [[1963 European Cup Winners' Cup Final|1963]] and [[1986 European Cup Winners' Cup Final|1986]]).
+
+The two teams had played each other twice in the [[UEFA Champions League|Champions League]]. Atlético Madrid won the first match, while the second was drawn in the [[2008–09 UEFA Champions League]] group stage.
+
+===Previous finals===
+''In the following table, finals until 2009 were in the UEFA Cup era, since 2010 were in the UEFA Europa League era.''
+
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|2 ([[1999 UEFA Cup Final|1999]], [[2004 UEFA Cup Final|2004]])
+|-
+|{{fbaicon|ESP}} [[Atlético Madrid]]
+|2 ('''[[2010 UEFA Europa League Final|2010]]''', '''[[2012 UEFA Europa League Final|2012]]''')
+|}
+
+==Route to the final==
+{{Further|2017–18 UEFA Europa League|2017–18 UEFA Champions League}}
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+!Round
+!colspan="4"|{{fbaicon|ESP}} [[Atlético Madrid]]
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2017–18 UEFA Europa League|Europa League]]'''
+|
+|colspan="4"|'''[[2017–18 UEFA Champions League|Champions League]]'''
+|-
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|style="background:#C1E0FF"|Qualifying phase ([[2017–18 UEFA Europa League qualifying phase and play-off round|EL]], [[2017–18 UEFA Champions League qualifying phase and play-off round|CL]])
+|colspan="4" rowspan="3"|Bye
+|-
+|align="left"|{{fbaicon|BEL}} [[K.V. Oostende|Oostende]]
+|4–2
+|[[2017–18 UEFA Europa League qualifying phase and play-off round#Marseille v Oostende|4–2]] (H)
+|[[2017–18 UEFA Europa League qualifying phase and play-off round#Oostende v Marseille|0–0]] (A)
+|style="background:#C1E0FF"|Third qualifying round
+|-
+|align="left"|{{fbaicon|SVN}} [[NK Domžale|Domžale]]
+|4–1
+|[[2017–18 UEFA Europa League qualifying phase and play-off round#Domžale v Marseille|1–1]] (A)
+|[[2017–18 UEFA Europa League qualifying phase and play-off round#Marseille v Domžale|3–0]] (H)
+|style="background:#C1E0FF"|Play-off round
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|Group stage ([[2017–18 UEFA Europa League group stage|EL]], [[2017–18 UEFA Champions League group stage|CL]])
+|Opponent
+|colspan="3"|Result
+|-
+|align="left"|{{fbaicon|TUR}} [[Konyaspor]]
+|colspan="3"|[[2017–18 UEFA Europa League group stage#Marseille v Konyaspor|1–0]] (H)
+|style="background:#C1E0FF"|Matchday 1
+|align="left"|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Roma v Atlético Madrid|0–0]] (A)
+|-
+|align="left"|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|colspan="3"|[[2017–18 UEFA Europa League group stage#Red Bull Salzburg v Marseille|0–1]] (A)
+|style="background:#C1E0FF"|Matchday 2
+|align="left"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Atlético Madrid v Chelsea|1–2]] (H)
+|-
+|align="left"|{{fbaicon|POR}} [[Vitória S.C.|Vitória de Guimarães]]
+|colspan="3"|[[2017–18 UEFA Europa League group stage#Marseille v Vitória de Guimarães|2–1]] (H)
+|style="background:#C1E0FF"|Matchday 3
+|align="left"|{{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Qarabağ v Atlético Madrid|0–0]] (A)
+|-
+|align="left"|{{fbaicon|POR}} [[Vitória S.C.|Vitória de Guimarães]]
+|colspan="3"|[[2017–18 UEFA Europa League group stage#Vitória de Guimarães v Marseille|0–1]] (A)
+|style="background:#C1E0FF"|Matchday 4
+|align="left"|{{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Atlético Madrid v Qarabağ|1–1]] (H)
+|-
+|align="left"|{{fbaicon|TUR}} [[Konyaspor]]
+|colspan="3"|[[2017–18 UEFA Europa League group stage#Konyaspor v Marseille|1–1]] (A)
+|style="background:#C1E0FF"|Matchday 5
+|align="left"|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Atlético Madrid v Roma|2–0]] (H)
+|-
+|align="left"|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|colspan="3"|[[2017–18 UEFA Europa League group stage#Marseille v Red Bull Salzburg|0–0]] (H)
+|style="background:#C1E0FF"|Matchday 6
+|align="left"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|colspan="3"|[[2017–18 UEFA Champions League group stage#Chelsea v Atlético Madrid|1–1]] (A)
+|-
+|colspan="4" rowspan="2" style="vertical-align:top"|'''[[2017–18 UEFA Europa League group stage#Group I|Group I]] runners-up'''
+{{:2017–18 UEFA Europa League group stage|transcludesection=Group I|only_pld_pts=yes|show_matches=no|showteam=MAR}}
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2017–18 UEFA Champions League group stage#Group C|Group C]] third place'''
+{{:2017–18 UEFA Champions League group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=ATL}}
+|- style="background:#C1E0FF"
+|
+|colspan="4"|'''[[2017–18 UEFA Europa League|Europa League]]'''
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2017–18 UEFA Europa League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align="left"|{{fbaicon|POR}} [[S.C. Braga|Braga]]
+|3–1
+|[[2017–18 UEFA Europa League knockout phase#Marseille v Braga|3–0]] (H)
+|[[2017–18 UEFA Europa League knockout phase#Braga v Marseille|0–1]] (A)
+|style="background:#C1E0FF"|Round of 32
+|align="left"|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|5–1
+|[[2017–18 UEFA Europa League knockout phase#Copenhagen v Atlético Madrid|4–1]] (A)
+|[[2017–18 UEFA Europa League knockout phase#Atlético Madrid v Copenhagen|1–0]] (H)
+|-
+|align="left"|{{fbaicon|ESP}} [[Athletic Bilbao]]
+|5–2
+|[[2017–18 UEFA Europa League knockout phase#Marseille v Athletic Bilbao|3–1]] (H)
+|[[2017–18 UEFA Europa League knockout phase#Athletic Bilbao v Marseille|2–1]] (A)
+|style="background:#C1E0FF"|Round of 16
+|align="left"|{{fbaicon|RUS}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|8–1
+|[[2017–18 UEFA Europa League knockout phase#Atlético Madrid v Lokomotiv Moscow|3–0]] (H)
+|[[2017–18 UEFA Europa League knockout phase#Lokomotiv Moscow v Atlético Madrid|5–1]] (A)
+|-
+|align="left"|{{fbaicon|GER}} [[RB Leipzig]]
+|5–3
+|[[2017–18 UEFA Europa League knockout phase#RB Leipzig v Marseille|0–1]] (A)
+|[[2017–18 UEFA Europa League knockout phase#Marseille v RB Leipzig|5–2]] (H)
+|style="background:#C1E0FF"|Quarter-finals
+|align="left"|{{fbaicon|POR}} [[Sporting CP]]
+|2–1
+|[[2017–18 UEFA Europa League knockout phase#Atlético Madrid v Sporting CP|2–0]] (H)
+|[[2017–18 UEFA Europa League knockout phase#Sporting CP v Atlético Madrid|0–1]] (A)
+|-
+|align="left"|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|3–2
+|[[2017–18 UEFA Europa League knockout phase#Marseille v Red Bull Salzburg|2–0]] (H)
+|[[2017–18 UEFA Europa League knockout phase#Red Bull Salzburg v Marseille|1–2]] {{aet}} (A)
+|style="background:#C1E0FF"|Semi-finals
+|align="left"|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|2–1
+|[[2017–18 UEFA Europa League knockout phase#Arsenal v Atlético Madrid|1–1]] (A)
+|[[2017–18 UEFA Europa League knockout phase#Atlético Madrid v Arsenal|1–0]] (H)
+|}
+
+==Pre-match==
+===Ambassador===
+[[File:Éric_Abidal_-_001.jpg|thumb|upright|[[Eric Abidal]] was named as the ambassador for the final.]]
+The ambassador for the final was former French international [[Eric Abidal]], who played three seasons at [[Olympique Lyonnais|Lyon]] and later won two UEFA Champions League titles with [[FC Barcelona|Barcelona]].
+
+===Ticketing===
+With a stadium capacity of 57,000 for the final, a total amount of 23,000 tickets were available to fans and the general public, with the two finalist teams receiving tickets (number to be confirmed) each and with the other tickets being available for sale to fans worldwide via UEFA.com from 15 to 22 March 2018 in four price categories: €150, €100, €70, and €45. The remaining tickets were allocated to the local organising committee, UEFA and national associations, commercial partners and broadcasters, and to serve the corporate hospitality programme.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0244-0e98adc14742-ebd3fa3ee04d-1000--europa-league-final-ticket-resale-window-closed/ |title=UEFA Europa League final ticket application window |work=UEFA.com |publisher=Union of European Football Associations |date=12 March 2018}}</ref><ref>{{cite web|url=https://www.uefa.com/insideuefa/mediaservices/newsid=2544812.html|archive-url=https://web.archive.org/web/20180315152021/http://www.uefa.com/insideuefa/mediaservices/newsid=2544812.html|url-status=dead|archive-date=15 March 2018|title=General public tickets for 2018 UEFA Europa League final in Lyon go on sale|publisher=[[UEFA]]|date=15 March 2018}}</ref>
+
+===Officials===
+On 7 May 2018, UEFA announced that Dutchman [[Björn Kuipers]] would officiate the final. It was the second time he was appointed for a [[UEFA Europa League]] final, as he had already been the referee in the [[2013 UEFA Europa League Final|2013 final]]. He was also the referee for the [[2014 UEFA Champions League Final]], which Atlético lost to [[Real Madrid CF|Real Madrid]] in [[Overtime (sports)#Association football|extra time]]. He was joined by his fellow countrymen, with Sander van Roekel and Erwin Zeinstra as assistant referees, [[Danny Makkelie]] and [[Pol van Boekel]] as additional assistant referees, and Mario Diks as reserve assistant referee. The fourth official for the final was [[Szymon Marciniak]] from Poland.<ref name="officials">{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0245-0e98c4c96761-9c30cce04a5b-1000--bjorn-kuipers-to-referee-europa-league-final/ |title=Björn Kuipers to referee Europa League final |work=UEFA.com |publisher=Union of European Football Associations |date=7 May 2018 |access-date=7 May 2018}}</ref>
+
+===Opening ceremony===
+French DJ duo [[Ofenbach (DJs)|Ofenbach]] performed at the opening ceremony preceding the final.<ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0244-0e98aacb9053-7d6eb559b048-1000--ofenbach-to-perform-at-uefa-europa-league-final/ |title=Ofenbach to perform at UEFA Europa League final |work=UEFA.com |publisher=Union of European Football Associations |date=13 April 2018 |access-date=16 May 2018}}</ref>
+
+==Match==
+
+===Summary===
+In the 21st minute, [[André-Frank Zambo Anguissa]] miss-controlled a pass out from goalkeeper [[Steve Mandanda]], the ball came to [[Gabi (footballer, born 1983)|Gabi]] who passed into [[Antoine Griezmann]] who scored with a low shot into the bottom left corner. Marseille captain [[Dimitri Payet]] left the match due to injury in the 32nd minute. It was 2–0 in the 49th minute when Antoine Griezmann dinked the ball past the advancing Steve Mandanda and into the bottom left from inside the penalty area after a pass from [[Koke (footballer, born 1992)|Koke]].<ref>{{cite web|url=https://www.bbc.com/sport/football/44113764|title =Marseille 0 Atletico Madrid 3|date=16 May 2018|work=BBC Sport|access-date=23 May 2018}}</ref> Gabi got the third goal in the 89th minute with a low right foot finish from the right after another pass from Koke.<ref>{{cite web|url=https://www.theguardian.com/football/live/2018/may/16/marseille-v-atletico-madrid-europa-league-final-live|title =Marseille 0 Atletico Madrid 3: As it happened|date=16 May 2018|work=Guardian|access-date=23 May 2018}}</ref>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the semi-final draw, which was held on 13 April 2018, 12:00 [[Central European Summer Time|CEST]], at the UEFA headquarters in [[Nyon]], Switzerland.<ref name="drawSF">{{cite web|url=https://www.uefa.com/uefaeuropaleague/draws/2018/2000894/|title=Semi-final and final draws|publisher=[[UEFA]]}}</ref>
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2018|5|16|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Olympique de Marseille|Marseille]] {{fbaicon|FRA|1974}}
+|score      = 0–3
+|team2      = {{fbaicon|ESP}} [[Atlético Madrid]]
+|goals1     =
+|goals2     =
+*[[Antoine Griezmann|Griezmann]] {{goal|21||49}}
+*[[Gabi (footballer, born 1983)|Gabi]] {{goal|89}}
+|stadium    = [[Parc Olympique Lyonnais]], [[Décines-Charpieu]]
+|attendance = 55,768<ref name="attendance">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2018/2022218_FR.pdf |title=Full Time Summary Final – Marseille v Atlético Madrid |work=UEFA.com |publisher=Union of European Football Associations |date=16 May 2018 |access-date=16 May 2018}}</ref>
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2022218/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _omars1718h
+ |pattern_b  = _omars1718H
+ |pattern_ra = _omars1718h
+ |pattern_sh = _omars1718h
+ |pattern_so = _omars1718H
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Marseille<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _cadm1718h
+ |pattern_b  = _atlmadrid1718h
+ |pattern_ra = _cadm1718h
+ |pattern_sh = _atlmadrid1718H
+ |pattern_so = _atlmadrid1718h
+ |leftarm    = F20000
+ |body       = F20000
+ |rightarm   = F20000
+ |shorts     = 1D257D
+ |socks      = F20000
+ |title      = {{nowrap|Atlético Madrid}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''30'''||{{flagicon|FRA|1974}} [[Steve Mandanda]]
+|-
+|RB ||'''17'''||{{flagicon|FRA|1974}} [[Bouna Sarr]]
+|-
+|CB ||'''23'''||{{flagicon|FRA|1974}} [[Adil Rami]]
+|-
+|CB ||'''19'''||{{flagicon|BRA}} [[Luiz Gustavo]] || {{yel|75}}
+|-
+|LB ||'''18'''||{{flagicon|FRA|1974}} [[Jordan Amavi]] || {{yel|38}}
+|-
+|CM ||'''29'''||{{flagicon|CMR}} [[André-Frank Zambo Anguissa]]
+|-
+|CM ||'''8''' ||{{flagicon|FRA|1974}} [[Morgan Sanson]]
+|-
+|RW ||'''26'''||{{flagicon|FRA|1974}} [[Florian Thauvin]]
+|-
+|AM ||'''10'''||{{flagicon|FRA|1974}} [[Dimitri Payet]] ([[Captain (association football)|c]]) || || {{suboff|32}}
+|-
+|LW ||'''5''' ||{{flagicon|ARG}} [[Lucas Ocampos]] || || {{suboff|55}}
+|-
+|CF ||'''28'''||{{flagicon|FRA|1974}} [[Valère Germain]] || || {{suboff|74}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|FRA|1974}} [[Yohann Pelé]]
+|-
+|DF ||'''2''' ||{{flagicon|JPN}} [[Hiroki Sakai]]
+|-
+|DF ||'''6''' ||{{flagicon|POR}} [[Rolando (footballer)|Rolando]]
+|-
+|MF ||'''4''' ||{{flagicon|FRA|1974}} [[Boubacar Kamara]]
+|-
+|MF ||'''27'''||{{flagicon|FRA|1974}} [[Maxime Lopez]] || || {{subon|32}}
+|-
+|FW ||'''11'''||{{flagicon|GRE}} [[Kostas Mitroglou]] || || {{subon|74}}
+|-
+|FW ||'''14'''||{{flagicon|CMR}} [[Clinton N'Jie]] || {{yel|78}} || {{subon|55}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|FRA|1974}} [[Rudi Garcia]]
+|}
+|valign="top"|[[File:Marseille vs Atlético Madrid 2018-05-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|SVN}} [[Jan Oblak]]
+|-
+|RB ||'''16'''||{{flagicon|CRO}} [[Šime Vrsaljko]] || {{yel|23}} || {{suboff|46}}
+|-
+|CB ||'''24'''||{{flagicon|URU}} [[José María Giménez|José Giménez]]
+|-
+|CB ||'''2''' ||{{flagicon|URU}} [[Diego Godín]]
+|-
+|LB ||'''19'''||{{flagicon|FRA|1974}} [[Lucas Hernandez]] || {{yel|78}}
+|-
+|RM ||'''11'''||{{flagicon|ARG}} [[Ángel Correa]] || || {{suboff|88}}
+|-
+|CM ||'''14'''||{{flagicon|ESP}} [[Gabi (footballer, born 1983)|Gabi]] ([[Captain (association football)|c]])
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Saúl Ñíguez]]
+|-
+|LM ||'''6''' ||{{flagicon|ESP}} [[Koke (footballer, born 1992)|Koke]]
+|-
+|CF ||'''7''' ||{{flagicon|FRA|1974}} [[Antoine Griezmann]] || || {{suboff|90}}
+|-
+|CF ||'''18'''||{{flagicon|ESP}} [[Diego Costa]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''25'''||{{flagicon|ARG}} [[Axel Werner]]
+|-
+|DF ||'''3''' ||{{flagicon|BRA}} [[Filipe Luís]]
+|-
+|DF ||'''15'''||{{flagicon|MNE}} [[Stefan Savić]]
+|-
+|DF ||'''20'''||{{flagicon|ESP}} [[Juanfran (footballer, born 1985)|Juanfran]] || || {{subon|46}}
+|-
+|MF ||'''5''' ||{{flagicon|GHA}} [[Thomas Partey]] || || {{subon|88}}
+|-
+|FW ||'''9''' ||{{flagicon|ESP}} [[Fernando Torres]] || || {{subon|90}}
+|-
+|FW ||'''21'''||{{flagicon|FRA|1974}} [[Kevin Gameiro]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Germán Burgos]]{{refn|group=note|Atlético Madrid manager [[Diego Simeone]] was given a four-match touchline ban in UEFA competitions following the [[2017–18 UEFA Europa League knockout phase#Arsenal v Atlético Madrid|semi-final first leg]]. Assistant manager [[Germán Burgos]] filled in as manager.<ref>{{cite news |url=http://www.espn.com/soccer/atletico-madrid/story/3483214/diego-simeone-handed-europa-league-final-touchline-ban |title=Diego Simeone handed Europa League final touchline ban |publisher=ESPN |date=4 May 2018 |access-date=18 May 2018}}</ref>}}
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Antoine Griezmann]] (Atlético Madrid)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Sander van Roekel ([[Royal Dutch Football Association|Netherlands]])
+<br />Erwin Zeinstra ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="officials"/>
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />[[Pol van Boekel]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fifth official|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Mario Diks ([[Royal Dutch Football Association|Netherlands]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/46/71/42/2467142_DOWNLOAD.pdf|archive-url=https://web.archive.org/web/20170516192032/http://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/46/71/42/2467142_DOWNLOAD.pdf|url-status=dead|archive-date=16 May 2017|title=Regulations of the UEFA Europa League 2017/18 Season|publisher=[[UEFA]]|date=4 April 2017}}</ref>
+*90 minutes.
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Seven named substitutes, of which up to three may be used.
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2018/2022218_TS.pdf |title=Team statistics |work=UEFA.com |publisher=Union of European Football Associations |date=16 May 2018 |access-date=18 May 2018 |url-status=live |archive-url=https://web.archive.org/web/20240617221658/https://www.uefa.com/newsfiles/uefacup/2018/2022218_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Marseille
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|6
+|4
+|-
+!scope=row|Shots on target
+|1
+|1
+|-
+!scope=row|Saves
+|0
+|1
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|0
+|0
+|-
+!scope=row|Fouls committed
+|8
+|7
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|1
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Marseille
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|0
+|2
+|-
+!scope=row|Total shots
+|6
+|8
+|-
+!scope=row|Shots on target
+|1
+|3
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|50%
+|50%
+|-
+!scope=row|Corner kicks
+|1
+|6
+|-
+!scope=row|Fouls committed
+|10
+|2
+|-
+!scope=row|Offsides
+|0
+|2
+|-
+!scope=row|Yellow cards
+|2
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Marseille
+!scope="col" style="width:70px"|Atlético Madrid
+|-
+!scope=row|Goals scored
+|0
+|3
+|-
+!scope=row|Total shots
+|12
+|12
+|-
+!scope=row|Shots on target
+|2
+|4
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|56%
+|44%
+|-
+!scope=row|Corner kicks
+|1
+|6
+|-
+!scope=row|Fouls committed
+|18
+|9
+|-
+!scope=row|Offsides
+|0
+|3
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2018 UEFA Champions League final]]
+*[[2018 UEFA Super Cup]]
+*[[Atlético Madrid in European football]]
+*[[Olympique de Marseille in European football]]
+*[[2017–18 Atlético Madrid season]]
+*[[2017–18 Olympique de Marseille season]]
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.uefa.com/uefaeuropaleague/ UEFA Europa League] (official website)
+**[https://www.uefa.com/uefaeuropaleague/history/season=2018/index.html UEFA Europa League history: 2017/18]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}
+*[https://web.archive.org/web/20170623061323/http://www.uefa.com/uefaeuropaleague/season=2018/final/index.html 2018 UEFA Europa League final: Lyon], UEFA.com
+
+{{UEFA Europa League seasons}}
+{{2017–18 in European football (UEFA)}}
+{{Olympique de Marseille matches}}
+{{Atlético Madrid matches}}
+
+{{DEFAULTSORT:Uefa Europa League Final 2018}}
+[[Category:UEFA Europa League finals|2018]]
+[[Category:2017–18 UEFA Europa League|Final]]
+[[Category:2017–18 in French men's football|Europa League Final]]
+[[Category:Football matches in France]]
+[[Category:Olympique de Marseille matches]]
+[[Category:Atlético Madrid matches]]
+[[Category:2017–18 in Spanish men's football|Europa League Final]]
+[[Category:Sports competitions in Lyon]]
+[[Category:May 2018 sports events in France]]
+[[Category:France–Spain sports relations|2018]]
+[[Category:21st century in Lyon]]
+[[Category:Football in Auvergne-Rhône-Alpes]]

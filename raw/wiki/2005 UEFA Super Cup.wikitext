@@ -1,0 +1,393 @@
+{{Use dmy dates|date=September 2020}}
+{{Infobox football match
+|                   title = 2005 UEFA Super Cup
+| image = 2005 UEFA Super Cup programme.jpg
+| image_size = 180
+|                   caption = Match programme cover
+|                   event = [[UEFA Super Cup]]
+|                   team1 = [[Liverpool F.C.|Liverpool]]
+|        team1association = {{fbaicon|ENG|size=30px}}
+|              team1score = 3
+|                   team2 = [[PFC CSKA Moscow|CSKA Moscow]]
+|        team2association = {{fbaicon|RUS|size=30px}}
+|              team2score = 1
+|                 details = After [[Overtime (sports)#Association football|extra time]]
+|                    date = 26 August 2005
+|                 stadium = [[Stade Louis II]]
+|                    city = [[Monaco]]
+|      man_of_the_match1a = [[Djibril Cissé]] (Liverpool)<ref name="pk-13"/>
+|                 referee = [[René Temmink]] ([[Royal Dutch Football Association|Netherlands]])<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2005/81041_LU.pdf |title=Team Line-ups – Friday 26 Aug 2005 |website=[[UEFA]] |publisher=Union of European Football Associations |date=26 August 2005 |access-date=18 June 2024 |url-status=live |archive-url=https://web.archive.org/web/20240617222325/https://www.uefa.com/newsfiles/SuperCup/2005/81041_LU.pdf |archive-date=17 June 2024}}</ref>
+|              attendance = 17,042<ref name="pk-13">{{cite web |url=http://www.uefa.com/printoutfiles/competitions/uefasupercup/2013/E/E_2012139_PK.pdf |title=UEFA Super Cup – 2013 season: Match press kits |website=[[UEFA]] |publisher=Union of European Football Associations |page=23 |date=August 2013 |access-date=17 June 2024 |url-status=dead |archive-url=https://web.archive.org/web/20140513184123/http://www.uefa.com/printoutfiles/competitions/uefasupercup/2013/E/E_2012139_PK.pdf |archive-date=13 May 2014}}</ref>
+|                 weather = Clear night<br />{{convert|25|°C|°F}}<br />55% [[humidity]]<ref name="weather">{{cite web | url=https://www.uefa.com/newsfiles/SuperCup/2005/81041_FR.pdf | title=Full-time report| publisher=UEFA | date=26 August 2005 | access-date=6 July 2012 }}</ref>
+|                previous = [[2004 UEFA Super Cup|2004]]
+|                    next = [[2006 UEFA Super Cup|2006]]
+}}
+The '''2005 UEFA Super Cup''' was an [[association football]] match between [[Liverpool F.C.|Liverpool]] of England and [[PFC CSKA Moscow|CSKA Moscow]] of Russia on 26 August 2005 at [[Stade Louis II]], Monaco, the annual [[UEFA Super Cup]] contested between the winners of the [[UEFA Champions League]] and [[UEFA Europa League|UEFA Cup]]. Liverpool were appearing in the Super Cup for the fifth time, having won the competition in [[1977 European Super Cup|1977]] and [[2001 UEFA Super Cup|2001]]. CSKA Moscow were appearing in the Super Cup for the first time, the first Russian team to appear in the competition.
+
+The teams had qualified for the competition by winning the two seasonal European competitions. Liverpool won the [[2004–05 UEFA Champions League]], defeating Italian team [[A.C. Milan]] 3–2 in a [[penalty shoot-out (association football)|penalty shoot-out]] after the match had finished [[2005 UEFA Champions League Final|3–3]]. CSKA Moscow won the [[2004–05 UEFA Cup]], beating Portuguese team [[Sporting CP]] [[2005 UEFA Cup Final|3–1]].
+
+Watched by a crowd of 17,042, CSKA took the lead in the first half when [[Daniel Carvalho da Silva|Daniel Carvalho]] scored. Liverpool did not respond until the 82nd minute when substitute [[Djibril Cissé]] scored. The score remained 1–1 until the end of the 90 minutes to send the match into [[Overtime (sports)|extra-time]]. Cissé scored again in the 103rd minute to give Liverpool the lead, which was later extended by [[Luis García Sanz|Luis García]]. Liverpool held out until the end of extra-time to win the match 3–1, their third Super Cup win.
+
+==Background==
+[[File:Stade Louis II.JPG|right|thumb|250px|The [[Stade Louis II]], which was the venue for the [[UEFA Super Cup]] from 1998 to 2012]]
+
+Liverpool qualified for the [[UEFA Super Cup]] as the reigning [[UEFA Champions League]] winners. They had won the [[2004–05 UEFA Champions League|Champions League]] beating [[A.C. Milan]] 3–2 in a [[penalty shoot-out (association football)|penalty shoot-out]] after the match had finished [[2005 UEFA Champions League Final|3–3]].<ref>{{Cite news|url=https://www.theguardian.com/football/2005/may/25/minutebyminute.championsleague |title=Liverpool 3–3 AC Milan |work=The Guardian|location=London |date=25 May 2005 |access-date=25 April 2011  |first=Barry |last=Glendenning }}</ref> It would be Liverpool's fifth appearance in the Super Cup. They had previously won the competition in [[1977 European Super Cup|1977]] and [[2001 UEFA Super Cup|2001]], beating [[Hamburger SV]] and [[FC Bayern Munich|Bayern Munich]] respectively. The two other appearances in [[1978 European Super Cup|1978]] and [[1984 European Super Cup|1984]] had resulted in losses to [[R.S.C. Anderlecht|Anderlecht]] and [[Juventus FC|Juventus]] respectively.<ref>{{cite web|url=https://www.rsssf.org/tabless/sup.html |title=European Super Cup |publisher=Rec. Sport. Soccer Statistics. Foundation |date=24 September 2010 |access-date=25 April 2011 |first=Karel |last=Stokkermans }}</ref>
+
+CSKA Moscow had qualified for the Super Cup as a result of winning the [[2004–05 UEFA Cup]]. They had beaten [[Sporting CP]] [[2005 UEFA Cup Final|3–1]] to become the first Russian team to win a European trophy.<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/europe/4555475.stm |title=Sporting 1–3 CSKA Moscow |work=BBC Sport|date=18 May 2005 |access-date=25 April 2011 }}</ref> Therefore, they were making their first appearance in the competition and were the first Russian team to compete in the Super Cup.<ref name="minute">{{cite web |url=http://en.archive.uefa.com/competitions/supercup/history/season=2005/round=2194/match=81041/report=mbm.html |archive-url=https://archive.today/20130105051735/http://en.archive.uefa.com/competitions/supercup/history/season=2005/round=2194/match=81041/report=mbm.html |url-status=dead |archive-date=5 January 2013 |title=Minute-by-minute |publisher=Union of European Football Associations (UEFA) |access-date=25 April 2011 }}</ref>
+
+Both sides had played several matches already, which was unusual, as the Super Cup would normally have been the first significant match the two teams had played. Liverpool had been forced to enter the first qualifying round of the [[2005–06 UEFA Champions League]], despite being champions. They had failed to finish in the top four during the [[2004–05 FA Premier League]], which would ensure Champions League qualification. UEFA granted them special dispensation to enter the competition as holders.<ref>{{Cite web|url=http://www.uefa.com/uefa/news/Kind=128/newsId=308644.html |title=Liverpool allowed to defend title |publisher=[[UEFA]] |date=10 June 2005 |access-date=30 November 2008 |archive-url=https://web.archive.org/web/20070621190250/http://www.uefa.com/uefa/news/Kind%3D128/newsId%3D308644.html |archive-date=21 June 2007 |url-status=dead }}</ref> Meanwhile, CSKA Moscow were in the middle of their domestic season. At the time of this match, they were second in the [[2005 Russian Premier League]], seven points behind leaders [[FC Lokomotiv Moscow|Lokomotiv Moscow]].<ref name="preview">{{cite web |url=http://en.archive.uefa.com/competitions/supercup/history/season=2005/round=2194/match=81041/report=pr.html |archive-url=https://archive.today/20130105014759/http://en.archive.uefa.com/competitions/supercup/history/season=2005/round=2194/match=81041/report=pr.html |url-status=dead |archive-date=5 January 2013 |title=Monaco matters to champion clubs |publisher=Union of European Football Associations (UEFA) |date=26 August 2005 |access-date=25 April 2011 |first=Greg |last=Demetriou }}</ref>
+
+Both teams valued the competition, despite some commentators being dismissive of the match's importance.<ref name="preview" /> CSKA captain [[Sergei Ignashevich]] underlined his team's determined mood: "We know their players are very strong because they won the Champions League. But we are not thinking about individuals. We will only worry about ourselves and not them."<ref name="preview"/> Likewise, Liverpool captain [[Steven Gerrard]] was equally determined to be successful: "This is the opportunity to win another trophy. When you play against good teams you have to do your best. I am not thinking about the past and that we won the Champions League."<ref name="preview" />
+
+CSKA and Liverpool had injury concerns ahead of the match. CSKA striker [[Ivica Olić]], the top scorer in Russia at the time, was sidelined with a serious knee injury. However, fellow CSKA striker [[Vágner Love]] was said by manager [[Valery Gazzaev]] to have "no problems" over his leg injury. Liverpool were without injured duo [[Djimi Traoré]] and [[Peter Crouch]]. There was also doubt over whether their captain Steven Gerrard would play. The decision over whether his calf injury had healed sufficiently for the match was left to the last moment.<ref name="preview" /> However, Gerrard was not deemed fit enough to play and was left out of the squad.<ref>{{cite web |url=http://en.archive.uefa.com/competitions/supercup/history/season=2005/round=2194/match=81041/report=rp.html |archive-url=https://archive.today/20120711151749/http://en.archive.uefa.com/competitions/supercup/history/season=2005/round=2194/match=81041/report=rp.html |url-status=dead |archive-date=11 July 2012 |title=Cissé inspires Liverpool comeback |publisher=Union of European Football Associations (UEFA) |date=26 August 2005 |access-date=25 April 2011 |first=Greg |last=Demetriou }}</ref> The lead up to the match had been changed from the previous year. The [[UEFA Club Football Awards]] were incorporated into the draw for the group stage of the 2005–06 UEFA Champions League on the day before the match.<ref>{{cite web|url=https://www.uefa.com/newsfiles/SuperCup/2005/81041_PK.pdf |title=Match press kit |publisher=UEFA |access-date=25 August 2012}}</ref>
+
+==Match==
+
+===Summary===
+CSKA kicked off, but Liverpool had the first chance of the match. [[Dietmar Hamann]] shot from {{convert|20|yd|m}} but his shot was saved by CSKA goalkeeper [[Igor Akinfeev]]. 11 minutes after the start of the match, [[Luis García (footballer, born 1978)|Luis García]] was put through on goal from a pass by Hamann, but before he could shoot, Akinfeev had smothered the ball. García was put through on goal again moments later from a [[Boudewijn Zenden]] pass but his shot went over the crossbar.<ref name="minute" /> Midway through the first-half, García found [[Fernando Morientes]] {{convert|25|yd|m}} from goal with a pass, but Morientes' subsequent shot was saved by Akinfeev. At this point in the match, Liverpool were dominating possession but were unable to convert this into goals.<ref name="bbc">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/europe/4180288.stm |title=Liverpool 3–1 CSKA Moscow (aet) |work=BBC Sport|date=26 August 2005 |access-date=25 April 2011 }}</ref> With Liverpool dominating for the majority of the half, CSKA scored against the run of play. Midfielder [[Daniel Carvalho]] took the ball past Liverpool goalkeeper [[Pepe Reina]] and put the ball into an open goal to give CSKA a 1–0 lead.<ref name="guardian">{{cite news|url=https://www.theguardian.com/football/2005/aug/27/newsstory.sport?INTCMP=SRCH |title=Cissé rushes to the rescue |work=The Guardian|location=London  |date=26 August 2005 |access-date=25 April 2011 |first=Stuart |last=James }}</ref> It was not until the 36th minute that Liverpool created another goalscoring opportunity; however, García and [[Steve Finnan]] both failed to score.<ref name="minute" /> Towards the end of the half, Zenden was shown a yellow card for a late tackle on [[Chidi Odiah]].<ref name="events">{{cite web |url=http://en.archive.uefa.com/competitions/supercup/history/season=2005/round=2194/match=81041/report=ev.html |archive-url=https://archive.today/20130105012940/http://en.archive.uefa.com/competitions/supercup/history/season=2005/round=2194/match=81041/report=ev.html |url-status=dead |archive-date=5 January 2013 |title=Events |publisher=Union of European Football Associations (UEFA) |access-date=25 April 2011 }}</ref>
+
+[[File:Luis Garcia.jpg|thumb|left|200px|alt=A man in a red shirt and shorts on a field looking down at a ball|[[Luis García (footballer, born 1978)|Luis García]] scored Liverpool's third goal]]
+
+Liverpool kicked off the second half and five minutes into the half Liverpool defender [[Josemi]] was shown a yellow card for fouling [[Miloš Krasić]].<ref name="events" /> Liverpool's poor play in front of goal continued after the restart;<ref name="bbc" /> Josemi had a chance to score, but his shot from the edge of the penalty area went over the crossbar.<ref name="minute" /> After the attack, Liverpool made the first substitution of the match; [[Florent Sinama Pongolle]] replaced Finnan.<ref name="events" /> After just over an hour's play, a mix-up between Reina and [[Sami Hyypiä]] nearly contrived to present a goal to CSKA, before Hyypiä intervened to clear the ball.<ref name="minute" /> CSKA made their first substitution in the 66th minute with [[Deividas Šemberas]] replacing [[Yuri Zhirkov]]. Liverpool followed this by replacing [[Xabi Alonso]] with [[Mohamed Sissoko]].<ref name="events" /> Vágner Love had a chance to extend CSKA's lead in the 77th minute, but he was unable to control the ball after a high pass and lost possession.<ref name="minute" /> Despite their lead, CSKA were negative in their play;<ref name="bbc" /> they were punished when Liverpool replaced [[John Arne Riise]] with striker [[Djibril Cissé]].<ref name="events" /> Cissé made an immediate impact; he ran on to a pass from García. The pass was cleared by CSKA defender [[Sergei Ignashevich]] but it ricocheted off Cissé and left him with an open goal after Akinfeev had come off his line in an attempt to clear the ball.<ref name="minute" /> Cissé's goal meant the match was now drawn at 1–1, and with no further goals, the match went into [[Overtime (sports)|extra-time]].<ref name="guardian" />
+
+CSKA kicked off the first half of extra-time. Five minutes into the half, Liverpool substitute Sinama Pongolle was booked.<ref name="events" /> With two minutes of the half remaining, the ball was played into the centre of the CSKA half; Ignashevich misjudged the flight of the ball, which went over his head and fell to Cissé. His subsequent shot was saved by Akinfeev, but the ball rebounded to Cissé who scored to give Liverpool a 2–1 lead.<ref name="minute" /><ref name="bbc" /> The half was brought to an end with Liverpool leading for the first time in the match. Liverpool kicked off the second half of extra-time. CSKA had the first chance of the half, but Vágner Love's effort was easily saved by Reina.<ref name="minute" /> Liverpool responded midway through the half; Cissé's cross from the right side of the pitch was met by García, who scored.<ref name="minute" /> No further goals were scored, and the referee blew for full-time with the final score 3–1 to Liverpool.<ref name="bbc" />
+
+===Details===
+{{football box
+|date = 26 August 2005
+|time = 20:45 [[Central European Summer Time|CEST]]
+|team1 = [[Liverpool F.C.|Liverpool]] {{fbaicon|ENG}}
+|score = 3–1
+|aet = yes
+|report=https://www.uefa.com/uefasupercup/match/<!--round=2194/match=-->81041/
+|team2 = {{fbaicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|goals1 = [[Djibril Cissé|Cissé]] {{goal|82||103}}<br />[[Luis García (footballer, born 1978)|García]] {{goal|109}}
+|goals2 = [[Daniel Carvalho|Carvalho]] {{goal|28}}
+|stadium = [[Stade Louis II]], Monaco
+|attendance = 17,042<ref name="pk-13"/>
+|referee = [[René Temmink]] ([[Royal Dutch Football Association|Netherlands]]) }}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_b  = _liverpool0405h
+ | leftarm    = FF0000
+ | body       = FF0000
+ | rightarm   = FF0000
+ | shorts     = FF0000
+ | socks      = FF0000
+ | title      = Liverpool<ref name="tactical">{{cite web |url=https://www.uefa.com/news-media/mediaservices/informationkits/competitions/uefasupercup/2005/match/81041/lineups/ |title=Information kits – Liverpool v CSKA Moskva – Line-ups |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=15 August 2024}}</ref>
+}}
+|{{Football kit
+ | pattern_la = _lyon0405a
+ | pattern_b  = _lyon0405a
+ | pattern_ra = _lyon0405a
+ | pattern_sh = _lyon0405a
+ | pattern_so = _lyon0405a
+ | leftarm    = 000000
+ | body       = 000000
+ | rightarm   = 000000
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = {{nowrap|CSKA Moscow}}<ref name="tactical"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|ESP}} [[Pepe Reina]]
+|-
+|RB ||'''17'''||{{flagicon|ESP}} [[Josemi]] || {{yel|50}}
+|-
+|CB ||'''23'''||{{flagicon|ENG}} [[Jamie Carragher]] ([[Captain (association football)|c]])
+|-
+|CB ||'''4''' ||{{flagicon|FIN}} [[Sami Hyypiä]] || {{yel|73}}
+|-
+|LB ||'''6''' ||{{flagicon|NOR}} [[John Arne Riise]] || || {{suboff|79}}
+|-
+|CM ||'''14'''||{{flagicon|ESP}} [[Xabi Alonso]] || || {{suboff|70}}
+|-
+|CM ||'''16'''||{{flagicon|GER}} [[Dietmar Hamann]]
+|-
+|RW ||'''3''' ||{{flagicon|IRL}} [[Steve Finnan]] || || {{suboff|55}}
+|-
+|AM ||'''10'''||{{flagicon|ESP}} [[Luis García (footballer, born 1978)|Luis García]]
+|-
+|LW ||'''30'''||{{flagicon|NED}} [[Boudewijn Zenden]] || {{yel|38}}
+|-
+|CF ||'''19'''||{{flagicon|ESP}} [[Fernando Morientes]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''20'''||{{flagicon|ENG}} [[Scott Carson]]
+|-
+|DF ||'''28'''||{{flagicon|ENG}} [[Stephen Warnock]]
+|-
+|MF ||'''22'''||{{flagicon|MLI}} [[Mohamed Sissoko]] || || {{subon|70}}
+|-
+|FW ||'''9''' ||{{flagicon|FRA|1974}} [[Djibril Cissé]] || || {{subon|79}}
+|-
+|FW ||'''24'''||{{flagicon|FRA|1974}} [[Florent Sinama Pongolle|Sinama Pongolle]] || {{yel|95}} || {{subon|55}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Rafael Benítez]]
+|}
+|valign="top"|[[File:Liverpool vs CSKA Moscow 2005-08-26.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''35'''||{{flagicon|RUS}} [[Igor Akinfeev]]
+|-
+|CB ||'''24'''||{{flagicon|RUS}} [[Vasili Berezutski]]
+|-
+|CB ||'''4''' ||{{flagicon|RUS}} [[Sergei Ignashevich]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||{{flagicon|RUS}} [[Aleksei Berezutski]]
+|-
+|RM ||'''15'''||{{flagicon|NGA}} [[Chidi Odiah]] || || {{suboff|90}}
+|-
+|CM ||'''25'''||{{flagicon|BIH}} [[Elvir Rahimić]]
+|-
+|CM ||'''22'''||{{flagicon|RUS}} [[Evgeni Aldonin]]
+|-
+|LM ||'''18'''||{{flagicon|RUS}} [[Yuri Zhirkov]] || || {{suboff|66}}
+|-
+|RW ||'''17'''||{{flagicon|SCG}} [[Miloš Krasić]] || || {{suboff|85}}
+|-
+|LW ||'''7''' ||{{flagicon|BRA}} [[Daniel Carvalho]]
+|-
+|CF ||'''11'''||{{flagicon|BRA}} [[Vágner Love]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|RUS}} [[Veniamin Mandrykin]]
+|-
+|DF ||'''2''' ||{{flagicon|LTU}} [[Deividas Šemberas]] || || {{subon|66}}
+|-
+|MF ||'''8''' ||{{flagicon|RUS}} [[Rolan Gusev]] || || {{subon|90}}
+|-
+|MF ||'''10'''||{{flagicon|BRA}} [[Dudu Cearense]] || {{yel|101}} || {{subon|85}}
+|-
+|FW ||'''13'''||{{flagicon|RUS}} [[Sergey Samodin]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|RUS}} [[Valery Gazzaev]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Man of the Match:'''
+<br />[[Djibril Cissé]] (Liverpool)<ref name="pk-13"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="lineups"/>
+<br />Adriaan Inia ([[Royal Dutch Football Association|Netherlands]])
+<br />Rob Meenhuis ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="lineups"/>
+<br />[[Eric Braamhaar]] ([[Royal Dutch Football Association|Netherlands]])
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra time if necessary
+*Penalty shoot-out if scores still level
+*Five named substitutes
+*Maximum of three substitutions
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="weather" />
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|CSKA Moscow
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|9
+|2
+|-
+!scope=row|Shots on target
+|2
+|1
+|-
+!scope=row|Saves
+|0
+|2
+|-
+!scope=row|Ball possession
+|67%
+|33%
+|-
+!scope=row|Corner kicks
+|2
+|0
+|-
+!scope=row|Fouls committed
+|9
+|6
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half and extra time<ref name="weather" />
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|CSKA Moscow
+|-
+!scope=row|Goals scored
+|3
+|0
+|-
+!scope=row|Total shots
+|11
+|7
+|-
+!scope=row|Shots on target
+|6
+|2
+|-
+!scope=row|Saves
+|3
+|3
+|-
+!scope=row|Ball possession
+|56%
+|64%
+|-
+!scope=row|Corner kicks
+|2
+|3
+|-
+!scope=row|Fouls committed
+|15
+|9
+|-
+!scope=row|Offsides
+|1
+|4
+|-
+!scope=row|Yellow cards
+|3
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="weather" />
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Liverpool
+!scope="col" style="width:70px"|CSKA Moscow
+|-
+!scope=row|Goals scored
+|3
+|1
+|-
+!scope=row|Total shots
+|20
+|9
+|-
+!scope=row|Shots on target
+|8
+|3
+|-
+!scope=row|Saves
+|3
+|5
+|-
+!scope=row|Ball possession
+|60%
+|40%
+|-
+!scope=row|Corner kicks
+|4
+|3
+|-
+!scope=row|Fouls committed
+|24
+|15
+|-
+!scope=row|Offsides
+|1
+|5
+|-
+!scope=row|Yellow cards
+|4
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+Liverpool manager [[Rafael Benítez]] was happy with his players after they had come from behind to win the match: "It was a difficult game. We were controlling the game, passing the ball around and then we made a mistake and had to work really hard to get back. They played well, but I think we controlled the game. To score three goals is not easy. I can say that we are very happy now with this trophy. Now is the time to enjoy our victory." With five days of the transfer window left, Benítez refused to speculate on whether Liverpool would sign [[Michael Owen]], stating, "I like good players, we have a lot of them here."<ref name="review">{{cite web |url=http://en.archive.uefa.com/competitions/supercup/history/season=2005/round=2194/match=81041/report=rw.html |archive-url=https://archive.today/20130105152839/http://en.archive.uefa.com/competitions/supercup/history/season=2005/round=2194/match=81041/report=rw.html |url-status=dead |archive-date=5 January 2013 |title=Liverpool celebrate in Monaco |publisher=Union of European Football Associations |date=26 August 2005 |access-date=25 April 2011 }}</ref>
+
+CSKA manager [[Valery Gazzaev]] praised his players despite their loss and hinted that injuries may have been a factor in the loss: "The game was satisfactory – we had followed the plan we set out, but still we made two mistakes. On the whole I think our team played very well but of course it is a shame we didn't win. We had a lot of good opportunities but we couldn't do it. Liverpool played as we expected – they played quite aggressively. We didn't feel uncomfortable but we made a couple of mistakes." Gazzaev rued the injuries his team suffered indicating there might have been a different outcome had certain players been fit.<ref name="review" />
+
+Despite Cissé's two goals, there had been speculation linking Liverpool with re-signing Michael Owen, who had left the club for [[Real Madrid CF|Real Madrid]] a year earlier. Liverpool fans had even chanted Owen's name during the match, singing, "There's only one Michael Owen."<ref name="guardian" /> Cissé underlined the importance of scoring twice with speculation rife: "It is clear scoring two goals in the Super Cup is important for me, because there has been a lot of speculation about me of late and about my position within the club."<ref name="review" /> Liverpool defender [[Jamie Carragher]] stated the importance of the two goals for Cissé: "Cissé wanted to prove a point – he wanted to show everyone what he can do and great credit to him. We're the players – it's up to us to play and the management decides which players we have." Carragher confirmed that Liverpool missed their captain Gerrard, but was delighted to win the match despite this.<ref name="review" />
+
+==See also==
+*[[2005–06 UEFA Champions League]]
+*[[2005–06 UEFA Cup]]
+*[[2005 PFC CSKA Moscow season]]
+*[[2005–06 Liverpool F.C. season]]
+*[[Liverpool F.C. in international football]]
+*[[PFC CSKA Moscow in European football]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20050830105005/http://www.uefa.com/competitions/supercup/index.html Official Site] (Archived)
+* [https://www.uefa.com/uefasupercup/history/2005/ 2005 UEFA Super Cup: Monaco], UEFA.com
+
+{{UEFA Super Cup}}
+{{2005–06 in European Football (UEFA)}}
+{{Liverpool F.C. matches}}
+{{PFC CSKA Moscow matches}}
+
+{{good article}}
+
+{{DEFAULTSORT:2005 Uefa Super Cup}}
+[[Category:2005–06 in European men's continental football|Super Cup]]
+[[Category:2005 in Monégasque sport|UEFA]]
+[[Category:PFC CSKA Moscow matches|Super Cup 2005]]
+[[Category:UEFA Super Cup matches]]
+[[Category:Liverpool F.C. matches|Super Cup 2005]]
+[[Category:2005 in Russian football|UEFA]]
+[[Category:Football matches in Monaco]]
+[[Category:August 2005 sports events in Europe]]
+[[Category:Russia–United Kingdom sports relations]]
+[[Category:2005–06 in English men's football]]

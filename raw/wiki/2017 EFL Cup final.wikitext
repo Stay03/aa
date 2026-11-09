@@ -1,0 +1,289 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title = 2017 EFL Cup final
+| image = 2016–17 EFL Cup (5).jpg
+| caption = Match programme cover
+| event = [[2016–17 EFL Cup]]
+| team1 = [[Manchester United F.C.|Manchester United]]
+| team1score = 3
+| team2 = [[Southampton F.C.|Southampton]]
+| team2score = 2
+| details = 
+| date = {{Start date|2017|2|26|df=yes}}
+| stadium = [[Wembley Stadium]]
+| city = London
+| man_of_the_match1aname = [[Alan Hardaker Trophy|Man of the Match]]
+| man_of_the_match1a = [[Zlatan Ibrahimović]] (Manchester United)
+| referee = [[Andre Marriner]] ([[Birmingham County Football Association|Birmingham]])<ref name="referee"/>
+| attendance = 85,264
+| weather = 
+| previous = [[2016 Football League Cup final|2016]]
+| next = [[2018 EFL Cup final|2018]]
+}}
+
+The '''2017 EFL Cup final''' was the final [[association football]] match of the [[2016–17 EFL Cup]] that took place on 26 February 2017 between [[Manchester United F.C.|Manchester United]] and [[Southampton F.C.|Southampton]] at [[Wembley Stadium]] in London, England.<ref name="EFLSchedule">{{cite web |title=Key Dates |url=http://www.efl.com/about-efl/key-dates/ |publisher=[[English Football League]] |access-date=16 December 2016 |archive-date=16 August 2016 |archive-url=https://web.archive.org/web/20160816192004/http://www.efl.com/about-efl/key-dates/ |url-status=dead }}</ref> The final was the first League Cup final contested under the "EFL Cup" name following the renaming of The Football League to the [[English Football League]] (EFL).<ref>{{cite web|author=Press Association |url=https://www.theguardian.com/football/2015/nov/12/goodbye-football-league-hello-english-football-league-rebranding-announced |title=Goodbye Football League, hello English Football League: rebranding announced  |work=The Guardian |date=12 November 2015 |access-date=25 January 2017}}</ref> As winners, Manchester United initially qualified for the third qualifying round of the [[2017–18 UEFA Europa League]], but entered the group stage of the [[2017–18 UEFA Champions League]] instead by virtue of their [[2016–17 UEFA Europa League]] victory, passing the League Cup berth to the highest-placed Premier League team who had not already qualified for Europe, seventh-placed [[Everton F.C.|Everton]].<ref>{{cite news |first=Peter |last=Smith |title=Which European competitions will Premier League clubs be playing in next season? |url=http://www.skysports.com/football/news/11095/10879198/which-european-competitions-will-premier-league-clubs-be-playing-in-next-season |work=Sky Sports |date=25 May 2017 |access-date=17 August 2017 }}</ref>
+
+The match was Manchester United's ninth final in the League Cup, having won in their last three appearances and four overall, and Southampton's second, having lost their only other League Cup final in [[1979 Football League Cup final|1979]]. It was the second cup final played between the two sides, following the [[1976 FA Cup final]], when Southampton – then of the [[Football League Second Division|Second Division]] – beat [[Football League First Division|First Division]] Manchester United 1–0.
+
+== Route to the final ==
+===Manchester United===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+<!-- |+ '''Manchester United''' -->
+!width="25" | Round
+!width="150" | Opposition
+!width="50" | Score
+|-
+!scope=row style="text-align:center"| 3
+| [[Northampton Town F.C.|Northampton Town]] (A)
+| 3–1
+|-
+!scope=row style="text-align:center"| 4
+| [[Manchester City F.C.|Manchester City]] (H)
+| 1–0
+|-
+!scope=row style="text-align:center"| 5
+| [[West Ham United F.C.|West Ham United]] (H)
+| 4–1
+|-
+!scope=row style="text-align:center" rowspan="2"| SF
+| [[Hull City A.F.C.|Hull City]] (H)
+| 2–0
+|-
+| Hull City (A)
+| 1–2
+|-
+| colspan="3" style="background-color:white;"| <small>'''Key:''' (H) = Home venue; (A) = Away venue.</small>
+|}
+Manchester United, as a Premier League club involved in the [[2016–17 UEFA Europa League]], started the competition in the third round where they were drawn away at [[EFL League One]] team [[Northampton Town F.C.|Northampton Town]]. At [[Sixfields Stadium]] Manchester United won 3–1 with goals from [[Michael Carrick]], [[Ander Herrera]] and [[Marcus Rashford]].<ref>{{cite web|last=McNulty |first=Phil |url=https://www.bbc.co.uk/sport/football/37357878 |title=Northampton Town 1–3 Manchester United |publisher=BBC Sport |date=21 September 2016 |access-date=27 January 2017}}</ref> In the fourth round they were drawn against [[Manchester derby|Manchester]] rivals [[Manchester City F.C.|Manchester City]] at home. At [[Old Trafford]], Manchester United won 1–0 due to a goal from [[Juan Mata]].<ref>{{cite web|last=Reddy |first=Luke |url=https://www.bbc.co.uk/sport/football/37700029 |title=Manchester United 1–0 Manchester City |publisher=BBC Sport |date=27 October 2016  |access-date=27 January 2017}}</ref> In the quarter-final they drew fellow Premier League team [[West Ham United F.C.|West Ham United]] at Old Trafford, where they progressed 4–1 due to two goals each from [[Zlatan Ibrahimović]] and [[Anthony Martial]] despite manager [[José Mourinho]] serving a touchline ban.<ref>{{cite web|last=Jurejko |first=Jonathan |url=https://www.bbc.co.uk/sport/football/38073805 |title=Manchester United 4–1 West Ham United |publisher=BBC Sport |date=30 November 2016 |access-date=27 January 2017}}</ref>
+
+In the two legged semi-final, they drew fellow Premier League [[Hull City A.F.C.|Hull City]]. Manchester United won the first leg at Old Trafford 2–0 due to goals from Mata and [[Marouane Fellaini]]<ref>{{cite web|last=Rose |first=Gary |url=https://www.bbc.co.uk/sport/football/38493198 |title=Manchester United 2–0 Hull City |publisher=BBC Sport |date=10 January 2017 |access-date=27 January 2017}}</ref> and lost the second leg 2–1 at the [[KCOM Stadium]] despite a [[Paul Pogba]] goal but progressed to the final 3–2 on aggregate.<ref>{{cite web|last=Reddy |first=Luke |url=https://www.bbc.co.uk/sport/football/38672990 |title=Hull City 2–1 Manchester United (Agg: 2–3) |publisher=BBC Sport |date=26 January 2017|access-date=27 January 2017}}</ref>
+{{Clear}}
+
+===Southampton===
+{| class="wikitable plainrowheaders" style="text-align:center;margin-left:1em;float:right"
+<!-- |+ '''Southampton''' -->
+!width="25" | Round
+!width="150" | Opposition
+!width="50" | Score
+|-
+!scope=row style="text-align:center"| 3
+| [[Crystal Palace F.C.|Crystal Palace]] (H)
+| 2–0
+|-
+!scope=row style="text-align:center"| 4
+| [[Sunderland A.F.C.|Sunderland]] (H)
+| 1–0
+|-
+!scope=row style="text-align:center"| 5
+| [[Arsenal F.C.|Arsenal]] (A)
+| 2–0
+|-
+!scope=row style="text-align:center" rowspan="2"| SF
+| [[Liverpool F.C.|Liverpool]] (H)
+| 1–0
+|-
+| Liverpool (A)
+| 1–0
+|-
+| colspan="3" style="background-color:white;"| <small>'''Key:''' (H) = Home venue; (A) = Away venue.</small>
+|}
+Southampton, as a [[Premier League]] team involved in the 2016–17 UEFA Europa League, started the competition in the third round. They were drawn against fellow Premier League team [[Crystal Palace F.C.|Crystal Palace]] at home. At [[St Mary's Stadium]], they won 2–0 with goals from [[Charlie Austin]] and [[Jake Hesketh]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/37357875 |title=Southampton 2–0 Crystal Palace |publisher=BBC Sport |date=21 September 2016 |access-date=25 January 2017}}</ref>  In the next round they drew Premier League [[Sunderland A.F.C.|Sunderland]] at home. At St Mary's Stadium, they won 1–0 due to a goal from [[Sofiane Boufal]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/37700028 |title=Southampton 1–0 Sunderland |publisher=BBC Sport |date=26 October 2016 |access-date=25 January 2017}}</ref> In the quarter final they were drawn away at Premier League [[Arsenal F.C.|Arsenal]]. At the [[Emirates Stadium]], Southampton won 2–0 with goals from [[Jordy Clasie]] and [[Ryan Bertrand]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/38073806 |title=Arsenal 0–2 Southampton |publisher=BBC Sport |date=30 November 2016 |access-date=25 January 2017}}</ref> 
+
+In the two-legged semi final, Southampton drew fellow Premier League [[Liverpool F.C.|Liverpool]]. Southampton won the first leg 1–0 due to a goal from [[Nathan Redmond]]<ref>{{cite web|last=McNulty |first=Phil |url=https://www.bbc.co.uk/sport/football/38504049 |title=Southampton 1–0 Liverpool |publisher=BBC Sport |date=11 January 2017 |access-date=25 January 2017}}</ref> and won 1–0 away at [[Anfield]] with a goal from [[Shane Long]] to progress to the final 2–0 on aggregate.<ref>{{cite web|url=https://www.bbc.co.uk/sport/live/football/38470850 |title=EFL Cup semi-final: Liverpool v Southampton – Live |publisher=BBC Sport |date=25 January 2017 |access-date=25 January 2017}}</ref>  Southampton are the second team to reach a League Cup final without conceding any goals, after Tottenham Hotspur managed the feat in [[1982 Football League Cup final|1982]].<ref>{{cite web|url=https://www.theguardian.com/football/live/2017/jan/25/liverpool-v-southampton-efl-cup-semi-final-second-leg-live |title=Liverpool v Southampton: EFL Cup semi-final second leg – live!  |work=The Guardian |access-date=25 January 2017}}</ref> This would be their first major final since the [[2003 FA Cup final]].<ref>{{cite web|last=Banks |first=Tony |url=http://www.express.co.uk/sport/football/753123/Jurgen-Klopp-slams-Liverpool-team-EFL-Cup-semi-final-defeat-Southampton-News-Gossip |title=Southampton v Liverpool: Jurgen Klopp slams players for lack of reaction |work=Daily Express |date= 12 January 2017|access-date=25 January 2017}}</ref> Southampton fans celebrated reaching the final by painting white stripes on [[Royal Mail]] red [[pillar box]]es, mirroring the [[2012 Summer Olympics and Paralympics gold post boxes|2012 Olympic gold post box campaign]], though Royal Mail viewed this as vandalism and said that they would restore the pillar boxes to their original colour.<ref>{{cite web |url=https://www.bbc.co.uk/news/uk-england-hampshire-38771036 |title=Celebrating Southampton fans paint pillar boxes with team colours |work=BBC News |date=27 January 2017 |access-date=27 January 2017}}</ref>
+{{Clear}}
+
+==Match==
+===Summary===
+[[File:Manchester_United_v_Zorya_Luhansk,_September_2016_(08)_-_Zlatan_Ibrahimović_(edited).jpg|thumb|upright|[[Zlatan Ibrahimović]] scored two goals and was named [[man of the match]]]]
+[[Manolo Gabbiadini]] had the ball in the net early in the game after a low cross from the right by [[Cédric Soares|Cédric]], but the goal was controversially disallowed for offside.<ref name="26feb">{{cite web |last1=McNulty |first1=Phil |title=Manchester United 3 Southampton 2 |url=https://www.bbc.co.uk/sport/football/39018813|publisher=BBC Sport|access-date=27 February 2017|date=26 February 2017}}</ref><ref>{{cite news|last1=Hackett|first1=Keith|title=League Cup final offside error will haunt Stuart Burt – and possibly Southampton – for eternity|url=https://www.telegraph.co.uk/football/2017/02/26/league-cup-final-offside-error-will-haunt-stuart-burt-possibly/|access-date=27 February 2017|work=Daily Telegraph|date=27 February 2017}}</ref> [[Zlatan Ibrahimović]] opened the scoring in the 19th minute, with a free kick to the left of Southampton goalkeeper [[Fraser Forster]] awarded following a foul by [[Oriol Romeu]] on [[Ander Herrera]].<ref name="26feb"/> Despite the Saints enjoying a spell of pressure on the United goal, [[Jesse Lingard]] doubled the lead in the 38th minute with a low right foot shot to the right corner of the net from just inside the penalty area.<ref name="26feb"/> Gabbiadini brought Southampton back into the game on the stroke of half-time, converting [[James Ward-Prowse]]'s cross from the right from three yards out.<ref name="26feb"/><ref>{{cite web|url=https://www.theguardian.com/football/2017/feb/26/manchester-united-southampton-efl-cup-final-match-report|title=Ibrahimovic takes Manchester United to EFL Cup final win over Southampton|date=26 February 2017|work=Guardian|access-date=28 February 2017}}</ref>
+
+After the break, Gabbiadini equalised for the Saints when he flicked the ball low into the net with his left foot, it was his fifth goal in his first three games, as the Saints continued to dominate possession and chances on goal.<ref name="26feb"/> The Saints continued having chances to take the lead throughout the second half, as [[Dušan Tadić]] and Ward-Prowse saw efforts saved by United goalkeeper [[David de Gea]], and [[Oriol Romeu]] hit the post with a header from a corner, but with three minutes remaining Ibrahimović scored his second with a close range header after a cross from [[Ander Herrera]] on the right.<ref name="26feb"/>
+
+===Details===
+<onlyinclude>{{Football box
+|date={{Start date|2017|2|26|df=y}}
+|time=16:30 [[Greenwich Mean Time|GMT]]
+|team1=[[Manchester United F.C.|Manchester United]]
+|score=3–2
+|report=https://www.bbc.co.uk/sport/football/39018813
+|team2=[[Southampton F.C.|Southampton]]
+|goals1=
+*[[Zlatan Ibrahimović|Ibrahimović]] {{goal|19||87}}
+*[[Jesse Lingard|Lingard]] {{goal|38}}
+|goals2=
+*[[Manolo Gabbiadini|Gabbiadini]] {{goal|45+1||48}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=85,264
+|referee=[[Andre Marriner]] ([[Birmingham County Football Association|West Midlands]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _manutdh2016
+ |pattern_b  = _manutdh2016
+ |pattern_ra = _manutdh2016
+ |pattern_sh = _adidas_red
+ |pattern_so = _manutdh2016
+ |leftarm    = E20E0E
+ |body       = E20E0E
+ |rightarm   = E20E0E
+ |shorts     = FFFFFF
+ |socks      = 000000
+ |title      = {{nowrap|Manchester United}}<ref>{{cite web|last=Thompson |first=Gemma |url=http://www.manutd.com/en/News-And-Features/Football-News/2017/Jan/manchester-united-are-going-back-to-wembley-and-will-face-southampton-in-the-efl-cup-final.aspx |title=Reds are heading to Wembley |publisher=Manchester United F.C. |date=26 January 2017 |access-date=31 January 2017}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _southampton1617t
+ |pattern_b  = _southampton1617t
+ |pattern_ra = _southampton1617t
+ |pattern_sh = _southampton1617h2
+ |pattern_so = _southampton1617h2
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FF0000
+ |socks      = FFFFFF
+ |title      = Southampton<ref>{{cite web|url=https://southamptonfc.com/news/2017-01-31/southampton-white-kit-wembley-announcement |title=Saints to wear white kit at Wembley |publisher=Southampton F.C. |date=31 January 2017 |access-date=31 January 2017}}</ref>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[David de Gea]]
+|-
+|RB ||'''25'''||{{flagicon|ECU}} [[Antonio Valencia]]
+|-
+|CB ||'''3''' ||{{flagicon|CIV}} [[Eric Bailly]]
+|-
+|CB ||'''12'''||{{flagicon|ENG}} [[Chris Smalling]] ([[Captain (association football)|c]])
+|-
+|LB ||'''5''' ||{{flagicon|ARG}} [[Marcos Rojo]]
+|-
+|CM ||'''21'''||{{flagicon|ESP}} [[Ander Herrera]] || {{yel|24}}
+|-
+|CM ||'''6''' ||{{flagicon|FRA|1974}} [[Paul Pogba]]
+|-
+|RW ||'''8''' ||{{flagicon|ESP}} [[Juan Mata]] || || {{suboff|46}}
+|-
+|AM ||'''14'''||{{flagicon|ENG}} [[Jesse Lingard]] || {{yel|41}} || {{suboff|77}}
+|-
+|LW ||'''11'''||{{flagicon|FRA|1974}} [[Anthony Martial]] || || {{suboff|90}}
+|-
+|CF ||'''9''' ||{{flagicon|SWE}} [[Zlatan Ibrahimović]]
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''20'''||{{flagicon|ARG}} [[Sergio Romero]]
+|-
+|DF ||'''17'''||{{flagicon|NED}} [[Daley Blind]]
+|-
+|MF ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]] || || {{subon|46}}
+|- 
+|MF ||'''18'''||{{flagicon|ENG}} [[Ashley Young]]
+|-
+|MF ||'''27'''||{{flagicon|BEL}} [[Marouane Fellaini]] || || {{subon|90}}
+|-
+|FW ||'''10'''||{{flagicon|ENG}} [[Wayne Rooney]]
+|-
+|FW ||'''19'''||{{flagicon|ENG}} [[Marcus Rashford]] || || {{subon|77}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|POR}} [[José Mourinho]]
+|}
+|style="vertical-align:top|[[File:Man Utd vs Southampton 2017-02-26.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Fraser Forster]]
+|-
+|RB ||'''2''' ||{{flagicon|POR}} [[Cédric Soares|Cédric]]
+|-
+|CB ||'''24'''||{{flagicon|ENG}} [[Jack Stephens (footballer)|Jack Stephens]] || {{yel|40}}
+|-
+|CB ||'''3''' ||{{flagicon|JPN}} [[Maya Yoshida]]
+|-
+|LB ||'''21'''||{{flagicon|ENG}} [[Ryan Bertrand]]
+|-
+|RM ||'''16'''||{{flagicon|ENG}} [[James Ward-Prowse]]
+|-
+|CM ||'''14'''||{{flagicon|ESP}} [[Oriol Romeu]] || {{yel|18}}
+|-
+|CM ||'''8''' ||{{flagicon|NIR}} [[Steven Davis]] ([[Captain (association football)|c]]) || || {{suboff|90}}
+|-
+|LM ||'''22'''||{{flagicon|ENG}} [[Nathan Redmond]] || {{yel|56}}
+|-
+|SS ||'''11'''||{{flagicon|SRB}} [[Dušan Tadić]] || || {{suboff|77}}
+|-
+|CF ||'''20'''||{{flagicon|ITA}} [[Manolo Gabbiadini]] || || {{suboff|83}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''40'''||{{flagicon|FRA|1974}} [[Mouez Hassen]]
+|-
+|DF ||'''12'''||{{flagicon|URU}} [[Martín Cáceres]]
+|-
+|DF ||'''38''' ||{{flagicon|ENG}} [[Sam McQueen]]
+|-
+|MF ||'''19'''||{{flagicon|MAR}} [[Sofiane Boufal]] || || {{subon|77}}
+|-
+|MF ||'''23'''||{{flagicon|DEN}} [[Pierre-Emile Højbjerg]]
+|-
+|FW ||'''7''' ||{{flagicon|IRL}} [[Shane Long]] || || {{subon|83}}
+|-
+|FW ||'''9''' ||{{flagicon|ENG}} [[Jay Rodriguez]] || || {{subon|90}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|FRA|1974}} [[Claude Puel]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|style="width:40%; vertical-align:top;"|
+'''Man of the Match:'''
+<br />[[Zlatan Ibrahimović]] (Manchester United)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee">{{cite news |url=http://cup.efl.com/news/article/2016-17/andre-marriner-to-referee-efl-cup-final-3560155.aspx |title=Appointments: Andre Marriner to referee EFL Cup Final |website=EFL.com |publisher=English Football League |date=6 February 2017 |access-date=7 February 2017 |archive-url=https://web.archive.org/web/20170207192529/http://cup.efl.com/news/article/2016-17/andre-marriner-to-referee-efl-cup-final-3560155.aspx |archive-date=7 February 2017}}</ref>
+<br />Richard West ([[East Riding County Football Association|East Yorkshire]])
+<br />Stuart Burt ([[Northamptonshire Football Association|Northamptonshire]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee" />
+<br />[[Kevin Friend]] ([[Leicestershire and Rutland County Football Association|Leicestershire]])
+<br />'''[[Assistant referee (association football)#Fifth official|Fifth official]]:'''<ref name="referee" />
+<br />Matthew Wilkes ([[Birmingham County Football Association|West Midlands]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref>{{cite web |url=http://cup.efl.com/competition/rules/ |title=Rules |website=EFL.com |publisher=English Football League |access-date=24 February 2018 |archive-url=https://web.archive.org/web/20170126012953/http://cup.efl.com/competition/rules/ |archive-date=26 January 2017}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Seven named substitutes, of which up to three may be used
+|}
+
+==See also==
+* [[2017 FA Cup final]]
+
+==References==
+{{Reflist}}
+{{commons category}}
+
+{{Football League Cup seasons}}
+{{2016–17 in English football}}
+{{Southampton F.C. matches}}
+{{Manchester United F.C. matches}}
+
+{{DEFAULTSORT:Football League Cup final 2016}}
+[[Category:EFL Cup finals|2017]]
+[[Category:2016–17 in English men's football cups]]
+[[Category:EFL Cup seasons]]
+[[Category:2017 in sport in London]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:February 2017 sports events in the United Kingdom]]
+[[Category:Manchester United F.C. matches|League Cup final 2017]]
+[[Category:Southampton F.C. matches|League Cup final 2017]]

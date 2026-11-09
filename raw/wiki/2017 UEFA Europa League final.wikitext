@@ -1,0 +1,565 @@
+{{Use dmy dates|date=May 2018}}
+{{Infobox football match
+| title              = 2017 UEFA Europa League final
+| image              = 2017 UEFA Europa League final programme.png
+| image_size         = frameless
+| caption            = Match programme cover
+| event              = [[2016–17 UEFA Europa League]]
+| team1              = [[AFC Ajax|Ajax]]
+| team1association   = {{fbaicon|NED|size=30px}}
+| team1score         = 0
+| team2              = [[Manchester United F.C.|Manchester United]]
+| team2association   = {{fbaicon|ENG|size=30px}}
+| team2score         = 2
+| details            =
+| date               = {{Start date|2017|5|24|df=y}}
+| stadium            = [[Strawberry Arena|Friends Arena]]
+| city               = [[Solna]]
+| man_of_the_match1a = [[Ander Herrera]] {{nowrap|(Manchester United)}}<ref name="motm">{{cite news |title=Herrera named man of the match |url=https://www.uefa.com/uefaeuropaleague/news/0250-0c51179e21ca-099762eca656-1000--herrera-named-man-of-the-match/ |website=UEFA.com|publisher=Union of European Football Associations |date=24 May 2017 |access-date=17 February 2018 }}</ref>
+| referee            = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])<ref name="referee"/>
+| attendance         = 46,961<ref name="full_time"/>
+| weather            = Partly cloudy<br />{{convert|19|°C|°F}}<br />44% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2017/2019702_LU.pdf |title=Tactical Lineups – Final – Wednesday 24 May 2017 |work=UEFA.com |publisher=Union of European Football Associations |date=24 May 2017 |access-date=24 May 2017}}</ref>
+| previous           = [[2016 UEFA Europa League final|2016]]
+| next               = [[2018 UEFA Europa League final|2018]]
+}}
+The '''2017 UEFA Europa League final''' was the final match of the [[2016–17 UEFA Europa League]], the 46th season of [[Europe]]'s secondary club [[association football|football]] tournament organised by [[UEFA]], and the 8th season since it was renamed from the UEFA Cup to the [[UEFA Europa League]]. It was played on 24 May 2017 at the [[Strawberry Arena|Friends Arena]] in [[Solna]], [[Stockholm]], Sweden,<ref name="host">{{cite web |title=Stockholm to host 2017 UEFA Europa League final |url=https://www.uefa.com/uefaeuropaleague/news/0250-0c510cb9c76a-a7d5bdb2ba3b-1000--stockholm-to-host-2017-uefa-europa-league-final/ |website=UEFA.com|publisher=Union of European Football Associations |date=30 June 2015 |access-date=24 May 2017 }}</ref> between [[Royal Dutch Football Association|Dutch]] side [[AFC Ajax|Ajax]] and [[The Football Association|English]] side [[Manchester United F.C.|Manchester United]]. Manchester United won the match 2–0 to secure their first title in this competition.<ref>{{cite web|url=https://www.theguardian.com/football/2017/may/24/manchester-united-ajax-europa-league-final-match-report|title= Manchester United's Paul Pogba sets up Europa League final win over Ajax|date=24 May 2017|work=Guardian|access-date=25 May 2017}}</ref> With this victory, they joined [[Juventus FC|Juventus]], fellow finalists Ajax, [[FC Bayern Munich|Bayern Munich]] and [[Chelsea F.C.|Chelsea]] as the only clubs to [[UEFA club competition records and statistics#List of teams to have won the main European club competitions|won all three major European trophies]] at the time ([[UEFA Champions League|European Champion Clubs' Cup/UEFA Champions League]], UEFA Cup/Europa League, and the now-defunct [[UEFA Cup Winners' Cup|Cup Winners' Cup]]);<ref name="main UEFA competitions">{{cite news |url=https://www.bbc.com/sport/football/40004559 |title=Ajax 0 Manchester United 2 |work=BBC Sport |date=24 May 2017 |access-date=25 May 2017}}</ref><ref>{{Cite web |date=20 May 2020 |title=Which teams have won all the major UEFA club trophies? |url=https://www.uefa.com/uefachampionsleague/news/025d-0f5b873cb860-61d680b0f8bc-1000--which-teams-have-won-all-the-major-uefa-club-trophies/ |access-date=28 May 2025|website=UEFA.com|publisher=Union of European Football Associations}}</ref><ref>{{Cite web |date=24 May 2017|title=Manchester United become fifth team to win all three major European trophies |url=https://www.goal.com/en-us/news/manchester-united-become-fifth-team-to-win-all-three-major-european-trophies/1fiu81qn3v8h914r3whq2rd71p |access-date=28 February 2025|website=Goal.com}}</ref> while, with this defeat, Ajax became the fifth club – after [[Hamburger SV]], [[ACF Fiorentina|Fiorentina]], [[Arsenal F.C.|Arsenal]] and [[Liverpool F.C.|Liverpool]] – to have lost a final in all these competitions.<ref>{{cite web|first=Roberto |last=Di Maggio |url=https://www.rsssf.org/miscellaneous/intfinalrec.html|title=International Finalists|publisher=RSSSF|date=18 February 2021}}</ref>
+
+Manchester United earned the right to play against the winners of the [[2016–17 UEFA Champions League]], [[Real Madrid CF|Real Madrid]], in the [[2017 UEFA Super Cup]]. They also entered the group stage of the [[2017–18 UEFA Champions League]], as the berth reserved for the Champions League title holders was not used.<ref>{{cite web |title=Champions League group place on offer for Ajax or Manchester United |url=https://www.uefa.com/uefachampionsleague/news/0239-0e970bbed2d3-a98a31fc7d8f-1000--europa-league-win-earns-manchester-united-a-champions-league/ |website=UEFA.com|publisher=Union of European Football Associations |date=22 May 2017 |access-date=24 May 2017 }}</ref> Police of Stockholm took measures against potential terrorist attacks which they described as "the new normality", since two had occurred in Stockholm in [[2010 Stockholm bombings|2010]] and [[2017 Stockholm truck attack|just a month before the final]], and also prepared for potential [[Football hooliganism|clashes between supporters]].<ref>{{Cite news|url=http://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=6702579|title=Polisen redo för Europa League-finalen efter dådet i Manchester – Nyheter (Ekot)|language=sv|work=Sveriges Radio|date=23 May 2017 |access-date=15 July 2017 |last1=Hansell |first1=Bengt }}</ref>
+
+It was United's last trophy for nearly six years until they defeated [[Newcastle United F.C.|Newcastle United]] 2–0 to win the [[2023 EFL Cup final]].<ref>{{cite web |last=McNulty |first=Phil |url=https://www.bbc.com/sport/football/64693810|title=Manchester United 2-0 Newcastle United: Erik ten Hag's side win Carabao Cup for first trophy since 2017 |work=BBC Sport|date=26 February 2023|accessdate=26 February 2023 }}</ref>
+
+==Venue==
+[[File:Friends Arena from inside.jpg|thumb|The [[Strawberry Arena|Friends Arena]] in [[Solna]] hosted the final]]
+[[Strawberry Arena|Friends Arena]], located in [[Solna Municipality]] of the [[Stockholm urban area]], was announced as the final venue on 30 June 2015, following the decision of the UEFA Executive Committee meeting in [[Prague]], Czech Republic.<ref name="host"/>
+
+==Background==
+This was Ajax's second final in the UEFA Cup/Europa League, having won in the [[1992 UEFA Cup Final]] over [[Torino FC|Torino]] on away goals.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0239-0e1680b9e7d1-2917ed41b578-1000--uelfinal-ajax-v-man-united-all-you-need-to-know/|title=#UELfinal, Ajax v Man. United: all you need to know|website=UEFA.com|publisher=Union of European Football Associations |date=11 May 2017}}</ref>
+
+This was Manchester United's first final in the UEFA Cup/Europa League. They were seeking to become only the fifth club to have [[UEFA club competition records and statistics#List of teams to have won the main European club competitions|won all three major European trophies]] at the time ([[UEFA Champions League|European Champion Clubs' Cup/UEFA Champions League]], UEFA Cup/Europa League, and the now-defunct [[UEFA Cup Winners' Cup]]).<ref name="main UEFA competitions"/><ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0251-0e96f862f259-cf0ccb7cf3e4-1000--tottenham-eye-rare-european-clean-sweep/|title=Manchester United aiming for European clean sweep|website=UEFA.com|publisher=Union of European Football Associations |date=11 May 2017}}</ref>
+
+The two sides had previously met four times in European competitions, all in the UEFA Cup/Europa League, with a record of two wins each. However, Manchester United had eliminated Ajax on both occasions, 2–1 on aggregate in the [[1976–77 UEFA Cup]] first round, and 3–2 on aggregate in the [[2011–12 UEFA Europa League]] round of 32.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0239-0e96fa16b146-14eee51556cc-1000--ajax-v-manchester-united-the-past-meetings/|title=Ajax v Manchester United: the past meetings|website=UEFA.com|publisher=Union of European Football Associations |date=18 May 2017}}</ref><ref>{{cite web|url=https://www.uefa.com/printoutfiles/competitions/uefaeuropaleague/2017/e/e_2019702_pk.pdf|archive-url=https://web.archive.org/web/20180507090627/http://www.uefa.com/printoutfiles/competitions/uefaeuropaleague/2017/e/e_2019702_pk.pdf|url-status=dead|archive-date=7 May 2018|title= Match Press Kit|date=24 May 2017|website=UEFA.com|publisher=Union of European Football Associations |access-date=24 May 2017}}</ref>
+
+===Previous finals===
+''In the following table, finals until 2009 were in the UEFA Cup era, since 2010 were in the UEFA Europa League era.''
+
+{| class="wikitable"
+|-
+!Team
+!Previous finals appearances (bold indicates winners)
+|-
+|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|1 ('''[[1992 UEFA Cup Final|1992]]''')
+|-
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|None
+|}
+
+==Route to the final==
+{{Further|2016–17 UEFA Champions League|2016–17 UEFA Europa League}}
+''Note: In the table, the score of the finalist is given first (H = home; A = away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=4|{{fbaicon|NED}} [[AFC Ajax|Ajax]]<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0239-0e9709b8a855-eb35924eb7cd-1000--story-so-far-europa-league-finalists-ajax/|title=Story so far: Europa League finalists Ajax|website=UEFA.com|publisher=Union of European Football Associations |date=20 May 2017}}</ref>
+!Round
+!colspan=4|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0239-0e970ddde751-4d97179122a1-1000--story-so-far-europa-league-finalists-manchester-united/|title=Story so far: Europa League finalists Manchester United|website=UEFA.com|publisher=Union of European Football Associations |date=22 May 2017}}</ref>
+|- style="background:#C1E0FF"
+|colspan=4|'''[[2016–17 UEFA Champions League|Champions League]]'''
+|
+|colspan=4|'''[[2016–17 UEFA Europa League|Europa League]]'''
+|-
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|style="background:#C1E0FF"|Qualifying phase ([[2016–17 UEFA Champions League qualifying phase and play-off round|CL]], [[2016–17 UEFA Europa League qualifying phase and play-off round|EL]])
+|colspan=4 rowspan=4|Bye
+|-
+|align=left|{{fbaicon|GRE}} [[PAOK FC|PAOK]]
+|3–2
+|[[2016–17 UEFA Champions League qualifying phase and play-off round#Ajax v PAOK|1–1]] (H)
+|[[2016–17 UEFA Champions League qualifying phase and play-off round#PAOK v Ajax|2–1]] (A)
+|style="background:#C1E0FF"|Third qualifying round
+|-
+|align=left|{{fbaicon|RUS}} [[FC Rostov|Rostov]]
+|2–5
+|[[2016–17 UEFA Champions League qualifying phase and play-off round#Ajax v Rostov|1–1]] (H)
+|[[2016–17 UEFA Champions League qualifying phase and play-off round#Rostov v Ajax|1–4]] (A)
+|style="background:#C1E0FF"|Play-off round
+|- style="background:#C1E0FF"
+|colspan=4|'''[[2016–17 UEFA Europa League|Europa League]]'''
+|
+|- style="background:#C1E0FF"
+|Opponent
+|colspan=3|Result
+|[[2016–17 UEFA Europa League group stage|Group stage]]
+|Opponent
+|colspan=3|Result
+|-
+|align=left|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Panathinaikos v Ajax|2–1]] (A)
+|style="background:#C1E0FF"|Matchday 1
+|align=left|{{fbaicon|NED}} [[Feyenoord]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Feyenoord v Manchester United|0–1]] (A)
+|-
+|align=left|{{fbaicon|BEL}} [[Standard Liège]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Ajax v Standard Liège|1–0]] (H)
+|style="background:#C1E0FF"|Matchday 2
+|align=left|{{fbaicon|UKR}} [[FC Zorya Luhansk|Zorya Luhansk]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Manchester United v Zorya Luhansk|1–0]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[RC Celta de Vigo|Celta Vigo]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Celta Vigo v Ajax|2–2]] (A)
+|style="background:#C1E0FF"|Matchday 3
+|align=left|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Manchester United v Fenerbahçe|4–1]] (H)
+|-
+|align=left|{{fbaicon|ESP}} [[RC Celta de Vigo|Celta Vigo]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Ajax v Celta Vigo|3–2]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|align=left|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Fenerbahçe v Manchester United|1–2]] (A)
+|-
+|align=left|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Ajax v Panathinaikos|2–0]] (H)
+|style="background:#C1E0FF"|Matchday 5
+|align=left|{{fbaicon|NED}} [[Feyenoord]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Manchester United v Feyenoord|4–0]] (H)
+|-
+|align=left|{{fbaicon|BEL}} [[Standard Liège]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Standard Liège v Ajax|1–1]] (A)
+|style="background:#C1E0FF"|Matchday 6
+|align=left|{{fbaicon|UKR}} [[FC Zorya Luhansk|Zorya Luhansk]]
+|colspan=3|[[2016–17 UEFA Europa League group stage#Zorya Luhansk v Manchester United|2–0]] (A)
+|-
+|colspan=4 valign=top|'''[[2016–17 UEFA Europa League group stage#Group G|Group G]] winners'''
+{{:2016–17 UEFA Europa League group stage|transcludesection=Group G|only_pld_pts=yes|show_matches=no|showteam=AJX}}
+|style="background:#C1E0FF"|Final standings
+|colspan=4 valign=top|'''[[2016–17 UEFA Europa League group stage#Group A|Group A]] runners-up'''
+{{:2016–17 UEFA Europa League group stage|transcludesection=Group A|only_pld_pts=yes|show_matches=no|showteam=MU}}
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2016–17 UEFA Europa League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|align=left|{{fbaicon|POL}} [[Legia Warsaw]]
+|1–0
+|[[2016–17 UEFA Europa League knockout phase#Legia Warsaw v Ajax|0–0]] (A)
+|[[2016–17 UEFA Europa League knockout phase#Ajax v Legia Warsaw|1–0]] (H)
+|style="background:#C1E0FF"|Round of 32
+|align=left|{{fbaicon|FRA|1974}} [[AS Saint-Étienne|Saint-Étienne]]
+|4–0
+|[[2016–17 UEFA Europa League knockout phase#Manchester United v Saint-Étienne|3–0]] (H)
+|[[2016–17 UEFA Europa League knockout phase#Saint-Étienne v Manchester United|1–0]] (A)
+|-
+|align=left|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|3–2
+|[[2016–17 UEFA Europa League knockout phase#Copenhagen v Ajax|1–2]] (A)
+|[[2016–17 UEFA Europa League knockout phase#Ajax v Copenhagen|2–0]] (H)
+|style="background:#C1E0FF"|Round of 16
+|align=left|{{fbaicon|RUS}} [[FC Rostov|Rostov]]
+|2–1
+|[[2016–17 UEFA Europa League knockout phase#Rostov v Manchester United|1–1]] (A)
+|[[2016–17 UEFA Europa League knockout phase#Manchester United v Rostov|1–0]] (H)
+|-
+|align=left|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|4–3
+|[[2016–17 UEFA Europa League knockout phase#Ajax v Schalke 04|2–0]] (H)
+|[[2016–17 UEFA Europa League knockout phase#Schalke 04 v Ajax|2–3]] {{aet}} (A)
+|style="background:#C1E0FF"|Quarter-finals
+|align=left|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|3–2
+|[[2016–17 UEFA Europa League knockout phase#Anderlecht v Manchester United|1–1]] (A)
+|[[2016–17 UEFA Europa League knockout phase#Manchester United v Anderlecht|2–1]] {{aet}} (H)
+|-
+|align=left|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|5–4
+|[[2016–17 UEFA Europa League knockout phase#Ajax v Lyon|4–1]] (H)
+|[[2016–17 UEFA Europa League knockout phase#Lyon v Ajax|1–3]] (A)
+|style="background:#C1E0FF"|Semi-finals
+|align=left|{{fbaicon|ESP}} [[RC Celta de Vigo|Celta Vigo]]
+|2–1
+|[[2016–17 UEFA Europa League knockout phase#Celta Vigo v Manchester United|1–0]] (A)
+|[[2016–17 UEFA Europa League knockout phase#Manchester United v Celta Vigo|1–1]] (H)
+|}
+
+==Pre-match==
+
+===Ambassador===
+The ambassador for the final was former Swedish international player [[Patrik Andersson]], who won the Champions League with [[FC Bayern Munich|Bayern Munich]] against [[Valencia CF|Valencia]] in [[2001 UEFA Champions League Final|2001]].<ref>{{cite news|title=Patrik Andersson the face of Stockholm final|url=https://www.uefa.com/uefaeuropaleague/news/0230-0e94c11119d3-8d72bfbd4e61-1000--patrik-andersson-the-face-of-stockholm-final/|website=UEFA.com|publisher=Union of European Football Associations |date=23 August 2016}}</ref>
+
+===Identity===
+UEFA unveiled the brand identity of the final on 26 August 2016 in [[Monaco]] during the group stage draw.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0230-0e94d179d9e5-01e9bf3c3f10-1000--stockholm-2017-final-identity-revealed/|title=Stockholm 2017 final identity revealed|website=UEFA.com |publisher=Union of European Football Associations|date=26 August 2016}}</ref>
+
+===Ticketing===
+With a stadium capacity of 48,000 for the final, a total number of 37,000 tickets were available to fans and the general public, with the two finalist teams receiving 10,000 tickets each and with 17,000 tickets being available for sale to fans worldwide via UEFA.com from 17 to 28 March 2017 in four price categories: €150, €100, €70 and €45. The remaining tickets were allocated to the local organising committee, UEFA and national associations, commercial partners and broadcasters, and to serve the corporate hospitality programme.<ref>{{cite web|url=https://www.uefa.com/mediaservices/mediareleases/newsid=2449690.html|title=Tickets for 2017 UEFA Europa League final in Stockholm on sale|website=UEFA.com |publisher=Union of European Football Associations |date=17 March 2017}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+===Officials===
+In May 2017, Slovenian [[referee (association football)|referee]] [[Damir Skomina]] was chosen to oversee the final. He was joined by compatriots Jure Praprotnik and Robert Vukan as [[assistant referee (association football)|assistant referees]], [[Matej Jug]] and [[Slavko Vinčić]] as [[assistant referee (association football)#Additional assistant referee|additional assistant referees]], Tomaž Klančnik as [[assistant referee (association football)#Fifth official and reserve assistant referee|reserve assistant referee]], and Italian official [[Gianluca Rocchi]] as [[assistant referee (association football)#Fourth official|fourth official]].<ref name="referee">{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0239-0e96fa16ab3b-80251dc425b2-1000--damir-skomina-to-referee-europa-league-final/|title=Damir Skomina to referee Europa League final|website=UEFA.com|publisher=Union of European Football Associations |date=12 May 2017 |access-date=13 May 2017}}</ref>
+
+===Opening ceremony===
+A minute's silence was observed before the final in memory to victims of the [[Manchester Arena bombing|bombing in Manchester]] which occurred two days before the final; the opening ceremony was thus considerably reduced.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0239-0e97125b21e7-0c68c151261f-1000--minute-s-silence-at-uefa-europa-league-final/|title=Minute's silence at UEFA Europa League final|website=UEFA.com |publisher=Union of European Football Associations|date=23 May 2017}}</ref>
+
+==Match==
+[[File:2017 UEFA Europa League Final first half.jpg|thumb|The players during the first half of the game.]]
+
+===Summary===
+[[Paul Pogba]] opened the scoring for Manchester United in the 18th minute when his low left foot shot from just outside the penalty area took a deflection off [[Davinson Sánchez]] which wrong footed the goalkeeper before looping over him and into the net.<ref>{{cite news |title=Manchester United beat Ajax to claim Europa League title |url=https://www.uefa.com/uefaeuropaleague/news/0250-0c5117a4c425-9136199d2703-1000--manchester-united-beat-ajax-to-claim-europa-league-title/ |website=UEFA.com|publisher=Union of European Football Associations |date=24 May 2017 |access-date=24 May 2017}}</ref><ref>{{cite web|url=https://www.telegraph.co.uk/football/2017/05/25/man-utd-win-europa-league-reaction-latest-jose-mourinhos-side/|title= Live Man Utd win Europa League – reaction and latest as Jose Mourinho's side qualify for Champions League|date=24 May 2017|work=The Telegraph|access-date=25 May 2017}}</ref> [[Henrikh Mkhitaryan]] got the second goal three minutes into the second half when with his back to goal he flicked the ball into the net with his right foot from three yards out after the ball had been knocked down to him by [[Chris Smalling]] after a corner from the right by [[Juan Mata]].<ref>{{cite web|url=https://www.theguardian.com/football/live/2017/may/24/ajax-v-manchester-united-europa-league-final-live?page=with:block-5925e6a6e4b00493c8275a66#liveblog-navigation|title= Ajax 0 Manchester United 2: As it happened |date=24 May 2017|work=The Guardian|access-date=25 May 2017}}</ref> [[Wayne Rooney]], who entered minutes before the final whistle, took the captain's armband and later led the team to lift the trophy in his final game for United; he would return to [[Everton F.C.|Everton]] less than two months later.
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the semi-final draw, which was held on 21 April 2017 at UEFA headquarters in [[Nyon]], Switzerland.<ref>{{cite web |title=UEFA Europa League semi-final draw |url=https://www.uefa.com/uefaeuropaleague/draws/2017/2000796/ |website=UEFA.com|publisher=Union of European Football Associations |access-date=3 June 2017}}</ref> Ajax as the "home" team played with their new home kit which would be used the following season. United wore their outgoing away (European third) kit.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2017|5|24|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[AFC Ajax|Ajax]] {{fbaicon|NED}}
+|score      = 0–2
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+|goals2     =
+*[[Paul Pogba|Pogba]] {{goal|18}}
+*[[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|48}}
+|stadium    = [[Strawberry Arena|Friends Arena]], [[Solna]]
+|attendance = 46,961<ref name="full_time">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2017/2019702_FR.pdf |title=Full Time Report Final – Ajax v Manchester United |website=UEFA.com |publisher=Union of European Football Associations |date=24 May 2017 |access-date=24 May 2017}}</ref>
+|referee    = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2019702/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _ajax1718h
+ |pattern_b  = _ajax1718H
+ |pattern_ra = _ajax1718h
+ |pattern_sh = _ajax1718h
+ |pattern_so = _ajax1718hlong
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Ajax<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _manutda2016
+ |pattern_b  = _manutda2016
+ |pattern_ra = _manutda2016
+ |pattern_sh = 
+ |pattern_so = _manutda2016
+ |leftarm    = 2d2dd3
+ |body       = 2d2dd3
+ |rightarm   = 2d2dd3
+ |shorts     = 101068
+ |socks      = 2d2dd3
+ |title      = {{nowrap|Manchester United}}<ref name="lineups"/>
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top; width:40%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''24'''||{{flagicon|CMR}} [[André Onana]]
+|-
+|RB ||'''3''' ||{{flagicon|NED}} [[Joël Veltman]] || {{yel|58}}
+|-
+|CB ||'''5''' ||{{flagicon|COL}} [[Davinson Sánchez]]
+|-
+|CB ||'''36'''||{{flagicon|NED}} [[Matthijs de Ligt]]
+|-
+|LB ||'''4''' ||{{flagicon|NED}} [[Jaïro Riedewald]] || {{yel|78}} || {{suboff|82}}
+|-
+|CM ||'''10'''||{{flagicon|NED}} [[Davy Klaassen]] ([[Captain (association football)|c]])
+|-
+|CM ||'''20'''||{{flagicon|DEN}} [[Lasse Schöne]] || || {{suboff|70}}
+|-
+|CM ||'''22'''||{{flagicon|MAR}} [[Hakim Ziyech]]
+|-
+|RF ||'''9''' ||{{flagicon|BFA}} [[Bertrand Traoré]]
+|-
+|CF ||'''25'''||{{flagicon|DEN}} [[Kasper Dolberg]] || || {{suboff|62}}
+|-
+|LF ||'''11'''||{{flagicon|GER}} [[Amin Younes]] || {{yel|64}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''33'''||{{flagicon|NED}} [[Diederik Boer]]
+|-
+|DF ||'''2''' ||{{flagicon|NED}} [[Kenny Tete]]
+|-
+|DF ||'''16'''||{{flagicon|GER}} [[Heiko Westermann]]
+|-
+|MF ||'''21'''||{{flagicon|NED}} [[Frenkie de Jong]] || || {{subon|82}}
+|-
+|MF ||'''30'''||{{flagicon|NED}} [[Donny van de Beek]] || || {{subon|70}}
+|-
+|FW ||'''45'''||{{flagicon|NED}} [[Justin Kluivert]]
+|-
+|FW ||'''77'''||{{flagicon|BRA}} [[David Neres]] || || {{subon|62}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Peter Bosz]]
+|}
+|style="vertical-align:top|[[File:Ajax vs Man Utd 2017-05-24.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''20'''||{{flagicon|ARG}} [[Sergio Romero]]
+|-
+|RB ||'''25'''||{{flagicon|ECU}} [[Antonio Valencia]] ([[Captain (association football)|c]])
+|-
+|CB ||'''12'''||{{flagicon|ENG}} [[Chris Smalling]]
+|-
+|CB ||'''17'''||{{flagicon|NED}} [[Daley Blind]]
+|-
+|LB ||'''36'''||{{flagicon|ITA}} [[Matteo Darmian]]
+|-
+|DM ||'''21'''||{{flagicon|ESP}} [[Ander Herrera]]
+|-
+|RM ||'''8''' ||{{flagicon|ESP}} [[Juan Mata]] || {{yel|78}} || {{suboff|90}}
+|-
+|CM ||'''27'''||{{flagicon|BEL}} [[Marouane Fellaini]] || {{yel|52}}
+|-
+|CM ||'''6''' ||{{flagicon|FRA|1974}} [[Paul Pogba]]
+|-
+|LM ||'''22'''||{{flagicon|ARM}} [[Henrikh Mkhitaryan]] || {{yel|31}} || {{suboff|74}}
+|-
+|CF ||'''19'''||{{flagicon|ENG}} [[Marcus Rashford]] || || {{suboff|84}}
+|-
+|colspan="3"|'''Substitutes:'''
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[David de Gea]]
+|-
+|DF ||'''4''' ||{{flagicon|ENG}} [[Phil Jones (footballer, born 1992)|Phil Jones]]
+|-
+|DF ||'''24'''||{{flagicon|NED}} [[Timothy Fosu-Mensah]]
+|-
+|MF ||'''14'''||{{flagicon|ENG}} [[Jesse Lingard]] || || {{subon|74}}
+|-
+|MF ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]]
+|-
+|FW ||'''10'''||{{flagicon|ENG}} [[Wayne Rooney]] || || {{subon|90}}
+|-
+|FW ||'''11'''||{{flagicon|FRA|1974}} [[Anthony Martial]] || || {{subon|84}}
+|-
+|colspan="3"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|POR}} [[José Mourinho]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Ander Herrera]] (Manchester United)<ref name="motm"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+<br />Robert Vukan ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+<br />'''[[Assistant referee (association football)#Additional assistant referee|Additional assistant referees]]:'''<ref name="referee"/>
+<br />[[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+<br />[[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Assistant referee (association football)#Fifth official|Reserve assistant referee]]:'''<ref name="referee"/>
+<br />Tomaž Klančnik ([[Football Association of Slovenia|Slovenia]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |title=Regulations of the UEFA Europa League 2016/17 Season |url=http://www.uefa.org/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/35/92/45/2359245_DOWNLOAD.pdf |website=UEFA.com|publisher=Union of European Football Associations |access-date=26 June 2016 }}</ref>
+* 90 minutes
+* 30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+* [[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+* Seven named substitutes, of which up to three may be used
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2017/2019702_TS.pdf |title=Team statistics |website=UEFA.com |publisher=Union of European Football Associations |date=24 May 2017 |access-date=24 May 2017}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Ajax
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|6
+|4
+|-
+!scope=row|Shots on target
+|1
+|2
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|66%
+|34%
+|-
+!scope=row|Corner kicks
+|2
+|0
+|-
+!scope=row|Fouls committed
+|6
+|9
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|0
+|1
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Ajax
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|11
+|2
+|-
+!scope=row|Shots on target
+|2
+|2
+|-
+!scope=row|Saves
+|1
+|2
+|-
+!scope=row|Ball possession
+|67%
+|33%
+|-
+!scope=row|Corner kicks
+|3
+|2
+|-
+!scope=row|Fouls committed
+|9
+|8
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|3
+|2
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Ajax
+!scope="col" style="width:70px"|Manchester United
+|-
+!scope=row|Goals scored
+|0
+|2
+|-
+!scope=row|Total shots
+|17
+|6
+|-
+!scope=row|Shots on target
+|3
+|4
+|-
+!scope=row|Saves
+|2
+|3
+|-
+!scope=row|Ball possession
+|67%
+|33%
+|-
+!scope=row|Corner kicks
+|5
+|2
+|-
+!scope=row|Fouls committed
+|15
+|17
+|-
+!scope=row|Offsides
+|0
+|1
+|-
+!scope=row|Yellow cards
+|3
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2017 UEFA Champions League final]]
+*[[2017 UEFA Super Cup]]
+*[[AFC Ajax in European football]]
+*[[Manchester United F.C. in European football]]
+*[[2016–17 AFC Ajax season]]
+*[[2016–17 Manchester United F.C. season]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.uefa.com/uefaeuropaleague/history/seasons/2017/?referrer=%2fuefaeuropaleague%2fseason%3d2017%2findex 2016–17 UEFA Europa League]
+*[https://web.archive.org/web/20160604045358/http://www.uefa.com/uefaeuropaleague/season=2017/final/index.html 2017 UEFA Europa League Final], UEFA.com
+
+{{UEFA Europa League seasons}}
+{{2016–17 in European football (UEFA)}}
+{{AFC Ajax matches}}
+{{Manchester United F.C. matches}}
+
+{{DEFAULTSORT:Uefa Europa League Final 2017}}
+[[Category:UEFA Europa League finals|2017]]
+[[Category:2016–17 UEFA Europa League|Final]]
+[[Category:2017 in Swedish football|Europa League Final]]
+[[Category:Football matches in Sweden]]
+[[Category:AFC Ajax matches]]
+[[Category:Manchester United F.C. matches]]
+[[Category:2016–17 in Dutch football|Europa League Final]]
+[[Category:2016–17 in English men's football|Europa League Final]]
+[[Category:May 2017 sports events in Europe]]
+[[Category:Football in Stockholm County]]
+[[Category:Sports competitions in Solna]]
+[[Category:Netherlands–United Kingdom sports relations|2017]]

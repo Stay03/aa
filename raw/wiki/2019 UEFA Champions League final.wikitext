@@ -1,0 +1,634 @@
+{{Short description|Football match in Madrid, Spain}}
+{{Use British English|date=May 2019}}
+{{Use dmy dates|date=May 2019}}
+{{Infobox football match
+| title = 2019 UEFA Champions League final
+| image = 2019 UEFA Champions League Final programme.jpg
+| image_size = frameless
+| caption = Match programme cover
+| event = [[2018–19 UEFA Champions League]]
+| team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| team1association = {{fbaicon|ENG|size=30px}}
+| team1score = 0
+| team2 = [[Liverpool F.C.|Liverpool]]
+| team2association = {{fbaicon|ENG|size=30px}}
+| team2score = 2
+| details = 
+| date = {{Start date|2019|6|1|df=y}}
+| stadium = [[Metropolitano Stadium|Estadio Metropolitano]]
+| city = [[Madrid]]
+| man_of_the_match1a = [[Virgil van Dijk]] (Liverpool)<ref name="MOTM">{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0252-0e99c19b2901-76ca7c2a8136-1000--champions-league-final-man-of-the-match-virgil-van-dijk/ |title=Champions League final man of the match: Virgil van Dijk |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2019 |access-date=1 June 2019 |url-status=live |archive-url=https://archive.today/20190602180226/https://www.uefa.com/uefachampionsleague/news/newsid=2607878.html |archive-date=2 June 2019 }}</ref>
+| referee = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])<ref name="officials"/>
+| attendance = 63,272<ref name="full_time"/>
+| weather = Sunny<br />{{convert|30|°C|°F|abbr=on}}<br />15% [[humidity]]<ref name="lineups"/>
+| previous = [[2018 UEFA Champions League final|2018]]
+| next = [[2020 UEFA Champions League final|2020]]
+}}
+The '''2019 UEFA Champions League final''' was the final match of the [[2018–19 UEFA Champions League]], the 64th season of Europe's premier club football tournament organised by [[UEFA]] and the 27th season since it was rebranded the [[UEFA Champions League]]. It was played at the [[Metropolitano Stadium|Estadio Metropolitano]] in [[Madrid]], Spain on 1 June 2019,<ref name="venue">{{cite news|date=20 September 2017|title=Madrid to host UEFA Champions League Final 2019|website=UEFA.com|publisher=Union of European Football Associations|url=https://www.uefa.com/uefachampionsleague/news/023d-0e16a85a80e5-62fd034c8ba8-1000--madrid-s-estadio-metropolitano-to-host-2019-champions-league-fi/|access-date=20 September 2017}}</ref> between English sides [[Tottenham Hotspur F.C.|Tottenham Hotspur]] (in their first and to date, only appearance) and [[Liverpool F.C.|Liverpool]] (in their ninth overall and their second in a row, having been defeated by [[Real Madrid CF|Real Madrid]] in [[2018 UEFA Champions League final|2018]]). It was the seventh Champions League final – and the fourth of the decade – to feature two teams from the same association, and the second all-English final (the first was in [[2008 UEFA Champions League final|2008]]). It was also the first final since [[2013 UEFA Champions League final|2013]] to not feature at least one Spanish team, with Real Madrid and [[FC Barcelona|Barcelona]] having shared the previous five titles between them.
+
+Liverpool won the final 2–0, with a penalty which was scored after 106 seconds by [[Mohamed Salah]], and a goal by substitute [[Divock Origi]] after 87 minutes. As winners, for the sixth time in their history, Liverpool earned the right to play in the [[2019 FIFA Club World Cup]], as well as against [[Chelsea F.C.|Chelsea]], the winners of the [[2018–19 UEFA Europa League]], in the [[2019 UEFA Super Cup]], winning in both competitions. They also secured qualification for the group stage of the [[2019–20 UEFA Champions League]]. As Liverpool had already qualified through their league position, the reserved berth was given to [[FC Red Bull Salzburg|Red Bull Salzburg]], the champions of the [[2018–19 Austrian Football Bundesliga|2018–19 Austrian Bundesliga]], the 11th-ranked association according to next season's access list.<ref name="uefa1819">{{cite news |title=Champions League and Europa League changes next season |url=https://www.uefa.com/uefachampionsleague/news/0242-0e16a85014cb-5ffe48223b95-1000--champions-league-and-europa-league-changes-next-season/ |website=UEFA.com|publisher=Union of European Football Associations |date=27 February 2018 |access-date=27 February 2018 |archive-url=https://web.archive.org/web/20180227130907/http://www.uefa.com/uefachampionsleague/news/newsid=2499801.html |archive-date=27 February 2018 |url-status=live }}</ref><ref>{{cite web |title=Country coefficients 2017/18 |url=https://www.uefa.com/memberassociations/uefarankings/country/season=2018/index.html |website=UEFA.com|publisher=Union of European Football Associations |date=4 May 2018 |access-date=4 May 2018 |archive-url=https://web.archive.org/web/20180511215020/https://www.uefa.com/memberassociations/uefarankings/country/season=2018/index.html |archive-date=11 May 2018 |url-status=dead }}</ref>
+
+In March 2018, UEFA announced that a [[Substitute (association football)|fourth substitution]] would be allowed in [[Overtime (sports)#Association football|extra time]] and that the number of substitutes would be increased from 7 to 12. The kick-off time was also changed from 20:45 CEST to 21:00 CEST.<ref>{{cite news |title=Additional fine-tuning of club competition regulations for 2018/19 onwards |url=https://www.uefa.com/uefachampionsleague/news/0243-0e98912b8e5f-55d54011c9cf-1000--additional-fine-tuning-of-club-competition-regulations-for-/ |website=UEFA.com|publisher=Union of European Football Associations |date=27 March 2018 |access-date=27 March 2018 |archive-url=https://web.archive.org/web/20180327112547/http://www.uefa.com/uefachampionsleague/news/newsid=2546984.html |archive-date=27 March 2018 |url-status=live}}</ref> The match was also the first Champions League final to use the [[video assistant referee]] (VAR) system.<ref>{{cite news|date=3 December 2018|title=VAR to be used in UEFA Champions League knockout phase|website=UEFA.com|publisher=Union of European Football Associations|url=https://www.uefa.com/news-media/news/024c-0f8e663255eb-684192980f0b-1000--var-to-be-used-in-uefa-champions-league-knockout-phase/|access-date=3 December 2018}}</ref>
+
+==Venue==
+[[File:Estadio Wanda Metropolitano (2018).jpg|thumb|The [[Metropolitano Stadium|Estadio Metropolitano]] in [[Madrid]] hosted the final.]]
+This was the fifth European Cup/UEFA Champions League final held in [[Madrid]], after the [[1957 European Cup final|1957]], [[1969 European Cup final|1969]], [[1980 European Cup final|1980]] and [[2010 UEFA Champions League final|2010]] finals, all held at the [[Santiago Bernabéu Stadium|Estadio Santiago Bernabéu]].<ref name="Host">{{cite web |title=Madrid's Estadio Metropolitano to host 2019 Champions League final |url=https://www.uefa.com/uefachampionsleague/news/023d-0e16a85a80e5-62fd034c8ba8-1000--madrid-s-estadio-metropolitano-to-host-2019-champions-le/ |website=UEFA.com|publisher=Union of European Football Associations |date=20 September 2017 |access-date=21 December 2018 |archive-url=https://web.archive.org/web/20190403234417/https://www.uefa.com/uefachampionsleague/news/newsid=2501768.html |archive-date=3 April 2019 |url-status=live}}</ref>
+
+The 67,000-seat [[Metropolitano Stadium|Estadio Metropolitano]] is the home of [[Atlético Madrid]], who have occupied it since major renovations were completed in September 2017.<ref>{{cite news |first=Sid |last=Lowe |author-link=Sid Lowe |title=A stadium called Wanda: opening night at Atlético Madrid's new home |url=https://www.theguardian.com/football/blog/2017/sep/18/a-stadium-called-wanda-opening-night-at-atletico-madrids-new-home |work=[[The Guardian]] |date=18 September 2017 |access-date=17 April 2019 |archive-url=https://web.archive.org/web/20170923194239/https://www.theguardian.com/football/blog/2017/sep/18/a-stadium-called-wanda-opening-night-at-atletico-madrids-new-home |archive-date=23 September 2017 |url-status=live}}</ref> Due to UEFA regulations regarding naming rights of non-tournament sponsors, the stadium was referred to as the "Estadio Metropolitano" in all UEFA materials.<ref name="Host"/>
+
+===Host selection===
+[[File:Plaza del Callao with decoration related to the 2019 Champions League final.jpg|thumb|upright|[[Callao Square]] in Madrid prior to the final]]
+For the first time, UEFA launched an open bidding process to select the venues of the club competition finals (UEFA Champions League, UEFA Europa League, UEFA Women's Champions League and UEFA Super Cup).<ref>{{cite web|date=9 December 2016|title=Lyon to host 2018 UEFA Europa League final|url=https://www.uefa.com/news-media/news/0234-0f8e35587c90-754ad72cf131-1000--lyon-to-host-2018-uefa-europa-league-final/|access-date=21 December 2018|website=UEFA.com|publisher=Union of European Football Associations}}</ref><ref>{{cite web |title=UEFA club competition finals 2019: bid regulations |url=https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/42/99/42/2429942_DOWNLOAD.pdf |website=UEFA.com|publisher=Union of European Football Associations |access-date=21 December 2018 |archive-url=https://web.archive.org/web/20170816234613/http://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/42/99/42/2429942_DOWNLOAD.pdf |archive-date=16 August 2017 |url-status=dead}}</ref> The bidding process was opened on 9 December 2016 and associations were given until 27 January 2017 to express interest and 6 June 2017 to submit bid dossiers to UEFA.<ref name="Bids">{{cite web|date=7 June 2017|title=Ten associations bidding to host 2019 club finals|url=https://www.uefa.com/news-media/news/023a-0f8e541b5f05-02c3f5f2484f-1000--ten-associations-bidding-to-host-2019-club-finals/|access-date=21 December 2018|website=UEFA.com|publisher=Union of European Football Associations}}</ref>
+
+{| class="wikitable sortable"
+|+Bidding associations for 2019 UEFA Champions League final
+|-
+! Association !! Stadium !! City !! Capacity !! Notes
+|-
+| {{fba|AZE}} || [[Baku Olympic Stadium]] || [[Baku]] || 68,700 || Also bid to host the [[2019 UEFA Europa League Final]].
+|- bgcolor=#ccffcc
+| {{fba|ESP}} || [[Metropolitano Stadium|Estadio Metropolitano]] || [[Madrid]] || 67,000 || 
+|}
+
+UEFA announced on 3 February 2017 that the associations of [[Association of Football Federations of Azerbaijan|Azerbaijan]] and [[Royal Spanish Football Federation|Spain]] had expressed interest in hosting the Champions League final.<ref>{{cite web|date=3 February 2017|title=15 associations interested in hosting 2019 club finals|url=https://www.aipsmedia.com/index.html?page=artdetail&oldart=20267|access-date=21 December 2018|website=AIPS}}</ref> On 7 June 2017, UEFA confirmed that they submitted bids for the 2019 UEFA Champions League final, with Azerbaijan proposing the 68,700-seat [[Baku Olympic Stadium]] and Spain proposing the then-unfinished Estadio Wanda Metropolitano, which would hold 67,000 spectators.<ref name="Bids"/><ref name="Telegraph-Bids">{{cite news |last=Rumsby |first=Ben |date=3 February 2017 |title=Champions League final to be held in Baku or Madrid in 2019 |url=https://www.telegraph.co.uk/football/2017/02/03/champions-league-final-held-baku-madrid-2019/ |work=[[The Daily Telegraph|The Telegraph]] |access-date=17 April 2019 |archive-url=https://web.archive.org/web/20190417223313/https://www.telegraph.co.uk/football/2017/02/03/champions-league-final-held-baku-madrid-2019/ |archive-date=17 April 2019 |url-status=live}}</ref> The bid evaluation report was published by UEFA on 14 September 2017.<ref>{{cite web |title=UEFA Club Competition Finals 2019 Evaluation Report |url=https://www.uefa.com/MultimediaFiles/Download/OfficialDocument/uefaorg/Regulations/02/50/17/48/2501748_DOWNLOAD.pdf |website=UEFA.com|publisher=Union of European Football Associations |date=14 September 2017 |access-date=21 December 2018 |archive-url=https://web.archive.org/web/20180621194212/https://www.uefa.com/MultimediaFiles/Download/OfficialDocument/uefaorg/Regulations/02/50/17/48/2501748_DOWNLOAD.pdf |archive-date=21 June 2018 |url-status=live}}</ref> The Wanda Metropolitano was selected as the venue by the UEFA Executive Committee on 20 September 2017, while the Baku Olympic Stadium was successful in its bid to host the [[2019 UEFA Europa League Final]].<ref name="venue"/><ref>{{cite web |title=UEFA Executive Committee agenda for Nyon meeting |url=https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2498908.html |website=UEFA.com|publisher=Union of European Football Associations |date=7 September 2017 |access-date=21 December 2018 |archive-url=https://web.archive.org/web/20190123081032/https://www.uefa.com/insideuefa/mediaservices/mediareleases/newsid=2498908.html |archive-date=23 January 2019 |url-status=dead}}</ref><ref>{{cite news |date=20 September 2017 |title=Atletico Madrid's stadium hosts 2019 Champions League final |url=https://www.apnews.com/104d12a452294d35b268a2dcf0dcc308 |publisher=[[Associated Press]] |access-date=17 April 2019 |archive-url=https://web.archive.org/web/20190417223532/https://www.apnews.com/104d12a452294d35b268a2dcf0dcc308 |archive-date=17 April 2019 |url-status=live}}</ref>
+
+==Background==
+[[Tottenham Hotspur F.C.|Tottenham Hotspur]] reached their first ever Champions League final, becoming the eighth unique finalist from England and the fortieth overall. They were the first final debutants since fellow English and London club [[Chelsea F.C.|Chelsea]] in [[2008 UEFA Champions League final|2008]].<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0251-0e99ba5382bd-dba4d65747f8-1000/ |title=Spurs aiming to be 23rd European Cup winners – how many can you name? |website=UEFA.com|publisher=Union of European Football Associations |date=28 May 2019 |access-date=16 August 2020}}</ref> It was the fifth time they had appeared in the final of a UEFA competition, having played in one [[UEFA Cup Winners' Cup|Cup Winners' Cup]] final (winning in [[1963 European Cup Winners' Cup final|1963]] to become the first British team to win a European trophy) and three [[UEFA Europa League|UEFA Cup]] finals (winning in [[1972 UEFA Cup final|1972]] and [[1984 UEFA Cup final|1984]] and losing in [[1974 UEFA Cup final|1974]]).<ref>{{cite web |title=It was 50 years ago today – our historic win in Europe... |url=http://www.tottenhamhotspur.com/news/it-was-50-years-ago-today-our-historic-win-in-europe-150513/ |website=tottenhamhotspur.com |publisher=Tottenham Hotspur FC |date=15 May 2013 |access-date=4 July 2017 |archive-url=https://web.archive.org/web/20170812100631/http://www.tottenhamhotspur.com/news/it-was-50-years-ago-today-our-historic-win-in-europe-150513/ |archive-date=12 August 2017 |url-status=live}}</ref><ref>{{cite web |url=https://www.uefa.com/teamsandplayers/teams/club=1652/profile/history/index.html |title=Tottenham – UEFA.com |website=UEFA.com|publisher=Union of European Football Associations |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190307112328/https://www.uefa.com/teamsandplayers/teams/club=1652/profile/history/index.html |archive-date=7 March 2019 |url-status=dead}}</ref> Had they won the final, they would have become the third English club, as well as the sixth club overall, to [[UEFA club competition records and statistics#List of teams to have won the main European club competitions|have won all three pre-1999 major European trophies]] ([[UEFA Champions League|European Cup/Champions League]], UEFA Cup/Europa League and the now-defunct Cup Winners' Cup).
+
+In eight matches, they had a record of four wins, one draw and three losses in European competitions against fellow English clubs.<ref name="press kit">{{cite web |title=Match press kits (UEFA Champions League – 2018/19 season, final): Tottenham Hotspur FC v Liverpool FC |url=https://www.uefa.com/printoutfiles/competitions/uefachampionsleague/2019/e/e_2025486_pk.pdf |archive-url=https://web.archive.org/web/20190606150315/https://www.uefa.com/printoutfiles/competitions/uefachampionsleague/2019/e/e_2025486_pk.pdf |url-status=dead |archive-date=6 June 2019 |website=UEFA.com|publisher=Union of European Football Associations |date=9 May 2019 |access-date=10 May 2019}}</ref> Of the four ties, Tottenham won two: against [[Manchester City F.C.|Manchester City]] in this season's quarter-finals, and against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in the 1972 UEFA Cup final, the inaugural final of the competition, becoming the first British team to win two different European trophies.<ref>{{cite book |title=Spurs: A Complete Record 1882–1988 |first=Bob |last=Goodwin |publisher=Breedon Books |year=1988 |isbn=978-0-907969-42-6 }}</ref>
+
+[[File:Команда ФК «Ліверпуль» прибула до Києва, 2018, 4, cropped, straightened, enhanced.jpg|thumb|upright|Liverpool manager [[Jürgen Klopp]] won his first Champions League title in his third final.]]
+[[Liverpool F.C.|Liverpool]] reached their ninth overall final, an English record, as well as their second in a row, having lost to [[Real Madrid CF|Real Madrid]] in [[2018 UEFA Champions League final|2018]].<ref name="FIFA">{{cite news |title=Liverpool stun Barça to advance to final |url=https://www.fifa.com/news/liverpool-stun-barca-to-advance-to-final |website=FIFA.com |publisher=[[FIFA|Fédération Internationale de Football Association]] |date=7 May 2019 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508025617/https://www.fifa.com/news/liverpool-stun-barca-to-advance-to-final |archive-date=8 May 2019 |url-status=live}}</ref> They had won the competition on five occasions ([[1977 European Cup final|1977]], [[1978 European Cup final|1978]], [[1981 European Cup final|1981]], [[1984 European Cup final|1984]] and [[2005 UEFA Champions League final|2005]]) and lost three times ([[1985 European Cup final|1985]], [[2007 UEFA Champions League final|2007]] and 2018). This was also their 14th final in UEFA competitions, having played in one Cup Winners' Cup final (losing in [[1966 European Cup Winners' Cup final|1966]]) and four UEFA Cup/Europa League finals (winning in [[1973 UEFA Cup final|1973]], [[1976 UEFA Cup final|1976]] and [[2001 UEFA Cup final|2001]], and losing in [[2016 UEFA Europa League final|2016]]).<ref>{{cite web |title=Club facts: Liverpool |url=https://www.uefa.com/uefachampionsleague/news/0252-0e75573bf39d-f79018a82bc9-1000--liverpool-facts/ |website=UEFA.com|publisher=Union of European Football Associations |date=2 June 2017 |access-date=26 May 2018 |archive-url=https://web.archive.org/web/20180527201409/https://www.uefa.com/uefachampionsleague/news/newsid=854367.html |archive-date=27 May 2018 |url-status=live}}</ref> In twenty matches, Liverpool had a record of seven wins, eight draws (one of which they won on penalties) and five losses in European competitions against fellow English clubs. Most recently, they won both legs against Manchester City in the [[2017–18 UEFA Champions League knockout phase|2017–18 Champions League quarter-finals]].<ref name="press kit"/> The match was the third Champions League final for manager [[Jürgen Klopp]], who had lost both previous finals, with [[Borussia Dortmund]] in [[2013 UEFA Champions League final|2013]] and with Liverpool in 2018.<ref>{{cite news |title=Liverpool reach back-to-back Champions League finals after comeback vs. Barcelona |url=https://www.dw.com/en/liverpool-reach-back-to-back-champions-league-finals-after-comeback-vs-barcelona/a-48641864 |website=DW.com |publisher=[[Deutsche Welle]] |date=7 May 2019 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508045152/https://www.dw.com/en/liverpool-reach-back-to-back-champions-league-finals-after-comeback-vs-barcelona/a-48641864 |archive-date=8 May 2019 |url-status=live}}</ref>
+
+The final was the 171st competitive meeting between Tottenham Hotspur and Liverpool, with a record of 79 Liverpool wins, 48 Tottenham wins and 43 draws. Liverpool won both league fixtures during the [[2018–19 Premier League]] season 2–1 at [[Wembley Stadium|Wembley]] and [[Anfield]]. They had faced each other once before in a European tie, meeting in the [[1972–73 UEFA Cup#Semi-finals|semi-final of the 1972–73 UEFA Cup]]; Liverpool won the first leg 1–0 at Anfield and Tottenham won the second leg at [[White Hart Lane]] 2–1, though Liverpool advanced to the final on away goals, before beating [[Borussia Mönchengladbach]] in the final.<ref>{{cite web |title=Champions League final: Tottenham v Liverpool past meetings |url=https://www.uefa.com/uefachampionsleague/news/0251-0e99ad26ffea-4ea5cecaafee-1000--champions-league-final-tottenham-v-liverpool-past-meetings/ |work=UEFA.com|publisher=Union of European Football Associations |date=8 May 2019 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190508224020/https://www.uefa.com/uefachampionsleague/news/newsid=2601484.html |archive-date=8 May 2019 |url-status=live}}</ref> Domestically, the sides had met once in a cup final, with Liverpool winning 3–1 after extra time in the [[1982 Football League Cup final]].<ref>{{cite web |title=Tottenham: Head-to-head v Liverpool |url=https://www.soccerbase.com/teams/team.sd?team_id=2590&team2_id=1563&teamTabs=h2h |work=Soccerbase |access-date=10 May 2019}}</ref><ref>{{cite web |title=Tottenham Hotspur » Record against Liverpool FC |url=https://www.worldfootball.net/teams/te1924/tottenham-hotspur/records-all-time-appearances/ |website=WorldFootball.net |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508222057/https://www.worldfootball.net/teams/tottenham-hotspur/liverpool-fc/11/ |archive-date=8 May 2019 |url-status=live}}</ref> Both managers were seeking their first major title with their respective clubs.<ref>{{cite magazine |url=https://www.si.com/soccer/2019/05/30/champions-league-final-liverpool-tottenham-klopp-pochettino-trophy |title=Klopp, Pochettino Proof That Trophy Chances Come With Commitment to Process |magazine=Sports Illustrated |access-date=4 June 2019 }}</ref>
+
+The match was the first final since 2013 not to feature a Spanish team, with Real Madrid ([[2014 UEFA Champions League final|2014]], [[2016 UEFA Champions League final|2016]], [[2017 UEFA Champions League final|2017]] and 2018) and [[FC Barcelona|Barcelona]] ([[2015 UEFA Champions League final|2015]]) having won the previous five seasons of the competition.<ref name="FIFA"/> It was also the first final to be won by an English team since Chelsea in [[2012 UEFA Champions League final|2012]], as well as the second all-English final, after [[Manchester United F.C.|Manchester United]] and Chelsea in Moscow in 2008.<ref name="BBC-Ajax2">{{cite news |first=Neil |last=Johnston |title=Ajax 2–3 Tottenham Hotspur |url=https://www.bbc.co.uk/sport/football/48192369 |publisher=[[BBC Sport]] |date=8 May 2019 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190508233857/https://www.bbc.co.uk/sport/football/48192369 |archive-date=8 May 2019 |url-status=live}}</ref> Overall, the match was the seventh final to feature two teams from the same association, previously achieved on three occasions by Spanish teams ([[2000 UEFA Champions League final|2000]], 2014 and 2016), and once by Italian ([[2003 UEFA Champions League final|2003]]) and German (2013) teams, in addition to English in 2008.<ref>{{cite web |first=Karel |last=Stokkermans |title=European Champions' Cup |url=https://www.rsssf.org/tablese/ec1.html |website=RSSSF.com |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=28 February 2019 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20110208171501/http://rsssf.com/tablese/ec1.html |archive-date=8 February 2011 |url-status=live}}</ref>
+
+As Chelsea and [[Arsenal F.C.|Arsenal]] also reached the [[2019 UEFA Europa League Final]], this was the first season to have multiple finals of major European club competitions featuring teams from a single nation.<ref>{{cite news |title=Has one country ever had all European finalists before? |url=https://www.uefa.com/uefachampionsleague/news/0251-0e99afc01f0b-e2b6e033beb4-1000--has-one-country-ever-had-all-european-finalists-before/ |website=UEFA.com|publisher=Union of European Football Associations |date=9 May 2019 |access-date=10 May 2019}}</ref><ref>{{cite news |title=Champions League & Europa League: English clubs make history by taking four final places |url=https://www.bbc.co.uk/sport/football/48222997 |publisher=[[BBC Sport]] |date=9 May 2019 |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190510040804/https://www.bbc.co.uk/sport/football/48222997 |archive-date=10 May 2019 |url-status=live}}</ref>
+
+===Previous finals===
+''In the following table, finals until 1992 were in the European Cup era, since 1993 were in the UEFA Champions League era.''
+
+{| class="wikitable"
+|-
+!Team
+!Previous final appearances (bold indicates winners)
+|-
+|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|None
+|-
+|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|8 ('''[[1977 European Cup final|1977]]''', '''[[1978 European Cup final|1978]]''', '''[[1981 European Cup final|1981]]''', '''[[1984 European Cup final|1984]]''', [[1985 European Cup final|1985]], '''[[2005 UEFA Champions League final|2005]]''', [[2007 UEFA Champions League final|2007]], [[2018 UEFA Champions League final|2018]])
+|}
+
+==Route to the final==
+{{Further|2018–19 UEFA Champions League}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+!Round
+!colspan="4"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|- style="background:#C1E0FF"
+|Opponent
+|colspan="3"|Result
+|[[2018–19 UEFA Champions League group stage|Group stage]]
+|Opponent
+|colspan="3"|Result
+|-
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#Internazionale v Tottenham Hotspur|1–2]] (A)
+|style="background:#C1E0FF"|Matchday 1
+|style="text-align:left"|{{fbaicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#Liverpool v Paris Saint-Germain|3–2]] (H)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#Tottenham Hotspur v Barcelona|2–4]] (H)
+|style="background:#C1E0FF"|Matchday 2
+|style="text-align:left"|{{fbaicon|ITA}} [[SSC Napoli|Napoli]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#Napoli v Liverpool|0–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|NED}} [[PSV Eindhoven]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#PSV Eindhoven v Tottenham Hotspur|2–2]] (A)
+|style="background:#C1E0FF"|Matchday 3
+|style="text-align:left"|{{fbaicon|SRB}} [[Red Star Belgrade]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#Liverpool v Red Star Belgrade|4–0]] (H)
+|-
+|style="text-align:left"|{{fbaicon|NED}} [[PSV Eindhoven]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#Tottenham Hotspur v PSV Eindhoven|2–1]] (H)
+|style="background:#C1E0FF"|Matchday 4
+|style="text-align:left"|{{fbaicon|SRB}} [[Red Star Belgrade]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#Red Star Belgrade v Liverpool|0–2]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ITA}} [[Inter Milan]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#Tottenham Hotspur v Internazionale|1–0]] (H)
+|style="background:#C1E0FF"|Matchday 5
+|style="text-align:left"|{{fbaicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#Paris Saint-Germain v Liverpool|1–2]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#Barcelona v Tottenham Hotspur|1–1]] (A)
+|style="background:#C1E0FF"|Matchday 6
+|style="text-align:left"|{{fbaicon|ITA}} [[SSC Napoli|Napoli]]
+|colspan="3"|[[2018–19 UEFA Champions League group stage#Liverpool v Napoli|1–0]] (H)
+|-
+|colspan="4" style="vertical-align:top"|'''[[2018–19 UEFA Champions League group stage#Group B|Group B]] runners-up'''
+{{:2018–19 UEFA Champions League group stage|transcludesection=Group B|only_pld_pts=yes|show_matches=no|showteam=TOT}}
+|style="background:#C1E0FF"|Final standings
+|colspan="4" style="vertical-align:top"|'''[[2018–19 UEFA Champions League group stage#Group C|Group C]] runners-up'''
+{{:2018–19 UEFA Champions League group stage|transcludesection=Group C|only_pld_pts=yes|show_matches=no|showteam=LIV}}
+|- style="background:#C1E0FF"
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|[[2018–19 UEFA Champions League knockout phase|Knockout phase]]
+|Opponent
+|Agg.
+|1st leg
+|2nd leg
+|-
+|style="text-align:left"|{{fbaicon|GER}} [[Borussia Dortmund]]
+|4–0
+|[[2018–19 UEFA Champions League knockout phase#Tottenham Hotspur v Borussia Dortmund|3–0]] (H)
+|[[2018–19 UEFA Champions League knockout phase#Borussia Dortmund v Tottenham Hotspur|1–0]] (A)
+|style="background:#C1E0FF"|Round of 16
+|style="text-align:left"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|3–1
+|[[2018–19 UEFA Champions League knockout phase#Liverpool v Bayern Munich|0–0]] (H)
+|[[2018–19 UEFA Champions League knockout phase#Bayern Munich v Liverpool|3–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|4–4 ([[Away goals rule|a]])
+|[[2018–19 UEFA Champions League knockout phase#Tottenham Hotspur v Manchester City|1–0]] (H)
+|[[2018–19 UEFA Champions League knockout phase#Manchester City v Tottenham Hotspur|3–4]] (A)
+|style="background:#C1E0FF"|Quarter-finals
+|style="text-align:left"|{{fbaicon|POR}} [[FC Porto|Porto]]
+|6–1
+|[[2018–19 UEFA Champions League knockout phase#Liverpool v Porto|2–0]] (H)
+|[[2018–19 UEFA Champions League knockout phase#Porto v Liverpool|4–1]] (A)
+|-
+|style="text-align:left"|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|3–3 ([[Away goals rule|a]])
+|[[2018–19 UEFA Champions League knockout phase#Tottenham Hotspur v Ajax|0–1]] (H)
+|[[2018–19 UEFA Champions League knockout phase#Ajax v Tottenham Hotspur|3–2]] (A)
+|style="background:#C1E0FF"|Semi-finals
+|style="text-align:left"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|4–3
+|[[2018–19 UEFA Champions League knockout phase#Barcelona v Liverpool|0–3]] (A)
+|[[2018–19 UEFA Champions League knockout phase#Liverpool v Barcelona|4–0]] (H)
+|}
+
+===Tottenham Hotspur===
+{{see also|2018–19 Tottenham Hotspur F.C. season}}
+
+[[File:Lucas Moura 2.jpg|thumb|upright|[[Lucas Moura]] scored a hat-trick in the second leg of the semi-final against Ajax to send Tottenham to the final.]]
+Tottenham Hotspur, making their first appearance in a European competition final since 1984 and their first ever in the European Cup final,<ref name="BBC-Ajax2"/> qualified directly for the 2018–19 UEFA Champions League group stage as the third-placed team in the [[2017–18 Premier League]].<ref name="UEFA-2018">{{cite news |title=All you need to know: 2018/19 UEFA Champions League |url=https://www.uefa.com/uefachampionsleague/news/0246-0e98e2deb33b-a3a30f2f14a6-1000--all-you-need-to-know-2018-19-uefa-champions-league/ |website=UEFA.com|publisher=Union of European Football Associations |date=11 June 2018 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20180615042440/http://www.uefa.com/uefachampionsleague/news/newsid=2562114.html |archive-date=15 June 2018 |url-status=live}}</ref> They were drawn into Group B alongside Spanish champions Barcelona, Dutch champions [[PSV Eindhoven]] and [[Inter Milan]] of Italy, all of whom are former European champions.<ref>{{cite news |first=Martin |last=Rogers |title=Barcelona, Tottenham top stacked group after Champions League draw |url=https://www.usatoday.com/story/sports/columnist/martin-rogers/2018/08/30/champions-league-barcelona-tottenham-top-stacked-group-after-draw/1144740002/ |work=[[USA Today]] |date=30 August 2018 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190509072339/https://www.usatoday.com/story/sports/columnist/martin-rogers/2018/08/30/champions-league-barcelona-tottenham-top-stacked-group-after-draw/1144740002/ |archive-date=9 May 2019 |url-status=live}}</ref>
+
+Spurs began their Champions League campaign at the [[San Siro]] in Milan, where they lost 2–1 to Inter after conceding twice in the final minutes of the match.<ref>{{cite news |first=Steve |last=Sutcliffe |title=Inter Milan 2–1 Tottenham |url=https://www.bbc.co.uk/sport/football/45551705 |work=BBC Sport |date=18 September 2018 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190508221425/https://www.bbc.co.uk/sport/football/45551705 |archive-date=8 May 2019 |url-status=live}}</ref> At [[Wembley Stadium]] in London, the club's temporary home, Tottenham lost 4–2 to Barcelona and fell to third place in Group B.<ref>{{cite news |first=Phil |last=McNulty |title=Tottenham 2–4 Barcelona |url=https://www.bbc.co.uk/sport/football/45694909 |work=BBC Sport |date=3 October 2018 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190509095508/https://www.bbc.co.uk/sport/football/45694909 |archive-date=9 May 2019 |url-status=live}}</ref> Spurs drew 2–2 with PSV Eindhoven on matchday 3, played in the Netherlands, but lost goalkeeper [[Hugo Lloris]] to a red card and conceded a late equalising goal to [[Luuk de Jong]] in the 87th minute.<ref>{{cite news |first=David |last=Hytner |title=Hugo Lloris sees red as PSV thwart Tottenham in Champions League draw |url=https://www.theguardian.com/football/2018/oct/24/psv-eindhoven-tottenham-hotspur-champions-league-match-report |work=The Guardian |date=24 October 2018 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190509070838/https://www.theguardian.com/football/2018/oct/24/psv-eindhoven-tottenham-hotspur-champions-league-match-report |archive-date=9 May 2019 |url-status=live}}</ref> Tottenham conceded early to PSV in the home leg at Wembley, but two goals from [[Harry Kane]] late in the second half gave the team their first Champions League win of the season.<ref>{{cite news |first=Phil |last=McNulty |title=Tottenham 2–1 PSV |url=https://www.bbc.co.uk/sport/football/46087257 |work=BBC Sport |date=6 November 2018 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190509000018/https://www.bbc.co.uk/sport/football/46087257 |archive-date=9 May 2019 |url-status=live}}</ref> Against Inter at Wembley, substitute [[Christian Eriksen]]'s 80th-minute goal gave Spurs a 1–0 victory and prevented the club from being eliminated.<ref>{{cite news |first=Matt |last=Law |title=Christian Eriksen puts Champions League fate in Tottenham's hands with late strike to defeat Inter |url=https://www.telegraph.co.uk/football/2018/11/28/tottenham-vs-internazionale-champions-league-live-score-updates/ |work=The Telegraph |date=28 November 2018 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190509070834/https://www.telegraph.co.uk/football/2018/11/28/tottenham-vs-internazionale-champions-league-live-score-updates/ |archive-date=9 May 2019 |url-status=live}}</ref> The final group stage match against Barcelona at [[Camp Nou]] began with an early goal for the home side, but a late equaliser by [[Lucas Moura]] preserved a 1–1 draw for Tottenham. The team finished level on points with Inter, but advanced to the knockout stage on head-to-head away goals as group runners-up to Barcelona.<ref>{{cite news |first=Sam |last=Wallace |title=Tottenham complete remarkable survival act to reach Champions League knockout stage with late draw in Barcelona |url=https://www.telegraph.co.uk/football/2018/12/11/barcelona-vs-tottenham-champions-league-live-score-latest-updates/ |work=The Telegraph |date=12 December 2018 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190509070834/https://www.telegraph.co.uk/football/2018/12/11/barcelona-vs-tottenham-champions-league-live-score-latest-updates/ |archive-date=9 May 2019 |url-status=live}}</ref>
+
+Tottenham faced German club Borussia Dortmund in the round of 16, marking the second time in three years that the two teams had met in a European competition.<ref>{{cite news |title=Tottenham v Dortmund background |url=https://www.uefa.com/uefachampionsleague/news/024d-0e9959daf833-d5bfad45b3d5-1000--tottenham-v-dortmund-background/ |website=UEFA.com|publisher=Union of European Football Associations |date=21 January 2019 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190213005846/https://www.uefa.com/uefachampionsleague/news/newsid=2589032.html |archive-date=13 February 2019 |url-status=live}}</ref> Spurs won 3–0 with a dominant performance in the first leg at home, highlighted by second-half goals from [[Son Heung-min]], [[Jan Vertonghen]] and [[Fernando Llorente]].<ref>{{cite news |first=Daniel |last=Taylor |title=Jan Vertonghen inspires Spurs to take Borussia Dortmund to the cleaners |url=https://www.theguardian.com/football/2019/feb/13/tottenham-borussia-dortmund-champions-league-match-report |work=The Guardian |date=13 February 2019 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190329200427/https://www.theguardian.com/football/2019/feb/13/tottenham-borussia-dortmund-champions-league-match-report |archive-date=29 March 2019 |url-status=live}}</ref> The second leg at the [[Westfalenstadion]] in Dortmund ended as a 1–0 win for the visitors, with a goal by Harry Kane early in the second half bringing the tie to 4–0 on aggregate and sending Tottenham to the quarter-finals.<ref>{{cite news |first=Steve |last=Sutcliffe |title=Borussia Dortmund 0–1 Tottenham |url=https://www.bbc.co.uk/sport/football/47442872 |work=BBC Sport |date=5 March 2019 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190407153143/https://www.bbc.co.uk/sport/football/47442872 |archive-date=7 April 2019 |url-status=live}}</ref>
+
+The club was drawn in the quarter-finals against their compatriots and reigning English champions Manchester City, with two legs scheduled within 11 days of a Premier League fixture between the clubs.<ref>{{cite news |title=Tottenham face Manchester City in Champions League quarter-finals |url=https://www.bbc.com/sport/football/47580448 |work=BBC Sport |date=15 March 2019 |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190401195709/https://www.bbc.com/sport/football/47580448 |archive-date=1 April 2019 |url-status=live}}</ref> Tottenham hosted the first leg, the first European tie at the newly-completed [[Tottenham Hotspur Stadium]], and won 1–0 thanks to a goal scored by Son Heung-min in the 78th minute, following an earlier penalty from City's [[Sergio Agüero]] in the first half that was saved by Hugo Lloris.<ref>{{cite news |first=Daniel |last=Taylor |title=Son's solo effort secures win for Spurs after Lloris saves Man City penalty |url=https://www.theguardian.com/football/2019/apr/09/tottenham-hotspur-manchester-city-champions-league-quarter-final-first-leg-match-report |work=The Guardian |date=9 April 2019 |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190410131704/https://www.theguardian.com/football/2019/apr/09/tottenham-hotspur-manchester-city-champions-league-quarter-final-first-leg-match-report |archive-date=10 April 2019 |url-status=live}}</ref> Manchester City took an early 3–2 lead within 21 minutes to open the second leg, including two goals apiece for Son and City's [[Raheem Sterling]] and an additional goal scored by [[Bernardo Silva]]. Agüero's goal in the 59th minute gave Manchester City a 4–3 lead on aggregate in the series, but Fernando Llorente scored in the 73rd minute to tie the series once again and give Tottenham an advantage on [[away goals]].<ref>{{cite news |first=Daniel |last=Taylor |title=Tottenham win Champions League epic as Llorente stuns Manchester City |url=https://www.theguardian.com/football/2019/apr/17/manchester-city-tottenham-hotspur-champions-league-quarter-final-second-leg-match-report |work=The Guardian |date=18 April 2019 |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190510112701/https://www.theguardian.com/football/2019/apr/17/manchester-city-tottenham-hotspur-champions-league-quarter-final-second-leg-match-report |archive-date=10 May 2019 |url-status=live}}</ref> Sterling scored a fifth goal for City in the third minute of stoppage time, but it was ruled out by the [[video assistant referee]] for an offside during the buildup to the goal, giving Tottenham a victory on away goals to send them to their first European Cup semi-final since [[1961–62 European Cup|1962]].<ref>{{cite news |title=Tottenham oust Man City in seven-goal Champions League thriller |url=http://www.espn.com/soccer/report?gameId=538693 |publisher=ESPN |agency=[[Reuters]] |date=18 April 2019 |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190418130208/http://www.espn.com/soccer/report?gameId=538693 |archive-date=18 April 2019 |url-status=live}}</ref><ref>{{cite news |first=Jason |last=Burt |title=Tottenham edge past Manchester City with dramatic late VAR twist in Champions League classic |url=https://www.telegraph.co.uk/football/2019/04/17/manchester-city-vs-tottenham-champions-league-live-score-latest/ |work=The Telegraph |date=18 April 2019 |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190520014630/https://www.telegraph.co.uk/football/2019/04/17/manchester-city-vs-tottenham-champions-league-live-score-latest/ |archive-date=20 May 2019 |url-status=live}}</ref>
+
+In the semi-finals, Tottenham faced Dutch club [[AFC Ajax|Ajax]], who had won the European Cup four times. A resurgent Ajax had entered the competition through the qualifying rounds with a young squad and went on to eliminate reigning holders Real Madrid in the round of 16 and Juventus in the quarter-finals.<ref name="Telegraph-Ajax1">{{cite news |first=Sam |last=Wallace |title=Advantage Ajax as they take vital away goal to Amsterdam against disappointing Spurs |url=https://www.telegraph.co.uk/football/2019/04/30/tottenham-vs-ajax-champions-league-semi-final-first-leg-live/ |work=The Telegraph |date=30 April 2019 |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190507053531/https://www.telegraph.co.uk/football/2019/04/30/tottenham-vs-ajax-champions-league-semi-final-first-leg-live/ |archive-date=7 May 2019 |url-status=live}}</ref><ref>{{cite news |first=Rory |last=Smith |title=Ajax, Unshakable on Champions League Stage, Inches Closer to Final |url=https://www.nytimes.com/2019/04/30/sports/ajax-tottenham-champions-league.html |work=[[The New York Times]] |page=B12 |date=30 April 2019 |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190511060345/https://www.nytimes.com/2019/04/30/sports/ajax-tottenham-champions-league.html |archive-date=11 May 2019 |url-status=live}}</ref> Spurs, missing forwards Harry Kane and Son Heung-min, among others, to injuries, lost 1–0 in the first leg at home, Ajax's lone goal coming in the 15th minute from [[Donny van de Beek]].<ref name="Telegraph-Ajax1"/> Ajax began the second leg at their [[Johan Cruyff Arena]] with goals from [[Matthijs de Ligt]] and [[Hakim Ziyech]] to extend their aggregate lead to 3–0 at half-time. Tottenham manager [[Mauricio Pochettino]] substituted defensive midfielder [[Victor Wanyama]] for striker Fernando Llorente at half-time, and his strike partner, Lucas Moura, scored the team's first goal of the semi-final in the 55th minute.<ref>{{cite news |first=Daniel |last=Taylor |title=Tottenham comeback stuns Ajax and sets up final against Liverpool |url=https://www.theguardian.com/football/2019/may/08/ajax-tottenham-champions-league-semi-final-match-report-moura |work=The Guardian |date=8 May 2019 |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190510072555/https://www.theguardian.com/football/2019/may/08/ajax-tottenham-champions-league-semi-final-match-report-moura |archive-date=10 May 2019 |url-status=live}}</ref> Moura then scored a second goal five minutes later, his tight footwork helping him beat several Ajax players after an initial save by goalkeeper [[André Onana]].<ref>{{cite news |first=Neil |last=Johnston |title=Ajax 2–3 Tottenham |url=https://www.bbc.com/sport/football/48192369 |work=BBC Sport |date=9 May 2019 |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190510130139/https://www.bbc.com/sport/football/48192369 |archive-date=10 May 2019 |url-status=live}}</ref> After Tottenham failed to convert several chances to level the tie, the match entered five minutes of stoppage time. As the clock passed the five-minute mark, Moura completed his [[hat-trick (association football)|hat-trick]] with a first-time shot from just inside the penalty area to make the score 3–3 on aggregate and put Spurs through to the final on away goals.<ref>{{cite news |last=Smith |first=Rory |date=8 May 2019 |title=A Dream Delivered, and Another Dashed, in One Unforgettable Moment |page=B9 |url=https://www.nytimes.com/2019/05/08/sports/ajax-tottenham-champions-league.html |work=The New York Times |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190510015738/https://www.nytimes.com/2019/05/08/sports/ajax-tottenham-champions-league.html |archive-date=10 May 2019 |url-status=live}}</ref><ref>{{cite news |first=Jason |last=Burt |title=Tottenham into Champions League final after Lucas Moura seals another English miracle |url=https://www.telegraph.co.uk/football/2019/05/08/ajax-vs-tottenham-hotspur-champions-league-semi-final-live-score/ |work=The Telegraph |date=9 May 2019 |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190509092309/https://www.telegraph.co.uk/football/2019/05/08/ajax-vs-tottenham-hotspur-champions-league-semi-final-live-score/ |archive-date=9 May 2019 |url-status=live}}</ref> The second leg was hailed as one of the greatest comebacks in Champions League history, alongside Liverpool's semi-final played the day before.<ref name="BBC-Comebacks">{{cite news |first=Chris |last=Peddy |title=Tottenham & Liverpool: Greatest Champions League comebacks of all time |url=https://www.bbc.co.uk/sport/football/48163330 |work=BBC Sport |date=8 May 2019 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190507232205/https://www.bbc.co.uk/sport/football/48163330 |archive-date=7 May 2019 |url-status=live}}</ref><ref>{{cite news |first=Chris |last=Graham |title='Now it's Moura's miracle': How world reacted to Tottenham's Champions League heroics against Ajax |url=https://www.telegraph.co.uk/football/2019/05/09/now-mouras-miracle-world-reacted-tottenhams-champions-league/ |work=The Telegraph |date=9 May 2019 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190509051856/https://www.telegraph.co.uk/football/2019/05/09/now-mouras-miracle-world-reacted-tottenhams-champions-league/ |archive-date=9 May 2019 |url-status=live}}</ref>
+
+===Liverpool===
+{{see also|2018–19 Liverpool F.C. season}}
+
+[[File:Divock Origi (25273591916).jpg|thumb|upright|left|[[Divock Origi]]'s brace in the second leg of the semi-final against Barcelona helped Liverpool reach the final.]]
+Liverpool, the runners-up in the previous year's final, qualified directly for the group stage as the fourth-placed team in the Premier League.<ref name="UEFA-2018"/><ref>{{cite news |first=Kristian |last=Walsh |title=Does fourth place qualify for the Champions League group stage? Liverpool boosted by this season's rule changes |url=https://www.liverpoolecho.co.uk/sport/football/football-news/champions-league-qualification-fourth-place-14343601 |work=[[Liverpool Echo]] |date=13 May 2018 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190509062819/https://www.liverpoolecho.co.uk/sport/football/football-news/champions-league-qualification-fourth-place-14343601 |archive-date=9 May 2019 |url-status=live}}</ref> They were drawn into Group C alongside French champions [[Paris Saint-Germain FC|Paris Saint-Germain]], [[SSC Napoli|Napoli]] of Italy and Serbian champions [[Red Star Belgrade]], who qualified through the play-off round and were making their Champions League group stage debut.<ref>{{cite news |first=Ian |last=Doyle |title=The worrying history of Liverpool's Champions League group stage opponents |url=https://www.liverpoolecho.co.uk/sport/football/football-news/worrying-history-liverpools-champions-league-15092690 |work=Liverpool Echo |date=30 August 2018 |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190509062819/https://www.liverpoolecho.co.uk/sport/football/football-news/worrying-history-liverpools-champions-league-15092690 |archive-date=9 May 2019 |url-status=live}}</ref><ref>{{cite news |first1=Rory |last1=Smith |first2=James |last2=Montague |title=A Throwback Champion for the Modern Champions League |page=B10 |url=https://www.nytimes.com/2018/09/18/sports/soccer/rory-smith.html |work=The New York Times |date=18 September 2018 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190509063027/https://www.nytimes.com/2018/09/18/sports/soccer/rory-smith.html |archive-date=9 May 2019 |url-status=live}}</ref>
+
+In the opening match of the group stage, Liverpool faced Paris Saint-Germain at [[Anfield]] and won 3–2 with a goal in stoppage time by substitute [[Roberto Firmino]].<ref>{{cite news |first=Phil |last=McNulty |title=Liverpool 3–2 Paris St-Germain |url=https://www.bbc.co.uk/sport/football/45551722 |work=BBC Sport |date=18 September 2018 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508213316/https://www.bbc.co.uk/sport/football/45551722 |archive-date=8 May 2019 |url-status=live}}</ref> Liverpool failed to produce a shot on target during their 1–0 loss to Napoli at the [[Stadio San Paolo]] on matchday 2, which the home side won with a 90th-minute goal from [[Lorenzo Insigne]].<ref>{{cite news |first=Chris |last=Bascombe |title=Lacklustre Liverpool unlocked by Lorenzo Insigne's late strike |url=https://www.telegraph.co.uk/football/2018/10/03/napoli-vs-liverpool-champions-league-live-score-updates-latest/ |work=The Telegraph |date=3 October 2018 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508204842/https://www.telegraph.co.uk/football/2018/10/03/napoli-vs-liverpool-champions-league-live-score-updates-latest/ |archive-date=8 May 2019 |url-status=live}}</ref> Liverpool retook their position at the top of Group C following a 4–0 home victory over Red Star Belgrade on 24 October, including a brace from [[Mohamed Salah]],<ref>{{cite news |first=Emma |last=Sanders |title=Liverpool 4–0 Red Star Belgrade |url=https://www.bbc.co.uk/sport/football/45907628 |work=BBC Sport |date=24 October 2018 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190423034142/https://www.bbc.co.uk/sport/football/45907628 |archive-date=23 April 2019 |url-status=live}}</ref> but suffered a shock 2–0 defeat to Red Star two weeks later in Belgrade and fell to second place behind Napoli.<ref>{{cite news |first=Andy |last=Hunter |title=Liverpool's hopes hang in balance after defeat at Red Star Belgrade |url=https://www.theguardian.com/football/2018/nov/06/red-star-belgrade-liverpool-champions-league-match-report |work=The Guardian |date=6 November 2018 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508204843/https://www.theguardian.com/football/2018/nov/06/red-star-belgrade-liverpool-champions-league-match-report |archive-date=8 May 2019 |url-status=live}}</ref><ref>{{cite news |first=Emma |last=Sanders |title=Red Star Belgrade 2–0 Liverpool |url=https://www.bbc.co.uk/sport/football/46087243 |work=BBC Sport |date=6 November 2018 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508214329/https://www.bbc.co.uk/sport/football/46087243 |archive-date=8 May 2019 |url-status=live}}</ref>
+
+At the [[Parc des Princes]] in Paris, Liverpool were defeated 2–1 by Paris Saint-Germain and fell to third place in the group, putting them in jeopardy of a group stage elimination.<ref>{{cite news |first=Jason |last=Burt |title=Liverpool on brink of Champions League elimination after damaging Paris Saint-Germain defeat |url=https://www.telegraph.co.uk/football/2018/11/28/paris-saint-germain-vs-liverpool-champions-league-live-score/ |work=The Telegraph |date=28 November 2018 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508204844/https://www.telegraph.co.uk/football/2018/11/28/paris-saint-germain-vs-liverpool-champions-league-live-score/ |archive-date=8 May 2019 |url-status=live}}</ref> Liverpool won their final group stage match, played on 11 December against Napoli at Anfield, with Salah scoring the only goal of the game. Liverpool goalkeeper [[Alisson]] saved [[Arkadiusz Milik]]'s shot from eight yards out deep into second half injury time to preserve a [[shutout|clean sheet]].<ref>{{cite news |first=Phil |last=McNulty |title=Liverpool 1–0 Napoli |url=https://www.bbc.co.uk/sport/football/46511873 |work=BBC Sport |date=11 December 2018 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508224044/https://www.bbc.co.uk/sport/football/46511873 |archive-date=8 May 2019 |url-status=live}}</ref> Liverpool remained tied with Napoli on points, head-to-head record and goal difference but advanced to the knockout phase on total goals scored, with nine goals to Napoli's seven.<ref>{{cite news |title=Ancelotti, Napoli 'bitter' after elimination from Champions League |url=https://www.chicagotribune.com/90minutes/ct-90mins-ancelotti-napoli-bitter-after-elimination-from-champions-league-20181212-story.html |work=[[Chicago Tribune]] |agency=Agence France-Presse |date=12 December 2018 |access-date=7 May 2019 |archive-url=https://web.archive.org/web/20190508060053/https://www.chicagotribune.com/90minutes/ct-90mins-ancelotti-napoli-bitter-after-elimination-from-champions-league-20181212-story.html |archive-date=8 May 2019 |url-status=live}}</ref>
+
+Liverpool were matched against German champions [[FC Bayern Munich|Bayern Munich]] in the round of 16 and played to a scoreless draw in the first leg at Anfield, mirroring the two sides' semi-final tie in the [[1980–81 European Cup]].<ref>{{cite news |first=Andy |last=Hunter |title=Liverpool and Bayern Munich trade blows but draw leaves tie poised |url=https://www.theguardian.com/football/2019/feb/19/liverpool-bayern-munich-champions-league-match-report |work=The Guardian |date=19 February 2019 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508215252/https://www.theguardian.com/football/2019/feb/19/liverpool-bayern-munich-champions-league-match-report |archive-date=8 May 2019 |url-status=live}}</ref> They advanced to the quarter-finals by defeating Bayern 3–1 in the second leg at the [[Allianz Arena]], with two goals from [[Sadio Mané]] and one from [[Virgil van Dijk]] in the second half.<ref>{{cite news |first=Daniel |last=Taylor |title=Sadio Mané and Virgil van Dijk take Liverpool past Bayern Munich |url=https://www.theguardian.com/football/2019/mar/13/sadio-mane-and-virgil-van-dijk-take-liverpool-past-bayern-munich |work=The Guardian |date=13 March 2019 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190410104343/https://www.theguardian.com/football/2019/mar/13/sadio-mane-and-virgil-van-dijk-take-liverpool-past-bayern-munich |archive-date=10 April 2019 |url-status=live}}</ref> Liverpool won their quarter-final tie against Portuguese club [[FC Porto|Porto]] with an aggregate score of 6–1, winning 2–0 in the first leg at home and 4–1 away at the [[Estádio do Dragão]].<ref>{{cite news |first=Steve |last=Sutcliffe |title=FC Porto 1–4 Liverpool |url=https://www.bbc.co.uk/sport/football/47953686 |work=BBC Sport |date=17 April 2019 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190513184211/https://www.bbc.co.uk/sport/football/47953686 |archive-date=13 May 2019 |url-status=live}}</ref>
+
+In the semi-finals, Liverpool faced tournament favourites Barcelona. Former Liverpool forwards [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] and [[Philippe Coutinho]] were playing against their old club for the first time competitively since being sold to Barça for [[List of most expensive association football transfers|record transfer fees]] in 2014 and 2018, respectively.<ref>{{Cite web|url=https://www.hitc.com/en-gb/2019/05/11/liverpool-barcelona-merson-suarez-coutinho/|title=Liverpool alumni Luis Suarez and Philippe Coutinho knew they were in trouble, claims Paul Merson|date=11 May 2019}}</ref> Barcelona took advantage of several missed chances from Liverpool's strikers and won 3–0 at home, with two second-half goals by [[Lionel Messi]], including a {{convert|25|yd|m|adj=mid}} free kick in the 82nd minute, his 600th goal for the club.<ref>{{cite news |first=Daniel |last=Taylor |title=Lionel Messi magic puts Barcelona in command of semi-final with Liverpool |url=https://www.theguardian.com/football/2019/may/01/barcelona-liverpool-champions-league-match-report |work=The Guardian |date=1 May 2019 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508230116/https://www.theguardian.com/football/2019/may/01/barcelona-liverpool-champions-league-match-report |archive-date=8 May 2019 |url-status=live}}</ref><ref>{{cite news |first=Saj |last=Chowdhury |title=Barcelona 3–0 Liverpool |url=https://www.bbc.co.uk/sport/football/48112154 |work=BBC Sport |date=1 May 2019 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190504064724/https://www.bbc.co.uk/sport/football/48112154 |archive-date=4 May 2019 |url-status=live}}</ref> Despite the three-goal advantage, Messi spoke on the task awaiting his teammates in the second leg at Anfield: "We know the game isn't over, we know we're going to a very difficult stadium with a lot of history".<ref>{{cite news |first=Ian |last=Doyle |title=Lionel Messi was right all along about Liverpool and they are showing it again |url=https://www.liverpoolecho.co.uk/sport/football/football-news/lionel-messi-right-along-liverpool-26863233 |date=7 May 2023 |access-date=20 June 2026 |work=Liverpool Echo}}</ref> With a big deficit going into the second leg and preoccupation with the Premier League title race, Liverpool manager Jürgen Klopp asked his players to "just try" or "fail in the most beautiful way".<ref>{{cite news |first=Andy |last=Hunter |title=Jürgen Klopp tells Liverpool to shock Barcelona or 'fail beautifully' |url=https://www.theguardian.com/football/2019/may/06/liverpool-barcelona-champions-league-second-leg-jurgen-klopp |work=The Guardian |date=6 May 2019 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508013953/https://www.theguardian.com/football/2019/may/06/liverpool-barcelona-champions-league-second-leg-jurgen-klopp |archive-date=8 May 2019 |url-status=live}}</ref> Despite Mohamed Salah and Roberto Firmino being absent with injuries, Liverpool overturned the deficit with a 4–0 win at Anfield, advancing to the final 4–3 on aggregate, in what was described as one of the greatest comebacks in Champions League history.<ref name="BBC-Comebacks"/> Liverpool's reserve striker [[Divock Origi]] scored the opening goal in the seventh minute, followed by two goals in quick succession by half-time substitute [[Georginio Wijnaldum]] to level the tie on aggregate in the 56th minute.<ref name="Guardian-Barcelona">{{cite news |first=Daniel |last=Taylor |title=Liverpool stage sensational comeback to beat Barcelona and reach final |url=https://www.theguardian.com/football/2019/may/07/liverpool-barcelona-champions-league-semi-final-second-leg-match-report |work=The Guardian |date=7 May 2019 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190507225631/https://www.theguardian.com/football/2019/may/07/liverpool-barcelona-champions-league-semi-final-second-leg-match-report |archive-date=7 May 2019 |url-status=live}}</ref> Alisson made a series of key saves to deny Barcelona a valuable away goal, a repeat of his performance for [[AS Roma|Roma]] in the previous year's quarter-final as they overcame a three-goal deficit against Barcelona.<ref>{{cite news |first=David |last=Prentice |title=Alisson Becker the unsung hero of Anfield's greatest Champions League night |url=https://www.liverpoolecho.co.uk/sport/football/football-news/alisson-becker-unsung-hero-anfields-16241455 |work=Liverpool Echo |date=8 May 2019 |access-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508160437/https://www.liverpoolecho.co.uk/sport/football/football-news/alisson-becker-unsung-hero-anfields-16241455 |archive-date=8 May 2019 |url-status=live}}</ref> Origi scored the match's final goal in the 79th minute, taking advantage of a corner taken quickly from [[Trent Alexander-Arnold]] that left him unmarked in the penalty area.<ref name="Guardian-Barcelona"/>
+
+==Pre-match==
+
+===Identity===
+[[File:2019 UCL Final identity.jpg|thumb|Brand identity of the final]]
+The final [[logo|identity]] to be used in the final was unveiled on 30 August 2018 during the group stage draw. It was designed by Madrid-based artist Ruben Sanchez (Zoonchez) who drew inspiration from local folklore, including representations of the city emblem, cats (a nickname for Madrilenians), a guitar and a statue in [[Puerta del Sol]]. The colour palette includes blues and oranges that represent a type of Madrid [[sunset]] that is known as a "candilazo".<ref>{{cite web |title=UEFA Champions League launches 2019 Madrid final identity |url=https://www.uefa.com/news-media/news/0248-0f8e630e5377-c01a98835ec7-1000--uefa-champions-league-launches-2019-madrid-final-identity/ |website=UEFA.com|publisher=Union of European Football Associations |date=30 August 2018 |access-date=21 December 2018 |archive-url=https://web.archive.org/web/20180908061946/https://www.uefa.com/insideuefa/about-uefa/administration/marketing/news/newsid=2568279.html |archive-date=8 September 2018 |url-status=live}}</ref><ref>{{cite news |first=Alberto P. |last=Sierra |title=Uefa unveil Madrid final Champions League poster |url=https://en.as.com/en/2018/08/30/football/1535628710_942838.html |work=AS.com |publisher=Diario AS |date=30 August 2018 |access-date=1 September 2018 |archive-url=https://web.archive.org/web/20180901095036/https://en.as.com/en/2018/08/30/football/1535628710_942838.html |archive-date=1 September 2018 |url-status=live}}</ref>
+
+===Ambassador===
+The ambassador for the final was former Spain international [[Luis García (footballer, born 1978)|Luis García]], who played for Atlético Madrid in 2002–03 and from 2007 to 2009, and won the UEFA Champions League with Liverpool in 2005.<ref>{{cite news |title=Bayern drawn against Liverpool in last 16 |url=https://fcbayern.com/en/news/2018/12/ucl-round-of-16-breaking |website=fcbayern.com |publisher=Fußball-Club Bayern München |date=17 December 2018 |access-date=18 December 2018 |archive-url=https://web.archive.org/web/20181218193254/https://fcbayern.com/en/news/2018/12/ucl-round-of-16-breaking |archive-date=18 December 2018 |url-status=live}}</ref>
+
+===Ticketing===
+With a stadium capacity of 63,500 for the final, a total of 38,000 tickets were available to fans and the general public; the two finalist teams received 17,000 tickets each and another 4,000 tickets were made available for purchase by fans worldwide via ''UEFA.com'' from 14 to 21 March 2019 in four price categories: €600, €450, €160 and €70. The remaining tickets were allocated to the local organising committee, UEFA and national associations, commercial partners and broadcasters, and to serve the corporate hospitality programme.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/024f-0e99841d38fe-5bdfdd28dc8c-1000--2019-uefa-champions-league-final-ticket-sales/ |title=2019 UEFA Champions League final ticket sales start on Thursday |website=UEFA.com|publisher=Union of European Football Associations |date=13 March 2019}}</ref>
+
+Prices for accommodation in Madrid and flights to the city from English airports surged by up to 683 percent in the hours after the semi-finals.<ref>{{cite news |last=Wright |first=Katie |date=9 May 2019 |title=Champions League final: The teams are going but can fans afford to? |url=https://www.bbc.com/news/uk-48214483 |work=[[BBC News]] |access-date=11 May 2019 |archive-url=https://web.archive.org/web/20190511064716/https://www.bbc.com/news/uk-48214483 |archive-date=11 May 2019 |url-status=live}}</ref><ref>{{cite news |last=Acres |first=Tom |date=10 May 2019 |title=Champions League: Flight prices soar as Liverpool and Spurs fans seek final tickets |url=https://news.sky.com/story/champions-league-flight-prices-soar-as-liverpool-and-spurs-fans-seek-final-tickets-11715132 |publisher=[[Sky News]] |access-date=11 May 2019 |archive-url=https://web.archive.org/web/20190511064233/https://news.sky.com/story/champions-league-flight-prices-soar-as-liverpool-and-spurs-fans-seek-final-tickets-11715132 |archive-date=11 May 2019 |url-status=live}}</ref> The handling of the travel logistics and ticket pricing by UEFA were criticised by managers Jürgen Klopp and Mauricio Pochettino, as well as supporters groups representing the two clubs.<ref>{{cite news |date=11 May 2019 |title=Liverpool, Tottenham, Chelsea and Arsenal fans criticise Uefa for final ticket numbers |url=https://www.bbc.com/sport/football/48224809 |work=BBC Sport |access-date=10 May 2019 |archive-url=https://web.archive.org/web/20190510163449/https://www.bbc.com/sport/football/48224809 |archive-date=10 May 2019 |url-status=live}}</ref> Tottenham announced plans to show a live screening of the Champions League final at their stadium in London that would be opened to a full-capacity audience.<ref>{{cite web |date=10 May 2019 |title=UEFA Champions League Final – Live Screening at Tottenham Hotspur Stadium |url=https://www.tottenhamhotspur.com/news/2019/may/uefa-champions-league-final-live-screening-at-tottenham-hotspur-stadium/ |publisher=Tottenham Hotspur FC |access-date=11 May 2019 |archive-url=https://web.archive.org/web/20190511064237/https://www.tottenhamhotspur.com/news/2019/may/uefa-champions-league-final-live-screening-at-tottenham-hotspur-stadium/ |archive-date=11 May 2019 |url-status=live}}</ref><ref>{{cite news |last=Hughes |first=Matt |date=9 May 2019 |title=Champions League: Tottenham Hotspur could show final in new stadium |url=https://www.thetimes.com/sport/football/article/champions-league-tottenham-hotspur-could-show-final-in-new-stadium-sz26jrdvb |work=[[The Times]] |url-access=subscription |access-date=11 May 2019 |archive-url=https://web.archive.org/web/20190511064314/https://www.thetimes.co.uk/article/champions-league-tottenham-hotspur-could-show-final-in-new-stadium-sz26jrdvb |archive-date=11 May 2019 |url-status=live}}</ref>
+
+===Officials===
+[[File:Damir Skomina.jpg|thumb|upright|[[Damir Skomina]], the referee for the final]]
+
+On 14 May 2019, UEFA named Slovenian [[Damir Skomina]] as the referee for the final. Skomina became a [[FIFA International Referees List|FIFA referee]] in 2002, and was previously the fourth official in the 2013 UEFA Champions League final. His appointment completed a treble of European finals, having officiated the [[2017 UEFA Europa League Final]] between Ajax and Manchester United, as well as the [[2012 UEFA Super Cup]] between Chelsea and Atlético Madrid. He was joined by two of his fellow countrymen, with Jure Praprotnik and Robert Vukan as assistant referees. Spaniard [[Antonio Mateu Lahoz]] was the fourth official and [[Danny Makkelie]] of the Netherlands was the video assistant referee in the debut of the system at a Champions League final. He was joined by his compatriot [[Pol van Boekel]] as one of the assistant VAR officials, with [[Felix Zwayer]] of Germany appointed as the other assistant VAR for the final. His fellow German Mark Borsch served as the offside VAR official.<ref name="officials">{{cite news |title=Referee team appointed for UEFA Champions League final in Madrid |url=https://www.uefa.com/news-media/news/0251-0e99b2dbe678-45c115988e2d-1000--referee-team-appointed-for-uefa-champions-league-final-in-m/ |website=UEFA.com|publisher=Union of European Football Associations |date=14 May 2019 |access-date=14 May 2019 }}</ref>
+
+===Opening ceremony===
+American [[pop rock]] band [[Imagine Dragons]] performed at the opening ceremony before kick-off, playing a [[Medley (music)|medley]] of their hits "[[Believer (Imagine Dragons song)|Believer]]", "[[Thunder (Imagine Dragons song)|Thunder]]", "[[Radioactive (Imagine Dragons song)|Radioactive]]" and "[[On Top of the World (Imagine Dragons song)|On Top of the World]]", supported by a display of pyrotechnics and fireworks.<ref>{{cite news |first=Richard |last=Smirke |title=Imagine Dragons to Perform at UEFA Champions League Final Opening Ceremony |url=https://www.billboard.com/articles/news/8510727/imagine-dragons-perform-uefa-champions-league-final-opening-ceremony |magazine=[[Billboard (magazine)|Billboard]] |date=9 May 2019 |access-date=11 May 2019 |archive-url=https://web.archive.org/web/20190510015457/https://www.billboard.com/articles/news/8510727/imagine-dragons-perform-uefa-champions-league-final-opening-ceremony |archive-date=10 May 2019 |url-status=live}}</ref><ref>{{cite news |last=Medrano |first=Teresa |date=1 June 2019 |title=Imagine Dragons abre final de la Champions en Madrid |language=es |trans-title=Imagine Dragons opens Champions League final in Madrid |url=https://www.sfchronicle.com/espanol/news/article/Imagine-Dragons-abre-final-de-la-Champions-en-13916064.php?psid=85SfS |work=[[San Francisco Chronicle]] |agency=Associated Press |access-date=1 June 2019 |archive-url=https://web.archive.org/web/20190601201150/https://www.sfchronicle.com/espanol/news/article/Imagine-Dragons-abre-final-de-la-Champions-en-13916064.php%3Fpsid%3D85SfS |archive-date=1 June 2019 |url-status=live}}</ref> Ukrainian electric string quartet [[Asturia Girls]] performed the [[UEFA Champions League Anthem]] as the teams walked out for the match.<ref>{{cite news |title=Asturia Girls to perform UEFA Champions League anthem in Madrid |url=https://www.uefa.com/news-media/news/0251-0e99b52f226f-9a8ee59428cb-1000--asturia-girls-to-perform-uefa-champions-league-anthem-in-m/ |website=UEFA.com|publisher=Union of European Football Associations |date=21 May 2019 |access-date=23 June 2019 }}</ref>
+
+==Match==
+
+===Summary===
+Prior to kick-off, a moment of silence was observed for Spanish footballer [[José Antonio Reyes]], who had died in a car crash earlier in the day.<ref>{{cite web|url=https://www.uefa.com/news-media/news/0252-0f8e6c3c76e1-bcc5c6350d4c-1000--moment-s-silence-to-be-observed-for-jose-antonio-reyes/|title=Moment's silence to be observed for José Antonio Reyes|publisher=UEFA|date=1 June 2019|access-date=20 June 2026|archive-date=24 March 2025|archive-url=https://web.archive.org/web/20250324031454/https://www.uefa.com/news-media/news/0252-0f8e6c3c76e1-bcc5c6350d4c-1000--moment-s-silence-to-be-observed-for-jose-antonio-reyes/|url-status=live}}</ref> Liverpool kicked off and earned a penalty kick just 24 seconds into the match when Moussa Sissoko handled the ball in the penalty area, after a pass by Sadio Mané from the left struck his outstretched arm. The resulting penalty in the second minute was scored by Mohamed Salah shooting to the right, giving Liverpool a 1–0 lead and Salah the second-fastest goal in a Champions League final.<ref>{{cite news |date=1 June 2019 |title=Salah scores second-fastest Champions League final goal |url=https://sports.yahoo.com/salah-scores-second-fastest-champions-193637180.html |work=Yahoo Sports |access-date=1 June 2019 |archive-url=https://web.archive.org/web/20190601205752/https://sports.yahoo.com/salah-scores-second-fastest-champions-193637180.html |archive-date=1 June 2019 |url-status=live}}</ref> Tottenham held the majority of possession in the first half, but were unable to find scoring chances; Liverpool had their own chances from a series of six corner kicks, but played cautiously with their lead.<ref name="Telegraph-Live">{{cite news |last=Gibbs |first=Thom |date=1 June 2019 |title=Champions League final 2019, Tottenham vs Liverpool: live score and latest updates from Madrid |url=https://www.telegraph.co.uk/football/2019/06/01/champions-league-final-2019-tottenham-vs-liverpool-live-score/ |work=The Daily Telegraph |access-date=1 June 2019 |archive-url=https://web.archive.org/web/20190601183656/https://www.telegraph.co.uk/football/2019/06/01/champions-league-final-2019-tottenham-vs-liverpool-live-score/ |archive-date=1 June 2019 |url-status=live}}</ref> The match was briefly interrupted in the 18th minute by a [[pitch invader]].<ref name="NYT-Live">{{cite news |last1=Das |first1=Andrew |last2=Smith |first2=Rory |date=1 June 2019 |title=Scoring Early and Late, Liverpool Beats Tottenham to Win Sixth Champions League Title |url=https://www.nytimes.com/2019/06/01/sports/liverpool-tottenham-champions-league.html |work=The New York Times |access-date=1 June 2019 |archive-url=https://web.archive.org/web/20190601204041/https://www.nytimes.com/2019/06/01/sports/liverpool-tottenham-champions-league.html |archive-date=1 June 2019 |url-status=live}}</ref>
+
+The second half featured more chances for Liverpool, including a shot by [[James Milner]] that beat goalkeeper Hugo Lloris but went wide of the goal. Both managers made their first set of substitutions around the 60th minute, with Klopp bringing on Divock Origi for Roberto Firmino and Pochettino replacing [[Harry Winks]] with Lucas Moura.<ref name="NYT-Live"/> Tottenham began pressing their attackers forward and took several shots on target in the last half-hour of the regular time, leaving themselves open to counterattacks by Liverpool.<ref name="NYT-Live"/> Following a corner kick in the 87th minute that was not cleared away by Spurs, Divock Origi struck from inside the penalty area and scored into the bottom right corner of the net.<ref name="Guardian-Live">{{cite news |last=Doyle |first=Paul |date=1 June 2019 |title=Tottenham Hotspur v Liverpool: Champions League final – live! |url=https://www.theguardian.com/football/live/2019/jun/01/tottenham-hotspur-v-liverpool-champions-league-final-live |work=The Guardian |access-date=1 June 2019 |archive-url=https://web.archive.org/web/20190601162627/https://www.theguardian.com/football/live/2019/jun/01/tottenham-hotspur-v-liverpool-champions-league-final-live |archive-date=1 June 2019 |url-status=live}}</ref> Liverpool won their sixth European Cup and Jürgen Klopp won his first trophy for the club.<ref name="Guardian-Summary">{{cite news |last=Taylor |first=Daniel |date=1 June 2019 |title=Liverpool win Champions League after Salah and Origi sink Tottenham |url=https://www.theguardian.com/football/2019/jun/01/tottenham-liverpool-champions-league-final-match-report |work=The Guardian |access-date=1 June 2019 |archive-url=https://web.archive.org/web/20190601210213/https://www.theguardian.com/football/2019/jun/01/tottenham-liverpool-champions-league-final-match-report |archive-date=1 June 2019 |url-status=live}}</ref>
+
+===Details===
+The "home" team (for administrative purposes) was determined by an additional draw held after the quarter-final and semi-final draws, which was held on 15 March 2019, 12:00 [[Central European Time|CET]], at the UEFA headquarters in [[Nyon]], Switzerland.<ref>{{cite news |title=2018/19 Champions League match and draw calendar |url=https://www.uefa.com/uefachampionsleague/news/0241-0e98376f4997-e042439b9fca-1000--2018-19-champions-league-match-and-draw-calendar/ |website=UEFA.com|publisher=Union of European Football Associations |date=9 January 2018 |access-date=9 January 2018 |archive-url=https://web.archive.org/web/20180110054727/http://www.uefa.com/uefachampionsleague/news/newsid=2499859.html |archive-date=10 January 2018 |url-status=live}}</ref><ref name="QF_SF_F_draw">{{cite web |title=UEFA Champions League quarter-final, semi-final and final draws |url=https://www.uefa.com/uefachampionsleague/draws/2019/2000982/ |date=15 March 2019 |website=UEFA.com|publisher=Union of European Football Associations |access-date=9 May 2019 |archive-url=https://web.archive.org/web/20190519151818/https://www.uefa.com/uefachampionsleague/season=2019/draws/round=2000982/ |archive-date=19 May 2019 |url-status=live}}</ref>
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2019|6|1|df=y}}
+|time       = {{CEST|21:00}}
+|team1      = [[Tottenham Hotspur F.C.|Tottenham Hotspur]] {{fbaicon|ENG}}
+|score      = 0–2
+|team2      = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+|goals2     =
+*[[Mohamed Salah|Salah]] {{goal|2|pen.}}
+*[[Divock Origi|Origi]] {{goal|87}}
+|stadium    = [[Metropolitano Stadium|Estadio Metropolitano]], [[Madrid]]
+|attendance = 63,272<ref name="full_time">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2019/2025486_FR.pdf |title=Full Time Report Final – Tottenham Hotspur v Liverpool |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2019 |access-date=1 June 2019}}</ref>
+|referee    = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2025486/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _tottenham1819h
+ |pattern_b  = _tottenham1819H
+ |pattern_ra = _tottenham1819h
+ |pattern_sh = _usa18h
+ |pattern_so = _thfc1819h
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Tottenham Hotspur}}<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf |title=Tactical Line-ups – Final – Saturday 1 June 2019 |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2019 |access-date=1 June 2019}}</ref>
+}}
+|{{Football kit
+ |pattern_la = _liverpool1819h
+ |pattern_b  = _liverpool1819H
+ |pattern_ra = _liverpool1819h
+ |pattern_sh =
+ |pattern_so = _lfc1819h
+ |leftarm    = DD0000
+ |body       = DD0000
+ |rightarm   = DD0000
+ |shorts     = DD0000
+ |socks      = DD0000
+ |title      = Liverpool<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|FRA|1974}} [[Hugo Lloris]] ([[Captain (association football)|c]])
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Kieran Trippier]]
+|-
+|CB ||'''4''' ||{{flagicon|BEL}} [[Toby Alderweireld]]
+|-
+|CB ||'''5''' ||{{flagicon|BEL}} [[Jan Vertonghen]]
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Danny Rose (footballer, born 1990)|Danny Rose]]
+|-
+|CM ||'''17'''||{{flagicon|FRA|1974}} [[Moussa Sissoko]] || || {{suboff|74}}
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Harry Winks]] || || {{suboff|66}}
+|-
+|RW ||'''20'''||{{flagicon|ENG}} [[Dele Alli]] || || {{suboff|81}}
+|-
+|AM ||'''23'''||{{flagicon|DEN}} [[Christian Eriksen]]
+|-
+|LW ||'''7''' ||{{flagicon|KOR}} [[Son Heung-min]]
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[Harry Kane]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|NED}} [[Michel Vorm]]
+|-
+|GK ||'''22'''||{{flagicon|ARG}} [[Paulo Gazzaniga]]
+|-
+|DF ||'''6''' ||{{flagicon|COL}} [[Davinson Sánchez]]
+|-
+|DF ||'''16'''||{{flagicon|ENG}} [[Kyle Walker-Peters]]
+|-
+|DF ||'''21'''||{{flagicon|ARG}} [[Juan Foyth]]
+|-
+|DF ||'''24'''||{{flagicon|CIV}} [[Serge Aurier]]
+|-
+|DF ||'''33'''||{{flagicon|WAL}} [[Ben Davies (footballer, born 1993)|Ben Davies]]
+|-
+|MF ||'''11'''||{{flagicon|ARG}} [[Erik Lamela]]
+|-
+|MF ||'''12'''||{{flagicon|KEN}} [[Victor Wanyama]]
+|-
+|MF ||'''15'''||{{flagicon|ENG}} [[Eric Dier]] || || {{subon|74}}
+|-
+|MF ||'''27'''||{{flagicon|BRA}} [[Lucas Moura]] || || {{subon|66}}
+|-
+|FW ||'''18'''||{{flagicon|ESP}} [[Fernando Llorente]] || || {{subon|81}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ARG}} [[Mauricio Pochettino]]
+|}
+|valign="top"|[[File:Tottenham Hotspur vs Liverpool 2019-06-01.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''13'''||{{flagicon|BRA}} [[Alisson Becker|Alisson]]
+|-
+|RB ||'''66'''||{{flagicon|ENG}} [[Trent Alexander-Arnold]]
+|-
+|CB ||'''32'''||{{flagicon|CMR}} [[Joël Matip]]
+|-
+|CB ||'''4''' ||{{flagicon|NED}} [[Virgil van Dijk]]
+|-
+|LB ||'''26'''||{{flagicon|SCO}} [[Andy Robertson]]
+|-
+|CM ||'''14'''||{{flagicon|ENG}} [[Jordan Henderson]] ([[Captain (association football)|c]])
+|-
+|CM ||'''3''' ||{{flagicon|BRA}} [[Fabinho (footballer, born 1993)|Fabinho]]
+|-
+|CM ||'''5''' ||{{flagicon|NED}} [[Georginio Wijnaldum]] || || {{suboff|62}}
+|-
+|RW ||'''11'''||{{flagicon|EGY}} [[Mohamed Salah]]
+|-
+|CF ||'''9''' ||{{flagicon|BRA}} [[Roberto Firmino]] || || {{suboff|58}}
+|-
+|LW ||'''10'''||{{flagicon|SEN}} [[Sadio Mané]] || || {{suboff|90}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''22'''||{{flagicon|BEL}} [[Simon Mignolet]]
+|-
+|GK ||'''62'''||{{flagicon|IRL}} [[Caoimhín Kelleher]]
+|-
+|DF ||'''6''' ||{{flagicon|CRO}} [[Dejan Lovren]]
+|-
+|DF ||'''12'''||{{flagicon|ENG}} [[Joe Gomez (footballer)|Joe Gomez]] || || {{subon|90}}
+|-
+|DF ||'''18'''||{{flagicon|ESP}} [[Alberto Moreno]]
+|-
+|MF ||'''7''' ||{{flagicon|ENG}} [[James Milner]] || || {{subon|62}}
+|-
+|MF ||'''20'''||{{flagicon|ENG}} [[Adam Lallana]]
+|-
+|MF ||'''21'''||{{flagicon|ENG}} [[Alex Oxlade-Chamberlain]]
+|-
+|MF ||'''23'''||{{flagicon|SUI}} [[Xherdan Shaqiri]]
+|-
+|FW ||'''15'''||{{flagicon|ENG}} [[Daniel Sturridge]]
+|-
+|FW ||'''24'''||{{flagicon|ENG}} [[Rhian Brewster]]
+|-
+|FW ||'''27'''||{{flagicon|BEL}} [[Divock Origi]] || || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|GER}} [[Jürgen Klopp]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Virgil van Dijk]] (Liverpool)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Jure Praprotnik ([[Football Association of Slovenia|Slovenia]])
+<br />Robert Vukan ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referees]]:'''<ref name="officials"/>
+<br />[[Pol van Boekel]] ([[Royal Dutch Football Association|Netherlands]])
+<br />[[Felix Zwayer]] ([[German Football Association|Germany]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Offside video assistant referee]]:'''<ref name="officials"/>
+<br />Mark Borsch ([[German Football Association|Germany]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="regulations">{{cite web |title=2018/19 UEFA Champions League regulations |url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/55/82/79/2558279_DOWNLOAD.pdf |website=UEFA.com|publisher=Union of European Football Associations |date=10 May 2018 |access-date=12 May 2018 |archive-url=https://web.archive.org/web/20180512114219/http://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/55/82/79/2558279_DOWNLOAD.pdf |archive-date=12 May 2018 |url-status=dead}}</ref>
+*90 minutes
+*30 minutes of [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level
+*Twelve named substitutes
+*Maximum of three substitutions, with a fourth allowed in extra time
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/UCL/2019/2025486_TS.pdf |title=Team statistics |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2019 |access-date=1 June 2019 |url-status=live |archive-url=https://web.archive.org/web/20240617220624/https://www.uefa.com/newsfiles/UCL/2019/2025486_TS.pdf |archive-date=17 June 2024}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Tottenham Hotspur
+!scope="col" style="width:70px"|Liverpool
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|2
+|8
+|-
+!scope=row|Shots on target
+|0
+|2
+|-
+!scope=row|Saves
+|1
+|0
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|2
+|6
+|-
+!scope=row|Fouls committed
+|2
+|4
+|-
+!scope=row|Offsides
+|1
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Tottenham Hotspur
+!scope="col" style="width:70px"|Liverpool
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|14
+|6
+|-
+!scope=row|Shots on target
+|8
+|1
+|-
+!scope=row|Saves
+|0
+|8
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|6
+|3
+|-
+!scope=row|Fouls committed
+|3
+|2
+|-
+!scope=row|Offsides
+|2
+|1
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Tottenham Hotspur
+!scope="col" style="width:70px"|Liverpool
+|-
+!scope=row|Goals scored
+|0
+|2
+|-
+!scope=row|Total shots
+|16
+|14
+|-
+!scope=row|Shots on target
+|8
+|3
+|-
+!scope=row|Saves
+|1
+|8
+|-
+!scope=row|Ball possession
+|61%
+|39%
+|-
+!scope=row|Corner kicks
+|8
+|9
+|-
+!scope=row|Fouls committed
+|5
+|6
+|-
+!scope=row|Offsides
+|3
+|2
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==Post-match==
+{{Multiple image
+| direction         = vertical
+| width             = 220
+| image1            = LFC Parade 2019 01.jpg
+| image2            = UCL trophy at anfield museum.jpg
+| caption1          = Liverpool players on an open-top bus, parading the Champions League trophy through the streets of Liverpool the day after the final
+| caption2          = The 2019 Champions League trophy in the club museum
+| align             = 
+| total_width       = 
+}}
+
+Liverpool won their sixth European Cup and their second of the Champions League era.<ref name="NYT-Live"/> The club surpassed Barcelona and Bayern Munich, each with five titles, and ranks third behind Real Madrid (13) and [[AC Milan|Milan]] (7) for overall European titles.<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0252-0e99c19b0df2-c2e63df5c79b-1000--liverpool-beat-tottenham-to-win-sixth-european-cup/ |title=Liverpool beat Tottenham to win sixth European Cup |website=UEFA.com|publisher=Union of European Football Associations |date=1 June 2019 |access-date=1 June 2019 |url-status=live |archive-url=https://archive.today/20190602180220/https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000984/match=2025486/postmatch/report/ |archive-date=2 June 2019 }}</ref> Liverpool defender Virgil van Dijk was named the man of the match by UEFA for his leadership and interventions to break up Tottenham's attacks.<ref name="MOTM"/>
+
+Liverpool returned to England the day after the final and celebrated their victory by parading the trophy around Liverpool in an open-top double-decker bus. The parade began at [[Allerton, Liverpool|Allerton Maze]] and continued for 8 miles (13 kilometres) towards the city centre, ending on the [[Liverpool Maritime Mercantile City|Liverpool Strand]].<ref>{{Cite web|url=https://www.liverpoolecho.co.uk/whats-on/whats-on-news/liverpool-fc-premier-league-champions-16244037|title=Full route and timetable announced for Liverpool victory parade|last=Kirwin|first=Ellen|date=2 June 2019|website=liverpoolecho|access-date=3 June 2019}}</ref><ref name=":0">{{Cite news|url=https://www.bbc.com/news/uk-england-merseyside-48472068|title=Crowds number 750,000 at Liverpool parade|work=BBC Sport|date=2 June 2019|access-date=3 June 2019}}</ref> Police estimated the number of supporters to be approximately 750,000, with the number of people lining the route causing the parade to last an additional two hours.<ref name=":0" /><ref>{{Cite web|url=https://www.liverpoolecho.co.uk/sport/football/football-news/pictures-liverpool-champions-league-parade-16368128|title=Unbelievable pictures show HUGE crowds for Liverpool's CL parade|last=Koncienzcy|first=Rebecca|date=2 June 2019|website=liverpoolecho|access-date=3 June 2019}}</ref>
+
+===Subsequent matches===
+As champions, Liverpool faced Chelsea (winners of the 2019 UEFA Europa League Final) in the [[2019 UEFA Super Cup]], held on 14 August. Liverpool won the match 5–4 on penalties after the game had ended 2–2 after extra time.<ref>{{cite news |title=Adrian the hero as Liverpool beat Chelsea on penalties to win Super Cup |url=https://www.bbc.co.uk/sport/football/49332825 |date=14 August 2019 |access-date=14 August 2019 |work=BBC Sport}}</ref> Representing Europe, Liverpool also took part in the [[2019 FIFA Club World Cup]].<ref>{{cite news |date=3 June 2019 |title=Club World Cup: Liverpool to play tournament in Qatar in December |url=https://www.bbc.com/sport/football/48504200 |work=BBC Sport |access-date=4 June 2019 }}</ref> Liverpool went on to win their first Club World Cup title, defeating Mexican club [[C.F. Monterrey|Monterrey]] 2–1 in the semi-finals and Brazilian club [[Clube de Regatas do Flamengo|Flamengo]] 1–0 after extra time in the [[2019 FIFA Club World Cup final|final]].<ref>{{cite news |last=Hunter |first=Andy |date=18 December 2019 |title=Firmino's injury-time winner sends Liverpool into Club World Cup final |url=https://www.theguardian.com/football/2019/dec/18/monterrey-liverpool-fifa-club-world-cup-semi-final-match-report |work=The Guardian |access-date=18 December 2019}}</ref><ref>{{cite news |url=https://www.fifa.com/clubworldcup/news/firmino-writes-liverpool-into-club-world-cup-history |title=Firmino writes Liverpool into Club World Cup history |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=21 December 2019 |access-date=21 December 2019}}</ref>
+
+==See also==
+*[[2019 UEFA Europa League final]]
+*[[2019 UEFA Women's Champions League final]]
+*[[2018–19 Liverpool F.C. season]]
+*[[2018–19 Tottenham Hotspur F.C. season]]
+*[[English football clubs in international competitions]]
+*[[List of football matches between British clubs in UEFA competitions]]
+*[[Liverpool F.C. in international football]]
+*[[Tottenham Hotspur F.C. in European football]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* {{Official website|https://www.uefa.com/uefachampionsleague/}}
+* [https://www.uefa.com/uefachampionsleague/history/seasons/2019/ 2018–19 season at UEFA website]
+
+{{UEFA Champions League seasons}}
+{{2018–19 in European football (UEFA)}}
+{{Tottenham Hotspur F.C. matches}}
+{{Liverpool F.C. matches}}
+
+{{DEFAULTSORT:Uefa Champions League final 2019}}
+[[Category:UEFA Champions League finals|2019]]
+[[Category:2018–19 UEFA Champions League|Final]]
+[[Category:June 2019 sports events in Spain]]
+[[Category:Liverpool F.C. matches|European Cup Final 2019]]
+[[Category:Tottenham Hotspur F.C. matches|Champions League final 2019]]
+[[Category:2018–19 in English men's football|Champions League final]]
+[[Category:Football matches in Madrid|2019]]
+[[Category:Football matches in Spain]]
+[[Category:2019 in Madrid]]
+[[Category:2018–19 in Spanish men's football]]
+[[Category:English football clubs in international competitions]]

@@ -1,0 +1,625 @@
+{{Use dmy dates|date=November 2017}}
+{{Infobox international football competition
+| tourney_name   = FIFA Club World Cup
+| year           = 2018
+| other_titles   = FIFA Club World Cup UAE 2018<br>presented by Alibaba Cloud<br>كأس العالم للأندية لكرة القدم<br>الإمارات العربية المتحدة 2018
+| image          = File:2018 FIFA Club World Cup.svg
+| size           = {{Logo size|FIFA trophy}}
+| country        = United Arab Emirates
+| dates          = {{Nowrap|12–22 December}}
+| num_teams      = 7
+| confederations = 6
+| venues         = 2
+| cities         = 2
+| champion_other = {{nowrap|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]}}
+| count          = 4
+| second_other   = {{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+| third_other    = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+| fourth_other   = {{fbaicon|JPN}} [[Kashima Antlers]]
+| matches        = 8
+| goals          = 33
+| attendance     = {{#expr: 15279 + 3997 + 21333 + 5883 + 21383 + 30554 + 13550 + 40696}}
+| top_scorer     = {{flagicon|WAL}} [[Gareth Bale]]<br>{{flagicon|COL}} [[Rafael Santos Borré]]<br>(3 goals each)
+| player         = {{flagicon|WAL}} [[Gareth Bale]]
+| fair_play      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| prevseason     = [[2017 FIFA Club World Cup|2017]]
+| nextseason     = [[2019 FIFA Club World Cup|2019]]
+}}
+The '''2018 FIFA Club World Cup''' (officially known as the '''FIFA Club World Cup UAE 2018 presented by Alibaba Cloud''' for sponsorship reasons)<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2015/m=12/news=alibaba-e-auto-signs-as-presenting-partner-of-the-fifa-club-world-cup-2743056.html|archive-url=https://web.archive.org/web/20151211021029/http://www.fifa.com/clubworldcup/news/y=2015/m=12/news=alibaba-e-auto-signs-as-presenting-partner-of-the-fifa-club-world-cup-2743056.html|url-status=dead|archive-date=11 December 2015|title=Alibaba E-Auto signs as Presenting Partner of the FIFA Club World Cup|publisher=FIFA.com|date=9 December 2015}}</ref> was the 15th edition of the [[FIFA Club World Cup]], a [[FIFA]]-organised international club [[association football|football]] tournament between the winners of the six continental confederations, as well as the host nation's league champions.<ref name="regulations">{{cite web|url=https://digitalhub.fifa.com/m/2ff319bf5f0eae5a/original/tk5uj1eczwwsxas2zjsy-pdf.pdf|title=Regulations FIFA Club World Cup UAE 2018|publisher=FIFA.com}}</ref> The tournament was hosted by the [[United Arab Emirates]] from 12 to 22 December 2018.<ref name="hosts">{{cite web|url=https://www.fifa.com/worldcup/qatar2022/news/y=2015/m=3/news=2022-fifa-world-cup-to-be-played-in-november-december-2568172.html|archive-url=https://web.archive.org/web/20150320194337/http://www.fifa.com//worldcup/qatar2022/news/y=2015/m=3/news=2022-fifa-world-cup-to-be-played-in-november-december-2568172.html|url-status=dead|archive-date=20 March 2015|title=2022 FIFA World Cup to be played in November/December|publisher=FIFA.com|date=21 March 2015}}</ref><ref>{{cite web|url=https://www.fifa.com/about-fifa/news/y=2017/m=9/news=oc-for-fifa-competitions-approves-procedures-for-the-final-draw-of-the-2907924.html|archive-url=https://web.archive.org/web/20170914215739/http://www.fifa.com/about-fifa/news/y=2017/m=9/news=oc-for-fifa-competitions-approves-procedures-for-the-final-draw-of-the-2907924.html|url-status=dead|archive-date=14 September 2017|title=OC for FIFA Competitions approves procedures for the Final Draw of the 2018 FIFA World Cup|publisher=FIFA.com|date=14 September 2017}}</ref>
+
+[[Real Madrid CF|Real Madrid]] were the defending champions, having won the previous two editions, and qualified for the 2018 edition as well. They successfully defended their title (their third consecutive) after defeating [[Al Ain FC|Al Ain]] 4–1 in the [[2018 FIFA Club World Cup Final|final]]. With the win, they broke the tie with their club rivals [[FC Barcelona|Barcelona]] to become the outright record winners of the competition.
+
+==Host bids==
+The application process for the 2017–2018 as well as the 2015–2016 editions, i.e. two hosts, each hosting two years, began in February 2014.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/newsid=2248101/index.html|archive-url=https://web.archive.org/web/20131219233246/http://www.fifa.com//clubworldcup/news/newsid=2248101/index.html|url-status=dead|archive-date=19 December 2013|title=Blatter: A legacy for the future|publisher=FIFA.com|date=19 December 2013}}</ref> Member associations interested in hosting must submit a declaration of interest by 30 March 2014, and provide the complete set of bidding documents by 25 August 2014.<ref>{{cite web|url=https://www.fifa.com/aboutfifa/organisation/news/newsid=2293621/index.html|archive-url=https://web.archive.org/web/20140306142058/http://www.fifa.com/aboutfifa/organisation/news/newsid=2293621/index.html|url-status=dead|archive-date=6 March 2014|title=Bidding process opened for eight FIFA competitions|publisher=FIFA.com|date=19 December 2013}}</ref> The [[FIFA Executive Committee]] was to select the hosts at their meeting in [[Morocco]] in December 2014,<ref>{{cite web|url=http://zeenews.india.com/sports/football/india-may-get-to-host-fifa-club-world-cup_1485299.html|title=India may get to host FIFA Club World Cup|publisher=India.com|date=15 October 2014}}</ref> but the final decision was delayed until the FIFA Executive Committee meetings on 19–20 March 2015.<ref>{{cite web |url=https://www.fifa.com/aboutfifa/organisation/bodies/news/newsid=2557476/index.html|archive-url=https://web.archive.org/web/20150325164336/http://www.fifa.com/aboutfifa/organisation/bodies/news/newsid=2557476/index.html|url-status=dead|archive-date=25 March 2015|title=FIFA Executive committee meeting agenda now available |publisher=FIFA |date=11 March 2015 |access-date=18 March 2015}}</ref>
+
+The following countries expressed an interest in bidding to host the tournament:<ref>{{cite web|url=https://www.fifa.com/aboutfifa/organisation/news/newsid=2336227/index.html|archive-url=https://web.archive.org/web/20140510175305/http://www.fifa.com/aboutfifa/organisation/news/newsid=2336227/index.html|url-status=dead|archive-date=10 May 2014|title=High interest in hosting FIFA competitions|publisher=FIFA.com|date=9 May 2014}}</ref>
+*{{fba|Brazil}}
+*{{fba|Japan}}
+*{{fba|United Arab Emirates}}
+
+The [[FIFA Executive Committee]] officially confirmed the United Arab Emirates as hosts of the [[2017 FIFA Club World Cup|2017]] and 2018 tournaments on 20 March 2015 during their meeting in [[Zürich]], Switzerland.<ref name="hosts"/>
+
+==Qualified teams==
+The following teams qualified for the tournament.
+{{Location map+|World|width=600|float=right|caption=Location of teams of the '''2018 FIFA Club World Cup'''.|places=
+<!--CONMEBOL-->
+{{Location map~|World|lat=-34.5453018|long=-58.4519636|label_size=80|label=[[Club Atlético River Plate|River Plate]]|position=right}}
+<!--UEFA-->
+{{Location map~|World|lat=40.4530582|long=-3.6905332|label_size=80|label=[[Real Madrid CF|Real Madrid]]|position=left}}
+<!--AFC-->
+{{Location map~|World|lat=35.9919935|long=140.6403308|label_size=80|label=[[Kashima Antlers]]|position=right}}
+<!--CAF-->
+{{Location map~|World|lat=36.7479797|long=10.2726928|label_size=80|label=[[Espérance Sportive de Tunis|Espérance de Tunis]]|position=right}}
+<!--CONCACAF-->
+{{Location map~|World|lat=20.6817814|long=-103.4648342|label_size=80|label=[[C.D. Guadalajara|Guadalajara]]|position=left}}
+<!--OFC-->
+{{Location map~|World|lat=-41.3029109|long=174.8223782|label_size=80|label={{nowrap|[[Team Wellington FC|Team Wellington]]}}|position=left}}
+<!--Host-->
+{{Location map~|World|lat=24.2446219|long=55.7142463|label_size=80|label=[[Al Ain FC|Al Ain]]|position=right}}
+}}
+{| class="wikitable"
+|-
+!Team
+!Confederation
+!Qualification
+!Qualified date
+!Participation (bold indicates winners)
+|-
+!colspan=5|Entering in the [[#Semi-finals|semi-finals]]
+|-
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|[[CONMEBOL]]
+|Winners of the [[2018 Copa Libertadores]]<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/river-plate-triumph-in-superclasico-libertadores-final|title=River Plate triumph in Superclásico Libertadores final|publisher=FIFA.com|date=9 December 2018}}</ref>
+|9 December 2018{{refn|group="note"|The second leg of the [[2018 Copa Libertadores Finals|Copa Libertadores Finals]], originally scheduled on 24 November 2018, was postponed to 9 December 2018 due to an attack on the Boca Juniors team bus when several players were injured.}}
+|2nd {{small|(Previous: [[2015 FIFA Club World Cup|2015]])}}
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]{{sup|[[2017 FIFA Club World Cup|TH]]}}
+|[[UEFA]]
+|Winners of the [[2017–18 UEFA Champions League]]<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/real-madrid-make-it-three-in-a-row|title=Real Madrid make it three in a row|publisher=FIFA.com|date=26 May 2018}}</ref>
+|26 May 2018
+|5th {{small|(Previous: [[2000 FIFA Club World Championship|2000]], '''[[2014 FIFA Club World Cup|2014]]''', '''[[2016 FIFA Club World Cup|2016]]''', '''[[2017 FIFA Club World Cup|2017]]''')}}
+|-
+!colspan=5|Entering in the [[#Second round|second round]]
+|-
+|{{fbaicon|JPN}} [[Kashima Antlers]]
+|[[Asian Football Confederation|AFC]]
+|Winners of the [[2018 AFC Champions League]]<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/kashima-win-maiden-afc-champions-league-title|title=Kashima win maiden AFC Champions League title|publisher=FIFA.com|date=10 November 2018}}</ref>
+|10 November 2018
+|2nd {{small|(Previous: [[2016 FIFA Club World Cup|2016]])}}
+|-
+|{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|[[Confederation of African Football|CAF]]
+|Winners of the [[2018 CAF Champions League]]<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/esperance-win-third-african-club-title|title=Esperance win third African club title|publisher=FIFA.com|date=9 November 2018}}</ref>
+|9 November 2018
+|2nd {{small|(Previous: [[2011 FIFA Club World Cup|2011]])}}
+|-
+|{{fbaicon|MEX}} [[C.D. Guadalajara|Guadalajara]]
+|[[CONCACAF]]
+|Winners of the [[2018 CONCACAF Champions League]]<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/chivas-claim-continental-glory-to-end-five-decade-drought|title=Chivas claim continental glory to end five-decade drought|publisher=FIFA.com|date=26 April 2018}}</ref>
+|25 April 2018
+|Debut
+|-
+!colspan=5|Entering in the [[#First round|first round]]
+|-
+|{{fbaicon|NZL}} [[Team Wellington FC|Team Wellington]]
+|[[Oceania Football Confederation|OFC]]
+|Winners of the [[2018 OFC Champions League]]<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/team-wellington-crowned-continental-kings-earn-club-world-cup-berth|title=Team Wellington crowned continental kings, earn Club World Cup berth|publisher=FIFA.com|date=20 May 2018}}</ref>
+|20 May 2018
+|Debut
+|-
+|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|[[Asian Football Confederation|AFC]] ([[United Arab Emirates Football Association|host]])
+|Winners of the [[2017–18 UAE Pro League]]<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/al-ain-book-uae-2018-berth|title=Al Ain book UAE 2018 berth|publisher=FIFA.com|date=22 April 2018}}</ref>
+|14 May 2018{{refn|group="note"|name="hosts"|[[Al Ain FC|Al Ain]] won the [[2017–18 UAE Pro League]] on 21 April 2018. Their participation in the 2018 FIFA Club World Cup was officially confirmed on 14 May 2018 after [[Al Jazira Club|Al-Jazira]] became the last team from the United Arab Emirates other than Al Ain to be eliminated from the [[2018 AFC Champions League]]. Al Ain themselves were eliminated from the 2018 AFC Champions League on 15 May 2018, thereby confirming them entering the first round.}}
+|Debut
+|}
+
+;Notes
+{{reflist|group=note}}
+
+==Venues==
+The two venues were the [[Zayed Sports City Stadium]] in [[Abu Dhabi]] and the [[Hazza bin Zayed Stadium]] in [[Al Ain]].
+
+{| class="wikitable" style="text-align:center"
+|-
+! [[Al Ain]]
+![[Abu Dhabi]]
+! rowspan="5" |{{location map+ |United Arab Emirates |float=center |width=320 |places=
+{{location map~ |United Arab Emirates |lat=24.416089 |long=54.453592 |label=[[Abu Dhabi]] |position=left |mark=Red pog.svg}}
+{{location map~ |United Arab Emirates |lat=24.245594 |long=55.716583 |label=[[Al Ain]]|position=left |mark=Red pog.svg}}
+|caption=Location of the host cities of the 2018 FIFA Club World Cup.}}
+|-
+| [[Hazza bin Zayed Stadium]]
+|[[Zayed Sports City Stadium]]
+|-
+| <small>{{Coord|24|14|44.14|N|55|42|59.7|E|type:landmark|display=inline|name=Hazza bin Zayed Stadium}}</small>
+|<small>{{Coord|24|24|57.92|N|54|27|12.93|E|type:landmark|display=inline|name=Zayed Sports City Stadium}}</small>
+|-
+| Capacity: '''22,717'''
+|Capacity: '''43,000'''
+|-
+| [[File:IRN-JPN 20190128 01.jpg|200x200px]]
+|[[File:Gulf Cup (36).jpg|188x188px]]
+|}
+
+==Match officials==
+A total of six [[referee (association football)|referee]]s, twelve [[assistant referee (association football)|assistant referee]]s, and six [[video assistant referee]]s were appointed for the tournament.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/match-officials-for-uae-2018-appointed|title=Match officials for UAE 2018 appointed|publisher=FIFA.com|date=16 October 2018|access-date=17 October 2018}}</ref><ref>{{cite web|url=https://img.fifa.com/image/upload/q1pc3q8egvrbhds2ehx0.pdf|archive-url=https://web.archive.org/web/20181018003022/https://img.fifa.com/image/upload/q1pc3q8egvrbhds2ehx0.pdf|url-status=dead|archive-date=18 October 2018|title=Referees, Assistant Referees & VAR for the FIFA Club World Cup UAE 2018|publisher=FIFA.com|date=16 October 2018|access-date=17 October 2018}}</ref> FIFA announced on 22 November 2018 that the trio of referees and assistant referees from CAF were changed.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/update-to-referees-taking-part-at-the-fifa-club-world-cup-uae-2018|title=Update to referees list for the FIFA Club World Cup UAE 2018|publisher=FIFA.com|date=22 November 2018}}</ref><ref>{{cite web|url=https://digitalhub.fifa.com/m/3ea0fd136fbfc026/original/kj1t4fr3fsp6pfs3ce0g-pdf.pdf|title=Referees, Assistant Referees & VAR for the FIFA Club World Cup UAE 2018|publisher=FIFA.com}}</ref>
+
+{| class="wikitable"
+|-
+!Confederation
+!Referee
+!Assistant referees
+!Video assistant referee
+|-
+|[[Asian Football Confederation|AFC]]
+|{{fbaicon|JPN}} [[Ryuji Sato]]
+|{{fbaicon|JPN}} Toru Sagara<br>{{fbaicon|JPN}} Hiroshi Yamauchi
+|{{fbaicon|UAE}} [[Mohammed Abdulla Hassan Mohamed]]
+|-
+|[[Confederation of African Football|CAF]]{{efn|The officiating team from CAF replaced the original trio of [[Mehdi Abid Charef]], Abdelhak Etchiali (both from Algeria) and Anouar Hmila (from Tunisia).}}
+|{{fbaicon|ETH}} [[Bamlak Tessema Weyesa]]
+|{{fbaicon|RSA}} Zakhele Thusi Siwela<br>{{fbaicon|SDN}} Waleed Ahmed
+|
+|-
+|[[CONCACAF]]
+|{{fbaicon|USA}} [[Jair Marrufo]]
+|{{fbaicon|USA}} Frank Anderson<br>{{fbaicon|USA}} Corey Rockwell
+|{{fbaicon|USA}} [[Mark Geiger]]
+|-
+|[[CONMEBOL]]
+|{{fbaicon|BRA}} [[Wilton Sampaio]]
+|{{fbaicon|BRA}} Rodrigo Figueiredo<br>{{fbaicon|BRA}} Bruno Boschilia
+|{{fbaicon|ARG}} [[Mauro Vigliano]]
+|-
+|[[Oceania Football Confederation|OFC]]
+|{{fbaicon|NZL}} [[Matthew Conger]]
+|{{fbaicon|TGA}} Tevita Makasini<br>{{fbaicon|NZL}} Mark Rule
+|
+|-
+|[[UEFA]]
+|{{fbaicon|ITA}} [[Gianluca Rocchi]]
+|{{fbaicon|ITA}} Elenito Di Liberatore<br>{{fbaicon|ITA}} Mauro Tonolini
+|{{fbaicon|POL}} [[Paweł Gil]]<br>{{fbaicon|ITA}} [[Massimiliano Irrati]]<br>{{fbaicon|NED}} [[Danny Makkelie]]
+|}
+'''Notes'''
+{{notelist}}
+
+==Squads==
+{{main|2018 FIFA Club World Cup squads}}
+
+Each team had to name a 23-man squad (three of whom must be goalkeepers). Injury replacements were allowed until 24 hours before the team's first match.<ref name="regulations"/>
+
+==Matches==
+The draw of the tournament was held on 4 September 2018, 10:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]), at the FIFA Headquarters in [[Zürich]], to decide the matchups of the second round (between the first round winner and teams from AFC, CAF, and CONCACAF), and the opponents of the two second round winners in the semi-finals (teams from CONMEBOL and UEFA).<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/tuesday-4th--cwc-draw-results-2992877|title=Draw shows path to Club World Cup title|publisher=FIFA.com|date=4 September 2018}}</ref> At the time of the draw, the identity of the teams from AFC, CAF and CONMEBOL were not known.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/y=2018/m=8/news=the-fifa-club-world-cup-draw-explained.html|archive-url=https://web.archive.org/web/20180831162939/https://www.fifa.com/clubworldcup/news/y=2018/m=8/news=the-fifa-club-world-cup-draw-explained.html|url-status=dead|archive-date=31 August 2018|title=The FIFA Club World Cup draw explained|publisher=FIFA.com|date=31 August 2018}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=lFWuntsKfgc|title=FIFA Club World Cup UAE 2018 - Official Draw|publisher=YouTube|date=4 September 2018}}</ref>
+
+If a match was tied after normal playing time:<ref name="regulations"/>
+*For elimination matches, [[extra time (association football)|extra time]] would be played. If still tied after extra time, a [[penalty shoot-out (association football)|penalty shoot-out]] would be held to determine the winner.
+*For the matches for fifth place and third place, no extra time would be played, and a penalty shoot-out would be held to determine the winner.
+
+{{7TeamBracket-StepladderToSF
+| style       = 4
+| seeds       = n
+| team-width  = 180
+| score-width = 40
+| nowrap      = y
+| boldwinner  = y
+| RD1         = [[#First round|First round]]
+| RD2         = [[#Second round|Second round]]
+| RD3         = [[#Semi-finals|Semi-finals]]
+| RD4         = [[#Final|Final]]
+| RD3b        = [[#Match for fifth place|Match for fifth place]]
+| RD4b        = [[#Match for third place|Match for third place]]
+
+<!-- First round -->
+| RD1-text1    = 12 December – [[Hazza bin Zayed Stadium|Al Ain]]
+| RD1-team1    = {{fbaicon|UAE}} '''[[Al Ain FC|Al Ain]]''' {{pso}}
+| RD1-score1   = '''3 (4)'''
+| RD1-team2    = {{fbaicon|NZL}} [[Team Wellington FC|Team Wellington]]
+| RD1-score2   = 3 (3)
+
+<!-- Second round -->
+| RD2-text1    = 15 December – [[Hazza bin Zayed Stadium|Al Ain]]
+| RD2-team1    = {{fbaicon|JPN}} [[Kashima Antlers]]
+| RD2-score1   = 3
+| RD2-team2    = {{fbaicon|MEX}} [[C.D. Guadalajara|Guadalajara]]
+| RD2-score2   = 2
+
+| RD2-text2    = 15 December – [[Hazza bin Zayed Stadium|Al Ain]]
+| RD2-team3    = {{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+| RD2-score3   = 0
+| RD2-team4    = {{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+| RD2-score4   = 3
+
+<!-- Semi-finals -->
+| RD3-text1    = 19 December – [[Zayed Sports City Stadium|Abu Dhabi]]
+| RD3-team1    = {{fbaicon|JPN}} [[Kashima Antlers]]
+| RD3-score1   = 1
+| RD3-team2    = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| RD3-score2   = 3
+
+| RD3-text2    = 18 December – [[Hazza bin Zayed Stadium|Al Ain]]
+| RD3-team3    = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD3-score3   = 2 (4)
+| RD3-team4    = {{fbaicon|UAE}} '''[[Al Ain FC|Al Ain]]''' {{pso}}
+| RD3-score4   = '''2 (5)'''
+
+<!-- Final -->
+| RD4-text1    = 22 December – [[Zayed Sports City Stadium|Abu Dhabi]]
+| RD4-team1    = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| RD4-score1   = 4
+| RD4-team2    = {{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+| RD4-score2   = 1
+
+<!-- Match for fifth place -->
+| RD3-text3    = 18 December – [[Hazza bin Zayed Stadium|Al Ain]]
+| RD3-team5    = {{fbaicon|TUN}} '''[[Espérance Sportive de Tunis|Espérance de Tunis]]''' {{pso}}
+| RD3-score5   = '''1 (6)'''
+| RD3-team6    = {{fbaicon|MEX}} [[C.D. Guadalajara|Guadalajara]]
+| RD3-score6   = 1 (5)
+
+<!-- Match for third place -->
+| RD4-text2    = 22 December – [[Zayed Sports City Stadium|Abu Dhabi]]
+| RD4-team3    = {{fbaicon|JPN}} [[Kashima Antlers]]
+| RD4-score3   = 0
+| RD4-team4    = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD4-score4   = 4
+}}
+
+All times are local, [[Gulf Standard Time|GST]] ([[UTC+04:00|UTC+4]]).<ref>{{cite web|url=https://digitalhub.fifa.com/m/254a4e309283428b/original/vqkcup2rbaefmowmvpfu-pdf.pdf|title=Match Schedule FIFA Club World Cup UAE 2018|publisher=FIFA.com}}</ref>
+
+===First round===
+{{Football box
+|id         = Match 1
+|date       = {{Start date|2018|12|12|df=y}}
+|time       = 19:30
+|team1      = [[Al Ain FC|Al Ain]] {{fbaicon|UAE}}
+|score      = 3–3
+|aet        = yes
+|team2      = {{fbaicon|NZL}} [[Team Wellington FC|Team Wellington]]
+|goals1     =
+*[[Tsukasa Shiotani|Shiotani]] {{goal|45}}
+*[[Tongo Doumbia|Doumbia]] {{goal|49}}
+*[[Marcus Berg|Berg]] {{goal|85}}
+|goals2     =
+*[[Mario Barcia|Barcia]] {{goal|11}}
+*[[Aaron Clapham|Clapham]] {{goal|15}}
+*[[Mario Ilich|Ilich]] {{goal|44}}
+|stadium    = [[Hazza bin Zayed Stadium]], [[Al Ain]]
+|attendance = 15,279<ref>{{cite web |url=https://digitalhub.fifa.com/m/3e08643a5a600956/original/s6ib3frsrlcsmpfpdroc-pdf.pdf |title=Match report – First round – Al Ain FC v Team Wellington FC |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=12 December 2018 |access-date=5 June 2019}}</ref>
+|referee    = [[Ryuji Sato]] ([[Japan Football Association|Japan]])
+|report     = https://www.fifa.com/en/match-centre/match/107/276136/281952/300452761
+|penalties1 =
+*[[Ibrahim Diaky|Diaky]] {{pengoal}}
+*[[Marcus Berg|Berg]] {{penmiss}}
+*[[Hussein El Shahat|El Shahat]] {{pengoal}}
+*[[Tsukasa Shiotani|Shiotani]] {{pengoal}}
+*[[Caio Lucas Fernandes|Caio]] {{pengoal}}
+|penaltyscore = 4–3
+|penalties2 =
+*{{pengoal}} [[Ross Allen (footballer)|Allen]]
+*{{penmiss}} [[Angus Kilkolly|Kilkolly]]
+*{{pengoal}} [[Mario Ilich|Ilich]]
+*{{pengoal}} [[Hamish Watson (footballer)|Watson]]
+*{{penmiss}} [[Justin Gulley|Gulley]]
+}}
+
+===Second round===
+{{Football box
+|id         = Match 2
+|date       = {{Start date|2018|12|15|df=y}}
+|time       = 17:00
+|team1      = [[Kashima Antlers]] {{fbaicon|JPN}}
+|score      = 3–2
+|team2      = {{fbaicon|MEX}} [[C.D. Guadalajara|Guadalajara]]
+|goals1     =
+*[[Ryota Nagaki|Nagaki]] {{goal|49}}
+*[[Serginho (footballer, born March 1995)|Serginho]] {{goal|69|pen.}} 
+*[[Hiroki Abe|Abe]] {{goal|84}}
+|goals2     =
+*[[Ángel Zaldívar|Zaldívar]] {{goal|3}}
+*[[Léo Silva]] {{goal|90+4|o.g.}}
+|stadium    = [[Hazza bin Zayed Stadium]], [[Al Ain]]
+|attendance = 3,997<ref>{{cite web |url=https://digitalhub.fifa.com/m/50d3f6c139358b23/original/fptc7xvlzzdj07vbwqm9-pdf.pdf |title=Match report – Second round – Kashima Antlers v CD Guadalajara |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=15 December 2018 |access-date=5 June 2019}}</ref>
+|referee    = [[Bamlak Tessema Weyesa]] ([[Ethiopian Football Federation|Ethiopia]])
+|report     = https://www.fifa.com/en/match-centre/match/107/276136/281950/300452764
+}}
+----
+{{Football box
+|id         = Match 3
+|date       = {{Start date|2018|12|15|df=y}}
+|time       = 20:30
+|team1      = [[Espérance Sportive de Tunis|Espérance de Tunis]] {{fbaicon|TUN}}
+|score      = 0–3
+|team2      = {{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|goals1     =
+|goals2     =
+*[[Mohamed Ahmed (Emirati footballer)|Ahmed]] {{goal|2}}
+*[[Hussein El Shahat|El Shahat]] {{goal|16}}
+*[[Bandar Al-Ahbabi|Al-Ahbabi]] {{goal|60}}
+|stadium    = [[Hazza bin Zayed Stadium]], [[Al Ain]]
+|attendance = 21,333<ref>{{cite web |url=https://digitalhub.fifa.com/m/56a6cefd9bfb99e0/original/avuydv949cgjcrthlyxt-pdf.pdf |title=Match report – Second round – ES Tunis v Al Ain FC |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=15 December 2018 |access-date=5 June 2019}}</ref>
+|referee    = [[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+|report     = https://www.fifa.com/en/match-centre/match/107/276136/281950/300452760
+}}
+
+===Match for fifth place===
+{{Football box
+|id         = Match 4
+|date       = {{Start date|2018|12|18|df=y}}
+|time       = 17:30
+|team1      = [[Espérance Sportive de Tunis|Espérance de Tunis]] {{fbaicon|TUN}}
+|score      = 1–1
+|team2      = {{fbaicon|MEX}} [[C.D. Guadalajara|Guadalajara]]
+|goals1     =
+*[[Youcef Belaïli|Belaïli]] {{goal|38|pen.}}
+|goals2     =
+*[[Gael Sandoval|Sandoval]] {{goal|5|pen.}}
+|stadium    = [[Hazza bin Zayed Stadium]], [[Al Ain]]
+|attendance = 5,883<ref>{{cite web |url=https://digitalhub.fifa.com/m/ea1850cd56d55d2/original/yjzujafvbrz9clln0ju6-pdf.pdf |title=Match report – Match for fifth place – ES Tunis v CD Guadalajara |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=18 December 2018 |access-date=5 June 2019}}</ref>
+|referee    = [[Matthew Conger]] ([[New Zealand Football|New Zealand]])
+|report     = https://www.fifa.com/en/match-centre/match/107/276136/281962/300452766
+|penalties1 =
+*[[Youcef Belaïli|Belaïli]]  {{penmiss}}
+*[[Ali Machani|Machani]] {{pengoal}}
+*[[Khalil Chemmam|Chemmam]] {{pengoal}}
+*[[Saad Bguir|Bguir]] {{penmiss}}
+*[[Taha Yassine Khenissi|Khenissi]] {{pengoal}}
+*[[Sameh Derbali|Derbali]] {{pengoal}}
+*[[Fousseny Coulibaly|Coulibaly]] {{pengoal}}
+*[[Chamseddine Dhaouadi|Dhaouadi]] {{pengoal}}
+|penaltyscore = 6–5
+|penalties2 =
+*{{pengoal}} [[Ángel Zaldívar|Zaldívar]]
+*{{penmiss}} [[Hedgardo Marín|Marín]]
+*{{pengoal}} [[Jesús Godínez|Godínez]]
+*{{penmiss}} [[Josecarlos Van Rankin|Van Rankin]]
+*{{pengoal}} [[Carlos Salcido|Salcido]]
+*{{pengoal}} [[Orbelín Pineda|Pineda]]
+*{{pengoal}} [[Miguel Ángel Ponce|Ponce]]
+*{{penmiss}} [[Isaác Brizuela|Brizuela]]
+}}
+
+===Semi-finals===
+{{Football box
+|id         = Match 5
+|date       = {{Start date|2018|12|18|df=y}}
+|time       = 20:30
+|team1      = [[Club Atlético River Plate|River Plate]] {{fbaicon|ARG}}
+|score      = 2–2
+|aet        = yes
+|team2      = {{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|goals1     =
+*[[Rafael Santos Borré|Borré]] {{goal|11||16}}
+|goals2     =
+*[[Marcus Berg|Berg]] {{goal|3}}
+*[[Caio Lucas|Caio]] {{goal|51}}
+|stadium    = [[Hazza bin Zayed Stadium]], [[Al Ain]]
+|attendance = 21,383<ref>{{cite web |url=https://digitalhub.fifa.com/m/10f202f4b65325a6/original/ssxcynsspaw9vtafqvad-pdf.pdf |title=Match report – Semi-finals – CA River Plate v Al Ain FC |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=18 December 2018 |access-date=5 June 2019 |archive-url=https://web.archive.org/web/20181219001112/https://resources.fifa.com/image/upload/eng-05-1218-car-ain-fulltime-pdf-3011665.pdf?cloudid=ssxcynsspaw9vtafqvad |archive-date=19 December 2018 |url-status=live }}</ref>
+|referee    = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|report     = https://www.fifa.com/en/match-centre/match/107/276136/281956/300452763
+|penaltyscore = 4–5
+|penalties1 =
+*[[Ignacio Scocco|Scocco]] {{pengoal}}
+*[[Juan Fernando Quintero|Quintero]] {{pengoal}}
+*[[Lucas Pratto|Pratto]] {{pengoal}}
+*[[Rafael Santos Borré|Borré]] {{pengoal}}
+*[[Enzo Pérez|Pérez]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Caio Lucas|Caio]]
+*{{pengoal}} [[Tsukasa Shiotani|Shiotani]]
+*{{pengoal}} [[Bandar Al-Ahbabi|Al-Ahbabi]]
+*{{pengoal}} [[Amer Abdulrahman|Abdulrahman]]
+*{{pengoal}} [[Rayan Yaslam|Yaslam]]
+}}
+----
+{{Football box
+|id         = Match 6
+|date       = {{Start date|2018|12|19|df=y}}
+|time       = 20:30
+|team1      = [[Kashima Antlers]] {{fbaicon|JPN}}
+|score      = 1–3
+|team2      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1     =
+*[[Shoma Doi|Doi]] {{goal|78}}
+|goals2     =
+*[[Gareth Bale|Bale]] {{goal|44||53||55}}
+|stadium    = [[Zayed Sports City Stadium]], [[Abu Dhabi]]
+|attendance = 30,554<ref>{{cite web |url=https://digitalhub.fifa.com/m/1ac710758f023a0a/original/behkjkkhj7jdaqhbqzvj-pdf.pdf |title=Match report – Semi-finals – Kashima Antlers v Real Madrid CF |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=19 December 2018 |access-date=5 June 2019}}</ref>
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.fifa.com/en/match-centre/match/107/276136/281956/300452765
+}}
+
+===Match for third place===
+{{Football box
+|id         = Match 7
+|date       = {{Start date|2018|12|22|df=y}}
+|time       = 17:30
+|team1      = [[Kashima Antlers]] {{fbaicon|JPN}}
+|score      = 0–4
+|team2      = {{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|goals1     =
+|goals2     =
+*[[Bruno Zuculini|Zuculini]] {{goal|24}}
+*[[Pity Martínez|G. Martínez]] {{goal|73||90+3}}
+*[[Rafael Santos Borré|Borré]] {{goal|89|pen.}}
+|stadium    = [[Zayed Sports City Stadium]], [[Abu Dhabi]]
+|attendance = 13,550<ref name="third place">{{cite web |url=https://digitalhub.fifa.com/m/7576215bb9475666/original/g0nz00l2k40cs4k6ly3d-pdf.pdf |title=Match report – Match for third place – Kashima Antlers v CA River Plate |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=22 December 2018 |access-date=5 June 2019 |archive-url=https://web.archive.org/web/20181223030032/https://resources.fifa.com/image/upload/eng-07-1222-kas-car-fulltime-pdf-3012277.pdf?cloudid=g0nz00l2k40cs4k6ly3d |archive-date=23 December 2018 |url-status=live }}</ref>
+|referee    = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|report     = https://www.fifa.com/en/match-centre/match/107/276136/281960/300452767
+}}
+
+===Final===
+{{main|2018 FIFA Club World Cup final}}
+{{:2018 FIFA Club World Cup final}}
+
+==Goalscorers==
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!Player
+!Team
+!Goals
+|-
+|rowspan=2|1
+|style="text-align:left"|{{flagicon|WAL}} [[Gareth Bale]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|rowspan=2|3
+|-
+|style="text-align:left"|{{flagicon|COL}} [[Rafael Santos Borré]]
+|style="text-align:left"|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|-
+|rowspan=3|3
+|style="text-align:left"|{{flagicon|SWE}} [[Marcus Berg]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|rowspan=3|2
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Pity Martínez|Gonzalo Martínez]]
+|style="text-align:left"|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Tsukasa Shiotani]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|-
+|rowspan=19|6
+|style="text-align:left"|{{flagicon|JPN}} [[Hiroki Abe]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Kashima Antlers]]
+|rowspan=19|1
+|-
+|style="text-align:left"|{{flagicon|UAE}} [[Mohamed Ahmed (Emirati footballer)|Mohamed Ahmed]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|-
+|style="text-align:left"|{{flagicon|UAE}} [[Bandar Al-Ahbabi]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Mario Barcia]]
+|style="text-align:left"|{{fbaicon|NZL}} [[Team Wellington FC|Team Wellington]]
+|-
+|style="text-align:left"|{{flagicon|ALG}} [[Youcef Belaïli]]
+|style="text-align:left"|{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Caio Lucas Fernandes|Caio]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|-
+|style="text-align:left"|{{flagicon|NZL}} [[Aaron Clapham]]
+|style="text-align:left"|{{fbaicon|NZL}} [[Team Wellington FC|Team Wellington]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Shoma Doi]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+|style="text-align:left"|{{flagicon|MLI}} [[Tongo Doumbia]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|-
+|style="text-align:left"|{{flagicon|EGY}} [[Hussein El Shahat]]
+|style="text-align:left"|{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|-
+|style="text-align:left"|{{flagicon|NZL}} [[Mario Ilich]]
+|style="text-align:left"|{{fbaicon|NZL}} [[Team Wellington FC|Team Wellington]]
+|-
+|style="text-align:left"|{{flagicon|ESP}} [[Marcos Llorente]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|CRO}} [[Luka Modrić]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|JPN}} [[Ryota Nagaki]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+|style="text-align:left"|{{flagicon|ESP}} [[Sergio Ramos]]
+|style="text-align:left"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Gael Sandoval]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.D. Guadalajara|Guadalajara]]
+|-
+|style="text-align:left"|{{flagicon|BRA}} [[Serginho (footballer, born March 1995)|Serginho]]
+|style="text-align:left"|{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+|style="text-align:left"|{{flagicon|MEX}} [[Ángel Zaldívar]]
+|style="text-align:left"|{{fbaicon|MEX}} [[C.D. Guadalajara|Guadalajara]]
+|-
+|style="text-align:left"|{{flagicon|ARG}} [[Bruno Zuculini]]
+|style="text-align:left"|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|}
+
+'''1 own goal'''
+*{{flagicon|BRA}} [[Léo Silva]] ([[Kashima Antlers]], against [[C.D. Guadalajara|Guadalajara]])
+*{{flagicon|UAE}} [[Yahya Nader]] ([[Al Ain FC|Al Ain]], against [[Real Madrid CF|Real Madrid]])
+
+==Awards==
+{{see also|FIFA Club World Cup awards}}
+
+The following awards were given at the conclusion of the tournament.<ref>{{cite web|url=https://www.fifa.com/clubworldcup/news/bale-caio-and-borre-sweep-awards|title=Bale, Caio and Borre sweep awards|publisher=FIFA.com|date=22 December 2018}}</ref>
+
+{| class="wikitable" style="text-align:center"
+!style="background:gold; width:33%"|[[Adidas]] Golden Ball<br />[[Alibaba Cloud]] Award
+!style="background:silver; width:33%"|[[Adidas]] Silver Ball
+!style="background:#CC9966; width:33%"|[[Adidas]] Bronze Ball
+|-
+|{{flagicon|WAL}} [[Gareth Bale]]<br />([[Real Madrid CF|Real Madrid]])
+|{{flagicon|BRA}} [[Caio Lucas Fernandes|Caio]]<br />([[Al Ain FC|Al Ain]])
+|{{flagicon|COL}} [[Rafael Santos Borré]]<br />([[Club Atlético River Plate|River Plate]])
+|-
+!colspan="3"|FIFA Fair Play Award
+|-
+|colspan="3"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|}
+
+FIFA also named a [[man of the match]] for the best player in each game at the tournament.<ref>{{cite web |url=https://www.fifa.com/clubworldcup/photos/galleries/alibaba-cloud-match-award-winners |title=Alibaba Cloud Match Award winners |work=[[FIFA]] |date=19 December 2018 |access-date=12 February 2021}}{{dead link|date=October 2021|bot=medic}}{{cbignore|bot=medic}}</ref><ref name="third place"/><ref name="match report"/>
+
+{| class="wikitable sortable"
+|+ [[Alibaba Cloud]] Match Award
+|-
+! Match
+! Man of the match
+! Club
+! Opponent
+|-
+!1
+|{{flagicon|UAE}} [[Khalid Eisa]]||{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]||{{fbaicon|NZL}} [[Team Wellington FC|Team Wellington]]
+|-
+!2
+|{{flagicon|EGY}} [[Hussein El Shahat]]||{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]||{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]
+|-
+!3
+|{{flagicon|JPN}} [[Shoma Doi]]||{{fbaicon|JPN}} [[Kashima Antlers]]||{{fbaicon|MEX}} [[C.D. Guadalajara|Guadalajara]]
+|-
+!4
+|{{flagicon|TUN}} [[Rami Jridi]]||{{fbaicon|TUN}} [[Espérance Sportive de Tunis|Espérance de Tunis]]||{{fbaicon|MEX}} [[C.D. Guadalajara|Guadalajara]]
+|-
+!5
+|{{flagicon|UAE}} [[Khalid Eisa]] (2)||{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]||{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|-
+!6
+|{{flagicon|WAL}} [[Gareth Bale]]||{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]||{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+!7
+|{{flagicon|COL}} [[Rafael Santos Borré]]||{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]||{{fbaicon|JPN}} [[Kashima Antlers]]
+|-
+!8
+|{{flagicon|ESP}} [[Marcos Llorente]]||{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]||{{fbaicon|UAE}} [[Al Ain FC|Al Ain]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.fifa.com/tournaments/mens/clubworldcup/uae2018 FIFA Club World Cup UAE 2018], FIFA.com
+
+{{FIFA Club World Cup}}
+
+{{DEFAULTSORT:FIFA Club World Cup}}
+[[Category:2018 FIFA Club World Cup| ]]
+[[Category:FIFA Club World Cup tournaments|2018]]
+[[Category:2018 in men's association football|Club World Cup]]
+[[Category:Men's football competitions in the United Arab Emirates]]
+[[Category:Football club competitions in the United Arab Emirates]]
+[[Category:Football competitions in Abu Dhabi]]
+[[Category:2018–19 in Emirati football]]
+[[Category:Sport in Al Ain]]
+[[Category:2018–19 in Spanish men's football]]
+[[Category:2018–19 in Argentine football]]
+[[Category:2018 in Japanese football]]
+[[Category:2018–19 in New Zealand association football]]
+[[Category:2018–19 in Mexican football]]
+[[Category:2018–19 in Tunisian football]]
+[[Category:2010s in sport in Abu Dhabi]]
+[[Category:December 2018 sports events in Asia]]

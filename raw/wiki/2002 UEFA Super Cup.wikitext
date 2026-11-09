@@ -1,0 +1,231 @@
+{{Infobox football match
+| title              = 2002 UEFA Super Cup
+| image              = 2002 UEFA Super Cup match programme.jpg
+| caption            = Match programme
+| event              = [[UEFA Super Cup]]
+| team1              = [[Real Madrid CF|Real Madrid]]
+| team1association   = {{fbaicon|ESP|size=30px}}
+| team1score         = 3
+| team2              = [[Feyenoord]]
+| team2association   = {{fbaicon|NED|size=30px}}
+| team2score         = 1
+| date               = 30 August 2002
+| stadium            = [[Stade Louis II]]
+| city               = [[Monaco]]
+| man_of_the_match1a = [[Roberto Carlos]] {{nowrap|(Real Madrid)}}<ref name="motm">{{cite web|title=Madrid dazzle in Monaco |url=https://www.uefa.com/uefasupercup/news/0250-0c50f1e37437-3d03cfa29e01-1000--madrid-dazzle-in-monaco/ |work=[[UEFA]] |publisher=Union of European Football Associations |date=30 August 2002 |access-date=1 June 2012}}</ref> 
+| referee            = [[Hugh Dallas]] ([[Scottish Football Association|Scotland]])<ref name="referee">{{cite web|title=Lineups |url=https://www.uefa.com/uefasupercup/match/69590--real-madrid-vs-feyenoord/lineups/?iv=true |work=[[UEFA]] |publisher=Union of European Football Associations |date=30 August 2002 |access-date=1 June 2012}}</ref> 
+| attendance         = 18,284<ref name="pk-09">{{cite web|url=http://en.archive.uefa.com/printoutfiles/competitions/supercup/2009/e/e_2001219_pk.pdf |format=PDF |title=Match Press Kit (2009) |quote=See page 18 |publisher=Union of European Football Associations (UEFA) |access-date=1 June 2012 |url-status=dead |archive-url=https://web.archive.org/web/20160303232520/http://en.archive.uefa.com/printoutfiles/competitions/supercup/2009/e/e_2001219_pk.pdf |archive-date=3 March 2016 }}</ref>
+| weather            = 
+| previous           = [[2001 UEFA Super Cup|2001]]
+| next               = [[2003 UEFA Super Cup|2003]]
+}}
+
+The '''2002 UEFA Super Cup''' was played on 30 August 2002 between [[Real Madrid CF|Real Madrid]] of Spain and [[Feyenoord]] of the Netherlands. Real Madrid qualified by beating [[Bayer 04 Leverkusen|Bayer Leverkusen]] in the [[2002 UEFA Champions League Final]]. Feyenoord had made it to the Super Cup after beating [[Borussia Dortmund]] in the [[2002 UEFA Cup Final]]. Real Madrid won the match 3&ndash;1, securing their first Super Cup win.
+
+==Venue==
+The [[Stade Louis II]] in [[Monaco]] has been the venue for the UEFA Super Cup every year since 1998. Built in 1985, the stadium is also the home of [[AS Monaco FC|AS Monaco]], who play in the French league system.
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!Previous participation (bold indicates winners)
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|[[2001–02 UEFA Champions League]] winners
+|[[1998 UEFA Super Cup|1998]], [[2000 UEFA Super Cup|2000]]
+|-
+|{{fbaicon|NED}} [[Feyenoord]]
+|[[2001–02 UEFA Cup]] winners
+|None
+|}
+
+{{clear}}
+
+==Match==
+
+===Details===
+{{football box
+|date=30 August 2002
+|time=20:45 [[Central European Summer Time|CEST]]
+|team1=[[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score=3–1
+|report=https://www.uefa.com/uefasupercup/match/<!--round=1622/match=-->69590/
+|team2={{fbaicon|NED}} [[Feyenoord]]
+|goals1=[[Patrick Paauwe|Paauwe]] {{goal|15|o.g.}}<br />[[Roberto Carlos]] {{goal|21}}<br />[[Guti]] {{goal|60}}
+|goals2=[[Pierre van Hooijdonk|Van Hooijdonk]] {{goal|56}}
+|stadium=[[Stade Louis II]], [[Monaco]]
+|attendance=18,284<ref name="pk-09"/>
+|referee=[[Hugh Dallas]] ([[Scottish Football Association|Scotland]])<ref name="referee"/> }}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rmadrid0203c
+ | pattern_b  = _rmadrid0203c
+ | pattern_ra = _rmadrid0203c
+ | pattern_sh = _adidasblack
+ | pattern_so =
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid<ref name="lineup">[http://www.vi.nl/Wedstrijden/Wedstrijd.htm?dbid=93346&typeofpage=84140 Tactical lineups]. ''Voetbal International''. Retrieved 1 June 2012</ref>
+}}
+|{{Football kit
+ | pattern_b  = _feyenoord0203h
+ | pattern_ra = _liverpool0405h
+ | pattern_sh = _monterrey1213t1
+ | pattern_so = _monterrey1213t1
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FF0000
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Feyenoord<ref name="lineup"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Iker Casillas]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Míchel Salgado]]
+|-
+|CB ||'''6''' ||{{flagicon|ESP}} [[Iván Helguera]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||{{flagicon|BRA}} [[Roberto Carlos]]
+|-
+|RM ||'''14'''||{{flagicon|ESP}} [[Guti]] || {{suboff|71}}
+|-
+|CM ||'''24'''||{{flagicon|FRA|1974}} [[Claude Makélélé]]
+|-
+|CM ||'''19'''||{{flagicon|ARG}} [[Esteban Cambiasso]] || {{suboff|88}}
+|-
+|LM ||'''5''' ||{{flagicon|FRA|1974}} [[Zinedine Zidane]] || {{suboff|86}}
+|-
+|SS ||'''10'''||{{flagicon|POR}} [[Luís Figo]]
+|-
+|CF ||'''7''' ||{{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[César Sánchez]]
+|-
+|DF ||'''15'''||{{flagicon|ESP}} [[Raúl Bravo]]
+|-
+|DF ||'''22'''||{{flagicon|ESP}} [[Francisco Pavón]] || {{subon|88}}
+|-
+|MF ||'''8''' ||{{flagicon|ENG}} [[Steve McManaman]]
+|-
+|MF ||'''16'''||{{flagicon|BRA}} [[Flávio Conceição]]
+|-
+|MF ||'''21'''||{{flagicon|ARG}} [[Santiago Solari]] || {{subon|86}}
+|-
+|FW ||'''18'''||{{flagicon|ESP}} [[Javier Portillo (Spanish footballer)|Javier Portillo]] || {{subon|71}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Vicente del Bosque]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|NED}} [[Edwin Zoetebier]]
+|-
+|RB ||'''2''' ||{{flagicon|GHA}} [[Christian Gyan]] || {{suboff|72}}
+|-
+|CB ||'''8''' ||{{flagicon|NED}} [[Kees van Wonderen]]
+|-
+|CB ||'''17'''||{{flagicon|NED}} [[Patrick Paauwe]]
+|-
+|LB ||'''3''' ||{{flagicon|POL}} [[Tomasz Rząsa]]
+|-
+|DM ||'''6''' ||{{flagicon|NED}} [[Paul Bosvelt]] ([[Captain (association football)|c]])
+|-
+|RM ||'''23'''||{{flagicon|AUS}} [[Brett Emerton]]
+|-
+|CM ||'''14'''||{{flagicon|JPN}} [[Shinji Ono]]
+|-
+|CM ||'''10'''||{{flagicon|NED}} [[Anthony Lurling]]
+|-
+|LM ||'''7''' ||{{flagicon|CIV}} [[Bonaventure Kalou]]
+|-
+|CF ||'''9''' ||{{flagicon|NED}} [[Pierre van Hooijdonk]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''31'''||{{flagicon|NED}} [[Carlo l'Ami]]
+|-
+|DF ||'''5''' ||{{flagicon|NED}} [[Ramon van Haaren]]
+|-
+|DF ||'''20'''||{{flagicon|NED}} [[Ferry de Haan]]
+|-
+|DF ||'''27'''||{{flagicon|NED}} [[Civard Sprockel]]
+|-
+|MF ||'''18'''||{{flagicon|BRA}} [[Leonardo dos Santos Silva|Leonardo]]
+|-
+|MF ||'''19'''||{{flagicon|BEL}} [[Thomas Buffel]] || {{subon|72}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|NED}} [[Bert van Marwijk]]
+|}
+|}
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Roberto Carlos]] (Real Madrid)<ref name="motm"/>
+
+'''Assistant referees:'''
+<br />[[Wilson Irvine]] ([[Scottish Football Association|Scotland]])<ref name="referee"/>
+<br />David Doig ([[Scottish Football Association|Scotland]])<ref name="referee"/>
+<br />'''Fourth official:'''
+<br />[[Stuart Dougal]] ([[Scottish Football Association|Scotland]])<ref name="referee"/>
+| width=55% valign=top|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra-time if necessary
+*Penalty shootout if scores still level
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+==See also==
+*[[2002–03 UEFA Champions League]]
+*[[2002–03 UEFA Cup]]
+*[[2002–03 Feyenoord season]]
+*[[2002–03 Real Madrid CF season]]
+*[[Feyenoord in international football]]
+*[[Real Madrid CF in international football]]
+
+==References==
+{{reflist}}
+
+{{UEFA Super Cup}}
+{{2002–03 in European football (UEFA)}}
+{{Real Madrid CF matches}}
+{{Feyenoord matches}}
+
+{{DEFAULTSORT:Super Cup 2002}}
+[[Category:2002–03 in European men's continental football|Super Cup]]
+[[Category:Real Madrid CF matches|Uefa Super Cup 2002]]
+[[Category:Feyenoord matches|Uefa super]]
+[[Category:UEFA Super Cup matches|2002]]
+[[Category:2002–03 in Spanish men's football|Supercup]]
+[[Category:2002 in Monégasque sport]]
+[[Category:Football matches in Monaco]]
+[[Category:August 2002 sports events in Europe]]
+[[Category:2002–03 in Dutch football]]
+[[Category:Netherlands–Spain sports relations]]

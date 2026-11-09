@@ -1,0 +1,478 @@
+{{Use dmy dates|date=April 2017}}
+{{Use British English|date=April 2017}}
+{{Infobox football match
+| title              = 2003 UEFA Cup final
+| image              = 2003 uefa.gif
+| image_size         = 250
+| event              = [[2002–03 UEFA Cup]]
+| team1              = [[Celtic F.C.|Celtic]]
+| team1association   = {{fbaicon|SCO|size=30px}}
+| team1score         = 2
+| team2              = [[FC Porto|Porto]]
+| team2association   = {{fbaicon|POR|size=30px}}
+| team2score         = 3
+| details            = After [[Overtime (sports)#Association football|extra time]]
+| date               = 21 May 2003
+| stadium            = [[Estadio de La Cartuja|Estadio Olímpico de Sevilla]]
+| city               = [[Seville]]
+| man_of_the_match1a = [[Derlei]] (Porto)<ref name="motm">{{cite web |first=Simon |last=Hart |title=Derlei and Larsson dazzle Seville |url=http://www.uefa.com/news/newsid=71166.html |website=[[UEFA]] |publisher=Union of European Football Associations |date=22 May 2003 |access-date=14 September 2013 |archive-url=https://web.archive.org/web/20121113104638/https://www.uefa.com/news/newsid=71166.html |archive-date=13 November 2012}}</ref>
+| referee            = [[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+| attendance         = 52,140<ref name="handbook"/>
+| weather            =
+| previous           = [[2002 UEFA Cup final|2002]]
+| next               = [[2004 UEFA Cup final|2004]]
+}}
+The '''2003 UEFA Cup final''' was played on 21 May 2003 between [[Celtic F.C.|Celtic]] of Scotland and [[FC Porto|Porto]] of Portugal. Porto won the match 3–2 in [[Overtime (sports)#Association football|extra time]] thanks to a goal from [[Derlei]]. 
+
+Before this game, no club from Scotland or Portugal had won the [[UEFA Europa League|UEFA Cup]].
+
+The game had what UEFA described as "the largest travelling support to have assembled for a single game"<ref>{{cite news |title=A city divided: half in Glasgow, half in Porto for cup final |author=Paul Kelbie |url=https://www.independent.co.uk/sport/football/european/a-city-divided-half-in-glasgow-half-in-seville-for-cup-final-590914.html |work=The Independent |archive-url=https://archive.today/20090514225350/http://www.independent.co.uk/sport/football/european/a-city-divided-half-in-glasgow-half-in-seville-for-cup-final-590914.html |archive-date=14 May 2009 |url-status=dead |access-date=6 March 2009 |location=London |date=22 May 2003}}</ref> – around 80,000 Celtic fans travelled to [[Seville]] for the final.<ref>{{cite web |url=https://www.theguardian.com/observer/pictures/0,8561,972767,00.html |publisher=[[The Guardian]] |archive-url=https://web.archive.org/web/20070313084149/http://observer.guardian.co.uk/gallery/0,8561,972767,00.html |archive-date=13 March 2007 |access-date=17 June 2009 |url-status=live |title=Celtic in Seville: Observer Sport Monthly index}}</ref><ref>{{cite web |title=Battle of Piccadilly |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/battle-of-piccadilly-953792 |work=[[Manchester Evening News]] |archive-url=https://web.archive.org/web/20140219065414/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/battle-of-piccadilly-953792 |archive-date=19 February 2014}}</ref><ref>{{Cite web |url=http://soccernet.espn.go.com/report?id=98023&cc=5739 |title=Report: Celtic vs FC Porto – UEFA Cup |access-date=16 June 2007 |archive-date=25 May 2011 |archive-url=https://web.archive.org/web/20110525132604/http://soccernet.espn.go.com/report?id=98023&cc=5739 |url-status=dead}}</ref><ref>{{cite web |title=Celebrating Celtic pride in the heart of Andalusia |url=https://www.fifa.com/newscentre/news/newsid=90249.html |publisher=[[FIFA]] |archive-url=https://web.archive.org/web/20131023065227/http://www.fifa.com/newscentre/news/newsid=90249.html |archive-date=23 October 2013}}</ref> For this turnout and the manner in which they conducted themselves, Celtic fans received an award from FIFA and UEFA, winning the [[FIFA Fair Play Award]] that year and being presented with a formal recognition from [[UEFA]] at a home match the following season.<ref>{{cite web |title=Fan Award |work=[[FIFA]] |url=https://www.fifa.com/en/mens/awards/gala/0,2418,73590,00.html?articleid=73590 |access-date=12 June 2007 |archive-url=https://web.archive.org/web/20070411132458/http://www.fifa.com/en/mens/awards/gala/0%2C2418%2C73590%2C00.html?articleid=73590 |archive-date=11 April 2007 |url-status=dead}}</ref><ref>{{Cite web |url=http://www.thecelticwiki.com/page/2003-05-21%3A+Celtic+2-3+Porto,+UEFA+Cup+-+Match+Reports |title=Celtic 2–3 Porto, UEFA Cup – Match Reports |work=thecelticwiki|access-date= 21 May 2015|archive-date= 26 June 2015|archive-url= https://web.archive.org/web/20150626113336/http://www.thecelticwiki.com/page/2003-05-21%3A+Celtic+2-3+Porto,+UEFA+Cup+-+Match+Reports|url-status= live}}</ref>
+
+==Route to the final==
+{{Further|2002–03 UEFA Champions League|2002–03 UEFA Cup}}
+
+''Note: In all results below, the score of the finalist is given first (H: home; A: away).''
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="4"|{{fbaicon|SCO}} [[Celtic F.C.|Celtic]]
+!Round
+!colspan="4"|{{fbaicon|POR}} [[FC Porto|Porto]]
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2002–03 UEFA Champions League|Champions League]]'''
+|
+|colspan="4"|'''[[2002–03 UEFA Cup|UEFA Cup]]'''
+|-
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|style="background:#C1E0FF"|[[2002–03 UEFA Champions League qualifying rounds|Qualifying rounds]]
+|style="background:#C1E0FF"|Opponent
+|style="background:#C1E0FF"|Agg.
+|style="background:#C1E0FF"|1st leg
+|style="background:#C1E0FF"|2nd leg
+|-
+|align="left"|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|3–3 ([[Away goals rule|a]])
+|3–1 (H)
+|0–2 (A)
+|style="background:#C1E0FF"|Third qualifying round
+|colspan="4" rowspan="2"|N/A
+|- style="background:#C1E0FF"
+|colspan="4"|'''[[2002–03 UEFA Cup|UEFA Cup]]'''
+|
+|-
+|style="text-align:left"|{{fbaicon|LTU|1988}} [[FK Sūduva|Sūduva]]
+|10–1
+|8–1 (H)
+|2–0 (A)
+|style="background:#C1E0FF"|[[2002–03 UEFA Cup first round|First round]]
+|style="text-align:left"|{{fbaicon|POL}} [[Polonia Warsaw]]
+|6–2
+|6–0 (H)
+|0–2 (A)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Blackburn Rovers F.C.|Blackburn Rovers]]
+|3–0
+|1–0 (H)
+|2–0 (A)
+|style="background:#C1E0FF"|[[2002–03 UEFA Cup second round|Second round]]
+|style="text-align:left"|{{fbaicon|AUT}} [[FK Austria Wien|Austria Wien]]
+|3–0
+|1–0 (A)
+|2–0 (H)
+|-
+|style="text-align:left"|{{fbaicon|ESP}} [[RC Celta de Vigo|Celta Vigo]]
+|2–2 ([[Away goals rule|a]])
+|1–0 (H)
+|1–2 (A)
+|style="background:#C1E0FF"|[[2002–03 UEFA Cup final phase#Third round|Third round]]
+|style="text-align:left"|{{fbaicon|FRA|1974}} [[RC Lens|Lens]]
+|3–1
+|3–0 (H)
+|0–1 (A)
+|-
+|style="text-align:left"|{{fbaicon|GER}} [[VfB Stuttgart]]
+|5–4
+|3–1 (H)
+|2–3 (A)
+|style="background:#C1E0FF"|[[2002–03 UEFA Cup final phase#Fourth round|Fourth round]]
+|style="text-align:left"|{{fbaicon|TUR}} [[Denizlispor]]
+|8–3
+|6–1 (H)
+|2–2 (A)
+|-
+|style="text-align:left"|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|3–1
+|1–1 (H)
+|2–0 (A)
+|style="background:#C1E0FF"|[[2002–03 UEFA Cup final phase#Quarter-finals|Quarter-finals]]
+|style="text-align:left"|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|2–1 {{aet}}
+|0–1 (H)
+|2–0 (A)
+|-
+|style="text-align:left"|{{fbaicon|POR}} [[Boavista F.C.|Boavista]]
+|2–1
+|1–1 (H)
+|1–0 (A)
+|style="background:#C1E0FF"|[[2002–03 UEFA Cup final phase#Semi-finals|Semi-finals]]
+|style="text-align:left"|{{fbaicon|ITA|2003}} [[SS Lazio|Lazio]]
+|4–1
+|4–1 (H)
+|0–0 (A)
+|}
+
+==Pre-match==
+The game was played at [[Estadio de La Cartuja|Estadio Olímpico de Sevilla]] on 21 May with kick-off at 20:45 local time. A team of officials was selected from Slovakia.
+
+==Match==
+===Summary===
+[[File:Seville celtic fans.jpg|thumb|left|Celtic fans in the stadium]]
+
+A rash challenge led to [[Joos Valgaeren]] of Celtic getting a yellow card in the eighth minute. After this it was a stoic affair, until 32 minutes into the first half when [[Capucho (footballer)|Capucho]] played in [[Deco]], but he could do no more than fire his shot straight at [[Rab Douglas]]. Straight after this attack, Celtic broke on the counter with [[Henrik Larsson]] putting [[Didier Agathe]] through on the right but his cross was too high for [[Chris Sutton]]. Larsson had a chance to make it 1–0 in the 35th minute but was unable to get enough contact on the ball. Porto came close in the 41st minute when Deco moved past [[Bobo Baldé]] to go one on one with Douglas, who saved Deco's shot with his legs.
+
+Porto found a way through on the stroke of half-time. After some great work from Deco, [[Dmitri Alenichev]]'s shot was parried by Douglas and [[Derlei]] slotted the ball in to give Porto a 1–0 lead. It was his 11th goal of the competition. Porto's lead did not last long after the restart as Celtic equalised after 47 minutes when Larsson met Agathe's cross to direct a looping header in over the helpless [[Vítor Baía]] to get his tenth goal of the tournament and his 200th Celtic goal. Within five minutes, it was 2–1 when Deco evaded a tackle and slipped a through ball to Alenichev who converted the cross.<ref>{{Cite web |url=https://news.bbc.co.uk/sport2/hi/football/europe/3043029.stm |title=Porto end Celtic's Uefa dream |date=27 May 2003 |work=BBC Sport|access-date=21 May 2015|archive-date=5 May 2009|archive-url=https://web.archive.org/web/20090505230853/http://news.bbc.co.uk/sport1/hi/football/europe/3043029.stm|url-status=live}}</ref>
+
+Three minutes later, Celtic levelled once again. Larsson took advantage of poor marking when he powerfully headed in [[Alan Thompson (footballer, born 1973)|Alan Thompson]]'s corner. With Deco remaining a consistent threat, [[Martin O'Neill]] brought on [[Jackie McNamara]] in 76 minutes to nullify Deco's threat. In the 80th minute, [[Bobo Baldé]] picked up a yellow card. A couple of minutes from time, McNamara's errant pass found Alenichev, but he could not find the target and shot over.
+
+Normal time ended with the game at 2–2. Extra time would be played under the [[silver goal]] rule, whereby the team leading at the end of the first half of extra time would win the match. 
+
+Celtic were reduced to ten men in the 96th minute when Baldé was dismissed after collecting his second yellow card. O'Neill reconfigured his team by moving McNamara back to fill the gap in defence caused by Baldé's dismissal.<ref>{{Cite web |url=https://www.telegraph.co.uk/sport/football/2404502/Celtic-despair-after-cruel-defeat.html |title=Celtic despair after cruel defeat |date=27 May 2003 |work=Daily Telegraph|access-date=21 May 2015|archive-date=29 February 2016|archive-url=https://web.archive.org/web/20160229083659/http://www.telegraph.co.uk/sport/football/2404502/Celtic-despair-after-cruel-defeat.html|url-status=live}}</ref>
+
+The first half of extra time arrived without a change in the score, so the [[silver goal]] rule did not apply.
+
+In the second half of extra time Celtic were unable to hold out for penalties, as Derlei reacted quickest to a Douglas block in the 115th minute and rounded McNamara to make it 3–2. Porto had [[Nuno Valente]] sent off in the last minute but no further goals meant that they had ended their 16-year wait for a further European trophy.
+
+===Details===
+<onlyinclude>{{Football box
+|date       = {{Start date|2003|5|21|df=y}}
+|time       = {{CEST|20:45}}
+|team1      = [[Celtic F.C.|Celtic]] {{fbaicon|SCO}}
+|score      = 2–3
+|aet        = yes
+|team2      = {{fbaicon|POR}} [[FC Porto|Porto]]
+|goals1     =
+*[[Henrik Larsson|Larsson]] {{goal|47||57}}
+|goals2     =
+*[[Derlei]] {{goal|45+1}}, {{goal|115}}
+*[[Dmitri Alenichev|Alenichev]] {{goal|54}}
+|stadium    = [[Estadio de La Cartuja|Estadio Olímpico de Sevilla]], [[Seville]]
+|attendance = 52,140<ref name="handbook">{{cite book |location=Nyon |chapter-url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |chapter=4. UEFA Cup Finals |title=UEFA Europa League Statistics Handbook 2012/13 |publisher=Union of European Football Associations |page=71 |date=28 May 2013 |access-date=27 September 2024 |url-status=dead |archive-url=https://web.archive.org/web/20130604201547/https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/01/88/46/53/1884653_DOWNLOAD.pdf |archive-date=4 June 2013}}</ref>
+|referee    = [[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/71041/
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _celtic0204h
+ | pattern_b  = _celtic0204h
+ | pattern_ra = _celtic0204h
+ | pattern_sh =  
+ | leftarm    = 00802A
+ | body       = 00802A
+ | rightarm   = 00802A
+ | shorts     = 
+ | socks      = FFFFFF
+ | title      = Celtic<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2002/71041_LU.pdf |title=Lineups – Final – Wednesday 21 May 2003 |website=[[UEFA]] |publisher=Union of European Football Associations |format=PDF |date=21 May 2003 |access-date=22 September 2025 |archive-date=9 December 2024 |archive-url=https://web.archive.org/web/20241209011528/https://www.uefa.com/newsfiles/uefacup/2002/71041_LU.pdf |url-status=live }}</ref>
+}}
+|{{Football kit
+ | pattern_la = _fcporto0203h
+ | pattern_b  = _fcporto0203h
+ | pattern_ra = _fcporto0203h
+ | pattern_sh = _fcporto0203h
+ | pattern_so = _fcporto0304h
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Porto<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''20'''||{{flagicon|SCO}} [[Rab Douglas]]
+|-
+|CB ||'''35'''||{{flagicon|SWE}} [[Johan Mjällby]]
+|-
+|CB ||'''6''' ||{{flagicon|GUI}} [[Bobo Baldé]] || {{sent off|2|80|96}}
+|-
+|CB ||'''5''' ||{{flagicon|BEL}} [[Joos Valgaeren]] || {{yel|8}} || {{suboff|64}}
+|-
+|DM ||'''14'''||{{flagicon|SCO}} [[Paul Lambert]] ([[Captain (association football)|c]])|| || {{suboff|76}}
+|-
+|RM ||'''17'''||{{flagicon|FRA|1974}} [[Didier Agathe]]
+|-
+|CM ||'''19'''||{{flagicon|BUL}} [[Stiliyan Petrov]] || {{yel|102}} || {{suboff|105}}
+|-
+|CM ||'''18'''||{{flagicon|NIR}} [[Neil Lennon]] || {{yel|59}}
+|-
+|LM ||'''8''' ||{{flagicon|ENG}} [[Alan Thompson (footballer, born 1973)|Alan Thompson]]
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Chris Sutton]]
+|-
+|CF ||'''7''' ||{{flagicon|SWE}} [[Henrik Larsson]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''21'''||{{flagicon|SWE}} [[Magnus Hedman]]
+|-
+|DF ||'''4''' ||{{flagicon|SCO}} [[Jackie McNamara]] || || {{subon|76}}
+|-
+|DF ||'''16'''||{{flagicon|DEN}} [[Ulrik Laursen]] || || {{subon|64}}
+|-
+|MF ||'''3''' ||{{flagicon|GUI}} [[Mohammed Sylla]]
+|-
+|MF ||'''39'''||{{flagicon|SCO}} [[Jamie Smith (footballer, born 1980)|Jamie Smith]]
+|-
+|FW ||'''12'''||{{flagicon|ESP}} [[David Fernández (footballer, born 1976)|David Fernández]]
+|-
+|FW ||'''29'''||{{flagicon|SCO}} [[Shaun Maloney]] || || {{subon|105}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|NIR}} [[Martin O'Neill]]
+|}
+|valign="top"|[[File:Celtic vs Porto 2003-05-21.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%; margin: auto;" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''99'''||{{flagicon|POR}} [[Vítor Baía]]
+|-
+|RB ||'''22'''||{{flagicon|POR}} [[Paulo Ferreira]]
+|-
+|CB ||'''2''' ||{{flagicon|POR}} [[Jorge Costa (footballer)|Jorge Costa]] ([[Captain (association football)|c]]) || || {{suboff|71}}
+|-
+|CB ||'''4''' ||{{flagicon|POR}} [[Ricardo Carvalho]]
+|-
+|LB ||'''8''' ||{{flagicon|POR}} [[Nuno Valente]] || {{sent off|2|63|120+3}}
+|-
+|DM ||'''6''' ||{{flagicon|POR}} [[Costinha]] || || {{suboff|9}}
+|-
+|CM ||'''15'''||{{flagicon|RUS}} [[Dmitri Alenichev]]
+|-
+|CM ||'''18'''||{{flagicon|POR}} [[Maniche]] || {{yel|120}}
+|-
+|AM ||'''10'''||{{flagicon|POR}} [[Deco]]
+|-
+|CF ||'''21'''||{{flagicon|POR}} [[Capucho (footballer)|Capucho]] || || {{suboff|98}}
+|-
+|CF ||'''11'''||{{flagicon|BRA}} [[Derlei]] || {{yel|116}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|POR}} [[Nuno Espírito Santo|Nuno]]
+|-
+|DF ||'''3''' ||{{flagicon|POR}} [[Pedro Emanuel]] || || {{subon|71}}
+|-
+|DF ||'''5''' ||{{flagicon|POR}} [[Ricardo Costa (footballer, born 1981)|Ricardo Costa]] || || {{subon|9}}
+|-
+|DF ||'''14'''||{{flagicon|POR}} [[César Peixoto]]
+|-
+|MF ||'''28'''||{{flagicon|BRA}} [[Clayton Ferreira Cruz|Clayton]]
+|-
+|MF ||'''66'''||{{flagicon|POR}} [[Tiago Pereira (footballer, born 1975)|Tiago]]
+|-
+|FW ||'''78'''||{{flagicon|POR}} [[Marco Ferreira (footballer)|Marco Ferreira]] || {{yel|120}} || {{subon|98}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|POR}} [[José Mourinho]]
+|}
+|}
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Derlei]] (Porto)<ref name="motm" />
+
+'''Assistant referees:'''
+<br />Igor Šramka ([[Slovak Football Association|Slovakia]])
+<br />Martin Balko ([[Slovak Football Association|Slovakia]])
+<br />'''Fourth official:'''
+<br />Anton Stredák ([[Slovak Football Association|Slovakia]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes
+*30 minutes of [[Golden goal#Silver goal|silver goal]] [[Overtime (sports)#Association football|extra time]] if necessary
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still equal
+*Seven named substitutes
+*Maximum of three substitutions
+|}
+
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="FT report">{{cite web |url=https://www.uefa.com/newsfiles/uefacup/2002/71041_FR.pdf |title=Full Time Report |work=[[UEFA]] |publisher=Union of European Football Associations (UEFA) |format=PDF |date=21 May 2003 |access-date=28 July 2014 |archive-date=28 July 2014 |archive-url=https://web.archive.org/web/20140728091745/http://www.uefa.com/newsfiles/uefacup/2002/71041_FR.pdf |url-status=live}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Celtic
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|0
+|1
+|-
+!scope=row|Total shots
+|2
+|7
+|-
+!scope=row|Shots on target
+|1
+|7
+|-
+!scope=row|Ball possession
+|43%
+|57%
+|-
+!scope=row|Corner kicks
+|1
+|3
+|-
+!scope=row|Fouls committed
+|13
+|6
+|-
+!scope=row|Offsides
+|0
+|0
+|-
+!scope=row|Yellow cards
+|1
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half and extra time<ref name="FT report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Celtic
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|2
+|2
+|-
+!scope=row|Total shots
+|4
+|8
+|-
+!scope=row|Shots on target
+|2
+|4
+|-
+!scope=row|Ball possession
+|45%
+|55%
+|-
+!scope=row|Corner kicks
+|4
+|2
+|-
+!scope=row|Fouls committed
+|20
+|18
+|-
+!scope=row|Offsides
+|4
+|2
+|-
+!scope=row|Yellow cards
+|4
+|5
+|-
+!scope=row|Red cards
+|1
+|1
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="FT report"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Celtic
+!scope="col" style="width:70px"|Porto
+|-
+!scope=row|Goals scored
+|2
+|3
+|-
+!scope=row|Total shots
+|6
+|15
+|-
+!scope=row|Shots on target
+|3
+|11
+|-
+!scope=row|Ball possession
+|44%
+|56%
+|-
+!scope=row|Corner kicks
+|5
+|5
+|-
+!scope=row|Fouls committed
+|33
+|24
+|-
+!scope=row|Offsides
+|4
+|2
+|-
+!scope=row|Yellow cards
+|5
+|5
+|-
+!scope=row|Red cards
+|1
+|1
+|}
+{{col-end}}
+
+==See also==
+*[[2003 UEFA Champions League final]]
+*[[2003 UEFA Super Cup]]
+*[[Celtic F.C. in international football]]
+*[[FC Porto in international football]]
+*[[The Bhoys from Seville]]
+*[[2002–03 Celtic F.C. season]]
+*[[2002–03 FC Porto season]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20100625193442/http://en.archive.uefa.com/competitions/uefacup/history/season=2002/intro.html 2002–03 season] at UEFA.com
+
+{{UEFA Europa League seasons}}
+{{2002–03 in European Football (UEFA)}}
+{{F.C. Porto matches}}
+{{Celtic F.C. matches}}
+
+{{DEFAULTSORT:Uefa Cup final 2003}}
+[[Category:Celtic F.C. matches|UEFA Cup Final 2003]]
+[[Category:FC Porto matches|UEFA Cup Final 2003]]
+[[Category:Football competitions in Seville]]
+[[Category:UEFA Europa League finals|2003]]
+[[Category:2002–03 in Spanish men's football|UEFA]]
+[[Category:2002–03 UEFA Cup|Final]]
+[[Category:2003 in Seville]]
+[[Category:Football matches in Spain]]
+[[Category:May 2003 sports events in Spain]]
+[[Category:Portugal–United Kingdom sports relations|2003]]
+[[Category:2002–03 in Scottish football]]
+[[Category:2002–03 in Portuguese football]]

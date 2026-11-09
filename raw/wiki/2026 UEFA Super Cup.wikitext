@@ -1,0 +1,445 @@
+{{Short description|European football match}}
+{{EngvarB|date=September 2025}}
+{{Use dmy dates|date=September 2025}}
+{{Infobox football match
+| title              = 2026 UEFA Super Cup
+| image              = 2026 UEFA Super Cup programme.png
+| caption            = Match programme cover
+| image_size         = 250
+| team1              = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| team1association   = {{fbaicon|FRA|size=30px}}
+| team1score         = 2
+| team2              = [[Aston Villa F.C.|Aston Villa]]
+| team2association   = {{fbaicon|ENG|size=30px}}
+| team2score         = 1
+| details            =
+| date               = {{Start date|2026|8|12|df=y}}
+| stadium            = [[Red Bull Arena (Salzburg)|Red Bull Arena]]
+| city               = [[Salzburg]]
+| man_of_the_match1a = [[Désiré Doué]] {{nowrap|(Paris Saint-Germain)}}<ref name="MOTM">{{cite web |url=https://www.uefa.com/uefasupercup/news/02a8-21553aa1e2fa-ea1febaffb12-1000/ |title=Desiré Doué named 2026 UEFA Super Cup Player of the Match |publisher=[[UEFA]] |date=12 August 2026 |access-date=12 August 2026}}</ref>
+| referee            = [[Omar Artan]] ([[Somali Football Federation|Somalia]])<ref name="referee"/>
+| attendance         = 27,681<ref name="report 12 August"/>
+| weather            = Clear night<br />{{convert|23|°C|°F}}<br />48% [[humidity]]<ref name="lineups">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2026/2048319_LU.pdf |title=Tactical line-ups |publisher=[[UEFA]] |date=12 August 2026 |access-date=12 August 2026}}</ref>
+| previous           = [[2025 UEFA Super Cup|2025]]
+| next               = <!--''[[2027 UEFA Super Cup|2027]]''-->''2027''
+}}  
+The '''2026 UEFA Super Cup''' was the 51st edition of the [[UEFA Super Cup]], an annual [[association football|football]] match organised by [[UEFA]] and contested by the reigning champions of the top two European club competitions, the [[UEFA Champions League]] and the [[UEFA Europa League]]. The match featured French club [[Paris Saint-Germain FC|Paris Saint-Germain]], the winners of the [[2025–26 UEFA Champions League]] and reigning UEFA Super Cup title holders, and English club [[Aston Villa F.C.|Aston Villa]], the winners of the [[2025–26 UEFA Europa League]]. It was played at the [[Red Bull Arena (Salzburg)|Red Bull Arena]] in [[Salzburg]], Austria,<ref name="ExCo decision"/> on 12 August 2026.<ref>{{cite magazine |url=https://editorial.uefa.com/resources/029d-1ea02fc38447-640d13cb2154-1000/20250901_circular_2025_49_en.zip |title=Men's international match calendar and access list for the 2026/27 season |number=49/2025 |magazine=UEFA Circular Letter |publisher=[[UEFA|Union of European Football Associations]] |format=ZIP |date=2 September 2025 |access-date=11 September 2025}}</ref><ref>{{cite web|url= https://www.uefa.com/uefasupercup/news/02a8-2149ed5e5bc1-0b130f0cdccd-1000--paris-vs-aston-villa-super-cup-preview-where-to-watch-ki/|title=Paris vs Aston Villa Super Cup preview: Where to watch, kick-off time, predicted line-ups|date=11 August 2026|work=UEFA.com|accessdate=11 August 2026}}</ref>
+
+Paris Saint-Germain won the match 2–1 for their second UEFA Super Cup title.<ref name="summary">{{cite web |url=https://www.uefa.com/uefasupercup/news/02a8-215538a51719-2eeabf96b5c7-1000/ |title=Paris 2–1 Aston Villa: European champions win back-to-back Super Cups with Khvicha Kvaratskhelia and Désiré Doué goals |publisher=[[UEFA]] |date=12 August 2026 |access-date=12 August 2026}}</ref>
+
+==Teams==
+{| class="wikitable"
+|-
+!Team
+!Qualification
+!{{nowrap|Previous participations<br>(bold indicates winners)}}
+|-
+|{{nowrap|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]}}
+|Winners of the [[2025–26 UEFA Champions League]]
+|2 ([[1996 UEFA Super Cup|1996]], '''[[2025 UEFA Super Cup|2025]]''')
+|-
+|{{fbaicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+|Winners of the [[2025–26 UEFA Europa League]]
+|1 ('''[[1982 European Super Cup|1982]]''')
+|}
+
+==Venue==
+[[File:EM-Stadion Wals-Siezenheim zur Euro.jpg|thumb|275px|The [[Red Bull Arena (Salzburg)|Red Bull Arena]] in [[Salzburg]] hosted the match.]]
+It was the first UEFA Super Cup to be held in Austria, and the first major European final to be played in [[Salzburg]]. It was the seventh major European club final to be played in Austria, after four in the [[List of European Cup and UEFA Champions League finals|European Cup/Champions League]] ([[1964 European Cup final|1964]], [[1987 European Cup final|1987]], [[1990 European Cup final|1990]], [[1995 UEFA Champions League final|1995]]), one in the [[List of UEFA Cup Winners' Cup finals|Cup Winners' Cup]] ([[1970 European Cup Winners' Cup final|1970]]) and one in the [[List of UEFA Cup and Europa League finals|UEFA Cup]] ([[1994 UEFA Cup final#First leg|1994 first leg]]), all of which were held at the [[Ernst-Happel-Stadion]] in [[Vienna]].<ref>{{cite web |url=https://apa.at/news/uefa-vergibt-supercup-2026-an-salzburg/ |title=UEFA vergibt Supercup 2026 an Salzburg |trans-title=UEFA awards Supercup to Salzburg 2026 |agency=[[Austria Press Agency]] |date=11 September 2025 |access-date=11 September 2025}}</ref> The [[Red Bull Arena (Salzburg)|Red Bull Arena]] is the home stadium of [[FC Red Bull Salzburg|Red Bull Salzburg]], and has a capacity of 30,071. The venue opened in 2003, and hosted three group stage matches at [[UEFA Euro 2008]].<ref>{{cite web |url=https://www.redbullsalzburg.at/de/aktuelles/news/uefa-super-cup-2026-salzburg |title=UEFA Super Cup 2026 steigt in Salzburg |trans-title=UEFA Super Cup 2026 will take place in Salzburg |publisher=[[FC Red Bull Salzburg]] |date=11 September 2025 |access-date=11 September 2025}}</ref> It was known as Stadion Salzburg in UEFA communications due to their restrictions on third-party sponsorship.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/match/2019394--salzburg-vs-krasnodar/|title=UEFA Europa League - Salzburg-Krasnodar|access-date=10 January 2017|publisher=Union of European Football Associations}}</ref>
+
+===Host selection===
+The Red Bull Arena was selected as the host by the UEFA Executive Committee during their meeting in [[Tirana]], Albania, on 11 September 2025.<ref name="ExCo decision">{{cite web |url=https://www.uefa.com/news-media/news/029d-1eb2cecb8955-8fa1e427770d-1000/ |title=Estadio Metropolitano to host 2027 UEFA Champions League final |publisher=[[UEFA]] |date=11 September 2025 |access-date=11 September 2025}}</ref>
+
+==Pre-match==
+After being [[2026 FIFA World Cup immigration and visa controversies|denied entry]] to the United States to officiate at the [[2026 FIFA World Cup]], Somali referee [[Omar Artan]] was appointed as the lead official for the 2026 UEFA Super Cup on 11 June 2026, becoming the first ever non-European to officiate the match.<ref name="referee">{{cite news |title=Top African referee Omar Artan to officiate 2026 UEFA Super Cup after being unable to participate in FIFA World Cup 2026 |url=https://www.uefa.com/news-media/news/02a6-20d7ce07703f-bee983e79921-1000--top-african-referee-omar-artan-to-officiate-2026-uefa-super/ |website=UEFA.com |publisher=Union of European Football Associations |date=11 June 2026 |accessdate=11 June 2026 }}</ref><ref>{{cite news
+ |title=Artan to referee Uefa Super Cup after losing World Cup spot
+ |work=Yahoo Sports
+ |publisher=BBC Sport
+ |date=11 June 2026
+ |url=https://sports.yahoo.com/articles/artan-referee-uefa-super-cup-142504531.html
+ |access-date=13 June 2026
+ |archive-url=https://web.archive.org/web/20260618100226/https://sports.yahoo.com/articles/artan-referee-uefa-super-cup-142504531.html
+ |archive-date=18 June 2026
+ |url-status=dead
+}}</ref> The appointment was made within the framework of a Memorandum of Understanding (MoU) between UEFA and the [[Confederation of African Football]] (CAF), signed on the sidelines of the 76th FIFA Congress in [[Vancouver]], Canada in April 2026.<ref name="referee" />
+
+===Dignitaries in attendance===
+Other officials who attended the match included UEFA President [[Aleksander Čeferin]] and General Secretary [[Theodore Theodoridis]], CAF President [[Patrice Motsepe]], [[Paris Saint-Germain FC]] President [[Nasser Al-Khelaifi]], [[Austrian Football Association]] (ÖFB) President [[Josef Pröll]] representing the host nation, and Rwandan President [[Paul Kagame]], whose country's [[Tourism in Rwanda|"Visit Rwanda" tourism campaign]] sponsors both teams.<ref>{{Cite web |date=10 August 2026 |title=Welcome to the UEFA Super Cup 2026! |url=https://www.uefa.com/uefasupercup/news/02a8-2150258c1bdc-d4d21724280c-1000--welcome-to-the-uefa-super-cup-2026/ |website=UEFA.com |publisher=Union of European Football Associations}}</ref><ref>{{Cite news |date=13 August 2026 |title=President Kagame attends PSG-Aston Villa Super Cup clash |url=https://en.igihe.com/sports/article/president-kagame-attends-psg-aston-villa-super-cup-clash |work=IGIHE News}}</ref> This match marked Čeferin’s first public appearance since his boycott of the [[2026 FIFA World Cup final]] match between [[Spain national football team|Spain]] and [[Argentina national football team|Argentina]], an action prompted by the [[2026 Trump–FIFA red card controversy|Balogun red card controversy]].<ref>{{Cite news |last=Slater |first=Matt |date=20 July 2026 |title=UEFA president Aleksander Ceferin boycotts World Cup final in response to Folarin Balogun incident |url=https://www.nytimes.com/athletic/7458936/2026/07/20/ceferin-world-cup-final-infantino-fifa-uefa/ |work=[[The Athletic]] |publisher=[[The New York Times]]}}</ref> <ref>{{Cite news |date=20 July 2026 |title=Ceferin skipped World Cup final reportedly to show disapproval of FIFA |url=https://www.france24.com/en/live-news/20260720-ceferin-skipped-world-cup-final-reportedly-to-show-disapproval-of-fifa |work=[[France 24]] |agency=[[Agence France-Presse]]}}</ref><ref>{{Cite news |last=Johnson |first=Dale |date=20 July 2026 |title=Uefa president boycotts World Cup final in protest against Fifa |url=http://bbc.com/sport/football/articles/cr59mg77ep2o |work=[[BBC Sport]]}}</ref>
+
+==Match==
+===Summary===
+In the 20th minute, [[Khvicha Kvaratskhelia]] gave Paris Saint-Germain the lead when he received the ball on the left from [[Désiré Doué]] before cutting into the penalty area and shooting right footed to the left of the net. It was 1–1 in the 45th minute when [[Brian Madjo]] finished high to the net from six yards out with a side-footed volley after a cross from [[John McGinn]] from the right. This goal made him the youngest player ever to score at the UEFA Super Cup, at 17 years and 212 days.<ref>{{cite web|url= https://www.theguardian.com/football/2026/aug/12/uefa-super-cup-aston-villa-psg-match-report|title=Doué seals Super Cup glory for PSG after Madjo makes history for Aston Villa|date=12 August 2026|work=Guardian|accessdate=13 August 2026}}</ref>
+
+In the 60th minute, Désiré Doué scored to make it 2–1 to Paris Saint-Germain when he received a pass on the right from substitute [[Ousmane Dembélé]] before cutting in on his left foot before shooting into the left of the net from the right edge of the six yard box. After a VAR check for offside, the goal was awarded.<ref>{{cite web|url= https://www.bbc.com/sport/football/live/cmn4n23z15elt|title=Paris Saint-Germain 2 Aston Villa 1|date=12 August 2026|work=BBC Sport|accessdate=13 August 2026}}</ref>
+
+Following this result, Paris Saint-Germain became the fourth club (after [[AFC Ajax|Ajax]], [[AC Milan]], and [[Real Madrid CF|Real Madrid]]) to win the UEFA Super Cup in consecutive seasons.<ref>{{Cite news |last=Stynes |first=Trevor |date=August 13, 2026 |title=PSG retain UEFA Super Cup with 2-1 win over Aston Villa |url=https://www.reuters.com/sports/soccer/psg-retain-uefa-super-cup-with-2-1-win-over-aston-villa-2026-08-12/ |archive-url= |access-date=August 28, 2026}}</ref>
+
+===Details===
+The Champions League winners were designated as the "home" team for administrative purposes.
+
+<onlyinclude>{{Football box
+|date       = {{Start date|2026|8|12|df=y}}
+|time       = {{CEST|21:00}}
+|team1      = [[Paris Saint-Germain FC|Paris Saint-Germain]] {{fbaicon|FRA}}
+|score      = 2–1
+|team2      = {{fbaicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+|goals1     =
+*[[Khvicha Kvaratskhelia|Kvaratskhelia]] {{goal|20}}
+*[[Désiré Doué|Doué]] {{goal|61}}
+|goals2     =
+*[[Brian Madjo|Madjo]] {{goal|45}}
+|stadium    = [[Red Bull Arena (Salzburg)|Red Bull Arena]], [[Salzburg]]
+|attendance = 27,681<ref name="report 12 August">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2026/2048319_FR.pdf |title=Full Time Report Final – Paris Saint-Germain v Aston Villa |publisher=[[UEFA]] |date=12 August 2026 |access-date=12 August 2026}}</ref>
+|referee    = [[Omar Artan]] ([[Somali Football Federation|Somalia]])
+|report     = Report<ref>{{cite web |url=https://www.uefa.com/uefasupercup/match/2048319/ |title=Paris Saint-Germain vs Aston Villa |website=UEFA.com |publisher=Union of European Football Associations |date=2 June 2026 |access-date=2 June 2026}}</ref>
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _psg2627h
+ |pattern_b  = _psg2627H
+ |pattern_ra = _psg2627h
+ |pattern_sh = _psg2627h
+ |pattern_so = _psg2627hl
+ |leftarm    = 0000CC
+ |body       = 0000CC
+ |rightarm   = 0000CC
+ |shorts     = 0000CC
+ |socks      = 0000CC
+ |title      = {{nowrap|Paris Saint-Germain}}<ref name="lineups"/>
+}}
+|{{Football kit
+ |pattern_la = _astonvilla2627t
+ |pattern_b  = _astonvilla2627T
+ |pattern_ra = _astonvilla2627t
+ |pattern_sh = _astonvilla2627t2
+ |pattern_so = _astonvilla2627t2l
+ |leftarm    = BBD5F2
+ |body       = BBD5F2
+ |rightarm   = BBD5F2
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = {{nowrap|Aston Villa}}<ref name="lineups"/>
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''39'''||{{flagicon|RUS}} [[Matvey Safonov]]
+|-
+|RB ||'''2''' ||{{flagicon|MAR}} [[Achraf Hakimi]]
+|-
+|CB ||'''5''' ||{{flagicon|BRA}} [[Marquinhos]] ([[Captain (association football)|c]])
+|-
+|CB ||'''51'''||{{flagicon|ECU}} [[Willian Pacho]]
+|-
+|LB ||'''25'''||{{flagicon|POR}} [[Nuno Mendes (footballer, born 2002)|Nuno Mendes]] || || {{suboff|74}}
+|-
+|CM ||'''87'''||{{flagicon|POR}} [[João Neves]] || || {{suboff|75}}
+|-
+|CM ||'''17'''||{{flagicon|POR}} [[Vitinha]]
+|-
+|CM ||'''33'''||{{flagicon|FRA}} [[Warren Zaïre-Emery]]
+|-
+|RF ||'''11'''||{{flagicon|FRA}} [[Maghnes Akliouche]] || || {{suboff|46}}
+|-
+|CF ||'''14'''||{{flagicon|FRA}} [[Désiré Doué]] || || {{suboff|87}}
+|-
+|LF ||'''7''' ||{{flagicon|GEO}} [[Khvicha Kvaratskhelia]] || || {{suboff|88}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''30'''||{{flagicon|FRA}} [[Lucas Chevalier]]
+|-
+|DF ||'''4''' ||{{flagicon|BRA}} [[Lucas Beraldo]] || || {{subon|88}}
+|-
+|DF ||'''6''' ||{{flagicon|UKR}} [[Illia Zabarnyi]]
+|-
+|DF ||'''12'''||{{flagicon|FRA}} [[Lucas Digne]]
+|-
+|DF ||'''21'''||{{flagicon|FRA}} [[Lucas Hernandez]] || || {{subon|74}}
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Fabián Ruiz]] || || {{subon|75}}
+|-
+|MF ||'''24'''||{{flagicon|FRA}} [[Senny Mayulu]] || || {{subon|87}}
+|-
+|MF ||'''27'''||{{flagicon|ESP}} [[Dro Fernández]]
+|-
+|FW ||'''10'''||{{flagicon|FRA}} [[Ousmane Dembélé]] || || {{subon|46}}
+|-
+|FW ||'''29'''||{{flagicon|FRA}} [[Bradley Barcola]]
+|-
+|FW ||'''47'''||{{flagicon|FRA}} [[Quentin Ndjantou]]
+|-
+|FW ||'''49'''||{{flagicon|SEN}} [[Ibrahim Mbaye]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Luis Enrique]]
+|}
+|valign="top"|[[File:Paris Saint-Germain vs Aston Villa 2026-08-12.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''40'''||{{flagicon|NED}} [[Marco Bizot]]
+|-
+|RB ||'''2''' ||{{flagicon|POL}} [[Matty Cash]]
+|-
+|CB ||'''3''' ||{{flagicon|SWE}} [[Victor Lindelöf]]
+|-
+|CB ||'''14'''||{{flagicon|ESP}} [[Pau Torres]] || {{yel|51}} || {{suboff|80}}
+|-
+|LB ||'''22'''||{{flagicon|NED}} [[Ian Maatsen]]
+|-
+|RM ||'''7''' ||{{flagicon|SCO}} [[John McGinn]] ([[Captain (association football)|c]]) || {{yel|72}} || {{suboff|72}}
+|-
+|CM ||'''35'''||{{flagicon|BRA}} [[João Gomes (footballer, born 2001)|João Gomes]] || {{yel|64}} || {{suboff|80}}
+|-
+|CM ||'''8''' ||{{flagicon|FRA}} [[Boubacar Kamara]] || || {{suboff|72}}
+|-
+|LM ||'''53'''||{{flagicon|ENG}} [[George Hemmings]]
+|-
+|CF ||'''10'''||{{flagicon|ARG}} [[Emiliano Buendía]]
+|-
+|CF ||'''39'''||{{flagicon|ENG}} [[Brian Madjo]] || || {{suboff|72}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''42'''||{{flagicon|ENG}} [[James Wright (footballer)|James Wright]]
+|-
+|GK ||'''60'''||{{flagicon|ENG}} [[Owen Asemota]]
+|-
+|DF ||'''5''' ||{{flagicon|ENG}} [[Tyrone Mings]] || || {{subon|80}}
+|-
+|DF ||'''32'''||{{flagicon|SRB}} [[Kosta Nedeljković]]
+|-
+|DF ||'''45'''||{{flagicon|ENG}} [[Triston Rowe]]
+|-
+|DF ||'''48'''||{{flagicon|SEN}} [[Modou Kéba Cissé]]
+|-
+|MF ||'''6''' ||{{flagicon|ENG}} [[Ross Barkley]] || || {{subon|80}}
+|-
+|MF ||'''26'''||{{flagicon|NED}} [[Lamare Bogarde]] || || {{subon|72}}
+|-
+|MF ||'''49'''||{{flagicon|ENG}} [[Bradley Burrowes]]
+|-
+|FW ||'''18'''||{{flagicon|ENG}} [[Tammy Abraham]] || || {{subon|72}}
+|-
+|FW ||'''47'''||{{flagicon|BRA}} [[Alysson (footballer, born 2006)|Alysson]] || || {{subon|72}}
+|-
+|FW ||'''74'''||{{flagicon|ENG}} [[Luka Lynch]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Unai Emery]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Désiré Doué]] (Paris Saint-Germain)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="lineups"/>
+<br />Liban Abdoulrazack Ahmed ([[Djiboutian Football Federation|Djibouti]])
+<br />Stephen Eleazar Onyango Yiembe ([[Football Kenya Federation|Kenya]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="lineups"/>
+<br />[[Rade Obrenović]] ([[Football Association of Slovenia|Slovenia]])
+<br />'''[[Video assistant referee]]:'''<ref name="lineups"/>
+<br />[[Marco Di Bello]] ([[Italian Football Federation|Italy]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="lineups"/>
+<br />[[Guillermo Cuadra Fernández]] ([[Royal Spanish Football Federation|Spain]])
+|style="width:60%; vertical-align:top;"|
+{{Match rules
+|ref               = <ref>{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Super-Cup-2026-Online |title=Regulations of the UEFA Super Cup |publisher=[[UEFA]] |date=29 July 2026 |access-date=13 August 2026 |archive-url=https://web.archive.org/web/20260813174935/https://documents.uefa.com/api/khub/maps/1cedXvxWPKpmvmuNkHG~KQ/attachments/3d~7qTMvhwdI~MbV5R9OgA-1cedXvxWPKpmvmuNkHG~KQ/content |archive-date=13 August 2026}}</ref>
+|penalties         = y
+|named subs        = 12
+|subs allowed      = 5
+|sub opportunities = y
+}}
+|}
+
+===Statistics===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+First half<ref name="team statistics">{{cite web |url=https://www.uefa.com/newsfiles/SuperCup/2026/2048319_TS.pdf |title=Team statistics |publisher=[[UEFA]] |date=12 August 2026 |access-date=12 August 2026}}</ref>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Aston Villa
+|-
+!scope=row|Goals scored
+|1
+|1
+|-
+!scope=row|Total shots
+|6
+|10
+|-
+!scope=row|Shots on target
+|2
+|2
+|-
+!scope=row|Saves
+|1
+|1
+|-
+!scope=row|Ball possession
+|60%
+|40%
+|-
+!scope=row|Corner kicks
+|0
+|2
+|-
+!scope=row|Fouls committed
+|6
+|5
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|0
+|0
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Second half<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Aston Villa
+|-
+!scope=row|Goals scored
+|1
+|0
+|-
+!scope=row|Total shots
+|5
+|5
+|-
+!scope=row|Shots on target
+|3
+|2
+|-
+!scope=row|Saves
+|2
+|2
+|-
+!scope=row|Ball possession
+|53%
+|47%
+|-
+!scope=row|Corner kicks
+|0
+|0
+|-
+!scope=row|Fouls committed
+|5
+|8
+|-
+!scope=row|Offsides
+|1
+|0
+|-
+!scope=row|Yellow cards
+|0
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-3}}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Overall<ref name="team statistics"/>
+|-
+!scope="col" style="width:100px"|Statistic
+!scope="col" style="width:70px"|Paris Saint-Germain
+!scope="col" style="width:70px"|Aston Villa
+|-
+!scope=row|Goals scored
+|2
+|1
+|-
+!scope=row|Total shots
+|11
+|15
+|-
+!scope=row|Shots on target
+|5
+|4
+|-
+!scope=row|Saves
+|3
+|3
+|-
+!scope=row|Ball possession
+|56%
+|44%
+|-
+!scope=row|Corner kicks
+|0
+|2
+|-
+!scope=row|Fouls committed
+|11
+|13
+|-
+!scope=row|Offsides
+|2
+|0
+|-
+!scope=row|Yellow cards
+|0
+|3
+|-
+!scope=row|Red cards
+|0
+|0
+|}
+{{col-end}}
+
+==See also==
+*[[2026 UEFA Champions League final]]
+*[[2026 UEFA Europa League final]]
+*[[2026 UEFA Conference League final]]
+*[[2026 UEFA Women's Champions League final]]
+*[[2026 UEFA Women's Europa Cup final]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefasupercup/}}
+
+{{UEFA Super Cup}}
+{{2026–27 in European football (UEFA)}}
+{{2026–27 European club competitions}}
+{{Paris Saint-Germain FC matches}}
+{{Aston Villa F.C. matches}}
+
+{{DEFAULTSORT:Uefa Super Cup 2026}}
+[[Category:UEFA Super Cup matches|2026]]
+[[Category:2026–27 in European men's continental football|Super Cup]]
+[[Category:2026–27 in French football]]
+[[Category:2026–27 in English men's football]]
+[[Category:Paris Saint-Germain FC matches]]
+[[Category:Aston Villa F.C. matches]]
+[[Category:August 2026 sports events in Austria]]
+[[Category:Sports competitions in Salzburg]]
+[[Category:2026–27 in Austrian football]]

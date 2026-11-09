@@ -1,0 +1,366 @@
+{{Infobox football match
+| title                   = 1996 UEFA Super Cup
+| image                   = 
+| team1                   = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| team1association        = {{flagicon|FRA|1974|size=30px}}
+| team1score              = 2
+| team2                   = [[Juventus FC|Juventus]]
+| team2association        = {{flagicon|ITA|size=30px}}
+| team2score              = 9
+| details                 = on aggregate
+| firstleg                = First leg
+| team1score1             = 1
+| team2score1             = 6
+| date1                   = {{Start date|1997|1|15|df=yes}}
+| stadium1                = [[Parc des Princes]]
+| city1                   = [[Paris]]
+| man_of_the_match1a      = 
+| referee1                = [[Nikolai Levnikov]] ([[Russian Football Union|Russia]])
+| attendance1             = 29,519
+| secondleg               = Second leg
+| team1score2             = 1
+| team2score2             = 3
+| date2                   = {{Start date|1997|2|5|df=yes}}
+| stadium2                = [[Stadio Renzo Barbera|Stadio La Favorita]]
+| city2                   = [[Palermo]]
+| man_of_the_match2a      = 
+| referee2                = [[Serge Muhmenthaler]] ([[Swiss Football Association|Switzerland]])
+| attendance2             = 35,100
+| previous                = [[1995 UEFA Super Cup|1995]]
+| next                    = [[1997 UEFA Super Cup|1997]]
+}}
+
+The '''1996 [[UEFA Super Cup]]''' was a two-legged match that took place on 15 January 1997 and 5 February 1997 between [[Paris Saint-Germain FC|Paris Saint-Germain]] of France, champions of the [[1995–96 UEFA Cup Winners' Cup]], and [[Juventus FC|Juventus]] of Italy as winners of the [[1995–96 UEFA Champions League]]. Juventus won the tie 9–2 on aggregate (a record margin in the history of the cup), humiliating PSG at the [[Parc des Princes]] 6–1, with goals from [[Sergio Porrini]], [[Michele Padovano]], [[Ciro Ferrara]], [[Attilio Lombardo]] and [[Nicola Amoruso]] in the first leg (also a record) and winning the second leg 3–1 at [[Stadio Renzo Barbera|Stadio La Favorita]] in [[Palermo]] after goals from [[Alessandro Del Piero]] and [[Christian Vieri]].
+
+As in the [[1994–95 UEFA Cup]], Juventus chose to play their home leg away from [[Turin]] due to poor attendances at the [[Stadio delle Alpi]], in contrast to the big crowds they attracted playing in other cities.<ref>[https://books.google.com/books?id=zHvNBgAAQBAJ&dq=1996+super+cup+Palermo&pg=PT22 Juventus: A History in Black and White] {{Webarchive|url=https://web.archive.org/web/20200126233921/https://books.google.co.uk/books?id=zHvNBgAAQBAJ&pg=PT22&lpg=PT22&dq=1996+super+cup+Palermo&source=bl&ots=Ek16cHqWDp&sig=ACfU3U0D7Nx45kZ5xtgRsQZq3nak3fkTig&hl=en&sa=X&ved=2ahUKEwj-2_nZ1bLiAhXFUlAKHRU5D8UQ6AEwG3oECAgQAQ#v=onepage&q=1996%20super%20cup%20Palermo&f=false |date=2020-01-26 }}, Adam Digby, 2015, 9781783016914</ref>
+
+{{clear}}
+
+==Match details==
+===First leg===
+{{football box
+| date = 15 January 1997
+| time = 20:30 [[Central European Time|CET]]
+| team1 = [[Paris Saint-Germain FC|Paris Saint-Germain]] {{flagicon|FRA|1974}}
+| score = 1–6
+| report =https://www.uefa.com/uefasupercup/match/<!--round=268/match=-->53310/
+| team2 = {{flagicon|ITA}} [[Juventus FC|Juventus]]
+| goals1 = [[Raí]] {{goal|52|pen.}}
+| goals2 = [[Sergio Porrini|Porrini]] {{goal|4}}<br />[[Michele Padovano|Padovano]] {{goal|22||40}}<br />[[Ciro Ferrara|Ferrara]] {{goal|33}}<br />[[Attilio Lombardo|Lombardo]] {{goal|83}}<br />[[Nicola Amoruso|Amoruso]] {{goal|88}}
+| stadium = [[Parc des Princes]], [[Paris]]
+| attendance = 29,519
+| referee = [[Nikolai Levnikov]] ([[Russian Football Union|Russia]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _psg9697h
+ | pattern_b  = _psg9697h
+ | pattern_ra = _psg9697h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 002E78
+ | socks      = CC0000
+ | title      = Paris Saint-Germain
+}}
+|{{Football kit
+ | pattern_la = _black_stripes
+ | pattern_b  = _juventus9697h
+ | pattern_ra = _black_stripes
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Juventus
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|FRA|1974}} [[Bernard Lama]]
+|-
+|RB ||'''22'''||{{flagicon|FRA|1974}} [[Didier Domi]] || || {{suboff|55}} 
+|-
+|CB ||'''6''' ||{{flagicon|FRA|1974}} [[Paul Le Guen]]
+|-
+|CB ||'''4''' ||{{flagicon|FRA|1974}} [[Bruno Ngotty]]
+|-
+|LB ||'''17'''||{{flagicon|FRA|1974}} [[Jimmy Algerino]] || || {{suboff|34}}
+|-
+|CM ||'''13'''||{{flagicon|FRA|1974}} [[Laurent Fournier]] || {{sent off|2|23|63}}
+|-
+|CM ||'''8''' ||{{flagicon|FRA|1974}} [[Vincent Guérin]]
+|-
+|CM ||'''19'''||{{flagicon|FRA|1974}} [[Jérôme Leroy (footballer)|Jérôme Leroy]]
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Raí]] ([[Captain (association football)|c]]) || {{yel|55}}
+|-
+|CF ||'''11'''||{{flagicon|FRA|1974}} [[Patrice Loko]] 
+|-
+|CF ||'''9''' ||{{flagicon|PAN}} [[Julio Dely Valdés]] || || {{suboff|61}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|FRA|1974}} [[Vincent Fernandez]]
+|-
+|DF ||'''2''' ||{{flagicon|POR}} [[Daniel Kenedy]] || || {{subon|34}} 
+|-
+|MF ||'''7''' ||{{flagicon|BRA}} [[Leonardo Araújo|Leonardo]] || || {{subon|55}}
+|-
+|MF ||'''12'''||{{flagicon|FRA|1974}} [[Bernard Allou]]
+|-
+|FW ||'''20'''||{{flagicon|FRA|1974}} [[Cyrille Pouget]] || || {{subon|61}}
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4|{{flagicon|BRA}} [[Ricardo Gomes]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Angelo Peruzzi]] ([[Captain (association football)|c]])
+|-
+|RB ||'''3''' ||{{flagicon|ITA}} [[Moreno Torricelli]]
+|-
+|CB ||'''2''' ||{{flagicon|ITA}} [[Ciro Ferrara]] || || {{suboff|73}} 
+|-
+|CB ||'''5''' ||{{flagicon|ITA}} [[Sergio Porrini]]
+|-
+|LB ||'''22'''||{{flagicon|ITA}} [[Gianluca Pessotto]]
+|-
+|DM ||'''14'''||{{flagicon|FRA|1974}} [[Didier Deschamps]] || {{yel|28}}
+|-
+|RM ||'''7''' ||{{flagicon|ITA}} [[Angelo Di Livio]]
+|-
+|AM ||'''21'''||{{flagicon|FRA|1974}} [[Zinedine Zidane]] 
+|-
+|LM ||'''20'''||{{flagicon|ITA}} [[Alessio Tacchinardi]] || || {{suboff|67}}
+|- 
+|CF ||'''11'''||{{flagicon|ITA}} [[Michele Padovano]] || || {{suboff|73}}
+|-
+|CF ||'''10'''||{{flagicon|ITA}} [[Alessandro Del Piero]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA}} [[Michelangelo Rampulla]] 
+|-
+|DF ||'''4''' ||{{flagicon|URU}} [[Paolo Montero]] 
+|-
+|DF ||'''13'''||{{flagicon|ITA}} [[Mark Iuliano]] || || {{subon|73}}
+|-
+|MF ||'''19'''||{{flagicon|ITA}} [[Attilio Lombardo]] || || {{subon|67}}
+|-
+|FW ||'''16'''||{{flagicon|ITA}} [[Nicola Amoruso]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Marcello Lippi]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />{{flagicon|RUS}} Serguei Foursa ([[Russian Football Union|Russia]])
+<br />{{flagicon|RUS}} Serguei Frantsousov ([[Russian Football Union|Russia]])
+<br />'''Fourth official:'''
+<br />{{flagicon|RUS}} Andrei Butenko ([[Russian Football Union|Russia]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Five named substitutes.
+*Maximum of three substitutions.
+|}
+
+===Second leg===
+{{football box
+| date = 5 February 1997
+| time = 20:45 [[Central European Time|CET]]
+| team1 = [[Juventus FC|Juventus]] {{flagicon|ITA}}
+| score = 3–1
+| report =https://www.uefa.com/uefasupercup/match/<!--round=268/match=-->53311/
+| team2 = {{flagicon|FRA|1974}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| goals1 = [[Alessandro Del Piero|Del Piero]] {{goal|36||70}}<br />[[Christian Vieri|Vieri]] {{goal|90+3}}
+| goals2 = [[Raí]] {{goal|64|pen.}}
+| stadium = [[Stadio Renzo Barbera|Stadio La Favorita]], [[Palermo]]
+| attendance = 35,100
+| referee = [[Serge Muhmenthaler]] ([[Swiss Football Association|Switzerland]])
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _black_stripes
+ | pattern_b  = _juventus9697h
+ | pattern_ra = _black_stripes
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Juventus
+}}
+|{{Football kit
+ | pattern_la = _psg9697h
+ | pattern_b  = _psg9697h
+ | pattern_ra = _psg9697h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 002E78
+ | socks      = CC0000
+ | title      = Paris Saint-Germain
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Angelo Peruzzi]] ([[Captain (association football)|c]])
+|-
+|RB ||'''3''' ||{{flagicon|ITA}} [[Moreno Torricelli]] || || {{suboff|72}} 
+|-
+|CB ||'''2''' ||{{flagicon|ITA}} [[Ciro Ferrara]]
+|-
+|CB ||'''4''' ||{{flagicon|URU}} [[Paolo Montero]]
+|-
+|LB ||'''22'''||{{flagicon|ITA}} [[Gianluca Pessotto]]
+|-
+|RM ||'''7''' ||{{flagicon|ITA}} [[Angelo Di Livio]]
+|-
+|DM ||'''20'''||{{flagicon|ITA}} [[Alessio Tacchinardi]] || || {{suboff|68}}
+|- 
+|AM ||'''21'''||{{flagicon|FRA|1974}} [[Zinedine Zidane]] 
+|-
+|LM ||'''18'''||{{flagicon|FR Yugoslavia}} [[Vladimir Jugović]]
+|-
+|CF ||'''10'''||{{flagicon|ITA}} [[Alessandro Del Piero]]
+|-
+|CF ||'''11'''||{{flagicon|ITA}} [[Michele Padovano]] || || {{suboff|68}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ITA}} [[Michelangelo Rampulla]]
+|-
+|DF ||'''5''' ||{{flagicon|ITA}} [[Sergio Porrini]] || || {{subon|72}}
+|-
+|DF ||'''13'''||{{flagicon|ITA}} [[Mark Iuliano]]
+|-
+|MF ||'''19'''||{{flagicon|ITA}} [[Attilio Lombardo]] || || {{subon|68}}
+|-
+|FW ||'''15'''||{{flagicon|ITA}} [[Christian Vieri]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Marcello Lippi]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size:90%;margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|FRA|1974}} [[Bernard Lama]]
+|-
+|RB ||'''2''' ||{{flagicon|POR}} [[Daniel Kenedy]] 
+|-
+|CB ||'''6''' ||{{flagicon|FRA|1974}} [[Paul Le Guen]]
+|-
+|CB ||'''22'''||{{flagicon|FRA|1974}} [[Didier Domi]] || {{yel|19}}
+|-
+|LB ||'''17'''||{{flagicon|FRA|1974}} [[Jimmy Algerino]]
+|-
+|RM ||'''15'''||{{flagicon|FRA|1974}} [[Benoît Cauet]]
+|-
+|CM ||'''8''' ||{{flagicon|FRA|1974}} [[Vincent Guérin]] || || {{suboff|75}}
+|-
+|LM ||'''7''' ||{{flagicon|BRA}} [[Leonardo Araújo|Leonardo]] || || {{suboff|80}}
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Raí]] ([[Captain (association football)|c]])
+|-
+|RF ||'''9''' ||{{flagicon|PAN}} [[Julio Dely Valdés]]
+|-
+|LF ||'''11'''||{{flagicon|FRA|1974}} [[Patrice Loko]] || || {{suboff|90}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''16'''||{{flagicon|FRA|1974}} [[Vincent Fernandez]]
+|-
+|MF ||'''12'''||{{flagicon|FRA|1974}} [[Bernard Allou]] || || {{subon|80}}
+|-
+|MF ||'''18'''||{{flagicon|FRA|1974}} [[Roméo Calenda]] || || {{subon|90}}
+|-
+|MF ||'''19'''||{{flagicon|FRA|1974}} [[Jérôme Leroy (footballer)|Jérôme Leroy]] || || {{subon|75}} 
+|-
+|FW ||'''26'''||{{flagicon|FRA|1974}} [[Cyrille Pouget]]
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4|{{flagicon|BRA}} [[Ricardo Gomes]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+|
+'''Assistant referees:'''
+<br />{{flagicon|SUI}} Martin Freiburghaus ([[Swiss Football Association|Switzerland]])
+<br />{{flagicon|SUI}} Peter Von Rohr ([[Swiss Football Association|Switzerland]])
+<br />'''Fourth official:'''
+<br />{{flagicon|SUI}} Carlo Bertolini ([[Swiss Football Association|Switzerland]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''
+*90 minutes.
+*30 minutes of [[golden goal]] [[Overtime (sports)#Association football|extra time]] if necessary.
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores still level.
+*Five named substitutes.
+*Maximum of three substitutions.
+|}
+
+==See also==
+*[[1996–97 UEFA Champions League]]
+*[[1996–97 UEFA Cup Winners' Cup]]
+*[[1996–97 Juventus FC season]]
+*[[1996–97 Paris Saint-Germain FC season]]
+*[[Juventus FC in international football]]
+*[[Paris Saint-Germain FC in international football]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.rsssf.org/ec/ec199596.html 1996 UEFA Super Cup] at [[Rec.Sport.Soccer Statistics Foundation]]
+
+{{UEFA Super Cup}}
+{{1996–97 in European football (UEFA)}}
+{{Juventus F.C. matches}}
+{{Paris Saint-Germain F.C. matches}}
+
+{{DEFAULTSORT:1996 Uefa Super Cup}}
+[[Category:1996–97 in European men's continental football|Super Cup]]
+[[Category:UEFA Super Cup matches|1996]]
+[[Category:Football in Paris|Super Cup 1996]]
+[[Category:Football matches in France|Super Cup 1996]]
+[[Category:Football matches in Italy|Super Cup 1996]]
+[[Category:Juventus FC matches|Super Cup 1996]]
+[[Category:Paris Saint-Germain FC matches|Super Cup 1996]]
+[[Category:January 1997 sports events in France|UEFA Super Cup]]
+[[Category:February 1997 sports events in Europe]]
+[[Category:Football in Palermo]]
+[[Category:1997 in Paris|UEFA Super Cup]]
+[[Category:France–Italy football rivalry]]
+[[Category:1996–97 in Italian football]]
+[[Category:1996–97 in French men's football]]
+[[Category:20th century in Sicily]]

@@ -1,0 +1,3658 @@
+{
+ "1996 FA Cup final": {
+  "date": "1996-05-11",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "1995-96",
+   "pos": 3,
+   "played": 38,
+   "pts": 71,
+   "gd": 36,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 74,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "1995-96",
+   "pos": 1,
+   "played": 38,
+   "pts": 82,
+   "gd": 38,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 88,
+   "status": "ok"
+  }
+ },
+ "1997 FA Cup final": {
+  "date": "1997-05-17",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "1996-97",
+   "pos": 6,
+   "played": 38,
+   "pts": 59,
+   "gd": 3,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 11,
+   "prev_season_pts": 50,
+   "status": "ok"
+  },
+  "Middlesbrough": {
+   "league": "Premier League",
+   "season": "1996-97",
+   "pos": 14,
+   "played": 38,
+   "pts": 42,
+   "gd": -9,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 12,
+   "prev_season_pts": 43,
+   "status": "ok"
+  }
+ },
+ "1998 FA Cup final": {
+  "date": "1998-05-16",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "1997-98",
+   "pos": 1,
+   "played": 38,
+   "pts": 78,
+   "gd": 35,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 68,
+   "status": "ok"
+  },
+  "Newcastle United": {
+   "league": "Premier League",
+   "season": "1997-98",
+   "pos": 13,
+   "played": 38,
+   "pts": 44,
+   "gd": -9,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 68,
+   "status": "ok"
+  }
+ },
+ "1999 FA Cup final": {
+  "date": "1999-05-22",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "1998-99",
+   "pos": 1,
+   "played": 38,
+   "pts": 79,
+   "gd": 43,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 77,
+   "status": "ok"
+  },
+  "Newcastle United": {
+   "league": "Premier League",
+   "season": "1998-99",
+   "pos": 13,
+   "played": 38,
+   "pts": 46,
+   "gd": -6,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 13,
+   "prev_season_pts": 44,
+   "status": "ok"
+  }
+ },
+ "2000 FA Cup final": {
+  "date": "2000-05-20",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "1999-00",
+   "pos": 5,
+   "played": 38,
+   "pts": 65,
+   "gd": 19,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 75,
+   "status": "ok"
+  },
+  "Aston Villa": {
+   "league": "Premier League",
+   "season": "1999-00",
+   "pos": 6,
+   "played": 38,
+   "pts": 58,
+   "gd": 11,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 55,
+   "status": "ok"
+  }
+ },
+ "2000 UEFA Cup final": {
+  "date": "2000-05-17",
+  "Galatasaray": {
+   "league": "S\u00fcper Lig",
+   "season": "1999-00",
+   "pos": 1,
+   "played": 33,
+   "pts": 78,
+   "gd": 54,
+   "teams": 18,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "S\u00fcper Lig",
+   "prev_season_pos": 1,
+   "prev_season_pts": 78,
+   "status": "ok"
+  },
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "1999-00",
+   "pos": 2,
+   "played": 38,
+   "pts": 73,
+   "gd": 30,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 78,
+   "status": "ok"
+  }
+ },
+ "2001 FA Cup final": {
+  "date": "2001-05-12",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2000-01",
+   "pos": 2,
+   "played": 36,
+   "pts": 69,
+   "gd": 26,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 73,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2000-01",
+   "pos": 3,
+   "played": 37,
+   "pts": 66,
+   "gd": 28,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 67,
+   "status": "ok"
+  }
+ },
+ "2001 UEFA Cup final": {
+  "date": "2001-05-16",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2000-01",
+   "pos": 3,
+   "played": 37,
+   "pts": 66,
+   "gd": 28,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 67,
+   "status": "ok"
+  },
+  "Alav\u00e9s": {
+   "league": "La Liga",
+   "season": "2000-01",
+   "pos": 9,
+   "played": 34,
+   "pts": 49,
+   "gd": 8,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 6,
+   "prev_season_pts": 61,
+   "status": "ok"
+  }
+ },
+ "2002 FA Cup final": {
+  "date": "2002-05-04",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2001-02",
+   "pos": 1,
+   "played": 36,
+   "pts": 81,
+   "gd": 41,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 70,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2001-02",
+   "pos": 5,
+   "played": 37,
+   "pts": 64,
+   "gd": 30,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 61,
+   "status": "ok"
+  }
+ },
+ "2003 FA Cup final": {
+  "date": "2003-05-17",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2002-03",
+   "pos": 2,
+   "played": 38,
+   "pts": 78,
+   "gd": 43,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 87,
+   "status": "ok"
+  },
+  "Southampton": {
+   "league": "Premier League",
+   "season": "2002-03",
+   "pos": 8,
+   "played": 38,
+   "pts": 52,
+   "gd": -3,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 11,
+   "prev_season_pts": 45,
+   "status": "ok"
+  }
+ },
+ "2004 FA Cup final": {
+  "date": "2004-05-22",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2003-04",
+   "pos": 3,
+   "played": 38,
+   "pts": 75,
+   "gd": 29,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 83,
+   "status": "ok"
+  },
+  "Millwall": {
+   "league": "Championship/First Division (tier 2)",
+   "season": "2003-04",
+   "pos": 10,
+   "played": 46,
+   "pts": 69,
+   "gd": 7,
+   "teams": 24,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Championship/First Division (tier 2)",
+   "prev_season_pos": 9,
+   "prev_season_pts": 66,
+   "status": "ok"
+  }
+ },
+ "2005 FA Cup final": {
+  "date": "2005-05-21",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2004-05",
+   "pos": 2,
+   "played": 38,
+   "pts": 83,
+   "gd": 51,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 90,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2004-05",
+   "pos": 3,
+   "played": 38,
+   "pts": 77,
+   "gd": 32,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 75,
+   "status": "ok"
+  }
+ },
+ "2006 FA Cup final": {
+  "date": "2006-05-13",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2005-06",
+   "pos": 3,
+   "played": 38,
+   "pts": 82,
+   "gd": 32,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 58,
+   "status": "ok"
+  },
+  "West Ham United": {
+   "league": "Premier League",
+   "season": "2005-06",
+   "pos": 9,
+   "played": 38,
+   "pts": 55,
+   "gd": -3,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Championship/First Division (tier 2)",
+   "prev_season_pos": 6,
+   "prev_season_pts": 73,
+   "status": "ok"
+  }
+ },
+ "2007 FA Cup final": {
+  "date": "2007-05-19",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2006-07",
+   "pos": 2,
+   "played": 38,
+   "pts": 83,
+   "gd": 40,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 91,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2006-07",
+   "pos": 1,
+   "played": 38,
+   "pts": 89,
+   "gd": 56,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 83,
+   "status": "ok"
+  }
+ },
+ "2009 FA Cup final": {
+  "date": "2009-05-30",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2008-09",
+   "pos": 3,
+   "played": 38,
+   "pts": 83,
+   "gd": 44,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 85,
+   "status": "ok"
+  },
+  "Everton": {
+   "league": "Premier League",
+   "season": "2008-09",
+   "pos": 5,
+   "played": 38,
+   "pts": 63,
+   "gd": 18,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 65,
+   "status": "ok"
+  }
+ },
+ "2010 FA Cup final": {
+  "date": "2010-05-15",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2009-10",
+   "pos": 1,
+   "played": 38,
+   "pts": 86,
+   "gd": 71,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 83,
+   "status": "ok"
+  },
+  "Portsmouth": {
+   "league": "Premier League",
+   "season": "2009-10",
+   "pos": 20,
+   "played": 38,
+   "pts": 19,
+   "gd": -32,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 14,
+   "prev_season_pts": 41,
+   "status": "ok"
+  }
+ },
+ "2011 FA Cup final": {
+  "date": "2011-05-14",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2010-11",
+   "pos": 4,
+   "played": 36,
+   "pts": 65,
+   "gd": 22,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 67,
+   "status": "ok"
+  },
+  "Stoke City": {
+   "league": "Premier League",
+   "season": "2010-11",
+   "pos": 8,
+   "played": 36,
+   "pts": 46,
+   "gd": 2,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 11,
+   "prev_season_pts": 47,
+   "status": "ok"
+  }
+ },
+ "2012 FA Cup final": {
+  "date": "2012-05-05",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2011-12",
+   "pos": 6,
+   "played": 36,
+   "pts": 61,
+   "gd": 21,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 71,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2011-12",
+   "pos": 8,
+   "played": 36,
+   "pts": 49,
+   "gd": 5,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 58,
+   "status": "ok"
+  }
+ },
+ "2013 FA Cup final": {
+  "date": "2013-05-11",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2012-13",
+   "pos": 2,
+   "played": 36,
+   "pts": 75,
+   "gd": 31,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 89,
+   "status": "ok"
+  },
+  "Wigan Athletic": {
+   "league": "Premier League",
+   "season": "2012-13",
+   "pos": 18,
+   "played": 36,
+   "pts": 35,
+   "gd": -23,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 15,
+   "prev_season_pts": 43,
+   "status": "ok"
+  }
+ },
+ "2014 FA Cup final": {
+  "date": "2014-05-17",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2013-14",
+   "pos": 4,
+   "played": 38,
+   "pts": 79,
+   "gd": 27,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 73,
+   "status": "ok"
+  },
+  "Hull City": {
+   "league": "Premier League",
+   "season": "2013-14",
+   "pos": 16,
+   "played": 38,
+   "pts": 37,
+   "gd": -15,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Championship/First Division (tier 2)",
+   "prev_season_pos": 2,
+   "prev_season_pts": 79,
+   "status": "ok"
+  }
+ },
+ "2015 FA Cup final": {
+  "date": "2015-05-30",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2014-15",
+   "pos": 3,
+   "played": 38,
+   "pts": 75,
+   "gd": 35,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 79,
+   "status": "ok"
+  },
+  "Aston Villa": {
+   "league": "Premier League",
+   "season": "2014-15",
+   "pos": 17,
+   "played": 38,
+   "pts": 38,
+   "gd": -26,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 15,
+   "prev_season_pts": 38,
+   "status": "ok"
+  }
+ },
+ "2016 FA Cup final": {
+  "date": "2016-05-21",
+  "Crystal Palace": {
+   "league": "Premier League",
+   "season": "2015-16",
+   "pos": 15,
+   "played": 38,
+   "pts": 42,
+   "gd": -12,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 10,
+   "prev_season_pts": 48,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2015-16",
+   "pos": 5,
+   "played": 38,
+   "pts": 66,
+   "gd": 14,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 70,
+   "status": "ok"
+  }
+ },
+ "2017 FA Cup final": {
+  "date": "2017-05-27",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2016-17",
+   "pos": 5,
+   "played": 38,
+   "pts": 75,
+   "gd": 33,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 71,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2016-17",
+   "pos": 1,
+   "played": 38,
+   "pts": 93,
+   "gd": 52,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 10,
+   "prev_season_pts": 50,
+   "status": "ok"
+  }
+ },
+ "2018 FA Cup final": {
+  "date": "2018-05-19",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2017-18",
+   "pos": 5,
+   "played": 38,
+   "pts": 70,
+   "gd": 24,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 93,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2017-18",
+   "pos": 2,
+   "played": 38,
+   "pts": 81,
+   "gd": 40,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 69,
+   "status": "ok"
+  }
+ },
+ "2019 FA Cup final": {
+  "date": "2019-05-18",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2018-19",
+   "pos": 1,
+   "played": 38,
+   "pts": 98,
+   "gd": 72,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 100,
+   "status": "ok"
+  },
+  "Watford": {
+   "league": "Premier League",
+   "season": "2018-19",
+   "pos": 11,
+   "played": 38,
+   "pts": 50,
+   "gd": -7,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 14,
+   "prev_season_pts": 41,
+   "status": "ok"
+  }
+ },
+ "2020 FA Cup final": {
+  "date": "2020-08-01",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2020-21",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 8,
+   "prev_season_pts": 56,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2020-21",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 66,
+   "status": "ok"
+  }
+ },
+ "2021 FA Cup final": {
+  "date": "2021-05-15",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2020-21",
+   "pos": 4,
+   "played": 36,
+   "pts": 64,
+   "gd": 22,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 66,
+   "status": "ok"
+  },
+  "Leicester City": {
+   "league": "Premier League",
+   "season": "2020-21",
+   "pos": 3,
+   "played": 36,
+   "pts": 66,
+   "gd": 21,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 62,
+   "status": "ok"
+  }
+ },
+ "2022 FA Cup final": {
+  "date": "2022-05-14",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2021-22",
+   "pos": 3,
+   "played": 36,
+   "pts": 70,
+   "gd": 42,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 67,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2021-22",
+   "pos": 2,
+   "played": 36,
+   "pts": 86,
+   "gd": 65,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 69,
+   "status": "ok"
+  }
+ },
+ "2023 FA Cup final": {
+  "date": "2023-06-03",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2022-23",
+   "pos": 1,
+   "played": 38,
+   "pts": 89,
+   "gd": 61,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 93,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2022-23",
+   "pos": 3,
+   "played": 38,
+   "pts": 75,
+   "gd": 15,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 58,
+   "status": "ok"
+  }
+ },
+ "2024 FA Cup final": {
+  "date": "2024-05-25",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2023-24",
+   "pos": 1,
+   "played": 38,
+   "pts": 91,
+   "gd": 62,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 89,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2023-24",
+   "pos": 8,
+   "played": 38,
+   "pts": 60,
+   "gd": -1,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 75,
+   "status": "ok"
+  }
+ },
+ "2025 FA Cup final": {
+  "date": "2025-05-17",
+  "Crystal Palace": {
+   "league": "Premier League",
+   "season": "2024-25",
+   "pos": 12,
+   "played": 36,
+   "pts": 49,
+   "gd": -2,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 10,
+   "prev_season_pts": 49,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2024-25",
+   "pos": 6,
+   "played": 36,
+   "pts": 65,
+   "gd": 24,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 91,
+   "status": "ok"
+  }
+ },
+ "2026 FA Cup final": {
+  "date": "2026-05-16",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2025-26",
+   "pos": 9,
+   "played": 36,
+   "pts": 49,
+   "gd": 6,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 69,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2025-26",
+   "pos": 2,
+   "played": 36,
+   "pts": 77,
+   "gd": 43,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 71,
+   "status": "ok"
+  }
+ },
+ "1998 Football League Cup final": {
+  "date": "1998-03-29",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "1997-98",
+   "pos": 4,
+   "played": 30,
+   "pts": 48,
+   "gd": 24,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 59,
+   "status": "ok"
+  },
+  "Middlesbrough": {
+   "league": "Championship/First Division (tier 2)",
+   "season": "1997-98",
+   "pos": 3,
+   "played": 38,
+   "pts": 75,
+   "gd": 28,
+   "teams": 24,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 14,
+   "prev_season_pts": 42,
+   "status": "ok"
+  }
+ },
+ "2001 Football League Cup final": {
+  "date": "2001-02-25",
+  "Birmingham City": {
+   "league": "Championship/First Division (tier 2)",
+   "season": "2000-01",
+   "pos": 4,
+   "played": 31,
+   "pts": 59,
+   "gd": 13,
+   "teams": 24,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Championship/First Division (tier 2)",
+   "prev_season_pos": 5,
+   "prev_season_pts": 77,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2000-01",
+   "pos": 3,
+   "played": 26,
+   "pts": 45,
+   "gd": 19,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 67,
+   "status": "ok"
+  }
+ },
+ "2003 Football League Cup final": {
+  "date": "2003-03-02",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2002-03",
+   "pos": 7,
+   "played": 28,
+   "pts": 43,
+   "gd": 11,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 80,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2002-03",
+   "pos": 2,
+   "played": 28,
+   "pts": 55,
+   "gd": 19,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 77,
+   "status": "ok"
+  }
+ },
+ "2005 Football League Cup final": {
+  "date": "2005-02-27",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2004-05",
+   "pos": 5,
+   "played": 27,
+   "pts": 43,
+   "gd": 12,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 60,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2004-05",
+   "pos": 1,
+   "played": 27,
+   "pts": 68,
+   "gd": 42,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 79,
+   "status": "ok"
+  }
+ },
+ "2006 Football League Cup final": {
+  "date": "2006-02-26",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2005-06",
+   "pos": 2,
+   "played": 26,
+   "pts": 54,
+   "gd": 25,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 77,
+   "status": "ok"
+  },
+  "Wigan Athletic": {
+   "league": "Premier League",
+   "season": "2005-06",
+   "pos": 8,
+   "played": 27,
+   "pts": 40,
+   "gd": -2,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Championship/First Division (tier 2)",
+   "prev_season_pos": 2,
+   "prev_season_pts": 87,
+   "status": "ok"
+  }
+ },
+ "2007 Football League Cup final": {
+  "date": "2007-02-25",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2006-07",
+   "pos": 2,
+   "played": 27,
+   "pts": 60,
+   "gd": 29,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 91,
+   "status": "ok"
+  },
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2006-07",
+   "pos": 4,
+   "played": 26,
+   "pts": 49,
+   "gd": 26,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 67,
+   "status": "ok"
+  }
+ },
+ "2008 Football League Cup final": {
+  "date": "2008-02-24",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2007-08",
+   "pos": 3,
+   "played": 26,
+   "pts": 55,
+   "gd": 21,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 83,
+   "status": "ok"
+  },
+  "Tottenham Hotspur": {
+   "league": "Premier League",
+   "season": "2007-08",
+   "pos": 11,
+   "played": 26,
+   "pts": 32,
+   "gd": 7,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 60,
+   "status": "ok"
+  }
+ },
+ "2009 Football League Cup final": {
+  "date": "2009-03-01",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2008-09",
+   "pos": 1,
+   "played": 26,
+   "pts": 62,
+   "gd": 35,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 87,
+   "status": "ok"
+  },
+  "Tottenham Hotspur": {
+   "league": "Premier League",
+   "season": "2008-09",
+   "pos": 14,
+   "played": 26,
+   "pts": 28,
+   "gd": -4,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 11,
+   "prev_season_pts": 46,
+   "status": "ok"
+  }
+ },
+ "2010 Football League Cup final": {
+  "date": "2010-02-28",
+  "Aston Villa": {
+   "league": "Premier League",
+   "season": "2009-10",
+   "pos": 7,
+   "played": 26,
+   "pts": 45,
+   "gd": 16,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 62,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2009-10",
+   "pos": 2,
+   "played": 28,
+   "pts": 60,
+   "gd": 42,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 90,
+   "status": "ok"
+  }
+ },
+ "2011 Football League Cup final": {
+  "date": "2011-02-27",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2010-11",
+   "pos": 2,
+   "played": 27,
+   "pts": 56,
+   "gd": 30,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 75,
+   "status": "ok"
+  },
+  "Birmingham City": {
+   "league": "Premier League",
+   "season": "2010-11",
+   "pos": 16,
+   "played": 26,
+   "pts": 30,
+   "gd": -10,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 9,
+   "prev_season_pts": 50,
+   "status": "ok"
+  }
+ },
+ "2012 Football League Cup final": {
+  "date": "2012-02-26",
+  "Cardiff City": {
+   "league": "Championship/First Division (tier 2)",
+   "season": "2011-12",
+   "pos": 6,
+   "played": 32,
+   "pts": 53,
+   "gd": 11,
+   "teams": 24,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Championship/First Division (tier 2)",
+   "prev_season_pos": 4,
+   "prev_season_pts": 80,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2011-12",
+   "pos": 7,
+   "played": 25,
+   "pts": 39,
+   "gd": 6,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 58,
+   "status": "ok"
+  }
+ },
+ "2014 Football League Cup final": {
+  "date": "2014-03-02",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2013-14",
+   "pos": 4,
+   "played": 26,
+   "pts": 57,
+   "gd": 42,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 78,
+   "status": "ok"
+  },
+  "Sunderland": {
+   "league": "Premier League",
+   "season": "2013-14",
+   "pos": 18,
+   "played": 26,
+   "pts": 24,
+   "gd": -16,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 17,
+   "prev_season_pts": 39,
+   "status": "ok"
+  }
+ },
+ "2015 Football League Cup final": {
+  "date": "2015-03-01",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2014-15",
+   "pos": 1,
+   "played": 26,
+   "pts": 60,
+   "gd": 34,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 82,
+   "status": "ok"
+  },
+  "Tottenham Hotspur": {
+   "league": "Premier League",
+   "season": "2014-15",
+   "pos": 7,
+   "played": 26,
+   "pts": 44,
+   "gd": 5,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 69,
+   "status": "ok"
+  }
+ },
+ "2016 Football League Cup final": {
+  "date": "2016-02-28",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2015-16",
+   "pos": 9,
+   "played": 26,
+   "pts": 38,
+   "gd": 2,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 62,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2015-16",
+   "pos": 4,
+   "played": 26,
+   "pts": 47,
+   "gd": 20,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 79,
+   "status": "ok"
+  }
+ },
+ "2017 EFL Cup final": {
+  "date": "2017-02-26",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2016-17",
+   "pos": 6,
+   "played": 25,
+   "pts": 48,
+   "gd": 17,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 66,
+   "status": "ok"
+  },
+  "Southampton": {
+   "league": "Premier League",
+   "season": "2016-17",
+   "pos": 13,
+   "played": 25,
+   "pts": 30,
+   "gd": -3,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 63,
+   "status": "ok"
+  }
+ },
+ "2018 EFL Cup final": {
+  "date": "2018-02-25",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2017-18",
+   "pos": 6,
+   "played": 27,
+   "pts": 45,
+   "gd": 15,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 75,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2017-18",
+   "pos": 1,
+   "played": 27,
+   "pts": 72,
+   "gd": 59,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 78,
+   "status": "ok"
+  }
+ },
+ "2019 EFL Cup final": {
+  "date": "2019-02-24",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2018-19",
+   "pos": 6,
+   "played": 26,
+   "pts": 50,
+   "gd": 16,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 70,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2018-19",
+   "pos": 1,
+   "played": 27,
+   "pts": 65,
+   "gd": 54,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 100,
+   "status": "ok"
+  }
+ },
+ "2020 EFL Cup final": {
+  "date": "2020-03-01",
+  "Aston Villa": {
+   "league": "Premier League",
+   "season": "2019-20",
+   "pos": 19,
+   "played": 27,
+   "pts": 25,
+   "gd": -18,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Championship/First Division (tier 2)",
+   "prev_season_pos": 5,
+   "prev_season_pts": 76,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2019-20",
+   "pos": 2,
+   "played": 27,
+   "pts": 57,
+   "gd": 39,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 98,
+   "status": "ok"
+  }
+ },
+ "2021 EFL Cup final": {
+  "date": "2021-04-25",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2020-21",
+   "pos": 1,
+   "played": 33,
+   "pts": 77,
+   "gd": 45,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 81,
+   "status": "ok"
+  },
+  "Tottenham Hotspur": {
+   "league": "Premier League",
+   "season": "2020-21",
+   "pos": 7,
+   "played": 33,
+   "pts": 53,
+   "gd": 18,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 59,
+   "status": "ok"
+  }
+ },
+ "2022 EFL Cup final": {
+  "date": "2022-02-27",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2021-22",
+   "pos": 3,
+   "played": 25,
+   "pts": 50,
+   "gd": 31,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 67,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2021-22",
+   "pos": 2,
+   "played": 26,
+   "pts": 60,
+   "gd": 50,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 69,
+   "status": "ok"
+  }
+ },
+ "2023 EFL Cup final": {
+  "date": "2023-02-26",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2022-23",
+   "pos": 3,
+   "played": 24,
+   "pts": 49,
+   "gd": 13,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 58,
+   "status": "ok"
+  },
+  "Newcastle United": {
+   "league": "Premier League",
+   "season": "2022-23",
+   "pos": 5,
+   "played": 23,
+   "pts": 41,
+   "gd": 20,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 11,
+   "prev_season_pts": 49,
+   "status": "ok"
+  }
+ },
+ "2024 EFL Cup final": {
+  "date": "2024-02-25",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2023-24",
+   "pos": 10,
+   "played": 25,
+   "pts": 35,
+   "gd": 1,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 12,
+   "prev_season_pts": 44,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2023-24",
+   "pos": 1,
+   "played": 26,
+   "pts": 60,
+   "gd": 38,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 67,
+   "status": "ok"
+  }
+ },
+ "2025 EFL Cup final": {
+  "date": "2025-03-16",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2024-25",
+   "pos": 1,
+   "played": 29,
+   "pts": 70,
+   "gd": 42,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 82,
+   "status": "ok"
+  },
+  "Newcastle United": {
+   "league": "Premier League",
+   "season": "2024-25",
+   "pos": 6,
+   "played": 28,
+   "pts": 47,
+   "gd": 9,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 7,
+   "prev_season_pts": 60,
+   "status": "ok"
+  }
+ },
+ "2026 EFL Cup final": {
+  "date": "2026-03-22",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2025-26",
+   "pos": 1,
+   "played": 31,
+   "pts": 70,
+   "gd": 39,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 74,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2025-26",
+   "pos": 2,
+   "played": 30,
+   "pts": 61,
+   "gd": 32,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 71,
+   "status": "ok"
+  }
+ },
+ "1996 FA Charity Shield": {
+  "date": "1996-08-11",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "1996-97",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 82,
+   "status": "ok"
+  },
+  "Newcastle United": {
+   "league": "Premier League",
+   "season": "1996-97",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 78,
+   "status": "ok"
+  }
+ },
+ "1997 FA Charity Shield": {
+  "date": "1997-08-03",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "1997-98",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 59,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "1997-98",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 75,
+   "status": "ok"
+  }
+ },
+ "1998 FA Charity Shield": {
+  "date": "1998-08-09",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "1998-99",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 78,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "1998-99",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 77,
+   "status": "ok"
+  }
+ },
+ "1999 FA Charity Shield": {
+  "date": "1999-08-01",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "1999-00",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 78,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "1999-00",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 79,
+   "status": "ok"
+  }
+ },
+ "2000 FA Charity Shield": {
+  "date": "2000-08-13",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2000-01",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 65,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2000-01",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 91,
+   "status": "ok"
+  }
+ },
+ "2001 FA Charity Shield": {
+  "date": "2001-08-12",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2001-02",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 69,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2001-02",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 80,
+   "status": "ok"
+  }
+ },
+ "2002 FA Community Shield": {
+  "date": "2002-08-11",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2002-03",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 87,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2002-03",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 80,
+   "status": "ok"
+  }
+ },
+ "2003 FA Community Shield": {
+  "date": "2003-08-10",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2003-04",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 78,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2003-04",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 83,
+   "status": "ok"
+  }
+ },
+ "2004 FA Community Shield": {
+  "date": "2004-08-08",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2004-05",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 90,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2004-05",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 75,
+   "status": "ok"
+  }
+ },
+ "2005 FA Community Shield": {
+  "date": "2005-08-07",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2005-06",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 83,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2005-06",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 95,
+   "status": "ok"
+  }
+ },
+ "2006 FA Community Shield": {
+  "date": "2006-08-13",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2006-07",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 82,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2006-07",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 91,
+   "status": "ok"
+  }
+ },
+ "2007 FA Community Shield": {
+  "date": "2007-08-05",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2007-08",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 83,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2007-08",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 89,
+   "status": "ok"
+  }
+ },
+ "2008 FA Community Shield": {
+  "date": "2008-08-10",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2008-09",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 87,
+   "status": "ok"
+  },
+  "Portsmouth": {
+   "league": "Premier League",
+   "season": "2008-09",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 8,
+   "prev_season_pts": 57,
+   "status": "ok"
+  }
+ },
+ "2009 FA Community Shield": {
+  "date": "2009-08-09",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2009-10",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 83,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2009-10",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 90,
+   "status": "ok"
+  }
+ },
+ "2010 FA Community Shield": {
+  "date": "2010-08-08",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2010-11",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 86,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2010-11",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 85,
+   "status": "ok"
+  }
+ },
+ "2011 FA Community Shield": {
+  "date": "2011-08-07",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2011-12",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 71,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2011-12",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 80,
+   "status": "ok"
+  }
+ },
+ "2012 FA Community Shield": {
+  "date": "2012-08-12",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2012-13",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 64,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2012-13",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 89,
+   "status": "ok"
+  }
+ },
+ "2013 FA Community Shield": {
+  "date": "2013-08-11",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2013-14",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 89,
+   "status": "ok"
+  },
+  "Wigan Athletic": {
+   "league": "Championship/First Division (tier 2)",
+   "season": "2013-14",
+   "pos": 8,
+   "played": 1,
+   "pts": 3,
+   "gd": 4,
+   "teams": 24,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 18,
+   "prev_season_pts": 36,
+   "status": "ok"
+  }
+ },
+ "2014 FA Community Shield": {
+  "date": "2014-08-10",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2014-15",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 79,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2014-15",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 86,
+   "status": "ok"
+  }
+ },
+ "2015 FA Community Shield": {
+  "date": "2015-08-02",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2015-16",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 75,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2015-16",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 87,
+   "status": "ok"
+  }
+ },
+ "2016 FA Community Shield": {
+  "date": "2016-08-07",
+  "Leicester City": {
+   "league": "Premier League",
+   "season": "2016-17",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 81,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2016-17",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 66,
+   "status": "ok"
+  }
+ },
+ "2017 FA Community Shield": {
+  "date": "2017-08-06",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2017-18",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 75,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2017-18",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 93,
+   "status": "ok"
+  }
+ },
+ "2018 FA Community Shield": {
+  "date": "2018-08-05",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2018-19",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 70,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2018-19",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 100,
+   "status": "ok"
+  }
+ },
+ "2019 FA Community Shield": {
+  "date": "2019-08-04",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2019-20",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 97,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2019-20",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 98,
+   "status": "ok"
+  }
+ },
+ "2020 FA Community Shield": {
+  "date": "2020-08-29",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2020-21",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 8,
+   "prev_season_pts": 56,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2020-21",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 99,
+   "status": "ok"
+  }
+ },
+ "2021 FA Community Shield": {
+  "date": "2021-08-07",
+  "Leicester City": {
+   "league": "Premier League",
+   "season": "2021-22",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 66,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2021-22",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 86,
+   "status": "ok"
+  }
+ },
+ "2022 FA Community Shield": {
+  "date": "2022-07-30",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2022-23",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 92,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2022-23",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 93,
+   "status": "ok"
+  }
+ },
+ "2023 FA Community Shield": {
+  "date": "2023-08-06",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2023-24",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 84,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2023-24",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 89,
+   "status": "ok"
+  }
+ },
+ "2024 FA Community Shield": {
+  "date": "2024-08-10",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2024-25",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 91,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2024-25",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 8,
+   "prev_season_pts": 60,
+   "status": "ok"
+  }
+ },
+ "2025 FA Community Shield": {
+  "date": "2025-08-10",
+  "Crystal Palace": {
+   "league": "Premier League",
+   "season": "2025-26",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 12,
+   "prev_season_pts": 53,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2025-26",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 84,
+   "status": "ok"
+  }
+ },
+ "2026 FA Community Shield": {
+  "date": "2026-08-16",
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2026-27",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 85,
+   "status": "ok"
+  },
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2026-27",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 78,
+   "status": "ok"
+  }
+ },
+ "1999 UEFA Champions League final": {
+  "date": "1999-05-26",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "1998-99",
+   "pos": 1,
+   "played": 38,
+   "pts": 79,
+   "gd": 43,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 77,
+   "status": "ok"
+  },
+  "Bayern Munich": {
+   "league": "Bundesliga",
+   "season": "1998-99",
+   "pos": 1,
+   "played": 33,
+   "pts": 75,
+   "gd": 47,
+   "teams": 18,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Bundesliga",
+   "prev_season_pos": 2,
+   "prev_season_pts": 66,
+   "status": "ok"
+  }
+ },
+ "2005 UEFA Champions League final": {
+  "date": "2005-05-25",
+  "Milan": {
+   "league": "Serie A",
+   "season": "2004-05",
+   "pos": 2,
+   "played": 37,
+   "pts": 78,
+   "gd": 35,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Serie A",
+   "prev_season_pos": 1,
+   "prev_season_pts": 82,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2004-05",
+   "pos": 5,
+   "played": 38,
+   "pts": 58,
+   "gd": 11,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 60,
+   "status": "ok"
+  }
+ },
+ "2006 UEFA Champions League final": {
+  "date": "2006-05-17",
+  "Barcelona": {
+   "league": "La Liga",
+   "season": "2005-06",
+   "pos": 1,
+   "played": 37,
+   "pts": 82,
+   "gd": 47,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 1,
+   "prev_season_pts": 84,
+   "status": "ok"
+  },
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2005-06",
+   "pos": 4,
+   "played": 38,
+   "pts": 67,
+   "gd": 37,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 83,
+   "status": "ok"
+  }
+ },
+ "2007 UEFA Champions League final": {
+  "date": "2007-05-23",
+  "Milan": {
+   "league": "Serie A",
+   "season": "2006-07",
+   "pos": 5,
+   "played": 37,
+   "pts": 61,
+   "gd": 23,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Serie A",
+   "prev_season_pos": 2,
+   "prev_season_pts": 88,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2006-07",
+   "pos": 3,
+   "played": 38,
+   "pts": 68,
+   "gd": 30,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 82,
+   "status": "ok"
+  }
+ },
+ "2008 UEFA Champions League final": {
+  "date": "2008-05-21",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2007-08",
+   "pos": 1,
+   "played": 38,
+   "pts": 87,
+   "gd": 58,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 89,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2007-08",
+   "pos": 2,
+   "played": 38,
+   "pts": 85,
+   "gd": 39,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 83,
+   "status": "ok"
+  }
+ },
+ "2009 UEFA Champions League final": {
+  "date": "2009-05-27",
+  "Barcelona": {
+   "league": "La Liga",
+   "season": "2008-09",
+   "pos": 1,
+   "played": 37,
+   "pts": 86,
+   "gd": 70,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 3,
+   "prev_season_pts": 67,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2008-09",
+   "pos": 1,
+   "played": 38,
+   "pts": 90,
+   "gd": 44,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 87,
+   "status": "ok"
+  }
+ },
+ "2011 UEFA Champions League final": {
+  "date": "2011-05-28",
+  "Barcelona": {
+   "league": "La Liga",
+   "season": "2010-11",
+   "pos": 1,
+   "played": 38,
+   "pts": 96,
+   "gd": 74,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 1,
+   "prev_season_pts": 99,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2010-11",
+   "pos": 1,
+   "played": 38,
+   "pts": 80,
+   "gd": 41,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 85,
+   "status": "ok"
+  }
+ },
+ "2012 UEFA Champions League final": {
+  "date": "2012-05-19",
+  "Bayern Munich": {
+   "league": "Bundesliga",
+   "season": "2011-12",
+   "pos": 2,
+   "played": 34,
+   "pts": 73,
+   "gd": 55,
+   "teams": 18,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Bundesliga",
+   "prev_season_pos": 3,
+   "prev_season_pts": 65,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2011-12",
+   "pos": 6,
+   "played": 38,
+   "pts": 64,
+   "gd": 19,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 71,
+   "status": "ok"
+  }
+ },
+ "2018 UEFA Champions League final": {
+  "date": "2018-05-26",
+  "Real Madrid": {
+   "league": "La Liga",
+   "season": "2017-18",
+   "pos": 3,
+   "played": 38,
+   "pts": 76,
+   "gd": 50,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 1,
+   "prev_season_pts": 93,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2017-18",
+   "pos": 4,
+   "played": 38,
+   "pts": 75,
+   "gd": 46,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 76,
+   "status": "ok"
+  }
+ },
+ "2019 UEFA Champions League final": {
+  "date": "2019-06-01",
+  "Tottenham Hotspur": {
+   "league": "Premier League",
+   "season": "2018-19",
+   "pos": 4,
+   "played": 38,
+   "pts": 71,
+   "gd": 28,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 77,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2018-19",
+   "pos": 2,
+   "played": 38,
+   "pts": 97,
+   "gd": 67,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 75,
+   "status": "ok"
+  }
+ },
+ "2021 UEFA Champions League final": {
+  "date": "2021-05-29",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2020-21",
+   "pos": 1,
+   "played": 38,
+   "pts": 86,
+   "gd": 51,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 81,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2020-21",
+   "pos": 4,
+   "played": 38,
+   "pts": 67,
+   "gd": 22,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 66,
+   "status": "ok"
+  }
+ },
+ "2022 UEFA Champions League final": {
+  "date": "2022-05-28",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2021-22",
+   "pos": 2,
+   "played": 38,
+   "pts": 92,
+   "gd": 68,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 69,
+   "status": "ok"
+  },
+  "Real Madrid": {
+   "league": "La Liga",
+   "season": "2021-22",
+   "pos": 1,
+   "played": 38,
+   "pts": 86,
+   "gd": 49,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 2,
+   "prev_season_pts": 84,
+   "status": "ok"
+  }
+ },
+ "2023 UEFA Champions League final": {
+  "date": "2023-06-10",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2022-23",
+   "pos": 1,
+   "played": 38,
+   "pts": 89,
+   "gd": 61,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 93,
+   "status": "ok"
+  },
+  "Inter Milan": {
+   "league": "Serie A",
+   "season": "2022-23",
+   "pos": 3,
+   "played": 38,
+   "pts": 72,
+   "gd": 29,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Serie A",
+   "prev_season_pos": 2,
+   "prev_season_pts": 84,
+   "status": "ok"
+  }
+ },
+ "2026 UEFA Champions League final": {
+  "date": "2026-05-30",
+  "Paris Saint-Germain": {
+   "league": "Ligue 1",
+   "season": "2025-26",
+   "pos": 1,
+   "played": 34,
+   "pts": 76,
+   "gd": 45,
+   "teams": 18,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Ligue 1",
+   "prev_season_pos": 1,
+   "prev_season_pts": 84,
+   "status": "ok"
+  },
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2025-26",
+   "pos": 1,
+   "played": 38,
+   "pts": 85,
+   "gd": 44,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 74,
+   "status": "ok"
+  }
+ },
+ "1998 UEFA Cup Winners' Cup final": {
+  "date": "1998-05-13",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "1997-98",
+   "pos": 4,
+   "played": 38,
+   "pts": 63,
+   "gd": 28,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 59,
+   "status": "ok"
+  },
+  "VfB Stuttgart": {
+   "league": "Bundesliga",
+   "season": "1997-98",
+   "pos": 4,
+   "played": 34,
+   "pts": 52,
+   "gd": 6,
+   "teams": 18,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Bundesliga",
+   "prev_season_pos": 4,
+   "prev_season_pts": 61,
+   "status": "ok"
+  }
+ },
+ "1999 Intercontinental Cup": {
+  "date": "1999-11-30",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "1999-00",
+   "pos": 2,
+   "played": 15,
+   "pts": 33,
+   "gd": 15,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 79,
+   "status": "ok"
+  },
+  "Palmeiras": {
+   "status": "no league data source (league not covered by football-data.co.uk)"
+  }
+ },
+ "2013 UEFA Europa League final": {
+  "date": "2013-05-15",
+  "Benfica": {
+   "league": "Primeira Liga",
+   "season": "2012-13",
+   "pos": 2,
+   "played": 29,
+   "pts": 74,
+   "gd": 55,
+   "teams": 16,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Primeira Liga",
+   "prev_season_pos": 2,
+   "prev_season_pts": 69,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2012-13",
+   "pos": 3,
+   "played": 37,
+   "pts": 72,
+   "gd": 35,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 64,
+   "status": "ok"
+  }
+ },
+ "2016 UEFA Europa League final": {
+  "date": "2016-05-18",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2015-16",
+   "pos": 8,
+   "played": 38,
+   "pts": 60,
+   "gd": 13,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 62,
+   "status": "ok"
+  },
+  "Sevilla": {
+   "league": "La Liga",
+   "season": "2015-16",
+   "pos": 7,
+   "played": 38,
+   "pts": 52,
+   "gd": 1,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 5,
+   "prev_season_pts": 76,
+   "status": "ok"
+  }
+ },
+ "2017 UEFA Europa League final": {
+  "date": "2017-05-24",
+  "Ajax": {
+   "league": "Eredivisie",
+   "season": "2016-17",
+   "pos": 2,
+   "played": 34,
+   "pts": 81,
+   "gd": 56,
+   "teams": 18,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Eredivisie",
+   "prev_season_pos": 2,
+   "prev_season_pts": 82,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2016-17",
+   "pos": 6,
+   "played": 38,
+   "pts": 69,
+   "gd": 25,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 66,
+   "status": "ok"
+  }
+ },
+ "2019 UEFA Europa League final": {
+  "date": "2019-05-29",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2018-19",
+   "pos": 3,
+   "played": 38,
+   "pts": 72,
+   "gd": 24,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 70,
+   "status": "ok"
+  },
+  "Arsenal": {
+   "league": "Premier League",
+   "season": "2018-19",
+   "pos": 5,
+   "played": 38,
+   "pts": 70,
+   "gd": 22,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 63,
+   "status": "ok"
+  }
+ },
+ "2021 UEFA Europa League final": {
+  "date": "2021-05-26",
+  "Villarreal": {
+   "league": "La Liga",
+   "season": "2020-21",
+   "pos": 7,
+   "played": 38,
+   "pts": 58,
+   "gd": 16,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 5,
+   "prev_season_pts": 60,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2020-21",
+   "pos": 2,
+   "played": 38,
+   "pts": 74,
+   "gd": 29,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 66,
+   "status": "ok"
+  }
+ },
+ "2025 UEFA Conference League final": {
+  "date": "2025-05-28",
+  "Real Betis": {
+   "league": "La Liga",
+   "season": "2024-25",
+   "pos": 6,
+   "played": 38,
+   "pts": 60,
+   "gd": 7,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 7,
+   "prev_season_pts": 57,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2024-25",
+   "pos": 4,
+   "played": 38,
+   "pts": 69,
+   "gd": 21,
+   "teams": 20,
+   "league_season_complete_before_final": true,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 63,
+   "status": "ok"
+  }
+ },
+ "2025 UEFA Europa League final": {
+  "date": "2025-05-21",
+  "Tottenham Hotspur": {
+   "league": "Premier League",
+   "season": "2024-25",
+   "pos": 17,
+   "played": 37,
+   "pts": 38,
+   "gd": 2,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 66,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2024-25",
+   "pos": 16,
+   "played": 37,
+   "pts": 39,
+   "gd": -12,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 8,
+   "prev_season_pts": 60,
+   "status": "ok"
+  }
+ },
+ "1998 UEFA Super Cup": {
+  "date": "1998-08-28",
+  "Real Madrid": {
+   "league": "La Liga",
+   "season": "1998-99",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 4,
+   "prev_season_pts": 63,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "1998-99",
+   "pos": 15,
+   "played": 2,
+   "pts": 1,
+   "gd": -1,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 63,
+   "status": "ok"
+  }
+ },
+ "1999 UEFA Super Cup": {
+  "date": "1999-08-27",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "1999-00",
+   "pos": 1,
+   "played": 5,
+   "pts": 13,
+   "gd": 8,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 79,
+   "status": "ok"
+  },
+  "Lazio": {
+   "league": "Serie A",
+   "season": "1999-00",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Serie A",
+   "prev_season_pos": 2,
+   "prev_season_pts": 69,
+   "status": "ok"
+  }
+ },
+ "2001 UEFA Super Cup": {
+  "date": "2001-08-24",
+  "Bayern Munich": {
+   "league": "Bundesliga",
+   "season": "2001-02",
+   "pos": 5,
+   "played": 4,
+   "pts": 7,
+   "gd": 4,
+   "teams": 18,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Bundesliga",
+   "prev_season_pos": 1,
+   "prev_season_pts": 63,
+   "status": "ok"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2001-02",
+   "pos": 8,
+   "played": 1,
+   "pts": 3,
+   "gd": 1,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 69,
+   "status": "ok"
+  }
+ },
+ "2005 FIFA Club World Championship final": {
+  "date": "2005-12-18",
+  "S\u00e3o Paulo": {
+   "status": "no league data source (league not covered by football-data.co.uk)"
+  },
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2005-06",
+   "pos": 3,
+   "played": 15,
+   "pts": 31,
+   "gd": 12,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 58,
+   "status": "ok"
+  }
+ },
+ "2005 UEFA Super Cup": {
+  "date": "2005-08-26",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2005-06",
+   "pos": 10,
+   "played": 2,
+   "pts": 4,
+   "gd": 1,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 5,
+   "prev_season_pts": 58,
+   "status": "ok"
+  },
+  "CSKA Moscow": {
+   "status": "no league data source (league not covered by football-data.co.uk)"
+  }
+ },
+ "2008 FIFA Club World Cup final": {
+  "date": "2008-12-21",
+  "LDU Quito": {
+   "status": "no league data source (league not covered by football-data.co.uk)"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2008-09",
+   "pos": 4,
+   "played": 16,
+   "pts": 32,
+   "gd": 17,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 87,
+   "status": "ok"
+  }
+ },
+ "2008 UEFA Super Cup": {
+  "date": "2008-08-29",
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2008-09",
+   "pos": 5,
+   "played": 2,
+   "pts": 4,
+   "gd": 1,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 87,
+   "status": "ok"
+  },
+  "Zenit Saint Petersburg": {
+   "status": "no league data source (league not covered by football-data.co.uk)"
+  }
+ },
+ "2012 FIFA Club World Cup final": {
+  "date": "2012-12-16",
+  "Corinthians": {
+   "status": "no league data source (league not covered by football-data.co.uk)"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2012-13",
+   "pos": 3,
+   "played": 16,
+   "pts": 29,
+   "gd": 11,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 64,
+   "status": "ok"
+  }
+ },
+ "2012 UEFA Super Cup": {
+  "date": "2012-08-31",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2012-13",
+   "pos": 1,
+   "played": 3,
+   "pts": 9,
+   "gd": 6,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 64,
+   "status": "ok"
+  },
+  "Atl\u00e9tico Madrid": {
+   "league": "La Liga",
+   "season": "2012-13",
+   "pos": 4,
+   "played": 2,
+   "pts": 4,
+   "gd": 4,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 5,
+   "prev_season_pts": 56,
+   "status": "ok"
+  }
+ },
+ "2013 UEFA Super Cup": {
+  "date": "2013-08-30",
+  "Bayern Munich": {
+   "league": "Bundesliga",
+   "season": "2013-14",
+   "pos": 1,
+   "played": 4,
+   "pts": 10,
+   "gd": 5,
+   "teams": 18,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Bundesliga",
+   "prev_season_pos": 1,
+   "prev_season_pts": 91,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2013-14",
+   "pos": 1,
+   "played": 3,
+   "pts": 7,
+   "gd": 3,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 75,
+   "status": "ok"
+  }
+ },
+ "2017 UEFA Super Cup": {
+  "date": "2017-08-08",
+  "Real Madrid": {
+   "league": "La Liga",
+   "season": "2017-18",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 1,
+   "prev_season_pts": 93,
+   "status": "ok"
+  },
+  "Manchester United": {
+   "league": "Premier League",
+   "season": "2017-18",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 6,
+   "prev_season_pts": 69,
+   "status": "ok"
+  }
+ },
+ "2019 FIFA Club World Cup final": {
+  "date": "2019-12-21",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2019-20",
+   "pos": 1,
+   "played": 17,
+   "pts": 49,
+   "gd": 28,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 97,
+   "status": "ok"
+  },
+  "Flamengo": {
+   "status": "no league data source (league not covered by football-data.co.uk)"
+  }
+ },
+ "2019 UEFA Super Cup": {
+  "date": "2019-08-14",
+  "Liverpool": {
+   "league": "Premier League",
+   "season": "2019-20",
+   "pos": 3,
+   "played": 1,
+   "pts": 3,
+   "gd": 3,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 2,
+   "prev_season_pts": 97,
+   "status": "ok"
+  },
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2019-20",
+   "pos": 19,
+   "played": 1,
+   "pts": 0,
+   "gd": -4,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 3,
+   "prev_season_pts": 72,
+   "status": "ok"
+  }
+ },
+ "2021 FIFA Club World Cup final": {
+  "date": "2022-02-12",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2021-22",
+   "pos": 3,
+   "played": 24,
+   "pts": 47,
+   "gd": 30,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 67,
+   "status": "ok"
+  },
+  "Palmeiras": {
+   "status": "no league data source (league not covered by football-data.co.uk)"
+  }
+ },
+ "2021 UEFA Super Cup": {
+  "date": "2021-08-11",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2021-22",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 67,
+   "status": "ok"
+  },
+  "Villarreal": {
+   "league": "La Liga",
+   "season": "2021-22",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 7,
+   "prev_season_pts": 58,
+   "status": "ok"
+  }
+ },
+ "2023 FIFA Club World Cup final": {
+  "date": "2023-12-22",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2023-24",
+   "pos": 4,
+   "played": 17,
+   "pts": 34,
+   "gd": 20,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 89,
+   "status": "ok"
+  },
+  "Fluminense": {
+   "status": "no league data source (league not covered by football-data.co.uk)"
+  }
+ },
+ "2023 UEFA Super Cup": {
+  "date": "2023-08-16",
+  "Manchester City": {
+   "league": "Premier League",
+   "season": "2023-24",
+   "pos": 3,
+   "played": 1,
+   "pts": 3,
+   "gd": 3,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 1,
+   "prev_season_pts": 89,
+   "status": "ok"
+  },
+  "Sevilla": {
+   "league": "La Liga",
+   "season": "2023-24",
+   "pos": 14,
+   "played": 1,
+   "pts": 0,
+   "gd": -1,
+   "teams": 20,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "La Liga",
+   "prev_season_pos": 11,
+   "prev_season_pts": 49,
+   "status": "ok"
+  }
+ },
+ "2025 FIFA Club World Cup final": {
+  "date": "2025-07-13",
+  "Chelsea": {
+   "league": "Premier League",
+   "season": "2025-26",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Premier League",
+   "prev_season_pos": 4,
+   "prev_season_pts": 69,
+   "status": "ok"
+  },
+  "Paris Saint-Germain": {
+   "league": "Ligue 1",
+   "season": "2025-26",
+   "played": 0,
+   "pos": null,
+   "league_season_complete_before_final": false,
+   "prev_season_league": "Ligue 1",
+   "prev_season_pos": 1,
+   "prev_season_pts": 84,
+   "status": "ok"
+  }
+ }
+}
