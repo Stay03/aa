@@ -1,0 +1,2292 @@
+[
+ {
+  "final_id": "1996 FA Charity Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.irishtimes.com/sport/united-upstage-shearer-show-1.76193"
+  ],
+  "notes": "Irish Times full match report read (narrative, all four United goals described; no disallowed goal, penalty or red card mentioned). Independent report (core source) could not be fetched (domain refused by WebFetch). Only one full report read.",
+  "events": [
+   {
+    "final_id": "1996 FA Charity Shield",
+    "minute": "65",
+    "score_at_time": "2-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Newcastle United",
+    "players": [
+     "Eric Cantona",
+     "Philippe Albert"
+    ],
+    "description": "Cantona grabbed Philippe Albert and threw him to the ground; referee Durkin showed only a yellow. Irish Times: Cantona 'might have been sent off in the 65th minute' and the referee 'was probably correct to show Cantona yellow rather than red'.",
+    "sources": [
+     "https://www.irishtimes.com/sport/united-upstage-shearer-show-1.76193"
+    ],
+    "decision": "yellow not red",
+    "disputed_by": "journalist (Irish Times)"
+   }
+  ]
+ },
+ {
+  "final_id": "1997 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.irishtimes.com/sport/emphatic-victory-ends-chelsea-s-years-in-wilderness-1.73671"
+  ],
+  "notes": "Irish Times full match report read. Teesside Gazette retrospective found via web search (page itself paywalled/redirected to tollbit, not read in full; its content known only from the search-result summary). BBC/Guardian/Independent not reachable.",
+  "events": [
+   {
+    "final_id": "1997 FA Cup final",
+    "minute": "45+",
+    "score_at_time": "1-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Chelsea",
+    "team_against": "Middlesbrough",
+    "players": [
+     "Gianluca Festa",
+     "Phil Stamp"
+    ],
+    "description": "Just before half-time (first-half stoppage time per Gazette) Festa headed in Phil Stamp's cross but was flagged offside. Irish Times: Festa was 'only to be flagged for a marginal offside decision'. Gazette retrospective (search summary): linesman flagged immediately; TV suggested the goal should have stood.",
+    "sources": [
+     "https://www.irishtimes.com/sport/emphatic-victory-ends-chelsea-s-years-in-wilderness-1.73671",
+     "https://www.gazettelive.co.uk/sport/football/football-news/boros-greatest-games-fa-cup-3665765 (search-result summary only)"
+    ],
+    "disputed": true,
+    "dispute_note": "Called 'marginal' (Irish Times); Gazette retrospective says TV evidence suggested it should have stood."
+   }
+  ]
+ },
+ {
+  "final_id": "1997 FA Charity Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.irishtimes.com/sport/charity-remains-at-home-1.93968"
+  ],
+  "notes": "Irish Times match report (with line-ups, goals and bookings) read; no disallowed goal, in-play penalty or red card mentioned. Independent report could not be fetched (domain refused). Shoot-out 2-4 not recorded as events. Earlier research (Independent) noted Keane's unpunished boot to Poyet's head (16') - not re-verified here.",
+  "events": [
+   {
+    "final_id": "1997 FA Charity Shield",
+    "minute": "16",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Chelsea",
+    "players": [
+     "Roy Keane",
+     "Gustavo Poyet"
+    ],
+    "description": "Keane caught Poyet on the head with his boot and was not booked. Per earlier project research: Independent 'he was fortunate not to be booked'; Irish Times 'At least Keane did not begin the season with a yellow card.' Not re-read in this pass.",
+    "sources": [
+     "https://www.independent.co.uk/sport/united-fall-back-on-a-gritty-display-1243676.html",
+     "https://www.irishtimes.com/sport/charity-remains-at-home-1.93968"
+    ],
+    "decision": "foul/booking not given",
+    "disputed_by": "journalists (Independent, Irish Times) - from earlier project research, not re-verified"
+   }
+  ]
+ },
+ {
+  "final_id": "1998 Football League Cup final",
+  "census_complete": false,
+  "census_sources": [
+   "https://al.zerostem.io/~al/teletext/itv/1998-03-29-0054.1/141.html"
+  ],
+  "notes": "Only a short ITV Teletext summary (archive) read: Sinclair header ~95', Di Matteo second; no disallowed goal, penalty or red card mentioned. No full match report/MBM reachable (BBC/Independent/Guardian blocked; Gazette redirects to paywall). Census NOT complete.",
+  "events": []
+ },
+ {
+  "final_id": "1998 FA Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "No full match report could be read in this pass (Independent refused by WebFetch; BBC/Guardian blocked). Earlier project research (Independent report by Glenn Moore) noted no disputed refereeing decision. Cached Wikipedia (hint only) mentions a Newcastle penalty appeal in first-half added time when Adams jumped over Shearer, immediately turned down - recorded as a disputed decision with a note.",
+  "events": [
+   {
+    "final_id": "1998 FA Cup final",
+    "minute": "45+",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Newcastle United",
+    "players": [
+     "Tony Adams",
+     "Alan Shearer"
+    ],
+    "description": "Newcastle appealed for a penalty deep into first-half added time after Adams jumped over Shearer while clearing; referee immediately turned it down. SOURCE CAVEAT: only found in cached Wikipedia text (hint, not a source); no reputable report read to confirm.",
+    "sources": [],
+    "decision": "penalty not given",
+    "disputed_by": "Newcastle players (appeal) - unverified"
+   }
+  ]
+ },
+ {
+  "final_id": "1998 FA Charity Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.irishtimes.com/sport/arsenal-show-no-charity-at-home-from-home-1.181732"
+  ],
+  "notes": "Irish Times match report (goals 33/34', 56', 71', bookings Keown, G Neville, Irwin; referee G Poll) read; no disallowed goal, penalty, red card or disputed decision mentioned. Independent report refused by WebFetch. Only one report read.",
+  "events": []
+ },
+ {
+  "final_id": "1999 FA Cup final",
+  "census_complete": false,
+  "census_sources": [
+   "https://www.skysports.com/football/news/11667/11724746/manchester-uniteds-199899-treble-how-teddy-sheringhams-frustration-turned-to-joy"
+  ],
+  "notes": "Only a Sky Sports retrospective feature (Sheringham) read - mentions no disallowed goal, penalty or red card, but it is not a full match report. Census NOT complete.",
+  "events": []
+ },
+ {
+  "final_id": "1999 FA Charity Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.irishtimes.com/sport/kanu-the-hero-of-bruising-opener-1.212856",
+   "https://www.rte.ie/news/1999/0801/2758-football"
+  ],
+  "notes": "Irish Times full report and RTE news report read. Independent report could not be fetched (refused).",
+  "events": [
+   {
+    "final_id": "1999 FA Charity Shield",
+    "minute": "36",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "not over line",
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "David Beckham",
+     "Dwight Yorke"
+    ],
+    "description": "Beckham's 30-yard free kick hit the underside of the bar and (per Irish Times) 'cannoned over the line'; play was not stopped and no goal was given for it, but Yorke headed in the rebound, so United still led 1-0 (goal credited to Yorke). Recorded as a goal-line non-award with no net effect on the score.",
+    "sources": [
+     "https://www.irishtimes.com/sport/kanu-the-hero-of-bruising-opener-1.212856",
+     "https://www.rte.ie/news/1999/0801/2758-football"
+    ],
+    "note": "RTE only says the free kick 'hit the crossbar, rebounded and was put in by Dwight Yorke'. Earlier project research (Independent): 'neither referee nor the better-placed linesman signalled a goal'.",
+    "disputed": true,
+    "dispute_note": "Independent (earlier research): linesman received 'a verbal volley' from United."
+   },
+   {
+    "final_id": "1999 FA Charity Shield",
+    "minute": "67",
+    "score_at_time": "0-1",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "Denis Irwin",
+     "Patrick Vieira",
+     "Kanu"
+    ],
+    "description": "Vieira, bearing down on goal, was pulled down by Irwin; Kanu scored the penalty (1-1).",
+    "sources": [
+     "https://www.irishtimes.com/sport/kanu-the-hero-of-bruising-opener-1.212856",
+     "https://www.rte.ie/news/1999/0801/2758-football"
+    ],
+    "outcome": "scored",
+    "disputed": true,
+    "dispute_note": "Earlier project research (Independent): Vieira 'took advantage of Irwin's repeated attempts to tug him back by taking a theatrical tumble. It was a dive, but a foul had been committed'."
+   }
+  ]
+ },
+ {
+  "final_id": "2000 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.rte.ie/sport/soccer/2000/0520/149476-soccer1/"
+  ],
+  "notes": "RTE full match report read. AP report (Las Vegas Sun) returned HTTP 402. Only one report read.",
+  "events": [
+   {
+    "final_id": "2000 FA Cup final",
+    "minute": "53",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Aston Villa",
+    "team_against": "Chelsea",
+    "players": [
+     "Dennis Wise",
+     "George Weah"
+    ],
+    "description": "Wise bundled the ball in after James fumbled a Di Matteo shot, but the goal was ruled out with Weah 'correctly ruled offside' (RTE).",
+    "sources": [
+     "https://www.rte.ie/sport/soccer/2000/0520/149476-soccer1/"
+    ],
+    "disputed": false
+   }
+  ]
+ },
+ {
+  "final_id": "2000 FA Charity Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.irishtimes.com/charity-begins-and-ends-in-an-instant-1.302825"
+  ],
+  "notes": "Irish Times match report read (lineups, goals, Keane red). Independent follow-up could not be fetched (refused).",
+  "events": [
+   {
+    "final_id": "2000 FA Charity Shield",
+    "minute": "62",
+    "score_at_time": "1-0",
+    "event_type": "red card",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester United",
+    "players": [
+     "Roy Keane",
+     "Gustavo Poyet"
+    ],
+    "description": "Keane straight red for a studs-down challenge on Poyet's calf: 'shown a red card by referee Mike Riley without hesitation'.",
+    "sources": [
+     "https://www.irishtimes.com/charity-begins-and-ends-in-an-instant-1.302825"
+    ],
+    "card": "straight red"
+   },
+   {
+    "final_id": "2000 FA Charity Shield",
+    "minute": "c.60",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester United",
+    "players": [
+     "Jimmy Floyd Hasselbaink",
+     "Roy Keane"
+    ],
+    "description": "Hasselbaink 'sank his studs into Keane's ankle' with no action taken shortly before Keane's red; Ferguson blamed the referee for not acting earlier; Irish Times cited 'some lenient refereeing' (per earlier project research).",
+    "sources": [
+     "https://www.irishtimes.com/charity-begins-and-ends-in-an-instant-1.302825",
+     "https://www.independent.co.uk/sport/football/premier-league/chelsea-striker-issues-apology-to-keane-696372.html"
+    ],
+    "decision": "foul/card not given",
+    "disputed_by": "manager (Ferguson), journalist (Irish Times)"
+   }
+  ]
+ },
+ {
+  "final_id": "2001 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.lfchistory.net/articles/656 (BBC Clockwatch minute-by-minute, reproduced)"
+  ],
+  "notes": "BBC Clockwatch minute-by-minute (reproduced on LFChistory) read in full. Shoot-out not recorded.",
+  "events": [
+   {
+    "final_id": "2001 Football League Cup final",
+    "minute": "90+3",
+    "score_at_time": "0-1",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Birmingham City",
+    "team_against": "Liverpool",
+    "players": [
+     "Stephane Henchoz",
+     "Martin O'Connor",
+     "Darren Purse"
+    ],
+    "description": "O'Connor brought down by Henchoz in the area; Elleray pointed to the spot and Purse scored (1-1).",
+    "sources": [
+     "https://www.lfchistory.net/articles/656 (BBC Clockwatch minute-by-minute, reproduced)"
+    ],
+    "outcome": "scored"
+   },
+   {
+    "final_id": "2001 Football League Cup final",
+    "minute": "104",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Liverpool",
+    "team_against": "Birmingham City",
+    "players": [
+     "Stephane Henchoz",
+     "Andrew Johnson"
+    ],
+    "description": "'Johnson is bundled over in the area by Henchoz and to the amazement of everyone connected with Birmingham referee Elleray does not award a penalty' (BBC Clockwatch).",
+    "sources": [
+     "https://www.lfchistory.net/articles/656 (BBC Clockwatch minute-by-minute, reproduced)"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "journalist (BBC Clockwatch), Birmingham"
+   }
+  ]
+ },
+ {
+  "final_id": "2001 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.rte.ie/sport/soccer/2001/0512/155935-cupfinal/"
+  ],
+  "notes": "RTE full match report read. No disallowed goals, penalties or red cards. Hyypia goal-line clearance (56') is not an officiating decision.",
+  "events": [
+   {
+    "final_id": "2001 FA Cup final",
+    "minute": "17",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Liverpool",
+    "team_against": "Arsenal",
+    "players": [
+     "Stephane Henchoz",
+     "Thierry Henry"
+    ],
+    "description": "Henry's shot was handled by Henchoz at the near post and went wide; RTE: Arsenal 'should have been awarded a spot-kick in the 17th minute' - referee and linesman missed it.",
+    "sources": [
+     "https://www.rte.ie/sport/soccer/2001/0512/155935-cupfinal/"
+    ],
+    "decision": "penalty not given (handball)",
+    "disputed_by": "journalist (RTE), Arsenal"
+   }
+  ]
+ },
+ {
+  "final_id": "2001 FA Charity Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.irishtimes.com/news/liverpool-triumph-in-cardiff-1.392960",
+   "https://www.rte.ie/sport/soccer/2001/0812/158014-charityshield"
+  ],
+  "notes": "Irish Times and RTE reports read. Irish Examiner (Ferguson 'too nervous' ref complaints) used by earlier project research, not re-read.",
+  "events": [
+   {
+    "final_id": "2001 FA Charity Shield",
+    "minute": "1",
+    "score_at_time": "0-0",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Liverpool",
+    "team_against": "Manchester United",
+    "players": [
+     "Roy Keane",
+     "Danny Murphy",
+     "Gary McAllister"
+    ],
+    "description": "Keane tripped Murphy in the box inside the first minute or two; McAllister scored (1-0).",
+    "sources": [
+     "https://www.irishtimes.com/news/liverpool-triumph-in-cardiff-1.392960",
+     "https://www.rte.ie/sport/soccer/2001/0812/158014-charityshield"
+    ],
+    "outcome": "scored"
+   },
+   {
+    "final_id": "2001 FA Charity Shield",
+    "minute": null,
+    "score_at_time": null,
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Liverpool",
+    "team_against": "Manchester United",
+    "players": [
+     "Stephane Henchoz",
+     "Mikael Silvestre",
+     "Ruud van Nistelrooy"
+    ],
+    "description": "Two United handball penalty appeals against Henchoz turned down (Silvestre shot; later a Van Nistelrooy drive c.84'); Irish Examiner: D'Urso 'turned down two seemingly clear-cut spot-kick appeals'; Ferguson said the referee was 'too nervous' (per earlier project research).",
+    "sources": [
+     "https://www.irishexaminer.com/sport/soccer/arid-30020607.html"
+    ],
+    "decision": "penalty not given (handball)",
+    "disputed_by": "manager (Ferguson), journalist (Irish Examiner) - from earlier project research"
+   }
+  ]
+ },
+ {
+  "final_id": "2002 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=48399 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN Soccernet live commentary read (offside flags at 7', 19', 44', 72' - none with the ball in the net). No disallowed goals, penalties or red cards.",
+  "events": [
+   {
+    "final_id": "2002 FA Cup final",
+    "minute": "44",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "assistant",
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Eidur Gudjohnsen"
+    ],
+    "description": "Gudjohnsen 'looks to have a chance to break through until a questionable offside flag denies him'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=48399 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "offside",
+    "disputed_by": "journalist (ESPN commentary)"
+   }
+  ]
+ },
+ {
+  "final_id": "2002 FA Community Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=54230 (ESPN Soccernet live commentary)",
+   "https://www.skysports.com/football/news/11669/2242749/Wenger-Gerrard-should-have-gone"
+  ],
+  "notes": "Full ESPN live commentary read; Sky Sports reaction piece cited by earlier research. No disallowed goals, penalties or red cards.",
+  "events": [
+   {
+    "final_id": "2002 FA Community Shield",
+    "minute": "6",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Liverpool",
+    "team_against": "Arsenal",
+    "players": [
+     "Steven Gerrard",
+     "Patrick Vieira"
+    ],
+    "description": "Gerrard booked for clattering Vieira; at 8' a further reckless challenge on Henry and 'he is lucky to stay on the pitch' (ESPN). Wenger: Gerrard 'should normally have seen red'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=54230 (ESPN Soccernet live commentary)",
+     "https://www.skysports.com/football/news/11669/2242749/Wenger-Gerrard-should-have-gone"
+    ],
+    "decision": "yellow not red",
+    "disputed_by": "manager (Wenger), journalist (ESPN)"
+   },
+   {
+    "final_id": "2002 FA Community Shield",
+    "minute": "60",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Liverpool",
+    "players": [
+     "Michael Owen"
+    ],
+    "description": "Owen inches from turning in a cross; 'He claims he was being tugged.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=54230 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul not given",
+    "disputed_by": "player (Owen)"
+   },
+   {
+    "final_id": "2002 FA Community Shield",
+    "minute": "73",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Liverpool",
+    "players": [
+     "El Hadji Diouf",
+     "Patrick Vieira"
+    ],
+    "description": "Diouf went down under Vieira's challenge: 'No penalty says the ref and Vieira is furious with the Diouf.' Diouf later insisted he did not dive.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=54230 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "Liverpool player (Diouf)"
+   }
+  ]
+ },
+ {
+  "final_id": "2003 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=80871 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. No disallowed goals, penalties or red cards (Henchoz 44' and Ferdinand 89' goal-line clearances are not officiating decisions).",
+  "events": [
+   {
+    "final_id": "2003 Football League Cup final",
+    "minute": "48",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Liverpool",
+    "players": [
+     "Emile Heskey"
+    ],
+    "description": "Heskey tumbled as he twisted to shoot: 'Cries for a penalty but referee Durkin waves play on'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=80871 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "Liverpool players/fans"
+   }
+  ]
+ },
+ {
+  "final_id": "2003 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=97947 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. Teesside Gazette/PA report used by earlier research (mentions the Beattie offside goal), not re-read here.",
+  "events": [
+   {
+    "final_id": "2003 FA Cup final",
+    "minute": "20",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Arsenal",
+    "team_against": "Southampton",
+    "players": [
+     "James Beattie"
+    ],
+    "description": "'Beattie gets it in the net...but that's offside. Just.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=97947 (ESPN Soccernet live commentary)",
+     "http://www.gazettelive.co.uk/north-east-sport/football/latest-football-news/2003/05/17/arsenal-1-southampton-0-84229-12973208/ (per earlier project research)"
+    ],
+    "disputed": false
+   },
+   {
+    "final_id": "2003 FA Cup final",
+    "minute": "27",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Southampton",
+    "team_against": "Arsenal",
+    "players": [
+     "Paul Telfer",
+     "Gilberto Silva"
+    ],
+    "description": "'Gilberto is fouled by Telfer. Through the back of him and that should have been a yellow card. It wasn't.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=97947 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "yellow card not given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2003 FA Cup final",
+    "minute": "33",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Southampton",
+    "players": [
+     "Freddie Ljungberg"
+    ],
+    "description": "'Ljungberg clearly dives. He wins a free-kick. Silly decision.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=97947 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul given (dive)",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2003 FA Cup final",
+    "minute": "41",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Southampton",
+    "players": [
+     "Ray Parlour",
+     "Anders Svensson"
+    ],
+    "description": "'Parlour goes straight through Anders Svensson and is lucky not to be booked.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=97947 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "yellow card not given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2003 FA Cup final",
+    "minute": "60",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Southampton",
+    "team_against": "Arsenal",
+    "players": [
+     "Wayne Bridge"
+    ],
+    "description": "'Bridge wins a free-kick when he dives.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=97947 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul given (dive)",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2003 FA Cup final",
+    "minute": "67",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Southampton",
+    "team_against": "Arsenal",
+    "players": [
+     "Thierry Henry",
+     "Michael Svensson"
+    ],
+    "description": "Henry went down in the box over Svensson's leg; Barber gave Southampton a free-kick and booked Henry for diving. Gazette: 'There was controversy when Henry went down in the box'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=97947 (ESPN Soccernet live commentary)",
+     "http://www.gazettelive.co.uk/north-east-sport/football/latest-football-news/2003/05/17/arsenal-1-southampton-0-84229-12973208/"
+    ],
+    "decision": "penalty not given / booked for diving",
+    "disputed_by": "journalist (Gazette/PA)"
+   }
+  ]
+ },
+ {
+  "final_id": "2003 FA Community Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317 (ESPN Soccernet live commentary)",
+   "https://www.irishtimes.com/news/united-triumph-after-community-shoot-out-1.492517"
+  ],
+  "notes": "Full ESPN live commentary and Irish Times match report read (both critical of referee Bennett). Shoot-out not recorded.",
+  "events": [
+   {
+    "final_id": "2003 FA Community Shield",
+    "minute": "73",
+    "score_at_time": "1-1",
+    "event_type": "red card",
+    "reason": "violent conduct",
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Arsenal",
+    "players": [
+     "Francis Jeffers",
+     "Phil Neville"
+    ],
+    "description": "Substitute Jeffers kicked out at Phil Neville and 'is rightly sent off' (ESPN); Irish Times: sent off for 'kicking out at Phil Neville'. Wikipedia gives 72'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317 (ESPN Soccernet live commentary)",
+     "https://www.irishtimes.com/news/united-triumph-after-community-shoot-out-1.492517"
+    ],
+    "card": "straight red",
+    "disputed": false
+   },
+   {
+    "final_id": "2003 FA Community Shield",
+    "minute": "18",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "Nicky Butt",
+     "Patrick Vieira"
+    ],
+    "description": "Butt slid in and won the ball; Vieira fell and won a free-kick. ESPN: 'Poor decision.' Henry scored from the resulting free-kick (20', 1-1); Irish Times: free-kick given 'for what looked a well-timed tackle by Nicky Butt'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317 (ESPN Soccernet live commentary)",
+     "https://www.irishtimes.com/news/united-triumph-after-community-shoot-out-1.492517"
+    ],
+    "decision": "foul given",
+    "disputed_by": "journalists (ESPN, Irish Times)"
+   },
+   {
+    "final_id": "2003 FA Community Shield",
+    "minute": "23",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "Ashley Cole",
+     "Ole Gunnar Solskjaer"
+    ],
+    "description": "'Ashley Cole lashes at Solskjaer with a kick. He's been booked already and should have walked.' Irish Times: Bennett 'in a rather more forgiving mood' when Cole escaped a second caution.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317 (ESPN Soccernet live commentary)",
+     "https://www.irishtimes.com/news/united-triumph-after-community-shoot-out-1.492517"
+    ],
+    "decision": "second yellow not given",
+    "disputed_by": "journalists (ESPN, Irish Times)"
+   },
+   {
+    "final_id": "2003 FA Community Shield",
+    "minute": "42",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "assistant",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "Ryan Giggs"
+    ],
+    "description": "'Offside given - but Giggs wasn't offside.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "offside",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2003 FA Community Shield",
+    "minute": "48",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "Robert Pires",
+     "Nicky Butt"
+    ],
+    "description": "'Pires falls over in theatrical fashion when Butt snaps in. A poor decision again from Bennett.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2003 FA Community Shield",
+    "minute": "59",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "Quinton Fortune",
+     "Freddie Ljungberg"
+    ],
+    "description": "Fortune booked for a foul on Ljungberg: 'Again an Arsenal theatric wins a foul from Bennett.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul/yellow given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2003 FA Community Shield",
+    "minute": "80",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "Sol Campbell",
+     "Eric Djemba-Djemba"
+    ],
+    "description": "'Campbell seems to escape the attentions of Steve Bennett... Campbell clearly kicked Djemba.' Irish Times: Campbell 'fortunate not to follow his team-mate off the pitch'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=107317 (ESPN Soccernet live commentary)",
+     "https://www.irishtimes.com/news/united-triumph-after-community-shoot-out-1.492517"
+    ],
+    "decision": "foul/card not given",
+    "disputed_by": "journalists (ESPN, Irish Times)"
+   }
+  ]
+ },
+ {
+  "final_id": "2004 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=151346 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. Harris offside (9') 'tight decision but the right one' - no ball in net.",
+  "events": [
+   {
+    "final_id": "2004 FA Cup final",
+    "minute": "63",
+    "score_at_time": "1-0",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Millwall",
+    "players": [
+     "David Livermore",
+     "Ryan Giggs",
+     "Ruud van Nistelrooy"
+    ],
+    "description": "Giggs, bearing down on goal, was brought down by Livermore ('the referee has no alternative'); Van Nistelrooy scored (ESPN key events list the goal at 65').",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=151346 (ESPN Soccernet live commentary)"
+    ],
+    "outcome": "scored",
+    "disputed": false
+   },
+   {
+    "final_id": "2004 FA Cup final",
+    "minute": "80",
+    "score_at_time": "2-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "assistant",
+    "team_benefiting": "Manchester United",
+    "team_against": "Millwall",
+    "players": [
+     "Ruud van Nistelrooy"
+    ],
+    "description": "Van Nistelrooy's third goal: 'Suspicion of off-side for van Nistlerooy but a quality goal anyway'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=151346 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "offside (goal allowed)",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2004 FA Cup final",
+    "minute": "14",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Millwall",
+    "players": [
+     "Paul Scholes"
+    ],
+    "description": "Scholes 'very late and he is lucky not to be shown a card'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=151346 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "card not given",
+    "disputed_by": "journalist (ESPN)"
+   }
+  ]
+ },
+ {
+  "final_id": "2004 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=152313 (ESPN Soccernet match data; no commentary)"
+  ],
+  "notes": "ESPN has only match data (goals) for this game, no commentary; no match report reachable. Census NOT complete.",
+  "events": []
+ },
+ {
+  "final_id": "2005 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. No disallowed goals, no penalties, no player red cards. Mourinho sent to the stands (not a player dismissal).",
+  "events": [
+   {
+    "final_id": "2005 Football League Cup final",
+    "minute": "21",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Liverpool",
+    "team_against": "Chelsea",
+    "players": [
+     "Steven Gerrard",
+     "Frank Lampard"
+    ],
+    "description": "Gerrard brought Lampard down 30 yards out and 'is a little lucky not to get booked'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "yellow card not given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2005 Football League Cup final",
+    "minute": "26",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Liverpool",
+    "team_against": "Chelsea",
+    "players": [
+     "Frank Lampard",
+     "Luis Garcia"
+    ],
+    "description": "'Lampard is harshly booked by Referee Bennett for a challenge on Garcia, who seemed to make the most of a strong tackle.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "yellow card given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2005 Football League Cup final",
+    "minute": "27",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Liverpool",
+    "players": [
+     "Steven Gerrard",
+     "Claude Makelele"
+    ],
+    "description": "Gerrard went down in the Chelsea area under Makelele's challenge: 'It could very easily have been given a penalty'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2005 Football League Cup final",
+    "minute": "45",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Liverpool",
+    "team_against": "Chelsea",
+    "players": [
+     "Sami Hyypia",
+     "Joe Cole"
+    ],
+    "description": "Hyypia brought down Cole; referee reached for his pocket, consulted his linesman and gave only the free-kick - 'Hyypia, who has already been booked, escapes a second yellow.' CNN: Bennett 'looked set to issue another yellow card before realising what this would entail'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466 (ESPN Soccernet live commentary)",
+     "https://edition.cnn.com/2005/SPORT/football/02/27/carling.chelsea/"
+    ],
+    "decision": "second yellow not given",
+    "disputed_by": "journalists (ESPN, CNN)"
+   },
+   {
+    "final_id": "2005 Football League Cup final",
+    "minute": "77",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Liverpool",
+    "team_against": "Chelsea",
+    "players": [
+     "Dietmar Hamann",
+     "Frank Lampard"
+    ],
+    "description": "Bennett stopped play to book Hamann for bundling over Lampard; 'Chelsea are furious that he didn't play the advantage.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "advantage not played",
+    "disputed_by": "Chelsea"
+   },
+   {
+    "final_id": "2005 Football League Cup final",
+    "minute": "79",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee / fourth official",
+    "team_benefiting": "Liverpool",
+    "team_against": "Chelsea",
+    "players": [
+     "Jose Mourinho"
+    ],
+    "description": "Mourinho removed from the touchline after putting his finger to his lips towards Liverpool fans when Chelsea equalised; ESPN: 'sent off for allegedly inciting the crowd'. Mourinho disputed it.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466 (ESPN Soccernet live commentary)",
+     "https://edition.cnn.com/2005/SPORT/football/02/27/carling.chelsea/"
+    ],
+    "decision": "manager sent to stands",
+    "disputed_by": "manager (Mourinho)"
+   },
+   {
+    "final_id": "2005 Football League Cup final",
+    "minute": "116",
+    "score_at_time": "1-3",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Liverpool",
+    "players": [
+     "Jamie Carragher"
+    ],
+    "description": "'Carragher is booked for abusing Referee Bennett for a handball decision that went against Liverpool. The free-kick is moved forward 10 yards.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=173466 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "handball given",
+    "disputed_by": "Liverpool player (Carragher)"
+   }
+  ]
+ },
+ {
+  "final_id": "2005 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=182632 (ESPN Soccernet live commentary)",
+   "https://mg.co.za/2005-05-21-arsenal-win-thrilling-fa-cup-final/"
+  ],
+  "notes": "Full ESPN live commentary and AFP report (Mail & Guardian) read. Shoot-out not recorded.",
+  "events": [
+   {
+    "final_id": "2005 FA Cup final",
+    "minute": "27",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "Rio Ferdinand",
+     "Wayne Rooney"
+    ],
+    "description": "Rooney's shot saved by Lehmann's legs, Ferdinand tucked away the rebound but 'his celebrations are cut short by the linesman's flag' (ESPN 27'); AFP: 'his effort was ruled out for offside'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=182632 (ESPN Soccernet live commentary)",
+     "https://mg.co.za/2005-05-21-arsenal-win-thrilling-fa-cup-final/"
+    ],
+    "disputed": true,
+    "dispute_note": "ESPN: 'a very tight decision', though United made few complaints."
+   },
+   {
+    "final_id": "2005 FA Cup final",
+    "minute": "120+2",
+    "score_at_time": "0-0",
+    "event_type": "red card",
+    "reason": "second yellow",
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Arsenal",
+    "players": [
+     "Jose Antonio Reyes",
+     "Cristiano Ronaldo"
+    ],
+    "description": "Reyes sent off for a second bookable offence after clattering Ronaldo on the half-way line in extra-time stoppage time (first yellow 76').",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=182632 (ESPN Soccernet live commentary)",
+     "https://mg.co.za/2005-05-21-arsenal-win-thrilling-fa-cup-final/"
+    ],
+    "card": "second yellow",
+    "disputed": true,
+    "dispute_note": "Wenger called it harsh (earlier project research)."
+   },
+   {
+    "final_id": "2005 FA Cup final",
+    "minute": "100",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "Ashley Cole",
+     "Ryan Giggs"
+    ],
+    "description": "Giggs' cross hit Cole: 'a few half-hearted penalty appeals'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=182632 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "Manchester United players"
+   },
+   {
+    "final_id": "2005 FA Cup final",
+    "minute": "103",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "Kolo Toure",
+     "Ryan Giggs"
+    ],
+    "description": "'Another penalty shout when Giggs attempts to cross and the ball hits Toure's forearm.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=182632 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given (handball)",
+    "disputed_by": "Manchester United players"
+   },
+   {
+    "final_id": "2005 FA Cup final",
+    "minute": "118",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester United",
+    "players": [
+     "Patrick Vieira"
+    ],
+    "description": "Ferguson: 'The referee could have maybe sent off Vieira but Patrick has some kind of immunity' (per earlier project research: AP/Reuters reports).",
+    "sources": [
+     "https://www.taipeitimes.com/News/sport/archives/2005/05/23/2003256358",
+     "https://www.arabnews.com/node/267303"
+    ],
+    "decision": "red card not given",
+    "disputed_by": "manager (Ferguson) - earlier project research"
+   }
+  ]
+ },
+ {
+  "final_id": "2005 FA Community Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=187788 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. No disallowed goals (Drogba was flagged offside at 38' but was robbed by Lehmann, no goal), no penalties, no red cards.",
+  "events": [
+   {
+    "final_id": "2005 FA Community Shield",
+    "minute": "17",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Arsenal",
+    "players": [
+     "John Terry",
+     "Robert Pires"
+    ],
+    "description": "'Terry is lucky not to give away a free-kick on the edge of the area after bringing down Pires.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=187788 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul not given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2005 FA Community Shield",
+    "minute": "63",
+    "score_at_time": "0-2",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Arjen Robben",
+     "Frank Lampard"
+    ],
+    "description": "Webb had already blown for a foul on Lampard as Robben ran through on goal: 'Chelsea aren't happy; they wanted the referee to play the advantage'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=187788 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "advantage not played",
+    "disputed_by": "Chelsea"
+   }
+  ]
+ },
+ {
+  "final_id": "2006 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=194227 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. No disallowed goals, penalties or red cards.",
+  "events": [
+   {
+    "final_id": "2006 Football League Cup final",
+    "minute": "18",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Wigan Athletic",
+    "team_against": "Manchester United",
+    "players": [
+     "Louis Saha",
+     "Arjan de Zeeuw"
+    ],
+    "description": "Saha went down on the edge of the area after a clumsy De Zeeuw challenge; claims dismissed. At 23' again 'the referee sees nothing. Saha is furious'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=194227 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "free kick not given",
+    "disputed_by": "player (Saha)"
+   },
+   {
+    "final_id": "2006 Football League Cup final",
+    "minute": "54",
+    "score_at_time": "2-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Wigan Athletic",
+    "team_against": "Manchester United",
+    "players": [
+     "Cristiano Ronaldo",
+     "Gary Teale"
+    ],
+    "description": "'Ronaldo is furious as the referee rules that he fouled Teale... It looked tough on the United man.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=194227 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul given",
+    "disputed_by": "player (Ronaldo), journalist (ESPN)"
+   },
+   {
+    "final_id": "2006 Football League Cup final",
+    "minute": "70",
+    "score_at_time": "4-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Wigan Athletic",
+    "players": [
+     "Leighton Baines",
+     "Wayne Rooney"
+    ],
+    "description": "'Baines claims a handball as he and Rooney challenge for a bouncing ball inside the United penalty area. The referee is having none of it.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=194227 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given (handball)",
+    "disputed_by": "player (Baines)"
+   }
+  ]
+ },
+ {
+  "final_id": "2006 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=197065 (ESPN Soccernet live commentary)",
+   "https://www.irishtimes.com/sport/gerrard-refuses-to-lie-down-1.1003222"
+  ],
+  "notes": "Full ESPN live commentary and Irish Times report read. Shoot-out not recorded.",
+  "events": [
+   {
+    "final_id": "2006 FA Cup final",
+    "minute": "30",
+    "score_at_time": "0-2",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "West Ham United",
+    "team_against": "Liverpool",
+    "players": [
+     "Peter Crouch",
+     "Steven Gerrard"
+    ],
+    "description": "Crouch finished from Gerrard's quick free-kick but 'the linesman has waved his flag to signify he was offisde. It was a very tight decision and Liverpool were very unlucky there.' Irish Times: 'A Peter Crouch goal had already been chalked off with a marginal offside decision'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=197065 (ESPN Soccernet live commentary)",
+     "https://www.irishtimes.com/sport/gerrard-refuses-to-lie-down-1.1003222"
+    ],
+    "disputed": true,
+    "dispute_note": "ESPN: 'very tight decision... Liverpool were very unlucky'; Irish Times: 'marginal'."
+   },
+   {
+    "final_id": "2006 FA Cup final",
+    "minute": "97",
+    "score_at_time": "3-3",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Liverpool",
+    "team_against": "West Ham United",
+    "players": [
+     "Yossi Benayoun"
+    ],
+    "description": "'Benayoun complains about a Liverpool throw-in being awarded and he has a case.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=197065 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "throw-in given",
+    "disputed_by": "player (Benayoun), journalist (ESPN)"
+   }
+  ]
+ },
+ {
+  "final_id": "2006 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [
+   "https://www.rte.ie/sport/soccer/2006/0813/207875-communityshield/",
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=205341 (ESPN Soccernet match data; no commentary)"
+  ],
+  "notes": "Only a short RTE report (goals, two bookings) and ESPN match data (no commentary) read; neither mentions any disallowed goal, penalty or red card, but RTE piece is too brief to rule out a flagged goal. Census NOT complete.",
+  "events": []
+ },
+ {
+  "final_id": "2007 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=213572 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. Adebayor offside at 93' (no goal mentioned).",
+  "events": [
+   {
+    "final_id": "2007 Football League Cup final",
+    "minute": "90+6",
+    "score_at_time": "2-1",
+    "event_type": "red card",
+    "reason": "violent conduct",
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "John Obi Mikel"
+    ],
+    "description": "John Obi Mikel sent off in the stoppage-time brawl sparked by a Toure-Mikel tussle (ESPN: 'Mikel sent off - and is Toure!', 'Adebayor has also been sent off!').",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=213572 (ESPN Soccernet live commentary)"
+    ],
+    "card": "straight red"
+   },
+   {
+    "final_id": "2007 Football League Cup final",
+    "minute": "90+6",
+    "score_at_time": "2-1",
+    "event_type": "red card",
+    "reason": "violent conduct",
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Arsenal",
+    "players": [
+     "Kolo Toure"
+    ],
+    "description": "Kolo Toure sent off in the stoppage-time brawl sparked by a Toure-Mikel tussle (ESPN: 'Mikel sent off - and is Toure!', 'Adebayor has also been sent off!').",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=213572 (ESPN Soccernet live commentary)"
+    ],
+    "card": "straight red"
+   },
+   {
+    "final_id": "2007 Football League Cup final",
+    "minute": "90+6",
+    "score_at_time": "2-1",
+    "event_type": "red card",
+    "reason": "violent conduct",
+    "decided_by": "referee (on assistant's report)",
+    "team_benefiting": "Chelsea",
+    "team_against": "Arsenal",
+    "players": [
+     "Emmanuel Adebayor"
+    ],
+    "description": "Emmanuel Adebayor sent off in the stoppage-time brawl sparked by a Toure-Mikel tussle (ESPN: 'Mikel sent off - and is Toure!', 'Adebayor has also been sent off!').",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=213572 (ESPN Soccernet live commentary)",
+     "http://www1.skysports.com/football/news/11668/2406825/wenger-adebayor-is-innocent"
+    ],
+    "card": "straight red",
+    "disputed": true,
+    "dispute_note": "Wenger said Adebayor was innocent; the linesman had reported that Adebayor punched Lampard (Sky Sports)."
+   },
+   {
+    "final_id": "2007 Football League Cup final",
+    "minute": "16",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Arsenal",
+    "players": [
+     "Julio Baptista",
+     "Lassana Diarra"
+    ],
+    "description": "'Baptista falls in the box under a Diarra challenge - and the referee rules no penalty! Probably the right decision.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=213572 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "Arsenal (appeal)"
+   },
+   {
+    "final_id": "2007 Football League Cup final",
+    "minute": "20",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "assistant",
+    "team_benefiting": "Chelsea",
+    "team_against": "Arsenal",
+    "players": [
+     "Didier Drogba",
+     "Michael Ballack"
+    ],
+    "description": "Drogba's equaliser from Ballack's pass: 'there was a hint of offside'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=213572 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "offside (goal allowed)",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2007 Football League Cup final",
+    "minute": "29",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Arsenal",
+    "players": [
+     "Denilson",
+     "Claude Makelele"
+    ],
+    "description": "Denilson booked for a trip on Makelele: 'A bit harsh, perhaps.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=213572 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "yellow card given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2007 Football League Cup final",
+    "minute": "88",
+    "score_at_time": "2-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Arsenal",
+    "players": [
+     "Emmanuel Eboue",
+     "Arjen Robben"
+    ],
+    "description": "Eboue booked for protesting a Chelsea free-kick; he felt Robben had dived.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=213572 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul given / yellow for dissent",
+    "disputed_by": "player (Eboue)"
+   },
+   {
+    "final_id": "2007 Football League Cup final",
+    "minute": "90+6",
+    "score_at_time": "2-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Emmanuel Eboue",
+     "Wayne Bridge"
+    ],
+    "description": "Eboue's violent conduct on Bridge in the brawl went unpunished on the day; FA later charged him (3-match ban) (earlier project research).",
+    "sources": [],
+    "decision": "red card not given",
+    "disputed_by": "FA retrospective action (earlier project research, source not re-read)"
+   }
+  ]
+ },
+ {
+  "final_id": "2007 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=216319 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. Rooney offsides at 14'/39' and Giggs offside at 46' - shots missed or were saved, not in the net.",
+  "events": [
+   {
+    "final_id": "2007 FA Cup final",
+    "minute": "104",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "not over line",
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester United",
+    "players": [
+     "Ryan Giggs",
+     "Petr Cech"
+    ],
+    "description": "Giggs slid in at Rooney's cross; Cech saved and was carried back over the line by Giggs' momentum. 'Giggs tried to claim a goal... And it was over, but only because Giggs' momentum forced Cech back across the line. Probably a foul rather than a goal.' No goal given; play continued (assistant did not signal).",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=216319 (ESPN Soccernet live commentary)"
+    ],
+    "note": "Not a net-bulging goal; United claimed it. Recorded per brief's 'team celebrated/claimed a goal' rule. Earlier research (Gazette/PA) quotes Giggs: 'You saw it go over and the linesman saw it go over'.",
+    "disputed": true,
+    "dispute_note": "Giggs/United claimed the ball crossed the line."
+   },
+   {
+    "final_id": "2007 FA Cup final",
+    "minute": "9",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester United",
+    "players": [
+     "Joe Cole",
+     "Wes Brown"
+    ],
+    "description": "Cole's late sliding tackle on Brown: 'lucky to get a way with just a talking to'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=216319 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "yellow card not given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2007 FA Cup final",
+    "minute": "81",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Chelsea",
+    "players": [
+     "Darren Fletcher"
+    ],
+    "description": "'A clear handball against Fletcher is not given and Chelsea's players and fans are rightly annoyed'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=216319 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "handball not given",
+    "disputed_by": "Chelsea players/fans, journalist (ESPN)"
+   },
+   {
+    "final_id": "2007 FA Cup final",
+    "minute": "83",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester United",
+    "players": [
+     "Claude Makelele",
+     "Paul Scholes"
+    ],
+    "description": "Makelele booked for a foul on Scholes: 'The United players are angry that play was halted by the ref so he could give the booking - they were poised to break'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=216319 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "play stopped for booking (no advantage)",
+    "disputed_by": "Manchester United players"
+   }
+  ]
+ },
+ {
+  "final_id": "2007 FA Community Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=223506 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. Shoot-out not recorded.",
+  "events": [
+   {
+    "final_id": "2007 FA Community Shield",
+    "minute": "73",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester United",
+    "players": [
+     "Nemanja Vidic",
+     "John Obi Mikel"
+    ],
+    "description": "Vidic on the deck under Mikel's challenge: 'A half-hearted appeal for a penalty is waved away by referee Mark Halsey.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=223506 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "Manchester United players"
+   }
+  ]
+ },
+ {
+  "final_id": "2008 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read.",
+  "events": [
+   {
+    "final_id": "2008 Football League Cup final",
+    "minute": "68",
+    "score_at_time": "1-0",
+    "event_type": "penalty awarded",
+    "reason": "handball",
+    "decided_by": "referee (on assistant's signal)",
+    "team_benefiting": "Tottenham Hotspur",
+    "team_against": "Chelsea",
+    "players": [
+     "Wayne Bridge",
+     "Tom Huddlestone",
+     "Dimitar Berbatov"
+    ],
+    "description": "'PENALTY! The linesman has looked at this one for an age as Huddlestone and Bridge tussled'; ESPN 73': 'The ball brushed Bridge's hand twice'. Berbatov scored (70', 1-1).",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283 (ESPN Soccernet live commentary)"
+    ],
+    "outcome": "scored",
+    "disputed": true,
+    "dispute_note": "ESPN: 'a debatable one at best... very, very questionable'."
+   },
+   {
+    "final_id": "2008 Football League Cup final",
+    "minute": "37",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Tottenham Hotspur",
+    "players": [
+     "Ricardo Carvalho",
+     "Jermaine Jenas"
+    ],
+    "description": "Carvalho crashed into Jenas with elbow out: 'can count himself lucky no-one saw'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul/card not given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2008 Football League Cup final",
+    "minute": "38",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Tottenham Hotspur",
+    "players": [
+     "Didier Zokora",
+     "Didier Drogba"
+    ],
+    "description": "Zokora booked after bumping Drogba, 'although the striker did his usual swan dive'; Drogba scored from the free-kick (39').",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "yellow card given (simulation suspected)",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2008 Football League Cup final",
+    "minute": "60",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Tottenham Hotspur",
+    "team_against": "Chelsea",
+    "players": [
+     "Didier Drogba"
+    ],
+    "description": "'Drogba was felled at the start of the move and complains loudly that he should have had a free kick.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul not given",
+    "disputed_by": "player (Drogba)"
+   },
+   {
+    "final_id": "2008 Football League Cup final",
+    "minute": "111",
+    "score_at_time": "1-2",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Tottenham Hotspur",
+    "team_against": "Chelsea",
+    "players": [
+     "Jonathan Woodgate",
+     "Didier Drogba"
+    ],
+    "description": "'I thought Chelsea had been awarded a penalty there but Mark Halsey gives offside before Woodgate wrestled Drogba to the ground! Lucky for the former Boro man.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "offside / penalty not given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2008 Football League Cup final",
+    "minute": "120+3",
+    "score_at_time": "1-2",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Tottenham Hotspur",
+    "team_against": "Chelsea",
+    "players": [
+     "Paul Robinson"
+    ],
+    "description": "Robinson missed a corner 'but Mark Halsey helps him out by awarding a non-existent free kick'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=235283 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "free kick given",
+    "disputed_by": "journalist (ESPN)"
+   }
+  ]
+ },
+ {
+  "final_id": "2008 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=248084 (ESPN Soccernet match data; no commentary)",
+   "https://www.skysports.com/football/man-utd-vs-portsmth/report/1557"
+  ],
+  "notes": "ESPN has only match data (no commentary). Sky Sports match report read but the page text is truncated mid-second-half; no disallowed goal or red card mentioned in what is available (Fletcher chip tipped onto bar, Distin clearance - not goals). Sky: 'Both sides had good penalty appeals turned down' - Portsmouth's appeal not described in the truncated text. Distin and Vidic booked for dissent ('questioned officials' decisions', incidents unspecified). Census NOT complete.",
+  "events": [
+   {
+    "final_id": "2008 FA Community Shield",
+    "minute": "c.70",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Portsmouth",
+    "team_against": "Manchester United",
+    "players": [
+     "Carlos Tevez",
+     "Hermann Hreidarsson"
+    ],
+    "description": "Tevez 'denied a clear penalty after tangling with Herman Hreidarsson just inside the Pompey box' about 20 minutes from time (Hreidarsson pulled him down 'with a firm grip of the ankle').",
+    "sources": [
+     "https://www.skysports.com/football/man-utd-vs-portsmth/report/1557"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "journalist (Sky Sports)"
+   },
+   {
+    "final_id": "2008 FA Community Shield",
+    "minute": null,
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Portsmouth",
+    "players": [],
+    "description": "Sky: 'Both sides had good penalty appeals turned down' - details of Portsmouth's appeal not in the available (truncated) text.",
+    "sources": [
+     "https://www.skysports.com/football/man-utd-vs-portsmth/report/1557"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "journalist (Sky Sports)"
+   }
+  ]
+ },
+ {
+  "final_id": "2009 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=261331 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. Shoot-out not recorded.",
+  "events": [
+   {
+    "final_id": "2009 Football League Cup final",
+    "minute": "36",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Tottenham Hotspur",
+    "team_against": "Manchester United",
+    "players": [
+     "Vedran Corluka",
+     "Nani"
+    ],
+    "description": "'Nani calls for a handball which is not given when Corluka was definitely guilty of grabbing the ball'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=261331 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given (handball)",
+    "disputed_by": "player (Nani), journalist (ESPN)"
+   },
+   {
+    "final_id": "2009 Football League Cup final",
+    "minute": "63",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Tottenham Hotspur",
+    "players": [
+     "John O'Shea",
+     "Luka Modric"
+    ],
+    "description": "'O'Shea is very lucky to still be on the park when he hacks down Modric.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=261331 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "card not given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2009 Football League Cup final",
+    "minute": "66",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Tottenham Hotspur",
+    "team_against": "Manchester United",
+    "players": [
+     "Cristiano Ronaldo",
+     "Ledley King"
+    ],
+    "description": "Ronaldo booked for diving under King's challenge: 'A bit harsh perhaps and the award of a penalty would have been no shock'; Ronaldo spoke to the referee at full time about 'the penalty that wasn't'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=261331 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given / booked for diving",
+    "disputed_by": "player (Ronaldo), journalist (ESPN)"
+   }
+  ]
+ },
+ {
+  "final_id": "2009 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN Soccernet live commentary)",
+   "https://www.skysports.com/football/chelsea-vs-everton/report/19860"
+  ],
+  "notes": "Full ESPN live commentary and Sky Sports match report read.",
+  "events": [
+   {
+    "final_id": "2009 FA Cup final",
+    "minute": "77",
+    "score_at_time": "2-1",
+    "event_type": "goal disallowed",
+    "reason": "not over line",
+    "decided_by": "referee",
+    "team_benefiting": "Everton",
+    "team_against": "Chelsea",
+    "players": [
+     "Florent Malouda"
+    ],
+    "description": "Malouda's long-range shot hit the underside of the bar and bounced down; play waved on. ESPN: 'It was easily over the line, and Malouda has been denied a brilliant goal.' Sky: it 'appeared to bounce over the line'; the officials ruled it had not crossed, though 'TV replays showed it had'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN Soccernet live commentary)",
+     "https://www.skysports.com/football/chelsea-vs-everton/report/19860"
+    ],
+    "note": "ESPN timestamps the shot 78'; earlier research gives 77'. decided_by: referee Webb (with assistant) - not specified which official.",
+    "disputed": true,
+    "dispute_note": "Sky and ESPN both say replays showed it crossed."
+   },
+   {
+    "final_id": "2009 FA Cup final",
+    "minute": "1",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "assistant",
+    "team_benefiting": "Everton",
+    "team_against": "Chelsea",
+    "players": [
+     "Steven Pienaar",
+     "Louis Saha"
+    ],
+    "description": "'Television has just showed that Pienaar was offside in the build-up to the goal.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "offside (goal allowed)",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2009 FA Cup final",
+    "minute": "26",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Everton",
+    "players": [
+     "Michael Essien",
+     "Marouane Fellaini"
+    ],
+    "description": "'Essien is lucky to avoid a booking for a wild tackle on Fellaini.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "yellow card not given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2009 FA Cup final",
+    "minute": "61",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Everton",
+    "players": [
+     "Tim Cahill",
+     "John Obi Mikel"
+    ],
+    "description": "'Everton are unlucky that the free kick goes against them.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "free kick given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2009 FA Cup final",
+    "minute": "63",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Everton",
+    "team_against": "Chelsea",
+    "players": [
+     "John Obi Mikel"
+    ],
+    "description": "'Mikel is booked harshly. Webb has not been consistent in how he's handed out the cards today.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "yellow card given",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2009 FA Cup final",
+    "minute": "84",
+    "score_at_time": "2-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Everton",
+    "team_against": "Chelsea",
+    "players": [
+     "Frank Lampard",
+     "Steven Pienaar"
+    ],
+    "description": "Lampard booked for diving; Sky: 'controversially... booked Lampard for diving when Stephen Pienaar had stuck out a leg for him to fall over'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=266543 (ESPN Soccernet live commentary)",
+     "https://www.skysports.com/football/chelsea-vs-everton/report/19860"
+    ],
+    "decision": "penalty not given / booked for diving",
+    "disputed_by": "journalist (Sky Sports)"
+   }
+  ]
+ },
+ {
+  "final_id": "2009 FA Community Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=275374 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. Shoot-out not recorded.",
+  "events": [
+   {
+    "final_id": "2009 FA Community Shield",
+    "minute": "71",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester United",
+    "players": [
+     "Michael Ballack",
+     "Patrice Evra",
+     "Frank Lampard"
+    ],
+    "description": "Lampard 'scores on contentious circumstances'; 'United are furious that the game was not stopped. The TV replay shows that Ballack purposefully body-checked Evra.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=275374 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul not given (goal allowed)",
+    "disputed_by": "Manchester United players, journalist (ESPN)"
+   }
+  ]
+ },
+ {
+  "final_id": "2010 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=287675 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read.",
+  "events": [
+   {
+    "final_id": "2010 Football League Cup final",
+    "minute": "4",
+    "score_at_time": "0-0",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Aston Villa",
+    "team_against": "Manchester United",
+    "players": [
+     "Nemanja Vidic",
+     "Gabriel Agbonlahor",
+     "James Milner"
+    ],
+    "description": "Vidic lunged in and caught Agbonlahor in the area; Milner scored (5', 1-0).",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=287675 (ESPN Soccernet live commentary)",
+     "https://www.cnn.com/2010/SPORT/football/02/28/football.manchester.utd.cup/index.html"
+    ],
+    "outcome": "scored",
+    "disputed": true,
+    "dispute_note": "Dispute was over the card, not the penalty - see disputed decision."
+   },
+   {
+    "final_id": "2010 Football League Cup final",
+    "minute": "4",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Aston Villa",
+    "players": [
+     "Nemanja Vidic",
+     "Gabriel Agbonlahor"
+    ],
+    "description": "No card for Vidic for the penalty foul: 'No card at all though. Why?'; Villa players protested; 'They will be wondering what might have been had Phil Dowd given Vidic a red card.' CNN: 'Vidic was lucky not to receive a red card'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=287675 (ESPN Soccernet live commentary)",
+     "https://www.cnn.com/2010/SPORT/football/02/28/football.manchester.utd.cup/index.html"
+    ],
+    "decision": "red card not given",
+    "disputed_by": "Aston Villa players, journalists (ESPN, CNN)"
+   },
+   {
+    "final_id": "2010 Football League Cup final",
+    "minute": "39",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "assistant",
+    "team_benefiting": "Aston Villa",
+    "team_against": "Manchester United",
+    "players": [],
+    "description": "'United's players appeal for handball as the ball hits him in the area. The linesman had a good view but said no.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=287675 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given (handball)",
+    "disputed_by": "Manchester United players"
+   },
+   {
+    "final_id": "2010 Football League Cup final",
+    "minute": "81",
+    "score_at_time": "1-2",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Aston Villa",
+    "players": [
+     "Wayne Rooney"
+    ],
+    "description": "'Rooney is accused of handball as the corner hit him in the stomach. Nothing doing'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=287675 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "penalty not given (handball)",
+    "disputed_by": "Aston Villa players"
+   },
+   {
+    "final_id": "2010 Football League Cup final",
+    "minute": "92",
+    "score_at_time": "1-2",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "assistant",
+    "team_benefiting": null,
+    "team_against": null,
+    "players": [],
+    "description": "'The linesman's flag goes up for offside for some reason. Not entirely sure why.' (team not stated)",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=287675 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "offside",
+    "disputed_by": "journalist (ESPN)"
+   }
+  ]
+ },
+ {
+  "final_id": "2010 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=290832 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read. Chelsea hit the woodwork repeatedly; only the Drogba 37' free-kick produced a goal celebration.",
+  "events": [
+   {
+    "final_id": "2010 FA Cup final",
+    "minute": "37",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "not over line",
+    "decided_by": "referee",
+    "team_benefiting": "Portsmouth",
+    "team_against": "Chelsea",
+    "players": [
+     "Didier Drogba"
+    ],
+    "description": "Drogba's 25-yard free kick hit the underside of the bar and bounced down 'as close to over the line as you can get'; Drogba celebrated, no goal given. ESPN: 'I think it wasn't a goal but only just'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=290832 (ESPN Soccernet live commentary)"
+    ],
+    "note": "Possibly just a near miss: commentator believed the ball did NOT fully cross the line. Recorded because Drogba celebrated.",
+    "disputed": false
+   },
+   {
+    "final_id": "2010 FA Cup final",
+    "minute": "53",
+    "score_at_time": "0-0",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Portsmouth",
+    "team_against": "Chelsea",
+    "players": [
+     "Juliano Belletti",
+     "Aruna Dindane",
+     "Kevin-Prince Boateng"
+    ],
+    "description": "Belletti stuck a leg out and brought down Dindane ('Clear penalty'); Boateng's kick saved by Cech's feet (ESPN key events 56').",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=290832 (ESPN Soccernet live commentary)"
+    ],
+    "outcome": "missed (saved)",
+    "disputed": false
+   },
+   {
+    "final_id": "2010 FA Cup final",
+    "minute": "87",
+    "score_at_time": "1-0",
+    "event_type": "penalty awarded",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Portsmouth",
+    "players": [
+     "Michael Brown",
+     "Frank Lampard"
+    ],
+    "description": "'Lampard is tripped by Brown'; Lampard dragged the penalty wide.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=290832 (ESPN Soccernet live commentary)"
+    ],
+    "outcome": "missed (wide)",
+    "disputed": false
+   },
+   {
+    "final_id": "2010 FA Cup final",
+    "minute": "32",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Portsmouth",
+    "players": [
+     "Michael Ballack",
+     "Aruna Dindane"
+    ],
+    "description": "'Ballack slaps Dindane in the face but I don't think the ref saw that. Ballack is lucky.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=290832 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul/card not given",
+    "disputed_by": "Portsmouth players, journalist (ESPN)"
+   }
+  ]
+ },
+ {
+  "final_id": "2010 FA Community Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=296926 (ESPN Soccernet live commentary)"
+  ],
+  "notes": "Full ESPN live commentary read.",
+  "events": [
+   {
+    "final_id": "2010 FA Community Shield",
+    "minute": "51",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "assistant",
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester United",
+    "players": [
+     "Dimitar Berbatov",
+     "Javier Hernandez"
+    ],
+    "description": "Hernandez played in Berbatov, 'who is wrongly flagged offside'.",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=296926 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "offside",
+    "disputed_by": "journalist (ESPN)"
+   },
+   {
+    "final_id": "2010 FA Community Shield",
+    "minute": "64",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Chelsea",
+    "players": [
+     "Florent Malouda",
+     "Nemanja Vidic"
+    ],
+    "description": "'Malouda claims he is shoved in the back by Vidic, but the Serbian gets away with it. Chelsea supporters are enraged.'",
+    "sources": [
+     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=296926 (ESPN Soccernet live commentary)"
+    ],
+    "decision": "foul not given",
+    "disputed_by": "player (Malouda), Chelsea fans"
+   }
+  ]
+ }
+]

@@ -1,0 +1,1081 @@
+[
+ {
+  "final_id": "2011 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=312300"
+  ],
+  "notes": "ESPN editorial live commentary (106 entries) read. No goal disallowed, no penalty, no red card. Bowyer 3' incident: flag raised before he was brought down - no ball in the net, logged only as disputed offside.",
+  "events": [
+   {
+    "final_id": "2011 Football League Cup final",
+    "minute": "3",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": "assistant",
+    "team_benefiting": "Arsenal",
+    "team_against": "Birmingham City",
+    "players": [
+     "Lee Bowyer",
+     "Wojciech Szczesny"
+    ],
+    "description": "Bowyer sent through by Zigic rounded Szczesny and was brought down, but the assistant's flag was up for offside. ESPN commentary: 'Huge controversy!... the flag is raised for offside and Arsenal are saved!'",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=312300"
+    ],
+    "decision": "offside (flag; foul on Bowyer not penalised)",
+    "disputed_by": "journalist (ESPN live commentary)"
+   }
+  ]
+ },
+ {
+  "final_id": "2011 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=316112"
+  ],
+  "notes": "ESPN editorial live commentary (133 entries) read; BBC report blocked for fetching. No disallowed goal, penalty or red card found.",
+  "events": [
+   {
+    "final_id": "2011 FA Cup final",
+    "minute": "15",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Stoke City",
+    "team_against": "Manchester City",
+    "players": [
+     "Robert Huth",
+     "Mario Balotelli"
+    ],
+    "description": "Huth elbowed Balotelli in the throat; no action. ESPN commentary: 'That was a sending off offence but the referee missed it.'",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=316112",
+     "https://www.bbc.co.uk/sport/football/13346941 (per prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "red card not given",
+    "disputed_by": "journalist (ESPN commentary; BBC)"
+   },
+   {
+    "final_id": "2011 FA Cup final",
+    "minute": "30",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Stoke City",
+    "players": [
+     "Kenwyne Jones",
+     "Vincent Kompany"
+    ],
+    "description": "Kenwyne Jones appealed for handball by Kompany; nothing given. ESPN: 'could well have been given as a penalty by some referees'.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=316112"
+    ],
+    "decision": "penalty not given (handball)",
+    "disputed_by": "players (Jones appeal); journalist (ESPN commentary)"
+   }
+  ]
+ },
+ {
+  "final_id": "2011 FA Community Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=323687"
+  ],
+  "notes": "ESPN editorial live commentary (111 entries) read; BBC blocked. 88': Richards header tipped over by De Gea, referee gave a foul - ball did not enter the net, not logged as disallowed goal.",
+  "events": []
+ },
+ {
+  "final_id": "2012 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=337027"
+  ],
+  "notes": "ESPN editorial live commentary (176 entries) read. No disallowed goals (94' Suarez 'almost turns it in. Offside' - not a goal). No penalty in play, no red card.",
+  "events": [
+   {
+    "final_id": "2012 Football League Cup final",
+    "minute": "52",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Cardiff City",
+    "team_against": "Liverpool",
+    "players": [
+     "Luis Suarez"
+    ],
+    "description": "Suarez adamant there was a handball after Adam's deflected shot; not given ('no-one else is interested').",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.league_cup/summary?event=337027"
+    ],
+    "decision": "penalty not given (handball)",
+    "disputed_by": "players (Suarez appeal)"
+   }
+  ]
+ },
+ {
+  "final_id": "2012 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=340950",
+   "http://www.rte.ie/sport/soccer/2012/0505/319795-fa-cup/"
+  ],
+  "notes": "ESPN editorial commentary + RTE report read; BBC blocked.",
+  "events": [
+   {
+    "final_id": "2012 FA Cup final",
+    "minute": "82",
+    "score_at_time": "2-1",
+    "event_type": "goal disallowed",
+    "reason": "not over line",
+    "decided_by": "referee",
+    "team_benefiting": "Chelsea",
+    "team_against": "Liverpool",
+    "players": [
+     "Andy Carroll",
+     "Petr Cech"
+    ],
+    "description": "Carroll's header clawed out by Cech; Carroll/Suarez celebrated believing it crossed the line. RTE: 'Garratt could not signal the goal, so referee Phil Dowd did not give it.' No goal-line technology. (ESPN gives 82', RTE implies ~81'.)",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=340950",
+     "http://www.rte.ie/sport/soccer/2012/0505/319795-fa-cup/"
+    ],
+    "assistant": "Andrew Garratt (could not signal)"
+   },
+   {
+    "final_id": "2012 FA Cup final",
+    "minute": "50",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Chelsea",
+    "team_against": "Liverpool",
+    "players": [
+     "Steven Gerrard",
+     "Branislav Ivanovic"
+    ],
+    "description": "Gerrard ran into Ivanovic and wanted a penalty (ESPN: 'never going to get one').",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=340950"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "player appeal"
+   }
+  ]
+ },
+ {
+  "final_id": "2012 FA Community Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=348159",
+   "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584"
+  ],
+  "notes": "ESPN editorial commentary + Irish Times report read.",
+  "events": [
+   {
+    "final_id": "2012 FA Community Shield",
+    "minute": "42",
+    "score_at_time": "1-0",
+    "event_type": "red card",
+    "reason": "other",
+    "decided_by": "referee",
+    "team_benefiting": "Manchester City",
+    "team_against": "Chelsea",
+    "players": [
+     "Branislav Ivanovic",
+     "Aleksandar Kolarov"
+    ],
+    "description": "Straight red for a two-footed lunging tackle on Kolarov (serious foul play).",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=348159",
+     "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584"
+    ]
+   },
+   {
+    "final_id": "2012 FA Community Shield",
+    "minute": "42",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Chelsea",
+    "players": [
+     "Branislav Ivanovic"
+    ],
+    "description": "Chelsea protested the straight red; ESPN commentator: 'I don't think that is a red card'.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=348159",
+     "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584",
+     "https://www.bbc.co.uk/sport/football/19133978 (per prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "red card given",
+    "disputed_by": "Chelsea players/staff; journalist (ESPN)"
+   },
+   {
+    "final_id": "2012 FA Community Shield",
+    "minute": null,
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Chelsea",
+    "players": [
+     "Stefan Savic",
+     "Fernando Torres"
+    ],
+    "description": "Irish Times: Savic's challenge on Torres, Friend 'chose to see as a free-kick in favour of the Montenegro defender'; ESPN: 'Had Chelsea won the foul, Savic would have been off.'",
+    "sources": [
+     "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=348159"
+    ],
+    "decision": "free kick given wrong way / yellow card not given",
+    "disputed_by": "journalists"
+   },
+   {
+    "final_id": "2012 FA Community Shield",
+    "minute": null,
+    "score_at_time": null,
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Chelsea",
+    "team_against": "Manchester City",
+    "players": [
+     "Ramires",
+     "David Silva"
+    ],
+    "description": "Irish Times: 'Ramires got away with a cynical bodycheck on David Silva that should have brought a second yellow'.",
+    "sources": [
+     "https://www.irishtimes.com/sport/soccer/little-sense-of-community-at-villa-park-1.1077584"
+    ],
+    "decision": "second yellow not given",
+    "disputed_by": "journalist (Irish Times)"
+   }
+  ]
+ },
+ {
+  "final_id": "2013 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=364648"
+  ],
+  "notes": "ESPN editorial commentary (154 entries) read; BBC blocked.",
+  "events": [
+   {
+    "final_id": "2013 FA Cup final",
+    "minute": "84",
+    "score_at_time": "0-0",
+    "event_type": "red card",
+    "reason": "other",
+    "decided_by": "referee",
+    "team_benefiting": "Wigan Athletic",
+    "team_against": "Manchester City",
+    "players": [
+     "Pablo Zabaleta",
+     "Callum McManaman"
+    ],
+    "description": "Second yellow card for a late sliding foul on McManaman.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=364648",
+     "https://www.bbc.co.uk/sport/football/22409634 (per prior project research file (not re-fetched in this pass))"
+    ]
+   },
+   {
+    "final_id": "2013 FA Cup final",
+    "minute": "35",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester City",
+    "team_against": "Wigan Athletic",
+    "players": [
+     "Pablo Zabaleta",
+     "Roger Espinoza"
+    ],
+    "description": "Espinoza went down under Zabaleta's challenge; 'referee Marriner says no penalty'.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=364648"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "Wigan appeal (ESPN commentary)"
+   }
+  ]
+ },
+ {
+  "final_id": "2013 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2014 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.sportsmole.co.uk/football/man-city/league-cup/live-commentary/manchester-city-3-1-sunderland-as-it-happened_142055.html",
+   "https://www.thefa.com/news/2014/mar/02/capital-one-cup-final-match-report",
+   "https://www.skysports.com/football/man-city-vs-sland/report/307826"
+  ],
+  "notes": "Sports Mole live commentary (selective) + TheFA full report read; Sky page is summary only; no ESPN event found. Ki disallowed goal found only in Sports Mole live text (single source).",
+  "events": [
+   {
+    "final_id": "2014 Football League Cup final",
+    "minute": "10",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Manchester City",
+    "team_against": "Sunderland",
+    "players": [
+     "Ki Sung-yueng",
+     "Fabio Borini"
+    ],
+    "description": "Sports Mole: 'Sunderland have the ball in the net, but it doesn't count. It's Ki that turns in Borini's low cross at the back post' - Borini offside. Shortly before Borini's 10' opener.",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/man-city/league-cup/live-commentary/manchester-city-3-1-sunderland-as-it-happened_142055.html"
+    ]
+   },
+   {
+    "final_id": "2014 Football League Cup final",
+    "minute": "39",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Sunderland",
+    "team_against": "Manchester City",
+    "players": [
+     "Fabio Borini",
+     "Vincent Kompany"
+    ],
+    "description": "Borini through on goal from an offside position with no flag; Kompany recovered.",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/man-city/league-cup/live-commentary/manchester-city-3-1-sunderland-as-it-happened_142055.html",
+     "https://www.aljazeera.com/sports/2014/3/3/man-city-fight-back-to-win-league-cup (per prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "offside not given",
+    "disputed_by": "journalist (Sports Mole)"
+   },
+   {
+    "final_id": "2014 Football League Cup final",
+    "minute": "24",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Sunderland",
+    "team_against": "Manchester City",
+    "players": [
+     "Yaya Toure",
+     "Adam Johnson"
+    ],
+    "description": "Toure believed he was fouled by Johnson; 'the official didn't agree'.",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/man-city/league-cup/live-commentary/manchester-city-3-1-sunderland-as-it-happened_142055.html"
+    ],
+    "decision": "foul not given",
+    "disputed_by": "player appeal"
+   }
+  ]
+ },
+ {
+  "final_id": "2014 FA Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "http://www.thefa.com/news/2014/may/17/arsenal-v-hull-city-fa-cup-final-2014-match-report",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=391844"
+  ],
+  "notes": "TheFA full match report + ESPN automated commentary read; nothing disallowed, no penalty, no red card.",
+  "events": [
+   {
+    "final_id": "2014 FA Cup final",
+    "minute": "16-17",
+    "score_at_time": "0-2",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Arsenal",
+    "team_against": "Hull City",
+    "players": [
+     "Santi Cazorla"
+    ],
+    "description": "Steve Bruce said the foul giving Arsenal the free kick for Cazorla's goal was not a free kick.",
+    "sources": [
+     "https://bleacherreport.com/articles/2067041-fa-cup-final-2014-post-match-reaction-from-arsene-wenger-and-steve-bruce (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "free kick given (led to goal)",
+    "disputed_by": "manager (Steve Bruce)"
+   },
+   {
+    "final_id": "2014 FA Cup final",
+    "minute": "70-71",
+    "score_at_time": "1-2",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Arsenal",
+    "team_against": "Hull City",
+    "players": [
+     "Laurent Koscielny"
+    ],
+    "description": "Bruce said the corner from which Koscielny equalised should have been a goal kick.",
+    "sources": [
+     "https://bleacherreport.com/articles/2067041-fa-cup-final-2014-post-match-reaction-from-arsene-wenger-and-steve-bruce (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "corner given (led to goal)",
+    "disputed_by": "manager (Steve Bruce)"
+   }
+  ]
+ },
+ {
+  "final_id": "2014 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=400444",
+   "https://www.sportsmole.co.uk/football/arsenal/result/arsenal-ease-to-community-shield-victory_170467.html",
+   "https://www.thefa.com/news/2014/aug/10/arsene-wenger-buoyant-after-community-shield-win"
+  ],
+  "notes": "Only ESPN automated commentary ('Offside called on...' lines, which would not flag a ball in the net), a condensed Sports Mole report and a TheFA reaction piece available; BBC/Guardian blocked. No disallowed goal, penalty or red card found, but census not confirmed complete.",
+  "events": [
+   {
+    "final_id": "2014 FA Community Shield",
+    "minute": "14",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Arsenal",
+    "team_against": "Manchester City",
+    "players": [
+     "Samir Nasri",
+     "Mathieu Debuchy"
+    ],
+    "description": "City claimed a penalty when Nasri's shot struck Debuchy; Oliver judged it hit his chest.",
+    "sources": [
+     "https://www.espn.co.uk/football/match/_/gameId/400444 (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "penalty not given (handball)",
+    "disputed_by": "Manchester City players"
+   }
+  ]
+ },
+ {
+  "final_id": "2015 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "http://www.thefa.com/news/2015/mar/01/chelsea-shut-out-tottenham-hotspur-in-capital-one-cup-final",
+   "https://www.sportsmole.co.uk/football/chelsea/league-cup/live-commentary/chelsea-2-0-spurs-as-it-happened_208483.html"
+  ],
+  "notes": "TheFA full report + Sports Mole live text read; no ESPN event found.",
+  "events": [
+   {
+    "final_id": "2015 Football League Cup final",
+    "minute": "c.28",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Chelsea",
+    "team_against": "Tottenham Hotspur",
+    "players": [
+     "Diego Costa",
+     "Nabil Bentaleb"
+    ],
+    "description": "Costa's hand in Bentaleb's face; 'Referee Anthony Taylor deemed it accidental', Spurs angry.",
+    "sources": [
+     "http://www.thefa.com/news/2015/mar/01/chelsea-shut-out-tottenham-hotspur-in-capital-one-cup-final"
+    ],
+    "decision": "red card not given",
+    "disputed_by": "Tottenham players"
+   },
+   {
+    "final_id": "2015 Football League Cup final",
+    "minute": "45",
+    "score_at_time": "1-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Tottenham Hotspur",
+    "team_against": "Chelsea",
+    "players": [
+     "Eric Dier",
+     "Diego Costa"
+    ],
+    "description": "Sports Mole: Dier 'could easily have picked up a second yellow card'.",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/chelsea/league-cup/live-commentary/chelsea-2-0-spurs-as-it-happened_208483.html"
+    ],
+    "decision": "second yellow not given",
+    "disputed_by": "journalist (Sports Mole)"
+   }
+  ]
+ },
+ {
+  "final_id": "2015 FA Cup final",
+  "census_complete": false,
+  "census_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=419663",
+   "https://thescore.com/epl/news/772516"
+  ],
+  "notes": "Only ESPN automated commentary and a theScore live blog (via search snippet) available; BBC/Guardian blocked. Sources differ on who was offside for the 56' header (theScore: Sanchez; ESPN feed records 'Offside called on Theo Walcott' at 56').",
+  "events": [
+   {
+    "final_id": "2015 FA Cup final",
+    "minute": "56",
+    "score_at_time": "2-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Aston Villa",
+    "team_against": "Arsenal",
+    "players": [
+     "Alexis Sanchez",
+     "Theo Walcott",
+     "Aaron Ramsey"
+    ],
+    "description": "Alexis Sanchez headed a Ramsey cross into the net but the goal was ruled out for offside (theScore). ESPN feed: 'Offside called on Theo Walcott' at 56'. decided_by assumed assistant (flag) - not explicitly stated.",
+    "sources": [
+     "https://thescore.com/epl/news/772516",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=419663"
+    ]
+   }
+  ]
+ },
+ {
+  "final_id": "2015 FA Community Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.thefa.com/news/2015/aug/02/chelsea-v-arsenal-fa-community-shield-match-report",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=432389"
+  ],
+  "notes": "TheFA full report + ESPN/Opta commentary read. Nothing disallowed; no penalty; no red card.",
+  "events": []
+ },
+ {
+  "final_id": "2016 Football League Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/liverpool-vs-man-city/report/354154",
+   "https://www.sportsmole.co.uk/football/liverpool/league-cup/result/man-city-win-league-cup-on-penalties_267425.html"
+  ],
+  "notes": "Sky Sports and Sports Mole full reports read; no ESPN event found. Nothing disallowed, no penalty in play, no red card.",
+  "events": [
+   {
+    "final_id": "2016 Football League Cup final",
+    "minute": "c.60-62",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Liverpool",
+    "team_against": "Manchester City",
+    "players": [
+     "Sergio Aguero",
+     "Alberto Moreno"
+    ],
+    "description": "Sports Mole: Moreno 'surviving a strong penalty shout when Aguero cut inside and went over his dangling leg'; Sky: 'City felt they should have had a penalty'.",
+    "sources": [
+     "https://www.skysports.com/football/liverpool-vs-man-city/report/354154",
+     "https://www.sportsmole.co.uk/football/liverpool/league-cup/result/man-city-win-league-cup-on-penalties_267425.html"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "Manchester City; journalists"
+   }
+  ]
+ },
+ {
+  "final_id": "2016 FA Cup final",
+  "census_complete": false,
+  "census_sources": [
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=447968",
+   "https://www.sportsmole.co.uk/football/man-utd/fa-cup/news/pardew-disappointed-by-referee-display_273226.html"
+  ],
+  "notes": "ESPN/Opta commentary (167 entries) + Sports Mole reaction read; BBC/Guardian blocked. The ball going in after the whistle for the Wickham incident is from the BBC report as recorded by prior research; Sports Mole confirms play was pulled back for a foul as Wickham bore down on goal.",
+  "events": [
+   {
+    "final_id": "2016 FA Cup final",
+    "minute": "17",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "whistle before goal",
+    "decided_by": "referee",
+    "team_benefiting": "Manchester United",
+    "team_against": "Crystal Palace",
+    "players": [
+     "Connor Wickham",
+     "Chris Smalling"
+    ],
+    "description": "Smalling fouled Wickham, who got up and put the ball past De Gea, but Clattenburg had already whistled for the foul instead of playing advantage (Smalling booked).",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/man-utd/fa-cup/news/pardew-disappointed-by-referee-display_273226.html",
+     "https://www.bbc.co.uk/sport/football/36292265 (prior project research file (not re-fetched in this pass))"
+    ]
+   },
+   {
+    "final_id": "2016 FA Cup final",
+    "minute": "105",
+    "score_at_time": "1-1",
+    "event_type": "red card",
+    "reason": "other",
+    "decided_by": "referee",
+    "team_benefiting": "Crystal Palace",
+    "team_against": "Manchester United",
+    "players": [
+     "Chris Smalling",
+     "Yannick Bolasie"
+    ],
+    "description": "Second yellow card for a foul on Bolasie.",
+    "sources": [
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.fa/summary?event=447968",
+     "https://www.sportsmole.co.uk/football/man-utd/fa-cup/news/pardew-disappointed-by-referee-display_273226.html"
+    ]
+   },
+   {
+    "final_id": "2016 FA Cup final",
+    "minute": "17",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Crystal Palace",
+    "players": [
+     "Connor Wickham"
+    ],
+    "description": "Pardew: 'To be pulled back was really harsh'.",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/man-utd/fa-cup/news/pardew-disappointed-by-referee-display_273226.html"
+    ],
+    "decision": "advantage not played (whistle before goal)",
+    "disputed_by": "manager (Alan Pardew)"
+   },
+   {
+    "final_id": "2016 FA Cup final",
+    "minute": "c.20-25",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Crystal Palace",
+    "players": [
+     "Wayne Rooney",
+     "Wilfried Zaha"
+    ],
+    "description": "Pardew: 'I do think the Rooney tackle on Wilf was a penalty.'",
+    "sources": [
+     "https://www.sportsmole.co.uk/football/man-utd/fa-cup/news/pardew-disappointed-by-referee-display_273226.html"
+    ],
+    "decision": "penalty not given",
+    "disputed_by": "manager (Alan Pardew)"
+   }
+  ]
+ },
+ {
+  "final_id": "2016 FA Community Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.thefa.com/news/2016/aug/07/leicester-city-manchester-united-report-070816",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=457291"
+  ],
+  "notes": "TheFA report + ESPN/Opta commentary read. Nothing disallowed, no penalty, no red card.",
+  "events": [
+   {
+    "final_id": "2016 FA Community Shield",
+    "minute": "83",
+    "score_at_time": "1-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Leicester City",
+    "players": [
+     "Zlatan Ibrahimovic"
+    ],
+    "description": "PA report on ESPN noted 'question marks over whether he was offside' for the winning header.",
+    "sources": [
+     "https://www.espn.co.uk/football/match/_/gameId/457291 (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "offside not given (goal allowed)",
+    "disputed_by": "journalist (PA)"
+   },
+   {
+    "final_id": "2016 FA Community Shield",
+    "minute": "after 71",
+    "score_at_time": null,
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Leicester City",
+    "players": [
+     "Eric Bailly"
+    ],
+    "description": "BBC: Bailly 'could easily have had a second yellow card for another clumsy challenge'.",
+    "sources": [
+     "https://www.bbc.co.uk/sport/football/36934956 (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "second yellow not given",
+    "disputed_by": "journalist (BBC)"
+   }
+  ]
+ },
+ {
+  "final_id": "2017 EFL Cup final",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/man-utd-vs-soton/report/369891",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=473236"
+  ],
+  "notes": "Sky Sports full report + ESPN/Opta commentary read.",
+  "events": [
+   {
+    "final_id": "2017 EFL Cup final",
+    "minute": "11",
+    "score_at_time": "0-0",
+    "event_type": "goal disallowed",
+    "reason": "offside",
+    "decided_by": "assistant",
+    "team_benefiting": "Manchester United",
+    "team_against": "Southampton",
+    "players": [
+     "Manolo Gabbiadini",
+     "Cedric Soares"
+    ],
+    "description": "Gabbiadini finished Cedric's low cross but was adjudged offside (Sky: 'Saints had the ball in the net on 11 minutes'). ESPN feed: 11' Gabbiadini caught offside.",
+    "sources": [
+     "https://www.skysports.com/football/man-utd-vs-soton/report/369891",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=473236",
+     "https://www.skysports.com/football/news/11095/10783832/ref-watch-linesman-acted-too-fast-for-manolo-gabbiadini-offside-call-and-jesse-lingard-should-see-red (prior project research file (not re-fetched in this pass))"
+    ]
+   },
+   {
+    "final_id": "2017 EFL Cup final",
+    "minute": "11",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Southampton",
+    "players": [
+     "Manolo Gabbiadini"
+    ],
+    "description": "Sky report: Southampton 'wrongly had an early goal disallowed'; Saints angry.",
+    "sources": [
+     "https://www.skysports.com/football/man-utd-vs-soton/report/369891"
+    ],
+    "decision": "offside (goal disallowed)",
+    "disputed_by": "journalist (Sky); Southampton"
+   },
+   {
+    "final_id": "2017 EFL Cup final",
+    "minute": "c.39-40",
+    "score_at_time": "2-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Southampton",
+    "team_against": "Manchester United",
+    "players": [
+     "Jack Stephens",
+     "Antonio Valencia"
+    ],
+    "description": "Referee showed a yellow card 'despite protestations from the United players'.",
+    "sources": [
+     "https://www.skysports.com/football/man-utd-vs-soton/report/369891"
+    ],
+    "decision": "yellow not red",
+    "disputed_by": "Manchester United players"
+   },
+   {
+    "final_id": "2017 EFL Cup final",
+    "minute": "second half",
+    "score_at_time": null,
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Manchester United",
+    "team_against": "Southampton",
+    "players": [
+     "Jesse Lingard",
+     "Nathan Redmond"
+    ],
+    "description": "Lingard (booked) clipped Redmond; Marriner played advantage and no second yellow.",
+    "sources": [
+     "https://www.skysports.com/football/news/11095/10783832/ref-watch-linesman-acted-too-fast-for-manolo-gabbiadini-offside-call-and-jesse-lingard-should-see-red (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "second yellow not given",
+    "disputed_by": "pundit (Sky Ref Watch)"
+   }
+  ]
+ },
+ {
+  "final_id": "2017 FA Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2017 FA Community Shield",
+  "census_complete": true,
+  "census_sources": [
+   "https://www.skysports.com/football/arsenal-vs-chelsea/report/373477",
+   "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=480906"
+  ],
+  "notes": "Sky full report + ESPN/Opta commentary read. No ball in the net disallowed.",
+  "events": [
+   {
+    "final_id": "2017 FA Community Shield",
+    "minute": "80",
+    "score_at_time": "0-1",
+    "event_type": "red card",
+    "reason": "foul",
+    "decided_by": "referee",
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Pedro",
+     "Mohamed Elneny"
+    ],
+    "description": "Straight red for a late challenge catching Elneny's Achilles.",
+    "sources": [
+     "https://www.skysports.com/football/arsenal-vs-chelsea/report/373477",
+     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.charity/summary?event=480906"
+    ]
+   },
+   {
+    "final_id": "2017 FA Community Shield",
+    "minute": "c.37",
+    "score_at_time": "0-0",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Willian",
+     "Hector Bellerin"
+    ],
+    "description": "Willian booked for diving after Bellerin's challenge; Sky: 'replays showed there to be contact before the Brazilian clipped his own heels'; Conte complained.",
+    "sources": [
+     "https://www.skysports.com/football/arsenal-vs-chelsea/report/373477"
+    ],
+    "decision": "penalty not given / booked for simulation",
+    "disputed_by": "manager (Conte); journalist"
+   },
+   {
+    "final_id": "2017 FA Community Shield",
+    "minute": "80",
+    "score_at_time": "0-1",
+    "event_type": "disputed decision",
+    "reason": null,
+    "decided_by": null,
+    "team_benefiting": "Arsenal",
+    "team_against": "Chelsea",
+    "players": [
+     "Pedro"
+    ],
+    "description": "Conte was 'a bit angry' about the dismissal.",
+    "sources": [
+     "https://www.skysports.com/football/news/11668/10977716/antonio-conte-sees-red-over-chelsea-dismissals-against-arsenal (prior project research file (not re-fetched in this pass))"
+    ],
+    "decision": "red card given",
+    "disputed_by": "manager (Conte)"
+   }
+  ]
+ },
+ {
+  "final_id": "2018 EFL Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2018 FA Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2018 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2019 EFL Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2019 FA Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2019 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2020 EFL Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2020 FA Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2020 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2021 EFL Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2021 FA Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2021 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2022 EFL Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2022 FA Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2022 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2023 EFL Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2023 FA Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2023 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2024 EFL Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2024 FA Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2025 EFL Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2025 FA Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2025 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2026 EFL Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2026 FA Cup final",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ },
+ {
+  "final_id": "2026 FA Community Shield",
+  "census_complete": false,
+  "census_sources": [],
+  "notes": "NOT YET RESEARCHED",
+  "events": []
+ }
+]
