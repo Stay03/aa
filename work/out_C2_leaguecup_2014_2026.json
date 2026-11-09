@@ -930,6 +930,235 @@
   ]
  },
  {
+  "article": "2019 EFL Cup final",
+  "date": "2019-02-24",
+  "competition": "League Cup",
+  "season": "2018-19",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Manchester City",
+  "score_90": "0-0",
+  "score_aet": "0-0",
+  "shootout": "3-4",
+  "winner": "Manchester City",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.tntsports.co.uk/football/league-cup/2018-2019/football-news-man-city-lift-cup-on-penalties-after-astonishing-drama-between-kepa-and-sarri_sto7159154/story.shtml"
+  ],
+  "core_verified": false,
+  "referee": "Jon Moss",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - West Riding County FA",
+  "referee_sources": [
+   "Wikipedia only, citing EFL officials announcement (https://www.efl.com/news/2019/february/carabao-cup-final-match-officials-named/) - EFL page not readable"
+  ],
+  "assistants": "Andy Halliday; Marc Perry (Wikipedia only)",
+  "fourth_official": "Paul Tierney (Wikipedia only)",
+  "var_officials": "VAR: Martin Atkinson; AVAR: Steve Child (Wikipedia only)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.tntsports.co.uk/football/league-cup/2018-2019/football-news-man-city-lift-cup-on-penalties-after-astonishing-drama-between-kepa-and-sarri_sto7159154/story.shtml"
+  ],
+  "manager1": "Maurizio Sarri",
+  "manager2": "Pep Guardiola",
+  "goals": [],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "David Luiz",
+    "minute": "30",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Fernandinho",
+    "minute": "58",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Antonio Rüdiger",
+    "minute": "72",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Jorginho",
+    "minute": "88",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Nicolás Otamendi",
+    "minute": "90+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "Wikipedia lineup extraction only - not independently verified"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Not found (BBC/Guardian/Telegraph/Standard blocked; TNT 'Key Stats' section empty)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "TNT Sports (Eurosport) report only; web-search budget exhausted before this match, and BBC/Guardian/Telegraph/Standard/MEN/Sky News are not fetchable. TNT: Agüero's 56' goal ruled out for (marginal) offside after VAR review - not described as wrong. Kepa's refusal to be substituted is not a refereeing decision. Expert-review search NOT done.",
+  "uncertain": [
+   "core_verified=false: only one non-Wikipedia source (TNT/Eurosport report, confirming Wembley, 0-0 after 120 min, City 4-3 on penalties, Agüero scored, Sané saved, David Luiz hit post, Sterling scored winner) could be fetched; date inferred from its 24/02/2019 publication.",
+   "Officials (incl. VAR Martin Atkinson) and all bookings from Wikipedia only; not verified.",
+   "Shootout per Wikipedia: Chelsea - Jorginho saved, Azpilicueta scored, Emerson scored, David Luiz missed (post), Hazard scored; City - Gündoğan scored, Agüero scored, Sané saved, Bernardo Silva scored, Sterling scored. TNT confirms the parts noted above.",
+   "Kepa reportedly had cramp/possible hamstring issue; he had missed the previous Europa League match (TNT).",
+   "Absences, odds, stats not researched (search budget exhausted).",
+   "GLT: no source found."
+  ]
+ },
+ {
+  "article": "2020 EFL Cup final",
+  "date": "2020-03-01",
+  "competition": "League Cup",
+  "season": "2019-20",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Aston Villa",
+  "team2": "Manchester City",
+  "score_90": "1-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester City",
+  "decided_by": "normal time",
+  "core_sources": [],
+  "core_verified": false,
+  "referee": "Lee Mason",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Lancashire FA",
+  "referee_sources": [
+   "Wikipedia only, citing EFL officials announcement and the-ra.org - neither readable by this agent"
+  ],
+  "assistants": "Ian Hussin; Harry Lennard (Wikipedia only)",
+  "fourth_official": "David Coote (Wikipedia only)",
+  "var_officials": "VAR: Mike Dean; AVAR: Neil Davies (Wikipedia only)",
+  "var_in_use": null,
+  "glt_in_use": null,
+  "officials_sources": [],
+  "manager1": "Dean Smith",
+  "manager2": "Pep Guardiola",
+  "goals": [
+   {
+    "team": "Manchester City",
+    "player": "Sergio Agüero",
+    "minute": "20",
+    "type": "unknown"
+   },
+   {
+    "team": "Manchester City",
+    "player": "Rodri",
+    "minute": "30",
+    "type": "header"
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Mbwana Samatta",
+    "minute": "41",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester City",
+    "player": "Raheem Sterling",
+    "minute": "57",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Rodri",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Ahmed Elmohamady",
+    "minute": "68",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Marvelous Nakamba",
+    "minute": "72",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Aston Villa",
+    "player": "Tyrone Mings",
+    "minute": "90+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "Wikipedia lineup extraction only - not independently verified"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Not found."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "NOT DONE: the shared web-search budget was exhausted before this match, and every cited report URL (BBC, Guardian, Telegraph, Independent, Metro) is blocked for this agent. Nothing could be checked.",
+  "uncertain": [
+   "ENTIRE RECORD UNVERIFIED: all values come from the Wikipedia extraction (team names, score, scorers, cards, officials). No independent source was fetched. Needs a follow-up pass.",
+   "Goal types: Agüero header? / Rodri header from corner / Samatta header - from memory-level knowledge, not sourced; Agüero set to 'unknown'.",
+   "var_in_use set null (Wikipedia lists VAR officials, and VAR was used in the competition from the 2019-20 season, but no fetched source confirms).",
+   "GLT: no source found."
+  ]
+ },
+ {
   "article": "2021 EFL Cup final",
   "date": "2021-04-25",
   "competition": "League Cup",
@@ -1307,6 +1536,149 @@
    "Rashford's goal took a deflection off Sven Botman; Sky credits Rashford (some early reports gave it as a Botman own goal) - not resolved.",
    "Absences not researched (search budget exhausted): e.g. Newcastle goalkeeper Nick Pope was reportedly suspended (Karius started per Sky lineup) and United were reportedly without Christian Eriksen/Anthony Martial - unverified, so not recorded in lists.",
    "Odds and stats not found.",
+   "GLT: no source found."
+  ]
+ },
+ {
+  "article": "2024 EFL Cup final",
+  "date": "2024-02-25",
+  "competition": "League Cup",
+  "season": "2023-24",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Liverpool",
+  "score_90": "0-0",
+  "score_aet": "0-1",
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "extra time",
+  "core_sources": [
+   "https://sportsbrief.com/football/59890-virgil-van-dijk-big-game-vvd-shows-liverpool-motm-display-carabao-cup-final/"
+  ],
+  "core_verified": false,
+  "referee": "Chris Kavanagh",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England)",
+  "referee_sources": [
+   "Wikipedia only, citing EFL appointments (https://www.efl.com/news/2024/february/14/referee-appointments--carabao-cup-final-2024/) - not readable"
+  ],
+  "assistants": "Mark Scholes; James Mainwaring (Wikipedia only)",
+  "fourth_official": "Tim Robinson (Wikipedia only)",
+  "var_officials": "VAR: John Brooks; AVAR: Marc Perry (Wikipedia only)",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "Wikipedia (VAR use corroborated by Wikipedia's account of a VAR-disallowed goal; not independently fetched)"
+  ],
+  "manager1": "Mauricio Pochettino",
+  "manager2": "Jürgen Klopp",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "Virgil van Dijk",
+    "minute": "118",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Ben Chilwell",
+    "minute": "45+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Conor Bradley",
+    "minute": "45+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Alexis Mac Allister",
+    "minute": "81",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Ibrahima Konaté",
+    "minute": "82",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "James McConnell",
+    "minute": "107",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Cole Palmer",
+    "minute": "120+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Joe Gomez",
+    "minute": "120+3",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [
+   "Wikipedia lineup extraction only (count 2-5 matches Wikipedia stats table citing The Athletic) - not independently verified"
+  ],
+  "stats": {
+   "shots1": 19,
+   "shots2": 24,
+   "sot1": 9,
+   "sot2": 11,
+   "poss1": 46,
+   "poss2": 54,
+   "fouls1": 14,
+   "fouls2": 21,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.nytimes.com/athletic/live-blogs/chelsea-liverpool-live-updates-carabao-cup-final-score-result/kK608FIecHhr/",
+   "xg_source": null,
+   "note": "From Wikipedia's statistics table citing The Athletic live blog; The Athletic not fetchable, so NOT independently verified. Includes extra time."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Alisson (muscle)",
+    "Trent Alexander-Arnold (injury)",
+    "Joël Matip (ACL)",
+    "Diogo Jota (knee)",
+    "Curtis Jones (ankle)",
+    "Thiago Alcântara (muscle)",
+    "Stefan Bajčetić (injury)",
+    "Ben Doak (injury)",
+    "Mohamed Salah (doubt pre-match; did not play per Wikipedia)",
+    "Darwin Núñez (doubt pre-match; did not play per Wikipedia)",
+    "Dominik Szoboszlai (doubt pre-match; did not play per Wikipedia)"
+   ],
+   "sources": [
+    "https://www.90min.com/posts/liverpool-injuries-every-player-out-of-carabao-cup-final-vs-chelsea"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "NOT DONE properly: web-search budget exhausted; BBC/Guardian/Athletic/ESPN unreadable. Wikipedia describes a 60' Van Dijk header disallowed by VAR (Endo, from an offside position, judged to be blocking Levi Colwill) - a likely candidate for a contested decision (match decided by one goal) that needs checking against PGMOL KMI / expert sources. Not recorded because no reputable source describing it as disputed was fetched.",
+  "uncertain": [
+   "core_verified=false: only Wikipedia plus a weak source (sportsbrief: Van Dijk extra-time winner after Liverpool kept Chelsea out for 120 min) confirm the result.",
+   "Officials, cards, stats all from Wikipedia - unverified.",
+   "Possible contested decision (Van Dijk 60' VAR-disallowed goal at 0-0) not assessed - see contested_search_done.",
+   "Chelsea absentees not researched.",
+   "Odds not researched.",
    "GLT: no source found."
   ]
  },
