@@ -1052,6 +1052,265 @@
   ]
  },
  {
+  "article": "2022 EFL Cup final",
+  "date": "2022-02-27",
+  "competition": "League Cup",
+  "season": "2021-22",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Chelsea",
+  "team2": "Liverpool",
+  "score_90": "0-0",
+  "score_aet": "0-0",
+  "shootout": "10-11",
+  "winner": "Liverpool",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/462566",
+   "https://www.skysports.com/football/chelsea-vs-liverpool/report/462566",
+   "https://www.skysports.com/football/news/13866/12555457/liverpool-beating-chelsea-in-carabao-cup-final-watched-by-over-4m-people-sky-sports-highest-league-cup-final-viewing-figures-on-record",
+   "https://sportsbrief.com/football/59890-virgil-van-dijk-big-game-vvd-shows-liverpool-motm-display-carabao-cup-final/"
+  ],
+  "core_verified": false,
+  "referee": "Stuart Attwell",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Birmingham County FA",
+  "referee_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/462566",
+   "Wikipedia citing EFL (https://www.efl.com/news/2022/february/carabao-cup-final-match-officials/) - not readable"
+  ],
+  "assistants": "Dan Cook; Dan Robathan",
+  "fourth_official": "Andy Madley",
+  "var_officials": "VAR: Darren England; AVAR: Simon Bennett",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/462566"
+  ],
+  "manager1": "Thomas Tuchel",
+  "manager2": "Jürgen Klopp",
+  "goals": [],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Mateo Kovačić",
+    "minute": "90",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "N'Golo Kanté",
+    "minute": "99",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Kai Havertz",
+    "minute": "105+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Trent Alexander-Arnold",
+    "minute": "105+2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/chelsea-vs-liverpool/teams/462566"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Not found; Sky stats page only gives saves (6-4) and interceptions (23-10)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [
+    "Thiago Alcântara (withdrew injured in warm-up; replaced by Naby Keïta)"
+   ],
+   "sources": [
+    "https://www.skysports.com/football/chelsea-vs-liverpool/report/462566"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "Sky Sports report and teams page only (web-search budget exhausted; BBC/Guardian/Telegraph blocked). Sky report describes VAR ruling out Matip's 69' header (Van Dijk offside and impeding Reece James), and offside disallowing goals by Lukaku (extra time) and Havertz, without calling any decision wrong. No expert review (Ref Watch/KMI) was found or searched, so none recorded; the Matip VAR decision is a candidate that should be checked.",
+  "uncertain": [
+   "core_verified=false: only Sky Sports fetched in detail (plus a weak sportsbrief article confirming Liverpool won after 120 minutes, Van Dijk scored in shootout); no second strong independent source obtained.",
+   "Contested-decision research incomplete (see contested_search_done).",
+   "Absences, odds and stats not researched beyond Sky (search budget exhausted).",
+   "Havertz and Kanté booking minutes: Sky gives Havertz 107 (105+2).",
+   "GLT: no source found."
+  ]
+ },
+ {
+  "article": "2023 EFL Cup final",
+  "date": "2023-02-26",
+  "competition": "League Cup",
+  "season": "2022-23",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Manchester United",
+  "team2": "Newcastle United",
+  "score_90": "2-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.skysports.com/football/manchester-united-vs-newcastle-united/teams/481140",
+   "https://www.skysports.com/football/manchester-united-vs-newcastle-united/report/481140",
+   "https://www.efl.com/news/2023/february/manchester-united-lift-the-carabao-cup-at-wembley/"
+  ],
+  "core_verified": false,
+  "referee": "David Coote",
+  "referee_nationality": "English",
+  "referee_association": "The FA (England) - Nottinghamshire FA",
+  "referee_sources": [
+   "https://www.skysports.com/football/manchester-united-vs-newcastle-united/teams/481140",
+   "Wikipedia citing EFL (https://www.efl.com/news/2023/february/carabao-cup-final-2023-referee-appointments/) - not readable"
+  ],
+  "assistants": "Nick Hopton; Tim Wood",
+  "fourth_official": "Simon Hooper",
+  "var_officials": "VAR: Peter Bankes; AVAR: Eddie Smart",
+  "var_in_use": true,
+  "glt_in_use": null,
+  "officials_sources": [
+   "https://www.skysports.com/football/manchester-united-vs-newcastle-united/teams/481140"
+  ],
+  "manager1": "Erik ten Hag",
+  "manager2": "Eddie Howe",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Casemiro",
+    "minute": "33",
+    "type": "header"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Marcus Rashford",
+    "minute": "39",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester United",
+    "player": "Diogo Dalot",
+    "minute": "9",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Fred",
+    "minute": "37",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Joelinton",
+    "minute": "45+6",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Sven Botman",
+    "minute": "67",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "David de Gea",
+    "minute": "84",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Casemiro",
+    "minute": "87",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Luke Shaw",
+    "minute": "90+1",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Lisandro Martínez",
+    "minute": "90+6",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Newcastle United",
+    "player": "Fabian Schär",
+    "minute": "90+6",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.skysports.com/football/manchester-united-vs-newcastle-united/teams/481140"
+  ],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "Not found; Sky stats page only gives saves (2-8) and interceptions (11-5)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "Sky Sports report and teams page only (web-search budget exhausted). Sky report: VAR checked Casemiro's goal for offside and he was ruled narrowly onside; not described as controversial. No other incidents found; expert-review search not done.",
+  "uncertain": [
+   "core_verified=false: Sky Sports (report + lineup) plus an EFL page whose readable content was only the headline 'Manchester United lift the Carabao Cup at Wembley!' (26 Feb 2023); score not confirmed by a second independent outlet.",
+   "Rashford's goal took a deflection off Sven Botman; Sky credits Rashford (some early reports gave it as a Botman own goal) - not resolved.",
+   "Absences not researched (search budget exhausted): e.g. Newcastle goalkeeper Nick Pope was reportedly suspended (Karius started per Sky lineup) and United were reportedly without Christian Eriksen/Anthony Martial - unverified, so not recorded in lists.",
+   "Odds and stats not found.",
+   "GLT: no source found."
+  ]
+ },
+ {
   "article": "2025 EFL Cup final",
   "date": "2025-03-16",
   "competition": "League Cup",

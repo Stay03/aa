@@ -1,5 +1,1511 @@
 [
  {
+  "article": "1999 UEFA Champions League final",
+  "date": "1999-05-26",
+  "competition": "UEFA Champions League",
+  "season": "1998-99",
+  "venue": "Camp Nou",
+  "city": "Barcelona",
+  "team1": "Manchester United",
+  "team2": "Bayern Munich",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Manchester United",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.rsssf.org/ec/ec199899.html",
+   "https://www.tntsports.co.uk/football/champions-league/2018-2019/manchester-united-and-the-1998-99-treble-that-night-in-barcelona_sto7286033/",
+   "https://www.uefa.com/uefachampionsleague/news/01e8-0e6a21aa8a51-871133889c58-1000--1998-99-manchester-united-fc-2-1-fc-bayern-munchen-report/"
+  ],
+  "core_verified": true,
+  "referee": "Pierluigi Collina",
+  "referee_nationality": "Italian",
+  "referee_association": "FIGC (Italy)",
+  "referee_sources": [
+   "https://www.rsssf.org/ec/ec199899.html",
+   "https://www.tntsports.co.uk/football/champions-league/2018-2019/manchester-united-and-the-1998-99-treble-that-night-in-barcelona_sto7286033/"
+  ],
+  "assistants": "Gennaro Mazzei; Claudio Puglisi (both Italian)",
+  "fourth_official": "Fiorenzo Treossi (Italy)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.rsssf.org/ec/ec199899.html",
+   "https://www.uefa.com/uefaeuropaleague/news/newsid=2365654.html"
+  ],
+  "manager1": "Alex Ferguson",
+  "manager2": "Ottmar Hitzfeld",
+  "goals": [
+   {
+    "team": "Bayern Munich",
+    "player": "Mario Basler",
+    "minute": "6",
+    "type": "free kick"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Teddy Sheringham",
+    "minute": "90+1",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Ole Gunnar Solskjær",
+    "minute": "90+3",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Bayern Munich",
+    "player": "Stefan Effenberg",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": false,
+  "cards_sources": [],
+  "stats": {
+   "shots1": null,
+   "shots2": null,
+   "sot1": null,
+   "sot2": null,
+   "poss1": null,
+   "poss2": null,
+   "fouls1": null,
+   "fouls2": null,
+   "xg1": null,
+   "xg2": null,
+   "source": null,
+   "xg_source": null,
+   "note": "No UEFA Full Time Report PDF exists for 1999 and BBC was unreachable; no stats recorded."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Roy Keane (suspension)",
+    "Paul Scholes (suspension)",
+    "Henning Berg (injury)"
+   ],
+   "team2": [],
+   "sources": [
+    "https://www.tntsports.co.uk/football/champions-league/2018-2019/manchester-united-and-the-1998-99-treble-that-night-in-barcelona_sto7286033/",
+    "https://www.uefa.com/uefachampionsleague/news/01e8-0e6a21aa8a51-871133889c58-1000--1998-99-manchester-united-fc-2-1-fc-bayern-munchen-report/"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA.com report, Eurosport/TNT retrospective, RSSSF, Wikipedia prose (only routine Jancker offside flags mentioned). No disputed decisions documented. BBC and Telegraph (Collina interview) could not be fetched.",
+  "uncertain": [
+   "Cards: only Effenberg's 60' booking is known, and only from Wikipedia's lineup table; no non-Wikipedia card source could be opened, so cards_complete=false and cards_sources is empty.",
+   "Assistants and fourth official come from Wikipedia only (RSSSF names just the referee).",
+   "Solskjær's minute: TNT/Eurosport and Wikipedia say 90+3; RSSSF says '2 mins into stoppage time'.",
+   "Bayern absentees (e.g. long-term injuries) not verified, so none recorded.",
+   "Stats and odds: none found.",
+   "GLT/VAR false: neither existed in UEFA competition in 1999 (UEFA's first GLT use was the May 2016 Europa League final)."
+  ]
+ },
+ {
+  "article": "2005 UEFA Champions League final",
+  "date": "2005-05-25",
+  "competition": "UEFA Champions League",
+  "season": "2004-05",
+  "venue": "Atatürk Olympic Stadium",
+  "city": "Istanbul",
+  "team1": "Milan",
+  "team2": "Liverpool",
+  "score_90": "3-3",
+  "score_aet": "3-3",
+  "shootout": "2-3",
+  "winner": "Liverpool",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2004/1086988_FR.pdf",
+   "https://www.rsssf.org/ec/ec200405.html"
+  ],
+  "core_verified": true,
+  "referee": "Manuel Mejuto González",
+  "referee_nationality": "Spanish",
+  "referee_association": "RFEF (Spain)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2004/1086988_FR.pdf",
+   "https://www.rsssf.org/ec/ec200405.html"
+  ],
+  "assistants": "Clemente Ayete Plou; Óscar Martínez Samaniego (both Spanish)",
+  "fourth_official": "Arturo Daudén Ibáñez (Spain)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2004/1086988_FR.pdf",
+   "https://www.uefa.com/uefaeuropaleague/news/newsid=2365654.html"
+  ],
+  "manager1": "Carlo Ancelotti",
+  "manager2": "Rafael Benítez",
+  "goals": [
+   {
+    "team": "Milan",
+    "player": "Paolo Maldini",
+    "minute": "1",
+    "type": "open play"
+   },
+   {
+    "team": "Milan",
+    "player": "Hernán Crespo",
+    "minute": "39",
+    "type": "open play"
+   },
+   {
+    "team": "Milan",
+    "player": "Hernán Crespo",
+    "minute": "44",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Steven Gerrard",
+    "minute": "54",
+    "type": "header"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Vladimír Šmicer",
+    "minute": "56",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Xabi Alonso",
+    "minute": "60",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Jamie Carragher",
+    "minute": "76",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Milan Baroš",
+    "minute": "81",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2004/1086988_FR.pdf",
+   "https://www.rsssf.org/ec/ec200405.html"
+  ],
+  "stats": {
+   "shots1": 22,
+   "shots2": 15,
+   "sot1": 10,
+   "sot2": 7,
+   "poss1": 55,
+   "poss2": 45,
+   "fouls1": 16,
+   "fouls2": 23,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2004/1086988_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report page 2, totals over 120 min; possession by UEFA ball-in-play time."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "first half, shortly before 39 (exact minute unknown)",
+    "score_at_time": "1-0",
+    "type": "penalty not given",
+    "description": "Liverpool penalty claim for an alleged Alessandro Nesta handball turned down.",
+    "favoured_team": "Milan",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comments only (Guardian minute-by-minute per Wikipedia)",
+    "impact": "none",
+    "impact_reasoning": "Went against Liverpool, who won anyway.",
+    "sources": [
+     "https://www.theguardian.com/football/2005/may/25/minutebyminute.championsleague"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA FR PDF, RSSSF, Wikipedia prose and its citations. Guardian MBM (the only cited source for the Nesta claim) could not be opened. No referee-expert assessments found. Web-search budget ran out before targeted searches.",
+  "uncertain": [
+   "Nesta handball claim: one source only (Guardian MBM via Wikipedia). Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified.",
+   "Alonso's goal: UEFA marks a 60' penalty (P) and a 60' goal. He scored the rebound after Dida saved his penalty (Wikipedia), recorded here as 'open play'.",
+   "Baroš booking: UEFA says 81', RSSSF says 78'. UEFA used.",
+   "Wikipedia's assistant names ('Clemente Plou; Oscar Samaniego') are a shortened form of UEFA's 'Ayete Plou Clemente; Martínez Samaniego'.",
+   "Shootout (UEFA): Milan Serginho miss, Pirlo saved, Tomasson scored, Kaká scored, Shevchenko saved; Liverpool Hamann, Cissé scored, Riise saved, Šmicer scored.",
+   "Absences and odds not researched successfully (search budget exhausted).",
+   "Attendance: UEFA PDF does not show it; RSSSF says 60,000, Wikipedia 69,000."
+  ]
+ },
+ {
+  "article": "2006 UEFA Champions League final",
+  "date": "2006-05-17",
+  "competition": "UEFA Champions League",
+  "season": "2005-06",
+  "venue": "Stade de France",
+  "city": "Saint-Denis (Paris)",
+  "team1": "Barcelona",
+  "team2": "Arsenal",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Barcelona",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2005/1108503_FR.pdf",
+   "https://www.rsssf.org/ec/ec200506.html"
+  ],
+  "core_verified": true,
+  "referee": "Terje Hauge",
+  "referee_nationality": "Norwegian",
+  "referee_association": "NFF (Norway)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2005/1108503_FR.pdf",
+   "https://www.rsssf.org/ec/ec200506.html"
+  ],
+  "assistants": "Steinar Holvik; Arild Sundet (both Norwegian)",
+  "fourth_official": "Tom Henning Øvrebø (Norway)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2005/1108503_FR.pdf",
+   "https://www.uefa.com/uefaeuropaleague/news/newsid=2365654.html"
+  ],
+  "manager1": "Frank Rijkaard",
+  "manager2": "Arsène Wenger",
+  "goals": [
+   {
+    "team": "Arsenal",
+    "player": "Sol Campbell",
+    "minute": "37",
+    "type": "header"
+   },
+   {
+    "team": "Barcelona",
+    "player": "Samuel Eto'o",
+    "minute": "76",
+    "type": "open play"
+   },
+   {
+    "team": "Barcelona",
+    "player": "Juliano Belletti",
+    "minute": "81",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Arsenal",
+    "player": "Jens Lehmann",
+    "minute": "18",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Emmanuel Eboué",
+    "minute": "22",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Arsenal",
+    "player": "Thierry Henry",
+    "minute": "51",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Barcelona",
+    "player": "Oleguer",
+    "minute": "69",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Barcelona",
+    "player": "Henrik Larsson",
+    "minute": "90+",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2005/1108503_FR.pdf",
+   "https://www.rsssf.org/ec/ec200506.html"
+  ],
+  "stats": {
+   "shots1": 20,
+   "shots2": 8,
+   "sot1": 9,
+   "sot2": 5,
+   "poss1": 64,
+   "poss2": 36,
+   "fouls1": 20,
+   "fouls2": 16,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2005/1108503_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report; possession by UEFA ball-in-play time."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "18",
+    "score_at_time": "0-0",
+    "type": "red card given",
+    "description": "Lehmann sent off for bringing down Eto'o outside the box. The loose ball ran to Giuly, who put it in the net, but Hauge had already blown for the foul instead of playing advantage. First red card in a European Cup final.",
+    "favoured_team": "Barcelona",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "Referee Terje Hauge later said he regretted not playing advantage (BBC 'Referee regrets Lehmann red card', via Wikipedia); Wenger said the dismissal changed the game",
+    "impact": "likely",
+    "impact_reasoning": "Arsenal played about 72 minutes with ten men and lost by one goal.",
+    "sources": [
+     "https://news.bbc.co.uk/sport2/hi/football/europe/4993994.stm",
+     "https://news.bbc.co.uk/sport2/hi/football/europe/4771959.stm"
+    ]
+   },
+   {
+    "minute": "37",
+    "score_at_time": "0-0",
+    "type": "other",
+    "description": "The free kick that led to Campbell's goal was won by Eboué, and some (including Barcelona) said he dived.",
+    "favoured_team": "Arsenal",
+    "against_team": "Barcelona",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist/club comments only",
+    "impact": "none",
+    "impact_reasoning": "Favoured Arsenal, who lost.",
+    "sources": [
+     "http://www.mtnfootball.com/live/content.php?Item_ID=3496&Revision=en%2F1",
+     "https://news.bbc.co.uk/sport2/hi/football/europe/4773353.stm"
+    ]
+   },
+   {
+    "minute": "76",
+    "score_at_time": "0-1",
+    "type": "offside",
+    "description": "Eto'o's equaliser: Wenger and Henry said Eto'o was offside ('a close offside decision').",
+    "favoured_team": "Barcelona",
+    "against_team": "Arsenal",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; manager/player comments only",
+    "impact": "likely",
+    "impact_reasoning": "Equaliser in a match Barcelona won 2-1.",
+    "sources": [
+     "http://www.skysports.com/story/0,19528,11670_2377139,00.html",
+     "https://news.bbc.co.uk/sport2/hi/football/teams/a/arsenal/4992172.stm"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA FR PDF, RSSSF, Wikipedia prose and its citations (BBC, Sky, Arsenal.com, mtnfootball). None of those could be opened: BBC blocked, Sky and Arsenal.com links dead.",
+  "uncertain": [
+   "All three contested items: Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified.",
+   "Not a match decision: assistant Ole Hermann Borgan was replaced on the morning of the final after being photographed in a Barcelona shirt (Wikipedia, citing BBC). UEFA lists Holvik and Sundet.",
+   "Larsson booked in stoppage time (UEFA 90'; Wikipedia 90+3).",
+   "RSSSF lists Henry's yellow at '5', a typo for 51 (UEFA).",
+   "Absences: none verified (Messi missed the final injured per general knowledge, but no source was checked, so not recorded).",
+   "Odds not found."
+  ]
+ },
+ {
+  "article": "2007 UEFA Champions League final",
+  "date": "2007-05-23",
+  "competition": "UEFA Champions League",
+  "season": "2006-07",
+  "venue": "Olympic Stadium (OAKA Spyros Louis)",
+  "city": "Athens",
+  "team1": "Milan",
+  "team2": "Liverpool",
+  "score_90": "2-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Milan",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2006/300099_FR.pdf",
+   "https://www.rsssf.org/ec/ec200607.html",
+   "https://www.uefa.com/uefachampionsleague/news/01c1-0e6e500c2c66-db2412e7ba39-1000--inzaghi-inspires-milan-to-glory/"
+  ],
+  "core_verified": true,
+  "referee": "Herbert Fandel",
+  "referee_nationality": "German",
+  "referee_association": "DFB (Germany)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2006/300099_FR.pdf",
+   "https://www.rsssf.org/ec/ec200607.html"
+  ],
+  "assistants": "Carsten Kadach; Volker Wezel (both German)",
+  "fourth_official": "Florian Meyer (Germany)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2006/300099_FR.pdf",
+   "https://www.uefa.com/uefaeuropaleague/news/newsid=2365654.html"
+  ],
+  "manager1": "Carlo Ancelotti",
+  "manager2": "Rafael Benítez",
+  "goals": [
+   {
+    "team": "Milan",
+    "player": "Filippo Inzaghi",
+    "minute": "45",
+    "type": "free kick"
+   },
+   {
+    "team": "Milan",
+    "player": "Filippo Inzaghi",
+    "minute": "82",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Dirk Kuyt",
+    "minute": "89",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Milan",
+    "player": "Gennaro Gattuso",
+    "minute": "40",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Milan",
+    "player": "Marek Jankulovski",
+    "minute": "54",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Javier Mascherano",
+    "minute": "58",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Liverpool",
+    "player": "Jamie Carragher",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2006/300099_FR.pdf"
+  ],
+  "stats": {
+   "shots1": 5,
+   "shots2": 12,
+   "sot1": 3,
+   "sot2": 4,
+   "poss1": 53,
+   "poss2": 47,
+   "fouls1": 15,
+   "fouls2": 27,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2006/300099_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report; possession by UEFA ball-in-play time."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "45",
+    "score_at_time": "0-0",
+    "type": "goal allowed",
+    "description": "Pirlo's free kick deflected in off Inzaghi. Replays showed it struck his upper arm; not given as handball.",
+    "favoured_team": "Milan",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; journalist comment only (Guardian blog per Wikipedia)",
+    "impact": "likely",
+    "impact_reasoning": "Opening goal in a match Milan won 2-1.",
+    "sources": [
+     "http://blogs.guardian.co.uk/sport/2007/05/26/technocrat_to_blame_for_athens.html",
+     "http://www.timesonline.co.uk/tol/sport/football/european_football/article1832550.ece"
+    ]
+   },
+   {
+    "minute": "second half (exact minute unknown)",
+    "score_at_time": "1-0",
+    "type": "offside",
+    "description": "Kaká flagged offside although he appeared to be behind the defence when the ball was played.",
+    "favoured_team": "Liverpool",
+    "against_team": "Milan",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalists only (BBC/Guardian live text per Wikipedia)",
+    "impact": "none",
+    "impact_reasoning": "Went against Milan, who won.",
+    "sources": [
+     "https://news.bbc.co.uk/sport1/hi/football/europe/6685231.stm",
+     "https://www.theguardian.com/football/2007/may/23/minutebyminute.sport"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA FR PDF, UEFA.com report, RSSSF, Wikipedia prose and its citations (Guardian, BBC, Times, all unreachable).",
+  "uncertain": [
+   "Both contested items: Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified.",
+   "Inzaghi's first goal is typed 'free kick' (deflected Pirlo free kick). It could also be classed as a deflection off the arm.",
+   "Kuyt's 89' goal typed 'header' from general knowledge, not checked against a source; treat as unverified.",
+   "Absences and odds not found."
+  ]
+ },
+ {
+  "article": "2008 UEFA Champions League final",
+  "date": "2008-05-21",
+  "competition": "UEFA Champions League",
+  "season": "2007-08",
+  "venue": "Luzhniki Stadium",
+  "city": "Moscow",
+  "team1": "Manchester United",
+  "team2": "Chelsea",
+  "score_90": "1-1",
+  "score_aet": "1-1",
+  "shootout": "6-5",
+  "winner": "Manchester United",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2008/301604_FR.pdf",
+   "https://www.rsssf.org/ec/ec200708.html"
+  ],
+  "core_verified": true,
+  "referee": "Ľuboš Micheľ",
+  "referee_nationality": "Slovak",
+  "referee_association": "SFZ (Slovakia)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2008/301604_FR.pdf",
+   "https://www.rsssf.org/ec/ec200708.html"
+  ],
+  "assistants": "Roman Slyško; Martin Balko (both Slovak)",
+  "fourth_official": "Vladimír Hriňák (Slovakia)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2008/301604_FR.pdf",
+   "https://www.uefa.com/uefaeuropaleague/news/newsid=2365654.html"
+  ],
+  "manager1": "Sir Alex Ferguson",
+  "manager2": "Avram Grant",
+  "goals": [
+   {
+    "team": "Manchester United",
+    "player": "Cristiano Ronaldo",
+    "minute": "26",
+    "type": "header"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Frank Lampard",
+    "minute": "45",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Chelsea",
+    "player": "Claude Makélélé",
+    "minute": "21",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "22",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Rio Ferdinand",
+    "minute": "43",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ricardo Carvalho",
+    "minute": "45+",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Nemanja Vidić",
+    "minute": "111",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Michael Ballack",
+    "minute": "116",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "116",
+    "card": "R",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Carlos Tevez",
+    "minute": "116",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Michael Essien",
+    "minute": "118",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2008/301604_FR.pdf"
+  ],
+  "stats": {
+   "shots1": 12,
+   "shots2": 24,
+   "sot1": 5,
+   "sot2": 3,
+   "poss1": 58,
+   "poss2": 42,
+   "fouls1": 22,
+   "fouls2": 25,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2008/301604_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report page 2, totals over 120 min; possession by UEFA ball-in-play time."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA FR PDF, RSSSF, Wikipedia prose. Drogba's straight red (violent conduct, slap on Vidić during a 116' melee) is not described as disputed in what could be checked. Telegraph piece on the red card could not be opened.",
+  "uncertain": [
+   "Carvalho's booking appears at the 45' half-time marker on the UEFA report (45+).",
+   "Ronaldo goal typed 'header' and Lampard's 'open play' from general knowledge; UEFA report shows only a goal icon.",
+   "Shootout (UEFA): United Tevez, Carrick scored, Ronaldo saved, Hargreaves, Nani, Anderson, Giggs scored; Chelsea Ballack, Belletti, Lampard, A. Cole scored, Terry missed, Kalou scored, Anelka saved.",
+   "Absences and odds not found (search budget exhausted)."
+  ]
+ },
+ {
+  "article": "2009 UEFA Champions League final",
+  "date": "2009-05-27",
+  "competition": "UEFA Champions League",
+  "season": "2008-09",
+  "venue": "Stadio Olimpico",
+  "city": "Rome",
+  "team1": "Barcelona",
+  "team2": "Manchester United",
+  "score_90": "2-0",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Barcelona",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2009/302813_FR.pdf",
+   "https://www.rsssf.org/ec/ec200809.html"
+  ],
+  "core_verified": true,
+  "referee": "Massimo Busacca",
+  "referee_nationality": "Swiss",
+  "referee_association": "SFV/ASF (Switzerland)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2009/302813_FR.pdf",
+   "https://www.rsssf.org/ec/ec200809.html",
+   "https://www.uefa.com/news-media/news/01d9-0f85bfdf3c99-c2555269cc0c-1000--busacca-to-referee-rome-final/"
+  ],
+  "assistants": "Matthias Arnet; Francesco Buragina (both Swiss)",
+  "fourth_official": "Claudio Circhetta (Switzerland)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2009/302813_FR.pdf",
+   "https://www.uefa.com/uefaeuropaleague/news/newsid=2365654.html"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Barcelona",
+    "player": "Samuel Eto'o",
+    "minute": "10",
+    "type": "open play"
+   },
+   {
+    "team": "Barcelona",
+    "player": "Lionel Messi",
+    "minute": "70",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Barcelona",
+    "player": "Gerard Piqué",
+    "minute": "16",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Cristiano Ronaldo",
+    "minute": "78",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Paul Scholes",
+    "minute": "80",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Nemanja Vidić",
+    "minute": "90+",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2009/302813_FR.pdf",
+   "https://www.uefa.com/newsfiles/UCL/2009/302813_TS.pdf"
+  ],
+  "stats": {
+   "shots1": 11,
+   "shots2": 12,
+   "sot1": 8,
+   "sot2": 2,
+   "poss1": 51,
+   "poss2": 49,
+   "fouls1": 7,
+   "fouls2": 10,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2009/302813_TS.pdf",
+   "xg_source": null,
+   "note": "UEFA Team Statistics; possession by UEFA ball-in-play time."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "Dani Alves (suspension)",
+    "Eric Abidal (suspension)"
+   ],
+   "team2": [
+    "Darren Fletcher (suspension)"
+   ],
+   "sources": [
+    "https://www.uefa.com/news-media/news/01d9-0f85bc77cd76-64155e9b7350-1000--man-united-barcelona-protests-not-admitted/"
+   ]
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA FR/TS PDFs, RSSSF, UEFA disciplinary statement, Wikipedia prose. Wikipedia says Ronaldo was flagged offside at 59' 'despite appearing to be level', but no reputable source for it could be checked, so it is not recorded.",
+  "uncertain": [
+   "Vidić booking at the 90' stoppage marker (UEFA); Wikipedia says 90+3. Scholes 80' (UEFA) v 81' (Wikipedia).",
+   "Messi goal typed 'header' from general knowledge, not checked against a source.",
+   "Possible unrecorded incident: Ronaldo offside call at 59' (Wikipedia prose only).",
+   "Fletcher's suspension came from a disputed semi-final red card, which is not a final decision. UEFA rejected the appeal.",
+   "Other absentees (e.g. Barcelona injuries such as Márquez) not verified, so not recorded.",
+   "Odds not found."
+  ]
+ },
+ {
+  "article": "2011 UEFA Champions League final",
+  "date": "2011-05-28",
+  "competition": "UEFA Champions League",
+  "season": "2010-11",
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "team1": "Barcelona",
+  "team2": "Manchester United",
+  "score_90": "3-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Barcelona",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2011/2003352_FR.pdf",
+   "https://www.rsssf.org/ec/ec201011.html"
+  ],
+  "core_verified": true,
+  "referee": "Viktor Kassai",
+  "referee_nationality": "Hungarian",
+  "referee_association": "MLSZ (Hungary)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2011/2003352_FR.pdf",
+   "https://www.rsssf.org/ec/ec201011.html",
+   "https://www.uefa.com/uefachampionsleague/news/0250-0c50f68bfa49-e25c351cecc2-1000--kassai-to-referee-uefa-champions-league-final/"
+  ],
+  "assistants": "Gábor Erős; György Ring (both Hungarian); additional assistants Mihály Fábián, Tamás Bognár",
+  "fourth_official": "István Vad (Hungary)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2011/2003352_FR.pdf",
+   "https://www.uefa.com/uefaeuropaleague/news/newsid=2365654.html"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "Sir Alex Ferguson",
+  "goals": [
+   {
+    "team": "Barcelona",
+    "player": "Pedro",
+    "minute": "27",
+    "type": "open play"
+   },
+   {
+    "team": "Manchester United",
+    "player": "Wayne Rooney",
+    "minute": "34",
+    "type": "open play"
+   },
+   {
+    "team": "Barcelona",
+    "player": "Lionel Messi",
+    "minute": "54",
+    "type": "open play"
+   },
+   {
+    "team": "Barcelona",
+    "player": "David Villa",
+    "minute": "69",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Barcelona",
+    "player": "Dani Alves",
+    "minute": "60",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Michael Carrick",
+    "minute": "61",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester United",
+    "player": "Antonio Valencia",
+    "minute": "79",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Barcelona",
+    "player": "Víctor Valdés",
+    "minute": "85",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2011/2003352_FR.pdf",
+   "https://www.uefa.com/newsfiles/UCL/2011/2003352_TS.pdf"
+  ],
+  "stats": {
+   "shots1": 19,
+   "shots2": 4,
+   "sot1": 12,
+   "sot2": 1,
+   "poss1": 63,
+   "poss2": 37,
+   "fouls1": 5,
+   "fouls2": 16,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2011/2003352_TS.pdf",
+   "xg_source": null,
+   "note": "UEFA Team Statistics; possession by UEFA ball-in-play time."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "34",
+    "score_at_time": "1-0",
+    "type": "offside",
+    "description": "Rooney's equaliser: replays suggested Giggs may have been just offside in the build-up.",
+    "favoured_team": "Manchester United",
+    "against_team": "Barcelona",
+    "assessment": "genuinely debatable",
+    "assessed_by": "match report journalist only (ESPN Soccernet per Wikipedia)",
+    "impact": "none",
+    "impact_reasoning": "Favoured United, who lost 3-1.",
+    "sources": [
+     "http://soccernet.espn.go.com/report?id=316520&cc=5901"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA FR/TS PDFs, RSSSF, Wikipedia prose. ESPN Soccernet (host no longer resolves) and Sky match report (redirects to homepage) could not be opened.",
+  "uncertain": [
+   "Giggs-offside item: one source only. Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified.",
+   "RSSSF gives goal minutes 28/36/56/71; UEFA gives 27/34/54/69. UEFA used.",
+   "Absences and odds not found."
+  ]
+ },
+ {
+  "article": "2012 UEFA Champions League final",
+  "date": "2012-05-19",
+  "competition": "UEFA Champions League",
+  "season": "2011-12",
+  "venue": "Allianz Arena (Fußball Arena München)",
+  "city": "Munich",
+  "team1": "Bayern Munich",
+  "team2": "Chelsea",
+  "score_90": "1-1",
+  "score_aet": "1-1",
+  "shootout": "3-4",
+  "winner": "Chelsea",
+  "decided_by": "penalties",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2012/2007693_FR.pdf",
+   "https://www.rsssf.org/ec/ec201112.html",
+   "https://www.uefa.com/uefachampionsleague/news/0250-0c50fb78a384-1434bbcadbcb-1000--shoot-out-win-ends-chelsea-s-long-wait-for-glory/"
+  ],
+  "core_verified": true,
+  "referee": "Pedro Proença",
+  "referee_nationality": "Portuguese",
+  "referee_association": "FPF (Portugal)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2012/2007693_FR.pdf",
+   "https://www.rsssf.org/ec/ec201112.html"
+  ],
+  "assistants": "Bertino Miranda; Ricardo Santos (both Portuguese); additional assistants Manuel De Sousa (Jorge Sousa), Duarte Gomes",
+  "fourth_official": "Carlos Velasco Carballo (Spain)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": false,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2012/2007693_FR.pdf",
+   "https://www.uefa.com/uefaeuropaleague/news/newsid=2365654.html"
+  ],
+  "manager1": "Jupp Heynckes",
+  "manager2": "Roberto Di Matteo",
+  "goals": [
+   {
+    "team": "Bayern Munich",
+    "player": "Thomas Müller",
+    "minute": "83",
+    "type": "header"
+   },
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "88",
+    "type": "header"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Bayern Munich",
+    "player": "Bastian Schweinsteiger",
+    "minute": "2",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Ashley Cole",
+    "minute": "81",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "David Luiz",
+    "minute": "86",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Didier Drogba",
+    "minute": "93",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Fernando Torres",
+    "minute": "120",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2012/2007693_FR.pdf"
+  ],
+  "stats": {
+   "shots1": 35,
+   "shots2": 9,
+   "sot1": 7,
+   "sot2": 3,
+   "poss1": 56,
+   "poss2": 44,
+   "fouls1": 14,
+   "fouls2": 26,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2012/2007693_FR.pdf",
+   "xg_source": null,
+   "note": "UEFA Full Time Report page 2, totals over 120 min. Wikipedia's 43 Bayern shots differs (it may include blocked shots); UEFA FR used. Team-statistics PDF returned 404."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [
+    "David Alaba (suspension)",
+    "Holger Badstuber (suspension)",
+    "Luiz Gustavo (suspension)"
+   ],
+   "team2": [
+    "John Terry (suspension)",
+    "Branislav Ivanović (suspension)",
+    "Ramires (suspension)",
+    "Raul Meireles (suspension)"
+   ],
+   "sources": []
+  },
+  "contested_decisions": [],
+  "contested_search_done": "UEFA FR PDF, UEFA.com report (mentions only a first-half offside that ruled out a Ribéry tap-in, not described as disputed), RSSSF, Wikipedia prose. No disputed decisions found. The 95' penalty (Drogba foul on Ribéry; Robben's kick saved by Čech) is not described as contested in what could be checked.",
+  "uncertain": [
+   "Absences come from Wikipedia and general knowledge (suspensions from the semi-finals) and are NOT verified by an accessible non-Wikipedia source, so the sources list is empty.",
+   "Goal types (headers) from general knowledge, not checked against a source.",
+   "Drogba booked 93' for the foul on Ribéry that gave Bayern the extra-time penalty (95' on the UEFA report, saved).",
+   "Shootout (UEFA): Bayern Lahm, Gomez, Neuer scored, Olić saved, Schweinsteiger missed (post); Chelsea Mata saved, David Luiz, Lampard, Cole, Drogba scored.",
+   "Odds not found."
+  ]
+ },
+ {
+  "article": "2018 UEFA Champions League final",
+  "date": "2018-05-26",
+  "competition": "UEFA Champions League",
+  "season": "2017-18",
+  "venue": "NSC Olimpiyskiy Stadium",
+  "city": "Kyiv",
+  "team1": "Real Madrid",
+  "team2": "Liverpool",
+  "score_90": "3-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Real Madrid",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2018/2021711_FR.pdf",
+   "https://www.rsssf.org/ec/ec201718.html"
+  ],
+  "core_verified": true,
+  "referee": "Milorad Mažić",
+  "referee_nationality": "Serbian",
+  "referee_association": "FSS (Serbia)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2018/2021711_FR.pdf",
+   "https://www.rsssf.org/ec/ec201718.html",
+   "https://www.uefa.com/uefachampionsleague/news/0245-0e9cd49b19c6-df2dfa498bfa-1000--milorad-mazic-to-referee-champions-league-final/"
+  ],
+  "assistants": "Milovan Ristić; Dalibor Đurđević (both Serbian); additional assistants Nenad Đokić, Danilo Grujić",
+  "fourth_official": "Clément Turpin (France)",
+  "var_officials": null,
+  "var_in_use": false,
+  "glt_in_use": true,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2018/2021711_FR.pdf",
+   "https://itv.com/news/2018-09-27/var-to-be-used-in-the-champions-league-from-next-season",
+   "https://www.eurosport.com/football/euro-2016/2016/uefa-approve-goal-line-technology-for-euro-2016_sto5078119/story.shtml"
+  ],
+  "manager1": "Zinedine Zidane",
+  "manager2": "Jürgen Klopp",
+  "goals": [
+   {
+    "team": "Real Madrid",
+    "player": "Karim Benzema",
+    "minute": "51",
+    "type": "open play"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Sadio Mané",
+    "minute": "55",
+    "type": "open play"
+   },
+   {
+    "team": "Real Madrid",
+    "player": "Gareth Bale",
+    "minute": "64",
+    "type": "open play"
+   },
+   {
+    "team": "Real Madrid",
+    "player": "Gareth Bale",
+    "minute": "83",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Liverpool",
+    "player": "Sadio Mané",
+    "minute": "82",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2018/2021711_FR.pdf",
+   "https://www.uefa.com/newsfiles/UCL/2018/2021711_TS.pdf"
+  ],
+  "stats": {
+   "shots1": 12,
+   "shots2": 12,
+   "sot1": 5,
+   "sot2": 2,
+   "poss1": 61,
+   "poss2": 39,
+   "fouls1": 5,
+   "fouls2": 18,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2018/2021711_TS.pdf",
+   "xg_source": null,
+   "note": "UEFA Team Statistics; possession by UEFA time-in-possession (Wikipedia shows 62/38)."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "c.25-30 (Salah substituted 31')",
+    "score_at_time": "0-0",
+    "type": "other",
+    "description": "Sergio Ramos's challenge on Mohamed Salah (arm lock and fall) injured Salah's shoulder and forced him off. No foul or card given; widely debated afterwards (petition for a Ramos ban).",
+    "favoured_team": "Real Madrid",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no referee-expert assessment checked; media/pundit debate only (Liverpool Echo 'football world split', ESPN on the petition, Washington Post, per Wikipedia citations)",
+    "impact": "possible",
+    "impact_reasoning": "Liverpool lost their key forward at 0-0 in a match lost 3-1. No direct goal or man advantage.",
+    "sources": [
+     "https://www.liverpoolecho.co.uk/sport/football/football-news/football-world-split-mohamed-salah-14711272",
+     "https://www.espn.co.uk/soccer/real-madrid/story/3511807/petition-for-sergio-ramos-to-receive-ban-for-mohamed-salah-injury-hits-400,000-signatures"
+    ]
+   },
+   {
+    "minute": "c.48 (before Benzema's 51' goal)",
+    "score_at_time": "0-0",
+    "type": "other",
+    "description": "Ramos appeared to elbow goalkeeper Loris Karius; no foul given. Karius was later diagnosed with concussion before his errors for the 1st and 3rd goals. UEFA took no disciplinary action.",
+    "favoured_team": "Real Madrid",
+    "against_team": "Liverpool",
+    "assessment": "genuinely debatable",
+    "assessed_by": "UEFA (no action against Ramos, ESPN report per Wikipedia); no referee-expert verdict found",
+    "impact": "possible",
+    "impact_reasoning": "Contested only as a link to Karius's later errors. No direct goal or card consequence.",
+    "sources": [
+     "https://www.espn.co.uk/soccer/real-madrid/story/3512665/real-madrids-sergio-ramos-to-face-no-action-for-loris-karius-clash-uefa",
+     "https://www.espn.co.uk/soccer/liverpool/story/3517542/liverpools-loris-karius-suffered-concussion-in-champions-league-final"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA FR/TS PDFs, RSSSF, Wikipedia prose and citations (ESPN, Liverpool Echo, news.com.au 'should Ramos have been sent off', Independent, Guardian). None could be opened: blocked or empty pages. Wikipedia also mentions a first-half Benzema offside and a late Liverpool handball penalty appeal, not recorded for lack of checkable sources.",
+  "uncertain": [
+   "Both contested items: Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified.",
+   "Bale's first goal: UEFA 64', Wikipedia 63'. UEFA used.",
+   "VAR not in use: UEFA introduced VAR in the Champions League from the 2018-19 knockout stage (ITV/Goal), after this final.",
+   "Absences and odds not found."
+  ]
+ },
+ {
+  "article": "2019 UEFA Champions League final",
+  "date": "2019-06-01",
+  "competition": "UEFA Champions League",
+  "season": "2018-19",
+  "venue": "Wanda Metropolitano (Estadio Metropolitano)",
+  "city": "Madrid",
+  "team1": "Tottenham Hotspur",
+  "team2": "Liverpool",
+  "score_90": "0-2",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Liverpool",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2019/2025486_FR.pdf",
+   "https://www.rsssf.org/ec/ec201819.html",
+   "https://www.uefa.com/uefachampionsleague/news/0252-0e99c19b0df2-c2e63df5c79b-1000--liverpool-beat-tottenham-to-win-sixth-european-cup/"
+  ],
+  "core_verified": true,
+  "referee": "Damir Skomina",
+  "referee_nationality": "Slovenian",
+  "referee_association": "NZS (Slovenia)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2019/2025486_FR.pdf",
+   "https://www.rsssf.org/ec/ec201819.html",
+   "https://www.uefa.com/news-media/news/0251-0e99b2dbe678-45c115988e2d-1000--referee-team-appointed-for-uefa-champions-league-final-in-m/"
+  ],
+  "assistants": "Jure Praprotnik; Robert Vukan (both Slovenian)",
+  "fourth_official": "Antonio Mateu Lahoz (Spain)",
+  "var_officials": "VAR: Danny Makkelie (NED); AVAR: Pol van Boekel (NED), Felix Zwayer (GER); Offside VAR: Mark Borsch (GER)",
+  "var_in_use": true,
+  "glt_in_use": true,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2019/2025486_FR.pdf",
+   "https://www.eurosport.com/football/euro-2016/2016/uefa-approve-goal-line-technology-for-euro-2016_sto5078119/story.shtml"
+  ],
+  "manager1": "Mauricio Pochettino",
+  "manager2": "Jürgen Klopp",
+  "goals": [
+   {
+    "team": "Liverpool",
+    "player": "Mohamed Salah",
+    "minute": "2",
+    "type": "penalty"
+   },
+   {
+    "team": "Liverpool",
+    "player": "Divock Origi",
+    "minute": "87",
+    "type": "open play"
+   }
+  ],
+  "cards": [],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2019/2025486_FR.pdf",
+   "https://www.uefa.com/newsfiles/UCL/2019/2025486_TS.pdf"
+  ],
+  "stats": {
+   "shots1": 16,
+   "shots2": 14,
+   "sot1": 8,
+   "sot2": 3,
+   "poss1": 61,
+   "poss2": 39,
+   "fouls1": 5,
+   "fouls2": 6,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2019/2025486_TS.pdf",
+   "xg_source": null,
+   "note": "UEFA Team Statistics; possession by UEFA time-in-possession."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "1 (24 seconds; scored 2')",
+    "score_at_time": "0-0",
+    "type": "penalty given",
+    "description": "Mané's cross struck Moussa Sissoko's raised/outstretched arm in the box; penalty given, Salah scored.",
+    "favoured_team": "Liverpool",
+    "against_team": "Tottenham Hotspur",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found in accessible sources; journalist descriptions only",
+    "impact": "possible",
+    "impact_reasoning": "Produced the first goal, but Liverpool won by two goals.",
+    "sources": [
+     "https://www.uefa.com/uefachampionsleague/news/0252-0e99c19b0df2-c2e63df5c79b-1000--liverpool-beat-tottenham-to-win-sixth-european-cup/"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA FR/TS PDFs, UEFA.com report, RSSSF, Wikipedia prose. NYT, Telegraph and Yahoo links blocked or dead. Search budget ran out before ESPN/Sky referee-review searches.",
+  "uncertain": [
+   "Sissoko handball: recorded because it is widely debated, but the only source checked (UEFA report) describes it without calling it disputed. No expert verdict was checked. Treat as low-confidence.",
+   "Absences and odds not found (Kane started after injury, so not an absence)."
+  ]
+ },
+ {
+  "article": "2021 UEFA Champions League final",
+  "date": "2021-05-29",
+  "competition": "UEFA Champions League",
+  "season": "2020-21",
+  "venue": "Estádio do Dragão",
+  "city": "Porto",
+  "team1": "Manchester City",
+  "team2": "Chelsea",
+  "score_90": "0-1",
+  "score_aet": null,
+  "shootout": null,
+  "winner": "Chelsea",
+  "decided_by": "normal time",
+  "core_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2021/2029498_FR.pdf",
+   "https://www.rsssf.org/ec/ec202021.html",
+   "https://www.uefa.com/uefachampionsleague/news/0269-12650cedca55-37515f69768e-1000/"
+  ],
+  "core_verified": true,
+  "referee": "Antonio Mateu Lahoz",
+  "referee_nationality": "Spanish",
+  "referee_association": "RFEF (Spain)",
+  "referee_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2021/2029498_FR.pdf",
+   "https://www.rsssf.org/ec/ec202021.html",
+   "https://www.uefa.com/news-media/news/0269-12424b21d5b7-861f73160929-1000/"
+  ],
+  "assistants": "Pau Cebrián Devís; Roberto Díaz Pérez del Palomar (both Spanish)",
+  "fourth_official": "Carlos del Cerro Grande (Spain)",
+  "var_officials": "VAR: Alejandro Hernández Hernández (ESP); AVAR: Juan Martínez Munuera (ESP), Íñigo Prieto López de Cerain (ESP), Paweł Gil (POL)",
+  "var_in_use": true,
+  "glt_in_use": true,
+  "officials_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2021/2029498_FR.pdf",
+   "https://www.eurosport.com/football/euro-2016/2016/uefa-approve-goal-line-technology-for-euro-2016_sto5078119/story.shtml"
+  ],
+  "manager1": "Pep Guardiola",
+  "manager2": "Thomas Tuchel",
+  "goals": [
+   {
+    "team": "Chelsea",
+    "player": "Kai Havertz",
+    "minute": "42",
+    "type": "open play"
+   }
+  ],
+  "cards": [
+   {
+    "team": "Manchester City",
+    "player": "İlkay Gündoğan",
+    "minute": "35",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Chelsea",
+    "player": "Antonio Rüdiger",
+    "minute": "57",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   },
+   {
+    "team": "Manchester City",
+    "player": "Gabriel Jesus",
+    "minute": "88",
+    "card": "Y",
+    "in_shootout_or_after_whistle": false
+   }
+  ],
+  "cards_complete": true,
+  "cards_sources": [
+   "https://www.uefa.com/newsfiles/UCL/2021/2029498_FR.pdf",
+   "https://www.uefa.com/newsfiles/UCL/2021/2029498_TS.pdf"
+  ],
+  "stats": {
+   "shots1": 7,
+   "shots2": 8,
+   "sot1": 1,
+   "sot2": 2,
+   "poss1": 58,
+   "poss2": 42,
+   "fouls1": 14,
+   "fouls2": 13,
+   "xg1": null,
+   "xg2": null,
+   "source": "https://www.uefa.com/newsfiles/UCL/2021/2029498_TS.pdf",
+   "xg_source": null,
+   "note": "UEFA Team Statistics; possession by UEFA time-in-possession."
+  },
+  "odds": null,
+  "absences": {
+   "team1": [],
+   "team2": [],
+   "sources": []
+  },
+  "contested_decisions": [
+   {
+    "minute": "c.59",
+    "score_at_time": "0-1",
+    "type": "penalty not given",
+    "description": "Manchester City appealed for handball when the ball struck Reece James's arm in his own box. The VAR check found it had come off his chest first; no penalty.",
+    "favoured_team": "Chelsea",
+    "against_team": "Manchester City",
+    "assessment": "genuinely debatable",
+    "assessed_by": "no expert assessment found; VAR outcome as reported in BBC live text (per Wikipedia)",
+    "impact": "likely",
+    "impact_reasoning": "A penalty at 0-1 in a 1-0 final could directly have produced an equaliser (VAR's chest-first finding suggests the call was probably right).",
+    "sources": [
+     "https://www.bbc.co.uk/sport/live/football/54074842?page=11"
+    ]
+   }
+  ],
+  "contested_search_done": "UEFA FR/TS PDFs, UEFA.com report (no refereeing incidents mentioned), RSSSF, Wikipedia prose. BBC live text could not be opened. Rüdiger's 57' booking for the collision that injured De Bruyne: no dispute found in accessible sources. Web-search budget ran out before targeted searches.",
+  "uncertain": [
+   "James handball: one source only. Source cited by Wikipedia but could not be opened in this session (BBC/Guardian/Telegraph/ESPN/NYT blocked or empty, and the web-search budget ran out); the description rests on Wikipedia's summary of it and is NOT independently verified.",
+   "Attendance 14,110 (COVID-limited).",
+   "Absences and odds not found."
+  ]
+ },
+ {
   "article": "2022 UEFA Champions League final",
   "date": "2022-05-28",
   "competition": "UEFA Champions League",
