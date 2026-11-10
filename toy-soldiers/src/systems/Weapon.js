@@ -16,7 +16,6 @@ export class Weapon {
     this.reloading = 0;
     this.kick = 0;
     this.hitFlash = 0;
-    this.kills = 0;
 
     // First-person view model, parented to the camera.
     const mat = plastic(TEAM_COLORS.green, { roughness: 0.42 });
@@ -47,6 +46,13 @@ export class Weapon {
   startReload() {
     if (this.reloading > 0 || this.ammo === R.magazine) return;
     this.reloading = R.reloadSeconds;
+    this.ctx.audio.reload();
+  }
+
+  reset() {
+    this.ammo = R.magazine;
+    this.reloading = 0;
+    this.cooldown = 0;
   }
 
   update(dt, input) {
@@ -54,6 +60,10 @@ export class Weapon {
     this.hitFlash -= dt;
     this.kick *= Math.exp(-dt * 14);
 
+    if (!this.player.alive) {
+      this.viewModel.visible = false;
+      return;
+    }
     if (this.reloading > 0) {
       this.reloading -= dt;
       if (this.reloading <= 0) this.ammo = R.magazine;
@@ -79,7 +89,6 @@ export class Weapon {
     this.kick = 1;
     this.player.pitch = Math.min(1.45, this.player.pitch + R.recoil);
 
-    const { physics, effects } = this.ctx;
     const cam = this.rig.camera;
     const spread = aiming ? R.adsSpread : R.hipSpread;
     const dir = this.rig.forward.clone();
@@ -91,20 +100,13 @@ export class Weapon {
     // Start past the player in third person so the shot cannot hit things
     // between the camera and the soldier.
     const origin = cam.position.clone().addScaledVector(dir, this.rig.aimOffset);
-    const hit = physics.raycast(origin, dir, R.range, this.player.collider);
-    const end = hit ? hit.point : origin.clone().addScaledVector(dir, R.range);
-
     const from = new THREE.Vector3();
     (this.rig.thirdPerson ? this.player.model.muzzle : this.muzzle).getWorldPosition(from);
-    effects.tracer(from, end);
 
-    if (!hit) return;
-    effects.impact(hit.point, hit.normal);
-    if (hit.owner?.damage) {
-      this.hitFlash = 0.12;
-      if (hit.owner.damage(R.damage, dir)) this.kills++;
-    } else if (hit.body?.isDynamic()) {
-      hit.body.applyImpulseAtPoint({ x: dir.x * R.impulse, y: dir.y * R.impulse, z: dir.z * R.impulse }, hit.point, true);
+    const result = this.ctx.combat.fire(this.player, origin, dir, from, { damage: R.damage });
+    if (result) {
+      this.hitFlash = result === 'kill' ? 0.25 : 0.12;
+      this.ctx.audio.hitmarker(result === 'kill');
     }
   }
 }

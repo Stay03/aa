@@ -6,6 +6,7 @@ toy chest has tipped over and its contents are the map.
 
 ![Day, third person](docs/day-third-person.png)
 ![Night, first person](docs/night-first-person.png)
+![Match HUD](docs/match.png)
 
 ## Run
 
@@ -30,21 +31,24 @@ Open the printed URL in a desktop browser and click to play.
 
 ## What is in this build
 
+- Team deathmatch, 4 v 4: you and three green bots against four tan bots. First to 30 kills or the best score after 5 minutes wins.
+- Bots that find their way around the map, hunt the other team, strafe and fire in bursts, and reload.
+- Health that regenerates out of combat, 3-second respawns away from enemies, brief spawn protection, kill feed, scoreboard and result screen.
 - The bedroom at real scale (4 m x 3.6 m), with bed, desk, window and the tipped toy chest.
 - Map 01, hand-placed: alphabet blocks, building bricks, books, a ruler ramp, a pencil bridge, cars, crayons, a teddy bear, and knockable dominoes, marbles and a ball.
-- One player controller shared by the first- and third-person cameras, with jump and jetpack.
-- A hitscan rifle with recoil, spread, aim-down-sights and reload.
-- Tan soldiers as stationary targets that break into plastic pieces, melt, and respawn.
+- One soldier controller shared by the player and bots, with first- and third-person cameras, jump and jetpack.
+- A hitscan rifle with recoil, spread, aim-down-sights and reload. Soldiers break into plastic pieces that melt.
+- Synthesised sound: gunshots (positional for other soldiers), plastic shatter, hit marker, footsteps, reload, jetpack.
 - Day and night lighting presets with a blend between them.
 - Keyboard/mouse and gamepad input.
 
 ## Not built yet
 
-- Bot AI and the team deathmatch rules (score, rounds, player damage and death).
 - Loadouts, more weapons, grenades, unlocks.
-- Audio.
+- Bots using the jetpack or climbing; they stay on the floor.
 - Rope, shoelace and other climb routes onto the furniture.
 - Sourced toy models; everything is currently generated in code.
+- Menus and settings (sensitivity, volume, difficulty).
 - Multiplayer.
 - The random-spill map generator.
 
@@ -55,8 +59,8 @@ Open the printed URL in a desktop browser and click to play.
 | `src/config.js` | Scale and all tuning numbers |
 | `src/core/` | Input (keyboard, mouse, gamepad) and the physics wrapper |
 | `src/world/` | Room, toy factories, map 01 placement, lighting, materials |
-| `src/entities/` | Soldier model, player, target |
-| `src/systems/` | Camera rig, weapon, effects |
+| `src/entities/` | Soldier base class and model, player, bot |
+| `src/systems/` | Camera rig, weapon, combat, navigation grid, match rules, audio, effects |
 | `src/ui/` | HUD |
 
 World units are centimetres.

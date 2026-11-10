@@ -4,13 +4,9 @@ import { BLOCK, BRICK_H, alphabetBlock, blockStack, brick, book, crayon, pencilB
 // toy chest. Three lanes: the car lane (-x), the bear in the middle, and the
 // book-and-brick lane (+x), plus the route under the bed.
 export const SPAWNS = {
-  green: [[0, 115], [-25, 120], [25, 120]],
+  green: [[0, 116], [-26, 122], [26, 122], [-52, 128], [52, 128], [0, 140]],
+  tan: [[-40, -68], [-8, -72], [12, -44], [-34, -42], [34, -58], [-64, -66]],
 };
-
-// Tan dummies for the shooting-range build. [x, y, z]
-export const TARGETS = [
-  [-45, 1, -58], [8, 1, -62], [-20, 2, -100], [80, 0, -28], [-80, 0, -18], [52, 7.8, 20], [-34, 9.8, 44],
-];
 
 export function buildMap01(ctx) {
   const wallOfBlocks = (x, z, n, dx, dz, heights) => {

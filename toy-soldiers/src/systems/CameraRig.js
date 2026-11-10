@@ -23,6 +23,7 @@ export class CameraRig {
   update(dt, aiming) {
     const p = this.player;
     const cam = this.camera;
+    if (!p.alive) return; // hold the last view while waiting to respawn
     cam.rotation.set(p.pitch, p.yaw, 0);
     cam.getWorldDirection(this.forward);
 

@@ -41,7 +41,28 @@ export const CONFIG = {
     impulse: 220,
   },
 
-  target: { health: 100, respawnSeconds: 5 },
+  match: {
+    teamSize: 4,
+    scoreLimit: 30,
+    timeLimitSeconds: 300,
+    health: 100,
+    respawnSeconds: 3,
+    spawnProtectionSeconds: 1.5,
+    regenDelay: 4,
+    regenPerSecond: 30,
+  },
+
+  bot: {
+    damage: 10,
+    fireRate: 5,
+    magazine: 24,
+    reloadSeconds: 1.8,
+    aimError: 0.06,      // radians of random spread on each shot
+    turnRate: 7,         // radians per second
+    reaction: [0.25, 0.55],
+    sightRange: 420,
+    engageRange: 55,     // closes to this distance, then strafes
+  },
 
   room: { width: 400, depth: 360, height: 250 },
 };
