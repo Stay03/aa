@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Toy Soldiers</title>
+<style>
+  html, body { margin: 0; height: 100%; overflow: hidden; background: #111; font-family: system-ui, sans-serif; color: #fff; }
+  canvas { display: block; }
+  #hud { position: fixed; inset: 0; pointer-events: none; user-select: none; }
+  #crosshair { position: absolute; left: 50%; top: 50%; width: 18px; height: 18px; transform: translate(-50%, -50%); }
+  #crosshair::before, #crosshair::after { content: ''; position: absolute; background: #fff; box-shadow: 0 0 2px #000; }
+  #crosshair::before { left: 8px; top: 0; width: 2px; height: 18px; }
+  #crosshair::after { top: 8px; left: 0; height: 2px; width: 18px; }
+  #crosshair.hit::before, #crosshair.hit::after { background: #ff5a3c; }
+  .panel { position: absolute; padding: 10px 14px; background: rgba(0,0,0,.45); border-radius: 10px; font-weight: 600; text-shadow: 0 1px 2px #000; }
+  #stats { left: 18px; bottom: 18px; min-width: 150px; }
+  #ammo { right: 18px; bottom: 18px; font-size: 26px; }
+  #info { left: 18px; top: 18px; font-size: 13px; font-weight: 500; line-height: 1.5; }
+  #score { right: 18px; top: 18px; font-size: 15px; }
+  .bar { height: 8px; width: 150px; background: rgba(255,255,255,.2); border-radius: 4px; margin: 4px 0 8px; overflow: hidden; }
+  .bar > div { height: 100%; width: 100%; border-radius: 4px; }
+  #health { background: #5fd35f; } #fuel { background: #ffb339; }
+  #overlay { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; background: rgba(10,14,24,.78); cursor: pointer; text-align: center; padding: 16px; }
+  #overlay h1 { font-size: 44px; margin: 0 0 8px; letter-spacing: 2px; }
+  #overlay p { margin: 4px 0; opacity: .85; }
+  #overlay table { margin-top: 18px; border-collapse: collapse; font-size: 14px; text-align: left; }
+  #overlay td { padding: 3px 14px; }
+  #overlay td:first-child { opacity: .7; }
+</style>
+</head>
+<body>
+<div id="hud">
+  <div id="crosshair"></div>
+  <div id="info" class="panel"></div>
+  <div id="score" class="panel"></div>
+  <div id="stats" class="panel">
+    Health<div class="bar"><div id="health"></div></div>
+    Jetpack<div class="bar"><div id="fuel"></div></div>
+  </div>
+  <div id="ammo" class="panel"></div>
+</div>
+<div id="overlay">
+  <h1>TOY SOLDIERS</h1>
+  <p id="overlay-status">Loading…</p>
+  <table>
+    <tr><td>Move / look</td><td>WASD + mouse · left stick + right stick</td></tr>
+    <tr><td>Fire / aim</td><td>Left click / right click · RT / LT</td></tr>
+    <tr><td>Jump, hold for jetpack</td><td>Space · A</td></tr>
+    <tr><td>Sprint</td><td>Shift · L3</td></tr>
+    <tr><td>Reload</td><td>R · X</td></tr>
+    <tr><td>First / third person</td><td>V · Y</td></tr>
+    <tr><td>Day / night</td><td>N · D-pad up</td></tr>
+  </table>
+</div>
+<script type="module" src="/src/main.js"></script>
+</body>
+</html>
