@@ -147,6 +147,7 @@ export class Weapon {
     setGun(this.fp, this.def.model, 'full');
     animateSoldier(this.fp, p.walkPhase, p.runBlend, p.horizontal.length() / CONFIG.move.walkSpeed, {
       pitch: 0, kick: this.kick, reload: lowered, sprint: p.sprintBlend * (1 - a), ads: a, moveAngle: p.moveAngle ?? 0,
+      relief: 0.78, // closer than other soldiers hold it: a larger sight picture
     });
     this.fp.root.position.copy(this.fp.eye).negate(); // his eye at the camera
     this.holder.position.set(

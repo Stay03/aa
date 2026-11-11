@@ -221,6 +221,16 @@ function boneChunks(geometry, rest) {
   return out;
 }
 
+// Guns: their own dark plastic (or the team colour if gunColor is null).
+let gunMat = null;
+function gunMaterial(team) {
+  if (CONFIG.soldier.gunColor == null) return soldierMaterial(team);
+  gunMat ??= new THREE.MeshStandardMaterial({ color: CONFIG.soldier.gunColor, roughness: 0.4, metalness: 0, vertexColors: true, side: THREE.DoubleSide });
+  return gunMat;
+}
+const dotGeometry = new THREE.SphereGeometry(0.011, 10, 8);
+const dotMaterial = new THREE.MeshBasicMaterial({ color: 0xff2a1a, toneMapped: false });
+
 const materials = {};
 export function soldierMaterial(team) {
   materials[team] ??= new THREE.MeshStandardMaterial({
@@ -250,20 +260,21 @@ export function createSoldier(team, { detail = 'game', hideHead = false, gun = C
   root.add(mesh);
   if (hideHead) bones[B.head].scale.setScalar(0.001);
 
-  const gunMesh = new THREE.Mesh(assets.guns[gun][detail], material);
+  const gunMesh = new THREE.Mesh(assets.guns[gun][detail], gunMaterial(team));
   gunMesh.castShadow = true;
   gunMesh.receiveShadow = true;
   gunMesh.frustumCulled = false;
   root.add(gunMesh);
   const muzzle = new THREE.Object3D();
-  gunMesh.add(muzzle);
+  const dot = new THREE.Mesh(dotGeometry, dotMaterial); // red-dot reticle, shown for guns that have one
+  gunMesh.add(muzzle, dot);
 
   const model = {
-    root, mesh, bones, material, gunMesh, muzzle, gunId: null, hold: null,
+    root, mesh, bones, material, gunMesh, muzzle, dot, gunId: null, hold: null,
     eye: new THREE.Vector3(), // where his eye is, in the soldier's own space (updated by animateSoldier)
     pieces: [
       ...(assets.pieces.game).map((c) => ({ geometry: c.geometry, matrix: c.matrix, parent: bones[c.bone] })),
-      { geometry: assets.guns[gun].game, matrix: new THREE.Matrix4(), parent: gunMesh },
+      { geometry: assets.guns[gun].game, matrix: new THREE.Matrix4(), parent: gunMesh, material: gunMesh.material },
     ],
   };
   setGun(model, gun, detail);
@@ -277,6 +288,8 @@ export function setGun(model, id, detail = 'game') {
   model.hold = g.hold;
   model.gunMesh.geometry = g[detail];
   model.muzzle.position.copy(g.hold.muzzle);
+  model.dot.visible = !!g.hold.dot;
+  model.dot.position.copy(g.hold.sight);
   model.pieces[model.pieces.length - 1].geometry = g.game;
 }
 
@@ -329,13 +342,14 @@ function gait(curve, p) {
 // Run cycle, aim, recoil, reload, sprint, and holding the gun.
 //   phase: advances with distance (2π per stride); amount: 0 standing to 1 running;
 //   pace: 1 at a jog, higher sprinting.
-//   pose: { pitch (radians), kick, reload, sprint, ads, moveAngle } — ads is 1
+//   pose: { pitch (radians), kick, reload, sprint, ads, moveAngle, relief } — ads is 1
 //   with the gun up at the eye (how other soldiers always hold it) and 0 at
 //   the hip; moveAngle is the direction of travel relative to where he faces
-//   (0 forward, π/2 to his right, π backward).
+//   (0 forward, π/2 to his right, π backward); relief scales how far in front of
+//   the eye the sight is held (first person brings it closer for a larger sight picture).
 export function animateSoldier(model, phase, amount, pace = 1, pose = {}) {
   const { rest, J, hands } = assets;
-  const { pitch = 0, kick = 0, reload = 0, sprint = 0, ads = 1, moveAngle = 0 } = pose;
+  const { pitch = 0, kick = 0, reload = 0, sprint = 0, ads = 1, moveAngle = 0, relief = 1 } = pose;
   const aim = THREE.MathUtils.clamp(pitch, -0.9, 0.9);
   const carry = Math.max(sprint, reload);
   const fwd = Math.cos(moveAngle), sideways = Math.sin(moveAngle);
@@ -377,13 +391,15 @@ export function animateSoldier(model, phase, amount, pace = 1, pose = {}) {
   const h = model.hold;
   const low = 1 - ads;
   gunQ.setFromEuler(_e.set(
-    aim * (1 - carry) - 0.6 * sprint - 0.65 * reload + 0.09 * kick,
-    0.2 * low + 0.5 * sprint,
-    -0.1 * low + 0.45 * reload + 0.15 * sprint, 'YXZ'));
-  gunP.set(0, 0, -(h.reach ?? 0.72)).applyQuaternion(gunQ).add(model.eye).sub(_a.copy(h.sight).applyQuaternion(gunQ)); // sight held in front of the eye
-  gunP.x += 0.45 * low + 0.1 * carry;
-  gunP.y -= 0.3 * low + 0.75 * carry;
-  gunP.z += -0.05 * low + 0.14 * kick;
+    aim * (1 - carry) - 0.6 * sprint - 0.65 * reload + 0.09 * kick + 0.03 * low,
+    0.13 * low + 0.5 * sprint,
+    -0.07 * low + 0.45 * reload + 0.15 * sprint, 'YXZ'));
+  gunP.set(0, 0, -(h.reach ?? 0.72) * relief).applyQuaternion(gunQ).add(model.eye).sub(_a.copy(h.sight).applyQuaternion(gunQ)); // sight held in front of the eye
+  // At the hip the gun drops just below the eye line and out to the right,
+  // close enough to fill the lower right of the view.
+  gunP.x += 0.3 * low + 0.1 * carry;
+  gunP.y -= 0.23 * low + 0.75 * carry;
+  gunP.z += -0.06 * low + 0.14 * kick;
   model.gunMesh.position.copy(gunP);
   model.gunMesh.quaternion.copy(gunQ);
 

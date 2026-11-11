@@ -1,5 +1,5 @@
 // Prepare a gun model for the game.
-//   node tools/gun2glb.mjs <in.glb|in.obj> <out-basename> --length <cm> --grip <mat> --fore <mat> --stock <mat> --sight <mat> --barrel <mat> [--skip <mat>] [--reach cm] [--lod triangles] [--max triangles]
+//   node tools/gun2glb.mjs <in.glb|in.obj> <out-basename> --length <cm> --grip <mat> --fore <mat> --stock <mat> --sight <mat> --barrel <mat> [--skip <mat>] [--reach cm] [--dot 1] [--lod triangles] [--max triangles]
 //
 // The named parts (a .glb's material names, an .obj's group names, or a
 // box:x0,y0,z0,x1,y1,z1 region of the source model) tell it which are the pistol grip, the fore grip
@@ -84,6 +84,7 @@ const g = span(grip), f = span(named(opt.fore)), st = span(stock), si = span(nam
 const r3 = (v) => v.map((c) => +c.toFixed(3));
 const info = {
   length: opt.length,
+  dot: opt.dot ? true : undefined,                                                 // a red-dot sight: draw the dot
   reach: opt.reach,                                                                // how far in front of the eye the sight is held
   grip: r3([0, (g.lo[1] + g.hi[1]) / 2 + 0.04, (g.lo[2] + g.hi[2]) / 2]),         // right hand
   // Left hand: part-way up a vertical fore grip, or underneath a handguard.

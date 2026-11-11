@@ -81,7 +81,7 @@ export class Effects {
     let left = model.pieces.length;
     const done = () => { if (--left === 0) material.dispose(); };
     for (const piece of model.pieces) {
-      const mesh = new THREE.Mesh(piece.geometry, material);
+      const mesh = new THREE.Mesh(piece.geometry, piece.material ?? material);
       _m.multiplyMatrices(piece.parent.matrixWorld, piece.matrix).decompose(mesh.position, mesh.quaternion, mesh.scale);
       mesh.receiveShadow = true; // keeps the soldier's shader variant: no compile hitch
       this.scene.add(mesh);

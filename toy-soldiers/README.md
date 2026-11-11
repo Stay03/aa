@@ -80,14 +80,15 @@ The soldier is a gun-less character mesh with a skeleton, holding a separate gun
 - **Animation**: a keyframed run cycle (foot strike, push-off, knee drive) whose legs step in the direction of travel, forward, sideways or backward; the spine follows the aim; both arms are solved every frame to reach the gun's grips wherever the gun is (aiming, recoil, reload, sprint carry). Soldiers break into one piece per bone when shot.
 - **First person** is a second copy of the player's soldier at full detail with the head hidden, seen from his eye, so it always matches what others see.
 
+Guns are painted a separate dark plastic so they read against the hands (`soldier.gunColor` in `src/config.js`; set it to `null` for one-colour figures). A gun prepared with `--dot 1` gets a glowing red dot in its sight.
+
 To add a gun: `node tools/gun2glb.mjs <gun.glb> public/models/guns/<name> --length <cm> --grip <material> --fore <material> --stock <material> --sight <material> --barrel <material>`, then set `model: '<name>'` on a weapon in `src/config.js`. A part can also be given as a region of the source model (`box:x0,y0,z0,x1,y1,z1`) when the gun has no separate part for it; `public/models/guns/CREDITS.txt` lists the sources.
 
 Earlier static figures (nimproductions, CC BY 4.0; Dolphin-GS) are kept in `public/models/soldier/` for the gallery. All credits: `public/models/soldier/CREDITS.txt` and `public/models/guns/CREDITS.txt`. Kenney's CC0 models are in `public/models/kenney/`.
 
 ![Run cycle, eight frames of one stride](docs/run-cycle.png)
 ![Close-up: front quarter, back, legs mid-stride](docs/soldier-close-up.png)
-![M4A1: third person, then first person at the hip and aiming](docs/gun-m4a1.png)
-![Glock 19: third person, then first person at the hip and aiming](docs/gun-glock.png)
+![Every weapon: first person at the hip, aiming, and third person](docs/weapon-views.png)
 
 ## Model gallery
 

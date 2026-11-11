@@ -4,7 +4,9 @@ export const CONFIG = {
   gravity: 120, // tuned for feel at toy scale, not real-world 981 cm/s^2
 
   // `model` is the converted figure in public/models/soldier/ (see tools/stl2glb.mjs).
-  soldier: { height: 6, radius: 1.1, eyeHeight: 5.3, model: 'assault' },
+  // `gunColor` paints guns a separate dark plastic so they read against the
+  // hands; set it to null for one-colour figures, guns included.
+  soldier: { height: 6, radius: 1.1, eyeHeight: 5.3, model: 'assault', gunColor: 0x2b2e31 },
 
   move: {
     walkSpeed: 34,
@@ -26,7 +28,8 @@ export const CONFIG = {
   camera: {
     fov: 75,
     adsFov: 48,
-    thirdPerson: { distance: 11, height: 5.6, shoulder: 2.2 },
+    // Over the right shoulder, close enough that the soldier fills about 40% of the height.
+    thirdPerson: { distance: 6.6, height: 5.5, shoulder: 1.5 },
     mouseSensitivity: 0.0022,
     stickSensitivity: 2.6,
   },
