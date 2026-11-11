@@ -7,6 +7,7 @@ import { buildRoom } from './world/Room.js';
 import { buildMap01, SPAWNS } from './world/map01.js';
 import { Lighting } from './world/Lighting.js';
 import { Player } from './entities/Player.js';
+import { preloadSoldier } from './entities/FigureSoldier.js';
 import { Bot } from './entities/Bot.js';
 import { CameraRig } from './systems/CameraRig.js';
 import { Weapon } from './systems/Weapon.js';
@@ -59,6 +60,7 @@ async function boot() {
     });
   }
 
+  await preloadSoldier();
   const n = CONFIG.match.teamSize;
   const player = new Player(ctx, ...SPAWNS.green[0]);
   ctx.soldiers.push(player);

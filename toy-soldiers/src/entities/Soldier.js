@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 import { CONFIG } from '../config.js';
 import { RAPIER } from '../core/Physics.js';
-import { createSoldier, animateLegs } from './SoldierModel.js';
+import { createSoldier, animateSoldier } from './FigureSoldier.js';
 
 const { soldier: S, move: M, jetpack: J } = CONFIG;
 const HALF = S.height / 2;
@@ -206,6 +206,6 @@ export class Soldier {
     m.root.rotation.y = this.yaw;
     const speed = this.horizontal.length();
     this.walkPhase += dt * speed * 0.42;
-    animateLegs(m, this.walkPhase, this.grounded ? Math.min(1, speed / M.walkSpeed) : 0.3);
+    animateSoldier(m, this.walkPhase, this.grounded ? Math.min(1, speed / M.walkSpeed) : 0);
   }
 }

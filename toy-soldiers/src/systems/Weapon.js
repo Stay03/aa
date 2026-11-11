@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 import { CONFIG } from '../config.js';
 import { buildGun } from '../entities/GunModels.js';
-import { TEAM_COLORS } from '../entities/SoldierModel.js';
+import { TEAM_COLORS } from '../entities/FigureSoldier.js';
 
 const SWAP_SECONDS = 0.35;
 const VIEW_FOV = 50;

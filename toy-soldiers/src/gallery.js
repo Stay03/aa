@@ -9,6 +9,7 @@ import { alphabetBlock, crayon, toyCar } from './world/toys.js';
 import { createSoldier, createSculptedSoldier, animateLegs, TEAM_COLORS } from './entities/SoldierModel.js';
 import { createKenneySoldier } from './entities/KenneySoldier.js';
 import { buildGun } from './entities/GunModels.js';
+import { createFigureSoldier } from './entities/FigureSoldier.js';
 
 const BASE = `${import.meta.env.BASE_URL}models/kenney/`;
 const renderer = new THREE.WebGLRenderer({ antialias: true });
@@ -95,6 +96,21 @@ for (const [team, x, z] of [['green', SX[2], 0], ['tan', SX[2], -9], [null, SX[3
 alphabetBlock(ctx, -22, 0, 1, 0.3);
 crayon(ctx, 21, 2, 0xe23a3a, 1.2);
 
+// --------------------------------------------------------- figure soldier
+// The nimproductions figure: full detail and the lighter game version,
+// then the same figure turned to show its sides and back.
+const QZ = -60;
+[['green', 'shooting.glb', -12, 0, 0], ['green', 'shooting-lod.glb', -4, 0, 0], ['tan', 'shooting-lod.glb', 4, 0, 0],
+  ['green', 'shooting-lod.glb', 12, 0, 90], ['green', 'shooting-lod.glb', -4, 10, 180], ['tan', 'shooting-lod.glb', 4, 10, -90]].forEach(([team, file, x, dz, turn]) => {
+  createFigureSoldier(team, file).then((m) => {
+    m.root.position.set(x, 0, QZ - dz);
+    m.root.rotation.y = (turn * Math.PI) / 180;
+    scene.add(m.root);
+  });
+});
+label('Full detail\n74k triangles', -12, 8.4, QZ);
+label('Game version\n20k triangles', -4, 8.4, QZ);
+
 // -------------------------------------------------------------------- cars
 const CZ = 60;
 toyCar(ctx, -32, CZ, 0xd83a2e, 0.5);
@@ -141,6 +157,8 @@ label('Kenney CC0 toy blasters', 0, 1.8, GZ + 11, 3.2);
 const VIEWS = {
   Soldiers: { pos: [0, 8, 30], target: [0, 3.8, -2] },
   'Soldier close-up': { pos: [-2, 6, 12.5], target: [0, 3.3, 0] },
+  Figure: { pos: [0, 8, QZ + 26], target: [0, 3.4, QZ - 3] },
+  'Figure close-up': { pos: [-8, 4.6, QZ + 11], target: [-8, 3.2, QZ] },
   Cars: { pos: [16, 34, CZ + 92], target: [16, 6, CZ] },
   Guns: { pos: [0, 52, GZ + 118], target: [0, 4, GZ + 16] },
 };

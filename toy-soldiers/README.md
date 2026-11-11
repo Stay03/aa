@@ -4,6 +4,7 @@ A first- and third-person shooter in the browser, built with three.js and the
 Rapier physics engine. You are a 6 cm plastic soldier in a child's bedroom; the
 toy chest has tipped over and its contents are the map.
 
+![The sculpted soldier in game](docs/soldier-in-game.png)
 ![Day, third person](docs/day-third-person.png)
 ![Night, first person](docs/night-first-person.png)
 ![Rifle at the hip](docs/rifle-hip.png)
@@ -58,21 +59,23 @@ Open the printed URL in a desktop browser and click to play.
 
 - Grenades and unlocks.
 - Bots using the jetpack or climbing; they stay on the floor.
-- Sourced toy models; everything is currently generated in code.
+- More soldier poses (run, kneel) and sourced models for the other toys.
 - Multiplayer.
 - The random-spill map generator.
 
+## Soldier model and credits
+
+The soldier is **"Modern Soldier Shooting Toy Soldier 3D Print" by nimproductions**, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ([source](https://sketchfab.com/3d-models/f27db3465a0549a5897749b6b521df6b)). It was converted from the 3D-print STL with `tools/stl2glb.mjs`, which welds the mesh, recomputes normals, removes the moulded base, scales the figure to 6 cm, points its weapon forward and writes a 20,000-triangle game version. Details are in `public/models/soldier/CREDITS.txt`.
+
+It is one rigid pose, like a real army man: moving soldiers rock and hop instead of animating limbs, and they still break into pieces and melt when shot.
+
+To convert another figure: `node tools/stl2glb.mjs <file.stl> public/models/soldier/<name>`.
+
+Kenney's CC0 models (kenney.nl) are in `public/models/kenney/`, each pack with its `License.txt`.
+
 ## Model gallery
 
-`npm run dev`, then open `/gallery.html`: candidate soldiers, cars and guns side by side under the game's lighting, for choosing an art direction. It is not part of the game.
-
-- **A** the current block soldier and **B** a new sculpted soldier, both built in code (`src/entities/SoldierModel.js`).
-- **C / D** Kenney's Mini Characters soldier, rigged and animated, recoloured as one-colour plastic or in its own colours (`src/entities/KenneySoldier.js`).
-- Kenney's Toy Car Kit vehicles and Blaster Kit toy guns next to the current code-built ones.
-
-The Kenney models are CC0 (public domain) from kenney.nl; each pack's `License.txt` is kept beside its files in `public/models/kenney/`.
-
-![Soldier candidates](docs/gallery/soldiers.png)
+`npm run dev`, then open `/gallery.html` to compare models under the game's lighting: the soldier figure at full and game detail, the earlier code-built and Kenney soldier candidates, and Kenney's toy cars and blasters next to the current code-built ones. It is not part of the game.
 
 ## Performance
 
@@ -94,7 +97,8 @@ The Kenney models are CC0 (public domain) from kenney.nl; each pack's `License.t
 | `src/config.js` | Scale and all tuning numbers |
 | `src/core/` | Input (keyboard, mouse, gamepad), saved settings, automatic resolution and the physics wrapper |
 | `src/world/` | Room, toy factories, map 01 placement, static-mesh baking, lighting, materials |
-| `src/entities/` | Soldier base class and model, first-person gun models, player, bot |
+| `src/entities/` | Soldier base class, the sculpted soldier figure, first-person gun models, player, bot |
+| `tools/` | `stl2glb.mjs`, the STL-to-game-model converter |
 | `src/systems/` | Camera rig, weapon, combat, navigation grid, match rules, audio, effects |
 | `src/ui/` | HUD and menus |
 
