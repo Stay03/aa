@@ -1,5 +1,5 @@
-// Convert a 3D-print STL figure into game-ready .glb files.
-//   node tools/stl2glb.mjs <in.stl> <out-basename> [--up z|y] [--turn degrees] [--height cm] [--lod triangles] [--aim keep] [--base keep]
+// Convert a sculpted figure (binary STL or OBJ) into game-ready .glb files.
+//   node tools/stl2glb.mjs <in.stl|in.obj> <out-basename> [--up z|y|-z|-y] [--turn degrees] [--height cm] [--lod triangles] [--aim keep] [--base keep]
 // Welds the STL's loose triangles into a shared-vertex mesh, computes smooth
 // normals, stands the figure on y = 0 centred on its base, scales it to the
 // toy height, turns it so its weapon points down -z, and writes <out>.glb, a
@@ -10,20 +10,37 @@ import { analyze } from './analyze.mjs';
 
 const [input, outBase, ...rest] = process.argv.slice(2);
 const opt = { up: 'z', turn: 0, height: 6, lod: 20000, base: 'remove' };
-for (let i = 0; i < rest.length; i += 2) opt[rest[i].replace('--', '')] = isNaN(Number(rest[i + 1])) ? rest[i + 1] : Number(rest[i + 1]);
+for (let i = 0; i < rest.length; i += 2) opt[rest[i].replace(/^--/, '')] = isNaN(Number(rest[i + 1])) ? rest[i + 1] : Number(rest[i + 1]);
 
-// ---- read binary STL ---------------------------------------------------------
-const buf = readFileSync(input);
-let triCount = buf.readUInt32LE(80);
-if (84 + triCount * 50 !== buf.length) throw new Error('Not a binary STL (size does not match its triangle count)');
-let raw = new Float32Array(triCount * 9);
-for (let t = 0; t < triCount; t++) for (let k = 0; k < 9; k++) raw[t * 9 + k] = buf.readFloatLE(84 + t * 50 + 12 + k * 4);
+// ---- read the model: binary STL or OBJ -------------------------------------------
+let triCount, raw;
+if (input.toLowerCase().endsWith('.obj')) {
+  const verts = [], tris = [];
+  for (const line of readFileSync(input, 'utf8').split('\n')) {
+    if (line.startsWith('v ')) { const p = line.split(/\s+/); verts.push(+p[1], +p[2], +p[3]); }
+    else if (line.startsWith('f ')) {
+      const ids = line.trim().split(/\s+/).slice(1).map((t) => { const i = parseInt(t, 10); return i < 0 ? verts.length / 3 + i : i - 1; });
+      for (let k = 1; k < ids.length - 1; k++) tris.push(ids[0], ids[k], ids[k + 1]); // fan-triangulate quads and n-gons
+    }
+  }
+  triCount = tris.length / 3;
+  raw = new Float32Array(triCount * 9);
+  for (let i = 0; i < tris.length; i++) raw.set(verts.slice(tris[i] * 3, tris[i] * 3 + 3), i * 3);
+} else {
+  const buf = readFileSync(input);
+  triCount = buf.readUInt32LE(80);
+  if (84 + triCount * 50 !== buf.length) throw new Error('Not a binary STL (size does not match its triangle count)');
+  raw = new Float32Array(triCount * 9);
+  for (let t = 0; t < triCount; t++) for (let k = 0; k < 9; k++) raw[t * 9 + k] = buf.readFloatLE(84 + t * 50 + 12 + k * 4);
+}
 
 // ---- orient: y up, then turn about y -----------------------------------------
 const c = Math.cos((opt.turn * Math.PI) / 180), s = Math.sin((opt.turn * Math.PI) / 180);
 for (let i = 0; i < raw.length; i += 3) {
   let x = raw[i], y = raw[i + 1], z = raw[i + 2];
   if (opt.up === 'z') [x, y, z] = [x, z, -y];
+  else if (opt.up === '-z') [x, y, z] = [x, -z, y];
+  else if (opt.up === '-y') [x, y, z] = [x, -y, -z];
   raw[i] = c * x + s * z; raw[i + 1] = y; raw[i + 2] = -s * x + c * z;
 }
 const bounds = () => {
@@ -50,16 +67,19 @@ if (opt.base === 'remove') {
   for (let t = 0; t < triCount; t++) {
     const { up, area, y } = tri(t);
     const h = (y - lo[1]) / H;
-    if (up > 0.95 && h < 0.2) bins[Math.floor(h * 1000)] += area;
+    if (up > 0.95 && h < 0.08) bins[Math.floor(h * 1000)] += area;
   }
   let best = 0;
   for (let i = 1; i < bins.length; i++) if (bins[i] > bins[best]) best = i;
   const cutY = lo[1] + ((best + 1.5) / 1000) * H;
+  // A real base is a wide flat disc. Without one, leave the figure alone.
+  const hasBase = bins[best] > 0.05 * H * H;
+  if (!hasBase) console.log('no moulded base found; nothing removed');
   const kept = [];
-  for (let t = 0; t < triCount; t++) if (tri(t).y > cutY) kept.push(t);
+  for (let t = 0; t < triCount; t++) if (!hasBase || tri(t).y > cutY) kept.push(t);
   const next = new Float32Array(kept.length * 9);
   kept.forEach((t, i) => next.set(raw.subarray(t * 9, t * 9 + 9), i * 9));
-  console.log(`base removed: top found at ${(((best + 0.5) / 1000) * 100).toFixed(1)}% of the height, ${triCount - kept.length} triangles dropped`);
+  if (hasBase) console.log(`base removed: top found at ${(((best + 0.5) / 1000) * 100).toFixed(1)}% of the height, ${triCount - kept.length} triangles dropped`);
   raw = next;
   triCount = kept.length;
   ({ lo, hi } = bounds());

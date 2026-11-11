@@ -3,7 +3,8 @@
 export const CONFIG = {
   gravity: 120, // tuned for feel at toy scale, not real-world 981 cm/s^2
 
-  soldier: { height: 6, radius: 1.1, eyeHeight: 5.3 },
+  // `model` is the converted figure in public/models/soldier/ (see tools/stl2glb.mjs).
+  soldier: { height: 6, radius: 1.1, eyeHeight: 5.3, model: 'pose40' },
 
   move: {
     walkSpeed: 34,

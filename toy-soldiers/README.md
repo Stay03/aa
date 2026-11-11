@@ -65,7 +65,11 @@ Open the printed URL in a desktop browser and click to play.
 
 ## Soldier model and credits
 
-The soldier is **"Modern Soldier Shooting Toy Soldier 3D Print" by nimproductions**, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ([source](https://sketchfab.com/3d-models/f27db3465a0549a5897749b6b521df6b)). It was converted from the 3D-print STL with `tools/stl2glb.mjs`, which welds the mesh, recomputes normals, removes the moulded base, scales the figure to 6 cm, points its weapon forward and writes a 20,000-triangle game version. Details are in `public/models/soldier/CREDITS.txt`.
+Which figure the game uses is set by `soldier.model` in `src/config.js`. It is currently `pose40`: pose 40 of "US Soldier Set 05" by Dolphin-GS. That set is a paid asset, so its files are **not in this repository** (they are in `.gitignore`). Convert your own copy with the command in `public/models/soldier/CREDITS.txt`. If the files are absent, the game falls back to the freely licensed figure below.
+
+The fallback, always present, is **"Modern Soldier Shooting Toy Soldier 3D Print" by nimproductions** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)); "Modern Soldier Relaxed" by the same artist is kept for comparison in the gallery. All credits are in `public/models/soldier/CREDITS.txt`.
+
+`tools/stl2glb.mjs` converts a sculpt (STL or OBJ): it welds the mesh, recomputes normals, removes a moulded base if there is one, scales the figure to 6 cm, points its weapon forward, measures its joints and rifle, and writes a full-detail version and a 20,000-triangle game version.
 
 The sculpt is a single rigid pose. To make it run, the converter measures where the hips, knees and ankles are, and the game gives the legs a small skeleton and skins the mesh to it (`src/entities/FigureSoldier.js`). Standing still, the figure is exactly the sculpt; moving, the legs stride. The rifle and both arms move as one piece from the shoulders: they follow the aim up and down, kick on each shot, dip to reload, and drop low across the body when sprinting. Soldiers still break into pieces and melt when shot.
 
@@ -74,7 +78,7 @@ First person shows the soldier's own arms and rifle, cut from the full-detail fi
 ![Run cycle](docs/run-cycle.png)
 ![Upper-body poses: rest, aim up, aim down, recoil, reload, sprint](docs/upper-body-poses.png)
 
-To convert another figure: `node tools/stl2glb.mjs <file.stl> public/models/soldier/<name>`.
+To convert another figure: `node tools/stl2glb.mjs <file.stl or .obj> public/models/soldier/<name> --up z` (use `--up -z` if it comes out upside down), then set `soldier.model` to `<name>`.
 
 Kenney's CC0 models (kenney.nl) are in `public/models/kenney/`, each pack with its `License.txt`.
 

@@ -1,6 +1,7 @@
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { plastic } from '../world/materials.js';
+import { CONFIG } from '../config.js';
 
 // The soldier everyone plays as: a sculpted toy-soldier figure
 // ("Modern Soldier Shooting Toy Soldier 3D Print" by nimproductions, CC BY 4.0;
@@ -34,11 +35,18 @@ export function loadFigure(file) {
 
 // Call once before creating soldiers.
 export async function preloadSoldier() {
-  const [geometry, detailed, meta] = await Promise.all([
-    loadFigure('shooting-lod.glb'),
-    loadFigure('shooting.glb'), // full detail, used only for the close-up first-person view
-    fetch(`${BASE}shooting.json`).then((r) => r.json()),
+  // Licensed figures are kept out of the repository (see .gitignore), so the
+  // configured one may be absent on a fresh checkout: fall back to the
+  // freely licensed figure that is always present.
+  const load = (name) => Promise.all([
+    loadFigure(`${name}-lod.glb`),
+    loadFigure(`${name}.glb`), // full detail, used only for the close-up first-person view
+    fetch(`${BASE}${name}.json`).then((r) => { if (!r.ok) throw new Error(`${name}.json missing`); return r.json(); }),
   ]);
+  const [geometry, detailed, meta] = await load(CONFIG.soldier.model).catch((err) => {
+    console.info(`Soldier model "${CONFIG.soldier.model}" not found (${err.message}); using "shooting".`);
+    return load('shooting');
+  });
   info = meta;
   pieces = splitIntoPieces(geometry);
   skin(geometry);

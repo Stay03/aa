@@ -100,16 +100,16 @@ crayon(ctx, 21, 2, 0xe23a3a, 1.2);
 // The nimproductions figure: full detail and the lighter game version,
 // then the same figure turned to show its sides and back.
 const QZ = -60;
-[['green', 'shooting.glb', -12, 0, 180], ['green', 'shooting.glb', -4, 0, 90], ['green', 'relaxed.glb', 4, 0, 180], ['green', 'relaxed.glb', 12, 0, 90],
-  ['tan', 'shooting-lod.glb', -4, 10, 0], ['tan', 'relaxed-lod.glb', 4, 10, 0]].forEach(([team, file, x, dz, turn]) => {
+[['green', 'shooting.glb', -12, 0, 180], ['green', 'shooting.glb', -4, 0, 90], ['green', 'pose40.glb', 4, 0, 180], ['green', 'pose40.glb', 12, 0, 90],
+  ['tan', 'shooting-lod.glb', -4, 10, 0], ['tan', 'pose40-lod.glb', 4, 10, 0]].forEach(([team, file, x, dz, turn]) => {
   createFigureSoldier(team, file).then((m) => {
     m.root.position.set(x, 0, QZ - dz);
     m.root.rotation.y = (turn * Math.PI) / 180;
     scene.add(m.root);
-  });
+  }).catch(() => {}); // a licensed figure that is not in this checkout
 });
 label('Shooting\n(front, side)', -8, 8.6, QZ, 1.3);
-label('Relaxed\n(front, side)', 8, 8.6, QZ, 1.3);
+label('Set 05 pose 40\n(front, side)', 8, 8.6, QZ, 1.3);
 
 // -------------------------------------------------------------------- cars
 const CZ = 60;

@@ -1,2 +1,5 @@
 node_modules/
 dist/
+
+# Paid soldier models: convert your own copy locally (see public/models/soldier/CREDITS.txt)
+public/models/soldier/pose*

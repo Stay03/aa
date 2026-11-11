@@ -17,3 +17,16 @@ Licensed under Creative Commons Attribution 4.0 (CC BY 4.0)
 https://creativecommons.org/licenses/by/4.0/
 
 Changes: as above. Shown in the gallery only; not yet used in the game.
+
+pose40.glb, pose40-lod.glb  (NOT in the repository: a paid asset, see below)
+
+"US Soldier Set 05", pose 40, by Dolphin-GS.
+Supplied by the project owner. Credit to Dolphin-GS is required by the
+download page; confirm the licence covers use in a game before release.
+These files are listed in .gitignore so the paid model is not published.
+To use it, convert your own copy:
+  node tools/stl2glb.mjs US_Soldier_Set_05_40.obj public/models/soldier/pose40 --up -z
+Without it the game falls back to the "shooting" figure.
+
+Changes: converted from OBJ to glTF, vertices welded, normals recomputed,
+rescaled to 6 cm, re-oriented, and a simplified version generated.
