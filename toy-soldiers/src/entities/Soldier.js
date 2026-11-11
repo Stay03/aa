@@ -211,7 +211,8 @@ export class Soldier {
     m.root.position.set(this.position.x, this.feet, this.position.z);
     m.root.rotation.y = this.yaw;
     const speed = this.horizontal.length();
-    this.walkPhase += dt * speed * 0.42;
+    // Cadence rises with speed, up to about four strides a second.
+    this.walkPhase += dt * Math.min(speed * 0.62, 26);
     // Ease in and out of the run so the legs never snap between poses.
     const target = this.grounded ? Math.min(1, speed / (M.walkSpeed * 0.6)) : 0.35;
     this.runBlend += (target - this.runBlend) * (1 - Math.exp(-dt * 12));
@@ -221,8 +222,15 @@ export class Soldier {
     this.reloadBlend += ((this.isReloading ? 1 : 0) - this.reloadBlend) * ease;
     this.kick *= Math.exp(-dt * 16);
     setGun(m, this.gunModel ?? CONFIG.weapons.rifle.model);
+    // Which way he is travelling relative to where he faces, so the legs
+    // step that way: forward, sideways or backward.
+    if (speed > 1) {
+      const sin = Math.sin(this.yaw), cos = Math.cos(this.yaw);
+      const forward = -sin * this.horizontal.x - cos * this.horizontal.z, right = cos * this.horizontal.x - sin * this.horizontal.z;
+      this.moveAngle = Math.atan2(right, forward);
+    }
     animateSoldier(m, this.walkPhase, this.runBlend, speed / M.walkSpeed, {
-      sprint: this.sprintBlend, reload: this.reloadBlend, kick: this.kick, pitch: this.pitch,
+      sprint: this.sprintBlend, reload: this.reloadBlend, kick: this.kick, pitch: this.pitch, moveAngle: this.moveAngle ?? 0,
     });
   }
 }

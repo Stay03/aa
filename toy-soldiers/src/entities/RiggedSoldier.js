@@ -1,6 +1,5 @@
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
-import { plastic } from '../world/materials.js';
 import { CONFIG } from '../config.js';
 
 // The soldier: a gun-less character mesh with a skeleton built here, holding
@@ -58,6 +57,8 @@ export async function preloadSoldier() {
   const hands = { [-1]: side(-1), 1: side(1) };
   for (const g of [game, full]) skin(g, J, rest, hands);
   const guns = {};
+  // Guns share the soldier's material, which uses vertex colours: give them plain white.
+  for (const g of gunData) if (g.isBufferGeometry) g.setAttribute('color', new THREE.BufferAttribute(new Float32Array(g.getAttribute('position').count * 3).fill(1), 3));
   gunIds.forEach((id, i) => {
     const hold = gunData[i * 3 + 2];
     guns[id] = { game: gunData[i * 3], full: gunData[i * 3 + 1], hold: Object.fromEntries(Object.entries(hold).map(([k, v]) => [k, Array.isArray(v) ? V(v) : v])) };
@@ -72,56 +73,123 @@ function restPositions(J) {
 }
 
 // ---- skinning -------------------------------------------------------------------
-// Each bone is a segment with a thickness. A vertex follows the bones it is
-// closest to; hands and fingers are assigned by position along the arm.
+// Each vertex is assigned by where it sits on the body, not by raw distance
+// to bones: the torso blends smoothly by height, each limb blends along its
+// own length at the joints, and the result is then relaxed across the mesh
+// so neighbouring vertices never disagree sharply. That keeps flat things
+// (the vest, the back plate, pouches) flat when he twists and bends.
 function skin(geometry, J, rest, hands) {
-  const pos = geometry.getAttribute('position');
-  const idx = new Uint16Array(pos.count * 4), wgt = new Float32Array(pos.count * 4);
-  const L = J.left, R = J.right, up = (v, dy) => V(v).add(new THREE.Vector3(0, dy, 0));
-  const segs = [ // [bone, from, to, radius, side (0 = either)]
-    [B.hips, up(J.hips, -0.2), V(J.spine), 0.5, 0], [B.spine, V(J.spine), V(J.chest), 0.5, 0], [B.chest, V(J.chest), up(J.neck, -0.1), 0.6, 0],
-    [B.head, V(J.neck), V(J.headTop), 0.42, 0],
-    [B.armL, V(L.shoulder), V(L.elbow), 0.2, -1], [B.foreL, V(L.elbow), V(L.wrist), 0.17, -1],
-    [B.armR, V(R.shoulder), V(R.elbow), 0.2, 1], [B.foreR, V(R.elbow), V(R.wrist), 0.17, 1],
-    [B.thighL, V(L.hip), V(L.knee), 0.26, -1], [B.shinL, V(L.knee), V(L.ankle), 0.22, -1], [B.footL, V(L.ankle), V(L.toe), 0.2, -1],
-    [B.thighR, V(R.hip), V(R.knee), 0.26, 1], [B.shinR, V(R.knee), V(R.ankle), 0.22, 1], [B.footR, V(R.ankle), V(R.toe), 0.2, 1],
-  ];
-  const p = new THREE.Vector3(), ab = new THREE.Vector3(), q = new THREE.Vector3();
-  const dist = (a, b) => {
-    ab.subVectors(b, a);
-    const t = THREE.MathUtils.clamp(q.subVectors(p, a).dot(ab) / ab.lengthSq(), 0, 1);
-    return q.copy(a).addScaledVector(ab, t).distanceTo(p);
+  const pos = geometry.getAttribute('position'), n = pos.count;
+  const W = new Float32Array(n * COUNT);
+  const L = J.left, R = J.right;
+  const limb = (a) => {
+    const hip = V(a.hip), knee = V(a.knee), ankle = V(a.ankle), shoulder = V(a.shoulder), elbow = V(a.elbow);
+    return { hip, knee, ankle, shoulder, elbow, kneeDir: knee.clone().sub(hip).normalize().add(ankle.clone().sub(knee).normalize()).normalize() };
   };
-  for (let i = 0; i < pos.count; i++) {
+  const limbs = { [-1]: limb(L), 1: limb(R) };
+  const p = new THREE.Vector3(), q = new THREE.Vector3();
+  for (let i = 0; i < n; i++) {
     p.fromBufferAttribute(pos, i);
-    const s = p.x < 0 ? -1 : 1;
-    const cand = [];
-    for (const [bone, a, b, r, sd] of segs) {
-      if (sd && sd !== s) continue;
-      const d = Math.max(0, dist(a, b) - r);
-      cand.push([bone, 1 / (d + 0.05) ** 4]);
+    const s = p.x < 0 ? -1 : 1, lm = limbs[s], h = hands[s], o = i * COUNT;
+    const arm = s < 0 ? B.armL : B.armR, thigh = s < 0 ? B.thighL : B.thighR;
+
+    // Torso, by height.
+    const a = smooth(J.spine[1] - 0.4, J.spine[1] + 0.3, p.y);
+    const b = smooth(J.chest[1] - 0.35, J.chest[1] + 0.35, p.y);
+    const c = smooth(J.neck[1] - 0.18, J.neck[1] + 0.1, p.y);
+    let torso = 1;
+
+    // Leg: everything below the hips, split at the knee and the ankle.
+    const leg = 1 - smooth(J.hips[1] - 0.45, J.hips[1] + 0.2, p.y);
+    if (leg > 0) {
+      const shin = smooth(-0.25, 0.25, q.subVectors(p, lm.knee).dot(lm.kneeDir));
+      const foot = 1 - smooth(lm.ankle.y - 0.14, lm.ankle.y + 0.14, p.y);
+      W[o + thigh] = leg * (1 - shin);
+      W[o + thigh + 1] = leg * shin * (1 - foot);
+      W[o + thigh + 2] = leg * shin * foot;
+      torso -= leg;
     }
-    cand.sort((x, y) => y[1] - x[1]);
-    let top = cand.slice(0, 2);
-    // Hand and fingers: past the wrist, measured along the arm.
-    const h = hands[s];
-    const along = q.subVectors(p, h.wrist).dot(h.armDir);
-    const off = q.subVectors(p, h.wrist).addScaledVector(h.armDir, -along).length();
-    const hand = off < 0.7 ? smooth(-0.06, 0.08, along) : 0;
-    const fingers = hand * smooth(-0.05, 0.07, q.subVectors(p, h.knuckle).dot(h.armDir));
-    let sum = top.reduce((t, c) => t + c[1], 0);
-    const out = top.map(([bone, w]) => [bone, (w / sum) * (1 - hand)]);
-    if (hand > 0) out.push([s < 0 ? B.handL : B.handR, hand - fingers], [s < 0 ? B.fingersL : B.fingersR, fingers]);
-    for (let k = 0; k < 4; k++) { idx[i * 4 + k] = out[k]?.[0] ?? 0; wgt[i * 4 + k] = out[k]?.[1] ?? 0; }
+
+    // Arm: a sleeve around the line from shoulder to hand, outside the chest.
+    const t = q.subVectors(p, lm.shoulder).dot(h.armDir);
+    const radial = q.subVectors(p, lm.shoulder).addScaledVector(h.armDir, -t).length();
+    const sleeve = smooth(-0.28, 0.22, t) * (1 - smooth(0.3, 0.46, radial)) * smooth(0.42, 0.58, Math.abs(p.x)) * torso;
+    if (sleeve > 0) {
+      const fore = smooth(-0.22, 0.22, q.subVectors(p, lm.elbow).dot(h.armDir));
+      const hand = smooth(-0.06, 0.08, q.subVectors(p, h.wrist).dot(h.armDir));
+      const fingers = smooth(-0.05, 0.07, q.subVectors(p, h.knuckle).dot(h.armDir));
+      W[o + arm] = sleeve * (1 - fore);
+      W[o + arm + 1] = sleeve * fore * (1 - hand);
+      W[o + arm + 2] = sleeve * fore * hand * (1 - fingers);
+      W[o + arm + 3] = sleeve * fore * hand * fingers;
+      torso -= sleeve;
+    }
+    W[o + B.hips] = torso * (1 - a);
+    W[o + B.spine] = torso * a * (1 - b);
+    W[o + B.chest] = torso * a * b * (1 - c);
+    W[o + B.head] = torso * a * b * c;
+  }
+
+  // Relax across the mesh: each vertex moves toward the average of its neighbours.
+  const index = geometry.index, near = Array.from({ length: n }, () => new Set());
+  for (let t = 0; t < index.count; t += 3) {
+    const x = index.getX(t), y = index.getX(t + 1), z = index.getX(t + 2);
+    near[x].add(y).add(z); near[y].add(x).add(z); near[z].add(x).add(y);
+  }
+  let cur = W, next = new Float32Array(W.length);
+  for (let pass = 0; pass < 3; pass++) {
+    for (let i = 0; i < n; i++) {
+      const o = i * COUNT, k = near[i].size;
+      for (let bn = 0; bn < COUNT; bn++) {
+        let sum = 0;
+        for (const j of near[i]) sum += cur[j * COUNT + bn];
+        next[o + bn] = k ? 0.5 * cur[o + bn] + (0.5 * sum) / k : cur[o + bn];
+      }
+    }
+    [cur, next] = [next, cur];
+  }
+
+  // Keep the four strongest bones per vertex.
+  const idx = new Uint16Array(n * 4), wgt = new Float32Array(n * 4), order = Array.from({ length: COUNT }, (_, k) => k);
+  for (let i = 0; i < n; i++) {
+    const o = i * COUNT;
+    order.sort((x, y) => cur[o + y] - cur[o + x]);
+    let sum = 0;
+    for (let k = 0; k < 4; k++) sum += cur[o + order[k]];
+    for (let k = 0; k < 4; k++) { idx[i * 4 + k] = order[k]; wgt[i * 4 + k] = cur[o + order[k]] / (sum || 1); }
   }
   geometry.setAttribute('skinIndex', new THREE.BufferAttribute(idx, 4));
   geometry.setAttribute('skinWeight', new THREE.BufferAttribute(wgt, 4));
+  shadeCavities(geometry, near);
+}
+
+// Darken creases and recesses slightly, per vertex. A one-colour plastic
+// figure is hard to read without this: it is what makes pouches, straps and
+// folds stand out, the way dirt and shadow do on a real toy.
+function shadeCavities(geometry, near) {
+  const pos = geometry.getAttribute('position'), nor = geometry.getAttribute('normal'), n = pos.count;
+  let cav = new Float32Array(n);
+  const p = new THREE.Vector3(), q = new THREE.Vector3(), nv = new THREE.Vector3();
+  for (let i = 0; i < n; i++) {
+    p.fromBufferAttribute(pos, i); nv.fromBufferAttribute(nor, i);
+    let sum = 0;
+    for (const j of near[i]) sum += q.fromBufferAttribute(pos, j).sub(p).normalize().dot(nv); // > 0: neighbours rise above this vertex
+    cav[i] = near[i].size ? sum / near[i].size : 0;
+  }
+  for (let pass = 0; pass < 2; pass++) { // soften
+    const out = new Float32Array(n);
+    for (let i = 0; i < n; i++) { let sum = 0; for (const j of near[i]) sum += cav[j]; out[i] = near[i].size ? 0.5 * cav[i] + (0.5 * sum) / near[i].size : cav[i]; }
+    cav = out;
+  }
+  const col = new Float32Array(n * 3);
+  for (let i = 0; i < n; i++) col.fill(1 - THREE.MathUtils.clamp(cav[i] * 1.7, -0.12, 0.45), i * 3, i * 3 + 3);
+  geometry.setAttribute('color', new THREE.BufferAttribute(col, 3));
 }
 
 // Rigid chunks, one per bone, for the break-apart effect. Each is stored
 // relative to its bone, so it appears wherever that bone currently is.
 function boneChunks(geometry, rest) {
-  const pos = geometry.getAttribute('position'), nor = geometry.getAttribute('normal'), index = geometry.index;
+  const pos = geometry.getAttribute('position'), nor = geometry.getAttribute('normal'), col = geometry.getAttribute('color'), index = geometry.index;
   const si = geometry.getAttribute('skinIndex'), sw = geometry.getAttribute('skinWeight');
   const main = new Uint8Array(pos.count);
   for (let i = 0; i < pos.count; i++) {
@@ -138,24 +206,29 @@ function boneChunks(geometry, rest) {
   const out = [];
   tris.forEach((list, bone) => {
     if (list.length < 30) return;
-    const remap = new Map(), p = [], n = [], idx = [];
+    const remap = new Map(), p = [], n = [], cl = [], idx = [];
     for (const v of list) {
-      if (!remap.has(v)) { remap.set(v, p.length / 3); p.push(pos.getX(v) - rest[bone].x, pos.getY(v) - rest[bone].y, pos.getZ(v) - rest[bone].z); n.push(nor.getX(v), nor.getY(v), nor.getZ(v)); }
+      if (!remap.has(v)) { remap.set(v, p.length / 3); p.push(pos.getX(v) - rest[bone].x, pos.getY(v) - rest[bone].y, pos.getZ(v) - rest[bone].z); n.push(nor.getX(v), nor.getY(v), nor.getZ(v)); cl.push(col.getX(v), col.getY(v), col.getZ(v)); }
       idx.push(remap.get(v));
     }
     const g = new THREE.BufferGeometry();
     g.setAttribute('position', new THREE.Float32BufferAttribute(p, 3));
     g.setAttribute('normal', new THREE.Float32BufferAttribute(n, 3));
+    g.setAttribute('color', new THREE.Float32BufferAttribute(cl, 3));
     g.setIndex(idx);
     out.push({ geometry: g, bone, matrix: new THREE.Matrix4() });
   });
   return out;
 }
 
+const materials = {};
 export function soldierMaterial(team) {
-  const mat = plastic(TEAM_COLORS[team], { roughness: 0.45 });
-  mat.side = THREE.DoubleSide; // broken pieces are hollow
-  return mat;
+  materials[team] ??= new THREE.MeshStandardMaterial({
+    color: TEAM_COLORS[team], roughness: 0.45, metalness: 0,
+    vertexColors: true,       // cavity shading (see shadeCavities)
+    side: THREE.DoubleSide,   // broken pieces are hollow
+  });
+  return materials[team];
 }
 
 // ---- the soldier --------------------------------------------------------------------
@@ -235,36 +308,65 @@ function aimBone(model, i, restDir, dir, twist = 0) {
   model.bones[i].quaternion.copy(_q2.copy(wq[par]).invert()).multiply(wq[i]);
 }
 
+// One leg's angles through a running stride. `p` is 0 at foot strike, 0.4 at
+// toe-off, 1 at the next strike. Radians: thigh forward (+), knee flexed
+// (+), foot relative to the shin (toe up +).
+const GAIT = {
+  at: [0, 0.2, 0.4, 0.6, 0.8, 1],
+  thigh: [0.5, 0.02, -0.5, -0.08, 0.8, 0.5],
+  knee: [0.25, 0.5, 0.22, 1.65, 0.95, 0.25],
+  foot: [0.15, 0.0, -0.5, -0.35, -0.05, 0.15],
+};
+function gait(curve, p) {
+  p -= Math.floor(p);
+  const k = Math.min(4, Math.floor(p * 5)), t = p * 5 - k;
+  // Catmull-Rom through the keys, wrapping round the cycle.
+  const v = (j) => curve[((j % 5) + 5) % 5];
+  const p0 = v(k - 1), p1 = v(k), p2 = v(k + 1), p3 = v(k + 2);
+  return 0.5 * (2 * p1 + (p2 - p0) * t + (2 * p0 - 5 * p1 + 4 * p2 - p3) * t * t + (3 * p1 - p0 - 3 * p2 + p3) * t * t * t);
+}
+
 // Run cycle, aim, recoil, reload, sprint, and holding the gun.
 //   phase: advances with distance (2π per stride); amount: 0 standing to 1 running;
 //   pace: 1 at a jog, higher sprinting.
-//   pose: { pitch (radians), kick, reload, sprint, ads } — ads is 1 with the gun
-//   up at the eye (how other soldiers always hold it) and 0 at the hip.
+//   pose: { pitch (radians), kick, reload, sprint, ads, moveAngle } — ads is 1
+//   with the gun up at the eye (how other soldiers always hold it) and 0 at
+//   the hip; moveAngle is the direction of travel relative to where he faces
+//   (0 forward, π/2 to his right, π backward).
 export function animateSoldier(model, phase, amount, pace = 1, pose = {}) {
   const { rest, J, hands } = assets;
-  const { pitch = 0, kick = 0, reload = 0, sprint = 0, ads = 1 } = pose;
+  const { pitch = 0, kick = 0, reload = 0, sprint = 0, ads = 1, moveAngle = 0 } = pose;
   const aim = THREE.MathUtils.clamp(pitch, -0.9, 0.9);
   const carry = Math.max(sprint, reload);
+  const fwd = Math.cos(moveAngle), sideways = Math.sin(moveAngle);
 
   // ---- legs: decide the angles first, so the hips can sit at the right height
-  const reach = 0.62 * Math.min(1.35, pace);
+  const stride = Math.min(1.15, 0.75 + 0.25 * pace) * (1 - 0.35 * Math.abs(sideways)); // longer when faster, shorter sidestepping
   const legs = [-1, 1].map((s) => {
-    const ph = phase + (s > 0 ? Math.PI : 0);
+    const p = phase / (Math.PI * 2) + (s > 0 ? 0.5 : 0);
     const stance = s < 0 ? 0.2 : -0.16;                                   // standing: left foot forward
-    const swing = THREE.MathUtils.lerp(stance, Math.sin(ph) * reach, amount);
-    const bend = THREE.MathUtils.lerp(0.22, 0.2 + 1.15 * Math.max(0, Math.cos(ph)) ** 1.3, amount);
-    return { s, swing, bend };
+    const swing = THREE.MathUtils.lerp(stance, gait(GAIT.thigh, p) * stride, amount);
+    const bend = THREE.MathUtils.lerp(0.22, gait(GAIT.knee, p), amount);
+    const foot = THREE.MathUtils.lerp(0, gait(GAIT.foot, p), amount);
+    return { s, swing, bend, foot };
   });
   const Lt = rest[B.thighL].distanceTo(rest[B.shinL]), Ls = rest[B.shinL].distanceTo(rest[B.footL]);
+  // Hips ride on whichever leg reaches lowest, plus a little lift between
+  // strides when both feet are off the ground.
   const drop = Math.max(...legs.map((l) => Lt * Math.cos(l.swing) + Ls * Math.cos(l.swing - l.bend)));
+  const lift = 0.14 * amount * Math.min(1.3, pace) * Math.max(0, Math.sin(phase * 2 - 0.9));
+  const twist = Math.sin(phase) * 0.14 * amount;                           // hips turn with each stride
+  const bladed = 0.3 * (1 - carry) * (1 - amount);                         // standing: body turned off the line of fire
 
   // ---- body
   const hips = model.bones[B.hips];
-  hips.position.set(rest[B.hips].x, rest[B.footL].y + drop + 0.02 * amount, rest[B.hips].z);
-  fk(model, B.hips, -0.08 * amount - 0.1 * sprint, -0.3 * (1 - carry) + Math.sin(phase) * 0.08 * amount, Math.sin(phase) * 0.03 * amount);
+  hips.position.set(rest[B.hips].x, rest[B.footL].y + drop + lift, rest[B.hips].z);
+  fk(model, B.hips, -0.05 * amount, -bladed + twist, 0);
   place(model, B.hips);
-  fk(model, B.spine, aim * 0.25 - 0.06, -0.12 * (1 - carry), 0); place(model, B.spine);
-  fk(model, B.chest, aim * 0.25 - 0.05 - 0.1 * sprint, -0.1 * (1 - carry), 0); place(model, B.chest);
+  // The upper body leans into the run and turns back against the hips.
+  const lean = 0.1 * amount * fwd + 0.12 * sprint;
+  fk(model, B.spine, aim * 0.25 - 0.05 - lean, -0.4 * bladed - twist * 0.6, 0); place(model, B.spine);
+  fk(model, B.chest, aim * 0.25 - 0.04 - lean * 0.6, -0.35 * bladed - twist * 0.5, 0); place(model, B.chest);
   place(model, B.head);
   // Head looks where he aims, whatever the body is doing, tipped onto the sights.
   wq[B.head].setFromEuler(_e.set(aim * 0.85, 0, -0.1 * ads * (1 - carry), 'YXZ'));
@@ -320,12 +422,14 @@ export function animateSoldier(model, phase, amount, pace = 1, pose = {}) {
     model.bones[fingers].quaternion.setFromAxisAngle(hands[s].curl, 1.35);
   }
 
-  // ---- legs
+  // ---- legs: swing along the direction of travel
   for (const l of legs) {
     const thigh = l.s < 0 ? B.thighL : B.thighR;
     const splay = 0.07 * l.s * (1 - amount * 0.6);
-    fk(model, thigh, l.swing, 0.3 * (1 - carry) * (1 - amount), splay);       // undo the hip turn so feet point forward
+    fk(model, thigh, l.swing * fwd, bladed, splay + l.swing * sideways * 0.8);
     fk(model, thigh + 1, -l.bend, 0, 0);
-    fk(model, thigh + 2, l.bend - l.swing + Math.max(0, -Math.sin(phase + (l.s > 0 ? Math.PI : 0))) * 0.35 * amount, 0, -splay);
+    // Foot: flat on the ground when standing, following the stride when running.
+    const level = THREE.MathUtils.clamp(l.bend - l.swing * fwd, -0.5, 0.5);
+    fk(model, thigh + 2, THREE.MathUtils.lerp(level, -l.foot, amount), 0, -splay);
   }
 }
