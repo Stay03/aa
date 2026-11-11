@@ -65,9 +65,9 @@ Open the printed URL in a desktop browser and click to play.
 
 ## Soldier, guns and credits
 
-The soldier is a gun-less character mesh with a skeleton, holding a separate gun model, so guns can be swapped per weapon.
+The soldier is an animated character holding a separate gun model, so guns can be swapped per weapon.
 
-- **Soldier**: the "genAssault" model supplied by the project owner (`assets-src/genAssault.c4d`). `tools/c4d2glb.mjs` reads the mesh and its levels of detail straight out of the Cinema 4D file and measures where the joints are.
+- **Soldier**: Mixamo's "Swat Guy" with motion-captured rifle animations, supplied by the project owner (`assets-src/mixamo/`). `tools/mixamo2glb.cjs` strips the textures, reduces the mesh and packs the character and every animation into one `.glb`. To add or replace an animation, put its `.fbx` (downloaded "Without Skin", "In Place" for locomotion) in that folder and re-run the tool.
 - **Guns**: each weapon names its own gun model, and the soldier is seen holding whichever he is using. `tools/gun2glb.mjs` turns and scales a gun (`.glb` or `.obj`) and measures the points a soldier needs: both grips, the butt, the sight line and the muzzle.
 
   | Weapon | Gun | By |
@@ -76,8 +76,8 @@ The soldier is a gun-less character mesh with a skeleton, holding a separate gun
   | Sidearm | Glock 19 | supplied by the project owner |
   | Scatter Gun, Long Shot | CZ Bren 2 (stand-in until they have their own) | Studio-Svoboda |
 
-- **Skeleton and movement** are made in the game (`src/entities/RiggedSoldier.js`): 18 bones and skin weights computed from the measured joints. The torso blends by height and each limb along its own length, then the weights are relaxed across the mesh, so flat kit stays flat when he bends. Creases are darkened slightly per vertex so the one-colour plastic reads clearly.
-- **Animation**: a keyframed run cycle (foot strike, push-off, knee drive) whose legs step in the direction of travel, forward, sideways or backward; the spine follows the aim; both arms are solved every frame to reach the gun's grips wherever the gun is (aiming, recoil, reload, sprint carry). Soldiers break into one piece per bone when shot.
+- **Animation** (`src/entities/AnimatedSoldier.js`) is layered. The legs blend idle, run, backpedal, strafe left/right and jump by speed and direction of travel. The upper body plays the aiming idle or the reload. The chest is then turned so the gun points exactly where he is aiming, and the left hand is moved onto that gun's own fore grip.
+- **Death** is unchanged: the toy breaks into pieces, one per major bone, which melt.
 - **First person** is a second copy of the player's soldier at full detail with the head hidden, seen from his eye, so it always matches what others see.
 
 Guns are painted a separate dark plastic so they read against the hands (`soldier.gunColor` in `src/config.js`; set it to `null` for one-colour figures). A gun prepared with `--dot 1` gets a glowing red dot in its sight.
@@ -86,8 +86,8 @@ To add a gun: `node tools/gun2glb.mjs <gun.glb> public/models/guns/<name> --leng
 
 Earlier static figures (nimproductions, CC BY 4.0; Dolphin-GS) are kept in `public/models/soldier/` for the gallery. All credits: `public/models/soldier/CREDITS.txt` and `public/models/guns/CREDITS.txt`. Kenney's CC0 models are in `public/models/kenney/`.
 
-![Run cycle, eight frames of one stride](docs/run-cycle.png)
-![Close-up: front quarter, back, legs mid-stride](docs/soldier-close-up.png)
+![Run cycle](docs/run-cycle.png)
+![Standing, aiming up and down, strafing, backpedalling, jumping, reloading](docs/soldier-close-up.png)
 ![Every weapon: first person at the hip, aiming, and third person](docs/weapon-views.png)
 
 ## Model gallery
@@ -114,8 +114,8 @@ Earlier static figures (nimproductions, CC BY 4.0; Dolphin-GS) are kept in `publ
 | `src/config.js` | Scale and all tuning numbers |
 | `src/core/` | Input (keyboard, mouse, gamepad), saved settings, automatic resolution and the physics wrapper |
 | `src/world/` | Room, toy factories, map 01 placement, static-mesh baking, lighting, materials |
-| `src/entities/` | Soldier base class, the rigged soldier (skeleton, skinning, posing, gun holding), player, bot |
-| `tools/` | Asset converters: `c4d2glb.mjs` (soldier from Cinema 4D), `gun2glb.mjs` (guns), `stl2glb.mjs` (static sculpts) |
+| `src/entities/` | Soldier base class, the animated soldier (animation layers, aiming, gun holding), player, bot |
+| `tools/` | Asset converters: `mixamo2glb.cjs` (animated soldier), `gun2glb.mjs` (guns), `c4d2glb.mjs` and `stl2glb.mjs` (earlier static figures) |
 | `assets-src/` | The original model files the converters read |
 | `src/systems/` | Camera rig, weapon, combat, navigation grid, match rules, audio, effects |
 | `src/ui/` | HUD and menus |

@@ -35,3 +35,10 @@ Source file: assets-src/genAssault.c4d.
 Changes: mesh and its levels of detail read out of the Cinema 4D file,
 rescaled to 6 cm, joints measured (tools/c4d2glb.mjs). The skeleton, skin
 weights and animation are made in the game (src/entities/RiggedSoldier.js).
+
+swat.glb, swat-lod.glb   (the soldier used in the game)
+
+"Swat Guy" character and rifle animations from Mixamo (mixamo.com, Adobe),
+supplied by the project owner. Sources: assets-src/mixamo/.
+Changes: textures removed, mesh welded and reduced, animations merged into
+one file (tools/mixamo2glb.cjs). Painted as plastic in-game.

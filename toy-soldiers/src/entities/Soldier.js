@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 import { CONFIG } from '../config.js';
 import { RAPIER } from '../core/Physics.js';
-import { createSoldier, animateSoldier, setGun } from './RiggedSoldier.js';
+import { createSoldier, animateSoldier, setGun } from './AnimatedSoldier.js';
 
 const { soldier: S, move: M, jetpack: J } = CONFIG;
 const HALF = S.height / 2;
@@ -53,6 +53,8 @@ export class Soldier {
     this.isReloading = false; // set by the player's weapon or the bot
     this.sprintBlend = 0;
     this.reloadBlend = 0;
+    this.reloadProgress = 0;  // 0..1 through the reload
+    this.airBlend = 0;
 
     this.health = CONFIG.match.health;
     this.sinceDamage = 99;
@@ -211,17 +213,15 @@ export class Soldier {
     m.root.position.set(this.position.x, this.feet, this.position.z);
     m.root.rotation.y = this.yaw;
     const speed = this.horizontal.length();
-    // Cadence rises with speed, up to about four strides a second.
-    this.walkPhase += dt * Math.min(speed * 0.62, 26);
-    // Ease in and out of the run so the legs never snap between poses.
-    const target = this.grounded ? Math.min(1, speed / (M.walkSpeed * 0.6)) : 0.35;
-    this.runBlend += (target - this.runBlend) * (1 - Math.exp(-dt * 12));
-    const ease = 1 - Math.exp(-dt * 10);
-    const sprinting = this.grounded && speed > M.walkSpeed * 1.25 && !this.isReloading;
-    this.sprintBlend += ((sprinting ? 1 : 0) - this.sprintBlend) * ease;
+    // Stride rate rises with speed: about two full cycles a second at a run.
+    this.walkPhase += dt * Math.PI * 2 * 2.1 * Math.min(1.5, speed / M.walkSpeed);
+    // Ease between standing, running, airborne and reloading so nothing snaps.
+    const ease = 1 - Math.exp(-dt * 12);
+    this.runBlend += ((this.grounded ? Math.min(1, speed / (M.walkSpeed * 0.6)) : this.runBlend) - this.runBlend) * ease;
+    this.airBlend += ((this.grounded ? 0 : 1) - this.airBlend) * ease;
     this.reloadBlend += ((this.isReloading ? 1 : 0) - this.reloadBlend) * ease;
+    this.sprintBlend += ((this.grounded && speed > M.walkSpeed * 1.25 ? 1 : 0) - this.sprintBlend) * ease;
     this.kick *= Math.exp(-dt * 16);
-    setGun(m, this.gunModel ?? CONFIG.weapons.rifle.model);
     // Which way he is travelling relative to where he faces, so the legs
     // step that way: forward, sideways or backward.
     if (speed > 1) {
@@ -229,8 +229,10 @@ export class Soldier {
       const forward = -sin * this.horizontal.x - cos * this.horizontal.z, right = cos * this.horizontal.x - sin * this.horizontal.z;
       this.moveAngle = Math.atan2(right, forward);
     }
+    setGun(m, this.gunModel ?? CONFIG.weapons.rifle.model);
     animateSoldier(m, this.walkPhase, this.runBlend, speed / M.walkSpeed, {
-      sprint: this.sprintBlend, reload: this.reloadBlend, kick: this.kick, pitch: this.pitch, moveAngle: this.moveAngle ?? 0,
+      dt, pitch: this.pitch, kick: this.kick, moveAngle: this.moveAngle ?? 0,
+      air: this.airBlend, airTime: this.airTime, reload: this.reloadBlend, reloadT: this.reloadProgress,
     });
   }
 }

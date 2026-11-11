@@ -113,6 +113,7 @@ export class Bot extends Soldier {
     }
     this.cooldown -= dt;
     this.isReloading = this.reloading > 0;
+    this.reloadProgress = this.isReloading ? 1 - this.reloading / this.def.reloadSeconds : 0;
 
     const turn = angleDiff(faceYaw, this.yaw);
     this.yaw += Math.sign(turn) * Math.min(Math.abs(turn), this.ctx.difficulty.turnRate * dt);

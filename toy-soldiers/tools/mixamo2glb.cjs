@@ -3,7 +3,8 @@
 //   2. node tools/mixamo2glb.cjs [port]
 // Reads assets-src/mixamo/character.(dae|fbx) and every other .fbx in that
 // folder as an animation named after its file, and writes
-// public/models/soldier/swat.glb (no textures: the game paints it as plastic).
+// public/models/soldier/swat.glb (detailed, with the clips) and swat-lod.glb
+// (game detail). No textures: the game paints it as plastic.
 const fs = require('fs'), path = require('path');
 const { chromium } = require('playwright');
 const dir = path.join(__dirname, '..', 'assets-src', 'mixamo');
@@ -20,10 +21,12 @@ const port = process.argv[2] || 5173;
   await page.goto(`http://localhost:${port}/tools/mixamo.html`);
   await page.waitForFunction(() => window.ready, null, { timeout: 60000 });
   const out = await page.evaluate((a) => window.convert(a), { character: `/assets-src/mixamo/${character}`, animations });
-  const dest = path.join(__dirname, '..', 'public', 'models', 'soldier', 'swat.glb');
-  fs.writeFileSync(dest, Buffer.from(out.base64, 'base64'));
+  const dest = path.join(__dirname, '..', 'public', 'models', 'soldier');
+  fs.writeFileSync(path.join(dest, 'swat.glb'), Buffer.from(out.full, 'base64'));
+  fs.writeFileSync(path.join(dest, 'swat-lod.glb'), Buffer.from(out.lod, 'base64'));
   if (process.env.PREVIEW) await page.locator('#c').screenshot({ path: process.env.PREVIEW });
-  console.log(`swat.glb: ${Math.round(fs.statSync(dest).size / 1024)} KB, ${out.tris} triangles, ${out.bones} bones, size ${out.size.map((v) => v.toFixed(2)).join(' x ')}`);
+  const kb = (f) => Math.round(fs.statSync(path.join(dest, f)).size / 1024);
+  console.log(`swat.glb ${kb('swat.glb')} KB, swat-lod.glb ${kb('swat-lod.glb')} KB; source ${out.tris} triangles, ${out.bones} bones, size ${out.size.map((v) => v.toFixed(2)).join(' x ')}`);
   console.log('clips:', out.clips.join(', ') || '(none yet)');
   await browser.close();
 })();

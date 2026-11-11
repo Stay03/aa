@@ -10,6 +10,8 @@ import * as THREE from 'three';
 import { ColladaLoader } from 'three/addons/loaders/ColladaLoader.js';
 import { FBXLoader } from 'three/addons/loaders/FBXLoader.js';
 import { GLTFExporter } from 'three/addons/exporters/GLTFExporter.js';
+import { mergeVertices } from 'three/addons/utils/BufferGeometryUtils.js';
+import { MeshoptSimplifier } from 'meshoptimizer';
 
 const manager = new THREE.LoadingManager();
 manager.setURLModifier((url) => (/\.(png|jpe?g|tga|tif)$/i.test(url) ? 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==' : url));
@@ -50,10 +52,99 @@ window.convert = async ({ character, animations }) => {
   renderer.render(scene, cam);
   root.traverse((o) => { if (o.isMesh) o.material = plain; });
 
-  const glb = await new GLTFExporter().parseAsync(root, { binary: true, animations: clips });
-  let s = ''; const u8 = new Uint8Array(glb);
-  for (let i = 0; i < u8.length; i += 0x8000) s += String.fromCharCode.apply(null, u8.subarray(i, i + 0x8000));
-  return { base64: btoa(s), tris, bones, size: size.toArray(), min: box.min.toArray(), clips: clips.map((c) => `${c.name} ${c.duration.toFixed(2)}s`) };
+  // Weld the mesh and reduce it: a detailed version (first person) and a game version.
+  await MeshoptSimplifier.ready;
+  const skinned = [];
+  root.traverse((o) => { if (o.isSkinnedMesh) skinned.push(o); });
+  // Weld by position alone (normals are rebuilt afterwards): vertices split
+  // only by a hard edge would otherwise tear apart when the mesh is reduced.
+  // Collada carries a separate "bind shape" matrix that the .glb format has no
+  // place for: fold it into the vertices so the mesh binds correctly on load.
+  root.updateMatrixWorld(true);
+  for (const m of skinned) {
+    m.geometry.applyMatrix4(m.matrixWorld.clone().invert().multiply(m.bindMatrix));
+    m.bindMatrix.copy(m.matrixWorld);
+    m.bindMatrixInverse.copy(m.matrixWorld).invert();
+  }
+  const welded = skinned.map((m) => { m.geometry.clearGroups(); m.geometry.deleteAttribute('normal'); return mergeVertices(m.geometry, 1e-4); });
+  const total = welded.reduce((t, g) => t + g.index.count / 3, 0);
+  const reduced = (g, share) => {
+    const target = Math.floor((g.index.count / 3) * share) * 3;
+    const idx = target >= g.index.count ? g.index.array : MeshoptSimplifier.simplify(new Uint32Array(g.index.array), new Float32Array(g.getAttribute('position').array), 3, target, 0.02)[0];
+    const remap = new Map(), order = [];
+    const out = Array.from(idx, (v) => { if (!remap.has(v)) { remap.set(v, order.length); order.push(v); } return remap.get(v); });
+    const n = new THREE.BufferGeometry();
+    for (const [name, a] of Object.entries(g.attributes)) {
+      const arr = new a.array.constructor(order.length * a.itemSize);
+      order.forEach((v, i) => { for (let k = 0; k < a.itemSize; k++) arr[i * a.itemSize + k] = a.array[v * a.itemSize + k]; });
+      n.setAttribute(name, new THREE.BufferAttribute(arr, a.itemSize, a.normalized));
+    }
+    n.setIndex(out);
+    n.computeVertexNormals();
+    return n;
+  };
+  const b64 = (glb) => { let s = ''; const u8 = new Uint8Array(glb); for (let i = 0; i < u8.length; i += 0x8000) s += String.fromCharCode.apply(null, u8.subarray(i, i + 0x8000)); return btoa(s); };
+  const pack = async (triangles, withClips) => {
+    skinned.forEach((m, i) => { m.geometry = reduced(welded[i], Math.min(1, triangles / total)); });
+    return b64(await new GLTFExporter().parseAsync(root, { binary: true, animations: withClips ? clips : [] }));
+  };
+  const full = await pack(40000, true), lod = await pack(24000, false);
+  return { full, lod, tris, bones, size: size.toArray(), min: box.min.toArray(), clips: clips.map((c) => `${c.name} ${c.duration.toFixed(2)}s`) };
+};
+
+// Measure and preview each candidate animation on the character, to pick
+// between files with the same name. Returns stats and draws a strip of frames.
+window.inspect = async ({ character, animations }) => {
+  const root = character.endsWith('.dae') ? (await new ColladaLoader(manager).loadAsync(character)).scene : await new FBXLoader(manager).loadAsync(character);
+  const by = {};
+  root.traverse((o) => { if (o.isBone) { o.name = bone(o.name); by[o.name] = o; } if (o.isMesh) { o.material = new THREE.MeshStandardMaterial({ color: 0x3f7d3a, roughness: 0.5 }); o.frustumCulled = false; } });
+  const scene = new THREE.Scene();
+  scene.background = new THREE.Color(0xbcd4e6);
+  const sun = new THREE.DirectionalLight(0xffffff, 2.5); sun.position.set(2, 4, 5);
+  scene.add(root, new THREE.HemisphereLight(0xffffff, 0x777777, 2), sun);
+  const canvas = document.getElementById('c');
+  const N = 6, W = 200, H = 260;
+  canvas.width = N * W; canvas.height = H;
+  const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, preserveDrawingBuffer: true });
+  renderer.setScissorTest(true);
+  const cam = new THREE.PerspectiveCamera(30, W / H, 0.1, 100);
+  const mixer = new THREE.AnimationMixer(root);
+  const wp = (n) => by[n].getWorldPosition(new THREE.Vector3());
+  window.strip = async (url) => {
+    const fbx = await new FBXLoader(manager).loadAsync(url);
+    const clip = fbx.animations.sort((a, b) => b.duration - a.duration)[0];
+    clip.tracks = clip.tracks.filter((t) => { t.name = bone(t.name); return t.name.endsWith('.quaternion') || t.name === 'Hips.position'; });
+    mixer.stopAllAction();
+    const action = mixer.clipAction(clip); action.play();
+    const S = 40, hips = [], feet = { L: [], R: [] }, hands = [];
+    let fwd = 0;
+    for (let i = 0; i <= S; i++) {
+      mixer.setTime((clip.duration * i) / S); root.updateMatrixWorld(true);
+      hips.push(wp('Hips')); feet.L.push(wp('LeftFoot')); feet.R.push(wp('RightFoot'));
+      hands.push(wp('LeftHand').distanceTo(wp('RightHand')));
+      fwd += (wp('RightHand').z - wp('Spine2').z) / (S + 1);
+    }
+    const range = (k) => Math.max(...hips.map((p) => p[k])) - Math.min(...hips.map((p) => p[k]));
+    // Travel direction: a planted foot moves backward relative to the hips.
+    let vx = 0, vz = 0, n = 0;
+    for (const f of [feet.L, feet.R]) {
+      const lowest = Math.min(...f.map((p) => p.y));
+      for (let i = 1; i <= S; i++) if (f[i].y < lowest + 0.04 && f[i - 1].y < lowest + 0.04) {
+        vx -= (f[i].x - hips[i].x) - (f[i - 1].x - hips[i - 1].x); vz -= (f[i].z - hips[i].z) - (f[i - 1].z - hips[i - 1].z); n++;
+      }
+    }
+    const dt = clip.duration / S;
+    for (let i = 0; i < N; i++) {
+      mixer.setTime((clip.duration * i) / N); root.updateMatrixWorld(true);
+      const h = wp('Hips');
+      cam.position.set(h.x + 2.6, 1.3, h.z + 4.2); cam.lookAt(h.x, 0.95, h.z);
+      renderer.setViewport(i * W, 0, W, H); renderer.setScissor(i * W, 0, W, H);
+      renderer.render(scene, cam);
+    }
+    mixer.uncacheClip(clip);
+    return { duration: +clip.duration.toFixed(2), hipsTravel: [+range('x').toFixed(2), +range('y').toFixed(2), +range('z').toFixed(2)],
+      stepSpeed: n ? [+(vx / n / dt).toFixed(2), +(vz / n / dt).toFixed(2)] : null, hands: +(hands.reduce((a, b) => a + b, 0) / hands.length).toFixed(2), handFwd: +fwd.toFixed(2) };
+  };
 };
 window.ready = true;
 </script>

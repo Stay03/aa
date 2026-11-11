@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 import { CONFIG } from '../config.js';
-import { createSoldier, animateSoldier, setGun } from '../entities/RiggedSoldier.js';
+import { createSoldier, animateSoldier, setGun } from '../entities/AnimatedSoldier.js';
 
 const SWAP_SECONDS = 0.35;
 const VIEW_FOV = 58; // wide enough to keep both hands in view at the hip
@@ -121,6 +121,7 @@ export class Weapon {
     this.prevFire = input.fire;
 
     this.player.isReloading = this.reloading > 0;
+    this.player.reloadProgress = this.reloading > 0 ? 1 - this.reloading / this.def.reloadSeconds : 0;
     this.player.gunModel = this.def.model; // what others see him holding
     const aiming = this.isAiming(input);
     this.adsAmount += ((aiming ? 1 : 0) - this.adsAmount) * (1 - Math.exp(-dt * 16));
@@ -138,22 +139,20 @@ export class Weapon {
     this.sway.x += (THREE.MathUtils.clamp(-input.lookX * 2, -0.1, 0.1) - this.sway.x) * (1 - Math.exp(-dt * 10));
     this.sway.y += (THREE.MathUtils.clamp(input.lookY * 2, -0.1, 0.1) - this.sway.y) * (1 - Math.exp(-dt * 10));
 
-    // Pose the first-person soldier exactly as the third-person one, except
-    // that the camera supplies the pitch and the gun comes down off the eye
-    // when not aiming.
-    const lowered = this.reloading > 0
-      ? Math.sin((1 - this.reloading / this.def.reloadSeconds) * Math.PI)
-      : this.swapping > 0 ? this.swapping / SWAP_SECONDS : 0;
-    setGun(this.fp, this.def.model, 'full');
-    animateSoldier(this.fp, p.walkPhase, p.runBlend, p.horizontal.length() / CONFIG.move.walkSpeed, {
-      pitch: 0, kick: this.kick, reload: lowered, sprint: p.sprintBlend * (1 - a), ads: a, moveAngle: p.moveAngle ?? 0,
-      relief: 0.78, // closer than other soldiers hold it: a larger sight picture
+    // Pose the first-person soldier exactly as the third-person one; the
+    // camera supplies the pitch. Swapping dips the gun out of view.
+    const swap = this.swapping > 0 ? this.swapping / SWAP_SECONDS : 0;
+    setGun(this.fp, this.def.model);
+    animateSoldier(this.fp, p.walkPhase, p.runBlend, 1, {
+      dt, kick: this.kick, moveAngle: p.moveAngle ?? 0, air: p.airBlend, airTime: p.airTime,
+      reload: p.reloadBlend, reloadT: p.reloadProgress, ads: a,
     });
     this.fp.root.position.copy(this.fp.eye).negate(); // his eye at the camera
     this.holder.position.set(
       (Math.cos(this.bob * 0.5) * 0.02 * speed + this.sway.x) * loose,
-      (Math.sin(this.bob) * 0.016 * speed + this.sway.y) * loose,
-      0);
+      (Math.sin(this.bob) * 0.016 * speed + this.sway.y) * loose - swap * 0.9,
+      this.kick * 0.06 * (1 - a * 0.5));
+    this.holder.rotation.set(-swap * 0.6, 0, 0);
     this.flash.visible = this.cooldown > 1 / this.def.fireRate - 0.035;
     this.flash.scale.setScalar(0.7 + Math.random() * 0.9);
   }

@@ -6,7 +6,7 @@ export const CONFIG = {
   // `model` is the converted figure in public/models/soldier/ (see tools/stl2glb.mjs).
   // `gunColor` paints guns a separate dark plastic so they read against the
   // hands; set it to null for one-colour figures, guns included.
-  soldier: { height: 6, radius: 1.1, eyeHeight: 5.3, model: 'assault', gunColor: 0x2b2e31 },
+  soldier: { height: 6, radius: 1.1, eyeHeight: 5.3, model: 'swat', gunColor: 0x2b2e31 },
 
   move: {
     walkSpeed: 34,
