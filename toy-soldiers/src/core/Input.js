@@ -58,8 +58,11 @@ export class Input {
   update(dt) {
     const s = this.state;
     const k = this.keys;
+    // Swap the two sets rather than allocating one per frame.
+    const spent = s.pressed;
     s.pressed = this.pressedQueue;
-    this.pressedQueue = new Set();
+    this.pressedQueue = spent;
+    spent.clear();
 
     s.moveX = (k.has('KeyD') ? 1 : 0) - (k.has('KeyA') ? 1 : 0);
     s.moveZ = (k.has('KeyW') ? 1 : 0) - (k.has('KeyS') ? 1 : 0);
@@ -73,7 +76,9 @@ export class Input {
     s.fire = this.mouseButtons.has(0);
     s.aim = this.mouseButtons.has(2);
 
-    const pad = [...(navigator.getGamepads?.() ?? [])].find((p) => p && p.connected);
+    let pad = null;
+    const pads = navigator.getGamepads?.();
+    if (pads) for (let i = 0; i < pads.length; i++) if (pads[i]?.connected) { pad = pads[i]; break; }
     if (pad) {
       const b = (i) => !!pad.buttons[i]?.pressed || (pad.buttons[i]?.value ?? 0) > 0.4;
       const edge = (i, name) => {

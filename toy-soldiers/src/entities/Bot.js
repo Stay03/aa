@@ -33,6 +33,8 @@ export class Bot extends Soldier {
     this.burstPause = 0;
     this.stuckCheck = { t: 0, x, z };
     this.wantJump = false;
+    this.wishX = 0;
+    this.wishZ = 0;
   }
 
   // Bots carry only the primary of a randomly weighted loadout.
@@ -70,7 +72,8 @@ export class Bot extends Soldier {
     }
 
     this.sense(dt);
-    let wishX = 0, wishZ = 0, faceYaw = this.yaw;
+    this.wishX = 0; this.wishZ = 0;
+    let faceYaw = this.yaw;
 
     if (this.enemy) {
       const dx = this.enemy.position.x - this.position.x;
@@ -79,7 +82,7 @@ export class Bot extends Soldier {
       faceYaw = Math.atan2(-dx, -dz);
       const nx = dx / dist, nz = dz / dist;
       if (dist > this.def.botRange) {
-        [wishX, wishZ] = this.follow(dt, this.enemy.position.x, this.enemy.position.z, M.walkSpeed);
+        this.follow(dt, this.enemy.position.x, this.enemy.position.z, M.walkSpeed);
       } else {
         // Strafe across the enemy's aim, backing off if too close.
         this.strafeIn -= dt;
@@ -89,15 +92,15 @@ export class Bot extends Soldier {
         }
         const back = dist < 20 ? -0.7 : 0;
         const s = M.walkSpeed * 0.7;
-        wishX = (-nz * this.strafeDir + nx * back) * s;
-        wishZ = (nx * this.strafeDir + nz * back) * s;
+        this.wishX = (-nz * this.strafeDir + nx * back) * s;
+        this.wishZ = (nx * this.strafeDir + nz * back) * s;
       }
       this.shoot(dt, faceYaw);
     } else {
       this.burstLeft = 0;
       const goal = this.pickGoal();
-      [wishX, wishZ] = this.follow(dt, goal.x, goal.z, M.walkSpeed);
-      if (wishX || wishZ) faceYaw = Math.atan2(-wishX, -wishZ);
+      this.follow(dt, goal.x, goal.z, M.walkSpeed);
+      if (this.wishX || this.wishZ) faceYaw = Math.atan2(-this.wishX, -this.wishZ);
       if (this.ammo < this.def.magazine * 0.4 && this.reloading <= 0) this.reloading = this.def.reloadSeconds;
     }
 
@@ -110,8 +113,8 @@ export class Bot extends Soldier {
     const turn = angleDiff(faceYaw, this.yaw);
     this.yaw += Math.sign(turn) * Math.min(Math.abs(turn), this.ctx.difficulty.turnRate * dt);
 
-    this.unstick(dt, wishX || wishZ);
-    this.moveStep(dt, wishX, wishZ, this.wantJump, false);
+    this.unstick(dt, this.wishX || this.wishZ);
+    this.moveStep(dt, this.wishX, this.wishZ, this.wantJump, false);
     this.wantJump = false;
   }
 
@@ -165,7 +168,7 @@ export class Bot extends Soldier {
     return this.goal;
   }
 
-  // Follow an A* path to (x, z). Returns the wanted ground velocity.
+  // Follow an A* path to (x, z). Writes the wanted ground velocity to wishX/wishZ.
   follow(dt, x, z, speed) {
     const nav = this.ctx.nav;
     this.repathIn -= dt;
@@ -177,20 +180,19 @@ export class Bot extends Soldier {
         this.path = found;
         this.pathIndex = 0;
         this.repathIn = 1.2 + Math.random() * 0.6;
-        if (!found) { this.goal = null; return [0, 0]; }
+        if (!found) { this.goal = null; return; }
       } else if (!this.path) {
-        return [0, 0];
+        return;
       }
     }
     while (this.pathIndex < this.path.length) {
       const wp = this.path[this.pathIndex];
       const dx = wp.x - this.position.x, dz = wp.z - this.position.z;
       const d = Math.hypot(dx, dz);
-      if (d > 1.6) return [(dx / d) * speed, (dz / d) * speed];
+      if (d > 1.6) { this.wishX = (dx / d) * speed; this.wishZ = (dz / d) * speed; return; }
       this.pathIndex++;
     }
     this.path = null;
-    return [0, 0];
   }
 
   shoot(dt, faceYaw) {

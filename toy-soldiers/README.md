@@ -71,6 +71,8 @@ Open the printed URL in a desktop browser and click to play.
 - Weapon and shatter sounds are rendered into buffers once, then played back, instead of building a synth graph per shot.
 - Route-finding is a weighted A* on typed arrays, limited to one search per frame across all bots.
 - The simulation runs at most three catch-up steps per frame, and all shaders are compiled at load.
+- Little garbage per frame, to avoid cleanup pauses: movement, raycasts, camera and input reuse scratch objects, and the physics step skips the library's per-step scan for engine-created bodies (unused here, and the largest single source of garbage).
+- HUD bars and the damage vignette change only `transform` and `opacity`, and HUD text is rebuilt only when its values change.
 - Resolution is automatic by default: it drops the pixel density when the frame rate falls below about 50 and raises it again when there is headroom. The HUD shows the current percentage.
 
 ## Layout

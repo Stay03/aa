@@ -5,6 +5,10 @@ import { createSoldier, animateLegs } from './SoldierModel.js';
 
 const { soldier: S, move: M, jetpack: J } = CONFIG;
 const HALF = S.height / 2;
+// Scratch objects reused every step by every soldier: no per-step garbage.
+const _desired = { x: 0, y: 0, z: 0 };
+const _moved = { x: 0, y: 0, z: 0 };
+const _next = { x: 0, y: 0, z: 0 };
 
 // Everything a player and a bot have in common: body, movement, health,
 // death and respawn. Subclasses decide where to go and when to shoot.
@@ -114,11 +118,13 @@ export class Soldier {
       this.velY = Math.max(this.velY - CONFIG.gravity * dt, -160);
     }
 
-    const desired = { x: this.horizontal.x * dt, y: this.velY * dt, z: this.horizontal.z * dt };
+    const desired = _desired;
+    desired.x = this.horizontal.x * dt; desired.y = this.velY * dt; desired.z = this.horizontal.z * dt;
     this.controller.computeColliderMovement(this.collider, desired);
-    const mv = this.controller.computedMovement();
-    const t = this.body.translation();
-    const next = { x: t.x + mv.x, y: t.y + mv.y, z: t.z + mv.z };
+    const mv = this.controller.computedMovement(_moved);
+    // `position` always mirrors the body's translation, so read it from there.
+    const next = _next;
+    next.x = this.position.x + mv.x; next.y = this.position.y + mv.y; next.z = this.position.z + mv.z;
     this.body.setNextKinematicTranslation(next);
     this.position.set(next.x, next.y, next.z);
 

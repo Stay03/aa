@@ -10,6 +10,15 @@ export class Hud {
     this.last = {};
   }
 
+  // True when any of the values differ from the last call with this key.
+  changed(key, ...values) {
+    const prev = this.last[key];
+    let same = !!prev && prev.length === values.length;
+    for (let i = 0; same && i < values.length; i++) same = prev[i] === values[i];
+    if (!same) this.last[key] = values;
+    return !same;
+  }
+
   set(key, el, value, html = false, style = null) {
     if (this.last[key] === value) return;
     this.last[key] = value;
@@ -20,13 +29,23 @@ export class Hud {
 
   update({ weapon, player, rig, lighting, match, fps, resolution, nextLoadout }) {
     const e = this.el;
-    this.set('ammo', e.ammo, `${weapon.reloading > 0 ? 'Reloading…' : `${weapon.ammo} / ${weapon.def.magazine}`}<small>${weapon.def.name} · ${weapon.loadout.name}</small>`, true);
+    // Build strings only when what they show has changed.
+    const ammoKey = weapon.reloading > 0 ? -1 : weapon.ammo;
+    if (this.changed('ammoKey', ammoKey, weapon.def, weapon.loadout)) {
+      e.ammo.innerHTML = `${ammoKey < 0 ? 'Reloading…' : `${weapon.ammo} / ${weapon.def.magazine}`}<small>${weapon.def.name} · ${weapon.loadout.name}</small>`;
+    }
+    const res = Math.round((resolution.scale / resolution.max) * 100);
+    if (this.changed('infoKey', rig.thirdPerson, lighting.isNight, fps, res, player.kills, player.deaths)) {
+      e.info.textContent = `${rig.thirdPerson ? 'Third person' : 'First person'} · ${lighting.isNight ? 'Night' : 'Day'} · ${fps} fps · ${res}% res · K/D ${player.kills}/${player.deaths}`;
+    }
+    if (this.changed('scoreKey', match.score.green, match.score.tan, Math.floor(match.timeLeft))) {
+      e.score.innerHTML = `<span class="green">GREEN ${match.score.green}</span><span class="clock">${clock(match.timeLeft)}</span><span class="tan">${match.score.tan} TAN</span>`;
+    }
+    if (this.changed('feedKey', match.feed.length, match.feed[0])) {
+      e.feed.innerHTML = match.feed.map((f) =>
+        `<div><span class="${f.killerTeam}">${f.killer}</span> melted <span class="${f.victimTeam}">${f.victim}</span></div>`).join('');
+    }
     this.set('scope', e.scope, weapon.scoped ? 'block' : 'none', false, 'display');
-    this.set('info', e.info, `${rig.thirdPerson ? 'Third person' : 'First person'} · ${lighting.isNight ? 'Night' : 'Day'} · ${fps} fps · ${Math.round((resolution.scale / resolution.max) * 100)}% res · K/D ${player.kills}/${player.deaths}`);
-    this.set('score', e.score,
-      `<span class="green">GREEN ${match.score.green}</span><span class="clock">${clock(match.timeLeft)}</span><span class="tan">${match.score.tan} TAN</span>`, true);
-    this.set('feed', e.feed, match.feed.map((f) =>
-      `<div><span class="${f.killerTeam}">${f.killer}</span> melted <span class="${f.victimTeam}">${f.victim}</span></div>`).join(''), true);
 
     let msg = '';
     if (match.playing && !player.alive) {
@@ -39,9 +58,10 @@ export class Hud {
     }
     this.set('message', e.message, msg);
 
-    this.set('health', e.health, `${Math.round(Math.max(0, player.health))}%`, false, 'width');
-    this.set('fuel', e.fuel, `${Math.round(player.fuel * 100)}%`, false, 'width');
-    this.set('vignette', e.vignette, Math.max(player.hurtFlash * 0.8, player.alive ? (1 - player.health / 100) * 0.5 : 0.6).toFixed(2), false, 'opacity');
+    // Bars scale with a transform: no layout, handled by the compositor.
+    this.set('health', e.health, `scaleX(${(Math.max(0, player.health) / 100).toFixed(2)})`, false, 'transform');
+    this.set('fuel', e.fuel, `scaleX(${player.fuel.toFixed(2)})`, false, 'transform');
+    this.set('vignette', e.vignette, Math.max(player.hurtFlash * 0.8, player.alive ? (1 - player.health / 100) * 0.5 : 0.6).toFixed(1), false, 'opacity');
     e.crosshair.classList.toggle('hit', weapon.hitFlash > 0);
     this.set('cross', e.crosshair, player.alive && weapon.adsAmount < 0.5 ? 'visible' : 'hidden', false, 'visibility');
   }

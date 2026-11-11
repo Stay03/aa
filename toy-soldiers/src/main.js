@@ -44,7 +44,7 @@ async function boot() {
   const lighting = new Lighting(scene, renderer, roomRefs);
 
   // Navigation is derived from the finished map's static colliders.
-  physics.step();
+  physics.fullStep();
   const { width: W, depth: D } = CONFIG.room;
   ctx.nav = new NavGrid(physics, { minX: -W / 2 + 2, maxX: W / 2 - 2, minZ: -D / 2 + 2, maxZ: D / 2 - 2 });
   // Snap spawn points onto walkable ground so a map edit cannot strand a bot.
@@ -61,6 +61,7 @@ async function boot() {
   for (let i = 1; i < n; i++) ctx.soldiers.push(new Bot(ctx, 'green', `Green ${i + 1}`, ...SPAWNS.green[i]));
   for (let i = 0; i < n; i++) ctx.soldiers.push(new Bot(ctx, 'tan', `Tan ${i + 1}`, ...SPAWNS.tan[i]));
   const bots = ctx.soldiers.filter((s) => !s.isPlayer);
+  physics.fullStep(); // register the soldiers' bodies
 
   const rig = new CameraRig(ctx, player);
   const weapon = new Weapon(ctx, player, rig);
@@ -145,6 +146,8 @@ async function boot() {
 
   const timer = new THREE.Timer();
   const noPresses = new Set();
+  const idleInput = { moveX: 0, moveZ: 0, lookX: 0, lookY: 0, jump: false, sprint: false, fire: false, aim: false, pressed: noPresses };
+  const repeatInput = {};
   let acc = 0, fps = 60, fpsAcc = 0, fpsFrames = 0;
 
   renderer.setAnimationLoop(() => {
@@ -182,8 +185,11 @@ async function boot() {
     if (acc > FIXED_DT * MAX_STEPS) acc = FIXED_DT * MAX_STEPS;
     ctx.nav.budget = 1; // one route search per frame, shared by all bots
     while (acc >= FIXED_DT) {
-      const idle = { ...s, moveX: 0, moveZ: 0, jump: false, pressed: noPresses };
-      player.fixedUpdate(FIXED_DT, !playing ? idle : stepped ? { ...s, pressed: noPresses } : s);
+      // First step gets the real input; later steps the same without presses.
+      let stepInput = s;
+      if (!playing) stepInput = idleInput;
+      else if (stepped) stepInput = Object.assign(repeatInput, s, { pressed: noPresses });
+      player.fixedUpdate(FIXED_DT, stepInput);
       for (const b of bots) b.fixedUpdate(FIXED_DT);
       physics.step();
       ctx.match.update(FIXED_DT);

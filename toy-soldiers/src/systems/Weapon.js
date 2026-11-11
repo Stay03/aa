@@ -6,6 +6,8 @@ import { TEAM_COLORS } from '../entities/SoldierModel.js';
 const SWAP_SECONDS = 0.35;
 const VIEW_FOV = 50;
 const _v = new THREE.Vector3();
+const _origin = new THREE.Vector3();
+const _from = new THREE.Vector3();
 
 // The player's guns: a primary and a secondary from the chosen loadout.
 // All behaviour comes from the weapon's entry in CONFIG.weapons.
@@ -179,8 +181,8 @@ export class Weapon {
     const dir = this.rig.forward;
     // Start past the player in third person so the shot cannot hit things
     // between the camera and the soldier.
-    const origin = cam.position.clone().addScaledVector(dir, this.rig.aimOffset);
-    const from = new THREE.Vector3();
+    const origin = _origin.copy(cam.position).addScaledVector(dir, this.rig.aimOffset);
+    const from = _from;
     if (this.rig.thirdPerson || this.scoped) this.player.model.muzzle.getWorldPosition(from);
     else this.muzzleWorld(from);
 

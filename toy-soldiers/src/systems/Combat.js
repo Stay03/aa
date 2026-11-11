@@ -3,6 +3,7 @@ import { CONFIG } from '../config.js';
 
 const { range: RANGE, impulse: IMPULSE } = CONFIG.combat;
 const _d = new THREE.Vector3();
+const _end = new THREE.Vector3();
 
 // One place where a shot is resolved, shared by the player and the bots.
 export class Combat {
@@ -25,7 +26,7 @@ export class Combat {
       _d.normalize();
 
       const hit = physics.raycast(origin, _d, RANGE, shooter.collider);
-      effects.tracer(muzzlePos, hit ? hit.point : origin.clone().addScaledVector(_d, RANGE));
+      effects.tracer(muzzlePos, hit ? hit.point : _end.copy(origin).addScaledVector(_d, RANGE));
       if (!hit) continue;
       effects.impact(hit.point, hit.normal, def.pellets > 1 ? 2 : 4);
 
@@ -54,7 +55,6 @@ export class Combat {
     const dist = dir.length();
     if (dist < 0.01) return true;
     dir.multiplyScalar(1 / dist);
-    const hit = this.ctx.physics.raycast(eye, dir, dist + 1, from.collider);
-    return !!hit && hit.owner === to;
+    return this.ctx.physics.raycastOwner(eye, dir, dist + 1, from.collider) === to;
   }
 }

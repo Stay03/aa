@@ -2,6 +2,7 @@ import * as THREE from 'three';
 import { CONFIG } from '../config.js';
 
 const C = CONFIG.camera;
+const _eye = new THREE.Vector3(), _right = new THREE.Vector3(), _pivot = new THREE.Vector3(), _back = new THREE.Vector3();
 
 // One camera, two modes. Both read the player's yaw/pitch, so switching
 // between first and third person never changes where you are aiming.
@@ -34,7 +35,7 @@ export class CameraRig {
       cam.updateProjectionMatrix();
     }
 
-    const eye = new THREE.Vector3(p.position.x, p.feet + CONFIG.soldier.eyeHeight, p.position.z);
+    const eye = _eye.set(p.position.x, p.feet + CONFIG.soldier.eyeHeight, p.position.z);
     if (!this.thirdPerson) {
       this.distance = 0;
       this.aimOffset = 0;
@@ -43,10 +44,10 @@ export class CameraRig {
     }
 
     const tp = C.thirdPerson;
-    const right = new THREE.Vector3(Math.cos(p.yaw), 0, -Math.sin(p.yaw));
-    const pivot = new THREE.Vector3(p.position.x, p.feet + tp.height, p.position.z)
+    const right = _right.set(Math.cos(p.yaw), 0, -Math.sin(p.yaw));
+    const pivot = _pivot.set(p.position.x, p.feet + tp.height, p.position.z)
       .addScaledVector(right, tp.shoulder * (aiming ? 0.8 : 1));
-    const back = this.forward.clone().negate();
+    const back = _back.copy(this.forward).negate();
     let want = aiming ? tp.distance * 0.55 : tp.distance;
     const hit = this.ctx.physics.raycast(pivot, back, want + 0.6, p.collider);
     if (hit) want = Math.max(0.6, hit.distance - 0.6);
