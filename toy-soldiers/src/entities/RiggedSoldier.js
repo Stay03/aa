@@ -407,16 +407,25 @@ export function animateSoldier(model, phase, amount, pace = 1, pose = {}) {
   for (const s of [1, -1]) {
     const arm = s < 0 ? B.armL : B.armR, fore = arm + 1, hand = arm + 2, fingers = arm + 3;
     place(model, arm);
-    const grip = _a.copy(s > 0 ? h.grip : h.fore).applyQuaternion(gunQ).add(gunP);
     // Each hand comes in from its own side with the palm against the grip:
     // `handDir` is wrist-to-knuckles, `palmDir` is the way the palm faces.
     const handDir = _b.copy(s > 0 ? _d.set(0.0, 0.3, -1) : _d.set(0.3, 0.35, -0.88)).normalize().applyQuaternion(gunQ);
     const palmDir = palmV.set(-s, 0, 0).applyQuaternion(gunQ);
     palmDir.addScaledVector(handDir, -palmDir.dot(handDir)).normalize();
     const palm = rest[hand].distanceTo(rest[fingers]);
-    const wrist = _c.copy(grip).addScaledVector(handDir, -palm * 0.75).addScaledVector(palmDir, -0.09);
-    // Two-bone reach from shoulder to wrist; the elbow goes down and out.
     const l1 = rest[arm].distanceTo(rest[fore]), l2 = rest[fore].distanceTo(rest[hand]);
+    const wrist = _c;
+    // The left hand holds the fore grip if it can reach it; otherwise it
+    // slides back along the gun to the furthest point it can reach, so the
+    // hand is always on the gun rather than hanging short of it.
+    for (let back = 0; ; back += 0.07) {
+      const grip = _a.copy(s > 0 ? h.grip : h.fore);
+      grip.z = Math.min(grip.z + back, s > 0 ? grip.z : h.grip.z - 0.3);
+      grip.applyQuaternion(gunQ).add(gunP);
+      wrist.copy(grip).addScaledVector(handDir, -palm * 0.75).addScaledVector(palmDir, -0.09);
+      if (s > 0 || back > 0.9 || wrist.distanceTo(wp[arm]) < (l1 + l2) * 0.97) break;
+    }
+    // Two-bone reach from shoulder to wrist; the elbow goes down and out.
     const to = _d.subVectors(wrist, wp[arm]);
     const dist = Math.min(to.length(), l1 + l2 - 0.01);
     to.normalize();

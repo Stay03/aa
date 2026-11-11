@@ -3,7 +3,7 @@ import { CONFIG } from '../config.js';
 import { createSoldier, animateSoldier, setGun } from '../entities/RiggedSoldier.js';
 
 const SWAP_SECONDS = 0.35;
-const VIEW_FOV = 50;
+const VIEW_FOV = 58; // wide enough to keep both hands in view at the hip
 const _v = new THREE.Vector3();
 const _origin = new THREE.Vector3();
 const _from = new THREE.Vector3();
