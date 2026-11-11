@@ -59,7 +59,7 @@ Open the printed URL in a desktop browser and click to play.
 
 - Grenades and unlocks.
 - Bots using the jetpack or climbing; they stay on the floor.
-- Gun models for the scatter gun, long shot and sidearm (all four weapons show the Bren), a kneeling pose, and sourced models for the other toys.
+- Gun models for the scatter gun and long shot (both show the Bren), a kneeling pose, and sourced models for the other toys.
 - Multiplayer.
 - The random-spill map generator.
 
@@ -68,15 +68,24 @@ Open the printed URL in a desktop browser and click to play.
 The soldier is a gun-less character mesh with a skeleton, holding a separate gun model, so guns can be swapped per weapon.
 
 - **Soldier**: the "genAssault" model supplied by the project owner (`assets-src/genAssault.c4d`). `tools/c4d2glb.mjs` reads the mesh and its levels of detail straight out of the Cinema 4D file and measures where the joints are.
-- **Gun**: CZ Bren 2 by **Studio-Svoboda** (`assets-src/czbren2.glb`, credit requested). `tools/gun2glb.mjs` turns and scales it and measures the points a soldier needs: both grips, the butt, the sight line and the muzzle.
+- **Guns**: each weapon names its own gun model, and the soldier is seen holding whichever he is using. `tools/gun2glb.mjs` turns and scales a gun (`.glb` or `.obj`) and measures the points a soldier needs: both grips, the butt, the sight line and the muzzle.
+
+  | Weapon | Gun | By |
+  |---|---|---|
+  | Rifle | M4A1 | mminhnghii02 |
+  | Sidearm | Glock 19 | supplied by the project owner |
+  | Scatter Gun, Long Shot | CZ Bren 2 (stand-in until they have their own) | Studio-Svoboda |
+
 - **Skeleton and movement** are made in the game (`src/entities/RiggedSoldier.js`): 18 bones, skin weights computed from the measured joints, a run cycle, the spine following the aim, and both arms solved every frame to reach the gun's grips wherever the gun is (aiming, recoil, reload, sprint carry). Soldiers break into one piece per bone when shot.
 - **First person** is a second copy of the player's soldier at full detail with the head hidden, seen from his eye, so it always matches what others see.
 
-To add a gun: `node tools/gun2glb.mjs <gun.glb> public/models/guns/<name> --length <cm> --grip <material> --fore <material> --stock <material> --sight <material> --barrel <material>`, then set `model: '<name>'` on a weapon in `src/config.js`. All four weapons currently use the Bren.
+To add a gun: `node tools/gun2glb.mjs <gun.glb> public/models/guns/<name> --length <cm> --grip <material> --fore <material> --stock <material> --sight <material> --barrel <material>`, then set `model: '<name>'` on a weapon in `src/config.js`. A part can also be given as a region of the source model (`box:x0,y0,z0,x1,y1,z1`) when the gun has no separate part for it; `public/models/guns/CREDITS.txt` lists the sources.
 
 Earlier static figures (nimproductions, CC BY 4.0; Dolphin-GS) are kept in `public/models/soldier/` for the gallery. All credits: `public/models/soldier/CREDITS.txt` and `public/models/guns/CREDITS.txt`. Kenney's CC0 models are in `public/models/kenney/`.
 
 ![Poses: standing, quarter view, aiming up, running, sprinting, reloading](docs/run-cycle.png)
+![M4A1: third person, then first person at the hip and aiming](docs/gun-m4a1.png)
+![Glock 19: third person, then first person at the hip and aiming](docs/gun-glock.png)
 
 ## Model gallery
 

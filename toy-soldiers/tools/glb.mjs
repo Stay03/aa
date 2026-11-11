@@ -92,3 +92,24 @@ export function readGlbParts(path) {
   for (const r of g.scenes[g.scene ?? 0].nodes) visit(r, I);
   return parts;
 }
+
+// Read an .obj as parts, one per named group/object. Same shape as readGlbParts.
+export function readObjParts(path) {
+  const verts = [], parts = new Map();
+  let cur = 'default';
+  for (const line of readFileSync(path, 'utf8').split('\n')) {
+    if (line.startsWith('v ')) { const p = line.split(/\s+/); verts.push(+p[1], +p[2], +p[3]); }
+    else if (line.startsWith('g ') || line.startsWith('o ')) cur = line.slice(2).trim().replace(/FBXASC032/g, ' ');
+    else if (line.startsWith('f ')) {
+      const ids = line.trim().split(/\s+/).slice(1).map((t) => { const i = parseInt(t, 10); return i < 0 ? verts.length / 3 + i : i - 1; });
+      if (!parts.has(cur)) parts.set(cur, []);
+      const list = parts.get(cur);
+      for (let k = 1; k < ids.length - 1; k++) list.push(ids[0], ids[k], ids[k + 1]);
+    }
+  }
+  return [...parts].map(([name, tris]) => {
+    const remap = new Map(), pos = [], idx = [];
+    for (const v of tris) { if (!remap.has(v)) { remap.set(v, pos.length / 3); pos.push(verts[v * 3], verts[v * 3 + 1], verts[v * 3 + 2]); } idx.push(remap.get(v)); }
+    return { name, material: name, positions: new Float32Array(pos), indices: Uint32Array.from(idx) };
+  });
+}

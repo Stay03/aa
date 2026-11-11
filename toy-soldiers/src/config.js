@@ -39,7 +39,7 @@ export const CONFIG = {
   // `botRange` is how close a bot gets before it stops and strafes.
   weapons: {
     rifle: {
-      name: 'Rifle', model: 'bren', auto: true, damage: 34, pellets: 1, fireRate: 9, magazine: 30, reloadSeconds: 1.6,
+      name: 'Rifle', model: 'm4a1', auto: true, damage: 34, pellets: 1, fireRate: 9, magazine: 30, reloadSeconds: 1.6,
       hipSpread: 0.012, adsSpread: 0.003, recoil: 0.007, adsFov: 48,
       botRange: 55, botAim: 1,
       sound: { noise: 2200, tone: 420, decay: 0.07 }, view: { length: 1.7, thick: 0.16 },
@@ -57,7 +57,7 @@ export const CONFIG = {
       sound: { noise: 1400, tone: 300, decay: 0.22 }, view: { length: 2.5, thick: 0.13 },
     },
     pistol: {
-      name: 'Sidearm', model: 'bren', auto: false, damage: 26, pellets: 1, fireRate: 5, magazine: 12, reloadSeconds: 1.1,
+      name: 'Sidearm', model: 'glock', auto: false, damage: 26, pellets: 1, fireRate: 5, magazine: 12, reloadSeconds: 1.1,
       hipSpread: 0.012, adsSpread: 0.005, recoil: 0.012, adsFov: 56,
       botRange: 40, botAim: 1,
       sound: { noise: 3000, tone: 600, decay: 0.05 }, view: { length: 0.8, thick: 0.15 },

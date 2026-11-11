@@ -278,7 +278,7 @@ export function animateSoldier(model, phase, amount, pace = 1, pose = {}) {
     aim * (1 - carry) - 0.6 * sprint - 0.65 * reload + 0.09 * kick,
     0.2 * low + 0.5 * sprint,
     -0.1 * low + 0.45 * reload + 0.15 * sprint, 'YXZ'));
-  gunP.set(0, 0, -0.72).applyQuaternion(gunQ).add(model.eye).sub(_a.copy(h.sight).applyQuaternion(gunQ)); // sight 0.72 in front of the eye
+  gunP.set(0, 0, -(h.reach ?? 0.72)).applyQuaternion(gunQ).add(model.eye).sub(_a.copy(h.sight).applyQuaternion(gunQ)); // sight held in front of the eye
   gunP.x += 0.45 * low + 0.1 * carry;
   gunP.y -= 0.3 * low + 0.75 * carry;
   gunP.z += -0.05 * low + 0.14 * kick;

@@ -6,3 +6,18 @@ Source file: assets-src/czbren2.glb.
 Changes: parts merged, turned to point down -z, rescaled, the sight glass
 removed so it can be looked through, a simplified version generated, and
 hold points measured (tools/gun2glb.mjs). Recoloured in-game.
+
+m4a1.glb, m4a1-lod.glb
+
+M4A1 rifle by mminhnghii02 (free download from CGTrader; the page asks for
+credit to mminhnghii02). Supplied by the project owner.
+Source file: assets-src/M4A1.obj.
+Changes: parts merged, turned to point down -z, rescaled, hold points
+measured (tools/gun2glb.mjs). Recoloured in-game.
+
+glock.glb, glock-lod.glb
+
+Glock 19 pistol, supplied by the project owner as a free model
+(GLOCK 19 F T OBJ). Source file: assets-src/glock19.obj.
+Changes: parts merged, turned to point down -z, rescaled, simplified, hold
+points measured (tools/gun2glb.mjs). Recoloured in-game.

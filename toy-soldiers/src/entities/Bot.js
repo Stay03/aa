@@ -43,6 +43,7 @@ export class Bot extends Soldier {
     const loadout = CONFIG.loadouts.find((l) => (r -= l.botWeight) <= 0) ?? CONFIG.loadouts[0];
     this.def = CONFIG.weapons[loadout.primary];
     this.ammo = this.def.magazine;
+    this.gunModel = this.def.model; // what he is seen holding
   }
 
   onRespawn() {

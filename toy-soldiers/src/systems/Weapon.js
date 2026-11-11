@@ -121,6 +121,7 @@ export class Weapon {
     this.prevFire = input.fire;
 
     this.player.isReloading = this.reloading > 0;
+    this.player.gunModel = this.def.model; // what others see him holding
     const aiming = this.isAiming(input);
     this.adsAmount += ((aiming ? 1 : 0) - this.adsAmount) * (1 - Math.exp(-dt * 16));
     this.scoped = !!def.scope && aiming && this.adsAmount > 0.85;
