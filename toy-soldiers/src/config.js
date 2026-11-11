@@ -11,6 +11,7 @@ export const CONFIG = {
     airControl: 0.6,
     jumpSpeed: 38, // clears one alphabet block (4.5 cm)
     stepHeight: 1.2,
+    climbSpeed: 26,
   },
 
   jetpack: {
@@ -29,17 +30,44 @@ export const CONFIG = {
     stickSensitivity: 2.6,
   },
 
-  rifle: {
-    damage: 34,
-    fireRate: 9,
-    magazine: 30,
-    reloadSeconds: 1.6,
-    range: 900,
-    hipSpread: 0.012,
-    adsSpread: 0.003,
-    recoil: 0.007,
-    impulse: 220,
+  combat: { range: 900, impulse: 220 },
+
+  // Weapons are data. `damage` is per pellet; `falloff` is
+  // [full damage until, minimum from, minimum scale] in cm.
+  // `botRange` is how close a bot gets before it stops and strafes.
+  weapons: {
+    rifle: {
+      name: 'Rifle', auto: true, damage: 34, pellets: 1, fireRate: 9, magazine: 30, reloadSeconds: 1.6,
+      hipSpread: 0.012, adsSpread: 0.003, recoil: 0.007, adsFov: 48,
+      botRange: 55, botAim: 1,
+      sound: { noise: 2200, tone: 420, decay: 0.07 }, view: { length: 1.7, thick: 0.16 },
+    },
+    scatter: {
+      name: 'Scatter Gun', auto: false, damage: 14, pellets: 8, fireRate: 1.3, magazine: 6, reloadSeconds: 2.2,
+      hipSpread: 0.09, adsSpread: 0.07, recoil: 0.03, adsFov: 60, falloff: [30, 90, 0.25],
+      botRange: 26, botAim: 0.6,
+      sound: { noise: 900, tone: 200, decay: 0.16 }, view: { length: 1.4, thick: 0.27 },
+    },
+    longshot: {
+      name: 'Long Shot', auto: false, damage: 100, pellets: 1, fireRate: 0.8, magazine: 5, reloadSeconds: 2.4,
+      hipSpread: 0.08, adsSpread: 0.0005, recoil: 0.03, adsFov: 16, scope: true,
+      botRange: 150, botAim: 0.35,
+      sound: { noise: 1400, tone: 300, decay: 0.22 }, view: { length: 2.5, thick: 0.13 },
+    },
+    pistol: {
+      name: 'Sidearm', auto: false, damage: 26, pellets: 1, fireRate: 5, magazine: 12, reloadSeconds: 1.1,
+      hipSpread: 0.012, adsSpread: 0.005, recoil: 0.012, adsFov: 56,
+      botRange: 40, botAim: 1,
+      sound: { noise: 3000, tone: 600, decay: 0.05 }, view: { length: 0.8, thick: 0.15 },
+    },
   },
+
+  // Each loadout is a primary plus a secondary. Unlocks will add to this list.
+  loadouts: [
+    { name: 'Rifleman', primary: 'rifle', secondary: 'pistol', botWeight: 0.5 },
+    { name: 'Scout', primary: 'scatter', secondary: 'pistol', botWeight: 0.25 },
+    { name: 'Sharpshooter', primary: 'longshot', secondary: 'pistol', botWeight: 0.25 },
+  ],
 
   match: {
     teamSize: 4,
@@ -53,15 +81,12 @@ export const CONFIG = {
   },
 
   bot: {
-    damage: 10,
-    fireRate: 5,
-    magazine: 24,
-    reloadSeconds: 1.8,
+    damageScale: 0.3,    // bots hit softer than the player with the same weapon
+    maxFireRate: 5,
     aimError: 0.06,      // radians of random spread on each shot
     turnRate: 7,         // radians per second
     reaction: [0.25, 0.55],
     sightRange: 420,
-    engageRange: 55,     // closes to this distance, then strafes
   },
 
   room: { width: 400, depth: 360, height: 250 },

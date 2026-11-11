@@ -32,7 +32,7 @@ export class Player extends Soldier {
     // forward = (-sin, 0, -cos), right = (cos, 0, -sin)
     const wishX = (-sin * input.moveZ + cos * input.moveX) * speed;
     const wishZ = (-cos * input.moveZ - sin * input.moveX) * speed;
-    this.moveStep(dt, wishX, wishZ, input.pressed.has('jump'), input.jump);
+    this.moveStep(dt, wishX, wishZ, input.pressed.has('jump'), input.jump, input.moveZ);
   }
 
   update(dt, visible) {

@@ -212,3 +212,33 @@ export function teddyBear(ctx, x, z, rotY) {
   }
   return group;
 }
+
+// A climbable line hanging from a ledge at height `top` down to the floor.
+// `over` is the unit direction [x, z] from the rope onto the surface it hangs
+// from. No collider: soldiers attach to it (see Soldier.updateClimb).
+export function climbRope(ctx, x, z, top, over, { color = 0xf4f1e8, stripe = 0xd8352a, radius = 0.32 } = {}) {
+  const group = new THREE.Group();
+  const mat = matte(color, 0.85);
+  const stripeMat = matte(stripe, 0.85);
+  const hang = shadow(new THREE.Mesh(new THREE.CylinderGeometry(radius, radius, top, 10), mat));
+  hang.position.y = top / 2;
+  group.add(hang);
+  for (let y = 3; y < top - 1; y += 4) {
+    const band = new THREE.Mesh(new THREE.CylinderGeometry(radius * 1.08, radius * 1.08, 0.9, 10), stripeMat);
+    band.position.y = y;
+    group.add(band);
+  }
+  // The part lying on top of the furniture, and the loose end on the floor.
+  const lay = (len, px, py, pz, dx, dz, m = mat, r = radius) => {
+    const c = shadow(new THREE.Mesh(new THREE.CylinderGeometry(r, r, len, 10), m));
+    c.position.set(px + (dx * len) / 2, py, pz + (dz * len) / 2);
+    c.quaternion.setFromUnitVectors(new THREE.Vector3(0, 1, 0), new THREE.Vector3(dx, 0, dz));
+    group.add(c);
+  };
+  lay(9, 0, top + radius, 0, over[0], over[1]);
+  lay(6, 0, radius, 0, -over[0] * 0.8 - over[1] * 0.6, -over[1] * 0.8 + over[0] * 0.6);
+  group.position.set(x, 0, z);
+  ctx.scene.add(group);
+  ctx.climbables.push({ x, z, y0: 0, y1: top, radius: 2.6 });
+  return group;
+}

@@ -20,14 +20,14 @@ export class CameraRig {
 
   toggle() { this.thirdPerson = !this.thirdPerson; }
 
-  update(dt, aiming) {
+  update(dt, aiming, adsFov = C.adsFov) {
     const p = this.player;
     const cam = this.camera;
     if (!p.alive) return; // hold the last view while waiting to respawn
     cam.rotation.set(p.pitch, p.yaw, 0);
     cam.getWorldDirection(this.forward);
 
-    const targetFov = aiming ? C.adsFov : C.fov;
+    const targetFov = aiming ? adsFov : C.fov;
     if (Math.abs(cam.fov - targetFov) > 0.05) {
       cam.fov += (targetFov - cam.fov) * (1 - Math.exp(-dt * 16));
       cam.updateProjectionMatrix();

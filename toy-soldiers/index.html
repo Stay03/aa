@@ -22,11 +22,20 @@
   #feed { position: absolute; right: 18px; top: 18px; text-align: right; font-size: 13px; font-weight: 600; text-shadow: 0 1px 2px #000; line-height: 1.7; }
   #feed .green { color: #7fd672; } #feed .tan { color: #e6c88a; }
   #message { position: absolute; left: 50%; top: 62%; transform: translateX(-50%); font-size: 20px; font-weight: 700; text-shadow: 0 2px 4px #000; text-align: center; }
+  #ammo small { display: block; font-size: 13px; font-weight: 600; opacity: .85; }
+  #scope { position: absolute; inset: 0; display: none; background: radial-gradient(circle at center, transparent 0, transparent 34vh, #000 34.4vh); }
+  #scope::before, #scope::after { content: ''; position: absolute; background: rgba(0,0,0,.8); }
+  #scope::before { left: 50%; top: calc(50% - 34vh); width: 1px; height: 68vh; }
+  #scope::after { top: 50%; left: calc(50% - 34vh); height: 1px; width: 68vh; }
+  #loadouts { display: flex; gap: 10px; margin-top: 16px; }
+  #loadouts button { font: inherit; font-weight: 700; color: #fff; background: rgba(255,255,255,.1); border: 2px solid rgba(255,255,255,.25); border-radius: 10px; padding: 10px 16px; cursor: pointer; }
+  #loadouts button small { display: block; font-weight: 500; opacity: .75; margin-top: 2px; }
+  #loadouts button.selected { background: #3f7d3a; border-color: #9be08f; }
   #vignette { position: absolute; inset: 0; box-shadow: inset 0 0 160px 40px rgba(220,30,20,.85); opacity: 0; }
   .bar { height: 8px; width: 150px; background: rgba(255,255,255,.2); border-radius: 4px; margin: 4px 0 8px; overflow: hidden; }
   .bar > div { height: 100%; width: 100%; border-radius: 4px; }
   #health { background: #5fd35f; } #fuel { background: #ffb339; }
-  #overlay { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; background: rgba(10,14,24,.78); cursor: pointer; text-align: center; padding: 16px; }
+  #overlay { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: safe center; overflow-y: auto; background: rgba(10,14,24,.78); cursor: pointer; text-align: center; padding: 16px; }
   #overlay h1 { font-size: 44px; margin: 0 0 8px; letter-spacing: 2px; }
   #overlay p { margin: 4px 0; opacity: .85; }
   #overlay table { margin-top: 18px; border-collapse: collapse; font-size: 14px; text-align: left; }
@@ -36,6 +45,7 @@
 </head>
 <body>
 <div id="hud">
+  <div id="scope"></div>
   <div id="vignette"></div>
   <div id="crosshair"></div>
   <div id="feed"></div>
@@ -51,6 +61,7 @@
 <div id="overlay">
   <h1 id="overlay-title">TOY SOLDIERS</h1>
   <p id="overlay-sub">Team deathmatch · 4 v 4 · first to 30</p>
+  <div id="loadouts"></div>
   <p id="overlay-status">Loading…</p>
   <table>
     <tr><td>Move / look</td><td>WASD + mouse · left stick + right stick</td></tr>
@@ -58,6 +69,9 @@
     <tr><td>Jump, hold for jetpack</td><td>Space · A</td></tr>
     <tr><td>Sprint</td><td>Shift · L3</td></tr>
     <tr><td>Reload</td><td>R · X</td></tr>
+    <tr><td>Swap weapon</td><td>Q or mouse wheel · RB</td></tr>
+    <tr><td>Change loadout (next spawn)</td><td>1 2 3 · D-pad left / right</td></tr>
+    <tr><td>Climb a rope</td><td>Walk into it and hold forward</td></tr>
     <tr><td>First / third person</td><td>V · Y</td></tr>
     <tr><td>Day / night</td><td>N · D-pad up</td></tr>
   </table>

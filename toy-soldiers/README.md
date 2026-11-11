@@ -7,6 +7,7 @@ toy chest has tipped over and its contents are the map.
 ![Day, third person](docs/day-third-person.png)
 ![Night, first person](docs/night-first-person.png)
 ![Match HUD](docs/match.png)
+![View from the desk](docs/desk-view.png)
 
 ## Run
 
@@ -26,6 +27,9 @@ Open the printed URL in a desktop browser and click to play.
 | Jump, hold in the air for jetpack | Space | A |
 | Sprint | Shift | L3 |
 | Reload | R | X |
+| Swap weapon | Q or mouse wheel | RB |
+| Change loadout (next spawn) | 1 2 3 | D-pad left / right |
+| Climb a rope | Walk into it, hold forward | Same |
 | First / third person | V | Y |
 | Day / night | N | D-pad up |
 
@@ -37,16 +41,17 @@ Open the printed URL in a desktop browser and click to play.
 - The bedroom at real scale (4 m x 3.6 m), with bed, desk, window and the tipped toy chest.
 - Map 01, hand-placed: alphabet blocks, building bricks, books, a ruler ramp, a pencil bridge, cars, crayons, a teddy bear, and knockable dominoes, marbles and a ball.
 - One soldier controller shared by the player and bots, with first- and third-person cameras, jump and jetpack.
-- A hitscan rifle with recoil, spread, aim-down-sights and reload. Soldiers break into plastic pieces that melt.
+- Three loadouts, picked on the start screen or changed for the next spawn: Rifleman (Rifle), Scout (Scatter Gun) and Sharpshooter (scoped Long Shot), each with a Sidearm. Bots use them too.
+- Weapons defined as data in `src/config.js`: damage, pellets, fire rate, spread, recoil, range falloff, zoom. Soldiers break into plastic pieces that melt.
+- Three climbable ropes: a shoelace up the bed, a jump rope up the desk, twine up to the roof of the toy chest. The jetpack reaches the bed but not the desk.
 - Synthesised sound: gunshots (positional for other soldiers), plastic shatter, hit marker, footsteps, reload, jetpack.
 - Day and night lighting presets with a blend between them.
 - Keyboard/mouse and gamepad input.
 
 ## Not built yet
 
-- Loadouts, more weapons, grenades, unlocks.
+- Grenades and unlocks.
 - Bots using the jetpack or climbing; they stay on the floor.
-- Rope, shoelace and other climb routes onto the furniture.
 - Sourced toy models; everything is currently generated in code.
 - Menus and settings (sensitivity, volume, difficulty).
 - Multiplayer.

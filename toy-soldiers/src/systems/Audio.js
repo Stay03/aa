@@ -93,13 +93,13 @@ export class Audio {
     o.stop(t + decay + 0.02);
   }
 
-  // A toy gun: a sharp pop rather than a boom.
-  shot(pos, own) {
+  // A toy gun: a sharp pop rather than a boom. `profile` comes from the weapon.
+  shot(pos, own, profile) {
     if (!this.ctx) return;
     const out = this._out(own ? null : pos);
     const k = own ? 0.7 : 1;
-    this._burst(out, { freq: 2200, q: 0.7, gain: 0.55 * k, decay: 0.07 });
-    this._tone(out, { wave: 'triangle', from: 420, to: 110, gain: 0.5 * k, decay: 0.09 });
+    this._burst(out, { freq: profile.noise, q: 0.7, gain: 0.55 * k, decay: profile.decay });
+    this._tone(out, { wave: 'triangle', from: profile.tone, to: profile.tone / 4, gain: 0.5 * k, decay: profile.decay * 1.3 });
   }
 
   // Plastic breaking apart: a crack and a scatter of clicks.
@@ -127,11 +127,16 @@ export class Audio {
     this._burst(this.master, { type: 'lowpass', freq: 700, gain: 0.12, decay: 0.04 });
   }
 
-  reload() {
+  reload(seconds) {
     if (!this.ctx) return;
     this._burst(this.master, { freq: 3200, q: 4, gain: 0.3, decay: 0.03 });
-    this._burst(this.master, { freq: 2400, q: 4, gain: 0.35, decay: 0.04, delay: 0.9 });
-    this._burst(this.master, { freq: 1500, q: 3, gain: 0.4, decay: 0.05, delay: 1.35 });
+    this._burst(this.master, { freq: 2400, q: 4, gain: 0.35, decay: 0.04, delay: seconds * 0.55 });
+    this._burst(this.master, { freq: 1500, q: 3, gain: 0.4, decay: 0.05, delay: seconds * 0.85 });
+  }
+
+  swap() {
+    if (!this.ctx) return;
+    this._burst(this.master, { freq: 1800, q: 3, gain: 0.25, decay: 0.04 });
   }
 
   jet(on) {

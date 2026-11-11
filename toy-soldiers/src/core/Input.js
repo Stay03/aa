@@ -18,13 +18,16 @@ export class Input {
     this.state = {
       moveX: 0, moveZ: 0, lookX: 0, lookY: 0,
       jump: false, sprint: false, fire: false, aim: false,
-      pressed: new Set(), // edge-triggered: jump, reload, toggleCamera, toggleTime
+      pressed: new Set(), // edge-triggered actions (jump, reload, swap, toggles, loadout keys)
     };
 
     addEventListener('keydown', (e) => {
       if (e.repeat) return;
       this.keys.add(e.code);
-      const edge = { Space: 'jump', KeyR: 'reload', KeyV: 'toggleCamera', KeyN: 'toggleTime' }[e.code];
+      const edge = {
+        Space: 'jump', KeyR: 'reload', KeyV: 'toggleCamera', KeyN: 'toggleTime', KeyQ: 'swap',
+        Digit1: 'loadout1', Digit2: 'loadout2', Digit3: 'loadout3',
+      }[e.code];
       if (edge) this.pressedQueue.add(edge);
       if (e.code === 'Space') e.preventDefault();
     });
@@ -32,6 +35,7 @@ export class Input {
     addEventListener('blur', () => { this.keys.clear(); this.mouseButtons.clear(); });
     dom.addEventListener('mousedown', (e) => this.mouseButtons.add(e.button));
     addEventListener('mouseup', (e) => this.mouseButtons.delete(e.button));
+    dom.addEventListener('wheel', () => this.pressedQueue.add('swap'), { passive: true });
     dom.addEventListener('contextmenu', (e) => e.preventDefault());
     addEventListener('mousemove', (e) => {
       if (document.pointerLockElement !== dom) return;
@@ -88,6 +92,9 @@ export class Input {
       edge(2, 'reload');
       edge(3, 'toggleCamera');
       edge(12, 'toggleTime');
+      edge(5, 'swap');
+      edge(14, 'loadoutPrev');
+      edge(15, 'loadoutNext');
     }
 
     const len = Math.hypot(s.moveX, s.moveZ);

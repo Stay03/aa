@@ -27,7 +27,7 @@ async function boot() {
 
   const scene = new THREE.Scene();
   const physics = await Physics.create();
-  const ctx = { scene, physics, RAPIER, rand: seeded(1234), effects: new Effects(scene), audio: new Audio(), soldiers: [] };
+  const ctx = { scene, physics, RAPIER, rand: seeded(1234), effects: new Effects(scene), audio: new Audio(), soldiers: [], climbables: [] };
   ctx.combat = new Combat(ctx);
   ctx.match = new Match(ctx, SPAWNS);
 
@@ -56,10 +56,19 @@ async function boot() {
 
   const rig = new CameraRig(ctx, player);
   const weapon = new Weapon(ctx, player, rig);
-  player.onRespawn = () => weapon.reset();
 
   const input = new Input(renderer.domElement);
   const hud = new Hud();
+
+  // The chosen loadout takes effect at the next spawn, as in any class shooter.
+  let loadoutIndex = 0;
+  const pickLoadout = (i) => {
+    loadoutIndex = (i + CONFIG.loadouts.length) % CONFIG.loadouts.length;
+    hud.selectLoadout(loadoutIndex);
+  };
+  hud.buildLoadouts(pickLoadout);
+  pickLoadout(0);
+  player.onRespawn = () => weapon.setLoadout(CONFIG.loadouts[loadoutIndex]);
   hud.ready(() => {
     ctx.audio.resume();
     ctx.match.start();
@@ -92,7 +101,12 @@ async function boot() {
     const playing = ctx.match.playing;
     if (s.pressed.has('toggleCamera')) rig.toggle();
     if (s.pressed.has('toggleTime')) lighting.toggle();
-    if (playing) player.look(s.lookX, s.lookY);
+    for (let i = 0; i < CONFIG.loadouts.length; i++) if (s.pressed.has(`loadout${i + 1}`)) pickLoadout(i);
+    if (s.pressed.has('loadoutPrev')) pickLoadout(loadoutIndex - 1);
+    if (s.pressed.has('loadoutNext')) pickLoadout(loadoutIndex + 1);
+    // Scale look speed with zoom so a scoped view is not twitchy.
+    const zoom = rig.camera.fov / CONFIG.camera.fov;
+    if (playing) player.look(s.lookX * zoom, s.lookY * zoom);
 
     // Fixed-step simulation; edge-triggered presses are consumed by the first step.
     acc += dt;
@@ -110,13 +124,13 @@ async function boot() {
 
     player.update(dt, rig.thirdPerson);
     for (const b of bots) b.updateVisual(dt);
-    rig.update(dt, s.aim && playing);
+    rig.update(dt, playing && weapon.isAiming(s), weapon.def.adsFov);
     if (playing) weapon.update(dt, s);
     ctx.audio.setListener(rig.camera, rig.forward);
 
     ctx.effects.update(dt);
     lighting.update(dt);
-    hud.update({ weapon, player, rig, lighting, match: ctx.match, fps });
+    hud.update({ weapon, player, rig, lighting, match: ctx.match, fps, nextLoadout: CONFIG.loadouts[loadoutIndex] });
     renderer.render(scene, rig.camera);
   });
 

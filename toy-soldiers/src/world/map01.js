@@ -1,4 +1,4 @@
-import { BLOCK, BRICK_H, alphabetBlock, blockStack, brick, book, crayon, pencilBridge, ruler, domino, ball, marble, toyCar, teddyBear } from './toys.js';
+import { BLOCK, BRICK_H, alphabetBlock, blockStack, brick, book, crayon, pencilBridge, ruler, domino, ball, marble, toyCar, teddyBear, climbRope } from './toys.js';
 
 // Map 01, "The Spill". Hand-placed. Green spawns at +z, tan at -z by the
 // toy chest. Three lanes: the car lane (-x), the bear in the middle, and the
@@ -67,6 +67,11 @@ export function buildMap01(ctx) {
   // --- Loose physics toys
   ball(ctx, 24, 84);
   for (let i = 0; i < 10; i++) marble(ctx, -8 + rand() * 26, 66 + rand() * 14, cols[i % 6]);
+
+  // --- Ways up. The jetpack reaches the bed; only ropes reach the desk.
+  climbRope(ctx, 95.7, -10, 53, [1, 0]);                                         // shoelace up the side of the bed
+  climbRope(ctx, -150, -47.6, 75, [0, -1], { color: 0x2b62c9, stripe: 0xf0b41c }); // jump rope up to the desk
+  climbRope(ctx, 14, -78.6, 46, [0, -1], { color: 0xe8c36a, stripe: 0x8a5a33 });   // twine up to the chest roof
 
   // --- Tan side, around the tipped chest
   wallOfBlocks(-58, -52, 3, 1, 0, [2, 1, 1]);

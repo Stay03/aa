@@ -26,7 +26,7 @@ export class Bot extends Soldier {
     this.goal = null;
     this.strafeDir = Math.random() < 0.5 ? -1 : 1;
     this.strafeIn = 0;
-    this.ammo = B.magazine;
+    this.pickLoadout();
     this.reloading = 0;
     this.cooldown = 0;
     this.burstLeft = 0;
@@ -35,12 +35,20 @@ export class Bot extends Soldier {
     this.wantJump = false;
   }
 
+  // Bots carry only the primary of a randomly weighted loadout.
+  pickLoadout() {
+    let r = Math.random();
+    const loadout = CONFIG.loadouts.find((l) => (r -= l.botWeight) <= 0) ?? CONFIG.loadouts[0];
+    this.def = CONFIG.weapons[loadout.primary];
+    this.ammo = this.def.magazine;
+  }
+
   onRespawn() {
     this.enemy = null;
     this.lastSeen = null;
     this.path = null;
     this.goal = null;
-    this.ammo = B.magazine;
+    this.pickLoadout();
     this.reloading = 0;
   }
 
@@ -70,7 +78,7 @@ export class Bot extends Soldier {
       const dist = Math.hypot(dx, dz) || 1;
       faceYaw = Math.atan2(-dx, -dz);
       const nx = dx / dist, nz = dz / dist;
-      if (dist > B.engageRange) {
+      if (dist > this.def.botRange) {
         [wishX, wishZ] = this.follow(dt, this.enemy.position.x, this.enemy.position.z, M.walkSpeed);
       } else {
         // Strafe across the enemy's aim, backing off if too close.
@@ -90,12 +98,12 @@ export class Bot extends Soldier {
       const goal = this.pickGoal();
       [wishX, wishZ] = this.follow(dt, goal.x, goal.z, M.walkSpeed);
       if (wishX || wishZ) faceYaw = Math.atan2(-wishX, -wishZ);
-      if (this.ammo < B.magazine * 0.4 && this.reloading <= 0) this.reloading = B.reloadSeconds;
+      if (this.ammo < this.def.magazine * 0.4 && this.reloading <= 0) this.reloading = this.def.reloadSeconds;
     }
 
     if (this.reloading > 0) {
       this.reloading -= dt;
-      if (this.reloading <= 0) this.ammo = B.magazine;
+      if (this.reloading <= 0) this.ammo = this.def.magazine;
     }
     this.cooldown -= dt;
 
@@ -180,29 +188,35 @@ export class Bot extends Soldier {
   }
 
   shoot(dt, faceYaw) {
+    const def = this.def;
     if (this.reloading > 0 || this.reaction > 0) return;
-    if (this.ammo <= 0) { this.reloading = B.reloadSeconds; return; }
+    if (this.ammo <= 0) { this.reloading = def.reloadSeconds; return; }
     if (Math.abs(angleDiff(faceYaw, this.yaw)) > 0.18) return;
 
-    if (this.burstLeft <= 0) {
+    if (def.auto && this.burstLeft <= 0) {
       this.burstPause -= dt;
       if (this.burstPause > 0) return;
       this.burstLeft = 3 + Math.floor(Math.random() * 4);
     }
     if (this.cooldown > 0) return;
 
-    this.cooldown = 1 / B.fireRate;
+    this.cooldown = 1 / Math.min(def.fireRate, B.maxFireRate);
     this.ammo--;
-    if (--this.burstLeft <= 0) this.burstPause = 0.35 + Math.random() * 0.6;
+    if (def.auto && --this.burstLeft <= 0) this.burstPause = 0.35 + Math.random() * 0.6;
 
+    // The bot's own aiming mistake, shared by every pellet of the shot.
+    const err = B.aimError * def.botAim;
     this.eye(_eye);
     _dir.copy(this.enemy.position).sub(_eye).normalize();
-    _dir.x += (Math.random() - 0.5) * 2 * B.aimError;
-    _dir.y += (Math.random() - 0.5) * 2 * B.aimError;
-    _dir.z += (Math.random() - 0.5) * 2 * B.aimError;
+    _dir.x += (Math.random() - 0.5) * 2 * err;
+    _dir.y += (Math.random() - 0.5) * 2 * err;
+    _dir.z += (Math.random() - 0.5) * 2 * err;
     _dir.normalize();
     this.model.muzzle.getWorldPosition(_muzzle);
-    this.ctx.combat.fire(this, _eye, _dir, _muzzle, { damage: B.damage });
+    this.ctx.combat.fire(this, _eye, _dir, _muzzle, def, {
+      spread: def.pellets > 1 ? def.hipSpread : 0,
+      damageScale: B.damageScale,
+    });
   }
 
   // If we wanted to move but did not, hop and re-plan.

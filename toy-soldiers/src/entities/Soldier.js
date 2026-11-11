@@ -40,6 +40,8 @@ export class Soldier {
     this.airTime = 0;
     this.fuel = 1;
     this.jetting = false;
+    this.climbing = false;
+    this.nearClimb = false;
     this.walkPhase = 0;
 
     this.health = CONFIG.match.health;
@@ -55,8 +57,36 @@ export class Soldier {
   get feet() { return this.position.y - HALF; }
   eye(out = new THREE.Vector3()) { return out.set(this.position.x, this.feet + S.eyeHeight, this.position.z); }
 
+  // Ropes and laces: stand at one and push forward to go up, back to go down,
+  // jump to let go. `climb` is -1..1; bots pass nothing and so never climb.
+  updateClimb(climb, jumpPressed) {
+    const feet = this.feet, px = this.position.x, pz = this.position.z;
+    const rope = this.ctx.climbables.find((r) =>
+      Math.hypot(r.x - px, r.z - pz) < r.radius && feet > r.y0 - 0.5 && feet < r.y1);
+    this.nearClimb = !!rope;
+    if (!rope) { this.climbing = false; return null; }
+    if (!this.climbing) {
+      if (climb > 0.2 && !jumpPressed) this.climbing = true;
+    } else if (jumpPressed) {
+      this.climbing = false;
+      this.velY = M.jumpSpeed * 0.7;
+      this.grounded = false;
+    } else if (climb < 0 && this.grounded) {
+      this.climbing = false;
+    }
+    return rope;
+  }
+
   // One physics step of movement. `wishX/wishZ` is the wanted ground velocity.
-  moveStep(dt, wishX, wishZ, jumpPressed, jumpHeld) {
+  moveStep(dt, wishX, wishZ, jumpPressed, jumpHeld, climb = null) {
+    const rope = climb !== null ? this.updateClimb(climb, jumpPressed) : null;
+    if (this.climbing) {
+      // Hold on: ignore steering and pull the soldier onto the rope.
+      wishX = THREE.MathUtils.clamp((rope.x - this.position.x) * 10, -20, 20);
+      wishZ = THREE.MathUtils.clamp((rope.z - this.position.z) * 10, -20, 20);
+      jumpPressed = false;
+      jumpHeld = false;
+    }
     const blend = 1 - Math.exp(-dt * (this.grounded ? 14 : 14 * M.airControl * 0.35));
     this.horizontal.x += (wishX - this.horizontal.x) * blend;
     this.horizontal.z += (wishZ - this.horizontal.z) * blend;
@@ -77,7 +107,12 @@ export class Soldier {
       this.velY = Math.min(J.maxRiseSpeed, this.velY + J.accel * dt);
       this.fuel = Math.max(0, this.fuel - dt / J.fuelSeconds);
     }
-    this.velY = Math.max(this.velY - CONFIG.gravity * dt, -160);
+    if (this.climbing) {
+      this.velY = climb * M.climbSpeed;
+      this.fuel = Math.min(1, this.fuel + J.rechargePerSecond * dt);
+    } else {
+      this.velY = Math.max(this.velY - CONFIG.gravity * dt, -160);
+    }
 
     const desired = { x: this.horizontal.x * dt, y: this.velY * dt, z: this.horizontal.z * dt };
     this.controller.computeColliderMovement(this.collider, desired);
@@ -88,7 +123,13 @@ export class Soldier {
     this.position.set(next.x, next.y, next.z);
 
     this.grounded = this.controller.computedGrounded();
-    if (this.grounded && this.velY < 0) this.velY = -2;
+    if (this.climbing && this.feet >= rope.y1 - 0.2) {
+      // Reached the top: a small hop carries the soldier over the edge.
+      this.climbing = false;
+      this.velY = 24;
+      this.grounded = false;
+    }
+    if (this.grounded && this.velY < 0 && !this.climbing) this.velY = -2;
     if (this.velY > 0 && mv.y < desired.y - 1e-4) this.velY = 0; // bumped a ceiling
   }
 
@@ -126,6 +167,7 @@ export class Soldier {
     this.yaw = yaw;
     this.pitch = 0;
     this.fuel = 1;
+    this.climbing = false;
     this.health = CONFIG.match.health;
     this.dead = false;
     this.respawnIn = 0;
