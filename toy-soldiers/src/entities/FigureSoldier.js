@@ -35,9 +35,7 @@ export function loadFigure(file) {
 
 // Call once before creating soldiers.
 export async function preloadSoldier() {
-  // Licensed figures are kept out of the repository (see .gitignore), so the
-  // configured one may be absent on a fresh checkout: fall back to the
-  // freely licensed figure that is always present.
+  // If the configured figure's files are missing, fall back to the first one.
   const load = (name) => Promise.all([
     loadFigure(`${name}-lod.glb`),
     loadFigure(`${name}.glb`), // full detail, used only for the close-up first-person view

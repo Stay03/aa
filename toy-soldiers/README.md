@@ -65,9 +65,9 @@ Open the printed URL in a desktop browser and click to play.
 
 ## Soldier model and credits
 
-Which figure the game uses is set by `soldier.model` in `src/config.js`. It is currently `pose40`: pose 40 of "US Soldier Set 05" by Dolphin-GS. That set is a paid asset, so its files are **not in this repository** (they are in `.gitignore`). Convert your own copy with the command in `public/models/soldier/CREDITS.txt`. If the files are absent, the game falls back to the freely licensed figure below.
+The soldier in the game is **pose 40 of "US Soldier Set 05" by Dolphin-GS**, a free download supplied by the project owner (credit to Dolphin-GS requested). Which figure the game uses is set by `soldier.model` in `src/config.js`; if that figure's files are missing, the game falls back to the `shooting` figure.
 
-The fallback, always present, is **"Modern Soldier Shooting Toy Soldier 3D Print" by nimproductions** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)); "Modern Soldier Relaxed" by the same artist is kept for comparison in the gallery. All credits are in `public/models/soldier/CREDITS.txt`.
+Two earlier figures by **nimproductions** ("Modern Soldier Shooting" and "Modern Soldier Relaxed", [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) are also converted and kept for comparison. All credits are in `public/models/soldier/CREDITS.txt`.
 
 `tools/stl2glb.mjs` converts a sculpt (STL or OBJ): it welds the mesh, recomputes normals, removes a moulded base if there is one, scales the figure to 6 cm, points its weapon forward, measures its joints and rifle, and writes a full-detail version and a 20,000-triangle game version.
 

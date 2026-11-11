@@ -106,7 +106,7 @@ const QZ = -60;
     m.root.position.set(x, 0, QZ - dz);
     m.root.rotation.y = (turn * Math.PI) / 180;
     scene.add(m.root);
-  }).catch(() => {}); // a licensed figure that is not in this checkout
+  }).catch(() => {}); // skip a figure whose files are missing
 });
 label('Shooting\n(front, side)', -8, 8.6, QZ, 1.3);
 label('Set 05 pose 40\n(front, side)', 8, 8.6, QZ, 1.3);
