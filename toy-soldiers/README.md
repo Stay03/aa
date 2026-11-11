@@ -51,7 +51,7 @@ Open the printed URL in a desktop browser and click to play.
 - Day and night lighting presets with a blend between them.
 - First-person gun models with hands and working iron sights, drawn in their own pass so they stay small in the corner and never clip into walls.
 - Start, pause and result screens. Pausing freezes the match and offers resume, restart and settings.
-- Settings saved in the browser: bot difficulty, look sensitivity, invert look, field of view, volume, default camera, time of day, resolution, shadow quality.
+- Settings saved in the browser: bot difficulty, look sensitivity, invert look, field of view, volume, default camera, time of day, resolution, anti-aliasing (applies after a reload), shadow quality.
 - Keyboard/mouse and gamepad input.
 
 ## Not built yet

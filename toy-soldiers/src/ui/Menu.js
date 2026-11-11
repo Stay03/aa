@@ -5,8 +5,10 @@ const $ = (id) => document.getElementById(id);
 
 // Start, pause and result screens, the loadout picker and the settings form.
 export class Menu {
-  constructor(settings, handlers) {
+  // `active` holds the values of reload-only settings as currently running.
+  constructor(settings, handlers, active = {}) {
     this.settings = settings;
+    this.active = active;
     this.handlers = handlers; // { onPlay, onResume, onRestart, onLoadout }
     this.mode = 'start';
     this.el = {
@@ -14,6 +16,7 @@ export class Menu {
       title: $('overlay-title'), sub: $('overlay-sub'), loadouts: $('loadouts'),
       play: $('btn-play'), restart: $('btn-restart'), settings: $('btn-settings'),
       form: $('settings-form'), back: $('btn-back'), defaults: $('btn-defaults'),
+      reloadNote: $('reload-note'), reload: $('btn-reload'),
     };
     this.controls = {};
 
@@ -22,6 +25,7 @@ export class Menu {
     this.el.settings.addEventListener('click', () => this.showSettings(true));
     this.el.back.addEventListener('click', () => this.showSettings(false));
     this.el.defaults.addEventListener('click', () => { settings.reset(); this.syncForm(); });
+    this.el.reload.addEventListener('click', () => location.reload());
 
     CONFIG.loadouts.forEach((l, i) => {
       const b = document.createElement('button');
@@ -46,7 +50,10 @@ export class Menu {
       if (field.options) {
         input = document.createElement('select');
         field.options.forEach(([, text], i) => input.add(new Option(text, String(i))));
-        input.addEventListener('change', () => this.settings.set(field.key, field.options[Number(input.value)][0]));
+        input.addEventListener('change', () => {
+          this.settings.set(field.key, field.options[Number(input.value)][0]);
+          this.syncReloadNote();
+        });
       } else if (field.toggle) {
         input = document.createElement('input');
         input.type = 'checkbox';
@@ -77,6 +84,13 @@ export class Menu {
       else if (field.toggle) input.checked = v;
       else { input.value = v; readout.textContent = field.format(v); }
     }
+    this.syncReloadNote();
+  }
+
+  // Offer a reload when a setting that needs one differs from what is running.
+  syncReloadNote() {
+    const pending = SCHEMA.some((f) => f.needsReload && this.settings.get(f.key) !== this.active[f.key]);
+    this.el.reloadNote.hidden = !pending;
   }
 
   selectLoadout(index) {

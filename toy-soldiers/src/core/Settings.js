@@ -8,6 +8,7 @@ export const DEFAULTS = {
   difficulty: 'normal',
   shadows: 'medium',
   resolution: 'auto',
+  antialias: true,
   night: false,
   thirdPerson: false,
 };
@@ -22,6 +23,7 @@ export const SCHEMA = [
   { key: 'thirdPerson', label: 'Camera', options: [[false, 'First person'], [true, 'Third person']] },
   { key: 'night', label: 'Time of day', options: [[false, 'Day'], [true, 'Night']] },
   { key: 'resolution', label: 'Resolution', options: [['auto', 'Auto (keeps it smooth)'], ['low', 'Low'], ['medium', 'Medium'], ['high', 'High']] },
+  { key: 'antialias', label: 'Anti-aliasing', options: [[true, 'On (smoother edges)'], [false, 'Off (faster)']], needsReload: true },
   { key: 'shadows', label: 'Shadow quality', options: [['low', 'Low'], ['medium', 'Medium'], ['high', 'High']] },
 ];
 

@@ -25,7 +25,11 @@ const FIXED_DT = 1 / 60;
 const MAX_STEPS = 3;
 
 async function boot() {
-  const renderer = new THREE.WebGLRenderer({ antialias: true, powerPreference: 'high-performance' });
+  const settings = new Settings();
+  // Anti-aliasing is fixed when the graphics context is created, so changing
+  // it in Settings takes effect after a reload.
+  const antialias = settings.get('antialias');
+  const renderer = new THREE.WebGLRenderer({ antialias, powerPreference: 'high-performance' });
   const resolution = new Resolution(renderer);
   renderer.autoClear = false; // the gun is drawn as a second pass over the world
   renderer.setSize(innerWidth, innerHeight);
@@ -68,7 +72,6 @@ async function boot() {
 
   const input = new Input(renderer.domElement);
   const hud = new Hud();
-  const settings = new Settings();
   let paused = false;
   let loadoutIndex = 0;
 
@@ -83,7 +86,7 @@ async function boot() {
     onRestart: () => { ctx.match.start(); begin(); },
     onResume: () => begin(),
     onLoadout: (i) => pickLoadout(i),
-  });
+  }, { antialias });
 
   // The chosen loadout takes effect at the next spawn, as in any class shooter.
   const pickLoadout = (i) => {

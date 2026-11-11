@@ -29,7 +29,9 @@
   #scope::before { left: 50%; top: calc(50% - 34vh); width: 1px; height: 68vh; }
   #scope::after { top: 50%; left: calc(50% - 34vh); height: 1px; width: 68vh; }
   #screen-main, #screen-settings { display: flex; flex-direction: column; align-items: center; }
-  #screen-main[hidden], #screen-settings[hidden], button[hidden] { display: none; }
+  #screen-main[hidden], #screen-settings[hidden], button[hidden], #reload-note[hidden] { display: none; }
+  #reload-note { margin: 12px 0 0; font-size: 14px; }
+  #overlay #reload-note button { padding: 5px 12px; margin-left: 8px; font-size: 14px; }
   #overlay h2 { font-size: 30px; margin: 0 0 14px; letter-spacing: 1px; }
   #loadouts, .buttons { display: flex; gap: 10px; margin-top: 16px; flex-wrap: wrap; justify-content: center; }
   #overlay button { font: inherit; font-weight: 700; color: #fff; background: rgba(255,255,255,.1); border: 2px solid rgba(255,255,255,.25); border-radius: 10px; padding: 10px 18px; cursor: pointer; }
@@ -99,6 +101,7 @@
   <div id="screen-settings" hidden>
     <h2>Settings</h2>
     <div id="settings-form"></div>
+    <p id="reload-note" hidden>Anti-aliasing changes apply after a reload. <button id="btn-reload">Reload now</button></p>
     <div class="buttons">
       <button id="btn-defaults">Reset to defaults</button>
       <button id="btn-back" class="primary">Back</button>
