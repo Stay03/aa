@@ -62,6 +62,18 @@ Open the printed URL in a desktop browser and click to play.
 - Multiplayer.
 - The random-spill map generator.
 
+## Model gallery
+
+`npm run dev`, then open `/gallery.html`: candidate soldiers, cars and guns side by side under the game's lighting, for choosing an art direction. It is not part of the game.
+
+- **A** the current block soldier and **B** a new sculpted soldier, both built in code (`src/entities/SoldierModel.js`).
+- **C / D** Kenney's Mini Characters soldier, rigged and animated, recoloured as one-colour plastic or in its own colours (`src/entities/KenneySoldier.js`).
+- Kenney's Toy Car Kit vehicles and Blaster Kit toy guns next to the current code-built ones.
+
+The Kenney models are CC0 (public domain) from kenney.nl; each pack's `License.txt` is kept beside its files in `public/models/kenney/`.
+
+![Soldier candidates](docs/gallery/soldiers.png)
+
 ## Performance
 
 - Static geometry (the room and every toy that never moves) is merged into one mesh per material at load, and all alphabet-block faces share one texture. This took the frame from about 1,800 draw calls to about 170.
