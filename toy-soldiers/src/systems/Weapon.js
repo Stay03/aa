@@ -126,6 +126,7 @@ export class Weapon {
     }
     this.prevFire = input.fire;
 
+    this.player.isReloading = this.reloading > 0;
     const aiming = this.isAiming(input);
     this.adsAmount += ((aiming ? 1 : 0) - this.adsAmount) * (1 - Math.exp(-dt * 16));
     this.scoped = !!def.scope && aiming && this.adsAmount > 0.85;
@@ -145,15 +146,20 @@ export class Weapon {
       ? Math.sin((1 - this.reloading / this.def.reloadSeconds) * Math.PI)
       : this.swapping > 0 ? this.swapping / SWAP_SECONDS : 0;
 
+    // Sprinting: the rifle swings down and across, out of the way.
+    const sprinting = this.player.sprintBlend * (1 - a);
+
     const h = this.holder;
     h.position.lerpVectors(HIP.position, ZERO, a);
+    h.position.x -= 0.25 * sprinting;
+    h.position.y -= 0.3 * sprinting;
     h.position.x += (Math.cos(this.bob * 0.5) * 0.02 * speed + this.sway.x) * loose;
     h.position.y += (Math.sin(this.bob) * 0.016 * speed + this.sway.y - Math.sin(this.bob * 0.35) * 0.005) * loose - lowered * 0.55;
     h.position.z += this.kick * 0.12 * (1 - a * 0.5);
     h.rotation.set(
-      HIP.pitch * (1 - a) + this.kick * 0.06 * (1 - a * 0.6) - lowered * 0.7,
-      HIP.yaw * (1 - a) + this.sway.x * 0.4 * loose,
-      HIP.roll * (1 - a) + lowered * 0.3);
+      HIP.pitch * (1 - a) + this.kick * 0.06 * (1 - a * 0.6) - lowered * 0.7 - 0.3 * sprinting,
+      HIP.yaw * (1 - a) + this.sway.x * 0.4 * loose + 0.45 * sprinting,
+      HIP.roll * (1 - a) + lowered * 0.3 - 0.25 * sprinting);
     this.flash.visible = this.cooldown > 1 / this.def.fireRate - 0.035;
     this.flash.scale.setScalar(0.7 + Math.random() * 0.9);
   }

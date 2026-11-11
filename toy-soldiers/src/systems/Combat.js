@@ -16,6 +16,7 @@ export class Combat {
   fire(shooter, origin, aim, muzzlePos, def, { spread = 0, damageScale = 1 } = {}) {
     const { physics, effects, audio } = this.ctx;
     audio.shot(muzzlePos, shooter.isPlayer, def.sound);
+    shooter.kick = 1;
     let result = null;
 
     for (let i = 0; i < def.pellets; i++) {

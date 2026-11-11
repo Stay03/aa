@@ -47,7 +47,8 @@ export async function preloadSoldier() {
 }
 
 // ---- skinning -----------------------------------------------------------------
-// Bones: 0 body, 1 left thigh, 2 left shin, 3 right thigh, 4 right shin.
+// Bones: 0 body, 1 left thigh, 2 left shin, 3 right thigh, 4 right shin,
+// 5 weapon (the rifle with both arms, moving as one piece from the shoulders).
 function skin(geometry) {
   const pos = geometry.getAttribute('position');
   const idx = new Uint16Array(pos.count * 4), wgt = new Float32Array(pos.count * 4);
@@ -60,9 +61,16 @@ function skin(geometry) {
     const ab = b.clone().sub(a), t = THREE.MathUtils.clamp(p.clone().sub(a).dot(ab) / ab.lengthSq(), 0, 1);
     return p.distanceTo(a.clone().addScaledVector(ab, t));
   };
+  const head = V(info.head), r = info.rifle;
+  const rifleTop = Math.max(...Object.entries(r.top).filter(([z]) => Number(z) < head.z - 0.45).map(([, y]) => y));
   const p = new THREE.Vector3();
   for (let i = 0; i < pos.count; i++) {
     p.fromBufferAttribute(pos, i);
+    // Weapon unit: everything out in front of the chest. His head stays with
+    // the body, except where the rifle itself passes his cheek.
+    const onRifle = Math.abs(p.x - r.x) < 0.2 && p.y < rifleTop + 0.06 && p.y > r.y - 0.5;
+    const notHead = onRifle ? 1 : smooth(0.7, 0.95, p.distanceTo(head));
+    const weapon = smooth(3.6, 3.9, p.y) * smooth(-0.5, -1.05, p.z) * notHead;
     // How much this vertex belongs to a leg at all: fades in below the hips.
     const legness = 1 - smooth(info.crotch - 0.15, info.crotch + 0.5, p.y);
     let side = 0;
@@ -74,8 +82,8 @@ function skin(geometry) {
     // Below the knee: fades in across the knee along the leg's direction.
     const shin = smooth(-0.22, 0.22, p.clone().sub(l.knee).dot(l.along));
     const o = i * 4;
-    idx[o] = 0; idx[o + 1] = 1 + side * 2; idx[o + 2] = 2 + side * 2;
-    wgt[o] = 1 - legness; wgt[o + 1] = legness * (1 - shin); wgt[o + 2] = legness * shin;
+    idx[o] = 0; idx[o + 1] = 1 + side * 2; idx[o + 2] = 2 + side * 2; idx[o + 3] = 5;
+    wgt[o] = (1 - legness) * (1 - weapon); wgt[o + 1] = legness * (1 - shin); wgt[o + 2] = legness * shin; wgt[o + 3] = (1 - legness) * weapon;
   }
   geometry.setAttribute('skinIndex', new THREE.BufferAttribute(idx, 4));
   geometry.setAttribute('skinWeight', new THREE.BufferAttribute(wgt, 4));
@@ -99,6 +107,11 @@ function makeSkeleton() {
     thigh.add(shin);
     bones.push(thigh, shin);
   }
+  // Weapon unit pivots at the shoulders.
+  const weapon = new THREE.Bone();
+  weapon.position.set(info.pelvis[0], 4.9, info.head[2] + 0.2);
+  body.add(weapon);
+  bones.push(weapon);
   return { body, bones };
 }
 
@@ -216,16 +229,20 @@ export function createSoldier(team) {
   figure.add(mesh);
   root.add(figure);
   const muzzle = new THREE.Object3D();
-  muzzle.position.fromArray(info.muzzle);
-  body.add(muzzle);
-  return { root, figure, mesh, material, muzzle, bones, pieces: pieces.map((p) => ({ ...p, parent: figure })) };
+  muzzle.position.fromArray(info.muzzle).sub(bones[5].position); // rides on the weapon bone
+  bones[5].add(muzzle);
+  return { root, figure, mesh, material, muzzle, bones, weaponRest: bones[5].position.clone(), pieces: pieces.map((p) => ({ ...p, parent: figure })) };
 }
 
 // Run cycle. `phase` advances with distance covered (2π per stride), `amount`
 // is 0 standing (the sculpt's own pose) to 1 running, `pace` is 1 at a jog
 // and higher when sprinting.
-export function animateSoldier(model, phase, amount, pace = 1) {
-  const [body, thighL, shinL, thighR, shinR] = model.bones;
+// `pose` adds what the upper body is doing, each 0 to 1 unless noted:
+//   sprint (rifle carried low), reload (rifle dipped and canted),
+//   kick (recoil), pitch (radians: aiming up or down).
+export function animateSoldier(model, phase, amount, pace = 1, pose = {}) {
+  const [body, thighL, shinL, thighR, shinR, weapon] = model.bones;
+  const { sprint = 0, reload = 0, kick = 0, pitch = 0 } = pose;
   const reach = 0.62 * Math.min(1.35, pace);
   const leg = (thigh, shin, r, ph) => {
     const swing = Math.sin(ph) * reach;                         // thigh forward/back
@@ -240,7 +257,19 @@ export function animateSoldier(model, phase, amount, pace = 1) {
   leg(thighR, shinR, rest[1], phase + Math.PI);
   // The body rises on each push-off and leans into the run.
   body.position.y = amount * (0.1 + 0.16 * Math.abs(Math.cos(phase)));
-  body.rotation.set(-0.1 * amount, 0, Math.sin(phase) * 0.035 * amount);
+  body.rotation.set(-0.1 * amount - 0.08 * sprint, Math.sin(phase) * 0.07 * amount, Math.sin(phase) * 0.035 * amount);
+
+  // Arms and rifle. Negative x-rotation points the muzzle down.
+  const carry = Math.max(sprint, reload);
+  weapon.rotation.set(
+    THREE.MathUtils.clamp(pitch, -0.7, 0.7) * 0.75 * (1 - carry)   // follow the aim
+      - 0.55 * sprint - 0.6 * reload                                // carried low / dipped to reload
+      + 0.1 * kick                                                  // muzzle climbs on recoil
+      + Math.sin(phase * 2) * 0.03 * amount,                        // bounce with each step
+    0.35 * sprint - Math.sin(phase) * 0.05 * amount,
+    0.45 * reload + 0.12 * sprint);
+  weapon.position.z = model.weaponRest.z + 0.14 * kick;
+  weapon.position.y = model.weaponRest.y - 0.1 * reload;
 }
 
 // For the gallery: any converted file, without the game extras.

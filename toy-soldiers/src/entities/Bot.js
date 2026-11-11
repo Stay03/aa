@@ -80,6 +80,7 @@ export class Bot extends Soldier {
       const dz = this.enemy.position.z - this.position.z;
       const dist = Math.hypot(dx, dz) || 1;
       faceYaw = Math.atan2(-dx, -dz);
+      this.pitch = Math.atan2(this.enemy.position.y - this.position.y, dist);
       const nx = dx / dist, nz = dz / dist;
       if (dist > this.def.botRange) {
         this.follow(dt, this.enemy.position.x, this.enemy.position.z, M.walkSpeed);
@@ -97,6 +98,7 @@ export class Bot extends Soldier {
       }
       this.shoot(dt, faceYaw);
     } else {
+      this.pitch *= 0.9;
       this.burstLeft = 0;
       const goal = this.pickGoal();
       this.follow(dt, goal.x, goal.z, M.walkSpeed);
@@ -109,6 +111,7 @@ export class Bot extends Soldier {
       if (this.reloading <= 0) this.ammo = this.def.magazine;
     }
     this.cooldown -= dt;
+    this.isReloading = this.reloading > 0;
 
     const turn = angleDiff(faceYaw, this.yaw);
     this.yaw += Math.sign(turn) * Math.min(Math.abs(turn), this.ctx.difficulty.turnRate * dt);

@@ -48,6 +48,11 @@ export class Soldier {
     this.nearClimb = false;
     this.walkPhase = 0;
     this.runBlend = 0;
+    // Upper-body pose, eased each frame (see animateSoldier).
+    this.kick = 0;            // set to 1 by Combat when this soldier fires
+    this.isReloading = false; // set by the player's weapon or the bot
+    this.sprintBlend = 0;
+    this.reloadBlend = 0;
 
     this.health = CONFIG.match.health;
     this.sinceDamage = 99;
@@ -210,6 +215,13 @@ export class Soldier {
     // Ease in and out of the run so the legs never snap between poses.
     const target = this.grounded ? Math.min(1, speed / (M.walkSpeed * 0.6)) : 0.35;
     this.runBlend += (target - this.runBlend) * (1 - Math.exp(-dt * 12));
-    animateSoldier(m, this.walkPhase, this.runBlend, speed / M.walkSpeed);
+    const ease = 1 - Math.exp(-dt * 10);
+    const sprinting = this.grounded && speed > M.walkSpeed * 1.25 && !this.isReloading;
+    this.sprintBlend += ((sprinting ? 1 : 0) - this.sprintBlend) * ease;
+    this.reloadBlend += ((this.isReloading ? 1 : 0) - this.reloadBlend) * ease;
+    this.kick *= Math.exp(-dt * 16);
+    animateSoldier(m, this.walkPhase, this.runBlend, speed / M.walkSpeed, {
+      sprint: this.sprintBlend, reload: this.reloadBlend, kick: this.kick, pitch: this.pitch,
+    });
   }
 }
