@@ -65,6 +65,15 @@ export class Lighting {
     this.nightLight.position.copy(refs.nightLightPosition);
     scene.add(this.nightLight);
 
+    // Shadow maps are refreshed on alternate frames (sun on one, lamp on the
+    // next) and the lamp's only while it is lit. Half the shadow cost, and a
+    // one-frame lag on a moving soldier's shadow is not visible.
+    this.sun.shadow.autoUpdate = false;
+    this.lamp.shadow.autoUpdate = false;
+    this.sun.shadow.needsUpdate = true;
+    this.lamp.shadow.needsUpdate = true;
+    this.frame = 0;
+
     this._a = new THREE.Color();
     this._b = new THREE.Color();
     this.apply();
@@ -75,15 +84,19 @@ export class Lighting {
   setNight(night) { this.target = night ? 1 : 0; }
 
   setShadowQuality(level) {
-    const size = { low: 1024, medium: 2048, high: 4096 }[level] ?? 4096;
+    const size = { low: 1024, medium: 2048, high: 4096 }[level] ?? 2048;
     for (const [light, s] of [[this.sun, size], [this.lamp, size / 2]]) {
       light.shadow.mapSize.set(s, s);
       light.shadow.map?.dispose();
       light.shadow.map = null;
+      light.shadow.needsUpdate = true;
     }
   }
 
   update(dt) {
+    this.frame++;
+    if (this.frame % 2 === 0) this.sun.shadow.needsUpdate = true;
+    else if (this.lamp.intensity > 0) this.lamp.shadow.needsUpdate = true;
     if (this.t === this.target) return;
     const step = dt / 1.5;
     this.t = this.target > this.t ? Math.min(this.target, this.t + step) : Math.max(this.target, this.t - step);

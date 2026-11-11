@@ -86,27 +86,43 @@ export function rugTexture() {
 }
 
 const BLOCK_COLORS = ['#d8452e', '#2e6fd8', '#2ea84f', '#e0a11b', '#8a45c9'];
+const ATLAS_COLS = 12, ATLAS_ROWS = 11, TILE = 128; // 132 tiles >= 26 letters x 5 colours
 
-export function blockFaceMaterial(letter, colorIndex) {
-  const key = `b:${letter}:${colorIndex}`;
-  if (!cache.has(key)) {
-    const col = BLOCK_COLORS[colorIndex % BLOCK_COLORS.length];
-    const map = canvasTexture(128, 128, (g, w, h) => {
-      g.fillStyle = '#ecd9b0';
-      g.fillRect(0, 0, w, h);
-      g.strokeStyle = col;
-      g.lineWidth = 10;
-      g.strokeRect(12, 12, w - 24, h - 24);
-      g.fillStyle = col;
-      g.font = 'bold 78px Georgia, serif';
-      g.textAlign = 'center';
-      g.textBaseline = 'middle';
-      g.fillText(letter, w / 2, h / 2 + 4);
+// Every alphabet-block face lives in one texture, so all blocks can share a
+// single material (and be merged into a single mesh).
+export function blockAtlasMaterial() {
+  if (!cache.has('blockAtlas')) {
+    const map = canvasTexture(ATLAS_COLS * TILE, ATLAS_ROWS * TILE, (g) => {
+      for (let i = 0; i < 26 * BLOCK_COLORS.length; i++) {
+        const x = (i % ATLAS_COLS) * TILE, y = Math.floor(i / ATLAS_COLS) * TILE;
+        const col = BLOCK_COLORS[i % BLOCK_COLORS.length];
+        g.fillStyle = '#ecd9b0';
+        g.fillRect(x, y, TILE, TILE);
+        g.strokeStyle = col;
+        g.lineWidth = 10;
+        g.strokeRect(x + 14, y + 14, TILE - 28, TILE - 28);
+        g.fillStyle = col;
+        g.font = 'bold 76px Georgia, serif';
+        g.textAlign = 'center';
+        g.textBaseline = 'middle';
+        g.fillText(String.fromCharCode(65 + Math.floor(i / BLOCK_COLORS.length)), x + TILE / 2, y + TILE / 2 + 4);
+      }
     });
-    cache.set(key, new THREE.MeshStandardMaterial({ map, roughness: 0.6 }));
+    cache.set('blockAtlas', new THREE.MeshStandardMaterial({ map, roughness: 0.6 }));
   }
-  return cache.get(key);
+  return cache.get('blockAtlas');
 }
+
+// UV rectangle [u0, v0, u1, v1] of tile `i`, inset to avoid bleeding.
+export function blockAtlasTile(i) {
+  const inset = 2 / TILE;
+  const cx = i % ATLAS_COLS, cy = Math.floor(i / ATLAS_COLS);
+  return [
+    (cx + inset) / ATLAS_COLS, 1 - (cy + 1 - inset) / ATLAS_ROWS,
+    (cx + 1 - inset) / ATLAS_COLS, 1 - (cy + inset) / ATLAS_ROWS,
+  ];
+}
+export const BLOCK_TILES = 26 * BLOCK_COLORS.length;
 
 export function rulerMaterial() {
   if (!cache.has('ruler')) {

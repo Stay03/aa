@@ -1,21 +1,27 @@
 import * as THREE from 'three';
-import { plastic, matte, blockFaceMaterial, rulerMaterial } from './materials.js';
+import { plastic, matte, blockAtlasMaterial, blockAtlasTile, BLOCK_TILES, rulerMaterial } from './materials.js';
 
 // Toy factories. Each one adds a mesh to the scene and a collider to physics.
 // Positions are in cm; `y` is the height of the toy's underside unless noted.
 // These are authored as self-contained pieces so a later "random spill" mode
 // can scatter the same toys procedurally.
 
-const LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 const shadow = (m) => { m.castShadow = true; m.receiveShadow = true; return m; };
 const BOX = new THREE.BoxGeometry(1, 1, 1);
 
 export const BLOCK = 4.5;
 
 export function alphabetBlock(ctx, x, y, z, rotY = 0) {
-  const mats = Array.from({ length: 6 }, () =>
-    blockFaceMaterial(LETTERS[Math.floor(ctx.rand() * 26)], Math.floor(ctx.rand() * 5)));
-  const mesh = shadow(new THREE.Mesh(BOX, mats));
+  // Point each of the six faces at a random tile of the shared atlas.
+  const geo = new THREE.BoxGeometry(1, 1, 1);
+  const uv = geo.getAttribute('uv');
+  for (let face = 0; face < 6; face++) {
+    const [u0, v0, u1, v1] = blockAtlasTile(Math.floor(ctx.rand() * BLOCK_TILES));
+    for (let v = face * 4; v < face * 4 + 4; v++) {
+      uv.setXY(v, u0 + uv.getX(v) * (u1 - u0), v0 + uv.getY(v) * (v1 - v0));
+    }
+  }
+  const mesh = shadow(new THREE.Mesh(geo, blockAtlasMaterial()));
   mesh.scale.setScalar(BLOCK);
   mesh.position.set(x, y + BLOCK / 2, z);
   mesh.rotation.y = rotY;
@@ -142,7 +148,7 @@ export function ball(ctx, x, z, r = 5) {
 
 export function marble(ctx, x, z, color) {
   const r = 0.8;
-  const mat = new THREE.MeshPhysicalMaterial({ color, roughness: 0.05, clearcoat: 1, clearcoatRoughness: 0.05 });
+  const mat = plastic(color, { roughness: 0.06 });
   const mesh = shadow(new THREE.Mesh(new THREE.SphereGeometry(r, 20, 14), mat));
   mesh.position.set(x, r, z);
   ctx.scene.add(mesh);

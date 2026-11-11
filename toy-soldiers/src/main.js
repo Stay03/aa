@@ -18,12 +18,15 @@ import { Audio } from './systems/Audio.js';
 import { Hud } from './ui/Hud.js';
 import { Menu } from './ui/Menu.js';
 import { Settings } from './core/Settings.js';
+import { Resolution } from './core/Resolution.js';
+import { bakeStatic } from './world/bake.js';
 
 const FIXED_DT = 1 / 60;
 
 async function boot() {
   const renderer = new THREE.WebGLRenderer({ antialias: true, powerPreference: 'high-performance' });
-  renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+  const resolution = new Resolution(renderer);
+  renderer.autoClear = false; // the gun is drawn as a second pass over the world
   renderer.setSize(innerWidth, innerHeight);
   document.body.prepend(renderer.domElement);
 
@@ -35,6 +38,8 @@ async function boot() {
 
   const roomRefs = buildRoom(ctx);
   buildMap01(ctx);
+  // Merge everything that never moves into one mesh per material.
+  bakeStatic(scene, new Set(physics.dynamic.map((d) => d.mesh)));
   const lighting = new Lighting(scene, renderer, roomRefs);
 
   // Navigation is derived from the finished map's static colliders.
@@ -94,6 +99,7 @@ async function boot() {
     fov: (v) => { rig.baseFov = v; },
     difficulty: (v) => { ctx.difficulty = CONFIG.difficulty[v] ?? CONFIG.difficulty.normal; },
     shadows: (v) => lighting.setShadowQuality(v),
+    resolution: (v) => resolution.setMode(v),
     night: (v) => lighting.setNight(v),
     thirdPerson: (v) => { rig.thirdPerson = v; },
   };
@@ -129,6 +135,7 @@ async function boot() {
   addEventListener('resize', () => {
     renderer.setSize(innerWidth, innerHeight);
     rig.resize();
+    weapon.resize();
   });
 
   const timer = new THREE.Timer();
@@ -142,6 +149,7 @@ async function boot() {
     fpsAcc += rawDt; fpsFrames++;
     if (fpsAcc >= 0.5) { fps = Math.round(fpsFrames / fpsAcc); fpsAcc = 0; fpsFrames = 0; }
 
+    resolution.update(rawDt, ctx.match.playing && !paused && document.hasFocus());
     const s = input.update(dt);
     if (s.pressed.has('pause')) {
       if (paused) begin(); else pause();
@@ -183,11 +191,13 @@ async function boot() {
 
     if (!paused) ctx.effects.update(dt);
     lighting.update(dt);
-    hud.update({ weapon, player, rig, lighting, match: ctx.match, fps, nextLoadout: CONFIG.loadouts[loadoutIndex] });
+    hud.update({ weapon, player, rig, lighting, match: ctx.match, fps, resolution, nextLoadout: CONFIG.loadouts[loadoutIndex] });
+    renderer.clear();
     renderer.render(scene, rig.camera);
+    weapon.render(renderer, scene, lighting);
   });
 
-  window.__game = { ctx, settings, menu, get paused() { return paused; }, scene, physics, player, bots, rig, weapon, lighting, input, renderer, match: ctx.match };
+  window.__game = { ctx, resolution, settings, menu, get paused() { return paused; }, scene, physics, player, bots, rig, weapon, lighting, input, renderer, match: ctx.match };
 }
 
 boot().catch((err) => {

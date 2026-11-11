@@ -1,4 +1,4 @@
-const KEY = 'toy-soldiers-settings-v1';
+const KEY = 'toy-soldiers-settings-v2';
 
 export const DEFAULTS = {
   sensitivity: 1,      // multiplier on mouse and stick look speed
@@ -6,7 +6,8 @@ export const DEFAULTS = {
   volume: 0.5,
   fov: 75,
   difficulty: 'normal',
-  shadows: 'high',
+  shadows: 'medium',
+  resolution: 'auto',
   night: false,
   thirdPerson: false,
 };
@@ -20,6 +21,7 @@ export const SCHEMA = [
   { key: 'volume', label: 'Volume', min: 0, max: 1, step: 0.05, format: (v) => `${Math.round(v * 100)}%` },
   { key: 'thirdPerson', label: 'Camera', options: [[false, 'First person'], [true, 'Third person']] },
   { key: 'night', label: 'Time of day', options: [[false, 'Day'], [true, 'Night']] },
+  { key: 'resolution', label: 'Resolution', options: [['auto', 'Auto (keeps it smooth)'], ['low', 'Low'], ['medium', 'Medium'], ['high', 'High']] },
   { key: 'shadows', label: 'Shadow quality', options: [['low', 'Low'], ['medium', 'Medium'], ['high', 'High']] },
 ];
 

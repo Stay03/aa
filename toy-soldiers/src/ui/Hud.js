@@ -18,11 +18,11 @@ export class Hud {
     else el.textContent = value;
   }
 
-  update({ weapon, player, rig, lighting, match, fps, nextLoadout }) {
+  update({ weapon, player, rig, lighting, match, fps, resolution, nextLoadout }) {
     const e = this.el;
     this.set('ammo', e.ammo, `${weapon.reloading > 0 ? 'Reloading…' : `${weapon.ammo} / ${weapon.def.magazine}`}<small>${weapon.def.name} · ${weapon.loadout.name}</small>`, true);
     this.set('scope', e.scope, weapon.scoped ? 'block' : 'none', false, 'display');
-    this.set('info', e.info, `${rig.thirdPerson ? 'Third person' : 'First person'} · ${lighting.isNight ? 'Night' : 'Day'} · ${fps} fps · K/D ${player.kills}/${player.deaths}`);
+    this.set('info', e.info, `${rig.thirdPerson ? 'Third person' : 'First person'} · ${lighting.isNight ? 'Night' : 'Day'} · ${fps} fps · ${Math.round((resolution.scale / resolution.max) * 100)}% res · K/D ${player.kills}/${player.deaths}`);
     this.set('score', e.score,
       `<span class="green">GREEN ${match.score.green}</span><span class="clock">${clock(match.timeLeft)}</span><span class="tan">${match.score.tan} TAN</span>`, true);
     this.set('feed', e.feed, match.feed.map((f) =>
@@ -39,10 +39,10 @@ export class Hud {
     }
     this.set('message', e.message, msg);
 
-    e.health.style.width = `${Math.max(0, player.health)}%`;
-    e.fuel.style.width = `${player.fuel * 100}%`;
-    e.vignette.style.opacity = Math.max(player.hurtFlash * 0.8, player.alive ? (1 - player.health / 100) * 0.5 : 0.6);
+    this.set('health', e.health, `${Math.round(Math.max(0, player.health))}%`, false, 'width');
+    this.set('fuel', e.fuel, `${Math.round(player.fuel * 100)}%`, false, 'width');
+    this.set('vignette', e.vignette, Math.max(player.hurtFlash * 0.8, player.alive ? (1 - player.health / 100) * 0.5 : 0.6).toFixed(2), false, 'opacity');
     e.crosshair.classList.toggle('hit', weapon.hitFlash > 0);
-    e.crosshair.style.visibility = player.alive && !weapon.scoped ? 'visible' : 'hidden';
+    this.set('cross', e.crosshair, player.alive && weapon.adsAmount < 0.5 ? 'visible' : 'hidden', false, 'visibility');
   }
 }

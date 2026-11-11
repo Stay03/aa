@@ -2,6 +2,7 @@ import * as THREE from 'three';
 import { CONFIG } from '../config.js';
 
 const UP = new THREE.Vector3(0, 1, 0);
+const _m = new THREE.Matrix4();
 
 // Short-lived visuals: tracers, impact chips, and soldiers breaking into
 // plastic pieces that soften and melt away.
@@ -40,9 +41,9 @@ export class Effects {
   // Detach every part of a soldier model and send it flying.
   shatter(model, dir) {
     model.root.updateWorldMatrix(true, true);
-    for (const part of model.parts) {
-      const m = new THREE.Mesh(part.geometry, part.material.clone());
-      part.matrixWorld.decompose(m.position, m.quaternion, m.scale);
+    for (const piece of model.pieces) {
+      const m = new THREE.Mesh(piece.geometry, model.material.clone());
+      _m.multiplyMatrices(piece.parent.matrixWorld, piece.matrix).decompose(m.position, m.quaternion, m.scale);
       m.castShadow = true;
       const vel = new THREE.Vector3(dir.x, 0, dir.z).multiplyScalar(18 + Math.random() * 22)
         .add(new THREE.Vector3((Math.random() - 0.5) * 34, 22 + Math.random() * 34, (Math.random() - 0.5) * 34));

@@ -1,12 +1,18 @@
 import * as THREE from 'three';
 import { CONFIG } from '../config.js';
-import { plastic } from '../world/materials.js';
+import { buildGun } from '../entities/GunModels.js';
 import { TEAM_COLORS } from '../entities/SoldierModel.js';
 
 const SWAP_SECONDS = 0.35;
+const VIEW_FOV = 50;
+const _v = new THREE.Vector3();
 
 // The player's guns: a primary and a secondary from the chosen loadout.
 // All behaviour comes from the weapon's entry in CONFIG.weapons.
+//
+// The first-person gun is drawn in its own small scene with its own camera,
+// on top of the world. That keeps it the same size at any field of view,
+// stops it poking through walls, and lets it sit low in the corner.
 export class Weapon {
   constructor(ctx, player, rig) {
     this.ctx = ctx;
@@ -21,14 +27,22 @@ export class Weapon {
     this.hitFlash = 0;
     this.prevFire = false;
     this.scoped = false;
+    this.adsAmount = 0;   // 0 at the hip, 1 fully aimed
+    this.bob = 0;
+    this.sway = new THREE.Vector2();
 
-    this.viewModel = new THREE.Group();
-    this.muzzle = new THREE.Object3D();
-    this.flash = new THREE.Mesh(new THREE.SphereGeometry(0.1, 8, 6), new THREE.MeshBasicMaterial({ color: 0xffe08a }));
-    this.hip = new THREE.Vector3(0.7, -0.62, -1.6);
-    this.ads = new THREE.Vector3(0, -0.3, -1.05);
-    this.viewModel.position.copy(this.hip);
-    rig.camera.add(this.viewModel);
+    this.viewScene = new THREE.Scene();
+    this.viewCamera = new THREE.PerspectiveCamera(VIEW_FOV, innerWidth / innerHeight, 0.01, 10);
+    this.viewHemi = new THREE.HemisphereLight();
+    this.viewKey = new THREE.DirectionalLight();
+    this.viewKey.position.set(-0.6, 1, 0.7);
+    this.holder = new THREE.Group();
+    this.viewScene.add(this.viewHemi, this.viewKey, this.holder);
+    this.flash = new THREE.Mesh(
+      new THREE.SphereGeometry(0.022, 8, 6),
+      new THREE.MeshBasicMaterial({ color: 0xffe9a0, toneMapped: false }));
+    this.flash.visible = false;
+    this.models = {};     // built on first use, one per weapon id
 
     this.setLoadout(CONFIG.loadouts[0]);
   }
@@ -36,6 +50,7 @@ export class Weapon {
   get slot() { return this.slots[this.index]; }
   get def() { return this.slot.def; }
   get ammo() { return this.slot.ammo; }
+  get model() { return this.models[this.slot.id]; }
 
   setLoadout(loadout) {
     this.loadout = loadout;
@@ -47,7 +62,7 @@ export class Weapon {
     this.cooldown = 0;
     this.reloading = 0;
     this.swapping = 0;
-    this.buildViewModel();
+    this.showModel();
   }
 
   swap() {
@@ -57,29 +72,16 @@ export class Weapon {
     this.swapping = SWAP_SECONDS;
     this.cooldown = 0;
     this.ctx.audio.swap();
-    this.buildViewModel();
+    this.showModel();
   }
 
-  buildViewModel() {
-    const vm = this.viewModel;
-    vm.clear();
-    const { length: L, thick: T } = this.def.view;
-    const mat = plastic(TEAM_COLORS.green, { roughness: 0.42 });
-    const add = (w, h, d, x, y, z) => {
-      const m = new THREE.Mesh(new THREE.BoxGeometry(w, h, d), mat);
-      m.position.set(x, y, z);
-      vm.add(m);
-    };
-    add(T, T * 1.35, L, 0, 0, 0.25 - L / 2);            // barrel and body
-    add(T * 1.25, T * 1.9, 0.5, 0, -0.02, 0.45);         // receiver
-    add(0.13, 0.42, 0.2, 0, -0.3, 0.3);                  // grip
-    if (L > 1) add(T * 1.2, T * 1.6, 0.55, 0, -0.06, 0.95); // stock
-    if (this.def.scope) add(0.12, 0.12, 0.7, 0, T + 0.08, -0.1);
-    add(0.3, 0.3, 0.9, -0.1, -0.3, 0.85);                // sleeve
-    this.muzzle.position.set(0, 0, 0.25 - L);
-    this.flash.position.copy(this.muzzle.position);
-    this.flash.visible = false;
-    vm.add(this.muzzle, this.flash);
+  showModel() {
+    const id = this.slot.id;
+    this.models[id] ??= buildGun(id, TEAM_COLORS[this.player.team]);
+    this.holder.clear();
+    this.holder.add(this.model.group);
+    this.model.muzzle.add(this.flash);
+    this.holder.position.copy(this.model.hip);
   }
 
   startReload() {
@@ -88,17 +90,21 @@ export class Weapon {
     this.ctx.audio.reload(this.def.reloadSeconds);
   }
 
+  // True while the player is holding aim with this weapon ready.
+  isAiming(input) {
+    return input.aim && this.player.alive && this.reloading <= 0 && this.swapping <= 0;
+  }
+
   update(dt, input) {
     const def = this.def;
-    const vm = this.viewModel;
     this.cooldown -= dt;
     this.hitFlash -= dt;
     this.swapping -= dt;
     this.kick *= Math.exp(-dt * 14);
 
     if (!this.player.alive) {
-      vm.visible = false;
       this.scoped = false;
+      this.adsAmount = 0;
       this.prevFire = input.fire;
       return;
     }
@@ -118,21 +124,48 @@ export class Weapon {
     }
     this.prevFire = input.fire;
 
-    const aiming = input.aim && this.reloading <= 0 && this.swapping <= 0;
-    this.scoped = !!def.scope && aiming && this.rig.camera.fov < def.adsFov + 12;
-    vm.visible = !this.rig.thirdPerson && !this.scoped;
-    vm.position.lerp(aiming ? this.ads : this.hip, 1 - Math.exp(-dt * 18));
-    vm.position.z += this.kick * 0.5;
-    const lowered = this.reloading > 0
-      ? Math.sin((this.reloading / def.reloadSeconds) * Math.PI) * 0.9
-      : this.swapping > 0 ? (this.swapping / SWAP_SECONDS) * 1.1 : 0;
-    vm.rotation.x = this.kick * 0.35 - lowered;
-    this.flash.visible = this.cooldown > 1 / def.fireRate - 0.035;
+    const aiming = this.isAiming(input);
+    this.adsAmount += ((aiming ? 1 : 0) - this.adsAmount) * (1 - Math.exp(-dt * 16));
+    this.scoped = !!def.scope && aiming && this.adsAmount > 0.85;
+    this.pose(dt, input);
   }
 
-  // True while the player is holding aim with this weapon ready.
-  isAiming(input) {
-    return input.aim && this.player.alive && this.reloading <= 0 && this.swapping <= 0;
+  // Place the gun: hip or sights, plus walk bob, look sway, recoil and the
+  // dip while reloading or swapping.
+  pose(dt, input) {
+    const m = this.model, a = this.adsAmount, loose = 1 - a * 0.85;
+    const speed = this.player.grounded ? Math.min(1, this.player.horizontal.length() / CONFIG.move.walkSpeed) : 0;
+    this.bob += dt * (4 + speed * 7);
+    this.sway.x += (THREE.MathUtils.clamp(-input.lookX * 0.6, -0.03, 0.03) - this.sway.x) * (1 - Math.exp(-dt * 10));
+    this.sway.y += (THREE.MathUtils.clamp(input.lookY * 0.6, -0.03, 0.03) - this.sway.y) * (1 - Math.exp(-dt * 10));
+
+    const lowered = this.reloading > 0
+      ? Math.sin((1 - this.reloading / this.def.reloadSeconds) * Math.PI)
+      : this.swapping > 0 ? this.swapping / SWAP_SECONDS : 0;
+
+    const h = this.holder;
+    h.position.lerpVectors(m.hip, m.ads, a);
+    h.position.x += (Math.cos(this.bob * 0.5) * 0.006 * speed + this.sway.x) * loose;
+    h.position.y += (Math.sin(this.bob) * 0.005 * speed + this.sway.y - Math.sin(this.bob * 0.35) * 0.0015) * loose - lowered * 0.16;
+    h.position.z += this.kick * 0.035 * (1 - a * 0.5);
+    h.rotation.set(
+      this.kick * 0.07 * (1 - a * 0.6) - lowered * 0.7,
+      0.07 * (1 - a) + this.sway.x * 1.5 * loose,
+      -0.04 * (1 - a) + lowered * 0.3);
+    this.flash.visible = this.cooldown > 1 / this.def.fireRate - 0.035;
+    this.flash.scale.setScalar(0.7 + Math.random() * 0.9);
+  }
+
+  get viewVisible() {
+    return this.player.alive && !this.rig.thirdPerson && !this.scoped;
+  }
+
+  // Where the first-person muzzle appears in the world, so tracers start at it.
+  muzzleWorld(out) {
+    const cam = this.rig.camera;
+    this.model.muzzle.getWorldPosition(_v).project(this.viewCamera);
+    out.set(_v.x, _v.y, 0.5).unproject(cam).sub(cam.position).normalize();
+    return out.multiplyScalar(2.5).add(cam.position);
   }
 
   fire(aiming) {
@@ -148,7 +181,8 @@ export class Weapon {
     // between the camera and the soldier.
     const origin = cam.position.clone().addScaledVector(dir, this.rig.aimOffset);
     const from = new THREE.Vector3();
-    (this.rig.thirdPerson || this.scoped ? this.player.model.muzzle : this.muzzle).getWorldPosition(from);
+    if (this.rig.thirdPerson || this.scoped) this.player.model.muzzle.getWorldPosition(from);
+    else this.muzzleWorld(from);
 
     const result = this.ctx.combat.fire(this.player, origin, dir, from, def, {
       spread: aiming ? def.adsSpread : def.hipSpread,
@@ -157,5 +191,24 @@ export class Weapon {
       this.hitFlash = result === 'kill' ? 0.25 : 0.12;
       this.ctx.audio.hitmarker(result === 'kill');
     }
+  }
+
+  resize() {
+    this.viewCamera.aspect = innerWidth / innerHeight;
+    this.viewCamera.updateProjectionMatrix();
+  }
+
+  // Draw the gun over the finished world frame, lit to match the room.
+  render(renderer, scene, lighting) {
+    if (!this.viewVisible) return;
+    this.viewScene.environment = scene.environment;
+    this.viewScene.environmentIntensity = scene.environmentIntensity;
+    this.viewHemi.color.copy(lighting.hemi.color);
+    this.viewHemi.groundColor.copy(lighting.hemi.groundColor);
+    this.viewHemi.intensity = lighting.hemi.intensity;
+    this.viewKey.color.copy(lighting.sun.color);
+    this.viewKey.intensity = lighting.sun.intensity * 0.6 + lighting.lamp.intensity * 0.00012;
+    renderer.clearDepth();
+    renderer.render(this.viewScene, this.viewCamera);
   }
 }
