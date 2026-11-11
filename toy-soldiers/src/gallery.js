@@ -100,16 +100,16 @@ crayon(ctx, 21, 2, 0xe23a3a, 1.2);
 // The nimproductions figure: full detail and the lighter game version,
 // then the same figure turned to show its sides and back.
 const QZ = -60;
-[['green', 'shooting.glb', -12, 0, 0], ['green', 'shooting-lod.glb', -4, 0, 0], ['tan', 'shooting-lod.glb', 4, 0, 0],
-  ['green', 'shooting-lod.glb', 12, 0, 90], ['green', 'shooting-lod.glb', -4, 10, 180], ['tan', 'shooting-lod.glb', 4, 10, -90]].forEach(([team, file, x, dz, turn]) => {
+[['green', 'shooting.glb', -12, 0, 180], ['green', 'shooting.glb', -4, 0, 90], ['green', 'relaxed.glb', 4, 0, 180], ['green', 'relaxed.glb', 12, 0, 90],
+  ['tan', 'shooting-lod.glb', -4, 10, 0], ['tan', 'relaxed-lod.glb', 4, 10, 0]].forEach(([team, file, x, dz, turn]) => {
   createFigureSoldier(team, file).then((m) => {
     m.root.position.set(x, 0, QZ - dz);
     m.root.rotation.y = (turn * Math.PI) / 180;
     scene.add(m.root);
   });
 });
-label('Full detail\n74k triangles', -12, 8.4, QZ);
-label('Game version\n20k triangles', -4, 8.4, QZ);
+label('Shooting\n(front, side)', -8, 8.6, QZ, 1.3);
+label('Relaxed\n(front, side)', 8, 8.6, QZ, 1.3);
 
 // -------------------------------------------------------------------- cars
 const CZ = 60;
@@ -158,7 +158,7 @@ const VIEWS = {
   Soldiers: { pos: [0, 8, 30], target: [0, 3.8, -2] },
   'Soldier close-up': { pos: [-2, 6, 12.5], target: [0, 3.3, 0] },
   Figure: { pos: [0, 8, QZ + 26], target: [0, 3.4, QZ - 3] },
-  'Figure close-up': { pos: [-8, 4.6, QZ + 11], target: [-8, 3.2, QZ] },
+  'Figure close-up': { pos: [8, 4.6, QZ + 13], target: [8, 3.2, QZ] },
   Cars: { pos: [16, 34, CZ + 92], target: [16, 6, CZ] },
   Guns: { pos: [0, 52, GZ + 118], target: [0, 4, GZ + 16] },
 };

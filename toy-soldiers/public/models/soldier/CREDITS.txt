@@ -8,3 +8,12 @@ https://creativecommons.org/licenses/by/4.0/
 Changes: converted from STL to glTF, vertices welded, normals recomputed,
 moulded base removed, rescaled to 6 cm, re-oriented, and a simplified version generated
 (tools/stl2glb.mjs). Recoloured in-game.
+
+relaxed.glb, relaxed-lod.glb
+
+"Modern Soldier Relaxed Toy Soldier 3D Print" by nimproductions
+https://sketchfab.com/3d-models/4defd527aada4e80abfd8b60662ccc30
+Licensed under Creative Commons Attribution 4.0 (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Changes: as above. Shown in the gallery only; not yet used in the game.
