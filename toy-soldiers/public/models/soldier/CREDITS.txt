@@ -27,3 +27,11 @@ credit to Dolphin-GS.
 Changes: converted from OBJ to glTF, vertices welded, normals recomputed,
 rescaled to 6 cm, re-oriented, and a simplified version generated:
   node tools/stl2glb.mjs US_Soldier_Set_05_40.obj public/models/soldier/pose40 --up -z
+
+assault.glb, assault-lod.glb   (the soldier used in the game)
+
+"genAssault" soldier, supplied by the project owner as a free model.
+Source file: assets-src/genAssault.c4d.
+Changes: mesh and its levels of detail read out of the Cinema 4D file,
+rescaled to 6 cm, joints measured (tools/c4d2glb.mjs). The skeleton, skin
+weights and animation are made in the game (src/entities/RiggedSoldier.js).

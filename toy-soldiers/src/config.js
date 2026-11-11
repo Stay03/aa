@@ -4,7 +4,7 @@ export const CONFIG = {
   gravity: 120, // tuned for feel at toy scale, not real-world 981 cm/s^2
 
   // `model` is the converted figure in public/models/soldier/ (see tools/stl2glb.mjs).
-  soldier: { height: 6, radius: 1.1, eyeHeight: 5.3, model: 'pose40' },
+  soldier: { height: 6, radius: 1.1, eyeHeight: 5.3, model: 'assault' },
 
   move: {
     walkSpeed: 34,
@@ -33,30 +33,31 @@ export const CONFIG = {
 
   combat: { range: 900, impulse: 220 },
 
-  // Weapons are data. `damage` is per pellet; `falloff` is
+  // Weapons are data. `model` is the gun in public/models/guns/ (see tools/gun2glb.mjs).
+  // `damage` is per pellet; `falloff` is
   // [full damage until, minimum from, minimum scale] in cm.
   // `botRange` is how close a bot gets before it stops and strafes.
   weapons: {
     rifle: {
-      name: 'Rifle', auto: true, damage: 34, pellets: 1, fireRate: 9, magazine: 30, reloadSeconds: 1.6,
+      name: 'Rifle', model: 'bren', auto: true, damage: 34, pellets: 1, fireRate: 9, magazine: 30, reloadSeconds: 1.6,
       hipSpread: 0.012, adsSpread: 0.003, recoil: 0.007, adsFov: 48,
       botRange: 55, botAim: 1,
       sound: { noise: 2200, tone: 420, decay: 0.07 }, view: { length: 1.7, thick: 0.16 },
     },
     scatter: {
-      name: 'Scatter Gun', auto: false, damage: 14, pellets: 8, fireRate: 1.3, magazine: 6, reloadSeconds: 2.2,
+      name: 'Scatter Gun', model: 'bren', auto: false, damage: 14, pellets: 8, fireRate: 1.3, magazine: 6, reloadSeconds: 2.2,
       hipSpread: 0.09, adsSpread: 0.07, recoil: 0.03, adsFov: 60, falloff: [30, 90, 0.25],
       botRange: 26, botAim: 0.6,
       sound: { noise: 900, tone: 200, decay: 0.16 }, view: { length: 1.4, thick: 0.27 },
     },
     longshot: {
-      name: 'Long Shot', auto: false, damage: 100, pellets: 1, fireRate: 0.8, magazine: 5, reloadSeconds: 2.4,
+      name: 'Long Shot', model: 'bren', auto: false, damage: 100, pellets: 1, fireRate: 0.8, magazine: 5, reloadSeconds: 2.4,
       hipSpread: 0.08, adsSpread: 0.0005, recoil: 0.03, adsFov: 16, scope: true,
       botRange: 150, botAim: 0.35,
       sound: { noise: 1400, tone: 300, decay: 0.22 }, view: { length: 2.5, thick: 0.13 },
     },
     pistol: {
-      name: 'Sidearm', auto: false, damage: 26, pellets: 1, fireRate: 5, magazine: 12, reloadSeconds: 1.1,
+      name: 'Sidearm', model: 'bren', auto: false, damage: 26, pellets: 1, fireRate: 5, magazine: 12, reloadSeconds: 1.1,
       hipSpread: 0.012, adsSpread: 0.005, recoil: 0.012, adsFov: 56,
       botRange: 40, botAim: 1,
       sound: { noise: 3000, tone: 600, decay: 0.05 }, view: { length: 0.8, thick: 0.15 },

@@ -1,13 +1,9 @@
 import * as THREE from 'three';
 import { CONFIG } from '../config.js';
-import { createFirstPersonView } from '../entities/FigureSoldier.js';
+import { createSoldier, animateSoldier, setGun } from '../entities/RiggedSoldier.js';
 
 const SWAP_SECONDS = 0.35;
 const VIEW_FOV = 50;
-// Where the rifle sits when not aiming, relative to looking down its sights:
-// lower and to the right, turned slightly in toward the crosshair.
-const HIP = { position: new THREE.Vector3(0.9, -0.42, 0.0), yaw: 0.16, pitch: 0.03, roll: -0.08 };
-const ZERO = new THREE.Vector3();
 const _v = new THREE.Vector3();
 const _origin = new THREE.Vector3();
 const _from = new THREE.Vector3();
@@ -15,12 +11,12 @@ const _from = new THREE.Vector3();
 // The player's guns: a primary and a secondary from the chosen loadout.
 // All behaviour comes from the weapon's entry in CONFIG.weapons.
 //
-// First person shows the soldier's own arms and rifle, cut from the same
-// sculpted figure everyone else sees, so the view matches the toy. It is
-// drawn in its own small scene with its own camera, on top of the world:
-// that keeps it the same size at any field of view and stops it poking
-// through walls. Every weapon uses the figure's rifle; the weapons differ in
-// how they fire, not in this view.
+// First person is a second copy of the player's own soldier, full detail and
+// with the head hidden, viewed from where his eye is. So the arms, hands and
+// gun you see are the same ones everyone else sees, posed by the same code.
+// It is drawn in its own small scene with its own camera, on top of the
+// world: that keeps it the same size at any field of view and stops it
+// poking through walls.
 export class Weapon {
   constructor(ctx, player, rig) {
     this.ctx = ctx;
@@ -50,13 +46,11 @@ export class Weapon {
       new THREE.SphereGeometry(0.09, 8, 6),
       new THREE.MeshBasicMaterial({ color: 0xffe9a0, toneMapped: false }));
     this.flash.visible = false;
-    const view = createFirstPersonView(player.team);
-    this.holder.add(view.mesh);
-    this.muzzle = new THREE.Object3D();
-    this.muzzle.position.copy(view.muzzle);
+    this.fp = createSoldier(player.team, { detail: 'full', hideHead: true });
+    this.fp.mesh.castShadow = this.fp.gunMesh.castShadow = false;
+    this.holder.add(this.fp.root);
+    this.muzzle = this.fp.muzzle;
     this.muzzle.add(this.flash);
-    this.holder.add(this.muzzle);
-    this.holder.position.copy(HIP.position);
 
     this.setLoadout(CONFIG.loadouts[0]);
   }
@@ -137,29 +131,27 @@ export class Weapon {
   // dip while reloading or swapping.
   pose(dt, input) {
     const a = this.adsAmount, loose = 1 - a * 0.85;
-    const speed = this.player.grounded ? Math.min(1, this.player.horizontal.length() / CONFIG.move.walkSpeed) : 0;
+    const p = this.player;
+    const speed = p.grounded ? Math.min(1, p.horizontal.length() / CONFIG.move.walkSpeed) : 0;
     this.bob += dt * (4 + speed * 7);
     this.sway.x += (THREE.MathUtils.clamp(-input.lookX * 2, -0.1, 0.1) - this.sway.x) * (1 - Math.exp(-dt * 10));
     this.sway.y += (THREE.MathUtils.clamp(input.lookY * 2, -0.1, 0.1) - this.sway.y) * (1 - Math.exp(-dt * 10));
 
+    // Pose the first-person soldier exactly as the third-person one, except
+    // that the camera supplies the pitch and the gun comes down off the eye
+    // when not aiming.
     const lowered = this.reloading > 0
       ? Math.sin((1 - this.reloading / this.def.reloadSeconds) * Math.PI)
       : this.swapping > 0 ? this.swapping / SWAP_SECONDS : 0;
-
-    // Sprinting: the rifle swings down and across, out of the way.
-    const sprinting = this.player.sprintBlend * (1 - a);
-
-    const h = this.holder;
-    h.position.lerpVectors(HIP.position, ZERO, a);
-    h.position.x -= 0.25 * sprinting;
-    h.position.y -= 0.3 * sprinting;
-    h.position.x += (Math.cos(this.bob * 0.5) * 0.02 * speed + this.sway.x) * loose;
-    h.position.y += (Math.sin(this.bob) * 0.016 * speed + this.sway.y - Math.sin(this.bob * 0.35) * 0.005) * loose - lowered * 0.55;
-    h.position.z += this.kick * 0.12 * (1 - a * 0.5);
-    h.rotation.set(
-      HIP.pitch * (1 - a) + this.kick * 0.06 * (1 - a * 0.6) - lowered * 0.7 - 0.3 * sprinting,
-      HIP.yaw * (1 - a) + this.sway.x * 0.4 * loose + 0.45 * sprinting,
-      HIP.roll * (1 - a) + lowered * 0.3 - 0.25 * sprinting);
+    setGun(this.fp, this.def.model, 'full');
+    animateSoldier(this.fp, p.walkPhase, p.runBlend, p.horizontal.length() / CONFIG.move.walkSpeed, {
+      pitch: 0, kick: this.kick, reload: lowered, sprint: p.sprintBlend * (1 - a), ads: a,
+    });
+    this.fp.root.position.copy(this.fp.eye).negate(); // his eye at the camera
+    this.holder.position.set(
+      (Math.cos(this.bob * 0.5) * 0.02 * speed + this.sway.x) * loose,
+      (Math.sin(this.bob) * 0.016 * speed + this.sway.y) * loose,
+      0);
     this.flash.visible = this.cooldown > 1 / this.def.fireRate - 0.035;
     this.flash.scale.setScalar(0.7 + Math.random() * 0.9);
   }

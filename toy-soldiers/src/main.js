@@ -7,7 +7,7 @@ import { buildRoom } from './world/Room.js';
 import { buildMap01, SPAWNS } from './world/map01.js';
 import { Lighting } from './world/Lighting.js';
 import { Player } from './entities/Player.js';
-import { preloadSoldier } from './entities/FigureSoldier.js';
+import { preloadSoldier, animateSoldier } from './entities/RiggedSoldier.js';
 import { Bot } from './entities/Bot.js';
 import { CameraRig } from './systems/CameraRig.js';
 import { Weapon } from './systems/Weapon.js';
@@ -217,10 +217,11 @@ async function boot() {
     weapon.render(renderer, scene, lighting);
   });
 
-  window.__game = { ctx, resolution, settings, menu, get paused() { return paused; }, scene, physics, player, bots, rig, weapon, lighting, input, renderer, match: ctx.match };
+  window.__game = { ctx, animateSoldier, resolution, settings, menu, get paused() { return paused; }, scene, physics, player, bots, rig, weapon, lighting, input, renderer, match: ctx.match };
 }
 
 boot().catch((err) => {
   console.error(err);
-  document.getElementById('overlay-status').textContent = `Failed to start: ${err.message}`;
+  const button = document.getElementById('btn-play');
+  if (button) button.textContent = `Failed to start: ${err.message}`;
 });

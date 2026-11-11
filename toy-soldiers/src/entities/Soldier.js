@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 import { CONFIG } from '../config.js';
 import { RAPIER } from '../core/Physics.js';
-import { createSoldier, animateSoldier } from './FigureSoldier.js';
+import { createSoldier, animateSoldier, setGun } from './RiggedSoldier.js';
 
 const { soldier: S, move: M, jetpack: J } = CONFIG;
 const HALF = S.height / 2;
@@ -220,6 +220,7 @@ export class Soldier {
     this.sprintBlend += ((sprinting ? 1 : 0) - this.sprintBlend) * ease;
     this.reloadBlend += ((this.isReloading ? 1 : 0) - this.reloadBlend) * ease;
     this.kick *= Math.exp(-dt * 16);
+    setGun(m, this.gunModel ?? CONFIG.weapons.rifle.model);
     animateSoldier(m, this.walkPhase, this.runBlend, speed / M.walkSpeed, {
       sprint: this.sprintBlend, reload: this.reloadBlend, kick: this.kick, pitch: this.pitch,
     });

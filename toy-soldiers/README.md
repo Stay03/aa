@@ -50,7 +50,7 @@ Open the printed URL in a desktop browser and click to play.
 - Three climbable ropes: a shoelace up the bed, a jump rope up the desk, twine up to the roof of the toy chest. The jetpack reaches the bed but not the desk.
 - Synthesised sound: gunshots (positional for other soldiers), plastic shatter, hit marker, footsteps, reload, jetpack.
 - Day and night lighting presets with a blend between them.
-- A first-person view of the soldier's own arms and rifle with usable sights, drawn in its own pass so it never clips into walls.
+- A first-person view of the soldier's own arms and gun, aiming through its red-dot sight, drawn in its own pass so it never clips into walls.
 - Start, pause and result screens. Pausing freezes the match and offers resume, restart and settings.
 - Settings saved in the browser: bot difficulty, look sensitivity, invert look, field of view, volume, default camera, time of day, resolution, anti-aliasing (applies after a reload), shadow quality.
 - Keyboard/mouse and gamepad input.
@@ -59,28 +59,24 @@ Open the printed URL in a desktop browser and click to play.
 
 - Grenades and unlocks.
 - Bots using the jetpack or climbing; they stay on the floor.
-- Different first-person and third-person models per weapon, a kneeling pose, and sourced models for the other toys.
+- Gun models for the scatter gun, long shot and sidearm (all four weapons show the Bren), a kneeling pose, and sourced models for the other toys.
 - Multiplayer.
 - The random-spill map generator.
 
-## Soldier model and credits
+## Soldier, guns and credits
 
-The soldier in the game is **pose 40 of "US Soldier Set 05" by Dolphin-GS**, a free download supplied by the project owner (credit to Dolphin-GS requested). Which figure the game uses is set by `soldier.model` in `src/config.js`; if that figure's files are missing, the game falls back to the `shooting` figure.
+The soldier is a gun-less character mesh with a skeleton, holding a separate gun model, so guns can be swapped per weapon.
 
-Two earlier figures by **nimproductions** ("Modern Soldier Shooting" and "Modern Soldier Relaxed", [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) are also converted and kept for comparison. All credits are in `public/models/soldier/CREDITS.txt`.
+- **Soldier**: the "genAssault" model supplied by the project owner (`assets-src/genAssault.c4d`). `tools/c4d2glb.mjs` reads the mesh and its levels of detail straight out of the Cinema 4D file and measures where the joints are.
+- **Gun**: CZ Bren 2 by **Studio-Svoboda** (`assets-src/czbren2.glb`, credit requested). `tools/gun2glb.mjs` turns and scales it and measures the points a soldier needs: both grips, the butt, the sight line and the muzzle.
+- **Skeleton and movement** are made in the game (`src/entities/RiggedSoldier.js`): 18 bones, skin weights computed from the measured joints, a run cycle, the spine following the aim, and both arms solved every frame to reach the gun's grips wherever the gun is (aiming, recoil, reload, sprint carry). Soldiers break into one piece per bone when shot.
+- **First person** is a second copy of the player's soldier at full detail with the head hidden, seen from his eye, so it always matches what others see.
 
-`tools/stl2glb.mjs` converts a sculpt (STL or OBJ): it welds the mesh, recomputes normals, removes a moulded base if there is one, scales the figure to 6 cm, points its weapon forward, measures its joints and rifle, and writes a full-detail version and a 20,000-triangle game version.
+To add a gun: `node tools/gun2glb.mjs <gun.glb> public/models/guns/<name> --length <cm> --grip <material> --fore <material> --stock <material> --sight <material> --barrel <material>`, then set `model: '<name>'` on a weapon in `src/config.js`. All four weapons currently use the Bren.
 
-The sculpt is a single rigid pose. To make it run, the converter measures where the hips, knees and ankles are, and the game gives the legs a small skeleton and skins the mesh to it (`src/entities/FigureSoldier.js`). Standing still, the figure is exactly the sculpt; moving, the legs stride. The rifle and both arms move as one piece from the shoulders: they follow the aim up and down, kick on each shot, dip to reload, and drop low across the body when sprinting. Soldiers still break into pieces and melt when shot.
+Earlier static figures (nimproductions, CC BY 4.0; Dolphin-GS) are kept in `public/models/soldier/` for the gallery. All credits: `public/models/soldier/CREDITS.txt` and `public/models/guns/CREDITS.txt`. Kenney's CC0 models are in `public/models/kenney/`.
 
-First person shows the soldier's own arms and rifle, cut from the full-detail figure, so the view matches the toy. Every weapon therefore shows the figure's rifle; the weapons differ in how they fire.
-
-![Run cycle](docs/run-cycle.png)
-![Upper-body poses: rest, aim up, aim down, recoil, reload, sprint](docs/upper-body-poses.png)
-
-To convert another figure: `node tools/stl2glb.mjs <file.stl or .obj> public/models/soldier/<name> --up z` (use `--up -z` if it comes out upside down), then set `soldier.model` to `<name>`.
-
-Kenney's CC0 models (kenney.nl) are in `public/models/kenney/`, each pack with its `License.txt`.
+![Poses: standing, quarter view, aiming up, running, sprinting, reloading](docs/run-cycle.png)
 
 ## Model gallery
 
@@ -106,8 +102,9 @@ Kenney's CC0 models (kenney.nl) are in `public/models/kenney/`, each pack with i
 | `src/config.js` | Scale and all tuning numbers |
 | `src/core/` | Input (keyboard, mouse, gamepad), saved settings, automatic resolution and the physics wrapper |
 | `src/world/` | Room, toy factories, map 01 placement, static-mesh baking, lighting, materials |
-| `src/entities/` | Soldier base class, the sculpted soldier figure (skeleton, run cycle, first-person view), player, bot |
-| `tools/` | `stl2glb.mjs`, the STL-to-game-model converter, and `analyze.mjs`, which measures the figure's joints and rifle |
+| `src/entities/` | Soldier base class, the rigged soldier (skeleton, skinning, posing, gun holding), player, bot |
+| `tools/` | Asset converters: `c4d2glb.mjs` (soldier from Cinema 4D), `gun2glb.mjs` (guns), `stl2glb.mjs` (static sculpts) |
+| `assets-src/` | The original model files the converters read |
 | `src/systems/` | Camera rig, weapon, combat, navigation grid, match rules, audio, effects |
 | `src/ui/` | HUD and menus |
 

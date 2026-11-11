@@ -1,0 +1,8 @@
+bren.glb, bren-lod.glb
+
+CZ Bren 2 rifle by Studio-Svoboda (free download from CGTrader; the page
+asks for credit to Studio-Svoboda). Supplied by the project owner.
+Source file: assets-src/czbren2.glb.
+Changes: parts merged, turned to point down -z, rescaled, the sight glass
+removed so it can be looked through, a simplified version generated, and
+hold points measured (tools/gun2glb.mjs). Recoloured in-game.
