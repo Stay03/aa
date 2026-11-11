@@ -1,0 +1,59 @@
+<!doctype html>
+<meta charset="utf-8" />
+<title>Mixamo converter</title>
+<canvas id="c" width="900" height="600"></canvas>
+<script type="module">
+// Runs in a browser, driven by tools/mixamo2glb.cjs. Loads the Mixamo
+// character (.dae or .fbx) and any animation .fbx files, strips textures,
+// and hands back one .glb holding the skinned mesh and every clip.
+import * as THREE from 'three';
+import { ColladaLoader } from 'three/addons/loaders/ColladaLoader.js';
+import { FBXLoader } from 'three/addons/loaders/FBXLoader.js';
+import { GLTFExporter } from 'three/addons/exporters/GLTFExporter.js';
+
+const manager = new THREE.LoadingManager();
+manager.setURLModifier((url) => (/\.(png|jpe?g|tga|tif)$/i.test(url) ? 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==' : url));
+const bone = (n) => n.replace(/^mixamorig[:_]?/, '');
+
+window.convert = async ({ character, animations }) => {
+  const root = character.endsWith('.dae') ? (await new ColladaLoader(manager).loadAsync(character)).scene : await new FBXLoader(manager).loadAsync(character);
+  const plain = new THREE.MeshStandardMaterial({ color: 0xffffff });
+  let tris = 0, bones = 0;
+  root.traverse((o) => {
+    if (o.isBone) { o.name = bone(o.name); bones++; }
+    if (o.isMesh) { o.material = plain; tris += (o.geometry.index ? o.geometry.index.count : o.geometry.getAttribute('position').count) / 3; for (const k of ['uv', 'uv1', 'uv2', 'color', 'tangent']) o.geometry.deleteAttribute(k); }
+  });
+  const clips = [];
+  for (const [name, url] of animations) {
+    const fbx = await new FBXLoader(manager).loadAsync(url);
+    const clip = fbx.animations.sort((a, b) => b.duration - a.duration)[0];
+    clip.name = name;
+    // Keep rotations for every bone and position only for the hips.
+    clip.tracks = clip.tracks.filter((t) => { t.name = bone(t.name); return t.name.endsWith('.quaternion') || t.name === 'Hips.position'; });
+    clips.push(clip);
+  }
+  const scene = new THREE.Scene();
+  scene.add(root);
+  root.updateMatrixWorld(true);
+  const box = new THREE.Box3().setFromObject(root);
+  // Preview render.
+  const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('c'), antialias: true });
+  scene.background = new THREE.Color(0xbcd4e6);
+  const sun = new THREE.DirectionalLight(0xffffff, 2.5);
+  sun.position.set(2, 4, 5);
+  scene.add(new THREE.HemisphereLight(0xffffff, 0x777777, 2), sun);
+  const size = box.getSize(new THREE.Vector3()), mid = box.getCenter(new THREE.Vector3());
+  const cam = new THREE.PerspectiveCamera(35, 1.5, size.y / 100, size.y * 20);
+  cam.position.set(mid.x + size.y * 0.9, mid.y + size.y * 0.15, mid.z + size.y * 1.9);
+  cam.lookAt(mid);
+  root.traverse((o) => { if (o.isMesh) o.material = new THREE.MeshStandardMaterial({ color: 0x3f7d3a, roughness: 0.45 }); });
+  renderer.render(scene, cam);
+  root.traverse((o) => { if (o.isMesh) o.material = plain; });
+
+  const glb = await new GLTFExporter().parseAsync(root, { binary: true, animations: clips });
+  let s = ''; const u8 = new Uint8Array(glb);
+  for (let i = 0; i < u8.length; i += 0x8000) s += String.fromCharCode.apply(null, u8.subarray(i, i + 0x8000));
+  return { base64: btoa(s), tris, bones, size: size.toArray(), min: box.min.toArray(), clips: clips.map((c) => `${c.name} ${c.duration.toFixed(2)}s`) };
+};
+window.ready = true;
+</script>
