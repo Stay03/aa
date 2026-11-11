@@ -14,6 +14,8 @@ export class Input {
     this.mouseDY = 0;
     this.pressedQueue = new Set();
     this.prevPad = {};
+    this.sensitivity = 1; // from Settings
+    this.invertY = false;
 
     this.state = {
       moveX: 0, moveZ: 0, lookX: 0, lookY: 0,
@@ -25,7 +27,7 @@ export class Input {
       if (e.repeat) return;
       this.keys.add(e.code);
       const edge = {
-        Space: 'jump', KeyR: 'reload', KeyV: 'toggleCamera', KeyN: 'toggleTime', KeyQ: 'swap',
+        Space: 'jump', Escape: 'pause', KeyR: 'reload', KeyV: 'toggleCamera', KeyN: 'toggleTime', KeyQ: 'swap',
         Digit1: 'loadout1', Digit2: 'loadout2', Digit3: 'loadout3',
       }[e.code];
       if (edge) this.pressedQueue.add(edge);
@@ -61,8 +63,9 @@ export class Input {
 
     s.moveX = (k.has('KeyD') ? 1 : 0) - (k.has('KeyA') ? 1 : 0);
     s.moveZ = (k.has('KeyW') ? 1 : 0) - (k.has('KeyS') ? 1 : 0);
-    s.lookX = this.mouseDX * CONFIG.camera.mouseSensitivity;
-    s.lookY = this.mouseDY * CONFIG.camera.mouseSensitivity;
+    const flip = this.invertY ? -1 : 1;
+    s.lookX = this.mouseDX * CONFIG.camera.mouseSensitivity * this.sensitivity;
+    s.lookY = this.mouseDY * CONFIG.camera.mouseSensitivity * this.sensitivity * flip;
     this.mouseDX = 0;
     this.mouseDY = 0;
     s.jump = k.has('Space');
@@ -81,9 +84,9 @@ export class Input {
       const mx = dz(pad.axes[0] ?? 0);
       const mz = -dz(pad.axes[1] ?? 0);
       if (mx || mz) { s.moveX = mx; s.moveZ = mz; }
-      const stick = CONFIG.camera.stickSensitivity * dt;
+      const stick = CONFIG.camera.stickSensitivity * this.sensitivity * dt;
       s.lookX += dz(pad.axes[2] ?? 0) * stick;
-      s.lookY += dz(pad.axes[3] ?? 0) * stick;
+      s.lookY += dz(pad.axes[3] ?? 0) * stick * flip;
       s.jump ||= b(0);
       s.sprint ||= b(10);
       s.fire ||= b(7);
@@ -93,6 +96,7 @@ export class Input {
       edge(3, 'toggleCamera');
       edge(12, 'toggleTime');
       edge(5, 'swap');
+      edge(9, 'pause');
       edge(14, 'loadoutPrev');
       edge(15, 'loadoutNext');
     }

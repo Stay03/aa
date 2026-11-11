@@ -4,6 +4,12 @@ export class Audio {
   constructor() {
     this.ctx = null;
     this.jetGain = null;
+    this.volume = 0.5;
+  }
+
+  setVolume(v) {
+    this.volume = v;
+    if (this.master) this.master.gain.value = v;
   }
 
   // Must be called from a user gesture (browser autoplay rules).
@@ -13,7 +19,7 @@ export class Audio {
       if (!AC) return;
       this.ctx = new AC();
       this.master = this.ctx.createGain();
-      this.master.gain.value = 0.5;
+      this.master.gain.value = this.volume;
       this.master.connect(this.ctx.destination);
 
       const len = this.ctx.sampleRate;

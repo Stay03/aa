@@ -16,6 +16,8 @@ import { NavGrid } from './systems/NavGrid.js';
 import { Match } from './systems/Match.js';
 import { Audio } from './systems/Audio.js';
 import { Hud } from './ui/Hud.js';
+import { Menu } from './ui/Menu.js';
+import { Settings } from './core/Settings.js';
 
 const FIXED_DT = 1 / 60;
 
@@ -59,27 +61,70 @@ async function boot() {
 
   const input = new Input(renderer.domElement);
   const hud = new Hud();
+  const settings = new Settings();
+  let paused = false;
+  let loadoutIndex = 0;
+
+  const begin = () => {
+    paused = false;
+    menu.hide();
+    ctx.audio.resume();
+    input.lockPointer();
+  };
+  const menu = new Menu(settings, {
+    onPlay: () => { ctx.match.start(); begin(); },
+    onRestart: () => { ctx.match.start(); begin(); },
+    onResume: () => begin(),
+    onLoadout: (i) => pickLoadout(i),
+  });
 
   // The chosen loadout takes effect at the next spawn, as in any class shooter.
-  let loadoutIndex = 0;
   const pickLoadout = (i) => {
     loadoutIndex = (i + CONFIG.loadouts.length) % CONFIG.loadouts.length;
-    hud.selectLoadout(loadoutIndex);
+    menu.selectLoadout(loadoutIndex);
   };
-  hud.buildLoadouts(pickLoadout);
   pickLoadout(0);
   player.onRespawn = () => weapon.setLoadout(CONFIG.loadouts[loadoutIndex]);
-  hud.ready(() => {
-    ctx.audio.resume();
-    ctx.match.start();
-    input.lockPointer();
-  });
-  ctx.match.onEnd = (winner) => {
-    document.exitPointerLock?.();
-    ctx.audio.jet(false);
-    hud.showResult(winner, ctx.match.score);
+
+  // Settings -> systems. Runs once for every key at boot, then on each change.
+  const apply = {
+    sensitivity: (v) => { input.sensitivity = v; },
+    invertY: (v) => { input.invertY = v; },
+    volume: (v) => ctx.audio.setVolume(v),
+    fov: (v) => { rig.baseFov = v; },
+    difficulty: (v) => { ctx.difficulty = CONFIG.difficulty[v] ?? CONFIG.difficulty.normal; },
+    shadows: (v) => lighting.setShadowQuality(v),
+    night: (v) => lighting.setNight(v),
+    thirdPerson: (v) => { rig.thirdPerson = v; },
   };
-  renderer.domElement.addEventListener('click', () => { if (ctx.match.playing) input.lockPointer(); });
+  for (const key of Object.keys(apply)) apply[key](settings.get(key));
+  settings.onChange = (key, value) => apply[key]?.(value);
+  lighting.t = lighting.target; // start in the saved time of day, no fade
+  lighting.apply();
+
+  const pause = () => {
+    if (!ctx.match.playing || paused) return;
+    paused = true;
+    ctx.audio.jet(false);
+    if (document.pointerLockElement) document.exitPointerLock();
+    const { green, tan } = ctx.match.score;
+    menu.show('pause', { sub: `Green ${green} – ${tan} Tan` });
+  };
+  // Esc releases the mouse in every browser; treat losing it as a pause.
+  document.addEventListener('pointerlockchange', () => { if (!document.pointerLockElement) pause(); });
+  addEventListener('blur', pause);
+
+  ctx.match.onEnd = (winner) => {
+    if (document.pointerLockElement) document.exitPointerLock();
+    ctx.audio.jet(false);
+    const { green, tan } = ctx.match.score;
+    menu.show('result', {
+      title: winner === 'draw' ? 'DRAW' : winner === 'green' ? 'VICTORY' : 'DEFEAT',
+      sub: `Green ${green} – ${tan} Tan`,
+    });
+  };
+  renderer.domElement.addEventListener('click', () => { if (ctx.match.playing && !paused) input.lockPointer(); });
+  menu.show('start');
 
   addEventListener('resize', () => {
     renderer.setSize(innerWidth, innerHeight);
@@ -98,18 +143,26 @@ async function boot() {
     if (fpsAcc >= 0.5) { fps = Math.round(fpsFrames / fpsAcc); fpsAcc = 0; fpsFrames = 0; }
 
     const s = input.update(dt);
-    const playing = ctx.match.playing;
-    if (s.pressed.has('toggleCamera')) rig.toggle();
-    if (s.pressed.has('toggleTime')) lighting.toggle();
-    for (let i = 0; i < CONFIG.loadouts.length; i++) if (s.pressed.has(`loadout${i + 1}`)) pickLoadout(i);
-    if (s.pressed.has('loadoutPrev')) pickLoadout(loadoutIndex - 1);
-    if (s.pressed.has('loadoutNext')) pickLoadout(loadoutIndex + 1);
+    if (s.pressed.has('pause')) {
+      if (paused) begin(); else pause();
+    }
+    const playing = ctx.match.playing && !paused;
+    if (playing) {
+      if (s.pressed.has('toggleCamera')) settings.set('thirdPerson', !rig.thirdPerson);
+      if (s.pressed.has('toggleTime')) settings.set('night', !lighting.isNight);
+    }
+    if (!paused) {
+      for (let i = 0; i < CONFIG.loadouts.length; i++) if (s.pressed.has(`loadout${i + 1}`)) pickLoadout(i);
+      if (s.pressed.has('loadoutPrev')) pickLoadout(loadoutIndex - 1);
+      if (s.pressed.has('loadoutNext')) pickLoadout(loadoutIndex + 1);
+    }
     // Scale look speed with zoom so a scoped view is not twitchy.
-    const zoom = rig.camera.fov / CONFIG.camera.fov;
+    const zoom = rig.camera.fov / rig.baseFov;
     if (playing) player.look(s.lookX * zoom, s.lookY * zoom);
 
     // Fixed-step simulation; edge-triggered presses are consumed by the first step.
-    acc += dt;
+    // While paused nothing simulates and the match clock stands still.
+    acc = paused ? 0 : acc + dt;
     let stepped = false;
     while (acc >= FIXED_DT) {
       const idle = { ...s, moveX: 0, moveZ: 0, jump: false, pressed: noPresses };
@@ -128,13 +181,13 @@ async function boot() {
     if (playing) weapon.update(dt, s);
     ctx.audio.setListener(rig.camera, rig.forward);
 
-    ctx.effects.update(dt);
+    if (!paused) ctx.effects.update(dt);
     lighting.update(dt);
     hud.update({ weapon, player, rig, lighting, match: ctx.match, fps, nextLoadout: CONFIG.loadouts[loadoutIndex] });
     renderer.render(scene, rig.camera);
   });
 
-  window.__game = { ctx, scene, physics, player, bots, rig, weapon, lighting, input, renderer, match: ctx.match };
+  window.__game = { ctx, settings, menu, get paused() { return paused; }, scene, physics, player, bots, rig, weapon, lighting, input, renderer, match: ctx.match };
 }
 
 boot().catch((err) => {

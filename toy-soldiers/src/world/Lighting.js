@@ -72,7 +72,16 @@ export class Lighting {
 
   get isNight() { return this.target === 1; }
 
-  toggle() { this.target = this.target === 1 ? 0 : 1; }
+  setNight(night) { this.target = night ? 1 : 0; }
+
+  setShadowQuality(level) {
+    const size = { low: 1024, medium: 2048, high: 4096 }[level] ?? 4096;
+    for (const [light, s] of [[this.sun, size], [this.lamp, size / 2]]) {
+      light.shadow.mapSize.set(s, s);
+      light.shadow.map?.dispose();
+      light.shadow.map = null;
+    }
+  }
 
   update(dt) {
     if (this.t === this.target) return;

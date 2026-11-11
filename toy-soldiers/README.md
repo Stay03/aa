@@ -32,6 +32,7 @@ Open the printed URL in a desktop browser and click to play.
 | Climb a rope | Walk into it, hold forward | Same |
 | First / third person | V | Y |
 | Day / night | N | D-pad up |
+| Pause | Esc | Start |
 
 ## What is in this build
 
@@ -46,6 +47,8 @@ Open the printed URL in a desktop browser and click to play.
 - Three climbable ropes: a shoelace up the bed, a jump rope up the desk, twine up to the roof of the toy chest. The jetpack reaches the bed but not the desk.
 - Synthesised sound: gunshots (positional for other soldiers), plastic shatter, hit marker, footsteps, reload, jetpack.
 - Day and night lighting presets with a blend between them.
+- Start, pause and result screens. Pausing freezes the match and offers resume, restart and settings.
+- Settings saved in the browser: bot difficulty, look sensitivity, invert look, field of view, volume, default camera, time of day, shadow quality.
 - Keyboard/mouse and gamepad input.
 
 ## Not built yet
@@ -53,7 +56,6 @@ Open the printed URL in a desktop browser and click to play.
 - Grenades and unlocks.
 - Bots using the jetpack or climbing; they stay on the floor.
 - Sourced toy models; everything is currently generated in code.
-- Menus and settings (sensitivity, volume, difficulty).
 - Multiplayer.
 - The random-spill map generator.
 
@@ -62,10 +64,10 @@ Open the printed URL in a desktop browser and click to play.
 | Path | Purpose |
 |---|---|
 | `src/config.js` | Scale and all tuning numbers |
-| `src/core/` | Input (keyboard, mouse, gamepad) and the physics wrapper |
+| `src/core/` | Input (keyboard, mouse, gamepad), saved settings and the physics wrapper |
 | `src/world/` | Room, toy factories, map 01 placement, lighting, materials |
 | `src/entities/` | Soldier base class and model, player, bot |
 | `src/systems/` | Camera rig, weapon, combat, navigation grid, match rules, audio, effects |
-| `src/ui/` | HUD |
+| `src/ui/` | HUD and menus |
 
 World units are centimetres.

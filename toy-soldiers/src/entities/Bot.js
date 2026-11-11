@@ -108,7 +108,7 @@ export class Bot extends Soldier {
     this.cooldown -= dt;
 
     const turn = angleDiff(faceYaw, this.yaw);
-    this.yaw += Math.sign(turn) * Math.min(Math.abs(turn), B.turnRate * dt);
+    this.yaw += Math.sign(turn) * Math.min(Math.abs(turn), this.ctx.difficulty.turnRate * dt);
 
     this.unstick(dt, wishX || wishZ);
     this.moveStep(dt, wishX, wishZ, this.wantJump, false);
@@ -135,7 +135,8 @@ export class Bot extends Soldier {
       }
     }
     if (best && best !== this.enemy) {
-      this.reaction = B.reaction[0] + Math.random() * (B.reaction[1] - B.reaction[0]);
+      const [lo, hi] = this.ctx.difficulty.reaction;
+      this.reaction = lo + Math.random() * (hi - lo);
     }
     this.enemy = best;
     if (best) {
@@ -205,7 +206,7 @@ export class Bot extends Soldier {
     if (def.auto && --this.burstLeft <= 0) this.burstPause = 0.35 + Math.random() * 0.6;
 
     // The bot's own aiming mistake, shared by every pellet of the shot.
-    const err = B.aimError * def.botAim;
+    const err = this.ctx.difficulty.aimError * def.botAim;
     this.eye(_eye);
     _dir.copy(this.enemy.position).sub(_eye).normalize();
     _dir.x += (Math.random() - 0.5) * 2 * err;
@@ -215,7 +216,7 @@ export class Bot extends Soldier {
     this.model.muzzle.getWorldPosition(_muzzle);
     this.ctx.combat.fire(this, _eye, _dir, _muzzle, def, {
       spread: def.pellets > 1 ? def.hipSpread : 0,
-      damageScale: B.damageScale,
+      damageScale: this.ctx.difficulty.damageScale,
     });
   }
 

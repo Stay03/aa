@@ -13,6 +13,7 @@ export class CameraRig {
     this.camera.rotation.order = 'YXZ';
     ctx.scene.add(this.camera);
     this.thirdPerson = false;
+    this.baseFov = C.fov;    // from Settings
     this.distance = 0;       // current boom length, smoothed
     this.aimOffset = 0;      // how far in front of the camera the aim ray should start
     this.forward = new THREE.Vector3();
@@ -27,7 +28,7 @@ export class CameraRig {
     cam.rotation.set(p.pitch, p.yaw, 0);
     cam.getWorldDirection(this.forward);
 
-    const targetFov = aiming ? adsFov : C.fov;
+    const targetFov = aiming ? Math.min(adsFov, this.baseFov) : this.baseFov;
     if (Math.abs(cam.fov - targetFov) > 0.05) {
       cam.fov += (targetFov - cam.fov) * (1 - Math.exp(-dt * 16));
       cam.updateProjectionMatrix();

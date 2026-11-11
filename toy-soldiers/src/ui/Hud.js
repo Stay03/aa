@@ -1,5 +1,3 @@
-import { CONFIG } from '../config.js';
-
 const $ = (id) => document.getElementById(id);
 const clock = (s) => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, '0')}`;
 
@@ -7,42 +5,9 @@ export class Hud {
   constructor() {
     this.el = {
       crosshair: $('crosshair'), ammo: $('ammo'), health: $('health'), fuel: $('fuel'),
-      info: $('info'), scope: $('scope'), loadouts: $('loadouts'), score: $('score'), feed: $('feed'), message: $('message'), vignette: $('vignette'),
-      overlay: $('overlay'), title: $('overlay-title'), sub: $('overlay-sub'), status: $('overlay-status'),
+      info: $('info'), scope: $('scope'), score: $('score'), feed: $('feed'), message: $('message'), vignette: $('vignette'),
     };
     this.last = {};
-    this.onStart = null;
-    this.el.overlay.addEventListener('click', () => {
-      if (!this.onStart) return;
-      this.el.overlay.style.display = 'none';
-      this.onStart();
-    });
-  }
-
-  // Loadout buttons on the start/result screen. `onPick(index)` selects one.
-  buildLoadouts(onPick) {
-    CONFIG.loadouts.forEach((l, i) => {
-      const b = document.createElement('button');
-      b.innerHTML = `${i + 1} · ${l.name}<small>${CONFIG.weapons[l.primary].name} + ${CONFIG.weapons[l.secondary].name}</small>`;
-      b.addEventListener('click', (e) => { e.stopPropagation(); onPick(i); });
-      this.el.loadouts.appendChild(b);
-    });
-  }
-
-  selectLoadout(index) {
-    [...this.el.loadouts.children].forEach((b, i) => b.classList.toggle('selected', i === index));
-  }
-
-  ready(onStart) {
-    this.onStart = onStart;
-    this.el.status.textContent = 'Click to play';
-  }
-
-  showResult(winner, score) {
-    this.el.title.textContent = winner === 'draw' ? 'DRAW' : winner === 'green' ? 'VICTORY' : 'DEFEAT';
-    this.el.sub.textContent = `Green ${score.green} – ${score.tan} Tan`;
-    this.el.status.textContent = 'Click to play again';
-    this.el.overlay.style.display = 'flex';
   }
 
   set(key, el, value, html = false, style = null) {

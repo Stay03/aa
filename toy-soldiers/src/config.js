@@ -81,12 +81,16 @@ export const CONFIG = {
   },
 
   bot: {
-    damageScale: 0.3,    // bots hit softer than the player with the same weapon
     maxFireRate: 5,
-    aimError: 0.06,      // radians of random spread on each shot
-    turnRate: 7,         // radians per second
-    reaction: [0.25, 0.55],
     sightRange: 420,
+  },
+
+  // Chosen in Settings. damageScale: how hard bots hit compared with the
+  // player using the same weapon. aimError: radians of error on each shot.
+  difficulty: {
+    easy: { damageScale: 0.18, aimError: 0.09, reaction: [0.5, 0.9], turnRate: 5 },
+    normal: { damageScale: 0.3, aimError: 0.06, reaction: [0.25, 0.55], turnRate: 7 },
+    hard: { damageScale: 0.45, aimError: 0.035, reaction: [0.15, 0.3], turnRate: 9 },
   },
 
   room: { width: 400, depth: 360, height: 250 },
