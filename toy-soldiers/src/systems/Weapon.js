@@ -1,10 +1,13 @@
 import * as THREE from 'three';
 import { CONFIG } from '../config.js';
-import { buildGun } from '../entities/GunModels.js';
-import { TEAM_COLORS } from '../entities/FigureSoldier.js';
+import { createFirstPersonView } from '../entities/FigureSoldier.js';
 
 const SWAP_SECONDS = 0.35;
 const VIEW_FOV = 50;
+// Where the rifle sits when not aiming, relative to looking down its sights:
+// lower and to the right, turned slightly in toward the crosshair.
+const HIP = { position: new THREE.Vector3(0.9, -0.42, 0.0), yaw: 0.16, pitch: 0.03, roll: -0.08 };
+const ZERO = new THREE.Vector3();
 const _v = new THREE.Vector3();
 const _origin = new THREE.Vector3();
 const _from = new THREE.Vector3();
@@ -12,9 +15,12 @@ const _from = new THREE.Vector3();
 // The player's guns: a primary and a secondary from the chosen loadout.
 // All behaviour comes from the weapon's entry in CONFIG.weapons.
 //
-// The first-person gun is drawn in its own small scene with its own camera,
-// on top of the world. That keeps it the same size at any field of view,
-// stops it poking through walls, and lets it sit low in the corner.
+// First person shows the soldier's own arms and rifle, cut from the same
+// sculpted figure everyone else sees, so the view matches the toy. It is
+// drawn in its own small scene with its own camera, on top of the world:
+// that keeps it the same size at any field of view and stops it poking
+// through walls. Every weapon uses the figure's rifle; the weapons differ in
+// how they fire, not in this view.
 export class Weapon {
   constructor(ctx, player, rig) {
     this.ctx = ctx;
@@ -34,17 +40,23 @@ export class Weapon {
     this.sway = new THREE.Vector2();
 
     this.viewScene = new THREE.Scene();
-    this.viewCamera = new THREE.PerspectiveCamera(VIEW_FOV, innerWidth / innerHeight, 0.01, 10);
+    this.viewCamera = new THREE.PerspectiveCamera(VIEW_FOV, innerWidth / innerHeight, 0.03, 20);
     this.viewHemi = new THREE.HemisphereLight();
     this.viewKey = new THREE.DirectionalLight();
     this.viewKey.position.set(-0.6, 1, 0.7);
     this.holder = new THREE.Group();
     this.viewScene.add(this.viewHemi, this.viewKey, this.holder);
     this.flash = new THREE.Mesh(
-      new THREE.SphereGeometry(0.022, 8, 6),
+      new THREE.SphereGeometry(0.09, 8, 6),
       new THREE.MeshBasicMaterial({ color: 0xffe9a0, toneMapped: false }));
     this.flash.visible = false;
-    this.models = {};     // built on first use, one per weapon id
+    const view = createFirstPersonView(player.team);
+    this.holder.add(view.mesh);
+    this.muzzle = new THREE.Object3D();
+    this.muzzle.position.copy(view.muzzle);
+    this.muzzle.add(this.flash);
+    this.holder.add(this.muzzle);
+    this.holder.position.copy(HIP.position);
 
     this.setLoadout(CONFIG.loadouts[0]);
   }
@@ -52,7 +64,6 @@ export class Weapon {
   get slot() { return this.slots[this.index]; }
   get def() { return this.slot.def; }
   get ammo() { return this.slot.ammo; }
-  get model() { return this.models[this.slot.id]; }
 
   setLoadout(loadout) {
     this.loadout = loadout;
@@ -64,7 +75,6 @@ export class Weapon {
     this.cooldown = 0;
     this.reloading = 0;
     this.swapping = 0;
-    this.showModel();
   }
 
   swap() {
@@ -74,16 +84,6 @@ export class Weapon {
     this.swapping = SWAP_SECONDS;
     this.cooldown = 0;
     this.ctx.audio.swap();
-    this.showModel();
-  }
-
-  showModel() {
-    const id = this.slot.id;
-    this.models[id] ??= buildGun(id, TEAM_COLORS[this.player.team]);
-    this.holder.clear();
-    this.holder.add(this.model.group);
-    this.model.muzzle.add(this.flash);
-    this.holder.position.copy(this.model.hip);
   }
 
   startReload() {
@@ -135,25 +135,25 @@ export class Weapon {
   // Place the gun: hip or sights, plus walk bob, look sway, recoil and the
   // dip while reloading or swapping.
   pose(dt, input) {
-    const m = this.model, a = this.adsAmount, loose = 1 - a * 0.85;
+    const a = this.adsAmount, loose = 1 - a * 0.85;
     const speed = this.player.grounded ? Math.min(1, this.player.horizontal.length() / CONFIG.move.walkSpeed) : 0;
     this.bob += dt * (4 + speed * 7);
-    this.sway.x += (THREE.MathUtils.clamp(-input.lookX * 0.6, -0.03, 0.03) - this.sway.x) * (1 - Math.exp(-dt * 10));
-    this.sway.y += (THREE.MathUtils.clamp(input.lookY * 0.6, -0.03, 0.03) - this.sway.y) * (1 - Math.exp(-dt * 10));
+    this.sway.x += (THREE.MathUtils.clamp(-input.lookX * 2, -0.1, 0.1) - this.sway.x) * (1 - Math.exp(-dt * 10));
+    this.sway.y += (THREE.MathUtils.clamp(input.lookY * 2, -0.1, 0.1) - this.sway.y) * (1 - Math.exp(-dt * 10));
 
     const lowered = this.reloading > 0
       ? Math.sin((1 - this.reloading / this.def.reloadSeconds) * Math.PI)
       : this.swapping > 0 ? this.swapping / SWAP_SECONDS : 0;
 
     const h = this.holder;
-    h.position.lerpVectors(m.hip, m.ads, a);
-    h.position.x += (Math.cos(this.bob * 0.5) * 0.006 * speed + this.sway.x) * loose;
-    h.position.y += (Math.sin(this.bob) * 0.005 * speed + this.sway.y - Math.sin(this.bob * 0.35) * 0.0015) * loose - lowered * 0.16;
-    h.position.z += this.kick * 0.035 * (1 - a * 0.5);
+    h.position.lerpVectors(HIP.position, ZERO, a);
+    h.position.x += (Math.cos(this.bob * 0.5) * 0.02 * speed + this.sway.x) * loose;
+    h.position.y += (Math.sin(this.bob) * 0.016 * speed + this.sway.y - Math.sin(this.bob * 0.35) * 0.005) * loose - lowered * 0.55;
+    h.position.z += this.kick * 0.12 * (1 - a * 0.5);
     h.rotation.set(
-      this.kick * 0.07 * (1 - a * 0.6) - lowered * 0.7,
-      0.07 * (1 - a) + this.sway.x * 1.5 * loose,
-      -0.04 * (1 - a) + lowered * 0.3);
+      HIP.pitch * (1 - a) + this.kick * 0.06 * (1 - a * 0.6) - lowered * 0.7,
+      HIP.yaw * (1 - a) + this.sway.x * 0.4 * loose,
+      HIP.roll * (1 - a) + lowered * 0.3);
     this.flash.visible = this.cooldown > 1 / this.def.fireRate - 0.035;
     this.flash.scale.setScalar(0.7 + Math.random() * 0.9);
   }
@@ -165,7 +165,7 @@ export class Weapon {
   // Where the first-person muzzle appears in the world, so tracers start at it.
   muzzleWorld(out) {
     const cam = this.rig.camera;
-    this.model.muzzle.getWorldPosition(_v).project(this.viewCamera);
+    this.muzzle.getWorldPosition(_v).project(this.viewCamera);
     out.set(_v.x, _v.y, 0.5).unproject(cam).sub(cam.position).normalize();
     return out.multiplyScalar(2.5).add(cam.position);
   }

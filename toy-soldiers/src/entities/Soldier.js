@@ -47,6 +47,7 @@ export class Soldier {
     this.climbing = false;
     this.nearClimb = false;
     this.walkPhase = 0;
+    this.runBlend = 0;
 
     this.health = CONFIG.match.health;
     this.sinceDamage = 99;
@@ -206,6 +207,9 @@ export class Soldier {
     m.root.rotation.y = this.yaw;
     const speed = this.horizontal.length();
     this.walkPhase += dt * speed * 0.42;
-    animateSoldier(m, this.walkPhase, this.grounded ? Math.min(1, speed / M.walkSpeed) : 0);
+    // Ease in and out of the run so the legs never snap between poses.
+    const target = this.grounded ? Math.min(1, speed / (M.walkSpeed * 0.6)) : 0.35;
+    this.runBlend += (target - this.runBlend) * (1 - Math.exp(-dt * 12));
+    animateSoldier(m, this.walkPhase, this.runBlend, speed / M.walkSpeed);
   }
 }

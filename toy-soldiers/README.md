@@ -50,7 +50,7 @@ Open the printed URL in a desktop browser and click to play.
 - Three climbable ropes: a shoelace up the bed, a jump rope up the desk, twine up to the roof of the toy chest. The jetpack reaches the bed but not the desk.
 - Synthesised sound: gunshots (positional for other soldiers), plastic shatter, hit marker, footsteps, reload, jetpack.
 - Day and night lighting presets with a blend between them.
-- First-person gun models with hands and working iron sights, drawn in their own pass so they stay small in the corner and never clip into walls.
+- A first-person view of the soldier's own arms and rifle with usable sights, drawn in its own pass so it never clips into walls.
 - Start, pause and result screens. Pausing freezes the match and offers resume, restart and settings.
 - Settings saved in the browser: bot difficulty, look sensitivity, invert look, field of view, volume, default camera, time of day, resolution, anti-aliasing (applies after a reload), shadow quality.
 - Keyboard/mouse and gamepad input.
@@ -59,7 +59,7 @@ Open the printed URL in a desktop browser and click to play.
 
 - Grenades and unlocks.
 - Bots using the jetpack or climbing; they stay on the floor.
-- More soldier poses (run, kneel) and sourced models for the other toys.
+- Different first-person and third-person models per weapon, a kneeling pose, and sourced models for the other toys.
 - Multiplayer.
 - The random-spill map generator.
 
@@ -67,7 +67,11 @@ Open the printed URL in a desktop browser and click to play.
 
 The soldier is **"Modern Soldier Shooting Toy Soldier 3D Print" by nimproductions**, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ([source](https://sketchfab.com/3d-models/f27db3465a0549a5897749b6b521df6b)). It was converted from the 3D-print STL with `tools/stl2glb.mjs`, which welds the mesh, recomputes normals, removes the moulded base, scales the figure to 6 cm, points its weapon forward and writes a 20,000-triangle game version. Details are in `public/models/soldier/CREDITS.txt`.
 
-It is one rigid pose, like a real army man: moving soldiers rock and hop instead of animating limbs, and they still break into pieces and melt when shot.
+The sculpt is a single rigid pose. To make it run, the converter measures where the hips, knees and ankles are, and the game gives the legs a small skeleton and skins the mesh to it (`src/entities/FigureSoldier.js`). Standing still, the figure is exactly the sculpt; moving, the legs stride while the upper body keeps aiming. Soldiers still break into pieces and melt when shot.
+
+First person shows the soldier's own arms and rifle, cut from the full-detail figure, so the view matches the toy. Every weapon therefore shows the figure's rifle; the weapons differ in how they fire.
+
+![Run cycle](docs/run-cycle.png)
 
 To convert another figure: `node tools/stl2glb.mjs <file.stl> public/models/soldier/<name>`.
 
@@ -97,8 +101,8 @@ Kenney's CC0 models (kenney.nl) are in `public/models/kenney/`, each pack with i
 | `src/config.js` | Scale and all tuning numbers |
 | `src/core/` | Input (keyboard, mouse, gamepad), saved settings, automatic resolution and the physics wrapper |
 | `src/world/` | Room, toy factories, map 01 placement, static-mesh baking, lighting, materials |
-| `src/entities/` | Soldier base class, the sculpted soldier figure, first-person gun models, player, bot |
-| `tools/` | `stl2glb.mjs`, the STL-to-game-model converter |
+| `src/entities/` | Soldier base class, the sculpted soldier figure (skeleton, run cycle, first-person view), player, bot |
+| `tools/` | `stl2glb.mjs`, the STL-to-game-model converter, and `analyze.mjs`, which measures the figure's joints and rifle |
 | `src/systems/` | Camera rig, weapon, combat, navigation grid, match rules, audio, effects |
 | `src/ui/` | HUD and menus |
 

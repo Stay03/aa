@@ -6,6 +6,7 @@
 // simplified <out>-lod.glb and <out>.json (muzzle position).
 import { readFileSync, writeFileSync } from 'node:fs';
 import { MeshoptSimplifier } from 'meshoptimizer';
+import { analyze } from './analyze.mjs';
 
 const [input, outBase, ...rest] = process.argv.slice(2);
 const opt = { up: 'z', turn: 0, height: 6, lod: 20000, base: 'remove' };
@@ -81,13 +82,24 @@ for (let i = 0; i < raw.length; i += 3) {
   if (d > far) { far = d; muzzle = [raw[i], raw[i + 1], raw[i + 2]]; }
 }
 if (opt.aim !== 'keep') {
-  const a = Math.atan2(muzzle[0], -muzzle[2]); // angle of the muzzle away from -z
-  const ca = Math.cos(a), sa = Math.sin(a);
-  for (let i = 0; i < raw.length; i += 3) {
-    const x = raw[i], z = raw[i + 2];
-    raw[i] = ca * x + sa * z; raw[i + 2] = -sa * x + ca * z;
-  }
-  muzzle = [0, muzzle[1], -far];
+  const turnY = (a) => {
+    const ca = Math.cos(a), sa = Math.sin(a);
+    for (let i = 0; i < raw.length; i += 3) {
+      const x = raw[i], z = raw[i + 2];
+      raw[i] = ca * x + sa * z; raw[i + 2] = -sa * x + ca * z;
+    }
+  };
+  turnY(Math.atan2(muzzle[0], -muzzle[2])); // roughly: muzzle onto -z
+  // Exactly: fit a line to the barrel (the front quarter of the reach) and
+  // turn so the barrel itself runs along -z.
+  const barrel = [];
+  for (let i = 0; i < raw.length; i += 3) if (raw[i + 1] > opt.height * 0.55 && raw[i + 2] < -far * 0.74) barrel.push([raw[i], raw[i + 2]]);
+  const mx = barrel.reduce((t, p) => t + p[0], 0) / barrel.length, mz = barrel.reduce((t, p) => t + p[1], 0) / barrel.length;
+  let sxz = 0, szz = 0;
+  for (const [x, z] of barrel) { sxz += (x - mx) * (z - mz); szz += (z - mz) * (z - mz); }
+  turnY(-Math.atan(sxz / szz)); // remove the barrel's sideways slope
+  muzzle = [0, 0, 0];
+  for (let i = 0; i < raw.length; i += 3) if (raw[i + 1] > opt.height * 0.55 && raw[i + 2] < muzzle[2]) muzzle = [raw[i], raw[i + 1], raw[i + 2]];
 }
 
 // ---- weld --------------------------------------------------------------------
@@ -167,5 +179,8 @@ await MeshoptSimplifier.ready;
 const [lodIdx, err] = MeshoptSimplifier.simplify(idx, positions, 3, Math.floor(opt.lod) * 3, 0.02);
 // Shade the simplified mesh with the full-detail normals: it keeps the sculpted look.
 console.log(writeGlb(`${outBase}-lod.glb`, compact(lodIdx, full)), `(error ${err.toFixed(4)})`);
-writeFileSync(`${outBase}.json`, JSON.stringify({ muzzle: muzzle.map((v) => +v.toFixed(3)), height: opt.height }));
+const round = (v) => (Array.isArray(v) ? v.map(round) : typeof v === 'number' ? +v.toFixed(3) : v && typeof v === 'object' ? Object.fromEntries(Object.entries(v).map(([k, x]) => [k, round(x)])) : v);
+const measured = analyze(positions);
+writeFileSync(`${outBase}.json`, JSON.stringify(round({ muzzle, height: opt.height, ...measured })));
+console.log(JSON.stringify(round(measured), null, 1));
 console.log(`muzzle at ${muzzle.map((v) => v.toFixed(2)).join(', ')}`);
