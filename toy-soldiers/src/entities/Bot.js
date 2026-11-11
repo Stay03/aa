@@ -172,10 +172,15 @@ export class Bot extends Soldier {
     const end = this.path?.[this.path.length - 1];
     const moved = !end || Math.hypot(end.x - x, end.z - z) > 12;
     if (!this.path || this.repathIn <= 0 || (moved && this.repathIn < 0.9)) {
-      this.path = nav.findPath(this.position.x, this.position.z, x, z);
-      this.pathIndex = 0;
-      this.repathIn = 1.2 + Math.random() * 0.6;
-      if (!this.path) { this.goal = null; return [0, 0]; }
+      const found = nav.requestPath(this.position.x, this.position.z, x, z);
+      if (found !== undefined) { // undefined: no search budget this frame, keep the old path
+        this.path = found;
+        this.pathIndex = 0;
+        this.repathIn = 1.2 + Math.random() * 0.6;
+        if (!found) { this.goal = null; return [0, 0]; }
+      } else if (!this.path) {
+        return [0, 0];
+      }
     }
     while (this.pathIndex < this.path.length) {
       const wp = this.path[this.pathIndex];

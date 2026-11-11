@@ -27,7 +27,7 @@ export class Combat {
       const hit = physics.raycast(origin, _d, RANGE, shooter.collider);
       effects.tracer(muzzlePos, hit ? hit.point : origin.clone().addScaledVector(_d, RANGE));
       if (!hit) continue;
-      effects.impact(hit.point, hit.normal);
+      effects.impact(hit.point, hit.normal, def.pellets > 1 ? 2 : 4);
 
       const victim = hit.owner;
       if (victim?.damage) {

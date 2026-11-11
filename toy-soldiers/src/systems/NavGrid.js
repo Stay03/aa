@@ -18,6 +18,10 @@ export class NavGrid {
     this.stamp = new Uint32Array(this.w * this.h); // search id when opened
     this.closed = new Uint32Array(this.w * this.h);
     this.searchId = 0;
+    // Open-list heap, allocated once. A cell can be pushed more than once.
+    this.heapF = new Float32Array(this.w * this.h * 4);
+    this.heapI = new Int32Array(this.w * this.h * 4);
+    this.budget = 1; // path searches allowed this frame (reset by the main loop)
 
     // A fat capsule hovering just above lids and crayons (things a soldier
     // steps over). Anything it touches blocks the cell.
@@ -77,73 +81,81 @@ export class NavGrid {
     return true;
   }
 
-  // A* over the grid, then string-pulled. Returns [{x, z}, ...] or null.
+  // Budgeted search: at most one per rendered frame across all bots, so a
+  // wave of re-planning (after a kill, say) is spread over several frames.
+  // Returns undefined when the caller should simply try again next frame.
+  requestPath(fromX, fromZ, toX, toZ) {
+    if (this.budget <= 0) return undefined;
+    this.budget--;
+    return this.findPath(fromX, fromZ, toX, toZ);
+  }
+
+  // Weighted A* over the grid, then string-pulled. Returns [{x, z}, ...] or null.
+  // The heuristic is inflated (GREED > 1): the search heads much more directly
+  // for the goal and visits a fraction of the cells, at the price of routes
+  // that can be slightly longer than the true shortest one.
   findPath(fromX, fromZ, toX, toZ) {
     const start = this.nearest(fromX, fromZ);
     const goal = this.nearest(toX, toZ);
     if (start < 0 || goal < 0) return null;
-    const { w, g, parent, stamp, closed } = this;
+    const { w, h, g, parent, stamp, closed, walk, heapF, heapI } = this;
     const id = ++this.searchId;
-    const gi = goal % w, gj = Math.floor(goal / w);
-    const hCost = (idx) => {
-      const dx = Math.abs((idx % w) - gi), dz = Math.abs(Math.floor(idx / w) - gj);
-      return Math.max(dx, dz) + (SQRT2 - 1) * Math.min(dx, dz);
-    };
+    const gi = goal % w, gj = (goal / w) | 0;
+    const GREED = 1.6;
+    let size = 0;
 
-    // Binary heap of [f, idx] pairs stored flat.
-    const heap = [];
     const push = (f, idx) => {
-      let n = heap.length;
-      heap.push(f, idx);
+      if (size >= heapF.length) return; // heap full: drop (cannot happen in practice)
+      let n = size++;
       while (n > 0) {
-        const p = ((n / 2 - 1) >> 1) * 2;
-        if (heap[p] <= heap[n]) break;
-        [heap[p], heap[n]] = [heap[n], heap[p]];
-        [heap[p + 1], heap[n + 1]] = [heap[n + 1], heap[p + 1]];
+        const p = (n - 1) >> 1;
+        if (heapF[p] <= f) break;
+        heapF[n] = heapF[p]; heapI[n] = heapI[p];
         n = p;
       }
+      heapF[n] = f; heapI[n] = idx;
     };
     const pop = () => {
-      const top = heap[1];
-      const lastI = heap.pop(), lastF = heap.pop();
-      if (heap.length) {
-        heap[0] = lastF; heap[1] = lastI;
-        let n = 0;
-        for (;;) {
-          const l = n * 2 + 2, r = l + 2;
-          let m = n;
-          if (l < heap.length && heap[l] < heap[m]) m = l;
-          if (r < heap.length && heap[r] < heap[m]) m = r;
-          if (m === n) break;
-          [heap[m], heap[n]] = [heap[n], heap[m]];
-          [heap[m + 1], heap[n + 1]] = [heap[n + 1], heap[m + 1]];
-          n = m;
-        }
+      const top = heapI[0];
+      const f = heapF[--size], idx = heapI[size];
+      let n = 0;
+      for (;;) {
+        let c = n * 2 + 1;
+        if (c >= size) break;
+        if (c + 1 < size && heapF[c + 1] < heapF[c]) c++;
+        if (heapF[c] >= f) break;
+        heapF[n] = heapF[c]; heapI[n] = heapI[c];
+        n = c;
       }
+      heapF[n] = f; heapI[n] = idx;
       return top;
     };
 
     g[start] = 0; parent[start] = -1; stamp[start] = id;
-    push(hCost(start), start);
+    push(0, start);
     let found = false;
-    while (heap.length) {
+    while (size > 0) {
       const cur = pop();
       if (closed[cur] === id) continue;
       closed[cur] = id;
       if (cur === goal) { found = true; break; }
-      const ci = cur % w, cj = Math.floor(cur / w);
+      const ci = cur % w, cj = (cur / w) | 0;
+      const gc = g[cur];
       for (let dj = -1; dj <= 1; dj++) {
+        const nj = cj + dj;
+        if (nj < 0 || nj >= h) continue;
         for (let di = -1; di <= 1; di++) {
-          if (!di && !dj) continue;
-          const ni = ci + di, nj = cj + dj;
-          if (!this.ok(ni, nj)) continue;
-          if (di && dj && (!this.ok(ci + di, cj) || !this.ok(ci, cj + dj))) continue; // no corner cutting
+          const ni = ci + di;
+          if ((!di && !dj) || ni < 0 || ni >= w) continue;
           const n = nj * w + ni;
-          if (closed[n] === id) continue;
-          const cost = g[cur] + (di && dj ? SQRT2 : 1);
+          if (walk[n] !== 1 || closed[n] === id) continue;
+          const diagonal = di !== 0 && dj !== 0;
+          if (diagonal && (walk[cj * w + ni] !== 1 || walk[nj * w + ci] !== 1)) continue; // no corner cutting
+          const cost = gc + (diagonal ? SQRT2 : 1);
           if (stamp[n] !== id || cost < g[n]) {
             g[n] = cost; parent[n] = cur; stamp[n] = id;
-            push(cost + hCost(n), n);
+            const dx = Math.abs(ni - gi), dz = Math.abs(nj - gj);
+            push(cost + GREED * (Math.max(dx, dz) + (SQRT2 - 1) * Math.min(dx, dz)), n);
           }
         }
       }
@@ -154,12 +166,13 @@ export class NavGrid {
     for (let n = goal; n !== -1; n = parent[n]) raw.push(this.point(n));
     raw.reverse();
 
-    // String pulling: skip waypoints that can be reached in a straight line.
+    // String pulling: from each kept waypoint, walk forward while the next
+    // one is still reachable in a straight line. Linear in the path length.
     const path = [];
     let a = 0;
     while (a < raw.length - 1) {
-      let b = raw.length - 1;
-      while (b > a + 1 && !this.lineClear(raw[a].x, raw[a].z, raw[b].x, raw[b].z)) b--;
+      let b = a + 1;
+      while (b + 1 < raw.length && this.lineClear(raw[a].x, raw[a].z, raw[b + 1].x, raw[b + 1].z)) b++;
       path.push(raw[b]);
       a = b;
     }

@@ -67,6 +67,10 @@ Open the printed URL in a desktop browser and click to play.
 - Static geometry (the room and every toy that never moves) is merged into one mesh per material at load, and all alphabet-block faces share one texture. This took the frame from about 1,800 draw calls to about 170.
 - Each soldier is three meshes instead of fifteen.
 - Shadow maps refresh on alternate frames, and the lamp's only at night.
+- Tracers and impact chips are two pooled instanced meshes, so a firefight adds no objects. A dying soldier's pieces share one material and cast no shadows.
+- Weapon and shatter sounds are rendered into buffers once, then played back, instead of building a synth graph per shot.
+- Route-finding is a weighted A* on typed arrays, limited to one search per frame across all bots.
+- The simulation runs at most three catch-up steps per frame, and all shaders are compiled at load.
 - Resolution is automatic by default: it drops the pixel density when the frame rate falls below about 50 and raises it again when there is headroom. The HUD shows the current percentage.
 
 ## Layout

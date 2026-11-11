@@ -8,20 +8,22 @@ export class Resolution {
   constructor(renderer) {
     this.renderer = renderer;
     this.max = Math.min(window.devicePixelRatio || 1, 2);
+    this.autoMax = Math.min(this.max, 1.5); // Auto never pushes past this: it leaves headroom for busy moments
     this.mode = 'auto';
-    this.scale = Math.min(this.max, 1.5);
-    this.ceiling = this.max;   // highest scale known not to cause a drop
+    this.scale = this.autoMax;
+    this.ceiling = this.autoMax;   // highest scale known not to cause a drop
     this.time = 0;
     this.frames = 0;
     this.goodSeconds = 0;
+    this.badSeconds = 0;
     renderer.setPixelRatio(this.scale);
   }
 
   setMode(mode) {
     this.mode = mode;
-    this.ceiling = this.max;
+    this.ceiling = this.autoMax;
     this.goodSeconds = 0;
-    this.set(mode === 'auto' ? Math.min(this.max, 1.5) : this.max * FIXED[mode]);
+    this.set(mode === 'auto' ? this.autoMax : this.max * FIXED[mode]);
   }
 
   set(scale) {
@@ -42,14 +44,19 @@ export class Resolution {
     this.frames = 0;
 
     if (fps < 50) {
-      // Drop faster the further below target we are.
+      this.goodSeconds = 0;
+      // One slow second is usually a momentary spike, and changing resolution
+      // itself costs a hitch. Only react to a sustained drop.
+      if (++this.badSeconds < 2) return;
+      this.badSeconds = 0;
       this.ceiling = Math.max(MIN, this.scale - 0.05);
       this.set(this.scale * (fps < 35 ? 0.75 : 0.9));
-      this.goodSeconds = 0;
     } else if (fps > 57 && this.scale < this.ceiling) {
+      this.badSeconds = 0;
       if (++this.goodSeconds >= 3) { this.set(this.scale + 0.1); this.goodSeconds = 0; }
     } else {
       this.goodSeconds = 0;
+      this.badSeconds = 0;
     }
   }
 }

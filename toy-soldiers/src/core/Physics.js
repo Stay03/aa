@@ -16,7 +16,8 @@ export class Physics {
     this.world = new RAPIER.World({ x: 0, y: -CONFIG.gravity, z: 0 });
     this.world.timestep = 1 / 60;
     this.dynamic = [];
-    this.owners = new Map(); // collider handle -> gameplay object (e.g. a Target)
+    this.owners = new Map(); // collider handle -> gameplay object (a Soldier)
+    this.ray = new RAPIER.Ray({ x: 0, y: 0, z: 0 }, { x: 0, y: 0, z: 1 });
   }
 
   _body(mesh, dynamic) {
@@ -69,7 +70,9 @@ export class Physics {
   }
 
   raycast(origin, dir, maxDist, excludeCollider) {
-    const ray = new RAPIER.Ray(origin, dir);
+    const ray = this.ray;
+    ray.origin.x = origin.x; ray.origin.y = origin.y; ray.origin.z = origin.z;
+    ray.dir.x = dir.x; ray.dir.y = dir.y; ray.dir.z = dir.z;
     const hit = this.world.castRayAndGetNormal(ray, maxDist, true, undefined, undefined, excludeCollider);
     if (!hit) return null;
     const d = hit.timeOfImpact;

@@ -22,6 +22,7 @@ import { Resolution } from './core/Resolution.js';
 import { bakeStatic } from './world/bake.js';
 
 const FIXED_DT = 1 / 60;
+const MAX_STEPS = 3;
 
 async function boot() {
   const renderer = new THREE.WebGLRenderer({ antialias: true, powerPreference: 'high-performance' });
@@ -138,6 +139,10 @@ async function boot() {
     weapon.resize();
   });
 
+  // Compile every shader now, so nothing compiles mid-fight.
+  renderer.compile(scene, rig.camera);
+  renderer.compile(weapon.viewScene, weapon.viewCamera);
+
   const timer = new THREE.Timer();
   const noPresses = new Set();
   let acc = 0, fps = 60, fpsAcc = 0, fpsFrames = 0;
@@ -172,6 +177,10 @@ async function boot() {
     // While paused nothing simulates and the match clock stands still.
     acc = paused ? 0 : acc + dt;
     let stepped = false;
+    // At most MAX_STEPS per frame: after a slow frame, catching up on every
+    // missed step would make the next frame slow too.
+    if (acc > FIXED_DT * MAX_STEPS) acc = FIXED_DT * MAX_STEPS;
+    ctx.nav.budget = 1; // one route search per frame, shared by all bots
     while (acc >= FIXED_DT) {
       const idle = { ...s, moveX: 0, moveZ: 0, jump: false, pressed: noPresses };
       player.fixedUpdate(FIXED_DT, !playing ? idle : stepped ? { ...s, pressed: noPresses } : s);
